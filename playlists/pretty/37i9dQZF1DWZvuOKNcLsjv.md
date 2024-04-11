@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 注目の国内外ネクスト・ヒットをいち早く。 cover: j\-hope
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,485 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,498 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 51 | [ゆびきりげんまん](https://open.spotify.com/track/35YBZYXQebaMD7nsunmxZW) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [ゆびきりげんまん](https://open.spotify.com/album/4xAbEcApkjPGf8GsvRn37L) | 5:21 |
 | 52 | [エイプリル](https://open.spotify.com/track/67OBdMqlj5l0uH9ecygVsg) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [エイプリル](https://open.spotify.com/album/4c09u5oh0kaguj5CNkpfpF) | 2:59 |
 | 53 | [escaper](https://open.spotify.com/track/2Mm4RrOBvZe7tWEeWk4R6i) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [escaper](https://open.spotify.com/album/1N6dcviDSU9kWkqHOizc1Z) | 3:19 |
-| 54 | [Mary Boone](https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Mary Boone](https://open.spotify.com/album/3BeMjbziyS6lCFnSel4Tsz) | 4:26 |
+| 54 | [Mary Boone](https://open.spotify.com/track/6OjwIdLlkjCLuOThOwODEY) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:26 |
 | 55 | [Outside Of Love](https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/6JWxQD4dgbOzeS278kgcS3) | 2:55 |
 | 56 | [lil' freak](https://open.spotify.com/track/6guIMfoWJvsCXQxNsAtWPN) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [lil' freak](https://open.spotify.com/album/3sEThxFC8DglKnXEokpmww) | 2:48 |
 | 57 | [Ready To Fight](https://open.spotify.com/track/0unSFECh7Y97Kt61ZGHSly) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [DRIVE MY DREAMS](https://open.spotify.com/album/1QOxEYdOCWw8OELJ7Lr3PV) | 2:52 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 79 | [マーガレット](https://open.spotify.com/track/2Bkkl5nQXfApA8gZAGumqZ) | [Blue Mash](https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07) | [マーガレット](https://open.spotify.com/album/4kImCH3F6sEZW4dUJcKG6R) | 4:20 |
 | 80 | [Heartache](https://open.spotify.com/track/2CkmKBhCxS03RSg7EJej5a) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Heartache](https://open.spotify.com/album/3IYn6QYeiJKGgXswxQA2HG) | 3:29 |
 
-Snapshot ID: `MCw3ZmI4YTViNzA5M2NmNTI0YmZmOThjMWIxNWEzODI2NzEwZWExNTA1`
+Snapshot ID: `MCxmM2Q0ZWVmNTI5MDJmOTY0YThkMGMwZGVkZjMzMDU4NDQzOTA3ZmMx`

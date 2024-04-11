@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cCqTKPWY5o.md) - [plain]
 
 > Move it and groove it to these great tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,782 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,789 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cCqTKPWY5o.md) - [plain]
 | 20 | [Summer Baby](https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:41 |
 | 21 | [Move Your Feet / D.A.N.C.E\. / It's A Sunshine Day](https://open.spotify.com/track/6d3edMXJpns1A0zGKkmlGw) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [James Corden](https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P), [Ron Funches](https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP), [Walt Dohrn](https://open.spotify.com/artist/4hWc4epxTdb1KC3jRd1wDd), [Caroline Hjelt](https://open.spotify.com/artist/0XF3yeiKSQF2zl5H05jfME), [Aino Jawo](https://open.spotify.com/artist/6aIcl5XVRwk32v6hc7lDyV), [Kunal Nayyar](https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 2:36 |
 | 22 | [Good Mood \- Original Song From Paw Patrol: The Movie](https://open.spotify.com/track/4uX1pkSuSidzJxT4eWL7x1) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Good Mood \(Original Song From Paw Patrol: The Movie\)](https://open.spotify.com/album/5YQDkKa0fHnIYnVdfrQLqI) | 3:30 |
-| 23 | [The Fox \(What Does the Fox Say?\)](https://open.spotify.com/track/5HOpkTTVcmZHnthgyxrIL8) | [Ylvis](https://open.spotify.com/artist/2lEOFtf3cCyzomQcMHJGfZ) | [The Fox \(What Does the Fox Say?\)](https://open.spotify.com/album/77QwsMRvonZJn7adV47V78) | 3:33 |
-| 24 | [Dancing In The Dark \- From The "Home" Soundtrack](https://open.spotify.com/track/3nlVjrlLMJHC7Flf9impf9) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Home \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Hc9zEVvu3wOJXI5YVhXe2) | 3:43 |
+| 23 | [Dancing In The Dark \- From The "Home" Soundtrack](https://open.spotify.com/track/3nlVjrlLMJHC7Flf9impf9) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Home \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Hc9zEVvu3wOJXI5YVhXe2) | 3:43 |
+| 24 | [The Fox \(What Does the Fox Say?\)](https://open.spotify.com/track/5HOpkTTVcmZHnthgyxrIL8) | [Ylvis](https://open.spotify.com/artist/2lEOFtf3cCyzomQcMHJGfZ) | [The Fox \(What Does the Fox Say?\)](https://open.spotify.com/album/77QwsMRvonZJn7adV47V78) | 3:33 |
 | 25 | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ) | 3:08 |
 | 26 | [Y.M.C.A.](https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Cruisin'](https://open.spotify.com/album/3kdp1PnxkKlshMP3qG2CUG) | 4:46 |
 | 27 | [Hey Ya!](https://open.spotify.com/track/3AszgPDZd9q0DpDFt4HFBy) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [The Way You Move / Hey Ya!](https://open.spotify.com/album/7etFl9qeqjD0luC40JAg8l) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cCqTKPWY5o.md) - [plain]
 | 49 | [Get up and Dance](https://open.spotify.com/track/6uORDdsI0OqnCyFvCfTbRj) | [L.O.L\. Surprise!](https://open.spotify.com/artist/6btXT8tLHT0YBuHGi8rao7) | [Fierce](https://open.spotify.com/album/1bO0wTjjrJKMb8vODa2AtD) | 2:17 |
 | 50 | [Show Me Your Pony Moves](https://open.spotify.com/track/0WQwpn59mnW2KQ6tZWsNNA) | [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Bridlewoodstock](https://open.spotify.com/album/6eTEvCZHwiMXMpLgVcU8zs) | 1:40 |
 
-Snapshot ID: `MCxkMWE4OGQ2NDQxYzBhZDI0NTE2MzljOTZiNGE1ZTU0OTMyMjFiMWQx`
+Snapshot ID: `MCwwODdlNzgyMzk5MDViMGQzNjBlYjhhZmYyYTY0NjM2YWFkMmY4ZjVj`

@@ -4,7 +4,7 @@
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-137 songs - 9 hr 6 min
+138 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Diamonds on the Soles of Her Shoes \(Abridged Version\) \[Bonus Track\]](https://open.spotify.com/track/21uQrdwqR2AdN9gNP9b4dL) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Walking in the Footsteps of Our Fathers](https://open.spotify.com/album/5PRZaO2vN4ENcXrFmCpT5r) | 1:38 | 2022-06-04 |  |
 | [Diamonds on the Soles of Her Shoes \- Live at Hyde Park, London, UK \- July 2012](https://open.spotify.com/track/4XcXpnbNeYom3p24r29NLG) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Concert in Hyde Park](https://open.spotify.com/album/1gC1DUPevviDhQ7hnmTZ89) | 6:29 | 2022-01-24 | 2024-02-20 |
 | [Different Colors Mean Nothing to Me \(Unkulunkulu Wethu\)](https://open.spotify.com/track/16SpALi3uf6RfumCDoiTKK) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Songs of Peace & Love for Kids & Parents Around the World](https://open.spotify.com/album/31FxGtQiNwg7OUkEZ2WA9Q) | 6:37 | 2022-03-09 | 2022-03-11 |
-| [Dlondlobala Njalo](https://open.spotify.com/track/67Ey8t5US5jijGZZnfOfeZ) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Lihl' Ixhiba Likagogo \(My Grandmother's Kitchen\)](https://open.spotify.com/album/2mTxloMTnWHXML3dGLyiDt) | 4:16 | 2024-03-27 |  |
+| [Dlondlobala Njalo](https://open.spotify.com/track/67Ey8t5US5jijGZZnfOfeZ) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Lihl' Ixhiba Likagogo \(My Grandmother's Kitchen\)](https://open.spotify.com/album/2mTxloMTnWHXML3dGLyiDt) | 4:16 | 2024-03-27 | 2024-04-11 |
 | [Eden's House](https://open.spotify.com/track/74nPMKhOnrBnFhYNfq3gDI) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Mind The Moon](https://open.spotify.com/album/3msNbiI057b6ypzeOTjgxJ) | 3:51 | 2021-12-28 |  |
 | [Eden's House \(feat\. Ladysmith Black Mambazo\)](https://open.spotify.com/track/020ljSU54GRVxKX0A9yKc0) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Mind The Moon](https://open.spotify.com/album/4IVcJES0Og7KzrtA70DgC2) | 3:51 | 2023-08-02 | 2023-10-11 |
 | [Everything's So Stupid! \(Abadala\)](https://open.spotify.com/track/5W5J4ma1uwWWa0pqElLcpv) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Songs of Peace & Love for Kids & Parents Around the World](https://open.spotify.com/album/31FxGtQiNwg7OUkEZ2WA9Q) | 6:12 | 2021-12-28 | 2022-11-09 |
@@ -90,6 +90,7 @@
 | [Neria](https://open.spotify.com/track/2WvXv4HvAc3giCyj79UdSt) | [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Neria](https://open.spotify.com/album/5B7lY3JZxODBU5wiC3q8E2) | 5:57 | 2021-12-28 | 2022-09-30 |
 | [Ngingenwe Emoyeni](https://open.spotify.com/track/1x7kjDyShNDBGvR1U2siok) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Thandani](https://open.spotify.com/album/5CpTO5gyFU1s8NjWBdUIX1) | 4:09 | 2022-10-10 | 2023-07-15 |
 | [Ngingenwe Emoyeni](https://open.spotify.com/track/2XnI4DE2k0uINOtFONuPzo) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/5i0jyzlxb4i9fPXYNE2qkD) | 4:09 | 2021-12-28 | 2022-10-09 |
+| [Ngithunyiwe Kini](https://open.spotify.com/track/4HKHR5K4KrIeRFHe1hhOFB) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ezulwini Siyakhona](https://open.spotify.com/album/2VOZDi18mx1k4feiFSXOD6) | 3:34 | 2024-04-11 |  |
 | [Nkosi Sikelel'](https://open.spotify.com/track/7tvVT1CqKFIORGGSHze4ih) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Favourites](https://open.spotify.com/album/5j95AoT8sEKEPEv3Hv1F4q) | 2:23 | 2021-12-28 | 2022-05-29 |
 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/0iB3VQaspXWa6ckESoxORk) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/762kiGdkfn4IAxwVrvs5Cw) | 3:30 | 2022-10-05 | 2022-10-25 |
 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF) | 3:30 | 2022-10-24 |  |

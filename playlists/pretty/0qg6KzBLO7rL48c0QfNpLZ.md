@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 94,416 likes - 218 songs - 10 hr 1 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 94,948 likes - 218 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,4 +227,4 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 217 | [Hold This Memory](https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Hold This Memory](https://open.spotify.com/album/7G39pVt7Ed3PTkC0tHw7QG) | 2:40 |
 | 218 | [Craving](https://open.spotify.com/track/7hMbTPIYxu9q2yFN92Kz29) | [Who](https://open.spotify.com/artist/5kd3KjfO9uFcNDvuGJRXsU) | [Craving](https://open.spotify.com/album/2MlYAECsEqKtHcKAT3fXKX) | 2:29 |
 
-Snapshot ID: `NTQ0OCw5Mjg0NTkyYjY4OTkwMzE3ZTY1Y2FhMWM1MjZiOTFmMzUyMTNlMTRk`
+Snapshot ID: `NTQ0OSxlNDkzYWYzNGIyZGIxOWZhNzg4ZTlhZmVjNDdjZmZlNzA2ZjVjZTJl`

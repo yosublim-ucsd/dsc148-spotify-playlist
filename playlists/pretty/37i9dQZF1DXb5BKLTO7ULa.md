@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Roxy Dekker
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,354 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,383 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 61 | [United States Of Division](https://open.spotify.com/track/42IywCSd29OYc49Nfpxzcb) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [United States Of Division](https://open.spotify.com/album/2SCgxaMeSnN22J653SEp6Q) | 6:18 |
 | 62 | [Son](https://open.spotify.com/track/3qyBGhzXPbHSHjmEIqHo8S) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Ultrasound](https://open.spotify.com/album/1v6HKSKJ0gblCPbmsRQoRT) | 5:28 |
 | 63 | [Nostalgie](https://open.spotify.com/track/70QBnYP5lr1nhF3isSOJfj) | [JOB](https://open.spotify.com/artist/5sSYwtZlYFqpTnHjjxxEXB) | [Nostalgie](https://open.spotify.com/album/6yzNzeMjpMasaeYtoVsmeD) | 2:42 |
-| 64 | [Bend Ova](https://open.spotify.com/track/7vxzJ7LY47UoeE5PhSVAyb) | [Tur\-G](https://open.spotify.com/artist/3ront3zvcdInux0rUVQLF2), [Issairo](https://open.spotify.com/artist/5plDUJR66Vb8TYzXu9L1YV) | [Bend Ova](https://open.spotify.com/album/3l2ECZd9XAWZJux9B3ayIF) | 1:50 |
+| 64 | [Bend Ova](https://open.spotify.com/track/7vxzJ7LY47UoeE5PhSVAyb) | [Tur\-G](https://open.spotify.com/artist/3ront3zvcdInux0rUVQLF2), [Issairo](https://open.spotify.com/artist/5plDUJR66Vb8TYzXu9L1YV) | [Bend Ova/Pop It](https://open.spotify.com/album/3l2ECZd9XAWZJux9B3ayIF) | 1:50 |
 | 65 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
 | 66 | [Who You Are](https://open.spotify.com/track/5MwDoIuuvsNLjqvl0UEeqi) | [I am Aisha](https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf), [PRISKA](https://open.spotify.com/artist/2VnNxgnvg9H85vWtZuBo6w), [Cané](https://open.spotify.com/artist/5fCEdL4vmhOgT1d4wNmfSZ) | [Who You Are](https://open.spotify.com/album/468maKBcGVvlyjVrjbZp8Y) | 2:40 |
 | 67 | [SO EASY \- Radio Edit](https://open.spotify.com/track/4Z5igGvfyftnH9j0IePsnl) | [Säm Wilder](https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B), [Leela Rosa](https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66) | [SO EASY](https://open.spotify.com/album/7Awfv95wCFRRriRdsQOOim) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Cherish](https://open.spotify.com/track/256duzyAQ2cgNI0Bh89K0m) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Cherish](https://open.spotify.com/album/5OVwztAS3zX3ufTgXZNA8R) | 2:28 |
 | 100 | [Point of View](https://open.spotify.com/track/6aF81cWRsSIK0lF7sirYat) | [Okke Punt](https://open.spotify.com/artist/62eGoLRCLKqObqDkLfYDVP) | [Point of View](https://open.spotify.com/album/6fBdzISWaqSWYjiT3H5TXO) | 3:53 |
 
-Snapshot ID: `MCwzNTg1ZDE4MzQwMDcyNTQwNjJmYzM0NjEyMzMyNmQwYzgyNzE0NmE3`
+Snapshot ID: `MCw5YTJjZGQ4ODc2YTFhZWY5YmZkNzVmZjdmODIyYTRiNTlkMzAzYTNm`

@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 154197,
+  "num_followers": 154292,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWIxYmFhOWIzMWMwMDE2MTcxZWJkYmYxMGRkMDEzNWFlODU4MmQ5",
+  "snapshot_id": "MCxkMzUxYzBjNjI5MTU0MTc1OTkzZDU2N2U5M2JlOTMzNDllNTgyZjA1",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -343,18 +343,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Radio Retaliation",
-        "url": "https://open.spotify.com/album/6uhfP1BIgi9P4pkdX7gApL"
+        "name": "Talkie Walkie",
+        "url": "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363"
       },
       "artists": [
         {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
         }
       ],
-      "duration_ms": 288933,
-      "name": "Sweet Tides",
-      "url": "https://open.spotify.com/track/6BlJSNxgtngyE6WAVY87NT"
+      "duration_ms": 291000,
+      "name": "Alone in Kyoto",
+      "url": "https://open.spotify.com/track/40UlFC0dIxv7lAEJaPZLnm"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -391,34 +391,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Talkie Walkie",
-        "url": "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363"
+        "name": "Radio Retaliation",
+        "url": "https://open.spotify.com/album/6uhfP1BIgi9P4pkdX7gApL"
       },
       "artists": [
         {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
         }
       ],
-      "duration_ms": 291000,
-      "name": "Alone in Kyoto",
-      "url": "https://open.spotify.com/track/40UlFC0dIxv7lAEJaPZLnm"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax"
-      },
-      "artists": [
-        {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
-        }
-      ],
-      "duration_ms": 393640,
-      "name": "At the River",
-      "url": "https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9"
+      "duration_ms": 288933,
+      "name": "Sweet Tides",
+      "url": "https://open.spotify.com/track/6BlJSNxgtngyE6WAVY87NT"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -435,6 +419,22 @@
       "duration_ms": 253893,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 393640,
+      "name": "At the River",
+      "url": "https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -979,6 +979,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "H\u00f4tel Costes",
+        "url": "https://open.spotify.com/album/7lp6VEaf4BefnCWv6Qfnf8"
+      },
+      "artists": [
+        {
+          "name": "De-Phazz",
+          "url": "https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN"
+        }
+      ],
+      "duration_ms": 264253,
+      "name": "No jive",
+      "url": "https://open.spotify.com/track/222Ag8me5qQFQ5oDxigDiu"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Felt Mountain",
         "url": "https://open.spotify.com/album/1SVCM1f5fGypJbIixT1Eed"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 277333,
       "name": "Breathe In",
       "url": "https://open.spotify.com/track/03kZca43rgVgphYctcopJU"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "H\u00f4tel Costes",
-        "url": "https://open.spotify.com/album/7lp6VEaf4BefnCWv6Qfnf8"
-      },
-      "artists": [
-        {
-          "name": "De-Phazz",
-          "url": "https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN"
-        }
-      ],
-      "duration_ms": 264253,
-      "name": "No jive",
-      "url": "https://open.spotify.com/track/222Ag8me5qQFQ5oDxigDiu"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "LemonJelly.ky",
-        "url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk"
-      },
-      "artists": [
-        {
-          "name": "Lemon Jelly",
-          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
-        }
-      ],
-      "duration_ms": 401333,
-      "name": "In The Bath",
-      "url": "https://open.spotify.com/track/5FccwnVjJbLIF2azQjCwyP"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Love Pussycats & Carwrecks",
         "url": "https://open.spotify.com/album/5EPPzyZrU8ytrdBJDS95l9"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 290840,
       "name": "Purrfect",
       "url": "https://open.spotify.com/track/7bfMKlkk76s6ou41vmRS9W"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "LemonJelly.ky",
+        "url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk"
+      },
+      "artists": [
+        {
+          "name": "Lemon Jelly",
+          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
+        }
+      ],
+      "duration_ms": 401333,
+      "name": "In The Bath",
+      "url": "https://open.spotify.com/track/5FccwnVjJbLIF2azQjCwyP"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Apricot Morning",
-        "url": "https://open.spotify.com/album/4RQOGfXsV5TVo5hJXNQ5ql"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 284693,
-      "name": "Transatlantic",
-      "url": "https://open.spotify.com/track/0uY3duWVyW02qcq9QhoQZY"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Versus",
         "url": "https://open.spotify.com/album/1iP2GfxXwQyeHw4CZCTBGI"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 252933,
       "name": "I Don't Know What I Can Save You From - R\u00f6yksopp Remix",
       "url": "https://open.spotify.com/track/3DvQTKQ0ydUn5SNYzRL5wr"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Apricot Morning",
+        "url": "https://open.spotify.com/album/4RQOGfXsV5TVo5hJXNQ5ql"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 284693,
+      "name": "Transatlantic",
+      "url": "https://open.spotify.com/track/0uY3duWVyW02qcq9QhoQZY"
     },
     {
       "added_at": "2020-09-04 01:12:56",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nos vemos del 6 al 10 de Marzo! Cinco d\u00edas de m\u00fasica en recintos ic\u00f3nicos de la CDMX. Compra tus boletos <a href=\"https://lnk.bio/pitchforkcdmx\"> aqu\u00ed</a>. ",
-  "num_followers": 39454,
+  "num_followers": 39449,
   "original_name": "Pitchfork Music Festival CDMX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjI0OTAyOWU4OWI1MTg4MTA0MmE4MDkxZmZlNmUzNzk3NjQwZGFi",
+  "snapshot_id": "MCw3MDZhMTU3NGEwZTkyNTRmZjZiYTM5NzBiODMwMTE5ZjlkZTVjNGJh",
   "tracks": [
     {
       "added_at": "2024-02-16 18:40:38",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Il Visore Lunatique",
-        "url": "https://open.spotify.com/album/60D6qJWgHKFXYJ7gf8ZRtQ"
-      },
-      "artists": [
-        {
-          "name": "Descartes A Kant",
-          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
-        }
-      ],
-      "duration_ms": 186693,
-      "name": "The Peter Pan Syndrome",
-      "url": "https://open.spotify.com/track/4MYP2luuQPOoK4JPHnfMmR"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "El Morroeste",
         "url": "https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Habits EP",
-        "url": "https://open.spotify.com/album/0GMbhSy7bxfov0ZbiJcoMm"
+        "name": "Il Visore Lunatique",
+        "url": "https://open.spotify.com/album/60D6qJWgHKFXYJ7gf8ZRtQ"
       },
       "artists": [
         {
-          "name": "NOIA",
-          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
+          "name": "Descartes A Kant",
+          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
         }
       ],
-      "duration_ms": 181203,
-      "name": "Itaca Tropical",
-      "url": "https://open.spotify.com/track/06hXume0bdbFHdbdl7BTbG"
+      "duration_ms": 186693,
+      "name": "The Peter Pan Syndrome",
+      "url": "https://open.spotify.com/track/4MYP2luuQPOoK4JPHnfMmR"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -995,6 +979,22 @@
       "duration_ms": 283674,
       "name": "Goldie",
       "url": "https://open.spotify.com/track/0NwKqhgmPMrhELT4zlE1eR"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Habits EP",
+        "url": "https://open.spotify.com/album/0GMbhSy7bxfov0ZbiJcoMm"
+      },
+      "artists": [
+        {
+          "name": "NOIA",
+          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
+        }
+      ],
+      "duration_ms": 181203,
+      "name": "Itaca Tropical",
+      "url": "https://open.spotify.com/track/06hXume0bdbFHdbdl7BTbG"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "gisela",
-        "url": "https://open.spotify.com/album/2bAuw1nc2csrMfpTFeatCR"
-      },
-      "artists": [
-        {
-          "name": "NOIA",
-          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
-        }
-      ],
-      "duration_ms": 190293,
-      "name": "reveal yourself",
-      "url": "https://open.spotify.com/track/0YjRE5ut3J4exRx40kLtg6"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Parted Plains",
         "url": "https://open.spotify.com/album/2CY7iodG7q2mC8C6GbMeTq"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 224697,
       "name": "Love-liesse",
       "url": "https://open.spotify.com/track/6AODhOVcNWM2V92aINFwVM"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "gisela",
+        "url": "https://open.spotify.com/album/2bAuw1nc2csrMfpTFeatCR"
+      },
+      "artists": [
+        {
+          "name": "NOIA",
+          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
+        }
+      ],
+      "duration_ms": 190293,
+      "name": "reveal yourself",
+      "url": "https://open.spotify.com/track/0YjRE5ut3J4exRx40kLtg6"
     },
     {
       "added_at": "2024-02-16 18:40:38",

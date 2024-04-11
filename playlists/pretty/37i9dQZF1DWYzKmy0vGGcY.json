@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James.",
-  "num_followers": 296246,
+  "num_followers": 296391,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGE1YmY5NGYzMmUzZDI0ODg1MmIzNzkwMmYxOTFjODg0NTU3MGE5",
+  "snapshot_id": "MCxmNzBiMWFjYmM4YmZmMDUxYmMwNGY2OWYwYWU4NTJjNGQxZDViY2Zl",
   "tracks": [
     {
       "added_at": "2022-05-30 13:00:37",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "When a Man Loves a Woman",
-        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "I'll Cry If I Want To",
         "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 138000,
       "name": "Misty",
       "url": "https://open.spotify.com/track/2exbololsmP1XM2gmBEvAW"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "When a Man Loves a Woman",
+        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "The First Time Ever I Saw Your Face",
-      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Green, Green Grass Of Home",
         "url": "https://open.spotify.com/album/15QRC2FhT659a5YJIS0Nff"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 184893,
       "name": "Green Green Grass Of Home",
       "url": "https://open.spotify.com/track/5BFWQXNGPYadZxNKxY1UfU"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "The First Time Ever I Saw Your Face",
+      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -739,18 +739,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Horizontal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05"
+        "name": "Album 1700",
+        "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
       },
       "artists": [
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
         }
       ],
-      "duration_ms": 198453,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/07PIhdmyYIw8dMeDMsx9FU"
+      "duration_ms": 207240,
+      "name": "Leaving on a Jet Plane",
+      "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -771,18 +771,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Album 1700",
-        "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
+        "name": "Horizontal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05"
       },
       "artists": [
         {
-          "name": "Peter, Paul and Mary",
-          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         }
       ],
-      "duration_ms": 207240,
-      "name": "Leaving on a Jet Plane",
-      "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
+      "duration_ms": 198453,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/07PIhdmyYIw8dMeDMsx9FU"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "I Left My Heart In San Francisco",
-        "url": "https://open.spotify.com/album/64CGgldzMUCxdkvmDb3OU7"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 170960,
-      "name": "(I Left My Heart) In San Francisco",
-      "url": "https://open.spotify.com/track/1bYItjcPRtxZs6Ir71O5RB"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Chronology",
         "url": "https://open.spotify.com/album/5LUcaJu2OGKCCABM4kgSMj"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 162160,
       "name": "Sealed With A Kiss",
       "url": "https://open.spotify.com/track/6oM4ryXpuZmbFfBv2sEe7v"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "I Left My Heart In San Francisco",
+        "url": "https://open.spotify.com/album/64CGgldzMUCxdkvmDb3OU7"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 170960,
+      "name": "(I Left My Heart) In San Francisco",
+      "url": "https://open.spotify.com/track/1bYItjcPRtxZs6Ir71O5RB"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Horizontal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 146906,
-      "name": "Massachusetts - Stereo Version",
-      "url": "https://open.spotify.com/track/3o7k5Mcdi0PFAXICTqjxra"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 273573,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/3NW1YMA8kfNVTzGJCGBS8m"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Horizontal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 146906,
+      "name": "Massachusetts - Stereo Version",
+      "url": "https://open.spotify.com/track/3o7k5Mcdi0PFAXICTqjxra"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/4m2IsYNy4ZeSpw9WPrTo9F"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "Harbor Lights",
-      "url": "https://open.spotify.com/track/3bZGw3sNQ1rQoosJzr7G2e"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "For Your Precious Love...",
         "url": "https://open.spotify.com/album/2PHrZGSFqrXwJ4RM5svp4T"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 165626,
       "name": "For Your Precious Love",
       "url": "https://open.spotify.com/track/4HiOvJ1lASRijDaaqtZQ9N"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/4m2IsYNy4ZeSpw9WPrTo9F"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 194866,
+      "name": "Harbor Lights",
+      "url": "https://open.spotify.com/track/3bZGw3sNQ1rQoosJzr7G2e"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1789,22 +1789,6 @@
       "url": "https://open.spotify.com/track/7FwkoTz8Ic8C5YaE9XXGIU"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Ketty Lester Presenting Love Letters",
-        "url": "https://open.spotify.com/album/3u5x4ufBilwbvdf6qt61yF"
-      },
-      "artists": [
-        {
-          "name": "Ketty Lester",
-          "url": "https://open.spotify.com/artist/36pJnWrcvAsoWm6fUqGaHi"
-        }
-      ],
-      "duration_ms": 156733,
-      "name": "Love Letters",
-      "url": "https://open.spotify.com/track/7uqrG7OormbZVoLhFY9bLx"
-    },
-    {
       "added_at": "2022-09-12 04:55:49",
       "album": {
         "name": "The Essential Elvis Presley",
@@ -1819,6 +1803,22 @@
       "duration_ms": 189373,
       "name": "If I Can Dream - Stereo Mix",
       "url": "https://open.spotify.com/track/1UFC110Pt7YQsgeDbmllyx"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Ketty Lester Presenting Love Letters",
+        "url": "https://open.spotify.com/album/3u5x4ufBilwbvdf6qt61yF"
+      },
+      "artists": [
+        {
+          "name": "Ketty Lester",
+          "url": "https://open.spotify.com/artist/36pJnWrcvAsoWm6fUqGaHi"
+        }
+      ],
+      "duration_ms": 156733,
+      "name": "Love Letters",
+      "url": "https://open.spotify.com/track/7uqrG7OormbZVoLhFY9bLx"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1867,6 +1867,22 @@
       "duration_ms": 259079,
       "name": "Love In Vain - Remastered 2019",
       "url": "https://open.spotify.com/track/0mobySzkSudnm0PdUcOSWq"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Drifters: Essentials",
+        "url": "https://open.spotify.com/album/2IjXA36aeQYOzAJgDomUa1"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 151560,
+      "name": "This Magic Moment",
+      "url": "https://open.spotify.com/track/3LYmUfoFdycnJTrV20GeEm"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1931,22 +1947,6 @@
       "duration_ms": 172813,
       "name": "Fool for You",
       "url": "https://open.spotify.com/track/7ppPgpUdNPbHhuqYwN2SXu"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "The Drifters: Essentials",
-        "url": "https://open.spotify.com/album/2IjXA36aeQYOzAJgDomUa1"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 151560,
-      "name": "This Magic Moment",
-      "url": "https://open.spotify.com/track/3LYmUfoFdycnJTrV20GeEm"
     },
     {
       "added_at": "2022-05-30 13:00:37",

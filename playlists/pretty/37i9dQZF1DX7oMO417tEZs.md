@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > gems by artists carving their own lane\. cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,597 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,658 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [I Just Want To Wake Up With You](https://open.spotify.com/track/4VbxqW1m5lNy15fa6o22fO) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [I Just Want To Wake Up With You](https://open.spotify.com/album/4kgN9BT3xXwqohp9IRpr1d) | 3:50 |
 | 100 | [sapon](https://open.spotify.com/track/5hNK7NeURb8ZVYBD2vZuiU) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [sapon](https://open.spotify.com/album/1Dlo15YbEjGlLb0vTAfMBV) | 3:10 |
 
-Snapshot ID: `MCw4ODhlMDI4YjMwOTYzNmY4YzhkM2FmZTk2ZmQyM2RjNTdmOTIxODQ0`
+Snapshot ID: `MCw2ZDkyMzk5NWFkMDg5NzI0NTM3Y2QxY2Y1NDYxNWI4NGE4OTc0MjIy`

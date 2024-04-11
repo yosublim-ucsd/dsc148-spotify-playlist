@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,500 likes - 150 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,521 likes - 150 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 149 | [Where Would I Be](https://open.spotify.com/track/6oAlchGEsM9sqbpEeVrIxA) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Where Would I Be](https://open.spotify.com/album/3TsuS8ao3G2Q3HdNF16Iq5) | 4:04 |
 | 150 | [Remember Me My Lord](https://open.spotify.com/track/0TmWgjV5ipkl906KUPw1UL) | [Cocoy Claravall](https://open.spotify.com/artist/7or90S16MNx8VogdeOqlKq), [Paul Tagle](https://open.spotify.com/artist/2mElsd377gxOFa8sDNYK93) | [Remember Me My Lord](https://open.spotify.com/album/6yvfzk36IpK6sujZy4OGY8) | 5:09 |
 
-Snapshot ID: `MCw4NDJhYTdmY2NkZjFmNzQ5Nzc2YjIzNmQ0ZmZiYjU0YzcxOTgyMzY1`
+Snapshot ID: `MCxiMDY5OTQ4NzFhZjAyMTkwNGI0OTIxN2IwMTllYzZhOGM4ZmUxOWU0`

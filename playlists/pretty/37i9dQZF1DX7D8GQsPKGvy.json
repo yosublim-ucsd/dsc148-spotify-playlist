@@ -1,12 +1,12 @@
 {
   "description": "Remixed hits from the past.",
-  "num_followers": 846355,
+  "num_followers": 846763,
   "original_name": "Remix Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTI4ZTk3Y2E2NmRhMTc1ODdiNjg2ZjNhYjE1Mjk1OGUxMDQ5ODE2",
+  "snapshot_id": "MCw1MzQ5ZTk1ZWMwMzNlMTE4NTY1NjdlYzU4MjM0MmM3YjFkNzczNTg5",
   "tracks": [
     {
       "added_at": "2023-07-03 13:15:34",
@@ -175,26 +175,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Barbie Girl (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Barbie Girl - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Wounded Rhymes (Anniversary Edition)",
         "url": "https://open.spotify.com/album/19ms2xSmphDqfhx2dp11Tl"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 279635,
       "name": "I Follow Rivers - The Magician Remix",
       "url": "https://open.spotify.com/track/3zNNXjjjeLrzIXSJZKalDi"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Barbie Girl (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Barbie Girl - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -751,30 +751,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Something Just Like This (Remix Pack) [Remixes]",
-        "url": "https://open.spotify.com/album/4uRfYhBBaSX8N3amojmMBE"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 252933,
-      "name": "Something Just Like This - Alesso Remix",
-      "url": "https://open.spotify.com/track/50RJdoxw8iajGNtHQe6QeS"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Heaven (David Guetta & MORTEN Remix)",
         "url": "https://open.spotify.com/album/37bCTD5iLWMpDcBanNkkXB"
       },
@@ -795,6 +771,30 @@
       "duration_ms": 215238,
       "name": "Heaven - David Guetta & MORTEN Remix",
       "url": "https://open.spotify.com/track/4QAUGy6k7c3IOAhgWz52r7"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Something Just Like This (Remix Pack) [Remixes]",
+        "url": "https://open.spotify.com/album/4uRfYhBBaSX8N3amojmMBE"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 252933,
+      "name": "Something Just Like This - Alesso Remix",
+      "url": "https://open.spotify.com/track/50RJdoxw8iajGNtHQe6QeS"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Best Day Of My Life (Gazzo Remix)",
+        "url": "https://open.spotify.com/album/4nrYXklg3p07sDPX8evRhT"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Best Day Of My Life - Gazzo Remix",
+      "url": "https://open.spotify.com/track/5ng9duWuWbHlwviFSh5Vqx"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "On My Way (Da Tweekaz Remix)",
         "url": "https://open.spotify.com/album/1ODOCRQWwjfJRqJ34RtrKa"
       },
@@ -871,46 +887,6 @@
       "duration_ms": 204198,
       "name": "On My Way - Da Tweekaz Remix",
       "url": "https://open.spotify.com/track/4Sp0jLZN8MgPnoGDufJS7N"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Best Day Of My Life (Gazzo Remix)",
-        "url": "https://open.spotify.com/album/4nrYXklg3p07sDPX8evRhT"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "Best Day Of My Life - Gazzo Remix",
-      "url": "https://open.spotify.com/track/5ng9duWuWbHlwviFSh5Vqx"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Roses (Remixes) (feat. ROZES)",
-        "url": "https://open.spotify.com/album/2QmFzuPKkXez2pfFPXgwqW"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "ROZES",
-          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
-        },
-        {
-          "name": "Zaxx",
-          "url": "https://open.spotify.com/artist/1VF81Q4Usmpf2fgjEV3HPJ"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Roses (feat. ROZES) - Zaxx Remix",
-      "url": "https://open.spotify.com/track/5MgBUUjbkQ27Kd9CbeZFLo"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -999,6 +975,30 @@
       "duration_ms": 165714,
       "name": "Body - Dzeko Remix",
       "url": "https://open.spotify.com/track/4RgDgaohkG08f630ZT9QKc"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Roses (Remixes) (feat. ROZES)",
+        "url": "https://open.spotify.com/album/2QmFzuPKkXez2pfFPXgwqW"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "ROZES",
+          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+        },
+        {
+          "name": "Zaxx",
+          "url": "https://open.spotify.com/artist/1VF81Q4Usmpf2fgjEV3HPJ"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Roses (feat. ROZES) - Zaxx Remix",
+      "url": "https://open.spotify.com/track/5MgBUUjbkQ27Kd9CbeZFLo"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "If I Can't Have You (Gryffin Remix)",
+        "url": "https://open.spotify.com/album/4QxzbfSsVryEQwvPFEV5Iu"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        }
+      ],
+      "duration_ms": 253040,
+      "name": "If I Can't Have You - Gryffin Remix",
+      "url": "https://open.spotify.com/track/1IXGILkPm0tOCNeq00kCPa"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Let Me Love You (Ti\u00ebsto's AFTR:HRS Mix)",
         "url": "https://open.spotify.com/album/1ASGnaVLO875GdjJBGFUEH"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 155840,
       "name": "Let Me Love You - Ti\u00ebsto's AFTR:HRS Mix",
       "url": "https://open.spotify.com/track/7srwQKnqYsIY26Aatbazaq"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "If I Can't Have You (Gryffin Remix)",
-        "url": "https://open.spotify.com/album/4QxzbfSsVryEQwvPFEV5Iu"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        }
-      ],
-      "duration_ms": 253040,
-      "name": "If I Can't Have You - Gryffin Remix",
-      "url": "https://open.spotify.com/track/1IXGILkPm0tOCNeq00kCPa"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1631,30 +1631,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Closer (Remixes)",
-        "url": "https://open.spotify.com/album/4uybSOe9s5FAYVvUyzXOiR"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 161120,
-      "name": "Closer - R3hab Remix",
-      "url": "https://open.spotify.com/track/0Ye1olMyvB2rLjZ4vlYVWI"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "All Night - EP",
         "url": "https://open.spotify.com/album/59t6DSn6GZfnvncn4KiGDq"
       },
@@ -1675,6 +1651,30 @@
       "duration_ms": 213114,
       "name": "All Night - Alex Adair Remix",
       "url": "https://open.spotify.com/track/4ybJaOpgdqqeRgFHMh0Nm4"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Closer (Remixes)",
+        "url": "https://open.spotify.com/album/4uybSOe9s5FAYVvUyzXOiR"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 161120,
+      "name": "Closer - R3hab Remix",
+      "url": "https://open.spotify.com/track/0Ye1olMyvB2rLjZ4vlYVWI"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Hurts So Good (Remixes)",
-        "url": "https://open.spotify.com/album/270KfGOCq7kA77DobjTp72"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        },
-        {
-          "name": "Broiler",
-          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
-        }
-      ],
-      "duration_ms": 205746,
-      "name": "Hurts So Good - Broiler Remix",
-      "url": "https://open.spotify.com/track/77x68F78XGMt95NSy4E47c"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Happy Now (R3HAB Remix)",
         "url": "https://open.spotify.com/album/6NjkiK78KEOoE8FLDKdtDS"
       },
@@ -1891,6 +1871,26 @@
       "duration_ms": 189268,
       "name": "Happy Now - R3HAB Remix",
       "url": "https://open.spotify.com/track/7AkLPOwjju8taQCJCaIUts"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Hurts So Good (Remixes)",
+        "url": "https://open.spotify.com/album/270KfGOCq7kA77DobjTp72"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Broiler",
+          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+        }
+      ],
+      "duration_ms": 205746,
+      "name": "Hurts So Good - Broiler Remix",
+      "url": "https://open.spotify.com/track/77x68F78XGMt95NSy4E47c"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -2003,26 +2003,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Still Falling For You (Jonas Blue Remix)",
-        "url": "https://open.spotify.com/album/2Kv7vGnrsyF0N2FLW6pioM"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 188053,
-      "name": "Still Falling For You - Jonas Blue Remix",
-      "url": "https://open.spotify.com/track/1KqquoEp6nWY1s46lwFoTF"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Last Hurrah (David Guetta Remix)",
         "url": "https://open.spotify.com/album/4KIlCXWsC5D7tHNM1PsfhG"
       },
@@ -2039,6 +2019,26 @@
       "duration_ms": 191868,
       "name": "Last Hurrah - David Guetta Remix",
       "url": "https://open.spotify.com/track/66wF9HWqR8RpQ47tiVQpgx"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Still Falling For You (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/2Kv7vGnrsyF0N2FLW6pioM"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 188053,
+      "name": "Still Falling For You - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/1KqquoEp6nWY1s46lwFoTF"
     },
     {
       "added_at": "2023-07-03 13:15:34",

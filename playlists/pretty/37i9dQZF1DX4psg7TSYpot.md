@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 
 > Acoustic pop songs for chill summer days or nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,752 likes - 97 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,754 likes - 97 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 | 41 | [Irreplaceable](https://open.spotify.com/track/04dqYNkXUPAVc9ZfHYicW6) | [Zak Manley](https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2) | [Irreplaceable](https://open.spotify.com/album/597cDRdmbPhqWq8GpaJk1o) | 3:09 |
 | 42 | [Grow as We Go](https://open.spotify.com/track/5M6FVA0CEuN7iNqcq6LkG3) | [Finding Us](https://open.spotify.com/artist/3tuF9lI7xxtzNKt33uqxho), [Chad Graham](https://open.spotify.com/artist/4Pxdl89t4lmaURMT1Yakep) | [Grow as We Go](https://open.spotify.com/album/19VfOkSCXKOQM5yvYOiWCX) | 4:23 |
 | 43 | [Bound For The Floor](https://open.spotify.com/track/31PCgVHSfF31y58BPMt59H) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Bound For The Floor](https://open.spotify.com/album/02bm3jjVSoyLWTPgbsT3lN) | 2:53 |
-| 44 | [Cool](https://open.spotify.com/track/0B6Gf49UuiyYiKM3cCdfzW) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Cool](https://open.spotify.com/album/3Y5mbHm9zcwmAmhKlORakx) | 4:03 |
+| 44 | [Cool](https://open.spotify.com/track/6lF7TSRbGXhSQhGWQyvBaX) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Cool](https://open.spotify.com/album/4R5WjtyRwOjs0iNi2pD0MZ) | 4:03 |
 | 45 | [Waterfalls](https://open.spotify.com/track/3lKlGhiNTsv3moOzbMXBUf) | [Tobey Rosen](https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN) | [Waterfalls](https://open.spotify.com/album/2xoeY7T8uj7C0ITIPNBoPz) | 2:50 |
 | 46 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/4BC8rzvaaPoimewdFeOxcB) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o), [Charlotte Almgren](https://open.spotify.com/artist/0XlZ7ymNRBhsLCUpX8fBua) | [Covers](https://open.spotify.com/album/3LFPV69y8dm2843r0V7kyw) | 3:28 |
 | 47 | [A Long December](https://open.spotify.com/track/6DOoVmJg4Yw5ed4cEtsAKK) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [A Long December](https://open.spotify.com/album/2XHrRPNh9Vj0bLCo2p3DxA) | 2:42 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 | 96 | [Dare You To Move \- Acoustic](https://open.spotify.com/track/0bOCAiSF04TziDFLSQ1fLr) | [Ryan de Mel](https://open.spotify.com/artist/1y9pThgXl37Polk4oXP07E) | [Dare You To Move \(Acoustic\)](https://open.spotify.com/album/7dUNOUAXKoXqI9kZOU7Viw) | 4:06 |
 | 97 | [Ho Hey](https://open.spotify.com/track/3cfb2iNdWpf1EZ4KaBLOjm) | [Peter Ryans](https://open.spotify.com/artist/2d6l7CTjCeBUSQmQNcmNH0) | [American Girl](https://open.spotify.com/album/0EArGGTFL9r7Qhqg3tfXqG) | 2:40 |
 
-Snapshot ID: `MCw1YjJhMjI2YTJmOTk5MjFjZGE2MjNhYjMwNzA3NWIyYzY2NjljMmY0`
+Snapshot ID: `MCw0NjU3YzEwNDUzMDk0MWJlYzE4YmJhOGJiZWQ4NDRmZTk3MTUxM2Qx`

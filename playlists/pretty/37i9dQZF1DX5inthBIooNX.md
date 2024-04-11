@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inthBIooNX.md) - [plain]
 
 > A playlist for the eclipse\. Photo credits: NASA
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,228 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,684 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inthBIooNX.md) - [plain]
 | 49 | [Jyoti](https://open.spotify.com/track/27KAWLRYB0djGhfnIvzjQr) | [r mccarthy](https://open.spotify.com/artist/0NXGquUwII6z0ukB4xmvS7) | [Dick Arkive: Issue 2](https://open.spotify.com/album/5lYNwUm6IiQ6TusHKNT9QV) | 1:26 |
 | 50 | [Cloud Memory](https://open.spotify.com/track/2dUIvQRy9wfxNVcm0JLwNm) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi) | [Cloud Memory](https://open.spotify.com/album/1uu3zbo7cvj4NM2U15fCOU) | 1:57 |
 
-Snapshot ID: `MCxiOWNkY2NmMDAzMzM4YWViNDQ2YThiN2E4M2I1NTA5ZTY0YzExMWVl`
+Snapshot ID: `MCw5NDQ1ZjUxZDFhMGRmZmIxZWZmNjk3ZjlkMGFkNWVlMjg4N2FkNjZl`

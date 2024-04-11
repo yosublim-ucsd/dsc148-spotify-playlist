@@ -1,28 +1,36 @@
 {
-  "description": "Most exciting artists from the Indian Indie scene. Cover: Swastik The Band",
-  "num_followers": 158786,
+  "description": "Most exciting artists from the Indian Indie scene. Cover: RANJ x Clifr",
+  "num_followers": 158852,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjA4OWEyOTE4NzFiMmJlNTQ5ZjFmMGVmZjc0NTBhYzc2ZTA2NjVl",
+  "snapshot_id": "MCwxNDQ3ZDZlNjJiMzA2ZTFlOWQyMTM0YzU2ODcyMmMwYWJmY2M3Yzhm",
   "tracks": [
     {
-      "added_at": "2024-03-20 05:27:05",
+      "added_at": "2024-04-10 06:16:44",
       "album": {
-        "name": "Rok Na Paya",
-        "url": "https://open.spotify.com/album/1tWrFRHjlm4O3WOQgZwEXo"
+        "name": "S.O.T.I. (Strangers On The Internet)",
+        "url": "https://open.spotify.com/album/6TMdWV3qpSH8irxIpDhKUk"
       },
       "artists": [
         {
-          "name": "Swastik The Band",
-          "url": "https://open.spotify.com/artist/740SYcL7Hl2TatDM2wYV8V"
+          "name": "Clifr",
+          "url": "https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14"
+        },
+        {
+          "name": "RANJ",
+          "url": "https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H"
+        },
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
         }
       ],
-      "duration_ms": 228356,
-      "name": "Rok Na Paya",
-      "url": "https://open.spotify.com/track/4YuFsqg0XZdOvsspVcoyeF"
+      "duration_ms": 166346,
+      "name": "S.O.T.I. (Strangers On The Internet)",
+      "url": "https://open.spotify.com/track/06sNozukABz39ZsUtJuCj5"
     },
     {
       "added_at": "2024-03-20 05:27:05",
@@ -41,6 +49,22 @@
       "url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06"
     },
     {
+      "added_at": "2024-04-10 06:27:04",
+      "album": {
+        "name": "Barse More Naina",
+        "url": "https://open.spotify.com/album/0xVOTxx8rhWsD25L6sw6jg"
+      },
+      "artists": [
+        {
+          "name": "KhoslaRaghu",
+          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Barse More Naina",
+      "url": "https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON"
+    },
+    {
       "added_at": "2024-03-20 05:27:05",
       "album": {
         "name": "Chor",
@@ -55,6 +79,22 @@
       "duration_ms": 208250,
       "name": "Chor",
       "url": "https://open.spotify.com/track/6YewfSA18qq5xl1KlJQkpY"
+    },
+    {
+      "added_at": "2024-03-20 05:27:05",
+      "album": {
+        "name": "Rok Na Paya",
+        "url": "https://open.spotify.com/album/1tWrFRHjlm4O3WOQgZwEXo"
+      },
+      "artists": [
+        {
+          "name": "Swastik The Band",
+          "url": "https://open.spotify.com/artist/740SYcL7Hl2TatDM2wYV8V"
+        }
+      ],
+      "duration_ms": 228356,
+      "name": "Rok Na Paya",
+      "url": "https://open.spotify.com/track/4YuFsqg0XZdOvsspVcoyeF"
     },
     {
       "added_at": "2024-03-20 05:27:05",
@@ -1271,38 +1311,6 @@
       "duration_ms": 234374,
       "name": "Baaton Baaton Main",
       "url": "https://open.spotify.com/track/764XnzLSpfB7VSMkKywfMB"
-    },
-    {
-      "added_at": "2024-03-20 05:27:05",
-      "album": {
-        "name": "Ek Pal",
-        "url": "https://open.spotify.com/album/1NU5fBhBK0zR6Ei6FGw8Dl"
-      },
-      "artists": [
-        {
-          "name": "Akanksha Sethi",
-          "url": "https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16"
-        }
-      ],
-      "duration_ms": 271304,
-      "name": "Ek Pal",
-      "url": "https://open.spotify.com/track/4YmuwxEfzF5bXTuwg3sYbE"
-    },
-    {
-      "added_at": "2024-03-20 05:27:05",
-      "album": {
-        "name": "Sajna",
-        "url": "https://open.spotify.com/album/7039HqORwYMTeXxfWrrScw"
-      },
-      "artists": [
-        {
-          "name": "Pratsofficial",
-          "url": "https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr"
-        }
-      ],
-      "duration_ms": 266985,
-      "name": "Sajna",
-      "url": "https://open.spotify.com/track/1DdS3bAkQtLdapb5hiSN9S"
     },
     {
       "added_at": "2024-03-20 05:27:05",

@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2081206,
+  "num_followers": 2081363,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDZiNDYyMzFlYzY1YzdkOTAzYjY2NTJmYzZlZjkzZGI5OTdhMGY2",
+  "snapshot_id": "MCxlNTA2OTU1ZjEyNjlmMTkyNjU1OGE2ODkzNmJkNDVkZWVhYjJjOGI0",
   "tracks": [
     {
       "added_at": "2024-03-08 05:01:06",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
-        "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 212470,
-      "name": "Highway Queen",
-      "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
         "name": "Gossip In The Grain",
         "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 231840,
       "name": "You Are the Best Thing",
       "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 212470,
+      "name": "Highway Queen",
+      "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
-        "name": "Wilderado",
-        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
-      },
-      "artists": [
-        {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
-        }
-      ],
-      "duration_ms": 241194,
-      "name": "Surefire",
-      "url": "https://open.spotify.com/track/7MbVZOLSUloG4J3nH3Tnos"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
         "name": "A Little Lift",
         "url": "https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 199742,
       "name": "Empress",
       "url": "https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
+        "name": "Wilderado",
+        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "duration_ms": 241194,
+      "name": "Surefire",
+      "url": "https://open.spotify.com/track/7MbVZOLSUloG4J3nH3Tnos"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
-        "name": "Furr",
-        "url": "https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7"
-      },
-      "artists": [
-        {
-          "name": "Blitzen Trapper",
-          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
-        }
-      ],
-      "duration_ms": 247515,
-      "name": "Furr",
-      "url": "https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc"
       },
@@ -947,18 +931,18 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
-        "name": "Mary (b-sides)",
-        "url": "https://open.spotify.com/album/15RYnRTIMHrCB6X3HjK2mC"
+        "name": "Furr",
+        "url": "https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7"
       },
       "artists": [
         {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+          "name": "Blitzen Trapper",
+          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
         }
       ],
-      "duration_ms": 219696,
-      "name": "Heart",
-      "url": "https://open.spotify.com/track/5L7IgwUPhir2FJftGNXJDW"
+      "duration_ms": 247515,
+      "name": "Furr",
+      "url": "https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -975,6 +959,22 @@
       "duration_ms": 230656,
       "name": "Highroad",
       "url": "https://open.spotify.com/track/64iXPlkVfgkSYRvE0CXij0"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
+        "name": "Mary (b-sides)",
+        "url": "https://open.spotify.com/album/15RYnRTIMHrCB6X3HjK2mC"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 219696,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/5L7IgwUPhir2FJftGNXJDW"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
+        "name": "I Was Born To Love You",
+        "url": "https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 265843,
+      "name": "I Was Born To Love You",
+      "url": "https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
         "name": "Con Law",
         "url": "https://open.spotify.com/album/6JoADrFrfs62hhWAMzSA8A"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 200213,
       "name": "When They Fight, They Fight",
       "url": "https://open.spotify.com/track/0zqmyB1prgGGiOS10sjH8A"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "Kids in Love",
-      "url": "https://open.spotify.com/track/1gpYR1FzbIS0IRbpF3BBmu"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "Kids in Love",
+      "url": "https://open.spotify.com/track/1gpYR1FzbIS0IRbpF3BBmu"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 195252,
       "name": "I Burned LA Down",
       "url": "https://open.spotify.com/track/4dEUEEbO25gBn2s9dASnYi"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
-        "name": "I Was Born To Love You",
-        "url": "https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 265843,
-      "name": "I Was Born To Love You",
-      "url": "https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1"
     },
     {
       "added_at": "2024-03-08 05:01:06",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-03-08 05:01:06",
       "album": {
-        "name": "WE ARE",
-        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 157133,
-      "name": "I NEED YOU",
-      "url": "https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf"
-    },
-    {
-      "added_at": "2024-03-08 05:01:06",
-      "album": {
         "name": "Bonny Light Horseman",
         "url": "https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 309072,
       "name": "Deep In Love",
       "url": "https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN"
+    },
+    {
+      "added_at": "2024-03-08 05:01:06",
+      "album": {
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 157133,
+      "name": "I NEED YOU",
+      "url": "https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf"
     },
     {
       "added_at": "2024-03-08 05:01:06",

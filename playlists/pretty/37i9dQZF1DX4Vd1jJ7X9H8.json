@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on at the party.\n",
-  "num_followers": 312274,
+  "num_followers": 312397,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTFmOTlmZDI3MzJiOGE4NDc0NWZjZWJkZDI0Y2U2NDZjN2Q4NGM3",
+  "snapshot_id": "MCwzOTNmZjI5NTQ1NDY0MWEzMTAzNzJiM2M1MTg0MDc1Y2IzYTFmNjcz",
   "tracks": [
     {
       "added_at": "2024-02-16 18:16:21",
@@ -31,18 +31,18 @@
     {
       "added_at": "2024-02-16 18:16:21",
       "album": {
-        "name": "Tieduprightnow",
-        "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
+        "name": "pretty",
+        "url": "https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ"
       },
       "artists": [
         {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
         }
       ],
-      "duration_ms": 249956,
-      "name": "Tieduprightnow",
-      "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
+      "duration_ms": 146216,
+      "name": "cross my heart",
+      "url": "https://open.spotify.com/track/1GnTBbaFtxNkHEjUsWEdNu"
     },
     {
       "added_at": "2024-03-22 19:56:32",
@@ -63,18 +63,18 @@
     {
       "added_at": "2024-02-16 18:16:21",
       "album": {
-        "name": "pretty",
-        "url": "https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ"
+        "name": "Tieduprightnow",
+        "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
       },
       "artists": [
         {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
         }
       ],
-      "duration_ms": 146216,
-      "name": "cross my heart",
-      "url": "https://open.spotify.com/track/1GnTBbaFtxNkHEjUsWEdNu"
+      "duration_ms": 249956,
+      "name": "Tieduprightnow",
+      "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
     },
     {
       "added_at": "2024-02-16 18:16:21",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-02-16 18:16:21",
       "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb"
+      },
+      "artists": [
+        {
+          "name": "okaywill",
+          "url": "https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L"
+        }
+      ],
+      "duration_ms": 119016,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA"
+    },
+    {
+      "added_at": "2024-02-16 18:16:21",
+      "album": {
         "name": "Down To Earth",
         "url": "https://open.spotify.com/album/1FQyS2AHgEQB6F5Jh1ymGb"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 234786,
       "name": "Crave You",
       "url": "https://open.spotify.com/track/5mdzg7ZwebXNb90LPRusAs"
-    },
-    {
-      "added_at": "2024-02-16 18:16:21",
-      "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb"
-      },
-      "artists": [
-        {
-          "name": "okaywill",
-          "url": "https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L"
-        }
-      ],
-      "duration_ms": 119016,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA"
     },
     {
       "added_at": "2024-02-16 18:16:21",
@@ -559,26 +559,6 @@
     {
       "added_at": "2024-02-16 18:16:21",
       "album": {
-        "name": "Everything Eventually Ends",
-        "url": "https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        },
-        {
-          "name": "Rejjie Snow",
-          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
-        }
-      ],
-      "duration_ms": 177280,
-      "name": "Everything Eventually Ends",
-      "url": "https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq"
-    },
-    {
-      "added_at": "2024-02-16 18:16:21",
-      "album": {
         "name": "Cheesin'",
         "url": "https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh"
       },
@@ -619,6 +599,26 @@
     {
       "added_at": "2024-02-16 18:16:21",
       "album": {
+        "name": "Everything Eventually Ends",
+        "url": "https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Rejjie Snow",
+          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
+        }
+      ],
+      "duration_ms": 177280,
+      "name": "Everything Eventually Ends",
+      "url": "https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq"
+    },
+    {
+      "added_at": "2024-02-16 18:16:21",
+      "album": {
         "name": "Happy Music",
         "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
       },
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-02-16 18:16:21",
       "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 263349,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
+    },
+    {
+      "added_at": "2024-02-16 18:16:21",
+      "album": {
         "name": "Foreign Language (10 Year Anniversary)",
         "url": "https://open.spotify.com/album/2gTe12kWJnouYrPC5m72FC"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2024-02-16 18:16:21",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 263349,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
-    },
-    {
-      "added_at": "2024-02-16 18:16:21",
-      "album": {
         "name": "If This Isn\u2019t Nice, I Don\u2019t Know What Is",
         "url": "https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP"
       },
@@ -703,22 +703,6 @@
       "duration_ms": 166000,
       "name": "Rocky",
       "url": "https://open.spotify.com/track/3E73eFyGL6v10qlK3jiLyR"
-    },
-    {
-      "added_at": "2024-03-22 19:56:32",
-      "album": {
-        "name": "Baby Wants to Ride / Your Love",
-        "url": "https://open.spotify.com/album/6hV7MW8zuYQ9skUy0rY2h5"
-      },
-      "artists": [
-        {
-          "name": "Frankie Knuckles",
-          "url": "https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc"
-        }
-      ],
-      "duration_ms": 403706,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/0vryyKyxCFXT0gg670yNEw"
     },
     {
       "added_at": "2024-02-16 18:16:21",
@@ -739,6 +723,22 @@
       "duration_ms": 226280,
       "name": "Don't Play",
       "url": "https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW"
+    },
+    {
+      "added_at": "2024-03-22 19:56:32",
+      "album": {
+        "name": "Baby Wants to Ride / Your Love",
+        "url": "https://open.spotify.com/album/6hV7MW8zuYQ9skUy0rY2h5"
+      },
+      "artists": [
+        {
+          "name": "Frankie Knuckles",
+          "url": "https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc"
+        }
+      ],
+      "duration_ms": 403706,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/0vryyKyxCFXT0gg670yNEw"
     },
     {
       "added_at": "2024-02-16 18:16:21",

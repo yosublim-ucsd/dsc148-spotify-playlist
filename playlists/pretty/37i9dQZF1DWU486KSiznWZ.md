@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 > اكتشفوا أفضل الاغاني الخليجية <br/>الغلاف: فهد العمري
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,012 likes - 40 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,081 likes - 40 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,16 +16,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 6 | [تتنفسك دنياي](https://open.spotify.com/track/5RLyQK3o0mVIjmjbFM0sT2) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [تتنفسك دنياي](https://open.spotify.com/album/3H6bW7rzjkoyHbYSE5Jyz6) | 4:42 |
 | 7 | [Da Elly 7sal \- دا اللي حصل](https://open.spotify.com/track/5eRUK0x3XJSbrk57aET9aX) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Da Elly 7sal \(دا اللي حصل\)](https://open.spotify.com/album/0Vw2fBg9gnCfKIBwfiS4JO) | 4:12 |
 | 8 | [كل أحبك](https://open.spotify.com/track/0X4e6WZ901ycwRO0iCee8s) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [فؤاد عبدالواحد ٢٠٢٤](https://open.spotify.com/album/5N2NALxsk5s6Mr6bVezMm3) | 4:20 |
-| 9 | [العجب في الهوى](https://open.spotify.com/track/7xj5Biz8I1trcgVq57jzhk) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [العجب في الهوى](https://open.spotify.com/album/5QqiSpeyNPcI4rUpvYEhcX) | 5:23 |
-| 10 | [Habni Gherak](https://open.spotify.com/track/71k2EHQDHNqUYAXfUAyCEu) | [KADEJAH MOAATH](https://open.spotify.com/artist/6dHJGgMd8sX4N2ss08CPo4) | [Habni Gherak](https://open.spotify.com/album/7JvxrgSGDLhhdYxs0LWAcb) | 4:44 |
-| 11 | [Waqaf Lahfatk](https://open.spotify.com/track/3GOvsMkufURsrN48DNa9pq) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU), [Methan](https://open.spotify.com/artist/5IsaX1fHYyxc6xcFee6JTC) | [Waqaf Lahfatk](https://open.spotify.com/album/5NMIcwpKdjL2ZlcahGjsOI) | 4:44 |
-| 12 | [بعيش لنفسي](https://open.spotify.com/track/61y7OCTRtX3dUhH0lrZyqg) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر 2023](https://open.spotify.com/album/1JacTI0m2p7hVvIta6UVpi) | 5:38 |
-| 13 | [Nsa Nfsah](https://open.spotify.com/track/18JtCEpNrIIOJZlvUaSjk8) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Nsa Nfsah](https://open.spotify.com/album/0wxHcgJP08F11Rz9GsZBRn) | 4:01 |
-| 14 | [Fahem](https://open.spotify.com/track/5LXlfCsvGlsobIrJ093Rai) | [Abass Ibrahim](https://open.spotify.com/artist/24GgPBu7p3GhaMVvIMAk8T) | [Mant Fahem](https://open.spotify.com/album/3jk49p7zeBgUYG8ANRDP42) | 5:01 |
-| 15 | [Ma Fagadtek](https://open.spotify.com/track/5OS9kPuLlLchB7dwab7jsv) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ma Fagadtek](https://open.spotify.com/album/1lUyJAzJODzhayn4dll1QX) | 3:59 |
-| 16 | [Allah Yekhalleek Lehalek](https://open.spotify.com/track/2wkvNhTMmIjHQkgvBQqvOo) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Allah Yekhalleek Lehalek](https://open.spotify.com/album/4NBpRiwq6R30yQiOWjTQki) | 4:11 |
-| 17 | [Habeetah](https://open.spotify.com/track/2BFY9ag7SFQu5I3oATyhqg) | [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [Habeetah](https://open.spotify.com/album/0s99kDnLkDyW8Y4LsnCl0I) | 4:20 |
-| 18 | [Tezzakar Al Nesyan](https://open.spotify.com/track/3bCkRa7J8CxY8yUj6cifXQ) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Tezzakar Al Nesyan](https://open.spotify.com/album/2ebAtYzo58lYiSG3JFyd8W) | 4:50 |
+| 9 | [Shahr 7](https://open.spotify.com/track/5W38ngA8pVHq5AnsyWNVM5) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Shahr 7](https://open.spotify.com/album/2Bhcqu0QL5QSr6RmtIffsv) | 6:06 |
+| 10 | [العجب في الهوى](https://open.spotify.com/track/7xj5Biz8I1trcgVq57jzhk) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [العجب في الهوى](https://open.spotify.com/album/5QqiSpeyNPcI4rUpvYEhcX) | 5:23 |
+| 11 | [Habni Gherak](https://open.spotify.com/track/71k2EHQDHNqUYAXfUAyCEu) | [KADEJAH MOAATH](https://open.spotify.com/artist/6dHJGgMd8sX4N2ss08CPo4) | [Habni Gherak](https://open.spotify.com/album/7JvxrgSGDLhhdYxs0LWAcb) | 4:44 |
+| 12 | [Waqaf Lahfatk](https://open.spotify.com/track/3GOvsMkufURsrN48DNa9pq) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU), [Methan](https://open.spotify.com/artist/5IsaX1fHYyxc6xcFee6JTC) | [Waqaf Lahfatk](https://open.spotify.com/album/5NMIcwpKdjL2ZlcahGjsOI) | 4:44 |
+| 13 | [بعيش لنفسي](https://open.spotify.com/track/61y7OCTRtX3dUhH0lrZyqg) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر 2023](https://open.spotify.com/album/1JacTI0m2p7hVvIta6UVpi) | 5:38 |
+| 14 | [Nsa Nfsah](https://open.spotify.com/track/18JtCEpNrIIOJZlvUaSjk8) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Nsa Nfsah](https://open.spotify.com/album/0wxHcgJP08F11Rz9GsZBRn) | 4:01 |
+| 15 | [Fahem](https://open.spotify.com/track/5LXlfCsvGlsobIrJ093Rai) | [Abass Ibrahim](https://open.spotify.com/artist/24GgPBu7p3GhaMVvIMAk8T) | [Mant Fahem](https://open.spotify.com/album/3jk49p7zeBgUYG8ANRDP42) | 5:01 |
+| 16 | [Ma Fagadtek](https://open.spotify.com/track/5OS9kPuLlLchB7dwab7jsv) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ma Fagadtek](https://open.spotify.com/album/1lUyJAzJODzhayn4dll1QX) | 3:59 |
+| 17 | [Allah Yekhalleek Lehalek](https://open.spotify.com/track/2wkvNhTMmIjHQkgvBQqvOo) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Allah Yekhalleek Lehalek](https://open.spotify.com/album/4NBpRiwq6R30yQiOWjTQki) | 4:11 |
+| 18 | [Habeetah](https://open.spotify.com/track/2BFY9ag7SFQu5I3oATyhqg) | [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [Habeetah](https://open.spotify.com/album/0s99kDnLkDyW8Y4LsnCl0I) | 4:20 |
 | 19 | [El Gheyab](https://open.spotify.com/track/3owCG7KMMas0xG8G4DgNKi) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [El Gheyab](https://open.spotify.com/album/5C9SWdz3S0bdXqpZHmHdg3) | 5:21 |
 | 20 | [ضاق الغمام](https://open.spotify.com/track/3HRvfEMnAwmaoC0dhfYUiL) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [فؤاد عبدالواحد ٢٠٢٤](https://open.spotify.com/album/5N2NALxsk5s6Mr6bVezMm3) | 4:23 |
 | 21 | [بديت اطيب](https://open.spotify.com/track/0WD009cqcJoOSaF8dsSh1s) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [بديت اطيب](https://open.spotify.com/album/5kPqppESqRCCXGEF9x0Fpq) | 4:36 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 39 | [Akhathet Be Khtrek](https://open.spotify.com/track/4RyoGSA84YpvYm09iTR8P0) | [Moath Bugnah](https://open.spotify.com/artist/3I6QxuzNU6qhadzhuePFqF) | [Akhathet Be Khtrek](https://open.spotify.com/album/3k7N7Q8eetRAOQRtDrSImy) | 3:40 |
 | 40 | [قيام](https://open.spotify.com/track/1ej0zKc17Qpnrz3BjQzvXD) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [مرحبا](https://open.spotify.com/album/6F34uPWLURxhVHvOUzxNiQ) | 4:04 |
 
-Snapshot ID: `MCw1NGJhNTlkM2ZkZmUxMmI5ODQzZmNkYjU4ZDQ3M2MzNmYwYzA0M2Ey`
+Snapshot ID: `MCw4MTA2YjQzOTJlYzIwOTg3NmE0NGI4N2E1NTEyOTZkODAwNTVlNWNl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from Nasty C\(pictured\), Future & Metro Boomin', Big Sean and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,201 likes - 52 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,268 likes - 52 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 51 | [On The Radar Freestyle](https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [On The Radar Freestyle](https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z) | 4:35 |
 | 52 | [Turks & Caicos \(feat\. 21 Savage\)](https://open.spotify.com/track/3kfhS2L56Wj8fBcu7xE47H) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 3:23 |
 
-Snapshot ID: `MCw0ZmQ5ZWMxMjA2NjVhMzBmYWQ2NjAyOGY3ZmRhYmJmYjFmYjc4MTE1`
+Snapshot ID: `MCxlODU3ZGFiMDVlODNiMDQ5ZjUwN2Y0YmM3OTM0MTAwNmY1NmZkYTEx`

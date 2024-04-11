@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: AR Paisley, Chani Nattan, Inderpal Moga
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,039 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,056 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 20 | [Turks \(with Gunna & ft\. Travis Scott\)](https://open.spotify.com/track/7IMwEtpAiJanqF6vQteZN2) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 2:41 |
 | 21 | [EXCEPTIONAL](https://open.spotify.com/track/02oVra8RWdAYaKbdinrfRC) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [EXCEPTIONAL](https://open.spotify.com/album/2bCu6FoQW3rXWUqdAsfof2) | 2:17 |
 | 22 | [Dead Or Alive](https://open.spotify.com/track/6ekV6MGnPTuCOnjB4VcWGc) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [Dead Or Alive](https://open.spotify.com/album/3TDEhWhq4igbjoquhj8NOp) | 3:14 |
-| 23 | [DnF \(feat\. Drake & Future\)](https://open.spotify.com/track/5EMKS6mLi4JprJxy8IGdhT) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Dear America](https://open.spotify.com/album/4ph77Ne0Z4oktYiXHDSH3G) | 3:25 |
-| 24 | [100 Rounds](https://open.spotify.com/track/5sJwRlYM8Wg9vGrfe0FNTO) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [100 Rounds](https://open.spotify.com/album/405f18dnyh3ElPJj1tkshp) | 2:12 |
+| 23 | [100 Rounds](https://open.spotify.com/track/5sJwRlYM8Wg9vGrfe0FNTO) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [100 Rounds](https://open.spotify.com/album/405f18dnyh3ElPJj1tkshp) | 2:12 |
+| 24 | [DnF \(feat\. Drake & Future\)](https://open.spotify.com/track/5EMKS6mLi4JprJxy8IGdhT) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Dear America](https://open.spotify.com/album/4ph77Ne0Z4oktYiXHDSH3G) | 3:25 |
 | 25 | [Why Did I](https://open.spotify.com/track/6NrB2hKwlyVfFY8qhKc8U6) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Sorry 4 What](https://open.spotify.com/album/7MUY0WxCmHcgEEeQNjoe8a) | 2:25 |
 | 26 | [Lil Boat](https://open.spotify.com/track/3Zcv9IeYgCvEhxFTfsduaQ) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl) | [88GLAM2](https://open.spotify.com/album/1BgPkFMgud3lmEc6enZsjd) | 3:00 |
 | 27 | [Canada Goose](https://open.spotify.com/track/0c473vwMZxxXcdhHay62PN) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Canada Goose](https://open.spotify.com/album/4x2T0CZ0uxbA3Z6hL1Vq14) | 3:55 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 51 | [Jupiter & Mars](https://open.spotify.com/track/7GSOsyYPXAS31vaEVyzzRh) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Jupiter & Mars](https://open.spotify.com/album/3iRKgJqd2XTistB0EAh9QU) | 3:16 |
 | 52 | [Window Shopping \(feat\. Lil Baby\)](https://open.spotify.com/track/5RmUd1skWw9kMFlxPgfcYW) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Window Shopping \(feat\. Lil Baby\)](https://open.spotify.com/album/1ihYyrjsmkOCAYAMaHZv1J) | 2:40 |
 | 53 | [Flowers \(feat\. MAVI\)](https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Flowers \(feat\. MAVI\)](https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD) | 3:02 |
-| 54 | [30,000 ft](https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [Dj Charlie B](https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5) | [30,000 ft](https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn) | 2:37 |
-| 55 | [Dwayne Carter Flow](https://open.spotify.com/track/2B5QF7KSCv5jz2hIxyKic5) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [All Time High](https://open.spotify.com/album/5ptOOTLiiSnYMUCnAgUE3N) | 2:10 |
+| 54 | [Dwayne Carter Flow](https://open.spotify.com/track/2B5QF7KSCv5jz2hIxyKic5) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [All Time High](https://open.spotify.com/album/5ptOOTLiiSnYMUCnAgUE3N) | 2:10 |
+| 55 | [30,000 ft](https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [Dj Charlie B](https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5) | [30,000 ft](https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn) | 2:37 |
 | 56 | [My Town \(feat\. Giggs\)](https://open.spotify.com/track/41l1RaDtTRnSPsy22JUFVC) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [no long talk.](https://open.spotify.com/album/3RIerAmfvbXRl9uFX3UZyT) | 3:18 |
 | 57 | [The Jungle](https://open.spotify.com/track/6bpsyayAnCZoPTjGt9Ifhw) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [The Jungle](https://open.spotify.com/album/2Ao1lDSZ1N9JmkTaR9PuQF) | 2:47 |
 | 58 | [Priceless](https://open.spotify.com/track/2Ai10rvOZla3w0GZXuuFSp) | [Robin Banks](https://open.spotify.com/artist/46qgq6hZewSGvjR5kmT3jE), [FB](https://open.spotify.com/artist/5bDOWnyQ73utiM8fCtv1Ar) | [Priceless](https://open.spotify.com/album/3IkBPsHdtfjTozntH3W9ek) | 4:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 74 | [Repeat](https://open.spotify.com/track/3KFef9uMAxT4gyS2fEi9vd) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Repeat](https://open.spotify.com/album/5tUI7R1lHw5Lk6nUENIgtG) | 3:28 |
 | 75 | [401](https://open.spotify.com/track/469SyczaujLUf3M9dsPPf1) | [Top5](https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk) | [Pedro Activated](https://open.spotify.com/album/3LuXNv2ZXL9ErZklnvSJ0W) | 2:42 |
 
-Snapshot ID: `MCw1NDlmZmI4MDY4ZTM0NjMyNzNiZDY0YmY5NGY3MTgzZGE4OWQyNzJh`
+Snapshot ID: `MCwzMjlhMDEzYjk5YWJiZDNiZmNmNThiYjAzODBhZjJhYzY3NzRmNzg2`

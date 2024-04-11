@@ -1,12 +1,12 @@
 {
   "description": "This is King Sunny Ade. The essential tracks, all in one playlist.",
-  "num_followers": 5375,
+  "num_followers": 5377,
   "original_name": "This Is King Sunny Ade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmVmZTZjNjI2M2NmZGVkZmY0NTkyYTA5NGRjZjNlZGI3OTExOGVh",
+  "snapshot_id": "MCxkZGVjYzM0OTE5Mzk3MDM2ZTg4MWYwNjA0NmUyNWI1MjViYzFjMjQ0",
   "tracks": [
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 256707,
-      "name": "Bole Ya Koya",
-      "url": "https://open.spotify.com/track/1oOuk4BcivUjjNKX8gEVQP"
+      "duration_ms": 111986,
+      "name": "Ejire Ara Isokun",
+      "url": "https://open.spotify.com/track/3zcN6BVYFkeiJU4epqwTr7"
     },
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Classics, Vol. 2: Ekilo Fomo Ode & the Way Forward",
+        "url": "https://open.spotify.com/album/6L1EFQ32iy12gBXUM58KVc"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 256707,
+      "name": "Bole Ya Koya",
+      "url": "https://open.spotify.com/track/1oOuk4BcivUjjNKX8gEVQP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Synchro System (THEMBA's Herd Mix)",
         "url": "https://open.spotify.com/album/3TOKdWOHRvx0YgBin9w8H6"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 212256,
       "name": "Synchro System (THEMBA's Herd Mix)",
       "url": "https://open.spotify.com/track/04xSgQhyNYILbEhEVmJn9F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Classics, Vol. 2: Ekilo Fomo Ode & the Way Forward",
-        "url": "https://open.spotify.com/album/6L1EFQ32iy12gBXUM58KVc"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 245080,
-      "name": "Kosun Tadie",
-      "url": "https://open.spotify.com/track/5bPX2y8YJbCUG6U2ee639t"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 581400,
-      "name": "Suku Suku Bam Bam",
-      "url": "https://open.spotify.com/track/5MY2shxqQ4bFBPUeYB5azo"
+      "duration_ms": 540106,
+      "name": "Ariya",
+      "url": "https://open.spotify.com/track/0chro0oQ5d6hRZLtXg9yD5"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 540106,
-      "name": "Ariya",
-      "url": "https://open.spotify.com/track/0chro0oQ5d6hRZLtXg9yD5"
+      "duration_ms": 581400,
+      "name": "Suku Suku Bam Bam",
+      "url": "https://open.spotify.com/track/5MY2shxqQ4bFBPUeYB5azo"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 189236,
-      "name": "O-wo-wo Obele",
-      "url": "https://open.spotify.com/track/4Y7CtpNNuugzTUnvhJnALS"
+      "duration_ms": 156914,
+      "name": "Kajo jijo olomo",
+      "url": "https://open.spotify.com/track/6v1Pd3anyDPKXjkZj1Bu0z"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 156914,
-      "name": "Kajo jijo olomo",
-      "url": "https://open.spotify.com/track/6v1Pd3anyDPKXjkZj1Bu0z"
+      "duration_ms": 189236,
+      "name": "O-wo-wo Obele",
+      "url": "https://open.spotify.com/track/4Y7CtpNNuugzTUnvhJnALS"
     },
     {
       "added_at": null,
@@ -711,22 +711,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunny Ade and His Green Spot Band, Vol. 4",
-        "url": "https://open.spotify.com/album/6KKQUN5rh80KfwyvlnlkSh"
+        "name": "The Best of the Classic Years",
+        "url": "https://open.spotify.com/album/6Y5SoiYENbNuTBc6mTUKG9"
       },
       "artists": [
         {
           "name": "King Sunny Ade",
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        },
-        {
-          "name": "His Green Spot Band",
-          "url": "https://open.spotify.com/artist/3mpGdNsr8V4u4I0LofKAkF"
         }
       ],
-      "duration_ms": 166112,
-      "name": "Prince Adesanya",
-      "url": "https://open.spotify.com/track/49xJOKFxTW6dR02sgj4oL3"
+      "duration_ms": 217973,
+      "name": "Oro Towo Baseti",
+      "url": "https://open.spotify.com/track/53nr4M3BGTXAa5hyT4SmQf"
     },
     {
       "added_at": null,
@@ -763,18 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best of the Classic Years",
-        "url": "https://open.spotify.com/album/6Y5SoiYENbNuTBc6mTUKG9"
+        "name": "Sunny Ade and His Green Spot Band, Vol. 4",
+        "url": "https://open.spotify.com/album/6KKQUN5rh80KfwyvlnlkSh"
       },
       "artists": [
         {
           "name": "King Sunny Ade",
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "His Green Spot Band",
+          "url": "https://open.spotify.com/artist/3mpGdNsr8V4u4I0LofKAkF"
         }
       ],
-      "duration_ms": 217973,
-      "name": "Oro Towo Baseti",
-      "url": "https://open.spotify.com/track/53nr4M3BGTXAa5hyT4SmQf"
+      "duration_ms": 166112,
+      "name": "Prince Adesanya",
+      "url": "https://open.spotify.com/track/49xJOKFxTW6dR02sgj4oL3"
     },
     {
       "added_at": null,

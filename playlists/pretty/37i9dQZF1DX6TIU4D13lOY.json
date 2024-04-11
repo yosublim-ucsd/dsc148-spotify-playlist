@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock for a nice and easy drive.",
-  "num_followers": 251749,
+  "num_followers": 251836,
   "original_name": "Soft Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGMwMmNlZmU1OWU2YzBhZjE3MjQyZGVlNzFmZjViOWE2YTE0YTdm",
+  "snapshot_id": "MCw1YzRjOGJhNDIwNmY4YzZlNTBiMzEyNzM2YjQ5MTYzZDZiYTY1NjA3",
   "tracks": [
     {
       "added_at": "2020-01-07 15:31:11",
@@ -923,22 +923,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "The Pretender",
-        "url": "https://open.spotify.com/album/1AqUcQKtf2AQ6rFRKIBei8"
-      },
-      "artists": [
-        {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
-        }
-      ],
-      "duration_ms": 351000,
-      "name": "The Pretender",
-      "url": "https://open.spotify.com/track/7Gr61S9VTm8fcYfAo4Fd9g"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "What's Wrong with This Picture?",
         "url": "https://open.spotify.com/album/646DiNC3Ack9x3Q7dEBzKW"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 264893,
       "name": "Lonely Boy",
       "url": "https://open.spotify.com/track/6wGMLoEqD2k3RBXFHD0yUp"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "The Pretender",
+        "url": "https://open.spotify.com/album/1AqUcQKtf2AQ6rFRKIBei8"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "duration_ms": 351000,
+      "name": "The Pretender",
+      "url": "https://open.spotify.com/track/7Gr61S9VTm8fcYfAo4Fd9g"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Inside",
-        "url": "https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Milsap",
-          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Any Day Now",
-      "url": "https://open.spotify.com/track/30upl1YT1suEgSDpIopSky"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Whatever Happened to Benny Santini",
         "url": "https://open.spotify.com/album/2A2QeagYGmPHhuavSFQXnL"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 284533,
       "name": "Fool (If You Think It's Over)",
       "url": "https://open.spotify.com/track/0UHiH4dy1hXULYl8CgNxRV"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Any Day Now",
+      "url": "https://open.spotify.com/track/30upl1YT1suEgSDpIopSky"
     },
     {
       "added_at": "2022-06-29 18:01:05",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "The Best Of The Alessi Brothers",
-        "url": "https://open.spotify.com/album/1WABgS1g9NMV8cpwDS4aDY"
-      },
-      "artists": [
-        {
-          "name": "Alessi Brothers",
-          "url": "https://open.spotify.com/artist/0JxWz42OKiQ0V3KzA4mDF1"
-        }
-      ],
-      "duration_ms": 199693,
-      "name": "Oh Lori",
-      "url": "https://open.spotify.com/track/2ySmDfSawPEwvjDOxUQvnq"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Release",
         "url": "https://open.spotify.com/album/5KoWyVRECXH3IYrGuF4oza"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 233676,
       "name": "Shannon",
       "url": "https://open.spotify.com/track/4IYoyOVK9oQyJS1QZt5Vyj"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "The Best Of The Alessi Brothers",
+        "url": "https://open.spotify.com/album/1WABgS1g9NMV8cpwDS4aDY"
+      },
+      "artists": [
+        {
+          "name": "Alessi Brothers",
+          "url": "https://open.spotify.com/artist/0JxWz42OKiQ0V3KzA4mDF1"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "Oh Lori",
+      "url": "https://open.spotify.com/track/2ySmDfSawPEwvjDOxUQvnq"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Inside",
-        "url": "https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Milsap",
-          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "He Got You",
-      "url": "https://open.spotify.com/track/2Up5Gs5EJeAPeR3Ce5Aspi"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Tumbleweed Connection",
         "url": "https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 274040,
       "name": "Shadow Captain",
       "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+        }
+      ],
+      "duration_ms": 211533,
+      "name": "He Got You",
+      "url": "https://open.spotify.com/track/2Up5Gs5EJeAPeR3Ce5Aspi"
     },
     {
       "added_at": "2020-01-07 15:31:11",

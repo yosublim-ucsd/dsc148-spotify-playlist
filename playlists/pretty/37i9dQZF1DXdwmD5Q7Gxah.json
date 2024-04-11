@@ -1,12 +1,12 @@
 {
   "description": "cover: lizzy mcalpine",
-  "num_followers": 1142456,
+  "num_followers": 1142460,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTQwMmY1ODhiOGQ5YWY4ZGQzZTc5ODg1OTNmYTkzZjMwNzhlMzc5",
+  "snapshot_id": "MCw4OGVjN2JjMWViNzI3ODY5YzgwNjU4MTNlZTdmOTVkODQ1YzM3NjU3",
   "tracks": [
     {
       "added_at": "2024-04-05 04:00:00",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/6iyNRQsrrbqQ9IEJsq5t0U"
     },
     {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Live At Narcissus",
+        "url": "https://open.spotify.com/album/5CV2tpSgGgDj7OhcLfRLM1"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 338760,
+      "name": "Skin Parade / Fade Into You - Live At Narcissus",
+      "url": "https://open.spotify.com/track/2FsPY6AAXMDqU9EsN8Gs0t"
+    },
+    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "Dope Sick",
@@ -81,20 +97,36 @@
       "url": "https://open.spotify.com/track/0sAKBIDiIFc6UspothbzAW"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2024-04-10 20:07:31",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5"
+        "name": "Cards On The Table",
+        "url": "https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox"
       },
       "artists": [
         {
-          "name": "Galdive",
-          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
         }
       ],
-      "duration_ms": 233095,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4"
+      "duration_ms": 176913,
+      "name": "Cards On The Table",
+      "url": "https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4"
+    },
+    {
+      "added_at": "2024-03-21 17:07:38",
+      "album": {
+        "name": "Cinderella",
+        "url": "https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 243952,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -153,20 +185,20 @@
       "url": "https://open.spotify.com/track/1seLWPX7HzMY1FZ4lrGXuD"
     },
     {
-      "added_at": "2024-03-29 04:00:00",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Live At Narcissus",
-        "url": "https://open.spotify.com/album/5CV2tpSgGgDj7OhcLfRLM1"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5"
       },
       "artists": [
         {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
         }
       ],
-      "duration_ms": 338760,
-      "name": "Skin Parade / Fade Into You - Live At Narcissus",
-      "url": "https://open.spotify.com/track/2FsPY6AAXMDqU9EsN8Gs0t"
+      "duration_ms": 233095,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4"
     },
     {
       "added_at": "2024-04-05 23:23:27",
@@ -183,6 +215,38 @@
       "duration_ms": 156266,
       "name": "Nothing Lasts",
       "url": "https://open.spotify.com/track/2uwscEwG2u0rDYTGSvxrWu"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Stained Glass Window",
+        "url": "https://open.spotify.com/album/5zbENpmH6iINqbaiADr8Gx"
+      },
+      "artists": [
+        {
+          "name": "Sunday (1994)",
+          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
+        }
+      ],
+      "duration_ms": 267368,
+      "name": "Stained Glass Window",
+      "url": "https://open.spotify.com/track/1Iy1dBd5qO65eTnsZ2oqLV"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Crying Over U",
+        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 234231,
+      "name": "Crying Over U",
+      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
     },
     {
       "added_at": "2024-03-29 16:33:05",
@@ -253,22 +317,6 @@
       "url": "https://open.spotify.com/track/60hF90c4Fgdxf1b8mWyQzN"
     },
     {
-      "added_at": "2024-03-21 17:07:38",
-      "album": {
-        "name": "Cinderella",
-        "url": "https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 243952,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8"
-    },
-    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Catching Chickens EP",
@@ -329,22 +377,6 @@
       "url": "https://open.spotify.com/track/7i48RHkDSR8Llnx8365Bj2"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Stained Glass Window",
-        "url": "https://open.spotify.com/album/5zbENpmH6iINqbaiADr8Gx"
-      },
-      "artists": [
-        {
-          "name": "Sunday (1994)",
-          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
-        }
-      ],
-      "duration_ms": 267368,
-      "name": "Stained Glass Window",
-      "url": "https://open.spotify.com/track/1Iy1dBd5qO65eTnsZ2oqLV"
-    },
-    {
       "added_at": "2024-04-03 18:54:17",
       "album": {
         "name": "I Hate You In The Morning",
@@ -359,22 +391,6 @@
       "duration_ms": 134720,
       "name": "I Hate You In The Morning",
       "url": "https://open.spotify.com/track/1wb6Q8C37X3rJHSrgYCdOv"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Crying Over U",
-        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 234231,
-      "name": "Crying Over U",
-      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
     },
     {
       "added_at": "2024-04-02 18:29:42",
@@ -567,22 +583,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Calling After Me",
-        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 187692,
-      "name": "Calling After Me",
-      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Docket (feat. Bully)",
         "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 210493,
       "name": "Docket (feat. Bully)",
       "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
-    },
-    {
-      "added_at": "2024-03-21 17:07:38",
-      "album": {
-        "name": "Underdressed at the Symphony",
-        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 396157,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/7aX39T4YHNZ03NAmjc3DLr"
     },
     {
       "added_at": "2024-03-14 23:57:15",
@@ -681,6 +665,22 @@
       "url": "https://open.spotify.com/track/08KP4FEV1JZUQu8ZL2Uru9"
     },
     {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Calling After Me",
+        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Calling After Me",
+      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
+    },
+    {
       "added_at": "2024-03-21 17:07:38",
       "album": {
         "name": "Bright Future",
@@ -711,6 +711,22 @@
       "duration_ms": 176921,
       "name": "Sweater Club",
       "url": "https://open.spotify.com/track/4nEoYjvVzrEz0IVDru6xRc"
+    },
+    {
+      "added_at": "2024-03-21 17:07:38",
+      "album": {
+        "name": "Underdressed at the Symphony",
+        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 396157,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/7aX39T4YHNZ03NAmjc3DLr"
     },
     {
       "added_at": "2024-03-05 14:46:52",
@@ -919,26 +935,6 @@
       "duration_ms": 158666,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/3mYrfAIQK0DgyYutDVEFGS"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Intercession Before Charlotte",
-        "url": "https://open.spotify.com/album/5eT8m1zk15Bbb0FeyAZB49"
-      },
-      "artists": [
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Rockin My World",
-      "url": "https://open.spotify.com/track/6HW2JkmIH0XbAdG2hrQY2n"
     },
     {
       "added_at": "2024-03-01 05:00:00",

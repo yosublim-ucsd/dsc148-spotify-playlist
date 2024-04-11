@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going with <a href="https://www.instagram.com/sweetone.jpg/">Sweet One!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,453 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,536 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 49 | [The Heat](https://open.spotify.com/track/7HErma1ht0kUE4kIahqrja) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [The Heat](https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi) | 3:30 |
 | 50 | [Red Room](https://open.spotify.com/track/55mvtucws4Mnro27744t9X) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 3:52 |
 
-Snapshot ID: `MCwyNzhlOTZlOTljMTIzMDAzNDczMDhhMjAzMzQwNTk4YzU4MDEzYjJk`
+Snapshot ID: `MCwxMGRiNjlkZDkzYzgxNDdlNDE0YzBjOGM1NDcyMDBlMmYxYTdjM2Y0`

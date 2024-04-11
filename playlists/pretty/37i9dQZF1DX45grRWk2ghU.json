@@ -1,12 +1,12 @@
 {
   "description": "\u2728 life in plastic is fantastic \u2728",
-  "num_followers": 442280,
+  "num_followers": 442821,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDFkNmM3YzM5OWEzZjlmNjZkNzAyNDJhNjZkZGM3MWQ4ZGVmZjI5",
+  "snapshot_id": "MCw0NGEyNzY1MzllOGVhZjExMTFiNDM1NWRkNjVhZTI4Y2YxNjY5NTZm",
   "tracks": [
     {
       "added_at": "2024-04-06 18:52:13",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-04-06 18:52:13",
       "album": {
-        "name": "Hey, Mickey!",
-        "url": "https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 115555,
-      "name": "Hey, Mickey!",
-      "url": "https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp"
-    },
-    {
-      "added_at": "2024-04-06 18:52:13",
-      "album": {
         "name": "Doll Domination (Deluxe)",
         "url": "https://open.spotify.com/album/7mDkWKTghwBDuHCJmH6qR5"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 245680,
       "name": "When I Grow Up",
       "url": "https://open.spotify.com/track/21pySLskKIKrhDziCX5ojQ"
+    },
+    {
+      "added_at": "2024-04-06 18:52:13",
+      "album": {
+        "name": "Hey, Mickey!",
+        "url": "https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 115555,
+      "name": "Hey, Mickey!",
+      "url": "https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp"
     },
     {
       "added_at": "2024-04-06 18:52:13",
@@ -667,22 +667,18 @@
     {
       "added_at": "2024-04-06 18:52:13",
       "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 129817,
-      "name": "Hot In It (feat. Charli XCX)",
-      "url": "https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn"
+      "duration_ms": 258034,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
     },
     {
       "added_at": "2024-04-06 18:52:13",
@@ -703,6 +699,26 @@
     {
       "added_at": "2024-04-06 18:52:13",
       "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 129817,
+      "name": "Hot In It (feat. Charli XCX)",
+      "url": "https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn"
+    },
+    {
+      "added_at": "2024-04-06 18:52:13",
+      "album": {
         "name": "DEMIDEVIL",
         "url": "https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 146523,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx"
-    },
-    {
-      "added_at": "2024-04-06 18:52:13",
-      "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 258034,
-      "name": "Pink Pony Club",
-      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
     },
     {
       "added_at": "2024-04-06 18:52:13",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-04-06 18:52:13",
       "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 173461,
+      "name": "Cupid - Twin Ver.",
+      "url": "https://open.spotify.com/track/3yphjkz7V5xFXdfBEXVKL6"
+    },
+    {
+      "added_at": "2024-04-06 18:52:13",
+      "album": {
         "name": "The New Classic (Deluxe Version)",
         "url": "https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx"
       },
@@ -915,26 +931,6 @@
     {
       "added_at": "2024-04-06 18:52:13",
       "album": {
-        "name": "Mean Girls (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        },
-        {
-          "name": "Cast of Mean Girls",
-          "url": "https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN"
-        }
-      ],
-      "duration_ms": 215936,
-      "name": "World Burn",
-      "url": "https://open.spotify.com/track/12t8ncJH9PC4P9SxvEEySH"
-    },
-    {
-      "added_at": "2024-04-06 18:52:13",
-      "album": {
         "name": "Love Angel Music Baby (Deluxe Version)",
         "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
       },
@@ -955,6 +951,26 @@
     {
       "added_at": "2024-04-06 18:52:13",
       "album": {
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        },
+        {
+          "name": "Cast of Mean Girls",
+          "url": "https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN"
+        }
+      ],
+      "duration_ms": 215936,
+      "name": "World Burn",
+      "url": "https://open.spotify.com/track/12t8ncJH9PC4P9SxvEEySH"
+    },
+    {
+      "added_at": "2024-04-06 18:52:13",
+      "album": {
         "name": "Not Your Barbie Girl",
         "url": "https://open.spotify.com/album/0V4a4xYECICWUCzgoxfIYF"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 186520,
       "name": "Not Your Barbie Girl",
       "url": "https://open.spotify.com/track/4fkM7M4Uo5AUASnnsRC7EZ"
-    },
-    {
-      "added_at": "2024-04-06 18:52:13",
-      "album": {
-        "name": "The Beginning",
-        "url": "https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 173461,
-      "name": "Cupid - Twin Ver.",
-      "url": "https://open.spotify.com/track/3yphjkz7V5xFXdfBEXVKL6"
     },
     {
       "added_at": "2024-04-06 18:52:13",

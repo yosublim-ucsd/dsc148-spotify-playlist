@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,551 likes - 100 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,553 likes - 100 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 5 | [Great Is Thy Faithfulness](https://open.spotify.com/track/3dbQ6EkRqF9QybiLBK6OtZ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Great Is Thy Faithfulness](https://open.spotify.com/album/5THKPg2PJbxmj3nl6D7fpg) | 4:21 |
 | 6 | [Great Are You Lord \- Live](https://open.spotify.com/track/4PYOh644yKjYyvyVUHqcof) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Live](https://open.spotify.com/album/1xFAQGLd2GUNK0Ji9ss9TG) | 4:50 |
 | 7 | [10,000 Reasons \(Bless The Lord\) \[Radio Version\] \- Radio Version/Live](https://open.spotify.com/track/2MobJagQB0dGJoRqI8OT0m) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Sing Like Never Before: The Essential Collection](https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm) | 4:16 |
-| 8 | [Come As You Are](https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Neon Steeple](https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf) | 4:49 |
-| 9 | [Not in a Hurry](https://open.spotify.com/track/4Xwry2rjyXZg9unm8QaRFL) | [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP), [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Tell All My Friends](https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF) | 4:51 |
+| 8 | [Not in a Hurry](https://open.spotify.com/track/4Xwry2rjyXZg9unm8QaRFL) | [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP), [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Tell All My Friends](https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF) | 4:51 |
+| 9 | [Come As You Are](https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Neon Steeple](https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf) | 4:49 |
 | 10 | [How Deep the Father's Love for Us](https://open.spotify.com/track/5yxV7E3ezJA6rF4ICYYSZV) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Take Me There](https://open.spotify.com/album/0mj1P9XdKwUn2M2sVsIVFe) | 3:36 |
 | 11 | [Build My Life](https://open.spotify.com/track/0QatL1szZzMTAfZoJKWo0s) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [Housefires III](https://open.spotify.com/album/4HCgEprGQ9xJdc80TF4fov) | 8:11 |
 | 12 | [How Great Thou Art](https://open.spotify.com/track/4fvpSvvMoEd9ka3wfMGjKn) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Savior](https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww) | 5:20 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 86 | [At the Foot of the Cross \- Acoustic](https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 3:59 |
 | 87 | [My Hope Is Built / The Solid Rock](https://open.spotify.com/track/7el80wCuyU2ByLix3o7b78) | [Norton Hall Band](https://open.spotify.com/artist/7lYCHQLcDqNrJjIgKAEkje) | [My Hope and Stay: Hymns Project, Vol\. II](https://open.spotify.com/album/5ji5EiVJLACqVSezLxHmZO) | 3:44 |
 | 88 | [Belly of the Deepest Love](https://open.spotify.com/track/4bYRPHqa4EhjaEGuR4ZFrn) | [Tow'rs](https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql) | [Tow'rs](https://open.spotify.com/album/4Np45ltBrVtuxHzYlIBwl8) | 6:21 |
-| 89 | [As The Deer](https://open.spotify.com/track/0XwVqr3oNiLpuQI3NkzQgf) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Praise 8 \- As The Deer](https://open.spotify.com/album/5W8FCrbWLKeeltQ0NBEdUG) | 4:09 |
-| 90 | [Counting Every Blessing](https://open.spotify.com/track/7ewrtrIaGOiKh3G0zD5egG) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Counting Every Blessing](https://open.spotify.com/album/77bSJkD7soqec8JBlCV4Xq) | 5:02 |
+| 89 | [Counting Every Blessing](https://open.spotify.com/track/7ewrtrIaGOiKh3G0zD5egG) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Counting Every Blessing](https://open.spotify.com/album/77bSJkD7soqec8JBlCV4Xq) | 5:02 |
+| 90 | [As The Deer](https://open.spotify.com/track/0XwVqr3oNiLpuQI3NkzQgf) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Praise 8 \- As The Deer](https://open.spotify.com/album/5W8FCrbWLKeeltQ0NBEdUG) | 4:09 |
 | 91 | [Rain](https://open.spotify.com/track/3nuCQCHTJfoJP6Ws2FczPS) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [The Beauty Between](https://open.spotify.com/album/22dJNerbGPZtrsoAjyTy9y) | 3:37 |
 | 92 | [Christ the Sure and Steady Anchor](https://open.spotify.com/track/4Pq8VwiL1XA7MfpmDhY7dw) | [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm) | [Messenger Hymns, Vol\. 2 \- EP](https://open.spotify.com/album/00AuuN8Eba5KnPauBSOT6w) | 3:54 |
 | 93 | [Doxology//Amen](https://open.spotify.com/track/4cQkz0txDhGT7Y321gfGho) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 4:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 99 | [All Glory Be to Christ](https://open.spotify.com/track/02GNfO1O7d0Rx3tGcvfuIP) | [Kings \(MHM\)](https://open.spotify.com/artist/64bkd3Cql2VeQBIfl5tjCC) | [Joy Has Dawned](https://open.spotify.com/album/7jfGMR3tcoRYefoNxst4w8) | 4:06 |
 | 100 | [Oh What a Father](https://open.spotify.com/track/3o7URX1AsYvYSbNPxfUbD1) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Morning Sun, Rising Tide](https://open.spotify.com/album/37U27IBkwWHn9hHZXUZJ5Q) | 3:56 |
 
-Snapshot ID: `MCw3M2JmMjQxZWM3NmU5ZDQwODEwYWUxNzg5YTQ4YjZmODU0OGY4MWI1`
+Snapshot ID: `MCxjZDNiZDlhYjc4NzZjMjBkZDk2MjVmYTZjZGEzYzVlYzcyMDNhODVh`

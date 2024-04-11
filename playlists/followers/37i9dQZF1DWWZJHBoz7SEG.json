@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 836486,
+  "2024-04-11": 836781,
   "date_first_scraped": "2022-02-09",
   "description": "Salsa, Bachata, Dembow, Reggaet\u00f3n... Lleve su nueva rolita favorita con Chencho Corleone y Peso Pluma en portada ",
   "name": "Novedades Viernes MX",
@@ -9571,7 +9571,7 @@
     {
       "album": {
         "name": "Soy Como Quiero Ser (Deluxe)",
-        "url": "https://open.spotify.com/album/2ttpwARIej8YdDGj6Z9I1P"
+        "url": "https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe"
       },
       "artists": [
         {
@@ -9586,6 +9586,28 @@
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 183768,
+      "name": "Bandido de Amores",
+      "url": "https://open.spotify.com/track/3Vqdfo6gPXVRdU5WdQi2VT"
+    },
+    {
+      "album": {
+        "name": "Soy Como Quiero Ser (Deluxe)",
+        "url": "https://open.spotify.com/album/2ttpwARIej8YdDGj6Z9I1P"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-10",
       "duration_ms": 183768,
       "name": "Bandido de Amores",
       "url": "https://open.spotify.com/track/7gHoeow1Cxlb2l7m4klYjM"

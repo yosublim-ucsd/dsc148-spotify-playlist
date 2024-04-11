@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 19658,
+  "num_followers": 19661,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzVmM2ZiZmExOGIwNTA2NzE0N2ZmOWRjNjQ5NjIwZmVmZTBhNGM1",
+  "snapshot_id": "MCxkNTdjMWJkNWY4ZWFhODE1MWQ5YTM3Yzc4NjczNTZhNjMzNDg2YzE3",
   "tracks": [
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goddamnit!",
-        "url": "https://open.spotify.com/album/7MtJrKwP2h9eJMqnooR6iM"
+        "name": "Agony & Irony (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 157626,
-      "name": "Nose Over Tail",
-      "url": "https://open.spotify.com/track/2S625H9Z7oaQD3p7pt5CvJ"
+      "duration_ms": 224600,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/2RHNirj8PxX3g6FBiHMney"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agony & Irony (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l"
+        "name": "Goddamnit!",
+        "url": "https://open.spotify.com/album/7MtJrKwP2h9eJMqnooR6iM"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 224600,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/2RHNirj8PxX3g6FBiHMney"
+      "duration_ms": 157626,
+      "name": "Nose Over Tail",
+      "url": "https://open.spotify.com/track/2S625H9Z7oaQD3p7pt5CvJ"
     },
     {
       "added_at": null,

@@ -1,29 +1,13 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53760,
+  "num_followers": 53757,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDk3NzQ3YjA3OGVjMmQ3ZTFiYWU4MjZhMTczOTlmMjYxYWI2YWFk",
+  "snapshot_id": "MCw1ZjFhYjU1NjMwYzcyMmY0NDY5YjM3OTQ1MGNlNjA1ZjU5ZTRlM2Nk",
   "tracks": [
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
-        "name": "Azusa The Next Generation",
-        "url": "https://open.spotify.com/album/6DCAqtLpV7aZedYHy7hRA1"
-      },
-      "artists": [
-        {
-          "name": "Hezekiah Walker",
-          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
-        }
-      ],
-      "duration_ms": 441546,
-      "name": "Every Praise - (album edit)",
-      "url": "https://open.spotify.com/track/0nSrUpDjFouhaQB7dOi0h7"
-    },
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 480546,
       "name": "You Know My Name",
       "url": "https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
+        "name": "Azusa The Next Generation",
+        "url": "https://open.spotify.com/album/6DCAqtLpV7aZedYHy7hRA1"
+      },
+      "artists": [
+        {
+          "name": "Hezekiah Walker",
+          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
+        }
+      ],
+      "duration_ms": 441546,
+      "name": "Every Praise - (album edit)",
+      "url": "https://open.spotify.com/track/0nSrUpDjFouhaQB7dOi0h7"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -99,18 +99,18 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "Decade",
-        "url": "https://open.spotify.com/album/6oRlsJuXGdngrivhSqAq75"
+        "name": "A Worshipper's Heart (Live)",
+        "url": "https://open.spotify.com/album/1jjOEtC7Kr6GjyWiyipYCB"
       },
       "artists": [
         {
-          "name": "Israel Houghton",
-          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
         }
       ],
-      "duration_ms": 322952,
-      "name": "You Are Good",
-      "url": "https://open.spotify.com/track/3Rn2n87UEQV0YxDCxvqSI8"
+      "duration_ms": 344733,
+      "name": "Victory Belongs To Jesus (Live)",
+      "url": "https://open.spotify.com/track/0Bgd1ABS94lhwYDCEQHpsP"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -131,18 +131,18 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "A Worshipper's Heart (Live)",
-        "url": "https://open.spotify.com/album/1jjOEtC7Kr6GjyWiyipYCB"
+        "name": "Decade",
+        "url": "https://open.spotify.com/album/6oRlsJuXGdngrivhSqAq75"
       },
       "artists": [
         {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
         }
       ],
-      "duration_ms": 344733,
-      "name": "Victory Belongs To Jesus (Live)",
-      "url": "https://open.spotify.com/track/0Bgd1ABS94lhwYDCEQHpsP"
+      "duration_ms": 322952,
+      "name": "You Are Good",
+      "url": "https://open.spotify.com/track/3Rn2n87UEQV0YxDCxvqSI8"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "Greater Than (Live)",
-        "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 564293,
-      "name": "He Turned It - Live",
-      "url": "https://open.spotify.com/track/7Fte0ZlZByZwdmiOBfTWxr"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
         "name": "The Life Project",
         "url": "https://open.spotify.com/album/2lcz20I84GFNbynt1xMUxL"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 446666,
       "name": "You're Bigger",
       "url": "https://open.spotify.com/track/2J2f58QGLLvGgW3ct21HSD"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
+        "name": "Greater Than (Live)",
+        "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 564293,
+      "name": "He Turned It - Live",
+      "url": "https://open.spotify.com/track/7Fte0ZlZByZwdmiOBfTWxr"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt"
+      },
+      "artists": [
+        {
+          "name": "Brian Courtney Wilson",
+          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
+        }
+      ],
+      "duration_ms": 241413,
+      "name": "Worth Fighting For - 1 Mic 1 Take",
+      "url": "https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
         "name": "Cross Music",
         "url": "https://open.spotify.com/album/3z24Ma8w7dD4WkQ67D7o57"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 317607,
       "name": "Redeemer",
       "url": "https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
-        "name": "Resilience",
-        "url": "https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt"
-      },
-      "artists": [
-        {
-          "name": "Brian Courtney Wilson",
-          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
-        }
-      ],
-      "duration_ms": 241413,
-      "name": "Worth Fighting For - 1 Mic 1 Take",
-      "url": "https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "Declarations",
-        "url": "https://open.spotify.com/album/5nrlMygEzgFg6Jk3ZvZAZK"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Nelson",
-          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
-        }
-      ],
-      "duration_ms": 373986,
-      "name": "Jesus I Love You",
-      "url": "https://open.spotify.com/track/1ypwxcZd1adF3iNbyUbl9O"
-    },
-    {
-      "added_at": "2024-03-20 11:34:13",
-      "album": {
         "name": "Famous For (I Believe) [Sunday A.M. Version]",
         "url": "https://open.spotify.com/album/34OmquTJzMTUsnK1r0nom8"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 278460,
       "name": "Famous For (I Believe) [Sunday A.M. Version]",
       "url": "https://open.spotify.com/track/2ovxN980BRpzCTvbq6HWb8"
+    },
+    {
+      "added_at": "2024-03-20 11:34:13",
+      "album": {
+        "name": "Declarations",
+        "url": "https://open.spotify.com/album/5nrlMygEzgFg6Jk3ZvZAZK"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Nelson",
+          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+        }
+      ],
+      "duration_ms": 373986,
+      "name": "Jesus I Love You",
+      "url": "https://open.spotify.com/track/1ypwxcZd1adF3iNbyUbl9O"
     },
     {
       "added_at": "2024-03-20 11:34:13",
@@ -1799,18 +1799,22 @@
     {
       "added_at": "2024-03-20 11:34:13",
       "album": {
-        "name": "Donald Lawrence & The Tri-City Singers Collection",
-        "url": "https://open.spotify.com/album/5ejaaJUSkQ6k7LdxFAniDs"
+        "name": "Wanda Nero Butler & Yolanda Adams",
+        "url": "https://open.spotify.com/album/2Cl4KsxZsmtURyKzXBDSL4"
       },
       "artists": [
         {
-          "name": "Donald Lawrence & The Tri-City Singers",
-          "url": "https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V"
+          "name": "Wanda Nero Butler",
+          "url": "https://open.spotify.com/artist/45G4MMIPUIxPDWLDhuVzY9"
+        },
+        {
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
         }
       ],
-      "duration_ms": 328253,
-      "name": "These Nails - Live",
-      "url": "https://open.spotify.com/track/3kVIUABK3lKYuXOu6d4vjl"
+      "duration_ms": 220493,
+      "name": "Just As I Am",
+      "url": "https://open.spotify.com/track/6T9cKNsIuOE3p0mTVgZlIX"
     }
   ],
   "unique_name": "Easter Gospel",

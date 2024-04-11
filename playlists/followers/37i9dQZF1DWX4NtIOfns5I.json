@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 99274,
+  "2024-04-11": 99318,
   "date_first_scraped": "2023-10-07",
   "description": "songs that we love <3 medium build on the cover",
   "name": "juniper",
@@ -2913,10 +2913,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 231724,
       "name": "Rearview",
       "url": "https://open.spotify.com/track/3RyPOX98HHEYQholV0RBYF"
+    },
+    {
+      "album": {
+        "name": "County Line",
+        "url": "https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231724,
+      "name": "Rearview",
+      "url": "https://open.spotify.com/track/62WbDgGyCki73Ec2Reuvze"
     },
     {
       "album": {

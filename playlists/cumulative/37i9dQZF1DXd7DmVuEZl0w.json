@@ -515,6 +515,28 @@
     },
     {
       "album": {
+        "name": "Eid Bala Qyoud",
+        "url": "https://open.spotify.com/album/2XucnWpj84VDUWf1hEGrK8"
+      },
+      "artists": [
+        {
+          "name": "Ayed",
+          "url": "https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U"
+        },
+        {
+          "name": "Hamad Alkhazina",
+          "url": "https://open.spotify.com/artist/3p0nJ84LCAtFxqIg2zdAcE"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159636,
+      "name": "Eid Bala Qyoud",
+      "url": "https://open.spotify.com/track/4wpTGJzGX2NMSo5xiojbmY"
+    },
+    {
+      "album": {
         "name": "El 3asal",
         "url": "https://open.spotify.com/album/3TE0kPmcSenKkNKyfTLLWS"
       },
@@ -1368,6 +1390,24 @@
       "duration_ms": 193877,
       "name": "Salo 3la Rasol Allah",
       "url": "https://open.spotify.com/track/2cEAqY1dsGq0ZIamWepfID"
+    },
+    {
+      "album": {
+        "name": "Shahr 7",
+        "url": "https://open.spotify.com/album/2Bhcqu0QL5QSr6RmtIffsv"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366058,
+      "name": "Shahr 7",
+      "url": "https://open.spotify.com/track/5W38ngA8pVHq5AnsyWNVM5"
     },
     {
       "album": {

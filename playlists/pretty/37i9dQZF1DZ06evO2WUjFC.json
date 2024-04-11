@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Felix. The essential tracks, all in one playlist.",
-  "num_followers": 748,
+  "num_followers": 749,
   "original_name": "This Is Danny Felix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzZjM2ZlMDcxZWI5ODBhYTFmMDZiYzkwNTE3MzI2MjMxMTJmZTQ5",
+  "snapshot_id": "MCxhMTQyNDNmY2FlZmNmMjc2ZGNjMjIzODU3ZWE5Y2Q2MGU3YjE4ZGIy",
   "tracks": [
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Pase De Lavada (En Vivo)",
-        "url": "https://open.spotify.com/album/7pFb4OH3XCpQoIhWOgzOE7"
-      },
-      "artists": [
-        {
-          "name": "Chris Hermosillo",
-          "url": "https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B"
-        },
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 198826,
-      "name": "Un Pase De Lavada (En Vivo)",
-      "url": "https://open.spotify.com/track/2a9Yj20bS6Np0SF3KKnP7l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Sue\u00f1o De Un Marihuano",
         "url": "https://open.spotify.com/album/3poGRaYQ4EUVJ3MWmuF68L"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 200946,
       "name": "El Sue\u00f1o De Un Marihuano",
       "url": "https://open.spotify.com/track/7ww8HjlWZSG4vwkFSYJwGP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Pase De Lavada (En Vivo)",
+        "url": "https://open.spotify.com/album/7pFb4OH3XCpQoIhWOgzOE7"
+      },
+      "artists": [
+        {
+          "name": "Chris Hermosillo",
+          "url": "https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B"
+        },
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 198826,
+      "name": "Un Pase De Lavada (En Vivo)",
+      "url": "https://open.spotify.com/track/2a9Yj20bS6Np0SF3KKnP7l"
     },
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TUMBADO STYLE",
-        "url": "https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Alberto H",
-          "url": "https://open.spotify.com/artist/5aOm6iaKxo35g41zaju8kd"
-        }
-      ],
-      "duration_ms": 194626,
-      "name": "SALUDOS A MI VIEJ\u00d3N",
-      "url": "https://open.spotify.com/track/4knDhZzmW9BGEZ9WkbUuYR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cr\u00f3nicas De Un Coraz\u00f3n Roto",
         "url": "https://open.spotify.com/album/5rTJ6pTQUCyIxxWKlWhvaz"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 200979,
       "name": "Qu\u00edtate La Ropa",
       "url": "https://open.spotify.com/track/4ERKgBz9yny32wfRoG1kli"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TUMBADO STYLE",
+        "url": "https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Alberto H",
+          "url": "https://open.spotify.com/artist/5aOm6iaKxo35g41zaju8kd"
+        }
+      ],
+      "duration_ms": 194626,
+      "name": "SALUDOS A MI VIEJ\u00d3N",
+      "url": "https://open.spotify.com/track/4knDhZzmW9BGEZ9WkbUuYR"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TUMBADO STYLE",
-        "url": "https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 97760,
-      "name": "INTRO TUMBADO",
-      "url": "https://open.spotify.com/track/4qHB4HsyhVZbJ3IJMH25ZM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mariachi Tumbado",
         "url": "https://open.spotify.com/album/335zeL9J8OJmo2tlroxaI7"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 168720,
       "name": "Mariachi Tumbado",
       "url": "https://open.spotify.com/track/4rTmwZuswNYGDK3M2Ia7Zc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TUMBADO STYLE",
+        "url": "https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 97760,
+      "name": "INTRO TUMBADO",
+      "url": "https://open.spotify.com/track/4qHB4HsyhVZbJ3IJMH25ZM"
     },
     {
       "added_at": null,
@@ -679,22 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "TUMBADO STYLE",
-        "url": "https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7"
+        "name": "12:34",
+        "url": "https://open.spotify.com/album/7GhNtRAUiODAMJQyl8fa6b"
       },
       "artists": [
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Brandon Reyes y Elvin",
-          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
         }
       ],
-      "duration_ms": 230853,
-      "name": "BANDIDOS",
-      "url": "https://open.spotify.com/track/3HFpZKFhuaKGAoG3syVTMi"
+      "duration_ms": 155186,
+      "name": "TUMBAD\u00d3N",
+      "url": "https://open.spotify.com/track/1nlWsqcnO3VL9UfMvEGuzY"
     },
     {
       "added_at": null,
@@ -715,18 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "12:34",
-        "url": "https://open.spotify.com/album/7GhNtRAUiODAMJQyl8fa6b"
+        "name": "TUMBADO STYLE",
+        "url": "https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7"
       },
       "artists": [
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
         }
       ],
-      "duration_ms": 155186,
-      "name": "TUMBAD\u00d3N",
-      "url": "https://open.spotify.com/track/1nlWsqcnO3VL9UfMvEGuzY"
+      "duration_ms": 230853,
+      "name": "BANDIDOS",
+      "url": "https://open.spotify.com/track/3HFpZKFhuaKGAoG3syVTMi"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00edo Lito",
-        "url": "https://open.spotify.com/album/4jNExfI0rnr7LOtTbUYAzM"
+        "name": "amorlove",
+        "url": "https://open.spotify.com/album/6rShPRJVTWIv4uvdcQgKmZ"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 177720,
-      "name": "T\u00cdO LITO",
-      "url": "https://open.spotify.com/track/2ciwbD1E3lk13o1zODnJjL"
+      "duration_ms": 149386,
+      "name": "amorlove",
+      "url": "https://open.spotify.com/track/7FwmTxJMAymJsRwR4YVPYF"
     },
     {
       "added_at": null,
@@ -835,6 +835,22 @@
       "duration_ms": 143506,
       "name": "De Verde Una Hect\u00e1rea",
       "url": "https://open.spotify.com/track/4Epr5XuIyiVQhCC5SMVXtw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00edo Lito",
+        "url": "https://open.spotify.com/album/4jNExfI0rnr7LOtTbUYAzM"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "T\u00cdO LITO",
+      "url": "https://open.spotify.com/track/2ciwbD1E3lk13o1zODnJjL"
     },
     {
       "added_at": null,
@@ -871,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TUMBADO STYLE",
+        "url": "https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 141400,
+      "name": "DOCTOR DEL BARRIO",
+      "url": "https://open.spotify.com/track/0nML7ShqQh6oxvVE7RZZBo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La F****g Ola",
         "url": "https://open.spotify.com/album/60dcyhKJXf69o3jx474mAE"
       },
@@ -891,38 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TUMBADO STYLE",
-        "url": "https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 141400,
-      "name": "DOCTOR DEL BARRIO",
-      "url": "https://open.spotify.com/track/0nML7ShqQh6oxvVE7RZZBo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "amorlove",
-        "url": "https://open.spotify.com/album/6rShPRJVTWIv4uvdcQgKmZ"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 149386,
-      "name": "amorlove",
-      "url": "https://open.spotify.com/track/7FwmTxJMAymJsRwR4YVPYF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live, Finix Style",
         "url": "https://open.spotify.com/album/2k2o60nWRLbor5MuwY0pZC"
       },
@@ -939,34 +939,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con La Cochi (En Vivo)",
-        "url": "https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi"
+        "name": "No Hay Pedo, Hay Peda (En Vivo)",
+        "url": "https://open.spotify.com/album/5jaNQ9eqs1mTJwOsEunLY5"
       },
       "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 145160,
-      "name": "Los Botones Azules - En Vivo",
-      "url": "https://open.spotify.com/track/2NHn4MUTVUoT3K7LWP2Itb"
+      "duration_ms": 230293,
+      "name": "Nave 727 - En Vivo",
+      "url": "https://open.spotify.com/track/5Zk59MAZxwbf6oMulM8P0k"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Live, Cumbia Style",
-        "url": "https://open.spotify.com/album/4D7wdyK9OX8l0ApDVOQqO5"
+        "name": "Mariachi Tumbado",
+        "url": "https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU"
       },
       "artists": [
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Neto Bernal",
+          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
         }
       ],
-      "duration_ms": 166500,
-      "name": "La Vida Es Un Carnaval (Live)",
-      "url": "https://open.spotify.com/track/3qsJZt81pdlzRBN3uT1bRH"
+      "duration_ms": 171933,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/2A1O05xCTx3gzPVqTfV1cP"
     }
   ],
   "unique_name": "This Is Danny Felix",

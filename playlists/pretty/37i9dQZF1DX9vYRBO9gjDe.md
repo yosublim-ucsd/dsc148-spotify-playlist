@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。4月8日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,274 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,310 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [キラキラの灰](https://open.spotify.com/track/0u0fZBgvRjNbzmiLyW6ITX) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [キラキラの灰](https://open.spotify.com/album/3k6e6pejyoAWZExzb2p8f2) | 4:07 |
 | 50 | [泣いても笑って](https://open.spotify.com/track/0y8z5JSMWLodw54KHHMeIr) | [Ketsumeishi](https://open.spotify.com/artist/4FyAgiZa3q0eeljDvcOXFh) | [泣いても笑って](https://open.spotify.com/album/1N3r4ZTNItwc622dAJsCNY) | 4:35 |
 
-Snapshot ID: `MCw3ZTIzMDAzZWU5YTAwMWMwNzgxMWY0ZTY2NGYzZGRmOWE3Y2E1YmZm`
+Snapshot ID: `MCxhNDE3ZTUyOGMzZGVlM2M3NTVmYjVlZjJjZGE3OTYzYWY4NjExNGZh`

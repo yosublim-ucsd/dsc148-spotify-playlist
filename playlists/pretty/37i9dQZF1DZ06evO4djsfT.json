@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 23899,
+  "num_followers": 23910,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWNkMTIwNTM1NjJjNmIyYjFmNjI2NGVjNTM1OTBkOGRlYTNkMmIy",
+  "snapshot_id": "MCxiN2UxZDJkMzg5YjgyZWYwZmJjOGM2MzNhZjhjYWJiNzE3ZWZmOWQ3",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "King Jesus",
+      "url": "https://open.spotify.com/track/1o6Rm46dLxydQtmOw233jX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Be Alright (Remix)",
         "url": "https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7"
       },
@@ -151,26 +171,6 @@
       "duration_ms": 222854,
       "name": "Be Alright - Remix",
       "url": "https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Glory Alone II",
-        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "King Jesus",
-      "url": "https://open.spotify.com/track/1o6Rm46dLxydQtmOw233jX"
     },
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        }
-      ],
-      "duration_ms": 219242,
-      "name": "100",
-      "url": "https://open.spotify.com/track/30lW7sca9vsJThBCifkwGo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hills and Valleys (Deluxe Edition)",
         "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 237496,
       "name": "Undefeated (feat. KB)",
       "url": "https://open.spotify.com/track/3MU0cqyxgy3jc3Z4mu766m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "duration_ms": 219242,
+      "name": "100",
+      "url": "https://open.spotify.com/track/30lW7sca9vsJThBCifkwGo"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worship in the Moshpit",
-        "url": "https://open.spotify.com/album/3ccBgpEeVPly4YAOLBDuPX"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 190480,
-      "name": "Worship in the Moshpit",
-      "url": "https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Long Live the Champion",
         "url": "https://open.spotify.com/album/0AN00aCqSqB60vYCBInkDW"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 263118,
       "name": "Long Live the Champion",
       "url": "https://open.spotify.com/track/6fUxgWa744fqILNOVFrysp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Worship in the Moshpit",
+        "url": "https://open.spotify.com/album/3ccBgpEeVPly4YAOLBDuPX"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Worship in the Moshpit",
+      "url": "https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV"
     },
     {
       "added_at": null,

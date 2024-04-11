@@ -1,12 +1,12 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 25952,
+  "num_followers": 25953,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmVlOTA2YmM0YmZmMDRiNWQ3ZmVmNmNhNzdhMDEzOTU1MDM1MjMz",
+  "snapshot_id": "MCwwZTI1N2Y1NjI3NDJkNjA3ZDFlNjk0MDBmYmVhOWEzODEzZWMxNjYz",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Never Far (House Church)",
-        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 231964,
-      "name": "Never Far (House Church)",
-      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "THIS MOMENT",
         "url": "https://open.spotify.com/album/5VXM9tBUk5oboBP6yCJAx9"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 176624,
       "name": "THIS MOMENT",
       "url": "https://open.spotify.com/track/1uEUj9f1Rv6Bk420cg0AMS"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Never Far (House Church)",
+        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 231964,
+      "name": "Never Far (House Church)",
+      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "HAPPY",
-        "url": "https://open.spotify.com/album/0kjySvgUUcHW64OxmHPSWj"
-      },
-      "artists": [
-        {
-          "name": "Wande",
-          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
-        }
-      ],
-      "duration_ms": 124160,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/1bJk8jsglnHtLvUMrOV6qR"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "City Lights (feat. Mitch Wong)",
         "url": "https://open.spotify.com/album/1L1lD9JwiIAK06qIG6DSI9"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 238573,
       "name": "City Lights (feat. Mitch Wong)",
       "url": "https://open.spotify.com/track/7I88hIH03Z3px9khXQZDob"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "HAPPY",
+        "url": "https://open.spotify.com/album/0kjySvgUUcHW64OxmHPSWj"
+      },
+      "artists": [
+        {
+          "name": "Wande",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        }
+      ],
+      "duration_ms": 124160,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/1bJk8jsglnHtLvUMrOV6qR"
     },
     {
       "added_at": "2020-08-13 14:39:00",

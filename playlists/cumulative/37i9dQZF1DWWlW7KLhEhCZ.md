@@ -4,7 +4,7 @@
 
 > Lançamentos e novos nomes do trap nacional\. Foto: The Boy, Rudies Flacko
 
-1,104 songs - 2 day 2 hr 29 min
+1,105 songs - 2 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,7 +412,8 @@
 | [Fama](https://open.spotify.com/track/2xn8kicGmjFZ3C3hky3iwv) | [Bruxo 021](https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Fama](https://open.spotify.com/album/5x0Sgo8UeHjPFq4HGUJpZW) | 2:18 | 2023-06-30 | 2023-11-04 |
 | [Fanfic Freestyle](https://open.spotify.com/track/1zeYBniESq4W6jNT5jS296) | [Drow Beats](https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt), [ogtreasure](https://open.spotify.com/artist/3SyOg7lVYi7SEIVgvaVKe0), [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB) | [Fanfic Freestyle](https://open.spotify.com/album/3ySkhEtks9U0pYNjsuV5Ic) | 2:34 | 2023-11-10 | 2023-11-14 |
 | [Fantasma](https://open.spotify.com/track/1Yvp847aoltSjnUayXQFwZ) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [Fantasma](https://open.spotify.com/album/4fPka9LmbdKQ6lAYaTRScM) | 2:38 | 2023-04-07 | 2023-04-29 |
-| [Fantástico](https://open.spotify.com/track/1OhJE8RgWeKXvMEj9TBYB3) | [Young Ganni](https://open.spotify.com/artist/1Hm3uKt8JXy3dnxIFfJUog), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Lastra](https://open.spotify.com/artist/129dSsTOV93qJq9ANvrDu9) | [O Fantástico Mundo de Ganni](https://open.spotify.com/album/6Tfl3UdZrUm14cGFPRIteI) | 3:00 | 2024-03-29 |  |
+| [Fantástico](https://open.spotify.com/track/4dvka1VID5nh8iBQSFYP58) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Lastra](https://open.spotify.com/artist/129dSsTOV93qJq9ANvrDu9) | [O Fantástico Mundo de Ganni](https://open.spotify.com/album/538I6tmaZtHvRMQDpaNLIC) | 3:00 | 2024-04-05 |  |
+| [Fantástico](https://open.spotify.com/track/1OhJE8RgWeKXvMEj9TBYB3) | [Young Ganni](https://open.spotify.com/artist/1Hm3uKt8JXy3dnxIFfJUog), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Lastra](https://open.spotify.com/artist/129dSsTOV93qJq9ANvrDu9) | [O Fantástico Mundo de Ganni](https://open.spotify.com/album/6Tfl3UdZrUm14cGFPRIteI) | 3:00 | 2024-03-29 | 2024-04-11 |
 | [Far Cry](https://open.spotify.com/track/4guu3vuFrG03N8lFeQEo0S) | [Lucena Yans](https://open.spotify.com/artist/1VQwEViReULB4dYDFMhJ1G), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Far Cry](https://open.spotify.com/album/38Y2LMiZlESbMtMiB0GWYA) | 2:27 | 2023-11-17 | 2023-12-02 |
 | [Fases](https://open.spotify.com/track/6j33Zfy2COO1YH8v2LvCg7) | [Rotta](https://open.spotify.com/artist/1JWiwY8HoKXuvFzfKol5cR), [Luiz Belim](https://open.spotify.com/artist/3rktgOK494kvckT5M9pFqt), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Ciro Daniel](https://open.spotify.com/artist/3Rso0khSv7X2ENbc0OsjxJ) | [Fases](https://open.spotify.com/album/0djnKqaexOX74V3TRRmXUW) | 3:17 | 2022-10-07 | 2022-10-22 |
 | [Fatos Freestyle](https://open.spotify.com/track/3AbHPGIjhFKFQm1BnTap37) | [DJ Leonardo Rafael](https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf), [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu) | [Fatos Freestyle](https://open.spotify.com/album/78seCWNOk7c0r4OG1eia8T) | 1:49 | 2022-06-03 | 2022-06-11 |

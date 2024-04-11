@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,597 songs - 4 day 13 hr 49 min
+1,598 songs - 4 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -808,7 +808,7 @@
 | [Liberation](https://open.spotify.com/track/134QG8C1qpCiFSY9B8mG2P) | [Harold van Lennep](https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg) | [Liberation](https://open.spotify.com/album/2B8lEl4nUDscMCFAJl5fq6) | 3:38 | 2020-05-22 | 2020-07-03 |
 | [life gets hard](https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F) | [life gets hard](https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj) | 2:05 | 2024-01-19 |  |
 | [Life on Hold](https://open.spotify.com/track/0uTkVCAf8PxMo8NJ3tFYzH) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Life on Hold](https://open.spotify.com/album/030x3uRQYYEtkFwpIj60ci) | 3:27 | 2021-09-03 | 2023-09-09 |
-| [Lifted](https://open.spotify.com/track/52aTqJfaWWLIHSC3bCyjoU) | [Oliver Michael](https://open.spotify.com/artist/58Oe01uYw1nODV5DwGO14z), [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz) | [Lifted](https://open.spotify.com/album/57HPihU8Vbc36hgYSqlFUh) | 3:15 | 2024-04-05 |  |
+| [Lifted](https://open.spotify.com/track/52aTqJfaWWLIHSC3bCyjoU) | [Oliver Michael](https://open.spotify.com/artist/58Oe01uYw1nODV5DwGO14z), [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz) | [Lifted](https://open.spotify.com/album/57HPihU8Vbc36hgYSqlFUh) | 3:15 | 2024-04-05 | 2024-04-11 |
 | [Light A Fire](https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Light A Fire](https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl) | 2:34 | 2022-05-20 | 2022-12-29 |
 | [Light Of Day](https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Light Of Day](https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu) | 6:40 | 2022-07-15 | 2023-09-09 |
 | [Light Of Day \(feat\. Ólafur Arnalds\)](https://open.spotify.com/track/3yPd2RxNNcPwOV06zoexrv) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) | 6:40 | 2022-08-26 | 2022-09-10 |
@@ -1437,6 +1437,7 @@
 | [Tied to You](https://open.spotify.com/track/5Ocqb8QuiwSfqHHFE7cz4X) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Tied to You](https://open.spotify.com/album/2NYRONIjh6mVjU25O4V2bn) | 3:43 | 2022-04-22 | 2022-12-29 |
 | [Till The Sky Falls Down \- Monokini Beach Mix](https://open.spotify.com/track/2bYjOZefrwx8CiUFT8j7E6) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri) | [Loungelicious Vol.1](https://open.spotify.com/album/0McbWHbCfTaCe3t8LYza3R) | 3:07 | 2020-06-12 | 2020-07-03 |
 | [Time](https://open.spotify.com/track/1Zv8woSN47nSkwMjUWX0aS) | [FEYNMAN](https://open.spotify.com/artist/5bpKJkKb5h112Fy5eLMbWt), [Monomotion](https://open.spotify.com/artist/514CDwBzI2wOfEGuVqHOur) | [Air](https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut) | 4:01 | 2020-03-21 | 2021-03-06 |
+| [Time \- Edit](https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Time](https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp) | 2:04 | 2024-04-05 |  |
 | [Time Capsule](https://open.spotify.com/track/02ht7aTttJ0zbbHQh6jKlL) | [Nick Beman](https://open.spotify.com/artist/7ow15x0a0qAhy4ZK6xJKGx) | [Time Capsule](https://open.spotify.com/album/1uGLfESQqsa5TwO5YQSCRI) | 3:10 | 2020-03-20 | 2022-04-21 |
 | [Tiny Molecules of Water](https://open.spotify.com/track/5snKLxGnhMAWMTJroPXlRD) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Imperfections](https://open.spotify.com/album/7qbo7wJh12LH1Qi0zvMU2F) | 3:52 | 2022-05-27 | 2022-07-25 |
 | [To Feel Again / Trois](https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [To Feel Again / Trois](https://open.spotify.com/album/1g4YD9mlCiDznl0upnFbrI) | 4:53 | 2022-09-30 | 2023-02-21 |

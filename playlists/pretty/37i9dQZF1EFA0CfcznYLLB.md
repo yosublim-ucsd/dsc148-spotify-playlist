@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,939 likes - 316 songs - 16 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,937 likes - 316 songs - 16 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 13 | [4 AM](https://open.spotify.com/track/1nX9KhK3Fff27SnrIor2Yb) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Pretty Girls Like Trap Music](https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS) | 4:15 |
 | 14 | [Get Right Witcha](https://open.spotify.com/track/2jGEiQ3otr4CPIeBgefjRA) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 4:17 |
 | 15 | [I Do \(feat\. SZA\)](https://open.spotify.com/track/1f5PNhkNgUpvDEeZfcIlO1) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:20 |
-| 16 | [WORKIN ME](https://open.spotify.com/track/4MAsYGSgxsaj73dC2lvFC4) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 2:49 |
-| 17 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 |
+| 16 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 |
+| 17 | [WORKIN ME](https://open.spotify.com/track/4MAsYGSgxsaj73dC2lvFC4) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 2:49 |
 | 18 | [With You](https://open.spotify.com/track/3aJkV6DUTSCqOwVwaBDG9B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 3:15 |
 | 19 | [Grinding All My Life](https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Victory Lap](https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef) | 2:55 |
 | 20 | [GANG GANG](https://open.spotify.com/track/6uJONCdr2rC65BNmCnTBWK) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 4:04 |
@@ -180,8 +180,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 170 | [Stuck in Between](https://open.spotify.com/track/0RjweECF6Y4zdR1cixjmiG) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:23 |
 | 171 | [Bumblebee](https://open.spotify.com/track/0H7vYjXIEpGMPvzBXVApHJ) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 2:00 |
 | 172 | [Round The Roses](https://open.spotify.com/track/7eoobkIOfZMWrFfmJXWVTf) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Boy Kodak](https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu) | 2:53 |
-| 173 | [Bloody Hands \(feat\. Pressa\)](https://open.spotify.com/track/0fibRNI7ojk6j4lIC6a8Di) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Bloody Hands \(feat\. Pressa\)](https://open.spotify.com/album/3VWLlbopoEU6pG4j8V4eZu) | 3:29 |
-| 174 | [Love Me Enough \(feat\. Monica & Keyshia Cole\)](https://open.spotify.com/track/64VYqDH3xyxIFZjrsgjLCZ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Pink Friday 2 \(Gag City Deluxe\)](https://open.spotify.com/album/5eA2VJ0yeiU4kXz1zvuMro) | 3:50 |
+| 173 | [Love Me Enough \(feat\. Monica & Keyshia Cole\)](https://open.spotify.com/track/64VYqDH3xyxIFZjrsgjLCZ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Pink Friday 2 \(Gag City Deluxe\)](https://open.spotify.com/album/5eA2VJ0yeiU4kXz1zvuMro) | 3:50 |
+| 174 | [Bloody Hands \(feat\. Pressa\)](https://open.spotify.com/track/0fibRNI7ojk6j4lIC6a8Di) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Bloody Hands \(feat\. Pressa\)](https://open.spotify.com/album/3VWLlbopoEU6pG4j8V4eZu) | 3:29 |
 | 175 | [CUFFED UP \(feat\. Quavo\)](https://open.spotify.com/track/1Fvwwdc1OMPXXelzEot3mk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 1:55 |
 | 176 | [Mayo](https://open.spotify.com/track/3WUYer0Wzy9MW33iilLcHb) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 2:47 |
 | 177 | [Give N Go](https://open.spotify.com/track/5d042XvyliHl5ndka9Tyz9) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl) | [88GLAM RELOADED](https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36) | 2:54 |
@@ -325,4 +325,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 315 | [On God](https://open.spotify.com/track/1rmWQqmKWRtm9bks6Lr0Sp) | [Majin Murda](https://open.spotify.com/artist/7LLv3nfvIIYTqBAV8XjlO9) | [3K](https://open.spotify.com/album/7zjBIckQRALycP2MCWEYUg) | 3:27 |
 | 316 | [Peace Of Mind](https://open.spotify.com/track/6xISF2zBnsQ8SGWT4KmWsC) | [Heightsbaby](https://open.spotify.com/artist/4fEE1O32L50PqVbKhnfkCD) | [Peace Of Mind](https://open.spotify.com/album/1Kqzy0cn7DIKQKkHqTqQD6) | 2:55 |
 
-Snapshot ID: `Mjg1NDUyNTAsMDAwMDAwMDBmZDc5OGQwODAyNTA3NjY0NjdlYTNkZjhiNDAxMGQ1Mw==`
+Snapshot ID: `Mjg1NDY2OTAsMDAwMDAwMDA1YjllNGZjNWM0YjliMjY2MDMyODJhNTljMzI2NDljOA==`

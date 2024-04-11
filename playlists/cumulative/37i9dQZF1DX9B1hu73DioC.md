@@ -4,7 +4,7 @@
 
 > Vibey indie tracks for just hanging out.
 
-759 songs - 1 day 21 hr 28 min
+760 songs - 1 day 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,7 +436,8 @@
 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 | 2022-07-25 | 2022-10-14 |
 | [Maria](https://open.spotify.com/track/0c8yjevkeywoScoAcURgU7) | [Greg Mendez](https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h) | [Greg Mendez](https://open.spotify.com/album/2jbgzfwZf1821YjhhSPrik) | 1:58 | 2023-12-12 | 2024-01-13 |
 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 | 2022-06-01 |  |
-| [Mary Boone](https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Mary Boone](https://open.spotify.com/album/3BeMjbziyS6lCFnSel4Tsz) | 4:26 | 2024-04-05 |  |
+| [Mary Boone](https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Mary Boone](https://open.spotify.com/album/3BeMjbziyS6lCFnSel4Tsz) | 4:26 | 2024-04-05 | 2024-04-11 |
+| [Mary Boone](https://open.spotify.com/track/6OjwIdLlkjCLuOThOwODEY) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:26 | 2024-04-05 |  |
 | [Maybe](https://open.spotify.com/track/7B2BcS96XE8i0x9wiXrTij) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Maybe](https://open.spotify.com/album/6Tb0V8pptNIf83kJcSXMpY) | 3:13 | 2022-03-29 | 2022-07-25 |
 | [Maybe Not](https://open.spotify.com/track/6Ppg45wf1F9t1W9sfyrYMD) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Maybe Not](https://open.spotify.com/album/2Wd8dBdUxM0uEgRdCINM25) | 2:50 | 2022-05-20 | 2022-05-24 |
 | [Maybe You're the Reason](https://open.spotify.com/track/5Po5YmT4RhawSeqNXx5m0o) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 3:38 | 2020-10-20 | 2022-11-27 |

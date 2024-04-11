@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,172 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,197 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 46 | [The Curse Breaker](https://open.spotify.com/track/0cSjUF4T2ETqFaiajbP2Rj) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [The Curse Breaker / What You Need](https://open.spotify.com/album/00kKPJvarQWnQlFqekyvy6) | 3:39 |
 | 47 | [A.M\. Track](https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Protein Valve EP](https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp) | 5:30 |
 | 48 | [The Sound \- Extended Mix](https://open.spotify.com/track/64RmTfytQUOT73BeNrVlvx) | [Reese & Santonio](https://open.spotify.com/artist/6ZYPFa3rUYzI4j87w1CURo), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Reese](https://open.spotify.com/artist/4ZZnndm8YgzLlG05uSmQOG) | [The Sound / How To Play Our Music](https://open.spotify.com/album/5zY7Di2QT0Y2OZwmVwCr6w) | 6:48 |
-| 49 | [Red Room](https://open.spotify.com/track/1guCg3jJIYTDhfa35oWYV7) | [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Red Room](https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4) | 6:40 |
-| 50 | [The Bearer \(feat\. Karina Mia\) \- Brother's Burden Pt1](https://open.spotify.com/track/3INuFzi0KoWmHsvsrboQMX) | [Octave One](https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH), [Karina Mia](https://open.spotify.com/artist/7mFivvbdZvsw2An3wKB2cu) | [The Bearer \(feat\. Karina Mia\)](https://open.spotify.com/album/3VWYKKPxpelqXTSWCdN2vd) | 6:00 |
+| 49 | [The Bearer \(feat\. Karina Mia\) \- Brother's Burden Pt1](https://open.spotify.com/track/3INuFzi0KoWmHsvsrboQMX) | [Octave One](https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH), [Karina Mia](https://open.spotify.com/artist/7mFivvbdZvsw2An3wKB2cu) | [The Bearer \(feat\. Karina Mia\)](https://open.spotify.com/album/3VWYKKPxpelqXTSWCdN2vd) | 6:00 |
+| 50 | [Red Room](https://open.spotify.com/track/1guCg3jJIYTDhfa35oWYV7) | [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Red Room](https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4) | 6:40 |
 
-Snapshot ID: `MCw4NTNhYzM5ODEyNzAzNzk2OWFhMzg0MjljZDcwYzc3NDBlNTI3NDdi`
+Snapshot ID: `MCxkZWRlNGYyYzIxMmQ2MDA4YjdiMzRiMzVkN2FkNmEzMTM0MmNlZTQ2`

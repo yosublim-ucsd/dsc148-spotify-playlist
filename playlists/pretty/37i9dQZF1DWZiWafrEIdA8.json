@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 9331,
+  "num_followers": 9328,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2JjM2U5Njk0OGU2YzU2ZWJiZTY3YWIxNTJiY2JkYzMzNjY0OWNm",
+  "snapshot_id": "MCwzYjQzMmZjZWE1YzE0NDEyYjY0YWZmOGJkMjI2NDk2MDNiZDVhNzY4",
   "tracks": [
     {
       "added_at": "2024-01-08 08:25:31",
@@ -331,30 +331,6 @@
     {
       "added_at": "2024-01-08 08:25:31",
       "album": {
-        "name": "TOYSTORY3",
-        "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "TOIL",
-          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
-        },
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        }
-      ],
-      "duration_ms": 234306,
-      "name": "Never Ending Story (Feat. Dynamicduo)",
-      "url": "https://open.spotify.com/track/2kIvvkzrcrFqVdPGSHtKYO"
-    },
-    {
-      "added_at": "2024-01-08 08:25:31",
-      "album": {
         "name": "Show Me the Money 5 Episode 2",
         "url": "https://open.spotify.com/album/0s95KHiY498Xv52w9ybV7t"
       },
@@ -375,6 +351,30 @@
       "duration_ms": 252258,
       "name": "Comfortable",
       "url": "https://open.spotify.com/track/2lEzKOtt7q64jQZ5meZsY8"
+    },
+    {
+      "added_at": "2024-01-08 08:25:31",
+      "album": {
+        "name": "TOYSTORY3",
+        "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        }
+      ],
+      "duration_ms": 234306,
+      "name": "Never Ending Story (Feat. Dynamicduo)",
+      "url": "https://open.spotify.com/track/2kIvvkzrcrFqVdPGSHtKYO"
     },
     {
       "added_at": "2024-01-08 08:25:31",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-01-08 08:25:31",
       "album": {
+        "name": "2 4 : 2 6",
+        "url": "https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 257919,
+      "name": "If I Die Tomorrow",
+      "url": "https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH"
+    },
+    {
+      "added_at": "2024-01-08 08:25:31",
+      "album": {
         "name": "Show Me the Money 777 Semi Final",
         "url": "https://open.spotify.com/album/1F5dDguEHUNBFpB0Eed1Up"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 329487,
       "name": "NoNo (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/4BqiX6pWkB3tr04U3AxPhM"
-    },
-    {
-      "added_at": "2024-01-08 08:25:31",
-      "album": {
-        "name": "2 4 : 2 6",
-        "url": "https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 257919,
-      "name": "If I Die Tomorrow",
-      "url": "https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH"
     },
     {
       "added_at": "2024-01-08 08:25:31",
@@ -823,26 +823,6 @@
     {
       "added_at": "2024-01-08 08:25:31",
       "album": {
-        "name": "PSY 9th",
-        "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
-      },
-      "artists": [
-        {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
-        },
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 185808,
-      "name": "Sleepless (feat. Heize)",
-      "url": "https://open.spotify.com/track/3JsiJGVbCJM7cIb1YnlG96"
-    },
-    {
-      "added_at": "2024-01-08 08:25:31",
-      "album": {
         "name": "Kang's Kitchen3",
         "url": "https://open.spotify.com/album/6I5jZ0dOJLoyyiPvYEtbst"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 182671,
       "name": "Pat Pat",
       "url": "https://open.spotify.com/track/6lejhkABV4Hns2v1ZJjPwJ"
+    },
+    {
+      "added_at": "2024-01-08 08:25:31",
+      "album": {
+        "name": "PSY 9th",
+        "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        },
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 185808,
+      "name": "Sleepless (feat. Heize)",
+      "url": "https://open.spotify.com/track/3JsiJGVbCJM7cIb1YnlG96"
     },
     {
       "added_at": "2024-01-08 08:25:31",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2024-01-08 08:25:31",
       "album": {
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "Til I Die",
+      "url": "https://open.spotify.com/track/0hAkJkaTMKEK5KEKAm0719"
+    },
+    {
+      "added_at": "2024-01-08 08:25:31",
+      "album": {
         "name": "Primary And The Messengers LP",
         "url": "https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 290455,
       "name": "Line No3 maebong station (Feat. Paloalto, Beenzino)",
       "url": "https://open.spotify.com/track/3oDNKxY583pu08FJw8tst5"
-    },
-    {
-      "added_at": "2024-01-08 08:25:31",
-      "album": {
-        "name": "HALO",
-        "url": "https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 233013,
-      "name": "Til I Die",
-      "url": "https://open.spotify.com/track/0hAkJkaTMKEK5KEKAm0719"
     }
   ],
   "unique_name": "\ud790\ub9c1 \ud799\ud569",

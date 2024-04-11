@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49H7UBWpZWR.md) - [plain]
 
 > A podcast playlist where women of all experiences share the stories behind their music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 716 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 715 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCw1ZWY3OTY4MDg1ODg4ZjkyZTRiYTgyZmM0OTg4NTdiNTRhOGI1N2Rl`
+Snapshot ID: `MCwwMTFkYTA2M2EzZDU5ZDc3OWVjOWJhZDU1Y2U1MjZmZWFiY2Q2ZjY4`

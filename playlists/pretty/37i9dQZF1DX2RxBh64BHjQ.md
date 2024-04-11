@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:23xFbA9rYgRX8mreqysWPc">Bossman Dlow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,772,019 likes - 99 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,772,060 likes - 99 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 76 | [My Bad](https://open.spotify.com/track/11FSouNZggloqtKPJ6PQkv) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [My Bad](https://open.spotify.com/album/4gATf2HqP30a5hSUAwug7w) | 2:18 |
 | 77 | [Evil Twin](https://open.spotify.com/track/5ogdlI3bD8y3xj9uCepauq) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [Evil Twin](https://open.spotify.com/album/3dhfnNNe2KWFApJ4dP5B01) | 2:22 |
 | 78 | [ScoreGod \(feat\. Luh Tyler\)](https://open.spotify.com/track/3jvUUI68ZxFYosDbQLuSBL) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [ScoreGod](https://open.spotify.com/album/3eKHkdcf33yfe3y26Iego9) | 2:19 |
-| 79 | [Slidin](https://open.spotify.com/track/3Q1dEeQ09RacHoLHjG3bsv) | [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe) | [Chosen One](https://open.spotify.com/album/6PeFIKJlGlsxLqPEKVI1gK) | 2:15 |
+| 79 | [Slidin](https://open.spotify.com/track/3zqKsjvAVMowlJKpwDHmh5) | [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe) | [Chosen One](https://open.spotify.com/album/3uxDpA36a597lDDgUTqIpr) | 2:15 |
 | 80 | [Perfect \(feat\. DaBaby\)](https://open.spotify.com/track/4qBRHPDCVYlJVVDD2qrPpH) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Perfect \(feat\. DaBaby\)](https://open.spotify.com/album/22eDXi43Cr695XthXqglIT) | 3:52 |
 | 81 | [WAKE EM UP](https://open.spotify.com/track/5b9eyzFhqDrxDjySPlGCo7) | [Big Moochie Grape](https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa) | [WAKE EM UP](https://open.spotify.com/album/4qjoG39v1vDKKZegKiMntm) | 2:43 |
 | 82 | [SHIMMY](https://open.spotify.com/track/0zRtPy5QKgiNjj9SJ3mNsW) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [SHIMMY](https://open.spotify.com/album/2PzdORjmPgsqEX0waPcV8Z) | 1:44 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 98 | [Aretha Franklin \(feat\. Luh Tyler\)](https://open.spotify.com/track/2dPYDZvbf76ZwVbMKwbz7n) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Zombieland 2](https://open.spotify.com/album/1M3M7UVL9o2py1sY5A6jk9) | 3:30 |
 | 99 | [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 |
 
-Snapshot ID: `MCxhMTY1ODhjMzU1NGFjNTZhZjZkZGVjMTdlM2UyZGU4M2ZjMDRlMTdl`
+Snapshot ID: `MCxhNWQ3NDZkZjMxZGY1OTE0MzJhMzkwZjkwYjgzODZjYTc3N2E0MTU2`

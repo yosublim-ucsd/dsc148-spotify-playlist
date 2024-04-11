@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1150252,
+  "num_followers": 1150413,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGEwZWJlMDQ5ZjMxNDM0YjZhMGNjNzM1ZGQ1YTk1YjI0NTVlMzMw",
+  "snapshot_id": "MCw2NDhkMjNlNWNhZmViYTYxZTQ4NjRkZjZlZGRjMzE2OWQxYzNmODc3",
   "tracks": [
     {
       "added_at": "2023-01-18 16:20:47",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Waiting for the Sun",
-        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 264960,
-      "name": "Five to One",
-      "url": "https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Insight Out",
         "url": "https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 187693,
       "name": "Never My Love - Remastered Version",
       "url": "https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 264960,
+      "name": "Five to One",
+      "url": "https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Electric Music For The Mind And Body",
-        "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
-      },
-      "artists": [
-        {
-          "name": "Country Joe & The Fish",
-          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
-        }
-      ],
-      "duration_ms": 303000,
-      "name": "Bass Strings",
-      "url": "https://open.spotify.com/track/0MjNwys4xsfX3MoiJUtMfw"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Fever Tree",
         "url": "https://open.spotify.com/album/5ra0kPeGkxFlRTY0Lchce6"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 242906,
       "name": "San Francisco Girls (Return Of The Native)",
       "url": "https://open.spotify.com/track/2Vio9orJlk0fFVeO0CgtA6"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Electric Music For The Mind And Body",
+        "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
+      },
+      "artists": [
+        {
+          "name": "Country Joe & The Fish",
+          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
+        }
+      ],
+      "duration_ms": 303000,
+      "name": "Bass Strings",
+      "url": "https://open.spotify.com/track/0MjNwys4xsfX3MoiJUtMfw"
     },
     {
       "added_at": "2023-01-18 16:20:47",

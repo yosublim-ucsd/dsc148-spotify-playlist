@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie you should know. Cover: The Mar\u00edas",
-  "num_followers": 493855,
+  "num_followers": 493863,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGE4YmIxZjRiYTQ1NDczZjRlNzhiYzEwOTdkN2I0ZDUwNGRjYWNh",
+  "snapshot_id": "MCxhNmQzNjlkY2ZiY2I0OGFkMzdmZjU4Njk2NTUxNTE0ODA4ZjU0ZTky",
   "tracks": [
     {
       "added_at": "2024-04-05 04:00:00",
@@ -527,6 +527,26 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "le valgo madre",
+        "url": "https://open.spotify.com/album/15I3kzFmi64ex1BpKf8Erk"
+      },
+      "artists": [
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 156952,
+      "name": "le valgo madre",
+      "url": "https://open.spotify.com/track/6L0gsXZazztIohGMF2EoGa"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Peregrino",
         "url": "https://open.spotify.com/album/0SeDqeZyGYdkNPXChFJ8xJ"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 219272,
       "name": "Perder",
       "url": "https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "le valgo madre",
-        "url": "https://open.spotify.com/album/15I3kzFmi64ex1BpKf8Erk"
-      },
-      "artists": [
-        {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 156952,
-      "name": "le valgo madre",
-      "url": "https://open.spotify.com/track/6L0gsXZazztIohGMF2EoGa"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Nos Despedimos / Window Shopping",
+        "url": "https://open.spotify.com/album/0JAhLeKnyJ5SeRGU3F261M"
+      },
+      "artists": [
+        {
+          "name": "BEL",
+          "url": "https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6"
+        }
+      ],
+      "duration_ms": 139805,
+      "name": "Nos Despedimos",
+      "url": "https://open.spotify.com/track/5YaRt2MFIfmp6jdabC4JTx"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Los Chicos Tristes [Feat. Jensine Benitez] (El Michels Affair Remix)",
         "url": "https://open.spotify.com/album/0UQ4Se7ofqNnYlemid3D4b"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 161255,
       "name": "Los Chicos Tristes [Feat. Jensine Benitez] - El Michels Affair Remix",
       "url": "https://open.spotify.com/track/0rn2hYyqGKK7wwpwsrXcc8"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Nos Despedimos / Window Shopping",
-        "url": "https://open.spotify.com/album/0JAhLeKnyJ5SeRGU3F261M"
-      },
-      "artists": [
-        {
-          "name": "BEL",
-          "url": "https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6"
-        }
-      ],
-      "duration_ms": 139805,
-      "name": "Nos Despedimos",
-      "url": "https://open.spotify.com/track/5YaRt2MFIfmp6jdabC4JTx"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Live Today",
-        "url": "https://open.spotify.com/album/6zhvMY4QvBoAaIGujIUeMt"
-      },
-      "artists": [
-        {
-          "name": "Chicano Batman",
-          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
-        }
-      ],
-      "duration_ms": 172880,
-      "name": "Live Today",
-      "url": "https://open.spotify.com/track/36vqMca5RVvXSd57R2JXi8"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "La M\u00e1quina Persona",
         "url": "https://open.spotify.com/album/4CKMDfvdrGb71J8GoUqDPP"
       },
@@ -751,22 +735,6 @@
       "duration_ms": 322846,
       "name": "No Puedo Dejar De Decir Que Te Quiero",
       "url": "https://open.spotify.com/track/0H5VvDGOVbHFGuxCTQ41FD"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
-      },
-      "artists": [
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 208421,
-      "name": "TOTAL90NOSTALGIA",
-      "url": "https://open.spotify.com/track/5ffLdAti2Kb4XFZ2mPNrxp"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -787,6 +755,38 @@
       "duration_ms": 215931,
       "name": "Dos Hemisferios",
       "url": "https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 208421,
+      "name": "TOTAL90NOSTALGIA",
+      "url": "https://open.spotify.com/track/5ffLdAti2Kb4XFZ2mPNrxp"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Live Today",
+        "url": "https://open.spotify.com/album/6zhvMY4QvBoAaIGujIUeMt"
+      },
+      "artists": [
+        {
+          "name": "Chicano Batman",
+          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
+        }
+      ],
+      "duration_ms": 172880,
+      "name": "Live Today",
+      "url": "https://open.spotify.com/track/36vqMca5RVvXSd57R2JXi8"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -827,22 +827,6 @@
       "duration_ms": 198653,
       "name": "Tuyo",
       "url": "https://open.spotify.com/track/3X0lef4eZlP1u8v2oEq4Qi"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Preciosa",
-        "url": "https://open.spotify.com/album/0gq9bgTdNrmc9SlpuaZ0eD"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 173773,
-      "name": "Preciosa",
-      "url": "https://open.spotify.com/track/1aeih1sP1g0ooHHkxrfA29"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -891,6 +875,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Preciosa",
+        "url": "https://open.spotify.com/album/0gq9bgTdNrmc9SlpuaZ0eD"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "duration_ms": 173773,
+      "name": "Preciosa",
+      "url": "https://open.spotify.com/track/1aeih1sP1g0ooHHkxrfA29"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "F\u00fatbol Rock",
         "url": "https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/4UBSEvuaR4v2zJkC0aroby"
-      },
-      "artists": [
-        {
-          "name": "Chicano Batman",
-          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
-        }
-      ],
-      "duration_ms": 206533,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/32sk0nAe4tnJxSjyGylWpj"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Lo Siento",
         "url": "https://open.spotify.com/album/62CAq6Ijm0BKxY9XTFNfje"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 175632,
       "name": "Lo Siento",
       "url": "https://open.spotify.com/track/2d9LkMjwhSXsVJ0WVF7y3i"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/4UBSEvuaR4v2zJkC0aroby"
+      },
+      "artists": [
+        {
+          "name": "Chicano Batman",
+          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/32sk0nAe4tnJxSjyGylWpj"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -999,6 +999,22 @@
       "duration_ms": 144000,
       "name": "OTRA BOSSA",
       "url": "https://open.spotify.com/track/4HLXfrsYOXi8ncZJbHaX6e"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "COMO LO MUEVES",
+        "url": "https://open.spotify.com/album/015ltU2roLUHF8KvgxWoZq"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 177841,
+      "name": "COMO LO MUEVES",
+      "url": "https://open.spotify.com/track/2B8LTd0wcI3WkmKtbwuROw"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1071,38 +1087,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Coffee",
-        "url": "https://open.spotify.com/album/7yfpuKRPyz3BRm9fAPjGqp"
-      },
-      "artists": [
-        {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
-        }
-      ],
-      "duration_ms": 149940,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/29GLlaeW4vqFR1JXymZX7d"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Los Domingos La Paso Solita",
-        "url": "https://open.spotify.com/album/4k9aSMV2bBwlipxCyXzj8h"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 199572,
-      "name": "Los Domingos La Paso Solita",
-      "url": "https://open.spotify.com/track/1rQY8whjb9XKysfXQdqtRQ"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "M\u00e1s Normal De Lo Normal",
         "url": "https://open.spotify.com/album/6m49ikdNMRnfOCcQ6xA6wh"
       },
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/7yfpuKRPyz3BRm9fAPjGqp"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "duration_ms": 149940,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/29GLlaeW4vqFR1JXymZX7d"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Notebook Fantasy",
         "url": "https://open.spotify.com/album/11oAb5VEhTqhiAyfs5AOQX"
       },
@@ -1147,6 +1147,22 @@
       "duration_ms": 251080,
       "name": "Era Primavera",
       "url": "https://open.spotify.com/track/7DTH6M5KGouSi6wmz0ZYdz"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Los Domingos La Paso Solita",
+        "url": "https://open.spotify.com/album/4k9aSMV2bBwlipxCyXzj8h"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 199572,
+      "name": "Los Domingos La Paso Solita",
+      "url": "https://open.spotify.com/track/1rQY8whjb9XKysfXQdqtRQ"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
-        "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 154070,
-      "name": "Eutanasia",
-      "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Flores Robadas",
         "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
       },
@@ -1199,50 +1199,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "COMO LO MUEVES",
-        "url": "https://open.spotify.com/album/015ltU2roLUHF8KvgxWoZq"
+        "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
+        "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
       },
       "artists": [
         {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 177841,
-      "name": "COMO LO MUEVES",
-      "url": "https://open.spotify.com/track/2B8LTd0wcI3WkmKtbwuROw"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "t quiero baby",
-        "url": "https://open.spotify.com/album/560daVWObPmtxsOvhWsIQU"
-      },
-      "artists": [
-        {
-          "name": "lisandro skar",
-          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "t quiero baby",
-      "url": "https://open.spotify.com/track/3MqMPEIc6pXXJWSpfwhHOq"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Tripolar",
-        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 182782,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq"
+      "duration_ms": 154070,
+      "name": "Eutanasia",
+      "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1263,6 +1231,38 @@
       "duration_ms": 246330,
       "name": "Primer encuentro",
       "url": "https://open.spotify.com/track/4emJgbXvVStk13TJOQ3xWV"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Tripolar",
+        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 182782,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "t quiero baby",
+        "url": "https://open.spotify.com/album/560daVWObPmtxsOvhWsIQU"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "t quiero baby",
+      "url": "https://open.spotify.com/track/3MqMPEIc6pXXJWSpfwhHOq"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Cardenal Cisneros",
-        "url": "https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 252973,
-      "name": "Cardenal Cisneros",
-      "url": "https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "M\u00e1s Normal De Lo Normal",
         "url": "https://open.spotify.com/album/6m49ikdNMRnfOCcQ6xA6wh"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 192165,
       "name": "Hora de Comer",
       "url": "https://open.spotify.com/track/01SnokcbraoP4BYxznl6bq"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Cardenal Cisneros",
+        "url": "https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 252973,
+      "name": "Cardenal Cisneros",
+      "url": "https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "carameloraro",
-        "url": "https://open.spotify.com/album/7y80vpcuTS0FIXmFOQaKau"
+        "name": "Primer Beso",
+        "url": "https://open.spotify.com/album/7DpYxoa79sTZkMrQPxEo5h"
       },
       "artists": [
         {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+          "name": "Debi Nova",
+          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
         }
       ],
-      "duration_ms": 184000,
-      "name": "carameloraro",
-      "url": "https://open.spotify.com/track/02kt7DDcT88R3dRt71qqr8"
+      "duration_ms": 199346,
+      "name": "Primer Beso",
+      "url": "https://open.spotify.com/track/480qwG6dXSM8kxsPR7gnio"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Mente Positiva, Fin de Semana",
-        "url": "https://open.spotify.com/album/7s9jARF8VWjmMVSjnzzoFb"
+        "name": "carameloraro",
+        "url": "https://open.spotify.com/album/7y80vpcuTS0FIXmFOQaKau"
       },
       "artists": [
         {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
         }
       ],
-      "duration_ms": 185076,
-      "name": "Mente Positiva",
-      "url": "https://open.spotify.com/track/1gHzqXXqpG2zlGvNOWGjto"
+      "duration_ms": 184000,
+      "name": "carameloraro",
+      "url": "https://open.spotify.com/track/02kt7DDcT88R3dRt71qqr8"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1411,6 +1411,22 @@
       "duration_ms": 209000,
       "name": "falco",
       "url": "https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Mente Positiva, Fin de Semana",
+        "url": "https://open.spotify.com/album/7s9jARF8VWjmMVSjnzzoFb"
+      },
+      "artists": [
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 185076,
+      "name": "Mente Positiva",
+      "url": "https://open.spotify.com/track/1gHzqXXqpG2zlGvNOWGjto"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1463,18 +1479,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Primer Beso",
-        "url": "https://open.spotify.com/album/7DpYxoa79sTZkMrQPxEo5h"
+        "name": "Todo alrededor",
+        "url": "https://open.spotify.com/album/1c33eptv7tyacbAgU9X6rO"
       },
       "artists": [
         {
-          "name": "Debi Nova",
-          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
         }
       ],
-      "duration_ms": 199346,
-      "name": "Primer Beso",
-      "url": "https://open.spotify.com/track/480qwG6dXSM8kxsPR7gnio"
+      "duration_ms": 248937,
+      "name": "Somos raros",
+      "url": "https://open.spotify.com/track/7vqd25RugFisRuScw3xSyq"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "poco a poquito",
-        "url": "https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "poco a poquito",
-      "url": "https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "azul",
         "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
       },
@@ -1527,6 +1527,22 @@
       "duration_ms": 165200,
       "name": "azul",
       "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "poco a poquito",
+        "url": "https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "poco a poquito",
+      "url": "https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1559,22 +1575,6 @@
       "duration_ms": 213517,
       "name": "Injusto",
       "url": "https://open.spotify.com/track/1uWuaKvvTcrdEBLM5NRuuN"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Todo alrededor",
-        "url": "https://open.spotify.com/album/1c33eptv7tyacbAgU9X6rO"
-      },
-      "artists": [
-        {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
-        }
-      ],
-      "duration_ms": 248937,
-      "name": "Somos raros",
-      "url": "https://open.spotify.com/track/7vqd25RugFisRuScw3xSyq"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "no es culpa m\u00eda",
-        "url": "https://open.spotify.com/album/5ZbHwgfry7ONiynI2424Uq"
-      },
-      "artists": [
-        {
-          "name": "Pink Pablo",
-          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
-        }
-      ],
-      "duration_ms": 185667,
-      "name": "no es culpa m\u00eda",
-      "url": "https://open.spotify.com/track/3carpytTJk59ujDuX0gs8I"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Una Vida",
         "url": "https://open.spotify.com/album/3adxFEMsq25Adf8bHWX4rL"
       },
@@ -1723,22 +1707,34 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Observation I: Metamorphosis",
-        "url": "https://open.spotify.com/album/5OsXENqSCulBZguBp1AyGr"
+        "name": "no es culpa m\u00eda",
+        "url": "https://open.spotify.com/album/5ZbHwgfry7ONiynI2424Uq"
       },
       "artists": [
         {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        },
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
         }
       ],
-      "duration_ms": 188584,
-      "name": "Metamorphosis (with Ambar Lucid)",
-      "url": "https://open.spotify.com/track/0Ija1eSGhKSBx3KJkpLtms"
+      "duration_ms": 185667,
+      "name": "no es culpa m\u00eda",
+      "url": "https://open.spotify.com/track/3carpytTJk59ujDuX0gs8I"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "MIEL",
+        "url": "https://open.spotify.com/album/1OoKdq8qfZZSfANVp3cmGP"
+      },
+      "artists": [
+        {
+          "name": "MIEL",
+          "url": "https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd"
+        }
+      ],
+      "duration_ms": 135573,
+      "name": "LAS FURIAS // NOS MIRAN",
+      "url": "https://open.spotify.com/track/696gS5v3M9ikaR7hx88UNh"
     }
   ],
   "unique_name": "el nuevo indie",

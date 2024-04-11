@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > VEM FAN E DU!?
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,113 likes - 100 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,208 likes - 100 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 12 | [KAOS](https://open.spotify.com/track/6Bkp5yMtYhN0qSSUP0pmxk) | [LBSB](https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0), [Mike Emilio](https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl) | [KAOS](https://open.spotify.com/album/5j4dCqg9Wh5RZzkYJHWDGd) | 2:20 |
 | 13 | [HEMMAFEST](https://open.spotify.com/track/1lVaLRC8fRx9fwS2sgK18d) | [Perra & Berra](https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud) | [HEMMAFEST](https://open.spotify.com/album/6tiRtyVQEaE4L8iroDdYJy) | 1:56 |
 | 14 | [Bumbibjörnarna](https://open.spotify.com/track/5oTm685TWibdhPGLKgezPe) | [Ferdinand](https://open.spotify.com/artist/1DIiXNFlKuRBQMKIrvwuha) | [Bumbibjörnarna \- Här kommer Bumbibjörnarna \- Från "Bumbibjörnarna"](https://open.spotify.com/album/0CLi3NBCGOF3VFdAhZC3ZD) | 2:10 |
-| 15 | [BORTAMATCH](https://open.spotify.com/track/6KOdcw6aEPLAVWdtuylF8g) | [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE), [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [BORTAMATCH](https://open.spotify.com/album/5nxoDtwdwxLkSyke2SFhmV) | 1:58 |
+| 15 | [BORTAMATCH](https://open.spotify.com/track/6KOdcw6aEPLAVWdtuylF8g) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE) | [BORTAMATCH](https://open.spotify.com/album/5nxoDtwdwxLkSyke2SFhmV) | 1:58 |
 | 16 | [Raggen igjen \- Mozby Remix](https://open.spotify.com/track/2JsYjAxEeeIGdp2gREOzPu) | [Greta Tuborg](https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ), [EPA SATAN](https://open.spotify.com/artist/1Tdt6GDut97A37pO8WFyMA), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6) | [Raggen igjen](https://open.spotify.com/album/4pPonmtLjz7tFkXbLLMp1y) | 1:45 |
 | 17 | [FÖRSTA BIRAN](https://open.spotify.com/track/34I35RpgRDa8sTtjwwZdZs) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [FÖRSTA BIRAN](https://open.spotify.com/album/5MNOaQbAz2PmkeGeGK6Nu9) | 3:05 |
 | 18 | [MIN STÖRSTA FÖRSTA KÄRLEK](https://open.spotify.com/track/46O0UcUAkwwEGIT2rKL2IH) | [Perra & Berra](https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud) | [MIN STÖRSTA FÖRSTA KÄRLEK](https://open.spotify.com/album/6wIdqsXhdj8Oy4Welh6RIC) | 1:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [Så DUM](https://open.spotify.com/track/2JbzvLQUbimv1H55ylsw9v) | [LBSB](https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0) | [Så DUM](https://open.spotify.com/album/1H3WUX9M9372LPPOfF9ClG) | 2:31 |
 | 100 | [REPLAY](https://open.spotify.com/track/4KDBLyLyHfmvFgT0OwbKBZ) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [REPLAY](https://open.spotify.com/album/4BKRoBu0CQFHu0bXSM8Uve) | 2:17 |
 
-Snapshot ID: `MCxiYzRhNjYwNThlMTRhZmExZmJkY2YxZDgzYzNhYjBmM2U2MGQzZjQ1`
+Snapshot ID: `MCw1MTM1YTQ2ZDZhMTI3MWJiNDYyMDg5MDFhMDI0OWM3NTg2ODI5ZmY3`

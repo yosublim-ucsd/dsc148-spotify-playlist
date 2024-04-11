@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Averagekidluke.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,839 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,845 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 14 | [cray](https://open.spotify.com/track/5gnUi8OqUVoINjl1dUVInT) | [Yrjänä](https://open.spotify.com/artist/4CmFTG3y5YXHlV7vQ3jvH7) | [cray](https://open.spotify.com/album/08ERj4CHA0relkVZMxfeR0) | 3:08 |
 | 15 | [Ensi elämässä](https://open.spotify.com/track/5xKTqyinfP9bu6yWl0iXfF) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO) | [Ensi elämässä](https://open.spotify.com/album/0lVTumitreS4U1ETZU4Zyu) | 2:58 |
 | 16 | [Häivytään](https://open.spotify.com/track/1WrFtx5nBfNPXmJ9RKWJzj) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Yks Kaks / Häivytään](https://open.spotify.com/album/7MNvDdJhEYAkYgaEvswL9N) | 2:44 |
-| 17 | [Konami](https://open.spotify.com/track/09eFIpwjaGEgtmiyePDOk7) | [DJ Kridlokk](https://open.spotify.com/artist/40S3a8Beijh7mZ7vTV5TmJ) | [Hai](https://open.spotify.com/album/7oxSQd9mtYnKAMXSGhPSlD) | 4:13 |
+| 17 | [Konami](https://open.spotify.com/track/5yoT8V1KnSJxEcIEsCQyTW) | [DJ Kridlokk](https://open.spotify.com/artist/40S3a8Beijh7mZ7vTV5TmJ) | [Hai](https://open.spotify.com/album/5vao2cG8LkUZ1qm3RkPWGa) | 4:13 |
 | 18 | [Virheet \(feat\. Bee\)](https://open.spotify.com/track/1f4EEouaax3HMfIBdNd7IX) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ), [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Virheet \(feat\. Bee\)](https://open.spotify.com/album/2CmqLwoGG1wSvSLjn4JbEy) | 2:47 |
 | 19 | [BLESSAA](https://open.spotify.com/track/4wEzld4dNLWd40dxmnL9hu) | [Bojos](https://open.spotify.com/artist/3HRZJD5TbCbhSPRVlhvFtM) | [BLESSAA](https://open.spotify.com/album/750gNeiNyADhBtOyEZ4jvI) | 2:33 |
 | 20 | [Miss U](https://open.spotify.com/track/60CG2YbR1nS02VFNSGCzLE) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [Miss U](https://open.spotify.com/album/0JSHubJlf4wVRZovtdARRK) | 3:03 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 59 | [Kaikki hyväks kääntyy](https://open.spotify.com/track/0oyDPNPFFjQXibzBhIoG75) | [1Jonne](https://open.spotify.com/artist/5vRSguKzrcZCmXRZSxIqrl), [Asa](https://open.spotify.com/artist/0rHtbK2pK4r67coo9EsT7D), [Pyhimys](https://open.spotify.com/artist/3MaQwUQBigrjcMYHk8bDKm) | [Kaikki hyväks kääntyy](https://open.spotify.com/album/3RD3lUSFcyq58srZL28cyB) | 3:52 |
 | 60 | [MURDV](https://open.spotify.com/track/1AWpTnYMAIyuENulfwT0j4) | [MJ](https://open.spotify.com/artist/6DuYuCr5tT6QMfDVjjivcj) | [MURDV](https://open.spotify.com/album/4Ht1Eiy3hAjV1RJ53486Sq) | 2:01 |
 
-Snapshot ID: `MCw3ODMxZjdjOWFmMWU0OWU1NWE4NmFjNGJkYWNiZDc0MzY2ZjM1Y2U0`
+Snapshot ID: `MCw4OWM5NmQ2MTAyMzE3OWQ2MjRhOGNjZjJiODViYWU0NWM3NmRkNjBi`

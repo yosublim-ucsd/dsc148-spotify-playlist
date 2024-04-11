@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: Inayah",
-  "num_followers": 43199,
+  "num_followers": 43204,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDQ2YzIzMDEwNGJlMjhhYmY1ZGYxMmJjNWVmZGI5N2I5YjI4ODc1",
+  "snapshot_id": "MCxkNmIxOWEzMGZhNjEyZTIzOGZhOWEyMTkzNjUxOWFkZDJhY2I1NzBh",
   "tracks": [
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1013,6 +1013,26 @@
       "url": "https://open.spotify.com/track/2N2kx4jJG4683NoO3NMvpw"
     },
     {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Lost In Melody (Deluxe)",
+        "url": "https://open.spotify.com/album/6A6bRf5FGdvsCp1U1d4H9m"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 144869,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/4clYYm4VdZaqQkiNHSfIQG"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Shadows",
@@ -1037,26 +1057,6 @@
       "url": "https://open.spotify.com/track/0PtzMsYtataAxl7UP9Q2HF"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Lost In Melody (Deluxe)",
-        "url": "https://open.spotify.com/album/6A6bRf5FGdvsCp1U1d4H9m"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 144869,
-      "name": "Shoot",
-      "url": "https://open.spotify.com/track/4clYYm4VdZaqQkiNHSfIQG"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Addiction",
@@ -1071,6 +1071,22 @@
       "duration_ms": 163720,
       "name": "Addiction",
       "url": "https://open.spotify.com/track/6dEHTCK6SyciGXCStYmoJb"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Superficial",
+        "url": "https://open.spotify.com/album/1kuIqGJ1FD8GF8oJgTI2zK"
+      },
+      "artists": [
+        {
+          "name": "SAFE",
+          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
+        }
+      ],
+      "duration_ms": 134814,
+      "name": "Superficial",
+      "url": "https://open.spotify.com/track/3qGpf4fDQxXl8rPQ52LtB9"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1095,22 +1111,6 @@
       "duration_ms": 154552,
       "name": "Still Work (feat. Ty Dolla $ign & Muni Long)",
       "url": "https://open.spotify.com/track/0teFeL0RvDeDbpmi1YZlFt"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Superficial",
-        "url": "https://open.spotify.com/album/1kuIqGJ1FD8GF8oJgTI2zK"
-      },
-      "artists": [
-        {
-          "name": "SAFE",
-          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
-        }
-      ],
-      "duration_ms": 134814,
-      "name": "Superficial",
-      "url": "https://open.spotify.com/track/3qGpf4fDQxXl8rPQ52LtB9"
     },
     {
       "added_at": "2023-03-03 05:16:10",
@@ -1173,6 +1173,22 @@
       "url": "https://open.spotify.com/track/6KkeXDWP0gvoJkouKmF6De"
     },
     {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Before We Crash",
+        "url": "https://open.spotify.com/album/2c8uHecoqDsOG1Exs7W9TC"
+      },
+      "artists": [
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        }
+      ],
+      "duration_ms": 229447,
+      "name": "Better Than Him",
+      "url": "https://open.spotify.com/track/6vucaejrSd21jHkXo3tHUu"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Love Hate",
@@ -1189,20 +1205,20 @@
       "url": "https://open.spotify.com/track/1nRAogZ7SjnSsExrkQrU4s"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Before We Crash",
-        "url": "https://open.spotify.com/album/2c8uHecoqDsOG1Exs7W9TC"
+        "name": "Spin Again",
+        "url": "https://open.spotify.com/album/4gZVLOdSn4kqeJ8fInPZdh"
       },
       "artists": [
         {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+          "name": "Layton Greene",
+          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
         }
       ],
-      "duration_ms": 229447,
-      "name": "Better Than Him",
-      "url": "https://open.spotify.com/track/6vucaejrSd21jHkXo3tHUu"
+      "duration_ms": 248872,
+      "name": "Spin Again",
+      "url": "https://open.spotify.com/track/6HiEe3hSKazKZOscOZjcyN"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1223,22 +1239,6 @@
       "duration_ms": 207123,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/32kJsIvZZf6pEq6xOsv0j0"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Spin Again",
-        "url": "https://open.spotify.com/album/4gZVLOdSn4kqeJ8fInPZdh"
-      },
-      "artists": [
-        {
-          "name": "Layton Greene",
-          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
-        }
-      ],
-      "duration_ms": 248872,
-      "name": "Spin Again",
-      "url": "https://open.spotify.com/track/6HiEe3hSKazKZOscOZjcyN"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1275,26 +1275,6 @@
       "duration_ms": 147613,
       "name": "Bout Mine",
       "url": "https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ"
-    },
-    {
-      "added_at": "2023-03-03 05:16:10",
-      "album": {
-        "name": "'95 Civic",
-        "url": "https://open.spotify.com/album/4UoHIrUDmQa9WTLsKg7q6T"
-      },
-      "artists": [
-        {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        },
-        {
-          "name": "Eimaral Sol",
-          "url": "https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH"
-        }
-      ],
-      "duration_ms": 199563,
-      "name": "Swerve",
-      "url": "https://open.spotify.com/track/1szukOBC3EGeotj9HEVbjS"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1369,6 +1349,26 @@
       "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
     },
     {
+      "added_at": "2023-03-03 05:16:10",
+      "album": {
+        "name": "'95 Civic",
+        "url": "https://open.spotify.com/album/4UoHIrUDmQa9WTLsKg7q6T"
+      },
+      "artists": [
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        },
+        {
+          "name": "Eimaral Sol",
+          "url": "https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH"
+        }
+      ],
+      "duration_ms": 199563,
+      "name": "Swerve",
+      "url": "https://open.spotify.com/track/1szukOBC3EGeotj9HEVbjS"
+    },
+    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "The Hurtbook (Homegirl Pack)",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Weak For Me",
+        "url": "https://open.spotify.com/album/06OJ08xYd8UwL3B5ih8O5l"
+      },
+      "artists": [
+        {
+          "name": "Baby B",
+          "url": "https://open.spotify.com/artist/7nznupCgJONUdFSwrrqnDi"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Weak For Me",
+      "url": "https://open.spotify.com/track/1qHwfmane0e7tMGnnMM1jo"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Speak Your Mine",
         "url": "https://open.spotify.com/album/3e2ZjkaPzsXXsMJzXYQDqG"
       },
@@ -1437,20 +1453,40 @@
       "url": "https://open.spotify.com/track/1i5hcCnWCHYu2mvUq04OPP"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2023-09-08 05:11:32",
       "album": {
-        "name": "Weak For Me",
-        "url": "https://open.spotify.com/album/06OJ08xYd8UwL3B5ih8O5l"
+        "name": "ISN'T THE SAME",
+        "url": "https://open.spotify.com/album/2pBuZonuiDcOeLNg2SDdOX"
       },
       "artists": [
         {
-          "name": "Baby B",
-          "url": "https://open.spotify.com/artist/7nznupCgJONUdFSwrrqnDi"
+          "name": "SAHXL",
+          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Weak For Me",
-      "url": "https://open.spotify.com/track/1qHwfmane0e7tMGnnMM1jo"
+      "duration_ms": 156624,
+      "name": "ISN'T THE SAME",
+      "url": "https://open.spotify.com/track/5c5WpahqfyGJ7ZibFt8Es7"
+    },
+    {
+      "added_at": "2022-09-30 04:04:59",
+      "album": {
+        "name": "Smoke, Drink, Break Up (feat. Wale)",
+        "url": "https://open.spotify.com/album/4w1pNr7PpV3zq6VgaqPHcx"
+      },
+      "artists": [
+        {
+          "name": "Nelccia",
+          "url": "https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 131542,
+      "name": "Smoke, Drink, Break Up (feat. Wale)",
+      "url": "https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1477,26 +1513,6 @@
       "url": "https://open.spotify.com/track/6PZRy35ohzFTVfrpAEzmHf"
     },
     {
-      "added_at": "2022-09-30 04:04:59",
-      "album": {
-        "name": "Smoke, Drink, Break Up (feat. Wale)",
-        "url": "https://open.spotify.com/album/4w1pNr7PpV3zq6VgaqPHcx"
-      },
-      "artists": [
-        {
-          "name": "Nelccia",
-          "url": "https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 131542,
-      "name": "Smoke, Drink, Break Up (feat. Wale)",
-      "url": "https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3"
-    },
-    {
       "added_at": "2023-07-28 08:00:10",
       "album": {
         "name": "Just Like Me",
@@ -1515,22 +1531,6 @@
       "duration_ms": 150361,
       "name": "Just Like Me",
       "url": "https://open.spotify.com/track/43dG0O6NZ3NAcAupkxpQn3"
-    },
-    {
-      "added_at": "2023-09-08 05:11:32",
-      "album": {
-        "name": "ISN'T THE SAME",
-        "url": "https://open.spotify.com/album/2pBuZonuiDcOeLNg2SDdOX"
-      },
-      "artists": [
-        {
-          "name": "SAHXL",
-          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
-        }
-      ],
-      "duration_ms": 156624,
-      "name": "ISN'T THE SAME",
-      "url": "https://open.spotify.com/track/5c5WpahqfyGJ7ZibFt8Es7"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1597,6 +1597,22 @@
       "url": "https://open.spotify.com/track/2YMBu5oURKQ0uSKW8x80o3"
     },
     {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "For Now",
+        "url": "https://open.spotify.com/album/0Ge8tR0lq1n6wVtYZTzWL1"
+      },
+      "artists": [
+        {
+          "name": "Romeyo Wilson",
+          "url": "https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ"
+        }
+      ],
+      "duration_ms": 166250,
+      "name": "For Now",
+      "url": "https://open.spotify.com/track/443THossCBCsZQ91AKnBDP"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Body Talk",
@@ -1613,20 +1629,20 @@
       "url": "https://open.spotify.com/track/4M3Dm3KwX3nfXQ0w82w3da"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-06-16 05:24:07",
       "album": {
-        "name": "For Now",
-        "url": "https://open.spotify.com/album/0Ge8tR0lq1n6wVtYZTzWL1"
+        "name": "Pretty Conversation",
+        "url": "https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U"
       },
       "artists": [
         {
-          "name": "Romeyo Wilson",
-          "url": "https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ"
+          "name": "JAHKOY",
+          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
         }
       ],
-      "duration_ms": 166250,
-      "name": "For Now",
-      "url": "https://open.spotify.com/track/443THossCBCsZQ91AKnBDP"
+      "duration_ms": 144000,
+      "name": "Man on Fire",
+      "url": "https://open.spotify.com/track/282Gfam1HA1HeQLINewp9V"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1647,22 +1663,6 @@
       "duration_ms": 161684,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx"
-    },
-    {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "Pretty Conversation",
-        "url": "https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U"
-      },
-      "artists": [
-        {
-          "name": "JAHKOY",
-          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Man on Fire",
-      "url": "https://open.spotify.com/track/282Gfam1HA1HeQLINewp9V"
     },
     {
       "added_at": "2024-03-15 04:00:00",

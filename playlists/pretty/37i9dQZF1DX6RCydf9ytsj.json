@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 619225,
+  "num_followers": 619458,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDZmZjA5NmVlY2Q1M2IwY2RlOGE4NTQ2YzFmZTQwOWRjNzgzMWI5",
+  "snapshot_id": "MCw5ZDFkZjFkMGUzNTFmM2UzMzRkNDIzOGM1MWIzNzBiNDY3YmQyYTYz",
   "tracks": [
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "The Essential Waylon Jennings",
-        "url": "https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 286120,
-      "name": "I Ain't Living Long Like This",
-      "url": "https://open.spotify.com/track/0NBKvnJAAG865ENj9bOhvD"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Seven Year Ache",
         "url": "https://open.spotify.com/album/1nLAeFogJgO9s6Mb6ShASn"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 195706,
       "name": "Seven Year Ache",
       "url": "https://open.spotify.com/track/4CLijHDH7Bd287Pv52BRb1"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "The Essential Waylon Jennings",
+        "url": "https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 286120,
+      "name": "I Ain't Living Long Like This",
+      "url": "https://open.spotify.com/track/0NBKvnJAAG865ENj9bOhvD"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "King's Record Shop",
-        "url": "https://open.spotify.com/album/2UKzyeTTIPTmhgMawl3iag"
+        "name": "Roll On",
+        "url": "https://open.spotify.com/album/2wxMN8hgpUMTLpD8CilSPb"
       },
       "artists": [
         {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
         }
       ],
-      "duration_ms": 189007,
-      "name": "Tennessee Flat Top Box",
-      "url": "https://open.spotify.com/track/2m25daTa9vh2G3kR4ZnSSS"
+      "duration_ms": 262626,
+      "name": "Roll On (Eighteen Wheeler)",
+      "url": "https://open.spotify.com/track/31LOzuiEqzfMZ6f8nujDVd"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Roll On",
-        "url": "https://open.spotify.com/album/2wxMN8hgpUMTLpD8CilSPb"
+        "name": "King's Record Shop",
+        "url": "https://open.spotify.com/album/2UKzyeTTIPTmhgMawl3iag"
       },
       "artists": [
         {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
         }
       ],
-      "duration_ms": 262626,
-      "name": "Roll On (Eighteen Wheeler)",
-      "url": "https://open.spotify.com/track/31LOzuiEqzfMZ6f8nujDVd"
+      "duration_ms": 189007,
+      "name": "Tennessee Flat Top Box",
+      "url": "https://open.spotify.com/track/2m25daTa9vh2G3kR4ZnSSS"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "My Favorite Memory",
-      "url": "https://open.spotify.com/track/7FsM2MPjPCdgYld4NsvO0f"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "I Love 'Em All",
         "url": "https://open.spotify.com/album/4gkofMfdkx3zQAJUv1iz6c"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 221280,
       "name": "I Loved 'Em Every One",
       "url": "https://open.spotify.com/track/4vRwErUg8XwxZnMsAp5ozS"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "My Favorite Memory",
+      "url": "https://open.spotify.com/track/7FsM2MPjPCdgYld4NsvO0f"
     },
     {
       "added_at": "2023-08-21 19:29:52",

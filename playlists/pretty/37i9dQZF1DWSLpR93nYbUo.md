@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 
 > Ouça as novidades da cena eletrônica\. Foto: Sterium
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,435 likes - 73 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,447 likes - 73 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 72 | [Way Back](https://open.spotify.com/track/1Q1clcocESI1KAgIQ638lS) | [Duarte](https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk), [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [Way Back](https://open.spotify.com/album/76ZIraomSbcDfmAdaJqNa5) | 2:45 |
 | 73 | [Oh Low](https://open.spotify.com/track/7nI3oWYKEMWwcddD4SpUvg) | [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv) | [Oh Low](https://open.spotify.com/album/0rOH0FxIi30rsZ8kYbb2zR) | 2:53 |
 
-Snapshot ID: `MCw2MzkzNmNkM2U2MTBmMWEzNTQ2NTlhMmM5NzZlOTM4NzI1MWY2MTlk`
+Snapshot ID: `MCw0ZTFkOTEwNzQxNDI4ODFmOTNhMTNiNWExNTJkZmYwMjE2YmEzZmNj`

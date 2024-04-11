@@ -4,7 +4,7 @@
 
 > This is how we do it, This is our style.<br/>Cover: Sidhu Moose Wala
 
-148 songs - 7 hr 35 min
+149 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [26 Blvd](https://open.spotify.com/track/3OK2VUpcjQQZAqGHw95N4G) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 3:32 | 2023-03-18 | 2023-07-06 |
 | [26 Blvd](https://open.spotify.com/track/3v83EFDmAWMH96r3XUf8AJ) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 3:32 | 2023-06-23 | 2024-03-27 |
 | [295](https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:30 | 2023-03-18 |  |
+| [410](https://open.spotify.com/track/0R1AZYXc34nfMaiengrkRc) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Offgrid](https://open.spotify.com/artist/7F8zSmymsU25wRm0x7R05Y) | [410](https://open.spotify.com/album/0kUrdWYhWYGz71c0jaGnJe) | 3:54 | 2024-04-10 |  |
 | [52 Bars](https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:34 | 2023-03-18 |  |
 | [65 Inch Ghodian](https://open.spotify.com/track/6wZzl3g6LhAk1ry6MoZnlx) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [65 Inch Ghodian](https://open.spotify.com/album/1Cr8qrPYfkbmvPcNVfdoeU) | 1:56 | 2023-04-23 | 2023-06-24 |
 | [8 ASLE](https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:41 | 2023-12-18 |  |
@@ -122,7 +123,7 @@
 | [Pind Da Riwaaz](https://open.spotify.com/track/0OvC1QkWdBI3ORrp2lEhNO) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Azaad](https://open.spotify.com/artist/1OyC6DVO89fCq0vDtDwBj4) | [Keep It Gangsta](https://open.spotify.com/album/2yLZX2MHdXJK8nyFUmFGvW) | 3:08 | 2023-03-18 |  |
 | [Problems Over Peace](https://open.spotify.com/track/7ups0PLQ1oiRnkneh3SQSD) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Problems Over Peace](https://open.spotify.com/album/7hXz1jeclKqFSWwl2QjN5w) | 2:38 | 2024-04-05 |  |
 | [PROCESS](https://open.spotify.com/track/3AaFwooS6oMDJZfHqnL9aX) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [GLOBAL WARNING](https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p) | 2:38 | 2023-07-31 | 2024-01-06 |
-| [Puppy Eyes Freestyle](https://open.spotify.com/track/2HbB9fOd7J4NalwFAVAT6M) | [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Puppy Eyes Freestyle](https://open.spotify.com/album/34K9SvekBivdj94e5Ovexv) | 1:24 | 2024-03-27 |  |
+| [Puppy Eyes Freestyle](https://open.spotify.com/track/2HbB9fOd7J4NalwFAVAT6M) | [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Puppy Eyes Freestyle](https://open.spotify.com/album/34K9SvekBivdj94e5Ovexv) | 1:24 | 2024-03-27 | 2024-04-11 |
 | [Real Talk](https://open.spotify.com/track/4mPtl3xcn3YForEsRWIsAT) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Real Talk](https://open.spotify.com/album/4Bor4XW3CmFk3tyF19Ysxt) | 2:38 | 2024-03-15 |  |
 | [Rubicon Drill](https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Forever](https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq) | 3:08 | 2023-03-18 |  |
 | [Safety Off](https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 2:23 | 2024-02-02 |  |

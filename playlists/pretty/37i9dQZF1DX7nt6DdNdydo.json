@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 49699,
+  "num_followers": 49726,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2I0MDcyNzMxZThlYjg4ZTUxMjY1NjMyMTBkNDM3MzkzNTAyMmJk",
+  "snapshot_id": "MCxmYzRjODMwYTIxN2E3YmJiY2EwZGVjM2I3OWI5MGRlOTQ4OWQxMTY3",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Jump Blue: Rockin' The Jukes",
+        "url": "https://open.spotify.com/album/5IYJY3LB4L1HDrgaA895kk"
+      },
+      "artists": [
+        {
+          "name": "Big 'T' Tyler",
+          "url": "https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa"
+        }
+      ],
+      "duration_ms": 124333,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/6MVlUVsSUZe5nAWSDofU8w"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Count Basie Swings - Joe Williams Sings",
         "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 190706,
       "name": "Roll 'Em Pete",
       "url": "https://open.spotify.com/track/7cZee2jcOLtRtHcU3em8ZR"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Jump Blue: Rockin' The Jukes",
-        "url": "https://open.spotify.com/album/5IYJY3LB4L1HDrgaA895kk"
-      },
-      "artists": [
-        {
-          "name": "Big 'T' Tyler",
-          "url": "https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa"
-        }
-      ],
-      "duration_ms": 124333,
-      "name": "King Kong",
-      "url": "https://open.spotify.com/track/6MVlUVsSUZe5nAWSDofU8w"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Down The Road Apiece -The Best Of Amos Milburn",
+        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+      },
+      "artists": [
+        {
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Sax Shack Boogie",
+      "url": "https://open.spotify.com/track/5M0LiPltBA6gVxGhFzBXKw"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "The Humphrey Lyttelton Big Band with Jimmy Rushing",
         "url": "https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 116933,
       "name": "Mr. Five By Five",
       "url": "https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Down The Road Apiece -The Best Of Amos Milburn",
-        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
-      },
-      "artists": [
-        {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "Sax Shack Boogie",
-      "url": "https://open.spotify.com/track/5M0LiPltBA6gVxGhFzBXKw"
     },
     {
       "added_at": "2022-03-28 19:44:25",

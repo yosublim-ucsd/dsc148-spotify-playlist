@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2593281,
+  "num_followers": 2593409,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWQxOTFmYThmNmYzM2Y5MGZlYWU2NzkxMThiNTRlNzM3MGRmYTJh",
+  "snapshot_id": "MCwyMjY5YmZjYTA4MmQyMmFhNzJlNjEyYjlkYjNmMWJmYTJlMTcwMWIy",
   "tracks": [
     {
       "added_at": "2024-04-05 18:00:57",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-04-05 18:00:57",
       "album": {
+        "name": "SEE YOU DROP",
+        "url": "https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "SEE YOU DROP",
+      "url": "https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb"
+    },
+    {
+      "added_at": "2024-04-05 18:00:57",
+      "album": {
         "name": "FEELING GUD",
         "url": "https://open.spotify.com/album/6jd5jHj3j3dakL1cKvzMEC"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 190682,
       "name": "FEELING GUD",
       "url": "https://open.spotify.com/track/0suLmBuEbatdochI4tHduq"
-    },
-    {
-      "added_at": "2024-04-05 18:00:57",
-      "album": {
-        "name": "SEE YOU DROP",
-        "url": "https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz"
-      },
-      "artists": [
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        }
-      ],
-      "duration_ms": 157600,
-      "name": "SEE YOU DROP",
-      "url": "https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb"
     },
     {
       "added_at": "2024-04-05 18:00:57",
@@ -455,6 +455,30 @@
     {
       "added_at": "2024-04-05 18:00:57",
       "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "DeathbyRomy",
+          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
+        }
+      ],
+      "duration_ms": 294857,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd"
+    },
+    {
+      "added_at": "2024-04-05 18:00:57",
+      "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/0MrSLoHEtnWYFmg38SSnjN"
       },
@@ -467,30 +491,6 @@
       "duration_ms": 223999,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/6qLM7FY8SPWYIyKKhzzVO0"
-    },
-    {
-      "added_at": "2024-04-05 18:00:57",
-      "album": {
-        "name": "Gassed Up",
-        "url": "https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 238285,
-      "name": "Gassed Up",
-      "url": "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
     },
     {
       "added_at": "2024-04-05 18:00:57",
@@ -615,6 +615,30 @@
     {
       "added_at": "2024-04-05 18:00:57",
       "album": {
+        "name": "Gassed Up",
+        "url": "https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 238285,
+      "name": "Gassed Up",
+      "url": "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
+    },
+    {
+      "added_at": "2024-04-05 18:00:57",
+      "album": {
         "name": "Pour Your Heart Out (feat. 070 Shake)",
         "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
       },
@@ -631,26 +655,6 @@
       "duration_ms": 223561,
       "name": "Pour Your Heart Out (feat. 070 Shake)",
       "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
-    },
-    {
-      "added_at": "2024-04-05 18:00:57",
-      "album": {
-        "name": "Ecstasy Of Soul",
-        "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Ecstasy Of Soul",
-      "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
     },
     {
       "added_at": "2024-04-05 18:00:57",
@@ -715,6 +719,26 @@
     {
       "added_at": "2024-04-05 18:00:57",
       "album": {
+        "name": "Ecstasy Of Soul",
+        "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Ecstasy Of Soul",
+      "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
+    },
+    {
+      "added_at": "2024-04-05 18:00:57",
+      "album": {
         "name": "Mind Pluck",
         "url": "https://open.spotify.com/album/2aS0GPy3F7noLvi1kgWEMz"
       },
@@ -755,30 +779,6 @@
     {
       "added_at": "2024-04-05 18:00:57",
       "album": {
-        "name": "Thrilla",
-        "url": "https://open.spotify.com/album/0huroHZfl6hAgdFdfp2dhL"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        {
-          "name": "ShaSimone",
-          "url": "https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw"
-        }
-      ],
-      "duration_ms": 134222,
-      "name": "Thrilla",
-      "url": "https://open.spotify.com/track/2ePOVtay20vRQ33E1k1Qft"
-    },
-    {
-      "added_at": "2024-04-05 18:00:57",
-      "album": {
         "name": "Old School",
         "url": "https://open.spotify.com/album/5FPyXKsRMhaRLFNSvLA5jk"
       },
@@ -799,30 +799,6 @@
     {
       "added_at": "2024-04-05 18:00:57",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        },
-        {
-          "name": "DeathbyRomy",
-          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
-        }
-      ],
-      "duration_ms": 294857,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd"
-    },
-    {
-      "added_at": "2024-04-05 18:00:57",
-      "album": {
         "name": "WukiWorld",
         "url": "https://open.spotify.com/album/523y2Ub7mQPON9romO2APM"
       },
@@ -839,6 +815,30 @@
       "duration_ms": 162375,
       "name": "Birdz",
       "url": "https://open.spotify.com/track/3LEztKH305u3WRpqKdG9Ch"
+    },
+    {
+      "added_at": "2024-04-05 18:00:57",
+      "album": {
+        "name": "Thrilla",
+        "url": "https://open.spotify.com/album/0huroHZfl6hAgdFdfp2dhL"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "ShaSimone",
+          "url": "https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw"
+        }
+      ],
+      "duration_ms": 134222,
+      "name": "Thrilla",
+      "url": "https://open.spotify.com/track/2ePOVtay20vRQ33E1k1Qft"
     },
     {
       "added_at": "2024-04-05 18:00:57",
@@ -903,22 +903,26 @@
     {
       "added_at": "2024-04-05 18:00:57",
       "album": {
-        "name": "Asteroid",
-        "url": "https://open.spotify.com/album/1cyTofD8lQzZb4KkE4VsKf"
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr"
       },
       "artists": [
         {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
         },
         {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "Warrior Queen",
+          "url": "https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT"
         }
       ],
-      "duration_ms": 243200,
-      "name": "Asteroid",
-      "url": "https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV"
+      "duration_ms": 251862,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd"
     },
     {
       "added_at": "2024-04-05 18:00:57",
@@ -951,6 +955,26 @@
       "duration_ms": 226849,
       "name": "Burial (feat. Pusha T, Moody Good, TrollPhace)",
       "url": "https://open.spotify.com/track/7DHX1Ng0V186U2idfFfjGi"
+    },
+    {
+      "added_at": "2024-04-05 18:00:57",
+      "album": {
+        "name": "Asteroid",
+        "url": "https://open.spotify.com/album/1cyTofD8lQzZb4KkE4VsKf"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Asteroid",
+      "url": "https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV"
     },
     {
       "added_at": "2024-04-05 18:00:57",
@@ -1011,30 +1035,6 @@
       "duration_ms": 316420,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/1DegLHuaZdLmOvhUgsNV9I"
-    },
-    {
-      "added_at": "2024-04-05 18:00:57",
-      "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        },
-        {
-          "name": "Warrior Queen",
-          "url": "https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT"
-        }
-      ],
-      "duration_ms": 251862,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd"
     },
     {
       "added_at": "2024-04-05 18:00:57",
@@ -1303,6 +1303,42 @@
     {
       "added_at": "2024-04-05 18:00:57",
       "album": {
+        "name": "damn Right Pt. 2",
+        "url": "https://open.spotify.com/album/18H6Ws2enejwSpuhX3S6K4"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "damn Right Pt. 2",
+      "url": "https://open.spotify.com/track/3syIqcdNRjbFcWkEMRRT1d"
+    },
+    {
+      "added_at": "2024-04-05 18:00:57",
+      "album": {
+        "name": "Vibe Check",
+        "url": "https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "Vibe Check",
+      "url": "https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF"
+    },
+    {
+      "added_at": "2024-04-05 18:00:57",
+      "album": {
         "name": "DISRESPECT",
         "url": "https://open.spotify.com/album/0RGq1ek6xmKTIbF3R5j1P3"
       },
@@ -1327,42 +1363,6 @@
       "duration_ms": 139034,
       "name": "DISRESPECT",
       "url": "https://open.spotify.com/track/7LpQXlw2o9xWBE5CuATFJk"
-    },
-    {
-      "added_at": "2024-04-05 18:00:57",
-      "album": {
-        "name": "Vibe Check",
-        "url": "https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Vibe Check",
-      "url": "https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF"
-    },
-    {
-      "added_at": "2024-04-05 18:00:57",
-      "album": {
-        "name": "damn Right Pt. 2",
-        "url": "https://open.spotify.com/album/18H6Ws2enejwSpuhX3S6K4"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "damn Right Pt. 2",
-      "url": "https://open.spotify.com/track/3syIqcdNRjbFcWkEMRRT1d"
     },
     {
       "added_at": "2024-04-05 18:00:57",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2024-04-05 18:00:57",
       "album": {
-        "name": "NEW WIP",
-        "url": "https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "MadeinTYO",
-          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "NEW WIP",
-      "url": "https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm"
-    },
-    {
-      "added_at": "2024-04-05 18:00:57",
-      "album": {
         "name": "Ball So Hard (PIERCE Remix)",
         "url": "https://open.spotify.com/album/2TEa0aL1nxqMB4nLRHrbnt"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 140571,
       "name": "Ball So Hard - PIERCE Remix",
       "url": "https://open.spotify.com/track/3Xe1gYN2scJOx0R4C289YY"
+    },
+    {
+      "added_at": "2024-04-05 18:00:57",
+      "album": {
+        "name": "NEW WIP",
+        "url": "https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "MadeinTYO",
+          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "NEW WIP",
+      "url": "https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm"
     },
     {
       "added_at": "2024-04-05 18:00:57",

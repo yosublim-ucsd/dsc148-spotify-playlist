@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of the current hits and classic Gospel songs\.  Cover: <a href="spotify:artist:5YxebzzreNswbtYC1td4cx">Tasha Cobbs Leonard</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,137 likes - 88 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,201 likes - 88 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 4 | [Your Power](https://open.spotify.com/track/0ToGha42fy4KqBdzJ1yOTN) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Your Power](https://open.spotify.com/album/5FsMkqJBLQcHPzSHa82KWh) | 3:42 |
 | 5 | [Every Praise \- \(album edit\)](https://open.spotify.com/track/0nSrUpDjFouhaQB7dOi0h7) | [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd) | [Azusa The Next Generation](https://open.spotify.com/album/6DCAqtLpV7aZedYHy7hRA1) | 7:21 |
 | 6 | [Take Me to the King \(feat\. Kirk Franklin\)](https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Best Days](https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ) | 4:47 |
-| 7 | [Blessings \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/0USJzZsIiPDbr6ZXgXik7B) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:34 |
-| 8 | [I'm Getting Ready](https://open.spotify.com/track/5RjS5iW0FWn1U4ZaWjhLlP) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:26 |
+| 7 | [I'm Getting Ready](https://open.spotify.com/track/5RjS5iW0FWn1U4ZaWjhLlP) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:26 |
+| 8 | [Blessings \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/0USJzZsIiPDbr6ZXgXik7B) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:34 |
 | 9 | [Lord Do It For Me \- Live](https://open.spotify.com/track/17WnVLXVM5qUT1z0YZN0Yw) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Imprint \(Live in Memphis\)](https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb) | 5:54 |
 | 10 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 |
 | 11 | [More Than Able \(feat\. Chandler Moore & Tiffany Hudson\)](https://open.spotify.com/track/0Mqrd6fg80trlHLn4BcYBO) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Trust In God / More Than Able](https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj) | 9:58 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 32 | [I'm Yours](https://open.spotify.com/track/1Le6O6aIBN69wCWL1psmLR) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [The Truth \(Standard\)](https://open.spotify.com/album/2PN0icbfw6JsxnWrNmksuO) | 7:49 |
 | 33 | [I Am \(Radio Edit\)](https://open.spotify.com/track/4kHeq8xopjOKgOpR5WMysx) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Deborah Carolina](https://open.spotify.com/artist/1b89ZzY5HMXI8pQlTfFe4m) | [I Am](https://open.spotify.com/album/72WtW1NPV6LYFP5SIYsWEx) | 4:42 |
 | 34 | [New](https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [New](https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE) | 3:15 |
-| 35 | [You](https://open.spotify.com/track/23w95m3xuLxEyqaIMFYDrY) | [Jermaine Dolly](https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530) | [The Dolly Express](https://open.spotify.com/album/63yEC0w1r3uMTfWPmX7iAF) | 5:45 |
-| 36 | [Do You Believe In Love?](https://open.spotify.com/track/16TV0mMaoL0OGGwPxTlhSV) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [I Love You](https://open.spotify.com/album/0DTgeOcvfktR1pOb5srzbG) | 4:14 |
+| 35 | [Do You Believe In Love?](https://open.spotify.com/track/16TV0mMaoL0OGGwPxTlhSV) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [I Love You](https://open.spotify.com/album/0DTgeOcvfktR1pOb5srzbG) | 4:14 |
+| 36 | [You](https://open.spotify.com/track/23w95m3xuLxEyqaIMFYDrY) | [Jermaine Dolly](https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530) | [The Dolly Express](https://open.spotify.com/album/63yEC0w1r3uMTfWPmX7iAF) | 5:45 |
 | 37 | [I Still Have You](https://open.spotify.com/track/6ungnRr8B5ZetjVy3KnlVs) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [I Still Have You](https://open.spotify.com/album/22Dhwmk1vEUU8G5keHdfBo) | 4:14 |
 | 38 | [Hold on Me \(feat\. Kirk Franklin & John P\. Kee\)](https://open.spotify.com/track/3MKu1rrJQAieDImUI34gls) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Hold on Me \(feat\. Kirk Franklin & John P\. Kee\)](https://open.spotify.com/album/0GZRbYYeZYmRKLZZPCMblg) | 3:30 |
 | 39 | [I See Good](https://open.spotify.com/track/3d1ZDOFoNd6ruROmgrgdK8) | [Maurette Brown Clark](https://open.spotify.com/artist/6SGhROQYSIxgiCvxfXfp4p) | [He Loves Me](https://open.spotify.com/album/5gV5rh660Bi8NPBc5a0766) | 6:07 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 87 | [We Can't Forget Him](https://open.spotify.com/track/1wqozXrbtZkb8r8DfAot5E) | [Bobbi Storm](https://open.spotify.com/artist/4u2tnfiRrpWOEdC14Vg6d8) | [We Can't Forget Him](https://open.spotify.com/album/1W9AAIaC2KFeuZNPeY3q5V) | 2:58 |
 | 88 | [Able](https://open.spotify.com/track/0ICGreKEIidNiyIGMVwS1E) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79) | [My Truth](https://open.spotify.com/album/07zEDWrPhqROuygaSwVTHm) | 5:02 |
 
-Snapshot ID: `MCw2OGNmM2RjMDQ0NTQ4MGI1Njc4NGNkYTZhZGY1NzI3YjgzMWQxMjYw`
+Snapshot ID: `MCxiN2NjNGQ2NTc4MWRmYzhiOTdhYjI3NWJmODJiNDBiOTk0MjRlMjg1`

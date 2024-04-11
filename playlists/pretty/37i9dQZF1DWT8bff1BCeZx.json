@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 14737,
+  "num_followers": 14770,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTg0NjAwYTkxYjNlY2Q4OTczOTM5MGNjMmYyMGNlMmU3MzMwOGU1",
+  "snapshot_id": "MCwxZDRjZDQ1OTJhMmU2OTZjNWZkOGQzNWUxZTIzNDYwYWRjZmFmNzA1",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -167,6 +167,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "The Glory Experience (Live In Houston)",
+        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
+      },
+      "artists": [
+        {
+          "name": "Uche Agu",
+          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
+        }
+      ],
+      "duration_ms": 148146,
+      "name": "My God Is Good - Double Double Remix/Live",
+      "url": "https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Hallelujah No Go Finish",
         "url": "https://open.spotify.com/album/3tnchDrtOufIOADCEphN3q"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 488338,
       "name": "Tobechukwu - Live",
       "url": "https://open.spotify.com/track/79zFqU5mmz9wnuKfjaiPJp"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "The Glory Experience (Live In Houston)",
-        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
-      },
-      "artists": [
-        {
-          "name": "Uche Agu",
-          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
-        }
-      ],
-      "duration_ms": 148146,
-      "name": "My God Is Good - Double Double Remix/Live",
-      "url": "https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -347,6 +347,26 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "God of Love",
+        "url": "https://open.spotify.com/album/2T2gLRnY1ylgkEWaEVuL1H"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "Love Song",
+          "url": "https://open.spotify.com/artist/6yKVfS7jLHoqmI8AWvVivy"
+        }
+      ],
+      "duration_ms": 337160,
+      "name": "Wonderful Wonder",
+      "url": "https://open.spotify.com/track/5sSoA18jYUkQkvC64o0IDS"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
       },
@@ -381,40 +401,20 @@
       "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2024-03-15 00:01:00",
       "album": {
-        "name": "God of Love",
-        "url": "https://open.spotify.com/album/2T2gLRnY1ylgkEWaEVuL1H"
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp"
       },
       "artists": [
         {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "Love Song",
-          "url": "https://open.spotify.com/artist/6yKVfS7jLHoqmI8AWvVivy"
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
         }
       ],
-      "duration_ms": 337160,
-      "name": "Wonderful Wonder",
-      "url": "https://open.spotify.com/track/5sSoA18jYUkQkvC64o0IDS"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "The Glory Experience (Songs of Zion)",
-        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 577592,
-      "name": "Kaabo",
-      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
+      "duration_ms": 177255,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Only God Can Save Me",
-        "url": "https://open.spotify.com/album/46BxNQYEL1ez8HQ8w6Fpql"
+        "name": "The Glory Experience (Songs of Zion)",
+        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
       },
       "artists": [
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
         }
       ],
-      "duration_ms": 178909,
-      "name": "Only God Can Save Me",
-      "url": "https://open.spotify.com/track/3QnQAJkb10GQWnmUtJLBoq"
+      "duration_ms": 577592,
+      "name": "Kaabo",
+      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -501,20 +501,20 @@
       "url": "https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT"
     },
     {
-      "added_at": "2024-03-15 00:01:00",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp"
+        "name": "Only God Can Save Me",
+        "url": "https://open.spotify.com/album/46BxNQYEL1ez8HQ8w6Fpql"
       },
       "artists": [
         {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 177255,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0"
+      "duration_ms": 178909,
+      "name": "Only God Can Save Me",
+      "url": "https://open.spotify.com/track/3QnQAJkb10GQWnmUtJLBoq"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -553,24 +553,20 @@
       "url": "https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "The Birth of Revival",
-        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
+        "name": "Blast (tongues)",
+        "url": "https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8"
       },
       "artists": [
         {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
         }
       ],
-      "duration_ms": 629497,
-      "name": "Who Is on the Lord's Side",
-      "url": "https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS"
+      "duration_ms": 204841,
+      "name": "Blast - tongues",
+      "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -611,6 +607,26 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "The Birth of Revival",
+        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 629497,
+      "name": "Who Is on the Lord's Side",
+      "url": "https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "My Matter",
         "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 173290,
       "name": "My Matter",
       "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Blast (tongues)",
-        "url": "https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 204841,
-      "name": "Blast - tongues",
-      "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Bianule",
-        "url": "https://open.spotify.com/album/5YZUj5SrZhgZqV9ORYHqPR"
-      },
-      "artists": [
-        {
-          "name": "Samsong",
-          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
-        }
-      ],
-      "duration_ms": 285022,
-      "name": "Bianule",
-      "url": "https://open.spotify.com/track/7iwRsEzkfIEEjPeKnviXBG"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Igwe",
         "url": "https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG"
       },
@@ -893,44 +877,20 @@
       "url": "https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb"
     },
     {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
-        "name": "Adore You",
-        "url": "https://open.spotify.com/album/5GV2IQqxEByoiovHXo3FsK"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
-        },
-        {
-          "name": "nina shezz",
-          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
-        },
-        {
-          "name": "Nicole Muwanguzi",
-          "url": "https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b"
-        }
-      ],
-      "duration_ms": 166072,
-      "name": "Adore You",
-      "url": "https://open.spotify.com/track/1tLgZAYwJ3nzoJaCgyAj4I"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Jesus",
-        "url": "https://open.spotify.com/album/1vrTCUyXVNRarmtEGJwER2"
+        "name": "Bianule",
+        "url": "https://open.spotify.com/album/5YZUj5SrZhgZqV9ORYHqPR"
       },
       "artists": [
         {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+          "name": "Samsong",
+          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
         }
       ],
-      "duration_ms": 216666,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/3cGdGKVJX3iO9bEahsdGqh"
+      "duration_ms": 285022,
+      "name": "Bianule",
+      "url": "https://open.spotify.com/track/7iwRsEzkfIEEjPeKnviXBG"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -955,6 +915,46 @@
       "duration_ms": 156196,
       "name": "Yeshua (Extended)",
       "url": "https://open.spotify.com/track/67LzBqIKu1rHsT98euxpa7"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/1vrTCUyXVNRarmtEGJwER2"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/3cGdGKVJX3iO9bEahsdGqh"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "Adore You",
+        "url": "https://open.spotify.com/album/5GV2IQqxEByoiovHXo3FsK"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        },
+        {
+          "name": "Nicole Muwanguzi",
+          "url": "https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b"
+        }
+      ],
+      "duration_ms": 166072,
+      "name": "Adore You",
+      "url": "https://open.spotify.com/track/1tLgZAYwJ3nzoJaCgyAj4I"
     },
     {
       "added_at": "2023-12-15 00:01:00",

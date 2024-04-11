@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-269 songs - 1 day 1 hr 17 min
+270 songs - 1 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Grande É O Senhor \- Ao Vivo](https://open.spotify.com/track/0DR8OCMH9Vv966ZOdWykGp) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memórias 2 \(Ao Vivo\)](https://open.spotify.com/album/1sngh1DpFlv5KdnRch5ECO) | 4:06 | 2023-06-23 |  |
 | [Grandes Coisas \- Ao Vivo](https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Uma Nova História \(ao Vivo\)](https://open.spotify.com/album/6fEAuJNkuAFCUJms25Konq) | 4:57 | 2022-09-09 |  |
 | [Graves Into Gardens \(Live\)](https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh) | 7:32 | 2022-09-09 | 2023-01-14 |
+| [Grita! \(Shout!\) \- Ao Vivo](https://open.spotify.com/track/37h3VwFhtyxPp3jHD5sVXv) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Deixa Vir \- Vol II \(Ao Vivo\)](https://open.spotify.com/album/5qjk2btAEazVwm5MtrMcSE) | 4:41 | 2024-01-05 |  |
 | [Hino da Vitória](https://open.spotify.com/track/2MHtGSaW12T738131nTj0d) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 3:47 | 2022-09-09 |  |
 | [I Can Only Imagine](https://open.spotify.com/track/1G5S1rEr4L57ftizRHcYDP) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Almost There](https://open.spotify.com/album/3ibPey02HcezZGvLpFTLXh) | 4:08 | 2022-09-09 | 2023-04-29 |
 | [Inexplicável Amor \- Ao Vivo](https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Inexplicável Amor \(Ao Vivo\)](https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu) | 5:37 | 2023-02-17 |  |
@@ -223,7 +224,7 @@
 | [Santo Pra Sempre \- Ao Vivo](https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y) | 5:12 | 2023-02-18 | 2023-09-02 |
 | [Santo pra Sempre \- Ao Vivo](https://open.spotify.com/track/2jCAyhO8rDrechp8ekD9TT) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [In Concert \(Ao Vivo\)](https://open.spotify.com/album/27qwBuiWJptuALWu9zCFt5) | 8:07 | 2023-09-15 | 2023-11-30 |
 | [Scars](https://open.spotify.com/track/72B1Omo2kmEst4YKO8vOB6) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Trial & Triumph](https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX) | 3:58 | 2022-09-09 | 2023-01-14 |
-| [Se Eu Me Humilhar \- Ao Vivo](https://open.spotify.com/track/1iyfDciNARp0q8ntP6xF6K) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Palavra, Som e Poder \(Ao Vivo\)](https://open.spotify.com/album/31Dm7loLygWja3nL2KHNaU) | 7:11 | 2023-06-23 |  |
+| [Se Eu Me Humilhar \- Ao Vivo](https://open.spotify.com/track/1iyfDciNARp0q8ntP6xF6K) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Palavra, Som e Poder \(Ao Vivo\)](https://open.spotify.com/album/31Dm7loLygWja3nL2KHNaU) | 7:11 | 2023-06-23 | 2024-04-11 |
 | [See A Victory](https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [See A Victory](https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq) | 6:03 | 2022-09-09 | 2023-01-14 |
 | [Seja Forte](https://open.spotify.com/track/6ULtPMzIdsayMraZMs2KBV) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Seja Forte](https://open.spotify.com/album/3gaCeWpexrCoT31O4IijbD) | 4:13 | 2023-09-01 |  |
 | [Seu Amor](https://open.spotify.com/track/6lX2E81hZoy8a0bteNZeBc) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Seu Amor](https://open.spotify.com/album/0vOUCZ4UM87YUtgNMHTcvu) | 5:36 | 2022-09-09 | 2023-09-02 |

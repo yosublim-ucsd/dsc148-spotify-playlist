@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 10027,
+  "num_followers": 10038,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNThlOTg5OWNmMDI3NWVmMTM5YzIzNWM2YjFhNjhhNWUyNDg2NTMy",
+  "snapshot_id": "MCwwZGU5YjBkMTU1Yzk0OTBiZDgyZTIwZjE5NWQ1ODE2YzIzOGUxODFj",
   "tracks": [
     {
       "added_at": "2023-09-22 05:25:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Ahomale",
-        "url": "https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe"
-      },
-      "artists": [
-        {
-          "name": "Combo Chimbita",
-          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
-        }
-      ],
-      "duration_ms": 298520,
-      "name": "Esto Es Real (8100mg)",
-      "url": "https://open.spotify.com/track/5FWW3dZqsqN3ryZqBpsmFS"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "ALL-YOU-CAN-EAT, Vol.1",
         "url": "https://open.spotify.com/album/2f4R1pwsykiOA4hwF9clHM"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 219341,
       "name": "Que Te Vaya Mal",
       "url": "https://open.spotify.com/track/0ipCiNGPn2n8aeTEPmWp9R"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Ahomale",
+        "url": "https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe"
+      },
+      "artists": [
+        {
+          "name": "Combo Chimbita",
+          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
+        }
+      ],
+      "duration_ms": 298520,
+      "name": "Esto Es Real (8100mg)",
+      "url": "https://open.spotify.com/track/5FWW3dZqsqN3ryZqBpsmFS"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
+        "name": "Lo Bueno Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/5R5CPGWYyfFJNaGPZ32v8i"
+      },
+      "artists": [
+        {
+          "name": "Contento",
+          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
+        }
+      ],
+      "duration_ms": 260678,
+      "name": "Dale Mel\u00f3n",
+      "url": "https://open.spotify.com/track/4gujFYr5x5E7TvPMeYJPpu"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
         "name": "El \u00c1lbum de las Ilusiones",
         "url": "https://open.spotify.com/album/7wTHrCoUQJNtkhQRFreDiW"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 261786,
       "name": "Conectar",
       "url": "https://open.spotify.com/track/4w95fyTD2dawHjWZCnV7Vk"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
-        "name": "Lo Bueno Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/5R5CPGWYyfFJNaGPZ32v8i"
-      },
-      "artists": [
-        {
-          "name": "Contento",
-          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
-        }
-      ],
-      "duration_ms": 260678,
-      "name": "Dale Mel\u00f3n",
-      "url": "https://open.spotify.com/track/4gujFYr5x5E7TvPMeYJPpu"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
+        "name": "Camino al Mar",
+        "url": "https://open.spotify.com/album/20jmEAKKemowX8dH6dRNXt"
+      },
+      "artists": [
+        {
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Soy la Fuerza",
+      "url": "https://open.spotify.com/track/1dLUGmTp8Fy9Sl0p2Tn7T1"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
         "name": "Cosas del Destino",
         "url": "https://open.spotify.com/album/3ZmmsX6h0h1RYZFqlAcWy3"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 214129,
       "name": "Cosas del Destino",
       "url": "https://open.spotify.com/track/4scXnDwua2yWqwDzTb3MEE"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
-        "name": "Camino al Mar",
-        "url": "https://open.spotify.com/album/20jmEAKKemowX8dH6dRNXt"
-      },
-      "artists": [
-        {
-          "name": "Acid Coco",
-          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Soy la Fuerza",
-      "url": "https://open.spotify.com/track/1dLUGmTp8Fy9Sl0p2Tn7T1"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "En el Caribe Tambi\u00e9n Pasa Esto",
-        "url": "https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp"
-      },
-      "artists": [
-        {
-          "name": "Buendia",
-          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "Goz\u00e1 Goz\u00e1",
-      "url": "https://open.spotify.com/track/1Mi4KFAuHfJKRORYYNEQ9B"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Feliz",
         "url": "https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 211034,
       "name": "Feliz",
       "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "En el Caribe Tambi\u00e9n Pasa Esto",
+        "url": "https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp"
+      },
+      "artists": [
+        {
+          "name": "Buendia",
+          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "Goz\u00e1 Goz\u00e1",
+      "url": "https://open.spotify.com/track/1Mi4KFAuHfJKRORYYNEQ9B"
     },
     {
       "added_at": "2023-09-22 05:25:00",

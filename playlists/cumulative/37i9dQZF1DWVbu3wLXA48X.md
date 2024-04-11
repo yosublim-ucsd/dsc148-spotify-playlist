@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Adam Melchor
 
-1,453 songs - 3 day 15 hr 48 min
+1,455 songs - 3 day 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,8 @@
 | [cant celebrate](https://open.spotify.com/track/7FASEsOoEfBpUjdkIuz40V) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [cant celebrate](https://open.spotify.com/album/7feZHa1JhU5fizfntgl46E) | 4:14 | 2022-04-22 | 2022-05-06 |
 | [Cantares](https://open.spotify.com/track/7tn64XRTYFqr2K7ujNLgTl) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Cantares](https://open.spotify.com/album/1UBBUboWIBuEYeYQy7QFCO) | 2:55 | 2021-12-16 | 2021-12-31 |
 | [Capa City](https://open.spotify.com/track/1m6UACcZCrIDd8LCoRpN8r) | [Bedchamber](https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0) | [Capa City](https://open.spotify.com/album/44F56fsc1H14KG1CvRM4N3) | 3:54 | 2023-06-23 | 2023-07-07 |
-| [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 | 2024-02-15 |  |
+| [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 | 2024-02-15 | 2024-04-11 |
+| [Capricorn](https://open.spotify.com/track/4oAGV7IADPWfkpk6aGQqZt) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:09 | 2024-04-04 |  |
 | [Car Therapy](https://open.spotify.com/track/03bB3eUCjwXGYkyMrKK8qg) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Car Therapy](https://open.spotify.com/album/7D252Ap6IlJ1q37D92PjyB) | 3:34 | 2022-04-14 | 2022-05-13 |
 | [Care \(feat\. Bakar\)](https://open.spotify.com/track/28Irf1qUrZ3Dbw9rXmXxHN) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Future Reference](https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg) | 2:32 | 2023-08-25 | 2023-09-16 |
 | [Caroline Good Bye](https://open.spotify.com/track/71VbmPIctQOQ1GDoUgaC07) | [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Another Year](https://open.spotify.com/album/7pLvxJXOGWGd5LDywYJRjW) | 3:36 | 2022-12-08 | 2023-02-25 |
@@ -763,7 +764,8 @@
 | [Maps](https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4), [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Maps](https://open.spotify.com/album/1J05fZukYUxjZwzZQcMZDi) | 3:30 | 2023-06-23 | 2023-07-22 |
 | [Mark on You](https://open.spotify.com/track/3Ics7Qw1rxe121mHDLhRWD) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Mark on You](https://open.spotify.com/album/5KEz2iS9UFDIjfwdfsiuzN) | 2:21 | 2022-08-04 | 2022-08-27 |
 | [Marvelous](https://open.spotify.com/track/5wkEdciZkVGiasumRPReSV) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Tell Me That It’s Over](https://open.spotify.com/album/5L6fAzbz2x5oF8l0qluSKm) | 2:22 | 2022-03-24 | 2022-04-01 |
-| [Mary Boone](https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Mary Boone](https://open.spotify.com/album/3BeMjbziyS6lCFnSel4Tsz) | 4:26 | 2024-03-30 |  |
+| [Mary Boone](https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Mary Boone](https://open.spotify.com/album/3BeMjbziyS6lCFnSel4Tsz) | 4:26 | 2024-03-30 | 2024-04-11 |
+| [Mary Boone](https://open.spotify.com/track/6OjwIdLlkjCLuOThOwODEY) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:26 | 2024-04-04 |  |
 | [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 | 2024-02-22 |  |
 | [Maybe I'm Just Fine](https://open.spotify.com/track/3HK6mXqACXFBJE3CgemAUY) | [tie a tie](https://open.spotify.com/artist/7v9fLn8ZcdEdqzF1vX80n5) | [Cinnamon Daydream](https://open.spotify.com/album/3Qxr4efodw5RfxlnyYoLbg) | 3:05 | 2023-03-31 | 2023-05-06 |
 | [Mayflower](https://open.spotify.com/track/4dkUIKRDVbl3Btd0020IRt) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Mayflower](https://open.spotify.com/album/2uSoNhTaQQsPV9PXIuxOeQ) | 4:09 | 2022-09-09 | 2022-10-15 |

@@ -4,7 +4,7 @@
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : Samara
 
-50 songs - 2 hr 53 min
+51 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Byesset El 7ay](https://open.spotify.com/track/1foKMVjqzlnHKjshXGz4OU) | [Junior Hassen](https://open.spotify.com/artist/1ZgY6ufOpB64Tn2Ha1Vrjv) | [Byesset El 7ay](https://open.spotify.com/album/0yCA3VDCt3gzCPKhizmnJd) | 3:18 | 2024-02-24 |  |
 | [Cheda Mel Bera7](https://open.spotify.com/track/33lYS6Y1Ai0A1QvnehVtSS) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz), [Islem\-23](https://open.spotify.com/artist/4fdscmamdruNB8lZ1nWrTd) | [Cheda Mel Bera7](https://open.spotify.com/album/5CJTBxgZq2kElP6nqqpY2D) | 2:50 | 2024-02-24 |  |
 | [Chokran \- شكرًا](https://open.spotify.com/track/4UvU1ZONOAozisXzAcUBSw) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [Chokran \(شكرًا\)](https://open.spotify.com/album/2KlbzWY3dHZc23RzEE0DFF) | 3:31 | 2024-02-24 |  |
-| [Classe S](https://open.spotify.com/track/1iva2ug5cxsrWL1WrmpwrK) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Classe S](https://open.spotify.com/album/5zRg0Ogq4aITVIvPdU3FTd) | 3:58 | 2024-02-24 |  |
+| [Classe S](https://open.spotify.com/track/1iva2ug5cxsrWL1WrmpwrK) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Classe S](https://open.spotify.com/album/5zRg0Ogq4aITVIvPdU3FTd) | 3:58 | 2024-02-24 | 2024-04-11 |
 | [Code](https://open.spotify.com/track/66F8c3Q3fAIdemuIjAQUKD) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Code](https://open.spotify.com/album/4noQSVIRGJ1EdUdfmzItBN) | 5:17 | 2024-02-24 |  |
 | [Dmou3 Ellil](https://open.spotify.com/track/7lPKZ2HWDzWezgbSW1UDjW) | [Blidog](https://open.spotify.com/artist/7JZ59mMjiH3FG9SEKqfS8Z) | [Dmou3 Ellil](https://open.spotify.com/album/6U1llPKCElO0niX3VuM3T4) | 3:38 | 2024-02-24 |  |
 | [DRILL MENA](https://open.spotify.com/track/2BVVXtq5DYowMXCumxB85B) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [DRILL MENA](https://open.spotify.com/album/1NhhAIb1qud4wh9Ih8xkTm) | 2:54 | 2024-02-24 |  |
@@ -57,6 +57,7 @@
 | [Sur La Tête De Ma Mère](https://open.spotify.com/track/6FdXUFCdk2oTBltsS216gC) | [Soldjvt](https://open.spotify.com/artist/1vLZfHcyqW1vBDy93tdTYV) | [Sur La Tête De Ma Mère](https://open.spotify.com/album/3nktcC8HVPUiJP5cdUYnJh) | 3:03 | 2024-02-24 |  |
 | [Tamam \- تمام](https://open.spotify.com/track/5uEEIZTLKtQjHXCKpqcAqz) | [Klay BBJ](https://open.spotify.com/artist/2FL58smO7JsL10CYirRdkO) | [Tamam \(تمام\)](https://open.spotify.com/album/28IxyUCkogf2mh0hxv6fOS) | 3:50 | 2024-02-24 |  |
 | [Wahda x2](https://open.spotify.com/track/5vZXSl3qJro0cieaZ0xFYt) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Wahda x2](https://open.spotify.com/album/4xGvwM9WS9Fp8UjQHJ8lue) | 3:27 | 2024-02-24 |  |
+| [Wasitkom](https://open.spotify.com/track/3cRvl8WM9Rqn4J92Ud3tSa) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Wasitkom](https://open.spotify.com/album/6pAdQjbshmsr3YTzVGebVz) | 5:57 | 2024-04-10 |  |
 | [Welou](https://open.spotify.com/track/686PvZSfRMuquXf7GzZsz4) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Welou](https://open.spotify.com/album/5RxtQOX7YmRWrlF4jLMAzV) | 3:12 | 2024-02-24 |  |
 
 \*This playlist was first scraped on 2024-04-08. Prior content cannot be recovered.

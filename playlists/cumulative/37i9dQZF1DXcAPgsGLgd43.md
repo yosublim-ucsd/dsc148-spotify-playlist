@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻
 
-214 songs - 11 hr 51 min
+215 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Fuego](https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Fuego](https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq) | 1:56 | 2023-11-10 |  |
 | [Gitrox](https://open.spotify.com/track/259nV0mqEAhFcLDAcSXnYM) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU) | [Gitrox](https://open.spotify.com/album/2AE94zFSIdF8NiSygPFdMU) | 3:17 | 2023-12-01 | 2023-12-14 |
 | [Gitrox](https://open.spotify.com/track/7jQZtYrb5nyWXEiNlu0VMQ) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU) | [Gitrox](https://open.spotify.com/album/02LTijbsb6BLbfZMKOEip1) | 3:17 | 2023-12-15 | 2024-03-16 |
-| [Gringada](https://open.spotify.com/track/5vnQUEjtukbbnWcrnigfpT) | [Costa Leon](https://open.spotify.com/artist/3vkZeJ4Gkrwmy21vHPrsDh), [DJ Cuervo](https://open.spotify.com/artist/1L1RMOhubngzDWQzrRB9UH) | [Gringada](https://open.spotify.com/album/31IgBVgxGhUfMUGlA6wZAq) | 2:48 | 2024-01-05 |  |
+| [Gringada](https://open.spotify.com/track/5vnQUEjtukbbnWcrnigfpT) | [Costa Leon](https://open.spotify.com/artist/3vkZeJ4Gkrwmy21vHPrsDh), [DJ Cuervo](https://open.spotify.com/artist/1L1RMOhubngzDWQzrRB9UH) | [Gringada](https://open.spotify.com/album/31IgBVgxGhUfMUGlA6wZAq) | 2:48 | 2024-01-05 | 2024-04-11 |
 | [Guataqui](https://open.spotify.com/track/1j5ocYQRNSZRoj7L5ekkqn) | [Jimmi Rider](https://open.spotify.com/artist/1cd0IMgYU4aMsi2fSh8jJV) | [Guataqui](https://open.spotify.com/album/6JfaLOnI9Q6K31FoHPADyY) | 2:16 | 2024-03-22 |  |
 | [Hagüe](https://open.spotify.com/track/0lpy5ODb3Hk08nGa5izWb6) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Hagüe](https://open.spotify.com/album/0fdy6q55zq1iYKuMkuCJfH) | 2:57 | 2023-11-10 | 2023-12-09 |
 | [HAVANA](https://open.spotify.com/track/1okjg2DZKCyA0w0iCDd10s) | [Vince Morgana](https://open.spotify.com/artist/3OSIswp0zBG2rR96q1Rwp8), [GLADYS](https://open.spotify.com/artist/1Prt0hPO7hG4KRGs9DPpDf) | [HAVANA](https://open.spotify.com/album/4a01OCAe3GzRCRpx67bXFN) | 2:26 | 2024-01-05 |  |
@@ -192,6 +192,7 @@
 | [Te Marchar](https://open.spotify.com/track/6INdWhk0oJqeVLZQiTwpIx) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [Te Marchar](https://open.spotify.com/album/6F7DYs7EZRgEg3fUOuvVSN) | 3:00 | 2024-02-02 | 2024-02-18 |
 | [Te Recorde](https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Subelo NEO](https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv) | [Te Recorde](https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P) | 2:47 | 2024-02-16 |  |
 | [Tikitro](https://open.spotify.com/track/3PUNw4b3t5xgANXPhvOioW) | [Band&dos](https://open.spotify.com/artist/68OOyVnaUOq7m4cxQmZslI), [Tony Guerra](https://open.spotify.com/artist/5qURuhcV6ZjUfe1iYsC2Py) | [Tikitro](https://open.spotify.com/album/5urqD5lw9nAIFh5QQDWECs) | 5:32 | 2024-02-02 | 2024-02-24 |
+| [Tocate](https://open.spotify.com/track/0hmovhJh8gx8Ito3nbPRQy) | [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e), [Cach House](https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc) | [Tocate](https://open.spotify.com/album/1J69wY1wgzllb0AisNy99J) | 3:10 | 2024-04-05 |  |
 | [Toma Dale](https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Toma Dale](https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr) | 5:23 | 2023-12-01 |  |
 | [Toma Que Toma](https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Toma Que Toma](https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd) | 3:47 | 2023-11-10 |  |
 | [Tomala](https://open.spotify.com/track/3J8H0G31LQnI5SAfho46DD) | [Mark Di Meo](https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Tomala](https://open.spotify.com/album/1SxwEEXsi7urSOIk303YoY) | 2:20 | 2024-02-23 | 2024-03-09 |

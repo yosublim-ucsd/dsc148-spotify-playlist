@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Nsqk
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,515 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,534 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 50 | [agüita con sal](https://open.spotify.com/track/3ECMn8Zl2A1o1lQBxg9xvb) | [ISADORA](https://open.spotify.com/artist/3y581XbiJyiM9Y0HBoZk8C) | [agüita con sal](https://open.spotify.com/album/3zGOqF828QOc0A5KcRpJJo) | 2:36 |
 | 51 | [MAGIA NEGRA](https://open.spotify.com/track/1E71uY1krMSN6fyX7zOt2L) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [MAGIA NEGRA](https://open.spotify.com/album/4XnM8cvuYpAjfR3bXwoXEc) | 3:34 |
 
-Snapshot ID: `MCw4MGVmNmJkMDM4MzMyZDVlNzAyNTUyOTI4Y2UxM2Q2ODk1ODRkZDBk`
+Snapshot ID: `MCxlMjI3ZDkzOWZiNTg2NGU2MWE4MTQ2MWUwNTYxZWI5NWUyZWExNTlh`

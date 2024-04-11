@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 
 > Hits con sabor\. Cover: Camilo & Evaluna Montaner
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,635 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,643 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 95 | [Créeme](https://open.spotify.com/track/6hmZuaBLzSLuvHVGCMJwlh) | [Michel Robles](https://open.spotify.com/artist/6cu8qsCgvrKHDLzHOHSeBi), [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E) | [Créeme](https://open.spotify.com/album/3WUjknYm964pru7qXzI85J) | 5:32 |
 | 96 | [Paula C.](https://open.spotify.com/track/5H2y6BJVQ4z44DcscnHgRq) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Roberto Delgado & Orquesta](https://open.spotify.com/artist/5rj835Uo7VJGoT5KHkW23c) | [SALSWING!](https://open.spotify.com/album/5rYDNDOKwq3T0gK5DCI2CI) | 5:36 |
 | 97 | [Lo Veo y No Lo Creo](https://open.spotify.com/track/6hGR9vRbM4ZQ5IiB9O16WZ) | [Willy Garcia](https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Lo Veo y No Lo Creo](https://open.spotify.com/album/53oghpWRV5ghhgPmugXap3) | 3:20 |
-| 98 | [El Combo del Mundo](https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [En Cuarentena](https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2) | 4:19 |
-| 99 | [Quiero Decirte \- DJ C Remix](https://open.spotify.com/track/76Na3nHNJrkdjZ9qkuiJMz) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [DJ C](https://open.spotify.com/artist/3SchaCFy44QEGv2EdF4ZjS) | [Quiero Decirte \- Remixes](https://open.spotify.com/album/3U2wtzZJqd55HGBfqVHruU) | 3:49 |
+| 98 | [Quiero Decirte \- DJ C Remix](https://open.spotify.com/track/76Na3nHNJrkdjZ9qkuiJMz) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [DJ C](https://open.spotify.com/artist/3SchaCFy44QEGv2EdF4ZjS) | [Quiero Decirte \- Remixes](https://open.spotify.com/album/3U2wtzZJqd55HGBfqVHruU) | 3:49 |
+| 99 | [El Combo del Mundo](https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [En Cuarentena](https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2) | 4:19 |
 | 100 | [Ziriguidum](https://open.spotify.com/track/3IlSiEt3LZHvGiaOwC1RAi) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [Ziriguidum](https://open.spotify.com/album/6nTUpThOpMeB9eDIdWcITB) | 3:21 |
 
-Snapshot ID: `MCwxMWZkYjA4NjkyMzQyMGU5NmVmMzM4NmUxMTFmOTM3NzQzYzhhMDdj`
+Snapshot ID: `MCw2OTkyMGFjMTZmYWE4NmU5ZDc2MWZmMjc5MjcyM2Y2MjE3MDU1N2Nl`

@@ -1,12 +1,12 @@
 {
   "description": "The revolutionaries, the allies, and the just plain fabulous: these flawless tracks are beyond perfect for Pride. Cover: Sam Smith & Kim Petras",
-  "num_followers": 662696,
+  "num_followers": 662748,
   "original_name": "Pride Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTY2OWI4ZDIxYmY1ODMwYTk5YjhlZTViNmRjZDE1OTVhZTExNGY0",
+  "snapshot_id": "MCxmMmE2ZThkODU3MjdjMTZjODNkMDY2YzIzMzBjNmQyYWI1YzRmMTM0",
   "tracks": [
     {
       "added_at": "2023-06-08 22:01:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 337733,
-      "name": "Hung Up",
-      "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
-    },
-    {
-      "added_at": "2023-06-08 22:01:00",
-      "album": {
         "name": "The Age of Consent",
         "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 302413,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 337733,
+      "name": "Hung Up",
+      "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
     },
     {
       "added_at": "2023-06-08 22:01:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
-        "name": "KC & the Sunshine Band",
-        "url": "https://open.spotify.com/album/6S2ZnQo8V7k7EQZZEK3WcR"
-      },
-      "artists": [
-        {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
-        }
-      ],
-      "duration_ms": 185106,
-      "name": "That's the Way (I Like It) - 2004 Remaster",
-      "url": "https://open.spotify.com/track/1qiQduM84A0VeH8Y2uAbqi"
-    },
-    {
-      "added_at": "2023-06-08 22:01:00",
-      "album": {
         "name": "Life in Cartoon Motion",
         "url": "https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 187733,
       "name": "Grace Kelly",
       "url": "https://open.spotify.com/track/7dzUZec5MnWMyQnk5klnKR"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
+        "name": "KC & the Sunshine Band",
+        "url": "https://open.spotify.com/album/6S2ZnQo8V7k7EQZZEK3WcR"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 185106,
+      "name": "That's the Way (I Like It) - 2004 Remaster",
+      "url": "https://open.spotify.com/track/1qiQduM84A0VeH8Y2uAbqi"
     },
     {
       "added_at": "2023-06-08 22:01:00",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
-        "name": "At Worst...The Best Of Boy George And Culture Club",
-        "url": "https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3"
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
       },
       "artists": [
         {
-          "name": "Culture Club",
-          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
         }
       ],
-      "duration_ms": 241600,
-      "name": "Karma Chameleon",
-      "url": "https://open.spotify.com/track/48O0GrGJWml3DzHhC5sJ7a"
+      "duration_ms": 278080,
+      "name": "Dancing On My Own - Radio Edit",
+      "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
     }
   ],
   "unique_name": "Pride Party",

@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 1837940,
+  "2024-04-11": 1837967,
   "date_first_scraped": "2021-12-28",
   "description": "The best in folk & acoustic today featuring music from Katie Pruitt",
   "name": "Roots Rising",
@@ -42,6 +42,24 @@
     },
     {
       "album": {
+        "name": "County Line",
+        "url": "https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265453,
+      "name": "4runner",
+      "url": "https://open.spotify.com/track/30Uu3CWjWfudnTGTIrw93V"
+    },
+    {
+      "album": {
         "name": "4runner",
         "url": "https://open.spotify.com/album/7HI6B7UBPjpK0I4PoTfsVu"
       },
@@ -71,7 +89,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 265453,
       "name": "4runner",
       "url": "https://open.spotify.com/track/6ofFq0aQ8aXG73pjfFKwFv"
@@ -5289,10 +5307,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 246000,
       "name": "Looking For",
       "url": "https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F"
+    },
+    {
+      "album": {
+        "name": "County Line",
+        "url": "https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Looking For",
+      "url": "https://open.spotify.com/track/2BFAQKgIqQSPNXuDw08C83"
     },
     {
       "album": {

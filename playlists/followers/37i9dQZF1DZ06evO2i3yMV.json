@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 7948,
+  "2024-04-11": 7952,
   "date_first_scraped": "2023-05-03",
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
   "name": "This Is TOKiMONSTA",
@@ -103,7 +103,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 90397,
       "name": "4th Boom",
       "url": "https://open.spotify.com/track/5yGttN7cpq88005UeU0EB0"
@@ -987,7 +987,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 266345,
       "name": "House of Dal",
       "url": "https://open.spotify.com/track/0QppVcTeM2ZQlxKbHhs3pf"
@@ -1493,7 +1493,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 231639,
       "name": "Nxt Msg - Deletion Mix",
       "url": "https://open.spotify.com/track/04I7GkdacPUoq91OCjoyPe"
@@ -2109,7 +2109,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 195529,
       "name": "Starlight Lace",
       "url": "https://open.spotify.com/track/7rMbCJMPExhYBcmVqvZcLl"

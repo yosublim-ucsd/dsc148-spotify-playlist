@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 7131,
+  "num_followers": 7138,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTFjYzZhZmZkNjQ5ZjhjMjUyMjFiOTUzOWY2MTU4MzM4NjgzY2Q3",
+  "snapshot_id": "MCxhNGMyZDJhNDgxMDM1YjEzMzBiYTdhNTRkYjcxNzgzNmZiYTBhMTg1",
   "tracks": [
     {
       "added_at": "2024-03-07 23:00:00",
@@ -347,18 +347,22 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Fruits Of My Labor",
-        "url": "https://open.spotify.com/album/5f8FA5nXO3K4idqU1mAFuO"
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/5UsuKQY3qOMAYyuwaxH4Lx"
       },
       "artists": [
         {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        },
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
         }
       ],
-      "duration_ms": 216666,
-      "name": "Fruits Of My Labor",
-      "url": "https://open.spotify.com/track/3Un8AiGf6AmPY5YGzdrzJP"
+      "duration_ms": 247666,
+      "name": "Big Time",
+      "url": "https://open.spotify.com/track/3RZ5VvBcCQgrRl8XaKZLa4"
     },
     {
       "added_at": "2024-03-07 23:00:00",
@@ -379,22 +383,18 @@
     {
       "added_at": "2024-03-07 23:00:00",
       "album": {
-        "name": "Big Time",
-        "url": "https://open.spotify.com/album/5UsuKQY3qOMAYyuwaxH4Lx"
+        "name": "Fruits Of My Labor",
+        "url": "https://open.spotify.com/album/5f8FA5nXO3K4idqU1mAFuO"
       },
       "artists": [
         {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        },
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
         }
       ],
-      "duration_ms": 247666,
-      "name": "Big Time",
-      "url": "https://open.spotify.com/track/3RZ5VvBcCQgrRl8XaKZLa4"
+      "duration_ms": 216666,
+      "name": "Fruits Of My Labor",
+      "url": "https://open.spotify.com/track/3Un8AiGf6AmPY5YGzdrzJP"
     },
     {
       "added_at": "2024-03-07 23:00:00",

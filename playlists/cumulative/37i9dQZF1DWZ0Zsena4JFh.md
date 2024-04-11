@@ -4,7 +4,7 @@
 
 > Un parque de diversiones para gustos inconformes y sofisticados\. Khruangbin en portada.
 
-191 songs - 11 hr 36 min
+193 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,9 +37,11 @@
 | [Burning in Flames](https://open.spotify.com/track/1vp0sTWWZVcs8gW0PmDhM8) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Burning In Flames](https://open.spotify.com/album/5E97jRPfvqIazBexNqZCjI) | 3:08 | 2024-01-26 | 2024-02-03 |
 | [But Not Kiss](https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [But Not Kiss](https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh) | 3:42 | 2023-08-04 | 2024-03-23 |
 | [BYE BYE](https://open.spotify.com/track/4K2hu1I4tuRpgDLiNTTEi2) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [BYE BYE](https://open.spotify.com/album/5zve9HuTTyhYyDW5gnjpi7) | 4:14 | 2024-01-26 | 2024-02-03 |
-| [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 | 2024-02-16 |  |
+| [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 | 2024-02-16 | 2024-04-11 |
+| [Capricorn](https://open.spotify.com/track/4oAGV7IADPWfkpk6aGQqZt) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:09 | 2024-04-05 |  |
 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 | 2023-08-04 | 2024-02-24 |
-| [Classical](https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Classical](https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ) | 4:19 | 2024-03-15 |  |
+| [Classical](https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Classical](https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ) | 4:19 | 2024-03-15 | 2024-04-11 |
+| [Classical](https://open.spotify.com/track/4DlGLD32K7shuL8ub067DL) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:19 | 2024-04-05 |  |
 | [Colores Del Mar](https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 3:44 | 2024-02-09 | 2024-03-06 |
 | [Common Blue](https://open.spotify.com/track/4ywML3rFjamKeKg1GE689X) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Common Blue](https://open.spotify.com/album/2eA9i4PruYA1J16gpAFgra) | 3:51 | 2024-02-16 | 2024-03-06 |
 | [Crashing Through](https://open.spotify.com/track/3KO92UFKrYFiPxC7Je8vop) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Crashing Through](https://open.spotify.com/album/0M64PelFgrQAN5hnkB3vMi) | 3:43 | 2023-11-17 | 2023-11-25 |
@@ -108,11 +110,11 @@
 | [Love To Walk Away](https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Love To Walk Away](https://open.spotify.com/album/3H3oeo1nVS1IzgQVOXcDdD) | 2:07 | 2023-12-08 | 2024-01-27 |
 | [Lunar Eclipse](https://open.spotify.com/track/0dE7NZN4VVLlLxJ7WPgpqd) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Lunar Eclipse](https://open.spotify.com/album/5eHQVvyhbGQdSgPdwngpQ6) | 2:56 | 2023-11-17 | 2023-12-19 |
 | [MAGIC](https://open.spotify.com/track/3hB6fPgud6yt1MRKHJ58Mg) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1), [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [MAGIC](https://open.spotify.com/album/1GD5LEi9PqcG53COfp3LsQ) | 2:57 | 2024-02-02 | 2024-02-17 |
-| [Mary Boone](https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Mary Boone](https://open.spotify.com/album/3BeMjbziyS6lCFnSel4Tsz) | 4:26 | 2024-03-29 |  |
+| [Mary Boone](https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Mary Boone](https://open.spotify.com/album/3BeMjbziyS6lCFnSel4Tsz) | 4:26 | 2024-03-29 | 2024-04-11 |
 | [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 | 2024-02-23 |  |
 | [Me Before You](https://open.spotify.com/track/0ap1L5LS0igd0zs4erqmT3) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Me Before You](https://open.spotify.com/album/5Vu8Hm0i46IcPP6JNvT0jE) | 3:23 | 2024-02-23 | 2024-03-30 |
 | [Melody Experiment](https://open.spotify.com/track/3cVEXHZ2G8tJMGoYff4B3q) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Melody Experiment](https://open.spotify.com/album/08WSSXUZVNGgS6yTQ0l4Ho) | 5:10 | 2023-08-04 | 2023-08-26 |
-| [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 | 2024-02-16 | 2024-03-29 |
+| [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 | 2024-02-16 |  |
 | [Mistakes](https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [We've Been Going About This All Wrong](https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr) | 3:59 | 2023-08-04 | 2023-12-20 |
 | [Mrs\. Valentine](https://open.spotify.com/track/5wDjQFHYkPL8q8lFWzvVLf) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Mrs\. Valentine](https://open.spotify.com/album/6AfuKmIjq95swC13Sq4saV) | 2:28 | 2024-02-16 | 2024-03-06 |
 | [My Best Friend](https://open.spotify.com/track/2vYAKGRyybrFQL1rdHXxM2) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [My Best Friend](https://open.spotify.com/album/5eZNZwivm3Ux6EHvLfK3ba) | 3:16 | 2024-01-12 | 2024-01-27 |

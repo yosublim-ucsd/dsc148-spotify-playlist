@@ -378,7 +378,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 142014,
       "name": "Ankhon Ka Kasoor",
       "url": "https://open.spotify.com/track/2Qil9eFB9arcc6DxCCdvX0"
@@ -1513,6 +1513,32 @@
     },
     {
       "album": {
+        "name": "Fortuner Drill",
+        "url": "https://open.spotify.com/album/3WeVtSZdA0zln8sfEgGZsb"
+      },
+      "artists": [
+        {
+          "name": "Jassi Kirarkot",
+          "url": "https://open.spotify.com/artist/2MrTNaowqRRDiTj0FKHvZP"
+        },
+        {
+          "name": "Irshad Khan",
+          "url": "https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4"
+        },
+        {
+          "name": "Deepty",
+          "url": "https://open.spotify.com/artist/6V0gxfUlhg6fOcQGEhcpel"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187285,
+      "name": "Fortuner Drill",
+      "url": "https://open.spotify.com/track/5QdyptjamyyuZJ4r39N95X"
+    },
+    {
+      "album": {
         "name": "Four Seater",
         "url": "https://open.spotify.com/album/1tmM6WfooyH9jvAyAlney3"
       },
@@ -2262,6 +2288,28 @@
     {
       "album": {
         "name": "Jat Clan",
+        "url": "https://open.spotify.com/album/2cECaJoVrV5asZxWHDzDPa"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        },
+        {
+          "name": "Yogi Aulakh",
+          "url": "https://open.spotify.com/artist/5J2xmfWX1pR9OgoGb4Zuaz"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206833,
+      "name": "Jat Clan",
+      "url": "https://open.spotify.com/track/1TQCXSttYddp45YPpSQK4Y"
+    },
+    {
+      "album": {
+        "name": "Jat Clan",
         "url": "https://open.spotify.com/album/51MBb7ysU3Uzr3ASUVR3Kk"
       },
       "artists": [
@@ -2276,7 +2324,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 206833,
       "name": "Jat Clan",
       "url": "https://open.spotify.com/track/3rtxNJ7AOwcOXEbYvUznKy"
@@ -4232,6 +4280,24 @@
     {
       "album": {
         "name": "Up To U",
+        "url": "https://open.spotify.com/album/75E8pKR9gdgdv3xxRyT1o8"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188652,
+      "name": "Up To U",
+      "url": "https://open.spotify.com/track/5pkOSmSeVo8RfC8555LRHT"
+    },
+    {
+      "album": {
+        "name": "Up To U",
         "url": "https://open.spotify.com/album/3LqdYNb1s5tt77gpYkMeeF"
       },
       "artists": [
@@ -4242,7 +4308,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 188652,
       "name": "Up To U",
       "url": "https://open.spotify.com/track/7695jWrVLrftHb9ChEmFCg"

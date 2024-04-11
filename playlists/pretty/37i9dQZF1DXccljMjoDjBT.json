@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s. Cover: Tina Turner",
-  "num_followers": 279633,
+  "num_followers": 279722,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTliZGFmOTYxYjc1YTgwNWMxMDY1MDY4NGEwMGQwZjY1NDdkMzc0",
+  "snapshot_id": "MCxlMTNkMTI4OTE1MWIzYzUxMzI3YzcxYjBiNDExMmNjMjUxOGVhNmY3",
   "tracks": [
     {
       "added_at": "2023-03-30 14:38:10",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 315306,
+      "name": "The End Of The Innocence",
+      "url": "https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
         "name": "Solitude / Solitaire",
         "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 226133,
       "name": "The Next Time I Fall (with Amy Grant)",
       "url": "https://open.spotify.com/track/7zSDDsIlks515d0tZGM64x"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
-        "name": "Knee Deep In The Hoopla",
-        "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
-      },
-      "artists": [
-        {
-          "name": "Starship",
-          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
-        }
-      ],
-      "duration_ms": 292800,
-      "name": "Sara",
-      "url": "https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -367,18 +367,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+        "name": "Knee Deep In The Hoopla",
+        "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
       },
       "artists": [
         {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+          "name": "Starship",
+          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
         }
       ],
-      "duration_ms": 315306,
-      "name": "The End Of The Innocence",
-      "url": "https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m"
+      "duration_ms": 292800,
+      "name": "Sara",
+      "url": "https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "The Right Place",
-        "url": "https://open.spotify.com/album/6LI9WwNLFhfWWPj4PfTZPv"
-      },
-      "artists": [
-        {
-          "name": "Gary Wright",
-          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
-        }
-      ],
-      "duration_ms": 262706,
-      "name": "Really Want to Know You - Remastered Version",
-      "url": "https://open.spotify.com/track/672L8kwlwJu5w8D6MWyvDC"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Once In a Lifetime",
         "url": "https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 264680,
       "name": "Once In a Lifetime",
       "url": "https://open.spotify.com/track/5mfSMt0ns1tUbqvgrPTweE"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "The Right Place",
+        "url": "https://open.spotify.com/album/6LI9WwNLFhfWWPj4PfTZPv"
+      },
+      "artists": [
+        {
+          "name": "Gary Wright",
+          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
+        }
+      ],
+      "duration_ms": 262706,
+      "name": "Really Want to Know You - Remastered Version",
+      "url": "https://open.spotify.com/track/672L8kwlwJu5w8D6MWyvDC"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "All Dressed Up",
-        "url": "https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz"
-      },
-      "artists": [
-        {
-          "name": "David Roberts",
-          "url": "https://open.spotify.com/artist/6opjDqwktGxPYPdOAs6T83"
-        }
-      ],
-      "duration_ms": 230417,
-      "name": "Anywhere You Run To",
-      "url": "https://open.spotify.com/track/6IfZke0ETxtKM0zz5kTyIT"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Break Of Dawn",
         "url": "https://open.spotify.com/album/3Zr0QdJlpHUstVVy3yvBdW"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 227773,
       "name": "Always",
       "url": "https://open.spotify.com/track/4ko4WxOdiaVEJexWRb53zZ"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "All Dressed Up",
+        "url": "https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz"
+      },
+      "artists": [
+        {
+          "name": "David Roberts",
+          "url": "https://open.spotify.com/artist/6opjDqwktGxPYPdOAs6T83"
+        }
+      ],
+      "duration_ms": 230417,
+      "name": "Anywhere You Run To",
+      "url": "https://open.spotify.com/track/6IfZke0ETxtKM0zz5kTyIT"
     },
     {
       "added_at": "2023-03-30 14:38:10",

@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 769641,
+  "2024-04-11": 769838,
   "date_first_scraped": "2022-01-02",
   "description": "M\u00fasica para acompa\u00f1ar esas rondas interminables de mate.",
   "name": "Mates y M\u00fasica",
@@ -2686,6 +2686,24 @@
     },
     {
       "album": {
+        "name": "Voragine",
+        "url": "https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281386,
+      "name": "Cae el Sol",
+      "url": "https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs"
+    },
+    {
+      "album": {
         "name": "Caja Negra",
         "url": "https://open.spotify.com/album/30cJ5mNGEE9p5ZEzTTAwSx"
       },
@@ -3239,6 +3257,28 @@
       "duration_ms": 233400,
       "name": "Caronte",
       "url": "https://open.spotify.com/track/2JgcShs8JycDzmfcazU9pX"
+    },
+    {
+      "album": {
+        "name": "Carta para no llorar",
+        "url": "https://open.spotify.com/album/46FyZtW1e0JwoR0yERzbNw"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178577,
+      "name": "Carta para no llorar",
+      "url": "https://open.spotify.com/track/3PdR3n0YudDEp44YmS9xs2"
     },
     {
       "album": {
@@ -4903,7 +4943,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 237426,
       "name": "Deseos de Cosas Imposibles (with Abel Pintos) - Directo Primera Fila",
       "url": "https://open.spotify.com/track/42rtLutZjrQGmzxZhN5YFA"
@@ -13317,7 +13357,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 233839,
       "name": "Pensamientos",
       "url": "https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs"
@@ -13481,7 +13521,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 221053,
       "name": "Perfecta (Versi\u00f3n 2023)",
       "url": "https://open.spotify.com/track/6ABLjztDyv49ZSZYDexYtc"
@@ -14443,6 +14483,28 @@
       "duration_ms": 181547,
       "name": "Que Salga (Sol y Luna)",
       "url": "https://open.spotify.com/track/7Jq8Eowvbl5oDejxWVx3BR"
+    },
+    {
+      "album": {
+        "name": "QUEMAR\u00c1S",
+        "url": "https://open.spotify.com/album/2nLlI9VteZMztr78YS9DHo"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        },
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263130,
+      "name": "QUEMAR\u00c1S",
+      "url": "https://open.spotify.com/track/43WrAH7AnSucEvN7HGW0BF"
     },
     {
       "album": {

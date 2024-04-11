@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables de la Música Mexicana\. Chiquis en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,828 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,851 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 99 | [Mariposa de Barrio](https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:58 |
 | 100 | [Dame Chance](https://open.spotify.com/track/1I6iS0hQ2tsdcG7PTKTPHW) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Dame Chance](https://open.spotify.com/album/3hqAgKenfEtAvxK4ZnLo3h) | 2:41 |
 
-Snapshot ID: `MCw3ZTg5YjgyOGZjNmFiYWUyZGEzYzEzNzgwZTU2N2MyNTgxZGQ1ZDVl`
+Snapshot ID: `MCwyZThlZWQ4ZDU0OTBhYmU2YTIxOGFlYzY0NzA4MDU0YmVhNGRkZDlk`

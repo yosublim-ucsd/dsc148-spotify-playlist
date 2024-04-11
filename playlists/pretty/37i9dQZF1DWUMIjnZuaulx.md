@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover: <a href="spotify:artist:1q6xQXmuTccwh7gBR7ToUN">Common Hymnal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,393 likes - 100 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,503 likes - 100 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 27 | [No Weapon \- Radio Edit](https://open.spotify.com/track/1BpdiLpLSoszquPuwrL2gq) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [No Weapon \(Live\)](https://open.spotify.com/album/0jlEDqKqZ57QoxX9JsV4qN) | 3:40 |
 | 28 | [Come By Here \- Live](https://open.spotify.com/track/6mZ1PxohgwgQcHxrGM2q28) | [Mr\. Sipp](https://open.spotify.com/artist/1duNfccIPXlVz522cvFKNi) | [Old Time Church \(Live\)](https://open.spotify.com/album/6WObUnPoh7i3n7laGo4Riv) | 2:58 |
 | 29 | [Only One Night Tho \- Live](https://open.spotify.com/track/69A3RyQQwoHMkNgqxBtSMG) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 10:25 |
-| 30 | [Only One Way Home \- Radio Edit](https://open.spotify.com/track/3ICem2CLceuIgRo7Q8H4Lx) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Only One Way Home \(Radio Edit\)](https://open.spotify.com/album/1nmmNRAL0ioPvazeyl4I51) | 3:54 |
+| 30 | [Only One Way Home \- Radio Edit](https://open.spotify.com/track/3ICem2CLceuIgRo7Q8H4Lx) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW), [Paul Porter](https://open.spotify.com/artist/35qCI10NSI2BwsLDq3MFeK) | [Only One Way Home \(Radio Edit\)](https://open.spotify.com/album/1nmmNRAL0ioPvazeyl4I51) | 3:54 |
 | 31 | [Love Is U](https://open.spotify.com/track/5uYQczKz44pYSF30aoIcbu) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [On God](https://open.spotify.com/album/5KxhSruFQfuYTdlInBAlbd) | 3:28 |
 | 32 | [In Your Presence \- Live](https://open.spotify.com/track/6XohWzLVkB9sfcVAz4DMB4) | [Tarell Martin & C2 Mass Choir](https://open.spotify.com/artist/4ClOZx4Yum88lyeyd5rxGa), [Olivia J Whittington](https://open.spotify.com/artist/3VG5BqeEIbYmoP9e9xpcr0) | [In Your Presence \(Live\)](https://open.spotify.com/album/4IJAAEU9MByKHGpvWlD2jV) | 4:21 |
 | 33 | [Fill Us Once Again \- Live](https://open.spotify.com/track/2DXxLCnsZBIaRrTGmm6kwC) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [Choirmaster II \(Live\)](https://open.spotify.com/album/4Nqqfoi87fORR9WqZssv78) | 6:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [Impossible](https://open.spotify.com/track/7vqC1Vkr5f9a7CylkjUkPW) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH) | [Impossible](https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai) | 3:53 |
 | 100 | [Big Big God \- Extended Version](https://open.spotify.com/track/1z4hjQ1OCC8EaYW1J45LcO) | [Craig Mizell](https://open.spotify.com/artist/1rOY1iw4CvLiLh22QXlO7i), [The Collective](https://open.spotify.com/artist/4VJFjCxnsUyDyHdKGrxJIn), [Detroit Youth Choir](https://open.spotify.com/artist/66FHA5afkqcg2K3Qwd9LaT), [Kevin Stewart](https://open.spotify.com/artist/6NqkRIkLkQMU2ojpWSTBoN), [Leila Taraneh](https://open.spotify.com/artist/7Gv6D9y5s4AaW0thF3f06F) | [Big Big God](https://open.spotify.com/album/1fUMDYlFFUXuBy8BpVwm9D) | 4:52 |
 
-Snapshot ID: `MCw0MGRmYmU1NTQ0YTQ0MWQ0MmVjYjMzMzRmZjg1OGEyYjBmMTM5Y2E5`
+Snapshot ID: `MCw1MWVlOTMyMzQyNTZhMGU0MDUzMGQ3NmE1M2FhYTEyYjFjMTNiZjNh`

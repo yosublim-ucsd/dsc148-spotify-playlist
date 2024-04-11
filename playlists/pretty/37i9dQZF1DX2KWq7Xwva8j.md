@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro está aquí\. Foto: Mushkaa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,170 likes - 36 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,190 likes - 36 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,21 +14,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 4 | [Polonia](https://open.spotify.com/track/3UNrrmmtFQlDx075B8JEBp) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Polonia](https://open.spotify.com/album/4h5qALHn8Hf6JdntCluoJJ) | 2:45 |
 | 5 | [Sidekick](https://open.spotify.com/track/6KUasBYtaeWOdIbC1FZNbI) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Sidekick](https://open.spotify.com/album/2cLxzF1ceQ3T8X8tgbR7mN) | 2:56 |
 | 6 | [oh boi](https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [oh boi](https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM) | 2:40 |
-| 7 | [En Sueños](https://open.spotify.com/track/3YFfdub6AUsrzdcBTeWIQL) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ), [Zaira](https://open.spotify.com/artist/2Tr0LY0zF1a6wvOYP42zg5) | [En Sueños](https://open.spotify.com/album/3KcJkq3hVSWymkMUKMkv97) | 3:12 |
-| 8 | [Corazón Quemado](https://open.spotify.com/track/6IGEcJDI3vTApF34vv5OT7) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Corazón Quemado](https://open.spotify.com/album/3Z4oiCXucKORyireiaaYev) | 3:05 |
+| 7 | [Corazón Quemado](https://open.spotify.com/track/6IGEcJDI3vTApF34vv5OT7) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Corazón Quemado](https://open.spotify.com/album/3Z4oiCXucKORyireiaaYev) | 3:05 |
+| 8 | [En Sueños](https://open.spotify.com/track/3YFfdub6AUsrzdcBTeWIQL) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ), [Zaira](https://open.spotify.com/artist/2Tr0LY0zF1a6wvOYP42zg5) | [En Sueños](https://open.spotify.com/album/3KcJkq3hVSWymkMUKMkv97) | 3:12 |
 | 9 | [Tirando Balas](https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tirando Balas](https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P) | 2:53 |
 | 10 | [No m'estima +](https://open.spotify.com/track/78NzYFBsYY78qeazgKZCoc) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [No m'estima +](https://open.spotify.com/album/3QMWRLCENQpW7sGHhUPxy1) | 3:12 |
 | 11 | [Me da igual](https://open.spotify.com/track/1KzO88hc8I7InCz4IM0u3J) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Me da igual](https://open.spotify.com/album/0bQhmz2Ii5ju99yHsbKdZ8) | 2:51 |
 | 12 | [Otra Vida](https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Otra Vida](https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj) | 3:38 |
 | 13 | [Mala Vida](https://open.spotify.com/track/3IT1XT70SguZjuUiKiUu89) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Mala Vida](https://open.spotify.com/album/6CFyn8eC91dy858L9aYFY7) | 2:49 |
-| 14 | [Mama](https://open.spotify.com/track/7nvrvtHojMocJiGVwoaZHs) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Mama](https://open.spotify.com/album/15hzdim2ConPEvRyrNLeh3) | 3:06 |
-| 15 | [Sin Ti, Sin Mí](https://open.spotify.com/track/2GiY5fsQimLmInOH2QTOQg) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Sin Ti, Sin Mí](https://open.spotify.com/album/28MsRRmYoPUmcI9sYSxEom) | 3:12 |
+| 14 | [De Charco En Charco](https://open.spotify.com/track/72nJMBop58qf4xbNwZD0qO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [De Charco En Charco](https://open.spotify.com/album/3FTwA6nTjoLwzGzVtuJkqN) | 2:40 |
+| 15 | [Mama](https://open.spotify.com/track/7nvrvtHojMocJiGVwoaZHs) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Mama](https://open.spotify.com/album/15hzdim2ConPEvRyrNLeh3) | 3:06 |
 | 16 | [Vicente Amor](https://open.spotify.com/track/6cT3lvZsX1QOqo5LPgQSHJ) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Vicente Amor](https://open.spotify.com/album/4kDXE9CEGdB3CcoroleDP4) | 1:52 |
-| 17 | [De Charco En Charco](https://open.spotify.com/track/72nJMBop58qf4xbNwZD0qO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [De Charco En Charco](https://open.spotify.com/album/3FTwA6nTjoLwzGzVtuJkqN) | 2:40 |
+| 17 | [Sin Ti, Sin Mí](https://open.spotify.com/track/2GiY5fsQimLmInOH2QTOQg) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Sin Ti, Sin Mí](https://open.spotify.com/album/28MsRRmYoPUmcI9sYSxEom) | 3:12 |
 | 18 | [Estamos a un beso](https://open.spotify.com/track/4bRg5nJCS7OcyJUMPgRAqH) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Estamos a un beso](https://open.spotify.com/album/7Gf9kJXYIaRwbgnbG0vHxM) | 3:12 |
 | 19 | [Azul Zafiro](https://open.spotify.com/track/4BjZ8aS0Z69GQrknhlgYBO) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [pablopablo](https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp) | 1:37 |
-| 20 | [Xarnega](https://open.spotify.com/track/4ABmdW0G3oDlanLL5rTbjq) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [SexySensible](https://open.spotify.com/album/1auK7xgZpNq9AinaGM3VW0) | 2:34 |
-| 21 | [Tiro Al Aire](https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tiro Al Aire](https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk) | 3:20 |
+| 20 | [Tiro Al Aire](https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tiro Al Aire](https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk) | 3:20 |
+| 21 | [Xarnega](https://open.spotify.com/track/4ABmdW0G3oDlanLL5rTbjq) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [SexySensible](https://open.spotify.com/album/1auK7xgZpNq9AinaGM3VW0) | 2:34 |
 | 22 | [Lo que nunca te dije](https://open.spotify.com/track/2usK8iQmaHhP8xK4MDEiGY) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Lo que nunca te dije](https://open.spotify.com/album/4DeVzia799oFvKCOLdwKID) | 2:40 |
 | 23 | [fumas?](https://open.spotify.com/track/7AltFl3cm57Qq2cW70ieXM) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [fumas?](https://open.spotify.com/album/1p6vHLfbxtblsutqSeWTDI) | 2:58 |
 | 24 | [La Última](https://open.spotify.com/track/2jGTk6Id9zdIonBH9H18rW) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [La Última](https://open.spotify.com/album/0dnIzmTItQnjqmG4CNpbuU) | 3:23 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 35 | [Mandela Place](https://open.spotify.com/track/1d3LnbVCbpcAZGdOCw7PlQ) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [pablopablo](https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp) | 3:33 |
 | 36 | [Duerme](https://open.spotify.com/track/5C8N8ZWHsvLj49NChGmQGn) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ), [Demarco Flamenco](https://open.spotify.com/artist/4hFZibFsoIxictRvkZDjIc) | [Flamenco Flamenquito](https://open.spotify.com/album/51xUtTgInOpm7fhGin9JqW) | 2:37 |
 
-Snapshot ID: `MCxiMTA4YmI2NzRkNzhiNGIyZWViNGIwNjllZmMyZDAyMDhjZTlkNGRh`
+Snapshot ID: `MCw5YTg4ZjYwYjY4MmJkMGUzMzA0MDc2NTIyN2RiZmYwOTFiYTM3Y2Uz`

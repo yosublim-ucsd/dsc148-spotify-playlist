@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Flor Alvarez & Dj Tao.",
-  "num_followers": 1191680,
+  "num_followers": 1191773,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Mzk0M2JkNTMyNTZmMmFlNWUyMjIzZjFhMGIyZjM1MTJiYTdjZTc1",
+  "snapshot_id": "MCxjNTE5NjZkNjY2NjZkODZhYjg5MGMxYmQ1NmFkODM2ZDIzZjY0NjVl",
   "tracks": [
     {
       "added_at": "2024-04-05 19:14:39",
@@ -1063,46 +1063,6 @@
     {
       "added_at": "2024-04-05 19:14:39",
       "album": {
-        "name": "Sin Valent\u00edn",
-        "url": "https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        },
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        }
-      ],
-      "duration_ms": 161874,
-      "name": "Sin Valent\u00edn",
-      "url": "https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY"
-    },
-    {
-      "added_at": "2024-04-05 19:14:39",
-      "album": {
-        "name": "Cumbia Baby!",
-        "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
-      },
-      "artists": [
-        {
-          "name": "Mano Arriba",
-          "url": "https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp"
-        }
-      ],
-      "duration_ms": 164081,
-      "name": "El Equivocado",
-      "url": "https://open.spotify.com/track/4bi9EKw1E7hDldh36dhp1R"
-    },
-    {
-      "added_at": "2024-04-05 19:14:39",
-      "album": {
         "name": "Si Me Tomo una Cerveza (Remix)",
         "url": "https://open.spotify.com/album/7lDnwvTQGoFOCRD7GGRpks"
       },
@@ -1135,6 +1095,46 @@
       "duration_ms": 237521,
       "name": "Si Me Tomo una Cerveza - Remix",
       "url": "https://open.spotify.com/track/7oySelE0Cb5q1TBBSPZJT2"
+    },
+    {
+      "added_at": "2024-04-05 19:14:39",
+      "album": {
+        "name": "Cumbia Baby!",
+        "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
+      },
+      "artists": [
+        {
+          "name": "Mano Arriba",
+          "url": "https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp"
+        }
+      ],
+      "duration_ms": 164081,
+      "name": "El Equivocado",
+      "url": "https://open.spotify.com/track/4bi9EKw1E7hDldh36dhp1R"
+    },
+    {
+      "added_at": "2024-04-05 19:14:39",
+      "album": {
+        "name": "Sin Valent\u00edn",
+        "url": "https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        }
+      ],
+      "duration_ms": 161874,
+      "name": "Sin Valent\u00edn",
+      "url": "https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY"
     },
     {
       "added_at": "2024-04-05 19:14:39",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-04-05 19:14:39",
       "album": {
+        "name": "El Otro",
+        "url": "https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p"
+      },
+      "artists": [
+        {
+          "name": "Chano",
+          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Carnavalintro",
+      "url": "https://open.spotify.com/track/6XxIFsqBxiUct0UK7deoJ0"
+    },
+    {
+      "added_at": "2024-04-05 19:14:39",
+      "album": {
         "name": "Cumbia Cheta",
         "url": "https://open.spotify.com/album/5AStnZOfpqxI4IsemDUdkn"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 151500,
       "name": "Cumbia Cheta",
       "url": "https://open.spotify.com/track/5KTSHYA5CetGTZuRYYJcHi"
-    },
-    {
-      "added_at": "2024-04-05 19:14:39",
-      "album": {
-        "name": "El Otro",
-        "url": "https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p"
-      },
-      "artists": [
-        {
-          "name": "Chano",
-          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Carnavalintro",
-      "url": "https://open.spotify.com/track/6XxIFsqBxiUct0UK7deoJ0"
     },
     {
       "added_at": "2024-04-05 19:14:39",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-04-05 19:14:39",
       "album": {
-        "name": "Cuando Se Pone a Bailar",
-        "url": "https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX"
-      },
-      "artists": [
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        }
-      ],
-      "duration_ms": 195274,
-      "name": "Cuando Se Pone a Bailar",
-      "url": "https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH"
-    },
-    {
-      "added_at": "2024-04-05 19:14:39",
-      "album": {
         "name": "No Se Va",
         "url": "https://open.spotify.com/album/1qYntEy4y4mTAisca3zseT"
       },
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2024-04-05 19:14:39",
       "album": {
+        "name": "Ya Fue",
+        "url": "https://open.spotify.com/album/0X4z32fZIdYrvbvP6CbE78"
+      },
+      "artists": [
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        }
+      ],
+      "duration_ms": 164333,
+      "name": "Ya Fue",
+      "url": "https://open.spotify.com/track/5NBvvix3gt1hZNcKAMyy37"
+    },
+    {
+      "added_at": "2024-04-05 19:14:39",
+      "album": {
         "name": "Messirve mix 5",
         "url": "https://open.spotify.com/album/7pw9Do4aXAbWamX4ZcKLoF"
       },
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2024-04-05 19:14:39",
       "album": {
-        "name": "Ya Fue",
-        "url": "https://open.spotify.com/album/0X4z32fZIdYrvbvP6CbE78"
+        "name": "Cuando Se Pone a Bailar",
+        "url": "https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX"
       },
       "artists": [
         {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
         }
       ],
-      "duration_ms": 164333,
-      "name": "Ya Fue",
-      "url": "https://open.spotify.com/track/5NBvvix3gt1hZNcKAMyy37"
+      "duration_ms": 195274,
+      "name": "Cuando Se Pone a Bailar",
+      "url": "https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH"
     },
     {
       "added_at": "2024-04-05 19:14:39",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2024-04-05 19:14:39",
       "album": {
-        "name": "#Tocoparavos",
-        "url": "https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D"
-      },
-      "artists": [
-        {
-          "name": "#TocoParaVos",
-          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
-        },
-        {
-          "name": "Meri Deal",
-          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Hasta la luna",
-      "url": "https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7"
-    },
-    {
-      "added_at": "2024-04-05 19:14:39",
-      "album": {
         "name": "Tranquila",
         "url": "https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 183430,
       "name": "Tranquila",
       "url": "https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ"
+    },
+    {
+      "added_at": "2024-04-05 19:14:39",
+      "album": {
+        "name": "#Tocoparavos",
+        "url": "https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D"
+      },
+      "artists": [
+        {
+          "name": "#TocoParaVos",
+          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
+        },
+        {
+          "name": "Meri Deal",
+          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Hasta la luna",
+      "url": "https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7"
     },
     {
       "added_at": "2024-04-05 19:14:39",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-04-05 19:14:39",
       "album": {
-        "name": "Piel a Piel",
-        "url": "https://open.spotify.com/album/2yNvAGaBafYOZbQsG7wQaJ"
-      },
-      "artists": [
-        {
-          "name": "Dame 5",
-          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
-        }
-      ],
-      "duration_ms": 155350,
-      "name": "Piel a Piel",
-      "url": "https://open.spotify.com/track/2q3B7GLCEA4uYvuo2g5P82"
-    },
-    {
-      "added_at": "2024-04-05 19:14:39",
-      "album": {
         "name": "Vas a Querer Regresar",
         "url": "https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 199270,
       "name": "Vas a Querer Regresar",
       "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
+    },
+    {
+      "added_at": "2024-04-05 19:14:39",
+      "album": {
+        "name": "Piel a Piel",
+        "url": "https://open.spotify.com/album/2yNvAGaBafYOZbQsG7wQaJ"
+      },
+      "artists": [
+        {
+          "name": "Dame 5",
+          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
+        }
+      ],
+      "duration_ms": 155350,
+      "name": "Piel a Piel",
+      "url": "https://open.spotify.com/track/2q3B7GLCEA4uYvuo2g5P82"
     },
     {
       "added_at": "2024-04-05 19:14:39",
@@ -1851,18 +1851,26 @@
     {
       "added_at": "2024-04-05 19:14:39",
       "album": {
-        "name": "Me Voy",
-        "url": "https://open.spotify.com/album/4ZsEahCVUrqLbheIJR91bN"
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/7vMcapwZDRheyqRiuxhGFU"
       },
       "artists": [
         {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Agust\u00edn Casanova",
+          "url": "https://open.spotify.com/artist/2WhGojaMjv4VVn2HQSqrLM"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
         }
       ],
-      "duration_ms": 177786,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf"
+      "duration_ms": 154624,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/4KlrEwjhXnHLtmKauxVHJz"
     },
     {
       "added_at": "2024-04-05 19:14:39",
@@ -1891,26 +1899,18 @@
     {
       "added_at": "2024-04-05 19:14:39",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/7vMcapwZDRheyqRiuxhGFU"
+        "name": "Me Voy",
+        "url": "https://open.spotify.com/album/4ZsEahCVUrqLbheIJR91bN"
       },
       "artists": [
         {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        },
-        {
-          "name": "Agust\u00edn Casanova",
-          "url": "https://open.spotify.com/artist/2WhGojaMjv4VVn2HQSqrLM"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
         }
       ],
-      "duration_ms": 154624,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/4KlrEwjhXnHLtmKauxVHJz"
+      "duration_ms": 177786,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf"
     },
     {
       "added_at": "2024-04-05 19:14:39",
@@ -1947,6 +1947,26 @@
     {
       "added_at": "2024-04-05 19:14:39",
       "album": {
+        "name": "De 100 a 0",
+        "url": "https://open.spotify.com/album/6gw3DJu5DZWgAega1XthDP"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        }
+      ],
+      "duration_ms": 192705,
+      "name": "De 100 a 0",
+      "url": "https://open.spotify.com/track/1RKBRNLdt9nNri2wraNAzn"
+    },
+    {
+      "added_at": "2024-04-05 19:14:39",
+      "album": {
         "name": "No Te Vas a Olvidar",
         "url": "https://open.spotify.com/album/5HNIgxDU0zkg1VyuHGDUQB"
       },
@@ -1971,42 +1991,6 @@
     {
       "added_at": "2024-04-05 19:14:39",
       "album": {
-        "name": "De 100 a 0",
-        "url": "https://open.spotify.com/album/6gw3DJu5DZWgAega1XthDP"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Valentino Merlo",
-          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
-        }
-      ],
-      "duration_ms": 192705,
-      "name": "De 100 a 0",
-      "url": "https://open.spotify.com/track/1RKBRNLdt9nNri2wraNAzn"
-    },
-    {
-      "added_at": "2024-04-05 19:14:39",
-      "album": {
-        "name": "Y Si Est\u00e1s Perseguido...!",
-        "url": "https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq"
-      },
-      "artists": [
-        {
-          "name": "El Perro",
-          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
-        }
-      ],
-      "duration_ms": 161410,
-      "name": "Te Escapas De Mis Brazos",
-      "url": "https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8"
-    },
-    {
-      "added_at": "2024-04-05 19:14:39",
-      "album": {
         "name": "Que Rico Baila",
         "url": "https://open.spotify.com/album/3VPmkC5efo6HJDW4oKQhLp"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 178233,
       "name": "Que Rico Baila",
       "url": "https://open.spotify.com/track/5QTWB74jDroxV6DvMqV533"
+    },
+    {
+      "added_at": "2024-04-05 19:14:39",
+      "album": {
+        "name": "Y Si Est\u00e1s Perseguido...!",
+        "url": "https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq"
+      },
+      "artists": [
+        {
+          "name": "El Perro",
+          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
+        }
+      ],
+      "duration_ms": 161410,
+      "name": "Te Escapas De Mis Brazos",
+      "url": "https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8"
     }
   ],
   "unique_name": "Dame M\u00e1s Cumbia",

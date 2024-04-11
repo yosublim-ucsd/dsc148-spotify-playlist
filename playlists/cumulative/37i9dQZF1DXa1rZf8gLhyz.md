@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-510 songs - 1 day 2 hr 20 min
+513 songs - 1 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Chasing Sunsets in September](https://open.spotify.com/track/42hV1eZt1dG4FKsMTBCVLS) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Chasing Sunsets in September](https://open.spotify.com/album/59RcvtpwB3HUNEMh6vkMvx) | 2:34 | 2023-11-17 |  |
 | [Cheek to Cheek](https://open.spotify.com/track/4Fsl78MLuUrqJMnFXBctW8) | [Penford Giles](https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6) | [Cheek to Cheek](https://open.spotify.com/album/7ex7nfyDTp2UDpYxKWKsPh) | 3:02 | 2022-06-14 |  |
 | [Chemin de la lune](https://open.spotify.com/track/20uoDnTsBOXkPJd1TmjpqZ) | [Neil Chapman Green](https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ) | [Chemin de la lune](https://open.spotify.com/album/12bQXgWbTWoYbUsLr9rxIP) | 2:09 | 2023-03-30 |  |
+| [Cherish the Night](https://open.spotify.com/track/5W3P7uSiJUZIlZxiYFUYam) | [Claire Martinelle](https://open.spotify.com/artist/4cregPQpQ72XMMVzvvyiEl) | [Cherish the Night](https://open.spotify.com/album/6Y9FHM9bhGbQeaNjuFrFwI) | 2:33 | 2024-04-10 |  |
 | [Cherokee](https://open.spotify.com/track/2ifo88z2ExBUBsmWav4mca) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Cherokee](https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR) | 2:59 | 2022-10-06 |  |
 | [City Lights and Midnight Blues](https://open.spotify.com/track/4wVMZkj5y4dpT8tvTIBaKw) | [Devon Crouch](https://open.spotify.com/artist/02zs7OtXn8UAl8HAc6hfYZ) | [City Lights and Midnight Blues](https://open.spotify.com/album/5a6KuFxcNag3keou58crVH) | 2:42 | 2023-06-01 |  |
 | [Cityscape](https://open.spotify.com/track/3Y7ZiWwBViTaOeWz6NaZ8F) | [Harry Reed](https://open.spotify.com/artist/1PFJCooFyvogVUkv1abGgu) | [Cityscape](https://open.spotify.com/album/1pNjmKxzeVE3OrXuZNgHRM) | 2:18 | 2024-03-08 |  |
@@ -251,6 +252,7 @@
 | [Last Summer](https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Last Summer](https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2) | 2:27 | 2021-12-07 |  |
 | [Late Silence](https://open.spotify.com/track/5BLJfLNLFD7KsVMKeeCD9v) | [Joe Jørgensen](https://open.spotify.com/artist/0CkSmVYe54CjKJef33XTcy) | [Late Silence](https://open.spotify.com/album/3D8brxaURYvY6mGpKIkfyY) | 2:27 | 2023-11-17 |  |
 | [Later honey](https://open.spotify.com/track/0w4tcM6osjc6yykd0IqqYQ) | [Jeanette Ives](https://open.spotify.com/artist/4lCw6AiRMMQqIGrJrUOZSO) | [Later honey](https://open.spotify.com/album/3gCq5zExh1KnvrUhfxFrq5) | 3:17 | 2023-08-10 |  |
+| [Laura](https://open.spotify.com/track/5GeV5VHplD4jZ45hjkVKI8) | [Eli M\. Arnold](https://open.spotify.com/artist/6Ed2TW5VpcnNBgafMeK2aA) | [Laura](https://open.spotify.com/album/5CbJxOOZY2ecaVSDjSO8gb) | 2:33 | 2024-04-10 |  |
 | [Lazy Afternoon](https://open.spotify.com/track/1uaoVLtYpEbCJaQqQ78mbL) | [Uno Blanket](https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev) | [Lazy Afternoon](https://open.spotify.com/album/4g3jWHBTgPCUE3zid7T3Mr) | 2:12 | 2023-12-15 |  |
 | [Leave The Bottle](https://open.spotify.com/track/4wzA7y3rVCFI5N65LIm1ie) | [Zachary Ronin](https://open.spotify.com/artist/47ZLS2xH70Buh5bgghBDLx) | [Leave The Bottle](https://open.spotify.com/album/4Wn4TtWxzxIVlhteYhGqrl) | 3:38 | 2023-01-12 |  |
 | [Lenox Hill](https://open.spotify.com/track/3rtDk5D3VmzvZn2ywGg0bq) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Lenox Hill](https://open.spotify.com/album/27cTJGvI2eXXMNy94uBwv7) | 2:31 | 2023-02-23 |  |
@@ -426,6 +428,7 @@
 | [Sweet Dreams](https://open.spotify.com/track/1VqEgVFBYgZPbx7wQYKGqY) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [Sweet Dreams](https://open.spotify.com/album/0q8gPe14lThzUj7859i7MZ) | 3:31 | 2022-05-31 |  |
 | [Sweet Or Sweeter](https://open.spotify.com/track/3kBBNUhkrZjBarERXoJTzt) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [Sweet Or Sweeter](https://open.spotify.com/album/3ukwljFKcXQugyW40NvzSZ) | 1:59 | 2023-04-20 | 2023-08-19 |
 | [Tangerine](https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Tangerine](https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ) | 2:39 | 2023-01-05 |  |
+| [Tender Moments](https://open.spotify.com/track/3kcML10JWRmtCovbUfiqvL) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Tender Moments](https://open.spotify.com/album/5jMWuMhWDpXOjuEzAHLEHT) | 2:48 | 2024-04-10 |  |
 | [Tender Nocturne](https://open.spotify.com/track/6Cx1VeqZG4vkZdC4ffsXAy) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Tender Nocturne](https://open.spotify.com/album/3JVmL0xyHtxUPYKZb2yTBI) | 2:36 | 2023-10-27 |  |
 | [Tenderly](https://open.spotify.com/track/7tyZqOZDFhCgARJWP4g6EC) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [Tenderly](https://open.spotify.com/album/1jw8z9WMpLOl5y89HN5Zda) | 3:10 | 2021-12-07 |  |
 | [Thank You For Asking](https://open.spotify.com/track/2MQR0lmvcT2QQxUHBM85EQ) | [Tyler Marshall](https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k) | [Thank You For Asking](https://open.spotify.com/album/7C6iEQpKwHCLldHcydGilZ) | 3:29 | 2023-12-08 |  |

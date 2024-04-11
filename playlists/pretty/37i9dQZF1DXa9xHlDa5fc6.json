@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 460788,
+  "num_followers": 460869,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2FmODRiMzE2NWQxNDYyMzcyZjRiYzBmNjQ3YjAxZTg5M2Q3YmIy",
+  "snapshot_id": "MCxlYjljMDc0OWRjOGRhMWNhOGQ2NTQ2MjVlZGRhZDkzY2FiYzNlNDJl",
   "tracks": [
     {
       "added_at": "2024-02-13 23:11:41",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 207356,
-      "name": "Arabella",
-      "url": "https://open.spotify.com/track/7nzsY8vlnKdvGOEE0rjAXZ"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 207356,
+      "name": "Arabella",
+      "url": "https://open.spotify.com/track/7nzsY8vlnKdvGOEE0rjAXZ"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 196317,
+      "name": "Sofa King",
+      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
         "name": "No More Lies",
         "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 327217,
       "name": "No More Lies",
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
-        "name": "Sofa Kings",
-        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 196317,
-      "name": "Sofa King",
-      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "Half Light",
-        "url": "https://open.spotify.com/album/2aPm0opc0JjxDRYK5y4yeK"
-      },
-      "artists": [
-        {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
-        }
-      ],
-      "duration_ms": 185946,
-      "name": "Half Light",
-      "url": "https://open.spotify.com/track/1tYOB844iD7HxHvPtwDPNu"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
         "name": "Record Player (with AJR)",
         "url": "https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 149538,
       "name": "Record Player (with AJR)",
       "url": "https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
+        "name": "Half Light",
+        "url": "https://open.spotify.com/album/2aPm0opc0JjxDRYK5y4yeK"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "duration_ms": 185946,
+      "name": "Half Light",
+      "url": "https://open.spotify.com/track/1tYOB844iD7HxHvPtwDPNu"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
+        "name": "Stateless",
+        "url": "https://open.spotify.com/album/1WcBYYpdKBhDvIRrtu8NMS"
+      },
+      "artists": [
+        {
+          "name": "Stateless",
+          "url": "https://open.spotify.com/artist/6msJKphD3VXZPItnztefdH"
+        }
+      ],
+      "duration_ms": 313800,
+      "name": "Bloodstream",
+      "url": "https://open.spotify.com/track/5I2UElY0XPnPhQhBTxBcq3"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
         "name": "Blue Rev",
         "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 258626,
       "name": "F*ck My Life Up Again",
       "url": "https://open.spotify.com/track/4L9VTwdne2g1k8aBsgT9Zv"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
-        "name": "Stateless",
-        "url": "https://open.spotify.com/album/1WcBYYpdKBhDvIRrtu8NMS"
-      },
-      "artists": [
-        {
-          "name": "Stateless",
-          "url": "https://open.spotify.com/artist/6msJKphD3VXZPItnztefdH"
-        }
-      ],
-      "duration_ms": 313800,
-      "name": "Bloodstream",
-      "url": "https://open.spotify.com/track/5I2UElY0XPnPhQhBTxBcq3"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "Shadowboxer",
-        "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
-      },
-      "artists": [
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 202694,
-      "name": "Astronaut (Something About Your Love)",
-      "url": "https://open.spotify.com/track/61c96X4Th7oYdSDxIOEV3k"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
         "name": "Oregon / Harvard",
         "url": "https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 198413,
       "name": "Oregon",
       "url": "https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
+        "name": "Shadowboxer",
+        "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 202694,
+      "name": "Astronaut (Something About Your Love)",
+      "url": "https://open.spotify.com/track/61c96X4Th7oYdSDxIOEV3k"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "Growing/Dying",
-        "url": "https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0"
-      },
-      "artists": [
-        {
-          "name": "The Backseat Lovers",
-          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Growing/Dying",
-      "url": "https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
         "name": "Jungle (Radio Edit)",
         "url": "https://open.spotify.com/album/5TmgoVsKLOru5zOxVZnB5e"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 236876,
       "name": "Jungle (Radio Edit)",
       "url": "https://open.spotify.com/track/5h4GbIUEktzI91FCSpyNsY"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
+        "name": "Growing/Dying",
+        "url": "https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0"
+      },
+      "artists": [
+        {
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "Growing/Dying",
+      "url": "https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "Holding On, Holding Out",
-        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "Spirit Cold",
-      "url": "https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
         "name": "Magic Valley",
         "url": "https://open.spotify.com/album/4GQp1LbFHcJVkS9M5HUzAL"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 300030,
       "name": "Darlin'",
       "url": "https://open.spotify.com/track/4Ppc2CyPzXObEOLgDkP5ZR"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
+        "name": "Holding On, Holding Out",
+        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Spirit Cold",
+      "url": "https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "Stars Are on Your Side",
-        "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
-      },
-      "artists": [
-        {
-          "name": "Ross Copperman",
-          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
-        }
-      ],
-      "duration_ms": 218004,
-      "name": "Stars Are on Your Side",
-      "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
         "name": "Sunlit Youth",
         "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 233520,
       "name": "Fountain Of Youth",
       "url": "https://open.spotify.com/track/46exzPPGwXU9Xcoz5u618b"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
+        "name": "Stars Are on Your Side",
+        "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
+      },
+      "artists": [
+        {
+          "name": "Ross Copperman",
+          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
+        }
+      ],
+      "duration_ms": 218004,
+      "name": "Stars Are on Your Side",
+      "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -1847,38 +1847,6 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "Fix Yourself, Not the World",
-        "url": "https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 273671,
-      "name": "Method to the Madness",
-      "url": "https://open.spotify.com/track/0ubaYhZGFOEvEA1vMciCgN"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
-        "name": "Ocean by Ocean",
-        "url": "https://open.spotify.com/album/71JvFFLbdANicbU2Ys3s55"
-      },
-      "artists": [
-        {
-          "name": "The Boxer Rebellion",
-          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
-        }
-      ],
-      "duration_ms": 266906,
-      "name": "Big Ideas",
-      "url": "https://open.spotify.com/track/4xXJhn3Z0HXzA1OfH20mwP"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
         "name": "Time Will Wait For No One",
         "url": "https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y"
       },
@@ -1895,6 +1863,22 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
+        "name": "Fix Yourself, Not the World",
+        "url": "https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 273671,
+      "name": "Method to the Madness",
+      "url": "https://open.spotify.com/track/0ubaYhZGFOEvEA1vMciCgN"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
         "name": "I See You",
         "url": "https://open.spotify.com/album/3dDqhWFE1ev9y7mnkEEG1p"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 228735,
       "name": "I See You",
       "url": "https://open.spotify.com/track/3EqHFfCSbX4Z1pX8JQ0c0r"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
+        "name": "Ocean by Ocean",
+        "url": "https://open.spotify.com/album/71JvFFLbdANicbU2Ys3s55"
+      },
+      "artists": [
+        {
+          "name": "The Boxer Rebellion",
+          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
+        }
+      ],
+      "duration_ms": 266906,
+      "name": "Big Ideas",
+      "url": "https://open.spotify.com/track/4xXJhn3Z0HXzA1OfH20mwP"
     },
     {
       "added_at": "2024-02-13 23:11:41",

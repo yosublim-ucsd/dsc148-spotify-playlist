@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Listen to the hottest songs from LGBTQIA+ artists\. Cover: Chico Blanco
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,084,991 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,084,939 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Good Time In Disguise \- ft\. Chocoholic](https://open.spotify.com/track/2opO61VvinRaGiBGpWamGv) | [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj), [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Good Time In Disguise](https://open.spotify.com/album/2rEX0BniB4v4PaRGa5bsDE) | 2:42 |
 | 50 | [do u really want to watch](https://open.spotify.com/track/7Khom2QJHwWKqsO4ug1jux) | [LIONSTORM](https://open.spotify.com/artist/2R674rphXQgJ2v2TXHydvV) | [do u really want to watch](https://open.spotify.com/album/1HGjv4VEYuVGXqP3NEINLG) | 2:43 |
 
-Snapshot ID: `MCwwOTMyOGVmNmJhMzJjOGQ2OTM4ZGEzY2YxYjAxODMwNzIwOGUxNWRj`
+Snapshot ID: `MCw4NmI2M2JjNDcyODA5NDAzMjFlYjBlMzJjZTg2NDlhOGU4YzU0NjQz`

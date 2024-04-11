@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1073400,
+  "num_followers": 1073611,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjVhNjIyNGZjMDJlMzExOGRmYzM4ZDZjNmIzNDg0YzVlNDMwOWFm",
+  "snapshot_id": "MCwyZjBiYmRlNGNhN2ZjZmY0MzQzOGEwNmQxODBhODlmOTdiYzA4NDM2",
   "tracks": [
     {
       "added_at": "2024-03-20 08:31:05",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-03-20 08:31:05",
       "album": {
-        "name": "Satchmo Serenades",
-        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "A Kiss To Build A Dream On - Single Version",
-      "url": "https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T"
-    },
-    {
-      "added_at": "2024-03-20 08:31:05",
-      "album": {
         "name": "The Legendary Bobby Darin",
         "url": "https://open.spotify.com/album/1j4n3aUX5f8LTf7ijPnzi7"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 145933,
       "name": "More - Remastered 2004",
       "url": "https://open.spotify.com/track/7gxW8hMXEUkc1G3m7z9vei"
+    },
+    {
+      "added_at": "2024-03-20 08:31:05",
+      "album": {
+        "name": "Satchmo Serenades",
+        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "A Kiss To Build A Dream On - Single Version",
+      "url": "https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T"
     },
     {
       "added_at": "2024-03-20 08:31:05",
@@ -339,22 +339,18 @@
     {
       "added_at": "2024-03-20 08:31:05",
       "album": {
-        "name": "Duets II",
-        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7GiFhLj7OY98QpRwmlVUl8"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Glenn Miller",
+          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
         }
       ],
-      "duration_ms": 176013,
-      "name": "One for My Baby (And One More for the Road)",
-      "url": "https://open.spotify.com/track/1c4oqyJGptLz2Yt7LLheX8"
+      "duration_ms": 211586,
+      "name": "In the Mood",
+      "url": "https://open.spotify.com/track/6dZKWYSx5YBIme4SfpIHJ0"
     },
     {
       "added_at": "2024-03-20 08:31:05",
@@ -391,34 +387,22 @@
     {
       "added_at": "2024-03-20 08:31:05",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7GiFhLj7OY98QpRwmlVUl8"
+        "name": "Duets II",
+        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
       "artists": [
         {
-          "name": "Glenn Miller",
-          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
-        }
-      ],
-      "duration_ms": 211586,
-      "name": "In the Mood",
-      "url": "https://open.spotify.com/track/6dZKWYSx5YBIme4SfpIHJ0"
-    },
-    {
-      "added_at": "2024-03-20 08:31:05",
-      "album": {
-        "name": "The Complete Commodore Recordings",
-        "url": "https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z"
-      },
-      "artists": [
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 194573,
-      "name": "As Time Goes By",
-      "url": "https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg"
+      "duration_ms": 176013,
+      "name": "One for My Baby (And One More for the Road)",
+      "url": "https://open.spotify.com/track/1c4oqyJGptLz2Yt7LLheX8"
     },
     {
       "added_at": "2024-03-20 08:31:05",
@@ -435,6 +419,22 @@
       "duration_ms": 195533,
       "name": "Stompin At The Savoy",
       "url": "https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g"
+    },
+    {
+      "added_at": "2024-03-20 08:31:05",
+      "album": {
+        "name": "The Complete Commodore Recordings",
+        "url": "https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 194573,
+      "name": "As Time Goes By",
+      "url": "https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg"
     },
     {
       "added_at": "2024-03-20 08:31:05",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-03-20 08:31:05",
       "album": {
-        "name": "I Wanna Be Around",
-        "url": "https://open.spotify.com/album/11KbbI91LeZUkXALWALytD"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 134893,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/4MVvSNPOUd2z70vkkNCbLr"
-    },
-    {
-      "added_at": "2024-03-20 08:31:05",
-      "album": {
         "name": "My One And Only Thrill",
         "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 210693,
       "name": "Baby I'm A Fool",
       "url": "https://open.spotify.com/track/3XZN4wXwG2o0OadHWExzPr"
+    },
+    {
+      "added_at": "2024-03-20 08:31:05",
+      "album": {
+        "name": "I Wanna Be Around",
+        "url": "https://open.spotify.com/album/11KbbI91LeZUkXALWALytD"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 134893,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/4MVvSNPOUd2z70vkkNCbLr"
     },
     {
       "added_at": "2024-03-20 08:31:05",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-03-20 08:31:05",
       "album": {
-        "name": "As Time Goes By...The Great American Songbook: Volume II",
-        "url": "https://open.spotify.com/album/6YTypI5yRIIdixEV25ccgQ"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 179026,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/1ia5QkdJp7qGwpoaX9Hgmj"
-    },
-    {
-      "added_at": "2024-03-20 08:31:05",
-      "album": {
         "name": "French Fries & Champagne",
         "url": "https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 141640,
       "name": "Sweet Pea",
       "url": "https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc"
+    },
+    {
+      "added_at": "2024-03-20 08:31:05",
+      "album": {
+        "name": "As Time Goes By...The Great American Songbook: Volume II",
+        "url": "https://open.spotify.com/album/6YTypI5yRIIdixEV25ccgQ"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 179026,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/1ia5QkdJp7qGwpoaX9Hgmj"
     },
     {
       "added_at": "2024-03-20 08:31:05",

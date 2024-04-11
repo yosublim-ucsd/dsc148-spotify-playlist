@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 613964,
+  "2024-04-11": 613993,
   "date_first_scraped": "2021-12-21",
   "description": "A dose of high-energy rock & alt songs for your workout.",
   "name": "Rock Me Up",
@@ -1873,7 +1873,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 175680,
       "name": "GREAT NIGHT (feat. Shovels & Rope)",
       "url": "https://open.spotify.com/track/41cxe6eOzzQS6odQk6fNdp"
@@ -2091,6 +2091,24 @@
       "duration_ms": 204733,
       "name": "Helena",
       "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
+    },
+    {
+      "album": {
+        "name": "Comfort To Me",
+        "url": "https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153800,
+      "name": "Hertz",
+      "url": "https://open.spotify.com/track/4GIeQy7OzftStBoimCWIMU"
     },
     {
       "album": {

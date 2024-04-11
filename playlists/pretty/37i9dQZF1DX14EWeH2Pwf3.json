@@ -1,12 +1,12 @@
 {
   "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Rhove",
-  "num_followers": 939984,
+  "num_followers": 940154,
   "original_name": "Plus Ultra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDNhZDlmODZkNDIwMGJjNWRlMjMzYzI2OTViNzU1ODc2NTRiNmJl",
+  "snapshot_id": "MCw1MTcyNzkwYmExYTM0YzJiNmQzZWJhZTQ1MzFmMDUxZmFiNDZkYTMy",
   "tracks": [
     {
       "added_at": "2024-04-09 15:18:14",
@@ -20,17 +20,13 @@
           "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
         },
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 221231,
-      "name": "Amore Mio (feat. Sfera Ebbasta, Jul)",
-      "url": "https://open.spotify.com/track/644oTknCDmxS3O8ZQWqt3Q"
+      "duration_ms": 200592,
+      "name": "Al\u00e9 (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/1i0oabK4KhsbIJr029XStL"
     },
     {
       "added_at": "2024-04-09 15:18:14",
@@ -215,26 +211,6 @@
     {
       "added_at": "2024-04-09 15:18:14",
       "album": {
-        "name": "Popolari",
-        "url": "https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 200592,
-      "name": "Al\u00e9 (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/1i0oabK4KhsbIJr029XStL"
-    },
-    {
-      "added_at": "2024-04-09 15:18:14",
-      "album": {
         "name": "Maliciosa (From the Netflix Rap Show \u201cNuova Scena\u201d)",
         "url": "https://open.spotify.com/album/0k7qh6Op4gcUmlT6rrJUH3"
       },
@@ -247,6 +223,30 @@
       "duration_ms": 127200,
       "name": "Maliciosa (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/6KJ57PY7fIIRlaweLnNbXj"
+    },
+    {
+      "added_at": "2024-04-09 15:18:14",
+      "album": {
+        "name": "Popolari",
+        "url": "https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 221231,
+      "name": "Amore Mio (feat. Sfera Ebbasta, Jul)",
+      "url": "https://open.spotify.com/track/644oTknCDmxS3O8ZQWqt3Q"
     },
     {
       "added_at": "2024-04-09 15:18:14",

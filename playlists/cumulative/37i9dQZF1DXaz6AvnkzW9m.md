@@ -4,7 +4,7 @@
 
 > El cholo se hizo buchón 😎🤠 Yubeili en portada.
 
-258 songs - 13 hr 14 min
+259 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,10 +26,11 @@
 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 | 2022-03-04 |  |
 | [Ando Bien Tumbado](https://open.spotify.com/track/3tQCYIGiq4ToBUIBCcI3mJ) | [La Fase 3](https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj) | [Ando Bien Tumbado](https://open.spotify.com/album/14dzMkIDXzmCA5vwm34zy7) | 3:05 | 2022-06-04 | 2023-01-28 |
 | [Ando Enfocado](https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ando Enfocado](https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq) | 3:04 | 2022-12-02 |  |
+| [Anormal](https://open.spotify.com/track/6vsIJbmwdb8GwJzNQOBOUd) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [Los de Encargo](https://open.spotify.com/album/0plhq5tBqUttzN7yFpXaj9) | 2:49 | 2024-03-29 |  |
 | [Antonio Montana \- Remix](https://open.spotify.com/track/7Gbt0nXReC7pb7Vf05hTJH) | [La Cuadrilla Oficial](https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Antonio Montana \(Remix\)](https://open.spotify.com/album/6Ek28uJYTugproEPiwJRZx) | 2:41 | 2024-03-15 |  |
 | [Aquí Seguimos](https://open.spotify.com/track/1O7EabNRQSnftI1Vk3HcbY) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Aquí Seguimos](https://open.spotify.com/album/0vRP5VPqkPI8pUqTXcRtgH) | 3:29 | 2022-01-28 | 2022-11-08 |
 | [Arriba](https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Arriba](https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb) | 2:54 | 2021-12-17 | 2023-02-25 |
-| [Belicamente De Accion](https://open.spotify.com/track/59R4ci9k2CZDWRbhjjfTmw) | [La Autorización](https://open.spotify.com/artist/1V9705vd14WxDwXeTp2TYJ), [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Belicamente De Accion](https://open.spotify.com/album/51Cw0W3OkWD4RAiqfIkG97) | 2:55 | 2023-07-07 |  |
+| [Belicamente De Accion](https://open.spotify.com/track/59R4ci9k2CZDWRbhjjfTmw) | [La Autorización](https://open.spotify.com/artist/1V9705vd14WxDwXeTp2TYJ), [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Belicamente De Accion](https://open.spotify.com/album/51Cw0W3OkWD4RAiqfIkG97) | 2:55 | 2023-07-07 | 2024-04-11 |
 | [Belicamente De Acción](https://open.spotify.com/track/5fyWAm1MYH2zZ9BGR5iPFp) | [La Autorización](https://open.spotify.com/artist/1V9705vd14WxDwXeTp2TYJ), [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Belicamente De Acción](https://open.spotify.com/album/2zd2JBVZaaXjMlMVdfhhgu) | 2:55 | 2023-07-07 | 2023-10-27 |
 | [Bendiciones](https://open.spotify.com/track/6HtWP5RHvO8AWB4xsEKB1w) | [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [Bendiciones](https://open.spotify.com/album/1eAFlgi3qKbjssVgp63HAd) | 2:38 | 2022-12-02 | 2023-01-14 |
 | [Bien Motivados](https://open.spotify.com/track/6DezO5fZUZV6GRj7xV5k0k) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Bien Motivados](https://open.spotify.com/album/01dP66RlK5xFUhyApHSoWd) | 2:52 | 2022-07-08 | 2022-12-03 |

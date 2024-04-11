@@ -1,12 +1,12 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 23437,
+  "num_followers": 23455,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjM1MDVjNGE1ZGYwY2Q3NjMxNzkzNzA3OTZjOGUwMzAzNGNhNWI0",
+  "snapshot_id": "MCxiNDYxYjVlY2VkODQzZGMwNmE4ZDVmZDZlNDJmOTMzZGViN2U5N2Jk",
   "tracks": [
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "AREA BOYZ",
-        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 250920,
-      "name": "AREA BOYZ PRAYER (feat. Seyi Vibez)",
-      "url": "https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
         "name": "Risk (feat. Moliy)",
         "url": "https://open.spotify.com/album/5KSgs1ELY7Hw9psUKBUCZh"
       },
@@ -1079,26 +1059,22 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Undress You",
-        "url": "https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO"
+        "name": "AREA BOYZ",
+        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
       "artists": [
         {
-          "name": "KJ Spio",
-          "url": "https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L"
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
         },
         {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 213818,
-      "name": "Undress You",
-      "url": "https://open.spotify.com/track/6LVuaveD4hazORqbg67C03"
+      "duration_ms": 250920,
+      "name": "AREA BOYZ PRAYER (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1135,6 +1111,30 @@
       "duration_ms": 188656,
       "name": "Trumpet",
       "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Undress You",
+        "url": "https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO"
+      },
+      "artists": [
+        {
+          "name": "KJ Spio",
+          "url": "https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 213818,
+      "name": "Undress You",
+      "url": "https://open.spotify.com/track/6LVuaveD4hazORqbg67C03"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1243,22 +1243,18 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+        "name": "This Is Not the Tape III",
+        "url": "https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         }
       ],
-      "duration_ms": 108823,
-      "name": "NAIJA SHAWTY (feat. Victony)",
-      "url": "https://open.spotify.com/track/2ZAlI005a5nE5ys5QGOiQr"
+      "duration_ms": 168346,
+      "name": "Fefe Ne Fe",
+      "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1283,18 +1279,22 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "This Is Not the Tape III",
-        "url": "https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI"
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
       "artists": [
         {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 168346,
-      "name": "Fefe Ne Fe",
-      "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
+      "duration_ms": 108823,
+      "name": "NAIJA SHAWTY (feat. Victony)",
+      "url": "https://open.spotify.com/track/2ZAlI005a5nE5ys5QGOiQr"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1335,6 +1335,26 @@
       "duration_ms": 259591,
       "name": "Lemons (Lemonade)",
       "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "The Messenger",
+        "url": "https://open.spotify.com/album/0hvJW7VOP4196IMePNLzZi"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        },
+        {
+          "name": "Boma Nime",
+          "url": "https://open.spotify.com/artist/2tkw8FFnCrgenakG7wml4B"
+        }
+      ],
+      "duration_ms": 177727,
+      "name": "Higher Powers",
+      "url": "https://open.spotify.com/track/2XcjvBNRpj2ZwRrlco3pvF"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1403,50 +1423,6 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "The Messenger",
-        "url": "https://open.spotify.com/album/0hvJW7VOP4196IMePNLzZi"
-      },
-      "artists": [
-        {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
-        },
-        {
-          "name": "Boma Nime",
-          "url": "https://open.spotify.com/artist/2tkw8FFnCrgenakG7wml4B"
-        }
-      ],
-      "duration_ms": 177727,
-      "name": "Higher Powers",
-      "url": "https://open.spotify.com/track/2XcjvBNRpj2ZwRrlco3pvF"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Wrist On Freeze",
-        "url": "https://open.spotify.com/album/26WFXsghAL2Q78J83hIwjK"
-      },
-      "artists": [
-        {
-          "name": "Stay Flee Get Lizzy",
-          "url": "https://open.spotify.com/artist/2oZq6t5DkE2BdGbD6x8RXh"
-        },
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        },
-        {
-          "name": "Ms Banks",
-          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Wrist On Freeze",
-      "url": "https://open.spotify.com/track/0SQhNk3xObQHvq3NFpIbj4"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
         "name": "You Trap Me",
         "url": "https://open.spotify.com/album/6Zwzz2W8ViQ89NXz0IW52M"
       },
@@ -1503,6 +1479,30 @@
       "duration_ms": 205714,
       "name": "Love Don't Cost A Dime",
       "url": "https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Wrist On Freeze",
+        "url": "https://open.spotify.com/album/26WFXsghAL2Q78J83hIwjK"
+      },
+      "artists": [
+        {
+          "name": "Stay Flee Get Lizzy",
+          "url": "https://open.spotify.com/artist/2oZq6t5DkE2BdGbD6x8RXh"
+        },
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        },
+        {
+          "name": "Ms Banks",
+          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Wrist On Freeze",
+      "url": "https://open.spotify.com/track/0SQhNk3xObQHvq3NFpIbj4"
     },
     {
       "added_at": "2024-04-05 00:01:00",

@@ -1,13 +1,109 @@
 {
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Pem",
-  "num_followers": 65612,
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Kara Jackson performing at Fresh Finds Chicago March, 2024",
+  "num_followers": 65830,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTRjNDhjYjNhZmU4ZmRlZWFlNTE5ZGFlYjIzZTM1ZDgyMTgyNTlm",
+  "snapshot_id": "MCw1NmU1YjAxYjBjZDFmNzc4NzkwYjM0MTMwNjQ4OGFiMDY5NzJhNjYw",
   "tracks": [
+    {
+      "added_at": "2024-04-10 04:00:00",
+      "album": {
+        "name": "green",
+        "url": "https://open.spotify.com/album/3wtbk8hyZN77OqkubXcAtc"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "duration_ms": 186435,
+      "name": "green",
+      "url": "https://open.spotify.com/track/08q9oymzN5ozNuE8q4YzrG"
+    },
+    {
+      "added_at": "2024-04-10 04:00:00",
+      "album": {
+        "name": "The Favorite",
+        "url": "https://open.spotify.com/album/42zSMFzegNPqbs8roRvI43"
+      },
+      "artists": [
+        {
+          "name": "India Thieriot",
+          "url": "https://open.spotify.com/artist/6MuOTOv4gVJpTYFPBb3awg"
+        }
+      ],
+      "duration_ms": 185975,
+      "name": "The Favorite",
+      "url": "https://open.spotify.com/track/5fOJ2ER7TB9DNjFchr9m3P"
+    },
+    {
+      "added_at": "2024-04-03 04:00:00",
+      "album": {
+        "name": "Milk Town / Mr. Carter",
+        "url": "https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D"
+      },
+      "artists": [
+        {
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+        }
+      ],
+      "duration_ms": 77032,
+      "name": "Milk Town / Mr. Carter",
+      "url": "https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ"
+    },
+    {
+      "added_at": "2024-04-10 04:00:00",
+      "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/694zQ5EqZdgzqmzxsjPN0l"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Russell",
+          "url": "https://open.spotify.com/artist/1e0cgBOcw5bPx0ScuTTns2"
+        }
+      ],
+      "duration_ms": 140687,
+      "name": "Silver",
+      "url": "https://open.spotify.com/track/2SyHbnQlrFyIdDGFeyPEQe"
+    },
+    {
+      "added_at": "2024-03-29 22:22:50",
+      "album": {
+        "name": "Why Does the Earth Give Us People to Love?",
+        "url": "https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO"
+      },
+      "artists": [
+        {
+          "name": "Kara Jackson",
+          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
+        }
+      ],
+      "duration_ms": 422566,
+      "name": "free",
+      "url": "https://open.spotify.com/track/1qWsVMgZZQWTg2XkSja0OU"
+    },
+    {
+      "added_at": "2024-04-10 04:00:00",
+      "album": {
+        "name": "Lunch",
+        "url": "https://open.spotify.com/album/57WiLy0NG5Ew4no25syr8Y"
+      },
+      "artists": [
+        {
+          "name": "Theo Kandel",
+          "url": "https://open.spotify.com/artist/0YEY41EVT9qE1IdDDDyF9q"
+        }
+      ],
+      "duration_ms": 255499,
+      "name": "Lunch",
+      "url": "https://open.spotify.com/track/5ZIenhLODzGK8d5wwPPjOz"
+    },
     {
       "added_at": "2024-04-03 04:00:00",
       "album": {
@@ -25,20 +121,116 @@
       "url": "https://open.spotify.com/track/4tEbhflVi5PzSl2om3C3so"
     },
     {
-      "added_at": "2024-04-03 04:00:00",
+      "added_at": "2024-04-10 04:00:00",
       "album": {
-        "name": "Milk Town / Mr. Carter",
-        "url": "https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D"
+        "name": "Burnt Away",
+        "url": "https://open.spotify.com/album/036uHAJf0bP6jfkEo9Hlfe"
       },
       "artists": [
         {
-          "name": "Nep",
-          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+          "name": "Liam Brock",
+          "url": "https://open.spotify.com/artist/2SXklwipRmgoEraPulXVdE"
         }
       ],
-      "duration_ms": 77032,
-      "name": "Milk Town / Mr. Carter",
-      "url": "https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ"
+      "duration_ms": 178139,
+      "name": "Burnt Away",
+      "url": "https://open.spotify.com/track/11A0LdoGtVWaCLv6qQQcNf"
+    },
+    {
+      "added_at": "2024-04-10 04:00:00",
+      "album": {
+        "name": "Honest Mistake",
+        "url": "https://open.spotify.com/album/61cgfMVzBy0dtDFWGrZl6t"
+      },
+      "artists": [
+        {
+          "name": "Hohnen Ford",
+          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
+        }
+      ],
+      "duration_ms": 227177,
+      "name": "Honest Mistake",
+      "url": "https://open.spotify.com/track/7lF8vFU9L2xzHJkv3zvtnm"
+    },
+    {
+      "added_at": "2024-04-10 04:00:00",
+      "album": {
+        "name": "I Knew I Loved You Then!",
+        "url": "https://open.spotify.com/album/1GCRnOCiShsI1cy1ynJp1u"
+      },
+      "artists": [
+        {
+          "name": "Family Stereo",
+          "url": "https://open.spotify.com/artist/4HUyWDdAowsbbtJQQEn5RT"
+        }
+      ],
+      "duration_ms": 190861,
+      "name": "I Knew I Loved You Then!",
+      "url": "https://open.spotify.com/track/6ZpKrW43jQAqlRjlwBpSuO"
+    },
+    {
+      "added_at": "2024-04-10 04:00:00",
+      "album": {
+        "name": "Blindsided",
+        "url": "https://open.spotify.com/album/54VCjpKiFFoRSNbmyK2D3G"
+      },
+      "artists": [
+        {
+          "name": "Ariella",
+          "url": "https://open.spotify.com/artist/6w0vaIhMHgLjF7HUDmth81"
+        }
+      ],
+      "duration_ms": 179118,
+      "name": "Blindsided",
+      "url": "https://open.spotify.com/track/7wdPC8izuPrHj536GPAa2l"
+    },
+    {
+      "added_at": "2024-04-10 04:00:00",
+      "album": {
+        "name": "apocalypse",
+        "url": "https://open.spotify.com/album/4ykIzkOUqdl7RGOssVVgK2"
+      },
+      "artists": [
+        {
+          "name": "Virens",
+          "url": "https://open.spotify.com/artist/5tCrFsPMoJ91yC4tnzKmTW"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "apocalypse",
+      "url": "https://open.spotify.com/track/4kZE6pMgi6rzyxgjVF9Usx"
+    },
+    {
+      "added_at": "2024-04-10 04:00:00",
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/6IxEWhtC68ce07yxKnwydM"
+      },
+      "artists": [
+        {
+          "name": "Evie",
+          "url": "https://open.spotify.com/artist/1kOS484jvPsfcdWNpKEGG9"
+        }
+      ],
+      "duration_ms": 226796,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/4KxQWXimKCGVTatrSwmrYw"
+    },
+    {
+      "added_at": "2024-04-10 04:00:00",
+      "album": {
+        "name": "Honey & Cinnamon",
+        "url": "https://open.spotify.com/album/377OoOZTTTuXxkMxPpNt0f"
+      },
+      "artists": [
+        {
+          "name": "George William Thomas",
+          "url": "https://open.spotify.com/artist/4AGIlngJOEQHDALpn2VotA"
+        }
+      ],
+      "duration_ms": 222072,
+      "name": "Honey & Cinnamon",
+      "url": "https://open.spotify.com/track/4RGUfZNhjyNeQI6qgtxLDE"
     },
     {
       "added_at": "2024-04-03 04:00:00",
@@ -263,22 +455,6 @@
       "duration_ms": 235382,
       "name": "awe",
       "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
-    },
-    {
-      "added_at": "2024-03-29 22:22:50",
-      "album": {
-        "name": "Why Does the Earth Give Us People to Love?",
-        "url": "https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO"
-      },
-      "artists": [
-        {
-          "name": "Kara Jackson",
-          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
-        }
-      ],
-      "duration_ms": 422566,
-      "name": "free",
-      "url": "https://open.spotify.com/track/1qWsVMgZZQWTg2XkSja0OU"
     },
     {
       "added_at": "2024-03-27 04:00:00",
@@ -1459,198 +1635,6 @@
       "duration_ms": 286564,
       "name": "Hand Me Downs",
       "url": "https://open.spotify.com/track/2YCTEg3wqbMyiug6vg2uCJ"
-    },
-    {
-      "added_at": "2024-02-14 05:00:00",
-      "album": {
-        "name": "Cowboy Therapy",
-        "url": "https://open.spotify.com/album/2WsIaxQzWzaFXvVWL067Nm"
-      },
-      "artists": [
-        {
-          "name": "Eli Josef",
-          "url": "https://open.spotify.com/artist/4y3uhZt4T3XHGm8f8wMqqW"
-        }
-      ],
-      "duration_ms": 258765,
-      "name": "Cowboy Therapy",
-      "url": "https://open.spotify.com/track/26geVc95jrEBqZE2JapyK2"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "violet",
-        "url": "https://open.spotify.com/album/4vRjnRTAH2w8Xy17CegJWN"
-      },
-      "artists": [
-        {
-          "name": "Marianne Ross",
-          "url": "https://open.spotify.com/artist/3N8pECzlNdVgozhW0SEp9j"
-        }
-      ],
-      "duration_ms": 110322,
-      "name": "violet",
-      "url": "https://open.spotify.com/track/33Qa5hM4hSlJY3bbpoFl9G"
-    },
-    {
-      "added_at": "2024-02-14 05:00:00",
-      "album": {
-        "name": "Cohabitate",
-        "url": "https://open.spotify.com/album/0MVRUiftHfSKf7GXX4Cguj"
-      },
-      "artists": [
-        {
-          "name": "j solomon",
-          "url": "https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4"
-        }
-      ],
-      "duration_ms": 135011,
-      "name": "Cohabitate",
-      "url": "https://open.spotify.com/track/2AKUGWUjald89AcWpRjwIZ"
-    },
-    {
-      "added_at": "2024-02-14 05:00:00",
-      "album": {
-        "name": "Bike Dream",
-        "url": "https://open.spotify.com/album/3iKPE0lxcCIBfNACrZy04L"
-      },
-      "artists": [
-        {
-          "name": "Bells Larsen",
-          "url": "https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf"
-        }
-      ],
-      "duration_ms": 193409,
-      "name": "Bike Dream",
-      "url": "https://open.spotify.com/track/0pg1rByVA1R5YFMMwCglVZ"
-    },
-    {
-      "added_at": "2024-02-14 05:00:00",
-      "album": {
-        "name": "Residual Bliss",
-        "url": "https://open.spotify.com/album/6jwDQCYituamxr6cb6Mgpq"
-      },
-      "artists": [
-        {
-          "name": "Gildor",
-          "url": "https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU"
-        }
-      ],
-      "duration_ms": 291736,
-      "name": "Residual Bliss",
-      "url": "https://open.spotify.com/track/76vlleSRtF35kWczmAeETH"
-    },
-    {
-      "added_at": "2024-02-14 05:00:00",
-      "album": {
-        "name": "Where Did I Go Wrong",
-        "url": "https://open.spotify.com/album/3zBmaB2rxw5YjX2kqUsgTa"
-      },
-      "artists": [
-        {
-          "name": "Crowe Boys",
-          "url": "https://open.spotify.com/artist/5k7X7qq43uKpB09FSYS5id"
-        }
-      ],
-      "duration_ms": 179031,
-      "name": "Where Did I Go Wrong",
-      "url": "https://open.spotify.com/track/13VtzJP8HQuK6jQRJrP6xL"
-    },
-    {
-      "added_at": "2024-02-14 05:00:00",
-      "album": {
-        "name": "hopeless romANTICS",
-        "url": "https://open.spotify.com/album/1673r3Nk2Hxc7sO3PR1ct7"
-      },
-      "artists": [
-        {
-          "name": "Bonner Black",
-          "url": "https://open.spotify.com/artist/2VqvExXMDEoDd0EgDUw8kz"
-        }
-      ],
-      "duration_ms": 193387,
-      "name": "What Goes Up",
-      "url": "https://open.spotify.com/track/3uElX5i7TvAGQqY5nmI8ZR"
-    },
-    {
-      "added_at": "2024-02-07 05:00:00",
-      "album": {
-        "name": "Meet Me In The Middle",
-        "url": "https://open.spotify.com/album/5ITmYXwPwbgWllhVFQMtGh"
-      },
-      "artists": [
-        {
-          "name": "Wezn",
-          "url": "https://open.spotify.com/artist/4m3BkdzgdpL8lkC5PfZdXf"
-        }
-      ],
-      "duration_ms": 256105,
-      "name": "Meet Me In The Middle",
-      "url": "https://open.spotify.com/track/3YzBYRceMfEMjKavekA6Lv"
-    },
-    {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
-        "name": "Do You Feel Free Now?",
-        "url": "https://open.spotify.com/album/52ih5KkcgK2DUjvb2E5Q2k"
-      },
-      "artists": [
-        {
-          "name": "Sam Tudor",
-          "url": "https://open.spotify.com/artist/4s7wRrRsAQMuLQlkRo2Khk"
-        }
-      ],
-      "duration_ms": 199765,
-      "name": "Do You Feel Free Now?",
-      "url": "https://open.spotify.com/track/1G5Q59cV1UNU0AOiWtODGS"
-    },
-    {
-      "added_at": "2024-02-09 19:40:09",
-      "album": {
-        "name": "2 days into college",
-        "url": "https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3"
-      },
-      "artists": [
-        {
-          "name": "Aimee Carty",
-          "url": "https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl"
-        }
-      ],
-      "duration_ms": 168113,
-      "name": "2 days into college",
-      "url": "https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Half of forever",
-        "url": "https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc"
-      },
-      "artists": [
-        {
-          "name": "Henrik",
-          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
-        }
-      ],
-      "duration_ms": 153250,
-      "name": "Half of forever",
-      "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "I Promise",
-        "url": "https://open.spotify.com/album/5Amy4k4ccGfO2pA9wFCPLs"
-      },
-      "artists": [
-        {
-          "name": "Lila Dupont",
-          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
-        }
-      ],
-      "duration_ms": 221415,
-      "name": "I Promise",
-      "url": "https://open.spotify.com/track/02UnxTJJJYS0yGNOIGdjOF"
     }
   ],
   "unique_name": "Fresh Finds Folk ",

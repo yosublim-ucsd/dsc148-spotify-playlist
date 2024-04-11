@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QYk4eMLrC8.md) - [plain]
 
 > Saiko takes over Fuego! Featuring Myke Towers, Feid, Cruz Cafuné & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 885 likes - 25 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 884 likes - 25 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QYk4eMLrC8.md) - [plain]
 | 15 | [Yes Indeed](https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 2:22 |
 | 16 | [De Luto](https://open.spotify.com/track/0WSKJY5hXkdmR8gbA3AXX3) | [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [CODA](https://open.spotify.com/album/4Z3uC2a3xxwnTCeCbAz6t1) | 2:53 |
 | 17 | [Me Voy Contigo](https://open.spotify.com/track/5VSAcJtB7PlXO3cwC4vjom) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Me Voy Contigo](https://open.spotify.com/album/3yRpvjQhjb8KBIxJB88GAh) | 3:18 |
-| 18 | [Supernova](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Supernova](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 |
+| 18 | [SUPERNOVA](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [SUPERNOVA](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 |
 | 19 | [Ja Morant](https://open.spotify.com/track/74Y6PcHH1FU0ZXb34GHbsB) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 3:13 |
 | 20 | [712PM](https://open.spotify.com/track/3FSwpQ9dBZBeBV6UdYHI2R) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 2:53 |
 | 21 | [CSIpher \(audio latino\)](https://open.spotify.com/track/4bp3MHLtiKfPaNL3iSbQ20) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Antes de Ameri](https://open.spotify.com/album/26nUVuonXEdbJTo9PeBYoR) | 4:10 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QYk4eMLrC8.md) - [plain]
 | 24 | [RELXJXTE](https://open.spotify.com/track/0eI8yxgCGbguwbK26n22RQ) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [FERXXO \(VOL 1: M.O.R\)](https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5) | 3:05 |
 | 25 | [13/18](https://open.spotify.com/track/0rO36aEzoamawMEAo8ivCL) | [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [13/18](https://open.spotify.com/album/2vqsIpeznjILJ2pnouZdXe) | 3:33 |
 
-Snapshot ID: `MCw1NTI1MzQ4NmUwMTJjMTFiNDg4ZWVjODI2MTk4OGE2ZTc3N2YyOWZk`
+Snapshot ID: `MCw3ODJkODlhOTBiYTA5NTNiZGJiOGEzODM4Y2NmYjE2ZGZkYTU3OTRl`

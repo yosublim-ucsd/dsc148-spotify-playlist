@@ -4,7 +4,7 @@
 
 > Faith without work\[out\]s is dead!  Get your beast mode on!
 
-580 songs - 1 day 4 hr 31 min
+581 songs - 1 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,7 +516,7 @@
 | [This World Is Not My Home](https://open.spotify.com/track/36Q3K9sJqgjCyGbHWW7u63) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [This World Is Not My Home](https://open.spotify.com/album/65rWZ61zIkHGrclFdek0bp) | 2:42 | 2022-02-04 | 2022-07-18 |
 | [Throne](https://open.spotify.com/track/416twUmy9zFdu6h5EUQKDR) | [Kelo](https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv) | [Throne](https://open.spotify.com/album/3ymogYBsMvQFO8jf0uwLpQ) | 2:42 | 2023-08-11 | 2023-11-09 |
 | [Tightrope](https://open.spotify.com/track/4OFgV7VLucicq9q6Fii4Wy) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Tightrope](https://open.spotify.com/album/4Ux6A6SaLPueWDwfEemqwh) | 3:43 | 2022-02-04 | 2022-05-29 |
-| [TIL ITS DONE](https://open.spotify.com/track/3uy9kZWx2YLve3bYHXZ6NF) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [TIL ITS DONE](https://open.spotify.com/album/1EEEPWRPz54SSH63Ne8HB9) | 2:52 | 2023-12-01 |  |
+| [TIL ITS DONE](https://open.spotify.com/track/3uy9kZWx2YLve3bYHXZ6NF) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [TIL ITS DONE](https://open.spotify.com/album/1EEEPWRPz54SSH63Ne8HB9) | 2:52 | 2023-12-01 | 2024-04-11 |
 | [Til The Day I Die](https://open.spotify.com/track/2v49NJk4EhgM4xVkNKrfqc) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [This Is Not A Test](https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG) | 3:47 | 2022-02-04 | 2022-07-18 |
 | [Today](https://open.spotify.com/track/2NGZ6qTITDhWxRtB2GQ30B) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr), [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Today](https://open.spotify.com/album/0bpirtY2C9rDko6GSTZzzh) | 2:09 | 2022-12-16 | 2023-08-12 |
 | [Too Easy \(feat\. Parris Chariz & Jon Keith\)](https://open.spotify.com/track/6Zn4QgUQz6btDonLQwhHta) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [Too Easy \(feat\. Parris Chariz & Jon Keith\)](https://open.spotify.com/album/41CUu6uafLU74cZtNwHERv) | 3:36 | 2022-02-04 | 2022-07-28 |
@@ -539,6 +539,7 @@
 | [USE THIS GOSPEL \(feat\. Kanye West & Eminem\) \- REMIX](https://open.spotify.com/track/2u5jKAjyvyEDmsWTtfQzNf) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:43 | 2022-09-03 | 2022-12-17 |
 | [VICIOUS CYCLE](https://open.spotify.com/track/1VbIQFz8NZevPwK8tZXD8H) | [EmanuelDaProphet](https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [VICIOUS CYCLE](https://open.spotify.com/album/0CtRrHjzbmN7FdYC0r5iZv) | 3:28 | 2024-03-20 |  |
 | [VICTORY LAP](https://open.spotify.com/track/6enm65ZcZgLYwClZuHTXxF) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Dead Or Alive Pt\. 1](https://open.spotify.com/album/2uDtoC5wiivwKT3RP7xcHl) | 2:54 | 2023-11-02 | 2024-02-03 |
+| [VINE](https://open.spotify.com/track/1QYDOVoxOV7iEzL43sGj5C) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [VINE](https://open.spotify.com/album/4d3NC4abLYhsHIkhh4Kg1c) | 3:15 | 2024-03-20 |  |
 | [Voice](https://open.spotify.com/track/5RYhiYjZBI9hmVopULgdoO) | [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [Voice](https://open.spotify.com/album/5DpQd4GMkzUUQQsCe67j9V) | 2:12 | 2022-04-30 | 2023-11-03 |
 | [WAITING](https://open.spotify.com/track/7axHfZh6a7JQD8dmblDDmt) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [WAITING](https://open.spotify.com/album/2oQ1qwYoczja6rQxwkVN6w) | 2:57 | 2022-02-04 | 2023-08-12 |
 | [Walk On Water](https://open.spotify.com/track/5AWOVMrfZmajuL2hpOkMHG) | [Family Force 5](https://open.spotify.com/artist/6aUV3Fndwagje8d4rBA3xw), [Melodie Wagner of Hillsong Young & Free](https://open.spotify.com/artist/6WWkRKCjBIQQ3YMID1LjNu) | [Time Stands Still](https://open.spotify.com/album/3lXNaT25pd3EzpeYM74rxI) | 3:11 | 2022-02-04 | 2022-04-29 |

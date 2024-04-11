@@ -1,12 +1,12 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Anthrax",
-  "num_followers": 544829,
+  "num_followers": 544944,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmUyZGIwMGI1OWE1Y2IxY2MyNmVkOTcyZGVmYzVmN2ExYjJiYmIy",
+  "snapshot_id": "MCxjMjQ3YTEwYmRkNTE4YTkxODI3NmY3MDY2OTgzODdkNjhmMDQyMTNm",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Idle Hands",
-        "url": "https://open.spotify.com/album/4cGGbyTuQsDv2CnGyqGKHU"
-      },
-      "artists": [
-        {
-          "name": "Kerry King",
-          "url": "https://open.spotify.com/artist/6r1McS7CU46TsVEh1ckGuH"
-        }
-      ],
-      "duration_ms": 224411,
-      "name": "Idle Hands",
-      "url": "https://open.spotify.com/track/3R0OvTDCFbarllFOnzKRWg"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "The Art of Partying",
         "url": "https://open.spotify.com/album/7cU3FZ3u2jgKd5s8hhKJ9h"
       },
@@ -623,18 +607,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Agent Orange",
-        "url": "https://open.spotify.com/album/0EH3qqOgIVirxuZnTTMG6G"
+        "name": "Idle Hands",
+        "url": "https://open.spotify.com/album/4cGGbyTuQsDv2CnGyqGKHU"
       },
       "artists": [
         {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+          "name": "Kerry King",
+          "url": "https://open.spotify.com/artist/6r1McS7CU46TsVEh1ckGuH"
         }
       ],
-      "duration_ms": 365320,
-      "name": "Agent Orange",
-      "url": "https://open.spotify.com/track/3Ks3K2RmCxSUcXS6cOvd43"
+      "duration_ms": 224411,
+      "name": "Idle Hands",
+      "url": "https://open.spotify.com/track/3R0OvTDCFbarllFOnzKRWg"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -651,6 +635,22 @@
       "duration_ms": 301053,
       "name": "Alison Hell",
       "url": "https://open.spotify.com/track/153SwL1d9SfCLWhqIs08we"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Agent Orange",
+        "url": "https://open.spotify.com/album/0EH3qqOgIVirxuZnTTMG6G"
+      },
+      "artists": [
+        {
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+        }
+      ],
+      "duration_ms": 365320,
+      "name": "Agent Orange",
+      "url": "https://open.spotify.com/track/3Ks3K2RmCxSUcXS6cOvd43"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Enter The Grave",
-        "url": "https://open.spotify.com/album/3G3vlh9dfQMTcgcDhNkgut"
-      },
-      "artists": [
-        {
-          "name": "Evile",
-          "url": "https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "Thrasher",
-      "url": "https://open.spotify.com/track/3ghhd7sdIcWrWL4yeYc81Q"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "The Years of Decay",
         "url": "https://open.spotify.com/album/5cIvu6047CsrlgRcdwd2HQ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 275386,
       "name": "Elimination",
       "url": "https://open.spotify.com/track/6lWFQo5NuR3y8Q6CHIRatA"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Enter The Grave",
+        "url": "https://open.spotify.com/album/3G3vlh9dfQMTcgcDhNkgut"
+      },
+      "artists": [
+        {
+          "name": "Evile",
+          "url": "https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo"
+        }
+      ],
+      "duration_ms": 189360,
+      "name": "Thrasher",
+      "url": "https://open.spotify.com/track/3ghhd7sdIcWrWL4yeYc81Q"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Aita",
-        "url": "https://open.spotify.com/album/78zNb7zhpXPx2IxLz4vZKz"
-      },
-      "artists": [
-        {
-          "name": "Korpiklaani",
-          "url": "https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy"
-        }
-      ],
-      "duration_ms": 227204,
-      "name": "Aita",
-      "url": "https://open.spotify.com/track/0TfZAE7oV7Zv56crYu5m0K"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Nightmare Logic",
         "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 250723,
       "name": "Soul Sacrifice",
       "url": "https://open.spotify.com/track/0PiqQvwJA1TiOFIjmG58rS"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Beneath the Remains",
+        "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "Slaves of Pain",
+      "url": "https://open.spotify.com/track/7lD9KnYOyQyoYIBHOWKrdz"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Beneath the Remains",
-        "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
+        "name": "Aita",
+        "url": "https://open.spotify.com/album/78zNb7zhpXPx2IxLz4vZKz"
       },
       "artists": [
         {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+          "name": "Korpiklaani",
+          "url": "https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy"
         }
       ],
-      "duration_ms": 244026,
-      "name": "Slaves of Pain",
-      "url": "https://open.spotify.com/track/7lD9KnYOyQyoYIBHOWKrdz"
+      "duration_ms": 227204,
+      "name": "Aita",
+      "url": "https://open.spotify.com/track/0TfZAE7oV7Zv56crYu5m0K"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Myrsky",
-        "url": "https://open.spotify.com/album/7HRrljwjEWlAAeeO0AIHw1"
-      },
-      "artists": [
-        {
-          "name": "Mokoma",
-          "url": "https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB"
-        }
-      ],
-      "duration_ms": 210691,
-      "name": "Ympyr\u00e4 sulkeutuu",
-      "url": "https://open.spotify.com/track/3vMLPlqHCMn1XQxT1H1Py6"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Speed Between the Lines",
         "url": "https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 176346,
       "name": "666Teen",
       "url": "https://open.spotify.com/track/3FzPWVOfYBi646pFcei6f3"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Myrsky",
+        "url": "https://open.spotify.com/album/7HRrljwjEWlAAeeO0AIHw1"
+      },
+      "artists": [
+        {
+          "name": "Mokoma",
+          "url": "https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB"
+        }
+      ],
+      "duration_ms": 210691,
+      "name": "Ympyr\u00e4 sulkeutuu",
+      "url": "https://open.spotify.com/track/3vMLPlqHCMn1XQxT1H1Py6"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Alice In Hell",
+        "url": "https://open.spotify.com/album/5oKZacGOXxb7A2OwXgh9UY"
+      },
+      "artists": [
+        {
+          "name": "Annihilator",
+          "url": "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
+        }
+      ],
+      "duration_ms": 236226,
+      "name": "W.T.Y.D.",
+      "url": "https://open.spotify.com/track/4puBhL71XaixTPxpK02yog"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Sever The Tongue",
         "url": "https://open.spotify.com/album/3Hm85xoM0c1XorBsEqOenD"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 270920,
       "name": "Enter The Grave",
       "url": "https://open.spotify.com/track/6A00Xnn0qg12xjEzCLY22O"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Alice In Hell",
-        "url": "https://open.spotify.com/album/5oKZacGOXxb7A2OwXgh9UY"
-      },
-      "artists": [
-        {
-          "name": "Annihilator",
-          "url": "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
-        }
-      ],
-      "duration_ms": 236226,
-      "name": "W.T.Y.D.",
-      "url": "https://open.spotify.com/track/4puBhL71XaixTPxpK02yog"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Ignorance & Surf Nicaragua",
-        "url": "https://open.spotify.com/album/6oIYHgssDkhfR0RgUoOyX0"
+        "name": "Totem",
+        "url": "https://open.spotify.com/album/7tWpDZxWUhFEqwIhHSy00i"
       },
       "artists": [
         {
-          "name": "Sacred Reich",
-          "url": "https://open.spotify.com/artist/0UeVJTdCWGEFSSO9Tg9tiH"
+          "name": "Soulfly",
+          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
         }
       ],
-      "duration_ms": 280400,
-      "name": "Surf Nicaragua",
-      "url": "https://open.spotify.com/track/0cjd7hXm53E1xAJsIYcSJN"
+      "duration_ms": 194101,
+      "name": "Superstition",
+      "url": "https://open.spotify.com/track/5VwwTHDa25f8oC9kkBdObh"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Totem",
-        "url": "https://open.spotify.com/album/7tWpDZxWUhFEqwIhHSy00i"
+        "name": "Ignorance & Surf Nicaragua",
+        "url": "https://open.spotify.com/album/6oIYHgssDkhfR0RgUoOyX0"
       },
       "artists": [
         {
-          "name": "Soulfly",
-          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
+          "name": "Sacred Reich",
+          "url": "https://open.spotify.com/artist/0UeVJTdCWGEFSSO9Tg9tiH"
         }
       ],
-      "duration_ms": 194101,
-      "name": "Superstition",
-      "url": "https://open.spotify.com/track/5VwwTHDa25f8oC9kkBdObh"
+      "duration_ms": 280400,
+      "name": "Surf Nicaragua",
+      "url": "https://open.spotify.com/track/0cjd7hXm53E1xAJsIYcSJN"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Heavy Metal Maniac",
-        "url": "https://open.spotify.com/album/4jV5DFEggX8yPy0CPQ42il"
-      },
-      "artists": [
-        {
-          "name": "Exciter",
-          "url": "https://open.spotify.com/artist/1jH2JkQvdH6R63yORA8GTd"
-        }
-      ],
-      "duration_ms": 227453,
-      "name": "Heavy Metal Maniac",
-      "url": "https://open.spotify.com/track/2HcMXZJ8TR0CFiePEqhHLW"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Empire of the Blind",
         "url": "https://open.spotify.com/album/217f4bYa9XozSYchLop1qW"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 351613,
       "name": "Empire of the Blind",
       "url": "https://open.spotify.com/track/7f9GwtBThFbtYnxc7X47XE"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Heavy Metal Maniac",
+        "url": "https://open.spotify.com/album/4jV5DFEggX8yPy0CPQ42il"
+      },
+      "artists": [
+        {
+          "name": "Exciter",
+          "url": "https://open.spotify.com/artist/1jH2JkQvdH6R63yORA8GTd"
+        }
+      ],
+      "duration_ms": 227453,
+      "name": "Heavy Metal Maniac",
+      "url": "https://open.spotify.com/track/2HcMXZJ8TR0CFiePEqhHLW"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Eternal Nightmare",
-        "url": "https://open.spotify.com/album/2qB9lQZEfYOHEXGD2HhExH"
-      },
-      "artists": [
-        {
-          "name": "Vio-Lence",
-          "url": "https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df"
-        }
-      ],
-      "duration_ms": 370400,
-      "name": "Eternal Nightmare",
-      "url": "https://open.spotify.com/track/0kJVVyz73lZau2zbr4kmIX"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Forbidden Evil",
         "url": "https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce"
       },
@@ -1791,18 +1775,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Profane Prayer",
-        "url": "https://open.spotify.com/album/4PcHDeJv6FmO6WZb6qYGHa"
+        "name": "Eternal Nightmare",
+        "url": "https://open.spotify.com/album/2qB9lQZEfYOHEXGD2HhExH"
       },
       "artists": [
         {
-          "name": "Suicidal Angels",
-          "url": "https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2"
+          "name": "Vio-Lence",
+          "url": "https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df"
         }
       ],
-      "duration_ms": 285013,
-      "name": "Purified by Fire",
-      "url": "https://open.spotify.com/track/5Yj54OcbkQk5hUmtXCSYOx"
+      "duration_ms": 370400,
+      "name": "Eternal Nightmare",
+      "url": "https://open.spotify.com/track/0kJVVyz73lZau2zbr4kmIX"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1819,6 +1803,22 @@
       "duration_ms": 234578,
       "name": "Blood On Our Hands",
       "url": "https://open.spotify.com/track/7y2XV9uAnhqMAUAYhHklRP"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Profane Prayer",
+        "url": "https://open.spotify.com/album/4PcHDeJv6FmO6WZb6qYGHa"
+      },
+      "artists": [
+        {
+          "name": "Suicidal Angels",
+          "url": "https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2"
+        }
+      ],
+      "duration_ms": 285013,
+      "name": "Purified by Fire",
+      "url": "https://open.spotify.com/track/5Yj54OcbkQk5hUmtXCSYOx"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Profane Prayer",
-        "url": "https://open.spotify.com/album/4PcHDeJv6FmO6WZb6qYGHa"
-      },
-      "artists": [
-        {
-          "name": "Suicidal Angels",
-          "url": "https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2"
-        }
-      ],
-      "duration_ms": 174120,
-      "name": "Virtues of Destruction",
-      "url": "https://open.spotify.com/track/1ACpMQW2yIPcLDrpHlrY7l"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "666-Pack",
         "url": "https://open.spotify.com/album/0oVYMNaxxRcqsMN1HCj5I8"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 92612,
       "name": "All Mosh / No Brain",
       "url": "https://open.spotify.com/track/0amgTTnQK7rmkXTUFFRZsY"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Profane Prayer",
+        "url": "https://open.spotify.com/album/4PcHDeJv6FmO6WZb6qYGHa"
+      },
+      "artists": [
+        {
+          "name": "Suicidal Angels",
+          "url": "https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2"
+        }
+      ],
+      "duration_ms": 174120,
+      "name": "Virtues of Destruction",
+      "url": "https://open.spotify.com/track/1ACpMQW2yIPcLDrpHlrY7l"
     },
     {
       "added_at": "2024-03-08 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,241 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,333 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,13 +26,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 16 | [Alma Corazón y Vida](https://open.spotify.com/track/0qvWXX08lA2pjELemRL13w) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Mexican Love Songs](https://open.spotify.com/album/6RVVjKPl18XM1KR5Hf8ldV) | 3:12 |
 | 17 | [Ódiame](https://open.spotify.com/track/5Pll8UGMARzFeHZ7FczVd7) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [El Ruiseñor de America](https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r) | 2:52 |
 | 18 | [Odiame](https://open.spotify.com/track/3HjPZTAWOTNDh1j1TDXwB0) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [Tríos \(Vol\. 1\)](https://open.spotify.com/album/3CV7VovZe9pkaIrQg8TNdT) | 3:13 |
-| 19 | [Perdon](https://open.spotify.com/track/6Vdz67EdEfB0d7BItvj9kt) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Lamento Borincano](https://open.spotify.com/album/0TlQhCdYh4J82vXiSoqUzl) | 3:12 |
+| 19 | [Cerezo Rosa](https://open.spotify.com/track/37Z7PlwDB0OUv2VWHO3tPw) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Los Tecolines: Bolero Romantico](https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S) | 3:02 |
 | 20 | [La Gloria Eres Tú](https://open.spotify.com/track/3cLKEKUpFKhlLXCTwZ9IrM) | [Germán Valdés "Tin Tan"](https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ) | [Germán Valdés TIN\-TAN Canciones de Sus Películas](https://open.spotify.com/album/3Ci1X3dr7NJlbuUgqsFUgK) | 2:51 |
 | 21 | [La Barca](https://open.spotify.com/track/1GHTx9EyR44pgtGLotj2nH) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Los Tres Caballeros](https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI) | 3:17 |
 | 22 | [Cuando Vuelva a Tu Lado](https://open.spotify.com/track/5j2tKp2lqR5a5V8ArWOEDe) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:39 |
 | 23 | [Cerca del Mar](https://open.spotify.com/track/0GJ21yUwVykIrHfCzkcXDv) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [Coleccion Original](https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ) | 2:55 |
 | 24 | [En Mi Viejo San Juan \(with Javier Solís\)](https://open.spotify.com/track/07dcCkp3Eyx0UrqVRT8k6B) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz), [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Dos Idolos Cantando](https://open.spotify.com/album/34xJsekBz5oh2dgmc0tAfy) | 2:53 |
-| 25 | [Cerezo Rosa](https://open.spotify.com/track/37Z7PlwDB0OUv2VWHO3tPw) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Los Tecolines: Bolero Romantico](https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S) | 3:02 |
+| 25 | [Perdon](https://open.spotify.com/track/6Vdz67EdEfB0d7BItvj9kt) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Lamento Borincano](https://open.spotify.com/album/0TlQhCdYh4J82vXiSoqUzl) | 3:12 |
 | 26 | [Adoracion, Triunmos, Contigo](https://open.spotify.com/track/0UocCLW6BoV6Ehy4NwEZr0) | [Los Trios](https://open.spotify.com/artist/5XNKquYVKb2I5OwsY5gBQ0) | [Viva El Amor \- 30 Exitos](https://open.spotify.com/album/7MXAb6F4nvpbgZUga8La9x) | 4:35 |
 | 27 | [Embrujo](https://open.spotify.com/track/32xpnvh67XUNcjh0iW0dj6) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Consentida Y Otros Exitos](https://open.spotify.com/album/6TaghakmbT1QLgzoatmg4Y) | 3:11 |
 | 28 | [Jacarandá](https://open.spotify.com/track/0RIijpTXIM2xf11zcH3eGL) | [Los Santos](https://open.spotify.com/artist/2yecGImQIcTzSN0nh6BHcI) | [Los Santos](https://open.spotify.com/album/2oFAIyqSu5623ZUIFnbiiR) | 2:56 |
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 34 | [La Copa Rota](https://open.spotify.com/track/0RGST5XWJhxHAsUnbbsq3p) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [30 Mejores: Alci Acosta](https://open.spotify.com/album/1NdnBLYZy9ZtgzPbyxdM5E) | 2:56 |
 | 35 | [Bésame Mucho](https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Tesoros De Coleccion](https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk) | 3:00 |
 | 36 | [Dime la Verdad](https://open.spotify.com/track/4DWL15gnQwM9I2VG9vdmXU) | [Iván Cruz](https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L) | [Ya Te Conozco](https://open.spotify.com/album/4RHQFgF2drijGZq5I2v60Z) | 2:56 |
-| 37 | [Anhelo / Sin Un Amor / Sin Ti](https://open.spotify.com/track/0bNY1zYW7KiNCRupeSl0Hq) | [Los Trios](https://open.spotify.com/artist/5XNKquYVKb2I5OwsY5gBQ0) | [Viva El Amor \- 15 Exitos](https://open.spotify.com/album/2LLSxMjSeCFYn5DIH67Q6L) | 5:20 |
-| 38 | [Culebra Venenosa](https://open.spotify.com/track/1VUE1BrpJnp6gAADp3skRD) | [Segundo Rosero](https://open.spotify.com/artist/41EMdaUylPIcdbGdojyr2O) | [Mi Coleccion de Oro, Vol\. 3](https://open.spotify.com/album/2QXAciZq18eq9ywQG0ElBq) | 3:17 |
-| 39 | [Prisionero Del Mar](https://open.spotify.com/track/3KSqeds9xE8rBDt4QEjrLk) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Los Tecolines: Bolero Romantico](https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S) | 3:03 |
-| 40 | [Loca Pasión](https://open.spotify.com/track/2b1gRJ1CUtNN3TGThFo1GJ) | [Los Jaibos](https://open.spotify.com/artist/02zZvwbbma78yTdQ1p2tey) | [Loca Pasión](https://open.spotify.com/album/4WVQo2AHNUJ9L0qUfYosjh) | 2:51 |
+| 37 | [Prisionero Del Mar](https://open.spotify.com/track/3KSqeds9xE8rBDt4QEjrLk) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Los Tecolines: Bolero Romantico](https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S) | 3:03 |
+| 38 | [Anhelo / Sin Un Amor / Sin Ti](https://open.spotify.com/track/0bNY1zYW7KiNCRupeSl0Hq) | [Los Trios](https://open.spotify.com/artist/5XNKquYVKb2I5OwsY5gBQ0) | [Viva El Amor \- 15 Exitos](https://open.spotify.com/album/2LLSxMjSeCFYn5DIH67Q6L) | 5:20 |
+| 39 | [Loca Pasión](https://open.spotify.com/track/2b1gRJ1CUtNN3TGThFo1GJ) | [Los Jaibos](https://open.spotify.com/artist/02zZvwbbma78yTdQ1p2tey) | [Loca Pasión](https://open.spotify.com/album/4WVQo2AHNUJ9L0qUfYosjh) | 2:51 |
+| 40 | [Culebra Venenosa](https://open.spotify.com/track/1VUE1BrpJnp6gAADp3skRD) | [Segundo Rosero](https://open.spotify.com/artist/41EMdaUylPIcdbGdojyr2O) | [Mi Coleccion de Oro, Vol\. 3](https://open.spotify.com/album/2QXAciZq18eq9ywQG0ElBq) | 3:17 |
 | 41 | [Veracruz](https://open.spotify.com/track/5lI6MgAE8NQSw0QfBBAyrH) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav) | 2:11 |
 | 42 | [Quinto patio](https://open.spotify.com/track/1OyMBRnmfDtChpieU8yZGl) | [Emilio Tuero](https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD) | [Antología..\. Emilio Tuero](https://open.spotify.com/album/6sLf66A31WsT3zfrkxmw2g) | 2:55 |
 | 43 | [Contigo \- Tema Remasterizado](https://open.spotify.com/track/6qvpcGNIOMkim3TZqvGhC6) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Leyendas Solamente Los Mejores](https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC) | 2:51 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 68 | [Suspenso Infernal](https://open.spotify.com/track/2HYCn0dxjHowhTpFGPGtm3) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [RCA 100 Años de Música](https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM) | 2:52 |
 | 69 | [Perfume de Gardenias](https://open.spotify.com/track/3Vb2RVcd98LSdUMZwEsBxx) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [Exitos de los Tres Reyes](https://open.spotify.com/album/5Eis1ZpyaTosGqOTYD0drt) | 2:57 |
 | 70 | [La Puerta](https://open.spotify.com/track/7410XFJdR47lachsg3fkth) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Epoca De Oro](https://open.spotify.com/album/2Uq4IXSFhPPopHSaDpD2my) | 2:56 |
-| 71 | [Flor de Azalea](https://open.spotify.com/track/0nOH0n5WdeoCR0mDbyye5x) | [Trio Calaveras](https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs) | [Pedro Infante y Jorge Negrete](https://open.spotify.com/album/3bH1s1EX0DRoKpJBqGI0UX) | 3:25 |
-| 72 | [Delirio](https://open.spotify.com/track/3d4dnAUxWzthwkrWaOSAAx) | [Marco Antonio Muñiz](https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc) | [Mis Éxitos](https://open.spotify.com/album/6f0Chja4OX6KvJLame43xy) | 2:59 |
+| 71 | [Delirio](https://open.spotify.com/track/3d4dnAUxWzthwkrWaOSAAx) | [Marco Antonio Muñiz](https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc) | [Mis Éxitos](https://open.spotify.com/album/6f0Chja4OX6KvJLame43xy) | 2:59 |
+| 72 | [Flor de Azalea](https://open.spotify.com/track/0nOH0n5WdeoCR0mDbyye5x) | [Trio Calaveras](https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs) | [Pedro Infante y Jorge Negrete](https://open.spotify.com/album/3bH1s1EX0DRoKpJBqGI0UX) | 3:25 |
 | 73 | [Fatalidad](https://open.spotify.com/track/4jdT29SdUzR0RassdVuZDp) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Lo Mejor de Julio Jaramillo](https://open.spotify.com/album/0wb8xAJ6F5t8uXa0aDFgnX) | 3:04 |
 | 74 | [Adoro](https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Adoro](https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4) | 2:25 |
 | 75 | [Perla Negra](https://open.spotify.com/track/4z4BKAp6RpZZlNa1QQiYeA) | [Trio Los Soberanos](https://open.spotify.com/artist/1uFnAWXxYgeyQs40Cqn4zn) | [20 Éxitos de los Mejores Tríos de América](https://open.spotify.com/album/3nKVToGPx8VDSdPBUAcfDE) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 99 | [Amar y Querer \- Mariachi Bolero Cover](https://open.spotify.com/track/6mSDnbcXp12MBipY1w1amz) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ) | [Mi Corazón](https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI) | 2:54 |
 | 100 | [Espumas](https://open.spotify.com/track/3nSV1I5ZVv4vI8nU7Kl6zW) | [Yolanda Y Su Trio Perla Negra](https://open.spotify.com/artist/3qTLA5L6rj3bA14H3QQJKG) | [15 Creaciones De Yolanda Y Su Trio Perla Negra \- Versiones Originales](https://open.spotify.com/album/0MVQMThE6fTEOMvpGgWjTe) | 2:33 |
 
-Snapshot ID: `MCxhMWQ0ZWZiYzhhMDA4MmEyZGI2ZjNhMmIyNDVhNWE4MjdkNWFjN2Ez`
+Snapshot ID: `MCw5MDVlNzllNjcyNjJhMjZhZTAzZGQxMmU3MzEyNWRiNjc1ZTU0MGE1`

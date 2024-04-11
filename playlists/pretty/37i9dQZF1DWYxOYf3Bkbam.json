@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 47609,
+  "num_followers": 47631,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzgxOGE4NjEyODIwOGQ1OGRjODY5YWI0MDkxM2JiMjlkMTZlMTUx",
+  "snapshot_id": "MCwzNTRlOGUwMmFiOGFmZjUzYzU0MWU1Y2I1YjFmZmUxY2QyZjUyNmVj",
   "tracks": [
     {
       "added_at": "2024-03-08 03:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Sobredosis De Chamam\u00e9",
-        "url": "https://open.spotify.com/album/3r8FJW4rx2yneJ2TPsH6Qi"
-      },
-      "artists": [
-        {
-          "name": "Ambo\u00e9",
-          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
-        }
-      ],
-      "duration_ms": 160040,
-      "name": "Sobredosis de Chamam\u00e9",
-      "url": "https://open.spotify.com/track/2zUywQYzbipRi3NjjtdIxd"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Coleccion Aniversario",
         "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 120946,
       "name": "Las Tres Marias",
       "url": "https://open.spotify.com/track/2kdfzSsLYAmnMgdMXlRKKN"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Sobredosis De Chamam\u00e9",
+        "url": "https://open.spotify.com/album/3r8FJW4rx2yneJ2TPsH6Qi"
+      },
+      "artists": [
+        {
+          "name": "Ambo\u00e9",
+          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
+        }
+      ],
+      "duration_ms": 160040,
+      "name": "Sobredosis de Chamam\u00e9",
+      "url": "https://open.spotify.com/track/2zUywQYzbipRi3NjjtdIxd"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -283,18 +283,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+        "name": "El Guachito",
+        "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
       },
       "artists": [
         {
-          "name": "Duo Cejas Solis",
-          "url": "https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1"
+          "name": "Los Capos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn"
         }
       ],
-      "duration_ms": 99333,
-      "name": "Laguna Totora",
-      "url": "https://open.spotify.com/track/2PgHMG4GYoLzL3feOhycy0"
+      "duration_ms": 180080,
+      "name": "El Guachito",
+      "url": "https://open.spotify.com/track/2NEF3alDf7uQVHYClZc6EI"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "El Guachito",
-        "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
       "artists": [
         {
-          "name": "Los Capos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn"
+          "name": "Duo Cejas Solis",
+          "url": "https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1"
         }
       ],
-      "duration_ms": 180080,
-      "name": "El Guachito",
-      "url": "https://open.spotify.com/track/2NEF3alDf7uQVHYClZc6EI"
+      "duration_ms": 99333,
+      "name": "Laguna Totora",
+      "url": "https://open.spotify.com/track/2PgHMG4GYoLzL3feOhycy0"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -363,22 +363,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "30 A\u00f1os Despu\u00e9s",
-        "url": "https://open.spotify.com/album/29qdVczira2f72fAfz51fB"
+        "name": "10 A\u00f1os Unidos Por El Chamam\u00e9",
+        "url": "https://open.spotify.com/album/1jUXuKAKPH0aDtT7Z5FRwY"
       },
       "artists": [
         {
-          "name": "Conjunto Ivoti",
-          "url": "https://open.spotify.com/artist/1hwojP1Bi7ipcn0qFbe8tP"
-        },
-        {
-          "name": "J. C. Mansilla",
-          "url": "https://open.spotify.com/artist/2ZiY6mXjKkE7do2nMZ7R6b"
+          "name": "Los Chaque-Che",
+          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
         }
       ],
-      "duration_ms": 177893,
-      "name": "Mi Caballo Bayo",
-      "url": "https://open.spotify.com/track/3iCMhCbsCPA91D1NQDZaNg"
+      "duration_ms": 173480,
+      "name": "Entre Amigos Y Chamam\u00e9",
+      "url": "https://open.spotify.com/track/7L19S0sFnKLPoyygK8LQ0W"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -415,18 +411,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "10 A\u00f1os Unidos Por El Chamam\u00e9",
-        "url": "https://open.spotify.com/album/1jUXuKAKPH0aDtT7Z5FRwY"
+        "name": "30 A\u00f1os Despu\u00e9s",
+        "url": "https://open.spotify.com/album/29qdVczira2f72fAfz51fB"
       },
       "artists": [
         {
-          "name": "Los Chaque-Che",
-          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
+          "name": "Conjunto Ivoti",
+          "url": "https://open.spotify.com/artist/1hwojP1Bi7ipcn0qFbe8tP"
+        },
+        {
+          "name": "J. C. Mansilla",
+          "url": "https://open.spotify.com/artist/2ZiY6mXjKkE7do2nMZ7R6b"
         }
       ],
-      "duration_ms": 173480,
-      "name": "Entre Amigos Y Chamam\u00e9",
-      "url": "https://open.spotify.com/track/7L19S0sFnKLPoyygK8LQ0W"
+      "duration_ms": 177893,
+      "name": "Mi Caballo Bayo",
+      "url": "https://open.spotify.com/track/3iCMhCbsCPA91D1NQDZaNg"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Festejando los 30 A\u00f1os",
-        "url": "https://open.spotify.com/album/55PYfEVMpfUekIwxTfFGQY"
-      },
-      "artists": [
-        {
-          "name": "Los Criollos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/36f2CIEqFhCCBwCe68juJu"
-        }
-      ],
-      "duration_ms": 142320,
-      "name": "Sargento Sapo",
-      "url": "https://open.spotify.com/track/62Jo56vQRQz0z6kydGxzxO"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "El Guachito",
         "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 181493,
       "name": "Ca\u00f1a Doble para Mi Padre",
       "url": "https://open.spotify.com/track/6qZJ0iNA42Lp3KQ8r3Ya1K"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Festejando los 30 A\u00f1os",
+        "url": "https://open.spotify.com/album/55PYfEVMpfUekIwxTfFGQY"
+      },
+      "artists": [
+        {
+          "name": "Los Criollos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/36f2CIEqFhCCBwCe68juJu"
+        }
+      ],
+      "duration_ms": 142320,
+      "name": "Sargento Sapo",
+      "url": "https://open.spotify.com/track/62Jo56vQRQz0z6kydGxzxO"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Los Enganchados del Chamam\u00e9",
-        "url": "https://open.spotify.com/album/4WiLEMQHo7KNDKDKbXO2vK"
-      },
-      "artists": [
-        {
-          "name": "La Barra Chamamecera",
-          "url": "https://open.spotify.com/artist/1hvnr5FFhhQdJkOsHnj75d"
-        }
-      ],
-      "duration_ms": 131613,
-      "name": "Camino a Tres Cruces",
-      "url": "https://open.spotify.com/track/560oE1gGGS7UGrimKO8w2T"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Mano a mano",
         "url": "https://open.spotify.com/album/5qeGWTgeMnjCSa28z2Ki9y"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 144866,
       "name": "Canto al Cresp\u00edn",
       "url": "https://open.spotify.com/track/0EGMfCkZ251JssY5acfmbV"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Los Enganchados del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/4WiLEMQHo7KNDKDKbXO2vK"
+      },
+      "artists": [
+        {
+          "name": "La Barra Chamamecera",
+          "url": "https://open.spotify.com/artist/1hvnr5FFhhQdJkOsHnj75d"
+        }
+      ],
+      "duration_ms": 131613,
+      "name": "Camino a Tres Cruces",
+      "url": "https://open.spotify.com/track/560oE1gGGS7UGrimKO8w2T"
     },
     {
       "added_at": "2024-03-08 03:00:00",

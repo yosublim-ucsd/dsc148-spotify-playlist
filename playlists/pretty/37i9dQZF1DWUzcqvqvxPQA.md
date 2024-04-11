@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Check out these inspired hits to keep your Summer fun and upbeat!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,952 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,953 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 58 | [Follow Me](https://open.spotify.com/track/6O8Q77DLdXZTdciVeU2Aak) | [Shonlock](https://open.spotify.com/artist/0Fs18mA7TFMvYVRNX4dNTt) | [Follow Me](https://open.spotify.com/album/46jicEgCHc3Zxh4TKaRuCN) | 3:48 |
 | 59 | [Not To Us / Good Love](https://open.spotify.com/track/3pR9Qyt791pr6Hf0Cv63Rh) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ), [Anderson Michael](https://open.spotify.com/artist/3Vci8iOFt2wRpNlqRem9hv) | [The Second City](https://open.spotify.com/album/5PQtB12QQQmkTOTxBcaVtR) | 4:05 |
 | 60 | [Inside Out](https://open.spotify.com/track/3hZBRLzeM0u4YKQ9mj7fy7) | [Bonray](https://open.spotify.com/artist/0FR1DkepvHaDMQnmJF4fVg) | [Inside Out](https://open.spotify.com/album/2hgLM7tz6g8wNk3I5SPj8U) | 3:13 |
-| 61 | [Never Far \(House Church\)](https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Never Far \(House Church\)](https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72) | 3:51 |
-| 62 | [THIS MOMENT](https://open.spotify.com/track/1uEUj9f1Rv6Bk420cg0AMS) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [THIS MOMENT](https://open.spotify.com/album/5VXM9tBUk5oboBP6yCJAx9) | 2:56 |
+| 61 | [THIS MOMENT](https://open.spotify.com/track/1uEUj9f1Rv6Bk420cg0AMS) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [THIS MOMENT](https://open.spotify.com/album/5VXM9tBUk5oboBP6yCJAx9) | 2:56 |
+| 62 | [Never Far \(House Church\)](https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Never Far \(House Church\)](https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72) | 3:51 |
 | 63 | [Count That High](https://open.spotify.com/track/3yejM42cofDkyazZoQn8f0) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Future](https://open.spotify.com/album/0u67ZdhmmnjZ0Jxze8ca3b) | 2:59 |
 | 64 | [Confidence](https://open.spotify.com/track/2qoac9iEajoV0V6eJcCvkJ) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Confidence](https://open.spotify.com/album/5arHoem6Gn0ZZEckShyhP6) | 3:01 |
 | 65 | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2) | 3:42 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 93 | [Paid For It](https://open.spotify.com/track/012SkEI8fzg3pKAKNygn5c) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7), [Brianna Catrice](https://open.spotify.com/artist/2zT458SceFHdoOiokYSleQ) | [The Divine Storm](https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe) | 3:01 |
 | 94 | [Light of Your Grace](https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Light of Your Grace](https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD) | 3:09 |
 | 95 | [The One](https://open.spotify.com/track/0YohiWDcWliS7bDrnjlXHp) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6), [Licy\-Be](https://open.spotify.com/artist/7m7GQd520oNXZWZzcYDdVA) | [The One](https://open.spotify.com/album/0gj39YFZRHyyle5Z19z5bx) | 2:44 |
-| 96 | [HAPPY](https://open.spotify.com/track/1bJk8jsglnHtLvUMrOV6qR) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [HAPPY](https://open.spotify.com/album/0kjySvgUUcHW64OxmHPSWj) | 2:04 |
-| 97 | [City Lights \(feat\. Mitch Wong\)](https://open.spotify.com/track/7I88hIH03Z3px9khXQZDob) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [City Lights \(feat\. Mitch Wong\)](https://open.spotify.com/album/1L1lD9JwiIAK06qIG6DSI9) | 3:58 |
+| 96 | [City Lights \(feat\. Mitch Wong\)](https://open.spotify.com/track/7I88hIH03Z3px9khXQZDob) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [City Lights \(feat\. Mitch Wong\)](https://open.spotify.com/album/1L1lD9JwiIAK06qIG6DSI9) | 3:58 |
+| 97 | [HAPPY](https://open.spotify.com/track/1bJk8jsglnHtLvUMrOV6qR) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [HAPPY](https://open.spotify.com/album/0kjySvgUUcHW64OxmHPSWj) | 2:04 |
 | 98 | [Whatever It Takes](https://open.spotify.com/track/7dZSnaAGuBSgi69OWCTQcL) | [Manwell](https://open.spotify.com/artist/3HWMxHfbtrP3H39BnsquW8), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Whatever It Takes](https://open.spotify.com/album/6zSIkly50OdBZGydPYA9JR) | 3:29 |
 | 99 | [Seasons](https://open.spotify.com/track/346A6fJDzFS2YxUXhldt2c) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Seasons](https://open.spotify.com/album/0OFlp2bVcZjixngoIGzwBW) | 4:04 |
 | 100 | [Walking Out](https://open.spotify.com/track/1lATtWlYXnOVL2ofd4hB3m) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9) | [Warren Park](https://open.spotify.com/album/5NbZirwRZH97Q9FooYB2lc) | 2:36 |
 
-Snapshot ID: `MCw1MmVlOTA2YmM0YmZmMDRiNWQ3ZmVmNmNhNzdhMDEzOTU1MDM1MjMz`
+Snapshot ID: `MCwwZTI1N2Y1NjI3NDJkNjA3ZDFlNjk0MDBmYmVhOWEzODEzZWMxNjYz`

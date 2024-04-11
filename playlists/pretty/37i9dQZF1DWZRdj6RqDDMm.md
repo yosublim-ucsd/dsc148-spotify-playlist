@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9?si=5o83aVOURSKr1KHKQczERA">Marizu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,696 likes - 80 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,779 likes - 80 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 2 | [My God](https://open.spotify.com/track/3EpqZOIMNBBbFJDJDw9Oyw) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [Phontera](https://open.spotify.com/artist/71Vn1EeivhPQ4vl4XGOHLm), [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO) | [My God](https://open.spotify.com/album/5hORp9mTcI86b8trPRmaVU) | 2:43 |
 | 3 | [Waiting](https://open.spotify.com/track/3IdBaxcQgISbp1cwc4lKQj) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Waiting](https://open.spotify.com/album/0niIWAYA59wwk1loWGcboC) | 2:22 |
 | 4 | [One Name \(Jesus\) \- Live](https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [One Name \(Jesus\) \[Live\]](https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK) | 9:19 |
-| 5 | [Omemma](https://open.spotify.com/track/3t2o1njvVXz9IojLD1FTqk) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08) | 4:17 |
+| 5 | [Omemma](https://open.spotify.com/track/4YfOEXttugon5YXM3TjJGz) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv) | 4:17 |
 | 6 | [Say](https://open.spotify.com/track/5HXD6yjXXItBmHxXx1cCpc) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Say](https://open.spotify.com/album/2yiQBODM4hCjAlUp4yIJiq) | 2:19 |
 | 7 | [Reason To Pray \- Radio Edit](https://open.spotify.com/track/5pic00RNmLcwBP3RtP3Ejo) | [Senior Oat](https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw), [Ms Abbey](https://open.spotify.com/artist/7gHzNSIQYshJcNiannytJT), [Andriana](https://open.spotify.com/artist/2HXCjA11s25bZq3UTeQqkx), [Mzweshper\_sa](https://open.spotify.com/artist/3VpJTLc9G3D441scflIGbx) | [Reason To Pray \(Radio Edit\)](https://open.spotify.com/album/4ccS3h3lBSIZwYYx8e92Hs) | 5:13 |
 | 8 | [Find Me Here \(Blessings Find Me\)](https://open.spotify.com/track/6lrhr9KAExOwMopLB7WBgV) | [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW) | [Find Me Here \(Blessings Find Me\)](https://open.spotify.com/album/5ebJIqFHHtI9QytYJIs8Cy) | 2:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 79 | [Come](https://open.spotify.com/track/0sqdvdLBjsP1T28PnNVkTb) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [Come](https://open.spotify.com/album/7zoGeEprSXQEAIrHxuMuJo) | 2:44 |
 | 80 | [Doh Doh Doh](https://open.spotify.com/track/2lMZGnSWKU9LxUjO5EThrw) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Ife](https://open.spotify.com/artist/3n5NBohiciKgl7Y8i4AeyK) | [Doh Doh Doh](https://open.spotify.com/album/5rH09ZUv3nstdF2LtbPvvN) | 2:33 |
 
-Snapshot ID: `MCw2MjJiYTgzNzA5MzRkZTFiNjljMjk2Nzc5MzM1ZDc1OTZiNzYzYzE2`
+Snapshot ID: `MCxmNGNlZDVjZDM4OGJiN2Y1ZjZlYzM0NzRiMGY0YzFhNWRhZWRkZWFj`

@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-462 songs - 1 day 0 hr 29 min
+463 songs - 1 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Baby](https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Baby](https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA) | 2:42 | 2023-06-07 |  |
 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 | 2021-12-16 |  |
 | [Baby This Your Body Na Gòbe Fine Fine Sweet Òkpéke](https://open.spotify.com/track/5SyomyWqCVD0UrdEh2IhN9) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [C Natty](https://open.spotify.com/artist/0g4GWaSMj5jwBHltATPXzX), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN) | [One Day You Will Understand](https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC) | 2:49 | 2021-12-16 | 2022-05-17 |
+| [Babylon](https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:57 | 2024-04-10 |  |
 | [Bad](https://open.spotify.com/track/2WrxGpnCvpwiQkcHDDmVXc) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [Bad](https://open.spotify.com/album/63pt4WgsnKd5kJ3O5DBPD6) | 2:30 | 2021-12-16 | 2022-07-29 |
 | [Bad](https://open.spotify.com/track/4p1yzpajuKXwZKBQ7PyH9x) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [Bad](https://open.spotify.com/album/3uCJttNNrmUgW1jVKRHDWv) | 2:30 | 2022-07-28 | 2023-04-07 |
 | [Bad & Wicked \(feat\. Ir Sais & KDDO\)](https://open.spotify.com/track/7FOqaLMa7WYCwFHfZPmgqh) | [TRACKDILLA](https://open.spotify.com/artist/5rq1B097PR2SxsVBVhG9bR), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR) | [Bad & Wicked \(feat\. Ir Sais & KDDO\)](https://open.spotify.com/album/2BAPA4h1cirlhNLDuQYqPY) | 3:29 | 2021-12-16 | 2022-01-11 |
@@ -156,7 +157,7 @@
 | [Flauta](https://open.spotify.com/track/7gb0ExDXKPpCeLQrBswGw5) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Flauta](https://open.spotify.com/album/0i4LVKJavys4CSPpKYxL3g) | 3:09 | 2022-05-25 | 2023-02-20 |
 | [Flex](https://open.spotify.com/track/4Bozf61W7Tv1Vyp18kLZy1) | [Jaskelis](https://open.spotify.com/artist/7IAxIlRjuMYFYTA36axW91) | [Flex](https://open.spotify.com/album/04N20XOzapV3mpffLeigNZ) | 3:19 | 2021-12-16 | 2023-04-07 |
 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-07-28 |  |
-| [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 | 2022-08-25 |  |
+| [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 | 2022-08-25 | 2024-04-11 |
 | [Formula](https://open.spotify.com/track/2mTxSAaSJXEPaSg9Mxmbdd) | [KC](https://open.spotify.com/artist/3STIe3ZmArSpfSUD6lZuCv) | [Formula](https://open.spotify.com/album/5Vf8VhMcMxNgW5QHoI13Xq) | 3:03 | 2022-02-17 | 2022-07-29 |
 | [Fountains \(with Tems\)](https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:12 | 2021-12-16 |  |
 | [Freedom Fighter](https://open.spotify.com/track/4wCkYx8eZZUYXtlbvoQ6h8) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Freedom Fighter](https://open.spotify.com/album/3plbaB4B6t6YlAKXQceTpH) | 4:21 | 2021-12-16 | 2022-02-24 |

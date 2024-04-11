@@ -1,12 +1,12 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 73820,
+  "num_followers": 73833,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmQzOGI2NGYxMTUxMTIxMWE4ZjMyYjNjYzI0MDg4YTAyOWNjM2Q3",
+  "snapshot_id": "MCxhM2FiMTZkMGZhYjkyMzAyMzVkZTEwMmM0YWNjNmU5OTEzMmU0NDc2",
   "tracks": [
     {
       "added_at": "2024-03-27 10:01:53",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-03-27 10:01:53",
       "album": {
-        "name": "Original Nilsen",
-        "url": "https://open.spotify.com/album/60ho1oZFKQpCjkNqQigoSz"
-      },
-      "artists": [
-        {
-          "name": "Lillebj\u00f8rn Nilsen",
-          "url": "https://open.spotify.com/artist/2cEkdzGxcB731g81iUsH6e"
-        }
-      ],
-      "duration_ms": 288078,
-      "name": "God Natt Oslo",
-      "url": "https://open.spotify.com/track/39cEoZCXgx4SFYxnxp3ECu"
-    },
-    {
-      "added_at": "2024-03-27 10:01:53",
-      "album": {
         "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
         "url": "https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 253100,
       "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
       "url": "https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9"
+    },
+    {
+      "added_at": "2024-03-27 10:01:53",
+      "album": {
+        "name": "Original Nilsen",
+        "url": "https://open.spotify.com/album/60ho1oZFKQpCjkNqQigoSz"
+      },
+      "artists": [
+        {
+          "name": "Lillebj\u00f8rn Nilsen",
+          "url": "https://open.spotify.com/artist/2cEkdzGxcB731g81iUsH6e"
+        }
+      ],
+      "duration_ms": 288078,
+      "name": "God Natt Oslo",
+      "url": "https://open.spotify.com/track/39cEoZCXgx4SFYxnxp3ECu"
     },
     {
       "added_at": "2024-03-27 10:01:53",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-03-27 10:01:53",
       "album": {
-        "name": "1988 EP",
-        "url": "https://open.spotify.com/album/74LpfW8LrYQp2PNRHfjgaU"
-      },
-      "artists": [
-        {
-          "name": "Daniel Kvammen",
-          "url": "https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A"
-        }
-      ],
-      "duration_ms": 257906,
-      "name": "Du fortenar ein som meg - klineversjon",
-      "url": "https://open.spotify.com/track/1v4hTCaKOr5qVothIsL9er"
-    },
-    {
-      "added_at": "2024-03-27 10:01:53",
-      "album": {
         "name": "Kr\u00e5keviks Songbok",
         "url": "https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf"
       },
@@ -823,18 +807,18 @@
     {
       "added_at": "2024-03-27 10:01:53",
       "album": {
-        "name": "Flyge Fra",
-        "url": "https://open.spotify.com/album/3MB6vxKquCpTWS0qd3aEX9"
+        "name": "1988 EP",
+        "url": "https://open.spotify.com/album/74LpfW8LrYQp2PNRHfjgaU"
       },
       "artists": [
         {
-          "name": "Frida \u00c5nnevik",
-          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
+          "name": "Daniel Kvammen",
+          "url": "https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A"
         }
       ],
-      "duration_ms": 276333,
-      "name": "Ved Sida Av Deg",
-      "url": "https://open.spotify.com/track/5kebMyBE7ZTMnHZh6RaoSm"
+      "duration_ms": 257906,
+      "name": "Du fortenar ein som meg - klineversjon",
+      "url": "https://open.spotify.com/track/1v4hTCaKOr5qVothIsL9er"
     },
     {
       "added_at": "2024-03-27 10:01:53",
@@ -855,6 +839,22 @@
       "duration_ms": 189239,
       "name": "Evig kvile",
       "url": "https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB"
+    },
+    {
+      "added_at": "2024-03-27 10:01:53",
+      "album": {
+        "name": "Flyge Fra",
+        "url": "https://open.spotify.com/album/3MB6vxKquCpTWS0qd3aEX9"
+      },
+      "artists": [
+        {
+          "name": "Frida \u00c5nnevik",
+          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
+        }
+      ],
+      "duration_ms": 276333,
+      "name": "Ved Sida Av Deg",
+      "url": "https://open.spotify.com/track/5kebMyBE7ZTMnHZh6RaoSm"
     }
   ],
   "unique_name": "Norske viser",

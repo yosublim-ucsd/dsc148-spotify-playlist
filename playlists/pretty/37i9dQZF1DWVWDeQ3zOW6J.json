@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 42837,
+  "num_followers": 42858,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDgyNjU5MTA3NGI4NmU1ODYxZWU3OGE3Y2I4MTliNGFhMGEyZmQx",
+  "snapshot_id": "MCw3OTA1ZmUzZWFlMDNkZTg1YmI2OTViOTgwNmUzZjNiYTZkYzIwZDEx",
   "tracks": [
     {
       "added_at": "2023-02-13 22:55:50",
@@ -27,18 +27,22 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+        "name": "Lo Mato",
+        "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
       },
       "artists": [
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 308693,
-      "name": "Idilio",
-      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
+      "duration_ms": 328786,
+      "name": "El D\u00eda De Mi Suerte",
+      "url": "https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -139,22 +143,18 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Lo Mato",
-        "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
       "artists": [
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 328786,
-      "name": "El D\u00eda De Mi Suerte",
-      "url": "https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ"
+      "duration_ms": 308693,
+      "name": "Idilio",
+      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
+        "name": "Este Negro Si es Sabroso",
+        "url": "https://open.spotify.com/album/4lo8dpD9ro4TeK7KnTYWqe"
+      },
+      "artists": [
+        {
+          "name": "Pete \"El Conde\" Rodriguez",
+          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
+        }
+      ],
+      "duration_ms": 312640,
+      "name": "Catalina La O",
+      "url": "https://open.spotify.com/track/3uOODK5GtGFNda7J8ty4VJ"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
         "name": "A Band And Their Music: Campeones",
         "url": "https://open.spotify.com/album/4qKhAuom2JYxGkVw8fzFbp"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 331720,
       "name": "Qu\u00edtate T\u00fa - Live",
       "url": "https://open.spotify.com/track/1rijHA5veEZDV5CrGLpex6"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
-        "name": "Este Negro Si es Sabroso",
-        "url": "https://open.spotify.com/album/4lo8dpD9ro4TeK7KnTYWqe"
-      },
-      "artists": [
-        {
-          "name": "Pete \"El Conde\" Rodriguez",
-          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
-        }
-      ],
-      "duration_ms": 312640,
-      "name": "Catalina La O",
-      "url": "https://open.spotify.com/track/3uOODK5GtGFNda7J8ty4VJ"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -651,6 +651,26 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
+        "name": "Bambol\u00e9o",
+        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 389560,
+      "name": "Quiero Saber",
+      "url": "https://open.spotify.com/track/4NSE3aImn1LeqIMpNEKwVL"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
         "name": "Aqui Estoy Yo, Vol. 1",
         "url": "https://open.spotify.com/album/00kLg7atNIIaRc63s93Dry"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 290456,
       "name": "Vagabundo",
       "url": "https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
-        "name": "Bambol\u00e9o",
-        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
-      },
-      "artists": [
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 389560,
-      "name": "Quiero Saber",
-      "url": "https://open.spotify.com/track/4NSE3aImn1LeqIMpNEKwVL"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -859,6 +859,26 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
+        "name": "Bohemio y Poeta",
+        "url": "https://open.spotify.com/album/08zXnylrEGWXgMcFI5eBm4"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        }
+      ],
+      "duration_ms": 373560,
+      "name": "Juan Pachanga",
+      "url": "https://open.spotify.com/track/1jUMNoLhnrD3c8iWncVFSr"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
         "name": "Desde Puerto Rico A Nueva York",
         "url": "https://open.spotify.com/album/1vqHcNBGzfBymZFfceTcML"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 312386,
       "name": "Prende El Fog\u00f3n",
       "url": "https://open.spotify.com/track/5o1kiwkFXoJET4FW4pKtlE"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
-        "name": "Bohemio y Poeta",
-        "url": "https://open.spotify.com/album/08zXnylrEGWXgMcFI5eBm4"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        },
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        }
-      ],
-      "duration_ms": 373560,
-      "name": "Juan Pachanga",
-      "url": "https://open.spotify.com/track/1jUMNoLhnrD3c8iWncVFSr"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Apollo Sound 9",
-        "url": "https://open.spotify.com/album/6yivkfOmyn8EP68CYsQ5OT"
-      },
-      "artists": [
-        {
-          "name": "Roberto Roena Y Su Apollo Sound",
-          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
-        }
-      ],
-      "duration_ms": 442622,
-      "name": "Marejada Feliz",
-      "url": "https://open.spotify.com/track/6yntDRxeKQo8eB5cLY9tkm"
-    },
-    {
-      "added_at": "2023-02-13 22:55:50",
-      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/15w229yWe9GblGtWjJC753"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 246720,
       "name": "La Esencia Del Guaguanc\u00f3",
       "url": "https://open.spotify.com/track/09ivtKa1GxucyzH3qFMBOL"
+    },
+    {
+      "added_at": "2023-02-13 22:55:50",
+      "album": {
+        "name": "Apollo Sound 9",
+        "url": "https://open.spotify.com/album/6yivkfOmyn8EP68CYsQ5OT"
+      },
+      "artists": [
+        {
+          "name": "Roberto Roena Y Su Apollo Sound",
+          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
+        }
+      ],
+      "duration_ms": 442622,
+      "name": "Marejada Feliz",
+      "url": "https://open.spotify.com/track/6yntDRxeKQo8eB5cLY9tkm"
     },
     {
       "added_at": "2023-02-13 22:55:50",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Apollo Sound 5",
-        "url": "https://open.spotify.com/album/2wI2dJforjcPADfSye1yhS"
+        "name": "El Maestro",
+        "url": "https://open.spotify.com/album/4rFrbQB32GXz7zs6vPCaTH"
       },
       "artists": [
         {
-          "name": "Roberto Roena Y Su Apollo Sound",
-          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
         }
       ],
-      "duration_ms": 287586,
-      "name": "Cui Cui",
-      "url": "https://open.spotify.com/track/6o221EsS11nmxMMPJRIN4N"
+      "duration_ms": 502920,
+      "name": "El Fais\u00e1n",
+      "url": "https://open.spotify.com/track/3BGiEoReFSNG1gUlYvWiWG"
     },
     {
       "added_at": "2023-02-13 22:55:50",

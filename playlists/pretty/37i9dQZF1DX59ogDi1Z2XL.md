@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Eva Shaw, Haviah Mighty, Friyie
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,264 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,289 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 28 | [Facile](https://open.spotify.com/track/5eBvtV7vtYOOjXWq80YcQ6) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [BOYZ](https://open.spotify.com/album/28AfjnVaDTnKwoBpcolWv0) | 3:01 |
 | 29 | [4th Quarter](https://open.spotify.com/track/3lwxlvXfLP6rrBfbIzedk8) | [PARIS.](https://open.spotify.com/artist/5emuVqKy5SWNqFfvvnCxqE) | [4th Quarter](https://open.spotify.com/album/36p4WkVI7ibTNqOnzph6sy) | 2:32 |
 | 30 | [Khutti](https://open.spotify.com/track/3Jd1yxcUQLdfBJcsxFtYzj) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Khutti](https://open.spotify.com/album/0ISqysl9naGSplhk71vv4Z) | 2:12 |
-| 31 | [Nvm](https://open.spotify.com/track/4OVqoD9exHPI6c1Zt2aVdT) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x), [Tilla](https://open.spotify.com/artist/2WUWGxe2YfvUFk69M3Ri2f) | [Its Me Not You](https://open.spotify.com/album/1bvkLtyYfPl65K9YNUrcH5) | 2:12 |
+| 31 | [Nvm](https://open.spotify.com/track/4OVqoD9exHPI6c1Zt2aVdT) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x), [Tilla](https://open.spotify.com/artist/5ZqsYKUVqwJl0kIdaCzM0Y) | [Its Me Not You](https://open.spotify.com/album/1bvkLtyYfPl65K9YNUrcH5) | 2:12 |
 | 32 | [Only Real](https://open.spotify.com/track/4LWW14lPMoe8EzdlVNquDM) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [Penthouse](https://open.spotify.com/album/7rkyW7jlyubisbtYDA6faY) | 2:35 |
 | 33 | [PRESSURE](https://open.spotify.com/track/47M8dvlkQQcSV7IbjvK31V) | [TARiiiQ](https://open.spotify.com/artist/2ALwFi4e5UaTvVMddicA4g) | [PRESSURE](https://open.spotify.com/album/2T1Fegtgpa1rrve60p4s1Y) | 3:28 |
 | 34 | [Yuck Freestyle](https://open.spotify.com/track/3ghsizSguSJxscu862JKry) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Yuck Freestyle](https://open.spotify.com/album/1KAO2EF40fFZxiURcxg36B) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Coming Back Now](https://open.spotify.com/track/0iVleE93Ri2uTUntiAJR4e) | [Swisha T](https://open.spotify.com/artist/1KNGrimbkpYFO5jKiBSCLZ), [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [Coming Back Now](https://open.spotify.com/album/2vDp6OYV6bJ0ChZK37hQIX) | 3:10 |
 | 100 | [Repeat](https://open.spotify.com/track/5tcC7bQ4fQ6WkvWxT73ZsI) | [Derin Falana](https://open.spotify.com/artist/5yjfk1YZOcpDKqLEgvE9WG) | [Repeat](https://open.spotify.com/album/3km7QoPe665Vk3e4tEu9Jt) | 3:20 |
 
-Snapshot ID: `MCw1Zjk4MjEyN2ZkMDlhNTY5Y2JiMmViNTE2ZTM3YmYwMGJmMjZiNGEz`
+Snapshot ID: `MCxjYzdjMTY3MWQ3MWZlNTgxMjNjNmQ2ZjBlZjhjYzcwYTE3ZTExNWU1`

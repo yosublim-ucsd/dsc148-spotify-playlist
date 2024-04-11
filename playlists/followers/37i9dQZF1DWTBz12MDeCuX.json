@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 462780,
+  "2024-04-11": 462901,
   "date_first_scraped": "2022-06-10",
   "description": "Die Playlist, die dich f\u00fchlt. Cover: Artemas",
   "name": "me right now",
@@ -22592,6 +22592,24 @@
     },
     {
       "album": {
+        "name": "Wird schon irgendwie gehen",
+        "url": "https://open.spotify.com/album/6rPH0earhgbVZgLqbuW5Ky"
+      },
+      "artists": [
+        {
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178721,
+      "name": "Oft gefragt",
+      "url": "https://open.spotify.com/track/6J07Aeq7fOW5Xx9mFtwyoH"
+    },
+    {
+      "album": {
         "name": "Oh Babe!",
         "url": "https://open.spotify.com/album/6NtQF9MfErIx60RNd4GPeo"
       },
@@ -26511,7 +26529,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 116071,
       "name": "schwarzer toyota",
       "url": "https://open.spotify.com/track/6zV5WGrUYlR2i4AiaKfrKN"
@@ -30991,6 +31009,24 @@
       "duration_ms": 203894,
       "name": "TOO MUCH",
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
+    },
+    {
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
     },
     {
       "album": {

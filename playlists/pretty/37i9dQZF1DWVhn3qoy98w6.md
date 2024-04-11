@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: Caramelo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,152 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,173 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 79 | [como puedo mentir si me preguntan si aun te recuerdo](https://open.spotify.com/track/1rFBeVyWPfqc2OPAws9QsJ) | [Bautista](https://open.spotify.com/artist/7uioiA7kBF425UCAdkgPXB) | [como puedo mentir si me preguntan si aun te recuerdo](https://open.spotify.com/album/1J2qMUTzItxhQOnxVaQZ3k) | 3:12 |
 | 80 | [ASI DE FACIL](https://open.spotify.com/track/77jiydrkbehbCmKOSuApEU) | [ROTO AMOR](https://open.spotify.com/artist/0nrQroiL0jNHCamuNQGnGh) | [ASI DE FACIL](https://open.spotify.com/album/5L3AfAfrJoCJh78MFbhOOL) | 2:55 |
 
-Snapshot ID: `MCw0MDViYmU5NWJkZWM1NWNlMDY5YzdhYTkwOTdhMDVhMmZiMGE3MjQ5`
+Snapshot ID: `MCwwNzcwNGJhZjRlNDc1NTI5ZGQxYmE1Y2E0OGJjNjgzMmYwMTU1OGYw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 
 > This is Kenny G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,576 likes - 47 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,622 likes - 47 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,18 +42,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 32 | [The Joy of Life](https://open.spotify.com/track/5s5w2DYXBWAL1lX7KTCJY2) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 4:20 |
 | 33 | [You Send Me \(with Michael Bolton\)](https://open.spotify.com/track/6qB2W0DcQo2kLyqw2JUo5k) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 4:04 |
 | 34 | [The Champion's Theme](https://open.spotify.com/track/6ZlnnjYGa9xsucij2hV5f7) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Songbird: The Best Of Kenny G](https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06) | 4:19 |
-| 35 | [I'm in the Mood for Love](https://open.spotify.com/track/64wNfDYFufvc9pZqqLPMWW) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 4:02 |
-| 36 | [Always](https://open.spotify.com/track/28I4YkpPX5MdkgMy9tYm4C) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 5:34 |
+| 35 | [Always](https://open.spotify.com/track/28I4YkpPX5MdkgMy9tYm4C) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 5:34 |
+| 36 | [I'm in the Mood for Love](https://open.spotify.com/track/64wNfDYFufvc9pZqqLPMWW) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 4:02 |
 | 37 | [Use This Gospel](https://open.spotify.com/track/0oPOuDmmkVp3h6puekhs6P) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 3:33 |
 | 38 | [Jasmine Flower](https://open.spotify.com/track/1bbT0SzSrKuDIfH5SU6w2U) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Ultimate Kenny G](https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P) | 4:36 |
-| 39 | [Paradise](https://open.spotify.com/track/7vK5XIuj2sglBRFFN4KR43) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Paradise](https://open.spotify.com/album/1JeUDgG8kEdUUlqa6Omgsr) | 4:14 |
-| 40 | [Innocence](https://open.spotify.com/track/5zW8p9nOndsKZnhes6PJtM) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 3:58 |
+| 39 | [Innocence](https://open.spotify.com/track/5zW8p9nOndsKZnhes6PJtM) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 3:58 |
+| 40 | [Paradise](https://open.spotify.com/track/7vK5XIuj2sglBRFFN4KR43) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Paradise](https://open.spotify.com/album/1JeUDgG8kEdUUlqa6Omgsr) | 4:14 |
 | 41 | [Heart And Soul \- Live](https://open.spotify.com/track/5W41nRwHlIvLwRnYiHMGDp) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Brazilian Nights \(Deluxe Edition\)](https://open.spotify.com/album/4vYG7FNb19Ug5eiqLFZKwS) | 4:41 |
 | 42 | [The Look Of Love](https://open.spotify.com/track/3k9Yi9FsAUrpOVTgyQOIDa) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Ultimate Kenny G](https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P) | 5:15 |
-| 43 | [The Girl from Ipanema \(feat\. Bebel Gilberto\)](https://open.spotify.com/track/0UEGw7vWxDoF1TykX88qeQ) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Bebel Gilberto](https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz) | [Classics In The Key Of G](https://open.spotify.com/album/6z3utjo3iGofLUnxWL9zXh) | 4:05 |
-| 44 | [That Somebody Was You \(with Toni Braxton\)](https://open.spotify.com/track/3xLKkJUafOtel0oe25XABQ) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 5:02 |
+| 43 | [That Somebody Was You \(with Toni Braxton\)](https://open.spotify.com/track/3xLKkJUafOtel0oe25XABQ) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 5:02 |
+| 44 | [The Girl from Ipanema \(feat\. Bebel Gilberto\)](https://open.spotify.com/track/0UEGw7vWxDoF1TykX88qeQ) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Bebel Gilberto](https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz) | [Classics In The Key Of G](https://open.spotify.com/album/6z3utjo3iGofLUnxWL9zXh) | 4:05 |
 | 45 | [Bossa Antigua](https://open.spotify.com/track/1q4S6jIILSpd6Ws7wP35fk) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Brazilian Nights \(Deluxe Edition\)](https://open.spotify.com/album/4vYG7FNb19Ug5eiqLFZKwS) | 3:48 |
 | 46 | [Don't Know Why \(feat\. David Benoit\)](https://open.spotify.com/track/6OYTX5S8bqRA7CeUtpzBR5) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [David Benoit](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) | [At Last...The Duets Album](https://open.spotify.com/album/4XyegEYaF8gFxDI4OB3T4W) | 4:32 |
 | 47 | [One More Time \(feat\. Chante Moore\)](https://open.spotify.com/track/3jWIQKsrPtAxQEWJ0V89xR) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo) | [Ultimate Kenny G](https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P) | 4:01 |
 
-Snapshot ID: `MCxkMmJmOTVkYjU4ZjY0NDIxY2RjMTBjY2QzZDdlYWRlMGExYTdjMjI0`
+Snapshot ID: `MCw2OWRmMWJiYzFiNWI2MjQxMzI4ZjIwM2IzNGIxZWQ5NTQ1MjE5Yjdk`

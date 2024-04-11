@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Prok & C.R.O.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,460 likes - 99 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,574 likes - 99 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 17 | [No Cap \- A COLORS SHOW](https://open.spotify.com/track/1h8rqVZnl80iJzZCMeCc8G) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [No Cap \- A COLORS SHOW](https://open.spotify.com/album/0n54S0AXVz8kQkYL06hQiN) | 2:10 |
 | 18 | [CANGURO](https://open.spotify.com/track/4wyNKAZe82BNlp2lHiR1FX) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CANGURO](https://open.spotify.com/album/7EFoBWXYfQ6QmA5wsxjl4s) | 3:16 |
 | 19 | [CUBA \(Buena y Mala\)](https://open.spotify.com/track/0Rbq0Jn9pTS5IPGys1iUtT) | [Akim 88](https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp) | [CUBA \(Buena y Mala\)](https://open.spotify.com/album/6mhvACsPdVYmb2rrGcwYBr) | 1:48 |
-| 20 | [Clandestino](https://open.spotify.com/track/0fMcU9JmcBeWVMzqbE7PU8) | [Brapis](https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L) | [Clandestino](https://open.spotify.com/album/4znDf5sa8TygYv4Ypabebx) | 2:46 |
+| 20 | [Clandestino](https://open.spotify.com/track/0fMcU9JmcBeWVMzqbE7PU8) | [Brapis](https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L), [Sebastián Peralta](https://open.spotify.com/artist/7fWhk7L57o8lKa8KxI8Beq) | [Clandestino](https://open.spotify.com/album/4znDf5sa8TygYv4Ypabebx) | 2:46 |
 | 21 | [Me Gusta Lo Simple](https://open.spotify.com/track/3VJSv1RoYiCY4ECGyDO7ry) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Súper Sangre Joven](https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt) | 3:16 |
 | 22 | [FUCK EL POLICE](https://open.spotify.com/track/1iEv1uCSDTN7YotFX4iHB9) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 2:37 |
 | 23 | [Ahora Corren](https://open.spotify.com/track/0frbDonZlnjEaxKnPKclb3) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm), [Chulu](https://open.spotify.com/artist/1VAc90Avnm4J5j2cYu5RVB) | [Inmortales](https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV) | 4:07 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 98 | [Fumando Menos](https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Fumando Menos](https://open.spotify.com/album/0Wk5E3svT8yYLBt8ApetaP) | 3:07 |
 | 99 | [Hit o Nada](https://open.spotify.com/track/0RhHMAEz7deE5XWchekeF7) | [Brapis](https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L), [Golden Boyz](https://open.spotify.com/artist/4aTlzwTjIzgWcMMdbBVuzj) | [Hit o Nada](https://open.spotify.com/album/4naMd25cltzLfoLeoCjKLY) | 4:53 |
 
-Snapshot ID: `MCwxZTJkZjFkYzk5ZTE4ZWQxMmEzZWJiMDY4YjgzZjFlZWQ4MzdkMTdj`
+Snapshot ID: `MCwyN2ZjMzg5NWE5NzdkNjNlNThkZjgyNDdmOTc4ZWU2M2M2NGQwN2U2`

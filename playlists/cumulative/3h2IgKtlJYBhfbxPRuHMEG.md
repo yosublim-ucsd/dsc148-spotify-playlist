@@ -4,7 +4,7 @@
 
 > The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Nia Archives
 
-115 songs - 6 hr 33 min
+116 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Trigga](https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb), [Takura](https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ) | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF) | 2:57 | 2023-12-01 |  |
 | [Before We Go Down](https://open.spotify.com/track/7LSg7qrUGRNxSsJ8GlIkg4) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Before We Go Down](https://open.spotify.com/album/0FV6oEJVkyEZfJPyIs3bUc) | 3:57 | 2023-12-01 |  |
 | [Berserker](https://open.spotify.com/track/2wc52WYNVpZTpNkZuGIYyN) | [Emalkay](https://open.spotify.com/artist/1P6WOOkGjqDnfIitbKYb9w), [The Others](https://open.spotify.com/artist/0HUAf6rGiD9cMQOMYzYuaL), [Subscape](https://open.spotify.com/artist/1hsDuQAI5ewVmflUTVTVtS) | [Berserker](https://open.spotify.com/album/4iUOTUxfPrPr1bZ6huAUlX) | 4:28 | 2023-12-01 |  |
+| [Big Bang \(with Crankdat\)](https://open.spotify.com/track/6xkBy4dXb6LxQQ3OuuK2xv) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Big Bang \(with Crankdat\)](https://open.spotify.com/album/2DpZjtwH8GG964mwPfVHQ7) | 3:59 | 2024-04-10 |  |
 | [Big Bank](https://open.spotify.com/track/4VcoVWo2v3pkhbIqYjgFKf) | [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX), [Young Buck](https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q) | [Big Bank](https://open.spotify.com/album/3eKVvNq7xAol0SwHS5GX9m) | 2:30 | 2023-12-01 |  |
 | [Black Ice](https://open.spotify.com/track/1oacAKa5ReNOfuqaJ1gdBJ) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Black Ice](https://open.spotify.com/album/24bVVflh1w44yZSCZBtMME) | 4:20 | 2024-01-12 |  |
 | [Bloodhound](https://open.spotify.com/track/3w6XYpRbMJZ5Lcu65ujgoa) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Bloodhound](https://open.spotify.com/album/6VxXFL6MApAg3l46KxMeH1) | 3:00 | 2023-12-01 |  |

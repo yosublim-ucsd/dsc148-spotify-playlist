@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWY5YjMwYWM1NTljOWM4N2FiZjVlMjI1M2M3NzcxMGZmMWU5YTk3",
+  "snapshot_id": "MCwzYTZlZGQwMjg2MTBiZWM2YTFjMGVjMGNmMTM1ZGFlOGZjZThjNDI4",
   "tracks": [
     {
       "added_at": "2024-03-28 01:35:59",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
+        "name": "Pochi y Su Cocoband",
+        "url": "https://open.spotify.com/album/1c33wKqcyVscGFJpY5jGPL"
+      },
+      "artists": [
+        {
+          "name": "Pochy Y Su Cocoband",
+          "url": "https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "La Faldita",
+      "url": "https://open.spotify.com/track/5Bwhfe4IxT0galIMg5H1tr"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
         "name": "En Accion!",
         "url": "https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 295933,
       "name": "Un Hombre Busca Una Mujer",
       "url": "https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
-        "name": "Pochi y Su Cocoband",
-        "url": "https://open.spotify.com/album/1c33wKqcyVscGFJpY5jGPL"
-      },
-      "artists": [
-        {
-          "name": "Pochy Y Su Cocoband",
-          "url": "https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "La Faldita",
-      "url": "https://open.spotify.com/track/5Bwhfe4IxT0galIMg5H1tr"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Lo Mejor De To\u00f1o Rosario",
-        "url": "https://open.spotify.com/album/6M9B9lMQrR8e6RKBARRAEp"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
-        }
-      ],
-      "duration_ms": 272653,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/4Vn7MXHMq3qXY3kAfUttc8"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
         "name": "El Ombliguito",
         "url": "https://open.spotify.com/album/0vHcfstrEdO2FG1svbiyM3"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 238800,
       "name": "El Ombliguito - Merengue Version",
       "url": "https://open.spotify.com/track/6oCdQgeMtkYYaT2IZZKMf7"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
+        "name": "Lo Mejor De To\u00f1o Rosario",
+        "url": "https://open.spotify.com/album/6M9B9lMQrR8e6RKBARRAEp"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+        }
+      ],
+      "duration_ms": 272653,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/4Vn7MXHMq3qXY3kAfUttc8"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Siempre Yo",
-        "url": "https://open.spotify.com/album/3ZO68h9osfe7RruzO0bhJG"
+        "name": "Exitos Inolvidables de Benny Sadel",
+        "url": "https://open.spotify.com/album/0Lj9QPARe6Fr2vJZqmYUq2"
       },
       "artists": [
         {
-          "name": "Monchy Capricho",
-          "url": "https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua"
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
         }
       ],
-      "duration_ms": 192932,
-      "name": "Siervo de Amor",
-      "url": "https://open.spotify.com/track/5ylSx7NURdp7559JuEfopl"
+      "duration_ms": 218000,
+      "name": "Yo Soy Asi",
+      "url": "https://open.spotify.com/track/7hgNJBaN3BmxMIGtVHoBvm"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -983,18 +983,18 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Exitos Inolvidables de Benny Sadel",
-        "url": "https://open.spotify.com/album/0Lj9QPARe6Fr2vJZqmYUq2"
+        "name": "Siempre Yo",
+        "url": "https://open.spotify.com/album/3ZO68h9osfe7RruzO0bhJG"
       },
       "artists": [
         {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+          "name": "Monchy Capricho",
+          "url": "https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Yo Soy Asi",
-      "url": "https://open.spotify.com/track/7hgNJBaN3BmxMIGtVHoBvm"
+      "duration_ms": 192932,
+      "name": "Siervo de Amor",
+      "url": "https://open.spotify.com/track/5ylSx7NURdp7559JuEfopl"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Queriendote y Adorandote!",
-        "url": "https://open.spotify.com/album/4j2o2tw7SJNJDIMJzejwLW"
+        "name": "Exitos De Los Cantantes De Ramon Orlando",
+        "url": "https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18"
       },
       "artists": [
         {
-          "name": "Charlie Rodriguez",
-          "url": "https://open.spotify.com/artist/2HMIrqrn0is623MduW9coi"
+          "name": "Los Cantantes De Ramon Orlando",
+          "url": "https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK"
         }
       ],
-      "duration_ms": 268985,
-      "name": "Los Dise\u00f1adores",
-      "url": "https://open.spotify.com/track/4M3lLVVdXVA6DCn4Ywt71C"
+      "duration_ms": 283800,
+      "name": "Es Lo Que Pide...",
+      "url": "https://open.spotify.com/track/4jaU9paYfr39pw8lqozNfW"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Exitos De Los Cantantes De Ramon Orlando",
-        "url": "https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18"
+        "name": "Queriendote y Adorandote!",
+        "url": "https://open.spotify.com/album/4j2o2tw7SJNJDIMJzejwLW"
       },
       "artists": [
         {
-          "name": "Los Cantantes De Ramon Orlando",
-          "url": "https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK"
+          "name": "Charlie Rodriguez",
+          "url": "https://open.spotify.com/artist/2HMIrqrn0is623MduW9coi"
         }
       ],
-      "duration_ms": 283800,
-      "name": "Es Lo Que Pide...",
-      "url": "https://open.spotify.com/track/4jaU9paYfr39pw8lqozNfW"
+      "duration_ms": 268985,
+      "name": "Los Dise\u00f1adores",
+      "url": "https://open.spotify.com/track/4M3lLVVdXVA6DCn4Ywt71C"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Exitos De Los Cantantes De Ramon Orlando",
-        "url": "https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18"
-      },
-      "artists": [
-        {
-          "name": "Los Cantantes De Ramon Orlando",
-          "url": "https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK"
-        }
-      ],
-      "duration_ms": 244480,
-      "name": "Como Tu",
-      "url": "https://open.spotify.com/track/7c2amBoetVl3MdPuVbnIZO"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
         "name": "La Gozadera",
         "url": "https://open.spotify.com/album/7q1Je0pbosmOx0cQq2ubKK"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 245420,
       "name": "Cuando Me Enamora",
       "url": "https://open.spotify.com/track/1aZJr8j1ohkai58pEAImxA"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
+        "name": "Exitos De Los Cantantes De Ramon Orlando",
+        "url": "https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18"
+      },
+      "artists": [
+        {
+          "name": "Los Cantantes De Ramon Orlando",
+          "url": "https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK"
+        }
+      ],
+      "duration_ms": 244480,
+      "name": "Como Tu",
+      "url": "https://open.spotify.com/track/7c2amBoetVl3MdPuVbnIZO"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -2207,18 +2207,18 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Ineditos",
-        "url": "https://open.spotify.com/album/4KgURbQPHQi1qOn2tY9Ra1"
+        "name": "Merengues Clasicos Hit",
+        "url": "https://open.spotify.com/album/6GIRcvaohM4ivHgG9ybdvB"
       },
       "artists": [
         {
-          "name": "Monchy Capricho",
-          "url": "https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua"
+          "name": "Jochy Hernandez",
+          "url": "https://open.spotify.com/artist/3WDEmWVINk7sTXoUkCj231"
         }
       ],
-      "duration_ms": 289957,
-      "name": "Tu Eres Mi Hembra",
-      "url": "https://open.spotify.com/track/4eHIBgC7bpDHt5FEX9VusR"
+      "duration_ms": 272324,
+      "name": "Por Que Hemos Cambiado",
+      "url": "https://open.spotify.com/track/6842NuQSyOymfndMDbGeSw"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -2239,34 +2239,34 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Merengues Clasicos Hit",
-        "url": "https://open.spotify.com/album/6GIRcvaohM4ivHgG9ybdvB"
+        "name": "Merengues Cl\u00e1sicos de los 80\u00b4s, Vol. 3",
+        "url": "https://open.spotify.com/album/7g6Kdd3Hh8SUmEhAtlbbPv"
       },
       "artists": [
         {
-          "name": "Jochy Hernandez",
-          "url": "https://open.spotify.com/artist/3WDEmWVINk7sTXoUkCj231"
+          "name": "Los Reyes Del Caribe",
+          "url": "https://open.spotify.com/artist/52xfmIPS4Adi3h7AhRNMSe"
         }
       ],
-      "duration_ms": 272324,
-      "name": "Por Que Hemos Cambiado",
-      "url": "https://open.spotify.com/track/6842NuQSyOymfndMDbGeSw"
+      "duration_ms": 230876,
+      "name": "Peluche",
+      "url": "https://open.spotify.com/track/2xsAJtfqVdSnqAhwq0141f"
     },
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Con Mucho Swing",
-        "url": "https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV"
+        "name": "Ineditos",
+        "url": "https://open.spotify.com/album/4KgURbQPHQi1qOn2tY9Ra1"
       },
       "artists": [
         {
-          "name": "Rubby P\u00e9rez",
-          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
+          "name": "Monchy Capricho",
+          "url": "https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua"
         }
       ],
-      "duration_ms": 313808,
-      "name": "Cobarde Cobarde",
-      "url": "https://open.spotify.com/track/03h1JG4Xj6anvmqhiBaiXg"
+      "duration_ms": 289957,
+      "name": "Tu Eres Mi Hembra",
+      "url": "https://open.spotify.com/track/4eHIBgC7bpDHt5FEX9VusR"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -2303,18 +2303,18 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Ineditos",
-        "url": "https://open.spotify.com/album/4KgURbQPHQi1qOn2tY9Ra1"
+        "name": "Con Mucho Swing",
+        "url": "https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV"
       },
       "artists": [
         {
-          "name": "Monchy Capricho",
-          "url": "https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua"
+          "name": "Rubby P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
         }
       ],
-      "duration_ms": 294607,
-      "name": "Adolescente Tu",
-      "url": "https://open.spotify.com/track/4SYDVdaVe7JoGP9eh1wewN"
+      "duration_ms": 313808,
+      "name": "Cobarde Cobarde",
+      "url": "https://open.spotify.com/track/03h1JG4Xj6anvmqhiBaiXg"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -2347,22 +2347,6 @@
       "duration_ms": 198826,
       "name": "El Negrito Del Batey",
       "url": "https://open.spotify.com/track/7fzn2U8JQoRzMvnqpdOh1T"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
-        "name": "Merengues Cl\u00e1sicos de los 80\u00b4s, Vol. 3",
-        "url": "https://open.spotify.com/album/7g6Kdd3Hh8SUmEhAtlbbPv"
-      },
-      "artists": [
-        {
-          "name": "Los Reyes Del Caribe",
-          "url": "https://open.spotify.com/artist/52xfmIPS4Adi3h7AhRNMSe"
-        }
-      ],
-      "duration_ms": 230876,
-      "name": "Peluche",
-      "url": "https://open.spotify.com/track/2xsAJtfqVdSnqAhwq0141f"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -2415,22 +2399,6 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Merengues Cl\u00e1sicos de los 80\u00b4s, Vol. 3",
-        "url": "https://open.spotify.com/album/0ZtKfpi3mUYi1T2n8SMoh5"
-      },
-      "artists": [
-        {
-          "name": "Monchy Capricho",
-          "url": "https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua"
-        }
-      ],
-      "duration_ms": 220030,
-      "name": "Nuestro Amor",
-      "url": "https://open.spotify.com/track/4sEqK8SeihEwDySmsf2Zed"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
         "name": "Merengon",
         "url": "https://open.spotify.com/album/2tYiN3NWPLJ3rYRhIZfyka"
       },
@@ -2447,6 +2415,22 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
+        "name": "Ineditos",
+        "url": "https://open.spotify.com/album/4KgURbQPHQi1qOn2tY9Ra1"
+      },
+      "artists": [
+        {
+          "name": "Monchy Capricho",
+          "url": "https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua"
+        }
+      ],
+      "duration_ms": 294607,
+      "name": "Adolescente Tu",
+      "url": "https://open.spotify.com/track/4SYDVdaVe7JoGP9eh1wewN"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
         "name": "Enfrentando la Vida",
         "url": "https://open.spotify.com/album/4wBDIcVwfSXfAMWuSX8Qwc"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 317490,
       "name": "De Que Manera Te Olvido",
       "url": "https://open.spotify.com/track/4rW9g43B7spMkANX9ydJRB"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/22Vw3nBWbkB7i45HAbsvya"
+      },
+      "artists": [
+        {
+          "name": "Jerry Legrand",
+          "url": "https://open.spotify.com/artist/1vyqQqgMTDy9MNbtcMToQe"
+        }
+      ],
+      "duration_ms": 268104,
+      "name": "Todo Me Gusta de Ti",
+      "url": "https://open.spotify.com/track/09Wgcneih4GUzxHaiHVDm6"
     }
   ],
   "unique_name": "Merengue Cl\u00e1sico",

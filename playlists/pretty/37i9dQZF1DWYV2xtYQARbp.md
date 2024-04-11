@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 
 > That fuzzy, noisy punk\-blues hybrid
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,030 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,035 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 7 | [Davy Crockett](https://open.spotify.com/track/31YjnyR8BJphQKK33Rm1wD) | [Thee Headcoats](https://open.spotify.com/artist/69C0pRNo5qCmYlKS9Lctfe) | [Archive From 1959 \- The Billy Childish Story](https://open.spotify.com/album/3rdtnzccCDiymdgpMXYfrb) | 2:55 |
 | 8 | [I Can't Hardly Stand It](https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:43 |
 | 9 | [Calvin](https://open.spotify.com/track/5ytqlD1Nwaf1dxvPDUKQeA) | [The Jon Spencer Blues Explosion](https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG) | [Acme](https://open.spotify.com/album/48ntDGYHTJIyCtCB6znUQq) | 3:02 |
-| 10 | [Release The Bats](https://open.spotify.com/track/2CVsEpXpqU8ZEafa5SzIGI) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Junkyard](https://open.spotify.com/album/7dnXe2EVoWKwGGGRLnoieV) | 2:31 |
-| 11 | [Commit a Crime](https://open.spotify.com/track/2rmPVmO9hOrLi8dBNd5MEQ) | [Mr\. Airplane Man](https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP) | [Moanin'](https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7) | 3:30 |
+| 10 | [Commit a Crime](https://open.spotify.com/track/2rmPVmO9hOrLi8dBNd5MEQ) | [Mr\. Airplane Man](https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP) | [Moanin'](https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7) | 3:30 |
+| 11 | [Release The Bats](https://open.spotify.com/track/2CVsEpXpqU8ZEafa5SzIGI) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Junkyard](https://open.spotify.com/album/7dnXe2EVoWKwGGGRLnoieV) | 2:31 |
 | 12 | [Crackalacka](https://open.spotify.com/track/6cxujOKEfegpNfIhb7Ma6v) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [All You Can Eat!!](https://open.spotify.com/album/6PEL9tRZqgzzxq3RmpOm9O) | 3:57 |
 | 13 | [The Way I Walk](https://open.spotify.com/track/6dyku3NZZukkS8yhzWG9TU) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:40 |
 | 14 | [Too Much Sorrow](https://open.spotify.com/track/1PlgZAWgT8D9pgFDHYZRzI) | [The Greenhornes](https://open.spotify.com/artist/7sPZakwiHQUWkG1teFE8zv) | [Dual Mono](https://open.spotify.com/album/4NrdlpNTAeRwF5SrarP2vk) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 49 | [Hanky\-Joe Digger](https://open.spotify.com/track/1Sv7geImcYAkQw8MQVB3G4) | [Speedball Baby](https://open.spotify.com/artist/4oRzJXOEO1MDXDes16geFA) | [The Blackout](https://open.spotify.com/album/5w0QE2P3y8PAMAEG9NMgfE) | 2:06 |
 | 50 | [Preaching the Blues](https://open.spotify.com/track/4qZrZqBRq0tAKJ3wE3Az3A) | [The Gun Club](https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn) | [Fire of Love](https://open.spotify.com/album/3OrGW7wRB8dIZ8EYrAkkWW) | 3:59 |
 
-Snapshot ID: `MCxhYWUxMmU0OTNlMTdiMjNiNWNhZWUwMGViMTRhN2MyMWNmY2Q5MTk0`
+Snapshot ID: `MCxjZDJkYzMwN2JhNjcxOTRlOGRkMjlmZjEzMzdmNzFiNDZkNzJjZjI5`

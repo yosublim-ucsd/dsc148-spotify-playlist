@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 35172,
+  "num_followers": 35207,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGU2YTkyMzkwNzEyZjMyZGI2MTBmYjI0YzYwN2E2ODRjZDQ5NTA0",
+  "snapshot_id": "MCw5OWZkNWY4MzIyYTdjYzQyMTNhYzE1OWQzM2Q4ODQxOTc3OThlMTk1",
   "tracks": [
     {
       "added_at": "2023-09-15 11:43:10",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
+        "name": "That's All Right (When the Sun Goes Down series)",
+        "url": "https://open.spotify.com/album/2Q9GxfO9hi6egkygYvdAX3"
+      },
+      "artists": [
+        {
+          "name": "Piano Red",
+          "url": "https://open.spotify.com/artist/49vobYCMWUndxJNbtewRsx"
+        }
+      ],
+      "duration_ms": 150613,
+      "name": "Rockin' with Red - Remastered 2002",
+      "url": "https://open.spotify.com/track/3mowmsy7MT5qN2OQhHlRRp"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
         "name": "Good Candy",
         "url": "https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 152000,
       "name": "Pocketful Of Money",
       "url": "https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
-        "name": "That's All Right (When the Sun Goes Down series)",
-        "url": "https://open.spotify.com/album/2Q9GxfO9hi6egkygYvdAX3"
-      },
-      "artists": [
-        {
-          "name": "Piano Red",
-          "url": "https://open.spotify.com/artist/49vobYCMWUndxJNbtewRsx"
-        }
-      ],
-      "duration_ms": 150613,
-      "name": "Rockin' with Red - Remastered 2002",
-      "url": "https://open.spotify.com/track/3mowmsy7MT5qN2OQhHlRRp"
     },
     {
       "added_at": "2023-09-15 11:43:10",

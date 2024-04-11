@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,090 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 35 | [Born To Love You \- 2020 Remix](https://open.spotify.com/track/5qJo1Tflqbi1XHj76W3rJZ) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Keicy](https://open.spotify.com/artist/5Xg53515cZvxy46kVXf1vW), [BEN](https://open.spotify.com/artist/4FR3mobLORBTuXIxGJTkFW), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [We Can](https://open.spotify.com/album/1woz3iK06NUsrX18WrhgpC) | 3:40 |
 | 36 | [Tick Talk](https://open.spotify.com/track/363p4oaCiyyPKWOkouJwYK) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81), [DJ LITO](https://open.spotify.com/artist/5RCEUVWtUJd79uYpz4buHT), [Sheilah Gashumba](https://open.spotify.com/artist/5f5GUoXpzjXpjrkBeMg3H2), [Slick Stuart & DJ Roja](https://open.spotify.com/artist/7ySGRkXppoKtu2fI3H3NVb) | [Tick Talk](https://open.spotify.com/album/2XwaGscvD5onaAsMxOkrvT) | 3:40 |
 | 37 | [Hot Like Dat](https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0) | [Beenie Gunter](https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE), [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [Hot Like Dat](https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj) | 2:46 |
-| 38 | [Pull Up On Mi Bumpa](https://open.spotify.com/track/6yephdkcHXCve6irrcrQMp) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv), [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK) | [Pull Up On Mi Bumpa](https://open.spotify.com/album/7rD99RB3gdmvDFzRVs2cWc) | 3:47 |
-| 39 | [Offline](https://open.spotify.com/track/1RG1d70HrUzbGljyF2wjlI) | [Riff](https://open.spotify.com/artist/2T29CQjXjyp2RAEXUVz6Qh) | [Offline](https://open.spotify.com/album/4BtgtXxG8BujT1B8qVZNRL) | 2:43 |
+| 38 | [Offline](https://open.spotify.com/track/1RG1d70HrUzbGljyF2wjlI) | [Riff](https://open.spotify.com/artist/2T29CQjXjyp2RAEXUVz6Qh) | [Offline](https://open.spotify.com/album/4BtgtXxG8BujT1B8qVZNRL) | 2:43 |
+| 39 | [Pull Up On Mi Bumpa](https://open.spotify.com/track/6yephdkcHXCve6irrcrQMp) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv), [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK) | [Pull Up On Mi Bumpa](https://open.spotify.com/album/7rD99RB3gdmvDFzRVs2cWc) | 3:47 |
 | 40 | [Be humble](https://open.spotify.com/track/1DeRLkQZCioGKOYXlzOgZV) | [Ratigan Era](https://open.spotify.com/artist/6XmSsmTptfw1G2FtpQfXe0) | [Be humble](https://open.spotify.com/album/653kI0gglML45glmvgeBhh) | 2:34 |
 | 41 | [Kyabazinga \- PALLASO Remix](https://open.spotify.com/track/6BeNjZev4leBwTOoMuMytw) | [SHON WYZ](https://open.spotify.com/artist/5AsknIWNC3wtvpLKZts9WU), [PALLASO](https://open.spotify.com/artist/0P9wmw5Iu0HSJc2Qsnmpiz) | [Kyabazinga](https://open.spotify.com/album/4r9Hp0mKo45qZiDgao3NPK) | 3:12 |
 | 42 | [Semi Final](https://open.spotify.com/track/3UqJPo5PgQTS6kdMRMnczm) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Dush](https://open.spotify.com/artist/1jIysipyPAKkHyIQvIZwBQ) | [Semi Final](https://open.spotify.com/album/0YRa3fnnHj4KWfamSubtl0) | 2:52 |
 | 43 | [The One](https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld) | [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Jackie Chandiru](https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ) | [The One](https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU) | 3:28 |
-| 44 | [Doctor](https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Doctor](https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4) | 3:13 |
-| 45 | [Tebali Ready](https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Tebali Ready](https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P) | 2:39 |
+| 44 | [Tebali Ready](https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Tebali Ready](https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P) | 2:39 |
+| 45 | [Doctor](https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Doctor](https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4) | 3:13 |
 | 46 | [DanceHall](https://open.spotify.com/track/6P8VucWdTtvHu5VOp5RW1k) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Cindy Sanyu & Beenie Gunter](https://open.spotify.com/artist/51xOpwMyXoEXi04AEbpYpg) | [Roots](https://open.spotify.com/album/0ZQlhloe2p4y4jNHz2lw2U) | 4:42 |
 | 47 | [LIFIST](https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [LIFIST](https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO) | 3:34 |
 | 48 | [Bwonjagala](https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Fille](https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx) | [Bwonjagala](https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q) | 2:58 |
 | 49 | [Sikyegomba](https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Guvnor Ace](https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9), [DVJ Pofia](https://open.spotify.com/artist/0GHtfnwTJJIMnkg2e9NYmC) | [Sikyegomba](https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y) | 3:30 |
 | 50 | [Wulira Omuziki](https://open.spotify.com/track/6ukp2gmcFmgBlvrLJ3Vj9x) | [Eezzy](https://open.spotify.com/artist/1GOZbaRGN75E7D8ZFsG0DL) | [Wulira Omuziki](https://open.spotify.com/album/1n4gvSOCF9kos6UuFTZV4s) | 3:22 |
 
-Snapshot ID: `MCwzMDM5ZjM4ZDU0MjgzNzhmN2E3MzY0M2Y1ZTU0MzUxYmYxYzY0YThm`
+Snapshot ID: `MCwwY2M4NjBlMDI5ZmNkYWMwYjZmZTEwZWUwODUzOWQ4Y2UxOWU4NmQ2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 
 > Nigeria's hottest tracks\.  Cover: Kizz Daniel
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,263 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,455 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 | 49 | [Go Low](https://open.spotify.com/track/4XOdCFCCortagag6YCi7Qu) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Go Low](https://open.spotify.com/album/46qAo4a7iWazSa0jzHNa73) | 2:04 |
 | 50 | [Ebelebe](https://open.spotify.com/track/7mDVlwNJ0pY6xOmDn7D7u3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Ebelebe](https://open.spotify.com/album/2EViC0HI5jyqtpa6kpqhpY) | 2:52 |
 
-Snapshot ID: `MCw2N2EwZTFmYjNhZDAzNWQxNTliMzQ3ZTE5Yjg0N2NjM2JkODJmMDhh`
+Snapshot ID: `MCxmNWIzODZmMTQ5M2RkZGViMzAyZDg2NmE4ZDA1MzM3MzcwNGI1YzY1`

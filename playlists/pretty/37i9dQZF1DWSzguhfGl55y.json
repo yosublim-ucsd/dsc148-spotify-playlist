@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 625544,
+  "num_followers": 625587,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDczOWM4YjhiNTczYTA4MzU2YWExZTllNjVkMGY5NzAyZTYyYjll",
+  "snapshot_id": "MCxkODM5M2ZjNzIxYmEzODNlNWVhNzQxYzgzYmYyMDEyMzRlMWYzODA3",
   "tracks": [
     {
       "added_at": "2023-12-07 13:48:37",
@@ -279,18 +279,26 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "Wir Kinder vom Bahnhof Soul (Re-Release)",
-        "url": "https://open.spotify.com/album/7MrA7kNLED6TooTm9uxH2i"
+        "name": "Advanced Chemistry",
+        "url": "https://open.spotify.com/album/5rBJ9tt8jQ0PQLc0dBlNJI"
       },
       "artists": [
         {
-          "name": "Jan Delay",
-          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        },
+        {
+          "name": "Gentleman",
+          "url": "https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7"
         }
       ],
-      "duration_ms": 219013,
-      "name": "Oh Jonny",
-      "url": "https://open.spotify.com/track/1IivtUqnUfW9jH3pM08D8U"
+      "duration_ms": 253680,
+      "name": "Ahnma",
+      "url": "https://open.spotify.com/track/1sr9lbDDGIxmFK7wUdA1Z8"
     },
     {
       "added_at": "2023-12-07 13:48:37",
@@ -315,26 +323,18 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "Advanced Chemistry",
-        "url": "https://open.spotify.com/album/5rBJ9tt8jQ0PQLc0dBlNJI"
+        "name": "Wir Kinder vom Bahnhof Soul (Re-Release)",
+        "url": "https://open.spotify.com/album/7MrA7kNLED6TooTm9uxH2i"
       },
       "artists": [
         {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
-        },
-        {
-          "name": "Gzuz",
-          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
-        },
-        {
-          "name": "Gentleman",
-          "url": "https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7"
+          "name": "Jan Delay",
+          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
         }
       ],
-      "duration_ms": 253680,
-      "name": "Ahnma",
-      "url": "https://open.spotify.com/track/1sr9lbDDGIxmFK7wUdA1Z8"
+      "duration_ms": 219013,
+      "name": "Oh Jonny",
+      "url": "https://open.spotify.com/track/1IivtUqnUfW9jH3pM08D8U"
     },
     {
       "added_at": "2023-12-07 13:48:37",
@@ -443,8 +443,8 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "Viel - Jubil\u00e4ums-Edition",
-        "url": "https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY"
+        "name": "4:99 - Jubil\u00e4ums-Edition",
+        "url": "https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
         }
       ],
-      "duration_ms": 269840,
-      "name": "Troy",
-      "url": "https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2"
+      "duration_ms": 215933,
+      "name": "Mit freundlichen Gr\u00fc\u00dfen",
+      "url": "https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg"
     },
     {
       "added_at": "2023-12-07 13:48:37",
@@ -563,8 +563,8 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "4:99 - Jubil\u00e4ums-Edition",
-        "url": "https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl"
+        "name": "Viel - Jubil\u00e4ums-Edition",
+        "url": "https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
         }
       ],
-      "duration_ms": 215933,
-      "name": "Mit freundlichen Gr\u00fc\u00dfen",
-      "url": "https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg"
+      "duration_ms": 269840,
+      "name": "Troy",
+      "url": "https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2"
     },
     {
       "added_at": "2023-12-07 13:48:37",
@@ -847,22 +847,18 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/62tJU39A7UP3x85dJGQkdn"
+        "name": "Bossaura",
+        "url": "https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM"
       },
       "artists": [
         {
-          "name": "Kool Savas",
-          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
-        },
-        {
-          "name": "AZAD",
-          "url": "https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU"
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
         }
       ],
-      "duration_ms": 213813,
-      "name": "All 4 One",
-      "url": "https://open.spotify.com/track/5stqdnEmsr98AV26GweHJ8"
+      "duration_ms": 364720,
+      "name": "Bossaura",
+      "url": "https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw"
     },
     {
       "added_at": "2023-12-07 13:48:37",

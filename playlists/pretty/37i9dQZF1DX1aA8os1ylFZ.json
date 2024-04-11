@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 242249,
+  "num_followers": 242269,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTU2ODNmNzAyNDQwZjc3MjhmMjZiYTQ1MDBjMTY2ZWVhNjI3NWYx",
+  "snapshot_id": "MCxkYWZmNmU4NzU1ZjU5OGVmZjY5ZmJjYTBkMmFiZDZlMzIyNTVlNTJl",
   "tracks": [
     {
       "added_at": "2024-04-02 11:28:27",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-04-02 11:28:27",
       "album": {
-        "name": "FYS",
-        "url": "https://open.spotify.com/album/7IKErQGBssaKQHzBxgBuzt"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 209202,
-      "name": "FYS",
-      "url": "https://open.spotify.com/track/5IVhQWFgCahKesfuioh4OG"
-    },
-    {
-      "added_at": "2024-04-02 11:28:27",
-      "album": {
         "name": "JEANS",
         "url": "https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 195186,
       "name": "JEANS (with Miguel)",
       "url": "https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi"
+    },
+    {
+      "added_at": "2024-04-02 11:28:27",
+      "album": {
+        "name": "FYS",
+        "url": "https://open.spotify.com/album/7IKErQGBssaKQHzBxgBuzt"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 209202,
+      "name": "FYS",
+      "url": "https://open.spotify.com/track/5IVhQWFgCahKesfuioh4OG"
     },
     {
       "added_at": "2024-04-02 11:28:27",
@@ -439,26 +439,6 @@
     {
       "added_at": "2024-04-02 11:28:27",
       "album": {
-        "name": "Moment Of Your Life",
-        "url": "https://open.spotify.com/album/2M8xH28B7GMVUFMA7Ofcis"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        },
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Moment Of Your Life",
-      "url": "https://open.spotify.com/track/6ffrYPrHM70FScnrtHIcPh"
-    },
-    {
-      "added_at": "2024-04-02 11:28:27",
-      "album": {
         "name": "Sincerely For You",
         "url": "https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze"
       },
@@ -479,22 +459,22 @@
     {
       "added_at": "2024-04-02 11:28:27",
       "album": {
-        "name": "Obsidian",
-        "url": "https://open.spotify.com/album/4545KLMxMvi6RBnNRe58t6"
+        "name": "Moment Of Your Life",
+        "url": "https://open.spotify.com/album/2M8xH28B7GMVUFMA7Ofcis"
       },
       "artists": [
         {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         },
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
         }
       ],
-      "duration_ms": 162787,
-      "name": "Push (feat. Omah Lay)",
-      "url": "https://open.spotify.com/track/13ks10TjWmDaVL4iO8R5dV"
+      "duration_ms": 195000,
+      "name": "Moment Of Your Life",
+      "url": "https://open.spotify.com/track/6ffrYPrHM70FScnrtHIcPh"
     },
     {
       "added_at": "2024-04-02 11:28:27",
@@ -515,6 +495,26 @@
       "duration_ms": 156030,
       "name": "Doin Yo Stuff",
       "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
+    },
+    {
+      "added_at": "2024-04-02 11:28:27",
+      "album": {
+        "name": "Obsidian",
+        "url": "https://open.spotify.com/album/4545KLMxMvi6RBnNRe58t6"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 162787,
+      "name": "Push (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/13ks10TjWmDaVL4iO8R5dV"
     },
     {
       "added_at": "2024-04-02 11:28:27",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-04-02 11:28:27",
       "album": {
-        "name": "Heartbreak & Other Stories",
-        "url": "https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 164706,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/1q4F4KfUNY4nDkuHDVLQya"
-    },
-    {
-      "added_at": "2024-04-02 11:28:27",
-      "album": {
         "name": "I Choose U (feat. RINI)",
         "url": "https://open.spotify.com/album/0DcgdM3SS9A8wEig25dsqh"
       },
@@ -587,6 +571,38 @@
       "duration_ms": 202706,
       "name": "I Choose U (feat. RINI)",
       "url": "https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv"
+    },
+    {
+      "added_at": "2024-04-02 11:28:27",
+      "album": {
+        "name": "Heartbreak & Other Stories",
+        "url": "https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 164706,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/1q4F4KfUNY4nDkuHDVLQya"
+    },
+    {
+      "added_at": "2024-04-02 11:28:27",
+      "album": {
+        "name": "Bestie",
+        "url": "https://open.spotify.com/album/6kRPeBs9unh27QfKtYy0GE"
+      },
+      "artists": [
+        {
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Bestie",
+      "url": "https://open.spotify.com/track/0O3oO62iQhp16xX0Z7lqNW"
     },
     {
       "added_at": "2024-04-02 11:28:27",
@@ -623,22 +639,6 @@
       "duration_ms": 168146,
       "name": "Little Blue Moon",
       "url": "https://open.spotify.com/track/3buMYqs28GrIx9T5rcl2we"
-    },
-    {
-      "added_at": "2024-04-02 11:28:27",
-      "album": {
-        "name": "Bestie",
-        "url": "https://open.spotify.com/album/6kRPeBs9unh27QfKtYy0GE"
-      },
-      "artists": [
-        {
-          "name": "Rotimi",
-          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Bestie",
-      "url": "https://open.spotify.com/track/0O3oO62iQhp16xX0Z7lqNW"
     },
     {
       "added_at": "2024-04-02 11:28:27",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-04-02 11:28:27",
       "album": {
-        "name": "Called it Love",
-        "url": "https://open.spotify.com/album/45EoNsjV157i7KNBUkD69a"
-      },
-      "artists": [
-        {
-          "name": "Gen Neo",
-          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
-        }
-      ],
-      "duration_ms": 186290,
-      "name": "Called it Love",
-      "url": "https://open.spotify.com/track/7DGEGsOUG0lbPUlymrH4uJ"
-    },
-    {
-      "added_at": "2024-04-02 11:28:27",
-      "album": {
         "name": "After the Butterflies",
         "url": "https://open.spotify.com/album/2fyaGl2f9n6oNUVhf7XJhM"
       },
@@ -767,18 +751,34 @@
     {
       "added_at": "2024-04-02 11:28:27",
       "album": {
-        "name": "COMING HOME (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7GZwgBHhaazZ2QnrvbpDPO"
+        "name": "Called it Love",
+        "url": "https://open.spotify.com/album/45EoNsjV157i7KNBUkD69a"
       },
       "artists": [
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
         }
       ],
-      "duration_ms": 211644,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4YYpXaONSBsD2wVAsfxFH6"
+      "duration_ms": 186290,
+      "name": "Called it Love",
+      "url": "https://open.spotify.com/track/7DGEGsOUG0lbPUlymrH4uJ"
+    },
+    {
+      "added_at": "2024-04-02 11:28:27",
+      "album": {
+        "name": "Thoughts I Never Said",
+        "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 210100,
+      "name": "All That It Takes",
+      "url": "https://open.spotify.com/track/5ZtqkkX8XRfgmgxnxedI0C"
     },
     {
       "added_at": "2024-04-02 11:28:27",
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-04-02 11:28:27",
       "album": {
-        "name": "Thoughts I Never Said",
-        "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
+        "name": "COMING HOME (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7GZwgBHhaazZ2QnrvbpDPO"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 210100,
-      "name": "All That It Takes",
-      "url": "https://open.spotify.com/track/5ZtqkkX8XRfgmgxnxedI0C"
+      "duration_ms": 211644,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4YYpXaONSBsD2wVAsfxFH6"
     },
     {
       "added_at": "2024-04-02 11:28:27",
@@ -871,42 +871,6 @@
     {
       "added_at": "2024-04-02 11:28:27",
       "album": {
-        "name": "Risk It All (From the Original Motion Picture \u201cThe Color Purple\u201d)",
-        "url": "https://open.spotify.com/album/56QjItp9BaAC2e7GkYZLwd"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 201347,
-      "name": "Risk It All - From the Original Motion Picture \u201cThe Color Purple\u201d",
-      "url": "https://open.spotify.com/track/4zSlPg0zHNNRukp2p07jrm"
-    },
-    {
-      "added_at": "2024-04-02 11:28:27",
-      "album": {
-        "name": "Words of Affirmation",
-        "url": "https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7"
-      },
-      "artists": [
-        {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        }
-      ],
-      "duration_ms": 186095,
-      "name": "Words of Affirmation",
-      "url": "https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy"
-    },
-    {
-      "added_at": "2024-04-02 11:28:27",
-      "album": {
         "name": "Tasty",
         "url": "https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK"
       },
@@ -943,6 +907,22 @@
     {
       "added_at": "2024-04-02 11:28:27",
       "album": {
+        "name": "Words of Affirmation",
+        "url": "https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        }
+      ],
+      "duration_ms": 186095,
+      "name": "Words of Affirmation",
+      "url": "https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy"
+    },
+    {
+      "added_at": "2024-04-02 11:28:27",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/6sLawiJo2c2YoL2hzBW5Vm"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 235066,
       "name": "Closer",
       "url": "https://open.spotify.com/track/3ZG7FzfuejHiekD67PtGb7"
+    },
+    {
+      "added_at": "2024-04-02 11:28:27",
+      "album": {
+        "name": "Risk It All (From the Original Motion Picture \u201cThe Color Purple\u201d)",
+        "url": "https://open.spotify.com/album/56QjItp9BaAC2e7GkYZLwd"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 201347,
+      "name": "Risk It All - From the Original Motion Picture \u201cThe Color Purple\u201d",
+      "url": "https://open.spotify.com/track/4zSlPg0zHNNRukp2p07jrm"
     },
     {
       "added_at": "2024-04-02 11:28:27",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-04-02 11:28:27",
       "album": {
-        "name": "The Right One",
-        "url": "https://open.spotify.com/album/5BJlBjmBC2ihAW9gf6vLlV"
-      },
-      "artists": [
-        {
-          "name": "Noha Sar\u00e9",
-          "url": "https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7"
-        }
-      ],
-      "duration_ms": 176756,
-      "name": "The Right One",
-      "url": "https://open.spotify.com/track/6OWocnbyqk4NX5tq9pBq1n"
-    },
-    {
-      "added_at": "2024-04-02 11:28:27",
-      "album": {
         "name": "Drop In",
         "url": "https://open.spotify.com/album/5mFidAy9MG3XHqIFiH8NB3"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 206511,
       "name": "Drop In",
       "url": "https://open.spotify.com/track/3EawgQ7oWbOQ2vVg4Vk12j"
+    },
+    {
+      "added_at": "2024-04-02 11:28:27",
+      "album": {
+        "name": "The Right One",
+        "url": "https://open.spotify.com/album/5BJlBjmBC2ihAW9gf6vLlV"
+      },
+      "artists": [
+        {
+          "name": "Noha Sar\u00e9",
+          "url": "https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7"
+        }
+      ],
+      "duration_ms": 176756,
+      "name": "The Right One",
+      "url": "https://open.spotify.com/track/6OWocnbyqk4NX5tq9pBq1n"
     },
     {
       "added_at": "2024-04-02 11:28:27",

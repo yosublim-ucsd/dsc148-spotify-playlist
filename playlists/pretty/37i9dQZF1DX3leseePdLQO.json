@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring Shakira & Cardi B.",
-  "num_followers": 10912,
+  "num_followers": 10926,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTMzNDM0ZDhlMzM1MTczNTBkOGQ1YTZjMDk0MDZjMGI3ZTVjNzNk",
+  "snapshot_id": "MCw2MTVmZjYzMjg1NjRlYzJkYjI2MjljYzY2NjcwOWZjZjdjMWRhMWE0",
   "tracks": [
     {
       "added_at": "2024-04-04 17:11:30",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-04-04 17:11:30",
       "album": {
-        "name": "ESQUEMAS",
-        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 161880,
-      "name": "BAIL\u00c9 CON MI EX",
-      "url": "https://open.spotify.com/track/2Td8H23gwQZqKubcUOyCSI"
-    },
-    {
-      "added_at": "2024-04-04 17:11:30",
-      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2024-04-04 17:11:30",
       "album": {
-        "name": "La Idea",
-        "url": "https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU"
+        "name": "ESQUEMAS",
+        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
       },
       "artists": [
         {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 194257,
-      "name": "La Idea",
-      "url": "https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb"
+      "duration_ms": 161880,
+      "name": "BAIL\u00c9 CON MI EX",
+      "url": "https://open.spotify.com/track/2Td8H23gwQZqKubcUOyCSI"
     },
     {
       "added_at": "2024-04-04 17:11:30",
@@ -1047,6 +1031,22 @@
       "duration_ms": 174600,
       "name": "7 Veces",
       "url": "https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP"
+    },
+    {
+      "added_at": "2024-04-04 17:11:30",
+      "album": {
+        "name": "La Idea",
+        "url": "https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "duration_ms": 194257,
+      "name": "La Idea",
+      "url": "https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb"
     },
     {
       "added_at": "2024-04-04 17:11:30",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-04-04 17:11:30",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 152425,
-      "name": "1Amor",
-      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
-    },
-    {
-      "added_at": "2024-04-04 17:11:30",
-      "album": {
         "name": "bellodrama",
         "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 184195,
       "name": "Lentamente",
       "url": "https://open.spotify.com/track/7GJVqqE79WOl8ncT7Y4z0L"
+    },
+    {
+      "added_at": "2024-04-04 17:11:30",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 152425,
+      "name": "1Amor",
+      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
     },
     {
       "added_at": "2024-04-04 17:11:30",
@@ -1179,26 +1179,6 @@
       "duration_ms": 176000,
       "name": "Patadas De Ahogado",
       "url": "https://open.spotify.com/track/6qz3M5feEJMJszEV75JCEO"
-    },
-    {
-      "added_at": "2024-04-04 17:11:30",
-      "album": {
-        "name": "Te Cambie Por El",
-        "url": "https://open.spotify.com/album/6bHnkWxT6LqkySnS1yeOTW"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        }
-      ],
-      "duration_ms": 170695,
-      "name": "Te Cambie Por El",
-      "url": "https://open.spotify.com/track/20j2PxqYHqamcH6g8vPMSp"
     },
     {
       "added_at": "2024-04-04 17:11:30",
@@ -1243,6 +1223,26 @@
     {
       "added_at": "2024-04-04 17:11:30",
       "album": {
+        "name": "Te Cambie Por El",
+        "url": "https://open.spotify.com/album/6bHnkWxT6LqkySnS1yeOTW"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "duration_ms": 170695,
+      "name": "Te Cambie Por El",
+      "url": "https://open.spotify.com/track/20j2PxqYHqamcH6g8vPMSp"
+    },
+    {
+      "added_at": "2024-04-04 17:11:30",
+      "album": {
         "name": "Los Mejores A\u00f1os",
         "url": "https://open.spotify.com/album/1FfoXxOshDOFAv1C84pSJR"
       },
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-04-04 17:11:30",
       "album": {
-        "name": "Nueve Vidas",
-        "url": "https://open.spotify.com/album/2qJggZU59QzYLmIgr8h1mB"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 208200,
-      "name": "Nueve Vidas",
-      "url": "https://open.spotify.com/track/0Y57g6F3v8UPtAbhkXTIsu"
-    },
-    {
-      "added_at": "2024-04-04 17:11:30",
-      "album": {
         "name": "4U (feat. CKay, Leo Rizzi)",
         "url": "https://open.spotify.com/album/7eRSN2WVgwjEr5XBRHh2qp"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 225321,
       "name": "4U (feat. CKay, Leo Rizzi)",
       "url": "https://open.spotify.com/track/6qFHJBEbHNKpWhN6e9xNnO"
+    },
+    {
+      "added_at": "2024-04-04 17:11:30",
+      "album": {
+        "name": "Nueve Vidas",
+        "url": "https://open.spotify.com/album/2qJggZU59QzYLmIgr8h1mB"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 208200,
+      "name": "Nueve Vidas",
+      "url": "https://open.spotify.com/track/0Y57g6F3v8UPtAbhkXTIsu"
     },
     {
       "added_at": "2024-04-04 17:11:30",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-04-04 17:11:30",
       "album": {
-        "name": "crush",
-        "url": "https://open.spotify.com/album/0Tqz0PyiUMHr2HIwvXmyKP"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 199877,
-      "name": "crush",
-      "url": "https://open.spotify.com/track/3njA65KM3YEF08hEBGpaTW"
-    },
-    {
-      "added_at": "2024-04-04 17:11:30",
-      "album": {
         "name": "Triste (Arial 1)",
         "url": "https://open.spotify.com/album/6MfUhAGiZ9FizmSn0F8KQj"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 177727,
       "name": "Triste (Arial 1)",
       "url": "https://open.spotify.com/track/5NLL3U7OkuCqaAG0zI1K2F"
+    },
+    {
+      "added_at": "2024-04-04 17:11:30",
+      "album": {
+        "name": "crush",
+        "url": "https://open.spotify.com/album/0Tqz0PyiUMHr2HIwvXmyKP"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 199877,
+      "name": "crush",
+      "url": "https://open.spotify.com/track/3njA65KM3YEF08hEBGpaTW"
     },
     {
       "added_at": "2024-04-04 17:11:30",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-04-04 17:11:30",
       "album": {
-        "name": "Parece Mentira",
-        "url": "https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 213958,
-      "name": "Parece Mentira",
-      "url": "https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz"
-    },
-    {
-      "added_at": "2024-04-04 17:11:30",
-      "album": {
         "name": "DARA",
         "url": "https://open.spotify.com/album/5VGyOaFFu2uXZJybipzjft"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 173893,
       "name": "Aceler\u00e9",
       "url": "https://open.spotify.com/track/0cZhddkRPufZYBkO4GxjZv"
+    },
+    {
+      "added_at": "2024-04-04 17:11:30",
+      "album": {
+        "name": "Parece Mentira",
+        "url": "https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 213958,
+      "name": "Parece Mentira",
+      "url": "https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz"
     },
     {
       "added_at": "2024-04-04 17:11:30",
@@ -1727,18 +1727,22 @@
     {
       "added_at": "2024-04-04 17:11:30",
       "album": {
-        "name": "P.M.",
-        "url": "https://open.spotify.com/album/1OKBqRNyEQQUlkokuXYEFk"
+        "name": "La cuarta hoja (Extended Version)",
+        "url": "https://open.spotify.com/album/3nYJDr8s1Jyw4YeZRcScQc"
       },
       "artists": [
         {
-          "name": "Chanel",
-          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 158946,
-      "name": "P.M.",
-      "url": "https://open.spotify.com/track/45QJa6CNZvicAUEVG8qUaa"
+      "duration_ms": 233755,
+      "name": "Amigos (con Maria Becerra)",
+      "url": "https://open.spotify.com/track/2VhwmatY3oeJI5IOjeIUmr"
     }
   ],
   "unique_name": "Crema Pop",

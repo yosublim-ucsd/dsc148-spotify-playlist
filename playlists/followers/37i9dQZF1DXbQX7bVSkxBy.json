@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 25505,
+  "2024-04-11": 25602,
   "date_first_scraped": "2023-04-07",
   "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC?si=Ov9F1KTFTY6jpv7w92oxLA>Omojo</a>",
   "name": "Testify",
@@ -727,6 +727,24 @@
     {
       "album": {
         "name": "Man Of Galilee",
+        "url": "https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204094,
+      "name": "Capable God",
+      "url": "https://open.spotify.com/track/1ba2375k5XaAIGWPMC57y1"
+    },
+    {
+      "album": {
+        "name": "Man Of Galilee",
         "url": "https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08"
       },
       "artists": [
@@ -737,7 +755,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 204094,
       "name": "Capable God",
       "url": "https://open.spotify.com/track/25sRKHPOYj8XsDXbxxdx3y"
@@ -1661,7 +1679,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 228134,
       "name": "For the Love of God",
       "url": "https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7"
@@ -1885,7 +1903,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 215604,
       "name": "God Be The Glory",
       "url": "https://open.spotify.com/track/2O75KOWDHDcsy3uifzJIPU"

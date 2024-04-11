@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 
 > This is The Jones Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,878 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,879 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 | 21 | [Children of the Night](https://open.spotify.com/track/5YcEeu42eisgNHJeesoJDS) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [At Peace with Woman](https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI) | 5:11 |
 | 22 | [Baby Don't Go Yet](https://open.spotify.com/track/6NKNogU1zrD9jNj4aPNdQV) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Reflections: In Loving Memory](https://open.spotify.com/album/7dhvs5QbajnXYUY5NETIGY) | 5:24 |
 | 23 | [ASAP \(As Soon as Possible\)](https://open.spotify.com/track/3fU5oXtdBs8QqpBvMQDWQl) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:18 |
-| 24 | [2 Win U Back](https://open.spotify.com/track/5MSBptBOsXevqa0YltKt5b) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target \(Bonus Track Version\)](https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri) | 4:56 |
+| 24 | [We're a Melody](https://open.spotify.com/track/58mUkmczSd5xLffvElZTF3) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 5:23 |
 | 25 | [I Just Love the Man](https://open.spotify.com/track/75kdiW5wYlxgIDTtIOTcvt) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [At Peace with Woman](https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI) | 4:41 |
-| 26 | [We're a Melody](https://open.spotify.com/track/58mUkmczSd5xLffvElZTF3) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 5:23 |
+| 26 | [2 Win U Back](https://open.spotify.com/track/5MSBptBOsXevqa0YltKt5b) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target \(Bonus Track Version\)](https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri) | 4:56 |
 | 27 | [Ah, Ah, Ah, Ah](https://open.spotify.com/track/2NVBR55sc6DUEBXJdPErFK) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Keep It Comin'](https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ) | 4:36 |
 | 28 | [Getting on with My Own Life](https://open.spotify.com/track/12c8DOnkjclmBMFSj1yMnS) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Coming Back](https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY) | 5:37 |
 | 29 | [Your Love Controls Me](https://open.spotify.com/track/1vue6N2kcKmIkNAEKysBo1) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Music Merchant A\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 | 49 | [Is It True?](https://open.spotify.com/track/2P3rUI2tEIlBo5YXcGrOuf) | [Anthony Drakes](https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza), [Emmanuel](https://open.spotify.com/artist/5YBzrGR5OgC9pU4Dl5eU8o), [Chris Ballin](https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W), [Dean Edwards](https://open.spotify.com/artist/6r4TeQ52Om1xWryPSGW4tI), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh), [Julianne](https://open.spotify.com/artist/0ZEOoQA1tnEAnEbObq8YIR), [The Sound Principle](https://open.spotify.com/artist/6vBm0kFy8xndqPZRY8zpYw), [Richard Anthony Davis](https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL) | [Soul Central, Vol\. 1](https://open.spotify.com/album/4oXW0hCOrPBqaKPFAViRya) | 5:01 |
 | 50 | [Don't Be Sorry Be Careful](https://open.spotify.com/track/0sXmIrSxNdjBPcQCvFGe5t) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Music Merchant B\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu) | 2:48 |
 
-Snapshot ID: `MCw1YzA4ZDAzMjFmNzk1NzY2MjZjZTQ3MWY4YTVhYWI5M2QyY2I5MGU0`
+Snapshot ID: `MCxmODk2Y2JkZTU4MTczOWY0ZWNhZGE3MDU5NTc3MzM1MjhhODEzNDJk`

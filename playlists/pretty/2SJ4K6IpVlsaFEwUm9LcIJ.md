@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 19,163 likes - 46 songs - 2 hr 24 min
+[margeaux](https://open.spotify.com/user/1220511975) - 19,174 likes - 48 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,5 +54,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 44 | [The Kindness of Strangers](https://open.spotify.com/track/3oKX2xnyyWbkXFPWkL7ncF) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know by Heart](https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S) | 3:26 |
 | 45 | [Signs](https://open.spotify.com/track/7epmAvoQHWEXQKkESieryn) | [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [Cardinal](https://open.spotify.com/album/5j2btF2YP9WdNBo7ZKPEtH) | 2:19 |
 | 46 | [Deeper](https://open.spotify.com/track/5RyZK49FbAj0DT1rFjBhUb) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [Fabiana Palladino](https://open.spotify.com/album/42oaWsdIjvtngWBANg0tux) | 3:44 |
+| 47 | [Pallor Tricks](https://open.spotify.com/track/6b3sztg64sk7iiKzjLGT2G) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Pallor Tricks](https://open.spotify.com/album/78gHirhgGXJ0rPFbCa89y0) | 3:57 |
+| 48 | [Closer](https://open.spotify.com/track/6vjyZVLkjfENDguX2WHrLB) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [Fabiana Palladino](https://open.spotify.com/album/42oaWsdIjvtngWBANg0tux) | 3:35 |
 
-Snapshot ID: `MjYxNyxmMTI1ZTFjNmMxZDI1NTFjOWRmZmE1YjBhMzVlNTJjZWY2YzhhMDRh`
+Snapshot ID: `MjYxOSw5Y2Q0MTZkNTljYjAzYzg0OTIxM2YxZjFmYjJlOTRhNTM2YWJkM2Qx`

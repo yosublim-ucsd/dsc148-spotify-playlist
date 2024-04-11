@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 609139,
+  "2024-04-11": 609216,
   "date_first_scraped": "2022-01-12",
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
   "name": "This Is Bruce Springsteen",
@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 304440,
       "name": "Blinded By The Light",
       "url": "https://open.spotify.com/track/1VyDQtfhX6gqhWTGU7Oe8X"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 241306,
       "name": "Dancing In the Dark",
       "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
@@ -443,7 +443,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 215426,
       "name": "Downbound Train",
       "url": "https://open.spotify.com/track/4a0oZYU2ntSUof4lkm2PCl"
@@ -537,7 +537,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 254733,
       "name": "Glory Days",
       "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
@@ -1031,7 +1031,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 240146,
       "name": "No Surrender",
       "url": "https://open.spotify.com/track/2zMlWt4aYreVczVERFK94w"
@@ -1323,7 +1323,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 270266,
       "name": "She's the One",
       "url": "https://open.spotify.com/track/5St2IxnaIYOPflaomWB3Pz"

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-700 songs - 1 day 16 hr 27 min
+701 songs - 1 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Bloodshot](https://open.spotify.com/track/4Q7x6l8nCaDuYAX3NQqU4g) | [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [Bloodshot](https://open.spotify.com/album/1zoSsT8S3mjezVLikedEOr) | 2:43 | 2024-02-05 |  |
 | [Blossom](https://open.spotify.com/track/77vrwV62LCLmun3GIcC4og) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Haen](https://open.spotify.com/artist/09XV7VUHzuQEzdkul75n6g) | [Blossom](https://open.spotify.com/album/6eWw2tFagx7hdeT7A9MfjE) | 4:09 | 2022-03-18 | 2022-05-31 |
 | [Blue](https://open.spotify.com/track/1PkPBwTS8gyQJ5tjvsN1Vh) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Blue](https://open.spotify.com/album/0cww0SjtI5q55VIb4QfUab) | 2:57 | 2022-05-31 | 2022-08-11 |
-| [Bones](https://open.spotify.com/track/1OfVQ5LYzgpTahnGlLoZti) | [Mr\. Bill](https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB), [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH), [Ellika](https://open.spotify.com/artist/1GStVlUvAf7VkKbQ616ht0) | [Bones](https://open.spotify.com/album/10xKXdt2akO3PWSAaaQ9mb) | 4:26 | 2024-01-22 |  |
+| [Bones](https://open.spotify.com/track/1OfVQ5LYzgpTahnGlLoZti) | [Mr\. Bill](https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB), [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH), [Ellika](https://open.spotify.com/artist/1GStVlUvAf7VkKbQ616ht0) | [Bones](https://open.spotify.com/album/10xKXdt2akO3PWSAaaQ9mb) | 4:26 | 2024-01-22 | 2024-04-11 |
 | [BOUNCE](https://open.spotify.com/track/0x4k0Zc1XDU3bJj5zuxRUi) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [BOUNCE](https://open.spotify.com/album/60HooEaxdydmVDo1QALKX9) | 1:44 | 2024-01-10 | 2024-04-03 |
 | [Break It Down](https://open.spotify.com/track/1KY425EZEJPqgeisOplYGJ) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Break It Down](https://open.spotify.com/album/6kR6ZW6AdWViJksGqmLzEO) | 2:41 | 2023-06-28 | 2023-09-26 |
 | [Breathe Me Back To Life](https://open.spotify.com/track/0EI9hyJzyEOeRqQzQyitQ9) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Breathe Me Back To Life](https://open.spotify.com/album/5qcMz7TUHmkGN8gXQLOAT3) | 2:26 | 2023-01-06 | 2023-03-22 |
@@ -663,6 +663,7 @@
 | [Used to Losing You](https://open.spotify.com/track/0A4VK9bpXxGWyHQPm8D81s) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [Used to Losing You](https://open.spotify.com/album/0SO9gIl0UKy42daxkuXtNT) | 4:25 | 2023-02-03 | 2023-04-22 |
 | [Used To The Silence](https://open.spotify.com/track/5DEwagnzNafeFjWNIDNdgy) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Used To The Silence](https://open.spotify.com/album/1AicQE6OrucDFv8RYhB1Ho) | 3:09 | 2023-05-30 | 2023-08-28 |
 | [Valhalla](https://open.spotify.com/track/4nQAwNLKpcn0g54dPedQBi) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Valhalla](https://open.spotify.com/album/49ViXJDQNm2nV1bCMFMcAJ) | 3:57 | 2023-03-01 | 2023-05-30 |
+| [Venom](https://open.spotify.com/track/6bjMeD8hdOcSU5AQQTRS5J) | [UZ](https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo), [barnacle boi](https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu) | [Venom](https://open.spotify.com/album/52zDxxZIO61QgxP0TI256o) | 2:45 | 2024-04-10 |  |
 | [Vermin](https://open.spotify.com/track/4sSDPuQLBSowFuPtXBzUI5) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Vermin](https://open.spotify.com/album/47lB5nD266T3nhDeSJjRdv) | 2:56 | 2023-04-05 | 2023-06-29 |
 | [Vitamin R](https://open.spotify.com/track/3FmdXSMfZjqo9Lz4li7GpW) | [Codd Dubz](https://open.spotify.com/artist/3SsxYsQwnhws0qW0fsO1s5), [SQISHI](https://open.spotify.com/artist/0UIHAcihBBHr4dlN4syE1h) | [Vitamin R](https://open.spotify.com/album/4xd9LfqmvWcibXiwsk3NIn) | 3:05 | 2023-10-03 | 2024-01-16 |
 | [WAIT4U](https://open.spotify.com/track/7igtWMNT2mPCYARw9g0cLn) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Deadcrow](https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [WAIT4U](https://open.spotify.com/album/6rjRB1yiwh2iOmyiWGmJp6) | 4:12 | 2023-10-13 | 2024-01-27 |

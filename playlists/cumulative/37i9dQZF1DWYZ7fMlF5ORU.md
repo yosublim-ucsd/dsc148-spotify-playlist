@@ -4,7 +4,7 @@
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-90 songs - 6 hr 4 min
+92 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Aleluia](https://open.spotify.com/track/14EMbN1HUrgQsXQInLmn94) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Aleluia](https://open.spotify.com/album/1nT9F98Aluuo222Nbh3ClI) | 2:51 | 2023-04-15 |  |
 | [Antes & Depois](https://open.spotify.com/track/1ifn917xmYnwlXsgcs5tMS) | [Robson Nascimento](https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd) | [Tome a Decisão](https://open.spotify.com/album/5mE14i5eods7RRbp1tkNza) | 5:10 | 2023-04-15 |  |
 | [Avante](https://open.spotify.com/track/3z9SRMvGQ0mr25ocM2LovO) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Avante](https://open.spotify.com/album/6UKKAW3dSSxUiegAUfRLqG) | 3:23 | 2023-04-15 |  |
-| [Bem Perto](https://open.spotify.com/track/2QWC0k9TjXqyLrF1W8c8IJ) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Bem Perto](https://open.spotify.com/album/5rRpDFmpjetBCTQDTDRIZV) | 3:50 | 2023-04-15 |  |
+| [Bem Perto](https://open.spotify.com/track/2QWC0k9TjXqyLrF1W8c8IJ) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Bem Perto](https://open.spotify.com/album/5rRpDFmpjetBCTQDTDRIZV) | 3:50 | 2023-04-15 | 2024-04-11 |
+| [Bem Perto](https://open.spotify.com/track/70wOmfThVhBuA9Nyb4xXH0) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Bem Perto](https://open.spotify.com/album/4l4dUmC4oAvXBu8zsryg6m) | 3:50 | 2023-12-22 |  |
 | [Benção em Benção](https://open.spotify.com/track/3YEqc7Y3wQfOEcuGk1UKQb) | [Sérgio Saas](https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH) | [Haja Luz](https://open.spotify.com/album/0visYCj9NZhdxIdxNnOEP2) | 4:06 | 2023-04-15 |  |
 | [Betel \- Ao Vivo](https://open.spotify.com/track/7eFlDGti9RtnzJ9OaWybjo) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [Betel \(Ao Vivo\)](https://open.spotify.com/album/13DnNshXTWvEXoXpAeC9IE) | 4:24 | 2023-04-15 |  |
 | [Brighter Day \- Kirk's Mix](https://open.spotify.com/track/1LM3tWoGx2tRMDKMnEwBjC) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [A Season Of Remixes](https://open.spotify.com/album/7jI7E2aLZZucXkAQQlJMEV) | 4:11 | 2023-04-15 |  |
@@ -37,7 +38,8 @@
 | [Emaús](https://open.spotify.com/track/3jeyIcmHyOYPXefSgDJSsw) | [Templo Soul](https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9) | [Emaús](https://open.spotify.com/album/4fRNHUgTEG8ptziVNewp6c) | 7:15 | 2023-07-28 |  |
 | [Escolho o Teu Caminho](https://open.spotify.com/track/5DReZpzQNDuDlNZHqe20L9) | [Raquel Garcia](https://open.spotify.com/artist/1i7b1kgIqLIhZ9H14Kp3ce) | [Escolho O Teu Caminho](https://open.spotify.com/album/1e6DPcnmFday9R3FABcACP) | 3:15 | 2023-04-15 | 2023-07-29 |
 | [Estado De Graça \- Ao Vivo](https://open.spotify.com/track/5lDcuC16NaVZkjWRvAtTIe) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Preto No Branco 3 \(Ao Vivo\)](https://open.spotify.com/album/17f5CLg1zIf55tqhEjCV41) | 4:45 | 2023-04-15 |  |
-| [Eu Grito](https://open.spotify.com/track/3lS32PJ4mTSOUbj1VJsxbL) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Eu Grito](https://open.spotify.com/album/5NLoHON627RjW4wRiha4q1) | 4:33 | 2023-04-15 |  |
+| [Eu Grito](https://open.spotify.com/track/70jq7l150CJa2RjGXLXtO4) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Bem Perto](https://open.spotify.com/album/4l4dUmC4oAvXBu8zsryg6m) | 4:33 | 2023-12-22 |  |
+| [Eu Grito](https://open.spotify.com/track/3lS32PJ4mTSOUbj1VJsxbL) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Eu Grito](https://open.spotify.com/album/5NLoHON627RjW4wRiha4q1) | 4:33 | 2023-04-15 | 2024-04-11 |
 | [Eu Não Desisto](https://open.spotify.com/track/27ynruXjPgN7YE8dJ4WDiV) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Avante](https://open.spotify.com/album/6ILLqsxadRd8B2BNA0oQk3) | 5:49 | 2023-04-15 |  |
 | [Eu Sou](https://open.spotify.com/track/3sEcVLYLPMdP2lOhw9aF47) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Eli Soares 10 Anos](https://open.spotify.com/album/2UsWM0txt8jjHSUgEAKcuq) | 3:57 | 2023-04-15 |  |
 | [Eu Sou De Jesus](https://open.spotify.com/track/7nMczhGdlDHc4a3CBu6t7N) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Sarah](https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H) | 3:32 | 2023-04-15 |  |

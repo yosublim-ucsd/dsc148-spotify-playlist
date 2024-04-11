@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Joyner Lucas",
-  "num_followers": 1602526,
+  "num_followers": 1602550,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjc3YzhhNjIzZjY4OGMxMDkzYzYzMjMxN2EzMzFkMDAyNTgzNGE5",
+  "snapshot_id": "MCxkNjc1ZDM4MmMwYzM5NjVjZTRkNjM2YzIwODc0YmM2NTMxMDg1MTli",
   "tracks": [
     {
       "added_at": "2024-04-05 04:00:00",
@@ -515,26 +515,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "A Forsaken Lover's Plea",
-        "url": "https://open.spotify.com/album/02MmFj3ONHFwvZMfZXWtPy"
-      },
-      "artists": [
-        {
-          "name": "Chuck Strangers",
-          "url": "https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Polish Jazz",
-      "url": "https://open.spotify.com/track/60D2JqdH4iixYCW5KQFNyR"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "VOIR DIRE",
         "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 161506,
       "name": "Mancala (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/3G2Xq0ZA5nra0iHMjbXOYD"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "A Forsaken Lover's Plea",
+        "url": "https://open.spotify.com/album/02MmFj3ONHFwvZMfZXWtPy"
+      },
+      "artists": [
+        {
+          "name": "Chuck Strangers",
+          "url": "https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Polish Jazz",
+      "url": "https://open.spotify.com/track/60D2JqdH4iixYCW5KQFNyR"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -887,6 +887,26 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Penalty of Leadership",
+        "url": "https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Formal Invite",
+      "url": "https://open.spotify.com/track/6JAVPIgZPynxA3xKtd8WW0"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Lyrics to GO Vol. 5",
         "url": "https://open.spotify.com/album/0R78djLTRtZIvdySvSRjql"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 186000,
       "name": "Backstage in Minneapolis",
       "url": "https://open.spotify.com/track/41vQRKj7mWmwDWKnkrUJhI"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "THEODORE & ANDRE",
-        "url": "https://open.spotify.com/album/1JBRIRH3jc4VUHI9UjfQPj"
-      },
-      "artists": [
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 193693,
-      "name": "DON\u2019T BE GONE",
-      "url": "https://open.spotify.com/track/0E0cP3se7canDtzIm8Sy1V"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -967,22 +967,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Penalty of Leadership",
-        "url": "https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL"
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc"
       },
       "artists": [
         {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+          "name": "Jourden",
+          "url": "https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u"
         }
       ],
-      "duration_ms": 185806,
-      "name": "Formal Invite",
-      "url": "https://open.spotify.com/track/6JAVPIgZPynxA3xKtd8WW0"
+      "duration_ms": 162162,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8"
     },
     {
       "added_at": "2024-04-05 04:00:00",

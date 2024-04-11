@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
-  "num_followers": 29725,
+  "num_followers": 29736,
   "original_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTNiNTY5OWM3ODk1NDNjMGU5ZjY5YzI1ODYzMmM0YTc5OWNhZWQ3",
+  "snapshot_id": "MCxhMjY2NjQ5NWU0ZDdiZTNiMDkyYzE2Y2I0YjRlZTMzZTIyZDg2OGE5",
   "tracks": [
     {
       "added_at": "2022-06-13 13:22:46",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "\uc601\ubbfc",
-        "url": "https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF"
-      },
-      "artists": [
-        {
-          "name": "Tim",
-          "url": "https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY"
-        }
-      ],
-      "duration_ms": 228946,
-      "name": "\uc0ac\ub791\ud569\ub2c8\ub2e4...",
-      "url": "https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "T-VIRUS",
         "url": "https://open.spotify.com/album/0mb4NZoWTLUlkrMKmieekh"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 239673,
       "name": "Love Rain",
       "url": "https://open.spotify.com/track/2D7qr3pMwinXpACxiUBtNC"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "\uc601\ubbfc",
+        "url": "https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF"
+      },
+      "artists": [
+        {
+          "name": "Tim",
+          "url": "https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY"
+        }
+      ],
+      "duration_ms": 228946,
+      "name": "\uc0ac\ub791\ud569\ub2c8\ub2e4...",
+      "url": "https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Brown Eyes",
-        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        }
-      ],
-      "duration_ms": 215840,
-      "name": "With Coffee\u2026",
-      "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Love, deep longing",
         "url": "https://open.spotify.com/album/1hZ1wLaogDtyLFXAjZg2kX"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 256066,
       "name": "It's love",
       "url": "https://open.spotify.com/track/4VZw0oTcsBxgdcbe1Pmntg"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Brown Eyes",
+        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 215840,
+      "name": "With Coffee\u2026",
+      "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Challenge 4Da Change",
+        "url": "https://open.spotify.com/album/6oNrmkWeMZZeRuMxjK4PMT"
+      },
+      "artists": [
+        {
+          "name": "Kinetic Flow",
+          "url": "https://open.spotify.com/artist/3tZO2DzJzKXhH9gx7GDCWv"
+        },
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        }
+      ],
+      "duration_ms": 244746,
+      "name": "\ubabd\ud658\uc758 \uc232 (feat. Yiruma)",
+      "url": "https://open.spotify.com/track/3rQRx89A7kGuyXMbE72WCa"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "The Way I Am",
         "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
       },
@@ -1323,22 +1343,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Because I Love You",
-        "url": "https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc"
-      },
-      "artists": [
-        {
-          "name": "Park Hwayobi",
-          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
-        }
-      ],
-      "duration_ms": 271986,
-      "name": "\uc5b4\ub5a4\uac00\uc694",
-      "url": "https://open.spotify.com/track/6oh5mZnvl3qfe9OBXTwnCm"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Change Yourself",
         "url": "https://open.spotify.com/album/3lNo7TgizMXNYTve1wIYJj"
       },
@@ -1351,6 +1355,22 @@
       "duration_ms": 240440,
       "name": "\ub300\ud654\uac00 \ud544\uc694\ud574",
       "url": "https://open.spotify.com/track/7uiRy0wTGtP1XC536Ot7V0"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Because I Love You",
+        "url": "https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc"
+      },
+      "artists": [
+        {
+          "name": "Park Hwayobi",
+          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
+        }
+      ],
+      "duration_ms": 271986,
+      "name": "\uc5b4\ub5a4\uac00\uc694",
+      "url": "https://open.spotify.com/track/6oh5mZnvl3qfe9OBXTwnCm"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1403,26 +1423,6 @@
       "duration_ms": 228866,
       "name": "0%",
       "url": "https://open.spotify.com/track/4QyJ9NbwZSXu9wcQpHiwqP"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "Challenge 4Da Change",
-        "url": "https://open.spotify.com/album/6oNrmkWeMZZeRuMxjK4PMT"
-      },
-      "artists": [
-        {
-          "name": "Kinetic Flow",
-          "url": "https://open.spotify.com/artist/3tZO2DzJzKXhH9gx7GDCWv"
-        },
-        {
-          "name": "Yiruma",
-          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
-        }
-      ],
-      "duration_ms": 244746,
-      "name": "\ubabd\ud658\uc758 \uc232 (feat. Yiruma)",
-      "url": "https://open.spotify.com/track/3rQRx89A7kGuyXMbE72WCa"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "An Ordinary Day",
-        "url": "https://open.spotify.com/album/14OsUvgjRtVL8oGOjwvxgM"
-      },
-      "artists": [
-        {
-          "name": "god",
-          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "An Ordinary",
-      "url": "https://open.spotify.com/track/2phRcDceIli8JDmUZXh2SF"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "\uc774\uc18c\ub77c 1\uc9d1",
         "url": "https://open.spotify.com/album/2PwgctO9OueSiENB9sseUp"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 264542,
       "name": "\ucc98\uc74c \ub290\ub08c \uadf8\ub300\ub85c",
       "url": "https://open.spotify.com/track/2ZNUK5het1OwJvjkVzzoNC"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "An Ordinary Day",
+        "url": "https://open.spotify.com/album/14OsUvgjRtVL8oGOjwvxgM"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "An Ordinary",
+      "url": "https://open.spotify.com/track/2phRcDceIli8JDmUZXh2SF"
     },
     {
       "added_at": "2022-06-13 13:22:46",

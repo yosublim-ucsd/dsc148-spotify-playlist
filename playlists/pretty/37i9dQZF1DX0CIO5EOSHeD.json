@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Bnny",
-  "num_followers": 484446,
+  "num_followers": 484663,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjQzNDRkNWYzYzJmOGI0Yjk2YTQxMzZlYmY5YjU0YTlkMTIzYWVi",
+  "snapshot_id": "MCxmNzQ2NTYyZmVkZDk1YmMxZmY5ZGFlMjg1YTZiZDNkODE4NTBiMzc0",
   "tracks": [
     {
       "added_at": "2023-12-02 02:07:22",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "madhouse",
-        "url": "https://open.spotify.com/album/3C7TLQLW8cXiDoogT7Hrlj"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 211075,
-      "name": "madhouse",
-      "url": "https://open.spotify.com/track/36fC4xtAucJ7KH6sdSDDo7"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "No Surprises",
         "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 120961,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "madhouse",
+        "url": "https://open.spotify.com/album/3C7TLQLW8cXiDoogT7Hrlj"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 211075,
+      "name": "madhouse",
+      "url": "https://open.spotify.com/track/36fC4xtAucJ7KH6sdSDDo7"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Good Morning It's Now Tomorrow",
-        "url": "https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 223466,
-      "name": "Mystery",
-      "url": "https://open.spotify.com/track/41ZPPTp7Hj9Bhy361OKtfK"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Spiral Stairs",
         "url": "https://open.spotify.com/album/0JsrXgAVovKYKoKRrBLdMO"
       },
@@ -723,22 +707,6 @@
       "duration_ms": 146026,
       "name": "Spiral Stairs",
       "url": "https://open.spotify.com/track/6ODsBcPNsjqHzxrhmsPWLD"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
-        "name": "say goodbye",
-        "url": "https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB"
-      },
-      "artists": [
-        {
-          "name": "Sarcastic Sounds",
-          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
-        }
-      ],
-      "duration_ms": 86749,
-      "name": "say goodbye",
-      "url": "https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -759,6 +727,38 @@
       "duration_ms": 176002,
       "name": "ALIEN LOVE CALL",
       "url": "https://open.spotify.com/track/5o5SdS2vu1PgKblBABGlER"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "Good Morning It's Now Tomorrow",
+        "url": "https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 223466,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/41ZPPTp7Hj9Bhy361OKtfK"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "say goodbye",
+        "url": "https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB"
+      },
+      "artists": [
+        {
+          "name": "Sarcastic Sounds",
+          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
+        }
+      ],
+      "duration_ms": 86749,
+      "name": "say goodbye",
+      "url": "https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc"
     },
     {
       "added_at": "2024-02-05 20:42:58",
@@ -841,22 +841,6 @@
       "url": "https://open.spotify.com/track/7j28vzFDGWSCuKQKMxULfW"
     },
     {
-      "added_at": "2023-12-12 12:57:54",
-      "album": {
-        "name": "Mammalian Sighing Reflex",
-        "url": "https://open.spotify.com/album/31KiskR7q89oowARNCmSMG"
-      },
-      "artists": [
-        {
-          "name": "Wilbur Soot",
-          "url": "https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy"
-        }
-      ],
-      "duration_ms": 159141,
-      "name": "Around the Pomegranate",
-      "url": "https://open.spotify.com/track/4fA9UQIKQAFlJKhMoThok3"
-    },
-    {
       "added_at": "2023-12-02 02:07:22",
       "album": {
         "name": "Bedside Kites",
@@ -871,6 +855,22 @@
       "duration_ms": 328421,
       "name": "A Sad Song About a Girl I No Longer Know",
       "url": "https://open.spotify.com/track/78TzliRJJhCgsZ0ARUm8vI"
+    },
+    {
+      "added_at": "2023-12-12 12:57:54",
+      "album": {
+        "name": "Mammalian Sighing Reflex",
+        "url": "https://open.spotify.com/album/31KiskR7q89oowARNCmSMG"
+      },
+      "artists": [
+        {
+          "name": "Wilbur Soot",
+          "url": "https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy"
+        }
+      ],
+      "duration_ms": 159141,
+      "name": "Around the Pomegranate",
+      "url": "https://open.spotify.com/track/4fA9UQIKQAFlJKhMoThok3"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Ways to Go",
-        "url": "https://open.spotify.com/album/4g5q9uTpoq19HX1Ksm9CHe"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 127061,
-      "name": "Ways to Go",
-      "url": "https://open.spotify.com/track/0p973C7c3dry8DRq2mgYP3"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Sun Outside My Window",
         "url": "https://open.spotify.com/album/4IZghGvlSC2HHAnuO1JmNe"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 201226,
       "name": "Sun Outside My Window",
       "url": "https://open.spotify.com/track/6hj8HbgTMVMvcA8a9fKAhr"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "Ways to Go",
+        "url": "https://open.spotify.com/album/4g5q9uTpoq19HX1Ksm9CHe"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 127061,
+      "name": "Ways to Go",
+      "url": "https://open.spotify.com/track/0p973C7c3dry8DRq2mgYP3"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Peach Tinted",
-        "url": "https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau"
+        "name": "Forever at Last",
+        "url": "https://open.spotify.com/album/3y08i0cgjlrH4Ca44CcdW7"
       },
       "artists": [
         {
-          "name": "peach tinted",
-          "url": "https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y"
+          "name": "HighSchool",
+          "url": "https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb"
         }
       ],
-      "duration_ms": 191641,
-      "name": "Not Alone",
-      "url": "https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV"
+      "duration_ms": 206000,
+      "name": "New York, Paris and London",
+      "url": "https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
+        "name": "Peach Tinted",
+        "url": "https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau"
+      },
+      "artists": [
+        {
+          "name": "peach tinted",
+          "url": "https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y"
+        }
+      ],
+      "duration_ms": 191641,
+      "name": "Not Alone",
+      "url": "https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
         "name": "Long Nights and Wasted Affairs",
         "url": "https://open.spotify.com/album/2YKrT7Izbd8U5muoR0ZNaL"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 222992,
       "name": "running to find you",
       "url": "https://open.spotify.com/track/2FEf9b0UGPt3jsEQ3VGGTS"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
-        "name": "Forever at Last",
-        "url": "https://open.spotify.com/album/3y08i0cgjlrH4Ca44CcdW7"
-      },
-      "artists": [
-        {
-          "name": "HighSchool",
-          "url": "https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "New York, Paris and London",
-      "url": "https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Me Oh My Mirror",
-        "url": "https://open.spotify.com/album/4FIEhoPQZpjjSS6japEfDx"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Dawn of the Freak",
         "url": "https://open.spotify.com/album/30hYMe8HUStB6y0pB0lJCd"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 265346,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/0XXKMtBr6zIeS6iCoNiWhy"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "Me Oh My Mirror",
+        "url": "https://open.spotify.com/album/4FIEhoPQZpjjSS6japEfDx"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "dirt",
-        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 176268,
-      "name": "4th of july",
-      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Jonny",
         "url": "https://open.spotify.com/album/2yyDNz8lkP0igqZfZzEgv0"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 197866,
       "name": "Plastic Envelope",
       "url": "https://open.spotify.com/track/3eiVhoqOuP5iSgnCzLvUU1"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "dirt",
+        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 176268,
+      "name": "4th of july",
+      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
     },
     {
       "added_at": "2023-12-02 02:07:22",

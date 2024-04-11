@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Missy Raines",
-  "num_followers": 132493,
+  "num_followers": 132518,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWIxYjdiNDJkNTI4YTJjNWJiZTg4MGM4ODEyNGFmYzIxYzQ5MjQ2",
+  "snapshot_id": "MCxmMmIwNzFkNjI4MThhODJkNWJlZGNkMTY4NWFmM2RlMDNmZThhY2Uz",
   "tracks": [
     {
       "added_at": "2024-04-06 18:50:25",
@@ -631,18 +631,22 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "This Valley",
-        "url": "https://open.spotify.com/album/6plNZDHsm8CBOcAACUBGNo"
+        "name": "Almost Proud",
+        "url": "https://open.spotify.com/album/5DlbNGFefCiS7JOMEPn6VP"
       },
       "artists": [
         {
-          "name": "Calamity Jane",
-          "url": "https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL"
+          "name": "The Del McCoury Band",
+          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
         }
       ],
-      "duration_ms": 255505,
-      "name": "This Valley",
-      "url": "https://open.spotify.com/track/2KicuYyr7rQBmGKNBTckFH"
+      "duration_ms": 152786,
+      "name": "Honky Tonk Nights",
+      "url": "https://open.spotify.com/track/4tmkIG5XC53MyN7NBeTXcp"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -667,46 +671,18 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Almost Proud",
-        "url": "https://open.spotify.com/album/5DlbNGFefCiS7JOMEPn6VP"
+        "name": "This Valley",
+        "url": "https://open.spotify.com/album/6plNZDHsm8CBOcAACUBGNo"
       },
       "artists": [
         {
-          "name": "The Del McCoury Band",
-          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
-        },
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+          "name": "Calamity Jane",
+          "url": "https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL"
         }
       ],
-      "duration_ms": 152786,
-      "name": "Honky Tonk Nights",
-      "url": "https://open.spotify.com/track/4tmkIG5XC53MyN7NBeTXcp"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
-        "name": "Can't Live Without Love",
-        "url": "https://open.spotify.com/album/6nNbG7l5MjTclnCUJSPaXj"
-      },
-      "artists": [
-        {
-          "name": "Bronwyn Keith-Hynes",
-          "url": "https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO"
-        },
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Can't Live Without Love",
-      "url": "https://open.spotify.com/track/2lA4tBOeDhq58itnkz7tUp"
+      "duration_ms": 255505,
+      "name": "This Valley",
+      "url": "https://open.spotify.com/track/2KicuYyr7rQBmGKNBTckFH"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -739,6 +715,30 @@
       "duration_ms": 199840,
       "name": "How It Ends",
       "url": "https://open.spotify.com/track/0kqUylCZDfyQqiSxtaCFdf"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
+        "name": "Can't Live Without Love",
+        "url": "https://open.spotify.com/album/6nNbG7l5MjTclnCUJSPaXj"
+      },
+      "artists": [
+        {
+          "name": "Bronwyn Keith-Hynes",
+          "url": "https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Can't Live Without Love",
+      "url": "https://open.spotify.com/track/2lA4tBOeDhq58itnkz7tUp"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Squareneck Soul",
-        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
-      },
-      "artists": [
-        {
-          "name": "Andy Hall",
-          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
-        }
-      ],
-      "duration_ms": 149346,
-      "name": "Squareneck Soul",
-      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
         "name": "The Light We Bring",
         "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+        "name": "Squareneck Soul",
+        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
       },
       "artists": [
         {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+          "name": "Andy Hall",
+          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
         }
       ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
+      "duration_ms": 149346,
+      "name": "Squareneck Soul",
+      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1079,6 +1063,22 @@
       "duration_ms": 162697,
       "name": "Dry Town",
       "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Rosa Lee McFall (Live)",
-        "url": "https://open.spotify.com/album/1v4qPxoqDppewSx1hzEVgk"
-      },
-      "artists": [
-        {
-          "name": "Black Mountain Boys",
-          "url": "https://open.spotify.com/artist/1sz2PAcIPFpZR6Hpb2JMRR"
-        },
-        {
-          "name": "Jerry Garcia",
-          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
-        }
-      ],
-      "duration_ms": 150575,
-      "name": "Rosa Lee McFall - Live",
-      "url": "https://open.spotify.com/track/2w8khZ6OgCOUwrbkQ4GYAK"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
         "name": "Muscle Car",
         "url": "https://open.spotify.com/album/4BfxrawQAJaRWmhQkYBOSY"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 328560,
       "name": "Muscle Car",
       "url": "https://open.spotify.com/track/6mfeARNWhTrYAt0nDc3l9f"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
+        "name": "Rosa Lee McFall (Live)",
+        "url": "https://open.spotify.com/album/1v4qPxoqDppewSx1hzEVgk"
+      },
+      "artists": [
+        {
+          "name": "Black Mountain Boys",
+          "url": "https://open.spotify.com/artist/1sz2PAcIPFpZR6Hpb2JMRR"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "duration_ms": 150575,
+      "name": "Rosa Lee McFall - Live",
+      "url": "https://open.spotify.com/track/2w8khZ6OgCOUwrbkQ4GYAK"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1359,22 +1359,22 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Impromptu Sessions No. 2: Dominick Leslie & Ric Robertson (Trust In Most)",
-        "url": "https://open.spotify.com/album/3mgMv7LuXPwpflL8qUUYIG"
+        "name": "Blue Railroad Train",
+        "url": "https://open.spotify.com/album/30ccEntmZBvjhe7KuuP0vm"
       },
       "artists": [
         {
-          "name": "Dominick Leslie",
-          "url": "https://open.spotify.com/artist/5dTs3hLoBfuhLiGRiQcmgu"
+          "name": "Leftover Salmon",
+          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
         },
         {
-          "name": "Ric Robertson",
-          "url": "https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25"
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
         }
       ],
-      "duration_ms": 222646,
-      "name": "East Virginia Blues",
-      "url": "https://open.spotify.com/track/4du2Q7sk9Kp8qw6jPHcENA"
+      "duration_ms": 188666,
+      "name": "Blue Railroad Train",
+      "url": "https://open.spotify.com/track/5xQF2S5p9hckklJLsTbNzq"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1395,22 +1395,22 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Blue Railroad Train",
-        "url": "https://open.spotify.com/album/30ccEntmZBvjhe7KuuP0vm"
+        "name": "Impromptu Sessions No. 2: Dominick Leslie & Ric Robertson (Trust In Most)",
+        "url": "https://open.spotify.com/album/3mgMv7LuXPwpflL8qUUYIG"
       },
       "artists": [
         {
-          "name": "Leftover Salmon",
-          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+          "name": "Dominick Leslie",
+          "url": "https://open.spotify.com/artist/5dTs3hLoBfuhLiGRiQcmgu"
         },
         {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+          "name": "Ric Robertson",
+          "url": "https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25"
         }
       ],
-      "duration_ms": 188666,
-      "name": "Blue Railroad Train",
-      "url": "https://open.spotify.com/track/5xQF2S5p9hckklJLsTbNzq"
+      "duration_ms": 222646,
+      "name": "East Virginia Blues",
+      "url": "https://open.spotify.com/track/4du2Q7sk9Kp8qw6jPHcENA"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "Something Higher",
-        "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
-      },
-      "artists": [
-        {
-          "name": "Leftover Salmon",
-          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "Winter's Gone",
-      "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
         "name": "Chasin' Skies",
         "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
       },
@@ -1583,18 +1567,18 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "I'll Blame It on the Rain",
-        "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
+        "name": "Something Higher",
+        "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
       },
       "artists": [
         {
-          "name": "Hammertowne",
-          "url": "https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH"
+          "name": "Leftover Salmon",
+          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
         }
       ],
-      "duration_ms": 223586,
-      "name": "I'll Blame It on the Rain",
-      "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
+      "duration_ms": 207600,
+      "name": "Winter's Gone",
+      "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1611,6 +1595,22 @@
       "duration_ms": 160471,
       "name": "Heartbreak Train",
       "url": "https://open.spotify.com/track/205hhygYfVJ4gUXu54lUyQ"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
+        "name": "I'll Blame It on the Rain",
+        "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
+      },
+      "artists": [
+        {
+          "name": "Hammertowne",
+          "url": "https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH"
+        }
+      ],
+      "duration_ms": 223586,
+      "name": "I'll Blame It on the Rain",
+      "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
+        "name": "I'd Rather Be Alone",
+        "url": "https://open.spotify.com/album/2n8n1ij2BvFF9QZXUpm8ge"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 210998,
+      "name": "I'd Rather Be Alone",
+      "url": "https://open.spotify.com/track/4nII4gGx7Vd2o6EmGuEX49"
+    },
+    {
+      "added_at": "2024-04-06 18:50:25",
+      "album": {
         "name": "Small Towns",
         "url": "https://open.spotify.com/album/5M2xYmYWURBE2Ysf9Os1Ik"
       },
@@ -1743,18 +1759,18 @@
     {
       "added_at": "2024-04-06 18:50:25",
       "album": {
-        "name": "I'd Rather Be Alone",
-        "url": "https://open.spotify.com/album/2n8n1ij2BvFF9QZXUpm8ge"
+        "name": "Lonesome State Of Mind",
+        "url": "https://open.spotify.com/album/1mfnqK1oHwaQZ4kXorOcox"
       },
       "artists": [
         {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+          "name": "Blue Highway",
+          "url": "https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd"
         }
       ],
-      "duration_ms": 210998,
-      "name": "I'd Rather Be Alone",
-      "url": "https://open.spotify.com/track/4nII4gGx7Vd2o6EmGuEX49"
+      "duration_ms": 144536,
+      "name": "Lonesome State Of Mind",
+      "url": "https://open.spotify.com/track/69USQNPpvXAIuz26IiYLkC"
     },
     {
       "added_at": "2024-04-06 18:50:25",
@@ -1791,22 +1807,6 @@
       "duration_ms": 209391,
       "name": "Love Train",
       "url": "https://open.spotify.com/track/5vlTEeXibOs10LTl0Ugxkh"
-    },
-    {
-      "added_at": "2024-04-06 18:50:25",
-      "album": {
-        "name": "Lonesome State Of Mind",
-        "url": "https://open.spotify.com/album/1mfnqK1oHwaQZ4kXorOcox"
-      },
-      "artists": [
-        {
-          "name": "Blue Highway",
-          "url": "https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd"
-        }
-      ],
-      "duration_ms": 144536,
-      "name": "Lonesome State Of Mind",
-      "url": "https://open.spotify.com/track/69USQNPpvXAIuz26IiYLkC"
     },
     {
       "added_at": "2024-04-06 18:50:25",

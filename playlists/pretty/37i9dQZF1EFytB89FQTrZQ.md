@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,470 likes - 303 songs - 16 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,471 likes - 303 songs - 16 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 108 | [HOT](https://open.spotify.com/track/25a7EWpbv4NjeUIP1PN6T1) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [HOT](https://open.spotify.com/album/25stFeSXGr3jAPjDhAFZ3E) | 2:34 |
 | 109 | [Business \(with Ella Eyre\)](https://open.spotify.com/track/419yPCUe8gDok6z8Vwizxh) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 3:17 |
 | 110 | [More Than A Miracle](https://open.spotify.com/track/21AbakVGnrNSdineegyZnB) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Small Talk \- EP](https://open.spotify.com/album/6adnqzJgMLO8oJmzP0Kp28) | 4:05 |
-| 111 | [Belong](https://open.spotify.com/track/4S1FpZjAiDfvz86ONrSUHE) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Two Decades](https://open.spotify.com/album/3xqjne2Y3nEynPwOoUtiBF) | 3:32 |
-| 112 | [Waste My Time](https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 2:43 |
+| 111 | [Waste My Time](https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 2:43 |
+| 112 | [Belong](https://open.spotify.com/track/4S1FpZjAiDfvz86ONrSUHE) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Two Decades](https://open.spotify.com/album/3xqjne2Y3nEynPwOoUtiBF) | 3:32 |
 | 113 | [Climbin' \(Piano Weapon\)](https://open.spotify.com/track/0E7WxpbTk7PMaPUE2yaf0f) | [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9), [Doorly](https://open.spotify.com/artist/4uUZsrxHK6peebj1rpawBa) | [Climbin' \(Piano Weapon\)](https://open.spotify.com/album/49a5n9n6DC3NfD2J6TJb4F) | 3:33 |
 | 114 | [Whenever You're Ready](https://open.spotify.com/track/16Km3GR6GYMrIyVPk31DAe) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whenever You're Ready](https://open.spotify.com/album/5oU1HkdGTZ9aKz9FFdiawe) | 3:25 |
 | 115 | [Money \- Shrine VIP](https://open.spotify.com/track/2k9TzKgYl4Ty6yqWDvgGms) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Foreign Ororo \(Special Edition\)](https://open.spotify.com/album/5oKOIiqFThV4doCMFA5Y4z) | 3:12 |
@@ -224,8 +224,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 214 | [Is Anybody There](https://open.spotify.com/track/6uktW9We6a1nidJJwNndKd) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 3:16 |
 | 215 | [Come Up \(feat\. Unknown T\)](https://open.spotify.com/track/4qeZto6Q6AEuyvSM3TLNbu) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [2 in 1](https://open.spotify.com/album/6m3JcqnSzHmJhCMobWya2d) | 3:24 |
 | 216 | [Shy](https://open.spotify.com/track/0FEV2UdmSXQVHSDI8VJDg8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:17 |
-| 217 | [Done Me](https://open.spotify.com/track/2T6MSukHOnljzeymIcGKmk) | [Amun](https://open.spotify.com/artist/182fYJgynL0DcdVkEyUSRn) | [Done Me](https://open.spotify.com/album/4X5EoSLcpNwuQZxHmkMjWm) | 3:11 |
-| 218 | [Another Friday Night](https://open.spotify.com/track/0TMrhVTC2uosTg09ZVkoLa) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Another Friday Night](https://open.spotify.com/album/7mtOGMtwr9QpnkYaS1UuTh) | 2:30 |
+| 217 | [Another Friday Night](https://open.spotify.com/track/0TMrhVTC2uosTg09ZVkoLa) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Another Friday Night](https://open.spotify.com/album/7mtOGMtwr9QpnkYaS1UuTh) | 2:30 |
+| 218 | [Done Me](https://open.spotify.com/track/2T6MSukHOnljzeymIcGKmk) | [Amun](https://open.spotify.com/artist/182fYJgynL0DcdVkEyUSRn) | [Done Me](https://open.spotify.com/album/4X5EoSLcpNwuQZxHmkMjWm) | 3:11 |
 | 219 | [YBGFA](https://open.spotify.com/track/5MUAhZVNZU4UF8FmhUBQYs) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TEARS OF THE SUN](https://open.spotify.com/album/4yspRWwXpYeeQ2EoOmpLPJ) | 3:42 |
 | 220 | [Rush](https://open.spotify.com/track/0ujXF7s3C0XliL3ygwvVfE) | [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [Fantasy & Facts](https://open.spotify.com/album/70gaiI4hthpS7Ef5uo8C2h) | 3:59 |
 | 221 | [KUSTOM MADE \- EDIT](https://open.spotify.com/track/3AxZWZr6cnNrXvQ9A54qoO) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK), [Bee's Knees](https://open.spotify.com/artist/0HUVKb4z6JicOGlIpibvF0) | [CHAPTER 23 \(THE EDITS\)](https://open.spotify.com/album/57gwOGPtX7vOYJgH9faPFk) | 3:40 |
@@ -259,8 +259,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 249 | [Obsessive](https://open.spotify.com/track/2yAMjZcxepb11bPIuEJIBq) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Suburb Superhero: The Villain Within](https://open.spotify.com/album/4rRbuLIqkwT2gAMfhKuXNq) | 3:04 |
 | 250 | [18](https://open.spotify.com/track/2QbbUFIQwpTutcyGaMwcPt) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [18](https://open.spotify.com/album/7yKSrXrzR1AyTYJv74zAsk) | 3:28 |
 | 251 | [What Is Real Anymore?](https://open.spotify.com/track/7HrsicD1Hcqkw4oQppMvql) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Life In Plastic](https://open.spotify.com/album/6u5RnuC327BY3arCzImhm0) | 3:11 |
-| 252 | [High](https://open.spotify.com/track/65rSUZKkb2OnQOJhTmq9Qs) | [Kate Stewart](https://open.spotify.com/artist/494OPqLjjEhjKil1G6MWho), [Jevon](https://open.spotify.com/artist/1cwNKCIuq12wLqAAsC1Zyi) | [High](https://open.spotify.com/album/2fUlrZ4s1trBJmugEvpz1u) | 3:45 |
-| 253 | [Right Now](https://open.spotify.com/track/6i4wnFDgjZeMIl0jahXSd7) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Greatest Hits Reimagined](https://open.spotify.com/album/5231Cbzf4YB9VFOE8YxjD5) | 3:10 |
+| 252 | [Right Now](https://open.spotify.com/track/6i4wnFDgjZeMIl0jahXSd7) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Greatest Hits Reimagined](https://open.spotify.com/album/5231Cbzf4YB9VFOE8YxjD5) | 3:10 |
+| 253 | [High](https://open.spotify.com/track/65rSUZKkb2OnQOJhTmq9Qs) | [Kate Stewart](https://open.spotify.com/artist/494OPqLjjEhjKil1G6MWho), [Jevon](https://open.spotify.com/artist/1cwNKCIuq12wLqAAsC1Zyi) | [High](https://open.spotify.com/album/2fUlrZ4s1trBJmugEvpz1u) | 3:45 |
 | 254 | [Stay Up Late](https://open.spotify.com/track/6HwcP5hOF6tEshbe7TK1v7) | [Monsieur Adi](https://open.spotify.com/artist/4KF0B66rZU4yV2hruz7YN4), [Red](https://open.spotify.com/artist/0c40kUZxVfkOXQe2mGaSY4) | [Stay Up Late](https://open.spotify.com/album/1eyjlAkoMsxOWfetHbNgyD) | 3:38 |
 | 255 | [I Heard Love](https://open.spotify.com/track/1ZKbC4vkxqFEsWCqKCcJ6y) | [IV Rox](https://open.spotify.com/artist/6r1dwRRUw0Kta4L2r9jE1g), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [I Heard Love](https://open.spotify.com/album/3bfp1AZpIfWWw1cmkbB67h) | 2:42 |
 | 256 | [Skin Deep](https://open.spotify.com/track/0GxWui7IvDrzcbdI4HqYb3) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK) | [The Update](https://open.spotify.com/album/6JYgOftBgWHRATb0Euhuu0) | 4:13 |
@@ -312,4 +312,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 302 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 303 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `Mjg1NDUyNjAsMDAwMDAwMDBkOWZkMDgxYTEwMzQ4ZmQ2ZWUxOTYyNmZkZjcyMTc5Yg==`
+Snapshot ID: `Mjg1NDY2OTAsMDAwMDAwMDA5Yjc1OWE2MmFhNjEyNDQzZjA1M2Y3MDc0MmZkYzJkMA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:57YsESW6BGZLHQgOg8AiAq">Charity Gayle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,667 likes - 104 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,736 likes - 104 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 103 | [The Blood \(Live\)](https://open.spotify.com/track/71cDTlRal4bmGUcu213rYt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 5:12 |
 | 104 | [Come Jesus Come](https://open.spotify.com/track/6WHe4Ilqwx9H5cY8V9glhr) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Come Jesus Come](https://open.spotify.com/album/0aYbAtML1iNwTXvkMdwirB) | 4:58 |
 
-Snapshot ID: `MCxiZGY4NTI2ZjViYjg0MmJiNDAxOGUyYTM2NTQ3MTkxZDlmMTQzMTcw`
+Snapshot ID: `MCxjZTMwNTMzMGYzOGNjODhjMTQ0NjVmMWRiZDg5YzkzZmUxOGI0ODA3`

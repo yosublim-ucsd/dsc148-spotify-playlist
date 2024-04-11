@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 ### [Raï Hits](https://open.spotify.com/playlist/37i9dQZF1DXb7WmotStdsj)
 
-> Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
+> Les meilleurs tubes Raï du moment que vous entendez partout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,893 likes - 60 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,040 likes - 60 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [Jabetli Ljah](https://open.spotify.com/track/7sIr0SWz4zeZRt8NuV112j) | [Didou Parisien](https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj) | [Jabetli Ljah](https://open.spotify.com/album/5rHwMQTSEBYs2s2HRE7rcH) | 8:00 |
 | 60 | [Ma vie 2 fois](https://open.spotify.com/track/52XknVywsSWwVXwcxl6WAP) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [dellali](https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m) | 4:07 |
 
-Snapshot ID: `MCxiYWQ1OGY1MzM0MDcwYTU2NGVmOThhOGMzZjJiYTc0MTA4MmQwNDg1`
+Snapshot ID: `MCw3OGYyMWMxZDhiNzJkYjBiODkwNjBhNWUxZDY0ZjVmNDA4MDVhN2Zi`

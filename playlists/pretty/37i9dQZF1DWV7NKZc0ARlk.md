@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 
 > Los éxitos del pop suenan mejor en vivo\. Foto: Thalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,262 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,517 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 | 44 | [Yo Te Pido Amor \(Primera Fila\) \(feat\. Pandora\) \- En Vivo](https://open.spotify.com/track/0QIKg7unxus0JeC8PhzCXQ) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/19FjT2Eq5zuZqscnwhjNFH) | 4:42 |
 | 45 | [Nunca Voy a Olvidarte \- Primera Fila \- Live Version](https://open.spotify.com/track/4HAPPGfvox8QdKdU1lD3wf) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Cristian Castro En Primera Fila \- Día 1](https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0) | 3:57 |
 | 46 | [Serás el Aire \- Primera Fila](https://open.spotify.com/track/1s8i3KnevFv5h5BVfFotCl) | [Sasha, Benny y Erik](https://open.spotify.com/artist/03FiyT61gVIy08oxFm6xZC) | [Primera Fila Sasha Benny Erik](https://open.spotify.com/album/0DB9SvuVNpmScrd8InA3jv) | 4:19 |
-| 47 | [Día De Suerte](https://open.spotify.com/track/3rvCwVlf4cXcXeNLb8QIsB) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Alejandra Guzmán 20 Años De Éxitos En Vivo Con Moderatto](https://open.spotify.com/album/5Ew8Kk0D4LuZFKTBh9ckDn) | 3:32 |
+| 47 | [Ay Amor \- Primera Fila Flans \[En Vivo\]](https://open.spotify.com/track/46KUdszLcvk1IvQaoo9EFq) | [Ilse, Ivonne y Mimi](https://open.spotify.com/artist/3d79GDviyp0nkS5hPDlBKX) | [Primera Fila Flans](https://open.spotify.com/album/3Q2ojWYIEh9ASuJevLr64C) | 3:14 |
 | 48 | [Ilusion \(Unplugged\) \(En Vivo\) \(with Marisa Monte\)](https://open.spotify.com/track/2EGDo3bF1gbRvRqFxoKoV3) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 3:46 |
-| 49 | [Ay Amor \- Primera Fila Flans \[En Vivo\]](https://open.spotify.com/track/46KUdszLcvk1IvQaoo9EFq) | [Ilse, Ivonne y Mimi](https://open.spotify.com/artist/3d79GDviyp0nkS5hPDlBKX) | [Primera Fila Flans](https://open.spotify.com/album/3Q2ojWYIEh9ASuJevLr64C) | 3:14 |
+| 49 | [Día De Suerte](https://open.spotify.com/track/3rvCwVlf4cXcXeNLb8QIsB) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Alejandra Guzmán 20 Años De Éxitos En Vivo Con Moderatto](https://open.spotify.com/album/5Ew8Kk0D4LuZFKTBh9ckDn) | 3:32 |
 | 50 | [Confieso \- En Vivo](https://open.spotify.com/track/7LdnlQjKYxFJ1Ar7sM3sN4) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [OV7 Primera Fila](https://open.spotify.com/album/2xFC6CVueT0H9MqW8RkySa) | 3:43 |
 
-Snapshot ID: `MCxmYjM3NzFjYzRhZGQxZGU0ZTQ3ZmYzNjgwNTBkNjEyMDEzM2ZhODJj`
+Snapshot ID: `MCw2MzIyZmIyNTVjMGRjMmExNTI4YzI1NTY2YTZjN2MwZjkwYTI3NzBj`

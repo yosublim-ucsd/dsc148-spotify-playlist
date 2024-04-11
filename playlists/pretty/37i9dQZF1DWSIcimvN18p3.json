@@ -1,12 +1,12 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Hurray For The Riff Raff",
-  "num_followers": 284960,
+  "num_followers": 284973,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTZhOGQ2YmZhYzcwMTk2NTc3MmRlMjgxYjIwMjVkMjg4MTg4YmMw",
+  "snapshot_id": "MCw2Y2Y5MmQ2Yzc3ZWE4YzdmNzkwMDNjZTc3ZTM2MDE4YzBlY2JiYTY2",
   "tracks": [
     {
       "added_at": "2024-03-08 05:01:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Dollar Bill Bar",
-        "url": "https://open.spotify.com/album/1ODhUIkZ35LOCKQ65sWc47"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 209176,
-      "name": "Dollar Bill Bar",
-      "url": "https://open.spotify.com/track/3yYD3H6AdEdSqXrgxgktOU"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Ana\u00efs Mitchell",
         "url": "https://open.spotify.com/album/2XVyQw7WE4hAozLKcUTuHD"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 190586,
       "name": "Bright Star",
       "url": "https://open.spotify.com/track/582t08OyJrrpS35HyWSruM"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Dollar Bill Bar",
+        "url": "https://open.spotify.com/album/1ODhUIkZ35LOCKQ65sWc47"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 209176,
+      "name": "Dollar Bill Bar",
+      "url": "https://open.spotify.com/track/3yYD3H6AdEdSqXrgxgktOU"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Life Is",
-        "url": "https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Life Is",
-      "url": "https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Rain On Sunday",
         "url": "https://open.spotify.com/album/2VGzHqnVWTiMlKfnCoXU0U"
       },
@@ -763,6 +747,38 @@
       "duration_ms": 215093,
       "name": "If Ever (with Jack Johnson & Ben Harper)",
       "url": "https://open.spotify.com/track/3lQY1TrOzBKG9c83ALIX77"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Life Is",
+        "url": "https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Life Is",
+      "url": "https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Cowboy Gangster Politician",
+        "url": "https://open.spotify.com/album/1hFke1fKAFoByRhKiS9RtL"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Cowboy Gangster Politician",
+      "url": "https://open.spotify.com/track/2SeDdNjPvN3uwkolnG2ODi"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -843,22 +859,6 @@
       "duration_ms": 179306,
       "name": "Cairo, IL",
       "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Cowboy Gangster Politician",
-        "url": "https://open.spotify.com/album/1hFke1fKAFoByRhKiS9RtL"
-      },
-      "artists": [
-        {
-          "name": "Goldie Boutilier",
-          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Cowboy Gangster Politician",
-      "url": "https://open.spotify.com/track/2SeDdNjPvN3uwkolnG2ODi"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Living With Ghosts",
-        "url": "https://open.spotify.com/album/4wKotVRbGtfTtDCCAShOTF"
-      },
-      "artists": [
-        {
-          "name": "Patty Griffin",
-          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
-        }
-      ],
-      "duration_ms": 191093,
-      "name": "Let Him Fly",
-      "url": "https://open.spotify.com/track/15GiOLRhRZGM07xhEorDZ4"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Some Things Just Stick In Your Mind (Singles And Demos 1964 To 1967)",
         "url": "https://open.spotify.com/album/6cqQoeptBmTpSw23R87hxU"
       },
@@ -991,6 +975,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "Living With Ghosts",
+        "url": "https://open.spotify.com/album/4wKotVRbGtfTtDCCAShOTF"
+      },
+      "artists": [
+        {
+          "name": "Patty Griffin",
+          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
+        }
+      ],
+      "duration_ms": 191093,
+      "name": "Let Him Fly",
+      "url": "https://open.spotify.com/track/15GiOLRhRZGM07xhEorDZ4"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "Traveling Alone",
         "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
       },
@@ -1003,6 +1003,22 @@
       "duration_ms": 284960,
       "name": "Traveling Alone",
       "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "A Month Or Two",
+        "url": "https://open.spotify.com/album/5nki9hMoIsCxIQeV4enHBh"
+      },
+      "artists": [
+        {
+          "name": "Odie Leigh",
+          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "A Month Or Two",
+      "url": "https://open.spotify.com/track/002nFT2kRsfvS0d17AwWsB"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1035,22 +1051,6 @@
       "duration_ms": 240866,
       "name": "Send in the Clowns",
       "url": "https://open.spotify.com/track/3evTbfCtMxbUwTQIn7QOcG"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "A Month Or Two",
-        "url": "https://open.spotify.com/album/5nki9hMoIsCxIQeV4enHBh"
-      },
-      "artists": [
-        {
-          "name": "Odie Leigh",
-          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "A Month Or Two",
-      "url": "https://open.spotify.com/track/002nFT2kRsfvS0d17AwWsB"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Polaroid Lovers",
-        "url": "https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 180524,
-      "name": "Runaway Train",
-      "url": "https://open.spotify.com/track/3cebUq89Iq26AHYYu5sLac"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 197640,
       "name": "Good Woman",
       "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Polaroid Lovers",
+        "url": "https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 180524,
+      "name": "Runaway Train",
+      "url": "https://open.spotify.com/track/3cebUq89Iq26AHYYu5sLac"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Question It All / White Car",
-        "url": "https://open.spotify.com/album/5G5O8QNkx2ocd2hY7ONJFj"
-      },
-      "artists": [
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 242854,
-      "name": "Question It All",
-      "url": "https://open.spotify.com/track/2IFhH2i9jxSZoqgzV9jipi"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Stand For Myself",
         "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
       },
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "Question It All / White Car",
+        "url": "https://open.spotify.com/album/5G5O8QNkx2ocd2hY7ONJFj"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 242854,
+      "name": "Question It All",
+      "url": "https://open.spotify.com/track/2IFhH2i9jxSZoqgzV9jipi"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "Quiet the Room",
         "url": "https://open.spotify.com/album/3aDm82IFj0OjSDWLGTWLBE"
       },
@@ -1507,22 +1507,6 @@
       "duration_ms": 225154,
       "name": "Whatever Fits Together",
       "url": "https://open.spotify.com/track/3Ya357rg6humSfjzHxpdJ2"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "World On The Ground",
-        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 180240,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "World On The Ground",
+        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 180240,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "Different Kinds of Light",
         "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
       },
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "The Harrow & The Harvest",
-        "url": "https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0"
+        "name": "Walk Through Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
       },
       "artists": [
         {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
         }
       ],
-      "duration_ms": 241957,
-      "name": "The Way It Goes",
-      "url": "https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC"
+      "duration_ms": 213204,
+      "name": "Love All Night (Work All Day)",
+      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "The Harrow & The Harvest",
+        "url": "https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 241957,
+      "name": "The Way It Goes",
+      "url": "https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "The Widow Knows E.P.",
         "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 252816,
       "name": "Used",
       "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Walk Through Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 213204,
-      "name": "Love All Night (Work All Day)",
-      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "In the Magic Hour",
-        "url": "https://open.spotify.com/album/5cUCgoaLWfzbwZRLVCIqTe"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 197466,
-      "name": "Porch Light",
-      "url": "https://open.spotify.com/track/1w9WCqGYdaEUMPs7BAvemm"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Trophy",
         "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 202996,
       "name": "Grow Old with Me",
       "url": "https://open.spotify.com/track/5Z871eY8ziD9AXw3EM9ymx"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "In the Magic Hour",
+        "url": "https://open.spotify.com/album/5cUCgoaLWfzbwZRLVCIqTe"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 197466,
+      "name": "Porch Light",
+      "url": "https://open.spotify.com/track/1w9WCqGYdaEUMPs7BAvemm"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1895,22 +1895,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Hello Stranger (feat. S.G. Goodman)",
-        "url": "https://open.spotify.com/album/5jzDJVklyWHXCAkSYWuMsc"
+        "name": "First Time Feeling",
+        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
       },
       "artists": [
         {
-          "name": "Kelsey Waldon",
-          "url": "https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1"
-        },
-        {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+          "name": "Leah Blevins",
+          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
         }
       ],
-      "duration_ms": 226533,
-      "name": "Hello Stranger (feat. S.G. Goodman)",
-      "url": "https://open.spotify.com/track/1gWd9YGWMxVoEH9pSVCBon"
+      "duration_ms": 186016,
+      "name": "First Time Feeling",
+      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1931,18 +1927,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "First Time Feeling",
-        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
+        "name": "Hello Stranger (feat. S.G. Goodman)",
+        "url": "https://open.spotify.com/album/5jzDJVklyWHXCAkSYWuMsc"
       },
       "artists": [
         {
-          "name": "Leah Blevins",
-          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
+          "name": "Kelsey Waldon",
+          "url": "https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1"
+        },
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
         }
       ],
-      "duration_ms": 186016,
-      "name": "First Time Feeling",
-      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
+      "duration_ms": 226533,
+      "name": "Hello Stranger (feat. S.G. Goodman)",
+      "url": "https://open.spotify.com/track/1gWd9YGWMxVoEH9pSVCBon"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
+      },
+      "artists": [
+        {
+          "name": "Indigo Sparke",
+          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
+        }
+      ],
+      "duration_ms": 206950,
+      "name": "Everything Everything",
+      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "Everything's Fine",
         "url": "https://open.spotify.com/album/2IspEKYzqv0yubLpJPUVA3"
       },
@@ -1979,18 +1995,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
+        "name": "When the Cellar Children See the Light of Day",
+        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
       },
       "artists": [
         {
-          "name": "Indigo Sparke",
-          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
+          "name": "Mirel Wagner",
+          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
         }
       ],
-      "duration_ms": 206950,
-      "name": "Everything Everything",
-      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
+      "duration_ms": 180077,
+      "name": "Oak Tree",
+      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2011,22 +2027,6 @@
       "duration_ms": 183560,
       "name": "Abilene",
       "url": "https://open.spotify.com/track/7eBJf9kAJn06HKp2lBEWi2"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "When the Cellar Children See the Light of Day",
-        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
-      },
-      "artists": [
-        {
-          "name": "Mirel Wagner",
-          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
-        }
-      ],
-      "duration_ms": 180077,
-      "name": "Oak Tree",
-      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Walking Proof",
-        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
-      },
-      "artists": [
-        {
-          "name": "Lilly Hiatt",
-          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
-        }
-      ],
-      "duration_ms": 187486,
-      "name": "Brightest Star",
-      "url": "https://open.spotify.com/track/6NdSQSzhnb5nbdqTQICq81"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Pohorylle",
         "url": "https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 187306,
       "name": "Tehachapi",
       "url": "https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Walking Proof",
+        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
+      },
+      "artists": [
+        {
+          "name": "Lilly Hiatt",
+          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
+        }
+      ],
+      "duration_ms": 187486,
+      "name": "Brightest Star",
+      "url": "https://open.spotify.com/track/6NdSQSzhnb5nbdqTQICq81"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "The Bird & the Rifle",
-        "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 198186,
-      "name": "Wreck You",
-      "url": "https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Riddy Arman",
         "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 194306,
       "name": "Too Late to Write a Love Song",
       "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "The Bird & the Rifle",
+        "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 198186,
+      "name": "Wreck You",
+      "url": "https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2291,6 +2291,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "Wax & Wane",
+        "url": "https://open.spotify.com/album/3ulxRbaLIyXhdnbzvvwHhd"
+      },
+      "artists": [
+        {
+          "name": "Alana Henderson",
+          "url": "https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "Wax & Wane",
+      "url": "https://open.spotify.com/track/6NbQzgeMne59nm0NPz7OCC"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "Country Curious",
         "url": "https://open.spotify.com/album/5U47NIIeJLYign4v4Jltxr"
       },
@@ -2307,22 +2323,6 @@
       "duration_ms": 226028,
       "name": "Karma",
       "url": "https://open.spotify.com/track/7nZljN38fxwFPhgQk8mLoO"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Wax & Wane",
-        "url": "https://open.spotify.com/album/3ulxRbaLIyXhdnbzvvwHhd"
-      },
-      "artists": [
-        {
-          "name": "Alana Henderson",
-          "url": "https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "Wax & Wane",
-      "url": "https://open.spotify.com/track/6NbQzgeMne59nm0NPz7OCC"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Like An Old Fashioned Waltz (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TanbE0knS2g91OueucHT9"
-      },
-      "artists": [
-        {
-          "name": "Sandy Denny",
-          "url": "https://open.spotify.com/artist/1kYd37riIExqdm9g0juqGJ"
-        }
-      ],
-      "duration_ms": 335626,
-      "name": "Who Knows Where The Time Goes? - BBC Session - John Peel 11/9/73",
-      "url": "https://open.spotify.com/track/0Adfl7F4StzQMrFgPcR5Ys"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "I've Got That Old Feeling",
         "url": "https://open.spotify.com/album/1ETt1sfe0PREZLQqsIOAU7"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 176400,
       "name": "I've Got That Old Feeling",
       "url": "https://open.spotify.com/track/3W8299AD4n4LAgIr5VGY3X"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Like An Old Fashioned Waltz (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TanbE0knS2g91OueucHT9"
+      },
+      "artists": [
+        {
+          "name": "Sandy Denny",
+          "url": "https://open.spotify.com/artist/1kYd37riIExqdm9g0juqGJ"
+        }
+      ],
+      "duration_ms": 335626,
+      "name": "Who Knows Where The Time Goes? - BBC Session - John Peel 11/9/73",
+      "url": "https://open.spotify.com/track/0Adfl7F4StzQMrFgPcR5Ys"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2427,6 +2427,22 @@
       "duration_ms": 259917,
       "name": "Not Dark Yet",
       "url": "https://open.spotify.com/track/1dEaOuZdcUDIzFWYzv2MG4"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "Wild Turkey",
+      "url": "https://open.spotify.com/track/2U2zfWWmmrdm3rld8CVwIZ"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2483,22 +2499,6 @@
       "duration_ms": 216306,
       "name": "Railroad",
       "url": "https://open.spotify.com/track/5gdfUvZS4OdMA7BJtVG2tJ"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "Wild Turkey",
-      "url": "https://open.spotify.com/track/2U2zfWWmmrdm3rld8CVwIZ"
     },
     {
       "added_at": "2024-03-08 05:01:00",

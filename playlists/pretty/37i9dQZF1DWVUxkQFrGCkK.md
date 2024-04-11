@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > warming up for ibz szn
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,213 likes - 208 songs - 15 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,563 likes - 208 songs - 15 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 66 | [Better Off Alone](https://open.spotify.com/track/2BFa2yuyuoNe3YalZLkefR) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f) | [Better Off Alone](https://open.spotify.com/album/3xHEASPayOb9AxWAOuDE33) | 4:53 |
 | 67 | [DARLING DRIVE](https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [DARLING DRIVE](https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm) | 3:19 |
 | 68 | [Walked In The Room](https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Walked In The Room](https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM) | 3:18 |
-| 69 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 69 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/09QRjJiYl5FTaDKwee1cnR), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 70 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 |
 | 71 | [My Love for You \(Yebba's Heartbreak\) \- Edit](https://open.spotify.com/track/4IC4M64imsv7BGowdrFEzH) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [My Love for You \(Yebba's Heartbreak\)](https://open.spotify.com/album/2du5nqdaDnYOu3k1yCXbBc) | 3:25 |
 | 72 | [The Light](https://open.spotify.com/track/3exmU24JAYup27p2Y5D7gT) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f) | [The Light](https://open.spotify.com/album/6XO2PwbXZjVKY0IzIhLZWy) | 4:33 |
@@ -217,4 +217,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 207 | [Freekazoid \- Ruff Mix](https://open.spotify.com/track/4ICacB65QM2k0ET6oGeF4n) | [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Freekazoid](https://open.spotify.com/album/1LJYdPsBqkqZZRa5wnonsK) | 5:47 |
 | 208 | [Lovely Day \- Austin Millz Remix](https://open.spotify.com/track/3BLqGwshCSzSLNZ2N9mGvy) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Lovely Day \(Austin Millz Remix\)](https://open.spotify.com/album/5Unm1ObgyJx8TvjrqjWqp1) | 2:45 |
 
-Snapshot ID: `MCxjYjhjNzk4MDhkOTlkZmMzMGY0MGZiNDZiNmY0YjU3NjJiZTIzMWVi`
+Snapshot ID: `MCw5NTNmZjFlMWUxNzZiZmIxNzA3YmEyOWU1ZjYyZTMyZDU3YzZiYzA5`

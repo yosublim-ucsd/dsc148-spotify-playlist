@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 124570,
+  "num_followers": 124622,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzEzZDlmNDY5ZjRmYjQ3OGExZWJiZDA1MGViOTRlZjJkODhkYzJm",
+  "snapshot_id": "MCw2MTQ0NmY3MzFlOGY0NzY4NmJhODJjYjNlOTBmOGU4MTU3NTIwY2Nh",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -835,6 +835,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Calm the Storm (Live)",
+        "url": "https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p"
+      },
+      "artists": [
+        {
+          "name": "Union Creative",
+          "url": "https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX"
+        }
+      ],
+      "duration_ms": 311406,
+      "name": "Calm the Storm (Live)",
+      "url": "https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Behold Him (feat. Kim Walker-Smith)",
         "url": "https://open.spotify.com/album/2hXOYMsF8fyrzR68hy6b2W"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 279000,
       "name": "Behold Him (feat. Kim Walker-Smith)",
       "url": "https://open.spotify.com/track/6Gj4kfHYdXw7Cl2xYja85Z"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Calm the Storm (Live)",
-        "url": "https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p"
-      },
-      "artists": [
-        {
-          "name": "Union Creative",
-          "url": "https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX"
-        }
-      ],
-      "duration_ms": 311406,
-      "name": "Calm the Storm (Live)",
-      "url": "https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
+      },
+      "artists": [
+        {
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+        }
+      ],
+      "duration_ms": 230220,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Goodness of God - EP",
         "url": "https://open.spotify.com/album/10cefkv5cfgzr9KhIS6O4n"
       },
@@ -1387,18 +1403,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Hunger",
-        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
+        "name": "THIS MOMENT",
+        "url": "https://open.spotify.com/album/5VXM9tBUk5oboBP6yCJAx9"
       },
       "artists": [
         {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
         }
       ],
-      "duration_ms": 230220,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
+      "duration_ms": 176624,
+      "name": "THIS MOMENT",
+      "url": "https://open.spotify.com/track/1uEUj9f1Rv6Bk420cg0AMS"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1415,22 +1431,6 @@
       "duration_ms": 231964,
       "name": "Never Far (House Church)",
       "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "THIS MOMENT",
-        "url": "https://open.spotify.com/album/5VXM9tBUk5oboBP6yCJAx9"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 176624,
-      "name": "THIS MOMENT",
-      "url": "https://open.spotify.com/track/1uEUj9f1Rv6Bk420cg0AMS"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Fear Not",
-        "url": "https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7"
-      },
-      "artists": [
-        {
-          "name": "FEARLESS BND",
-          "url": "https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP"
-        }
-      ],
-      "duration_ms": 333890,
-      "name": "Not a Chance",
-      "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Jesus Is The Key",
         "url": "https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 389187,
       "name": "Jesus Is The Key",
       "url": "https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Fear Not",
+        "url": "https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7"
+      },
+      "artists": [
+        {
+          "name": "FEARLESS BND",
+          "url": "https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP"
+        }
+      ],
+      "duration_ms": 333890,
+      "name": "Not a Chance",
+      "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1791,26 +1791,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Songs of the House (Live)",
-        "url": "https://open.spotify.com/album/2hM80SW0Vs6ekzIPFzQrwg"
+        "name": "This Is Our Story",
+        "url": "https://open.spotify.com/album/0hgeTBFRUDWPAPRPssbFvM"
       },
       "artists": [
         {
-          "name": "Corey Voss",
-          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
-        },
-        {
-          "name": "Madison Street Worship",
-          "url": "https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53"
-        },
-        {
-          "name": "Olivia Calderwood",
-          "url": "https://open.spotify.com/artist/0NHMLrg0lVjPdcDeIR8skk"
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
         }
       ],
-      "duration_ms": 420693,
-      "name": "More Than Anything - Live",
-      "url": "https://open.spotify.com/track/1KRr2mxRM0BPNoqMVg7fHX"
+      "duration_ms": 341849,
+      "name": "This Is Our Story",
+      "url": "https://open.spotify.com/track/6nMfk0xK3RwJqJxX3l1tLy"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1831,18 +1823,26 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "This Is Our Story",
-        "url": "https://open.spotify.com/album/0hgeTBFRUDWPAPRPssbFvM"
+        "name": "Songs of the House (Live)",
+        "url": "https://open.spotify.com/album/2hM80SW0Vs6ekzIPFzQrwg"
       },
       "artists": [
         {
-          "name": "VOUS Worship",
-          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+          "name": "Corey Voss",
+          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
+        },
+        {
+          "name": "Madison Street Worship",
+          "url": "https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53"
+        },
+        {
+          "name": "Olivia Calderwood",
+          "url": "https://open.spotify.com/artist/0NHMLrg0lVjPdcDeIR8skk"
         }
       ],
-      "duration_ms": 341849,
-      "name": "This Is Our Story",
-      "url": "https://open.spotify.com/track/6nMfk0xK3RwJqJxX3l1tLy"
+      "duration_ms": 420693,
+      "name": "More Than Anything - Live",
+      "url": "https://open.spotify.com/track/1KRr2mxRM0BPNoqMVg7fHX"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1875,6 +1875,30 @@
       "duration_ms": 225472,
       "name": "Nothing But Good",
       "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "The Way Home",
+        "url": "https://open.spotify.com/album/5xAZWDWT0Gnh3cxzOyqZzM"
+      },
+      "artists": [
+        {
+          "name": "The McClures",
+          "url": "https://open.spotify.com/artist/5lI2VDVbI989t1YHEFhGyI"
+        },
+        {
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+        },
+        {
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
+        }
+      ],
+      "duration_ms": 186826,
+      "name": "Only Have One",
+      "url": "https://open.spotify.com/track/4SS5I07LIsF5REanttcAkV"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1943,30 +1967,6 @@
       "duration_ms": 341451,
       "name": "Landslide - Radio Version",
       "url": "https://open.spotify.com/track/6PNcn8mtUlyilOsdgztIHA"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "The Way Home",
-        "url": "https://open.spotify.com/album/5xAZWDWT0Gnh3cxzOyqZzM"
-      },
-      "artists": [
-        {
-          "name": "The McClures",
-          "url": "https://open.spotify.com/artist/5lI2VDVbI989t1YHEFhGyI"
-        },
-        {
-          "name": "Paul McClure",
-          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
-        },
-        {
-          "name": "Hannah McClure",
-          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "Only Have One",
-      "url": "https://open.spotify.com/track/4SS5I07LIsF5REanttcAkV"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2171,26 +2171,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "We Rise We Bow",
-        "url": "https://open.spotify.com/album/6vQiAyokbSLC6BJUZlkKtr"
-      },
-      "artists": [
-        {
-          "name": "Cageless Birds",
-          "url": "https://open.spotify.com/artist/4rZuQD42ETklGQfWmgvqBR"
-        },
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
-        }
-      ],
-      "duration_ms": 339642,
-      "name": "White as Snow",
-      "url": "https://open.spotify.com/track/5XDn9aUqCUt0VAH8gOWjIp"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Living Proof (Live)",
         "url": "https://open.spotify.com/album/4nO5QhGxrtM39dsSjf9q8J"
       },
@@ -2211,22 +2191,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Christ is Enough",
-        "url": "https://open.spotify.com/album/5gjorSNX9eVd90pezKXiW0"
+        "name": "We Rise We Bow",
+        "url": "https://open.spotify.com/album/6vQiAyokbSLC6BJUZlkKtr"
       },
       "artists": [
         {
-          "name": "Dwell Songs",
-          "url": "https://open.spotify.com/artist/6RAMkZgRvrIeqrXtojaxHC"
+          "name": "Cageless Birds",
+          "url": "https://open.spotify.com/artist/4rZuQD42ETklGQfWmgvqBR"
         },
         {
-          "name": "Aaron Williams",
-          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
         }
       ],
-      "duration_ms": 279653,
-      "name": "Christ is Enough",
-      "url": "https://open.spotify.com/track/3UienuMFU5MOlWH4VHs6G3"
+      "duration_ms": 339642,
+      "name": "White as Snow",
+      "url": "https://open.spotify.com/track/5XDn9aUqCUt0VAH8gOWjIp"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2251,6 +2231,26 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Christ is Enough",
+        "url": "https://open.spotify.com/album/5gjorSNX9eVd90pezKXiW0"
+      },
+      "artists": [
+        {
+          "name": "Dwell Songs",
+          "url": "https://open.spotify.com/artist/6RAMkZgRvrIeqrXtojaxHC"
+        },
+        {
+          "name": "Aaron Williams",
+          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "Christ is Enough",
+      "url": "https://open.spotify.com/track/3UienuMFU5MOlWH4VHs6G3"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "He Wears A Crown (Live At CrossBridge)",
         "url": "https://open.spotify.com/album/2DUZyqZywcf2ZBtndcacUs"
       },
@@ -2263,22 +2263,6 @@
       "duration_ms": 312018,
       "name": "He Wears A Crown - Live",
       "url": "https://open.spotify.com/track/6e9VYjX7VFNx7wfoAv01PN"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Your Name (Live)",
-        "url": "https://open.spotify.com/album/3gtzVT6Ai7m4pxfdv1KnjG"
-      },
-      "artists": [
-        {
-          "name": "LIFE Worship",
-          "url": "https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d"
-        }
-      ],
-      "duration_ms": 385294,
-      "name": "Your Name - Live",
-      "url": "https://open.spotify.com/track/6EBl99aH0CywyEmWqje7pW"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2319,6 +2303,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Your Name (Live)",
+        "url": "https://open.spotify.com/album/3gtzVT6Ai7m4pxfdv1KnjG"
+      },
+      "artists": [
+        {
+          "name": "LIFE Worship",
+          "url": "https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d"
+        }
+      ],
+      "duration_ms": 385294,
+      "name": "Your Name - Live",
+      "url": "https://open.spotify.com/track/6EBl99aH0CywyEmWqje7pW"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Stained Glass Stories",
         "url": "https://open.spotify.com/album/63Ir1MRyzg4Ep6ckkWxly8"
       },
@@ -2351,18 +2351,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Altars",
-        "url": "https://open.spotify.com/album/3ODMG0dAX0ALnDlU7s7aes"
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/0egI1RHqW3k0XFfgbiCdVl"
       },
       "artists": [
         {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
         }
       ],
-      "duration_ms": 321533,
-      "name": "Both Sides",
-      "url": "https://open.spotify.com/track/0cLkp9J7Mh6GNUnbiCU1SJ"
+      "duration_ms": 285690,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/0XAaI5oaiMZTYYxl9wPcZc"
     }
   ],
   "unique_name": "New & Bold",

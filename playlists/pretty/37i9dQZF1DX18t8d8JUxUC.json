@@ -1,12 +1,12 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Kevin Kaarl",
-  "num_followers": 21275,
+  "num_followers": 21295,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjNjYWQzYTRlYzkyNmIzZDZlMTIyMGViYWYxYjQwYWU4YWE3MTQ2",
+  "snapshot_id": "MCxkNjIyMzI5ZTk4OTBkMTBiYmRjZmI5N2M2ZjIyYzUyOTJjYzkzYjQ1",
   "tracks": [
     {
       "added_at": "2024-04-05 04:00:00",
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 199936,
-      "name": "Al Norte",
-      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
+      "duration_ms": 201674,
+      "name": "Te Guardo",
+      "url": "https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 201674,
-      "name": "Te Guardo",
-      "url": "https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K"
+      "duration_ms": 199936,
+      "name": "Al Norte",
+      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Nuez",
-        "url": "https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT"
-      },
-      "artists": [
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        }
-      ],
-      "duration_ms": 212698,
-      "name": "Nuez",
-      "url": "https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Balboa",
         "url": "https://open.spotify.com/album/5Tpwq4dowN61wcGVAbO79I"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 220629,
       "name": "Quiero Sentirlo Todo",
       "url": "https://open.spotify.com/track/4nM3NRbtpF2gQwI1pl7Y2T"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Nuez",
+        "url": "https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 212698,
+      "name": "Nuez",
+      "url": "https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/4MMZysMSiZxdQo34c2r8Gi"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 217609,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/6OOxQbWcBMCcucTsQnS7yu"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Nada Para Ti",
         "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
       },
@@ -1091,6 +1075,38 @@
       "duration_ms": 236255,
       "name": "Nada Para Ti",
       "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/4MMZysMSiZxdQo34c2r8Gi"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 217609,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/6OOxQbWcBMCcucTsQnS7yu"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "donde est\u00e9s t\u00fa",
+        "url": "https://open.spotify.com/album/5OKBQbFb9a13Cig2X6dufT"
+      },
+      "artists": [
+        {
+          "name": "Hey Kid",
+          "url": "https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF"
+        }
+      ],
+      "duration_ms": 179124,
+      "name": "donde est\u00e9s t\u00fa",
+      "url": "https://open.spotify.com/track/6tGc5ksGGbMXsxjJLzYYfv"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1163,38 +1179,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "donde est\u00e9s t\u00fa",
-        "url": "https://open.spotify.com/album/5OKBQbFb9a13Cig2X6dufT"
-      },
-      "artists": [
-        {
-          "name": "Hey Kid",
-          "url": "https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF"
-        }
-      ],
-      "duration_ms": 179124,
-      "name": "donde est\u00e9s t\u00fa",
-      "url": "https://open.spotify.com/track/6tGc5ksGGbMXsxjJLzYYfv"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Qu\u00e9 Tal",
-        "url": "https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Santamaria",
-          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
-        }
-      ],
-      "duration_ms": 164266,
-      "name": "Qu\u00e9 Tal",
-      "url": "https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "hastalamadre",
         "url": "https://open.spotify.com/album/3b3iMyMBwjPko7SBusTHTQ"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 235966,
       "name": "hastalamadre",
       "url": "https://open.spotify.com/track/19QQ5cSAP5ERRJJXN937OB"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Qu\u00e9 Tal",
+        "url": "https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Santamaria",
+          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
+        }
+      ],
+      "duration_ms": 164266,
+      "name": "Qu\u00e9 Tal",
+      "url": "https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "duration_ms": 196034,
+      "name": "Hace rato",
+      "url": "https://open.spotify.com/track/0QoKaa9fZSFmz9R61OVkTR"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Extra\u00f1os",
         "url": "https://open.spotify.com/album/1xVFra112Tpaamfi9g1ppn"
       },
@@ -1263,18 +1279,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Lisboa",
-        "url": "https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW"
+        "name": "Peregrino",
+        "url": "https://open.spotify.com/album/0SeDqeZyGYdkNPXChFJ8xJ"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+          "name": "Carlos Ares",
+          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
         }
       ],
-      "duration_ms": 196034,
-      "name": "Hace rato",
-      "url": "https://open.spotify.com/track/0QoKaa9fZSFmz9R61OVkTR"
+      "duration_ms": 151500,
+      "name": "Aqu\u00ed Todav\u00eda",
+      "url": "https://open.spotify.com/track/40wGHb1MEFD14puM78mvLh"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1299,18 +1315,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Peregrino",
-        "url": "https://open.spotify.com/album/0SeDqeZyGYdkNPXChFJ8xJ"
+        "name": "Todo alrededor",
+        "url": "https://open.spotify.com/album/1c33eptv7tyacbAgU9X6rO"
       },
       "artists": [
         {
-          "name": "Carlos Ares",
-          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
         }
       ],
-      "duration_ms": 151500,
-      "name": "Aqu\u00ed Todav\u00eda",
-      "url": "https://open.spotify.com/track/40wGHb1MEFD14puM78mvLh"
+      "duration_ms": 248937,
+      "name": "Somos raros",
+      "url": "https://open.spotify.com/track/7vqd25RugFisRuScw3xSyq"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1379,22 +1395,6 @@
       "duration_ms": 236301,
       "name": "Te Lo Debo Contar",
       "url": "https://open.spotify.com/track/3qF89WKp5gQSabVlH1gpXj"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Todo alrededor",
-        "url": "https://open.spotify.com/album/1c33eptv7tyacbAgU9X6rO"
-      },
-      "artists": [
-        {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
-        }
-      ],
-      "duration_ms": 248937,
-      "name": "Somos raros",
-      "url": "https://open.spotify.com/track/7vqd25RugFisRuScw3xSyq"
     },
     {
       "added_at": "2024-04-05 04:00:00",

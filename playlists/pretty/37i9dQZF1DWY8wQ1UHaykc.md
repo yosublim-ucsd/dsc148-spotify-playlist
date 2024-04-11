@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Astrid
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,610 likes - 125 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,695 likes - 125 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,11 +95,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 | 85 | [Berawal Dari Tatap](https://open.spotify.com/track/4K0YdYv8a6UC9fWi9hV5MH) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 4:21 |
 | 86 | [Jikalau Kau Cinta](https://open.spotify.com/track/29gdEEyeHC9ypmvQkohY4N) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Judika](https://open.spotify.com/album/1h2elFGPiDYv69SXWwLjkr) | 4:02 |
 | 87 | [Bahagia](https://open.spotify.com/track/31swUEisRXt0oEz3iM6MOy) | [GAC \(Gamaliél Audrey Cantika\)](https://open.spotify.com/artist/3YYdJZO7kX8nwDzN3YJzdW) | [Bahagia](https://open.spotify.com/album/6DDxznSldww5bW8Zbi9EGg) | 3:42 |
-| 88 | [Waktu Yang Salah](https://open.spotify.com/track/47caohVI6Qe7KY8EuaRtg0) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV), [Thantri Sundari](https://open.spotify.com/artist/5jVRSr4hRxxwEFeG3uWFGV) | [Tempat Aku Pulang](https://open.spotify.com/album/2jZflSCJ8hq8bp7bBzioOx) | 5:23 |
+| 88 | [Waktu Yang Salah](https://open.spotify.com/track/5Vl0qvoR05RwOamV73C1Av) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV), [Thantri Sundari](https://open.spotify.com/artist/5jVRSr4hRxxwEFeG3uWFGV) | [Tempat Aku Pulang](https://open.spotify.com/album/2Vu9vlqebIXTxVSZiuxpyj) | 5:23 |
 | 89 | [Harusnya Aku](https://open.spotify.com/track/4NO6tr1qkrDQWgz0IEyxwE) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Pagi Pulang Pagi](https://open.spotify.com/album/3WOli1F3NswIesoWcJ6jpa) | 4:42 |
 | 90 | [Takkan Terganti](https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [And the Story Continues...](https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ) | 4:01 |
 | 91 | [Asal Kau Bahagia](https://open.spotify.com/track/79AlxPlv70kuRlsi2eZsnV) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Maju Terus Pantang Mundur \(Deluxe Version\)](https://open.spotify.com/album/1wCop93d6T0oG496Qman6b) | 4:05 |
-| 92 | [Celengan Rindu](https://open.spotify.com/track/7CiPakkZPCHtYnHtsEHR8n) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Tempat Aku Pulang](https://open.spotify.com/album/2jZflSCJ8hq8bp7bBzioOx) | 3:42 |
+| 92 | [Celengan Rindu](https://open.spotify.com/track/4O0OMqWfNx46cQ3QraORIz) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Tempat Aku Pulang](https://open.spotify.com/album/2Vu9vlqebIXTxVSZiuxpyj) | 3:42 |
 | 93 | [Terlalu Lama Sendiri](https://open.spotify.com/track/2BYjHJxyEgy5Bu8wFgeSAg) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [Generation Y](https://open.spotify.com/album/6AsfYvHD9yFB7UrZLeWsuZ) | 4:01 |
 | 94 | [Dengan Caraku](https://open.spotify.com/track/6zZMfagNj5Nr8rSdJ9KLqq) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb) | [Dengan Caraku](https://open.spotify.com/album/6lfnTiXmRbPWrK40luaKFo) | 4:32 |
 | 95 | [Cinta Luar Biasa](https://open.spotify.com/track/4TPtPQIPMjWoRuZj4JLPDw) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Cinta Luar Biasa](https://open.spotify.com/album/5mCUtD20kAyTi6gmsYwxHt) | 4:17 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 | 124 | [I Don't Care](https://open.spotify.com/track/5ilDbZZfx3PAIuPiyRHRuY) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [I Don't Care](https://open.spotify.com/album/3eg2siLGCzvQuT2iBIHmUE) | 4:08 |
 | 125 | [Aku Bukan Bang Toyib](https://open.spotify.com/track/2Hj56hnZ8aAFxxkh7HMfsE) | [Wali](https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J) | [Aku Bukan Bang Toyib](https://open.spotify.com/album/4SU72f8lCnTr1GM9GPkFPY) | 3:26 |
 
-Snapshot ID: `MCw4Yjg2NzYwOTRlYjhiYzEwNzdmNDRiNzM4MjI0MWY5NmE0YmQ4MmNj`
+Snapshot ID: `MCw4Yzc5ODg2YjQ0NjY3MWZhZTg5YmRiMjdiNTg2MmNjNGU0YmNjY2Mw`

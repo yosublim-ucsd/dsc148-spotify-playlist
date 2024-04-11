@@ -1,12 +1,12 @@
 {
   "description": "Dale play, y que el amor no pare.",
-  "num_followers": 178428,
+  "num_followers": 178483,
   "original_name": "Enganchados: Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWI3MjUwNzhkMGRmYTYzZWQwNGRlZWI5ZmNmMzllZWViOWUzYWZj",
+  "snapshot_id": "MCwxNjAxYTdmNjUyN2YzZmI3NWExYzZlOGJiZmI4MDQ0ZDUxOTM4ZjEz",
   "tracks": [
     {
       "added_at": "2024-03-29 17:38:14",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-03-29 17:38:14",
       "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 239426,
-      "name": "Abr\u00e1zame Muy Fuerte",
-      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
-    },
-    {
-      "added_at": "2024-03-29 17:38:14",
-      "album": {
         "name": "Amor Supremo (Desnudo)",
         "url": "https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 242446,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa"
+    },
+    {
+      "added_at": "2024-03-29 17:38:14",
+      "album": {
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 239426,
+      "name": "Abr\u00e1zame Muy Fuerte",
+      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
     },
     {
       "added_at": "2024-03-29 17:38:14",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-03-29 17:38:14",
       "album": {
-        "name": "En Total Plenitud",
-        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
-      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
-    },
-    {
-      "added_at": "2024-03-29 17:38:14",
-      "album": {
         "name": "20 A\u00f1os",
         "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 263906,
       "name": "Entr\u00e9gate",
       "url": "https://open.spotify.com/track/5fj3zNkXfOlrJGVcZBId6D"
+    },
+    {
+      "added_at": "2024-03-29 17:38:14",
+      "album": {
+        "name": "En Total Plenitud",
+        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
+      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
     },
     {
       "added_at": "2024-03-29 17:38:14",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-03-29 17:38:14",
       "album": {
-        "name": "Amar Es Combatir",
-        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 317626,
-      "name": "Labios Compartidos",
-      "url": "https://open.spotify.com/track/4C2zOFgrXxfNGNpYQWIcaH"
-    },
-    {
-      "added_at": "2024-03-29 17:38:14",
-      "album": {
         "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
         "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 289866,
       "name": "Tan Enamorados",
       "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
+    },
+    {
+      "added_at": "2024-03-29 17:38:14",
+      "album": {
+        "name": "Amar Es Combatir",
+        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 317626,
+      "name": "Labios Compartidos",
+      "url": "https://open.spotify.com/track/4C2zOFgrXxfNGNpYQWIcaH"
     },
     {
       "added_at": "2024-03-29 17:38:14",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-03-29 17:38:14",
       "album": {
-        "name": "Ya No Vuelvas",
-        "url": "https://open.spotify.com/album/2eK5Sw1SDSiCpLNUm6MFoS"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        }
-      ],
-      "duration_ms": 144491,
-      "name": "Ya No Vuelvas",
-      "url": "https://open.spotify.com/track/6rz0n5iiiFOD9PMuBnFCJV"
-    },
-    {
-      "added_at": "2024-03-29 17:38:14",
-      "album": {
         "name": "\u00bfD\u00f3nde Est\u00e1n Coraz\u00f3n?",
         "url": "https://open.spotify.com/album/2PvvCXswfTBnTHDg3GIh9p"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 259399,
       "name": "\u00bfD\u00f3nde Est\u00e1n Coraz\u00f3n?",
       "url": "https://open.spotify.com/track/0Ky9DFq4xtsIZQiI0d2fnG"
+    },
+    {
+      "added_at": "2024-03-29 17:38:14",
+      "album": {
+        "name": "Ya No Vuelvas",
+        "url": "https://open.spotify.com/album/2eK5Sw1SDSiCpLNUm6MFoS"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "duration_ms": 144491,
+      "name": "Ya No Vuelvas",
+      "url": "https://open.spotify.com/track/6rz0n5iiiFOD9PMuBnFCJV"
     },
     {
       "added_at": "2024-03-29 17:38:14",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-03-29 17:38:14",
       "album": {
+        "name": "Cosas Del Amor",
+        "url": "https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 189693,
+      "name": "Esperanza",
+      "url": "https://open.spotify.com/track/5bYw6PI3uwvfcNXKCAO84C"
+    },
+    {
+      "added_at": "2024-03-29 17:38:14",
+      "album": {
         "name": "Are\u00edto",
         "url": "https://open.spotify.com/album/2fWv7QiXsz8YKIIEtK7oK1"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 228240,
       "name": "Tanto Amor",
       "url": "https://open.spotify.com/track/12dlQ3DhTydNecGP6atzIu"
-    },
-    {
-      "added_at": "2024-03-29 17:38:14",
-      "album": {
-        "name": "Cosas Del Amor",
-        "url": "https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 189693,
-      "name": "Esperanza",
-      "url": "https://open.spotify.com/track/5bYw6PI3uwvfcNXKCAO84C"
     },
     {
       "added_at": "2024-03-29 17:38:14",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-03-29 17:38:14",
       "album": {
-        "name": "La Dif\u00edcil",
-        "url": "https://open.spotify.com/album/6Pc3YAtxdkZba2tpmeXAXW"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 158533,
-      "name": "La Dif\u00edcil",
-      "url": "https://open.spotify.com/track/0PaNKfwdqHjmW7hVEQ0lbu"
-    },
-    {
-      "added_at": "2024-03-29 17:38:14",
-      "album": {
         "name": "Sergio Dalma En Concierto",
         "url": "https://open.spotify.com/album/0luSmXE3F4tZWmomnjLF0r"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 274933,
       "name": "Bailar Pegados - En Concierto",
       "url": "https://open.spotify.com/track/4Z7hD7n1hmjbqAmitLFY5V"
+    },
+    {
+      "added_at": "2024-03-29 17:38:14",
+      "album": {
+        "name": "La Dif\u00edcil",
+        "url": "https://open.spotify.com/album/6Pc3YAtxdkZba2tpmeXAXW"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 158533,
+      "name": "La Dif\u00edcil",
+      "url": "https://open.spotify.com/track/0PaNKfwdqHjmW7hVEQ0lbu"
     },
     {
       "added_at": "2024-03-29 17:38:14",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-03-29 17:38:14",
       "album": {
-        "name": "El Rock De Mi Pueblo",
-        "url": "https://open.spotify.com/album/605XadNlpraxshOvMt9UXl"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 214813,
-      "name": "Voy A Olvidarme De Mi",
-      "url": "https://open.spotify.com/track/2s66rxdujHHVhNNnJfgL2D"
-    },
-    {
-      "added_at": "2024-03-29 17:38:14",
-      "album": {
         "name": "Tu Mano",
         "url": "https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 249333,
       "name": "Ser\u00e9",
       "url": "https://open.spotify.com/track/50M1kLXHo81fX9puNdB5ER"
+    },
+    {
+      "added_at": "2024-03-29 17:38:14",
+      "album": {
+        "name": "El Rock De Mi Pueblo",
+        "url": "https://open.spotify.com/album/605XadNlpraxshOvMt9UXl"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 214813,
+      "name": "Voy A Olvidarme De Mi",
+      "url": "https://open.spotify.com/track/2s66rxdujHHVhNNnJfgL2D"
     },
     {
       "added_at": "2024-03-29 17:38:14",

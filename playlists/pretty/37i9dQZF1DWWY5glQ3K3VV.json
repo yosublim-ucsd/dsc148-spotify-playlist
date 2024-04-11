@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Rhove, ANNA",
-  "num_followers": 97127,
+  "num_followers": 97175,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTEyZWRkNjFhMzFmZDU0ZWE0ZTQ1ZjVjMDMzNTZjOTBlMTFhNjU4",
+  "snapshot_id": "MCwyYzU0MDg4Y2FjZTI1MzZiZGQ1YjQyMDU5NDJhOWViZDFkOWQwNzJm",
   "tracks": [
     {
       "added_at": "2024-04-09 13:14:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-04-09 13:14:00",
       "album": {
+        "name": "Pelele",
+        "url": "https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 216827,
+      "name": "Pelele",
+      "url": "https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2"
+    },
+    {
+      "added_at": "2024-04-09 13:14:00",
+      "album": {
         "name": "VETRI NERI",
         "url": "https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 164776,
       "name": "VETRI NERI",
       "url": "https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen"
-    },
-    {
-      "added_at": "2024-04-09 13:14:00",
-      "album": {
-        "name": "Pelele",
-        "url": "https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 216827,
-      "name": "Pelele",
-      "url": "https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2"
     },
     {
       "added_at": "2024-04-09 13:14:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-04-09 13:14:00",
       "album": {
-        "name": "Ayy Macarena",
-        "url": "https://open.spotify.com/album/3Cse4lihKX7ww99QnZGQAh"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 131606,
-      "name": "Ayy Macarena",
-      "url": "https://open.spotify.com/track/6LcauUZjF1eXQrgqMUecHX"
-    },
-    {
-      "added_at": "2024-04-09 13:14:00",
-      "album": {
         "name": "I CAN FLY",
         "url": "https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu"
       },
@@ -687,22 +671,18 @@
     {
       "added_at": "2024-04-09 13:14:00",
       "album": {
-        "name": "SIRIO",
-        "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
+        "name": "Ayy Macarena",
+        "url": "https://open.spotify.com/album/3Cse4lihKX7ww99QnZGQAh"
       },
       "artists": [
         {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 155862,
-      "name": "PIOVE (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou"
+      "duration_ms": 131606,
+      "name": "Ayy Macarena",
+      "url": "https://open.spotify.com/track/6LcauUZjF1eXQrgqMUecHX"
     },
     {
       "added_at": "2024-04-09 13:14:00",
@@ -723,6 +703,26 @@
       "duration_ms": 175774,
       "name": "Night Away (Dance) (feat. Tion Wayne)",
       "url": "https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g"
+    },
+    {
+      "added_at": "2024-04-09 13:14:00",
+      "album": {
+        "name": "SIRIO",
+        "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 155862,
+      "name": "PIOVE (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou"
     },
     {
       "added_at": "2024-04-09 13:14:00",
@@ -1131,18 +1131,22 @@
     {
       "added_at": "2024-04-09 13:14:00",
       "album": {
-        "name": "Bossoli",
-        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/6RfOBcxexu6ZYIUS9HG9Al"
       },
       "artists": [
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
         }
       ],
-      "duration_ms": 178758,
-      "name": "Bossoli",
-      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
+      "duration_ms": 157714,
+      "name": "Suavemente",
+      "url": "https://open.spotify.com/track/7Bz5B6hEU5TS145QYTfc3k"
     },
     {
       "added_at": "2024-04-09 13:14:00",
@@ -1187,22 +1191,18 @@
     {
       "added_at": "2024-04-09 13:14:00",
       "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/6RfOBcxexu6ZYIUS9HG9Al"
+        "name": "Bossoli",
+        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
       },
       "artists": [
         {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "Boro",
-          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         }
       ],
-      "duration_ms": 157714,
-      "name": "Suavemente",
-      "url": "https://open.spotify.com/track/7Bz5B6hEU5TS145QYTfc3k"
+      "duration_ms": 178758,
+      "name": "Bossoli",
+      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
     },
     {
       "added_at": "2024-04-09 13:14:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-04-09 13:14:00",
       "album": {
-        "name": "RADIO SAKURA",
-        "url": "https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo"
-      },
-      "artists": [
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        }
-      ],
-      "duration_ms": 124561,
-      "name": "HUH?",
-      "url": "https://open.spotify.com/track/5yUcawImV9VeElsec6QOFy"
-    },
-    {
-      "added_at": "2024-04-09 13:14:00",
-      "album": {
         "name": "Valentino Rossi",
         "url": "https://open.spotify.com/album/6EwyAqpWB0x93nzVeiiqTQ"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 119495,
       "name": "Valentino Rossi",
       "url": "https://open.spotify.com/track/5IjPpqpiQ7C4wOsJFUGhaH"
+    },
+    {
+      "added_at": "2024-04-09 13:14:00",
+      "album": {
+        "name": "RADIO SAKURA",
+        "url": "https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        }
+      ],
+      "duration_ms": 124561,
+      "name": "HUH?",
+      "url": "https://open.spotify.com/track/5yUcawImV9VeElsec6QOFy"
     },
     {
       "added_at": "2024-04-09 13:14:00",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2024-04-09 13:14:00",
       "album": {
+        "name": "DIOSA (Remix)",
+        "url": "https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE"
+      },
+      "artists": [
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        },
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        }
+      ],
+      "duration_ms": 143641,
+      "name": "DIOSA - Remix",
+      "url": "https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys"
+    },
+    {
+      "added_at": "2024-04-09 13:14:00",
+      "album": {
         "name": "IL MINORENNE + BASTARDO",
         "url": "https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE"
       },
@@ -1475,26 +1495,6 @@
       "duration_ms": 166522,
       "name": "PULL UP (feat. Big P)",
       "url": "https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW"
-    },
-    {
-      "added_at": "2024-04-09 13:14:00",
-      "album": {
-        "name": "DIOSA (Remix)",
-        "url": "https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE"
-      },
-      "artists": [
-        {
-          "name": "Peppe Soks",
-          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
-        },
-        {
-          "name": "Nathys",
-          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
-        }
-      ],
-      "duration_ms": 143641,
-      "name": "DIOSA - Remix",
-      "url": "https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys"
     },
     {
       "added_at": "2024-04-09 13:14:00",

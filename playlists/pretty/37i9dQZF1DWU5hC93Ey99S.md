@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,843 likes - 212 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,065 likes - 212 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 82 | [Let Go](https://open.spotify.com/track/1qhdqpo6lgejiIOoaACXNG) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Let Go](https://open.spotify.com/album/26kfhv3S8MoeN7pzh2FSPE) | 2:04 |
 | 83 | [Slowdown \(girl what's up\)](https://open.spotify.com/track/4xexPtg7VSPCf9hM3aZdfZ) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx) | [Slowdown \(girl what's up\)](https://open.spotify.com/album/4B6I2s8qDymQLWT9qtJOtW) | 2:03 |
 | 84 | [Broken Heart](https://open.spotify.com/track/2izq5CuZDIFIlfUydVXT1G) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL), [Fanta Ballo](https://open.spotify.com/artist/0vBbILw90erFScUxxhD5Kg) | [Broken Heart](https://open.spotify.com/album/3L4ohYAwAkSybnk7N3sE1l) | 3:27 |
-| 85 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 85 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/09QRjJiYl5FTaDKwee1cnR), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 86 | [Lost In The Melody](https://open.spotify.com/track/5YEYbqDTxFBuwEVVGRQCwz) | [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag) | [Lost In The Melody](https://open.spotify.com/album/3c94wnBH81Zrj5M1KHzwYj) | 3:02 |
 | 87 | [Feel You In Love](https://open.spotify.com/track/1HSlSne8NSLQIqZMIs97AI) | [Bjarne Hendrik](https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2) | [Feel You In Love](https://open.spotify.com/album/0FO0x3qrzxMlsZqRNFYooN) | 3:13 |
 | 88 | [Other Side](https://open.spotify.com/track/74qKLdiiTnXNqh2Co21RlJ) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Other Side](https://open.spotify.com/album/1x58rOMA6gcxJdrgzbGVTo) | 3:26 |
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 211 | [RUN INTO MY ARMS](https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [BLEACH \[Hi\-Fi\]](https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l) | 3:00 |
 | 212 | [Confused 133](https://open.spotify.com/track/2L5FCkyzwgpPMsgoTuB7qr) | [Ninezz](https://open.spotify.com/artist/6QnL72psaayojSvTDQaJqY) | [Confused 133](https://open.spotify.com/album/318k5epPI1tchtYBglX5kM) | 2:42 |
 
-Snapshot ID: `MCw2NDYxNzAyNGFlNmFmNTAzZTJhY2E4ZTk4NTExMDRmZjc1MDNiMTQz`
+Snapshot ID: `MCw2ODRmYTA3ZDEzYTliMGNhNjc1NjM4NTBkMWZhNmIwYTA2MDBmNzhm`

@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 46638,
+  "num_followers": 46917,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzM5MjllYjU3OGY4YTY4YzM5OTQ3YmQ4Mzc2OTI0OTdiZWJhNGU5",
+  "snapshot_id": "MCw1MDk4ODdhODNjZGRiNGQ5ZGU4MThiNTI1OWVkN2M5ZWQzYmY2MDk0",
   "tracks": [
     {
       "added_at": null,
@@ -443,26 +443,30 @@
     {
       "added_at": null,
       "album": {
-        "name": ".38",
-        "url": "https://open.spotify.com/album/0mJJ8TX7LK2MCa8TIHapaO"
+        "name": "VER\u00c3O CRIMINOSO",
+        "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
       },
       "artists": [
         {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
         },
         {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
         },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Gigantes",
+          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
         }
       ],
-      "duration_ms": 126678,
-      "name": ".38",
-      "url": "https://open.spotify.com/track/3nobSbq9rggHUEbRBoZaDg"
+      "duration_ms": 240055,
+      "name": "HOTEL ZONA SUL",
+      "url": "https://open.spotify.com/track/3yavOAIet93Kag6H5ZeECs"
     },
     {
       "added_at": null,
@@ -515,34 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VER\u00c3O CRIMINOSO",
-        "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
-      },
-      "artists": [
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Gigantes",
-          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
-        }
-      ],
-      "duration_ms": 240055,
-      "name": "HOTEL ZONA SUL",
-      "url": "https://open.spotify.com/track/3yavOAIet93Kag6H5ZeECs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O L\u00edder em Movimento",
         "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
       },
@@ -563,6 +539,30 @@
       "duration_ms": 256161,
       "name": "Universo",
       "url": "https://open.spotify.com/track/5viYjPE1J4BxCwBeY5Jma1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": ".38",
+        "url": "https://open.spotify.com/album/0mJJ8TX7LK2MCa8TIHapaO"
+      },
+      "artists": [
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        },
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 126678,
+      "name": ".38",
+      "url": "https://open.spotify.com/track/3nobSbq9rggHUEbRBoZaDg"
     },
     {
       "added_at": null,

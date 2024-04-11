@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 818057,
+  "2024-04-11": 818174,
   "date_first_scraped": "2021-12-21",
   "description": "Setting sights on banging <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a>.",
   "name": "Trance Mission",
@@ -5352,6 +5352,28 @@
     },
     {
       "album": {
+        "name": "Falling Free",
+        "url": "https://open.spotify.com/album/4SX2gEDnF0eCCnBWZHHFwS"
+      },
+      "artists": [
+        {
+          "name": "Ruben de Ronde",
+          "url": "https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m"
+        },
+        {
+          "name": "AunA",
+          "url": "https://open.spotify.com/artist/3WKwSfbeWEtLBUENdbdJ2A"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242250,
+      "name": "Falling Free",
+      "url": "https://open.spotify.com/track/6pCPpsRjMvZsZC85bwH1u0"
+    },
+    {
+      "album": {
         "name": "Fata Morgana",
         "url": "https://open.spotify.com/album/6JJcpji6WEQKGEPdf473uv"
       },
@@ -10561,10 +10583,6 @@
         {
           "name": "Woody van Eyden",
           "url": "https://open.spotify.com/artist/4G2mPOOfWyqNO338GJTOK5"
-        },
-        {
-          "name": "Marjan",
-          "url": "https://open.spotify.com/artist/1Z9AMFrgGmPJAqLqVTzrHZ"
         }
       ],
       "date_added": "2024-02-16",
@@ -11799,7 +11817,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 231304,
       "name": "Only Now I See - Mike Zaloxx Remix",
       "url": "https://open.spotify.com/track/61kUZ4u03R6SttbBpnm0oz"
@@ -13463,7 +13481,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 189271,
       "name": "Rude Place",
       "url": "https://open.spotify.com/track/3jaCvMRb5sDRzZsNy6Xm3l"
@@ -16241,6 +16259,32 @@
       "duration_ms": 213863,
       "name": "The Greater Light To Rule The Night",
       "url": "https://open.spotify.com/track/3cfMvE8xePwTp2L7gZyZqN"
+    },
+    {
+      "album": {
+        "name": "The Hardest Thing",
+        "url": "https://open.spotify.com/album/6KH2zsh0pykjbSzonZRtNy"
+      },
+      "artists": [
+        {
+          "name": "Christina Novelli",
+          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
+        },
+        {
+          "name": "Alokin",
+          "url": "https://open.spotify.com/artist/0EUBUNrg3RtPMNcxgLCvIb"
+        },
+        {
+          "name": "EpicFail",
+          "url": "https://open.spotify.com/artist/46kTr5OytqsMqNCG0r3KUD"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174276,
+      "name": "The Hardest Thing",
+      "url": "https://open.spotify.com/track/3OVD8RzPMi9TiNOGisbFvh"
     },
     {
       "album": {

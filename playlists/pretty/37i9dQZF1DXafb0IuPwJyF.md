@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: 米津玄師
 
-[Spotify](https://open.spotify.com/user/spotify) - 895,429 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 895,847 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [Shine Out](https://open.spotify.com/track/2FgLVjctguMwUcYURQUOYA) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Shine Out](https://open.spotify.com/album/2rO5QkM3BmZw0NLbQe7LJB) | 3:30 |
 | 50 | [Last Party Never End \(feat\. Tiji Jojo, YZERR, Vingo & Yellow Pato\)](https://open.spotify.com/track/5Hwa5y5WmiUjede9HJz9c0) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH), [Yellow Pato](https://open.spotify.com/artist/1NdYIG2u5Dj0nFP8fPbGcr) | [BAD HOP \(Deluxe Edition\)](https://open.spotify.com/album/79JJkBZaJpiN8d1ELd7Q1r) | 4:15 |
 
-Snapshot ID: `MCw2ZWY2NGFhNTI4MzJiMzgwNDI2NmM3NDg2ODM0Nzg3ZDcxYTg3YzE1`
+Snapshot ID: `MCxiMTI4ZjlhOTY1OWRkMGMwOWM2N2M4YzI0NDlkZmE5ZDI1YjY0YzFk`

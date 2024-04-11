@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 213698,
+  "num_followers": 213793,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzc5NThjMTgyMjM4M2UyM2JmYjI1NGJmZTM3NGI1ZDE5ZDJkZTQx",
+  "snapshot_id": "MCxiNTIwN2VlMjdiYmFlODk2ZTg1ODIwMDYzNjBlZWI1ODA2OGQ3Njk3",
   "tracks": [
     {
       "added_at": "2024-02-07 16:33:52",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "The Damned, the Shamed",
-        "url": "https://open.spotify.com/album/08ujsql7ywpo2VBmLgMNsW"
-      },
-      "artists": [
-        {
-          "name": "Terror",
-          "url": "https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "Never Alone",
-      "url": "https://open.spotify.com/track/4Z4W0zIwGr9eJ40opS0t2C"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "This Is Just the Beginning",
         "url": "https://open.spotify.com/album/7dQvyMUCPrvgLNmvjvC7C4"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 96053,
       "name": "Can't Take It Away",
       "url": "https://open.spotify.com/track/1oBPEkzGxFXHQvF5RfFws2"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "The Damned, the Shamed",
+        "url": "https://open.spotify.com/album/08ujsql7ywpo2VBmLgMNsW"
+      },
+      "artists": [
+        {
+          "name": "Terror",
+          "url": "https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/4Z4W0zIwGr9eJ40opS0t2C"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "For Those Who Were Crucified",
-        "url": "https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m"
+        "name": "Break Down The Walls",
+        "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
       },
       "artists": [
         {
-          "name": "All Out War",
-          "url": "https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV"
+          "name": "Youth Of Today",
+          "url": "https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL"
         }
       ],
-      "duration_ms": 116173,
-      "name": "Burning Season",
-      "url": "https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ"
+      "duration_ms": 100800,
+      "name": "Take a Stand",
+      "url": "https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Break Down The Walls",
-        "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
+        "name": "For Those Who Were Crucified",
+        "url": "https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m"
       },
       "artists": [
         {
-          "name": "Youth Of Today",
-          "url": "https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL"
+          "name": "All Out War",
+          "url": "https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV"
         }
       ],
-      "duration_ms": 100800,
-      "name": "Take a Stand",
-      "url": "https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ"
+      "duration_ms": 116173,
+      "name": "Burning Season",
+      "url": "https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ"
     },
     {
       "added_at": "2024-02-07 16:33:52",

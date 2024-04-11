@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,557 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,575 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 36 | [Amaneció lloviendo](https://open.spotify.com/track/3zZsSn7sjY7sZQtRT7tJNa) | [Talento de Barrio](https://open.spotify.com/artist/0HTe9EZNu88PPSaDDOPpdq) | [Amaneció lloviendo](https://open.spotify.com/album/0IxIeG2XORcCoPjyGWtBzt) | 3:09 |
 | 37 | [Solito](https://open.spotify.com/track/3GyVh0ptPs7ttfbpex6Bmn) | [Salamandra](https://open.spotify.com/artist/1sLot73qJ4Vbh4nPuwzvj9) | [Alma en Peña](https://open.spotify.com/album/4bkPnI5gKmETlDyZe5BKEH) | 3:56 |
 | 38 | [Vienes y Te Vas](https://open.spotify.com/track/4L81kjuMNo9Gg6h1Bkyi0F) | [Grupo Ternura](https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq) | [El Rey del Norte](https://open.spotify.com/album/3AtBWO9bJ7HzPoVXkfrVKf) | 3:18 |
-| 39 | [Pobre De Mis Ojos](https://open.spotify.com/track/22vlaPIylFwBjlsqIVDNHC) | [Noa \- Noa](https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7) | [Olvídame Si Puedes](https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H) | 3:18 |
-| 40 | [En Un Solo Dia](https://open.spotify.com/track/3Me4qJDkBKKfIFWg7JcLY6) | [Negros](https://open.spotify.com/artist/3eA9KcIgfIe4siS6dByAb4), [Alina Vargas](https://open.spotify.com/artist/7uG4YWxqyeeSaZMnv7ekzV) | [Armadura De Rosas](https://open.spotify.com/album/7q1Ya9cTQeN1ryNie2dDaF) | 3:09 |
-| 41 | [Amarte a la antigua](https://open.spotify.com/track/5aHoyryz0I6llzRyhPyEQR) | [Banda Santa Fe](https://open.spotify.com/artist/1qBjaneNSXBteutRVWFsgG) | [Banda Santa Fe, con más estilo...](https://open.spotify.com/album/2wcBjXnBHcj9aEpiXI9XNT) | 3:53 |
-| 42 | [Me Liberé](https://open.spotify.com/track/32qhajow0UHHPmNudtmfKK) | [Yelsid](https://open.spotify.com/artist/0BkX3f2WgeqNgvulzPLc7R) | [Me Liberé](https://open.spotify.com/album/251i0oXvNIWZW05XMycMZQ) | 3:37 |
-| 43 | [La Mami Que Mas Quiero](https://open.spotify.com/track/0GFknDDycu3HvtlFlBK5h6) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:24 |
+| 39 | [En Un Solo Dia](https://open.spotify.com/track/3Me4qJDkBKKfIFWg7JcLY6) | [Negros](https://open.spotify.com/artist/3eA9KcIgfIe4siS6dByAb4), [Alina Vargas](https://open.spotify.com/artist/7uG4YWxqyeeSaZMnv7ekzV) | [Armadura De Rosas](https://open.spotify.com/album/7q1Ya9cTQeN1ryNie2dDaF) | 3:09 |
+| 40 | [Pobre De Mis Ojos](https://open.spotify.com/track/22vlaPIylFwBjlsqIVDNHC) | [Noa \- Noa](https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7) | [Olvídame Si Puedes](https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H) | 3:18 |
+| 41 | [La Mami Que Mas Quiero](https://open.spotify.com/track/0GFknDDycu3HvtlFlBK5h6) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:24 |
+| 42 | [Amarte a la antigua](https://open.spotify.com/track/5aHoyryz0I6llzRyhPyEQR) | [Banda Santa Fe](https://open.spotify.com/artist/1qBjaneNSXBteutRVWFsgG) | [Banda Santa Fe, con más estilo...](https://open.spotify.com/album/2wcBjXnBHcj9aEpiXI9XNT) | 3:53 |
+| 43 | [Me Liberé](https://open.spotify.com/track/32qhajow0UHHPmNudtmfKK) | [Yelsid](https://open.spotify.com/artist/0BkX3f2WgeqNgvulzPLc7R) | [Me Liberé](https://open.spotify.com/album/251i0oXvNIWZW05XMycMZQ) | 3:37 |
 | 44 | [Que Loco Amor](https://open.spotify.com/track/51LmGYcyw9WRnR2zopCF2C) | [Cumbia Juan](https://open.spotify.com/artist/14W5NzubXTLLLVF4XjtCU2) | [Revolution](https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE) | 3:23 |
 | 45 | [Nena Buena](https://open.spotify.com/track/6mVv3xXy1P398JJcJwaFTq) | [Japiaguar](https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK) | [Nena Buena](https://open.spotify.com/album/68GJuJAXjGNo1XXa726aUR) | 2:33 |
 | 46 | [Loquita](https://open.spotify.com/track/3Aws1K6BcnUjAwnfuGg3A1) | [Los Meketrefes](https://open.spotify.com/artist/62ZEevKR6rUJUm47unC5Jj) | [Los Meketrefes grandes exitos](https://open.spotify.com/album/72NwFvWV9HckI9kd5PFN8e) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 49 | [Todo va a estar mejor](https://open.spotify.com/track/7dho4N5H5etH68vQkROikt) | [Bohemia Urbana](https://open.spotify.com/artist/3291CCSyTY0umdaKwGbjdV) | [Macumba y Payé](https://open.spotify.com/album/5mGXFIhky9btBggWADmnPg) | 2:39 |
 | 50 | [Una Cerveza](https://open.spotify.com/track/3LUxexs29ODGnrup1G4y89) | [El Monchi Papa](https://open.spotify.com/artist/7n20wi37wBgwQbqabzrMTB) | [Bailalo Como Quieras, Que Esto Cumbia Villera](https://open.spotify.com/album/1BfrDLGjWr6BTQjW2ZTSAV) | 3:35 |
 
-Snapshot ID: `MCxjNWZjOTA3NGNhODRmNGI2ZTk3OWZhOWRkNjU4NmYwMzU5MjJmZTAw`
+Snapshot ID: `MCwyNTUxNmY1OTA4ZjZkMTE1ZmM5OGJkOTkxY2E1OTg5OGU5YzAyYjcz`

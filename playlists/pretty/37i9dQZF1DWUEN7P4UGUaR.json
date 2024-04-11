@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: MOGMusic",
-  "num_followers": 9582,
+  "num_followers": 9599,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWU2NDgwMGI4NDljZmE5NDkzYzg1YTgwYWU4Y2Q4NTMzZmFhZWJj",
+  "snapshot_id": "MCwyZTJmNWM1MzdkNmI1ZDE2ZjU2MDNiNWVhNGNkYTcxNTE1MjdhNjVi",
   "tracks": [
     {
       "added_at": "2024-04-05 14:24:44",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Okasa",
-        "url": "https://open.spotify.com/album/3PSX2qgryboF6ibNTYOfkP"
-      },
-      "artists": [
-        {
-          "name": "Eugene Zuta",
-          "url": "https://open.spotify.com/artist/1KmG9OvZmiOv0ntWc7mYcP"
-        }
-      ],
-      "duration_ms": 267424,
-      "name": "Okasa",
-      "url": "https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "Fawohodie(Twi Medley)",
         "url": "https://open.spotify.com/album/0dKtaWKMwKF0Jw19xI9HlJ"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 594921,
       "name": "Fawohodie(Twi Medley)",
       "url": "https://open.spotify.com/track/1fuPEaiNgXBswasnUJHKpk"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Okasa",
+        "url": "https://open.spotify.com/album/3PSX2qgryboF6ibNTYOfkP"
+      },
+      "artists": [
+        {
+          "name": "Eugene Zuta",
+          "url": "https://open.spotify.com/artist/1KmG9OvZmiOv0ntWc7mYcP"
+        }
+      ],
+      "duration_ms": 267424,
+      "name": "Okasa",
+      "url": "https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Nkunim (The Victory Song)",
-        "url": "https://open.spotify.com/album/2G7yF1iLgKxjMjcNxbhEOB"
-      },
-      "artists": [
-        {
-          "name": "Carl Clottey",
-          "url": "https://open.spotify.com/artist/6gfnKDWsTRi84l2hjKod2R"
-        }
-      ],
-      "duration_ms": 409432,
-      "name": "Nkunim (The Victory Song)",
-      "url": "https://open.spotify.com/track/57S84dg7sXUWXUj0ZNP1X8"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "Borborbor Gospel Medley",
         "url": "https://open.spotify.com/album/6AfJx9o8D0VztTeuIxy189"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 517432,
       "name": "Borborbor Gospel Medley",
       "url": "https://open.spotify.com/track/35kYZLjrvvDkEMZ20ELLT3"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Nkunim (The Victory Song)",
+        "url": "https://open.spotify.com/album/2G7yF1iLgKxjMjcNxbhEOB"
+      },
+      "artists": [
+        {
+          "name": "Carl Clottey",
+          "url": "https://open.spotify.com/artist/6gfnKDWsTRi84l2hjKod2R"
+        }
+      ],
+      "duration_ms": 409432,
+      "name": "Nkunim (The Victory Song)",
+      "url": "https://open.spotify.com/track/57S84dg7sXUWXUj0ZNP1X8"
     },
     {
       "added_at": "2024-03-29 00:01:00",

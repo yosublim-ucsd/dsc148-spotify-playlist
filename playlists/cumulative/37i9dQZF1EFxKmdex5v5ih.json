@@ -6403,6 +6403,24 @@
     },
     {
       "album": {
+        "name": "TORI.",
+        "url": "https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177897,
+      "name": "shine on",
+      "url": "https://open.spotify.com/track/4WG69ltMTdZA8hPrgieNzn"
+    },
+    {
+      "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
       },

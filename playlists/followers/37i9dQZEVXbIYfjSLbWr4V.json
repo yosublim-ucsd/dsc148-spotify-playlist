@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 4966,
+  "2024-04-11": 4975,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most played tracks right now - Belarus.",
   "name": "Top 50 - Belarus",
@@ -153,7 +153,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 110638,
       "name": "CRANKI",
       "url": "https://open.spotify.com/track/1dwuA3034avUaHBlIOUSlg"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 115348,
       "name": "FUNKED UP - SLOWED",
       "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
@@ -1037,7 +1037,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 139574,
       "name": "\u0412\u0440\u0435\u043c\u044f \u043d\u0430 \u0432\u0435\u0441\u0435\u043b\u044c\u0435",
       "url": "https://open.spotify.com/track/4hAz8sq2eIVMPCDaXVveUx"
@@ -1539,7 +1539,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 144761,
       "name": "\u041c\u0443\u0437\u044b\u043a\u0430",
       "url": "https://open.spotify.com/track/4vsqEFz8rPG8Y3H21ToDnZ"
@@ -2287,7 +2287,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 147000,
       "name": "\u0423\u0442\u0440\u043e",
       "url": "https://open.spotify.com/track/0aKl63MnUIVKkXlVtp2vLr"
@@ -2306,7 +2306,7 @@
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 75317,
+      "duration_ms": 75302,
       "name": "\u0444\u0435\u043d\u0438\u0431\u0443\u0442 2.0 - speed up",
       "url": "https://open.spotify.com/track/5ktnJaccf1XbHRws28PlyK"
     },

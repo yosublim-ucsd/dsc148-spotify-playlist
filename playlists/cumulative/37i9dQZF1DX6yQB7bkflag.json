@@ -2558,10 +2558,28 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 258000,
       "name": "Lewat Doa",
       "url": "https://open.spotify.com/track/1IhVdSpDJV4ASULOTALD3P"
+    },
+    {
+      "album": {
+        "name": "Lewat Doa",
+        "url": "https://open.spotify.com/album/40Hol4DUyuiR00IWlfJ6vL"
+      },
+      "artists": [
+        {
+          "name": "Fiersa Besari",
+          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Lewat Doa",
+      "url": "https://open.spotify.com/track/47w31Y7t568KU7NC0sqCy9"
     },
     {
       "album": {

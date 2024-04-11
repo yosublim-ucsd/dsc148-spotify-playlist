@@ -1,12 +1,12 @@
 {
   "description": "Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming \ud83c\udfae",
-  "num_followers": 95514,
+  "num_followers": 95519,
   "original_name": "GOOD GAME",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmI5NjY1OTAxYzk1MDIzM2FhZDc3MDE3NzBjZTMwMWY3NTM0N2Vl",
+  "snapshot_id": "MCw3NGJlMzYxM2EyOWFiZGJkOTliZDZkNjQzYTRiYjRkOGZkNmFlNjM0",
   "tracks": [
     {
       "added_at": "2024-04-09 13:14:59",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-04-09 13:14:59",
       "album": {
+        "name": "EL MATADOR (From the Netflix Rap Show \u201cNuova Scena\u201d)",
+        "url": "https://open.spotify.com/album/6UDBnsOcte6GwhTBLZ75kK"
+      },
+      "artists": [
+        {
+          "name": "Elmatadormc7",
+          "url": "https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "EL MATADOR (From the Netflix Rap Show \u201cNuova Scena\u201d)",
+      "url": "https://open.spotify.com/track/11HeOLoW2cnWZzGHWnllYq"
+    },
+    {
+      "added_at": "2024-04-09 13:14:59",
+      "album": {
         "name": "Life Is Good (feat. Drake)",
         "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 237735,
       "name": "Life Is Good (feat. Drake)",
       "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
-    },
-    {
-      "added_at": "2024-04-09 13:14:59",
-      "album": {
-        "name": "EL MATADOR (From the Netflix Rap Show \u201cNuova Scena\u201d)",
-        "url": "https://open.spotify.com/album/6UDBnsOcte6GwhTBLZ75kK"
-      },
-      "artists": [
-        {
-          "name": "Elmatadormc7",
-          "url": "https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "EL MATADOR (From the Netflix Rap Show \u201cNuova Scena\u201d)",
-      "url": "https://open.spotify.com/track/11HeOLoW2cnWZzGHWnllYq"
     },
     {
       "added_at": "2024-04-09 13:14:59",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-04-09 13:14:59",
       "album": {
+        "name": "Underrated",
+        "url": "https://open.spotify.com/album/5GnCVEvwaFZPogirSgrrtv"
+      },
+      "artists": [
+        {
+          "name": "Lil Eazzyy",
+          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
+        }
+      ],
+      "duration_ms": 128014,
+      "name": "Onna Come Up",
+      "url": "https://open.spotify.com/track/0e4A9Fak1nJ7RtBD8YpoEo"
+    },
+    {
+      "added_at": "2024-04-09 13:14:59",
+      "album": {
         "name": "M' Manc (con Geolier & Sfera Ebbasta)",
         "url": "https://open.spotify.com/album/4LPEPv5dG2Cu5aceakd1cm"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2024-04-09 13:14:59",
       "album": {
-        "name": "Underrated",
-        "url": "https://open.spotify.com/album/5GnCVEvwaFZPogirSgrrtv"
-      },
-      "artists": [
-        {
-          "name": "Lil Eazzyy",
-          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
-        }
-      ],
-      "duration_ms": 128014,
-      "name": "Onna Come Up",
-      "url": "https://open.spotify.com/track/0e4A9Fak1nJ7RtBD8YpoEo"
-    },
-    {
-      "added_at": "2024-04-09 13:14:59",
-      "album": {
         "name": "HOLIDAY",
         "url": "https://open.spotify.com/album/4EvukZrmNBiqJbs3LwOSHu"
       },
@@ -1035,6 +1035,30 @@
       "duration_ms": 154997,
       "name": "HOLIDAY",
       "url": "https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli"
+    },
+    {
+      "added_at": "2024-04-09 13:14:59",
+      "album": {
+        "name": "Popolari",
+        "url": "https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 221231,
+      "name": "Amore Mio (feat. Sfera Ebbasta, Jul)",
+      "url": "https://open.spotify.com/track/644oTknCDmxS3O8ZQWqt3Q"
     },
     {
       "added_at": "2024-04-09 13:14:59",
@@ -1071,6 +1095,22 @@
     {
       "added_at": "2024-04-09 13:14:59",
       "album": {
+        "name": "ESCAPE PLAN / MAFIA",
+        "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 149610,
+      "name": "ESCAPE PLAN",
+      "url": "https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez"
+    },
+    {
+      "added_at": "2024-04-09 13:14:59",
+      "album": {
         "name": "ASPETTANDO LA BELLA VITA",
         "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
       },
@@ -1091,46 +1131,6 @@
     {
       "added_at": "2024-04-09 13:14:59",
       "album": {
-        "name": "ESCAPE PLAN / MAFIA",
-        "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 149610,
-      "name": "ESCAPE PLAN",
-      "url": "https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez"
-    },
-    {
-      "added_at": "2024-04-09 13:14:59",
-      "album": {
-        "name": "Popolari",
-        "url": "https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 221231,
-      "name": "Amore Mio (feat. Sfera Ebbasta, Jul)",
-      "url": "https://open.spotify.com/track/644oTknCDmxS3O8ZQWqt3Q"
-    },
-    {
-      "added_at": "2024-04-09 13:14:59",
-      "album": {
         "name": "TO THE MOON",
         "url": "https://open.spotify.com/album/70uNWLPkbci5L1bZI1Mzp6"
       },
@@ -1147,6 +1147,22 @@
       "duration_ms": 152137,
       "name": "TO THE MOON",
       "url": "https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx"
+    },
+    {
+      "added_at": "2024-04-09 13:14:59",
+      "album": {
+        "name": "I CAN FLY",
+        "url": "https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "I CAN FLY",
+      "url": "https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph"
     },
     {
       "added_at": "2024-04-09 13:14:59",
@@ -1231,22 +1247,6 @@
       "duration_ms": 143375,
       "name": "Spicy (feat. Post Malone)",
       "url": "https://open.spotify.com/track/5IUtvfNvOyVYZUa6AJFrnP"
-    },
-    {
-      "added_at": "2024-04-09 13:14:59",
-      "album": {
-        "name": "I CAN FLY",
-        "url": "https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu"
-      },
-      "artists": [
-        {
-          "name": "Icy Subzero",
-          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "I CAN FLY",
-      "url": "https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph"
     },
     {
       "added_at": "2024-04-09 13:14:59",
@@ -1459,6 +1459,26 @@
     {
       "added_at": "2024-04-09 13:14:59",
       "album": {
+        "name": "Popolari",
+        "url": "https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 200592,
+      "name": "Al\u00e9 (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/1i0oabK4KhsbIJr029XStL"
+    },
+    {
+      "added_at": "2024-04-09 13:14:59",
+      "album": {
         "name": "Body (Remix) [feat. Capo Plaza & Rondodasosa]",
         "url": "https://open.spotify.com/album/6DiEWYk79JFILIgUd6SrTA"
       },
@@ -1483,26 +1503,6 @@
       "duration_ms": 205106,
       "name": "Body (Remix) [feat. Capo Plaza & Rondodasosa]",
       "url": "https://open.spotify.com/track/1JAkXiY10vwLhSbcsiimrp"
-    },
-    {
-      "added_at": "2024-04-09 13:14:59",
-      "album": {
-        "name": "Popolari",
-        "url": "https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 200592,
-      "name": "Al\u00e9 (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/1i0oabK4KhsbIJr029XStL"
     },
     {
       "added_at": "2024-04-09 13:14:59",

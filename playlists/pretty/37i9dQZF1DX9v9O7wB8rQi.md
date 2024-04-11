@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9v9O7wB8rQi.md) - [plain]
 
 > Music from "GHOST IN THE SHELL SAC\_2045" and "ARISE" series has arrived!/「攻殻機動隊」シリーズを彩る音楽をひとつのプレイリストに。©S,IG/K/2045
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,056 likes - 47 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,061 likes - 47 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9v9O7wB8rQi.md) - [plain]
 | 8 | [2+2=n](https://open.spotify.com/track/1y1U1fu1YbSkWOKlIstRcE) | [Emi Evans](https://open.spotify.com/artist/5v4bqljn8SUj45YThdszXS) | [GHOST IN THE SHELL: SAC\_2045 ORIGINAL SOUNDTRACK 2](https://open.spotify.com/album/1hTHAKwyNcfv16lqpTpL2L) | 3:26 |
 | 9 | [Sustainable War](https://open.spotify.com/track/3qMmuxDbg8ZwSsqveBzhOi) | [Nobuko Toda x Kazuma Jinnouchi](https://open.spotify.com/artist/58FzqkqyYjY7oVzKR0kaLq), [Nobuko Toda](https://open.spotify.com/artist/57JOhTMAdbqeE4hVOrsOqJ), [Kazuma Jinnouchi](https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i) | [GHOST IN THE SHELL: SAC\_2045 ORIGINAL SOUNDTRACK 2](https://open.spotify.com/album/1hTHAKwyNcfv16lqpTpL2L) | 7:34 |
 | 10 | [Team Ghost](https://open.spotify.com/track/3jEfG9rAWGTnNDAJvDgij4) | [戸田信子×陣内一真](https://open.spotify.com/artist/4760RLuTxI29623sQovQyl), [戸田信子](https://open.spotify.com/artist/1p5QJt54eUDRP6qks4dO3d), [陣内一真](https://open.spotify.com/artist/5LnJiGWNnbWuFV46ItlLDs) | [攻殻機動隊 SAC\_2045 Original Soundtrack](https://open.spotify.com/album/2ZHTUlPwmJvDHUJVbQnJik) | 2:28 |
-| 11 | [あなたを保つもの](https://open.spotify.com/track/4lG7PjB4Hpkil5G1xmO1yZ) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [25周年記念アルバム シングルコレクション+ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 3:58 |
+| 11 | [あなたを保つもの](https://open.spotify.com/track/4lG7PjB4Hpkil5G1xmO1yZ) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [25周年記念アルバム　シングルコレクション＋ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 3:58 |
 | 12 | [inner universe](https://open.spotify.com/track/0UuMRmKDZSuSlUbTg5F3MG) | [Origa](https://open.spotify.com/artist/08pXfHf1e4hLeDz1BgmOqL) | [攻殻機動隊 STAND ALONE COMPLEX　O.S.T.＋](https://open.spotify.com/album/2xwzJG5kuUOIuyEf6u3OXQ) | 4:53 |
 | 13 | [rise](https://open.spotify.com/track/2Uyz4r0IwXlZIVbkTEASPk) | [Origa](https://open.spotify.com/artist/08pXfHf1e4hLeDz1BgmOqL) | [攻殻機動隊 STAND ALONE COMPLEX O.S.T.2](https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc) | 5:28 |
 | 14 | [GHOST IN THE SHELL ARISE](https://open.spotify.com/track/1TXrT9o6pg0Ha4JnNv0H3S) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [「攻殻機動隊ARISE」O.S.T.](https://open.spotify.com/album/4vjBmHL0f9a3H8Ul1JXDyy) | 4:28 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9v9O7wB8rQi.md) - [plain]
 | 46 | [flashback memory plug](https://open.spotify.com/track/7qgQ7mACjleBHbsPchKBcU) | [Origa](https://open.spotify.com/artist/08pXfHf1e4hLeDz1BgmOqL), [benedict Delmaestro](https://open.spotify.com/artist/5wLsCJYZy1re3sai21VJZj) | [攻殻機動隊 STAND ALONE COMPLEX O.S.T.3](https://open.spotify.com/album/6LV6Mk6uHLvj4lKfYPjtsI) | 1:06 |
 | 47 | [A Floating Ghost](https://open.spotify.com/track/6YxbVTZ3d2O5vWYbIdPGuE) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [攻殻機動隊 新劇場版 O.S.T\. by Cornelius](https://open.spotify.com/album/759xhNhcphGIW8Mna5hjri) | 1:05 |
 
-Snapshot ID: `MCw2NzlhYWQzYTY2MDM0NTYwOGMxZTE3NzVmYmEzNTgzYTgzOWY2ODFj`
+Snapshot ID: `MCw0ODM0NmYzMTBlOGU1MDJiYmVjYTY0NTdlYzQ1ZGI1ZTc1YTlmMzQ1`

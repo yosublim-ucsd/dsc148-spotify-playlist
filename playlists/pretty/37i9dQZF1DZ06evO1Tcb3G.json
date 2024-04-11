@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 469664,
+  "num_followers": 469716,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGZiMWIzM2JiYWJmNTlkN2M3MTZiNjFlN2E4NzUyMTYxODk0NDFh",
+  "snapshot_id": "MCw1N2EwMzFhYTY0NGFhNzNjNDg5N2I5YTA3MTY0MzJmZjI4NzMwMjIz",
   "tracks": [
     {
       "added_at": null,
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 274552,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/47DKI4RxI8ZW0sBqDenMhO"
+      "duration_ms": 217633,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/3W3RQneS2yhA7E5l1dJW18"
     },
     {
       "added_at": null,
@@ -144,9 +144,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 217633,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/3W3RQneS2yhA7E5l1dJW18"
+      "duration_ms": 274552,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/47DKI4RxI8ZW0sBqDenMhO"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy 10 years of music from HATSUNE MIKU \"Project DIVA\" series/ \u521d\u97f3\u30df\u30af\"Project DIVA\"\u30b7\u30ea\u30fc\u30ba\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002 \u00a9 SEGA / \u00a9 Crypton Future Media, INC. <a href=\"https://piapro.net/\">www.piapro.net</a>",
-  "num_followers": 350558,
+  "num_followers": 350693,
   "original_name": "HATSUNE MIKU/ \u521d\u97f3\u30df\u30af Project DIVA series",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTI3Y2NlZjZlNzAxNjAwYWU5ODI0NDZjZDUzNmNmYzMxOTZjZDQ2",
+  "snapshot_id": "MCxiNmQ2YTFkMjM4Njg0M2FiN2YwOTQ4MmQwNmM5ZjM2ZGRmOGE2MzE3",
   "tracks": [
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "Kagaminext feat. \u93e1\u97f3\u30ea\u30f3\u3001\u93e1\u97f3\u30ec\u30f3 \u201510th ANNIVERSARY BEST\u2015",
-        "url": "https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if"
-      },
-      "artists": [
-        {
-          "name": "HoneyWorks",
-          "url": "https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd"
-        }
-      ],
-      "duration_ms": 285813,
-      "name": "\u30b9\u30ad\u30ad\u30e9\u30a4",
-      "url": "https://open.spotify.com/track/43571bfzMoPeXhUCVWayue"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "crystaL",
         "url": "https://open.spotify.com/album/5KbkciUfwXhdcicglLMQDu"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 230053,
       "name": "erase or zero",
       "url": "https://open.spotify.com/track/396tVnKqmG32TeMtSBvUS2"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "Kagaminext feat. \u93e1\u97f3\u30ea\u30f3\u3001\u93e1\u97f3\u30ec\u30f3 \u201510th ANNIVERSARY BEST\u2015",
+        "url": "https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if"
+      },
+      "artists": [
+        {
+          "name": "HoneyWorks",
+          "url": "https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd"
+        }
+      ],
+      "duration_ms": 285813,
+      "name": "\u30b9\u30ad\u30ad\u30e9\u30a4",
+      "url": "https://open.spotify.com/track/43571bfzMoPeXhUCVWayue"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300d [Live]",
-        "url": "https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE"
-      },
-      "artists": [
-        {
-          "name": "doriko",
-          "url": "https://open.spotify.com/artist/16YLTve2FXhfNIn0YO9yER"
-        }
-      ],
-      "duration_ms": 315095,
-      "name": "\u30ad\u30e3\u30c3\u30c8\u30d5\u30fc\u30c9 -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
-      "url": "https://open.spotify.com/track/2gNtSUrrJSgWgQUxsFKoxn"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "ONLY 1 (feat. Hatsune Miku)",
         "url": "https://open.spotify.com/album/3DJ3Mrw1msXOl78mqdUt7q"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 246086,
       "name": "Sharing the World (feat. Hatsune Miku) [Album ver.]",
       "url": "https://open.spotify.com/track/6uXfHJjLKBRcK4UDhcPC8W"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300d [Live]",
+        "url": "https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE"
+      },
+      "artists": [
+        {
+          "name": "doriko",
+          "url": "https://open.spotify.com/artist/16YLTve2FXhfNIn0YO9yER"
+        }
+      ],
+      "duration_ms": 315095,
+      "name": "\u30ad\u30e3\u30c3\u30c8\u30d5\u30fc\u30c9 -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
+      "url": "https://open.spotify.com/track/2gNtSUrrJSgWgQUxsFKoxn"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "Kagaminext feat. \u93e1\u97f3\u30ea\u30f3\u3001\u93e1\u97f3\u30ec\u30f3 \u201510th ANNIVERSARY BEST\u2015",
-        "url": "https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if"
-      },
-      "artists": [
-        {
-          "name": "Ginsaku",
-          "url": "https://open.spotify.com/artist/4qK0qz2xdkIubLelIVOjsz"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "\u3044\u308d\u306f\u5504",
-      "url": "https://open.spotify.com/track/4ZYp6mlFg37la87zyI7PvY"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "\u30a2\u30ab\u30c4\u30ad\u30a2\u30e9\u30a4\u30f4\u30a1\u30eb",
         "url": "https://open.spotify.com/album/5yQrGevT1pF8OXaw4br0dU"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 215066,
       "name": "Lol (Lots of Laugh)",
       "url": "https://open.spotify.com/track/2sigTDjOwoSnwJ9PAXOgwj"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "Kagaminext feat. \u93e1\u97f3\u30ea\u30f3\u3001\u93e1\u97f3\u30ec\u30f3 \u201510th ANNIVERSARY BEST\u2015",
+        "url": "https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if"
+      },
+      "artists": [
+        {
+          "name": "Ginsaku",
+          "url": "https://open.spotify.com/artist/4qK0qz2xdkIubLelIVOjsz"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "\u3044\u308d\u306f\u5504",
+      "url": "https://open.spotify.com/track/4ZYp6mlFg37la87zyI7PvY"
     },
     {
       "added_at": "2021-05-26 02:37:36",

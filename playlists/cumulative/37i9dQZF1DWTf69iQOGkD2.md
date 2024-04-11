@@ -4,7 +4,7 @@
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: Azzy, Luiz Lins, MC Cabelinho, Slipmami, Mc Poze do Rodo, Chefin, Oruam, MC Hariel, JayA Luuck
 
-217 songs - 13 hr 42 min
+218 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Colecionador de ilusão](https://open.spotify.com/track/1mZ5TKdEHnvoikySj0TeE3) | [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7), [Liink](https://open.spotify.com/artist/6XAaynGctovNbHNyGohYkA) | [Duas Vezes Melhor \(Session\)](https://open.spotify.com/album/07jccOrExTeXRc44Rj6xZ6) | 3:27 | 2022-07-01 | 2022-07-09 |
 | [Contratei o Tempo](https://open.spotify.com/track/1NHafgaylnQjnnEhyJbqdz) | [Katari SC](https://open.spotify.com/artist/0hmC5uzgar1mR5E5dqeSjm), [Doodex](https://open.spotify.com/artist/0mosiC3wRtekSkMSEuKcSz), [Pena](https://open.spotify.com/artist/2l5klhDlUOtuM0DuvYOgva) | [Contratei o Tempo](https://open.spotify.com/album/5KTiTNaCP6cZjwxlgMf4v0) | 3:36 | 2022-03-18 |  |
 | [Detalhes](https://open.spotify.com/track/3mHbUXh4pi4yy9gWHqV8bW) | [Igão Santi](https://open.spotify.com/artist/2xZhKkCpZq4YtbvNwhxBID), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Detalhes](https://open.spotify.com/album/6KSoeosLCvFYQfo6XUAKzd) | 1:55 | 2022-10-28 | 2023-04-29 |
-| [Djavandalo](https://open.spotify.com/track/21dWCeXNoS8H0aDvOcqqer) | [Young Ganni](https://open.spotify.com/artist/1Hm3uKt8JXy3dnxIFfJUog), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [O Fantástico Mundo de Ganni](https://open.spotify.com/album/6Tfl3UdZrUm14cGFPRIteI) | 2:53 | 2024-03-29 |  |
+| [Djavandalo](https://open.spotify.com/track/1L3KLeXqP4F4Qtt465Crl9) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [O Fantástico Mundo de Ganni](https://open.spotify.com/album/538I6tmaZtHvRMQDpaNLIC) | 2:53 | 2024-04-05 |  |
+| [Djavandalo](https://open.spotify.com/track/21dWCeXNoS8H0aDvOcqqer) | [Young Ganni](https://open.spotify.com/artist/1Hm3uKt8JXy3dnxIFfJUog), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [O Fantástico Mundo de Ganni](https://open.spotify.com/album/6Tfl3UdZrUm14cGFPRIteI) | 2:53 | 2024-03-29 | 2024-04-11 |
 | [Docê](https://open.spotify.com/track/5kCNhVsZ9mD3TDUgcL5tlp) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [Docê](https://open.spotify.com/album/2ls9PYhT0VTFA3vTJOD5Bj) | 2:14 | 2022-03-25 | 2022-07-29 |
 | [Docê](https://open.spotify.com/track/7kAMRNiXGz63vG05Lsl8WR) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [Docê](https://open.spotify.com/album/2pE3i5zeAV3RCezKx7njJ6) | 2:14 | 2022-07-15 | 2023-09-16 |
 | [Dragão nas Costas](https://open.spotify.com/track/79O4YcEc4JpOgxlIBeLExZ) | [Belato](https://open.spotify.com/artist/1j0b8QZNoluRO17A2PJh62), [Dj Nb](https://open.spotify.com/artist/2GZUy5017hx1rotZruGpee), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Dragão nas Costas](https://open.spotify.com/album/3QSiajpEIdQ8kWdEeajS9o) | 3:25 | 2022-06-10 | 2022-08-06 |

@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-648 songs - 1 day 12 hr 37 min
+649 songs - 1 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Can I Call You Tonight?](https://open.spotify.com/track/64lsIF5pw0sJY0gV5kz0RN) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 4:38 | 2022-07-22 | 2022-10-13 |
 | [Canary Islands](https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Canary Islands](https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L) | 3:24 | 2021-05-01 | 2023-09-30 |
 | [Cannonball](https://open.spotify.com/track/30c3pxlLWPx3eRaMjvBQ1c) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [Cannonball](https://open.spotify.com/album/6h51IcI0JjorHy2MFm7KNg) | 3:09 | 2021-05-01 | 2022-04-21 |
-| [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 | 2024-02-16 |  |
+| [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 | 2024-02-16 | 2024-04-11 |
+| [Capricorn](https://open.spotify.com/track/4oAGV7IADPWfkpk6aGQqZt) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:09 | 2024-03-01 |  |
 | [Carry You Home](https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Carry You Home](https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR) | 3:19 | 2022-11-29 | 2023-02-05 |
 | [Catch the Sun](https://open.spotify.com/track/3rF6stvHK5JrAN9AAfIczG) | [vern matz](https://open.spotify.com/artist/3ueZVX55ehCZVl46S1YTcj) | [A Treatise on the Rainbow](https://open.spotify.com/album/0zKdvj4RESPZAzDQ006MG3) | 2:25 | 2022-04-27 | 2022-06-14 |
 | [Cellophane \(Brain\)](https://open.spotify.com/track/4dVAjdLba7P8K5gtAc2Slt) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Cellophane \(Brain\)](https://open.spotify.com/album/6s2KPuyqgG5sZvKrQenE8U) | 3:30 | 2021-05-01 | 2022-03-21 |
@@ -311,7 +312,7 @@
 | [Johnson Song](https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:43 | 2022-06-17 | 2023-09-30 |
 | [Jolie](https://open.spotify.com/track/5bB4eyM0bd4i5YIB3SyfBF) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Jolie](https://open.spotify.com/album/7KSc6yLnDS8rahkCrjgPgf) | 3:00 | 2021-05-01 | 2022-07-29 |
 | [Juliette](https://open.spotify.com/track/1Po2n7GxUAf6snaUxYekd5) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Juliette](https://open.spotify.com/album/0A4sFi0UGoIbXNqAGjUyIm) | 2:50 | 2022-04-13 | 2022-04-21 |
-| [Just Before The Morning](https://open.spotify.com/track/0bu0to8kgrXDzWklgZ3BuQ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Time Will Wait For No One](https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y) | 3:34 | 2023-09-29 | 2024-03-29 |
+| [Just Before The Morning](https://open.spotify.com/track/0bu0to8kgrXDzWklgZ3BuQ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Time Will Wait For No One](https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y) | 3:34 | 2023-09-29 |  |
 | [kerosene](https://open.spotify.com/track/52I97JnPW2VptLJbqrsNr3) | [mmmonika](https://open.spotify.com/artist/2kYklIrGwKMyDuVt6RiWgD) | [kerosene](https://open.spotify.com/album/5S3q7V1wbMnyyclCPacuNK) | 2:15 | 2021-05-01 | 2022-04-13 |
 | [Kick in the Teeth](https://open.spotify.com/track/09IAjxegM08998hgb6ZScZ) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Kick in the Teeth](https://open.spotify.com/album/7zeuAUF8ieCxZ5P9wUxOBB) | 2:47 | 2023-02-24 | 2024-02-16 |
 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 | 2021-07-19 | 2023-06-03 |
@@ -365,7 +366,7 @@
 | [Mexican Holiday](https://open.spotify.com/track/6E8XDoU8B9MbYbcAQ2IUBl) | [Tim Ayre](https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL) | [Mexican Holiday](https://open.spotify.com/album/7LMpGPGgeAsK7aO4AgmEah) | 3:22 | 2021-05-01 | 2022-04-13 |
 | [Mexico](https://open.spotify.com/track/2bN6To5ipOH6yjYcdujDpt) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Mexico](https://open.spotify.com/album/4uI6jdrKh14N8In0ttCwub) | 3:32 | 2021-05-01 | 2022-04-14 |
 | [Midwest](https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Midwest](https://open.spotify.com/album/2lPCTjO279HYs6TzigZihc) | 4:08 | 2023-06-08 |  |
-| [Millionaires](https://open.spotify.com/track/6ZKOPiVB7POP9XZBya1Gm5) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Millionaires](https://open.spotify.com/album/68XR6FyZCuE20QBkQUvVFL) | 3:00 | 2024-02-16 |  |
+| [Millionaires](https://open.spotify.com/track/6ZKOPiVB7POP9XZBya1Gm5) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Millionaires](https://open.spotify.com/album/68XR6FyZCuE20QBkQUvVFL) | 3:00 | 2024-02-16 | 2024-04-11 |
 | [Mimi's Delivery Service](https://open.spotify.com/track/3yXJjux4ngdBID25f0QIui) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Mimi's Delivery Service](https://open.spotify.com/album/26i93seS4geUVSbjhloq5A) | 2:58 | 2023-03-17 | 2023-09-30 |
 | [Mine Forever](https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Mine Forever](https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6) | 4:48 | 2021-05-01 | 2022-07-29 |
 | [Mister Burns](https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Mister Burns](https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi) | 2:35 | 2023-05-26 | 2023-08-06 |

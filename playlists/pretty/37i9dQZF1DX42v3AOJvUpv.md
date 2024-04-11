@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 
 > Entre peinados, maquillajes y vestimentas exóticas, la estética dominó la escena musical de los años ’80\. Foto:<a href="spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL"> Soda Stereo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,037 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,056 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 | 49 | [Himno De Mi Corazón \- 1994 Remastered Version](https://open.spotify.com/track/3yBi4OKSpJkispsDEang9M) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Los Abuelos De La Nada 1 \(1994 Remastered Version\)](https://open.spotify.com/album/6IwPxvK4pVWKt6HBCmXh8h) | 5:05 |
 | 50 | [Nada que perder](https://open.spotify.com/track/67RABWmvqhxgRt2shdCOrr) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Serie De Oro](https://open.spotify.com/album/1SdOnqeKXxOKAU6rVbS0z5) | 3:28 |
 
-Snapshot ID: `MCxjYzI2YzkxNGU3N2I2ZWM4YzUxODYyOWUzNTkxMzkwYjc3MzAzMTA2`
+Snapshot ID: `MCw1YWU5MDc0OTcxN2YxMzRjN2U4MTMwNThiZDA3MTQwN2NmOWU0N2Jl`

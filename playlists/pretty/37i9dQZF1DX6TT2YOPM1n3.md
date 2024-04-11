@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Current Pakistani hits under one roof\. Cover: Hasan Raheem
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,735 likes - 55 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,771 likes - 55 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 54 | [Dil Diyan Gallan](https://open.spotify.com/track/0FBQ4NrrHUbR9kus7rzrOj) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [YRF Top 10 \- Falling in Love](https://open.spotify.com/album/1ujIERX0vWqw9kcYr6VMRp) | 4:20 |
 | 55 | [Amplifier](https://open.spotify.com/track/3f8t2LZGYtdNQh8SNEiZcG) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Unforgettable](https://open.spotify.com/album/4sOf4oPLCx7e73JOsRTZQ7) | 3:52 |
 
-Snapshot ID: `MCwzOGFjMGExNTc0ZjE3OTE2YjA2YmQ1OTcyNmUzMmY1ZWEyZjYyYzYw`
+Snapshot ID: `MCxmNDljMTZkMzczOGYxNWVjNDRjMGExNTc0MDJiMGJmYzM3Zjg2ZjZl`

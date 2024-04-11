@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 
 > A lo cubano 🔥 Con El Chacal en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,586 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,605 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 | 19 | [Muchacha](https://open.spotify.com/track/2vI4SxtYqAQD5h1nSrqfKM) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Muchacha](https://open.spotify.com/album/1ToC2cIeaKdchZVfx6P3Mj) | 3:20 |
 | 20 | [Dime Quien Es Ese](https://open.spotify.com/track/4FRe7O5vPNSyK91M6Wk84B) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt), [L Kimii](https://open.spotify.com/artist/1f1ghk6CZMmEuPtjldEDkh) | [Dime Quien Es Ese](https://open.spotify.com/album/1GLVlsHoK05Sr8fgfMblJR) | 3:16 |
 | 21 | [Pornosotros](https://open.spotify.com/track/7DTnxzUjeho8NYE0IsoDw1) | [Wampi](https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf), [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv), [Fixty Ordara y Ja Rulay](https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH) | [Pornosotros](https://open.spotify.com/album/0VIN822VobCM6QGwNlCRhx) | 3:18 |
-| 22 | [Piña Colada](https://open.spotify.com/track/67h0pnnJczXLsNqmew78lw) | [Orlenis 22k](https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s), [Charly & Johayron](https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG) | [Piña Colada](https://open.spotify.com/album/2aRxTjGSC7zwgIiCuoQh4E) | 3:02 |
-| 23 | [Ganas de Ti](https://open.spotify.com/track/6mzR2nbLrfzNw3BQ3puq4D) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [The Hits Kings](https://open.spotify.com/album/3bmjwMBcBOPkQgr01HYLRH) | 3:03 |
+| 22 | [Ganas de Ti](https://open.spotify.com/track/6mzR2nbLrfzNw3BQ3puq4D) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [The Hits Kings](https://open.spotify.com/album/3bmjwMBcBOPkQgr01HYLRH) | 3:03 |
+| 23 | [Piña Colada](https://open.spotify.com/track/67h0pnnJczXLsNqmew78lw) | [Orlenis 22k](https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s), [Charly & Johayron](https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG) | [Piña Colada](https://open.spotify.com/album/2aRxTjGSC7zwgIiCuoQh4E) | 3:02 |
 | 24 | [Funimate \- Prod\. by Ernesto Losa](https://open.spotify.com/track/3yGujUHHB1n3ZZw0VuERiL) | [Charly & Johayron](https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG), [Pokercito](https://open.spotify.com/artist/0HEBlBt0wpPln5krAyG0B4), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS) | [Funimate](https://open.spotify.com/album/2dgkWbSbEGmiOERvceGOu9) | 3:15 |
 | 25 | [Otro Trago](https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Tamoarriba](https://open.spotify.com/album/5VBE3hC5gZeDzlsf1r3I9V) | 3:30 |
 | 26 | [La Que Quiero Yo](https://open.spotify.com/track/1FGfYaq4XPNoDaQiZIcb4e) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [La Que Quiero Yo](https://open.spotify.com/album/5x3pcGwDfquEZJ7Szi5ktB) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 | 49 | [Te Quiero Pa' Mi](https://open.spotify.com/track/6f1iOMpbJFItdBug6CepDl) | [El Kimiko y Yordy](https://open.spotify.com/artist/0DjHJO4Ez3nSVfhv8x95cn) | [Te Quiero Pa' Mi](https://open.spotify.com/album/7HWJg3Yznnix51OBoq4BRP) | 3:21 |
 | 50 | [No Volveré](https://open.spotify.com/track/5lNc3k4ZLV7PE1Wg9RSBjb) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Yomil y El Dany](https://open.spotify.com/artist/2eQMfQXKQGV98HKiCOB7en), [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Mauro](https://open.spotify.com/artist/0fUFGy1Oy8f3ecf59YoB8O) | [No Volveré](https://open.spotify.com/album/13z1vYRl8WTVTHthgeHSV3) | 3:36 |
 
-Snapshot ID: `MCw1Yzk1ZDkyODJmYmZmN2I2Zjk4NjZlNTk3NGI3ODZiOGVhMTQ2MmVh`
+Snapshot ID: `MCxkZmQxYWY4MGJmM2I3MmU2NzIwN2U1YWU2NTdhYmRjMjlkZGIyZjJh`

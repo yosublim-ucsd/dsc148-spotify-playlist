@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 527599,
+  "num_followers": 527679,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTFjNzVjZGNmNzQ5MTRjM2U0ODVkZDhlZmJmNjFiNTE5NWZlNWVl",
+  "snapshot_id": "MCxlNjI2YmNhZjNkN2YwYWY1YTZmZjZjNDI0NTk4NDU4OGMxMTU0NzQz",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Head On The Door",
-        "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 271293,
-      "name": "Push",
-      "url": "https://open.spotify.com/track/23RzgkADmUXaOm9YIgD8jm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Disintegration (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 499853,
       "name": "Disintegration - Remastered",
       "url": "https://open.spotify.com/track/5LO3M8pfuprpwNN1p3tuxW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Head On The Door",
+        "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 271293,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/23RzgkADmUXaOm9YIgD8jm"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wish (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Zj1cFOmfPfykuXLVGXhhe"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 213293,
+      "name": "Cut - 1990 Demo",
+      "url": "https://open.spotify.com/track/0DuagCkRRIggdD2K058KHf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 169306,
       "name": "Grinding Halt",
       "url": "https://open.spotify.com/track/4wJGF0EeEgwX8mBJcbwESi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wish (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2Zj1cFOmfPfykuXLVGXhhe"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 213293,
-      "name": "Cut - 1990 Demo",
-      "url": "https://open.spotify.com/track/0DuagCkRRIggdD2K058KHf"
     },
     {
       "added_at": null,

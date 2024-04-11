@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6mC1lhUK7K.md) - [plain]
 
 > she's ready for her sequel\. cover: sidney prescott 😱👑
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,149 likes - 90 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,357 likes - 90 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6mC1lhUK7K.md) - [plain]
 | 77 | [Bad Ass Bitch](https://open.spotify.com/track/6RnIQtsHeCWSA9ILQgx6J1) | [Lunachicks](https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X) | [Luxury Problem](https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr) | 4:08 |
 | 78 | [Bring It On](https://open.spotify.com/track/7i8fZrPbp63bblMG7li9Im) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [Bring It On](https://open.spotify.com/album/4Kf7V3gThuvUyJOWofSY0Y) | 2:59 |
 | 79 | [Raise Hell](https://open.spotify.com/track/2NPHU2WJaI3rrtCNNuQ8L1) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [ROCKISDEAD](https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir) | 3:01 |
-| 80 | [Graveyard Shift](https://open.spotify.com/track/0UQ1DKUfMQXqgE6JEFlXnl) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Woman of the Hour](https://open.spotify.com/album/7bScqw7wY3piw63QTeOwzI) | 3:08 |
+| 80 | [Graveyard Shift](https://open.spotify.com/track/2vVi1QmsQ5ntGJ1vGoxFuD) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Woman of the Hour](https://open.spotify.com/album/6pJUxU739kYhn9TMecjeaV) | 3:08 |
 | 81 | [And They All Fall Down](https://open.spotify.com/track/4kfPFH4eobdyzyqEJd6sMo) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [And They All Fall Down](https://open.spotify.com/album/47ZajOVfTx4ybpStTat8mm) | 2:20 |
 | 82 | [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 |
 | 83 | [Scaredy Pants](https://open.spotify.com/track/0UH3qGCpQF9t1jwINUnq2R) | [Venus & the Flytraps](https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF) | [Scaredy Pants](https://open.spotify.com/album/6RpUP5myGMEJ5its0cz20C) | 3:12 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6mC1lhUK7K.md) - [plain]
 | 89 | [A Girl Like You](https://open.spotify.com/track/0vyWtA8CYYZP2DxpP2Hbgm) | [Anna B Savage](https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi) | [These Dreams EP](https://open.spotify.com/album/54q0cB6VUWE84i66K4cPvg) | 3:12 |
 | 90 | [Buffy The Vampire Slayer \- The Theme Music](https://open.spotify.com/track/3TZ3NVQtkj4nFPANN946Ct) | [TV Themes](https://open.spotify.com/artist/0clhXvKQeY8xOFIXwePnyR) | [Buffy The Vampire Slayer \- The Theme Music](https://open.spotify.com/album/0XizUl3KDcePvyGAfL4Kgn) | 1:24 |
 
-Snapshot ID: `MCw1ZjFlZTkxZGNiYjExMjU3Y2MzYWQxZTk1ZDgyYzIyMjQ2NjlhYzUy`
+Snapshot ID: `MCwwNDE2M2E1ZGU2ZjIxMTRmZGJjZmQ5NjNlNGYyZTQxNzA5MDBmZTdk`

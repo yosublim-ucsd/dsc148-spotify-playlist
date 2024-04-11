@@ -759,6 +759,32 @@
     },
     {
       "album": {
+        "name": "PLAKATA",
+        "url": "https://open.spotify.com/album/4TNvAbIvaUZOvHQtNTRyll"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+        },
+        {
+          "name": "Kami Mami",
+          "url": "https://open.spotify.com/artist/52WyfsARd4mYGaH1BBICDG"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252221,
+      "name": "PLAKATA",
+      "url": "https://open.spotify.com/track/3LyM4jvcbsKx8Ps0R2qPSV"
+    },
+    {
+      "album": {
         "name": "Poco a Poco (feat. Lunatic, Z-Xperimento & Beliko)",
         "url": "https://open.spotify.com/album/315fLlUbg2VsiiJjhfsNfH"
       },

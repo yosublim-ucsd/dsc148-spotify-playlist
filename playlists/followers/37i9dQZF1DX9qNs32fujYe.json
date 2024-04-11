@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 1229774,
+  "2024-04-11": 1230081,
   "date_first_scraped": "2021-12-21",
   "description": "Heavy Metal forever \\m/ classics to brand new tracks, play it loud. Cover: FLAT BLACK",
   "name": "Heavy Metal",
@@ -9017,7 +9017,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 185266,
       "name": "Outer Dimensions",
       "url": "https://open.spotify.com/track/13E52tvYVKOyd7COIs1cba"
@@ -9843,6 +9843,24 @@
       "duration_ms": 265853,
       "name": "Raise Your Horns",
       "url": "https://open.spotify.com/track/4qQHaZ2frLScRPi7todSz9"
+    },
+    {
+      "album": {
+        "name": "Rankarumpu",
+        "url": "https://open.spotify.com/album/6qHZPsB4nMMI602L2iJ4pK"
+      },
+      "artists": [
+        {
+          "name": "Korpiklaani",
+          "url": "https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163557,
+      "name": "Rankarumpu",
+      "url": "https://open.spotify.com/track/5Hvhu1kJEcP90itIQSbn5f"
     },
     {
       "album": {
@@ -12790,6 +12808,24 @@
     },
     {
       "album": {
+        "name": "The Order Of Fear",
+        "url": "https://open.spotify.com/album/6aSJqWSbq0LSYPqjoFOcVo"
+      },
+      "artists": [
+        {
+          "name": "Orden Ogan",
+          "url": "https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266200,
+      "name": "The Order Of Fear",
+      "url": "https://open.spotify.com/track/0EKCC1pitvCPKzhWiXgzRa"
+    },
+    {
+      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/6pzWHJIhb1m0bynoFZzx7Q"
       },
@@ -13983,7 +14019,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 235213,
       "name": "Waiting For The Thunder - 2020 Remaster",
       "url": "https://open.spotify.com/track/6y83RRW0DtYFtGwIBQFSzl"

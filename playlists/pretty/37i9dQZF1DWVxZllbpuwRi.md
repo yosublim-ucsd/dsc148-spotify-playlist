@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 
 > Aqui o verão dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,126 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,130 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 | 72 | [Waiting For Tomorrow \(feat\. Mike Shinoda\)](https://open.spotify.com/track/5Gi8lLH3edcexP99srU1Nl) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2), [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [Waiting For Tomorrow \(feat\. Mike Shinoda\)](https://open.spotify.com/album/3gyPAMRvvAXjphXv0xjJ0X) | 4:07 |
 | 73 | [Lento](https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Lento](https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00) | 3:08 |
 | 74 | [One Touch](https://open.spotify.com/track/5EKiBMhzRLALeGDPdoAKkQ) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [One Touch](https://open.spotify.com/album/73JUDiyiu0OXCzzM2jjVkL) | 3:17 |
-| 75 | [Oh Child](https://open.spotify.com/track/2xw9PXlt8IaCWZjfpJ2HPL) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Oh Child](https://open.spotify.com/album/0FyKwRPv0vtwLP2rApCyoU) | 3:15 |
-| 76 | [Live in the Moment](https://open.spotify.com/track/0gQCDyX45XutyPdt5EWafa) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Live in the Moment](https://open.spotify.com/album/2Zx5mrlkb70Qjh1RYEI4Pn) | 3:13 |
+| 75 | [Live in the Moment](https://open.spotify.com/track/0gQCDyX45XutyPdt5EWafa) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Live in the Moment](https://open.spotify.com/album/2Zx5mrlkb70Qjh1RYEI4Pn) | 3:13 |
+| 76 | [Oh Child](https://open.spotify.com/track/2xw9PXlt8IaCWZjfpJ2HPL) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Oh Child](https://open.spotify.com/album/0FyKwRPv0vtwLP2rApCyoU) | 3:15 |
 | 77 | [I Do \- with Zeeba](https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [I Do \(with Zeeba\)](https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso) | 2:53 |
 | 78 | [La Oportunidad \- Spotify Singles](https://open.spotify.com/track/4TSdm4ySoU7RMVhTFWLp2m) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [La Oportunidad \- Spotify Singles](https://open.spotify.com/album/1dVeSK7GcCkjb9Q8MaiyQy) | 3:27 |
 | 79 | [With You](https://open.spotify.com/track/1kuxCYa18CRbrA4vuF2iM3) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [With You](https://open.spotify.com/album/0f3jSFRTTXViOB6NCnFULX) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 | 99 | [Make It Hot](https://open.spotify.com/track/0QopfywHKJZH8bnt8Cj9qr) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Make It Hot](https://open.spotify.com/album/5lVFS3eenpf4H7u26eiyng) | 2:48 |
 | 100 | [La Playita](https://open.spotify.com/track/21nc7VSDCHaYFqi8XlMEJL) | [Lo Blanquito](https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp) | [La Playita](https://open.spotify.com/album/4HiePCPHt08pm1c1qOUqiN) | 2:45 |
 
-Snapshot ID: `MCwwM2U4NjYzODAzMTViMjlkYTQzOGM4Yzg0OTI1NTg0N2VjN2I1ODI1`
+Snapshot ID: `MCwzMWE5ZDNhODhiMjY1M2JjYWQzYzIzNTc3MzVjZDRlNjY5ODUyMjgx`

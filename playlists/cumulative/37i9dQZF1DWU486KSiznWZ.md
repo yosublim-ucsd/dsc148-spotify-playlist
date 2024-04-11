@@ -4,7 +4,7 @@
 
 > اكتشفوا أفضل الاغاني الخليجية <br/>الغلاف: فهد العمري
 
-152 songs - 10 hr 48 min
+153 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,13 +82,14 @@
 | [Sawb Al Riyadh](https://open.spotify.com/track/2zRFrCapormSMSKfWh7Hu4) | [Mashael](https://open.spotify.com/artist/0Wy58cHn0XDlkr4jBIqhZs) | [Sawb Al Riyadh](https://open.spotify.com/album/4ol55IfB7hD1b6yRHlglTG) | 3:31 | 2022-04-07 | 2023-04-21 |
 | [Sha'a Rabi](https://open.spotify.com/track/3xHc0sVjmX3wELp4Gl2bQf) | [Fahad El Salem](https://open.spotify.com/artist/4qVn0gcHkdthKF07tD8F7D), [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Sha'a Rabi](https://open.spotify.com/album/4DwOVSEePfdMFjAiyXyghG) | 4:26 | 2023-04-20 | 2023-06-21 |
 | [Shabeah Rouhi](https://open.spotify.com/track/3Ewj9Gg9FIzfkoC6Wu9ISE) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Shabeah Rouhi](https://open.spotify.com/album/0JCxGer8k83sCp2uBLZikd) | 6:15 | 2023-05-24 |  |
+| [Shahr 7](https://open.spotify.com/track/5W38ngA8pVHq5AnsyWNVM5) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Shahr 7](https://open.spotify.com/album/2Bhcqu0QL5QSr6RmtIffsv) | 6:06 | 2024-04-10 |  |
 | [Shoor Al Faqd](https://open.spotify.com/track/1iC7AOPexbawa8ihSwQMm7) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Shoor Al Faqd](https://open.spotify.com/album/6pcdhmvP3x2Obffu2899xu) | 4:52 | 2022-04-07 | 2022-06-09 |
 | [Sukar](https://open.spotify.com/track/64jmDPPjHxrv2uvT2Q8kZD) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo), [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk) | [Sukar](https://open.spotify.com/album/5WEQISx8MQ5sBgomay7bc1) | 3:09 | 2023-02-24 | 2023-07-28 |
 | [Swalef Al Lel](https://open.spotify.com/track/02bhyQbENe0BxDAKsTUteA) | [Waleed Al Shami](https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz) | [Swalef Al Lel](https://open.spotify.com/album/4iVcTtt2gMtG6V4PCk0mU1) | 8:51 | 2022-04-07 | 2022-10-05 |
 | [Taaal](https://open.spotify.com/track/3Co2k0LgcbC1DbHjK5Yi2C) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [Fahad Al Kubaisi 2023](https://open.spotify.com/album/39ekNzwwvkL73wYrxSslhq) | 5:15 | 2023-01-16 | 2023-02-15 |
 | [Takhayel](https://open.spotify.com/track/5kpt7M3vgU5nBFrECytdSv) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Takhayel](https://open.spotify.com/album/01lmkknyS1jSSXxsLelcNt) | 3:19 | 2022-09-07 | 2023-05-24 |
 | [Tejene \(2\)](https://open.spotify.com/track/5KnVP62QZhBeViSV0JUVmU) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kol El Khata](https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c) | 4:01 | 2023-01-09 |  |
-| [Tezzakar Al Nesyan](https://open.spotify.com/track/3bCkRa7J8CxY8yUj6cifXQ) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Tezzakar Al Nesyan](https://open.spotify.com/album/2ebAtYzo58lYiSG3JFyd8W) | 4:50 | 2023-10-11 |  |
+| [Tezzakar Al Nesyan](https://open.spotify.com/track/3bCkRa7J8CxY8yUj6cifXQ) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Tezzakar Al Nesyan](https://open.spotify.com/album/2ebAtYzo58lYiSG3JFyd8W) | 4:50 | 2023-10-11 | 2024-04-11 |
 | [Thekrak \(16\)](https://open.spotify.com/track/7DPK6KDwhYUiPPGgXuq1st) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kol El Khata](https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c) | 4:39 | 2022-10-04 | 2023-01-27 |
 | [Tkhawfni](https://open.spotify.com/track/3dFrNHTI0cSE7BZQNViPdR) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Tkhawfni](https://open.spotify.com/album/2UUrjBTk7RHOZ9g7XbVHtX) | 5:00 | 2023-07-31 | 2023-11-09 |
 | [Waqaf Lahfatk](https://open.spotify.com/track/3GOvsMkufURsrN48DNa9pq) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU), [Methan](https://open.spotify.com/artist/5IsaX1fHYyxc6xcFee6JTC) | [Waqaf Lahfatk](https://open.spotify.com/album/5NMIcwpKdjL2ZlcahGjsOI) | 4:44 | 2023-11-08 |  |

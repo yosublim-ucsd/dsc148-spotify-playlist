@@ -4,7 +4,7 @@
 
 > The biggest Japanese rock hits right now\.  Cover: SHISHAMO　日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-1,426 songs - 3 day 17 hr 20 min
+1,429 songs - 3 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [doll](https://open.spotify.com/track/4LbegEhpVETr2aAOoo6kP5) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/6DSelDneeVFEluC97trMur) | 3:33 | 2023-11-21 | 2023-12-13 |
 | [don't call me queen](https://open.spotify.com/track/6LEN840bmAq5qa1z9ZXVZr) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:14 | 2023-04-28 | 2023-06-28 |
 | [Donimonaranwa](https://open.spotify.com/track/5c53c4qvEQwUiFbvHDKKD3) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Donimonaranwa](https://open.spotify.com/album/48N5slTXeAKIberNSWrSMD) | 3:39 | 2023-10-03 | 2023-10-18 |
-| [Donut Song](https://open.spotify.com/track/5m5B3uG46zGUc4ed8VPss8) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Donut Song](https://open.spotify.com/album/7KrJUUBFfoE8nanB2K5wRK) | 3:47 | 2024-04-09 |  |
+| [Donut Song](https://open.spotify.com/track/5JPN8TqaCEeB2bD9jHfALI) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Donut Song](https://open.spotify.com/album/4bWIkjiyqyVvC7VlcNsxPa) | 3:47 | 2024-04-09 |  |
+| [Donut Song](https://open.spotify.com/track/5m5B3uG46zGUc4ed8VPss8) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Donut Song](https://open.spotify.com/album/7KrJUUBFfoE8nanB2K5wRK) | 3:47 | 2024-04-09 | 2024-04-11 |
 | [Drama](https://open.spotify.com/track/2AYRZZBTGjhFKATI4f7AlH) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Drama](https://open.spotify.com/album/4Jj1Z1zQ7erei7UsqsGNSo) | 3:37 | 2023-04-04 | 2023-04-06 |
 | [Drama](https://open.spotify.com/track/7q81qAmPUTbYiVOZ9uZDlk) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Drama](https://open.spotify.com/album/5jnChZoGsz6XTKKEgr6xkm) | 3:37 | 2023-04-04 | 2023-05-03 |
 | [Dreamer Drivers](https://open.spotify.com/track/5G4Pikk7rn4kGvgjZ9njNk) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [Dreamer Drivers](https://open.spotify.com/album/5iSbbsT99xlq3TAlY2wXSi) | 3:42 | 2023-11-30 | 2023-12-13 |
@@ -359,6 +360,7 @@
 | [Kiss Me, Winter](https://open.spotify.com/track/1WSoVvYq6FzehSUeKYkiDc) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Kiss Me, Winter](https://open.spotify.com/album/1ZldWWMOJLK3tQYTFmGBPU) | 3:41 | 2023-11-09 | 2023-12-15 |
 | [Kitai to Yokan](https://open.spotify.com/track/3uXhwYBekTnCBSw1EOqPTr) | [Skirt](https://open.spotify.com/artist/3PVdr6pwvDMZ9UKTCb1Tkd) | [Kitai to Yokan](https://open.spotify.com/album/4e1KSg9V4VqHn87Q9eBLOv) | 3:36 | 2023-09-12 | 2023-10-11 |
 | [Knock Out\(Album Mix\)](https://open.spotify.com/track/3J6zAKrJoz24YsoEYtWLSh) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [OT WORKS Ⅲ \(Selected ver.\)](https://open.spotify.com/album/5SCmQmrYIKFsnBA5Ml2kCZ) | 3:45 | 2023-10-03 | 2023-10-18 |
+| [Koe ni naraneena](https://open.spotify.com/track/1pNphNgoUoCgfkUKncVT4E) | [THE BOYS&GIRLS](https://open.spotify.com/artist/11kPSVeZeo3t4Ep9TSKa8T) | [Kage mo hinata mo](https://open.spotify.com/album/0Ii7bfcD5hLGbntyqCpMxr) | 4:38 | 2024-04-09 |  |
 | [Koewo](https://open.spotify.com/track/0VkBmuJMv574JUlQC0gDot) | [kariyushi58](https://open.spotify.com/artist/0JUEsKG18QuDt6SmyHDrnL) | [Koewo](https://open.spotify.com/album/56RUz6PPkjaW0iJTsrujXC) | 3:59 | 2023-05-09 | 2023-06-14 |
 | [Kogare](https://open.spotify.com/track/3n3yRUvDTKscIxwnYG7t8S) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [onsei](https://open.spotify.com/album/17JswaRY80Z0aoRiBz3V2N) | 3:49 | 2024-01-30 | 2024-04-10 |
 | [Kohaku](https://open.spotify.com/track/16OedAwrCLAUctyBCgO45o) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Kohaku](https://open.spotify.com/album/2ISxhwPjPjLKNyow9Eg5dU) | 4:03 | 2023-06-06 | 2023-07-19 |
@@ -696,6 +698,7 @@
 | [todayyyyy](https://open.spotify.com/track/15ZEkb83IYYal4xsbhHE03) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [todayyyyy](https://open.spotify.com/album/7Fnokrva48vBdYrFOMXO7c) | 3:48 | 2023-12-28 |  |
 | [Todome no ichigeki \(feat\. Cory Wong\)](https://open.spotify.com/track/7AObB1OaxymMYQ2pTmFV0f) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Todome no ichigeki \(feat\. Cory Wong\)](https://open.spotify.com/album/6BOkaOo3G5lmEsWYOqNdLK) | 5:10 | 2023-10-10 | 2023-11-18 |
 | [Tokai no Yurei](https://open.spotify.com/track/5N1vMQL4L3jpgMUniAZrJs) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [Tokai no Yurei](https://open.spotify.com/album/5VVeNDmWcIYvYxwTTH1wWv) | 4:17 | 2023-01-13 | 2023-01-25 |
+| [Tokyo](https://open.spotify.com/track/337l2e0J2fR3NJUw2cblGf) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [Tokyo](https://open.spotify.com/album/0MgvMvyDml5kkAdljrsdKd) | 4:44 | 2024-04-09 |  |
 | [Tokyo](https://open.spotify.com/track/42oS8MbMLfYeqEIoAM7MIC) | [鉄風東京](https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn) | [From](https://open.spotify.com/album/2a7Tzc0CAQZ7qlu1tckSgV) | 5:48 | 2023-09-12 | 2023-10-11 |
 | [tokyo insomnia.](https://open.spotify.com/track/1aFgCBNmrURg7r4QdfUc1l) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [CHAPTER II: TOKYO INSOMNIA](https://open.spotify.com/album/0HKChpTLtiYactwS5T7PAb) | 3:39 | 2023-01-13 | 2023-02-15 |
 | [Tomodachi](https://open.spotify.com/track/0aN84pd1P3r9eSqZA9pLv9) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Lonely Paradox](https://open.spotify.com/album/3cUllXtHAkPuR9VTWz0OGg) | 4:08 | 2024-01-09 |  |
@@ -1172,7 +1175,7 @@
 | [地獄でスキップ](https://open.spotify.com/track/3J4aASakUQi3c1A4H6sWNo) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [地獄でスキップ](https://open.spotify.com/album/0l8B8Vm7xo07KvuEyxuyxU) | 2:39 | 2023-07-25 | 2023-09-15 |
 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 | 2023-07-18 | 2024-01-19 |
 | [壊れたテレビジョン](https://open.spotify.com/track/5loHaAq2ifUsOEElvmEkjM) | [ザ・リラクシンズ](https://open.spotify.com/artist/2TUQcoBWcdL0ID73Hxqn2H) | [壊れたテレビジョン](https://open.spotify.com/album/3IIi5Gb4mACVcqWVbQEY2F) | 3:31 | 2023-01-13 | 2023-01-18 |
-| [声にならねえな](https://open.spotify.com/track/6BFVYDYBoPypxUs3DT15GI) | [THE BOYS&GIRLS](https://open.spotify.com/artist/11kPSVeZeo3t4Ep9TSKa8T) | [陰も日向も](https://open.spotify.com/album/0Y7IxL19t1AePukHRUXNjM) | 4:38 | 2024-04-09 |  |
+| [声にならねえな](https://open.spotify.com/track/6BFVYDYBoPypxUs3DT15GI) | [THE BOYS&GIRLS](https://open.spotify.com/artist/11kPSVeZeo3t4Ep9TSKa8T) | [陰も日向も](https://open.spotify.com/album/0Y7IxL19t1AePukHRUXNjM) | 4:38 | 2024-04-09 | 2024-04-11 |
 | [変わる、変わる。](https://open.spotify.com/track/78fyucC7nYQzEMnfe78czK) | [fusen](https://open.spotify.com/artist/3vOolRilmDxcJJENFu8mWu) | [変わる、変わる。](https://open.spotify.com/album/6ySJgQzBL1Wp2TnqJRzcS2) | 4:48 | 2023-10-24 | 2023-11-16 |
 | [夏が来るたび](https://open.spotify.com/track/55ItTj78No5IMK6yR9grGj) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [季億の箱](https://open.spotify.com/album/5vBcyTeKwu2h7JBdkjhURs) | 3:59 | 2023-08-22 | 2023-10-25 |
 | [夏の夢は](https://open.spotify.com/track/7x6kyQTNiScCMXbEQlqF1u) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [夏の夢は](https://open.spotify.com/album/5g5omcP2NhrxMsQcMzyQWS) | 3:16 | 2023-07-18 | 2023-08-30 |
@@ -1292,7 +1295,7 @@
 | [本当なんてぶっ飛ばしてよ](https://open.spotify.com/track/7wHtfzKFqvr6fUkKzhMr1c) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [本当なんてぶっ飛ばしてよ](https://open.spotify.com/album/7wORMIt9AD7HhN5FJTV9tG) | 3:16 | 2023-01-13 | 2023-02-15 |
 | [杮落し](https://open.spotify.com/track/6TfvXkqYzW4Sh71VAmTCjt) | [小林私](https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y) | [杮落し](https://open.spotify.com/album/4SYZA6rg46LUroc62f3NIq) | 2:35 | 2023-04-27 | 2023-06-14 |
 | [東へ西へ](https://open.spotify.com/track/6iYAdrE8loWBu9bX2Mbfil) | [Leo Imai](https://open.spotify.com/artist/052wDw54ZAwrWQraLblXZb) | [Eastward Westward](https://open.spotify.com/album/04gsYjYupPQFCTpiSQcMhp) | 4:34 | 2023-04-20 | 2023-05-31 |
-| [東京](https://open.spotify.com/track/00V9LA7VW5ff8nATmCuszE) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [東京](https://open.spotify.com/album/17YDZhxb7tl5O8AfSyXvvB) | 4:44 | 2024-04-09 |  |
+| [東京](https://open.spotify.com/track/00V9LA7VW5ff8nATmCuszE) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [東京](https://open.spotify.com/album/17YDZhxb7tl5O8AfSyXvvB) | 4:44 | 2024-04-09 | 2024-04-11 |
 | [東京](https://open.spotify.com/track/4c9DOWDaboQ7x3qyHU8q0G) | [鉄風東京](https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn) | [From](https://open.spotify.com/album/6YPPPTvyZxrSq0MKId4PVt) | 5:48 | 2023-09-12 | 2023-09-14 |
 | [東京ミッドナイト](https://open.spotify.com/track/6yOsud5tOWwu4Hj43cW7Vc) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [東京ミッドナイト](https://open.spotify.com/album/30LuOfT2yzjCCL8LNFrUUr) | 3:46 | 2023-05-30 | 2023-08-02 |
 | [東京駅](https://open.spotify.com/track/4FpE2FA3wVOUCjnXmyF0nd) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [東京駅](https://open.spotify.com/album/33bK7NmRrbOg8KVrZHn5p9) | 3:19 | 2024-01-16 | 2024-02-14 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 7792,
+  "2024-04-11": 7798,
   "date_first_scraped": "2022-11-18",
   "description": "This is Helmet. The essential tracks, all in one playlist.",
   "name": "This Is Helmet",
@@ -305,7 +305,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 199280,
       "name": "Dislocated",
       "url": "https://open.spotify.com/track/2rPj6HNnYlc8FTHxAn6Qcd"
@@ -961,6 +961,24 @@
       "duration_ms": 221863,
       "name": "Powder Puff",
       "url": "https://open.spotify.com/track/2o1sbJtl8qV6a9FGpOAQ6g"
+    },
+    {
+      "album": {
+        "name": "LEFT",
+        "url": "https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221863,
+      "name": "Powder Puff",
+      "url": "https://open.spotify.com/track/4tCQ5q0H1waTbXQ73dET2v"
     },
     {
       "album": {

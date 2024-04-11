@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: David Guetta and OneRepublic
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,093 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,105 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 63 | [Inside Out](https://open.spotify.com/track/3t71NTwNK5bjIXYfNZuZND) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Bad Nonno](https://open.spotify.com/artist/1QDt44k077TE9rFciokBSU) | [Inside Out](https://open.spotify.com/album/3FKhVkpnKuHZkNaiEdfFOq) | 2:52 |
 | 64 | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 |
 | 65 | [Heaven Ain't Calling](https://open.spotify.com/track/7dQ8raH1V6AArFqJ419fZ7) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo), [Sugar Jesus](https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5) | [Heaven Ain't Calling](https://open.spotify.com/album/2ljTtssMM05i6E3zg6jgw3) | 2:57 |
-| 66 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 66 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/09QRjJiYl5FTaDKwee1cnR), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 67 | [Good For You](https://open.spotify.com/track/5pn9ofs8pPX6bFZO3Dzg6i) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Good For You](https://open.spotify.com/album/3CBgdlkaFZHwyfrrHVQ0WD) | 2:50 |
 | 68 | [Feel This Way](https://open.spotify.com/track/19YCCWiaSjfaKNAHUXwPvd) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg) | [Feel This Way](https://open.spotify.com/album/77dKYJlsC8W8cwN2za1Kfy) | 2:24 |
 | 69 | [You Know](https://open.spotify.com/track/60xgrlVs9s2PVnnde7MzKy) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Kiinjo](https://open.spotify.com/artist/1oYyzyMTx629ZyyYENdhrZ) | [You Know](https://open.spotify.com/album/0j7nNDOyfkzumsr9EJ9SHx) | 3:09 |
 | 70 | [Aria](https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:56 |
 
-Snapshot ID: `MCwyNDlkNmZkOTAxMmE3Zjg0ZjFjMzZkOTUwNWJjZWM4MTJjY2I3NjNk`
+Snapshot ID: `MCxmNWQ0MGJlYWMwYWQzYWI3Y2JhZTRlNjFhMjgyZDQzZjViNTFlZTE0`

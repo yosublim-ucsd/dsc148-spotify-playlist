@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "The Sunset Violent",
+        "url": "https://open.spotify.com/album/1QZRsLKs258z4wowfNzJLK"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291026,
+      "name": "A Figure In The Surf",
+      "url": "https://open.spotify.com/track/4U9mK38K54AZ0pMwfpfIH7"
+    },
+    {
+      "album": {
         "name": "A Friend By The Lake",
         "url": "https://open.spotify.com/album/1yxpwsUCeQGVoyZE4Ww9j8"
       },
@@ -1057,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "\"I wish I was special\"",
+        "url": "https://open.spotify.com/album/3rJQ7dqGmegTLe6o5HrAhW"
+      },
+      "artists": [
+        {
+          "name": "Guests",
+          "url": "https://open.spotify.com/artist/4CeqTUqFIdlWLsC5u1bqpY"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361721,
+      "name": "Arrangements, As In Making Them",
+      "url": "https://open.spotify.com/track/5sG8EHMSFeKdMrDkl5iJtA"
+    },
+    {
+      "album": {
         "name": "Goodbye, Hotel Arkada",
         "url": "https://open.spotify.com/album/26k4Yg7IX877sxz5mnoQBK"
       },
@@ -1368,7 +1404,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 304426,
       "name": "Beaucoup",
       "url": "https://open.spotify.com/track/0BG1ps8MMVcCS5ywRGbaO3"
@@ -1907,6 +1943,24 @@
     },
     {
       "album": {
+        "name": "Wesley's Convertible Tape For The South",
+        "url": "https://open.spotify.com/album/0D4vapicUq5zYcJ6cdoDcb"
+      },
+      "artists": [
+        {
+          "name": "April Magazine",
+          "url": "https://open.spotify.com/artist/6keAC0sBPgw1U4U8qvv9Aa"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165936,
+      "name": "Brighter",
+      "url": "https://open.spotify.com/track/4yNAvVWyqF9jj0vtuo9lx1"
+    },
+    {
+      "album": {
         "name": "Brixton Fish Fry",
         "url": "https://open.spotify.com/album/0CowUBTxj7wTAaAVhgND3r"
       },
@@ -2296,7 +2350,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 166944,
       "name": "Change",
       "url": "https://open.spotify.com/track/5YPyu3NVkNqoQsPXBVxyT2"
@@ -2910,6 +2964,24 @@
       "duration_ms": 189882,
       "name": "CPR",
       "url": "https://open.spotify.com/track/6RynBkCtUFER2ll7fLyt9M"
+    },
+    {
+      "album": {
+        "name": "Crashing",
+        "url": "https://open.spotify.com/album/5b0JlVQMaHGTpLwmz7bVkD"
+      },
+      "artists": [
+        {
+          "name": "Pet Snake",
+          "url": "https://open.spotify.com/artist/6iD9rqdmw5kq1W8CchAtCi"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209666,
+      "name": "Crashing",
+      "url": "https://open.spotify.com/track/01wbcVhScz3VGUJIVOZUF0"
     },
     {
       "album": {
@@ -3666,7 +3738,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 169519,
       "name": "Dream police",
       "url": "https://open.spotify.com/track/5jdlKW2oMtQkOaZp5YOS4G"
@@ -4985,6 +5057,24 @@
     },
     {
       "album": {
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215514,
+      "name": "Free Treasure",
+      "url": "https://open.spotify.com/track/3zGhR60NOVSgtzNEQNcHav"
+    },
+    {
+      "album": {
         "name": "Frozen Food Centre",
         "url": "https://open.spotify.com/album/6D14ylT6dH5vgrx8aIRz55"
       },
@@ -5500,7 +5590,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 211320,
       "name": "Go To Them - Bill Ryder-Jones Rework",
       "url": "https://open.spotify.com/track/1b5nWWL2jHy7eHdslu8jdP"
@@ -5812,7 +5902,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 215786,
       "name": "Hand On Me",
       "url": "https://open.spotify.com/track/2uffOhl7IE6vbk8NtvpD9c"
@@ -9046,7 +9136,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 262500,
       "name": "Mid-Life Crisis",
       "url": "https://open.spotify.com/track/3i7BTylgWV8SRSAHJLoiaX"
@@ -10252,7 +10342,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 219413,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/3hBjjpjZE1e8xwccLhwlpY"
@@ -11465,6 +11555,24 @@
     },
     {
       "album": {
+        "name": "Reaching Out",
+        "url": "https://open.spotify.com/album/0tYyc7yXpSEv4W7FQF0ADO"
+      },
+      "artists": [
+        {
+          "name": "Beth Gibbons",
+          "url": "https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255400,
+      "name": "Reaching Out",
+      "url": "https://open.spotify.com/track/2GSMDvRIBADQEl2DS8XqPs"
+    },
+    {
+      "album": {
         "name": "Ready (feat. Art School Girlfriend) [Pretty Girl Remix]",
         "url": "https://open.spotify.com/album/4ihtyImsIgidtgGezSIEgT"
       },
@@ -11973,6 +12081,24 @@
     },
     {
       "album": {
+        "name": "Ad vitam \u00e6ternamour",
+        "url": "https://open.spotify.com/album/0rNuS4eL7BuiEa0alvN0cL"
+      },
+      "artists": [
+        {
+          "name": "Clea Vincent",
+          "url": "https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Se laisser partir",
+      "url": "https://open.spotify.com/track/1vTMluwsprRGt8vvkw21Mz"
+    },
+    {
+      "album": {
         "name": "Seaforth",
         "url": "https://open.spotify.com/album/42PzjjlMNrWtKbZW7gseqr"
       },
@@ -12236,7 +12362,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 152197,
       "name": "Sick In The Head",
       "url": "https://open.spotify.com/track/68BdSOmA7qvEbMF9w6juyo"
@@ -14486,7 +14612,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 177675,
       "name": "Too Much Too Little",
       "url": "https://open.spotify.com/track/6uB9IlAd8cad9y7yDCeALb"

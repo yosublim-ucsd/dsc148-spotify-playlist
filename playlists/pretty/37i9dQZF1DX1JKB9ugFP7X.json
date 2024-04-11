@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 24024,
+  "num_followers": 24027,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjNjNTk2ODUwZjY1YzZjNDYwMzFjYWYzOWZkY2RiODI2OTIwZTFj",
+  "snapshot_id": "MCw2MGMxZTUwOTg2NmZjNmM2M2M2NjcyNmMyMDBkZGEyYjE2NDI2NTli",
   "tracks": [
     {
       "added_at": "2024-03-08 03:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "VALOR",
-        "url": "https://open.spotify.com/album/7kOTGMgMDMkgIagREdKl9s"
-      },
-      "artists": [
-        {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "VALOR",
-      "url": "https://open.spotify.com/track/1pkGCeruFaTaIVsYrbw1f6"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Mosaicos",
         "url": "https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 146791,
       "name": "Sed",
       "url": "https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "VALOR",
+        "url": "https://open.spotify.com/album/7kOTGMgMDMkgIagREdKl9s"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "VALOR",
+      "url": "https://open.spotify.com/track/1pkGCeruFaTaIVsYrbw1f6"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "POSE!",
-        "url": "https://open.spotify.com/album/20TZLmuA2scsAXFU62L1vN"
+        "name": "Conexi\u00f3n De Amor",
+        "url": "https://open.spotify.com/album/0Ix9AzDcPeQKSNYNzKSxSt"
       },
       "artists": [
         {
-          "name": "Juana Rozas",
-          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
+          "name": "Make Mama Proud",
+          "url": "https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI"
         }
       ],
-      "duration_ms": 172714,
-      "name": "POSE!",
-      "url": "https://open.spotify.com/track/0CBqdjYm2rVEEFbzxCtdLj"
+      "duration_ms": 232550,
+      "name": "CONEXI\u00d3N DE AMOR",
+      "url": "https://open.spotify.com/track/58F5bd40PlBLvoRKzKWDCD"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1111,18 +1111,34 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Conexi\u00f3n De Amor",
-        "url": "https://open.spotify.com/album/0Ix9AzDcPeQKSNYNzKSxSt"
+        "name": "POSE!",
+        "url": "https://open.spotify.com/album/20TZLmuA2scsAXFU62L1vN"
       },
       "artists": [
         {
-          "name": "Make Mama Proud",
-          "url": "https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI"
+          "name": "Juana Rozas",
+          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
         }
       ],
-      "duration_ms": 232550,
-      "name": "CONEXI\u00d3N DE AMOR",
-      "url": "https://open.spotify.com/track/58F5bd40PlBLvoRKzKWDCD"
+      "duration_ms": 172714,
+      "name": "POSE!",
+      "url": "https://open.spotify.com/track/0CBqdjYm2rVEEFbzxCtdLj"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Des",
+        "url": "https://open.spotify.com/album/0aNPqbzj34bIvcshvWSZLX"
+      },
+      "artists": [
+        {
+          "name": "Un Planeta",
+          "url": "https://open.spotify.com/artist/3lk6Afqeq4ST8Yz15OkOHE"
+        }
+      ],
+      "duration_ms": 225550,
+      "name": "Arriba",
+      "url": "https://open.spotify.com/track/3fD9K7rYQJi0IDozmqpGYp"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1147,18 +1163,22 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Des",
-        "url": "https://open.spotify.com/album/0aNPqbzj34bIvcshvWSZLX"
+        "name": "Rayo El\u00e9ctrico",
+        "url": "https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs"
       },
       "artists": [
         {
-          "name": "Un Planeta",
-          "url": "https://open.spotify.com/artist/3lk6Afqeq4ST8Yz15OkOHE"
+          "name": "Poncho",
+          "url": "https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
         }
       ],
-      "duration_ms": 225550,
-      "name": "Arriba",
-      "url": "https://open.spotify.com/track/3fD9K7rYQJi0IDozmqpGYp"
+      "duration_ms": 258629,
+      "name": "Rayo El\u00e9ctrico",
+      "url": "https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1179,26 +1199,6 @@
       "duration_ms": 201706,
       "name": "blablablablabla",
       "url": "https://open.spotify.com/track/4b0FSUCnGQ0UGn00cWMoMj"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
-        "name": "Rayo El\u00e9ctrico",
-        "url": "https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs"
-      },
-      "artists": [
-        {
-          "name": "Poncho",
-          "url": "https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r"
-        },
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
-        }
-      ],
-      "duration_ms": 258629,
-      "name": "Rayo El\u00e9ctrico",
-      "url": "https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Poncholandia",
-        "url": "https://open.spotify.com/album/7IY4JeLJedz5xyMDi0gfzW"
-      },
-      "artists": [
-        {
-          "name": "Poncho",
-          "url": "https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r"
-        },
-        {
-          "name": "Karina Vismara",
-          "url": "https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Sola por la Ciudad",
-      "url": "https://open.spotify.com/track/1UH3xWxB8T2kTZlg37tfFs"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Autosabotear (Uffie & Lokoy Remix)",
         "url": "https://open.spotify.com/album/0d7ZiyUl0iBTBgbWBq13H5"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 275670,
       "name": "Romance de Fin de Semana",
       "url": "https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Poncholandia",
+        "url": "https://open.spotify.com/album/7IY4JeLJedz5xyMDi0gfzW"
+      },
+      "artists": [
+        {
+          "name": "Poncho",
+          "url": "https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r"
+        },
+        {
+          "name": "Karina Vismara",
+          "url": "https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Sola por la Ciudad",
+      "url": "https://open.spotify.com/track/1UH3xWxB8T2kTZlg37tfFs"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "La Monta\u00f1a",
-        "url": "https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL"
-      },
-      "artists": [
-        {
-          "name": "Fakuta",
-          "url": "https://open.spotify.com/artist/5qW2pOdPhEkkBlsUjcGdhD"
-        }
-      ],
-      "duration_ms": 235710,
-      "name": "La Monta\u00f1a",
-      "url": "https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Luc\u00eda",
         "url": "https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 289333,
       "name": "Luc\u00eda",
       "url": "https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL"
+      },
+      "artists": [
+        {
+          "name": "Fakuta",
+          "url": "https://open.spotify.com/artist/5qW2pOdPhEkkBlsUjcGdhD"
+        }
+      ],
+      "duration_ms": 235710,
+      "name": "La Monta\u00f1a",
+      "url": "https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8"
     },
     {
       "added_at": "2024-03-08 03:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-03-08 03:00:00",
       "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/2MkNHGimCLS2aC0Bny8nnT"
-      },
-      "artists": [
-        {
-          "name": "ZEBRA 93",
-          "url": "https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC"
-        }
-      ],
-      "duration_ms": 226464,
-      "name": "M\u00edstico Mezcal",
-      "url": "https://open.spotify.com/track/4uEvTqHD3KEO7xXuawTSWG"
-    },
-    {
-      "added_at": "2024-03-08 03:00:00",
-      "album": {
         "name": "Delfines",
         "url": "https://open.spotify.com/album/1dQ2SQ6xbedOlgA2DAJ9JR"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 278274,
       "name": "Delfines",
       "url": "https://open.spotify.com/track/2nVmNqnJKGLXfvjFWUWF3e"
+    },
+    {
+      "added_at": "2024-03-08 03:00:00",
+      "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/2MkNHGimCLS2aC0Bny8nnT"
+      },
+      "artists": [
+        {
+          "name": "ZEBRA 93",
+          "url": "https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC"
+        }
+      ],
+      "duration_ms": 226464,
+      "name": "M\u00edstico Mezcal",
+      "url": "https://open.spotify.com/track/4uEvTqHD3KEO7xXuawTSWG"
     },
     {
       "added_at": "2024-03-08 03:00:00",

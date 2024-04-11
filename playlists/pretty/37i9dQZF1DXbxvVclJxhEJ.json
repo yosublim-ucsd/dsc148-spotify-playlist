@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 48233,
+  "num_followers": 48280,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjM1Zjk5NzkyNjNlZGE4YzkwNWZlN2JmN2Y3NTY4NzhkMGM4MzZi",
+  "snapshot_id": "MCxhMWFlZjUyZmE0ZWIyNDIwMzhmYWZlNmE3NTQwYzE5MTRkMjM5ZTM0",
   "tracks": [
     {
       "added_at": "2023-08-23 10:15:28",
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 296333,
+      "name": "Born Under A Bad Sign",
+      "url": "https://open.spotify.com/track/2dkdv8XcCNZZiHUIB1nxB0"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
         "name": "Ruth Brown",
         "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 195306,
       "name": "If You See My Rooster (Please Run Him Home)",
       "url": "https://open.spotify.com/track/7eNHeLu7yJB5HN9Srvrocv"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 296333,
-      "name": "Born Under A Bad Sign",
-      "url": "https://open.spotify.com/track/2dkdv8XcCNZZiHUIB1nxB0"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
+        "name": "Love You!",
+        "url": "https://open.spotify.com/album/4FwaiqI20she40DLrEN4ni"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 132106,
+      "name": "Rock The Bop",
+      "url": "https://open.spotify.com/track/3o3zZU5Ib0zd0LpsK1Kfin"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
         "name": "Blues Book and Beyond",
         "url": "https://open.spotify.com/album/7s8fUmFH40RAHThrPdx57E"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 285400,
       "name": "Back Water Blues",
       "url": "https://open.spotify.com/track/2ABW9AYFdHh1QTGYNVmurr"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
-        "name": "Love You!",
-        "url": "https://open.spotify.com/album/4FwaiqI20she40DLrEN4ni"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 132106,
-      "name": "Rock The Bop",
-      "url": "https://open.spotify.com/track/3o3zZU5Ib0zd0LpsK1Kfin"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "The Complete Okeh Sessions 1952-1955",
-        "url": "https://open.spotify.com/album/4ENn66pgc12XTse3zDQAxZ"
-      },
-      "artists": [
-        {
-          "name": "Big Maybelle",
-          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "I'm Getting 'Long Alright",
-      "url": "https://open.spotify.com/track/7xhxXOiHwzKEcwQuTQgD9P"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Sings... Me And The Blues",
         "url": "https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 180560,
       "name": "Don't Worry 'Bout Strangers",
       "url": "https://open.spotify.com/track/1ZgAzwDAC6AtgA4CbztYir"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "The Complete Okeh Sessions 1952-1955",
+        "url": "https://open.spotify.com/album/4ENn66pgc12XTse3zDQAxZ"
+      },
+      "artists": [
+        {
+          "name": "Big Maybelle",
+          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "I'm Getting 'Long Alright",
+      "url": "https://open.spotify.com/track/7xhxXOiHwzKEcwQuTQgD9P"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Stationary Mama",
-        "url": "https://open.spotify.com/album/7r099iFTUtERJVckKP5O7E"
+        "name": "East and West Blues",
+        "url": "https://open.spotify.com/album/2CpcUaXSolfue1LCymEctZ"
       },
       "artists": [
         {
-          "name": "Edith Wilson",
-          "url": "https://open.spotify.com/artist/5elEUmHT71U4DXo5QV52pH"
+          "name": "Marie Grinter",
+          "url": "https://open.spotify.com/artist/5xNjHH7UcOnDXIb6SnK1qr"
         }
       ],
-      "duration_ms": 168973,
-      "name": "How Come You Do Me Like You Do?",
-      "url": "https://open.spotify.com/track/0t0zHxsrim0OQv0dkqy9EL"
+      "duration_ms": 206240,
+      "name": "East and West Blues",
+      "url": "https://open.spotify.com/track/0dTUDvCC9x6a6UUPjOrOM2"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "East and West Blues",
-        "url": "https://open.spotify.com/album/2CpcUaXSolfue1LCymEctZ"
+        "name": "Stationary Mama",
+        "url": "https://open.spotify.com/album/7r099iFTUtERJVckKP5O7E"
       },
       "artists": [
         {
-          "name": "Marie Grinter",
-          "url": "https://open.spotify.com/artist/5xNjHH7UcOnDXIb6SnK1qr"
+          "name": "Edith Wilson",
+          "url": "https://open.spotify.com/artist/5elEUmHT71U4DXo5QV52pH"
         }
       ],
-      "duration_ms": 206240,
-      "name": "East and West Blues",
-      "url": "https://open.spotify.com/track/0dTUDvCC9x6a6UUPjOrOM2"
+      "duration_ms": 168973,
+      "name": "How Come You Do Me Like You Do?",
+      "url": "https://open.spotify.com/track/0t0zHxsrim0OQv0dkqy9EL"
     },
     {
       "added_at": "2023-08-23 10:15:28",

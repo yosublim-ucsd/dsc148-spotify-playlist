@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Joyce Alane",
-  "num_followers": 347117,
+  "num_followers": 347165,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzI1MDg1MzJhMTU3MTY0NzA3NDc5ZGJmYTdlOTM2NmVhNjE3MDAw",
+  "snapshot_id": "MCxiNTg3NGU0YTRmZGE4NGFlZDllZDA5ZjhlZDdlNGVkMDU3ZTRkYWU2",
   "tracks": [
     {
       "added_at": "2024-04-05 03:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
-        "name": "S\u00f3 Mais Um Pouquinho",
-        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 193949,
-      "name": "S\u00f3 Mais Um Pouquinho",
-      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
         "name": "Quero Voc\u00ea",
         "url": "https://open.spotify.com/album/1onNskM0PFFZS0cbZftnYp"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 149517,
       "name": "Quero Voc\u00ea",
       "url": "https://open.spotify.com/track/2DveQSp3QsKN8GfHiuEs83"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
+        "name": "S\u00f3 Mais Um Pouquinho",
+        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "duration_ms": 193949,
+      "name": "S\u00f3 Mais Um Pouquinho",
+      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
-        "name": "Se o Meu Peito Fosse o Mundo (Lado A)",
-        "url": "https://open.spotify.com/album/1Gek78mZmJYLX2dVejnAN4"
-      },
-      "artists": [
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 177099,
-      "name": "Um, Dois, Tr\u00eas",
-      "url": "https://open.spotify.com/track/4TB1pJy7ReBCbJtO1b4U7i"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
         "name": "Codinome Beija-Flor",
         "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
       },
@@ -471,6 +455,22 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
+        "name": "Se o Meu Peito Fosse o Mundo (Lado A)",
+        "url": "https://open.spotify.com/album/1Gek78mZmJYLX2dVejnAN4"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 177099,
+      "name": "Um, Dois, Tr\u00eas",
+      "url": "https://open.spotify.com/track/4TB1pJy7ReBCbJtO1b4U7i"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
         "name": "Gerando na Alta",
         "url": "https://open.spotify.com/album/4BSFDWZXGcfjqteEakRbvb"
       },
@@ -491,26 +491,6 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
-        "name": "Paisagem",
-        "url": "https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu"
-      },
-      "artists": [
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 212300,
-      "name": "Paisagem",
-      "url": "https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
         "name": "Meu Parceiro Belchior",
         "url": "https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 166006,
       "name": "A Palo Seco",
       "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
+        "name": "Paisagem",
+        "url": "https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 212300,
+      "name": "Paisagem",
+      "url": "https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
+        "name": "a trilha do carro dos meus pais (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
+      },
+      "artists": [
+        {
+          "name": "Maria Maud",
+          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
         "name": "Sangue Latino",
         "url": "https://open.spotify.com/album/5EMqWcRxe3KdiMJojkJtr1"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 205215,
       "name": "Coment\u00e1rio a Respeito de John",
       "url": "https://open.spotify.com/track/1WtlomCakUltiZqz4TsV6R"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
-        "name": "a trilha do carro dos meus pais (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
-      },
-      "artists": [
-        {
-          "name": "Maria Maud",
-          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
-      "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
     },
     {
       "added_at": "2024-04-05 03:00:00",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2024-04-05 03:00:00",
       "album": {
-        "name": "Theodoro",
-        "url": "https://open.spotify.com/album/0na2aMw9qRuBhwTanorbNQ"
-      },
-      "artists": [
-        {
-          "name": "Theodoro Nag\u00f4",
-          "url": "https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4"
-        },
-        {
-          "name": "A Timeline",
-          "url": "https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed"
-        }
-      ],
-      "duration_ms": 148186,
-      "name": "Estrela do Oriente",
-      "url": "https://open.spotify.com/track/5rg1EoerPjaGv00vWBy2MS"
-    },
-    {
-      "added_at": "2024-04-05 03:00:00",
-      "album": {
         "name": "Love Songs, Vol. I",
         "url": "https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 142080,
       "name": "eu j\u00e1 n\u00e3o falo de amor",
       "url": "https://open.spotify.com/track/1tPvz44w6JfROTBwRpUKhp"
+    },
+    {
+      "added_at": "2024-04-05 03:00:00",
+      "album": {
+        "name": "Theodoro",
+        "url": "https://open.spotify.com/album/0na2aMw9qRuBhwTanorbNQ"
+      },
+      "artists": [
+        {
+          "name": "Theodoro Nag\u00f4",
+          "url": "https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4"
+        },
+        {
+          "name": "A Timeline",
+          "url": "https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed"
+        }
+      ],
+      "duration_ms": 148186,
+      "name": "Estrela do Oriente",
+      "url": "https://open.spotify.com/track/5rg1EoerPjaGv00vWBy2MS"
     },
     {
       "added_at": "2024-04-05 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para los d\u00edas tristes.",
-  "num_followers": 111642,
+  "num_followers": 111647,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2JhMTlmYWVlNTQ0MzA2ZTc3Y2YxYWFhNmFjZDEyMWU4MzUxYTZj",
+  "snapshot_id": "MCw3ZmQyNjJhZWZhNTBlNDgxOGZmZDM1NTdlYjk1NjEzNDRhYTRkMWJl",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Pendant",
-        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
+        "name": "Lluvia: Rain City Vol.2",
+        "url": "https://open.spotify.com/album/02uvn1R7qDVWSrQheR6qZ4"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
         }
       ],
-      "duration_ms": 235832,
-      "name": "Pendant",
-      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
+      "duration_ms": 159480,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/7eTbARWx4nCoppkeoCtKcD"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Pendant",
+        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 235832,
+      "name": "Pendant",
+      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Best Day of My Life",
         "url": "https://open.spotify.com/album/0JCGma6Cn0cz9xY7rJSio2"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 219020,
       "name": "Just Another Thing We Don't Talk About",
       "url": "https://open.spotify.com/track/5lOvQe3omS2G2YOHZqrIGl"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Lluvia: Rain City Vol.2",
-        "url": "https://open.spotify.com/album/02uvn1R7qDVWSrQheR6qZ4"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 159480,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/7eTbARWx4nCoppkeoCtKcD"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Dices me Extra\u00f1as",
-        "url": "https://open.spotify.com/album/5aa2a3dA2ZfTey8tdefrX0"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 292317,
-      "name": "Dices me Extra\u00f1as",
-      "url": "https://open.spotify.com/track/1WzaBfhfVLDLqAEYf3pfrH"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "olas",
         "url": "https://open.spotify.com/album/2ie8MR4KjNLajmM9xYDzgP"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 164081,
       "name": "olas",
       "url": "https://open.spotify.com/track/4VVoiNTlsBaigg8fJOoR3w"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Dices me Extra\u00f1as",
+        "url": "https://open.spotify.com/album/5aa2a3dA2ZfTey8tdefrX0"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 292317,
+      "name": "Dices me Extra\u00f1as",
+      "url": "https://open.spotify.com/track/1WzaBfhfVLDLqAEYf3pfrH"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
+        "name": "Canciones Tristes",
+        "url": "https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP"
       },
       "artists": [
         {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 239123,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/6pULE9MZf21WIsVi3fKlOq"
+      "duration_ms": 186266,
+      "name": "Canciones Tristes",
+      "url": "https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Canciones Tristes",
-        "url": "https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP"
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
       },
       "artists": [
         {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
         }
       ],
-      "duration_ms": 186266,
-      "name": "Canciones Tristes",
-      "url": "https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA"
+      "duration_ms": 239123,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/6pULE9MZf21WIsVi3fKlOq"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "viernes 13 ii",
-        "url": "https://open.spotify.com/album/11TnM0ui4WFEaMLT8ESLvu"
+        "name": "cuatro veces 10",
+        "url": "https://open.spotify.com/album/41aX0tVfd2qygS1LN570s1"
       },
       "artists": [
         {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 197818,
-      "name": "viernes 13 ii",
-      "url": "https://open.spotify.com/track/7fSWWukokukP3HlZQdt2D5"
+      "duration_ms": 178000,
+      "name": "desamarte",
+      "url": "https://open.spotify.com/track/0bZ60PdPKQ4Vw2TbwilpeK"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "cuatro veces 10",
-        "url": "https://open.spotify.com/album/41aX0tVfd2qygS1LN570s1"
+        "name": "viernes 13 ii",
+        "url": "https://open.spotify.com/album/11TnM0ui4WFEaMLT8ESLvu"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
         }
       ],
-      "duration_ms": 178000,
-      "name": "desamarte",
-      "url": "https://open.spotify.com/track/0bZ60PdPKQ4Vw2TbwilpeK"
+      "duration_ms": 197818,
+      "name": "viernes 13 ii",
+      "url": "https://open.spotify.com/track/7fSWWukokukP3HlZQdt2D5"
     },
     {
       "added_at": "2024-03-01 05:00:00",

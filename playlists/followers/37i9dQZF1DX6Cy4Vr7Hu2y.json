@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 959458,
+  "2024-04-11": 959545,
   "date_first_scraped": "2021-12-21",
   "description": "From sultry vocalists, sexy divas to cutesy girl-groups, the women of K-Pop are a formidable force to be reckoned with. (Cover: BABYMONSTER) (\ucf00\uc774\ud31d\uc744 \ub300\ud45c\ud558\ub294 \ud55c\uad6d\uc758 \uc5ec\uc131 \uac00\uc218\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "EQUAL K-Pop",
@@ -616,6 +616,24 @@
     },
     {
       "album": {
+        "name": "<Pre 1 : Birth>",
+        "url": "https://open.spotify.com/album/5wZCcgVMvK2sEEKH5oXNMJ"
+      },
+      "artists": [
+        {
+          "name": "ARTMS",
+          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162373,
+      "name": "Birth",
+      "url": "https://open.spotify.com/track/6aPXjtda2SdTi8rAcFlrOS"
+    },
+    {
+      "album": {
         "name": "BIRTHDAY",
         "url": "https://open.spotify.com/album/7GfqgsiW63VBNLRvIrhqLx"
       },
@@ -717,7 +735,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 212842,
       "name": "Blue",
       "url": "https://open.spotify.com/track/3R8iyJpmhI9ABDmTpetV2D"
@@ -3489,7 +3507,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 190920,
       "name": "Love U",
       "url": "https://open.spotify.com/track/0Hk7Aoxk7qdfj7bO83iL69"
@@ -3641,6 +3659,24 @@
       "duration_ms": 255788,
       "name": "Meteor",
       "url": "https://open.spotify.com/track/6Sp9f4XlwwcLC5rYZ0Lciz"
+    },
+    {
+      "album": {
+        "name": "Midas Touch",
+        "url": "https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162880,
+      "name": "Midas Touch",
+      "url": "https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V"
     },
     {
       "album": {

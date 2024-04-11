@@ -4,7 +4,7 @@
 
 > The best hardstyle remixes of songs you know!
 
-189 songs - 9 hr 25 min
+190 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,8 +43,9 @@
 | [Bonkerz](https://open.spotify.com/track/0FaG2Hc9LSFsuChAC0ZZcM) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Bonkerz](https://open.spotify.com/album/5cLA1oOx6ltXJUivbd8Ybs) | 3:10 | 2022-12-05 | 2024-02-09 |
 | [Boom, Boom, Boom, Boom!!](https://open.spotify.com/track/3le8U4X1TublQ5I1kmLgZk) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [SONJA](https://open.spotify.com/artist/7rEAvtkj6sNUlQXlYRldrs) | [Boom, Boom, Boom, Boom!!](https://open.spotify.com/album/7d352aixPubgdC24Loodkb) | 2:35 | 2024-02-08 |  |
 | [California Dreamin'](https://open.spotify.com/track/2wKMG0nUoMoc8YVVUkmJFo) | [Lockdown](https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt) | [California Dreamin'](https://open.spotify.com/album/6XUfC0YrtiuXkQdrjvukHC) | 2:28 | 2023-07-27 | 2023-08-25 |
-| [Can Can](https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a) | [NLCK](https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Can Can](https://open.spotify.com/album/1cBFq5sBvonDTN0lo5zGDi) | 2:08 | 2023-09-15 |  |
+| [Can Can](https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a) | [NLCK](https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Can Can](https://open.spotify.com/album/1cBFq5sBvonDTN0lo5zGDi) | 2:08 | 2023-09-15 | 2024-04-11 |
 | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/track/1qXFfxYo6lyVk8Cgeuyuu2) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [High Level](https://open.spotify.com/artist/4KvRH69whFDlnlkk39c1Hh) | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/album/7c9YtdfJjz6pCQWrrWb8Gn) | 2:00 | 2022-12-16 |  |
+| [Can't Get You Outta My Head](https://open.spotify.com/track/7dWTrhDYI7wdE2kc8deHOf) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [Can't Get You Outta My Head](https://open.spotify.com/album/5T1QnJXPIQ97h3tXNcdLLJ) | 2:36 | 2024-04-10 |  |
 | [Chase The Sun \(Hardstyle Mix\)](https://open.spotify.com/track/4Ujj3fBXpQZOChxAmsEzlL) | [Psyko Punkz](https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS) | [Chase The Sun \(Hardstyle Mix\)](https://open.spotify.com/album/6Rl1i6qi16I6EOo8rea4Q6) | 2:15 | 2023-01-26 | 2023-04-12 |
 | [Children](https://open.spotify.com/track/3toZLVE2wYiH7SJkv3QObm) | [MELON](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Stormerz](https://open.spotify.com/artist/4FSHCrSzZlOrwOMmEInVwf), [Hardstyle Fruits Music](https://open.spotify.com/artist/5EkNG5Mzk2KopyyxAdNHJ8) | [Children](https://open.spotify.com/album/6gPqh8lsH8TR4IPxmwffCq) | 2:42 | 2023-06-15 | 2023-06-30 |
 | [Come With Me](https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Special D.](https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt) | [Come With Me](https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT) | 2:41 | 2022-12-05 |  |

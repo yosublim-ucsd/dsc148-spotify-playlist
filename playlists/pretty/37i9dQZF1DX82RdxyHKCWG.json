@@ -1,12 +1,12 @@
 {
   "description": "Tudo de novo que t\u00e1 rolando no pop! Atualizada toda semana \u2728 Foto: Beyonc\u00e9",
-  "num_followers": 614471,
+  "num_followers": 614615,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTZiMGNhZDg3YmE2NWMyMzNkMTdjMmNmMDI3NDU4MWIxNDM4ZGEy",
+  "snapshot_id": "MCxhYmQzNzQ0OWVkNDIwOWMyNzU4OGMzY2Q5MzVjZjgzNmE0MzEyYmYw",
   "tracks": [
     {
       "added_at": "2024-04-09 16:04:13",
@@ -191,26 +191,6 @@
     {
       "added_at": "2024-04-09 16:04:13",
       "album": {
-        "name": "BELLAKEO",
-        "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "BELLAKEO",
-      "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
-    },
-    {
-      "added_at": "2024-04-09 16:04:13",
-      "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
+    },
+    {
+      "added_at": "2024-04-09 16:04:13",
+      "album": {
+        "name": "BELLAKEO",
+        "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "BELLAKEO",
+      "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
     },
     {
       "added_at": "2024-04-09 16:04:13",
@@ -603,6 +603,26 @@
     {
       "added_at": "2024-04-09 16:04:13",
       "album": {
+        "name": "You Need Me Now? (feat. Sabrina Carpenter)",
+        "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186377,
+      "name": "You Need Me Now? (feat. Sabrina Carpenter)",
+      "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
+    },
+    {
+      "added_at": "2024-04-09 16:04:13",
+      "album": {
         "name": "Triple S",
         "url": "https://open.spotify.com/album/2Vum7fnobCUz4Ac6TsZyt4"
       },
@@ -627,22 +647,18 @@
     {
       "added_at": "2024-04-09 16:04:13",
       "album": {
-        "name": "You Need Me Now? (feat. Sabrina Carpenter)",
-        "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF"
+        "name": "Please Don't Fall In Love With Me",
+        "url": "https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        },
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 186377,
-      "name": "You Need Me Now? (feat. Sabrina Carpenter)",
-      "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
+      "duration_ms": 177562,
+      "name": "Please Don't Fall In Love With Me",
+      "url": "https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7"
     },
     {
       "added_at": "2024-04-09 16:04:13",
@@ -683,34 +699,18 @@
     {
       "added_at": "2024-04-09 16:04:13",
       "album": {
-        "name": "Please Don't Fall In Love With Me",
-        "url": "https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt"
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/062urW4KS66GPlEHIueefz"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 177562,
-      "name": "Please Don't Fall In Love With Me",
-      "url": "https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7"
-    },
-    {
-      "added_at": "2024-04-09 16:04:13",
-      "album": {
-        "name": "J CHRIST",
-        "url": "https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 153766,
-      "name": "J CHRIST",
-      "url": "https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE"
+      "duration_ms": 202414,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF"
     },
     {
       "added_at": "2024-04-09 16:04:13",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-04-09 16:04:13",
       "album": {
-        "name": "Drown",
-        "url": "https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA"
+        "name": "J CHRIST",
+        "url": "https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J"
       },
       "artists": [
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 260120,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu"
+      "duration_ms": 153766,
+      "name": "J CHRIST",
+      "url": "https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE"
     },
     {
       "added_at": "2024-04-09 16:04:13",
@@ -783,18 +783,34 @@
     {
       "added_at": "2024-04-09 16:04:13",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/062urW4KS66GPlEHIueefz"
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA"
       },
       "artists": [
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 202414,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF"
+      "duration_ms": 260120,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu"
+    },
+    {
+      "added_at": "2024-04-09 16:04:13",
+      "album": {
+        "name": "My Oh My",
+        "url": "https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 156155,
+      "name": "My Oh My",
+      "url": "https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx"
     },
     {
       "added_at": "2024-04-09 16:04:13",
@@ -815,18 +831,22 @@
     {
       "added_at": "2024-04-09 16:04:13",
       "album": {
-        "name": "My Oh My",
-        "url": "https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed"
+        "name": "Incredible (feat. Labrinth)",
+        "url": "https://open.spotify.com/album/5ZoC2lrruEGZJCKppgOYoV"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 156155,
-      "name": "My Oh My",
-      "url": "https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx"
+      "duration_ms": 213632,
+      "name": "Incredible (feat. Labrinth)",
+      "url": "https://open.spotify.com/track/3SOaoZ1AfhMjEMCJrdGKEw"
     },
     {
       "added_at": "2024-04-09 16:04:13",
@@ -851,18 +871,18 @@
     {
       "added_at": "2024-04-09 16:04:13",
       "album": {
-        "name": "Lonely Dancers",
-        "url": "https://open.spotify.com/album/763Pp8jgi2eWEyQ9SGzODd"
+        "name": "Club classics / B2b",
+        "url": "https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3"
       },
       "artists": [
         {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 149027,
-      "name": "Lonely Dancers",
-      "url": "https://open.spotify.com/track/0QctD9krtPbC8KBOK6hRfb"
+      "duration_ms": 153526,
+      "name": "Club classics",
+      "url": "https://open.spotify.com/track/7BoOmRrtNCbIT9yQ4xidk5"
     },
     {
       "added_at": "2024-04-09 16:04:13",
@@ -891,6 +911,22 @@
     {
       "added_at": "2024-04-09 16:04:13",
       "album": {
+        "name": "Lonely Dancers",
+        "url": "https://open.spotify.com/album/763Pp8jgi2eWEyQ9SGzODd"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 149027,
+      "name": "Lonely Dancers",
+      "url": "https://open.spotify.com/track/0QctD9krtPbC8KBOK6hRfb"
+    },
+    {
+      "added_at": "2024-04-09 16:04:13",
+      "album": {
         "name": "You Love Who You Love",
         "url": "https://open.spotify.com/album/5Qz6ewHWcFWlQ89R0aeTDb"
       },
@@ -907,42 +943,6 @@
     {
       "added_at": "2024-04-09 16:04:13",
       "album": {
-        "name": "MY HOUSE",
-        "url": "https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 262941,
-      "name": "MY HOUSE",
-      "url": "https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8"
-    },
-    {
-      "added_at": "2024-04-09 16:04:13",
-      "album": {
-        "name": "Incredible (feat. Labrinth)",
-        "url": "https://open.spotify.com/album/5ZoC2lrruEGZJCKppgOYoV"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 213632,
-      "name": "Incredible (feat. Labrinth)",
-      "url": "https://open.spotify.com/track/3SOaoZ1AfhMjEMCJrdGKEw"
-    },
-    {
-      "added_at": "2024-04-09 16:04:13",
-      "album": {
         "name": "Take Me to the River",
         "url": "https://open.spotify.com/album/2uZazZt5CXCpf5KPzSzh2V"
       },
@@ -955,6 +955,22 @@
       "duration_ms": 264066,
       "name": "Take Me to the River",
       "url": "https://open.spotify.com/track/5vmYMS6FR2b7J57OG0Cscl"
+    },
+    {
+      "added_at": "2024-04-09 16:04:13",
+      "album": {
+        "name": "MY HOUSE",
+        "url": "https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 262941,
+      "name": "MY HOUSE",
+      "url": "https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8"
     },
     {
       "added_at": "2024-04-09 16:04:13",
@@ -979,22 +995,6 @@
     {
       "added_at": "2024-04-09 16:04:13",
       "album": {
-        "name": "Club classics / B2b",
-        "url": "https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 153526,
-      "name": "Club classics",
-      "url": "https://open.spotify.com/track/7BoOmRrtNCbIT9yQ4xidk5"
-    },
-    {
-      "added_at": "2024-04-09 16:04:13",
-      "album": {
         "name": "HEAVEN",
         "url": "https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h"
       },
@@ -1007,26 +1007,6 @@
       "duration_ms": 174595,
       "name": "HEAVEN",
       "url": "https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD"
-    },
-    {
-      "added_at": "2024-04-09 16:04:13",
-      "album": {
-        "name": "Ruin",
-        "url": "https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        }
-      ],
-      "duration_ms": 181646,
-      "name": "Ruin",
-      "url": "https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x"
     },
     {
       "added_at": "2024-04-09 16:04:13",
@@ -1055,6 +1035,26 @@
     {
       "added_at": "2024-04-09 16:04:13",
       "album": {
+        "name": "Ruin",
+        "url": "https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "duration_ms": 181646,
+      "name": "Ruin",
+      "url": "https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x"
+    },
+    {
+      "added_at": "2024-04-09 16:04:13",
+      "album": {
         "name": "this is what winter feels like",
         "url": "https://open.spotify.com/album/1tGXG1vh00TcvgvFR2j8Dh"
       },
@@ -1067,22 +1067,6 @@
       "duration_ms": 194782,
       "name": "this is what winter feels like",
       "url": "https://open.spotify.com/track/1TbxAY9cb9MbvTifjcvSkJ"
-    },
-    {
-      "added_at": "2024-04-09 16:04:13",
-      "album": {
-        "name": "Memory Lane & Winter Song",
-        "url": "https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT"
     },
     {
       "added_at": "2024-04-09 16:04:13",
@@ -1123,22 +1107,18 @@
     {
       "added_at": "2024-04-09 16:04:13",
       "album": {
-        "name": "No Man's Land",
-        "url": "https://open.spotify.com/album/1FgHLHfin6Vvv1WrMWm6L4"
+        "name": "Memory Lane & Winter Song",
+        "url": "https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "venbee",
-          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 138234,
-      "name": "No Man's Land",
-      "url": "https://open.spotify.com/track/1pzcBd8A2f2pnVCGWro0fo"
+      "duration_ms": 192133,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT"
     },
     {
       "added_at": "2024-04-09 16:04:13",
@@ -1155,6 +1135,26 @@
       "duration_ms": 175628,
       "name": "Outside Of Love",
       "url": "https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5"
+    },
+    {
+      "added_at": "2024-04-09 16:04:13",
+      "album": {
+        "name": "No Man's Land",
+        "url": "https://open.spotify.com/album/1FgHLHfin6Vvv1WrMWm6L4"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        }
+      ],
+      "duration_ms": 138234,
+      "name": "No Man's Land",
+      "url": "https://open.spotify.com/track/1pzcBd8A2f2pnVCGWro0fo"
     },
     {
       "added_at": "2024-04-09 16:04:13",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-04-09 16:04:13",
       "album": {
+        "name": "VENUS",
+        "url": "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 207611,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/1RaVANIegur4WaZTscvVS4"
+    },
+    {
+      "added_at": "2024-04-09 16:04:13",
+      "album": {
         "name": "Where Do We Go Now? (Music from Lil Nas X: Long Live Montero)",
         "url": "https://open.spotify.com/album/3xYwyMzauc6ENKu2HhpuiP"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 157714,
       "name": "Lonely At The Top - Remix",
       "url": "https://open.spotify.com/track/04caQq1IeChrnBnvch1FQf"
-    },
-    {
-      "added_at": "2024-04-09 16:04:13",
-      "album": {
-        "name": "VENUS",
-        "url": "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 207611,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/1RaVANIegur4WaZTscvVS4"
     },
     {
       "added_at": "2024-04-09 16:04:13",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-04-09 16:04:13",
       "album": {
-        "name": "HER MIND (BLOSSOM EDITION)",
-        "url": "https://open.spotify.com/album/3uAKzfR2PMG5eJTEXprAPF"
-      },
-      "artists": [
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "duration_ms": 135199,
-      "name": "Rolling",
-      "url": "https://open.spotify.com/track/04zj7YtTSjAd2Y8tt8KX2K"
-    },
-    {
-      "added_at": "2024-04-09 16:04:13",
-      "album": {
         "name": "Good Feeling About You",
         "url": "https://open.spotify.com/album/62Ec8rNbl3bWBehqjeqYNd"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 186382,
       "name": "Good Feeling About You",
       "url": "https://open.spotify.com/track/1sWsCZe653N3hhocXtBh4e"
+    },
+    {
+      "added_at": "2024-04-09 16:04:13",
+      "album": {
+        "name": "HER MIND (BLOSSOM EDITION)",
+        "url": "https://open.spotify.com/album/3uAKzfR2PMG5eJTEXprAPF"
+      },
+      "artists": [
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "duration_ms": 135199,
+      "name": "Rolling",
+      "url": "https://open.spotify.com/track/04zj7YtTSjAd2Y8tt8KX2K"
     },
     {
       "added_at": "2024-04-09 16:04:13",

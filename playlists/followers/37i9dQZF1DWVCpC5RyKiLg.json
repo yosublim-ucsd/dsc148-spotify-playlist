@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 719911,
+  "2024-04-11": 720000,
   "date_first_scraped": "2022-03-02",
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
   "name": "Faxina com Sofr\u00eancia",
@@ -151,7 +151,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 231680,
       "name": "Algo Mais (Amante) - Ao Vivo",
       "url": "https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P"
@@ -1869,6 +1869,28 @@
       "duration_ms": 193669,
       "name": "Mentira - Ao Vivo",
       "url": "https://open.spotify.com/track/146Vb458Y5RbqEa0fYFPzm"
+    },
+    {
+      "album": {
+        "name": "Em Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2NYBzUfyld0Zz9Mt8DGSNg"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182694,
+      "name": "Meu Cora\u00e7\u00e3o Deu PT - Ao Vivo",
+      "url": "https://open.spotify.com/track/4zHavHoLCNqqZQ8JVqPZa6"
     },
     {
       "album": {

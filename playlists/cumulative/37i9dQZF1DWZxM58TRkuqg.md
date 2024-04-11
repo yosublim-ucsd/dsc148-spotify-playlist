@@ -4,7 +4,7 @@
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Ghea Indrawari
 
-106 songs - 7 hr 10 min
+107 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Lagu Pernikahan Kita](https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Lagu Pernikahan Kita](https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu) | 4:21 | 2024-02-01 |  |
 | [Lampu Merah](https://open.spotify.com/track/6E7DsxwI4eOcMHLYRUDCaw) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Pilot](https://open.spotify.com/album/2Ykep6jay9dIiAB9eJq7vo) | 4:58 | 2024-02-19 |  |
 | [Lampu Merah](https://open.spotify.com/track/7uwo3VQxUlRtKudAjluuTr) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Pilot](https://open.spotify.com/album/2fm5dfglCcyJ4yVxjIP0qU) | 4:58 | 2024-01-26 | 2024-02-22 |
-| [Lewat Doa](https://open.spotify.com/track/1IhVdSpDJV4ASULOTALD3P) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Lewat Doa](https://open.spotify.com/album/1yTMN5y852AZFeViX6rrKz) | 4:18 | 2024-03-28 |  |
+| [Lewat Doa](https://open.spotify.com/track/1IhVdSpDJV4ASULOTALD3P) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Lewat Doa](https://open.spotify.com/album/1yTMN5y852AZFeViX6rrKz) | 4:18 | 2024-03-28 | 2024-04-11 |
+| [Lewat Doa](https://open.spotify.com/track/47w31Y7t568KU7NC0sqCy9) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Lewat Doa](https://open.spotify.com/album/40Hol4DUyuiR00IWlfJ6vL) | 4:18 | 2024-04-04 |  |
 | [Love Again](https://open.spotify.com/track/6YAGyRdsS4SZNlFGrpFjNr) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [Love Again](https://open.spotify.com/album/3ueOQerHU7Qv1tuHmmDl3e) | 3:12 | 2024-03-01 |  |
 | [Luka](https://open.spotify.com/track/3uAbxlHUC7hZkUMQ2NfIOp) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Berona](https://open.spotify.com/album/6sV7rZpvGIIQS1ccs61YXV) | 3:13 | 2024-01-26 |  |
 | [MADE 4 U](https://open.spotify.com/track/5yetn3rXSPBP8fl5d5zExV) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [MADE 4 U](https://open.spotify.com/album/0WlcKSVRN8XsTDN4yXsMWZ) | 4:09 | 2024-01-26 | 2024-03-22 |

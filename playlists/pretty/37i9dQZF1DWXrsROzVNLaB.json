@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGVkNTIxYWRiYjAzODBkYmMzODdkZmY0N2E2YmE4OTY2ZWU2ZjY5",
+  "snapshot_id": "MCxmOTNhZGIzMTMxOTFjMjBkMTk2NjY1YzMwMGVlZTA2MmFlMGZkOTRh",
   "tracks": [
     {
       "added_at": "2024-03-20 11:31:22",
@@ -875,6 +875,26 @@
     {
       "added_at": "2024-03-20 11:31:22",
       "album": {
+        "name": "He Lives",
+        "url": "https://open.spotify.com/album/2BYeHrl5Uk56Js2O6wc1Oi"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        },
+        {
+          "name": "Adam Agee",
+          "url": "https://open.spotify.com/artist/52GnWZuN0H3khY23bcyVcl"
+        }
+      ],
+      "duration_ms": 286586,
+      "name": "He Lives",
+      "url": "https://open.spotify.com/track/4nt2QalH8b0qqzDFiVMFLD"
+    },
+    {
+      "added_at": "2024-03-20 11:31:22",
+      "album": {
         "name": "Third Day",
         "url": "https://open.spotify.com/album/0CbjyNnad3GgRLWrUshLXF"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 315520,
       "name": "You Were On The Cross",
       "url": "https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp"
-    },
-    {
-      "added_at": "2024-03-20 11:31:22",
-      "album": {
-        "name": "He Lives",
-        "url": "https://open.spotify.com/album/2BYeHrl5Uk56Js2O6wc1Oi"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        },
-        {
-          "name": "Adam Agee",
-          "url": "https://open.spotify.com/artist/52GnWZuN0H3khY23bcyVcl"
-        }
-      ],
-      "duration_ms": 286586,
-      "name": "He Lives",
-      "url": "https://open.spotify.com/track/4nt2QalH8b0qqzDFiVMFLD"
     },
     {
       "added_at": "2024-03-20 11:31:22",

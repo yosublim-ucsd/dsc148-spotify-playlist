@@ -4,13 +4,14 @@
 
 > Homegrown Ugandan hits in one playlist\. Cover: Vinka
 
-269 songs - 13 hr 59 min
+270 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 By 2](https://open.spotify.com/track/5YzRhflX7SXBWJdeSdEEmn) | [Bruz Newton](https://open.spotify.com/artist/7BPrSZBofgDgHqHlLQ0OZH) | [2 By 2](https://open.spotify.com/album/2a256gdr7138D4Nkbp2sb9) | 2:47 | 2022-07-29 | 2022-11-14 |
 | [4 U](https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT) | [4 U](https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk) | 2:15 | 2022-09-30 | 2023-06-05 |
 | [Abantu](https://open.spotify.com/track/7w29rUV15CxA7HJVCbN1Qa) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Abantu](https://open.spotify.com/album/5yamH3rDXInmyEiVqXheFs) | 3:16 | 2023-01-26 | 2023-02-11 |
+| [Abeeyo](https://open.spotify.com/track/1duc3xfXWOgV9nq2w7cBIN) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Jackie Chandiru](https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ) | [Abeeyo](https://open.spotify.com/album/3jApHQPhttpEFWxyx9OnaH) | 2:51 | 2024-04-05 |  |
 | [Ability](https://open.spotify.com/track/2WfykADENkOGFjTxL8I5Cs) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Ability](https://open.spotify.com/album/7snzcqObYYgEgCzXPXCjqe) | 2:54 | 2023-09-22 |  |
 | [Ache For You](https://open.spotify.com/track/7AwOY2hgIIIIBSU6mowRwN) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [AFRICAN MUSIC](https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E) | 4:08 | 2024-03-15 | 2024-04-06 |
 | [Afiya](https://open.spotify.com/track/1YXHLlENONleioam1NP9Uu) | [King Holiday](https://open.spotify.com/artist/2Qgp7qYMWApB3qwH3agQYs), [Koojo The Artist](https://open.spotify.com/artist/3eDzOzmge19my36Wia07yK), [Amani Greene](https://open.spotify.com/artist/0nJznPzHXT4c62if3o5tsO) | [Afiya](https://open.spotify.com/album/2rx4CkziHMdzRkvUukP33O) | 2:32 | 2022-08-05 | 2022-10-07 |
@@ -262,7 +263,7 @@
 | [Tupaate \- Remix](https://open.spotify.com/track/1CSIlkKp4VLElcE6VXDujF) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p), [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [MC África](https://open.spotify.com/artist/0RfF9dk2auMmt5xVymyt7q) | [Tupaate \(Remix\)](https://open.spotify.com/album/70DVUbaES5FmVkKmEO5dfy) | 2:51 | 2024-03-15 | 2024-04-06 |
 | [Tutamire](https://open.spotify.com/track/63l4eF30bX8vVTcRSuoBIc) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Tutamire](https://open.spotify.com/album/5F3Ahu2jSh25zW4YGm9qQ1) | 2:55 | 2024-01-19 |  |
 | [Tutu Mama](https://open.spotify.com/track/3J12BNX50z4OsGpmihm4LG) | [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6), [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Bedroom Essentials](https://open.spotify.com/album/1UNHyhwVrEpDXadpnPQeF4) | 3:06 | 2023-06-30 |  |
-| [Type Of Girl](https://open.spotify.com/track/06pxO19q4mkseGmNoqJHFQ) | [Sanyu](https://open.spotify.com/artist/6oomz4M46LpCm0rd4BXIWK), [Kamanzi](https://open.spotify.com/artist/3eFz1Hi2ldnb0QWcidYrWZ) | [Type Of Girl](https://open.spotify.com/album/7xx4zbtu0xnr4jgOBQ8LVb) | 3:30 | 2023-11-10 |  |
+| [Type Of Girl](https://open.spotify.com/track/06pxO19q4mkseGmNoqJHFQ) | [Sanyu](https://open.spotify.com/artist/6oomz4M46LpCm0rd4BXIWK), [Kamanzi](https://open.spotify.com/artist/3eFz1Hi2ldnb0QWcidYrWZ) | [Type Of Girl](https://open.spotify.com/album/7xx4zbtu0xnr4jgOBQ8LVb) | 3:30 | 2023-11-10 | 2024-04-11 |
 | [Udongo \(Save Soil\)](https://open.spotify.com/track/59BPZ3xZSqL70xUngfRXJf) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Reazyla](https://open.spotify.com/artist/7GtTV6RYcXvgp6mQ0ZQfhG) | [Udongo \(Save Soil\)](https://open.spotify.com/album/4TJhR6aU5qMlMoyntJGSiz) | 2:56 | 2022-05-12 | 2022-09-02 |
 | [Vibe Yo \- Remix](https://open.spotify.com/track/13Snix6AbfTC8ProjfSR1X) | [Martha Mukisa](https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6), [Ziza Bafana](https://open.spotify.com/artist/0rF2MfjTZWvmRsrdsVcdF3) | [Vibe Yo \(Remix\)](https://open.spotify.com/album/1QInb3GdYbabj7GrkZzdMQ) | 2:58 | 2023-03-18 | 2023-04-01 |
 | [Voices & Vices](https://open.spotify.com/track/71s7xkFT4m4qOS1WUny4QN) | [Xcript](https://open.spotify.com/artist/6MXbmEfhJIKauPuo91Ssr5), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Voices & Vices](https://open.spotify.com/album/2Mnq8tG8vzxnQUdZ877LWp) | 2:50 | 2023-02-03 | 2023-12-10 |

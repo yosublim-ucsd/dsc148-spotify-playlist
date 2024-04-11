@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 
 > Découvrez les meilleures nouveautés pop\. Photo : Imagine Dragons
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,672 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,688 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 | 49 | [Where Do We Go Now? \(Music from Lil Nas X: Long Live Montero\)](https://open.spotify.com/track/0jeRoIMD1LHhUkQEbjkXQv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Where Do We Go Now? \(Music from Lil Nas X: Long Live Montero\)](https://open.spotify.com/album/3xYwyMzauc6ENKu2HhpuiP) | 3:15 |
 | 50 | [Maybe I](https://open.spotify.com/track/3vbuPaWDmP71FMVYbj1kRZ) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Maybe I](https://open.spotify.com/album/1p3H8RBMBjwaE8vYWeCBOp) | 2:02 |
 
-Snapshot ID: `MCxhMDZlYTgzNDAxMDEwYTY1MzBmOGVlNmFlMDdlMzg5Y2Y1NWZlZmM1`
+Snapshot ID: `MCw2ZDhkNjdkNWI1ODg4MjQ0N2E0MGI5ZjJlZDY4ZGE0ZDAxZDgwYmQ1`

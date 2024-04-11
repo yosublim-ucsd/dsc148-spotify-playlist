@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 
 > The latest in gaming music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,028,503 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,028,408 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 | 50 | [Crab Rave](https://open.spotify.com/track/4qDHt2ClApBBzDAvhNGWFd) | [Noisestorm](https://open.spotify.com/artist/2BuSNpxpMGJGiAAWJYJT2t) | [Crab Rave](https://open.spotify.com/album/2lppc5R9jiNgGoB7qXPWlr) | 2:41 |
 | 51 | [Face Off](https://open.spotify.com/track/6M47gaKejso9772SKTa3yH) | [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Joey Cool](https://open.spotify.com/artist/1A8NEJYo3VW9aIZ6l55Dgu), [King Iso](https://open.spotify.com/artist/7vTyZmNA6LC0WRDg7V6yle), [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn) | [ASIN9NE](https://open.spotify.com/album/0g81USzuFuid3QkYfxeMXM) | 3:39 |
 
-Snapshot ID: `MCw0MmM0NTMyOWNhMmMzYmJiMGQ2NTg4NmEzMDE2NWM1N2I0Y2FlMDAz`
+Snapshot ID: `MCw0MzM1NmViODNjMWJlNGE1N2E2OTVmYTA4YTZhZjcwNDU3YWQ5MjVk`

@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume. Cover:  Ellen Allien",
-  "num_followers": 33734,
+  "num_followers": 33838,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmVkM2NkYzY3MTI5NDFmOTlmOWJjN2QwYjljMjIwMTYxMzY5YjE5",
+  "snapshot_id": "MCxlOTkyMmRiYWJjNjI2NDU5ZDlhOTZkMTZkY2FlOWUwM2M1NGQ5MGFm",
   "tracks": [
     {
       "added_at": "2024-04-02 22:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "eBay",
-        "url": "https://open.spotify.com/album/5cCcOdexGrZGWzmcsC3lkU"
-      },
-      "artists": [
-        {
-          "name": "LEEPA",
-          "url": "https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD"
-        }
-      ],
-      "duration_ms": 142100,
-      "name": "eBay",
-      "url": "https://open.spotify.com/track/3k7g0xHFCX2ezCVCHaikIf"
-    },
-    {
-      "added_at": "2024-04-02 22:00:00",
-      "album": {
         "name": "Hurting",
         "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 157906,
       "name": "Hurting",
       "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
+    },
+    {
+      "added_at": "2024-04-02 22:00:00",
+      "album": {
+        "name": "eBay",
+        "url": "https://open.spotify.com/album/5cCcOdexGrZGWzmcsC3lkU"
+      },
+      "artists": [
+        {
+          "name": "LEEPA",
+          "url": "https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD"
+        }
+      ],
+      "duration_ms": 142100,
+      "name": "eBay",
+      "url": "https://open.spotify.com/track/3k7g0xHFCX2ezCVCHaikIf"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "zara",
-        "url": "https://open.spotify.com/album/4kHpjLXHGIgiOQmEeUg9a5"
-      },
-      "artists": [
-        {
-          "name": "zara",
-          "url": "https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD"
-        }
-      ],
-      "duration_ms": 99799,
-      "name": "zara",
-      "url": "https://open.spotify.com/track/25DnrdX0juB0RIqw3uxJnZ"
-    },
-    {
-      "added_at": "2024-04-02 22:00:00",
-      "album": {
         "name": "Aze the Band the Duo",
         "url": "https://open.spotify.com/album/4fOHF3eVmryjFw7q6BrrQk"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 135731,
       "name": "Mother, did I make you proud?",
       "url": "https://open.spotify.com/track/6RLzZhFyHgMKYRAAKn3WUv"
+    },
+    {
+      "added_at": "2024-04-02 22:00:00",
+      "album": {
+        "name": "zara",
+        "url": "https://open.spotify.com/album/4kHpjLXHGIgiOQmEeUg9a5"
+      },
+      "artists": [
+        {
+          "name": "zara",
+          "url": "https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD"
+        }
+      ],
+      "duration_ms": 99799,
+      "name": "zara",
+      "url": "https://open.spotify.com/track/25DnrdX0juB0RIqw3uxJnZ"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "Loca Loca",
-        "url": "https://open.spotify.com/album/2YauLDg0W5QcaFYQLfUQGQ"
-      },
-      "artists": [
-        {
-          "name": "ANDIJOLA JULI",
-          "url": "https://open.spotify.com/artist/3qp3Rd31EDGEitYZKIRpMB"
-        }
-      ],
-      "duration_ms": 128666,
-      "name": "Loca Loca",
-      "url": "https://open.spotify.com/track/5wsU5dYShpPNfMfqiMr6Wb"
-    },
-    {
-      "added_at": "2024-04-02 22:00:00",
-      "album": {
         "name": "Vorbei",
         "url": "https://open.spotify.com/album/6qG4oiy1KLIZXr4ZKwJb7k"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 138191,
       "name": "Vorbei",
       "url": "https://open.spotify.com/track/7HzLOTVnwJQpX0kHETT9FY"
+    },
+    {
+      "added_at": "2024-04-02 22:00:00",
+      "album": {
+        "name": "Loca Loca",
+        "url": "https://open.spotify.com/album/2YauLDg0W5QcaFYQLfUQGQ"
+      },
+      "artists": [
+        {
+          "name": "ANDIJOLA JULI",
+          "url": "https://open.spotify.com/artist/3qp3Rd31EDGEitYZKIRpMB"
+        }
+      ],
+      "duration_ms": 128666,
+      "name": "Loca Loca",
+      "url": "https://open.spotify.com/track/5wsU5dYShpPNfMfqiMr6Wb"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "FBGM",
-        "url": "https://open.spotify.com/album/6kkf72bft08zQ1SRjZfgE2"
-      },
-      "artists": [
-        {
-          "name": "BOUNTY & COCOA",
-          "url": "https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "FBGM",
-      "url": "https://open.spotify.com/track/7yxDtXHBvrL8WLNKGHcDFh"
-    },
-    {
-      "added_at": "2024-04-02 22:00:00",
-      "album": {
         "name": "Botanical Garden",
         "url": "https://open.spotify.com/album/7bcLaytbnuWJCfqa2JdyBc"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 188740,
       "name": "Botanical Garden",
       "url": "https://open.spotify.com/track/7bx7MDIg8p098HHmsJebzl"
+    },
+    {
+      "added_at": "2024-04-02 22:00:00",
+      "album": {
+        "name": "FBGM",
+        "url": "https://open.spotify.com/album/6kkf72bft08zQ1SRjZfgE2"
+      },
+      "artists": [
+        {
+          "name": "BOUNTY & COCOA",
+          "url": "https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "FBGM",
+      "url": "https://open.spotify.com/track/7yxDtXHBvrL8WLNKGHcDFh"
     },
     {
       "added_at": "2024-04-02 22:00:00",

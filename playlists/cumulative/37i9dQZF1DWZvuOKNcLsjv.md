@@ -4,7 +4,7 @@
 
 > 注目の国内外ネクスト・ヒットをいち早く。 cover: j\-hope
 
-3,453 songs - 8 day 9 hr 34 min
+3,454 songs - 8 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1531,7 +1531,8 @@
 | [Mars To Liverpool](https://open.spotify.com/track/3Lz1zknpdBiYQ4oQANf3g0) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Mars To Liverpool](https://open.spotify.com/album/7piCqHwCBo70ZiYf603fCi) | 3:40 | 2024-01-28 | 2024-02-05 |
 | [Marshmallow](https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Marshmallow](https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx) | 3:02 | 2023-06-18 | 2023-06-26 |
 | [Maru.](https://open.spotify.com/track/2cVwEd1q3yRKBDnEj5ADd2) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Maru.](https://open.spotify.com/album/3LzijJcXsx2EBIskP9jtVW) | 2:56 | 2023-09-24 | 2023-10-09 |
-| [Mary Boone](https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Mary Boone](https://open.spotify.com/album/3BeMjbziyS6lCFnSel4Tsz) | 4:26 | 2024-04-04 |  |
+| [Mary Boone](https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Mary Boone](https://open.spotify.com/album/3BeMjbziyS6lCFnSel4Tsz) | 4:26 | 2024-04-04 | 2024-04-11 |
+| [Mary Boone](https://open.spotify.com/track/6OjwIdLlkjCLuOThOwODEY) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:26 | 2024-04-04 |  |
 | [Maybe I should die with you](https://open.spotify.com/track/1SUUK6C8DAteFfcOygsdJo) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Maybe I should die with you](https://open.spotify.com/album/0FEkgIsDVj9Aeyd1iApTG3) | 5:35 | 2023-11-26 | 2023-12-04 |
 | [Mayday](https://open.spotify.com/track/5O3lSXaXBNGIatqk0DRAoU) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Mayday](https://open.spotify.com/album/2mUUFQu3TYWUyoV2nRz0Rh) | 3:54 | 2023-07-02 | 2023-07-10 |
 | [McDonald no coffee](https://open.spotify.com/track/1F8AuzoFUXGFWTQIWSHqsS) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [McDonald no coffee](https://open.spotify.com/album/4M3ngfQqV6Ic26QynJddEF) | 3:14 | 2023-09-24 | 2023-10-02 |

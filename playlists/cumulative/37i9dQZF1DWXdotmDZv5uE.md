@@ -4,7 +4,7 @@
 
 > ¡Lleva el folclore de México a donde sea!
 
-154 songs - 8 hr 48 min
+155 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [La Malagueña](https://open.spotify.com/track/3ar4svNiBZF54xC7oXawJm) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Aida Cuevas](https://open.spotify.com/album/6EBqr9LM1nuezqfcHhkcna) | 3:46 | 2022-08-31 | 2022-11-13 |
 | [La Malagueña](https://open.spotify.com/track/3pXLPRQOIoIovJKNO2Ksf4) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Huapangos](https://open.spotify.com/album/5Z6tcNwry8ZIu1uDOdmRYZ) | 3:47 | 2022-01-25 |  |
 | [La Marcha De Zacatecas](https://open.spotify.com/track/1yNvdltBhsqVc6LwK33SCn) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Polkas Mexicanas](https://open.spotify.com/album/2mUqMvwE655JirAbrd3sTb) | 3:01 | 2022-01-25 | 2022-07-29 |
-| [La Marcha De Zacatecas](https://open.spotify.com/track/2CNm9DuATGZtLcb7R9dxfi) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Polkas Mexicanas](https://open.spotify.com/album/38xZkah2e5R45YCihrw5Wg) | 3:01 | 2022-01-25 |  |
+| [La Marcha De Zacatecas](https://open.spotify.com/track/2CNm9DuATGZtLcb7R9dxfi) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Polkas Mexicanas](https://open.spotify.com/album/38xZkah2e5R45YCihrw5Wg) | 3:01 | 2022-01-25 | 2024-04-11 |
+| [La Marcha De Zacatecas](https://open.spotify.com/track/0Dlq6fg5KQgEyDzDxUfeUz) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Polkas Mexicanas](https://open.spotify.com/album/5j0i6Sbxay5XktMAd3cE92) | 3:01 | 2023-05-09 |  |
 | [La Marcha de Zacatecas \- Remastered](https://open.spotify.com/track/4RbpfM93z7CyIRgvUSGXgO) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Selección Especial \(Remastered\)](https://open.spotify.com/album/0cIdrD4KzNHtGwyWRKf5ac) | 2:58 | 2022-08-31 | 2022-11-13 |
 | [La Martiniana](https://open.spotify.com/track/1m5A6GfEnXDex5rRCgZMWT) | [Son Itsmeño](https://open.spotify.com/artist/1GtAdYtIZLOHrTCJUTNkFl) | [La Ruta del Son Mexicano](https://open.spotify.com/album/3poUSqYsWGuYVW7rPPgbLz) | 4:31 | 2022-01-25 |  |
 | [La Petenera](https://open.spotify.com/track/4WeazL7v9t7yHAUF7TgGnG) | [Trío Cantores de la Huasteca](https://open.spotify.com/artist/2NJotnwq4BqtWJlP73PvGk) | [Antología del Son de México, Huasteca](https://open.spotify.com/album/3Bp5LJYCdRc7ZjeE202cf8) | 3:29 | 2022-01-25 |  |

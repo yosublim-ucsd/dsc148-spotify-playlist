@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 
 > Una eufórica dosis de urbano romántico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,340 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,437 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 81 | [Qué Más Da](https://open.spotify.com/track/2hlfF82K7N4Faivl5spUYR) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9), [Solitario Mondragon](https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9) | [Qué Más Da](https://open.spotify.com/album/1uwybis0C2LleyWdZDc2KA) | 3:17 |
 | 82 | [Confundido](https://open.spotify.com/track/27RuS7SkQmWvmrtzVVujIo) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Confundido](https://open.spotify.com/album/4bRYQKtGDLljfLWR7XHMve) | 4:36 |
 | 83 | [Vaivén](https://open.spotify.com/track/68RnQABNIGlpZOnWCHTXlP) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Vaivén](https://open.spotify.com/album/4AxOgNmDycOaIv95OiJHMt) | 3:00 |
-| 84 | [¿Qué Pasó Mi Amor?](https://open.spotify.com/track/2GlGnsgX2acpZk6O4J2Qc7) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Masoquista / ¿Qué Pasó Mi Amor?](https://open.spotify.com/album/2x7RSXftZESuzY52tyu4Cs) | 3:02 |
-| 85 | [GPI](https://open.spotify.com/track/00ONvNtwpto32WcJ7xY31s) | [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx) | [Easy To Hate](https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ) | 2:26 |
+| 84 | [GPI](https://open.spotify.com/track/00ONvNtwpto32WcJ7xY31s) | [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx) | [Easy To Hate](https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ) | 2:26 |
+| 85 | [¿Qué Pasó Mi Amor?](https://open.spotify.com/track/2GlGnsgX2acpZk6O4J2Qc7) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Masoquista / ¿Qué Pasó Mi Amor?](https://open.spotify.com/album/2x7RSXftZESuzY52tyu4Cs) | 3:02 |
 | 86 | [Te Amodio](https://open.spotify.com/track/4gJAYXiTkzDlbfeZn4EH9F) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Te Amodio](https://open.spotify.com/album/25N4zFBTWXO5C5zWPBMYjA) | 4:27 |
 | 87 | [Tú, Mija](https://open.spotify.com/track/3iHKAaHygZybCLU2oDostS) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Tú, Mija](https://open.spotify.com/album/1wTlJ4THw8zVTuZna1AFwI) | 3:30 |
 | 88 | [Findes](https://open.spotify.com/track/5JAP0DcgbnOPvpSVC7Bmm9) | [Ibarra](https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY), [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m) | [Findes](https://open.spotify.com/album/6EJbPllUaHkXndA03xJGfy) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 99 | [Siempre Serás para Mí](https://open.spotify.com/track/6mwsIP2GDaEz4DoOkSVfJY) | [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM) | [Siempre Serás para Mí](https://open.spotify.com/album/7lhKv3VoTgd8cOpkJOkUwe) | 3:33 |
 | 100 | [Que Mal Me Hacías](https://open.spotify.com/track/0pgXLwDXcq2hVxIlUD9XWU) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Que Mal Me Hacías](https://open.spotify.com/album/6as8gFrgGgyEPuu4PLR41M) | 2:20 |
 
-Snapshot ID: `MCw1ZWFiZGRjMTEyZWZiNmNhNDNiZmQ1NDhmZWJlM2Q5MTY2YTAxYzVh`
+Snapshot ID: `MCwzMGI5YTE2Y2EyYTk2NTI5ZGRiODNmMzA5MGZkNTkyMGMwZDc0ZWNk`

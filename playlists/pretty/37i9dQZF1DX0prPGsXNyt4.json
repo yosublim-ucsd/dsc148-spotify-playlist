@@ -1,12 +1,12 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Mirella, Mc Gabzin",
-  "num_followers": 74417,
+  "num_followers": 74463,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmRmNmFlOWRiZWRkNzdiNTJiNjRhM2E4NjFiYzdmMzQxZmQ0NzMx",
+  "snapshot_id": "MCwyN2I0NWVhZTlhZjU5YWRhZGVmNmZiZWMzNTdjMzcyYTdiZDk4NGE4",
   "tracks": [
     {
       "added_at": "2023-11-13 15:26:06",
@@ -851,30 +851,6 @@
     {
       "added_at": "2023-11-13 15:26:06",
       "album": {
-        "name": "Daquele Naip",
-        "url": "https://open.spotify.com/album/2GlF4MhZ8JMR8326uH2ivg"
-      },
-      "artists": [
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        },
-        {
-          "name": "Brunnin",
-          "url": "https://open.spotify.com/artist/7sOl1POwSHsoZ2ezDJIapz"
-        },
-        {
-          "name": "Hpbeats",
-          "url": "https://open.spotify.com/artist/4R26sDu3fyRuZVcnjTA5lj"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Dichave",
-      "url": "https://open.spotify.com/track/3hYScvpnpwomGVVWhfZZA3"
-    },
-    {
-      "added_at": "2023-11-13 15:26:06",
-      "album": {
         "name": "Ainda",
         "url": "https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS"
       },
@@ -895,6 +871,30 @@
       "duration_ms": 154378,
       "name": "Essa Noite",
       "url": "https://open.spotify.com/track/6g0IE3b4slstOTvcm5D67J"
+    },
+    {
+      "added_at": "2023-11-13 15:26:06",
+      "album": {
+        "name": "Daquele Naip",
+        "url": "https://open.spotify.com/album/2GlF4MhZ8JMR8326uH2ivg"
+      },
+      "artists": [
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        },
+        {
+          "name": "Brunnin",
+          "url": "https://open.spotify.com/artist/7sOl1POwSHsoZ2ezDJIapz"
+        },
+        {
+          "name": "Hpbeats",
+          "url": "https://open.spotify.com/artist/4R26sDu3fyRuZVcnjTA5lj"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Dichave",
+      "url": "https://open.spotify.com/track/3hYScvpnpwomGVVWhfZZA3"
     },
     {
       "added_at": "2023-11-13 15:26:06",

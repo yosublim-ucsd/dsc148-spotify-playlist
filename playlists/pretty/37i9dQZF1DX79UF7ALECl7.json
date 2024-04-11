@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121462,
+  "num_followers": 121470,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmJmYjE1Njc2NTMyZDYzMjI4YzFiODQ2MzhkMjVlMTVhYWJmZjdk",
+  "snapshot_id": "MCxiZDVmMWRkZGY0MGU4ZmM4ODAzNmZlZDQyMTU1Yzg2NTc4NmI2ZTgy",
   "tracks": [
     {
       "added_at": "2024-04-04 22:01:00",
@@ -135,6 +135,22 @@
     {
       "added_at": "2024-04-04 22:01:00",
       "album": {
+        "name": "Siena",
+        "url": "https://open.spotify.com/album/7CdYw2gg1xzgfrFkaAtZbL"
+      },
+      "artists": [
+        {
+          "name": "Southern Shores",
+          "url": "https://open.spotify.com/artist/5EAl4lk6xKqFxzgOUoBpF5"
+        }
+      ],
+      "duration_ms": 156478,
+      "name": "Aerie",
+      "url": "https://open.spotify.com/track/3VfnEFPZEngbEB5Qb6TeB4"
+    },
+    {
+      "added_at": "2024-04-04 22:01:00",
+      "album": {
         "name": "Ltdblbl008",
         "url": "https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9"
       },
@@ -187,22 +203,6 @@
     {
       "added_at": "2024-04-04 22:01:00",
       "album": {
-        "name": "Siena",
-        "url": "https://open.spotify.com/album/7CdYw2gg1xzgfrFkaAtZbL"
-      },
-      "artists": [
-        {
-          "name": "Southern Shores",
-          "url": "https://open.spotify.com/artist/5EAl4lk6xKqFxzgOUoBpF5"
-        }
-      ],
-      "duration_ms": 156478,
-      "name": "Aerie",
-      "url": "https://open.spotify.com/track/3VfnEFPZEngbEB5Qb6TeB4"
-    },
-    {
-      "added_at": "2024-04-04 22:01:00",
-      "album": {
         "name": "Blue Essay",
         "url": "https://open.spotify.com/album/5CeAYLrZSYs57HRvNYhkxk"
       },
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-04-04 22:01:00",
       "album": {
-        "name": "Eladio",
-        "url": "https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM"
-      },
-      "artists": [
-        {
-          "name": "Camisade",
-          "url": "https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i"
-        }
-      ],
-      "duration_ms": 138100,
-      "name": "Eladio",
-      "url": "https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs"
-    },
-    {
-      "added_at": "2024-04-04 22:01:00",
-      "album": {
         "name": "Into The Sun",
         "url": "https://open.spotify.com/album/0cg0ZZjG0sxfyXnMb5xBYx"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 287213,
       "name": "Into The Sun",
       "url": "https://open.spotify.com/track/7IOfpG6bLNSqz2KfDDvbt0"
+    },
+    {
+      "added_at": "2024-04-04 22:01:00",
+      "album": {
+        "name": "Eladio",
+        "url": "https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM"
+      },
+      "artists": [
+        {
+          "name": "Camisade",
+          "url": "https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i"
+        }
+      ],
+      "duration_ms": 138100,
+      "name": "Eladio",
+      "url": "https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs"
     },
     {
       "added_at": "2024-04-04 22:01:00",
@@ -375,26 +375,6 @@
     {
       "added_at": "2024-04-04 22:01:00",
       "album": {
-        "name": "Storm in a Teacup",
-        "url": "https://open.spotify.com/album/7I0uNZXs5RK3FGDUefK2S0"
-      },
-      "artists": [
-        {
-          "name": "Koisu",
-          "url": "https://open.spotify.com/artist/4wD2y2dpOWAkrhqFQ2iDY7"
-        },
-        {
-          "name": "Omaure",
-          "url": "https://open.spotify.com/artist/7jzNtnTGzuVQ8yVDTfHa4G"
-        }
-      ],
-      "duration_ms": 293764,
-      "name": "A Piece of Mind",
-      "url": "https://open.spotify.com/track/5Dj11QzfbzBmzlhTXB4zIL"
-    },
-    {
-      "added_at": "2024-04-04 22:01:00",
-      "album": {
         "name": "Fidelity Radio Club",
         "url": "https://open.spotify.com/album/7eu46qXLNv9FAagjqNhFZb"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 236671,
       "name": "Love International Inc.",
       "url": "https://open.spotify.com/track/7AA6xlsekFaLLbSX92aeyK"
+    },
+    {
+      "added_at": "2024-04-04 22:01:00",
+      "album": {
+        "name": "Storm in a Teacup",
+        "url": "https://open.spotify.com/album/7I0uNZXs5RK3FGDUefK2S0"
+      },
+      "artists": [
+        {
+          "name": "Koisu",
+          "url": "https://open.spotify.com/artist/4wD2y2dpOWAkrhqFQ2iDY7"
+        },
+        {
+          "name": "Omaure",
+          "url": "https://open.spotify.com/artist/7jzNtnTGzuVQ8yVDTfHa4G"
+        }
+      ],
+      "duration_ms": 293764,
+      "name": "A Piece of Mind",
+      "url": "https://open.spotify.com/track/5Dj11QzfbzBmzlhTXB4zIL"
     },
     {
       "added_at": "2024-04-04 22:01:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-04-04 22:01:00",
       "album": {
-        "name": "Golven",
-        "url": "https://open.spotify.com/album/4hnKYfEXxxRnGlr8PrAkXN"
-      },
-      "artists": [
-        {
-          "name": "Anna Simonetta",
-          "url": "https://open.spotify.com/artist/6bO9oIiqJAQQJPZJEaNucG"
-        },
-        {
-          "name": "Jeremy Lim",
-          "url": "https://open.spotify.com/artist/4kaKtscY9uw3TitaJYWOyd"
-        }
-      ],
-      "duration_ms": 194421,
-      "name": "Golven",
-      "url": "https://open.spotify.com/track/50i5vfuzSeaWIcVH5PjPO1"
-    },
-    {
-      "added_at": "2024-04-04 22:01:00",
-      "album": {
         "name": "Finds You Well",
         "url": "https://open.spotify.com/album/2w487BAUXgly5he0U5TU2p"
       },
@@ -855,6 +835,26 @@
     {
       "added_at": "2024-04-04 22:01:00",
       "album": {
+        "name": "Golven",
+        "url": "https://open.spotify.com/album/4hnKYfEXxxRnGlr8PrAkXN"
+      },
+      "artists": [
+        {
+          "name": "Anna Simonetta",
+          "url": "https://open.spotify.com/artist/6bO9oIiqJAQQJPZJEaNucG"
+        },
+        {
+          "name": "Jeremy Lim",
+          "url": "https://open.spotify.com/artist/4kaKtscY9uw3TitaJYWOyd"
+        }
+      ],
+      "duration_ms": 194421,
+      "name": "Golven",
+      "url": "https://open.spotify.com/track/50i5vfuzSeaWIcVH5PjPO1"
+    },
+    {
+      "added_at": "2024-04-04 22:01:00",
+      "album": {
         "name": "Electric Visions",
         "url": "https://open.spotify.com/album/3VMT3Z40rMJ85HkvfsASZb"
       },
@@ -871,22 +871,6 @@
       "duration_ms": 369346,
       "name": "Electric Visions",
       "url": "https://open.spotify.com/track/6WQ3ZhGLfGWVLNBvu9t29v"
-    },
-    {
-      "added_at": "2024-04-04 22:01:00",
-      "album": {
-        "name": "Chill Executive Officer (CEO), Vol. 20 [Selected by Maykel Piron]",
-        "url": "https://open.spotify.com/album/5WOoYzx48dwyrW0KQquytu"
-      },
-      "artists": [
-        {
-          "name": "ARTO",
-          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/2RBzADQT2i31c0Au59HnP8"
     },
     {
       "added_at": "2024-04-04 22:01:00",
@@ -911,6 +895,22 @@
     {
       "added_at": "2024-04-04 22:01:00",
       "album": {
+        "name": "Chill Executive Officer (CEO), Vol. 20 [Selected by Maykel Piron]",
+        "url": "https://open.spotify.com/album/5WOoYzx48dwyrW0KQquytu"
+      },
+      "artists": [
+        {
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/2RBzADQT2i31c0Au59HnP8"
+    },
+    {
+      "added_at": "2024-04-04 22:01:00",
+      "album": {
         "name": "Cherry Skies",
         "url": "https://open.spotify.com/album/5yytMHzOYkzesn2dON2tCe"
       },
@@ -923,22 +923,6 @@
       "duration_ms": 210000,
       "name": "Cherry Skies",
       "url": "https://open.spotify.com/track/2taL7WpjrPMzwn65gVfxqP"
-    },
-    {
-      "added_at": "2024-04-04 22:01:00",
-      "album": {
-        "name": "Overdrive",
-        "url": "https://open.spotify.com/album/5swcUAvJoBBxKmwH60xs18"
-      },
-      "artists": [
-        {
-          "name": "Silo",
-          "url": "https://open.spotify.com/artist/2TFaSCsqBNMcZ1daHE0pNA"
-        }
-      ],
-      "duration_ms": 270027,
-      "name": "Overdrive",
-      "url": "https://open.spotify.com/track/5PhuSPukGj9G50AWPdpa93"
     },
     {
       "added_at": "2024-04-04 22:01:00",
@@ -963,6 +947,22 @@
     {
       "added_at": "2024-04-04 22:01:00",
       "album": {
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/5swcUAvJoBBxKmwH60xs18"
+      },
+      "artists": [
+        {
+          "name": "Silo",
+          "url": "https://open.spotify.com/artist/2TFaSCsqBNMcZ1daHE0pNA"
+        }
+      ],
+      "duration_ms": 270027,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/5PhuSPukGj9G50AWPdpa93"
+    },
+    {
+      "added_at": "2024-04-04 22:01:00",
+      "album": {
         "name": "You Just Danced",
         "url": "https://open.spotify.com/album/17d0PBIogEhv6lGBTgYXKV"
       },
@@ -979,6 +979,22 @@
       "duration_ms": 452611,
       "name": "You Just Danced",
       "url": "https://open.spotify.com/track/0deFjGhPrCgPUqsgZxU8i5"
+    },
+    {
+      "added_at": "2024-04-04 22:01:00",
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
+      },
+      "artists": [
+        {
+          "name": "Aydin Genchsoy",
+          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
     },
     {
       "added_at": "2024-04-04 22:01:00",
@@ -1019,22 +1035,6 @@
       "duration_ms": 305370,
       "name": "<3DAYSOFLOVE",
       "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
-    },
-    {
-      "added_at": "2024-04-04 22:01:00",
-      "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
-      },
-      "artists": [
-        {
-          "name": "Aydin Genchsoy",
-          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
     },
     {
       "added_at": "2024-04-04 22:01:00",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2024-04-04 22:01:00",
       "album": {
-        "name": "Infinity (The Remixes)",
-        "url": "https://open.spotify.com/album/2CpBDYbLROR0mt45dswpiD"
-      },
-      "artists": [
-        {
-          "name": "Bluma Petersen",
-          "url": "https://open.spotify.com/artist/1I7A8xBGgo3BLIWoG8B91h"
-        },
-        {
-          "name": "SLCT",
-          "url": "https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM"
-        }
-      ],
-      "duration_ms": 176356,
-      "name": "Infinity (SLCT Remix) - Instrumental Version",
-      "url": "https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM"
-    },
-    {
-      "added_at": "2024-04-04 22:01:00",
-      "album": {
         "name": "Messin' Around (Mogul Remix)",
         "url": "https://open.spotify.com/album/29hveGpUSeZEDiYOw78PdX"
       },
@@ -1139,18 +1119,22 @@
     {
       "added_at": "2024-04-04 22:01:00",
       "album": {
-        "name": "Eyes on You",
-        "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
+        "name": "Infinity (The Remixes)",
+        "url": "https://open.spotify.com/album/2CpBDYbLROR0mt45dswpiD"
       },
       "artists": [
         {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+          "name": "Bluma Petersen",
+          "url": "https://open.spotify.com/artist/1I7A8xBGgo3BLIWoG8B91h"
+        },
+        {
+          "name": "SLCT",
+          "url": "https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM"
         }
       ],
-      "duration_ms": 207500,
-      "name": "Eyes on You",
-      "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
+      "duration_ms": 176356,
+      "name": "Infinity (SLCT Remix) - Instrumental Version",
+      "url": "https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM"
     },
     {
       "added_at": "2024-04-04 22:01:00",
@@ -1167,6 +1151,22 @@
       "duration_ms": 245202,
       "name": "Gaia - Radio Edit",
       "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
+    },
+    {
+      "added_at": "2024-04-04 22:01:00",
+      "album": {
+        "name": "Eyes on You",
+        "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
+      },
+      "artists": [
+        {
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Eyes on You",
+      "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
     },
     {
       "added_at": "2024-04-04 22:01:00",
@@ -1215,22 +1215,18 @@
     {
       "added_at": "2024-04-04 22:01:00",
       "album": {
-        "name": "Aftergold (5 Year Anniversary)",
-        "url": "https://open.spotify.com/album/5QMSCiDAPdRfU27M7N7Ro2"
+        "name": "Killer Machine",
+        "url": "https://open.spotify.com/album/0pNdH7TyR32VxC5Pk1v2lX"
       },
       "artists": [
         {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        },
-        {
-          "name": "obli",
-          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
+          "name": "Adani & Wolf",
+          "url": "https://open.spotify.com/artist/3p6Xv63IFoCXDFNt1u3fCh"
         }
       ],
-      "duration_ms": 228573,
-      "name": "Aftergold - obli Remix",
-      "url": "https://open.spotify.com/track/2HmehsWbm1mZDIxe50Jpod"
+      "duration_ms": 233316,
+      "name": "Killer Machine",
+      "url": "https://open.spotify.com/track/2cCfDNAd7lYPSe3euIwt2w"
     },
     {
       "added_at": "2024-04-04 22:01:00",
@@ -1251,34 +1247,22 @@
     {
       "added_at": "2024-04-04 22:01:00",
       "album": {
-        "name": "Killer Machine",
-        "url": "https://open.spotify.com/album/0pNdH7TyR32VxC5Pk1v2lX"
+        "name": "Aftergold (5 Year Anniversary)",
+        "url": "https://open.spotify.com/album/5QMSCiDAPdRfU27M7N7Ro2"
       },
       "artists": [
         {
-          "name": "Adani & Wolf",
-          "url": "https://open.spotify.com/artist/3p6Xv63IFoCXDFNt1u3fCh"
-        }
-      ],
-      "duration_ms": 233316,
-      "name": "Killer Machine",
-      "url": "https://open.spotify.com/track/2cCfDNAd7lYPSe3euIwt2w"
-    },
-    {
-      "added_at": "2024-04-04 22:01:00",
-      "album": {
-        "name": "V\u00edn",
-        "url": "https://open.spotify.com/album/2N4UzYs2Qk7xRyc67kaehi"
-      },
-      "artists": [
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        },
         {
-          "name": "Janus Rasmussen",
-          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
+          "name": "obli",
+          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
         }
       ],
-      "duration_ms": 309596,
-      "name": "April",
-      "url": "https://open.spotify.com/track/6KmIwU5i6sCvyeNgP8QB4o"
+      "duration_ms": 228573,
+      "name": "Aftergold - obli Remix",
+      "url": "https://open.spotify.com/track/2HmehsWbm1mZDIxe50Jpod"
     },
     {
       "added_at": "2024-04-04 22:01:00",
@@ -1299,6 +1283,22 @@
       "duration_ms": 518086,
       "name": "100 Miles",
       "url": "https://open.spotify.com/track/3AsStByn7z7jj9EY7iymPb"
+    },
+    {
+      "added_at": "2024-04-04 22:01:00",
+      "album": {
+        "name": "V\u00edn",
+        "url": "https://open.spotify.com/album/2N4UzYs2Qk7xRyc67kaehi"
+      },
+      "artists": [
+        {
+          "name": "Janus Rasmussen",
+          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
+        }
+      ],
+      "duration_ms": 309596,
+      "name": "April",
+      "url": "https://open.spotify.com/track/6KmIwU5i6sCvyeNgP8QB4o"
     },
     {
       "added_at": "2024-04-04 22:01:00",
@@ -1407,8 +1407,8 @@
     {
       "added_at": "2024-04-04 22:01:00",
       "album": {
-        "name": "Late Night Obsession",
-        "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
+        "name": "Yugen",
+        "url": "https://open.spotify.com/album/6Tn5DNwQCrPnXXU27jzOAu"
       },
       "artists": [
         {
@@ -1416,9 +1416,9 @@
           "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
         }
       ],
-      "duration_ms": 166798,
-      "name": "Slow Goods",
-      "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
+      "duration_ms": 165600,
+      "name": "Yugen",
+      "url": "https://open.spotify.com/track/2jZ2LdpOuZCQdtcSSuAz1D"
     },
     {
       "added_at": "2024-04-04 22:01:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-04-04 22:01:00",
       "album": {
+        "name": "Back In Time",
+        "url": "https://open.spotify.com/album/5XaWwPKMwZmfzgmpHD82IZ"
+      },
+      "artists": [
+        {
+          "name": "Safe Wave",
+          "url": "https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Back In Time",
+      "url": "https://open.spotify.com/track/6sLrbxhXg0kOnqPocIbVPZ"
+    },
+    {
+      "added_at": "2024-04-04 22:01:00",
+      "album": {
         "name": "Blue Ridge",
         "url": "https://open.spotify.com/album/5wY4vCQ7vz1BH2pZhtKrbG"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 410483,
       "name": "Blue Ridge - Artphorm Remix",
       "url": "https://open.spotify.com/track/2eERY2J3WWJhUdwo06MbGC"
-    },
-    {
-      "added_at": "2024-04-04 22:01:00",
-      "album": {
-        "name": "Arturia",
-        "url": "https://open.spotify.com/album/1UUSyhcmb2F9ifsCuUZVuT"
-      },
-      "artists": [
-        {
-          "name": "Gavinco",
-          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
-        }
-      ],
-      "duration_ms": 331960,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/7dJwMUluT7ZmMF0bEEDzbR"
     },
     {
       "added_at": "2024-04-04 22:01:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-04-04 22:01:00",
       "album": {
+        "name": "Arturia",
+        "url": "https://open.spotify.com/album/1UUSyhcmb2F9ifsCuUZVuT"
+      },
+      "artists": [
+        {
+          "name": "Gavinco",
+          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
+        }
+      ],
+      "duration_ms": 331960,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/7dJwMUluT7ZmMF0bEEDzbR"
+    },
+    {
+      "added_at": "2024-04-04 22:01:00",
+      "album": {
         "name": "Such It Goes",
         "url": "https://open.spotify.com/album/4u2ZlIFMiHYmrAqF4QLEvn"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 482595,
       "name": "Such It Goes",
       "url": "https://open.spotify.com/track/4wrGyMDAvCNoLSxqUZnrsl"
-    },
-    {
-      "added_at": "2024-04-04 22:01:00",
-      "album": {
-        "name": "Back In Time",
-        "url": "https://open.spotify.com/album/5XaWwPKMwZmfzgmpHD82IZ"
-      },
-      "artists": [
-        {
-          "name": "Safe Wave",
-          "url": "https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Back In Time",
-      "url": "https://open.spotify.com/track/6sLrbxhXg0kOnqPocIbVPZ"
     },
     {
       "added_at": "2024-04-04 22:01:00",
@@ -1571,8 +1571,8 @@
     {
       "added_at": "2024-04-04 22:01:00",
       "album": {
-        "name": "Yugen",
-        "url": "https://open.spotify.com/album/6Tn5DNwQCrPnXXU27jzOAu"
+        "name": "Late Night Obsession",
+        "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
       },
       "artists": [
         {
@@ -1580,9 +1580,9 @@
           "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
         }
       ],
-      "duration_ms": 165600,
-      "name": "Yugen",
-      "url": "https://open.spotify.com/track/2jZ2LdpOuZCQdtcSSuAz1D"
+      "duration_ms": 166798,
+      "name": "Slow Goods",
+      "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
     },
     {
       "added_at": "2024-04-04 22:01:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-04-04 22:01:00",
       "album": {
-        "name": "Proto/Emotions",
-        "url": "https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY"
-      },
-      "artists": [
-        {
-          "name": "Black Loops",
-          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
-        }
-      ],
-      "duration_ms": 319743,
-      "name": "Ballo Da Solo",
-      "url": "https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM"
-    },
-    {
-      "added_at": "2024-04-04 22:01:00",
-      "album": {
         "name": "Fleur d'Hiver",
         "url": "https://open.spotify.com/album/4sBW2Pcr7KlMa28FxpAf6e"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 231500,
       "name": "Fleur d'Hiver",
       "url": "https://open.spotify.com/track/6vr5tDOUOTgtRHWCLrTEtX"
+    },
+    {
+      "added_at": "2024-04-04 22:01:00",
+      "album": {
+        "name": "Proto/Emotions",
+        "url": "https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY"
+      },
+      "artists": [
+        {
+          "name": "Black Loops",
+          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
+        }
+      ],
+      "duration_ms": 319743,
+      "name": "Ballo Da Solo",
+      "url": "https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM"
     },
     {
       "added_at": "2024-04-04 22:01:00",

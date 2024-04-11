@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:4VMYDCV2IEDYJArk749S6m">Daddy Yankee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,883 likes - 105 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,227 likes - 105 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 104 | [Milagro de Amor](https://open.spotify.com/track/4FkwzleyGqcBmEqrFZ8RKz) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [Milagro de Amor](https://open.spotify.com/album/4soGJLVgt9IQI5rT98ZxUa) | 3:15 |
 | 105 | [El Rey Judío](https://open.spotify.com/track/26uRpmqdNBbm2x8lWhxT4p) | [Felipe S\. Santos](https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [El Rey Judío](https://open.spotify.com/album/3EpigUb6xOe8aTV9MWQmiN) | 5:33 |
 
-Snapshot ID: `MCw0NWYxZmFjYjA0NDc3OWRkNzFkZWM2ZDZmMTk0OTUyNTFkNjRlMjli`
+Snapshot ID: `MCw1NjFhOGJmNDc3MWJlNGI4YTM0NmUxOWIwNDNhODQzMzQzYTBiZjFm`

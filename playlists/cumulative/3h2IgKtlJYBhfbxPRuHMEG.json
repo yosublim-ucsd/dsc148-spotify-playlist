@@ -329,6 +329,28 @@
     },
     {
       "album": {
+        "name": "Big Bang (with Crankdat)",
+        "url": "https://open.spotify.com/album/2DpZjtwH8GG964mwPfVHQ7"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239350,
+      "name": "Big Bang (with Crankdat)",
+      "url": "https://open.spotify.com/track/6xkBy4dXb6LxQQ3OuuK2xv"
+    },
+    {
+      "album": {
         "name": "Big Bank",
         "url": "https://open.spotify.com/album/3eKVvNq7xAol0SwHS5GX9m"
       },

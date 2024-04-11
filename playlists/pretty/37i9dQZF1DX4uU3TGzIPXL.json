@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1990s that will make you dance all summer long!",
-  "num_followers": 567273,
+  "num_followers": 567383,
   "original_name": "Summer Hits of the 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTJjYmEzNDE1M2RkYWYyZmU4MDk1NjFiZjc0YThhNmZiYWQzOGNm",
+  "snapshot_id": "MCw3YTFlNTFmMmM4MTE3OTlhMTM2N2FjMzA2NTFiZWM0ZjVmMzNlOWI0",
   "tracks": [
     {
       "added_at": "2023-06-16 18:37:43",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "There Is Nothing Left To Lose",
         "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 235293,
       "name": "Learn to Fly",
       "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Aquarium (Special Edition)",
-        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 197960,
-      "name": "Barbie Girl",
-      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 211213,
       "name": "All That She Wants",
       "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 197960,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 258133,
-      "name": "Always Be My Baby",
-      "url": "https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "One Love",
         "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 239933,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/4TOGkYS141L15SkVosAp7Z"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 258133,
+      "name": "Always Be My Baby",
+      "url": "https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
-      },
-      "artists": [
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Ecuador - Original Radio Edit",
-      "url": "https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "No Ordinary Man",
         "url": "https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 181973,
       "name": "Watermelon Crawl",
       "url": "https://open.spotify.com/track/3Q9t1A12iUemHTAWnH7PjD"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "Ecuador - Original Radio Edit",
+      "url": "https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "2 Times (Full Package)",
-        "url": "https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv"
-      },
-      "artists": [
-        {
-          "name": "Ann Lee",
-          "url": "https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC"
-        }
-      ],
-      "duration_ms": 230933,
-      "name": "2 Times - Original",
-      "url": "https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Gorgeous George",
         "url": "https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 236583,
       "name": "A Girl Like You",
       "url": "https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "2 Times (Full Package)",
+        "url": "https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv"
+      },
+      "artists": [
+        {
+          "name": "Ann Lee",
+          "url": "https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "2 Times - Original",
+      "url": "https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH"
     },
     {
       "added_at": "2023-06-16 18:37:43",

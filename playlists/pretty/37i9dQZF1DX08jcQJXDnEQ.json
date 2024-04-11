@@ -1,12 +1,12 @@
 {
   "description": "The best metal songs of the 90s. Cover: Metallica",
-  "num_followers": 1023853,
+  "num_followers": 1024500,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDk0M2YyOGViM2M2NGE1NzZiYjNkNmY3NzcxZDI1ZTAwZThjMWY1",
+  "snapshot_id": "MCxmMjU5MGRiNjM1ODllOGQ1NDk1ZWY0YTA1MGZjMzNlZjk4YWZmNTlk",
   "tracks": [
     {
       "added_at": "2023-03-01 15:25:34",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Persistence Of Time (30th Anniversary Remaster)",
-        "url": "https://open.spotify.com/album/4WZ1C5yYQ5mekCAw7zDPWA"
-      },
-      "artists": [
-        {
-          "name": "Anthrax",
-          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
-        }
-      ],
-      "duration_ms": 164333,
-      "name": "Got The Time",
-      "url": "https://open.spotify.com/track/3cFnb3Rg9a7Gzqxc5QQ9YZ"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
         "name": "Any Means Necessary",
         "url": "https://open.spotify.com/album/19B8sBoHytS1ntvmy2QVju"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 270233,
       "name": "Last Man Standing",
       "url": "https://open.spotify.com/track/18S33odAheWBHbVAefiRLM"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
+        "name": "Persistence Of Time (30th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/4WZ1C5yYQ5mekCAw7zDPWA"
+      },
+      "artists": [
+        {
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        }
+      ],
+      "duration_ms": 164333,
+      "name": "Got The Time",
+      "url": "https://open.spotify.com/track/3cFnb3Rg9a7Gzqxc5QQ9YZ"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Empire - 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
-      },
-      "artists": [
-        {
-          "name": "Queensr\u00ffche",
-          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
-        }
-      ],
-      "duration_ms": 321573,
-      "name": "Jet City Woman - Remastered 2003",
-      "url": "https://open.spotify.com/track/4sOlbksuGHyUkSafNnho2f"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
         "name": "Slave to the Grind",
         "url": "https://open.spotify.com/album/35XOihxzj9XxmK4j1DFW3E"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 258265,
       "name": "Monkey Business",
       "url": "https://open.spotify.com/track/4bINqmqxF9EUNcRvA0TZqi"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
+        "name": "Empire - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
+      },
+      "artists": [
+        {
+          "name": "Queensr\u00ffche",
+          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
+        }
+      ],
+      "duration_ms": 321573,
+      "name": "Jet City Woman - Remastered 2003",
+      "url": "https://open.spotify.com/track/4sOlbksuGHyUkSafNnho2f"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Sevendust (Definitive Edition)",
-        "url": "https://open.spotify.com/album/7tpMJufRsPz0EPv5hZSWs3"
-      },
-      "artists": [
-        {
-          "name": "Sevendust",
-          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
-        }
-      ],
-      "duration_ms": 248906,
-      "name": "Black",
-      "url": "https://open.spotify.com/track/5DoTRJlzMaGAMHPTDrfvfW"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
         "name": "Cleansing",
         "url": "https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 251533,
       "name": "Snap Your Fingers, Snap Your Neck",
       "url": "https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
+        "name": "Sevendust (Definitive Edition)",
+        "url": "https://open.spotify.com/album/7tpMJufRsPz0EPv5hZSWs3"
+      },
+      "artists": [
+        {
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+        }
+      ],
+      "duration_ms": 248906,
+      "name": "Black",
+      "url": "https://open.spotify.com/track/5DoTRJlzMaGAMHPTDrfvfW"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1391,8 +1391,8 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "The More Things Change...",
-        "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
+        "name": "Burn My Eyes",
+        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
       },
       "artists": [
         {
@@ -1400,9 +1400,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 254666,
-      "name": "Ten Ton Hammer",
-      "url": "https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd"
+      "duration_ms": 245600,
+      "name": "Old",
+      "url": "https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1519,8 +1519,8 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Burn My Eyes",
-        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+        "name": "The More Things Change...",
+        "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
       },
       "artists": [
         {
@@ -1528,9 +1528,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 245600,
-      "name": "Old",
-      "url": "https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ"
+      "duration_ms": 254666,
+      "name": "Ten Ton Hammer",
+      "url": "https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd"
     },
     {
       "added_at": "2023-03-01 15:25:34",

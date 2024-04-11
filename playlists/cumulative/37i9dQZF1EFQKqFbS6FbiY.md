@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-535 songs - 1 day 2 hr 2 min
+536 songs - 1 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,6 +430,7 @@
 | [Seja um Fenômeno \- Ao Vivo](https://open.spotify.com/track/7E30IFJdE5hf6zfnu2gjqb) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Yasmin Santos Ao Vivo em Goiânia](https://open.spotify.com/album/5LiNfSeXC0VjZ00nSF5Rab) | 3:12 | 2023-12-30 |  |
 | [Sem Flash](https://open.spotify.com/track/3GNwCcnhPVyQYp2NDHgSsU) | [Caio & Breno](https://open.spotify.com/artist/7JLrcwPWOrZTMEErSpwlRL) | [Sem Flash](https://open.spotify.com/album/4wcsGvEjTc9vXnueCOQGwX) | 2:37 | 2023-12-30 |  |
 | [Senhor Juiz \- Ao Vivo](https://open.spotify.com/track/4ESj3Ty0PtAMUKxWJpI36C) | [Hugo Pena](https://open.spotify.com/artist/77PXntcAH6TrnvUuXE3cU9) | [Hugo Pena e Segundeiros do Brasil \(Ao Vivo\)](https://open.spotify.com/album/6QZoLubUpvsytHxs1M013X) | 3:16 | 2024-03-26 |  |
+| [Sete Vidas](https://open.spotify.com/track/3roe5tPp6hWqnQf7uvEz3L) | [Leandro Kato](https://open.spotify.com/artist/2Cse5DmD2EpqYRlVin7qjo) | [Sete Vidas \- Ep1](https://open.spotify.com/album/1z8g8hfoWvGFDrCTq0QpcS) | 2:33 | 2024-04-10 |  |
 | [Seu Fã](https://open.spotify.com/track/2CDJmsUEuKdILRxi2B5P2s) | [Luciano](https://open.spotify.com/artist/393U4fED3zDAdZRXZ1IWWT) | [Dois Tempos, Pt\. 2](https://open.spotify.com/album/4qsjL0Fi1XFyW9ag7Mmdmk) | 3:18 | 2023-12-30 |  |
 | [Seu Rolê](https://open.spotify.com/track/2Y8liP3ppwsrk1OArUkeVh) | [Lucas e Gustavo](https://open.spotify.com/artist/0YzQuhhZMbqDepWhuSANAp) | [Seu Rolê](https://open.spotify.com/album/4Z7jnESJVRuwjP2ulq3gp5) | 2:36 | 2023-12-30 |  |
 | [Sexo Frágil \- Ao Vivo](https://open.spotify.com/track/5ZwIuaCGWtsOxbSsJfSD7U) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Day e Lara \(...\) \[Ao Vivo\]](https://open.spotify.com/album/4ijQqGz1C1a8JtKBykhYsj) | 3:23 | 2023-12-30 |  |

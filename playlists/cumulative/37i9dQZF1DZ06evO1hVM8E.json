@@ -185,6 +185,28 @@
     },
     {
       "album": {
+        "name": "Chatita de Mis Amores",
+        "url": "https://open.spotify.com/album/0STb39hcGQLDU7Ge0iMpqO"
+      },
+      "artists": [
+        {
+          "name": "Al Tiro de Armando Ramos",
+          "url": "https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O"
+        },
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140078,
+      "name": "Chatita de Mis Amores",
+      "url": "https://open.spotify.com/track/7xvRwBykEmbOibLF8WC4Zn"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Se Te Olvid\u00f3",
         "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
       },
@@ -1918,7 +1940,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 183333,
       "name": "Si Ya No Te Vuelvo A Ver",
       "url": "https://open.spotify.com/track/0hF3fxYz8y2ylDQ66a3PuV"

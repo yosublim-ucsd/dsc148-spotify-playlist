@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,274,178 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,275,185 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 3 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 |
 | 4 | [snowfall \(Slowed + Reverb\)](https://open.spotify.com/track/4VkEkljlOC5cMbRMhREO5E) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [snowfall \(Slowed + Reverb\)](https://open.spotify.com/album/3odz9MUzucRfbCCH8hxqCK) | 2:30 |
 | 5 | [ICEWHORE! \- slowed](https://open.spotify.com/track/01A9Xt0XyeYIzC9K7MSvua) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [ICEWHORE!](https://open.spotify.com/album/4To1CK51OcwNtpLnlirXQK) | 2:03 |
-| 6 | [Fluxxwave \(Slowed + Reverb\)](https://open.spotify.com/track/2cuBB96Fhr5o77iWnAwStS) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Fluxxwave](https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV) | 2:41 |
-| 7 | [SUNRISE \(Slowed + Reverb\)](https://open.spotify.com/track/0G17UriYHMjXnZE2OJJSMR) | [Xantesha](https://open.spotify.com/artist/2rgcNuLkn8pPBdKZhjZ8Em) | [SUNRISE \(Slowed + Reverb\)](https://open.spotify.com/album/2tiHE58yMuZI1wiygJxxSM) | 2:18 |
+| 6 | [SUNRISE \(Slowed + Reverb\)](https://open.spotify.com/track/0G17UriYHMjXnZE2OJJSMR) | [Xantesha](https://open.spotify.com/artist/2rgcNuLkn8pPBdKZhjZ8Em) | [SUNRISE \(Slowed + Reverb\)](https://open.spotify.com/album/2tiHE58yMuZI1wiygJxxSM) | 2:18 |
+| 7 | [Fluxxwave \(Slowed + Reverb\)](https://open.spotify.com/track/2cuBB96Fhr5o77iWnAwStS) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Fluxxwave](https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV) | 2:41 |
 | 8 | [i was only temporary \(Slowed + Reverb\)](https://open.spotify.com/track/4XAilWzhZM0uyR4vtERfHi) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [i was only temporary \(Remixes\)](https://open.spotify.com/album/4eFB3zNX35w1029DW0XxRm) | 1:42 |
 | 9 | [The Lost Soul Down \- Slowed & Reverb](https://open.spotify.com/track/5XtsfMFmpM401S6dbVaOQw) | [NBSPLV](https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa) | [The Lost Soul Down \(Slowed & Reverb\)](https://open.spotify.com/album/2nQUgF7PdSKzKOIagdHeqk) | 4:01 |
 | 10 | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/track/3fC7BKJN66Tyq44x6Try2R) | [glwzbll](https://open.spotify.com/artist/4xNuIo74R6m1eXaz7RlpZ6) | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/album/5a9uibuVUtMag0L3Fo8gkQ) | 3:12 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 35 | [3 am walk \- Slowed & Reverb Version](https://open.spotify.com/track/1miBMMwRKSCL6RItKHbXuR) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [3 am empty](https://open.spotify.com/album/3sSvAReP5cObFgTj4NRYcT) | 3:19 |
 | 36 | [drowning \(slowed + reverb\)](https://open.spotify.com/track/59xqg5ECo9VHh9L6CKL3Fs) | [Vague003](https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k) | [drowning \(remixes\)](https://open.spotify.com/album/5DOv3as7WaM0yGmCYthyHd) | 2:12 |
 | 37 | [Daylight \- Slowed + Reverb](https://open.spotify.com/track/0hy0avC3ZHXuSmob8ymMXD) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight \(Reimagined\)](https://open.spotify.com/album/3HGXJ3VnxgW0KEEzQy5GCZ) | 3:55 |
-| 38 | [Memory Reboot \- Slowed](https://open.spotify.com/track/7Ev52ukrs7XGyY6q6U3JUJ) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [Narvent](https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7) | [Memory Reboot](https://open.spotify.com/album/38leU2pvDRxNx2u59BENZb) | 3:56 |
-| 39 | [Flare \- Slowed](https://open.spotify.com/track/7aZxSDe8hgD8MXv8ukuCfT) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Flare \(Remixes\)](https://open.spotify.com/album/56aJPOiVqA3CV4qrfZ2a3I) | 2:41 |
+| 38 | [Flare \- Slowed](https://open.spotify.com/track/7aZxSDe8hgD8MXv8ukuCfT) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Flare \(Remixes\)](https://open.spotify.com/album/56aJPOiVqA3CV4qrfZ2a3I) | 2:41 |
+| 39 | [Memory Reboot \- Slowed](https://open.spotify.com/track/7Ev52ukrs7XGyY6q6U3JUJ) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [Narvent](https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7) | [Memory Reboot](https://open.spotify.com/album/38leU2pvDRxNx2u59BENZb) | 3:56 |
 | 40 | [WASTE \- Slowed Version](https://open.spotify.com/track/4w9TJQQqKXeLMZyzmLVpRI) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [WASTE](https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql) | 2:14 |
 | 41 | [It's Ok \- Slowed](https://open.spotify.com/track/5RKUztud1fb5UhO4gljjl7) | [Edith Whiskers](https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN) | [It's Ok \(Slowed\)](https://open.spotify.com/album/1sjKHrK5J9tVQi512c0Vrj) | 3:34 |
 | 42 | [CUTE DEPRESSED \- SLOWED VERSION](https://open.spotify.com/track/0gALPCrSYb7vW8PDcbvzmU) | [Dyan Dxddy](https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx) | [CUTE DEPRESSED \(ALL VERSIONS\)](https://open.spotify.com/album/64CIZ10gxcp0WGZmVV4B0c) | 2:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 49 | [Swing Lynn \- Slowed Version](https://open.spotify.com/track/4WR5MhgQr1TtJfuEgBE4jC) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Swing Lynn \(Slowed Version\)](https://open.spotify.com/album/3wah0ODozs7Q39lUvFEwOn) | 7:28 |
 | 50 | [GMFU \- Slowed & Reverbed](https://open.spotify.com/track/4d05rtLQQH5DgJl4XnDW6H) | [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7), [Sassy Scene](https://open.spotify.com/artist/3cSPgd8Zh82U1uV7weU8Dm), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [XIII SORROWS \(ODECORE MIX\)](https://open.spotify.com/album/6wrKIZQJP4vyo7eIsAv5vE) | 2:16 |
 
-Snapshot ID: `MCw4YmMzYmJhMTNlYmY4YzMyZDgwODAwOTdmMmYzZWQ4NzRhNGJhNDM5`
+Snapshot ID: `MCw5OGRhNjJiZDYwZGI2ZThhNzcwNzZlZjc2NDc0ODhkMjE0MzExMjJj`

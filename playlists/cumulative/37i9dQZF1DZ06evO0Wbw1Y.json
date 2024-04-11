@@ -195,6 +195,24 @@
     },
     {
       "album": {
+        "name": "Cuesta Amarte",
+        "url": "https://open.spotify.com/album/2iZl32x6FhDIVsCbJOvPSK"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141558,
+      "name": "Cuesta Amarte",
+      "url": "https://open.spotify.com/track/4DGZh7uAyj4s7zaGqAGNHR"
+    },
+    {
+      "album": {
         "name": "Cu\u00e1nto Me Duele",
         "url": "https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo"
       },

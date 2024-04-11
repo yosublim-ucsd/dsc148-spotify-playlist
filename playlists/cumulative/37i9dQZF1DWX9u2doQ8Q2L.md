@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,374 songs - 3 day 12 hr 0 min
+1,375 songs - 3 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [DOCUMENT \- 2023](https://open.spotify.com/track/2FqaGBqrOpcz2gahQgaeDg) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [DOCUMENT \(2023\)](https://open.spotify.com/album/6VbZ7Sm3BLIRfPeAwr5X69) | 4:38 | 2023-04-05 | 2023-07-07 |
 | [DOG EATS GOD \(feat\. 筒井康隆\)](https://open.spotify.com/track/42puayM78xtWfZgQR8q2XH) | [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv), [筒井康隆](https://open.spotify.com/artist/7CVwuk73WJuFogsp0HN4bl) | [DOG EATS GOD \(feat\. 筒井康隆\)](https://open.spotify.com/album/7IF7TfpbLsQEeYSqYomkcK) | 3:04 | 2022-09-01 | 2022-10-12 |
 | [Doin It Well \- ft\. Chocoholic](https://open.spotify.com/track/6ocxzhUe3knJVasvFYoFuH) | [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj), [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Doin It Well](https://open.spotify.com/album/3CwjFwOSE31amjZJkSSg5e) | 2:19 | 2024-01-23 | 2024-02-07 |
-| [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP) | 2:37 | 2022-09-22 |  |
+| [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP) | 2:37 | 2022-09-22 | 2024-04-11 |
 | [DOWN TOWN](https://open.spotify.com/track/3MXCCaSni8I1FSvHeMQIGV) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hiro\-a\-key](https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [DOWN TOWN](https://open.spotify.com/album/3yY408DUkgwhfZkouMRK0i) | 4:50 | 2023-03-14 | 2023-05-05 |
 | [Drama](https://open.spotify.com/track/2AYRZZBTGjhFKATI4f7AlH) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Drama](https://open.spotify.com/album/4Jj1Z1zQ7erei7UsqsGNSo) | 3:37 | 2023-04-04 | 2023-04-06 |
 | [Drama](https://open.spotify.com/track/7q81qAmPUTbYiVOZ9uZDlk) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Drama](https://open.spotify.com/album/5jnChZoGsz6XTKKEgr6xkm) | 3:37 | 2023-04-05 | 2023-04-12 |
@@ -1286,6 +1286,7 @@
 | [愛哀](https://open.spotify.com/track/1jNX9JdSdlhqkmiIPBUii4) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [まだらもよう](https://open.spotify.com/album/0bamCeA6hehUk8NqStBL7k) | 3:47 | 2024-01-18 | 2024-01-20 |
 | [憑依](https://open.spotify.com/track/6CQsnkKBdrooo6LB1DqcZu) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [NF Zessho](https://open.spotify.com/artist/56f1j2OpB9qo7jFKL0hoL1) | [憑依](https://open.spotify.com/album/32CphF51dvTVpKxnVhRxIc) | 3:27 | 2023-08-15 | 2023-08-17 |
 | [手紙](https://open.spotify.com/track/7BlqNJn3XGihKvHJLA86Wp) | [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba), [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [Explode](https://open.spotify.com/album/6hrV3b3x8ZPNwMu2VOeZSs) | 3:54 | 2022-05-26 | 2022-06-24 |
+| [拝啓生きとし愛おしきあなた](https://open.spotify.com/track/5TPDyjoG3MRjWHltxXkYXu) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [拝啓生きとし愛おしきあなた](https://open.spotify.com/album/5mGXQXpwzEmRor7HouC1zF) | 3:39 | 2024-04-02 |  |
 | [接吻 \(feat\. ひかり & MELRAW\)](https://open.spotify.com/track/3VV4tTyh2wm5e1f3iz7qGR) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc), [MELRAW](https://open.spotify.com/artist/6yFRg2uyPmQP8XfwTrnE6N) | [接吻 \(feat\. ひかり & MELRAW\)](https://open.spotify.com/album/4I1YDrFEUJO6l0Oy3jsgcR) | 4:45 | 2022-11-08 | 2023-09-01 |
 | [摩天楼](https://open.spotify.com/track/4xHKYFUmIRjpW98hbuvwWm) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [摩天楼](https://open.spotify.com/album/4MS2FUKzECOcgt69p1y97q) | 3:34 | 2022-05-26 | 2022-06-01 |
 | [敏感](https://open.spotify.com/track/4YPyhQj8nXCVL4oNV4ef5B) | [Inshow ha](https://open.spotify.com/artist/6oZfAOrVYegzxjJaaQ0LpA), [なかまきこ](https://open.spotify.com/artist/7aq5x0tdeZMA5THwHsYDUz) | [敏感](https://open.spotify.com/album/4mondnoMGMLlVTKUgoinCe) | 3:54 | 2023-11-21 | 2023-11-29 |

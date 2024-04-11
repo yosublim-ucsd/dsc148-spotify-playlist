@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 125468,
+  "num_followers": 125533,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTBiYWNhNzRiMTk3OGIyZDdhMDkwM2E2OWVjMzdiZDM4NDc0NGZk",
+  "snapshot_id": "MCw4MDlhMjNjZGQzOTNiNjc2MjMyMjQxNjViMGUyMWE4ZjVhYzJiODUw",
   "tracks": [
     {
       "added_at": "2024-03-20 13:48:17",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "Careless Love",
-        "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 237640,
-      "name": "Dance Me To The End Of Love",
-      "url": "https://open.spotify.com/track/13zjNPZUyWvzZC2dlYjW0L"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/7rriXPfGcOzdHmU6q7V8Vr"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 272784,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/12J3Vk6944iKANUQZcuidf"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
+        "name": "Careless Love",
+        "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 237640,
+      "name": "Dance Me To The End Of Love",
+      "url": "https://open.spotify.com/track/13zjNPZUyWvzZC2dlYjW0L"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "Hey Jude",
-        "url": "https://open.spotify.com/album/67OTFWSB6YEY3uUGcujAmw"
-      },
-      "artists": [
-        {
-          "name": "Louie Hobbs Trio",
-          "url": "https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U"
-        }
-      ],
-      "duration_ms": 219625,
-      "name": "Hey Jude",
-      "url": "https://open.spotify.com/track/2zaTkJjKXM6grxlreDbOWR"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
         "name": "Joshua Redman",
         "url": "https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 279573,
       "name": "I Got You - I Feel Good",
       "url": "https://open.spotify.com/track/0Snag7BFP5fx7SonfLcSsh"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
+        "name": "Hey Jude",
+        "url": "https://open.spotify.com/album/67OTFWSB6YEY3uUGcujAmw"
+      },
+      "artists": [
+        {
+          "name": "Louie Hobbs Trio",
+          "url": "https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U"
+        }
+      ],
+      "duration_ms": 219625,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/2zaTkJjKXM6grxlreDbOWR"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
+        "name": "Jazz Volume: Herbie Hancock",
+        "url": "https://open.spotify.com/album/3lCwfnhFxg2TRZow4x555z"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 456480,
+      "name": "A Case Of You - Short Version",
+      "url": "https://open.spotify.com/track/5Zfe0oV4iNs4kYIvdbPntt"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
         "name": "where are we",
         "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 320893,
       "name": "Streets Of Philadelphia",
       "url": "https://open.spotify.com/track/6S3bsnpvBqRRn7LfzZSchM"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
-        "name": "Return To You",
-        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
-      },
-      "artists": [
-        {
-          "name": "Sara Gazarek",
-          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
-        }
-      ],
-      "duration_ms": 335720,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0lU9XZ3I8uyGSHLIAjG5vI"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "Jazz Volume: Herbie Hancock",
-        "url": "https://open.spotify.com/album/3lCwfnhFxg2TRZow4x555z"
+        "name": "Return To You",
+        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
       },
       "artists": [
         {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+          "name": "Sara Gazarek",
+          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
         }
       ],
-      "duration_ms": 456480,
-      "name": "A Case Of You - Short Version",
-      "url": "https://open.spotify.com/track/5Zfe0oV4iNs4kYIvdbPntt"
+      "duration_ms": 335720,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0lU9XZ3I8uyGSHLIAjG5vI"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "Music From Leonard Bernstein'S 'West Side Story' And 'Wonderful Town'",
-        "url": "https://open.spotify.com/album/7t0ixwcxppL8KOnQ5Mfvop"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 226093,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/3RSViRFX1LwGMrsv0NcQk4"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
         "name": "Just the Way You Are",
         "url": "https://open.spotify.com/album/2nbQXKBxv0kJaO0x8vsyLW"
       },
@@ -1247,22 +1231,18 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "Still We Dream",
-        "url": "https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l"
+        "name": "Music From Leonard Bernstein'S 'West Side Story' And 'Wonderful Town'",
+        "url": "https://open.spotify.com/album/7t0ixwcxppL8KOnQ5Mfvop"
       },
       "artists": [
         {
-          "name": "Donatella Montinaro",
-          "url": "https://open.spotify.com/artist/0C4L4Wip7dcoY9jYr5gn6G"
-        },
-        {
-          "name": "Danilo Tarso",
-          "url": "https://open.spotify.com/artist/0HlyGInx05IRKHKDRVVaTY"
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
         }
       ],
-      "duration_ms": 353941,
-      "name": "Vincent",
-      "url": "https://open.spotify.com/track/6adWVN7hPrztmftktK3zES"
+      "duration_ms": 226093,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/3RSViRFX1LwGMrsv0NcQk4"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1283,6 +1263,26 @@
       "duration_ms": 277960,
       "name": "Heart Shaped Box",
       "url": "https://open.spotify.com/track/5i17LHqATVUzB3qJaUcNkO"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
+        "name": "Still We Dream",
+        "url": "https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l"
+      },
+      "artists": [
+        {
+          "name": "Donatella Montinaro",
+          "url": "https://open.spotify.com/artist/0C4L4Wip7dcoY9jYr5gn6G"
+        },
+        {
+          "name": "Danilo Tarso",
+          "url": "https://open.spotify.com/artist/0HlyGInx05IRKHKDRVVaTY"
+        }
+      ],
+      "duration_ms": 353941,
+      "name": "Vincent",
+      "url": "https://open.spotify.com/track/6adWVN7hPrztmftktK3zES"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "You Should Have Told Me",
-        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        }
-      ],
-      "duration_ms": 239186,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/616tU4nb5DfY40tHVlHkP1"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
         "name": "Songbird",
         "url": "https://open.spotify.com/album/3N4bJn9W92OsBk8caft5LO"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 281333,
       "name": "\uff37\uff4f\uff4e\uff44\uff45\uff52\uff57\uff41\uff4c\uff4c",
       "url": "https://open.spotify.com/track/3sODcw4hHaxjzUrTzgzdfl"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
+        "name": "You Should Have Told Me",
+        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        }
+      ],
+      "duration_ms": 239186,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/616tU4nb5DfY40tHVlHkP1"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "Tears in Heaven",
-        "url": "https://open.spotify.com/album/6u1Mi8E9uKOeFmW2U8bFB5"
-      },
-      "artists": [
-        {
-          "name": "The Uptown Players",
-          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Tears in Heaven",
-      "url": "https://open.spotify.com/track/67cWGKdxLLPTwqaQz4Qlhd"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
         "name": "Twentysomething (Special Edition)",
         "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 288546,
       "name": "Lover, You Should Have Come Over",
       "url": "https://open.spotify.com/track/0f6bXABu4brGJMt0bG9yPQ"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
+        "name": "Tears in Heaven",
+        "url": "https://open.spotify.com/album/6u1Mi8E9uKOeFmW2U8bFB5"
+      },
+      "artists": [
+        {
+          "name": "The Uptown Players",
+          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Tears in Heaven",
+      "url": "https://open.spotify.com/track/67cWGKdxLLPTwqaQz4Qlhd"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/2wNEe8mpjm4cmpygGaAFi8"
+        "name": "What Took You so Long",
+        "url": "https://open.spotify.com/album/7k2gMK9zmm8yxS9uqnztLt"
       },
       "artists": [
         {
-          "name": "Meadowpoints",
-          "url": "https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J"
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
         }
       ],
-      "duration_ms": 233625,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/70Gf8QOBLSJOvrGsfzrWet"
+      "duration_ms": 271922,
+      "name": "We Don\u00b4t Need Another Hero",
+      "url": "https://open.spotify.com/track/4RVQO4cSPaeek08d9cHLWt"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1751,18 +1751,18 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "What Took You so Long",
-        "url": "https://open.spotify.com/album/7k2gMK9zmm8yxS9uqnztLt"
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/2wNEe8mpjm4cmpygGaAFi8"
       },
       "artists": [
         {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+          "name": "Meadowpoints",
+          "url": "https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J"
         }
       ],
-      "duration_ms": 271922,
-      "name": "We Don\u00b4t Need Another Hero",
-      "url": "https://open.spotify.com/track/4RVQO4cSPaeek08d9cHLWt"
+      "duration_ms": 233625,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/70Gf8QOBLSJOvrGsfzrWet"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1779,26 +1779,6 @@
       "duration_ms": 413240,
       "name": "Mr. Tambourine Man",
       "url": "https://open.spotify.com/track/0muTyC7lwOtRtdFunLau6v"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
-        "name": "Play Favorites",
-        "url": "https://open.spotify.com/album/4DHI03EwOkdyy4bXnGQnDj"
-      },
-      "artists": [
-        {
-          "name": "Aubrey Johnson",
-          "url": "https://open.spotify.com/artist/6WRb9e3LohpJwr0aA13eRi"
-        },
-        {
-          "name": "Randy Ingram",
-          "url": "https://open.spotify.com/artist/1I1RsZSV9pEW8Zpz7feqpG"
-        }
-      ],
-      "duration_ms": 263453,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/06gNa1Rs8ivtJ3V9vSVNWB"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1823,6 +1803,26 @@
       "duration_ms": 305631,
       "name": "Sorry Seems to Be the Hardest Word",
       "url": "https://open.spotify.com/track/5kBw6WiW6YwymbFQm4DQQp"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
+        "name": "Play Favorites",
+        "url": "https://open.spotify.com/album/4DHI03EwOkdyy4bXnGQnDj"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Johnson",
+          "url": "https://open.spotify.com/artist/6WRb9e3LohpJwr0aA13eRi"
+        },
+        {
+          "name": "Randy Ingram",
+          "url": "https://open.spotify.com/artist/1I1RsZSV9pEW8Zpz7feqpG"
+        }
+      ],
+      "duration_ms": 263453,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/06gNa1Rs8ivtJ3V9vSVNWB"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1911,6 +1911,26 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
+        "name": "Champagne & Declarations",
+        "url": "https://open.spotify.com/album/5AY7Msz86fX5pNuQtHtPL7"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zuraitis",
+          "url": "https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A"
+        },
+        {
+          "name": "Thana Alexa",
+          "url": "https://open.spotify.com/artist/6jvFT2wqxaFL9lcPTrzjyV"
+        }
+      ],
+      "duration_ms": 277411,
+      "name": "Walk On The Wildside",
+      "url": "https://open.spotify.com/track/7FTnotwGzyx6fdVYfkxuTT"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
         "name": "Lieb Plays the Beatles",
         "url": "https://open.spotify.com/album/2jSCnq7vrAR0DO3qLdKjEr"
       },
@@ -1967,6 +1987,22 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
+        "name": "Groove Connection",
+        "url": "https://open.spotify.com/album/2GLYBqXyDkl0Z7ypSn7Kub"
+      },
+      "artists": [
+        {
+          "name": "Jakob Manz",
+          "url": "https://open.spotify.com/artist/7l8AVzWP4aBYTXGn0GYkLP"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "When the Party's Over",
+      "url": "https://open.spotify.com/track/00d6FpMLePJ6vNMFICyJiW"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
         "name": "The Gallery Concerts II (Jazz Poetry)",
         "url": "https://open.spotify.com/album/0q1erikNTQiQC5opFqeMUl"
       },
@@ -1983,22 +2019,6 @@
       "duration_ms": 303186,
       "name": "She's Leaving Home - Live",
       "url": "https://open.spotify.com/track/6Qtp0mQgoSIUqrP3rBQJL8"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
-        "name": "Groove Connection",
-        "url": "https://open.spotify.com/album/2GLYBqXyDkl0Z7ypSn7Kub"
-      },
-      "artists": [
-        {
-          "name": "Jakob Manz",
-          "url": "https://open.spotify.com/artist/7l8AVzWP4aBYTXGn0GYkLP"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "When the Party's Over",
-      "url": "https://open.spotify.com/track/00d6FpMLePJ6vNMFICyJiW"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -2023,26 +2043,6 @@
       "duration_ms": 579160,
       "name": "Human Nature (Trio Extension)",
       "url": "https://open.spotify.com/track/6vT6GhO6th2JE3NBQRlhKL"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
-        "name": "Champagne & Declarations",
-        "url": "https://open.spotify.com/album/5AY7Msz86fX5pNuQtHtPL7"
-      },
-      "artists": [
-        {
-          "name": "Nicole Zuraitis",
-          "url": "https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A"
-        },
-        {
-          "name": "Thana Alexa",
-          "url": "https://open.spotify.com/artist/6jvFT2wqxaFL9lcPTrzjyV"
-        }
-      ],
-      "duration_ms": 277411,
-      "name": "Walk On The Wildside",
-      "url": "https://open.spotify.com/track/7FTnotwGzyx6fdVYfkxuTT"
     },
     {
       "added_at": "2024-03-20 13:48:17",

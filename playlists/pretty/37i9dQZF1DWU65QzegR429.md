@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves\. Cover: Lismar
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,106 likes - 88 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,118 likes - 88 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 87 | [Gafas Pal Sol](https://open.spotify.com/track/1fRVcAo1TNDqdzV55vn3ep) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 2:42 |
 | 88 | [Bless Mode](https://open.spotify.com/track/5Z1OonwsupYG38tvG91zcf) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Bless Mode](https://open.spotify.com/album/6G3Pm1DWqJksNbUq00gAjR) | 2:32 |
 
-Snapshot ID: `MCxkMzU0YWVlYWRkYzc4NTZjYmYyYjQ2MjEzYmE3MGRkZWYyNGZkNWUz`
+Snapshot ID: `MCwwOTQ4Zjk4ZWRkMTc5NTY2ODJkY2U3MDJjNWU1NTFiYTdiMzg3YjI5`

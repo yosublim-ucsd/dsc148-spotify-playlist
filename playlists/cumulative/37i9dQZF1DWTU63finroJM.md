@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: Shego.
 
-1,295 songs - 2 day 23 hr 24 min
+1,296 songs - 2 day 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Born To Win](https://open.spotify.com/track/0zTmcNKTKyxMohxIvjpIAV) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/61S9dOljMoxlArx68sMYdo) | 2:53 | 2022-03-24 | 2022-08-02 |
 | [BOW](https://open.spotify.com/track/2CrrWAO1SOHP5xw8nACU2o) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [BOW](https://open.spotify.com/album/1oI8nrecGcBbiuHGBTXfA8) | 3:02 | 2024-01-12 | 2024-01-27 |
 | [Boyz N Da Club \- Radio Edit](https://open.spotify.com/track/26zt79lTciS4tfncBX1qPV) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Boyz N Da Club \(Radio Edit\)](https://open.spotify.com/album/0W9rKo615E4R4jTAsE4vZM) | 2:21 | 2022-11-11 | 2023-05-31 |
+| [break me](https://open.spotify.com/track/2mumSkODFJWLAX4p1RsGoZ) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [break me](https://open.spotify.com/album/0Ggs1jxnP1Sby1NLum8mRu) | 2:50 | 2024-04-05 |  |
 | [Breaking Bad](https://open.spotify.com/track/5uM71yGGGCctN2PeV5OYi5) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [Breaking Bad](https://open.spotify.com/album/3RrvdEyNwjEqsSHfFMeDsw) | 3:51 | 2023-05-30 | 2024-01-20 |
 | [Breathe Again](https://open.spotify.com/track/5bAgMDRLG5YKdXwOU7KVAe) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [CHECK\-IN](https://open.spotify.com/album/1ByTvinHUbdfpRMqxzGCUr) | 3:34 | 2022-04-07 | 2022-04-15 |
 | [Brodo](https://open.spotify.com/track/7CXwOsJN3XBiud3Z1eFeeW) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Brodo](https://open.spotify.com/album/7lZujMpNv1dJXSlTOGz4I8) | 3:37 | 2022-03-24 | 2022-08-02 |
@@ -312,7 +313,7 @@
 | [EN EL CIELO](https://open.spotify.com/track/0O8ysXWS3wBFbl1SE5qb8C) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [EN EL CIELO](https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW) | 2:28 | 2022-09-08 | 2023-05-31 |
 | [En El Refuego](https://open.spotify.com/track/5a03ZGBn3dqr3H3W3li7FO) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [En El Refuego](https://open.spotify.com/album/2JJpo95vrGC1A7GMphV8FS) | 3:04 | 2022-03-24 | 2022-09-16 |
 | [En La Nube](https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [En La Nube](https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V) | 3:32 | 2022-03-24 | 2022-08-05 |
-| [En Privado ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/track/62nOLQvhG6l1QAac2CXzJr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [En Privado ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/album/5IUwO78bOZoPZ6f8cfAmCQ) | 2:19 | 2023-11-17 |  |
+| [En Privado ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/track/62nOLQvhG6l1QAac2CXzJr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [En Privado ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/album/5IUwO78bOZoPZ6f8cfAmCQ) | 2:19 | 2023-11-17 | 2024-04-11 |
 | [en rosalie](https://open.spotify.com/track/7df0w01vdDcboukwMPjjPV) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [un million de petits chocs](https://open.spotify.com/album/2IC2gH3S0XVQvug7M3rFjS) | 2:39 | 2024-03-01 |  |
 | [En Sonunda Terk Ettim Şehrimi](https://open.spotify.com/track/5GIisFHTMmJAO497d906SO) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [En Sonunda Terk Ettim Şehrimi](https://open.spotify.com/album/49Da5Al1iNGqdjatlyaZTO) | 3:19 | 2023-10-11 | 2023-12-30 |
 | [Enamorado](https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Del Corazon](https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C) | 4:05 | 2023-05-31 | 2024-03-09 |

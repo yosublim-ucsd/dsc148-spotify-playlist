@@ -1,12 +1,12 @@
 {
   "description": "Dope global beat makers. <a href=\"spotify:artist:4fOizZJsCaT3RYpqNdeGKk\">Thanks Joey</a>",
-  "num_followers": 114952,
+  "num_followers": 115005,
   "original_name": "Dope Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWYxZTc3Y2RjOGJjMTI5ZTE4YzZjMGU5ZWIwYjg2MDBlNmU1ZGFm",
+  "snapshot_id": "MCwyYWE3MzBmZWJhMDllNDhlNDQ3ODcwODM3OTY5MjljNjNlYzkxMGNh",
   "tracks": [
     {
       "added_at": "2022-03-22 11:23:16",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Crushing",
-        "url": "https://open.spotify.com/album/0cAXEMWNAvsGfc6t2AIutV"
-      },
-      "artists": [
-        {
-          "name": "helistofax",
-          "url": "https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW"
-        }
-      ],
-      "duration_ms": 131350,
-      "name": "Crushing",
-      "url": "https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/5LNZcwaftnv3Guu9h7wtAe"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 214537,
       "name": "Groovly",
       "url": "https://open.spotify.com/track/6jJb757pFbYEXjuWAJUcw6"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/0cAXEMWNAvsGfc6t2AIutV"
+      },
+      "artists": [
+        {
+          "name": "helistofax",
+          "url": "https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW"
+        }
+      ],
+      "duration_ms": 131350,
+      "name": "Crushing",
+      "url": "https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -675,34 +675,18 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/3D4AoTdYFTk0kWbSd9kBR8"
+        "name": "Stay at Home",
+        "url": "https://open.spotify.com/album/61k37mAg1fytpQuGhzKwOL"
       },
       "artists": [
         {
-          "name": "Amine Maxwell",
-          "url": "https://open.spotify.com/artist/7fBgvBDrg5ZA7YvweEd1Ii"
+          "name": "ElNasser",
+          "url": "https://open.spotify.com/artist/3D5Jdjpumogr3FInXkSP7R"
         }
       ],
-      "duration_ms": 122587,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/0H1tDY1dWsJk4f7Y9TmzdN"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "Eshkol",
-        "url": "https://open.spotify.com/album/4vuuyt8VMuzSOzjKkVzDeV"
-      },
-      "artists": [
-        {
-          "name": "Djamil",
-          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
-        }
-      ],
-      "duration_ms": 118588,
-      "name": "Eshkol",
-      "url": "https://open.spotify.com/track/5MlDCzLbDIMw1ZdfkI7rCQ"
+      "duration_ms": 175384,
+      "name": "Stay at Home",
+      "url": "https://open.spotify.com/track/1wuw2GQNMCx8H5b6ax3Twr"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -723,50 +707,18 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Stay at Home",
-        "url": "https://open.spotify.com/album/61k37mAg1fytpQuGhzKwOL"
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/3D4AoTdYFTk0kWbSd9kBR8"
       },
       "artists": [
         {
-          "name": "ElNasser",
-          "url": "https://open.spotify.com/artist/3D5Jdjpumogr3FInXkSP7R"
+          "name": "Amine Maxwell",
+          "url": "https://open.spotify.com/artist/7fBgvBDrg5ZA7YvweEd1Ii"
         }
       ],
-      "duration_ms": 175384,
-      "name": "Stay at Home",
-      "url": "https://open.spotify.com/track/1wuw2GQNMCx8H5b6ax3Twr"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "If You Show Me Love",
-        "url": "https://open.spotify.com/album/6O0f7boDgPl6KhA1YIAR2i"
-      },
-      "artists": [
-        {
-          "name": "Sereen",
-          "url": "https://open.spotify.com/artist/7rB1y5WUwQqiiCmNxFzunH"
-        }
-      ],
-      "duration_ms": 90044,
-      "name": "If You Show Me Love",
-      "url": "https://open.spotify.com/track/60xIJpG6Iah0i5IQxyRlXK"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "Skye",
-        "url": "https://open.spotify.com/album/5sQMdn4wUgSkwz3XzyfzgT"
-      },
-      "artists": [
-        {
-          "name": "Off / Side",
-          "url": "https://open.spotify.com/artist/5vAjIRFvJZWeqcIDrWD9uR"
-        }
-      ],
-      "duration_ms": 190098,
-      "name": "Skye",
-      "url": "https://open.spotify.com/track/3zwh6p8XI0Afw46DUkijRd"
+      "duration_ms": 122587,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/0H1tDY1dWsJk4f7Y9TmzdN"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -787,8 +739,24 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Deserted Tree",
-        "url": "https://open.spotify.com/album/5fr2qkbIr8nqvexltrf1E1"
+        "name": "Skye",
+        "url": "https://open.spotify.com/album/5sQMdn4wUgSkwz3XzyfzgT"
+      },
+      "artists": [
+        {
+          "name": "Off / Side",
+          "url": "https://open.spotify.com/artist/5vAjIRFvJZWeqcIDrWD9uR"
+        }
+      ],
+      "duration_ms": 190098,
+      "name": "Skye",
+      "url": "https://open.spotify.com/track/3zwh6p8XI0Afw46DUkijRd"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Eshkol",
+        "url": "https://open.spotify.com/album/4vuuyt8VMuzSOzjKkVzDeV"
       },
       "artists": [
         {
@@ -796,9 +764,25 @@
           "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
         }
       ],
-      "duration_ms": 165555,
-      "name": "Deserted Tree",
-      "url": "https://open.spotify.com/track/3qhJ26BGjhOLOFfdNtFOgd"
+      "duration_ms": 118588,
+      "name": "Eshkol",
+      "url": "https://open.spotify.com/track/5MlDCzLbDIMw1ZdfkI7rCQ"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "If You Show Me Love",
+        "url": "https://open.spotify.com/album/6O0f7boDgPl6KhA1YIAR2i"
+      },
+      "artists": [
+        {
+          "name": "Sereen",
+          "url": "https://open.spotify.com/artist/7rB1y5WUwQqiiCmNxFzunH"
+        }
+      ],
+      "duration_ms": 90044,
+      "name": "If You Show Me Love",
+      "url": "https://open.spotify.com/track/60xIJpG6Iah0i5IQxyRlXK"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -855,22 +839,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "tv-guides . (mini-tape)",
-        "url": "https://open.spotify.com/album/5PVs5XNLertK5QGHzoZmGi"
-      },
-      "artists": [
-        {
-          "name": "mommy",
-          "url": "https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk"
-        }
-      ],
-      "duration_ms": 79911,
-      "name": "yoyogi park",
-      "url": "https://open.spotify.com/track/2ZR0mEea2xskfYAuWlhV81"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Coco",
         "url": "https://open.spotify.com/album/0bil6MWGHYccY9YHiwiJgK"
       },
@@ -883,6 +851,22 @@
       "duration_ms": 174315,
       "name": "Coco - Instrumental",
       "url": "https://open.spotify.com/track/1xt1HCunOlnrI5UiPNAZaM"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "tv-guides . (mini-tape)",
+        "url": "https://open.spotify.com/album/5PVs5XNLertK5QGHzoZmGi"
+      },
+      "artists": [
+        {
+          "name": "mommy",
+          "url": "https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk"
+        }
+      ],
+      "duration_ms": 79911,
+      "name": "yoyogi park",
+      "url": "https://open.spotify.com/track/2ZR0mEea2xskfYAuWlhV81"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -935,18 +919,18 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "SnaqPaq",
-        "url": "https://open.spotify.com/album/5goEHOsr52gtDaXXr7obyb"
+        "name": "Deserted Tree",
+        "url": "https://open.spotify.com/album/5fr2qkbIr8nqvexltrf1E1"
       },
       "artists": [
         {
-          "name": "Azmito",
-          "url": "https://open.spotify.com/artist/2pVNUjcGJobjpBLq4mGoMZ"
+          "name": "Djamil",
+          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
         }
       ],
-      "duration_ms": 146619,
-      "name": "Jigsaw",
-      "url": "https://open.spotify.com/track/4nS9zp3K2TvM4eOfzpQ84k"
+      "duration_ms": 165555,
+      "name": "Deserted Tree",
+      "url": "https://open.spotify.com/track/3qhJ26BGjhOLOFfdNtFOgd"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -963,6 +947,22 @@
       "duration_ms": 181347,
       "name": "Sadkid",
       "url": "https://open.spotify.com/track/096msV2KaAwqi5P0PWJqfb"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "SnaqPaq",
+        "url": "https://open.spotify.com/album/5goEHOsr52gtDaXXr7obyb"
+      },
+      "artists": [
+        {
+          "name": "Azmito",
+          "url": "https://open.spotify.com/artist/2pVNUjcGJobjpBLq4mGoMZ"
+        }
+      ],
+      "duration_ms": 146619,
+      "name": "Jigsaw",
+      "url": "https://open.spotify.com/track/4nS9zp3K2TvM4eOfzpQ84k"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -999,18 +999,22 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Xvibe",
-        "url": "https://open.spotify.com/album/6W7b9RFrdBE29953myz6b7"
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/1cTDghTuyLnfMytADE4RQN"
       },
       "artists": [
         {
-          "name": "Ayham",
-          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
+          "name": "EQuBE",
+          "url": "https://open.spotify.com/artist/1vKZWmYdp9BQAbtrX9ORuu"
+        },
+        {
+          "name": "Almukhtar",
+          "url": "https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8"
         }
       ],
-      "duration_ms": 52000,
-      "name": "Xvibe",
-      "url": "https://open.spotify.com/track/0jDRb7fzYpHLHodknLCmBt"
+      "duration_ms": 200816,
+      "name": "Voodoo - Instrumental",
+      "url": "https://open.spotify.com/track/0ISh9y2wlGf8HcW4pQEExt"
     }
   ],
   "unique_name": "Dope Beats",

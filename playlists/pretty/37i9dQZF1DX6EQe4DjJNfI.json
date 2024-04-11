@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: HODARI, Urias",
-  "num_followers": 167743,
+  "num_followers": 167762,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTAxYTgwZDY3ZjcwOWRiZmVhYzVlZGZmNjQ5ZTE5MDFhOTJhYzA4",
+  "snapshot_id": "MCxlOGQ5YTJkOTcwZWQ5MWE4YWJmMTZlYjBmNDVkY2ViNjBjMjQyY2Uz",
   "tracks": [
     {
       "added_at": "2024-04-05 03:01:00",
@@ -227,22 +227,18 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "Me Leva",
-        "url": "https://open.spotify.com/album/1diSltAeuabmNpBXw3qt9Q"
+        "name": "Coisas Simples",
+        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
       },
       "artists": [
         {
-          "name": "Taylan",
-          "url": "https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu"
-        },
-        {
-          "name": "Serour",
-          "url": "https://open.spotify.com/artist/4L8osYNuWu9ggZONwYGGC8"
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
         }
       ],
-      "duration_ms": 213975,
-      "name": "Me Leva",
-      "url": "https://open.spotify.com/track/2QQeS6hFZXB8AOCKjyCiNC"
+      "duration_ms": 157772,
+      "name": "Coisas Simples",
+      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -291,18 +287,22 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "Coisas Simples",
-        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
+        "name": "Me Leva",
+        "url": "https://open.spotify.com/album/1diSltAeuabmNpBXw3qt9Q"
       },
       "artists": [
         {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+          "name": "Taylan",
+          "url": "https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu"
+        },
+        {
+          "name": "Serour",
+          "url": "https://open.spotify.com/artist/4L8osYNuWu9ggZONwYGGC8"
         }
       ],
-      "duration_ms": 157772,
-      "name": "Coisas Simples",
-      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
+      "duration_ms": 213975,
+      "name": "Me Leva",
+      "url": "https://open.spotify.com/track/2QQeS6hFZXB8AOCKjyCiNC"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -415,6 +415,26 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
+        "name": "Mil\u00e3o",
+        "url": "https://open.spotify.com/album/710Y3Si18m6WkKMtNrzgMl"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        },
+        {
+          "name": "Matheusinho",
+          "url": "https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX"
+        }
+      ],
+      "duration_ms": 199972,
+      "name": "Mil\u00e3o",
+      "url": "https://open.spotify.com/track/4x4Fp6OGsLjIu2T0rZt6d5"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
         "name": "Ceder",
         "url": "https://open.spotify.com/album/2U7SgeSUNChbpRuNzng2OS"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 170666,
       "name": "S\u00f3 por Hoje",
       "url": "https://open.spotify.com/track/6qhQlrEKtF9ed8iTQWviR6"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "Mil\u00e3o",
-        "url": "https://open.spotify.com/album/710Y3Si18m6WkKMtNrzgMl"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        },
-        {
-          "name": "Matheusinho",
-          "url": "https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX"
-        }
-      ],
-      "duration_ms": 199972,
-      "name": "Mil\u00e3o",
-      "url": "https://open.spotify.com/track/4x4Fp6OGsLjIu2T0rZt6d5"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -579,6 +579,26 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
+        "name": "Eterno Esquema",
+        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
+      },
+      "artists": [
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Nath Audizio",
+          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
+        }
+      ],
+      "duration_ms": 133564,
+      "name": "Eterno Esquema",
+      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
         "name": "Rec\u00edproco",
         "url": "https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 180000,
       "name": "Rec\u00edproco",
       "url": "https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "Eterno Esquema",
-        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
-      },
-      "artists": [
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "Nath Audizio",
-          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
-        }
-      ],
-      "duration_ms": 133564,
-      "name": "Eterno Esquema",
-      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
+        "name": "Tempo pra Perder",
+        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        }
+      ],
+      "duration_ms": 194974,
+      "name": "Tempo pra Perder",
+      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
         "name": "Faz Arrepiar",
         "url": "https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 140832,
       "name": "Faz Arrepiar",
       "url": "https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "Tempo pra Perder",
-        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        }
-      ],
-      "duration_ms": 194974,
-      "name": "Tempo pra Perder",
-      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -703,30 +703,6 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "Voz De Um Querubim",
-        "url": "https://open.spotify.com/album/3CwishKgndzmoz94L8Zb8A"
-      },
-      "artists": [
-        {
-          "name": "JovemBlues",
-          "url": "https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH"
-        },
-        {
-          "name": "Canguru",
-          "url": "https://open.spotify.com/artist/4ztqBTwprdTcXkE5Tte6AG"
-        },
-        {
-          "name": "Macena288",
-          "url": "https://open.spotify.com/artist/1E1vrT6H75zBAZOHI9eWWr"
-        }
-      ],
-      "duration_ms": 205479,
-      "name": "Voz De Um Querubim",
-      "url": "https://open.spotify.com/track/04RTQv2qPDXsbiacFy6DYQ"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
         "name": "Liga\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG"
       },
@@ -747,6 +723,30 @@
       "duration_ms": 209389,
       "name": "Liga\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0EsziAlF3lAdqTxzwxP2kA"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "Voz De Um Querubim",
+        "url": "https://open.spotify.com/album/3CwishKgndzmoz94L8Zb8A"
+      },
+      "artists": [
+        {
+          "name": "JovemBlues",
+          "url": "https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH"
+        },
+        {
+          "name": "Canguru",
+          "url": "https://open.spotify.com/artist/4ztqBTwprdTcXkE5Tte6AG"
+        },
+        {
+          "name": "Macena288",
+          "url": "https://open.spotify.com/artist/1E1vrT6H75zBAZOHI9eWWr"
+        }
+      ],
+      "duration_ms": 205479,
+      "name": "Voz De Um Querubim",
+      "url": "https://open.spotify.com/track/04RTQv2qPDXsbiacFy6DYQ"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "Respostas",
-        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
-      },
-      "artists": [
-        {
-          "name": "Rudney Martins",
-          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Respostas",
-      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
         "name": "Sozinho",
         "url": "https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d"
       },
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "Uma Chance Pra Ficar Tudo bem",
-        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
+        "name": "Respostas",
+        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
       },
       "artists": [
         {
-          "name": "Crod",
-          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
+          "name": "Rudney Martins",
+          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
         }
       ],
-      "duration_ms": 154290,
-      "name": "Uma Chance",
-      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
+      "duration_ms": 194000,
+      "name": "Respostas",
+      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1071,6 +1055,22 @@
       "duration_ms": 179076,
       "name": "Ventilador",
       "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "Uma Chance Pra Ficar Tudo bem",
+        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
+      },
+      "artists": [
+        {
+          "name": "Crod",
+          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
+        }
+      ],
+      "duration_ms": 154290,
+      "name": "Uma Chance",
+      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
+        "name": "Caixa Postal",
+        "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Caixa Postal",
+      "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
         "name": "\u00cdn.ti.mo",
         "url": "https://open.spotify.com/album/1H39nmz1c0ai9HaEhJWaGU"
       },
@@ -1127,30 +1143,6 @@
       "duration_ms": 187954,
       "name": "PFP (para fazer pretinhos)",
       "url": "https://open.spotify.com/track/29T145ELh9ZkHSJusrhilh"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "GUAPA",
-        "url": "https://open.spotify.com/album/3VLLaHdj4pobnOxrWFcsdO"
-      },
-      "artists": [
-        {
-          "name": "Matheus Queiroz",
-          "url": "https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "Douglas Moda",
-          "url": "https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK"
-        }
-      ],
-      "duration_ms": 139270,
-      "name": "GUAPA",
-      "url": "https://open.spotify.com/track/5eERv0kAdLr608xgqawoHm"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1179,18 +1171,42 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "Caixa Postal",
-        "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
+        "name": "GUAPA",
+        "url": "https://open.spotify.com/album/3VLLaHdj4pobnOxrWFcsdO"
       },
       "artists": [
         {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+          "name": "Matheus Queiroz",
+          "url": "https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Douglas Moda",
+          "url": "https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Caixa Postal",
-      "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
+      "duration_ms": 139270,
+      "name": "GUAPA",
+      "url": "https://open.spotify.com/track/5eERv0kAdLr608xgqawoHm"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "DE REPENTE",
+        "url": "https://open.spotify.com/album/5zBNR0bMPSZZsaQHxtgBXh"
+      },
+      "artists": [
+        {
+          "name": "Tupi",
+          "url": "https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "DE REPENTE",
+      "url": "https://open.spotify.com/track/2cupDkLxPFyG7jWgzEDQ9Y"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1219,18 +1235,38 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "DE REPENTE",
-        "url": "https://open.spotify.com/album/5zBNR0bMPSZZsaQHxtgBXh"
+        "name": "30\u00baC",
+        "url": "https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE"
       },
       "artists": [
         {
-          "name": "Tupi",
-          "url": "https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf"
+          "name": "2:22",
+          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
+        },
+        {
+          "name": "Amanda Magno",
+          "url": "https://open.spotify.com/artist/3oJrSk88w8dtDFRKjcMH0R"
         }
       ],
-      "duration_ms": 145714,
-      "name": "DE REPENTE",
-      "url": "https://open.spotify.com/track/2cupDkLxPFyG7jWgzEDQ9Y"
+      "duration_ms": 160000,
+      "name": "PORTAIS",
+      "url": "https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
+      },
+      "artists": [
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        }
+      ],
+      "duration_ms": 144578,
+      "name": "Novela",
+      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1251,26 +1287,6 @@
       "duration_ms": 134476,
       "name": "Sobrenome",
       "url": "https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "30\u00baC",
-        "url": "https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE"
-      },
-      "artists": [
-        {
-          "name": "2:22",
-          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
-        },
-        {
-          "name": "Amanda Magno",
-          "url": "https://open.spotify.com/artist/3oJrSk88w8dtDFRKjcMH0R"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "PORTAIS",
-      "url": "https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1299,6 +1315,22 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
+        "name": "Imaturos",
+        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Imaturos",
+      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
         "name": "S\u00f3 N\u00f3s Dois",
         "url": "https://open.spotify.com/album/3ymX3mPsxNZbAu9jbWsyvd"
       },
@@ -1311,22 +1343,6 @@
       "duration_ms": 141502,
       "name": "S\u00f3 N\u00f3s Dois",
       "url": "https://open.spotify.com/track/7lAdgcZXKrbLe7cM05nMXF"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
-      },
-      "artists": [
-        {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
-        }
-      ],
-      "duration_ms": 144578,
-      "name": "Novela",
-      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1359,22 +1375,6 @@
       "duration_ms": 239029,
       "name": "Lingerie Branca",
       "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "Imaturos",
-        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Imaturos",
-      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1491,6 +1491,26 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
+        "name": "Santa Melanina",
+        "url": "https://open.spotify.com/album/5LPiSmZzHte8avVEBkK7al"
+      },
+      "artists": [
+        {
+          "name": "Binho Salles",
+          "url": "https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB"
+        },
+        {
+          "name": "WALL",
+          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
+        }
+      ],
+      "duration_ms": 141714,
+      "name": "Santa Melanina",
+      "url": "https://open.spotify.com/track/3NvElkpBIy1toS8vAVoaBP"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
         "name": "Bunda Irada",
         "url": "https://open.spotify.com/album/0WYlr0QO7D0Pr0y3xjNEjq"
       },
@@ -1511,26 +1531,6 @@
       "duration_ms": 147130,
       "name": "Bunda Irada",
       "url": "https://open.spotify.com/track/741fh7RcTu9FncdwyyMkBK"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "Santa Melanina",
-        "url": "https://open.spotify.com/album/5LPiSmZzHte8avVEBkK7al"
-      },
-      "artists": [
-        {
-          "name": "Binho Salles",
-          "url": "https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB"
-        },
-        {
-          "name": "WALL",
-          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
-        }
-      ],
-      "duration_ms": 141714,
-      "name": "Santa Melanina",
-      "url": "https://open.spotify.com/track/3NvElkpBIy1toS8vAVoaBP"
     }
   ],
   "unique_name": "R&B Brasil",

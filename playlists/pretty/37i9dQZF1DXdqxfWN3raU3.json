@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. LIT killah y Milo J en portada.",
-  "num_followers": 253246,
+  "num_followers": 253279,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzhlNjUzMTMxMmIzY2NkODllNWY5ZDkzYjY1NWNhNDQxNDMyZmIw",
+  "snapshot_id": "MCxhOTNmZjBjNGZiZDc0MGU1MDQ3N2IyYzlkNjBiOTRhMzNmYzFlN2U2",
   "tracks": [
     {
       "added_at": "2024-03-29 06:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Obra de Dios",
-        "url": "https://open.spotify.com/album/6TqGWylbqFXWCfC4Ytke1a"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 217936,
-      "name": "Obra de Dios",
-      "url": "https://open.spotify.com/track/764bq55JYDxvXkF8I37VQp"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "T\u00edrame Un Hello (Remix)",
         "url": "https://open.spotify.com/album/5tUPv0bmgylRODlVkL0FGx"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 169621,
       "name": "T\u00edrame Un Hello - Remix",
       "url": "https://open.spotify.com/track/4Kb3xZkdhXtAwAdQ0yeSSA"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Obra de Dios",
+        "url": "https://open.spotify.com/album/6TqGWylbqFXWCfC4Ytke1a"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 217936,
+      "name": "Obra de Dios",
+      "url": "https://open.spotify.com/track/764bq55JYDxvXkF8I37VQp"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
+        "name": "Un Koala En Una Palmera",
+        "url": "https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Curarte",
+      "url": "https://open.spotify.com/track/0Xrzd6jUgpqfyjWjMBwZ7Q"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
         "name": "Curvas",
         "url": "https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT"
       },
@@ -863,18 +879,18 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Un Koala En Una Palmera",
-        "url": "https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM"
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
       },
       "artists": [
         {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Curarte",
-      "url": "https://open.spotify.com/track/0Xrzd6jUgpqfyjWjMBwZ7Q"
+      "duration_ms": 159465,
+      "name": "ADI\u00d3S AMOR",
+      "url": "https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -895,22 +911,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "YESSIE",
-        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 159465,
-      "name": "ADI\u00d3S AMOR",
-      "url": "https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "Makin Money",
         "url": "https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm"
       },
@@ -923,22 +923,6 @@
       "duration_ms": 188737,
       "name": "Makin Money",
       "url": "https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
-        "name": "YELIANA - Cap.1 - Que me quiera / Lokita",
-        "url": "https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Que me quiera",
-      "url": "https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -959,6 +943,22 @@
       "duration_ms": 299000,
       "name": "NINA",
       "url": "https://open.spotify.com/track/1TByEjVxNgxuhYE27PokOf"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "YELIANA - Cap.1 - Que me quiera / Lokita",
+        "url": "https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Que me quiera",
+      "url": "https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
+        "name": "Carmes\u00ed",
+        "url": "https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 165562,
+      "name": "Carmes\u00ed",
+      "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
         "name": "La Serenata",
         "url": "https://open.spotify.com/album/7pFJqxrRMrCsYfZZR2yrio"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 204521,
       "name": "La Serenata",
       "url": "https://open.spotify.com/track/2FtfaSWn9AFc1uDXNo3LKY"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
-        "name": "Carmes\u00ed",
-        "url": "https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9"
-      },
-      "artists": [
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
-        }
-      ],
-      "duration_ms": 165562,
-      "name": "Carmes\u00ed",
-      "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
+        "name": "Dopamina",
+        "url": "https://open.spotify.com/album/0dEUjKmUXbLnRZUPfpnvVA"
+      },
+      "artists": [
+        {
+          "name": "Joonti",
+          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Dopamina",
+      "url": "https://open.spotify.com/track/4Y9SjgJOMppiqp7GwmW7LS"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
         "name": "A Trav\u00e9s Del Espejo (feat. Kendall Pe\u00f1a & Melanie Espinosa)",
         "url": "https://open.spotify.com/album/2qZv4vmdDS6VnNinS6VgPo"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 206000,
       "name": "A Trav\u00e9s Del Espejo (feat. Kendall Pe\u00f1a & Melanie Espinosa)",
       "url": "https://open.spotify.com/track/1gCvHsRHayoF9pjScWnbcO"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
-        "name": "Dopamina",
-        "url": "https://open.spotify.com/album/0dEUjKmUXbLnRZUPfpnvVA"
-      },
-      "artists": [
-        {
-          "name": "Joonti",
-          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Dopamina",
-      "url": "https://open.spotify.com/track/4Y9SjgJOMppiqp7GwmW7LS"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1355,6 +1355,38 @@
       "duration_ms": 166573,
       "name": "CNTRTE",
       "url": "https://open.spotify.com/track/6T1BqggkRJsqYDzdQs7boL"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Qui\u00e9n Pudiera?",
+        "url": "https://open.spotify.com/album/5uIL8ryzMnjBbgRx7wVCwW"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        },
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        },
+        {
+          "name": "Veztalone",
+          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
+        },
+        {
+          "name": "Comida Para Llevar",
+          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
+        }
+      ],
+      "duration_ms": 213861,
+      "name": "Qui\u00e9n Pudiera?",
+      "url": "https://open.spotify.com/track/3TWAnB0Pok8EnOLimD18ue"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1579,38 +1611,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Qui\u00e9n Pudiera?",
-        "url": "https://open.spotify.com/album/5uIL8ryzMnjBbgRx7wVCwW"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        },
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        },
-        {
-          "name": "\u00c7antamarta",
-          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
-        },
-        {
-          "name": "Veztalone",
-          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
-        },
-        {
-          "name": "Comida Para Llevar",
-          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
-        }
-      ],
-      "duration_ms": 213861,
-      "name": "Qui\u00e9n Pudiera?",
-      "url": "https://open.spotify.com/track/3TWAnB0Pok8EnOLimD18ue"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "la calle",
         "url": "https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq"
       },
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "lo q necesitabas",
-        "url": "https://open.spotify.com/album/0lGBsRZiB4F8WaUadCirqT"
-      },
-      "artists": [
-        {
-          "name": "day2k",
-          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
-        }
-      ],
-      "duration_ms": 103058,
-      "name": "lo q necesitabas",
-      "url": "https://open.spotify.com/track/3o4pKdMkldtuzgQC0axUNm"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "Roxanne",
         "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 213993,
       "name": "A la Mitad (Suceso 1)",
       "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "lo q necesitabas",
+        "url": "https://open.spotify.com/album/0lGBsRZiB4F8WaUadCirqT"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "duration_ms": 103058,
+      "name": "lo q necesitabas",
+      "url": "https://open.spotify.com/track/3o4pKdMkldtuzgQC0axUNm"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1763,6 +1763,30 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
+        "name": "Tus Ojos Me Hablaron",
+        "url": "https://open.spotify.com/album/1DB93h9fw0dyrn9LOoYHeM"
+      },
+      "artists": [
+        {
+          "name": "Desert Ni\u00f1os",
+          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
+        },
+        {
+          "name": "Slim Ans",
+          "url": "https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "Tus Ojos Me Hablaron",
+      "url": "https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
         "name": "Nadie M\u00e1s",
         "url": "https://open.spotify.com/album/1AW4bjxaKeBCT2eYCqHy0d"
       },
@@ -1795,30 +1819,6 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Tus Ojos Me Hablaron",
-        "url": "https://open.spotify.com/album/1DB93h9fw0dyrn9LOoYHeM"
-      },
-      "artists": [
-        {
-          "name": "Desert Ni\u00f1os",
-          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
-        },
-        {
-          "name": "Slim Ans",
-          "url": "https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO"
-        },
-        {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "Tus Ojos Me Hablaron",
-      "url": "https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ"
-    },
-    {
-      "added_at": "2024-03-29 06:00:00",
-      "album": {
         "name": "Caliope",
         "url": "https://open.spotify.com/album/5DVrsMjDWl9a7xUGjIpYJa"
       },
@@ -1839,18 +1839,18 @@
     {
       "added_at": "2024-03-29 06:00:00",
       "album": {
-        "name": "Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/2CkrTRjWLytC0Ihmm6GBQR"
+        "name": "LA B\u00daSQUEDA",
+        "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
       },
       "artists": [
         {
-          "name": "FERCHO",
-          "url": "https://open.spotify.com/artist/5MkJLgGk2KS4XihPHuEXOU"
+          "name": "WANDA ORIGINAL",
+          "url": "https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD"
         }
       ],
-      "duration_ms": 138485,
-      "name": "Al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/56q9dVA6Fo4s0BAhUJRip8"
+      "duration_ms": 93280,
+      "name": "Vamos Pal Espacio",
+      "url": "https://open.spotify.com/track/6VwH4mDDsCaiqVPPm9t0sy"
     }
   ],
   "unique_name": "R&B Latino",

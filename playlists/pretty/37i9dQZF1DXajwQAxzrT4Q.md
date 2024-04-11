@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,907 likes - 75 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,956 likes - 75 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 44 | [Break From Jersey](https://open.spotify.com/track/0tsB7vubfUAWCPUaqTHJmY) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Break From Jersey](https://open.spotify.com/album/42brLpOIaiGtSlsuheWivi) | 2:31 |
 | 45 | [Sticky](https://open.spotify.com/track/0C6ShwHWvn4JyvcJc1LjbS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 4:03 |
 | 46 | [Honesty \- Jersey Club Remix](https://open.spotify.com/track/1vBluRXN20JZBMA4G7oe7w) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [JIDDY](https://open.spotify.com/artist/2pVWwaFwgfOc1pwlDoj1uA) | [Honesty \(Jersey Club Remix\)](https://open.spotify.com/album/1sOF5dtyOTo9s6fx4AtmBe) | 2:10 |
-| 47 | [Freaky](https://open.spotify.com/track/0ny7hXvXLyabtm0lnG26tI) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Hood Mona Lisa](https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar) | 1:48 |
-| 48 | [TON1GHT \- Jersey Club](https://open.spotify.com/track/0b1JCsboe1MKYslFePSK7m) | [KilSoSouth](https://open.spotify.com/artist/7zjVVZjY5P6hvIg0gOYc8N) | [TON1GHT](https://open.spotify.com/album/0vqloyHJ1ivHTBCQu0B1Fo) | 1:34 |
+| 47 | [TON1GHT \- Jersey Club](https://open.spotify.com/track/0b1JCsboe1MKYslFePSK7m) | [KilSoSouth](https://open.spotify.com/artist/7zjVVZjY5P6hvIg0gOYc8N) | [TON1GHT](https://open.spotify.com/album/0vqloyHJ1ivHTBCQu0B1Fo) | 1:34 |
+| 48 | [Freaky](https://open.spotify.com/track/0ny7hXvXLyabtm0lnG26tI) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Hood Mona Lisa](https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar) | 1:48 |
 | 49 | [Back Stabbers Jersey Club Mix](https://open.spotify.com/track/2VWSMXsBe3gW6Ur4iNOpmp) | [Dj Darknite](https://open.spotify.com/artist/6gk5MJg8y3axh8TMBGm1tg), [Groove The Producer](https://open.spotify.com/artist/1pf3UIUqX0QObxx9sppHA1), [Mattknight](https://open.spotify.com/artist/5nUQlno9F83ipUQtkuZMjT) | [Sounds Of A Menace \(Jersey Club\)](https://open.spotify.com/album/1tKLBHhzAJRqC3sbkQWDXI) | 2:25 |
 | 50 | [\#miles \(OMG edit\)](https://open.spotify.com/track/66SrkasmQzDg9riaKqjm0h) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#miles \(OMG edit\)](https://open.spotify.com/album/506GTEBNlR7FVIncgRRV4V) | 2:17 |
 | 51 | [Jersey Anniversary](https://open.spotify.com/track/4dNU2ZPVNFv5kDGee25DSU) | [KiaBHN](https://open.spotify.com/artist/6qEQN3nqhzCkT8tFvlmPLk), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW), [DJ BigO](https://open.spotify.com/artist/2Cy1KpNWiTxaVCwDgz0jRD), [Vivid The Producer](https://open.spotify.com/artist/00NSEb3Siwey1RGnfGayah), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Gratitude](https://open.spotify.com/album/6YH27S9buQftksi0FRgh0f) | 3:12 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 65 | [WOAH](https://open.spotify.com/track/5tF9WEhxbT2hDzD1TN5yPo) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [WOAH](https://open.spotify.com/album/2KIwLYx6itepTddDMWhkoW) | 2:48 |
 | 66 | [Moana Lisa](https://open.spotify.com/track/1URzejrHReBIbIXX8BZr6Y) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN) | [Moana Lisa](https://open.spotify.com/album/61vtTrAMbyc7bSI1ObnmnT) | 3:04 |
 | 67 | [Hatin' Ass Bitches Anthem](https://open.spotify.com/track/31a8W1uih2MM9VDogfbbft) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [Flyy TheProducer](https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG), [Pyt Ny](https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy), [Dj Blizz](https://open.spotify.com/artist/2zYaRrKIuHRb2zeseymcUu) | [Hatin' Ass Bitches Anthem](https://open.spotify.com/album/75l0Wfo3Y4SCb7jkk8Rn10) | 1:56 |
-| 68 | [What Happened 2 Me?](https://open.spotify.com/track/5GSvt7mMyRlV4O9M8chg1T) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [What Happened 2 Me?](https://open.spotify.com/album/7yZKo3Y1n3RxQklCfzWx8x) | 1:39 |
-| 69 | [Leave](https://open.spotify.com/track/7jRVGR6xzoiBkY51gEla0L) | [The Szns](https://open.spotify.com/artist/1xtTjrNozye1Gnzq6KkuvU), [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [Leave](https://open.spotify.com/album/6AeZAE9S0GDtkKpxSxsHae) | 2:54 |
+| 68 | [Leave](https://open.spotify.com/track/7jRVGR6xzoiBkY51gEla0L) | [The Szns](https://open.spotify.com/artist/1xtTjrNozye1Gnzq6KkuvU), [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [Leave](https://open.spotify.com/album/6AeZAE9S0GDtkKpxSxsHae) | 2:54 |
+| 69 | [What Happened 2 Me?](https://open.spotify.com/track/5GSvt7mMyRlV4O9M8chg1T) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [What Happened 2 Me?](https://open.spotify.com/album/7yZKo3Y1n3RxQklCfzWx8x) | 1:39 |
 | 70 | [Chicago \(Jersey Club\)](https://open.spotify.com/track/7pVuGWgUcABk3ToWt2hGNU) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Chicago \(Jersey Club\)](https://open.spotify.com/album/7261mhJQq6ZRDZT8hW6VOX) | 1:58 |
 | 71 | [Price Going Up](https://open.spotify.com/track/2T3VMqOKUjnK31A3roI3oe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6) | [Price Going Up](https://open.spotify.com/album/0zgiDICJXDygNbxUAhn9mb) | 2:15 |
 | 72 | [HATE ME](https://open.spotify.com/track/0trJmHGtsrgcey9CQ3YxrJ) | [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [HATE ME](https://open.spotify.com/album/3iWKVzI8YtUmESnwlwAnV9) | 2:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 74 | [Suddenly](https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Suddenly](https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX) | 2:01 |
 | 75 | [Put Cha Back In It](https://open.spotify.com/track/5PYxnArK4wlkX5qYENV5Ac) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Vibrate EP](https://open.spotify.com/album/4Z7nLkNRHfL3RRAqECtTEe) | 2:08 |
 
-Snapshot ID: `MCxkYWFhOTJmZjZkZDQ5ZDIzNmJhZTYwNmYwYTliZTZjMmVlNzM1YTg1`
+Snapshot ID: `MCxjYjMwZGNhMTlhNDU0MzI1MWNkNzBlMGZkZDQxMDg3MTA2YTg1MjQx`

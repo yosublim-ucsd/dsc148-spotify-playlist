@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 
 > Celebrando el Festival de Avándaro, hito del rock mexicano\. ¡Paz y amor! Portada: Los Dug Dug's.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,494 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,500 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 | 28 | [Preludio de la Felicidad](https://open.spotify.com/track/5pPdMdO7P2V7fG2ELZbI8b) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [La Revolución de Emiliano Zapata 45 Aniversario](https://open.spotify.com/album/1cP1e2FsxvhrJkcMq8Ed2v) | 3:08 |
 | 29 | [Back](https://open.spotify.com/track/7eZGDGbEoyZJeBl4PGyFSF) | [The Spiders](https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL) | [Back](https://open.spotify.com/album/38o2ntxhlyxZlCM2WmfeDw) | 4:10 |
 | 30 | [Latin Feelin'](https://open.spotify.com/track/4bj6HSXySYNpMO2f38P8Kp) | [Peace and Love](https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z) | [Peace and Love](https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2) | 6:57 |
-| 31 | [Once Upon a Time There Was a World](https://open.spotify.com/track/6EQiAGhNZarnbYfP078nSw) | [Kaleidoscope](https://open.spotify.com/artist/14c0CEGVWU6eO48Su2PiMf), [Frank Tirado](https://open.spotify.com/artist/2kkBRGpjJ91l3G7RzUm4r6) | [Kaleidoscope](https://open.spotify.com/album/5rKS4yZgNS23kiB5ccZbNS) | 8:09 |
-| 32 | [Bajo el Sol y Frente a Dios](https://open.spotify.com/track/0l7HozUhjIfjzVhRcC1Say) | [EL RITUAL](https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT) | [El Ritual](https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo) | 4:24 |
+| 31 | [Bajo el Sol y Frente a Dios](https://open.spotify.com/track/0l7HozUhjIfjzVhRcC1Say) | [EL RITUAL](https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT) | [El Ritual](https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo) | 4:24 |
+| 32 | [Once Upon a Time There Was a World](https://open.spotify.com/track/6EQiAGhNZarnbYfP078nSw) | [Kaleidoscope](https://open.spotify.com/artist/14c0CEGVWU6eO48Su2PiMf), [Frank Tirado](https://open.spotify.com/artist/2kkBRGpjJ91l3G7RzUm4r6) | [Kaleidoscope](https://open.spotify.com/album/5rKS4yZgNS23kiB5ccZbNS) | 8:09 |
 | 33 | [Under The Sing Of Aquarius \- \(Bajo El Signo De Acuario\)](https://open.spotify.com/track/5gTcAR7egTQSG3vRY70iFE) | [Enigma!](https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H) | [Rock Sound](https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq) | 3:43 |
 | 34 | [Felicidad](https://open.spotify.com/track/69zNya4MS99hNuwBXZ46MT) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [Cambia, Cambia](https://open.spotify.com/album/77KHWR4kgEFYveU3I3e4j3) | 4:18 |
 | 35 | [Peace and Love](https://open.spotify.com/track/4Ngt4pSPtlMWOpuNkdRotF) | [Peace and Love](https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z) | [Peace and Love](https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2) | 2:19 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 | 40 | [Satanás](https://open.spotify.com/track/6hG2T8xkFaCTscKbAIPYYm) | [EL RITUAL](https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT) | [Colección Avandaro](https://open.spotify.com/album/52secMI8PGxRR44sNXPkcP) | 8:02 |
 | 41 | [Romeo Y Julieta](https://open.spotify.com/track/6PL6G4mUcZpIMKbKjIy4yc) | [Rabbits And Carrots](https://open.spotify.com/artist/5FjZWiU4wLCmX0QBaMKhwQ) | [Soul Latino](https://open.spotify.com/album/53nfvyyeuDSxk7PZjptrFE) | 4:12 |
 | 42 | [Tiempo Perdido](https://open.spotify.com/track/1PBS2zYINZFFs3Vt8AFfPL) | [Nahuatl](https://open.spotify.com/artist/0gLvrQ3TEUm3DDyud9Qa7K) | [Volumen I](https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk) | 4:41 |
-| 43 | [Buscando Alrededor](https://open.spotify.com/track/2DCkcms3GQKZLrefroSjWR) | [Free Minds](https://open.spotify.com/artist/0kGveKppn8AMtl7Jmt5scY) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:29 |
+| 43 | [The Call of the Woman \(El Llamado de la Hembra\)](https://open.spotify.com/track/5xDzHDSJy8kyVrr1WASR0N) | [Enigma!](https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H) | [Rock Sound](https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq) | 3:48 |
 | 44 | [Fuego](https://open.spotify.com/track/3AYFCwZNWpArhFGHJnJhjw) | [La Máquina Del Sonido](https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg) | [Fuego](https://open.spotify.com/album/5XtOkFfnOOIvhK1skQsKdN) | 2:53 |
-| 45 | [The Call of the Woman \(El Llamado de la Hembra\)](https://open.spotify.com/track/5xDzHDSJy8kyVrr1WASR0N) | [Enigma!](https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H) | [Rock Sound](https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq) | 3:48 |
+| 45 | [Buscando Alrededor](https://open.spotify.com/track/2DCkcms3GQKZLrefroSjWR) | [Free Minds](https://open.spotify.com/artist/0kGveKppn8AMtl7Jmt5scY) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:29 |
 | 46 | [Cambia, Cambia](https://open.spotify.com/track/5naHaIvjo1Cw1O4ASdktgG) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [15 Éxitos de los Dug Dug's Rock and Roll](https://open.spotify.com/album/5CtcJWRwRPZF0WkJ92ZspC) | 3:18 |
 | 47 | [Pobre Nina](https://open.spotify.com/track/7B9yavzlfIDl1rxyiicNQY) | [Los Monjes](https://open.spotify.com/artist/6PjH1bMbi3GPcgur2egQMO) | [Los Nuggetz \- 60's Punk, Pop and Psychedelic From Latin America](https://open.spotify.com/album/3Wmj1OJev6LrgjS9SIPBk7) | 1:53 |
 | 48 | [Acapulco Dorado](https://open.spotify.com/track/5ytsmoEtQMsPYfFfxgZCd2) | [Grupo Ciruela](https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S) | [Regreso al Origen](https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn) | 3:00 |
-| 49 | [Roaming](https://open.spotify.com/track/7qbSUZaGP6FyvadcKT59WF) | [La Fachada De Piedra](https://open.spotify.com/artist/4alM2y1QDZQ9NkVgdmO0f9) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:07 |
-| 50 | [Tal Vez](https://open.spotify.com/track/5DYUNEs6WLl5PRdTzZX0GC) | [The Love Army](https://open.spotify.com/artist/3exRYG9uxjbexEWepSOt1S) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:49 |
+| 49 | [Tal Vez](https://open.spotify.com/track/5DYUNEs6WLl5PRdTzZX0GC) | [The Love Army](https://open.spotify.com/artist/3exRYG9uxjbexEWepSOt1S) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:49 |
+| 50 | [Roaming](https://open.spotify.com/track/7qbSUZaGP6FyvadcKT59WF) | [La Fachada De Piedra](https://open.spotify.com/artist/4alM2y1QDZQ9NkVgdmO0f9) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:07 |
 
-Snapshot ID: `MCw5YjhiZWJkYTM1NmMyOTU5NjA3NjA2ZWM0ZDdkYTU1MGNhZjg0MTNl`
+Snapshot ID: `MCxmMDJkYmVhZmI4NDZiODllOGYwM2E1NWI0NDdlZDJjY2RlOWMxZTRk`

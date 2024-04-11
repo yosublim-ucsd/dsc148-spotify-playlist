@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Ariane Roy",
-  "num_followers": 40294,
+  "num_followers": 40297,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWQxMzg1ZTY4ZGNjMWU0MDc1YTllNTkxZmIxZDU3ZmIyMTQxOGJh",
+  "snapshot_id": "MCwwNjkxNTlkMTBlM2QzMTUxNzhlMTFlODFmMDdjODAyYWNmNjkzZTcz",
   "tracks": [
     {
       "added_at": "2024-04-05 04:01:00",
@@ -339,18 +339,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "CORLEONE II",
-        "url": "https://open.spotify.com/album/6q4w9kOGplHm5hBCbHaa02"
+        "name": "SAUDADE",
+        "url": "https://open.spotify.com/album/5ORwfRIZBQiJ1dQ2cQDIFO"
       },
       "artists": [
         {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+          "name": "Green Montana",
+          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
-      "duration_ms": 138015,
-      "name": "CORLEONE II",
-      "url": "https://open.spotify.com/track/5srZMgun04qJ5nAi6pP8uL"
+      "duration_ms": 172280,
+      "name": "barcelona92",
+      "url": "https://open.spotify.com/track/0ex0EZnrO2mMPIkYp3ewZX"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -391,6 +395,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "CORLEONE II",
+        "url": "https://open.spotify.com/album/6q4w9kOGplHm5hBCbHaa02"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "duration_ms": 138015,
+      "name": "CORLEONE II",
+      "url": "https://open.spotify.com/track/5srZMgun04qJ5nAi6pP8uL"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Rome",
         "url": "https://open.spotify.com/album/6tsIKPtNFPVwUztMLk8nST"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 161213,
       "name": "Rome",
       "url": "https://open.spotify.com/track/2lfVOXTYg0AQ30BOmvTDXX"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "SAUDADE",
-        "url": "https://open.spotify.com/album/5ORwfRIZBQiJ1dQ2cQDIFO"
-      },
-      "artists": [
-        {
-          "name": "Green Montana",
-          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 172280,
-      "name": "barcelona92",
-      "url": "https://open.spotify.com/track/0ex0EZnrO2mMPIkYp3ewZX"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Faut que tu m'aimes",
+        "url": "https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7"
+      },
+      "artists": [
+        {
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
+        }
+      ],
+      "duration_ms": 192998,
+      "name": "Faut que tu m'aimes",
+      "url": "https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "GO GO GO (Feat. Josman)",
         "url": "https://open.spotify.com/album/4ZYdJg7f8B6aHFvQbu1Cwe"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 148877,
       "name": "GO GO GO (Feat. Josman)",
       "url": "https://open.spotify.com/track/1SXkflyNJkKKNHzkWuFIix"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Faut que tu m'aimes",
-        "url": "https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7"
-      },
-      "artists": [
-        {
-          "name": "Styleto",
-          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
-        }
-      ],
-      "duration_ms": 192998,
-      "name": "Faut que tu m'aimes",
-      "url": "https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -535,26 +535,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "SOLSAD",
-        "url": "https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn"
-      },
-      "artists": [
-        {
-          "name": "Zamdane",
-          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 203720,
-      "name": "Loin d'ici",
-      "url": "https://open.spotify.com/track/0yvtWcKzMjrMfwBwQYXAi1"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Matata",
         "url": "https://open.spotify.com/album/6loazP7tFix6vicTNHi2Qs"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 206950,
       "name": "Matata",
       "url": "https://open.spotify.com/track/2r8eknpCO79WImm5i9Aaiz"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "SOLSAD",
+        "url": "https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn"
+      },
+      "artists": [
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 203720,
+      "name": "Loin d'ici",
+      "url": "https://open.spotify.com/track/0yvtWcKzMjrMfwBwQYXAi1"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -715,6 +715,26 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
+        "url": "https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Fabiana Martone",
+          "url": "https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1"
+        }
+      ],
+      "duration_ms": 244075,
+      "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
+      "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Dis-toi que c'est la vie",
         "url": "https://open.spotify.com/album/01Lw2cjSOrE7omo5ttneqJ"
       },
@@ -727,22 +747,6 @@
       "duration_ms": 147405,
       "name": "Dis-toi que c'est la vie",
       "url": "https://open.spotify.com/track/0qbNi3Dw48Y1lazonm0WEL"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "ADN",
-        "url": "https://open.spotify.com/album/688EeoY7hIVLEHM86OaMXl"
-      },
-      "artists": [
-        {
-          "name": "Fresh La Douille",
-          "url": "https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL"
-        }
-      ],
-      "duration_ms": 186883,
-      "name": "ADN",
-      "url": "https://open.spotify.com/track/2yXslghJqUpeozgmWG2xrH"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -767,6 +771,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "ADN",
+        "url": "https://open.spotify.com/album/688EeoY7hIVLEHM86OaMXl"
+      },
+      "artists": [
+        {
+          "name": "Fresh La Douille",
+          "url": "https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL"
+        }
+      ],
+      "duration_ms": 186883,
+      "name": "ADN",
+      "url": "https://open.spotify.com/track/2yXslghJqUpeozgmWG2xrH"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "P.M.R.",
         "url": "https://open.spotify.com/album/7lRwTBtOa4iiN9jOXfwKxR"
       },
@@ -787,22 +807,18 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
-        "url": "https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf"
+        "name": "Sans toi",
+        "url": "https://open.spotify.com/album/7kesRjVwWHo3ih2CkqT9Kf"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        },
-        {
-          "name": "Fabiana Martone",
-          "url": "https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1"
+          "name": "Jeck",
+          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
         }
       ],
-      "duration_ms": 244075,
-      "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
-      "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
+      "duration_ms": 181580,
+      "name": "Sans toi",
+      "url": "https://open.spotify.com/track/1mk9y8glt1zXx5qoHzxYvx"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -823,22 +839,6 @@
       "duration_ms": 171000,
       "name": "LE FOND (feat. Zokush)",
       "url": "https://open.spotify.com/track/3gktsOcb7tDf4th88k8kZd"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Sans toi",
-        "url": "https://open.spotify.com/album/7kesRjVwWHo3ih2CkqT9Kf"
-      },
-      "artists": [
-        {
-          "name": "Jeck",
-          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
-        }
-      ],
-      "duration_ms": 181580,
-      "name": "Sans toi",
-      "url": "https://open.spotify.com/track/1mk9y8glt1zXx5qoHzxYvx"
     },
     {
       "added_at": "2024-04-05 04:01:00",

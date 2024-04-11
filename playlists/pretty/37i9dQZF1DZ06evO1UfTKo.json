@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 694896,
+  "num_followers": 695006,
   "original_name": "This Is Los Tigres Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzRkOTMyNWQxNjk4MmNhZjk4MjI0MjQ4OWFlOTEwYjI0NjlmYjhj",
+  "snapshot_id": "MCw3M2UwNDIwNDQ3ODJhZGU0MjQ0NjU3Y2Q4MzliMjhhMzE4M2VhMjc0",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Prohibidos",
-        "url": "https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 195613,
-      "name": "La Camioneta Gris",
-      "url": "https://open.spotify.com/track/7e9vWIQWNE6r74PBC7ixdS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contrabando Y Traicion",
         "url": "https://open.spotify.com/album/380Fi3mpLOmJAQYiZx22Y3"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 206293,
       "name": "Contrabando Y Traici\u00f3n",
       "url": "https://open.spotify.com/track/4gRi0itWso2UodoRMP5asJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Prohibidos",
+        "url": "https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 195613,
+      "name": "La Camioneta Gris",
+      "url": "https://open.spotify.com/track/7e9vWIQWNE6r74PBC7ixdS"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Herencia Musical 20 Corridos Inolvidables",
-        "url": "https://open.spotify.com/album/5HHesQPquZcoecO60eTNBT"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "Jefe De Jefes",
-      "url": "https://open.spotify.com/track/3TxGNwiGxgE42MqqWAdmDg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Ultimo Adi\u00f3s",
         "url": "https://open.spotify.com/album/1Tz1WfJZkvWPhyFHWAzZLo"
       },
@@ -535,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Idolos Del Pueblo",
-        "url": "https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG"
+        "name": "Herencia Musical 20 Corridos Inolvidables",
+        "url": "https://open.spotify.com/album/5HHesQPquZcoecO60eTNBT"
       },
       "artists": [
         {
@@ -544,9 +528,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 183280,
-      "name": "El Ni\u00f1o Y La Boda",
-      "url": "https://open.spotify.com/track/6n4urlKnhlJ9kD3NaagMAx"
+      "duration_ms": 213093,
+      "name": "Jefe De Jefes",
+      "url": "https://open.spotify.com/track/3TxGNwiGxgE42MqqWAdmDg"
     },
     {
       "added_at": null,
@@ -563,6 +547,22 @@
       "duration_ms": 229133,
       "name": "En Qu\u00e9 Fall\u00e9",
       "url": "https://open.spotify.com/track/6WNbVxTXPzhitXRUlu3Xqn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Idolos Del Pueblo",
+        "url": "https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 183280,
+      "name": "El Ni\u00f1o Y La Boda",
+      "url": "https://open.spotify.com/track/6n4urlKnhlJ9kD3NaagMAx"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Idolos Del Pueblo",
-        "url": "https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 171920,
-      "name": "Tres Veces Mojado",
-      "url": "https://open.spotify.com/track/7pVP11CCxAvSEWf9fLueWr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Dos Plebes",
         "url": "https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 210853,
       "name": "Los Dos Plebes",
       "url": "https://open.spotify.com/track/0ul12ulRfLyO5fgVvaq2Ex"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Idolos Del Pueblo",
+        "url": "https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 171920,
+      "name": "Tres Veces Mojado",
+      "url": "https://open.spotify.com/track/7pVP11CCxAvSEWf9fLueWr"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ejemplo",
-        "url": "https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 207866,
-      "name": "Como Aceite Y Como El Agua",
-      "url": "https://open.spotify.com/track/13WH6BpofgaFuK0dpuJQcI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Herencia Musical 20 Corridos Inolvidables",
         "url": "https://open.spotify.com/album/5HHesQPquZcoecO60eTNBT"
       },
@@ -827,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Buena Suerte",
-        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
+        "name": "El Ejemplo",
+        "url": "https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB"
       },
       "artists": [
         {
@@ -836,9 +820,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 163680,
-      "name": "Apenas Te Fuistes Ayer",
-      "url": "https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV"
+      "duration_ms": 207866,
+      "name": "Como Aceite Y Como El Agua",
+      "url": "https://open.spotify.com/track/13WH6BpofgaFuK0dpuJQcI"
     },
     {
       "added_at": null,
@@ -859,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tahur",
-        "url": "https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo"
+        "name": "Mi Buena Suerte",
+        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
       },
       "artists": [
         {
@@ -868,9 +852,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 216373,
-      "name": "El Tahur",
-      "url": "https://open.spotify.com/track/3u3SygqvXONhWDnajeI2kH"
+      "duration_ms": 163680,
+      "name": "Apenas Te Fuistes Ayer",
+      "url": "https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV"
     },
     {
       "added_at": null,
@@ -903,6 +887,22 @@
       "duration_ms": 197133,
       "name": "La Bala",
       "url": "https://open.spotify.com/track/50H4ZUUhL8MLHCw1eREp07"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tahur",
+        "url": "https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "El Tahur",
+      "url": "https://open.spotify.com/track/3u3SygqvXONhWDnajeI2kH"
     },
     {
       "added_at": null,

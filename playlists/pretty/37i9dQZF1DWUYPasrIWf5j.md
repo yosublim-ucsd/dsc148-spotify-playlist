@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 
 > Instrumental covers of favourites played on ukulele.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,057 likes - 89 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,141 likes - 89 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 | 88 | [La Vie En Rose](https://open.spotify.com/track/6aSdUhdyZuLqwjYnwu0hdo) | [Julia Sweet](https://open.spotify.com/artist/19wgTuefDnrHoMXlHPXHl3) | [Hallelujah](https://open.spotify.com/album/7q8hxe9dE4uMpOf7NYK78x) | 3:12 |
 | 89 | [Adore You \- Ukulele Version](https://open.spotify.com/track/2zO27QsWDlFWJuquK2I7T5) | [Acoustic Guitar Revival](https://open.spotify.com/artist/2UFdlp1s0QLPsmCIipe2jV) | [Ukulele 2020 Hits! \(Ukulele Version\)](https://open.spotify.com/album/5SO7tllIFBT4ZqFbRgdEkk) | 3:18 |
 
-Snapshot ID: `MCxjODI3OTc1ZmVmZjQ3ZjRkZTRkNGY3YzY5Y2FiNzJiN2MxMmMyYTJk`
+Snapshot ID: `MCw0YzNhY2U2MDEyNDc5NzUzOGIyMDQwNzA2M2NiYjg3ZjYxZGI5Y2I0`

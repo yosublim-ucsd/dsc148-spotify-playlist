@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Vale Lambo e Geolier in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,469 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,575 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 49 | [MILLION DOLLAR](https://open.spotify.com/track/4wptW4RfQ1Mtjig4wgcsU0) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt), [Paulbeatzz](https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5), [Moli](https://open.spotify.com/artist/43ri3Sg88Uk5PcjmHelD8S) | [MILLION DOLLAR](https://open.spotify.com/album/1t2Gs8S15a0gRh5OqWT0zq) | 2:21 |
 | 50 | [FCCV](https://open.spotify.com/track/2r1JS0QY40kol76Ne7xsNA) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [VANITAS](https://open.spotify.com/album/3cDE2dajma7EPMu5j9QKCT) | 2:37 |
 
-Snapshot ID: `MCxlM2E1NzFkMTI2NzhmNzBhYTAyYWMyNmFmODUxZjVkMzMzYjA0ZGVi`
+Snapshot ID: `MCxmODQyMTMwNmQ1MzAzZmUyYmYwODJkZjY3OGYzYTk0ZjRlYjc0Njg5`

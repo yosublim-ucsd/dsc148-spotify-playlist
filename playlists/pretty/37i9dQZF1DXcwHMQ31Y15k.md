@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Happy Asmara
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,703 likes - 105 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,800 likes - 105 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 104 | [Kartonyono Medot Janji](https://open.spotify.com/track/6bnCgtR9tDcADREMONA91t) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Kartonyono Medot Janji](https://open.spotify.com/album/0WlqBbLuZrAOgh6asdiign) | 4:30 |
 | 105 | [Mendung Tanpo Udan](https://open.spotify.com/track/0Z54rUZ81Vn0qphFR3jXUb) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Mendung Tanpo Udan](https://open.spotify.com/album/71G3sO1tdp632dquXZFMNE) | 5:05 |
 
-Snapshot ID: `MCw3ZTdlMjUyZmYwMWQ2ZGVkYjRiZWU3ZTdkOTY4MmZmNDBiYWFmM2Yy`
+Snapshot ID: `MCwxODk0MmYyNzM4ODI3ZjJhMzYyNmYyOTU4OWU3NmIxODc3NjRiNWI1`

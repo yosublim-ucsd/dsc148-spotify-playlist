@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 
 > Soothing classical music to help you relax while you read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,896 likes - 68 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,969 likes - 68 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 | 38 | [Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav\. Al tempo di Giga](https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Bach: Goldberg Variations \(Extended Edt.\)](https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95) | 2:20 |
 | 39 | [Suite Mosaique, Op\. 35: IV\. Veslemøys sang](https://open.spotify.com/track/69KS1hdIUrss7KPnaK5ulg) | [Johan Halvorsen](https://open.spotify.com/artist/5BGmPOD1iAQ3YCivnaoXhs), [Eldbjørg Hemsing](https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F), [Håvard Gimse](https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I) | [Halvorsen: Suite Mosaique, Op\. 35, IV\. Veslemøys sang](https://open.spotify.com/album/6EhppIO7BP8RGmWotIHn1D) | 1:48 |
 | 40 | [Delius: 2 Pieces for Small Orchestra: No\. 1, On Hearing the First Cuckoo in Spring](https://open.spotify.com/track/2dEbRirkEtImY7HdYxrgRS) | [Frederick Delius](https://open.spotify.com/artist/65YhYi4Fz5Ibgq7ueev2Rm), [Vernon Handley](https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [The Lark Ascending collection](https://open.spotify.com/album/5kTtD1xA5yYPrwjEYWk5uy) | 5:49 |
-| 41 | [Lacrimosa \(Arr\. Piano\)](https://open.spotify.com/track/3PSmDsIOywcxHpJTcXqSfm) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Lacrimosa \(Arr\. Piano\)](https://open.spotify.com/album/5pXRAGlv6hnd5vJvcQ8Z3A) | 3:53 |
+| 41 | [Lacrimosa \(Arr\. Piano\)](https://open.spotify.com/track/3PSmDsIOywcxHpJTcXqSfm) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp), [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) | [Lacrimosa \(Arr\. Piano\)](https://open.spotify.com/album/5pXRAGlv6hnd5vJvcQ8Z3A) | 3:53 |
 | 42 | [amour](https://open.spotify.com/track/47kA4ykK0Rlwjf8oV2HMo7) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [aubades](https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo) | 4:37 |
 | 43 | [Antiche danze ed arie per liuto, Suite No\. 3, P\. 172: I\. Italiana\. Andantino](https://open.spotify.com/track/3pQCRKRbApGrjEpj1r4BKA) | [Ottorino Respighi](https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L), [Filarmonica della Scala](https://open.spotify.com/artist/50M4HDvsvjxF5BYChgubmq), [Riccardo Chailly](https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy) | [Respighi: Antiche danze ed arie per liuto, Suite No\. 3, P\. 172: I\. Italiana\. Andantino](https://open.spotify.com/album/2nC71ZQwT1MZx3lNNy4UPq) | 3:14 |
 | 44 | [Serenade for Strings in E Major, Op\. 22, B\. 52: IV\. Larghetto](https://open.spotify.com/track/3o9br9LskOEbwc5irxfHqR) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Myung\-Whun Chung](https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby) | [Dvorák: Serenades for Strings and Winds](https://open.spotify.com/album/2kIYajHnGZfecURpw7QyAo) | 4:55 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 | 67 | [パッヘルベルのカノン \- beautiful sleep ver.](https://open.spotify.com/track/5LsS7gOqxIIdz4DVtpBi4A) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [眠るためのピアノアルバム～beautiful sleep～](https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ) | 3:21 |
 | 68 | [Nocturne No\. 1 In B Flat Minor, Op\. 9 No\. 1](https://open.spotify.com/track/2d6ml9Qkx8r4EjuUyrdpRV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Chopin: Nocturnes](https://open.spotify.com/album/2aoSpTAjFaMvaZeruqnCVv) | 4:46 |
 
-Snapshot ID: `MCxmNjY4MWMzMzIzYmE2YTEyOGRjYmQ3MDNkZDA3YWMyMTkyMTk5ODIz`
+Snapshot ID: `MCxmZjk3MjllY2NjMzllOGVkZDFhYjg1NDZiNjY2ZGJhYjM1NmYxMDgz`

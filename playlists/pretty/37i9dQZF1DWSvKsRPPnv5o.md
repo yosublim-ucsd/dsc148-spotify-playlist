@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Mozzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,606 likes - 80 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,692 likes - 80 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 79 | [Richtivities](https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Richtivities](https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB) | 2:56 |
 | 80 | [Wrist Cold](https://open.spotify.com/track/4y2LMDSuLaSpuyvNti2XtK) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Wrist Cold](https://open.spotify.com/album/4461MJpUXZJAxldXTcD5CY) | 2:38 |
 
-Snapshot ID: `MCw3ZmEyOWVkNmIzZTBmNDUxZGQ5YjAwNTkzMjU1NjBiNDU3NGZkMjNi`
+Snapshot ID: `MCw3NzUyYzFmZTZkYWVkODJkOTVhYzkyMjhiMDIwNjg0YTJiZGNmMjg3`

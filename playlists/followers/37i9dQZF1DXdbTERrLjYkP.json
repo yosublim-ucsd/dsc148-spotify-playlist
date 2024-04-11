@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 95127,
+  "2024-04-11": 95144,
   "date_first_scraped": "2022-02-06",
   "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Eva Snyder",
   "name": "Next Gen Singer-Songwriters",
@@ -6533,10 +6533,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 246000,
       "name": "Looking For",
       "url": "https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F"
+    },
+    {
+      "album": {
+        "name": "County Line",
+        "url": "https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Looking For",
+      "url": "https://open.spotify.com/track/2BFAQKgIqQSPNXuDw08C83"
     },
     {
       "album": {

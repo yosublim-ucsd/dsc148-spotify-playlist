@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm?si=vvqyQnbnQmWXYTyH7pBFHg">tg.blk</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,243 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,263 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 59 | [No Lymyt](https://open.spotify.com/track/6iyVmsDyy81510Hs9LP6b1) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [No Lymyt](https://open.spotify.com/album/0vXzKg4qs3SQ9fsHIyOIIH) | 4:06 |
 | 60 | [P \(x\) J](https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt) | [NALEDI](https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA) | [P \(x\) J](https://open.spotify.com/album/2K18OwXVm2OWnB6WPZs3qt) | 4:32 |
 
-Snapshot ID: `MCxmMjc4ZjE2MjZhZjhiYTNjY2Q1ZTY1YWE1OGRlMmNhZWVmNTU0N2Nm`
+Snapshot ID: `MCxhYWYyZWYzMGE1YmZlYjVhN2FlZTRiMjc5YmZkNDNiNjJmZmMzYjlk`

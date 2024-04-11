@@ -1,12 +1,12 @@
 {
   "description": "bgl \u00e9 seu estilo ser original voc\u00eas j\u00e1 sabem. Foto: Mc Luanna, Danzo",
-  "num_followers": 137172,
+  "num_followers": 137188,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTQwMDU2NDkyMzE5NTNhMzRhNmIyYTQzY2YzODFhYjg1MzM1NGE1",
+  "snapshot_id": "MCwxNDJmMWI4MWQ2N2M2ZmRjMDI4MTZhNzI3ZmI1MDUxOTQ0NjE0ZWU4",
   "tracks": [
     {
       "added_at": "2024-04-05 03:01:00",
@@ -923,6 +923,26 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
+        "name": "Ela Jura Que Sabe",
+        "url": "https://open.spotify.com/album/177SAUdkF3JOU5YKr7scKG"
+      },
+      "artists": [
+        {
+          "name": "The Boy",
+          "url": "https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC"
+        },
+        {
+          "name": "Rudies Flacko",
+          "url": "https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "Ela Jura Que Sabe",
+      "url": "https://open.spotify.com/track/50ofxPTUg6VlLtNjnsRAYH"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
         "name": "O Bagulho \u00c9 Trap II",
         "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 138305,
       "name": "Famigerado",
       "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "Ela Jura Que Sabe",
-        "url": "https://open.spotify.com/album/177SAUdkF3JOU5YKr7scKG"
-      },
-      "artists": [
-        {
-          "name": "The Boy",
-          "url": "https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC"
-        },
-        {
-          "name": "Rudies Flacko",
-          "url": "https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o"
-        }
-      ],
-      "duration_ms": 145920,
-      "name": "Ela Jura Que Sabe",
-      "url": "https://open.spotify.com/track/50ofxPTUg6VlLtNjnsRAYH"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1039,54 +1039,6 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "O Bagulho \u00c9 Trap II",
-        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9",
-          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
-        },
-        {
-          "name": "TrapHits",
-          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
-        },
-        {
-          "name": "Rare Kidd",
-          "url": "https://open.spotify.com/artist/3JXoHpIoacDkGxh8rlMlBd"
-        }
-      ],
-      "duration_ms": 178728,
-      "name": "Camuflado De BAPE - Feat. Rare Kidd",
-      "url": "https://open.spotify.com/track/6ZZUdr6fEEyWKqTxXIPaek"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "Doce Amargo",
-        "url": "https://open.spotify.com/album/2B3DGafThiTbaRa1S9FXqG"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        }
-      ],
-      "duration_ms": 137739,
-      "name": "Doce Amargo",
-      "url": "https://open.spotify.com/track/3PYfYGJdwe38j4DGAbFoxM"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
         "name": "N\u00e3o Tenho Tempo",
         "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
       },
@@ -1111,6 +1063,30 @@
       "duration_ms": 125624,
       "name": "N\u00e3o Tenho Tempo",
       "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "O Bagulho \u00c9 Trap II",
+        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+        },
+        {
+          "name": "TrapHits",
+          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
+        },
+        {
+          "name": "Rare Kidd",
+          "url": "https://open.spotify.com/artist/3JXoHpIoacDkGxh8rlMlBd"
+        }
+      ],
+      "duration_ms": 178728,
+      "name": "Camuflado De BAPE - Feat. Rare Kidd",
+      "url": "https://open.spotify.com/track/6ZZUdr6fEEyWKqTxXIPaek"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1235,6 +1211,30 @@
       "duration_ms": 210048,
       "name": "Poder Aquisitivo",
       "url": "https://open.spotify.com/track/3HQO3UMEUBCFquwkkfW2FB"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "Doce Amargo",
+        "url": "https://open.spotify.com/album/2B3DGafThiTbaRa1S9FXqG"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        }
+      ],
+      "duration_ms": 137739,
+      "name": "Doce Amargo",
+      "url": "https://open.spotify.com/track/3PYfYGJdwe38j4DGAbFoxM"
     },
     {
       "added_at": "2024-04-05 03:01:00",

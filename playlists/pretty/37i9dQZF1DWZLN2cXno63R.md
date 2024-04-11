@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLN2cXno63R.md) - [plain]
 
 > Take yourself to Havana with some Cuban Salsa and Café favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,500 likes - 62 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,613 likes - 62 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLN2cXno63R.md) - [plain]
 | 61 | [Habanera](https://open.spotify.com/track/5fJ59hC02dd43Ej9I1Zyyp) | [Cuba Cafe Express](https://open.spotify.com/artist/5suSWbd4Oy5ZBnwvk2ruCt) | [What About Cuba](https://open.spotify.com/album/2PpQzhiPBQl6cbWvmgNhTn) | 3:42 |
 | 62 | [El Guayo de Catilina](https://open.spotify.com/track/0YMHpQZ6FYqS4V6J6xOVqL) | [Havana Club](https://open.spotify.com/artist/3OVEfqUmt746LvlpP2rKK2) | [Cafè de Cuba \(Latin Music, Cuba\)](https://open.spotify.com/album/1hPlkjUn6C9cRVVN3VEfhu) | 3:17 |
 
-Snapshot ID: `MCw2YjM2MTcxMmVhMDU0MDQ1YzE0Mjg3NWJhYTQ4ZWU5ODUwNjVjYjJj`
+Snapshot ID: `MCxiYTNkYzRhZjNjMzEwMjA2YzIzM2ZkNzU1YTcwOGRmYjQwZjBhNTU0`

@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 819764,
+  "num_followers": 819773,
   "original_name": "chill latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzBlZTUzYzMzNDkzMmYzMjk0YmViNWRmNjg3YmFhZTQyM2EzMGFk",
+  "snapshot_id": "MCw1Y2NkMjNmZWNkZWRiNWJiZTc5YjcxMWNiOGI5NDMyZTY5MjcxODNl",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -443,6 +443,38 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "El D\u00eda Que Me Odies",
+        "url": "https://open.spotify.com/album/1M9FZmp3CMlmR1MGjvZ6cE"
+      },
+      "artists": [
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "El D\u00eda Que Me Odies",
+      "url": "https://open.spotify.com/track/1IHNLb1RVACKjuYMXUtMo8"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Un D\u00eda A La Vez",
+        "url": "https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        }
+      ],
+      "duration_ms": 160106,
+      "name": "Eucalipto",
+      "url": "https://open.spotify.com/track/4JFZ0ilVg7CenXhnDcJb4u"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "pa' que sue\u00f1es",
         "url": "https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq"
       },
@@ -467,38 +499,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Un D\u00eda A La Vez",
-        "url": "https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ"
-      },
-      "artists": [
-        {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
-        }
-      ],
-      "duration_ms": 160106,
-      "name": "Eucalipto",
-      "url": "https://open.spotify.com/track/4JFZ0ilVg7CenXhnDcJb4u"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "El D\u00eda Que Me Odies",
-        "url": "https://open.spotify.com/album/1M9FZmp3CMlmR1MGjvZ6cE"
-      },
-      "artists": [
-        {
-          "name": "Noreh",
-          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "El D\u00eda Que Me Odies",
-      "url": "https://open.spotify.com/track/1IHNLb1RVACKjuYMXUtMo8"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Fogata",
         "url": "https://open.spotify.com/album/0BEdljhMIuLrTrulOoT0ry"
       },
@@ -515,26 +515,6 @@
       "duration_ms": 173200,
       "name": "Fogata",
       "url": "https://open.spotify.com/track/0jniFtpAyWN1hCtQdTllSg"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/1Bjt5bUlj6nPzsHulKTWpL"
-      },
-      "artists": [
-        {
-          "name": "Xadi",
-          "url": "https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO"
-        },
-        {
-          "name": "Nina Cobham",
-          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
-        }
-      ],
-      "duration_ms": 172108,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/6Rzk7iqpQRMZALiC9yr9Zr"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -563,6 +543,26 @@
       "duration_ms": 166036,
       "name": "Marea (feat. legallyrxx)",
       "url": "https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/1Bjt5bUlj6nPzsHulKTWpL"
+      },
+      "artists": [
+        {
+          "name": "Xadi",
+          "url": "https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO"
+        },
+        {
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        }
+      ],
+      "duration_ms": 172108,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/6Rzk7iqpQRMZALiC9yr9Zr"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "ESQUEMAS",
-        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 199280,
-      "name": "DOLORES",
-      "url": "https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Una Noche (Unplugged)",
         "url": "https://open.spotify.com/album/4mXPyq4Rgu2gTv2oIsliLu"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 238654,
       "name": "Una Noche - Unplugged",
       "url": "https://open.spotify.com/track/5PzwXQyY8B64TH5G71da4R"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "ESQUEMAS",
+        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 199280,
+      "name": "DOLORES",
+      "url": "https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "el jardinero",
-        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "el jardinero",
-      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "OCIO",
         "url": "https://open.spotify.com/album/3v5Dgv8zeXXIX5fRUnC7qV"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 205773,
       "name": "MENTE TREN",
       "url": "https://open.spotify.com/track/6KvP0vPANDvKf9ukERgJI0"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "el jardinero",
+        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "el jardinero",
+      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Delorean",
-        "url": "https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t"
-      },
-      "artists": [
-        {
-          "name": "Mi$HNRZ",
-          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Delorean",
-      "url": "https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Canciones Que Hice en Mi Habitaci\u00f3n",
         "url": "https://open.spotify.com/album/0RszZKHUVrUvtiaJZIVLcn"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 183000,
       "name": "Solo Me Quieres Cuando Est\u00e1s Triste",
       "url": "https://open.spotify.com/track/3g8vUQKuz1k5FIxxASjyS1"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Delorean",
+        "url": "https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t"
+      },
+      "artists": [
+        {
+          "name": "Mi$HNRZ",
+          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Delorean",
+      "url": "https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1107,22 +1107,46 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Astra",
-        "url": "https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx"
+        "name": "Comida para Llevar (2\u00aa Season)",
+        "url": "https://open.spotify.com/album/0lqmZ6ftPXsDJKw1xVEXw7"
       },
       "artists": [
         {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+          "name": "Comida Para Llevar",
+          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
         },
         {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+          "name": "Veztalone",
+          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
+        },
+        {
+          "name": "Tayko",
+          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
+        },
+        {
+          "name": "Horus",
+          "url": "https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf"
+        },
+        {
+          "name": "Los Hermanos Qu\u00edmica",
+          "url": "https://open.spotify.com/artist/1X33bufSxrzgJhGjrv9jSt"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        },
+        {
+          "name": "Vera Delacruz",
+          "url": "https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         }
       ],
-      "duration_ms": 313198,
-      "name": "Sin Freno",
-      "url": "https://open.spotify.com/track/24drvQN3WTdQE2wzR37GAb"
+      "duration_ms": 473379,
+      "name": "CAMINAAANDO / Warapita",
+      "url": "https://open.spotify.com/track/7Mfjmm7CMYQmmmjqlSYCDc"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1139,6 +1163,26 @@
       "duration_ms": 190120,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/1xDq5VlR1LDjNAgZBwFLc7"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Astra",
+        "url": "https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        },
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 313198,
+      "name": "Sin Freno",
+      "url": "https://open.spotify.com/track/24drvQN3WTdQE2wzR37GAb"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1575,50 +1619,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Comida para Llevar (2\u00aa Season)",
-        "url": "https://open.spotify.com/album/0lqmZ6ftPXsDJKw1xVEXw7"
-      },
-      "artists": [
-        {
-          "name": "Comida Para Llevar",
-          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
-        },
-        {
-          "name": "Veztalone",
-          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
-        },
-        {
-          "name": "Tayko",
-          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
-        },
-        {
-          "name": "Horus",
-          "url": "https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf"
-        },
-        {
-          "name": "Los Hermanos Qu\u00edmica",
-          "url": "https://open.spotify.com/artist/1X33bufSxrzgJhGjrv9jSt"
-        },
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        },
-        {
-          "name": "Vera Delacruz",
-          "url": "https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt"
-        },
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 473379,
-      "name": "CAMINAAANDO / Warapita",
-      "url": "https://open.spotify.com/track/7Mfjmm7CMYQmmmjqlSYCDc"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Sola (Remix)",
         "url": "https://open.spotify.com/album/5oA98aDLteUiejvagOwTrB"
       },
@@ -1635,38 +1635,6 @@
       "duration_ms": 223847,
       "name": "Sola - Remix",
       "url": "https://open.spotify.com/track/5Yv2eICTZqWEK1iooM9Ycu"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Conf\u00eden En M\u00ed",
-        "url": "https://open.spotify.com/album/3Zh7CHXu7JfbaRThiXjfDy"
-      },
-      "artists": [
-        {
-          "name": "Andry Kiddos",
-          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
-        }
-      ],
-      "duration_ms": 108586,
-      "name": "No Eres T\u00fa, Soy Yo",
-      "url": "https://open.spotify.com/track/0yyXYlCgvoiKjm9T7k23q1"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "malapami",
-        "url": "https://open.spotify.com/album/7z2LQKDsR3ZSyIVrvEf9Y2"
-      },
-      "artists": [
-        {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
-        }
-      ],
-      "duration_ms": 178673,
-      "name": "malapami",
-      "url": "https://open.spotify.com/track/3R5rnDwx3JYk2xRp7cAMnO"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1707,6 +1675,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Conf\u00eden En M\u00ed",
+        "url": "https://open.spotify.com/album/3Zh7CHXu7JfbaRThiXjfDy"
+      },
+      "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        }
+      ],
+      "duration_ms": 108586,
+      "name": "No Eres T\u00fa, Soy Yo",
+      "url": "https://open.spotify.com/track/0yyXYlCgvoiKjm9T7k23q1"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "7 de febrero",
         "url": "https://open.spotify.com/album/3drXdjre1aVmmXy43XDvbs"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 181443,
       "name": "Promesa",
       "url": "https://open.spotify.com/track/7xEN9p3spnvGC891587UOO"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "malapami",
+        "url": "https://open.spotify.com/album/7z2LQKDsR3ZSyIVrvEf9Y2"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "duration_ms": 178673,
+      "name": "malapami",
+      "url": "https://open.spotify.com/track/3R5rnDwx3JYk2xRp7cAMnO"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1795,18 +1795,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "The Process 2",
-        "url": "https://open.spotify.com/album/7eWz5te5PJL41BdYN4CehQ"
+        "name": "Guitarra",
+        "url": "https://open.spotify.com/album/4jwMD9PMiLkb0tkDnv1cZn"
       },
       "artists": [
         {
-          "name": "Fer",
-          "url": "https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J"
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
         }
       ],
-      "duration_ms": 170666,
-      "name": "The Process 2",
-      "url": "https://open.spotify.com/track/5qR47w2aiijdN7EUCnqCeM"
+      "duration_ms": 174000,
+      "name": "Guitarra",
+      "url": "https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL"
     }
   ],
   "unique_name": "chill latino",

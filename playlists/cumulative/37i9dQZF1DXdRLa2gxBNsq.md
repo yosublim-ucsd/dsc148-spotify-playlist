@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Lendakaris Muertos.
 
-106 songs - 5 hr 35 min
+107 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Cenizas del Capitalismo](https://open.spotify.com/track/1d6OkDRgwp0dTrBUutv6kq) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Delicias de una Falsa Democracia](https://open.spotify.com/album/6gSsvTqcLIOJ1gx6cy8jRg) | 2:32 | 2023-12-08 |  |
 | [Corona de Espinas](https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL) | [Bihotza](https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR) | [Corona de Espinas](https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB) | 3:37 | 2024-04-05 |  |
 | [Criatura](https://open.spotify.com/track/4lpFfUzN3Tss3XrtCj3Gc9) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Criatura](https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar) | 2:39 | 2023-12-08 |  |
-| [Cuidado](https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Cuidado](https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8) | 2:57 | 2023-12-08 |  |
+| [Cuidado](https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Cuidado](https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8) | 2:57 | 2023-12-08 | 2024-04-11 |
 | [Cuéntame](https://open.spotify.com/track/6gn3MDFo9UcahvVd2BIUEF) | [Tu Madre Es Puta](https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu) | [Cuéntame](https://open.spotify.com/album/2plqoqJhL73yP6XqZlCYML) | 3:14 | 2023-12-08 | 2024-02-06 |
 | [Cómo Convertirse en Nada](https://open.spotify.com/track/7bZfAk1tgSGyIfpQZfOj3A) | [Gatillazo](https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam) | [Cómo Convertirse en Nada](https://open.spotify.com/album/0W02GXYGmc4BrcAEH1mlJq) | 2:40 | 2023-12-08 |  |
 | [Daños Colaterales](https://open.spotify.com/track/1Jw3S8jeIbS31m9HBtqMiJ) | [Envidia Kotxina](https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU) | [Cuando las Bocas Comen Silencio](https://open.spotify.com/album/501pjNhzQYeXfVJfkdRnL9) | 2:43 | 2023-12-08 |  |
@@ -96,6 +96,7 @@
 | [Por Ti](https://open.spotify.com/track/02DFLIT4ctTWHJeGstT7ON) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U), [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ), [Evaristo Paramos](https://open.spotify.com/artist/36kxb0yilw8i5xqhnZk2Vc) | [Escapa!](https://open.spotify.com/album/2uUW5Muj7sQi7YFsO8rmWU) | 2:43 | 2023-12-08 |  |
 | [Prefiero Caminar](https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B) | [Disidencia](https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht) | [Bienvenidos a Occidente](https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY) | 4:14 | 2023-12-08 |  |
 | [Preso 2023](https://open.spotify.com/track/6gnqolg2ERx8i5GAGlYb0w) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S) | [Raska Y Pierde](https://open.spotify.com/album/3hYROJXYVEmFZrDJEYAqmH) | 3:30 | 2023-12-08 |  |
+| [Pura dinamita](https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC) | [Kamikazes](https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy) | [Pura dinamita](https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9) | 3:56 | 2024-04-04 |  |
 | [Qué ha sido de ti](https://open.spotify.com/track/14MU1VPIIrciowTRCdZJ4u) | [Fundación Francisco Frankenstein](https://open.spotify.com/artist/3H42o6gQ9x0SioRXqtbGcf) | [Gente de Bien](https://open.spotify.com/album/6fxxDhr98JYsoI1Zp86wcT) | 1:50 | 2023-12-08 | 2024-01-19 |
 | [Reino Sin Futuro](https://open.spotify.com/track/3z4RWsGoalHEUkzMJqb1B6) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Reino Sin Futuro](https://open.spotify.com/album/40VVUxVi7onk4QfvdYRoqZ) | 3:12 | 2023-12-08 | 2024-04-10 |
 | [Resistiré \- En Directo](https://open.spotify.com/track/60qqPA0MLA1KgMCyinwjIW) | [Los Muertos de Cristo](https://open.spotify.com/artist/3kB55UDQKH1NV9TLKWgE8p) | [Bienvenidos al Infierno \(En Directo\)](https://open.spotify.com/album/4YFrai6oEA49jgPxPbpnt7) | 3:47 | 2023-12-08 |  |

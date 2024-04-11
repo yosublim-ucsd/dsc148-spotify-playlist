@@ -2,7 +2,7 @@
 
 ### [All Out 70s](https://open.spotify.com/playlist/37i9dQZF1DWTJ7xPn4vNaz)
 
-> The biggest songs of the 1970s\. Cover: David Bowie
+> The biggest songs of the 1970s\. Cover: ABBA
 
 552 songs - 1 day 13 hr 10 min
 

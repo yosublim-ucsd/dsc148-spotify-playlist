@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: fiora, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Leonard Wellington, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -330,7 +330,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 182037,
       "name": "AB",
       "url": "https://open.spotify.com/track/30PiY6rqpZHysYISCpUAZY"
@@ -1874,6 +1874,24 @@
       "duration_ms": 217142,
       "name": "Bitter Caroline",
       "url": "https://open.spotify.com/track/0EtpFsYDkxcjKUTLE72kMl"
+    },
+    {
+      "album": {
+        "name": "Bitter Heroine",
+        "url": "https://open.spotify.com/album/5jn3Lqq0d83Z8QcnHKlsZf"
+      },
+      "artists": [
+        {
+          "name": "Sea Cathedral",
+          "url": "https://open.spotify.com/artist/2p5eLKsD6yTiClrsORpv6X"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352466,
+      "name": "Bitter Heroine",
+      "url": "https://open.spotify.com/track/2sTtalJB4f85zbH0FkyFpe"
     },
     {
       "album": {
@@ -4466,7 +4484,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 168809,
       "name": "Different Cloud",
       "url": "https://open.spotify.com/track/6Kh0ALaRmujscpzKaMJqeI"
@@ -6159,6 +6177,24 @@
     },
     {
       "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/1aXRy2rsLGBXlgoqDotuN9"
+      },
+      "artists": [
+        {
+          "name": "LEANDER",
+          "url": "https://open.spotify.com/artist/4vfPWGAtczR80hRCKUBaSc"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/3lqDeSw3cY5esGvYJWDmK7"
+    },
+    {
+      "album": {
         "name": "Fine",
         "url": "https://open.spotify.com/album/10dIPnfJKXAspXPBzgTJ1v"
       },
@@ -6430,7 +6466,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 114656,
       "name": "Foto",
       "url": "https://open.spotify.com/track/5VZrMq2PbEnByhDc3LJqoO"
@@ -8110,6 +8146,24 @@
       "duration_ms": 235085,
       "name": "Hologram",
       "url": "https://open.spotify.com/track/3QUiaFjKkp3EkCuJ7pa1PX"
+    },
+    {
+      "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/6VpXa0Z8UDAx35LrmbKqZh"
+      },
+      "artists": [
+        {
+          "name": "Ben Moon",
+          "url": "https://open.spotify.com/artist/7jbtJh1q1JfzPYL2f7aWzO"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170704,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/34hcgOv5JBP7O9FFlQFJxU"
     },
     {
       "album": {
@@ -11232,7 +11286,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 173236,
       "name": "Miss Monroe",
       "url": "https://open.spotify.com/track/6I68DVLkuhkZy45c4N3Y0w"
@@ -11627,6 +11681,28 @@
     },
     {
       "album": {
+        "name": "Mosaic",
+        "url": "https://open.spotify.com/album/7l9mR5zTs1n3s7H8hE9oP6"
+      },
+      "artists": [
+        {
+          "name": "Lennie",
+          "url": "https://open.spotify.com/artist/2gb8pGBJHcQmw9rfXvQWjq"
+        },
+        {
+          "name": "Lauren Goodley",
+          "url": "https://open.spotify.com/artist/3cQaAgqnc3laDMzKeurlYg"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238734,
+      "name": "Mosaic",
+      "url": "https://open.spotify.com/track/3HUjcP7Oo2TwSbmoxFat0P"
+    },
+    {
+      "album": {
         "name": "Motorola",
         "url": "https://open.spotify.com/album/39r2qwtznLXOFLYSh2aNOx"
       },
@@ -11786,6 +11862,24 @@
       "duration_ms": 199245,
       "name": "My Head",
       "url": "https://open.spotify.com/track/3Yg9FWPMUswuXTITnH7Ci3"
+    },
+    {
+      "album": {
+        "name": "MY SONG",
+        "url": "https://open.spotify.com/album/73Yc4JuapVcQXfqYCSOXSM"
+      },
+      "artists": [
+        {
+          "name": "Leonard Wellington",
+          "url": "https://open.spotify.com/artist/7MSOQekV4uL7vFFEUkV978"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198892,
+      "name": "MY SONG",
+      "url": "https://open.spotify.com/track/6TufAnkAKR3K8z6FNmzPxe"
     },
     {
       "album": {
@@ -14508,7 +14602,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 141293,
       "name": "Roter Panda",
       "url": "https://open.spotify.com/track/5o0eyaSST2DOLTklv4wbi1"
@@ -17232,7 +17326,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 149831,
       "name": "The unreliable narrator",
       "url": "https://open.spotify.com/track/2SjWx4liuk1SAedgDMgZ0i"
@@ -19766,7 +19860,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 208881,
       "name": "You Let Me Down",
       "url": "https://open.spotify.com/track/2CJAUkPfu1hdaLh7vQDeHB"

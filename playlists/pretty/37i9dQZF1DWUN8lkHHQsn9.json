@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:5nGEwOuyd7RFe64eB0kWd8\">Iwona Skv</a>",
-  "num_followers": 8479,
+  "num_followers": 8478,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTQ3Mzk1NWE3MzUzMzVlZGEzNGMyYzBkYzdiMDYzOGU4MzdmYWQx",
+  "snapshot_id": "MCw3YTJmYjkyNjMyMmRlMTBhMTcxNmUzMjMxYWUyM2RlN2M3NGY0NGMz",
   "tracks": [
     {
       "added_at": "2024-04-08 22:01:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "maybe someday",
-        "url": "https://open.spotify.com/album/1k4kqCQl0RAM8gMxpRDC7S"
-      },
-      "artists": [
-        {
-          "name": "color blue",
-          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "maybe someday",
-      "url": "https://open.spotify.com/track/54J49JuwN6GkJAm6K18Vjz"
-    },
-    {
-      "added_at": "2024-04-08 22:01:00",
-      "album": {
         "name": "Shyness!",
         "url": "https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 210581,
       "name": "Stalker",
       "url": "https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw"
+    },
+    {
+      "added_at": "2024-04-08 22:01:00",
+      "album": {
+        "name": "maybe someday",
+        "url": "https://open.spotify.com/album/1k4kqCQl0RAM8gMxpRDC7S"
+      },
+      "artists": [
+        {
+          "name": "color blue",
+          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "maybe someday",
+      "url": "https://open.spotify.com/track/54J49JuwN6GkJAm6K18Vjz"
     },
     {
       "added_at": "2024-04-08 22:01:00",
@@ -931,26 +931,6 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "Przekle\u0144stwa Niewinno\u015bci",
-        "url": "https://open.spotify.com/album/5zBEDCmcK2SVgyTK8maiu5"
-      },
-      "artists": [
-        {
-          "name": "Sylvia Baudelaire",
-          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
-        },
-        {
-          "name": "H8",
-          "url": "https://open.spotify.com/artist/0D8D1VueigmXshI27sykHO"
-        }
-      ],
-      "duration_ms": 171379,
-      "name": "Wiem, \u017ce Smakuj\u0119 Jak...",
-      "url": "https://open.spotify.com/track/4GMIKtwsgJwa6zvA0krAS4"
-    },
-    {
-      "added_at": "2024-04-08 22:01:00",
-      "album": {
         "name": "Dolce Vita",
         "url": "https://open.spotify.com/album/1m0XMvYDp5d19yxvs4NblQ"
       },
@@ -1003,6 +983,26 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
+        "name": "Przekle\u0144stwa Niewinno\u015bci",
+        "url": "https://open.spotify.com/album/5zBEDCmcK2SVgyTK8maiu5"
+      },
+      "artists": [
+        {
+          "name": "Sylvia Baudelaire",
+          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
+        },
+        {
+          "name": "H8",
+          "url": "https://open.spotify.com/artist/0D8D1VueigmXshI27sykHO"
+        }
+      ],
+      "duration_ms": 171379,
+      "name": "Wiem, \u017ce Smakuj\u0119 Jak...",
+      "url": "https://open.spotify.com/track/4GMIKtwsgJwa6zvA0krAS4"
+    },
+    {
+      "added_at": "2024-04-08 22:01:00",
+      "album": {
         "name": "Stamina",
         "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
       },
@@ -1051,8 +1051,8 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "OH WOW",
-        "url": "https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI"
+        "name": "Pokussa Na Parkiecie",
+        "url": "https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv"
       },
       "artists": [
         {
@@ -1060,45 +1060,13 @@
           "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
         },
         {
-          "name": "Nick Sinckler",
-          "url": "https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK"
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
         }
       ],
-      "duration_ms": 174000,
-      "name": "OH WOW",
-      "url": "https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K"
-    },
-    {
-      "added_at": "2024-04-08 22:01:00",
-      "album": {
-        "name": "Przed siebie",
-        "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
-      },
-      "artists": [
-        {
-          "name": "Oskar Kucmann",
-          "url": "https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK"
-        }
-      ],
-      "duration_ms": 183178,
-      "name": "Przed siebie",
-      "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
-    },
-    {
-      "added_at": "2024-04-08 22:01:00",
-      "album": {
-        "name": "\u015awiat\u0142a Lamp",
-        "url": "https://open.spotify.com/album/2ZcmKJQ5Ts00yz1IaKZkMo"
-      },
-      "artists": [
-        {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
-        }
-      ],
-      "duration_ms": 164242,
-      "name": "\u015awiat\u0142a Lamp",
-      "url": "https://open.spotify.com/track/1X6LyZBmgjXBpaJyR11z6D"
+      "duration_ms": 176000,
+      "name": "POKUSSA",
+      "url": "https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB"
     },
     {
       "added_at": "2024-04-08 22:01:00",
@@ -1123,6 +1091,22 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
+        "name": "Przed siebie",
+        "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
+      },
+      "artists": [
+        {
+          "name": "Oskar Kucmann",
+          "url": "https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK"
+        }
+      ],
+      "duration_ms": 183178,
+      "name": "Przed siebie",
+      "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
+    },
+    {
+      "added_at": "2024-04-08 22:01:00",
+      "album": {
         "name": "nie pow\u00f3d do p\u0142aczu",
         "url": "https://open.spotify.com/album/3JOXWqsgFd02CfFsb1yStE"
       },
@@ -1135,6 +1119,38 @@
       "duration_ms": 209706,
       "name": "dotkliwie",
       "url": "https://open.spotify.com/track/3i8HGoWPINUw33Ig9Cu8eS"
+    },
+    {
+      "added_at": "2024-04-08 22:01:00",
+      "album": {
+        "name": "\u015awiat\u0142a Lamp",
+        "url": "https://open.spotify.com/album/2ZcmKJQ5Ts00yz1IaKZkMo"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 164242,
+      "name": "\u015awiat\u0142a Lamp",
+      "url": "https://open.spotify.com/track/1X6LyZBmgjXBpaJyR11z6D"
+    },
+    {
+      "added_at": "2024-04-08 22:01:00",
+      "album": {
+        "name": "DOM",
+        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "duration_ms": 243979,
+      "name": "Cie\u0144",
+      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
     },
     {
       "added_at": "2024-04-08 22:01:00",
@@ -1159,34 +1175,18 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "DOM",
-        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
+        "name": "J\u0119zyk",
+        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
       },
       "artists": [
         {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
         }
       ],
-      "duration_ms": 243979,
-      "name": "Cie\u0144",
-      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
-    },
-    {
-      "added_at": "2024-04-08 22:01:00",
-      "album": {
-        "name": "Przypadki",
-        "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
-      },
-      "artists": [
-        {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
-        }
-      ],
-      "duration_ms": 190443,
-      "name": "Przypadki",
-      "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
+      "duration_ms": 186468,
+      "name": "J\u0119zyk",
+      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
     },
     {
       "added_at": "2024-04-08 22:01:00",
@@ -1223,8 +1223,8 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "Pokussa Na Parkiecie",
-        "url": "https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv"
+        "name": "OH WOW",
+        "url": "https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI"
       },
       "artists": [
         {
@@ -1232,29 +1232,29 @@
           "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
         },
         {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+          "name": "Nick Sinckler",
+          "url": "https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK"
         }
       ],
-      "duration_ms": 176000,
-      "name": "POKUSSA",
-      "url": "https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB"
+      "duration_ms": 174000,
+      "name": "OH WOW",
+      "url": "https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K"
     },
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "J\u0119zyk",
-        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
+        "name": "Przypadki",
+        "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
       },
       "artists": [
         {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
         }
       ],
-      "duration_ms": 186468,
-      "name": "J\u0119zyk",
-      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
+      "duration_ms": 190443,
+      "name": "Przypadki",
+      "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
     },
     {
       "added_at": "2024-04-08 22:01:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "Girls, Gays, People",
-        "url": "https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9"
-      },
-      "artists": [
-        {
-          "name": "Yanch",
-          "url": "https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ"
-        }
-      ],
-      "duration_ms": 395000,
-      "name": "Girls, Gays, People",
-      "url": "https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10"
-    },
-    {
-      "added_at": "2024-04-08 22:01:00",
-      "album": {
         "name": "Maski",
         "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
       },
@@ -1371,18 +1355,34 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "Palo Santo",
-        "url": "https://open.spotify.com/album/0NGJx0HX2do5UEU3XhOsnP"
+        "name": "Diego M.",
+        "url": "https://open.spotify.com/album/0nSbH99Z1jWuqolGkPsvqM"
       },
       "artists": [
         {
-          "name": "Lesbijski Groove",
-          "url": "https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC"
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
         }
       ],
-      "duration_ms": 179400,
-      "name": "Palo Santo",
-      "url": "https://open.spotify.com/track/4KPgzeIwciL6boNbMUfHwu"
+      "duration_ms": 165991,
+      "name": "Diego M.",
+      "url": "https://open.spotify.com/track/0kEuKb2kutWzCbh4bi1h1U"
+    },
+    {
+      "added_at": "2024-04-08 22:01:00",
+      "album": {
+        "name": "Girls, Gays, People",
+        "url": "https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9"
+      },
+      "artists": [
+        {
+          "name": "Yanch",
+          "url": "https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ"
+        }
+      ],
+      "duration_ms": 395000,
+      "name": "Girls, Gays, People",
+      "url": "https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10"
     },
     {
       "added_at": "2024-04-08 22:01:00",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "Diego M.",
-        "url": "https://open.spotify.com/album/0nSbH99Z1jWuqolGkPsvqM"
+        "name": "Palo Santo",
+        "url": "https://open.spotify.com/album/0NGJx0HX2do5UEU3XhOsnP"
       },
       "artists": [
         {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+          "name": "Lesbijski Groove",
+          "url": "https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC"
         }
       ],
-      "duration_ms": 165991,
-      "name": "Diego M.",
-      "url": "https://open.spotify.com/track/0kEuKb2kutWzCbh4bi1h1U"
+      "duration_ms": 179400,
+      "name": "Palo Santo",
+      "url": "https://open.spotify.com/track/4KPgzeIwciL6boNbMUfHwu"
     },
     {
       "added_at": "2024-04-08 22:01:00",
@@ -1463,38 +1463,6 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "dzi\u0119kuj\u0119 nie pij\u0119",
-        "url": "https://open.spotify.com/album/30AhJNPsHBx3TXpJ1WfJWV"
-      },
-      "artists": [
-        {
-          "name": "ania cringe",
-          "url": "https://open.spotify.com/artist/0oZoMVPLVPErIc7HIabZMn"
-        }
-      ],
-      "duration_ms": 251520,
-      "name": "dzi\u0119kuj\u0119 nie pij\u0119",
-      "url": "https://open.spotify.com/track/1cxU9NzGl8Fa5mobu7dQzg"
-    },
-    {
-      "added_at": "2024-04-08 22:01:00",
-      "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
-      },
-      "artists": [
-        {
-          "name": "Shyness!",
-          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "FOMO",
-      "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
-    },
-    {
-      "added_at": "2024-04-08 22:01:00",
-      "album": {
         "name": "Don't Collapse",
         "url": "https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm"
       },
@@ -1515,6 +1483,38 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
+      },
+      "artists": [
+        {
+          "name": "Shyness!",
+          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
+    },
+    {
+      "added_at": "2024-04-08 22:01:00",
+      "album": {
+        "name": "dzi\u0119kuj\u0119 nie pij\u0119",
+        "url": "https://open.spotify.com/album/30AhJNPsHBx3TXpJ1WfJWV"
+      },
+      "artists": [
+        {
+          "name": "ania cringe",
+          "url": "https://open.spotify.com/artist/0oZoMVPLVPErIc7HIabZMn"
+        }
+      ],
+      "duration_ms": 251520,
+      "name": "dzi\u0119kuj\u0119 nie pij\u0119",
+      "url": "https://open.spotify.com/track/1cxU9NzGl8Fa5mobu7dQzg"
+    },
+    {
+      "added_at": "2024-04-08 22:01:00",
+      "album": {
         "name": "Maski",
         "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
       },
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "Lesbijski Groove",
-        "url": "https://open.spotify.com/album/6uSRonTg1ktm1KxXdvdVMK"
+        "name": "Re\u017cyser",
+        "url": "https://open.spotify.com/album/5JdAFKD7E59vMwZQLJQaSd"
       },
       "artists": [
         {
-          "name": "Lesbijski Groove",
-          "url": "https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC"
+          "name": "Filip Sterne",
+          "url": "https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw"
         }
       ],
-      "duration_ms": 261818,
-      "name": "Lesbijski Groove",
-      "url": "https://open.spotify.com/track/0ZbfT8bgWR81cepTeCirfN"
+      "duration_ms": 178890,
+      "name": "Re\u017cyser",
+      "url": "https://open.spotify.com/track/57ncBsP6ntAniZygJhDVDl"
     },
     {
       "added_at": "2024-04-08 22:01:00",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "Re\u017cyser",
-        "url": "https://open.spotify.com/album/5JdAFKD7E59vMwZQLJQaSd"
+        "name": "Lesbijski Groove",
+        "url": "https://open.spotify.com/album/6uSRonTg1ktm1KxXdvdVMK"
       },
       "artists": [
         {
-          "name": "Filip Sterne",
-          "url": "https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw"
+          "name": "Lesbijski Groove",
+          "url": "https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC"
         }
       ],
-      "duration_ms": 178890,
-      "name": "Re\u017cyser",
-      "url": "https://open.spotify.com/track/57ncBsP6ntAniZygJhDVDl"
+      "duration_ms": 261818,
+      "name": "Lesbijski Groove",
+      "url": "https://open.spotify.com/track/0ZbfT8bgWR81cepTeCirfN"
     },
     {
       "added_at": "2024-04-08 22:01:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "nie b\u00f3j si\u0119",
-        "url": "https://open.spotify.com/album/6XjzyFPri2WsfWYfVx1EaC"
-      },
-      "artists": [
-        {
-          "name": "ania cringe",
-          "url": "https://open.spotify.com/artist/0oZoMVPLVPErIc7HIabZMn"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "nie b\u00f3j si\u0119",
-      "url": "https://open.spotify.com/track/1IXfFdokeeiqjzzKx2U51y"
-    },
-    {
-      "added_at": "2024-04-08 22:01:00",
-      "album": {
         "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
         "url": "https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 248202,
       "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
       "url": "https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1"
+    },
+    {
+      "added_at": "2024-04-08 22:01:00",
+      "album": {
+        "name": "niem\u00f3wmi",
+        "url": "https://open.spotify.com/album/1BniDqtFGZMyVjPEf6saZz"
+      },
+      "artists": [
+        {
+          "name": "Patryk Janiak",
+          "url": "https://open.spotify.com/artist/5f0iJm2Clf3zrxcWfgTS7k"
+        }
+      ],
+      "duration_ms": 160836,
+      "name": "niem\u00f3wmi",
+      "url": "https://open.spotify.com/track/7KSRgQPBOsuTi9SclLCQHc"
     },
     {
       "added_at": "2024-04-08 22:01:00",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2024-04-08 22:01:00",
       "album": {
-        "name": "niem\u00f3wmi",
-        "url": "https://open.spotify.com/album/1BniDqtFGZMyVjPEf6saZz"
+        "name": "nie b\u00f3j si\u0119",
+        "url": "https://open.spotify.com/album/6XjzyFPri2WsfWYfVx1EaC"
       },
       "artists": [
         {
-          "name": "Patryk Janiak",
-          "url": "https://open.spotify.com/artist/5f0iJm2Clf3zrxcWfgTS7k"
+          "name": "ania cringe",
+          "url": "https://open.spotify.com/artist/0oZoMVPLVPErIc7HIabZMn"
         }
       ],
-      "duration_ms": 160836,
-      "name": "niem\u00f3wmi",
-      "url": "https://open.spotify.com/track/7KSRgQPBOsuTi9SclLCQHc"
+      "duration_ms": 210000,
+      "name": "nie b\u00f3j si\u0119",
+      "url": "https://open.spotify.com/track/1IXfFdokeeiqjzzKx2U51y"
     },
     {
       "added_at": "2024-04-08 22:01:00",

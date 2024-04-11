@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 
 > This is Julia Vitória\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,788 likes - 44 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,795 likes - 44 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 8 | [Nós Te Adoramos \- Ao Vivo](https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Nós Te Adoramos \(Ao Vivo\)](https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76) | 7:18 |
 | 9 | [Tuas Águas](https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Tuas Águas](https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M) | 5:10 |
 | 10 | [Tu És Santo](https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tu És Santo](https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO) | 3:40 |
-| 11 | [Não Mais Escravos](https://open.spotify.com/track/4MtBvzWwKji4Of7qDp9EaN) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Não Mais Escravos](https://open.spotify.com/album/0a55Mn7ktMRBPR1DIeynSG) | 5:12 |
-| 12 | [Outra Vez](https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Outra Vez](https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8) | 5:04 |
+| 11 | [Outra Vez](https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Outra Vez](https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8) | 5:04 |
+| 12 | [Não Mais Escravos](https://open.spotify.com/track/4MtBvzWwKji4Of7qDp9EaN) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Não Mais Escravos](https://open.spotify.com/album/0a55Mn7ktMRBPR1DIeynSG) | 5:12 |
 | 13 | [Tua Presença \- Ao Vivo](https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV) | 5:20 |
 | 14 | [Redimido \- Ao Vivo](https://open.spotify.com/track/5tQ86KVRFbsQp26LmDK5Yo) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Redimido \(Ao Vivo\)](https://open.spotify.com/album/2LxF3P6SnsYgfyNdtWnIAt) | 5:47 |
 | 15 | [Tu és Bom](https://open.spotify.com/track/4n5XNuCNdlv1olMLYDwpcn) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tu és Bom](https://open.spotify.com/album/5Iiv24LKFHRT0oeHGNGRcV) | 3:22 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 25 | [Voaremos \(Soaring in Surrender\) \(feat\. Julia Vitória\)](https://open.spotify.com/track/1YwGCGodh84xQv2yKJPhMc) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Voaremos \(Soaring in Surrender\) \(feat\. Julia Vitória\)](https://open.spotify.com/album/7rqwOt599tdxGOWCuWbOZx) | 5:27 |
 | 26 | [O céu é o meu Lugar \(feat\. Julia Vitória\)](https://open.spotify.com/track/5XhHL5wnO6jC3tE0zdnFYA) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [O céu é o meu Lugar \(feat\. Julia Vitória\)](https://open.spotify.com/album/1DjK8GUoTRrGLa4CI8zReu) | 4:43 |
 | 27 | [Se Tenho Cristo / O Bondoso Amigo \- Ao Vivo](https://open.spotify.com/track/4MMvcx9TKSsdmOWujKBLSV) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Se Tenho Cristo / O Bondoso Amigo \(Ao Vivo\)](https://open.spotify.com/album/4su45A07KGlOLYM5Z1cFGz) | 7:18 |
-| 28 | [Vem](https://open.spotify.com/track/3Yop3QUpr2wfe2MObnpZ2b) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Vem](https://open.spotify.com/album/4w9Ym45CNTgnyTNaMXsJ1w) | 6:22 |
-| 29 | [Alfa e Ômega \- Ao Vivo](https://open.spotify.com/track/351wtqG1ya5eCEtW1jPJfn) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Alfa e Ômega \(Ao Vivo\)](https://open.spotify.com/album/4OLP7B5cichGSIii0rvyri) | 6:57 |
+| 28 | [Alfa e Ômega \- Ao Vivo](https://open.spotify.com/track/351wtqG1ya5eCEtW1jPJfn) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Alfa e Ômega \(Ao Vivo\)](https://open.spotify.com/album/4OLP7B5cichGSIii0rvyri) | 6:57 |
+| 29 | [Vem](https://open.spotify.com/track/3Yop3QUpr2wfe2MObnpZ2b) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Vem](https://open.spotify.com/album/4w9Ym45CNTgnyTNaMXsJ1w) | 6:22 |
 | 30 | [Perto Eu Quero Estar \- Ao Vivo](https://open.spotify.com/track/0qcVbrMV3FW3BnKOadt3Xw) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Perto Eu Quero Estar \(Ao Vivo\)](https://open.spotify.com/album/4YJCr4MpR5LE6WBMMcBT4x) | 4:12 |
 | 31 | [Pai de Amor \(Heavenly Father I Appreciate You\) \- Ao Vivo](https://open.spotify.com/track/4y0lpqcs5nauOwJdP5Is9N) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Pai de Amor \(Heavenly Father I Appreciate You\) \[Ao Vivo\]](https://open.spotify.com/album/1xHsDUSESGzPXKsxYOQUe4) | 4:05 |
 | 32 | [Your Waters](https://open.spotify.com/track/1dDDrI8BsmRBPzR6LtiK6h) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Your Waters](https://open.spotify.com/album/2qmDIbM3kSjJ0h6kmuwvoz) | 5:08 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 43 | [Há Liberdade Aqui \- Ao Vivo](https://open.spotify.com/track/3WHjFJeiSro6DQ35p7OpHk) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Há Liberdade Aqui \(Ao Vivo\)](https://open.spotify.com/album/6Xq6YRLfMecGOPpnqAtSQn) | 9:28 |
 | 44 | [Manto de Cristo](https://open.spotify.com/track/2bMHtSO06SG7qiyDJXfQPC) | [Lagoinha Music](https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Luz da Luz](https://open.spotify.com/album/45v1bM63jvlyprxBdnsMMf) | 10:37 |
 
-Snapshot ID: `MCw4NzYwNjU2NjI3OGU5NTNhNTA4N2Y3MjEyNWJiZDRmYjgxNGRlM2Jh`
+Snapshot ID: `MCwyNDc4MjdjOGM4NjE0MmY3MTc0YzAyN2QzYzhjNWQwYTViYjgzZDA4`

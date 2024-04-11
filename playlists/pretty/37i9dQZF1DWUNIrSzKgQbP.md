@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 
 > Dreamy springtime melodies to watch the flowers bloom 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,652,291 likes - 92 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,652,240 likes - 92 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 70 | [Eliza I See](https://open.spotify.com/track/1Fr0659YlxAn5zCjXhh0wG) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Eliza I See](https://open.spotify.com/album/4hpwXwZhArrRprpzYYYJ1W) | 3:23 |
 | 71 | [B61](https://open.spotify.com/track/48I5zrBAbKfGp7lqfBZ0Ll) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Age of Apathy](https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo) | 3:41 |
 | 72 | [Where The Skies Are Blue](https://open.spotify.com/track/3CuscN8itbT86pQFKQMIk7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra \(Deluxe\)](https://open.spotify.com/album/5fY8mYgYGkyaJ9XvVOzVQA) | 2:20 |
-| 73 | [Classic Water](https://open.spotify.com/track/4sdMxRr2pRhdfD6rGFhf2j) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Classic Water](https://open.spotify.com/album/07P3xJ5E3QZI0x2AGC2GyU) | 4:06 |
+| 73 | [Classic Water](https://open.spotify.com/track/5ssUh7AkegCho1jtCOqiXf) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Long Cool World](https://open.spotify.com/album/5y7H3tDoGqmw1w88QKGV8o) | 4:06 |
 | 74 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 |
 | 75 | [Stay \(ft\. Gary Clark Jr.\)](https://open.spotify.com/track/33tVKYG73t7pCmafa3Yn9f) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Stay \(ft\. Gary Clark Jr.\)](https://open.spotify.com/album/5ykzMuRih48Mm81Uf0kxRQ) | 3:51 |
 | 76 | [Anchored](https://open.spotify.com/track/2kNsGj6pRhA6MfHsk9WDp8) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Anchored](https://open.spotify.com/album/1JFzFl3R3za0aJ4YJKZf77) | 3:59 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 91 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 |
 | 92 | [Sea Of Love](https://open.spotify.com/track/3ASn2iE7F4HvA8XyRbJ4tS) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Sea Of Love](https://open.spotify.com/album/4YUMtMthxfpapIqkk2caJg) | 3:23 |
 
-Snapshot ID: `MCxiNjk3MGQxZTRlYTc3YTA3NGM4NjM4YjAwNzg4NGZjMDk3ZWM3NDZi`
+Snapshot ID: `MCw3YmNiOGMzZGI0NjFmZjZlZTQ1NDY2YWE0ZmZiNmFjZGQ2Yjc5ODJj`

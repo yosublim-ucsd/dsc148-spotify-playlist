@@ -4,7 +4,7 @@
 
 > alternative meets electronic Cover: Artemas
 
-299 songs - 15 hr 39 min
+300 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Girl Next Door \(feat\. Wiz Khalifa, DVBBS\)](https://open.spotify.com/track/3YSowxZIbp6dTYyOZdHUMe) | [SK8](https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Girl Next Door \(feat\. Wiz Khalifa, DVBBS\)](https://open.spotify.com/album/57g2B21B4dHEP3vgrox6Rk) | 2:20 | 2021-07-16 | 2022-10-15 |
 | [Go Down Together](https://open.spotify.com/track/0oSHS50JBCzpgetwyPuf1d) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Draw Down The Moon](https://open.spotify.com/album/4DOnbp4wcdxexquFeRhT6n) | 3:15 | 2022-06-17 | 2024-03-19 |
 | [Go Down Together](https://open.spotify.com/track/4tkpi79JqjPCMGmBOtEJI9) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Go Down Together](https://open.spotify.com/album/3YtQHYbQ55OQapg8SxhIkh) | 3:15 | 2021-04-16 | 2022-05-27 |
-| [god damn!](https://open.spotify.com/track/40e2TPl5w4fmHJkIgwAM3U) | [viisi](https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z) | [god damn!](https://open.spotify.com/album/1Txk1kbTVJZqvdU2ZsJwpv) | 1:56 | 2023-07-27 |  |
+| [god damn!](https://open.spotify.com/track/40e2TPl5w4fmHJkIgwAM3U) | [viisi](https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z) | [god damn!](https://open.spotify.com/album/1Txk1kbTVJZqvdU2ZsJwpv) | 1:56 | 2023-07-27 | 2024-04-11 |
 | [Going Ghost](https://open.spotify.com/track/09gwNkeuRJhS1Ryb3sNp6V) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [I WANT BLOOD / i want love](https://open.spotify.com/album/4KkTFPZPuyOWmBNuUXrD0e) | 2:49 | 2024-03-22 |  |
 | [Going Ghost](https://open.spotify.com/track/7KDT0me83hS1RnHJ6EeYKS) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [Going Ghost](https://open.spotify.com/album/3YoYaUvzxAtji6MG8ZzghO) | 2:49 | 2021-08-13 | 2024-03-28 |
 | [Great Time To Be Human](https://open.spotify.com/track/30xXJonsfJNpbHBc1kCmz2) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Great Time To Be Human](https://open.spotify.com/album/2Mxsg75C84uMMRBGSFKzvf) | 3:23 | 2023-04-21 |  |
@@ -257,6 +257,7 @@
 | [Smoke Hole](https://open.spotify.com/track/66y3v3HpE6kjIo7k2UnwDd) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Smoke Hole](https://open.spotify.com/album/1TJpngFnTnOBmFbl1FqyOK) | 4:27 | 2021-02-26 | 2022-04-09 |
 | [Someone Else](https://open.spotify.com/track/4hR3hQKELrARHNZJ51D14s) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Someone Else](https://open.spotify.com/album/43PrBCExe9DKwdI9TJKAtc) | 3:18 | 2020-08-17 |  |
 | [Sound the Alarm \(feat\. Rivers Cuomo of Weezer & Royal & the Serpent\)](https://open.spotify.com/track/3OyRfX2JGBCPWoQsYBFqQu) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Sound the Alarm \(feat\. Rivers Cuomo of Weezer & Royal & the Serpent\)](https://open.spotify.com/album/42gv0kQ4WESuPbScRE2CRK) | 2:51 | 2021-07-30 | 2023-08-19 |
+| [Speeding Fast](https://open.spotify.com/track/3QTK0aSjMeCsja2oxkPGxp) | [dapurr](https://open.spotify.com/artist/3Dn91YO242mHAywGp5Tptt) | [1](https://open.spotify.com/album/2yfYHs5lPBh6YJbwXF4rOg) | 3:23 | 2024-03-22 |  |
 | [Story Of My Life \(feat\. Trippie Redd\)](https://open.spotify.com/track/1g7j5AxiNKTGjryhFIlAsA) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Story Of My Life \(feat\. Trippie Redd\)](https://open.spotify.com/album/6C4DfusL8qEXmt6MFhAMU6) | 3:11 | 2021-12-03 |  |
 | [Summerland](https://open.spotify.com/track/0dN3cttUifpkm1Oja79zJr) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Summerland](https://open.spotify.com/album/1A1dSoZMQPU0DcCfaSLvQ1) | 3:49 | 2021-07-23 | 2022-03-05 |
 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Superhuman \(with K.Flay\)](https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs) | 4:00 | 2022-01-28 | 2023-07-28 |

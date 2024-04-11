@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Bob Vylan
 
-[Spotify](https://open.spotify.com/user/spotify) - 799,001 likes - 79 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,927 likes - 79 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 78 | [London \(Love to Hate\)](https://open.spotify.com/track/5EO7Imd5V2EZFUIOh9rtT6) | [Indoor Pets](https://open.spotify.com/artist/5abBw7CgjR22S31JWg0g84) | [London \(Love to Hate\)](https://open.spotify.com/album/7dVKNEaY2ScakAlYj9Ff9q) | 4:04 |
 | 79 | [Beautiful Girl](https://open.spotify.com/track/1Inle1Zm97MzQXParrb0aP) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Beautiful Girl](https://open.spotify.com/album/3F8u0bz8k1cxPpOttU3yDH) | 2:32 |
 
-Snapshot ID: `MCw5NjI4ODBjMTk4YTBkZTFmNzhiOTA1MDU4Zjk5YTU3Y2ZhYTc1MWM2`
+Snapshot ID: `MCwwZGU0MDBhMTg5MjczYTRjY2U2M2FiMmVhNTgyOWY4NDNhMTQ0MWI0`

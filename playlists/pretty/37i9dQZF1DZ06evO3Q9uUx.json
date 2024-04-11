@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 14014,
+  "num_followers": 14021,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmQwNmQyNmEwN2Y3Yzk0NTg4NDE3NjEwNWViYzAyZjEyNjYxYjkx",
+  "snapshot_id": "MCw0Nzg5Mzg5Mjc1NjEzYzgwZmYwMGQwYzM1OGNiODY1YjIxYmU5NDlm",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "REALLY HER",
-        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 151431,
-      "name": "FALLBACK",
-      "url": "https://open.spotify.com/track/7hnxhq0SI3FWYJtsRnWroM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/7b7CkJuDzMUFt0vbzj0pjv"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 237623,
       "name": "Run (feat. Tyga, 21 Savage & BIA)",
       "url": "https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REALLY HER",
+        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 151431,
+      "name": "FALLBACK",
+      "url": "https://open.spotify.com/track/7hnxhq0SI3FWYJtsRnWroM"
     },
     {
       "added_at": null,
@@ -511,6 +511,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "FOR CERTAIN (Deluxe)",
+        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 131224,
+      "name": "BESITO (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/1JTJws1FmfNRrF90bns0TT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Likka Sto 2 (feat. Travis Scott, G Herbo & BIA)",
         "url": "https://open.spotify.com/album/4ivFpkn1STHMCITMSO7vUt"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 228251,
       "name": "Likka Sto 2 (feat. Travis Scott, G Herbo & BIA)",
       "url": "https://open.spotify.com/track/3NbQIxqkq36cy5a8Ub9vZ0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FOR CERTAIN (Deluxe)",
-        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 131224,
-      "name": "BESITO (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/1JTJws1FmfNRrF90bns0TT"
     },
     {
       "added_at": null,
@@ -967,22 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FOR CERTAIN",
-        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 156519,
-      "name": "PLATE",
-      "url": "https://open.spotify.com/track/7qkmotkXzezx5iJmU7xxfB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Freak Remix",
         "url": "https://open.spotify.com/album/4epvIuL8vjGOcBaEslxT5p"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 184920,
       "name": "Freak (Remix)",
       "url": "https://open.spotify.com/track/1bzdoX1w5IZlWt15z4y1t1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 156519,
+      "name": "PLATE",
+      "url": "https://open.spotify.com/track/7qkmotkXzezx5iJmU7xxfB"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-301 songs - 19 hr 38 min
+302 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [きらきら](https://open.spotify.com/track/32lWfnbzsZTX02L3935VF7) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [きらきら](https://open.spotify.com/album/411ShZaP7vuopafIAwrgZp) | 4:32 | 2023-03-02 | 2023-03-18 |
 | [さらまっぽ](https://open.spotify.com/track/4Xg1Dh1bOAHiFrsHTOtX8b) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:18 | 2024-03-19 |  |
 | [さらまっぽ](https://open.spotify.com/track/6f9Fl22sy1UhH788M7BkH3) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [さらまっぽ](https://open.spotify.com/album/0eWUONdRJ4WYpwcoh3D3hA) | 3:19 | 2024-01-10 | 2024-03-22 |
-| [しわあわせ](https://open.spotify.com/track/4GvJskA0Jn4NorP2YWxuaf) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:33 | 2023-12-26 |  |
+| [しわあわせ](https://open.spotify.com/track/4GvJskA0Jn4NorP2YWxuaf) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:33 | 2023-12-26 | 2024-04-11 |
 | [しわあわせ](https://open.spotify.com/track/2F1Zfnh89pO7urUL7KoVfn) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [しわあわせ](https://open.spotify.com/album/0SoKJtlMONWEI19IZ2QAzr) | 4:38 | 2023-05-25 | 2023-06-02 |
 | [それはまるで映画みたいな恋だった。](https://open.spotify.com/track/2ZYJWl6MQtmDovp1LGRwPe) | [あれくん](https://open.spotify.com/artist/7voEy17zvlQojgmQYUlKDK) | [それはまるで映画みたいな恋だった。](https://open.spotify.com/album/42UJvpF23bGWbAY1xPSYEJ) | 4:01 | 2023-02-21 | 2023-03-15 |
 | [それを愛と呼ぶなら](https://open.spotify.com/track/3ibqi5ANZtNI7QXOgUnFsL) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [それを愛と呼ぶなら](https://open.spotify.com/album/5gdO6MiTK1Df7SGctJWtUs) | 4:54 | 2023-11-01 | 2024-01-24 |
@@ -254,6 +254,7 @@
 | [恋人ごっこ](https://open.spotify.com/track/2SihT7AVMiI2VtaAyVIcnO) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [hope](https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF) | 3:20 | 2023-02-09 |  |
 | [恋人じゃなくなった日](https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [恋人じゃなくなった日](https://open.spotify.com/album/0E6KtMRFXw2LDyV38I3nNQ) | 3:44 | 2023-02-14 | 2023-05-14 |
 | [恋巡り](https://open.spotify.com/track/7HupzxNg8PXQkjOJAsSaou) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [恋巡り](https://open.spotify.com/album/2o9dikQaJ6L6bBY1sVYvxI) | 4:08 | 2023-10-10 | 2023-10-18 |
+| [恋泥棒。](https://open.spotify.com/track/0JnOpiUieuk9SdRv7Fkw2P) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [恋泥棒。](https://open.spotify.com/album/02oXm4Mjn4lWcc9xubCAW0) | 3:39 | 2024-03-26 |  |
 | [恋煩い](https://open.spotify.com/track/0GFwrCxvZbomCjtYOKutei) | [あれくん](https://open.spotify.com/artist/7voEy17zvlQojgmQYUlKDK) | [1/fゆらぎ](https://open.spotify.com/album/2UBwR2pNPVy80gvavJaZv8) | 3:51 | 2023-08-08 | 2023-10-06 |
 | [恋衣](https://open.spotify.com/track/3ky5XuA51Lz48YfCCcPsZg) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [恋衣](https://open.spotify.com/album/1jbhSPkyBeQwhNfTamimKu) | 3:32 | 2024-02-06 | 2024-03-20 |
 | [恋風邪にのせて](https://open.spotify.com/track/6z5zopmol2EeKDjeRH2QfM) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [恋風邪にのせて](https://open.spotify.com/album/25RY2kxcFBcrcOk47aZspA) | 4:15 | 2023-02-09 | 2023-04-05 |

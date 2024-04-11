@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 113208,
+  "num_followers": 113303,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzI5NjEwMDQyZTQ5YTRhMzE3YWZiOTM0ZDQzNDAwYzNjMWZhZTJl",
+  "snapshot_id": "MCxhMDA0Y2FmOTIwODk0M2JhZTM3NzY2MzQxNzNkMWMyOTAyNTVmZDYy",
   "tracks": [
     {
       "added_at": "2024-03-20 12:18:30",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-03-20 12:18:30",
       "album": {
-        "name": "Lil' Man Soul",
-        "url": "https://open.spotify.com/album/3GPPcFHouTopuZons7w27s"
-      },
-      "artists": [
-        {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
-        }
-      ],
-      "duration_ms": 245226,
-      "name": "I'm Waiting For You",
-      "url": "https://open.spotify.com/track/2Wn7ZtdXyJ9uGBg2j6VvZR"
-    },
-    {
-      "added_at": "2024-03-20 12:18:30",
-      "album": {
         "name": "Can't Stop Now",
         "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 256853,
       "name": "If I Could Fly",
       "url": "https://open.spotify.com/track/6ZrF3FEq8MQd1CN9MXTHqa"
+    },
+    {
+      "added_at": "2024-03-20 12:18:30",
+      "album": {
+        "name": "Lil' Man Soul",
+        "url": "https://open.spotify.com/album/3GPPcFHouTopuZons7w27s"
+      },
+      "artists": [
+        {
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        }
+      ],
+      "duration_ms": 245226,
+      "name": "I'm Waiting For You",
+      "url": "https://open.spotify.com/track/2Wn7ZtdXyJ9uGBg2j6VvZR"
     },
     {
       "added_at": "2024-03-20 12:18:30",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-03-20 12:18:30",
       "album": {
+        "name": "Personal Touch",
+        "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Personal Touch",
+      "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
+    },
+    {
+      "added_at": "2024-03-20 12:18:30",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 246237,
       "name": "Let It Shine",
       "url": "https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9"
-    },
-    {
-      "added_at": "2024-03-20 12:18:30",
-      "album": {
-        "name": "Personal Touch",
-        "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Personal Touch",
-      "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
     },
     {
       "added_at": "2024-03-20 12:18:30",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-03-20 12:18:30",
       "album": {
-        "name": "Feelin' It",
-        "url": "https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l"
-      },
-      "artists": [
-        {
-          "name": "Freddie Fox",
-          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
-        }
-      ],
-      "duration_ms": 253053,
-      "name": "Still Lovin' You",
-      "url": "https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV"
-    },
-    {
-      "added_at": "2024-03-20 12:18:30",
-      "album": {
         "name": "Lip Service",
         "url": "https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 275773,
       "name": "Lip Service",
       "url": "https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7"
+    },
+    {
+      "added_at": "2024-03-20 12:18:30",
+      "album": {
+        "name": "Feelin' It",
+        "url": "https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l"
+      },
+      "artists": [
+        {
+          "name": "Freddie Fox",
+          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
+        }
+      ],
+      "duration_ms": 253053,
+      "name": "Still Lovin' You",
+      "url": "https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV"
     },
     {
       "added_at": "2024-03-20 12:18:30",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-03-20 12:18:30",
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI"
-      },
-      "artists": [
-        {
-          "name": "Fourplay",
-          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
-        }
-      ],
-      "duration_ms": 340386,
-      "name": "Fields of Gold",
-      "url": "https://open.spotify.com/track/0f8lc6QabkwdZ89O2qRXkp"
-    },
-    {
-      "added_at": "2024-03-20 12:18:30",
-      "album": {
         "name": "Jumpin' Off",
         "url": "https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 257000,
       "name": "In The Groove",
       "url": "https://open.spotify.com/track/2AyEl9H2FwNNdW7xdNRlSI"
+    },
+    {
+      "added_at": "2024-03-20 12:18:30",
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI"
+      },
+      "artists": [
+        {
+          "name": "Fourplay",
+          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
+        }
+      ],
+      "duration_ms": 340386,
+      "name": "Fields of Gold",
+      "url": "https://open.spotify.com/track/0f8lc6QabkwdZ89O2qRXkp"
     },
     {
       "added_at": "2024-03-20 12:18:30",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-03-20 12:18:30",
       "album": {
-        "name": "Songs From The Night Before",
-        "url": "https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe"
-      },
-      "artists": [
-        {
-          "name": "David Sanborn",
-          "url": "https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE"
-        }
-      ],
-      "duration_ms": 303680,
-      "name": "Rikke",
-      "url": "https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw"
-    },
-    {
-      "added_at": "2024-03-20 12:18:30",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 238293,
       "name": "Night Rider",
       "url": "https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ"
+    },
+    {
+      "added_at": "2024-03-20 12:18:30",
+      "album": {
+        "name": "Songs From The Night Before",
+        "url": "https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe"
+      },
+      "artists": [
+        {
+          "name": "David Sanborn",
+          "url": "https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE"
+        }
+      ],
+      "duration_ms": 303680,
+      "name": "Rikke",
+      "url": "https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw"
     },
     {
       "added_at": "2024-03-20 12:18:30",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-03-20 12:18:30",
       "album": {
-        "name": "Soul Express",
-        "url": "https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH"
-      },
-      "artists": [
-        {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
-        }
-      ],
-      "duration_ms": 278666,
-      "name": "Soul Express",
-      "url": "https://open.spotify.com/track/6j9WWYS5j00w1MltPhTlH3"
-    },
-    {
-      "added_at": "2024-03-20 12:18:30",
-      "album": {
         "name": "Full Stride",
         "url": "https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 260706,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r"
+    },
+    {
+      "added_at": "2024-03-20 12:18:30",
+      "album": {
+        "name": "Soul Express",
+        "url": "https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH"
+      },
+      "artists": [
+        {
+          "name": "Chris Standring",
+          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
+        }
+      ],
+      "duration_ms": 278666,
+      "name": "Soul Express",
+      "url": "https://open.spotify.com/track/6j9WWYS5j00w1MltPhTlH3"
     },
     {
       "added_at": "2024-03-20 12:18:30",
@@ -979,18 +979,18 @@
     {
       "added_at": "2024-03-20 12:18:30",
       "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
       },
       "artists": [
         {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
         }
       ],
-      "duration_ms": 257373,
-      "name": "Here With You",
-      "url": "https://open.spotify.com/track/1c9sIJVZwmLisjzlFav2Ff"
+      "duration_ms": 265893,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
     },
     {
       "added_at": "2024-03-20 12:18:30",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2024-03-20 12:18:30",
       "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
       },
       "artists": [
         {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
         }
       ],
-      "duration_ms": 265893,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
+      "duration_ms": 257373,
+      "name": "Here With You",
+      "url": "https://open.spotify.com/track/1c9sIJVZwmLisjzlFav2Ff"
     },
     {
       "added_at": "2024-03-20 12:18:30",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-03-20 12:18:30",
       "album": {
-        "name": "Flipside",
-        "url": "https://open.spotify.com/album/5jJnmTSaatjd3tXpfXaEzd"
-      },
-      "artists": [
-        {
-          "name": "Jeff Lorber",
-          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
-        }
-      ],
-      "duration_ms": 312226,
-      "name": "Angel In Paris",
-      "url": "https://open.spotify.com/track/1fUa03IMAd3cRKQvrVgEV1"
-    },
-    {
-      "added_at": "2024-03-20 12:18:30",
-      "album": {
         "name": "In Joy",
         "url": "https://open.spotify.com/album/5hxIOm6CwhTqI9W60yyX43"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 305680,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1v5WalcQgFcHnSYe1e6LcF"
+    },
+    {
+      "added_at": "2024-03-20 12:18:30",
+      "album": {
+        "name": "Flipside",
+        "url": "https://open.spotify.com/album/5jJnmTSaatjd3tXpfXaEzd"
+      },
+      "artists": [
+        {
+          "name": "Jeff Lorber",
+          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
+        }
+      ],
+      "duration_ms": 312226,
+      "name": "Angel In Paris",
+      "url": "https://open.spotify.com/track/1fUa03IMAd3cRKQvrVgEV1"
     },
     {
       "added_at": "2024-03-20 12:18:30",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-03-20 12:18:30",
       "album": {
-        "name": "The Collected",
-        "url": "https://open.spotify.com/album/25GRErR059zar6ytzLzHye"
-      },
-      "artists": [
-        {
-          "name": "Warren Hill",
-          "url": "https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS"
-        }
-      ],
-      "duration_ms": 325666,
-      "name": "Take-Out Dreams",
-      "url": "https://open.spotify.com/track/0Bg4h1WNPOuUaLVjharMGK"
-    },
-    {
-      "added_at": "2024-03-20 12:18:30",
-      "album": {
         "name": "After 8",
         "url": "https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 408893,
       "name": "After 8",
       "url": "https://open.spotify.com/track/7JZAkIzTNPV9Wd4a4sDdiN"
+    },
+    {
+      "added_at": "2024-03-20 12:18:30",
+      "album": {
+        "name": "The Collected",
+        "url": "https://open.spotify.com/album/25GRErR059zar6ytzLzHye"
+      },
+      "artists": [
+        {
+          "name": "Warren Hill",
+          "url": "https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS"
+        }
+      ],
+      "duration_ms": 325666,
+      "name": "Take-Out Dreams",
+      "url": "https://open.spotify.com/track/0Bg4h1WNPOuUaLVjharMGK"
     },
     {
       "added_at": "2024-03-20 12:18:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 
 > Funky blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,207 likes - 50 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,209 likes - 50 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 49 | [Renegades of Funk \- 12" Vocal Version](https://open.spotify.com/track/7iPXWodYIIDwXcbDTbLup5) | [Afrika Bambaataa](https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p), [The Soulsonic Force](https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP) | [Looking for the Perfect Beat 1980 \-1985](https://open.spotify.com/album/2UrZ3obnsIpILX1x86hCfu) | 6:43 |
 | 50 | [Wildstyle](https://open.spotify.com/track/0N5nQNz1qpi9b9OypLB1rj) | [Time Zone](https://open.spotify.com/artist/1LueZf9jSHrdmMJjZTLowI) | [Change The Beat \- The Celluloid Records Story 1979 \- 1987](https://open.spotify.com/album/25Kag9cU21zj5HtxLfDVyF) | 8:18 |
 
-Snapshot ID: `MCw3YzNhY2YwZDJlNGE3YTcwNGU0M2FjMjhhNzExMTg5YjE1MDkyMGU1`
+Snapshot ID: `MCw5YjY0ZGNhNWY1MmU0Y2ZhYzAxMjk1MzlmYjIwZWY5ZWU5MWM5ZTk5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,928 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,947 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 59 | ['Til I Found You](https://open.spotify.com/track/0LcCeKrpFTzqKrTAzNFIHo) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [‘Til I Found You](https://open.spotify.com/album/1Vk4CueKjarGcPSoWX8DUE) | 2:52 |
 | 60 | [Taking It Easy](https://open.spotify.com/track/3TxzxETVzNxcVgyH046azF) | [GoodLuck](https://open.spotify.com/artist/4iSv3eRHwrwQTYbRCXxmL3) | [Taking It Easy](https://open.spotify.com/album/7tpKCYCD9014y6vclyHMaG) | 4:04 |
 
-Snapshot ID: `MCxlNWI1NDFlYzA4YTJlOWU2ODRkNDgyNzgwNDI4MjdiYzRlNWYzYzc0`
+Snapshot ID: `MCw1MDliNjExZDA3NDZlMjc0MTkxODE0NDA3Y2FiZWY3MjQ5NmIwNGRl`

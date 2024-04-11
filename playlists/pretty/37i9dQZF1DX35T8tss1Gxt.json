@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover:  <a href=\"spotify:artist:7z7byOJ4AJnMY2NHE66ZpW\">DOE</a>",
-  "num_followers": 237165,
+  "num_followers": 237277,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTE0NDI0OTNmMzcxOGY5Mzk1MjAzMTdlNzQxYzExNjc2OTYzNTdl",
+  "snapshot_id": "MCwwZGVmMGYxYmM3OTg0NjgxNWQ2MjliNjBhMTYwZjFmMWY3N2ZjNDI5",
   "tracks": [
     {
       "added_at": "2024-01-12 07:49:20",
@@ -579,18 +579,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "God Be Praised",
-        "url": "https://open.spotify.com/album/00WLAsJIt5qbV4D360sy8i"
+        "name": "When Tears Fall",
+        "url": "https://open.spotify.com/album/5KIb2TJs6Fz2h1egoxjweO"
       },
       "artists": [
         {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+          "name": "Yung Kriss",
+          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
         }
       ],
-      "duration_ms": 213920,
-      "name": "Yes I Do",
-      "url": "https://open.spotify.com/track/5Hq0aYRj1p1vD6w6JTe2sy"
+      "duration_ms": 168000,
+      "name": "When Tears Fall",
+      "url": "https://open.spotify.com/track/6kGPEBbI2Uk7nTsfcd2pmF"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -611,18 +611,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "When Tears Fall",
-        "url": "https://open.spotify.com/album/5KIb2TJs6Fz2h1egoxjweO"
+        "name": "God Be Praised",
+        "url": "https://open.spotify.com/album/00WLAsJIt5qbV4D360sy8i"
       },
       "artists": [
         {
-          "name": "Yung Kriss",
-          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
         }
       ],
-      "duration_ms": 168000,
-      "name": "When Tears Fall",
-      "url": "https://open.spotify.com/track/6kGPEBbI2Uk7nTsfcd2pmF"
+      "duration_ms": 213920,
+      "name": "Yes I Do",
+      "url": "https://open.spotify.com/track/5Hq0aYRj1p1vD6w6JTe2sy"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -683,42 +683,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Belongs To You (Remix Pack)",
-        "url": "https://open.spotify.com/album/4JFyOepnA6LzoCMgDc8T7X"
-      },
-      "artists": [
-        {
-          "name": "Sarah T\u00e9ibo",
-          "url": "https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT"
-        },
-        {
-          "name": "Tania Ilyashova",
-          "url": "https://open.spotify.com/artist/74N4e6I2a1hlhzYMFh7N6i"
-        }
-      ],
-      "duration_ms": 158479,
-      "name": "Belongs To You - Lofi Remix",
-      "url": "https://open.spotify.com/track/4niYuESanlUNSn9m9v16P0"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Nothing To Something",
-        "url": "https://open.spotify.com/album/7xSHG5Qj1WZJ0ykFgnMwjY"
-      },
-      "artists": [
-        {
-          "name": "Grace Tena",
-          "url": "https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT"
-        }
-      ],
-      "duration_ms": 257896,
-      "name": "Nothing To Something",
-      "url": "https://open.spotify.com/track/4IE9nQZmfNXVJCRau4PzTz"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Dante Bowe",
         "url": "https://open.spotify.com/album/0k2wJSus536g9a8w4AU0GG"
       },
@@ -739,6 +703,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "Nothing To Something",
+        "url": "https://open.spotify.com/album/7xSHG5Qj1WZJ0ykFgnMwjY"
+      },
+      "artists": [
+        {
+          "name": "Grace Tena",
+          "url": "https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT"
+        }
+      ],
+      "duration_ms": 257896,
+      "name": "Nothing To Something",
+      "url": "https://open.spotify.com/track/4IE9nQZmfNXVJCRau4PzTz"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "First Love",
         "url": "https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 248057,
       "name": "First Love",
       "url": "https://open.spotify.com/track/44cZgCZcRgxkLV46iASa5K"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Belongs To You (Remix Pack)",
+        "url": "https://open.spotify.com/album/4JFyOepnA6LzoCMgDc8T7X"
+      },
+      "artists": [
+        {
+          "name": "Sarah T\u00e9ibo",
+          "url": "https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT"
+        },
+        {
+          "name": "Tania Ilyashova",
+          "url": "https://open.spotify.com/artist/74N4e6I2a1hlhzYMFh7N6i"
+        }
+      ],
+      "duration_ms": 158479,
+      "name": "Belongs To You - Lofi Remix",
+      "url": "https://open.spotify.com/track/4niYuESanlUNSn9m9v16P0"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -807,26 +807,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Satisfy",
-        "url": "https://open.spotify.com/album/6drp9uGaG3IygzSir4EKpr"
-      },
-      "artists": [
-        {
-          "name": "Glochi",
-          "url": "https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Satisfy",
-      "url": "https://open.spotify.com/track/4asSIgSVXvZejEJ9B3yvIg"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "How I Love You",
         "url": "https://open.spotify.com/album/5LMUx4AD74PyBX0lpwpHrY"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 261000,
       "name": "How I Love You",
       "url": "https://open.spotify.com/track/4JnUrkXkP5rZFtS54tSHgf"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Satisfy",
+        "url": "https://open.spotify.com/album/6drp9uGaG3IygzSir4EKpr"
+      },
+      "artists": [
+        {
+          "name": "Glochi",
+          "url": "https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Satisfy",
+      "url": "https://open.spotify.com/track/4asSIgSVXvZejEJ9B3yvIg"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Provider",
-        "url": "https://open.spotify.com/album/1sITlmcQXf1rY1L85dj285"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        }
-      ],
-      "duration_ms": 212687,
-      "name": "Provider",
-      "url": "https://open.spotify.com/track/7hllC9WneRH2JYVaVjSQNL"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "I Rely",
         "url": "https://open.spotify.com/album/38l2hDLPfz2xHLxeoVqJGB"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 229053,
       "name": "I Rely",
       "url": "https://open.spotify.com/track/0OeSsrfNKaGyay7I1XOmD1"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Provider",
+        "url": "https://open.spotify.com/album/1sITlmcQXf1rY1L85dj285"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "duration_ms": 212687,
+      "name": "Provider",
+      "url": "https://open.spotify.com/track/7hllC9WneRH2JYVaVjSQNL"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Pray For Me",
-        "url": "https://open.spotify.com/album/7MVBNLbOp2MyvWRbbPvkNZ"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 224606,
-      "name": "Pray For Me",
-      "url": "https://open.spotify.com/track/6CinFilifLHPP711UIiMfH"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Pull My Heart Away",
         "url": "https://open.spotify.com/album/1OxM5G8WOARS4BKwh9Hiuv"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 201938,
       "name": "My Worship",
       "url": "https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Pray For Me",
+        "url": "https://open.spotify.com/album/7MVBNLbOp2MyvWRbbPvkNZ"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 224606,
+      "name": "Pray For Me",
+      "url": "https://open.spotify.com/track/6CinFilifLHPP711UIiMfH"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Only Jesus",
-        "url": "https://open.spotify.com/album/4upyzpqbWE0SvJvn8ZimeQ"
-      },
-      "artists": [
-        {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
-        }
-      ],
-      "duration_ms": 166829,
-      "name": "Only Jesus",
-      "url": "https://open.spotify.com/track/3ezoX2cVZKnRy1frok8PQC"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "High Level Praise",
         "url": "https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 198504,
       "name": "Whirlwind",
       "url": "https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4upyzpqbWE0SvJvn8ZimeQ"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        }
+      ],
+      "duration_ms": 166829,
+      "name": "Only Jesus",
+      "url": "https://open.spotify.com/track/3ezoX2cVZKnRy1frok8PQC"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Thousands of Years",
-        "url": "https://open.spotify.com/album/1Hcnr14wcAvI1QN1hFyWvS"
-      },
-      "artists": [
-        {
-          "name": "Daphne Richardson",
-          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
-        }
-      ],
-      "duration_ms": 181352,
-      "name": "Thousands of Years",
-      "url": "https://open.spotify.com/track/3AhHpERIEALOxoKNCcfLt0"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Lover of My Soul",
         "url": "https://open.spotify.com/album/2S3qRBiuvL9pD5oHPvobHd"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 202434,
       "name": "Lover of My Soul",
       "url": "https://open.spotify.com/track/4YvMr5qhiFghZLsf0KUXio"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Thousands of Years",
+        "url": "https://open.spotify.com/album/1Hcnr14wcAvI1QN1hFyWvS"
+      },
+      "artists": [
+        {
+          "name": "Daphne Richardson",
+          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
+        }
+      ],
+      "duration_ms": 181352,
+      "name": "Thousands of Years",
+      "url": "https://open.spotify.com/track/3AhHpERIEALOxoKNCcfLt0"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "SO MUCH",
-        "url": "https://open.spotify.com/album/1LHx6JeLDqE2reKEZFNUbY"
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/7nzPtsAF728Ku6zUeWrzpf"
       },
       "artists": [
         {
-          "name": "MARV",
-          "url": "https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35"
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
         }
       ],
-      "duration_ms": 186888,
-      "name": "SO MUCH",
-      "url": "https://open.spotify.com/track/1dtlsS6d2HWcc6dn2CmRIR"
+      "duration_ms": 222918,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/1d243Cx7wTKXSixtGsDINB"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/7nzPtsAF728Ku6zUeWrzpf"
+        "name": "SO MUCH",
+        "url": "https://open.spotify.com/album/1LHx6JeLDqE2reKEZFNUbY"
       },
       "artists": [
         {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+          "name": "MARV",
+          "url": "https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35"
         }
       ],
-      "duration_ms": 222918,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/1d243Cx7wTKXSixtGsDINB"
+      "duration_ms": 186888,
+      "name": "SO MUCH",
+      "url": "https://open.spotify.com/track/1dtlsS6d2HWcc6dn2CmRIR"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Sun Son",
-        "url": "https://open.spotify.com/album/0ftye6YVCqWInEykok7IJt"
-      },
-      "artists": [
-        {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
-        }
-      ],
-      "duration_ms": 252800,
-      "name": "Sun Son",
-      "url": "https://open.spotify.com/track/57Rq8hVJ3rZIS4LoHE2kBb"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "WORTHY",
         "url": "https://open.spotify.com/album/0rSrNBf65mgV4DHXb73Kbp"
       },
@@ -1555,18 +1539,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Cornerstone",
-        "url": "https://open.spotify.com/album/4C2ROejT301KgDkPakUU0R"
+        "name": "Sun Son",
+        "url": "https://open.spotify.com/album/0ftye6YVCqWInEykok7IJt"
       },
       "artists": [
         {
-          "name": "Keyondra Lockett",
-          "url": "https://open.spotify.com/artist/3adyeKexNPZGZ2wNvqqmw7"
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
         }
       ],
-      "duration_ms": 237650,
-      "name": "You Your Love",
-      "url": "https://open.spotify.com/track/3hKRb7aCt4JDilacNxeMk0"
+      "duration_ms": 252800,
+      "name": "Sun Son",
+      "url": "https://open.spotify.com/track/57Rq8hVJ3rZIS4LoHE2kBb"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1583,6 +1567,22 @@
       "duration_ms": 168834,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/5mkosFaeklJwnN7NNjxzI3"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Cornerstone",
+        "url": "https://open.spotify.com/album/4C2ROejT301KgDkPakUU0R"
+      },
+      "artists": [
+        {
+          "name": "Keyondra Lockett",
+          "url": "https://open.spotify.com/artist/3adyeKexNPZGZ2wNvqqmw7"
+        }
+      ],
+      "duration_ms": 237650,
+      "name": "You Your Love",
+      "url": "https://open.spotify.com/track/3hKRb7aCt4JDilacNxeMk0"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Like Yours",
-        "url": "https://open.spotify.com/album/5azmENYG8KnyBBhX2zGADH"
-      },
-      "artists": [
-        {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
-        }
-      ],
-      "duration_ms": 207529,
-      "name": "Like Yours",
-      "url": "https://open.spotify.com/track/2GxOocpI0dqAdjbqQUkb4l"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Your Arms",
         "url": "https://open.spotify.com/album/2FGO1TD4b69CQHPG4tbB6v"
       },
@@ -1667,6 +1651,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "Like Yours",
+        "url": "https://open.spotify.com/album/5azmENYG8KnyBBhX2zGADH"
+      },
+      "artists": [
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        }
+      ],
+      "duration_ms": 207529,
+      "name": "Like Yours",
+      "url": "https://open.spotify.com/track/2GxOocpI0dqAdjbqQUkb4l"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/1iPG6Dzwp4vOHahDCsNaTI"
       },
@@ -1683,6 +1683,22 @@
       "duration_ms": 242181,
       "name": "Joy",
       "url": "https://open.spotify.com/track/5Ta0V7LXXNnfgl2RRxqG9u"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Me and You",
+        "url": "https://open.spotify.com/album/4r7HAPoBJPvNNQo7zZzmAw"
+      },
+      "artists": [
+        {
+          "name": "Jordan May",
+          "url": "https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/4vO4V0CcvJZSK87zqJnvks"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1723,34 +1739,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Me and You",
-        "url": "https://open.spotify.com/album/4r7HAPoBJPvNNQo7zZzmAw"
+        "name": "Your Love Will Never Change",
+        "url": "https://open.spotify.com/album/2Yq6QxSZAv7e48JOYpMsVu"
       },
       "artists": [
         {
-          "name": "Jordan May",
-          "url": "https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v"
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
         }
       ],
-      "duration_ms": 199090,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/4vO4V0CcvJZSK87zqJnvks"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "JUST BE US",
-        "url": "https://open.spotify.com/album/6OTEkrlDNbCaFfjr46CEY7"
-      },
-      "artists": [
-        {
-          "name": "Tylynn",
-          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
-        }
-      ],
-      "duration_ms": 142889,
-      "name": "JUST BE US",
-      "url": "https://open.spotify.com/track/3pdHgrjBEBZPY8AM7voeCb"
+      "duration_ms": 262800,
+      "name": "Your Love Will Never Change",
+      "url": "https://open.spotify.com/track/0rfx6Og7mSGN57kMJKoCnQ"
     }
   ],
   "unique_name": "Rhythm & Praise",

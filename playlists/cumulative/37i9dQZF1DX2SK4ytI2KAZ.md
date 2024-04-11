@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-559 songs - 1 day 6 hr 48 min
+560 songs - 1 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,8 @@
 | [Fred Astaire](https://open.spotify.com/track/0naZsTswDsNhj5BT4w6CDv) | [Jukebox The Ghost](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) | [Fred Astaire](https://open.spotify.com/album/1TMmoGkyRktJkcgaYB8uW8) | 3:39 | 2021-03-10 | 2022-07-29 |
 | [Fred Astaire](https://open.spotify.com/track/2lYLaKcZ1bwrIEJcD5LGOx) | [Jukebox The Ghost](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) | [Off To The Races](https://open.spotify.com/album/0vGId8rvkYSChOrt2A6HVc) | 3:39 | 2022-10-07 | 2023-11-05 |
 | [Fred Astaire](https://open.spotify.com/track/6JgXQTdqLL1xS5qfqOGVNb) | [Jukebox The Ghost](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) | [Off To The Races](https://open.spotify.com/album/5oErwuqKXdPtKzYLzD6sF5) | 3:39 | 2022-06-27 | 2022-10-14 |
-| [Gen\-X Cops](https://open.spotify.com/track/0UqpCnZlv5X2IJf9OOR5fh) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 3:47 | 2024-02-16 |  |
+| [Gen\-X Cops](https://open.spotify.com/track/0UqpCnZlv5X2IJf9OOR5fh) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 3:47 | 2024-02-16 | 2024-04-11 |
+| [Gen\-X Cops](https://open.spotify.com/track/7EBmnpMsikHSmwOoCnAKrd) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 3:47 | 2024-03-10 |  |
 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-09-08 | 2024-01-13 |
 | [Get Up Kid](https://open.spotify.com/track/6HQpMGnMQ1mVbTv0WA0u7r) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Get Up Kid](https://open.spotify.com/album/2R7PVrfhfVcGPTXI8nDVGL) | 2:58 | 2023-08-07 | 2023-10-28 |
 | [Gimme Twice](https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk) | [The Royal Concept](https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2) | [Royal](https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg) | 3:24 | 2022-03-11 | 2023-03-29 |

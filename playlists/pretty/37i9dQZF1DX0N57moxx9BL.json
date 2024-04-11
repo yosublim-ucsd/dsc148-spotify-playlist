@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:09LCTrVGnMsGbxexUFJoap\">Lacey Sturm</a> ",
-  "num_followers": 148052,
+  "num_followers": 148109,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjBkNzJiMDZlYjM2MWU5ZjJlNzZkNzNmNzgzOWYzMDU4ODc1NmIw",
+  "snapshot_id": "MCxiM2M3YTdlZDI5OTEzODVlM2I2ZWE2MDNhOTNlMWRkOGVjZmQ4YTk4",
   "tracks": [
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/0kDyz6pYuETYz1VQTo9P1I"
-      },
-      "artists": [
-        {
-          "name": "House of Heroes",
-          "url": "https://open.spotify.com/artist/77JuhnpOBW0tatc1nJg6qB"
-        }
-      ],
-      "duration_ms": 200176,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/74mgWWBsRrri1fCY2BPILK"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/53d2Js7Xbyw8MlCq2EcXvW"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 233906,
       "name": "Way You Love Me",
       "url": "https://open.spotify.com/track/1CFV6jDeM0HDY0wqvbhNCW"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/0kDyz6pYuETYz1VQTo9P1I"
+      },
+      "artists": [
+        {
+          "name": "House of Heroes",
+          "url": "https://open.spotify.com/artist/77JuhnpOBW0tatc1nJg6qB"
+        }
+      ],
+      "duration_ms": 200176,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/74mgWWBsRrri1fCY2BPILK"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Future Golden Age",
-        "url": "https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV"
-      },
-      "artists": [
-        {
-          "name": "Fallstar",
-          "url": "https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Radio (NW Hesh)",
-      "url": "https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "What Are You Waiting For",
         "url": "https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 199252,
       "name": "What Are You Waiting For",
       "url": "https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Future Golden Age",
+        "url": "https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV"
+      },
+      "artists": [
+        {
+          "name": "Fallstar",
+          "url": "https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Radio (NW Hesh)",
+      "url": "https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL"
     },
     {
       "added_at": "2023-11-17 22:08:15",

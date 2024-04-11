@@ -1,12 +1,12 @@
 {
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: BANG YEDAM, WINTER)",
-  "num_followers": 1001410,
+  "num_followers": 1001387,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGMxZDEyYjI4YmE3MzMxOTE2YjMwMGJiNzhlYTRlMmQxNDg1YjZl",
+  "snapshot_id": "MCxjNGMzM2QxNDYzMWIzNzUxYzllMGJhODdkYTUwNmMwY2UxZTlkYzA5",
   "tracks": [
     {
       "added_at": "2024-04-05 03:58:22",
@@ -375,6 +375,22 @@
     {
       "added_at": "2024-04-05 03:58:22",
       "album": {
+        "name": "Savage - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Lucid Dream",
+      "url": "https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH"
+    },
+    {
+      "added_at": "2024-04-05 03:58:22",
+      "album": {
         "name": "Yes or No",
         "url": "https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 179146,
       "name": "Yes or No (Feat. \ud5c8\uc724\uc9c4 of LE SSERAFIM, Crush)",
       "url": "https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq"
-    },
-    {
-      "added_at": "2024-04-05 03:58:22",
-      "album": {
-        "name": "Savage - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Lucid Dream",
-      "url": "https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH"
     },
     {
       "added_at": "2024-04-05 03:58:22",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-04-05 03:58:22",
       "album": {
+        "name": "love you twice",
+        "url": "https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4"
+      },
+      "artists": [
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        }
+      ],
+      "duration_ms": 172189,
+      "name": "love you twice",
+      "url": "https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8"
+    },
+    {
+      "added_at": "2024-04-05 03:58:22",
+      "album": {
         "name": "Down to Earth",
         "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 175775,
       "name": "VIBE (feat. Jimin of BTS)",
       "url": "https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK"
-    },
-    {
-      "added_at": "2024-04-05 03:58:22",
-      "album": {
-        "name": "love you twice",
-        "url": "https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4"
-      },
-      "artists": [
-        {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
-        }
-      ],
-      "duration_ms": 172189,
-      "name": "love you twice",
-      "url": "https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8"
     },
     {
       "added_at": "2024-04-05 03:58:22",
@@ -563,58 +563,6 @@
     {
       "added_at": "2024-04-05 03:58:22",
       "album": {
-        "name": "MY WORLD - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 193413,
-      "name": "Thirsty",
-      "url": "https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa"
-    },
-    {
-      "added_at": "2024-04-05 03:58:22",
-      "album": {
-        "name": "INVITATION (Feat. Gaeko)",
-        "url": "https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        },
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
-        }
-      ],
-      "duration_ms": 191359,
-      "name": "INVITATION (Feat. Gaeko)",
-      "url": "https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK"
-    },
-    {
-      "added_at": "2024-04-05 03:58:22",
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 171160,
-      "name": "For Us",
-      "url": "https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD"
-    },
-    {
-      "added_at": "2024-04-05 03:58:22",
-      "album": {
         "name": "Down to Earth",
         "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
       },
@@ -635,6 +583,38 @@
     {
       "added_at": "2024-04-05 03:58:22",
       "album": {
+        "name": "MY WORLD - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 193413,
+      "name": "Thirsty",
+      "url": "https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa"
+    },
+    {
+      "added_at": "2024-04-05 03:58:22",
+      "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 171160,
+      "name": "For Us",
+      "url": "https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD"
+    },
+    {
+      "added_at": "2024-04-05 03:58:22",
+      "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 197613,
       "name": "LOVE COUNTDOWN (Feat. Wonstein)",
       "url": "https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI"
+    },
+    {
+      "added_at": "2024-04-05 03:58:22",
+      "album": {
+        "name": "INVITATION (Feat. Gaeko)",
+        "url": "https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "duration_ms": 191359,
+      "name": "INVITATION (Feat. Gaeko)",
+      "url": "https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK"
     },
     {
       "added_at": "2024-04-05 03:58:22",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-04-05 03:58:22",
       "album": {
-        "name": "modern breakups",
-        "url": "https://open.spotify.com/album/59Dkfn6sD5usY9cwebxX60"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        }
-      ],
-      "duration_ms": 184833,
-      "name": "maybe we need a break",
-      "url": "https://open.spotify.com/track/4KnjQKwfL4kd1hD4jHZ7XT"
-    },
-    {
-      "added_at": "2024-04-05 03:58:22",
-      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 224098,
       "name": "What 2 Do",
       "url": "https://open.spotify.com/track/6GS3lnAVy5w6AHWEKYzYeS"
+    },
+    {
+      "added_at": "2024-04-05 03:58:22",
+      "album": {
+        "name": "modern breakups",
+        "url": "https://open.spotify.com/album/59Dkfn6sD5usY9cwebxX60"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        }
+      ],
+      "duration_ms": 184833,
+      "name": "maybe we need a break",
+      "url": "https://open.spotify.com/track/4KnjQKwfL4kd1hD4jHZ7XT"
     },
     {
       "added_at": "2024-04-05 03:58:22",

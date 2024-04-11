@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,470 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,511 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 49 | [Asleep in the Desert \(Instrumental\)](https://open.spotify.com/track/4PCPSEEKOsqr7vhX19dExv) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K) | 3:29 |
 | 50 | [She Loves My Automobile](https://open.spotify.com/track/6KSOiVNjYx0DTq4WqcsLqk) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ) | 2:23 |
 
-Snapshot ID: `MCxjNzY3OThhM2I2NzI0NGJiOGM1M2M2NmVmZmNmYjVjNzUzMjhhOTBm`
+Snapshot ID: `MCw0MzRiYjYyYTA4ODBkMzJmNDNmMTQ0NmFiZmY2NDY5ODBiNjJlOWRk`

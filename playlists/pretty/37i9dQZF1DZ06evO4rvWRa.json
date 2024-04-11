@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1646917,
+  "num_followers": 1646986,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWIyZTc3YjMxM2NiMThkODdjOTQyZDgzZTgxMTM2NDE5NTdlMTkw",
+  "snapshot_id": "MCw5NmFmYmJjMTM3N2ZmZGVhMWY0NzJiMDRkMGNlMTY2MzUyMDUyZTdm",
   "tracks": [
     {
       "added_at": null,
@@ -271,30 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Headlights (feat. KIDDO)",
-        "url": "https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Headlights (feat. KIDDO)",
-      "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
       },
@@ -311,6 +287,30 @@
       "duration_ms": 175271,
       "name": "Hero",
       "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different World",
+        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        },
+        {
+          "name": "Tomine Harket",
+          "url": "https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "Darkside",
+      "url": "https://open.spotify.com/track/6SRWhUJcD2YKahCwHavz3X"
     },
     {
       "added_at": null,
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unity",
-        "url": "https://open.spotify.com/album/22lXrN1Kqr8FNNZLPNmEeh"
-      },
-      "artists": [
-        {
-          "name": "The Walkers",
-          "url": "https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 204521,
-      "name": "Unity",
-      "url": "https://open.spotify.com/track/3Os9onUOoxT6EP3kwiMRKA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World Of Walker",
         "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 178625,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/22lXrN1Kqr8FNNZLPNmEeh"
+      },
+      "artists": [
+        {
+          "name": "The Walkers",
+          "url": "https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 204521,
+      "name": "Unity",
+      "url": "https://open.spotify.com/track/3Os9onUOoxT6EP3kwiMRKA"
     },
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        }
-      ],
-      "duration_ms": 187040,
-      "name": "Endless Summer",
-      "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Team Side Feat. RCB",
         "url": "https://open.spotify.com/album/6bxJPyjZuWGRxE825Wy2wk"
       },
@@ -595,6 +575,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "duration_ms": 187040,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Different World",
         "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 222320,
       "name": "Lost Control",
       "url": "https://open.spotify.com/track/0lG6QM1jjbbX5UUn3DPmrZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Drum",
+        "url": "https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 189287,
+      "name": "The Drum",
+      "url": "https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ"
     },
     {
       "added_at": null,
@@ -711,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different World",
-        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "Sing Me to Sleep",
-      "url": "https://open.spotify.com/track/1tfVpMI8G6EakZU4rEja4w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't You Hold Me Down",
         "url": "https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkerverse Pt. I & II",
-        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 145824,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/0BxhpnfBTbnDfXi7mK4B6B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World Of Walker",
         "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 183344,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/2sVcG5mresyV79qpYr3M1C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walkerverse Pt. I & II",
+        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 145824,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/0BxhpnfBTbnDfXi7mK4B6B"
     },
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkerverse Pt. I & II",
-        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sophie Simmons",
-          "url": "https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy"
-        }
-      ],
-      "duration_ms": 129024,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/2ECNBJ0b112QmhoBHKq8O6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World Of Walker",
         "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 165388,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6k1Q8mNcA2jFH0uv5B6g9G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walkerverse Pt. I & II",
+        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sophie Simmons",
+          "url": "https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy"
+        }
+      ],
+      "duration_ms": 129024,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/2ECNBJ0b112QmhoBHKq8O6"
     },
     {
       "added_at": null,
@@ -935,26 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkerverse Pt. I & II",
-        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sorana",
-          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
-        }
-      ],
-      "duration_ms": 151101,
-      "name": "Catch Me If You Can",
-      "url": "https://open.spotify.com/track/1NLATwwXcg0ff8PDY7xkYM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "That's What I Like (Alan Walker Remix)",
         "url": "https://open.spotify.com/album/6LD3J50OxLEQbAB8ahoj1S"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 195888,
       "name": "That's What I Like - Alan Walker Remix",
       "url": "https://open.spotify.com/track/1KtU0WCq472KzqCXgMOxkS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walkerverse Pt. I & II",
+        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+        }
+      ],
+      "duration_ms": 151101,
+      "name": "Catch Me If You Can",
+      "url": "https://open.spotify.com/track/1NLATwwXcg0ff8PDY7xkYM"
     },
     {
       "added_at": null,
@@ -1019,26 +1019,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkerverse Pt. I & II",
-        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        }
-      ],
-      "duration_ms": 157566,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/2DwNvCKsQLtLILczk3I9bA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World Of Walker",
         "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 161828,
       "name": "World We Used To Know",
       "url": "https://open.spotify.com/track/5I9Qa1LfGcQGCIC32lh9Ka"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walkerverse Pt. I & II",
+        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        }
+      ],
+      "duration_ms": 157566,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2DwNvCKsQLtLILczk3I9bA"
     }
   ],
   "unique_name": "This Is Alan Walker",

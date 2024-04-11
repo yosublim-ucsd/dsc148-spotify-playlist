@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 135973,
+  "num_followers": 135988,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGU0MDlhZTJhMmE2Yjk1MzAyMTRmZGYyYjM5NmFjY2QwNDA5ZGQ1",
+  "snapshot_id": "MCxhZjZlNTc0NjU2MTQxMTJkY2ExYTBiN2I5M2Q3MTg4MzYwYzVkYThj",
   "tracks": [
     {
       "added_at": "2024-02-01 13:01:25",
@@ -379,38 +379,6 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Falling for You",
-        "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
-        "name": "Verano",
-        "url": "https://open.spotify.com/album/4PQJ3PG46fo29GN0a3Dj7H"
-      },
-      "artists": [
-        {
-          "name": "Jantoje",
-          "url": "https://open.spotify.com/artist/0ISMhfuHRFjqZ8PztWHHDx"
-        }
-      ],
-      "duration_ms": 212756,
-      "name": "Heart Strings",
-      "url": "https://open.spotify.com/track/5fUcckBVUWX4HbShrP6YoI"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
         "name": "Oh My (feat. Moby)",
         "url": "https://open.spotify.com/album/4OTve5gpkJVmmRltUEXkT0"
       },
@@ -431,6 +399,38 @@
       "duration_ms": 160116,
       "name": "Oh My (feat. Moby)",
       "url": "https://open.spotify.com/track/0c6XBVz2evmzERhch4Diew"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "Verano",
+        "url": "https://open.spotify.com/album/4PQJ3PG46fo29GN0a3Dj7H"
+      },
+      "artists": [
+        {
+          "name": "Jantoje",
+          "url": "https://open.spotify.com/artist/0ISMhfuHRFjqZ8PztWHHDx"
+        }
+      ],
+      "duration_ms": 212756,
+      "name": "Heart Strings",
+      "url": "https://open.spotify.com/track/5fUcckBVUWX4HbShrP6YoI"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "Falling for You",
+        "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Sisyphus",
-        "url": "https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp"
-      },
-      "artists": [
-        {
-          "name": "Golden Features",
-          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
-        },
-        {
-          "name": "Rromarin",
-          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/35va3avWAmS4HMKANASOEp"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
         "name": "Love Is Real",
         "url": "https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 197727,
       "name": "Love Is Real",
       "url": "https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "Sisyphus",
+        "url": "https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp"
+      },
+      "artists": [
+        {
+          "name": "Golden Features",
+          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
+        },
+        {
+          "name": "Rromarin",
+          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/35va3avWAmS4HMKANASOEp"
     },
     {
       "added_at": "2024-02-01 13:01:25",

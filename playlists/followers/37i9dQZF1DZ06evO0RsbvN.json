@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 5550,
+  "2024-04-11": 5553,
   "date_first_scraped": "2022-08-06",
   "description": "This is Ma Rainey. The essential tracks, all in one playlist.",
   "name": "This Is Ma Rainey",
@@ -799,7 +799,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 156573,
       "name": "Damper Down Blues",
       "url": "https://open.spotify.com/track/7fjWYrWm0ufAwVaEvge2aM"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 173140,
       "name": "Don't Fish In My Sea",
       "url": "https://open.spotify.com/track/2hyu2pSSqC2AxKPc1k92pR"
@@ -1591,7 +1591,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 172892,
       "name": "Lawd Send Me A Blues",
       "url": "https://open.spotify.com/track/6enaVlwavWEg1L2pwYUVbS"
@@ -1627,7 +1627,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 167093,
       "name": "Lawd Send Me a Man Blues",
       "url": "https://open.spotify.com/track/59qNYlvIKsqEbt9yWXTN2K"
@@ -1663,7 +1663,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 189080,
       "name": "Leaving This Morning",
       "url": "https://open.spotify.com/track/6R73IyuMx4cbGXRkEXgHQZ"
@@ -1879,7 +1879,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 186333,
       "name": "Ma and Pa Poorhouse Blues",
       "url": "https://open.spotify.com/track/23lxqaTbyIEfm8kbi6nCw0"
@@ -2815,7 +2815,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 177400,
       "name": "Stack O' Lee Blues",
       "url": "https://open.spotify.com/track/0BjMBdn02dt8BysajdzhJ9"
@@ -2833,7 +2833,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 175726,
       "name": "Stack O'Lee Blues",
       "url": "https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO"
@@ -3301,7 +3301,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 178653,
       "name": "Ya-Da-Do",
       "url": "https://open.spotify.com/track/5rd5VIxBcDMYoPjv5C2emj"
@@ -3355,7 +3355,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 182465,
       "name": "Yonder Come The Blues",
       "url": "https://open.spotify.com/track/3yh8U9XVznJKRVGqqabHEf"

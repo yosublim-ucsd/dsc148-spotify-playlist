@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FiQUm1UvSn.md) - [plain]
 
 > The best soundtrack to relax and stretch your body before or after training!
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,484 likes - 102 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,551 likes - 102 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FiQUm1UvSn.md) - [plain]
 | 39 | [You're Losing Me](https://open.spotify.com/track/5ScpcdugUeOQTbVxYCBiuy) | [Kody Ternes](https://open.spotify.com/artist/3kcZRvJW10HzHleumOMgTc) | [You're Losing Me](https://open.spotify.com/album/4jFe1w3b0ovGoiXjJ3lL7i) | 3:20 |
 | 40 | [Say So \- Acoustic](https://open.spotify.com/track/4oyX53bkiEB9seveixcTX8) | [Le Vitates](https://open.spotify.com/artist/5ao5cOf9lGP6pyIESuiaf1), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [Say So \(Acoustic\)](https://open.spotify.com/album/2P8wPoMiZOC9GjeDblFHre) | 3:50 |
 | 41 | [I like me better](https://open.spotify.com/track/0OT1xJ6XUE7EJQVpJPNu5p) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [I like me better](https://open.spotify.com/album/1S3x2EX5lMe4Z8mC7m01oz) | 3:12 |
-| 42 | [Cool](https://open.spotify.com/track/0B6Gf49UuiyYiKM3cCdfzW) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Cool](https://open.spotify.com/album/3Y5mbHm9zcwmAmhKlORakx) | 4:03 |
+| 42 | [Cool](https://open.spotify.com/track/6lF7TSRbGXhSQhGWQyvBaX) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Cool](https://open.spotify.com/album/4R5WjtyRwOjs0iNi2pD0MZ) | 4:03 |
 | 43 | [Hell N Back](https://open.spotify.com/track/6ZwapbdaYHnbZ0ZJr79SP7) | [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Hell N Back](https://open.spotify.com/album/7yLDElxlTWwOKPaZ3fTMH6) | 3:21 |
 | 44 | [Blinding Lights](https://open.spotify.com/track/7q8Tf2APnxcQWKT69nfegF) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Blinding Lights](https://open.spotify.com/album/34fwE3cLPQVlNRA8seANC1) | 3:26 |
 | 45 | [Only Girl In The World](https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Only Girl In The World](https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG) | 3:46 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FiQUm1UvSn.md) - [plain]
 | 101 | [Rise](https://open.spotify.com/track/1nsn93tZ1aUhsEbNETgkvH) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Rise](https://open.spotify.com/album/1751wnl8603VRyhfuLVw35) | 3:50 |
 | 102 | [Royals](https://open.spotify.com/track/1KsRM8VMvRmuCG4WJwmrHj) | [Chloe Kay](https://open.spotify.com/artist/51GieYvdLrSrV9hNNtjRv7) | [Royals](https://open.spotify.com/album/77A1W1oCFKNlAugpDQHhEY) | 3:22 |
 
-Snapshot ID: `MCw1YTFhOGVmMTRiOWMxNTYwMGIyZjgxOTc4Y2ExMDBjNzNjODU4NGQ4`
+Snapshot ID: `MCw1ZmNiOTM2MTRjZjQwYTBiNjZkNzZmNzVlZTg4OWQ1OGE3OTY1YmRk`

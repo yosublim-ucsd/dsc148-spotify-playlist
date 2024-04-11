@@ -1,13 +1,29 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 602691,
+  "num_followers": 602749,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWZhNDE5MDVkOTI3NmFkOWUxNjdlOTIxZDdiOTAzYzU3ZjYzMmU4",
+  "snapshot_id": "MCxkMmM2MWEyZGIxMDdlNTgwOWNhYmRhNTJjYWVmMzcwMTNmOGNhZDkz",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
     {
       "added_at": null,
       "album": {
@@ -747,22 +763,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
+        "name": "I Wanna Dance With Somebody (The Movie: Whitney New, Classic and Reimagined)",
+        "url": "https://open.spotify.com/album/00EjgohJGEYfe4vP35LVOv"
       },
       "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 301573,
-      "name": "The Prince Of Egypt (When You Believe)",
-      "url": "https://open.spotify.com/track/2eGxZNPQVTWjXSKazFQOMg"
+      "duration_ms": 277409,
+      "name": "Why Does It Hurt So Bad - from \"Waiting to Exhale\" - Original Soundtrack",
+      "url": "https://open.spotify.com/track/6rDQtMkwq8UEIWnhNY2JYx"
     },
     {
       "added_at": null,
@@ -783,6 +795,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 301573,
+      "name": "The Prince Of Egypt (When You Believe)",
+      "url": "https://open.spotify.com/track/2eGxZNPQVTWjXSKazFQOMg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Bodyguard - Original Soundtrack Album",
         "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
@@ -795,22 +827,6 @@
       "duration_ms": 312506,
       "name": "Jesus Loves Me",
       "url": "https://open.spotify.com/track/77ld03vIqCjakQkIQBPTVA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Wanna Dance With Somebody (The Movie: Whitney New, Classic and Reimagined)",
-        "url": "https://open.spotify.com/album/00EjgohJGEYfe4vP35LVOv"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 277409,
-      "name": "Why Does It Hurt So Bad - from \"Waiting to Exhale\" - Original Soundtrack",
-      "url": "https://open.spotify.com/track/6rDQtMkwq8UEIWnhNY2JYx"
     },
     {
       "added_at": null,
@@ -847,22 +863,6 @@
       "duration_ms": 299800,
       "name": "Something In Common",
       "url": "https://open.spotify.com/track/3D6xxbFiyPRduSUowHbjSP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 256200,
-      "name": "You're Still My Man",
-      "url": "https://open.spotify.com/track/2csRQWI7A2FjLYBQBiAIoi"
     }
   ],
   "unique_name": "This Is Whitney Houston",

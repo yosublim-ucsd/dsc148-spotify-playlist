@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 8901,
+  "num_followers": 8904,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzgwODgwMTM2MTcxYmUwN2E1MzAxY2Q5ODRmMTYwM2IwZTZhNzQ2",
+  "snapshot_id": "MCxjMDFlMGNkYjE3NTk0ZTgxYmVjZjRhNDdkOTllMTU2MDdmZDU5NTZh",
   "tracks": [
     {
       "added_at": null,
@@ -479,6 +479,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHOPLIFE (feat. Patoranking)",
+        "url": "https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 213870,
+      "name": "CHOPLIFE (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roll On Me",
         "url": "https://open.spotify.com/album/6ssSTfQhXX5lDGanUJkOvJ"
       },
@@ -515,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHOPLIFE (feat. Patoranking)",
-        "url": "https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 213870,
-      "name": "CHOPLIFE (feat. Patoranking)",
-      "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TONIGHT",
         "url": "https://open.spotify.com/album/5S1jcA8VvY8XRyW9VRUelb"
       },
@@ -551,26 +551,6 @@
       "duration_ms": 196260,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/7BwkvLDMcBX6cMjvsbjvlQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yagi",
-        "url": "https://open.spotify.com/album/4dH19g7BC3ric2uEAGgEcv"
-      },
-      "artists": [
-        {
-          "name": "Lil Kesh",
-          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 234226,
-      "name": "Is It Because I Love You",
-      "url": "https://open.spotify.com/track/2AdSFvM8oRvXkL7y0HqP7r"
     },
     {
       "added_at": null,
@@ -599,22 +579,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Africa Unite",
-        "url": "https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY"
+        "name": "Yagi",
+        "url": "https://open.spotify.com/album/4dH19g7BC3ric2uEAGgEcv"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
         },
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 153057,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/5SbbWSuCgpX1FrEx08LlU8"
+      "duration_ms": 234226,
+      "name": "Is It Because I Love You",
+      "url": "https://open.spotify.com/track/2AdSFvM8oRvXkL7y0HqP7r"
     },
     {
       "added_at": null,
@@ -647,6 +627,26 @@
       "duration_ms": 239706,
       "name": "Celebrate Me",
       "url": "https://open.spotify.com/track/02J7gPkx8wI2NDi8eWM4w4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Africa Unite",
+        "url": "https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 153057,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5SbbWSuCgpX1FrEx08LlU8"
     },
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Chorus Leader",
-        "url": "https://open.spotify.com/album/4XixgWokwCKbYfghBiJIN5"
-      },
-      "artists": [
-        {
-          "name": "Timi Dakolo",
-          "url": "https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 179892,
-      "name": "Na So E Be",
-      "url": "https://open.spotify.com/track/683L171GQXtmrAVIobSftl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ma girl",
         "url": "https://open.spotify.com/album/6QckTJtuiIKNFFlymaxaos"
       },
@@ -851,6 +831,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Chorus Leader",
+        "url": "https://open.spotify.com/album/4XixgWokwCKbYfghBiJIN5"
+      },
+      "artists": [
+        {
+          "name": "Timi Dakolo",
+          "url": "https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 179892,
+      "name": "Na So E Be",
+      "url": "https://open.spotify.com/track/683L171GQXtmrAVIobSftl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God Over Everything",
         "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
       },
@@ -863,6 +863,22 @@
       "duration_ms": 232027,
       "name": "G.O.E",
       "url": "https://open.spotify.com/track/2VjfpkJblXjy1qc6DqmfP8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 189598,
+      "name": "Yo Body",
+      "url": "https://open.spotify.com/track/7gw2JZuedwF7jQEaoG8vPP"
     },
     {
       "added_at": null,
@@ -887,22 +903,6 @@
       "duration_ms": 188571,
       "name": "Kom Kom",
       "url": "https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 189598,
-      "name": "Yo Body",
-      "url": "https://open.spotify.com/track/7gw2JZuedwF7jQEaoG8vPP"
     },
     {
       "added_at": null,
@@ -1003,6 +1003,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 219552,
+      "name": "Smoke & Vibes",
+      "url": "https://open.spotify.com/track/6jFlpzEpvEPKDgLGrmgS7O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wilmer",
         "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 224597,
       "name": "Wilmer (feat. Bera)",
       "url": "https://open.spotify.com/track/4BSYq4DF84PXs9i7P8comh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WORLD BEST",
-        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 219552,
-      "name": "Smoke & Vibes",
-      "url": "https://open.spotify.com/track/6jFlpzEpvEPKDgLGrmgS7O"
     },
     {
       "added_at": null,
@@ -1079,6 +1079,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/627kAlU9VnbfhMjyUvhqxU"
+        }
+      ],
+      "duration_ms": 192006,
+      "name": "Gyal Like You",
+      "url": "https://open.spotify.com/track/3GaNUHY0Mcjygfrwto7afl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "W.E.E.D.",
         "url": "https://open.spotify.com/album/5HXfLb3qCRLpkDiRAHWTrY"
       },
@@ -1099,26 +1119,6 @@
       "duration_ms": 281453,
       "name": "Wait Refix",
       "url": "https://open.spotify.com/track/62NcIDnYukwleoEHIJYvdL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WORLD BEST",
-        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/627kAlU9VnbfhMjyUvhqxU"
-        }
-      ],
-      "duration_ms": 192006,
-      "name": "Gyal Like You",
-      "url": "https://open.spotify.com/track/3GaNUHY0Mcjygfrwto7afl"
     }
   ],
   "unique_name": "This Is Patoranking",

@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 57534,
+  "2024-04-11": 57538,
   "date_first_scraped": "2021-12-28",
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
   "name": "Latest Kannada",
@@ -14677,7 +14677,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 243428,
       "name": "Malenada Gombe - From \"Kerebete\"",
       "url": "https://open.spotify.com/track/5RYo9j2evcOWdfVvk3Adwb"
@@ -15475,6 +15475,28 @@
     {
       "album": {
         "name": "Max Title Theme (From \"Max\")",
+        "url": "https://open.spotify.com/album/5Me9a9ZNPiE8C8dg4RxZjl"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Vijay Kartikeyaa",
+          "url": "https://open.spotify.com/artist/1f9mvJjMvHo8wur1MpSio1"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51458,
+      "name": "Max Title Theme (From \"Max\")",
+      "url": "https://open.spotify.com/track/5SDQkDYHFXSPqY0lOF24kt"
+    },
+    {
+      "album": {
+        "name": "Max Title Theme (From \"Max\")",
         "url": "https://open.spotify.com/album/4SpsgDeO0MrMThHQrhVpts"
       },
       "artists": [
@@ -15489,7 +15511,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 51458,
       "name": "Max Title Theme (From \"Max\")",
       "url": "https://open.spotify.com/track/0mBmQS4J3tNj2E7SoMIYng"
@@ -18663,6 +18685,32 @@
       "duration_ms": 286000,
       "name": "Ninadene Januma",
       "url": "https://open.spotify.com/track/01dinBefJdMHHFdNYurQt3"
+    },
+    {
+      "album": {
+        "name": "Ninagaage (From \"O2\")",
+        "url": "https://open.spotify.com/album/4HtJfHsGNb0zHEo4WBiKUY"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Jayanth Kaikini",
+          "url": "https://open.spotify.com/artist/5sLLcCwFCniAJxzLMthF57"
+        },
+        {
+          "name": "Vivan Radhakrishna",
+          "url": "https://open.spotify.com/artist/7eiIWh3r5G13hmB61DI5VA"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214071,
+      "name": "Ninagaage (From \"O2\")",
+      "url": "https://open.spotify.com/track/2jgZcAqSUq1MpkYZSgNp5e"
     },
     {
       "album": {

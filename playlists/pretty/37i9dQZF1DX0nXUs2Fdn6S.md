@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,872 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,873 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 | 9 | [Love Forever](https://open.spotify.com/track/4VCdLSfRMx5nX2TsarZxUs) | [Swattrex](https://open.spotify.com/artist/1c4IXYT2idOski3WEtfJpW), [Chaitxnya](https://open.spotify.com/artist/1gcR7Ufcrolsr7zRn1bv1A) | [Love Forever](https://open.spotify.com/album/7bzpFypf96SjUDRKMok6gR) | 3:23 |
 | 10 | [Jadi Buti](https://open.spotify.com/track/1kGL1Mt8kNNhZDZwCocBBF) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Music Is The Weapon \(Reloaded\)](https://open.spotify.com/album/3xvUlOBBbOf1Y1O0OT1Qcu) | 2:43 |
 | 11 | [Noor](https://open.spotify.com/track/5B5mUnRDq9AGMGD8RdTjLL) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Noor](https://open.spotify.com/album/6lMrZq8CQ1Ew02OXQ7vmkt) | 2:38 |
-| 12 | [Leja](https://open.spotify.com/track/77kFQ06wtiKTmrgDlq4uwp) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP) | [Marigold Soundsystem](https://open.spotify.com/album/6t9tMKgYyud4Bb43XYxSX2) | 3:18 |
+| 12 | [Leja](https://open.spotify.com/track/2wthG5BIYGo3UXPplvXscX) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP) | [Marigold Soundsystem \(Deluxe\)](https://open.spotify.com/album/5k3Z3B3ahxGdxCmCO8kwxX) | 3:18 |
 | 13 | [Room](https://open.spotify.com/track/3D0jsZ1OTPQIijtYHVrGWz) | [MÜNE](https://open.spotify.com/artist/0d7ucg4dn8r65y7UccChlb) | [Room](https://open.spotify.com/album/472V2dlfjtAZk7re11FXC9) | 3:24 |
 | 14 | [Baawra Mann](https://open.spotify.com/track/79RInrNbVRumprs4MDYgwz) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Shambhavi Thakur](https://open.spotify.com/artist/2b1YWOv5v6yzuEDComf7fO) | [Baawra Mann](https://open.spotify.com/album/75dVZo1ENZKeR3JDBQW8DR) | 3:07 |
 | 15 | [Udd Gaye](https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:00 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 | 59 | [A Dream](https://open.spotify.com/track/52E7qutei1inKrIAcBYp89) | [Enine](https://open.spotify.com/artist/6BsL2HkIj6DBL1tYuswybL) | [A Dream](https://open.spotify.com/album/7mqGNYCngh5JwyjySJLHTL) | 2:49 |
 | 60 | [Time \- Radio Edit](https://open.spotify.com/track/2D19JpvlOaVSCleOUhBPzl) | [Vetonit](https://open.spotify.com/artist/1WRcXXVWTxLaG93Z8uQo4E) | [Time \(Radio Edit\)](https://open.spotify.com/album/2HxJ3nx0ZrseX5sr7ZpEgw) | 3:32 |
 
-Snapshot ID: `MCxjNjYzMzVkYmQ1OTU1NjQwMmI3NTFkZWI5OTk0YWI2NjdmMjc1YjRh`
+Snapshot ID: `MCxiMWM1ZDQ3Y2Y1YzI3YzZkNzY5M2Y3ODJkZTY1ODBiMmQ1M2Q3NWUx`

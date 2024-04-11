@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 563,
+  "2024-04-11": 563,
   "date_first_scraped": "2023-05-06",
   "description": "This is Germaine Franco. The essential tracks, all in one playlist.",
   "name": "This Is Germaine Franco",
@@ -209,7 +209,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 84650,
       "name": "Arriving to Ginny's Farm",
       "url": "https://open.spotify.com/track/638Nk6e23crFjluIBPWIk1"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 123946,
       "name": "Autumn Becomes Winter",
       "url": "https://open.spotify.com/track/2uYcCSsJp4gHgWogMRdDpM"
@@ -245,7 +245,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 381186,
       "name": "Autumn Harvests Begin",
       "url": "https://open.spotify.com/track/3KO6b18yVlp02SbytPXaiw"
@@ -461,7 +461,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 79426,
       "name": "Cowboys Don't Quit",
       "url": "https://open.spotify.com/track/4jKqRwLiOCpxQqRpp7uwf0"
@@ -787,7 +787,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 85173,
       "name": "George At The Derby",
       "url": "https://open.spotify.com/track/5ZCeqaKFr6SxRauiXkShF8"
@@ -805,7 +805,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 61293,
       "name": "George's Pancake Practice",
       "url": "https://open.spotify.com/track/2yDU7GOKPm3DPuEdF1HN5G"
@@ -1311,7 +1311,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 76680,
       "name": "Mr. Stubbles",
       "url": "https://open.spotify.com/track/7ayPTn7VfMpZhB1WZEC86V"

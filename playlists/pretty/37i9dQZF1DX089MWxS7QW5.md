@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Jiselle\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,567 likes - 51 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,601 likes - 51 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 50 | [To\. X](https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [To\. X \- The 5th Mini Album](https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD) | 2:50 |
 | 51 | [Your Love \(feat\. Sik\-K\)](https://open.spotify.com/track/0N0ZfoWuX7INy4wuxgK3aa) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Don't Say](https://open.spotify.com/album/5fmxVDAV3uX0RmdRZljMox) | 2:49 |
 
-Snapshot ID: `MCxmMTk1OTM4YjExMGY4Y2Q5MGU2YmNkODBmMGEwZGUyMzc3NGNhZDg2`
+Snapshot ID: `MCxiZTBkNmYxNWFkMmIwN2FiYWQ4NDc1ZTM0NTc3NGE3NGVhOTg5NTMx`

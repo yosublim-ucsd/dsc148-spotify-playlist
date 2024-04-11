@@ -4,7 +4,7 @@
 
 > Music from "Mushoku Tensei: Jobless Reincarnation" /「無職転生  ～異世界行ったら本気だす～ 」の楽曲を1つのプレイリストで。©理不尽な孫の手/MFブックス/「無職転生Ⅱ」製作委員会
 
-50 songs - 2 hr 17 min
+51 songs - 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [夢の中でも](https://open.spotify.com/track/7kzR813aYhwQHwvA0MfRJT) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/7Hj3o4iLjM6UeDxd9qTC5i) | 2:16 | 2023-10-02 |  |
 | [大切な仲間](https://open.spotify.com/track/6RfySMyd4eFPERnrY9xNlP) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 〜異世界行ったら本気だす〜』 オリジナル・サウンドトラック](https://open.spotify.com/album/0TfkBkBMpvVJCVF9LVTAeH) | 2:02 | 2023-10-02 |  |
 | [姑息な鼠](https://open.spotify.com/track/0ecGIAbK7MrC9fkNbS2FKo) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/7Hj3o4iLjM6UeDxd9qTC5i) | 2:41 | 2023-10-02 |  |
+| [守りたいもの](https://open.spotify.com/track/0QpwFmdAK6mXvXTqlDgva4) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [守りたいもの](https://open.spotify.com/album/2qsxXjpEqtc87WWJAQt8fj) | 4:26 | 2024-04-10 |  |
 | [師匠のお守り](https://open.spotify.com/track/0CSrXZSfAAgGnORu3eYuDf) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 〜異世界行ったら本気だす〜』 オリジナル・サウンドトラック](https://open.spotify.com/album/0TfkBkBMpvVJCVF9LVTAeH) | 2:15 | 2023-10-02 |  |
 | [待ってる](https://open.spotify.com/track/7kffbeD4poRiMq69CPLI9D) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 \~異世界行ったら本気だす\~』 オリジナル・サウンドトラック2](https://open.spotify.com/album/1oPlAPkVErLoGM8owunDZ6) | 2:33 | 2023-10-02 |  |
 | [思わぬ現実](https://open.spotify.com/track/1Vr1KLISDxAdNwW6CsDBMC) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 〜異世界行ったら本気だす〜』 オリジナル・サウンドトラック](https://open.spotify.com/album/0TfkBkBMpvVJCVF9LVTAeH) | 2:18 | 2023-10-02 |  |

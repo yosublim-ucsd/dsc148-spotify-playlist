@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 240096,
+  "num_followers": 240118,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjNlMDIzYTI2ZjM3ODhlNTNiOWEwYzI0YjNiMzAzNmVkNGMyNjE3",
+  "snapshot_id": "MCwwOTk3YjczNDAxNjI2NzU0MGFiNjA1YTAyODcwOTIwODQ1ZWMzY2I1",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "hard to dream",
+        "url": "https://open.spotify.com/album/0QFiXNPL6xwYY6wYC8H1jq"
+      },
+      "artists": [
+        {
+          "name": "Paul Whitacre",
+          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
+        }
+      ],
+      "duration_ms": 232061,
+      "name": "atlas",
+      "url": "https://open.spotify.com/track/283U7PMWoZbPz8eUxPJ9ZS"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Pilot",
         "url": "https://open.spotify.com/album/7ujAh0O6Cr9BTIW7aH0cJY"
       },
@@ -667,26 +683,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Nothing To Buy",
-        "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
-      },
-      "artists": [
-        {
-          "name": "Rita Springer",
-          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
-        },
-        {
-          "name": "kalley",
-          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
-        }
-      ],
-      "duration_ms": 267106,
-      "name": "Nothing To Buy",
-      "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "My Heart Alone",
         "url": "https://open.spotify.com/album/5TDg5nfshvPqFm6Ma7gfTB"
       },
@@ -707,18 +703,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "hard to dream",
-        "url": "https://open.spotify.com/album/0QFiXNPL6xwYY6wYC8H1jq"
+        "name": "Nothing To Buy",
+        "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
       },
       "artists": [
         {
-          "name": "Paul Whitacre",
-          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
+          "name": "Rita Springer",
+          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
+        },
+        {
+          "name": "kalley",
+          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
         }
       ],
-      "duration_ms": 232061,
-      "name": "atlas",
-      "url": "https://open.spotify.com/track/283U7PMWoZbPz8eUxPJ9ZS"
+      "duration_ms": 267106,
+      "name": "Nothing To Buy",
+      "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "High Calling",
-        "url": "https://open.spotify.com/album/3A3N6gYhQUFK48zRkg5o63"
-      },
-      "artists": [
-        {
-          "name": "The Shelter",
-          "url": "https://open.spotify.com/artist/0twZSsD7f6PPINVUMHVBbC"
-        },
-        {
-          "name": "Bernice West",
-          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
-        }
-      ],
-      "duration_ms": 188731,
-      "name": "High Calling",
-      "url": "https://open.spotify.com/track/2XIfWKsjf0ufQNzYDCFV3m"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Calm Before the Storm",
         "url": "https://open.spotify.com/album/3jWsaxV8HH7v4osDCriC6Q"
       },
@@ -839,18 +819,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
+        "name": "High Calling",
+        "url": "https://open.spotify.com/album/3A3N6gYhQUFK48zRkg5o63"
       },
       "artists": [
         {
-          "name": "Dara Maclean",
-          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
+          "name": "The Shelter",
+          "url": "https://open.spotify.com/artist/0twZSsD7f6PPINVUMHVBbC"
+        },
+        {
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
         }
       ],
-      "duration_ms": 252520,
-      "name": "Love Over Religion",
-      "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
+      "duration_ms": 188731,
+      "name": "High Calling",
+      "url": "https://open.spotify.com/track/2XIfWKsjf0ufQNzYDCFV3m"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -883,6 +867,22 @@
       "duration_ms": 169500,
       "name": "Rooftops",
       "url": "https://open.spotify.com/track/3Kx67wg68HCdDLWGeKepL8"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
+      },
+      "artists": [
+        {
+          "name": "Dara Maclean",
+          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
+        }
+      ],
+      "duration_ms": 252520,
+      "name": "Love Over Religion",
+      "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Heaven Is Everywhere",
-        "url": "https://open.spotify.com/album/5UeiyI4lj9FMmNQWymskL1"
-      },
-      "artists": [
-        {
-          "name": "Johnnyswim",
-          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
-        }
-      ],
-      "duration_ms": 234890,
-      "name": "Heaven Is Everywhere",
-      "url": "https://open.spotify.com/track/1rPFqJjK21mcwaT0C10EfS"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Keep Your Head Up (Radio Version)",
         "url": "https://open.spotify.com/album/0EqvE6md1QlGSu2qjYHc1r"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 215603,
       "name": "Keep Your Head Up - Radio Version",
       "url": "https://open.spotify.com/track/5MCclZ7cXNHyyAkvNqHYBm"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Heaven Is Everywhere",
+        "url": "https://open.spotify.com/album/5UeiyI4lj9FMmNQWymskL1"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "duration_ms": 234890,
+      "name": "Heaven Is Everywhere",
+      "url": "https://open.spotify.com/track/1rPFqJjK21mcwaT0C10EfS"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Miracle of the Mind",
-        "url": "https://open.spotify.com/album/2DL0lnvF1LGlpNtxVUGTv6"
-      },
-      "artists": [
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        }
-      ],
-      "duration_ms": 269202,
-      "name": "Miracle of the Mind",
-      "url": "https://open.spotify.com/track/3a4y3iLTZAC0XRsfbLvnvw"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "BURNING IN THE RAIN",
         "url": "https://open.spotify.com/album/4rQ5aKcrCfqwL7CdSsa57I"
       },
@@ -1179,22 +1163,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "No Fear In Love",
-        "url": "https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS"
+        "name": "Miracle of the Mind",
+        "url": "https://open.spotify.com/album/2DL0lnvF1LGlpNtxVUGTv6"
       },
       "artists": [
         {
-          "name": "WorshipMob",
-          "url": "https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL"
-        },
-        {
-          "name": "White Flag",
-          "url": "https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg"
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
         }
       ],
-      "duration_ms": 515318,
-      "name": "No Fear In Love",
-      "url": "https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE"
+      "duration_ms": 269202,
+      "name": "Miracle of the Mind",
+      "url": "https://open.spotify.com/track/3a4y3iLTZAC0XRsfbLvnvw"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1211,6 +1191,26 @@
       "duration_ms": 204000,
       "name": "Mountains",
       "url": "https://open.spotify.com/track/1MIuSxzMBDUcLqHzI1Dfo1"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "No Fear In Love",
+        "url": "https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS"
+      },
+      "artists": [
+        {
+          "name": "WorshipMob",
+          "url": "https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL"
+        },
+        {
+          "name": "White Flag",
+          "url": "https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg"
+        }
+      ],
+      "duration_ms": 515318,
+      "name": "No Fear In Love",
+      "url": "https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Fighting Myself",
-        "url": "https://open.spotify.com/album/22JJVIcCRz2yqjVH5WIZqx"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        }
-      ],
-      "duration_ms": 218775,
-      "name": "Fighting Myself",
-      "url": "https://open.spotify.com/track/3W2UszPJ6jF0OYE5FTtetQ"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Fall On The Nation",
         "url": "https://open.spotify.com/album/2U41cpJltmjsWVXhcNrEML"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 272170,
       "name": "Fall On The Nation",
       "url": "https://open.spotify.com/track/3fFsDBcFycQogyVzen7PQX"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Fighting Myself",
+        "url": "https://open.spotify.com/album/22JJVIcCRz2yqjVH5WIZqx"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 218775,
+      "name": "Fighting Myself",
+      "url": "https://open.spotify.com/track/3W2UszPJ6jF0OYE5FTtetQ"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "W O U N D E D H E A R T",
-        "url": "https://open.spotify.com/album/3stPMKUkRfVuXnDHkUaLlQ"
+        "name": "We Won't Bow",
+        "url": "https://open.spotify.com/album/6uVhZExWu73pEfcx9TDXew"
       },
       "artists": [
         {
-          "name": "Joshua Leventhal",
-          "url": "https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5"
+          "name": "Kamban",
+          "url": "https://open.spotify.com/artist/0mBDRW65svvamuKzjyB5uP"
         }
       ],
-      "duration_ms": 166186,
-      "name": "W O U N D E D H E A R T",
-      "url": "https://open.spotify.com/track/1PpJlu2jNAXxdWRB9eimR4"
+      "duration_ms": 172552,
+      "name": "We Won't Bow",
+      "url": "https://open.spotify.com/track/4ojRBPB2zTHdEN1k7Xjf2U"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "W O U N D E D H E A R T",
+        "url": "https://open.spotify.com/album/3stPMKUkRfVuXnDHkUaLlQ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Leventhal",
+          "url": "https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5"
+        }
+      ],
+      "duration_ms": 166186,
+      "name": "W O U N D E D H E A R T",
+      "url": "https://open.spotify.com/track/1PpJlu2jNAXxdWRB9eimR4"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Natural Killer",
         "url": "https://open.spotify.com/album/3oZfCFEY6PqY59fsUyitbV"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 224181,
       "name": "Killer",
       "url": "https://open.spotify.com/track/05F7rkqDQPBZboapB7MCA5"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "We Won't Bow",
-        "url": "https://open.spotify.com/album/6uVhZExWu73pEfcx9TDXew"
-      },
-      "artists": [
-        {
-          "name": "Kamban",
-          "url": "https://open.spotify.com/artist/0mBDRW65svvamuKzjyB5uP"
-        }
-      ],
-      "duration_ms": 172552,
-      "name": "We Won't Bow",
-      "url": "https://open.spotify.com/track/4ojRBPB2zTHdEN1k7Xjf2U"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Break Out (Live)",
-        "url": "https://open.spotify.com/album/1DsOGTyMmBEmu0Ro5CoLy2"
-      },
-      "artists": [
-        {
-          "name": "Woodlands Worship",
-          "url": "https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls"
-        }
-      ],
-      "duration_ms": 222960,
-      "name": "Break Out - Live",
-      "url": "https://open.spotify.com/track/2L2QWbLgFS57dFTvYVcZDX"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Coming Clean",
         "url": "https://open.spotify.com/album/0caMEZCVkxxyhcmYLlxt31"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 183066,
       "name": "Coming Clean",
       "url": "https://open.spotify.com/track/3k9ULygUi36i85Nr0jw6aR"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Break Out (Live)",
+        "url": "https://open.spotify.com/album/1DsOGTyMmBEmu0Ro5CoLy2"
+      },
+      "artists": [
+        {
+          "name": "Woodlands Worship",
+          "url": "https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls"
+        }
+      ],
+      "duration_ms": 222960,
+      "name": "Break Out - Live",
+      "url": "https://open.spotify.com/track/2L2QWbLgFS57dFTvYVcZDX"
     },
     {
       "added_at": "2022-12-16 05:02:00",

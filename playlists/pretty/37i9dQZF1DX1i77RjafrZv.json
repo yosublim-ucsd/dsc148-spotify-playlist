@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 319002,
+  "num_followers": 319023,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWE4NmM2ODg0NTRiZWRhOTU0MTlmNmIyNTVhZWE5Zjg0MGMwZDM5",
+  "snapshot_id": "MCxlMmIxYTM1MWFhZWNjYjdkYWY0ZTc4NjYxZWNhNmY4NTA2MWI4ZWY0",
   "tracks": [
     {
       "added_at": "2023-10-11 08:48:19",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
-        "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
-        }
-      ],
-      "duration_ms": 144826,
-      "name": "Le temps de l'amour",
-      "url": "https://open.spotify.com/track/6rqUOLt9dpfMANLMKTzoWj"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "Le chemin",
         "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 227733,
       "name": "Derni\u00e8re danse",
       "url": "https://open.spotify.com/track/7mNErWes3YegbRLgZuILl5"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
+        "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "duration_ms": 144826,
+      "name": "Le temps de l'amour",
+      "url": "https://open.spotify.com/track/6rqUOLt9dpfMANLMKTzoWj"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
+        "name": "Comment te dire adieu (Remasteris\u00e9 en 2016)",
+        "url": "https://open.spotify.com/album/0uRiGrSYj5IKsm6H8eodeB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "duration_ms": 148506,
+      "name": "Comment te dire adieu - Remasteris\u00e9 en 2016",
+      "url": "https://open.spotify.com/track/6g5qyQrAcoBX4X7XjxBoTO"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
         "name": "Il suffit d'y croire (Version deluxe)",
         "url": "https://open.spotify.com/album/6jQJaCZB3mCM73p7JE5XNJ"
       },
@@ -227,22 +243,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "Comment te dire adieu (Remasteris\u00e9 en 2016)",
-        "url": "https://open.spotify.com/album/0uRiGrSYj5IKsm6H8eodeB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
-        }
-      ],
-      "duration_ms": 148506,
-      "name": "Comment te dire adieu - Remasteris\u00e9 en 2016",
-      "url": "https://open.spotify.com/track/6g5qyQrAcoBX4X7XjxBoTO"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "A Fleur De Toi",
         "url": "https://open.spotify.com/album/6dTWgsiYPk2goK88co2CGf"
       },
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "\u00c9toile flippante (Version deluxe)",
-        "url": "https://open.spotify.com/album/3exYaNDjha1sFreVSqlWGW"
-      },
-      "artists": [
-        {
-          "name": "Hoshi",
-          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "Et m\u00eame apr\u00e8s je t'aimerai",
-      "url": "https://open.spotify.com/track/5Pl4OxV9RGWNMO8MGmAoDP"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "Addictions (Ultimate Version)",
         "url": "https://open.spotify.com/album/3Pn9nKN7m8MKBhAtRzuugW"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 219000,
       "name": "Longtemps",
       "url": "https://open.spotify.com/track/73yB2HMz9zu0VcueZ4P1UU"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "\u00c9toile flippante (Version deluxe)",
+        "url": "https://open.spotify.com/album/3exYaNDjha1sFreVSqlWGW"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Et m\u00eame apr\u00e8s je t'aimerai",
+      "url": "https://open.spotify.com/track/5Pl4OxV9RGWNMO8MGmAoDP"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -323,8 +323,8 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "La Valse A Mille Temps (Vol.4)",
-        "url": "https://open.spotify.com/album/0PVjDkptaHbw2wrpsWupoV"
+        "name": "15 Ans D'Amour",
+        "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
         }
       ],
-      "duration_ms": 229400,
-      "name": "Ne me quitte pas",
-      "url": "https://open.spotify.com/track/6IRA4KOVbtiGiTdYoEThJN"
+      "duration_ms": 153666,
+      "name": "Quand on n'a que l'amour - Arrangements diff\u00e9rents",
+      "url": "https://open.spotify.com/track/607sF1ISzfKaWa29eF3I14"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -475,8 +475,8 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "15 Ans D'Amour",
-        "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
+        "name": "La Valse A Mille Temps (Vol.4)",
+        "url": "https://open.spotify.com/album/0PVjDkptaHbw2wrpsWupoV"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
         }
       ],
-      "duration_ms": 153666,
-      "name": "Quand on n'a que l'amour - Arrangements diff\u00e9rents",
-      "url": "https://open.spotify.com/track/607sF1ISzfKaWa29eF3I14"
+      "duration_ms": 229400,
+      "name": "Ne me quitte pas",
+      "url": "https://open.spotify.com/track/6IRA4KOVbtiGiTdYoEThJN"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "N'attendons pas",
-        "url": "https://open.spotify.com/album/3iW7wfF8uocwH8Q6fqTK8Y"
-      },
-      "artists": [
-        {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
-        }
-      ],
-      "duration_ms": 241668,
-      "name": "Pour de vrai",
-      "url": "https://open.spotify.com/track/6ixKI6i2vg8mTVtdzsGHYD"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "1,2,3",
         "url": "https://open.spotify.com/album/484D9KRWoTWTzghknHQd1Q"
       },
@@ -759,6 +743,22 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 273133,
+      "name": "Je sais pas",
+      "url": "https://open.spotify.com/track/19ncRYEjjcGiRQgvqXOExO"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
         "name": "&",
         "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
       },
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "D'Eux",
-        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+        "name": "N'attendons pas",
+        "url": "https://open.spotify.com/album/3iW7wfF8uocwH8Q6fqTK8Y"
       },
       "artists": [
         {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
         }
       ],
-      "duration_ms": 273133,
-      "name": "Je sais pas",
-      "url": "https://open.spotify.com/track/19ncRYEjjcGiRQgvqXOExO"
+      "duration_ms": 241668,
+      "name": "Pour de vrai",
+      "url": "https://open.spotify.com/track/6ixKI6i2vg8mTVtdzsGHYD"
     },
     {
       "added_at": "2023-10-11 08:48:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,119 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,645 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 99 | [Places X Faces](https://open.spotify.com/track/4d562drbG7p6Z4KfvGUyCN) | [Aspen Forest](https://open.spotify.com/artist/1skhtKw4FGCJtQLFcvDFqx) | [Places X Faces](https://open.spotify.com/album/1Q1uW6XjblEqwnLmSlfNTW) | 2:23 |
 | 100 | [A Forest \- 2006 Remaster](https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj) | 5:54 |
 
-Snapshot ID: `MCw5YzQzZmM4MThmOWM0MjQ4M2QzMTY1N2I1YTBjZWE3NmMwNzFkMzg3`
+Snapshot ID: `MCw3NWM5MzlkNDNmOTRlYTliNDFiMDdiZTU1NjY3YTgwMzQzYzVmMjA2`

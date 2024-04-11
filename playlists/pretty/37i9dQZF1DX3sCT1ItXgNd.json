@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Omar Montes, Luis Fonsi",
-  "num_followers": 975381,
+  "num_followers": 975458,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDQ1MThlNzEyYmFiNTE4OTNmZjkxMTBlNWE5NTZmMTc1OTMyMGNj",
+  "snapshot_id": "MCw5Y2ZmYmVkOGZkYzFiMDZiMDcwMGE4MWYxMmI5ZjZhZThkMDNlMWNm",
   "tracks": [
     {
       "added_at": "2024-04-08 13:40:36",
@@ -327,8 +327,8 @@
     {
       "added_at": "2024-04-08 13:40:36",
       "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
+        "name": "Faltas T\u00fa",
+        "url": "https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 162181,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
+      "duration_ms": 201836,
+      "name": "Faltas T\u00fa",
+      "url": "https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K"
     },
     {
       "added_at": "2024-04-08 13:40:36",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-04-08 13:40:36",
       "album": {
+        "name": "att.",
+        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 166406,
+      "name": "princess peach",
+      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
+    },
+    {
+      "added_at": "2024-04-08 13:40:36",
+      "album": {
         "name": "Los Lugares Donde Ir\u00e1s",
         "url": "https://open.spotify.com/album/78Q2cME3Xqp5REjAlDHX8a"
       },
@@ -439,22 +455,6 @@
     {
       "added_at": "2024-04-08 13:40:36",
       "album": {
-        "name": "att.",
-        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 166406,
-      "name": "princess peach",
-      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
-    },
-    {
-      "added_at": "2024-04-08 13:40:36",
-      "album": {
         "name": "tequiero",
         "url": "https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN"
       },
@@ -475,8 +475,8 @@
     {
       "added_at": "2024-04-08 13:40:36",
       "album": {
-        "name": "Faltas T\u00fa",
-        "url": "https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia"
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 201836,
-      "name": "Faltas T\u00fa",
-      "url": "https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K"
+      "duration_ms": 162181,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
     },
     {
       "added_at": "2024-04-08 13:40:36",

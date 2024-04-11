@@ -4,7 +4,7 @@
 
 > Listen to all of her hits right here!
 
-77 songs - 3 hr 46 min
+78 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Combatchy \(feat\. MC Rebecca\)](https://open.spotify.com/track/2bPtwnrpFNEe8N7Q85kLHw) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Combatchy \(feat\. MC Rebecca\)](https://open.spotify.com/album/4YQQS1DM9JskregbISv1dq) | 2:37 | 2023-09-08 |  |
 | [DANÇARINA \(feat\. Nicky Jam, MC Pedrinho\) \- Remix](https://open.spotify.com/track/5QQKWOwPjG9vcDBTQ5Hv5Q) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [DANÇARINA \(feat\. Nicky Jam, MC Pedrinho\) \[Remix\]](https://open.spotify.com/album/47F5OvdnBKsti5MNRGJ2On) | 3:32 | 2023-09-08 |  |
 | [Desce Pro Play \(PA PA PA\)](https://open.spotify.com/track/4zGtfOglDBfVUypabBwIjQ) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Desce Pro Play \(PA PA PA\)](https://open.spotify.com/album/5dgSOOnRf2k9UJyijM9ZwV) | 2:48 | 2023-09-08 |  |
+| [Double Team](https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Double Team](https://open.spotify.com/album/3VmiAMccKEWDwNzNSUQ55V) | 3:51 | 2024-04-10 |  |
 | [Downtown](https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Downtown](https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt) | 3:13 | 2023-09-08 |  |
 | [El Que Espera](https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Que Espera](https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa) | 2:50 | 2023-09-08 |  |
 | [Ela Não Vale Nada](https://open.spotify.com/track/0MfG95vjv0Inkmp58b0gNU) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ela Não Vale Nada](https://open.spotify.com/album/37CNqlY3z7JcUlkzsyY4bI) | 2:20 | 2023-09-08 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 13638,
+  "2024-04-11": 13649,
   "date_first_scraped": "2023-05-16",
   "description": "The amazing sounds of the tropics.",
   "name": "Tropicana",
@@ -849,7 +849,7 @@
     {
       "album": {
         "name": "Braulio",
-        "url": "https://open.spotify.com/album/2psBsYaLAGo1NURYN2ZPwC"
+        "url": "https://open.spotify.com/album/0y4taFvYq6a6w8wX4e3nHX"
       },
       "artists": [
         {
@@ -860,6 +860,24 @@
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 256704,
+      "name": "Braulio",
+      "url": "https://open.spotify.com/track/3Cq0jVbMYFwx5o1hcTLc3q"
+    },
+    {
+      "album": {
+        "name": "Braulio",
+        "url": "https://open.spotify.com/album/2psBsYaLAGo1NURYN2ZPwC"
+      },
+      "artists": [
+        {
+          "name": "Mr Black El Presidente",
+          "url": "https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-10",
       "duration_ms": 259239,
       "name": "Braulio",
       "url": "https://open.spotify.com/track/3QgnOJbiWAx4Cel5QwKtpR"

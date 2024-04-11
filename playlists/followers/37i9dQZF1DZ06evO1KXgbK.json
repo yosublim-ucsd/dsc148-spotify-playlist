@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 244411,
+  "2024-04-11": 244451,
   "date_first_scraped": "2024-03-10",
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
   "name": "This Is Dolly Parton",
@@ -633,7 +633,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 188266,
       "name": "Mule Skinner Blues (Blue Yodel No. 8)",
       "url": "https://open.spotify.com/track/1XChvxIUbR911TOb0HhNJi"
@@ -929,7 +929,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 257372,
       "name": "The Story",
       "url": "https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx"

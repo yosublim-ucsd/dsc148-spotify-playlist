@@ -1,12 +1,12 @@
 {
   "description": "This is Oasis. The essential tracks, all in one playlist.",
-  "num_followers": 954613,
+  "num_followers": 954803,
   "original_name": "This Is Oasis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDQ4ZTNlNmQ4YzY4OTZmMTg2OGVjNzlkMDk1NTJjZmE2NjI4MjJl",
+  "snapshot_id": "MCxjNWU5OTA5MjljOTExZDNjYjRmNTZiOTMzODlmNzY1MDhiMTg2ZGMw",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 276666,
+      "name": "Live Forever - Remastered",
+      "url": "https://open.spotify.com/track/6TlQ5fbojNRuG0hPQMbxeW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Be Here Now",
         "url": "https://open.spotify.com/album/5WsCU95SaumguegxnC87TV"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 356600,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/2gANywSFYF58YFMPdDSAjC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Definitely Maybe (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 283786,
-      "name": "Supersonic - Remastered",
-      "url": "https://open.spotify.com/track/4jJfa4mO5JjV9Tz2aAxE2M"
     },
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 283786,
+      "name": "Supersonic - Remastered",
+      "url": "https://open.spotify.com/track/4jJfa4mO5JjV9Tz2aAxE2M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Be Here Now",
         "url": "https://open.spotify.com/album/5WsCU95SaumguegxnC87TV"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 288600,
       "name": "Don't Go Away",
       "url": "https://open.spotify.com/track/3MCuDi4gQrf7Xms8lTpTAx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Definitely Maybe",
-        "url": "https://open.spotify.com/album/3LzKUdUTdJb6P7xGN6SotC"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 192546,
-      "name": "Married With Children",
-      "url": "https://open.spotify.com/track/0oemhAQXaaIHCEARF9JFGg"
     },
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Definitely Maybe",
+        "url": "https://open.spotify.com/album/3LzKUdUTdJb6P7xGN6SotC"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 192546,
+      "name": "Married With Children",
+      "url": "https://open.spotify.com/track/0oemhAQXaaIHCEARF9JFGg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Believe The Truth",
         "url": "https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 219826,
       "name": "The Importance Of Being Idle",
       "url": "https://open.spotify.com/track/2RUfZnDBLgXeO2A1XOj0ss"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Definitely Maybe (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 289146,
-      "name": "Cigarettes & Alcohol - Remastered",
-      "url": "https://open.spotify.com/track/5adjc9rGazKvYcyEHNtoz1"
     },
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 289146,
+      "name": "Cigarettes & Alcohol - Remastered",
+      "url": "https://open.spotify.com/track/5adjc9rGazKvYcyEHNtoz1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Believe The Truth",
         "url": "https://open.spotify.com/album/56VuARmradZgJcSaVucTWn"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 331653,
       "name": "Let There Be Love",
       "url": "https://open.spotify.com/track/0SbytvHLix8OCZp17Pi0O1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Definitely Maybe (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 382266,
-      "name": "Whatever - Remastered",
-      "url": "https://open.spotify.com/track/5OWsea313ovaQoXvsgWq79"
     },
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 382266,
+      "name": "Whatever - Remastered",
+      "url": "https://open.spotify.com/track/5OWsea313ovaQoXvsgWq79"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heathen Chemistry",
         "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 226400,
       "name": "The Hindu Times",
       "url": "https://open.spotify.com/track/7IuCCezGsyTH9LU4IVL57s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Definitely Maybe (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 322946,
-      "name": "Rock 'n' Roll Star - Remastered",
-      "url": "https://open.spotify.com/track/4bQHPFjRT6O1KdMCd4cD9u"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 322946,
+      "name": "Rock 'n' Roll Star - Remastered",
+      "url": "https://open.spotify.com/track/4bQHPFjRT6O1KdMCd4cD9u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Believe The Truth",
         "url": "https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h"
       },
@@ -395,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Definitely Maybe (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 392306,
-      "name": "Slide Away - Remastered",
-      "url": "https://open.spotify.com/track/1AvavliFQoc2l0ZCCWa5VG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heathen Chemistry",
         "url": "https://open.spotify.com/album/4mMan8IGNJUhZ6du15ki5T"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 189373,
       "name": "She Is Love",
       "url": "https://open.spotify.com/track/78BHYuPCnUBh9wlbNWTCqC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Standing On The Shoulder Of Giants",
-        "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 278693,
-      "name": "Go Let It Out",
-      "url": "https://open.spotify.com/track/7kFbTUR31qyzrjjary7llr"
     },
     {
       "added_at": null,
@@ -475,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Masterplan",
-        "url": "https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 381173,
-      "name": "Listen Up",
-      "url": "https://open.spotify.com/track/7IN0xNq5UxvsJXTqZ3rdSE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Standing On The Shoulder Of Giants",
         "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
       },
@@ -503,6 +471,22 @@
       "duration_ms": 312680,
       "name": "Sunday Morning Call",
       "url": "https://open.spotify.com/track/6foXkrv79wyo9RMfZIMB6z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Masterplan",
+        "url": "https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 381173,
+      "name": "Listen Up",
+      "url": "https://open.spotify.com/track/7IN0xNq5UxvsJXTqZ3rdSE"
     },
     {
       "added_at": null,
@@ -539,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Go Let It Out",
-        "url": "https://open.spotify.com/album/1ggiOXW9IWnJrwYOCBttGM"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 233640,
-      "name": "Let's All Make Believe",
-      "url": "https://open.spotify.com/track/4iM2s0WZFznvgoC0HxZekI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Standing On The Shoulder Of Giants",
         "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
       },
@@ -567,6 +535,22 @@
       "duration_ms": 266840,
       "name": "Where Did It All Go Wrong?",
       "url": "https://open.spotify.com/track/6NxShcnsYGE7H0GUM1fMdC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Go Let It Out",
+        "url": "https://open.spotify.com/album/1ggiOXW9IWnJrwYOCBttGM"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 233640,
+      "name": "Let's All Make Believe",
+      "url": "https://open.spotify.com/track/4iM2s0WZFznvgoC0HxZekI"
     },
     {
       "added_at": null,
@@ -603,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Believe The Truth",
-        "url": "https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 239240,
-      "name": "Turn Up The Sun",
-      "url": "https://open.spotify.com/track/3TYfwCR3kT7ijbiGTGc5kM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Standing On The Shoulder Of Giants",
         "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
       },
@@ -631,6 +599,22 @@
       "duration_ms": 368253,
       "name": "Gas Panic!",
       "url": "https://open.spotify.com/track/2klLrvEu0OroEWsJWeafWp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Believe The Truth",
+        "url": "https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "Turn Up The Sun",
+      "url": "https://open.spotify.com/track/3TYfwCR3kT7ijbiGTGc5kM"
     },
     {
       "added_at": null,
@@ -667,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heathen Chemistry",
-        "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 291693,
-      "name": "Force Of Nature",
-      "url": "https://open.spotify.com/track/3ujwIruj897uySuJuwoPQN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Standing On The Shoulder Of Giants",
         "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
       },
@@ -695,6 +663,22 @@
       "duration_ms": 391146,
       "name": "Roll It Over",
       "url": "https://open.spotify.com/track/1tX2Wfp0KtbHQbFLIPwiW0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heathen Chemistry",
+        "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 291693,
+      "name": "Force Of Nature",
+      "url": "https://open.spotify.com/track/3ujwIruj897uySuJuwoPQN"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
       "duration_ms": 296466,
       "name": "Don't Stop\u2026 - Demo",
       "url": "https://open.spotify.com/track/6lwWNrZ5nufGhTu5JQg0Hv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dig Out Your Soul",
+        "url": "https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 182986,
+      "name": "Waiting For The Rapture",
+      "url": "https://open.spotify.com/track/1lwJ1fYnkOhLc2xTO2klQ2"
     }
   ],
   "unique_name": "This Is Oasis",

@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 192925,
+  "num_followers": 192966,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjNjODQzOGJiMjI4NDU5MDYzZmYxMTY1MzcyMjc2ZGVhZjdlYTRl",
+  "snapshot_id": "MCxmOWYwODFmNzIwZjk3MzNmNzdiMTQ1OWFkNjNiNDc5YjFmNzAyZDQ2",
   "tracks": [
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Lukas Nelson",
-          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
-        }
-      ],
-      "duration_ms": 242280,
-      "name": "Just Breathe (feat. Lukas Nelson)",
-      "url": "https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ultimate Waylon Jennings",
         "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 178733,
       "name": "Good Hearted Woman",
       "url": "https://open.spotify.com/track/3CqLvQ9fPOLtLIKb7r5ti6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Lukas Nelson",
+          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
+        }
+      ],
+      "duration_ms": 242280,
+      "name": "Just Breathe (feat. Lukas Nelson)",
+      "url": "https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA"
     },
     {
       "added_at": null,
@@ -871,6 +871,26 @@
       "duration_ms": 148440,
       "name": "Mind Your Own Business",
       "url": "https://open.spotify.com/track/4raGevWiW8i1gactXulebp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cowboys Are Frequently Secretly Fond Of Each Other",
+        "url": "https://open.spotify.com/album/3FP98bajALVr5zE3dSaaQF"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 218878,
+      "name": "Cowboys Are Frequently Secretly Fond Of Each Other",
+      "url": "https://open.spotify.com/track/5rKTGQ2Q1wndZnX7km8WYu"
     },
     {
       "added_at": null,
@@ -1035,26 +1055,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cowboys Are Frequently Secretly Fond Of Each Other",
-        "url": "https://open.spotify.com/album/3FP98bajALVr5zE3dSaaQF"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 218878,
-      "name": "Cowboys Are Frequently Secretly Fond Of Each Other",
-      "url": "https://open.spotify.com/track/5rKTGQ2Q1wndZnX7km8WYu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To All The Girls...",
         "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
       },
@@ -1147,22 +1147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 148293,
       "name": "Cruel World",
       "url": "https://open.spotify.com/track/166Dyvfibu4SOygA4vub85"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY"
     },
     {
       "added_at": null,
@@ -1299,22 +1299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "And Then I Wrote",
-        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 173001,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/0xqtcLB45iKNfHroi5y1em"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life on a Rock",
         "url": "https://open.spotify.com/album/52WqC6vXDQ9anMNugsUCeO"
       },
@@ -1431,6 +1415,34 @@
       "duration_ms": 183453,
       "name": "My Heroes Have Always Been Cowboys",
       "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "duration_ms": 205320,
+      "name": "Roll Me Up",
+      "url": "https://open.spotify.com/track/4FphdrrHaX3vXpT1eOrTHR"
     }
   ],
   "unique_name": "This Is Willie Nelson",

@@ -1763,6 +1763,28 @@
     },
     {
       "album": {
+        "name": "Love Is Enough",
+        "url": "https://open.spotify.com/album/2CqlLD4Ho2MmE4HV4UNryN"
+      },
+      "artists": [
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        },
+        {
+          "name": "Sue McLaren",
+          "url": "https://open.spotify.com/artist/7AzAtQ0LFRXazvHMDx620D"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176417,
+      "name": "Love Is Enough",
+      "url": "https://open.spotify.com/track/0gET2J2Mq8ym97aOSffW1P"
+    },
+    {
+      "album": {
         "name": "Love Loud",
         "url": "https://open.spotify.com/album/7ofobncYCierBbrI0Gmo5x"
       },
@@ -2022,7 +2044,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 257006,
       "name": "No Judgement - K\u00f6lsch Remix Edit",
       "url": "https://open.spotify.com/track/0Dwb20y4Y174GDvLw0Dr51"

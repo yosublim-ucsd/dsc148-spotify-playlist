@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 134752,
+  "2024-04-11": 134754,
   "date_first_scraped": "2022-04-09",
   "description": "Acoustic pop songs for chill summer days or nights.",
   "name": "Summer Chill",
@@ -3269,10 +3269,28 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 278746,
       "name": "when the party's over",
       "url": "https://open.spotify.com/track/0EQosAeGhodWC4Uj2x56KH"
+    },
+    {
+      "album": {
+        "name": "when the party's over",
+        "url": "https://open.spotify.com/album/3kZuzFKagJZSC90CKiczoo"
+      },
+      "artists": [
+        {
+          "name": "Bo Armstrong",
+          "url": "https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278746,
+      "name": "when the party's over",
+      "url": "https://open.spotify.com/track/2ts98XCUykSTpvZX9luZ0U"
     },
     {
       "album": {

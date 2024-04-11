@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 115785,
+  "num_followers": 115839,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGUyMWFiOWVhYTE0Y2U1MTNmNjU1YmVlNmFmZjI1N2E4ZDg1YTgx",
+  "snapshot_id": "MCxjN2NjYmIwYTY5YmQ2YWQ5MjVjYzQ1ODZiZDQ5ZmU0NDYwNTJhOWI5",
   "tracks": [
     {
       "added_at": "2024-03-08 22:42:45",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-03-08 22:42:45",
       "album": {
-        "name": "Blindside",
-        "url": "https://open.spotify.com/album/1RvvpYObiXki55iPrP8EVQ"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 211835,
-      "name": "Blindside",
-      "url": "https://open.spotify.com/track/5BPy4CFuroB7vFbZ6M9vES"
-    },
-    {
-      "added_at": "2024-03-08 22:42:45",
-      "album": {
         "name": "Simples",
         "url": "https://open.spotify.com/album/7xVxIAZOM8ac4viH06lVD9"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 170409,
       "name": "A Vida \u00c9 Boa Com Voc\u00ea - Voz E Viol\u00e3o",
       "url": "https://open.spotify.com/track/7w36CnYumoRl1ryZOWsJnk"
+    },
+    {
+      "added_at": "2024-03-08 22:42:45",
+      "album": {
+        "name": "Blindside",
+        "url": "https://open.spotify.com/album/1RvvpYObiXki55iPrP8EVQ"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 211835,
+      "name": "Blindside",
+      "url": "https://open.spotify.com/track/5BPy4CFuroB7vFbZ6M9vES"
     },
     {
       "added_at": "2024-03-08 22:42:45",
@@ -703,18 +703,18 @@
     {
       "added_at": "2024-03-08 22:42:45",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/3O5wnk4n2Zxw7DxkJdldi7"
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/5tzRuO6GP7WRvP3rEOPAO9"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 208517,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/1TX83ZAjBcPPch8iy0aNve"
+      "duration_ms": 194886,
+      "name": "Male Fantasy",
+      "url": "https://open.spotify.com/track/13lUUFsU6GMvRDN432qKxX"
     },
     {
       "added_at": "2024-03-08 22:42:45",
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-03-08 22:42:45",
       "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/5tzRuO6GP7WRvP3rEOPAO9"
+        "name": "Running",
+        "url": "https://open.spotify.com/album/3O5wnk4n2Zxw7DxkJdldi7"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 194886,
-      "name": "Male Fantasy",
-      "url": "https://open.spotify.com/track/13lUUFsU6GMvRDN432qKxX"
+      "duration_ms": 208517,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/1TX83ZAjBcPPch8iy0aNve"
     },
     {
       "added_at": "2024-03-08 22:42:45",

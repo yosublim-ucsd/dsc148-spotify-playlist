@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Liu, Juicce
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,398 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,387 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 17 | [I Promise You](https://open.spotify.com/track/21xz5b75yyHYTC1BWidmFU) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [I Promise You \- EP](https://open.spotify.com/album/3GH8gnj3NOFOeP5ixZkRDA) | 2:52 |
 | 18 | [Keep On Rising \(feat\. Michelle Shellers\) \[Fancy Inc and Bruno Be Remix\]](https://open.spotify.com/track/6L7N045eN7RyCMPsxmBcLH) | [Ian Carey](https://open.spotify.com/artist/2QFXAOEj2ow8a3xVkD8Ntg), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0), [Michelle Shellers](https://open.spotify.com/artist/6nT13KD6zp5yKAdoWBuO2u) | [Keep On Rising \(feat\. Michelle Shellers\) \[Fancy Inc and Bruno Be Remix\]](https://open.spotify.com/album/6Mdtnc3pmXz5KjdWOiyivx) | 3:03 |
 | 19 | [Everybody](https://open.spotify.com/track/6h9Ff5LGaS2h0G3iB5jim6) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U) | [Everybody](https://open.spotify.com/album/2AvSRmLXT7fw20Egn9DiSr) | 2:30 |
-| 20 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 20 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/09QRjJiYl5FTaDKwee1cnR), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 21 | [The Sound Of San Francisco \- 2023 Brazil Mix](https://open.spotify.com/track/6tkJc0PnU2srkTzczhzUYO) | [Global Deejays](https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [The Sound Of San Francisco \(2023 Brazil Mix\)](https://open.spotify.com/album/3ycvr7h9pmQUloGCwRzyt1) | 2:20 |
 | 22 | [Spinnin' Circles](https://open.spotify.com/track/4AtbLOzVyOaFbzEzkQz15Q) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Spinnin' Circles](https://open.spotify.com/album/7JMeqjNj2dDmm9hoDtgpio) | 3:46 |
 | 23 | [Fluttering](https://open.spotify.com/track/1nOugdbqhsI7KLDa591btz) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD) | [Fluttering](https://open.spotify.com/album/4nl8e63Gndd2tuQEIUlDrU) | 4:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Tina](https://open.spotify.com/track/22MfEGdH3Noyx9GfyZWpFz) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [The Vic](https://open.spotify.com/artist/5Yme0D6xmxktmVYHLNULgR) | [Tina](https://open.spotify.com/album/6Ei3g5NrMOOnjKi4CeNuF8) | 4:22 |
 | 50 | [My Neck, My Back](https://open.spotify.com/track/37zAxyf8mkOLjNBIMFZQUd) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Reezer](https://open.spotify.com/artist/0A0qH0k5vzwUrAAjcxZsN0) | [My Neck, My Back](https://open.spotify.com/album/5GW2S5DnOKOVUkgvhK2aHr) | 3:06 |
 
-Snapshot ID: `MCxhOTBhZTUyZjIwMTE2MzUwNDE5ZDUyOWRmYzA1MDQwZjcxNDhmZWUx`
+Snapshot ID: `MCxkNjVkMzA5NjFiOThhZGY0NzEzNTJlNTlkNTVkYjY1NTA0YmFlMDVj`

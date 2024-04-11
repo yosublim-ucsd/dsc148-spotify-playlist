@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: Kah\-Lo and Jamie Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,653 likes - 81 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,658 likes - 81 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 17 | [Hustla](https://open.spotify.com/track/1UnZUwKsQsmwSdsvKm2QRm) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Hustla](https://open.spotify.com/album/4oofnyX49L9k555nOKILFI) | 2:41 |
 | 18 | [Fine Fine Baby \(with Kah\-Lo\)](https://open.spotify.com/track/5wEZ2qosMq4JnIY050e7GO) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Fine Fine Baby \(with Kah\-Lo\)](https://open.spotify.com/album/5ZN7pH0k8botEVXsKCGVdb) | 2:38 |
 | 19 | [Damn Gloves](https://open.spotify.com/track/7qJXfY2YuKeAc4y8CdWJPq) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Yanga YaYa](https://open.spotify.com/artist/6khlvGagBlNVPYIknFCPeJ) | [Damn Gloves](https://open.spotify.com/album/5LtEbfT8ouvd9qLBVhLMv2) | 2:31 |
-| 20 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 20 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/09QRjJiYl5FTaDKwee1cnR), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 21 | [What A Friend](https://open.spotify.com/track/7tpD7nFwbdtvsTJ5gJva2P) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [What A Friend](https://open.spotify.com/album/4VNjlXl9VPYzCGhaJ0rnLR) | 4:10 |
 | 22 | [Toronto Funhouse](https://open.spotify.com/track/2u1ioR9wjR4FqSPLPoeQvb) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Toronto Funhouse](https://open.spotify.com/album/4HFfB5ovi0fmCt4LrHRzAV) | 2:00 |
 | 23 | [There Is A Light](https://open.spotify.com/track/1oGX6s0SjBSMz1Z4I9a8zN) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Zak Leever](https://open.spotify.com/artist/52YFhvzbffRkaVJQCjFlpU) | [There Is A Light](https://open.spotify.com/album/0auzANiBBPA11WMLoLbl81) | 3:01 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 80 | [Party All Night Long](https://open.spotify.com/track/5qnwoviJNQzB7VepePEGdI) | [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [P.J\. Classics ep](https://open.spotify.com/album/7J9OztpoSi0hYJAH6qzPeV) | 6:15 |
 | 81 | [Work That Body](https://open.spotify.com/track/1h3LHD3iDbP4MGYNeQG4N5) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [Sounds](https://open.spotify.com/album/6639iZ8oPeMPXZqgh8Vd0V) | 6:42 |
 
-Snapshot ID: `MCxjZmJkNWJlNWY0NGIxOTFjZjEwMjA5OTUxNjdjYTBkZDA0NTVhNTg5`
+Snapshot ID: `MCw4YjQ2NjFkNWJhMDkwZjE3YTlkNTYyYzgwYjE1N2YwYjY5MThjMWZj`

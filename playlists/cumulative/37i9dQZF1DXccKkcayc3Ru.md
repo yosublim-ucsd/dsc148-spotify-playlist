@@ -4,10 +4,11 @@
 
 > 実写映画「<a href="https://gaga.ne.jp/buzzynoise\_movie/">バジーノイズ</a>」5月3日公開！作者 むつき潤による選曲のオフィシャル・プレイリストが到着。/ The official playlist selected by Mutsuki Jun.
 
-29 songs - 2 hr 0 min
+30 songs - 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Another Chance](https://open.spotify.com/track/0kYk4wjotkjhLVV7kqh5oA) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love](https://open.spotify.com/album/29U9LtzSF0ftWiLNNw1CP6) | 5:21 | 2024-04-10 |  |
 | [Aqua](https://open.spotify.com/track/2ddXRNXRhS3d8AdO8qPhjU) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Aqua](https://open.spotify.com/album/74cXh4UujBMgi3jAbTgLa2) | 3:16 | 2024-04-10 |  |
 | [Blue in Green](https://open.spotify.com/track/6EiGHN6OX3rPyPdqymU3V7) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Over the Rainbow](https://open.spotify.com/album/550OQP4Yq1H4UQCW2WrLk0) | 4:41 | 2024-04-01 |  |
 | [Blue Moon](https://open.spotify.com/track/687QMQDiIcU2pFKgtEu4T9) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [EYES](https://open.spotify.com/album/6Oou13FOvc7UOCaQng10sG) | 3:42 | 2024-04-01 |  |

@@ -4,7 +4,7 @@
 
 > This is 林ゆうき\. The essential tracks, all in one playlist.
 
-104 songs - 4 hr 39 min
+105 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [妖怪たち](https://open.spotify.com/track/31N8krI56apyaerBDrK8pL) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!!TO THE TOP』オリジナル・サウンドトラック](https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh) | 2:02 | 2023-06-04 | 2023-07-19 |
 | [強くなれ](https://open.spotify.com/track/6RQvBfTupup0pjiE01m4mq) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk) | 3:10 | 2022-12-23 | 2024-03-30 |
 | [後悔と原動力](https://open.spotify.com/track/0C4FFuNGEayRRMtjlYL1wj) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.2\)](https://open.spotify.com/album/54yg1VofNhuje44hH5ySea) | 3:20 | 2024-01-22 |  |
-| [悔しさ](https://open.spotify.com/track/3YmBYMAYnWwWxs20A3vfBj) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk) | 2:40 | 2022-12-23 |  |
+| [悔しさ](https://open.spotify.com/track/3YmBYMAYnWwWxs20A3vfBj) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk) | 2:40 | 2022-12-23 | 2024-04-11 |
+| [悔しさ](https://open.spotify.com/track/6ZIQnW2s2v6w3iHG8ELt7B) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78) | 2:40 | 2024-04-11 |  |
 | [敗者](https://open.spotify.com/track/3MKlI3y3MQjcAzmgG3VJoe) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/5i5tqedwi7y2ebLEdXCBE7) | 2:42 | 2022-12-23 | 2024-04-01 |
 | [敗者](https://open.spotify.com/track/4vRbvyWLU5Salwd9RYous6) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo) | 2:42 | 2024-04-08 |  |
 | [暴走する悪意](https://open.spotify.com/track/0u1McmvpOZsUIjIvhmm4fM) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 1:52 | 2022-12-23 |  |

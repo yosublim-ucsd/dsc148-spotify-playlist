@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9?si=5o83aVOURSKr1KHKQczERA">Marizu</a>
 
-221 songs - 13 hr 26 min
+222 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,8 @@
 | [Oil for my head](https://open.spotify.com/track/0Pm3mfKN8nrtf5WbeNl9sB) | [Imancee](https://open.spotify.com/artist/7FMKtYkyh6dGQ7TN1lTzc6), [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY) | [Oil for my head](https://open.spotify.com/album/0polHS9KAgh09ILA2GzJb3) | 2:38 | 2023-11-03 | 2024-01-26 |
 | [Okay](https://open.spotify.com/track/0Ehe5i3c8L9YkhjtXrB7Kv) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Sonus dulcis](https://open.spotify.com/album/0lRCqEXOagHInK8wwQ7tbr) | 2:41 | 2024-03-21 |  |
 | [Olorun Agbaye \- You Are Mighty](https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Oba](https://open.spotify.com/artist/1WLvxeydcpCGxEpV9pQCP2) | [Hallelujah Again \(Revelation 19:3\)](https://open.spotify.com/album/5HjyQX3GmSbNBL1bG3D6Gf) | 7:16 | 2023-10-20 |  |
-| [Omemma](https://open.spotify.com/track/3t2o1njvVXz9IojLD1FTqk) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08) | 4:17 | 2023-10-20 |  |
+| [Omemma](https://open.spotify.com/track/4YfOEXttugon5YXM3TjJGz) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv) | 4:17 | 2023-10-20 |  |
+| [Omemma](https://open.spotify.com/track/3t2o1njvVXz9IojLD1FTqk) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08) | 4:17 | 2023-10-20 | 2024-04-11 |
 | [One Name \(Jesus\) \- Live](https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [One Name \(Jesus\) \[Live\]](https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK) | 9:19 | 2023-10-20 |  |
 | [Only You](https://open.spotify.com/track/2PT3ESq3qvlwT2r7JPIG3b) | [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE), [Kinsu](https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh) | [Only You](https://open.spotify.com/album/3bChpC9nlS2fsxYJ6mmjh7) | 2:26 | 2023-12-01 | 2024-01-26 |
 | [Only You Satisfy](https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 5:12 | 2024-03-01 |  |

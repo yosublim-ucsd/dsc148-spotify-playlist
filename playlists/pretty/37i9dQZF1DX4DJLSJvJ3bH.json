@@ -1,12 +1,12 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 118842,
+  "num_followers": 118834,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzMxYjk4YWExYmE2M2Y5ZDY0YTQ0ZDg2OGFhNmE0MTk3YjZiYjcw",
+  "snapshot_id": "MCwxMjEwOTY4NjM3YjJmNjY3ODFjMTExZjNlM2U3M2RkM2Y2Yjc4Njdk",
   "tracks": [
     {
       "added_at": "2023-12-19 09:25:36",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "Christmas Classics",
-        "url": "https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole Trio",
-          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
-        }
-      ],
-      "duration_ms": 151333,
-      "name": "All I Want For Christmas (Is My Two Front Teeth)",
-      "url": "https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "A Jazzy Christmas",
         "url": "https://open.spotify.com/album/5Ov8mmEM065VnF8glNLZUH"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 307711,
       "name": "Happy Holiday",
       "url": "https://open.spotify.com/track/2Zmibx9TsizyFYCJFWnJXc"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "Christmas Classics",
+        "url": "https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole Trio",
+          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
+        }
+      ],
+      "duration_ms": 151333,
+      "name": "All I Want For Christmas (Is My Two Front Teeth)",
+      "url": "https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "Spotify Singles - Holiday",
-        "url": "https://open.spotify.com/album/1knkuS0R3qoY1pmwYrMQ4N"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 192420,
-      "name": "It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5DoGwwQAlYumpSSlDNMOwY"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "Once in Royal David's City",
         "url": "https://open.spotify.com/album/5dDT9Nh3MCITsacmvIv6lp"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 165225,
       "name": "Once in Royal David's City",
       "url": "https://open.spotify.com/track/68ugUmH1wjIN0vCR98sC7G"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/1knkuS0R3qoY1pmwYrMQ4N"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 192420,
+      "name": "It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5DoGwwQAlYumpSSlDNMOwY"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "The Singles Collection (Vol. 1)",
-        "url": "https://open.spotify.com/album/6KABUH7jthR8bvreXPJ1yW"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "I'd Like You For Christmas",
-      "url": "https://open.spotify.com/track/07D1vu4IHKAqviEw2XattQ"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "Here We Come A-Caroling",
         "url": "https://open.spotify.com/album/3egzz4FGBjVceoI4hO89BI"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 143808,
       "name": "Here We Come A-Caroling",
       "url": "https://open.spotify.com/track/6dAElJFsKJmqRrqaHYoJfg"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "The Singles Collection (Vol. 1)",
+        "url": "https://open.spotify.com/album/6KABUH7jthR8bvreXPJ1yW"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 155560,
+      "name": "I'd Like You For Christmas",
+      "url": "https://open.spotify.com/track/07D1vu4IHKAqviEw2XattQ"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "The Ultimate Jazz Christmas",
-        "url": "https://open.spotify.com/album/2zn5A07eHENpWATjtscdRL"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 137546,
-      "name": "That's What I Want For Christmas - Remastered 1992",
-      "url": "https://open.spotify.com/track/0jgVkOMLMRZTgx06ddo4DQ"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "Christmas Love",
         "url": "https://open.spotify.com/album/5STKuTbSZYWJxNinEf7Jua"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 193500,
       "name": "Christmas Love",
       "url": "https://open.spotify.com/track/2LW2VCbUjkyh67iX0KbEDF"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "The Ultimate Jazz Christmas",
+        "url": "https://open.spotify.com/album/2zn5A07eHENpWATjtscdRL"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 137546,
+      "name": "That's What I Want For Christmas - Remastered 1992",
+      "url": "https://open.spotify.com/track/0jgVkOMLMRZTgx06ddo4DQ"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "Joe Pass - Six String Santa",
-        "url": "https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX"
-      },
-      "artists": [
-        {
-          "name": "Joe Pass",
-          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
-        }
-      ],
-      "duration_ms": 275745,
-      "name": "Angels We Have Heard on High / Joy to the World",
-      "url": "https://open.spotify.com/track/3ZtqRGAm0Q3hUjRKKGoDeA"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "Have Yourself A Jazzy Little Christmas",
         "url": "https://open.spotify.com/album/5DBehOkzdmTBJ2m56Dk2sS"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 183733,
       "name": "Christmas Eve",
       "url": "https://open.spotify.com/track/5sRb0r1wP7nK6dKQBxO197"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "Joe Pass - Six String Santa",
+        "url": "https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX"
+      },
+      "artists": [
+        {
+          "name": "Joe Pass",
+          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
+        }
+      ],
+      "duration_ms": 275745,
+      "name": "Angels We Have Heard on High / Joy to the World",
+      "url": "https://open.spotify.com/track/3ZtqRGAm0Q3hUjRKKGoDeA"
     },
     {
       "added_at": "2023-12-19 09:25:36",

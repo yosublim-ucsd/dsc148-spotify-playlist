@@ -1,12 +1,12 @@
 {
   "description": "This is Filipe Ret. The essential tracks, all in one playlist.",
-  "num_followers": 238443,
+  "num_followers": 238616,
   "original_name": "This Is Filipe Ret",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmQzM2UwOWY4MGMyODY0NTkzMmM2M2E2ODk1MGYxYTU2MDkyZjQ2",
+  "snapshot_id": "MCxjZmE5MGU1NDRjODhlYjE3NmFjOTg0NDY3NDVjYjFjMjUzY2MxN2U1",
   "tracks": [
     {
       "added_at": null,
@@ -51,34 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor e \u00d3dio",
-        "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
-      },
-      "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "TkN",
-          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
-        },
-        {
-          "name": "Mindu",
-          "url": "https://open.spotify.com/artist/3shZdnoMWegcOdZUPuMXhB"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Lenda",
-      "url": "https://open.spotify.com/track/6XSTDJMW7yUr4Zuzyr4Ht6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LUME",
         "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
       },
@@ -103,6 +75,34 @@
       "duration_ms": 121463,
       "name": "Melhor Agora",
       "url": "https://open.spotify.com/track/4HD67byP5AqlOGuoMyUgyA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor e \u00d3dio",
+        "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "TkN",
+          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
+        },
+        {
+          "name": "Mindu",
+          "url": "https://open.spotify.com/artist/3shZdnoMWegcOdZUPuMXhB"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Lenda",
+      "url": "https://open.spotify.com/track/6XSTDJMW7yUr4Zuzyr4Ht6"
     },
     {
       "added_at": null,
@@ -287,6 +287,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Distante",
+        "url": "https://open.spotify.com/album/0ipAbh8IRfQez8fvS9HIl7"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Distante",
+      "url": "https://open.spotify.com/track/7oE08PPqw5XozzHUv1P9XD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LUME",
+        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Kayu\u00e1",
+          "url": "https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        }
+      ],
+      "duration_ms": 135384,
+      "name": "A Meu Favor",
+      "url": "https://open.spotify.com/track/3aOnJBwzo1DVQmIJwgj8Au"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Viz\u00e3o de Cria 2",
         "url": "https://open.spotify.com/album/3W3xxYwImmhuDQhYCRb1Tl"
       },
@@ -327,54 +375,6 @@
       "duration_ms": 306141,
       "name": "Viz\u00e3o de Cria 2",
       "url": "https://open.spotify.com/track/4eTtgdIXEy2LvLeg7NNSov"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LUME",
-        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Kayu\u00e1",
-          "url": "https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
-        }
-      ],
-      "duration_ms": 135384,
-      "name": "A Meu Favor",
-      "url": "https://open.spotify.com/track/3aOnJBwzo1DVQmIJwgj8Au"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Distante",
-        "url": "https://open.spotify.com/album/0ipAbh8IRfQez8fvS9HIl7"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Distante",
-      "url": "https://open.spotify.com/track/7oE08PPqw5XozzHUv1P9XD"
     },
     {
       "added_at": null,
@@ -979,30 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        },
-        {
-          "name": "Daniel Shadow",
-          "url": "https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q"
-        }
-      ],
-      "duration_ms": 234614,
-      "name": "Dutumob",
-      "url": "https://open.spotify.com/track/57qFXE8nd2rJN2HUHOhkZ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
@@ -1027,6 +1003,30 @@
       "duration_ms": 225600,
       "name": "EU SOU O TREM",
       "url": "https://open.spotify.com/track/7cHfnWEkL5KqfLg03G7Gic"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        },
+        {
+          "name": "Daniel Shadow",
+          "url": "https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q"
+        }
+      ],
+      "duration_ms": 234614,
+      "name": "Dutumob",
+      "url": "https://open.spotify.com/track/57qFXE8nd2rJN2HUHOhkZ3"
     },
     {
       "added_at": null,

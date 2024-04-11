@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 35906,
+  "num_followers": 35921,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDZkNTRhMzIyMzQ1Zjg5NmYzOWIwZjNjNzQwMGVjMzQ0NzA4MTQz",
+  "snapshot_id": "MCwyY2YwZjkyNjllZWMzYjBlYmFjZDA2Mzc0ZDc4MjFmYTcyMjA2ZDYz",
   "tracks": [
     {
       "added_at": "2023-11-27 14:05:19",
@@ -287,30 +287,6 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "Point Of View: U",
-        "url": "https://open.spotify.com/album/0KZ5gVcGCuAEFBDKmWL4bM"
-      },
-      "artists": [
-        {
-          "name": "YUGYEOM",
-          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "punchnello",
-          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "Love The Way (Feat. Jay Park & punchnello)",
-      "url": "https://open.spotify.com/track/6gLJoEyuuHk1IwrZXWjotF"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
         "name": "H1GHR : BLUE TAPE",
         "url": "https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ"
       },
@@ -335,6 +311,30 @@
       "duration_ms": 188106,
       "name": "Oscar",
       "url": "https://open.spotify.com/track/2Wqnhu5dRQDAQi8Ej6HnVQ"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
+        "name": "Point Of View: U",
+        "url": "https://open.spotify.com/album/0KZ5gVcGCuAEFBDKmWL4bM"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "Love The Way (Feat. Jay Park & punchnello)",
+      "url": "https://open.spotify.com/track/6gLJoEyuuHk1IwrZXWjotF"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -471,46 +471,6 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "Think (feat. Jay Park)",
-        "url": "https://open.spotify.com/album/26kUYOFHxASZTDjvse7xmz"
-      },
-      "artists": [
-        {
-          "name": "REDDY",
-          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 231222,
-      "name": "Think (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/79NQUQKBKrCUlBGdpGszhq"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/1s1EHjXGkOQaCPl2iY359n"
-      },
-      "artists": [
-        {
-          "name": "GEMINI",
-          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 176986,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/2W4YKFHDaMdQkpXzDjbTER"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
         "name": "H1GHR : RED TAPE",
         "url": "https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT"
       },
@@ -547,6 +507,46 @@
       "duration_ms": 245786,
       "name": "Tel\u00e9fono Remix",
       "url": "https://open.spotify.com/track/0vZi38VepxZWh0ACqYaXio"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
+        "name": "Think (feat. Jay Park)",
+        "url": "https://open.spotify.com/album/26kUYOFHxASZTDjvse7xmz"
+      },
+      "artists": [
+        {
+          "name": "REDDY",
+          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 231222,
+      "name": "Think (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/79NQUQKBKrCUlBGdpGszhq"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/1s1EHjXGkOQaCPl2iY359n"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 176986,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/2W4YKFHDaMdQkpXzDjbTER"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -2099,6 +2099,26 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
+        "name": "Ask Bout Me",
+        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "Yacht (feat. Vic Mensa)",
+      "url": "https://open.spotify.com/track/4qyXiEXiOfSxqn3YrY0NKW"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
         "name": "DNA Remix",
         "url": "https://open.spotify.com/album/7BJ4UhVP36NLhjxgGcXhNA"
       },
@@ -2147,26 +2167,6 @@
       "duration_ms": 410964,
       "name": "DNA Remix",
       "url": "https://open.spotify.com/track/64m44h2nTKmBczXoDkbErt"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
-        "name": "Ask Bout Me",
-        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "Yacht (feat. Vic Mensa)",
-      "url": "https://open.spotify.com/track/4qyXiEXiOfSxqn3YrY0NKW"
     },
     {
       "added_at": "2023-11-27 14:05:19",

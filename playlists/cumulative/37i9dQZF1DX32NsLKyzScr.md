@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,063 songs - 2 day 9 hr 52 min
+1,064 songs - 2 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [All Night & Every Day](https://open.spotify.com/track/6uMw8SDp0npgOKO0pbmmPZ) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [All Night & Every Day](https://open.spotify.com/album/6ASUfky1E9CzfEAC8WDSSg) | 2:26 | 2022-04-29 | 2022-07-29 |
 | [All Night \(feat\. Ally Brooke\)](https://open.spotify.com/track/0poEFjyV2iHKtxjdWFwjmS) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [All Night \(feat\. Ally Brooke\)](https://open.spotify.com/album/0wXQE5QGxFdviVPa7GKMCA) | 2:46 | 2020-09-21\* | 2021-02-06 |
 | [All Night Long](https://open.spotify.com/track/32sbxzReRCPKlKmSUUOX1V) | [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [All Night Long](https://open.spotify.com/album/3ki9e5nnk14lEkTJg6CrBC) | 2:40 | 2021-08-21 | 2021-10-23 |
-| [All Nighter](https://open.spotify.com/track/3jksOdXCaDXyGiZ7L4YZbp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:14 | 2023-06-09 |  |
+| [All Nighter](https://open.spotify.com/track/3jksOdXCaDXyGiZ7L4YZbp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:14 | 2023-06-09 | 2024-04-11 |
 | [All Nighter](https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All Nighter](https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV) | 2:14 | 2023-03-17 | 2023-06-29 |
 | [All On Me \(feat\. Zhu\)](https://open.spotify.com/track/5ad6HGAiatmKHXMI0OSodk) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Year Zero](https://open.spotify.com/album/6judl2YelDUdvExxZpUAvP) | 4:09 | 2020-11-03 | 2021-03-26 |
 | [All Or Nothing](https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [All Or Nothing](https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5) | 2:27 | 2022-12-16 |  |
@@ -289,6 +289,7 @@
 | [Everything Is Changing](https://open.spotify.com/track/3dp7Dng3aEk9t80jQ063de) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Everything Is Changing](https://open.spotify.com/album/3FiQRuSu4cgPDodRU7Wuqh) | 3:28 | 2020-12-18 | 2021-09-11 |
 | [Everything You Have Done \- Meduza Edit](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Everything You Have Done \(Meduza Edit\)](https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe) | 2:36 | 2023-04-21 |  |
 | [Evolution \- Original Mix](https://open.spotify.com/track/2qQusCcWR2A9Q6lK5Uz6bw) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt), [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ) | [Evolution / Feels Like a Tunnel](https://open.spotify.com/album/7r3bIWd6s1UvzT6e4UbqW5) | 6:22 | 2020-09-21\* | 2020-12-18 |
+| [Explode](https://open.spotify.com/track/4rnwQPqGNoHCQppYVdTZdu) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Explode](https://open.spotify.com/album/6PlqsS0firvxsrefOvbUOc) | 2:39 | 2024-03-29 |  |
 | [Explore Your Future](https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:40 | 2023-08-25 | 2024-02-16 |
 | [Explore Your Future](https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Explore Your Future](https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B) | 3:40 | 2023-03-31 | 2023-08-18 |
 | [F\*CKING SOCIETY](https://open.spotify.com/track/45857Pj90KZO6U0hzjfLfT) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [F\*CKING SOCIETY](https://open.spotify.com/album/2q0daVPSG8ly1LK8MSrFfv) | 4:39 | 2022-04-15 | 2022-07-20 |

@@ -1,12 +1,12 @@
 {
   "description": "It's the witching hours. ",
-  "num_followers": 133723,
+  "num_followers": 133730,
   "original_name": "Protect Your Energy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjdhZWU2ZTEwYjI1MjI4NTJmZWE2NzlhNWEwYTNhNWNjMDk5NGM5",
+  "snapshot_id": "MCxlODI5OTFhZjY3MzgzYjViMzhjNDY1Y2FlMGI5ZjlhOWZhNWQyMWNk",
   "tracks": [
     {
       "added_at": "2024-03-22 15:04:56",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-03-22 15:04:56",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 160097,
-      "name": "Ophelia",
-      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
-    },
-    {
-      "added_at": "2024-03-22 15:04:56",
-      "album": {
         "name": "Lonerism",
         "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 192960,
       "name": "Feels Like We Only Go Backwards",
       "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
+    },
+    {
+      "added_at": "2024-03-22 15:04:56",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 160097,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
     },
     {
       "added_at": "2024-03-22 15:04:56",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-03-22 15:04:56",
       "album": {
-        "name": "Be My Baby: The Very Best of The Ronettes",
-        "url": "https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV"
-      },
-      "artists": [
-        {
-          "name": "The Ronettes",
-          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
-        }
-      ],
-      "duration_ms": 160906,
-      "name": "Be My Baby",
-      "url": "https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5"
-    },
-    {
-      "added_at": "2024-03-22 15:04:56",
-      "album": {
         "name": "Pink Moon",
         "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 124000,
       "name": "Pink Moon",
       "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
+    },
+    {
+      "added_at": "2024-03-22 15:04:56",
+      "album": {
+        "name": "Be My Baby: The Very Best of The Ronettes",
+        "url": "https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV"
+      },
+      "artists": [
+        {
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+        }
+      ],
+      "duration_ms": 160906,
+      "name": "Be My Baby",
+      "url": "https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5"
     },
     {
       "added_at": "2024-03-22 15:04:56",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-03-22 15:04:56",
       "album": {
-        "name": "Power Corruption and Lies",
-        "url": "https://open.spotify.com/album/6NTrwu1XJ56jBPx7HMksbZ"
-      },
-      "artists": [
-        {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
-        }
-      ],
-      "duration_ms": 315333,
-      "name": "Age of Consent - 2015 Remaster",
-      "url": "https://open.spotify.com/track/2EEinN4Zk8MUv4OQuLsTBj"
-    },
-    {
-      "added_at": "2024-03-22 15:04:56",
-      "album": {
         "name": "Preacher\u2019s Daughter",
         "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 344344,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5Cc0Pe8p7c2OJxMj07ywvc"
+    },
+    {
+      "added_at": "2024-03-22 15:04:56",
+      "album": {
+        "name": "Power Corruption and Lies",
+        "url": "https://open.spotify.com/album/6NTrwu1XJ56jBPx7HMksbZ"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "duration_ms": 315333,
+      "name": "Age of Consent - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2EEinN4Zk8MUv4OQuLsTBj"
     },
     {
       "added_at": "2024-03-22 15:04:56",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-03-22 15:04:56",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "Spooky (Single Version)",
-      "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
-    },
-    {
-      "added_at": "2024-03-22 15:04:56",
-      "album": {
         "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
         "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 247147,
       "name": "Season Of The Witch",
       "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
+    },
+    {
+      "added_at": "2024-03-22 15:04:56",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "Spooky (Single Version)",
+      "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
     },
     {
       "added_at": "2024-03-22 15:04:56",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-03-22 15:04:56",
       "album": {
-        "name": "to Perth, before the border closes",
-        "url": "https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "to Perth, before the border closes",
-      "url": "https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV"
-    },
-    {
-      "added_at": "2024-03-22 15:04:56",
-      "album": {
         "name": "Sidelines",
         "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 264372,
       "name": "Sidelines",
       "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
+    },
+    {
+      "added_at": "2024-03-22 15:04:56",
+      "album": {
+        "name": "to Perth, before the border closes",
+        "url": "https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "to Perth, before the border closes",
+      "url": "https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV"
     },
     {
       "added_at": "2024-03-22 15:04:56",

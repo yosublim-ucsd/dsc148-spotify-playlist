@@ -1,12 +1,12 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. Julio Preciado en portada.",
-  "num_followers": 253774,
+  "num_followers": 254071,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2YwMWFiYTI2MWZjZTljMDc2ZDQxYmJhYTI2Mjg0NTVhZTZkYTky",
+  "snapshot_id": "MCw4YjEzOTc3ZTQ5MTBkODFkYWFhZTEyYTYxMjc1Y2NiNzUxNWEzYTdi",
   "tracks": [
     {
       "added_at": "2024-02-23 18:59:33",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "La Noche Que Murio Chicago",
-        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "La Noche Que Murio Chicago",
-      "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
-    },
-    {
-      "added_at": "2024-02-23 18:59:33",
-      "album": {
         "name": "Prov\u00f3came",
         "url": "https://open.spotify.com/album/6srLGUbrQEhxKm4CCTdT8Y"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 180626,
       "name": "Prov\u00f3came",
       "url": "https://open.spotify.com/track/6rGUVwXPZfeOAcqmFlhPua"
+    },
+    {
+      "added_at": "2024-02-23 18:59:33",
+      "album": {
+        "name": "La Noche Que Murio Chicago",
+        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 161226,
+      "name": "La Noche Que Murio Chicago",
+      "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -643,18 +643,18 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "Recuerdos y algo m\u00e1s",
-        "url": "https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg"
+        "name": "Homenaje A Ramon Ayala",
+        "url": "https://open.spotify.com/album/3Duc8M0fBz1UT53deyiec4"
       },
       "artists": [
         {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+          "name": "Julio Preciado Y Su Banda Perla Del Pacifico",
+          "url": "https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p"
         }
       ],
-      "duration_ms": 208533,
-      "name": "Recuerdos",
-      "url": "https://open.spotify.com/track/2QE8R10kBgZkgosYsrChT7"
+      "duration_ms": 215400,
+      "name": "Un Rinconcito en el Cielo",
+      "url": "https://open.spotify.com/track/7wLxUIRidKDDIOBmq0TSyl"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -675,18 +675,18 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "Homenaje A Ramon Ayala",
-        "url": "https://open.spotify.com/album/3Duc8M0fBz1UT53deyiec4"
+        "name": "Recuerdos y algo m\u00e1s",
+        "url": "https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg"
       },
       "artists": [
         {
-          "name": "Julio Preciado Y Su Banda Perla Del Pacifico",
-          "url": "https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p"
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 215400,
-      "name": "Un Rinconcito en el Cielo",
-      "url": "https://open.spotify.com/track/7wLxUIRidKDDIOBmq0TSyl"
+      "duration_ms": 208533,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/2QE8R10kBgZkgosYsrChT7"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "El Ultimo Trago",
-        "url": "https://open.spotify.com/album/5it3AmjHepFq7wf1jfCJxb"
-      },
-      "artists": [
-        {
-          "name": "Banda Pelillos",
-          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Frio De Ausencia",
-      "url": "https://open.spotify.com/track/18pyEi1Lu4421p3WqRoevn"
-    },
-    {
-      "added_at": "2024-02-23 18:59:33",
-      "album": {
         "name": "Quisiera Tener Alas",
         "url": "https://open.spotify.com/album/6HwwODofS26o2VDCLiaArE"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 218853,
       "name": "Aunque No Sea Conmigo",
       "url": "https://open.spotify.com/track/0zCpvH2HP9vvw8GC6wjDrt"
+    },
+    {
+      "added_at": "2024-02-23 18:59:33",
+      "album": {
+        "name": "El Ultimo Trago",
+        "url": "https://open.spotify.com/album/5it3AmjHepFq7wf1jfCJxb"
+      },
+      "artists": [
+        {
+          "name": "Banda Pelillos",
+          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Frio De Ausencia",
+      "url": "https://open.spotify.com/track/18pyEi1Lu4421p3WqRoevn"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -899,18 +899,18 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "Esa Chica Me Vacila",
-        "url": "https://open.spotify.com/album/7gtvSChOxpQxGiLRp984LB"
+        "name": "Como Este Loco",
+        "url": "https://open.spotify.com/album/7bocxXAgzQYgSYwS2AIM2f"
       },
       "artists": [
         {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+          "name": "Julio Preciado Y Su Banda Perla Del Pacifico",
+          "url": "https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p"
         }
       ],
-      "duration_ms": 220666,
-      "name": "Esa Chica Me Vacila",
-      "url": "https://open.spotify.com/track/7q6yn8JrCnoCUGtD9JUiVg"
+      "duration_ms": 221666,
+      "name": "Como Este Loco",
+      "url": "https://open.spotify.com/track/5tf3V8LihD79bK9Tg8d841"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -931,18 +931,18 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "Como Este Loco",
-        "url": "https://open.spotify.com/album/7bocxXAgzQYgSYwS2AIM2f"
+        "name": "Esa Chica Me Vacila",
+        "url": "https://open.spotify.com/album/7gtvSChOxpQxGiLRp984LB"
       },
       "artists": [
         {
-          "name": "Julio Preciado Y Su Banda Perla Del Pacifico",
-          "url": "https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p"
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 221666,
-      "name": "Como Este Loco",
-      "url": "https://open.spotify.com/track/5tf3V8LihD79bK9Tg8d841"
+      "duration_ms": 220666,
+      "name": "Esa Chica Me Vacila",
+      "url": "https://open.spotify.com/track/7q6yn8JrCnoCUGtD9JUiVg"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "A Mover el Guayin",
-        "url": "https://open.spotify.com/album/7faetDuF4VoGbqlstgpjct"
-      },
-      "artists": [
-        {
-          "name": "Banda Pelillos",
-          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Las mujeres quieren bailar",
-      "url": "https://open.spotify.com/track/5wJOv7x0ObqV024IhCruVF"
-    },
-    {
-      "added_at": "2024-02-23 18:59:33",
-      "album": {
         "name": "Super Exitos",
         "url": "https://open.spotify.com/album/3FgnbvpmigNrgsaJAeCZL0"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 163693,
       "name": "El Ranchero Chido",
       "url": "https://open.spotify.com/track/12wG2c9gS7pwSndBZTB4XI"
+    },
+    {
+      "added_at": "2024-02-23 18:59:33",
+      "album": {
+        "name": "A Mover el Guayin",
+        "url": "https://open.spotify.com/album/7faetDuF4VoGbqlstgpjct"
+      },
+      "artists": [
+        {
+          "name": "Banda Pelillos",
+          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Las mujeres quieren bailar",
+      "url": "https://open.spotify.com/track/5wJOv7x0ObqV024IhCruVF"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "A Bailar Quebradita Y De Caballito",
-        "url": "https://open.spotify.com/album/0aAEJ91XDFx3MpfVZcE9Ie"
-      },
-      "artists": [
-        {
-          "name": "Banda Guadalajara Express",
-          "url": "https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN"
-        }
-      ],
-      "duration_ms": 158632,
-      "name": "Tri Triki Tri Traka",
-      "url": "https://open.spotify.com/track/3LecG08dRUwo8RY8VvvG3X"
-    },
-    {
-      "added_at": "2024-02-23 18:59:33",
-      "album": {
         "name": "Mis 20 Exitos Originales",
         "url": "https://open.spotify.com/album/2EY8NXsnOxgj4E70kSA4xL"
       },
@@ -1555,18 +1539,18 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "El Baile de la Cachucha",
-        "url": "https://open.spotify.com/album/5BWPqyh4hndM0qUl6huZKl"
+        "name": "A Bailar Quebradita Y De Caballito",
+        "url": "https://open.spotify.com/album/0aAEJ91XDFx3MpfVZcE9Ie"
       },
       "artists": [
         {
-          "name": "Banda Pelillos",
-          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+          "name": "Banda Guadalajara Express",
+          "url": "https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN"
         }
       ],
-      "duration_ms": 175973,
-      "name": "El Baile de la Cachucha",
-      "url": "https://open.spotify.com/track/5ZLMLSXFdSZnADxDoneQ2w"
+      "duration_ms": 158632,
+      "name": "Tri Triki Tri Traka",
+      "url": "https://open.spotify.com/track/3LecG08dRUwo8RY8VvvG3X"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -1583,6 +1567,22 @@
       "duration_ms": 231375,
       "name": "Y Nos Dieron Las Diez",
       "url": "https://open.spotify.com/track/5VkxZvqAG7uJNWB9ZuP2ok"
+    },
+    {
+      "added_at": "2024-02-23 18:59:33",
+      "album": {
+        "name": "El Baile de la Cachucha",
+        "url": "https://open.spotify.com/album/5BWPqyh4hndM0qUl6huZKl"
+      },
+      "artists": [
+        {
+          "name": "Banda Pelillos",
+          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+        }
+      ],
+      "duration_ms": 175973,
+      "name": "El Baile de la Cachucha",
+      "url": "https://open.spotify.com/track/5ZLMLSXFdSZnADxDoneQ2w"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "Chiquitita",
-        "url": "https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5"
-      },
-      "artists": [
-        {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
-        }
-      ],
-      "duration_ms": 175995,
-      "name": "El Baile Nuevo",
-      "url": "https://open.spotify.com/track/7cG8NhUwc1NhxxcmIIiWbJ"
-    },
-    {
-      "added_at": "2024-02-23 18:59:33",
-      "album": {
         "name": "Me Gustan Las Viejas Buenas",
         "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 171160,
       "name": "El Penal De La Loma",
       "url": "https://open.spotify.com/track/3umpEnkOEPTdbCELamakQF"
+    },
+    {
+      "added_at": "2024-02-23 18:59:33",
+      "album": {
+        "name": "Chiquitita",
+        "url": "https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5"
+      },
+      "artists": [
+        {
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
+        }
+      ],
+      "duration_ms": 175995,
+      "name": "El Baile Nuevo",
+      "url": "https://open.spotify.com/track/7cG8NhUwc1NhxxcmIIiWbJ"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "Exitos De Banda M-1",
-        "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
-      },
-      "artists": [
-        {
-          "name": "Banda M-1",
-          "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
-        }
-      ],
-      "duration_ms": 210047,
-      "name": "Que Bonita Te Vez",
-      "url": "https://open.spotify.com/track/0WPcxm4Q68rjTnljKv7tzh"
-    },
-    {
-      "added_at": "2024-02-23 18:59:33",
-      "album": {
         "name": "Chiquitita",
         "url": "https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 227311,
       "name": "Chiquitita",
       "url": "https://open.spotify.com/track/5yyuwY8ql8iiivBGWhsVow"
+    },
+    {
+      "added_at": "2024-02-23 18:59:33",
+      "album": {
+        "name": "Exitos De Banda M-1",
+        "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
+      },
+      "artists": [
+        {
+          "name": "Banda M-1",
+          "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
+        }
+      ],
+      "duration_ms": 210047,
+      "name": "Que Bonita Te Vez",
+      "url": "https://open.spotify.com/track/0WPcxm4Q68rjTnljKv7tzh"
     },
     {
       "added_at": "2024-02-23 18:59:33",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
+        "name": "Exitos De Banda M-1",
+        "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
+      },
+      "artists": [
+        {
+          "name": "Banda M-1",
+          "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
+        }
+      ],
+      "duration_ms": 138251,
+      "name": "Luna Llena",
+      "url": "https://open.spotify.com/track/3fcZhUdSkz9VNRVx7Hu69v"
+    },
+    {
+      "added_at": "2024-02-23 18:59:33",
+      "album": {
         "name": "Al Ataque",
         "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
       },
@@ -1979,22 +1995,6 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "Exitos De Banda M-1",
-        "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
-      },
-      "artists": [
-        {
-          "name": "Banda M-1",
-          "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
-        }
-      ],
-      "duration_ms": 138251,
-      "name": "Luna Llena",
-      "url": "https://open.spotify.com/track/3fcZhUdSkz9VNRVx7Hu69v"
-    },
-    {
-      "added_at": "2024-02-23 18:59:33",
-      "album": {
         "name": "El Amor de Tu Vida",
         "url": "https://open.spotify.com/album/1jdPDHO3AB6jQdOSxoNhYZ"
       },
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2024-02-23 18:59:33",
       "album": {
-        "name": "Para Morir Iguales",
-        "url": "https://open.spotify.com/album/0RIFdYKVISFMObAL0OzmQV"
-      },
-      "artists": [
-        {
-          "name": "Nico Flores Y Su Banda Puro Mazatl\u00e1n",
-          "url": "https://open.spotify.com/artist/6WcMKSNQdcj4BlR52fhsrF"
-        }
-      ],
-      "duration_ms": 119333,
-      "name": "Ingratos Ojos M\u00edos",
-      "url": "https://open.spotify.com/track/6hySXoZ9NTQZD2Pn4quRs1"
-    },
-    {
-      "added_at": "2024-02-23 18:59:33",
-      "album": {
         "name": "Exitos De Banda M-1",
         "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 155062,
       "name": "Oye Como Va",
       "url": "https://open.spotify.com/track/5dbZ0arhOVDAELk6pDBucF"
+    },
+    {
+      "added_at": "2024-02-23 18:59:33",
+      "album": {
+        "name": "Para Morir Iguales",
+        "url": "https://open.spotify.com/album/0RIFdYKVISFMObAL0OzmQV"
+      },
+      "artists": [
+        {
+          "name": "Nico Flores Y Su Banda Puro Mazatl\u00e1n",
+          "url": "https://open.spotify.com/artist/6WcMKSNQdcj4BlR52fhsrF"
+        }
+      ],
+      "duration_ms": 119333,
+      "name": "Ingratos Ojos M\u00edos",
+      "url": "https://open.spotify.com/track/6hySXoZ9NTQZD2Pn4quRs1"
     },
     {
       "added_at": "2024-02-23 18:59:33",

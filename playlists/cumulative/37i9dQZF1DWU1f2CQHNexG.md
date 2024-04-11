@@ -2,7 +2,7 @@
 
 ### [Synthpop Classics ](https://open.spotify.com/playlist/37i9dQZF1DWU1f2CQHNexG)
 
-> Dancing to electro\-pop like a robot from 1984\. Cover: Depeche Mode.
+> Dancing to electro\-pop like a robot from 1984\. Cover: Bronski Beat
 
 121 songs - 8 hr 37 min
 

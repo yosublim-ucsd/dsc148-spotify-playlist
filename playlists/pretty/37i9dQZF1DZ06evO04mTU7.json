@@ -1,12 +1,12 @@
 {
   "description": "This is Ajuliacosta. The essential tracks, all in one playlist.",
-  "num_followers": 2411,
+  "num_followers": 2423,
   "original_name": "This Is Ajuliacosta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWNjMDk4YjIxMjhhYmIwNmUwMzBlZDFkOWIyZDkyNTkwMWQ0ZDE4",
+  "snapshot_id": "MCw1NWY0ZjBjMTcxOTM3YjYzZDdlNTljMjc0NTQzOGQ5NmUwODExMjVl",
   "tracks": [
     {
       "added_at": null,
@@ -451,34 +451,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pantera",
-        "url": "https://open.spotify.com/album/3NSdLNoPmrSGXbHTiFdXiX"
+        "name": "AJU",
+        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
       },
       "artists": [
         {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
-        },
-        {
           "name": "Ajuliacosta",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "ONNiKA",
-          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Su Madre Mandrake",
-          "url": "https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i"
         }
       ],
-      "duration_ms": 246965,
-      "name": "Pantera",
-      "url": "https://open.spotify.com/track/4MmhgIjjLSo3BdLL9ZIucd"
+      "duration_ms": 120944,
+      "name": "7 Ruas",
+      "url": "https://open.spotify.com/track/3rOXjEay5jV6cFDkQvuGqE"
     },
     {
       "added_at": null,
@@ -515,18 +499,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "AJU",
-        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
+        "name": "Pantera",
+        "url": "https://open.spotify.com/album/3NSdLNoPmrSGXbHTiFdXiX"
       },
       "artists": [
         {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
           "name": "Ajuliacosta",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Su Madre Mandrake",
+          "url": "https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i"
         }
       ],
-      "duration_ms": 120944,
-      "name": "7 Ruas",
-      "url": "https://open.spotify.com/track/3rOXjEay5jV6cFDkQvuGqE"
+      "duration_ms": 246965,
+      "name": "Pantera",
+      "url": "https://open.spotify.com/track/4MmhgIjjLSo3BdLL9ZIucd"
     },
     {
       "added_at": null,
@@ -551,30 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brutas Amam, Choram e Sentem Raiva",
-        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
-      },
-      "artists": [
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "iamlope$$",
-          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
-        }
-      ],
-      "duration_ms": 187354,
-      "name": "Empres\u00e1rio",
-      "url": "https://open.spotify.com/track/5QxxKQQNZyL5Q4N7Rggjg0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AJU",
         "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
       },
@@ -591,6 +567,26 @@
       "duration_ms": 153600,
       "name": "Aju",
       "url": "https://open.spotify.com/track/3AnlYFI3TFrz7p0Q6zo376"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        }
+      ],
+      "duration_ms": 182854,
+      "name": "Brutas Tamb\u00e9m Choram",
+      "url": "https://open.spotify.com/track/7gTStq2OMkjtHyH09GGKkO"
     }
   ],
   "unique_name": "This Is Ajuliacosta",

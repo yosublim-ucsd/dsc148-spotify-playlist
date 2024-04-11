@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Bryson Tiller
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,356 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,362 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [ice](https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [They Hate Change](https://open.spotify.com/artist/6ht9VksrtRJDQXKzC2BZ3d) | [ice](https://open.spotify.com/album/0PNTKdFanCgqy26RQ9TtUA) | 2:46 |
 | 50 | [best thing for me](https://open.spotify.com/track/7cPYni8RIhjePdNSNxkVOZ) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [best thing for me](https://open.spotify.com/album/5u2VPya6pROsJYlXa3v0pm) | 2:26 |
 
-Snapshot ID: `MCw4NDkxYTI2MDBiMmUzN2EwNzFkNWEyNWY2MDEzYzkyN2FmYTFlN2Jj`
+Snapshot ID: `MCwyZTRjNmRkZGM4M2Q1NTQwYmNlMzFjODRhMGZmNGIzNDY0N2E5YmI0`

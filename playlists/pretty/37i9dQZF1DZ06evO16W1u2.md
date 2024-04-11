@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16W1u2.md) - [plain]
 
 > This is Rio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,413 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,414 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16W1u2.md) - [plain]
 | 49 | [Andrea](https://open.spotify.com/track/6UM9JjFbJWlIwVbcF6IOL3) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Revolución](https://open.spotify.com/album/1w5Nmi1bfyXKRZoWaNUG2V) | 3:17 |
 | 50 | [Te Extraño Igual](https://open.spotify.com/track/4Wgx6yhLn56No7kkyjOd9t) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5) | 2:46 |
 
-Snapshot ID: `MCxiZDc2NzU3OTk3MzMxNWYxYzdlMDE3ZjI4MGQwNjM3NTEzYjA0Yjlh`
+Snapshot ID: `MCw3NDY0ZmU2ZDdjZmFlYmRhM2U2Y2RmMTgxZjg5YmNkMmM5MzVhMDg4`

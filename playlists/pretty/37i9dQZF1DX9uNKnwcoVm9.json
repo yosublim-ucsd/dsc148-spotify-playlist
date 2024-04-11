@@ -1,12 +1,12 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 263110,
+  "num_followers": 263218,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGY1ODQ0YmI3N2MyMjQyN2YwNzgxZDE0ZTk2ZDY1MDQ3ZTNhMTE4",
+  "snapshot_id": "MCw3OTY3Njc3MmM5NWE0Yzc3MjEzYzNiMGJkMmQwMWYyNzlkYzc5MDc1",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:38",
@@ -27,22 +27,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Vivo para Ti",
-        "url": "https://open.spotify.com/album/3Ceaj1zts2EVTqzGV0JcLQ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
-        }
-      ],
-      "duration_ms": 211069,
-      "name": "La Ni\u00f1a de tus Ojos",
-      "url": "https://open.spotify.com/track/4B6Dq9yCXAyZUzGH8ULq1N"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Vuelve a Casa",
         "url": "https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 343746,
       "name": "Ven, Te Necesito",
       "url": "https://open.spotify.com/track/45eHVUfCCQgcxSZ0EO1bZq"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Vivo para Ti",
+        "url": "https://open.spotify.com/album/3Ceaj1zts2EVTqzGV0JcLQ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        }
+      ],
+      "duration_ms": 211069,
+      "name": "La Ni\u00f1a de tus Ojos",
+      "url": "https://open.spotify.com/track/4B6Dq9yCXAyZUzGH8ULq1N"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "De Vuelta al Jardin",
+        "url": "https://open.spotify.com/album/3Wqr5yNRTsQJQg1buZDYmZ"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 300186,
+      "name": "Gloria en Lo Alto",
+      "url": "https://open.spotify.com/track/7x6tBBMlzv6OkHfYTYu3FO"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Se Abren Los Cielos ( Pistas)",
         "url": "https://open.spotify.com/album/6lW1vofyUsYzC7QvktsrpU"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 371013,
       "name": "Padre Nuestro",
       "url": "https://open.spotify.com/track/3Askzcj7HSPFNv5T32Vh3E"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "De Vuelta al Jardin",
-        "url": "https://open.spotify.com/album/3Wqr5yNRTsQJQg1buZDYmZ"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 300186,
-      "name": "Gloria en Lo Alto",
-      "url": "https://open.spotify.com/track/7x6tBBMlzv6OkHfYTYu3FO"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "No Hay Otro Dios",
-        "url": "https://open.spotify.com/album/1WidkdQtLb7DpF8e8HXeXm"
+        "name": "De Vuelta al Jardin",
+        "url": "https://open.spotify.com/album/3Wqr5yNRTsQJQg1buZDYmZ"
       },
       "artists": [
         {
-          "name": "Banda Horizonte",
-          "url": "https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ"
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 393533,
-      "name": "Donde Tu Est\u00e1s",
-      "url": "https://open.spotify.com/track/16jKWnXGPFPZzMkcwjXFl2"
+      "duration_ms": 258640,
+      "name": "\u00c9l Nos Ama",
+      "url": "https://open.spotify.com/track/0g5zAwZa44obmZybQrYGbu"
     },
     {
       "added_at": "2020-11-24 13:23:38",

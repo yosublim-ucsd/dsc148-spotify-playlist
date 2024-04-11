@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Öykü Dörter  Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,321 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,341 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 49 | [Terk Ettin](https://open.spotify.com/track/1iGdWwh6UYVjMTCjKb0CQb) | [Sudenur Güntekin](https://open.spotify.com/artist/2w7QA4rdNppD7JQabQdexC), [Evasion](https://open.spotify.com/artist/0aNlPPYONVD0RHp6oaUdIl) | [Terk Ettin](https://open.spotify.com/album/1qLqnm2ccY0N6cKWCm0TW6) | 3:32 |
 | 50 | [Basmakalıp](https://open.spotify.com/track/3piyEfUU457Cvdhb04TcFe) | [Dağtaş](https://open.spotify.com/artist/4nWyPWiOoxzV1ODFZb0VC6) | [Basmakalıp](https://open.spotify.com/album/1Ya4yrpBh4pCw0V4ZsnazV) | 3:24 |
 
-Snapshot ID: `MCxjYjhkYzcwYjUzYjNmMjI5MjY3Yzk0NDA3MmU1YmNkYzExNThiNDky`
+Snapshot ID: `MCxlMzIzYWUwOWQwZTExZTAzMTViYTBmOGRlYmM3ZmY5YmRiNjkyOWY2`

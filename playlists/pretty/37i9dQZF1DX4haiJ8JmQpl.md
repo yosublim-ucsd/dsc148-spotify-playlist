@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4haiJ8JmQpl.md) - [plain]
 
 > Featuring YOVNGCHIMI, Nicki Nicole, Jay Wheeler & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,664 likes - 25 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,670 likes - 25 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4haiJ8JmQpl.md) - [plain]
 | 4 | [Milano Town \(with DJ Drama, Shiva & Murda Beatz\)](https://open.spotify.com/track/5DQeBcULJsfMgppYOw28Ps) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Gangsta Grillz: Mvrda Gvng](https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos) | 3:51 |
 | 5 | [Pacto \(feat\. Luar La L\)](https://open.spotify.com/track/2whW1Q8KTOODkGDakLZa6V) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Emociones 1.5](https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr) | 4:44 |
 | 6 | [Quizás, Tal Vez](https://open.spotify.com/track/15malicZv4vdLHzIXg5kK0) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:27 |
-| 7 | [Supernova](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Supernova](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 |
+| 7 | [SUPERNOVA](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [SUPERNOVA](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 |
 | 8 | [AMARGURA](https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:50 |
 | 9 | [8 AM](https://open.spotify.com/track/7CSmXJNeArnwDfUmtP4Gve) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [8 AM](https://open.spotify.com/album/4io4WcuVRNAKnVUyYA5wN9) | 2:27 |
 | 10 | [Andando](https://open.spotify.com/track/0yK1nUASmGNYKUH5qpXeOY) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:21 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4haiJ8JmQpl.md) - [plain]
 | 24 | [Pa Que Me Cu](https://open.spotify.com/track/2DRMn638dDHN6IaIFgSioi) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Pa Que Me Cu](https://open.spotify.com/album/1lY6iojhGh1DwmLn62oPkW) | 3:14 |
 | 25 | [Antes](https://open.spotify.com/track/7bfFmlLJ1LKr2E3AUsvq5P) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Edu García](https://open.spotify.com/artist/4Gr4Wo60IdAOBJLYgRZytK) | [Antes](https://open.spotify.com/album/0ISa5lIjmXXaQ9bNQXJe6s) | 2:33 |
 
-Snapshot ID: `MCxmMDljNzdhYWE1MGQ4ZGQ0NjlkNzFlYzQwNjhiMjk3OTJmYjQwYWI2`
+Snapshot ID: `MCw1Y2Y1Njc0OGFkZDk0MzczNDIwN2Q4YzUzNWY5YzIzZWQ4YzA4Mzk1`

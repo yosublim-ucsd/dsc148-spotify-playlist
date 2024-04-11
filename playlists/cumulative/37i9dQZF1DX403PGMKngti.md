@@ -4,7 +4,7 @@
 
 > ¡Los éxitos más champetúos de ayer y hoy se vacilan en Spotify! Foto: Ovy On the Drums, Luister La Voz, Dekko
 
-76 songs - 4 hr 43 min
+78 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [El Cuenta Chistes](https://open.spotify.com/track/04wJXEa76z0rrdVlpiTrJ9) | [Koffee el Kafetero](https://open.spotify.com/artist/3O5Pcxr21PC5RMi3wU1Dkm) | [El Cuenta Chistes](https://open.spotify.com/album/46IuYhgGKVxlipNk1Ze5S8) | 3:13 | 2023-12-15 |  |
 | [El Culpable](https://open.spotify.com/track/5pO2zUSbA8MDjWeDfqXsEG) | [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz) | [El Culpable](https://open.spotify.com/album/7a9wPvwibDy7SRXDUn6Bqh) | 3:33 | 2023-12-15 |  |
 | [El Liso](https://open.spotify.com/track/6vVp9urFjBYdqXjHGBz7lM) | [Pr En La Casa](https://open.spotify.com/artist/52PSXY8uA5PUBXWPZh31Ei) | [El Liso](https://open.spotify.com/album/2hQ1TY3DYqXRXcKyIEzYF4) | 3:31 | 2023-12-15 |  |
-| [El Matrimonio](https://open.spotify.com/track/2pSKcNWzYaIUVGKyYi53SN) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [El Matrimonio](https://open.spotify.com/album/4l0zxkbLDxbcrGVnmRNFh1) | 3:37 | 2023-12-15 |  |
+| [El Matrimonio](https://open.spotify.com/track/2pSKcNWzYaIUVGKyYi53SN) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [El Matrimonio](https://open.spotify.com/album/4l0zxkbLDxbcrGVnmRNFh1) | 3:37 | 2023-12-15 | 2024-04-11 |
+| [El Matrimonio](https://open.spotify.com/track/0iGBSX7sqysQekNISkFIS0) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [El Matrimonio](https://open.spotify.com/album/0AGt6KPuYk6J3YjjviX06y) | 3:37 | 2023-12-15 |  |
 | [El Party](https://open.spotify.com/track/4dU569wYC8Qs5KxoyG4NA2) | [Bazurto All Stars](https://open.spotify.com/artist/0BhgcfRYexO5WqUGuqOgGF) | [El Party](https://open.spotify.com/album/5JRi35Q88W0sB68TcpgKYM) | 2:25 | 2023-12-15 |  |
 | [El Remedio](https://open.spotify.com/track/0m2mxMh8n1f21GiJgQEKTc) | [Twister el Rey](https://open.spotify.com/artist/3iekLDuN7jHoZh3t5dxfpx) | [El Remedio](https://open.spotify.com/album/3joZbaXh6KciJv8UxncmAC) | 3:41 | 2023-12-15 |  |
 | [El Retén \- Remix](https://open.spotify.com/track/3iZArDlxJyb72KVWPmb3JW) | [Criss & Ronny](https://open.spotify.com/artist/04byNS8WxNRTr1Fy2oQPrq), [Koffee el Kafetero](https://open.spotify.com/artist/3O5Pcxr21PC5RMi3wU1Dkm), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz) | [El Retén \(Remix\)](https://open.spotify.com/album/5zO9DTl26xg181880HX2Fv) | 3:55 | 2023-12-15 |  |
@@ -64,7 +65,8 @@
 | [Loco de Amor](https://open.spotify.com/track/2h0EJO4dvtAQlfqFeHLc7D) | [Rey de Rocha](https://open.spotify.com/artist/1Fsa2BhTg8Om8M0LOzV3ci), [Papo Man](https://open.spotify.com/artist/3oIFwa7ekCrHUcuFBb9WiF) | [Rey de Rocha: El Rey Soy Yo, Vol\. 60](https://open.spotify.com/album/6DesxNFXVmyk6PSxelrshJ) | 4:27 | 2023-12-15 |  |
 | [Los Insuperables](https://open.spotify.com/track/2Fiu8HbYuIn5xBC2Xg4608) | [Twister el Rey](https://open.spotify.com/artist/3iekLDuN7jHoZh3t5dxfpx) | [Volvió El Rey](https://open.spotify.com/album/6sLEpUUgSz4vTHcEef4gXE) | 3:16 | 2023-12-15 |  |
 | [Los Papelitos](https://open.spotify.com/track/4kuBw7aBXjqN4CrBUw4yb5) | [Young F](https://open.spotify.com/artist/298Xp5GBq3SNngVmoSPQJM) | [Los Papelitos](https://open.spotify.com/album/5dmzTb7ZfY72TfylWcYwdu) | 3:34 | 2023-12-15 |  |
-| [Los Trapitos al Agua](https://open.spotify.com/track/5uY067t7HIaEfCmhgRaA7m) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [Los Trapitos al Agua](https://open.spotify.com/album/7CwbUzZX90EMQubtrwxn8X) | 4:07 | 2023-12-15 |  |
+| [Los Trapitos al Agua](https://open.spotify.com/track/7v5ZLaD5qY9IbNcFOapmi0) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [Los Trapitos al Agua](https://open.spotify.com/album/76jDSZyI21nZFUcEK0FrHN) | 4:04 | 2023-12-15 |  |
+| [Los Trapitos al Agua](https://open.spotify.com/track/5uY067t7HIaEfCmhgRaA7m) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [Los Trapitos al Agua](https://open.spotify.com/album/7CwbUzZX90EMQubtrwxn8X) | 4:07 | 2023-12-15 | 2024-04-11 |
 | [Macta Llega](https://open.spotify.com/track/6n7g87PKuRMXQFgUnM3ri1) | [DJ Dever](https://open.spotify.com/artist/2KDK6LDA8DKphV0wwHb40D), [La Toxi Costeña](https://open.spotify.com/artist/516oJEv2kwopfybAx1wdDm) | [Macta Llega](https://open.spotify.com/album/4c4e7m9LlflXbDmz68ikS3) | 2:15 | 2023-12-15 |  |
 | [Mami Ya pa' Qué](https://open.spotify.com/track/6KCG5cKd1bkGmRU4cxJQ5W) | [Rey Three Latino](https://open.spotify.com/artist/1rPEfTLbDVGyONtRnaFm50) | [Mami Ya pa' Qué](https://open.spotify.com/album/36ergG3eCW2TWGPVOBNmr4) | 3:33 | 2023-12-15 |  |
 | [Me Voy](https://open.spotify.com/track/5iF0m6OjXmGMPiVH5MXfF5) | [Koffee el Kafetero](https://open.spotify.com/artist/3O5Pcxr21PC5RMi3wU1Dkm) | [El Mas Grande De La Champeta](https://open.spotify.com/album/1pZbHIe2hC2ddoajPFmjUV) | 3:26 | 2023-12-15 |  |

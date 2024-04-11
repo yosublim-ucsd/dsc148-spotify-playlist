@@ -1,12 +1,12 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 178342,
+  "num_followers": 178447,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2ExYWEyZTlhMWNhNTQ4ZWUyNmQ1M2Y3NmNlNTY5MzAzZGU3MmRm",
+  "snapshot_id": "MCwxODFmYmJmNDNhNzU3OWVlYzYwNDVkODU3OTJhM2QyNjM0Y2U4MmNl",
   "tracks": [
     {
       "added_at": "2023-08-08 02:05:58",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/5DUcnGGmAANjBJuXVG0KxQ"
-      },
-      "artists": [
-        {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
-        }
-      ],
-      "duration_ms": 218697,
-      "name": "Grandes Pasos",
-      "url": "https://open.spotify.com/track/1kTDUMGq732oIs3XJK1bre"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "As\u00ed Soy Yo",
         "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 209386,
       "name": "M\u00e1s Flow M\u00e1s Cash",
       "url": "https://open.spotify.com/track/47zBGuVCeAzjFEPnRQQBew"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/5DUcnGGmAANjBJuXVG0KxQ"
+      },
+      "artists": [
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        }
+      ],
+      "duration_ms": 218697,
+      "name": "Grandes Pasos",
+      "url": "https://open.spotify.com/track/1kTDUMGq732oIs3XJK1bre"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "By My Own",
-        "url": "https://open.spotify.com/album/45A5aSPBspEdUdYgWDW0B4"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "By My Own",
-      "url": "https://open.spotify.com/track/1XiptdPHH8raaPDU3gdrWW"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Teorema",
         "url": "https://open.spotify.com/album/4BrZpyJrJ3cPWgqIr6FLIU"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 204125,
       "name": "Natural",
       "url": "https://open.spotify.com/track/3tsBwY0wRBkiy8EBOY3O7z"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "By My Own",
+        "url": "https://open.spotify.com/album/45A5aSPBspEdUdYgWDW0B4"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "By My Own",
+      "url": "https://open.spotify.com/track/1XiptdPHH8raaPDU3gdrWW"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1207,54 +1207,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Love & Money",
-        "url": "https://open.spotify.com/album/7BAQx3vrxCF02TU4wpK7Te"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        },
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        }
-      ],
-      "duration_ms": 216024,
-      "name": "Love & Money",
-      "url": "https://open.spotify.com/track/4JYVHokdjqjArnqmqTfaUZ"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Atrevido",
-        "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Taiu",
-          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
-        },
-        {
-          "name": "TATOOL",
-          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
-        }
-      ],
-      "duration_ms": 228097,
-      "name": "G.P.S. - con Aleman",
-      "url": "https://open.spotify.com/track/03e3pnRddWmYOVQlzs3Qnb"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "El Morroeste",
         "url": "https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe"
       },
@@ -1267,22 +1219,6 @@
       "duration_ms": 196105,
       "name": "Mextasis",
       "url": "https://open.spotify.com/track/7hUGy5dnyRVXzHOv9LoZB9"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Hip Hop 100 Hits - Urban rap & R n B anthems inc. Jay Z, A$ap Rocky, Wu-Tang Clan & Nas",
-        "url": "https://open.spotify.com/album/1tIioq32KjWlt5vvk5rhqX"
-      },
-      "artists": [
-        {
-          "name": "Delinquent Habits",
-          "url": "https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "Tres Delinquentes - Radio Version",
-      "url": "https://open.spotify.com/track/1dstLlsgEFPsaiccsUz2SP"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1315,6 +1251,42 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
+        "name": "Love & Money",
+        "url": "https://open.spotify.com/album/7BAQx3vrxCF02TU4wpK7Te"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "duration_ms": 216024,
+      "name": "Love & Money",
+      "url": "https://open.spotify.com/track/4JYVHokdjqjArnqmqTfaUZ"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Hip Hop 100 Hits - Urban rap & R n B anthems inc. Jay Z, A$ap Rocky, Wu-Tang Clan & Nas",
+        "url": "https://open.spotify.com/album/1tIioq32KjWlt5vvk5rhqX"
+      },
+      "artists": [
+        {
+          "name": "Delinquent Habits",
+          "url": "https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "Tres Delinquentes - Radio Version",
+      "url": "https://open.spotify.com/track/1dstLlsgEFPsaiccsUz2SP"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
         "name": "Verte Cerquita",
         "url": "https://open.spotify.com/album/77Q12SIPTgFOPBZ2qRR1Kv"
       },
@@ -1331,6 +1303,34 @@
       "duration_ms": 232721,
       "name": "Verte Cerquita",
       "url": "https://open.spotify.com/track/6eTCWWKBtnJI9Ui9OlLEyO"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Atrevido",
+        "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+        },
+        {
+          "name": "TATOOL",
+          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
+        }
+      ],
+      "duration_ms": 228097,
+      "name": "G.P.S. - con Aleman",
+      "url": "https://open.spotify.com/track/03e3pnRddWmYOVQlzs3Qnb"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 201986,
-      "name": "1977",
-      "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
         "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 237760,
       "name": "Siempre Peligroso (feat. Fermin IV Caballero)",
       "url": "https://open.spotify.com/track/1hSJnfkEqbGF5afz5aqKqi"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 201986,
+      "name": "1977",
+      "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Claro",
-        "url": "https://open.spotify.com/album/5AmcGezfEa27mu3Mx6bPas"
-      },
-      "artists": [
-        {
-          "name": "Lil Supa",
-          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
-        }
-      ],
-      "duration_ms": 186044,
-      "name": "Fe de Errata",
-      "url": "https://open.spotify.com/track/7lj2BqZyPehFyu3y6N1qqw"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Apaga el celular",
         "url": "https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 225942,
       "name": "Apaga el Celular",
       "url": "https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Claro",
+        "url": "https://open.spotify.com/album/5AmcGezfEa27mu3Mx6bPas"
+      },
+      "artists": [
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        }
+      ],
+      "duration_ms": 186044,
+      "name": "Fe de Errata",
+      "url": "https://open.spotify.com/track/7lj2BqZyPehFyu3y6N1qqw"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1863,18 +1863,18 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Serio",
-        "url": "https://open.spotify.com/album/1rSmB2J6FBTsH9NOCV24xW"
+        "name": "Vicios y Virtudes",
+        "url": "https://open.spotify.com/album/6SaShuiobMOc9mIiSmP2kY"
       },
       "artists": [
         {
-          "name": "Lil Supa",
-          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+          "name": "Violadores Del Verso",
+          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
         }
       ],
-      "duration_ms": 284000,
-      "name": "\u5149 Luz",
-      "url": "https://open.spotify.com/track/5aF2hoUHaU9GainPXIZDMV"
+      "duration_ms": 269160,
+      "name": "Ninguna Chavala Tiene Due\u00f1o - Porque Ella Me Lo Dijo",
+      "url": "https://open.spotify.com/track/5fIJBM9OxVNiu4fQLX9vqo"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Hip Hop Latino",

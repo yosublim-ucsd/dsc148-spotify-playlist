@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 330455,
+  "num_followers": 330551,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2U4OTgyY2JkODNmZGQ3NzVmOTJiYmI1ZjI5YmY3OWI4NDgxNTk1",
+  "snapshot_id": "MCxhYTE3ZGRjYmNjMWM5NDFiMDg1MTRkMmUzNDhlM2QxY2U1YzMwNzgx",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Joyful Noise",
-        "url": "https://open.spotify.com/album/6xQS2XV7LfBDBi745UrDsd"
-      },
-      "artists": [
-        {
-          "name": "Breakestra",
-          "url": "https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG"
-        }
-      ],
-      "duration_ms": 310214,
-      "name": "Dark Clouds Rain Soul - Dub",
-      "url": "https://open.spotify.com/track/7DSKKjkdXccZpbhz0AhWZM"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Galactica Rush",
         "url": "https://open.spotify.com/album/3920PXKQtjKRmHxhdrCusF"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 320693,
       "name": "Whirl Keeps Turning",
       "url": "https://open.spotify.com/track/4hAQ0We3JHe2G3BELaLPpX"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Joyful Noise",
+        "url": "https://open.spotify.com/album/6xQS2XV7LfBDBi745UrDsd"
+      },
+      "artists": [
+        {
+          "name": "Breakestra",
+          "url": "https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG"
+        }
+      ],
+      "duration_ms": 310214,
+      "name": "Dark Clouds Rain Soul - Dub",
+      "url": "https://open.spotify.com/track/7DSKKjkdXccZpbhz0AhWZM"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Disposable Arts",
-        "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
-      },
-      "artists": [
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        },
-        {
-          "name": "Punch&Words",
-          "url": "https://open.spotify.com/artist/61FbYXEKKxS7MHKzXM9Ej7"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Block Episode",
-      "url": "https://open.spotify.com/track/1axCLL1W1NiOVz32Dnf2Ie"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "I'll Be With You",
         "url": "https://open.spotify.com/album/7GVaEnwt87gGsw0RxM9F3q"
       },
@@ -1223,6 +1203,26 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Disposable Arts",
+        "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Punch&Words",
+          "url": "https://open.spotify.com/artist/61FbYXEKKxS7MHKzXM9Ej7"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Block Episode",
+      "url": "https://open.spotify.com/track/1axCLL1W1NiOVz32Dnf2Ie"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Nuyorican Soul",
         "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
       },
@@ -1239,6 +1239,26 @@
       "duration_ms": 319733,
       "name": "I Am The Black Gold Of The Sun",
       "url": "https://open.spotify.com/track/54xrXbM3vHE6JkVqkorRdG"
+    },
+    {
+      "added_at": "2022-07-18 17:17:22",
+      "album": {
+        "name": "SGJAZZ, Vol. 2",
+        "url": "https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB"
+      },
+      "artists": [
+        {
+          "name": "SGJAZZ",
+          "url": "https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G"
+        },
+        {
+          "name": "Dr. Dundiff",
+          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/1mlwFuFOjVsKrYCCct8JQX"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1275,26 +1295,6 @@
       "duration_ms": 199560,
       "name": "Pushin' On",
       "url": "https://open.spotify.com/track/7LiC67aNpgqxkZJPC49UjM"
-    },
-    {
-      "added_at": "2022-07-18 17:17:22",
-      "album": {
-        "name": "SGJAZZ, Vol. 2",
-        "url": "https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB"
-      },
-      "artists": [
-        {
-          "name": "SGJAZZ",
-          "url": "https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G"
-        },
-        {
-          "name": "Dr. Dundiff",
-          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Homecoming",
-      "url": "https://open.spotify.com/track/1mlwFuFOjVsKrYCCct8JQX"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "To The Sky (Remastered)",
-        "url": "https://open.spotify.com/album/1cTTBccilA8gZVMtbCpiJj"
-      },
-      "artists": [
-        {
-          "name": "Black Mighty Orchestra",
-          "url": "https://open.spotify.com/artist/6ToaCgW43Bu3SJURJyRAYI"
-        }
-      ],
-      "duration_ms": 196682,
-      "name": "Ocean Beach",
-      "url": "https://open.spotify.com/track/5bs3xYcyeBztF37B693bL4"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Funkhaus Studio Sessions",
         "url": "https://open.spotify.com/album/5LOoEv25jD7VHMcoaEcnbg"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 300186,
       "name": "No Use - Funkhaus Sessions",
       "url": "https://open.spotify.com/track/6QwMs7pvzxGhriqoy3ofHc"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "To The Sky (Remastered)",
+        "url": "https://open.spotify.com/album/1cTTBccilA8gZVMtbCpiJj"
+      },
+      "artists": [
+        {
+          "name": "Black Mighty Orchestra",
+          "url": "https://open.spotify.com/artist/6ToaCgW43Bu3SJURJyRAYI"
+        }
+      ],
+      "duration_ms": 196682,
+      "name": "Ocean Beach",
+      "url": "https://open.spotify.com/track/5bs3xYcyeBztF37B693bL4"
     },
     {
       "added_at": "2022-07-14 19:24:43",

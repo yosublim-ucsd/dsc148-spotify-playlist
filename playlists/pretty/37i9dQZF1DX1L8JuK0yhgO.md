@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,639 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,642 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 69 | [Over](https://open.spotify.com/track/5WUPSzTJjUWlu2lDFXmQMb) | [in the blue shirt](https://open.spotify.com/artist/4OyqzBV6i2e7Ycs5LwLDxE) | [Over](https://open.spotify.com/album/3iAA2sSSQ9KmaxeAwdPTgN) | 3:56 |
 | 70 | [Good Morning \- 2024 Dub](https://open.spotify.com/track/5NCtEf7UhVjAVrWioOcNqk) | [E.O.U](https://open.spotify.com/artist/1NjGRBGwtvtzbSaXyEUBjl) | [e \(loo\) p](https://open.spotify.com/album/45MWHJH5izyB4Ne45H1x5Z) | 7:31 |
 
-Snapshot ID: `MCxmY2ZjYjYxMzFjMTc4YTJjM2Y4YjM3NmFlMjU4ZmZmZjViYmJmODJk`
+Snapshot ID: `MCw0MDAyYmY4MTU0MjRjNjI2NDJlYjc5NDFjODNjNDQ4Zjk3NDU5OGY4`

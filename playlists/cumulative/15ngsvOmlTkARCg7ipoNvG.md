@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,744 songs - 1 day 12 hr 9 min
+1,746 songs - 1 day 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [At Last](https://open.spotify.com/track/1yTj91vUbgHPKQW0c0WthZ) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Dreaming](https://open.spotify.com/album/3nPCZ7PFvfpRyuSFUq026c) | 1:39 | 2022-01-20 |  |
 | [At Peace](https://open.spotify.com/track/7GVdqeQOO5prFlTmq09sq1) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [At Peace](https://open.spotify.com/album/3SQHEj3pEJjPtGupFUqYCD) | 1:43 | 2024-01-29 |  |
 | [At Rest](https://open.spotify.com/track/2YDwZOowqUbF9i5JmkRCo7) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Daydreaming](https://open.spotify.com/album/72T026EJN1ZCBM10yJ6Nb8) | 1:17 | 2024-01-29 |  |
+| [Atlantic \- Ambient Piano Version](https://open.spotify.com/track/2BXjdfdmtUYht4EG09aRFP) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Atlantic \(Ambient Piano Version\)](https://open.spotify.com/album/7LsGdSrrAncmsoYqIOZQbh) | 1:00 | 2024-04-10 |  |
 | [August Rain \- Alternate Cello Version](https://open.spotify.com/track/71bAEPvCzXXg5F6RBu3N0D) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [August Rain \(Alternate Cello Version\)](https://open.spotify.com/album/5Z0WTydmhq1JjKvRbiC0Mz) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [August Rain Arr\. For Cello And Piano](https://open.spotify.com/track/2P4bxTEd6S2c9jvg9NoTft) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [August Rain Arr\. For Cello And Piano](https://open.spotify.com/album/7d0BbKXgeKBhI4EMoPVaZ3) | 1:01 | 2023-04-19 | 2024-02-13 |
 | [Auld Lang Syne \- Cello And Harp Version](https://open.spotify.com/track/1f6MOamVaEgM1zNGwnThbM) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Auld Lang Syne \(Cello And Harp Version\)](https://open.spotify.com/album/4g5JUHrSRmgxDRHVIsoUbT) | 1:03 | 2024-02-09 | 2024-02-13 |
@@ -1750,6 +1751,7 @@
 | [Your Reflection](https://open.spotify.com/track/5hHcVaQjBHLRgXFrhnfhwY) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Soft Strings](https://open.spotify.com/album/633Q4gSm8Mc205tuBQ84Vz) | 1:16 | 2022-01-12 |  |
 | [Your Smiling Eyes Arr\. For Strings](https://open.spotify.com/track/7rsJ3ZmdzfJ7VNjsdVNxuk) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Your Smiling Eyes Arr\. For Strings](https://open.spotify.com/album/4zFWwJ7FJFCWQEbgKZ41nj) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Your Smiling Eyes Reimagined](https://open.spotify.com/track/4z1vPGrK8yHYqCe0vjTrZR) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Your Smiling Eyes Reimagined](https://open.spotify.com/album/31csW7qr0yjUKcqD2rknRC) | 1:01 | 2024-02-09 | 2024-02-13 |
+| [Yours \- Ambient Piano Version](https://open.spotify.com/track/5loJhfn5IZ0FKSgEtSPyKO) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Yours \(Ambient Piano Version\)](https://open.spotify.com/album/5FsAodURxudo1znYbSHYQt) | 1:00 | 2024-04-10 |  |
 | [Yours Again](https://open.spotify.com/track/6GeyehWCbdWlkjBidmiRWU) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Homeward Bound](https://open.spotify.com/album/2hNoqAr3GbLHwASZS5mmTU) | 1:01 | 2022-04-16 |  |
 | [Zenith](https://open.spotify.com/track/4SDC6VeGuQ8aS2O6TFvvvc) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Beyond](https://open.spotify.com/album/2SNyPk3oJs7OPDHJoCxM8I) | 1:09 | 2022-01-12 |  |
 

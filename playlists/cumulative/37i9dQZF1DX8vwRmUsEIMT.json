@@ -6412,10 +6412,28 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 259946,
       "name": "Classical",
       "url": "https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW"
+    },
+    {
+      "album": {
+        "name": "Only God Was Above Us",
+        "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259946,
+      "name": "Classical",
+      "url": "https://open.spotify.com/track/4DlGLD32K7shuL8ub067DL"
     },
     {
       "album": {

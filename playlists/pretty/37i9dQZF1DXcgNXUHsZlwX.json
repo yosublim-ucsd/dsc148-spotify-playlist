@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 122314,
+  "num_followers": 122368,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmFjYjExMTFmOGU2ZGI2NmFkMDhjYjM4YTIzNmU5ZGVkNDFmMmU4",
+  "snapshot_id": "MCwwNzU2MjQ4Zjg2OTc5YWFjMTMwZmQ4YjYzY2Q0NDA3YTQyZTIxZmJh",
   "tracks": [
     {
       "added_at": "2024-04-05 04:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Pour d\u00e9jouer l'ennui",
-        "url": "https://open.spotify.com/album/096tQ53nMSEYJrCiIMrEgE"
-      },
-      "artists": [
-        {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
-        }
-      ],
-      "duration_ms": 170950,
-      "name": "Le monarque des Indes",
-      "url": "https://open.spotify.com/track/2iGFdHJ9PNdXuPWCpjw61T"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Solitudes",
         "url": "https://open.spotify.com/album/0q7qInfdzXEaJxQt1YNvvi"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 248306,
       "name": "Solitudes",
       "url": "https://open.spotify.com/track/7IjR9x7qM8WFVKYXcZX7PR"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Pour d\u00e9jouer l'ennui",
+        "url": "https://open.spotify.com/album/096tQ53nMSEYJrCiIMrEgE"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "duration_ms": 170950,
+      "name": "Le monarque des Indes",
+      "url": "https://open.spotify.com/track/2iGFdHJ9PNdXuPWCpjw61T"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Go Get It",
+        "url": "https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "duration_ms": 141509,
+      "name": "Go Get It",
+      "url": "https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Pers\u00e9ides",
         "url": "https://open.spotify.com/album/7nfOshpjsyOUdXfnWSINOA"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 175746,
       "name": "Lost River",
       "url": "https://open.spotify.com/track/7B5iVq1KpRI6KwomC6W1Ge"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Go Get It",
-        "url": "https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV"
-      },
-      "artists": [
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
-        }
-      ],
-      "duration_ms": 141509,
-      "name": "Go Get It",
-      "url": "https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "This Time I See It",
-        "url": "https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 220213,
-      "name": "Understand It",
-      "url": "https://open.spotify.com/track/1j3RlvCYzUnWxWQozjEzTh"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Pearl",
         "url": "https://open.spotify.com/album/6VO0kbsASYzqsleTf3pKN5"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 315733,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/5rebri0zyAov1vW9faM3wy"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "This Time I See It",
+        "url": "https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "duration_ms": 220213,
+      "name": "Understand It",
+      "url": "https://open.spotify.com/track/1j3RlvCYzUnWxWQozjEzTh"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Swimmer",
-        "url": "https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 213107,
-      "name": "Swimmer",
-      "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Afternoon Bike Ride",
         "url": "https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT"
       },
@@ -1059,6 +1043,38 @@
       "duration_ms": 179141,
       "name": "Before the Fall",
       "url": "https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Swimmer",
+        "url": "https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 213107,
+      "name": "Swimmer",
+      "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Defunct Baseball Team",
+        "url": "https://open.spotify.com/album/4BisJkUD3Bu6k8rnbhB1JG"
+      },
+      "artists": [
+        {
+          "name": "Drucker",
+          "url": "https://open.spotify.com/artist/5Zl9VaZUCcLF64614o1Zks"
+        }
+      ],
+      "duration_ms": 148663,
+      "name": "Defunct Baseball Team",
+      "url": "https://open.spotify.com/track/528146UttVCudD2otAEkEI"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Defunct Baseball Team",
-        "url": "https://open.spotify.com/album/4BisJkUD3Bu6k8rnbhB1JG"
-      },
-      "artists": [
-        {
-          "name": "Drucker",
-          "url": "https://open.spotify.com/artist/5Zl9VaZUCcLF64614o1Zks"
-        }
-      ],
-      "duration_ms": 148663,
-      "name": "Defunct Baseball Team",
-      "url": "https://open.spotify.com/track/528146UttVCudD2otAEkEI"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Je vais te faire danser",
         "url": "https://open.spotify.com/album/3gOUfR7gIsMaKQHaMWVGjd"
       },
@@ -1131,8 +1131,8 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Du temps",
-        "url": "https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno"
+        "name": "Valhalla Dancer",
+        "url": "https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da"
       },
       "artists": [
         {
@@ -1140,9 +1140,9 @@
           "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
         }
       ],
-      "duration_ms": 222586,
-      "name": "Du temps",
-      "url": "https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL"
+      "duration_ms": 223533,
+      "name": "Valhalla Dancer",
+      "url": "https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 191280,
-      "name": "Le vent se l\u00e8ve",
-      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "L'\u00e9trange pays",
         "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 200706,
       "name": "Passe ton chemin",
       "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Le vent se l\u00e8ve",
+      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Dormir dans l'auto",
-        "url": "https://open.spotify.com/album/38XYlSUWPXP5g0YiFqnsEl"
-      },
-      "artists": [
-        {
-          "name": "Daniel B\u00e9langer",
-          "url": "https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Dormir dans l'auto",
-      "url": "https://open.spotify.com/track/6YeU90UGMd5pOapVHBXF1Q"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Ceci est une esp\u00e8ce aim\u00e9e",
         "url": "https://open.spotify.com/album/1EFz0WbdlqvV50NkSxJoWq"
       },
@@ -1263,8 +1247,24 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Valhalla Dancer",
-        "url": "https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da"
+        "name": "Dormir dans l'auto",
+        "url": "https://open.spotify.com/album/38XYlSUWPXP5g0YiFqnsEl"
+      },
+      "artists": [
+        {
+          "name": "Daniel B\u00e9langer",
+          "url": "https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Dormir dans l'auto",
+      "url": "https://open.spotify.com/track/6YeU90UGMd5pOapVHBXF1Q"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Du temps",
+        "url": "https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno"
       },
       "artists": [
         {
@@ -1272,9 +1272,9 @@
           "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
         }
       ],
-      "duration_ms": 223533,
-      "name": "Valhalla Dancer",
-      "url": "https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI"
+      "duration_ms": 222586,
+      "name": "Du temps",
+      "url": "https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "AVALANCHE (n.f.)",
-        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
-      },
-      "artists": [
-        {
-          "name": "Ariane Roy",
-          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
-        }
-      ],
-      "duration_ms": 188516,
-      "name": "Tu pars",
-      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "L'\u00e9t\u00e9 indien de ta vie",
         "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 238969,
       "name": "L'\u00e9t\u00e9 indien de ta vie",
       "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "AVALANCHE (n.f.)",
+        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
+      },
+      "artists": [
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "duration_ms": 188516,
+      "name": "Tu pars",
+      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Feeling Like A Plant",
-        "url": "https://open.spotify.com/album/02KDbCTfvENyYrGJxOFyK5"
-      },
-      "artists": [
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
-        }
-      ],
-      "duration_ms": 179551,
-      "name": "Feeling Like A Plant",
-      "url": "https://open.spotify.com/track/3oabWSuwImdNajR9s46Sdu"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Pourchasser l'aube",
         "url": "https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 214720,
       "name": "Mille et un",
       "url": "https://open.spotify.com/track/1BBYJdtHPOhITu6oDZyhHc"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Feeling Like A Plant",
+        "url": "https://open.spotify.com/album/02KDbCTfvENyYrGJxOFyK5"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "duration_ms": 179551,
+      "name": "Feeling Like A Plant",
+      "url": "https://open.spotify.com/track/3oabWSuwImdNajR9s46Sdu"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "L'eau vive",
-        "url": "https://open.spotify.com/album/5j81vIkGAdMDg52RLtf5P0"
-      },
-      "artists": [
-        {
-          "name": "Coco M\u00e9li\u00e8s",
-          "url": "https://open.spotify.com/artist/6zjvUH1H89kLUdrSWCUEPX"
-        }
-      ],
-      "duration_ms": 241941,
-      "name": "L'eau vive",
-      "url": "https://open.spotify.com/track/5TIBLZ1wnbx0msA94PLSrb"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Fables (The Garden Version)",
         "url": "https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s"
       },
@@ -1555,34 +1539,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/5JKfHycWZ3soRfR1VTfsuC"
+        "name": "L'eau vive",
+        "url": "https://open.spotify.com/album/5j81vIkGAdMDg52RLtf5P0"
       },
       "artists": [
         {
-          "name": "Jeffrey Piton",
-          "url": "https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8"
+          "name": "Coco M\u00e9li\u00e8s",
+          "url": "https://open.spotify.com/artist/6zjvUH1H89kLUdrSWCUEPX"
         }
       ],
-      "duration_ms": 205386,
-      "name": "Californie",
-      "url": "https://open.spotify.com/track/2nEyKTVsQeVlbNt5bCBG7I"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "SESSION LIVE H2T",
-        "url": "https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz"
-      },
-      "artists": [
-        {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
-        }
-      ],
-      "duration_ms": 211002,
-      "name": "Beaut\u00e9 baroque - Session live H2T",
-      "url": "https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw"
+      "duration_ms": 241941,
+      "name": "L'eau vive",
+      "url": "https://open.spotify.com/track/5TIBLZ1wnbx0msA94PLSrb"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1627,6 +1595,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/5JKfHycWZ3soRfR1VTfsuC"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Piton",
+          "url": "https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8"
+        }
+      ],
+      "duration_ms": 205386,
+      "name": "Californie",
+      "url": "https://open.spotify.com/track/2nEyKTVsQeVlbNt5bCBG7I"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Ce que je te donne ne dispara\u00eet pas",
         "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 226586,
       "name": "Des histoires qui ne seront jamais finies",
       "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "SESSION LIVE H2T",
+        "url": "https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "duration_ms": 211002,
+      "name": "Beaut\u00e9 baroque - Session live H2T",
+      "url": "https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw"
     },
     {
       "added_at": "2024-04-05 04:00:00",

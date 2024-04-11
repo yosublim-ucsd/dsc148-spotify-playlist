@@ -4,7 +4,7 @@
 
 > ist nur einmal im Jahr...
 
-125 songs - 6 hr 21 min
+126 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Herzbeben](https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W) | [Helene Fischer \(Deluxe Version\)](https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR) | 3:25 | 2023-07-14 |  |
 | [Heute nicht!](https://open.spotify.com/track/3edAKB1WUrzlgxhXJ2Vnar) | [Ben Zucker](https://open.spotify.com/artist/1ZHJdXXtKnmUh2qRN4LmbS) | [Heute nicht!](https://open.spotify.com/album/1FdsZbNb6kwDtcWpuikGhm) | 3:14 | 2023-07-14 | 2024-01-30 |
 | [Hoch die Hände Wochenende](https://open.spotify.com/track/3ndmKMdYgiU8TbNjOx1weG) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Hoch die Hände Wochenende](https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ) | 2:54 | 2023-07-14 |  |
-| [Holterdiepolter](https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ) | [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO), [Georg Stengel](https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU) | [Holterdiepolter](https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J) | 3:12 | 2023-11-14 |  |
+| [Holterdiepolter](https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ) | [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO), [Georg Stengel](https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU) | [Holterdiepolter](https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J) | 3:12 | 2023-11-14 | 2024-04-11 |
 | [Hulapalu](https://open.spotify.com/track/627QU4vNG3alCWCK1FMeLK) | [Andreas Gabalier](https://open.spotify.com/artist/4rp8rIXbwp93MnStnqDGQD) | [Mountain Man](https://open.spotify.com/album/69F0Qxhf00pYFrfBsJbI6a) | 3:00 | 2023-07-14 |  |
 | [Hurra die Gams](https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV) | [Matty Valentino](https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h) | [Hurra die Gams](https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y) | 3:24 | 2023-07-14 |  |
 | [Ich bleib hier](https://open.spotify.com/track/7vcCXaCkdWuoAxUvB9uQRj) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [Mütze Katze](https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF) | [Ich bleib hier](https://open.spotify.com/album/2whxURNncAj78xYqErLbFP) | 2:42 | 2023-07-14 |  |
@@ -87,6 +87,7 @@
 | [Layla](https://open.spotify.com/track/3ujiq7yK4Uan5z4876fHLK) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Layla](https://open.spotify.com/album/6CL5pcCUiPeuKmI9U630l4) | 3:05 | 2023-07-14 |  |
 | [Lea](https://open.spotify.com/track/02AnxXaXzxredcMjjb26U0) | [Bierkapitän](https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD), [Andy Luxx](https://open.spotify.com/artist/09Mknlo1aOXbEtxUD41wH2), [Dj Aaron](https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ) | [Lea](https://open.spotify.com/album/7DpARaNJn5iLOKGVANTSsq) | 2:39 | 2023-07-14 |  |
 | [Mallelelele](https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT) | [Rumbombe](https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Mallelelele](https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb) | 2:13 | 2023-07-28 |  |
+| [Mallemoment](https://open.spotify.com/track/14QtgrVvs1os2TMvpTbQZH) | [Stefan Stürmer](https://open.spotify.com/artist/6jvJeMzlBK7kW5LQUePR6q) | [Mallemoment](https://open.spotify.com/album/2lJXNJMUVFKYCBSzcJDQyW) | 2:49 | 2024-03-27 |  |
 | [Mallorca mein Löwe mein Bär](https://open.spotify.com/track/2qSXEdg96v16ADGQIEYanx) | [Kreisligalegende](https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f), [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Mallorca mein Löwe mein Bär](https://open.spotify.com/album/6aFOTAq33CiEgH1irnDAB1) | 2:56 | 2023-08-28 | 2023-11-21 |
 | [Mama Laudaaa](https://open.spotify.com/track/1RcWWgnw5fVm3wcNq11zBu) | [Almklausi](https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK), [Specktakel](https://open.spotify.com/artist/1ErIf1pAAaw5upKsCbqhzz) | [Mama Laudaaa](https://open.spotify.com/album/4yWhxiH0UB3A6jfr0ZLe4v) | 3:35 | 2023-07-14 |  |
 | [Mannschaftsfahrt](https://open.spotify.com/track/4VDJ1wK7eszdBpWGvDV3Tc) | [Kreisligalegende](https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f), [Julian Benz](https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp), [Malin Brown](https://open.spotify.com/artist/40wyS6jSrnAlcl9xBbCVnA) | [Mannschaftsfahrt](https://open.spotify.com/album/55VymWungTBtByJ89fhnJD) | 2:48 | 2023-07-14 | 2024-01-16 |

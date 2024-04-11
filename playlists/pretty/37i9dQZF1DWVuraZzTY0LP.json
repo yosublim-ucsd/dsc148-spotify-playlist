@@ -1,12 +1,12 @@
 {
   "description": "Lo m\u00e1s alternativo para una mam\u00e1 muy mo-der-na.",
-  "num_followers": 336745,
+  "num_followers": 336774,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDA5MTUxN2E1MTAzZGZmMDhiNDE3MmIzY2FmNzlhMWM2YWEwZmEx",
+  "snapshot_id": "MCw3NmJmNTRjOGU0ZmFkZDU3OTdiNTUwN2JlZmQyZjEyMzE5NjNiZjM1",
   "tracks": [
     {
       "added_at": "2024-02-23 06:00:00",
@@ -95,8 +95,8 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Capricorn / Gen-X Cops",
-        "url": "https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv"
+        "name": "Only God Was Above Us",
+        "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y"
       },
       "artists": [
         {
@@ -106,7 +106,7 @@
       ],
       "duration_ms": 249560,
       "name": "Capricorn",
-      "url": "https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM"
+      "url": "https://open.spotify.com/track/4oAGV7IADPWfkpk6aGQqZt"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Hopes And Fears",
-        "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
+        "name": "United",
+        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
       },
       "artists": [
         {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 215160,
-      "name": "Everybody's Changing",
-      "url": "https://open.spotify.com/track/5hkdfA87RZvNaxl6XiveOA"
+      "duration_ms": 266600,
+      "name": "If I Ever Feel Better",
+      "url": "https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -695,18 +695,18 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+        "name": "Hopes And Fears",
+        "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
       },
       "artists": [
         {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
         }
       ],
-      "duration_ms": 266600,
-      "name": "If I Ever Feel Better",
-      "url": "https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V"
+      "duration_ms": 215160,
+      "name": "Everybody's Changing",
+      "url": "https://open.spotify.com/track/5hkdfA87RZvNaxl6XiveOA"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 233617,
-      "name": "I Knew You Were Trouble - Spotify Singles",
-      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "Flamingos",
         "url": "https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 329666,
       "name": "Lady Blue",
       "url": "https://open.spotify.com/track/492aSGsuE0dOOBKB66781Z"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 233617,
+      "name": "I Knew You Were Trouble - Spotify Singles",
+      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
+        "name": "Wacha Checa",
+        "url": "https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "Wacha Checa",
+      "url": "https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
         "name": "Your Side of Town",
         "url": "https://open.spotify.com/album/5yFMpRYQntO822gUiwoVzC"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 187653,
       "name": "Your Side of Town",
       "url": "https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "Somos Instantes",
-        "url": "https://open.spotify.com/album/4La0StHyt6pRXr85FXRxgH"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 193413,
-      "name": "Somos Instantes",
-      "url": "https://open.spotify.com/track/4zgVoY40iiq9XLu8V9Q9kb"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Dancer",
-        "url": "https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        },
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 189493,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "Heartquake",
         "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
       },
@@ -1079,8 +1059,28 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Wacha Checa",
-        "url": "https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY"
+        "name": "Dancer",
+        "url": "https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        },
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 189493,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "Somos Instantes",
+        "url": "https://open.spotify.com/album/4La0StHyt6pRXr85FXRxgH"
       },
       "artists": [
         {
@@ -1088,25 +1088,9 @@
           "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 217693,
-      "name": "Wacha Checa",
-      "url": "https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "As Long As You Are",
-        "url": "https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 205249,
-      "name": "For Sure",
-      "url": "https://open.spotify.com/track/7EtMa8eHEOfvh1ANRHQ9uh"
+      "duration_ms": 193413,
+      "name": "Somos Instantes",
+      "url": "https://open.spotify.com/track/4zgVoY40iiq9XLu8V9Q9kb"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1123,6 +1107,22 @@
       "duration_ms": 270906,
       "name": "Popular",
       "url": "https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "As Long As You Are",
+        "url": "https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 205249,
+      "name": "For Sure",
+      "url": "https://open.spotify.com/track/7EtMa8eHEOfvh1ANRHQ9uh"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Paranoia Pop",
-        "url": "https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 219386,
-      "name": "Sin Se\u00f1al",
-      "url": "https://open.spotify.com/track/4CA5GAc6d6zM2ft0MbQ1BW"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "Kinky (Remastered)",
         "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 191000,
       "name": "Soun Tha Mi Primer Amor - Remastered",
       "url": "https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "Paranoia Pop",
+        "url": "https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 219386,
+      "name": "Sin Se\u00f1al",
+      "url": "https://open.spotify.com/track/4CA5GAc6d6zM2ft0MbQ1BW"
     }
   ],
   "unique_name": "mam\u00e1 cool",

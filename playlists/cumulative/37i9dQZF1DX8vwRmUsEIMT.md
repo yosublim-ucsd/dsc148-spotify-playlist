@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Benson Boone
 
-1,904 songs - 4 day 6 hr 32 min
+1,905 songs - 4 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,8 @@
 | [City Lights](https://open.spotify.com/track/6jJNiNyWspgKLVwe9vhHsc) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U) | [City Lights](https://open.spotify.com/album/1vozxbiPOwTB8r7rhX1015) | 2:27 | 2023-08-17 | 2023-09-02 |
 | [Clara \(the night is dark\)](https://open.spotify.com/track/6LeTQu4NvTnLRRiB8GVFQe) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm) | 4:38 | 2022-10-28 | 2022-11-05 |
 | [Clarity](https://open.spotify.com/track/54fIT6FB4H6z3BJXQai1hm) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Clarity](https://open.spotify.com/album/49WXECyPBx84Kw0E33sjCY) | 2:17 | 2024-02-02 | 2024-03-01 |
-| [Classical](https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Classical](https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ) | 4:19 | 2024-03-15 |  |
+| [Classical](https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Classical](https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ) | 4:19 | 2024-03-15 | 2024-04-11 |
+| [Classical](https://open.spotify.com/track/4DlGLD32K7shuL8ub067DL) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:19 | 2024-04-04 |  |
 | [Clean](https://open.spotify.com/track/731wrbYzVBKXCgdcvZ1vDM) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Unwanted](https://open.spotify.com/album/2j1AQqwSWqsMaJ5WCS1LlY) | 2:53 | 2022-08-11 | 2022-09-07 |
 | [Click Of My Fingers](https://open.spotify.com/track/1Ohz23hcw8s35yExjFv3Rc) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Click Of My Fingers](https://open.spotify.com/album/6wfMwjhTgS27jazms5vOoi) | 3:13 | 2023-08-04 | 2023-08-18 |
 | [Clockwork \(feat\. Spice\)](https://open.spotify.com/track/4GgvXbDt6qKWCSI8Fw2cVs) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Clockwork \(feat\. Spice\)](https://open.spotify.com/album/3FyXlLA79Yv7cNJgMQDGM8) | 2:32 | 2022-08-18 | 2022-09-09 |

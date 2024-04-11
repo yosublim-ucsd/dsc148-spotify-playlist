@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Leo
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,036 likes - 85 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,050 likes - 85 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 47 | [Alappara Theme \- Instrumental](https://open.spotify.com/track/4ui3hCbu9ERDqVMENogH3e) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD) | 1:17 |
 | 48 | [Kaththi Theme \- Instrumental](https://open.spotify.com/track/5QpX7FGJ3A6otJSayn0GHM) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jo4lZjhgTwX7ldHD5hl1t) | 1:03 |
 | 49 | [Glimpse of Harold Das \(From "Leo"\)](https://open.spotify.com/track/622DShHXxhC32wnAHbVpuK) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Glimpse of Harold Das \(From "Leo"\)](https://open.spotify.com/album/4XnpLZbKAaScKfvFlRouQ1) | 0:42 |
-| 50 | [Glimpse of Antony Das \(From "Leo"\)](https://open.spotify.com/track/3yW4gZOr48Fy1DvGKDz2wj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Glimpse of Antony Das \(From "Leo"\)](https://open.spotify.com/album/5RfVPpQcw0qYFS6I93s9gF) | 0:40 |
-| 51 | [Pablo Sandhanam \- Background Score](https://open.spotify.com/track/5iUbq311UD3MZYmfi2a1Ob) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:45 |
+| 50 | [Pablo Sandhanam \- Background Score](https://open.spotify.com/track/5iUbq311UD3MZYmfi2a1Ob) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:45 |
+| 51 | [Glimpse of Antony Das \(From "Leo"\)](https://open.spotify.com/track/3yW4gZOr48Fy1DvGKDz2wj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Glimpse of Antony Das \(From "Leo"\)](https://open.spotify.com/album/5RfVPpQcw0qYFS6I93s9gF) | 0:40 |
 | 52 | [Soul of Doctor \(Theme\) \[From "Doctor"\]](https://open.spotify.com/track/6GFtWQYco30oKpMr5xJwy2) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Niranjana Ramanan](https://open.spotify.com/artist/3GB9ulskXfPOQCzw0SNEDx) | [Soul of Doctor \(Theme\) \[From "Doctor"\]](https://open.spotify.com/album/2ftkMy4ttkkdjFsFReYdWg) | 1:03 |
 | 53 | [Jailer Theme \- Instrumental](https://open.spotify.com/track/53Y7ZNZ6p26V460x89B70A) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD) | 1:02 |
 | 54 | [Jawan Prevue Theme](https://open.spotify.com/track/29Lsdm869Qk82RS5he08R4) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Jawan Prevue Theme](https://open.spotify.com/album/2bE8aLgWEZkHvTRhosPwmC) | 2:07 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 84 | [AK Theme Music \- Ready to Rage](https://open.spotify.com/track/232kZYrxOYqyMeBFwudXEM) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vivegam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zXvWxQ8vSbI44dQdPp4P0) | 1:23 |
 | 85 | [Agent Tina \- Background Score](https://open.spotify.com/track/60c709iT1oiukRh6eR7K0K) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:45 |
 
-Snapshot ID: `MCw4MzYwZDcyODg5ZTc3YTZjNGViY2ZmZjA5NTBmODcyNTM5ODZiYTNm`
+Snapshot ID: `MCw4OTY0Y2RiYzliM2IyN2IwYWRlN2U3YjczOTJjMjNlMjI1ODAyOGMz`

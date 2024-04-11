@@ -1,12 +1,12 @@
 {
   "description": "Keep calm and enjoy this musical cafecito.",
-  "num_followers": 598295,
+  "num_followers": 598346,
   "original_name": "Caf\u00e9 con Leche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTE3NTFhZTBhNDVlOWRmMmMwMTE5MDc5YmY4N2FlYThlYTIyNjNh",
+  "snapshot_id": "MCxkYjIzYTVjNjM0OGJlMjM3ZDhlMzNhOTBhZWQyM2UyODc5YzMzNWRj",
   "tracks": [
     {
       "added_at": "2024-03-14 22:09:36",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
+        "name": "Obras Maestras",
+        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
+      },
+      "artists": [
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 201941,
+      "name": "Voy",
+      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
+    },
+    {
+      "added_at": "2024-03-14 22:09:36",
+      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/6j0sCAm0cmrq0sPpcjttjn"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 208611,
       "name": "La Fortuna (feat. Tommy Torres)",
       "url": "https://open.spotify.com/track/6TKdsVl3GeAJrcuTGbvUzq"
-    },
-    {
-      "added_at": "2024-03-14 22:09:36",
-      "album": {
-        "name": "Obras Maestras",
-        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
-      },
-      "artists": [
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 201941,
-      "name": "Voy",
-      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -927,18 +927,18 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
-        "name": "Cuando Los Ac\u00e9falos Predominan",
-        "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
+        "name": "BEFORE LOVE CAME TO KILL US",
+        "url": "https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS"
       },
       "artists": [
         {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
         }
       ],
-      "duration_ms": 236001,
-      "name": "Nuestro Amanecer",
-      "url": "https://open.spotify.com/track/36KOwkfm9glzKJ62jo7hNr"
+      "duration_ms": 185066,
+      "name": "INTRUDERS",
+      "url": "https://open.spotify.com/track/5dWtSsXTOn5uQzMVMv2X3j"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -963,22 +963,6 @@
       "duration_ms": 229785,
       "name": "Mozo",
       "url": "https://open.spotify.com/track/1wPwN9thOsYSVSAonW1W6i"
-    },
-    {
-      "added_at": "2024-03-14 22:09:36",
-      "album": {
-        "name": "BEFORE LOVE CAME TO KILL US",
-        "url": "https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 185066,
-      "name": "INTRUDERS",
-      "url": "https://open.spotify.com/track/5dWtSsXTOn5uQzMVMv2X3j"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -1059,6 +1043,22 @@
       "duration_ms": 236058,
       "name": "Pa'lante",
       "url": "https://open.spotify.com/track/2Zh91nwJJNTyE6WzXfuZrO"
+    },
+    {
+      "added_at": "2024-03-14 22:09:36",
+      "album": {
+        "name": "Cuando Los Ac\u00e9falos Predominan",
+        "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 236001,
+      "name": "Nuestro Amanecer",
+      "url": "https://open.spotify.com/track/36KOwkfm9glzKJ62jo7hNr"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
-        "name": "CARISMA",
-        "url": "https://open.spotify.com/album/360aJ4E4087KXU6ESyvjL3"
-      },
-      "artists": [
-        {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
-        }
-      ],
-      "duration_ms": 202519,
-      "name": "Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/2u1UkcNp5l0NgTGjfl7fmZ"
-    },
-    {
-      "added_at": "2024-03-14 22:09:36",
-      "album": {
         "name": "Dieciseis",
         "url": "https://open.spotify.com/album/4zLZDzFqhK8fY9V5PpfPPG"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 212506,
       "name": "Cardenalito",
       "url": "https://open.spotify.com/track/6ZfPILRSg3V9jM8yH1V8xc"
+    },
+    {
+      "added_at": "2024-03-14 22:09:36",
+      "album": {
+        "name": "CARISMA",
+        "url": "https://open.spotify.com/album/360aJ4E4087KXU6ESyvjL3"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "duration_ms": 202519,
+      "name": "Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/2u1UkcNp5l0NgTGjfl7fmZ"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
-        "name": "Casi Algo",
-        "url": "https://open.spotify.com/album/6xOQIgmaXLE1LyZtn5gYuw"
+        "name": "Te necesito everywhere",
+        "url": "https://open.spotify.com/album/3ehqz79yp50mzuawG3lqmG"
       },
       "artists": [
         {
-          "name": "Anakena",
-          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
         }
       ],
-      "duration_ms": 192913,
-      "name": "Casi Algo",
-      "url": "https://open.spotify.com/track/1L7rHSD7MeEJc9hhNO4OY7"
+      "duration_ms": 166956,
+      "name": "Te necesito everywhere",
+      "url": "https://open.spotify.com/track/4cLZmzNCVnjROyOD8JbqKO"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -1427,18 +1427,22 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
-        "name": "Te necesito everywhere",
-        "url": "https://open.spotify.com/album/3ehqz79yp50mzuawG3lqmG"
+        "name": "Qu\u00e9mame",
+        "url": "https://open.spotify.com/album/0kAh4D7msjeaAh3wEUnEjL"
       },
       "artists": [
         {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+          "name": "Chl\u00f6e's Clue",
+          "url": "https://open.spotify.com/artist/1sRWTOOn4OvDGoe1oXVFoE"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         }
       ],
-      "duration_ms": 166956,
-      "name": "Te necesito everywhere",
-      "url": "https://open.spotify.com/track/4cLZmzNCVnjROyOD8JbqKO"
+      "duration_ms": 181570,
+      "name": "Qu\u00e9mame",
+      "url": "https://open.spotify.com/track/00p2eQGJy60FtOHjnI1Ch0"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -1463,22 +1467,18 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
-        "name": "Qu\u00e9mame",
-        "url": "https://open.spotify.com/album/0kAh4D7msjeaAh3wEUnEjL"
+        "name": "Casi Algo",
+        "url": "https://open.spotify.com/album/6xOQIgmaXLE1LyZtn5gYuw"
       },
       "artists": [
         {
-          "name": "Chl\u00f6e's Clue",
-          "url": "https://open.spotify.com/artist/1sRWTOOn4OvDGoe1oXVFoE"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+          "name": "Anakena",
+          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
         }
       ],
-      "duration_ms": 181570,
-      "name": "Qu\u00e9mame",
-      "url": "https://open.spotify.com/track/00p2eQGJy60FtOHjnI1Ch0"
+      "duration_ms": 192913,
+      "name": "Casi Algo",
+      "url": "https://open.spotify.com/track/1L7rHSD7MeEJc9hhNO4OY7"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
+        "name": "No Me Gustan los Grises",
+        "url": "https://open.spotify.com/album/2JzCk4SJDCnYXlP5RT6v4x"
+      },
+      "artists": [
+        {
+          "name": "Mery Granados",
+          "url": "https://open.spotify.com/artist/0aJgv15DVDKvr0yWb5BzP1"
+        }
+      ],
+      "duration_ms": 217761,
+      "name": "No Me Gustan los Grises",
+      "url": "https://open.spotify.com/track/3csSDv4S9IzB7FetDpBn66"
+    },
+    {
+      "added_at": "2024-03-14 22:09:36",
+      "album": {
         "name": "Preso (Grabado en ONErpm Studios)",
         "url": "https://open.spotify.com/album/7zeQVlK0bClZRzg7pc0bRt"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 175000,
       "name": "Preso (Grabado en ONErpm Studios)",
       "url": "https://open.spotify.com/track/6CGN4Qx3KC3sFROIqXpKdS"
-    },
-    {
-      "added_at": "2024-03-14 22:09:36",
-      "album": {
-        "name": "No Me Gustan los Grises",
-        "url": "https://open.spotify.com/album/2JzCk4SJDCnYXlP5RT6v4x"
-      },
-      "artists": [
-        {
-          "name": "Mery Granados",
-          "url": "https://open.spotify.com/artist/0aJgv15DVDKvr0yWb5BzP1"
-        }
-      ],
-      "duration_ms": 217761,
-      "name": "No Me Gustan los Grises",
-      "url": "https://open.spotify.com/track/3csSDv4S9IzB7FetDpBn66"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182186,
+      "name": "Para Verte",
+      "url": "https://open.spotify.com/track/1ck68b7U7AUPEefAfQBWiO"
+    },
+    {
+      "added_at": "2024-03-14 22:09:36",
+      "album": {
         "name": "Herminia",
         "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 226466,
       "name": "Esperanza (feat. Agarrate Catalina)",
       "url": "https://open.spotify.com/track/3yUylEQIeozYWNXv8MIGqJ"
-    },
-    {
-      "added_at": "2024-03-14 22:09:36",
-      "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182186,
-      "name": "Para Verte",
-      "url": "https://open.spotify.com/track/1ck68b7U7AUPEefAfQBWiO"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/7rdezKlUOq26Dypydp5p9y"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
-        }
-      ],
-      "duration_ms": 217949,
-      "name": "Y Si Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/0mdXFAAbFwFlKdiEtkz1ha"
-    },
-    {
-      "added_at": "2024-03-14 22:09:36",
-      "album": {
         "name": "Bajo el Mismo Cielo",
         "url": "https://open.spotify.com/album/3q6NKY1RkOtCY184qlBmMK"
       },
@@ -1887,6 +1867,26 @@
       "duration_ms": 202426,
       "name": "T\u00e9 De Tila",
       "url": "https://open.spotify.com/track/3JRbCOgf5piyZMppyg3hA4"
+    },
+    {
+      "added_at": "2024-03-14 22:09:36",
+      "album": {
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/7rdezKlUOq26Dypydp5p9y"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "duration_ms": 217949,
+      "name": "Y Si Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0mdXFAAbFwFlKdiEtkz1ha"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
+        "name": "Todo el D\u00eda en la Cama",
+        "url": "https://open.spotify.com/album/09kUYvs5rwuZgRpblzn7lz"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 256947,
+      "name": "Todo el D\u00eda en la Cama",
+      "url": "https://open.spotify.com/track/3IyHmgfNBS3CSSP6zsCjQy"
+    },
+    {
+      "added_at": "2024-03-14 22:09:36",
+      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9"
       },
@@ -1983,18 +1999,18 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
-        "name": "Todo el D\u00eda en la Cama",
-        "url": "https://open.spotify.com/album/09kUYvs5rwuZgRpblzn7lz"
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/0CCFzerylMGnuPxFaolglv"
       },
       "artists": [
         {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+          "name": "Santiago Saez",
+          "url": "https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV"
         }
       ],
-      "duration_ms": 256947,
-      "name": "Todo el D\u00eda en la Cama",
-      "url": "https://open.spotify.com/track/3IyHmgfNBS3CSSP6zsCjQy"
+      "duration_ms": 190367,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/1AsDi1YPkSy9ZuVBN4XHje"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -2015,22 +2031,6 @@
       "duration_ms": 133666,
       "name": "Qu\u00e9 Dulce",
       "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
-    },
-    {
-      "added_at": "2024-03-14 22:09:36",
-      "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/0CCFzerylMGnuPxFaolglv"
-      },
-      "artists": [
-        {
-          "name": "Santiago Saez",
-          "url": "https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV"
-        }
-      ],
-      "duration_ms": 190367,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/1AsDi1YPkSy9ZuVBN4XHje"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -2119,6 +2119,22 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
+        "name": "Sorpresa",
+        "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "Carnaval",
+      "url": "https://open.spotify.com/track/2IuXKFaWQhwhYAScCOclkV"
+    },
+    {
+      "added_at": "2024-03-14 22:09:36",
+      "album": {
         "name": "Dimensi\u00f3n Caribe",
         "url": "https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW"
       },
@@ -2155,22 +2171,6 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
-        "name": "Sorpresa",
-        "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "Carnaval",
-      "url": "https://open.spotify.com/track/2IuXKFaWQhwhYAScCOclkV"
-    },
-    {
-      "added_at": "2024-03-14 22:09:36",
-      "album": {
         "name": "Morocha",
         "url": "https://open.spotify.com/album/562Y2FlQlL1IorRt8XlZ6g"
       },
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
-        "name": "TANDA",
-        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 249082,
-      "name": "No Se Rompe",
-      "url": "https://open.spotify.com/track/4IneEfd293hMaAr3z7ywU1"
-    },
-    {
-      "added_at": "2024-03-14 22:09:36",
-      "album": {
         "name": "Flotando (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 256708,
       "name": "Flotando (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
+    },
+    {
+      "added_at": "2024-03-14 22:09:36",
+      "album": {
+        "name": "TANDA",
+        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 249082,
+      "name": "No Se Rompe",
+      "url": "https://open.spotify.com/track/4IneEfd293hMaAr3z7ywU1"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -2251,6 +2251,22 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
+        "name": "Calle Cima",
+        "url": "https://open.spotify.com/album/7M2Ps9s3Y4A77q0Z4OYLim"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 219477,
+      "name": "Calle Cima",
+      "url": "https://open.spotify.com/track/4x9O03XkmAed2E7GAPUqUE"
+    },
+    {
+      "added_at": "2024-03-14 22:09:36",
+      "album": {
         "name": "Herminia",
         "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
       },
@@ -2271,18 +2287,18 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
-        "name": "Calle Cima",
-        "url": "https://open.spotify.com/album/7M2Ps9s3Y4A77q0Z4OYLim"
+        "name": "Amiga Cruel (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K"
       },
       "artists": [
         {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
         }
       ],
-      "duration_ms": 219477,
-      "name": "Calle Cima",
-      "url": "https://open.spotify.com/track/4x9O03XkmAed2E7GAPUqUE"
+      "duration_ms": 217031,
+      "name": "Amiga Cruel (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -2315,22 +2331,6 @@
       "duration_ms": 235408,
       "name": "Hawaii Aloha",
       "url": "https://open.spotify.com/track/5Fv4AzFmKNNRdBqhlu0ryR"
-    },
-    {
-      "added_at": "2024-03-14 22:09:36",
-      "album": {
-        "name": "Amiga Cruel (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 217031,
-      "name": "Amiga Cruel (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -2371,6 +2371,26 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
+        "name": "1995",
+        "url": "https://open.spotify.com/album/0PKs87i37uUK6kuDWnWCYg"
+      },
+      "artists": [
+        {
+          "name": "Jaf\u00fa",
+          "url": "https://open.spotify.com/artist/30xVFd5hiy33d6mrczbNzZ"
+        },
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "Pell\u00edzquenme",
+      "url": "https://open.spotify.com/track/01GkH9n3MLf606vcWddYl9"
+    },
+    {
+      "added_at": "2024-03-14 22:09:36",
+      "album": {
         "name": "Eterno Verano",
         "url": "https://open.spotify.com/album/40LKXLc5JwGyVQ85mvdcEI"
       },
@@ -2407,26 +2427,6 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
-        "name": "1995",
-        "url": "https://open.spotify.com/album/0PKs87i37uUK6kuDWnWCYg"
-      },
-      "artists": [
-        {
-          "name": "Jaf\u00fa",
-          "url": "https://open.spotify.com/artist/30xVFd5hiy33d6mrczbNzZ"
-        },
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        }
-      ],
-      "duration_ms": 203133,
-      "name": "Pell\u00edzquenme",
-      "url": "https://open.spotify.com/track/01GkH9n3MLf606vcWddYl9"
-    },
-    {
-      "added_at": "2024-03-14 22:09:36",
-      "album": {
         "name": "Cafecito",
         "url": "https://open.spotify.com/album/7av0C1BqErsrx1CQb8aMRT"
       },
@@ -2439,6 +2439,22 @@
       "duration_ms": 214688,
       "name": "Cafecito",
       "url": "https://open.spotify.com/track/4WuHzYPN060OB2bt3EgwyZ"
+    },
+    {
+      "added_at": "2024-03-14 22:09:36",
+      "album": {
+        "name": "TUMBA'",
+        "url": "https://open.spotify.com/album/3OplKqs4WJ4oJSSBIOVkKu"
+      },
+      "artists": [
+        {
+          "name": "Claire Deli\u0107",
+          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
+        }
+      ],
+      "duration_ms": 256174,
+      "name": "TUMBA'",
+      "url": "https://open.spotify.com/track/5VHKnyCyzkCbniSP3m5qLD"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -2459,22 +2475,6 @@
       "duration_ms": 183055,
       "name": "Libro Abierto",
       "url": "https://open.spotify.com/track/4NCxiDoRQGgBW5Ja0FHIiC"
-    },
-    {
-      "added_at": "2024-03-14 22:09:36",
-      "album": {
-        "name": "TUMBA'",
-        "url": "https://open.spotify.com/album/3OplKqs4WJ4oJSSBIOVkKu"
-      },
-      "artists": [
-        {
-          "name": "Claire Deli\u0107",
-          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
-        }
-      ],
-      "duration_ms": 256174,
-      "name": "TUMBA'",
-      "url": "https://open.spotify.com/track/5VHKnyCyzkCbniSP3m5qLD"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -2527,18 +2527,18 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
-        "name": "G.A.S. (Remasterizado)",
-        "url": "https://open.spotify.com/album/4V5SgHTbnLS1ZR4ToEFGqM"
+        "name": "Te quiero much\u00edsimo",
+        "url": "https://open.spotify.com/album/1ObRBAN0pcjy7XVrX6TldV"
       },
       "artists": [
         {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+          "name": "Alex Granero",
+          "url": "https://open.spotify.com/artist/1g3OTLUr6xaFaiB01k9gw2"
         }
       ],
-      "duration_ms": 175893,
-      "name": "Un Poquito de Tu Amor - Remasterizado",
-      "url": "https://open.spotify.com/track/1M2nk7ZecdvJJYEHuiPyYd"
+      "duration_ms": 240189,
+      "name": "Te quiero much\u00edsimo",
+      "url": "https://open.spotify.com/track/1F0Zw6lOUTeBnNG39yt7Mi"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -2559,18 +2559,18 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
-        "name": "Te quiero much\u00edsimo",
-        "url": "https://open.spotify.com/album/1ObRBAN0pcjy7XVrX6TldV"
+        "name": "G.A.S. (Remasterizado)",
+        "url": "https://open.spotify.com/album/4V5SgHTbnLS1ZR4ToEFGqM"
       },
       "artists": [
         {
-          "name": "Alex Granero",
-          "url": "https://open.spotify.com/artist/1g3OTLUr6xaFaiB01k9gw2"
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 240189,
-      "name": "Te quiero much\u00edsimo",
-      "url": "https://open.spotify.com/track/1F0Zw6lOUTeBnNG39yt7Mi"
+      "duration_ms": 175893,
+      "name": "Un Poquito de Tu Amor - Remasterizado",
+      "url": "https://open.spotify.com/track/1M2nk7ZecdvJJYEHuiPyYd"
     },
     {
       "added_at": "2024-03-14 22:09:36",
@@ -2643,6 +2643,22 @@
     {
       "added_at": "2024-03-14 22:09:36",
       "album": {
+        "name": "Mp3",
+        "url": "https://open.spotify.com/album/3dwG8Qc0o6b63lBFT4jqPd"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        }
+      ],
+      "duration_ms": 181368,
+      "name": "Mp3",
+      "url": "https://open.spotify.com/track/0PWLHDSK39Kh8Adc83Ltw6"
+    },
+    {
+      "added_at": "2024-03-14 22:09:36",
+      "album": {
         "name": "Apasionadamente",
         "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
       },
@@ -2675,22 +2691,6 @@
       "duration_ms": 220413,
       "name": "Amor Arrayano",
       "url": "https://open.spotify.com/track/6JfEqa7eSRZDfzAPBJdf4Q"
-    },
-    {
-      "added_at": "2024-03-14 22:09:36",
-      "album": {
-        "name": "Mp3",
-        "url": "https://open.spotify.com/album/3dwG8Qc0o6b63lBFT4jqPd"
-      },
-      "artists": [
-        {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
-        }
-      ],
-      "duration_ms": 181368,
-      "name": "Mp3",
-      "url": "https://open.spotify.com/track/0PWLHDSK39Kh8Adc83Ltw6"
     }
   ],
   "unique_name": "Caf\u00e9 con Leche",

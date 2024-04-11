@@ -1,12 +1,12 @@
 {
   "description": "Rap per non smettere mai di crederci \ud83d\udcaa\ud83c\udfcb\ufe0f\ud83c\udfc3\u200d\u2640",
-  "num_followers": 344001,
+  "num_followers": 344066,
   "original_name": "Rap Motivazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzdlODVlZmMxYjQ5OWQ3ZjhiYmVkMmEyNjY1YmFhYTBmZmIzYTJl",
+  "snapshot_id": "MCwwNzU1MzI0MTNjMmY4OWFlMzk1OGYyZmVhZTFiOGRiYTFjYTA2YjMy",
   "tracks": [
     {
       "added_at": "2024-03-21 23:01:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-03-21 23:01:00",
       "album": {
-        "name": "The Infamous",
-        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
-      },
-      "artists": [
-        {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
-        }
-      ],
-      "duration_ms": 325506,
-      "name": "Shook Ones, Pt. II",
-      "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
-    },
-    {
-      "added_at": "2024-03-21 23:01:00",
-      "album": {
         "name": "Sweet Action",
         "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 139741,
       "name": "WHATS POPPIN",
       "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
+    },
+    {
+      "added_at": "2024-03-21 23:01:00",
+      "album": {
+        "name": "The Infamous",
+        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
+      },
+      "artists": [
+        {
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        }
+      ],
+      "duration_ms": 325506,
+      "name": "Shook Ones, Pt. II",
+      "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
     },
     {
       "added_at": "2024-03-21 23:01:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-03-21 23:01:00",
       "album": {
+        "name": "The Definition Of X: Pick Of The Litter",
+        "url": "https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "X Gon' Give It To Ya",
+      "url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb"
+    },
+    {
+      "added_at": "2024-03-21 23:01:00",
+      "album": {
         "name": "Petit Fou Fou (feat. ANNA)",
         "url": "https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 113737,
       "name": "Petit Fou Fou (feat. ANNA)",
       "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
-    },
-    {
-      "added_at": "2024-03-21 23:01:00",
-      "album": {
-        "name": "The Definition Of X: Pick Of The Litter",
-        "url": "https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 217586,
-      "name": "X Gon' Give It To Ya",
-      "url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb"
     },
     {
       "added_at": "2024-03-21 23:01:00",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2024-03-21 23:01:00",
       "album": {
-        "name": "Loyalty Over Royalty",
-        "url": "https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G"
+        "name": "...And Then There Was X",
+        "url": "https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH"
       },
       "artists": [
         {
-          "name": "CJ",
-          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
         }
       ],
-      "duration_ms": 123262,
-      "name": "Whoopty",
-      "url": "https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO"
+      "duration_ms": 268866,
+      "name": "Party Up",
+      "url": "https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC"
     },
     {
       "added_at": "2024-03-21 23:01:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-03-21 23:01:00",
       "album": {
+        "name": "Loyalty Over Royalty",
+        "url": "https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G"
+      },
+      "artists": [
+        {
+          "name": "CJ",
+          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
+        }
+      ],
+      "duration_ms": 123262,
+      "name": "Whoopty",
+      "url": "https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO"
+    },
+    {
+      "added_at": "2024-03-21 23:01:00",
+      "album": {
         "name": "ASPETTANDO LA BELLA VITA",
         "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 189015,
       "name": "ANELLI E COLLANE (feat. ANNA)",
       "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
-    },
-    {
-      "added_at": "2024-03-21 23:01:00",
-      "album": {
-        "name": "...And Then There Was X",
-        "url": "https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Party Up",
-      "url": "https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC"
     },
     {
       "added_at": "2024-03-21 23:01:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-03-21 23:01:00",
       "album": {
+        "name": "Grand Champ",
+        "url": "https://open.spotify.com/album/0FeqrLI13XnYNY1s414uQd"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 286266,
+      "name": "Where The Hood At",
+      "url": "https://open.spotify.com/track/6RUpJeXT6U4SPEafnr9Wr7"
+    },
+    {
+      "added_at": "2024-03-21 23:01:00",
+      "album": {
         "name": "Blockbuster",
         "url": "https://open.spotify.com/album/5gHmCqjB4VVbYzaoxTokGA"
       },
@@ -1223,26 +1239,6 @@
       "duration_ms": 204826,
       "name": "Barking",
       "url": "https://open.spotify.com/track/2JbO1rep5Um3RAKB8szQrR"
-    },
-    {
-      "added_at": "2024-03-21 23:01:00",
-      "album": {
-        "name": "Featuring Ty Dolla $ign",
-        "url": "https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8"
-      },
-      "artists": [
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 143375,
-      "name": "Spicy (feat. Post Malone)",
-      "url": "https://open.spotify.com/track/5IUtvfNvOyVYZUa6AJFrnP"
     },
     {
       "added_at": "2024-03-21 23:01:00",
@@ -1267,26 +1263,22 @@
     {
       "added_at": "2024-03-21 23:01:00",
       "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+        "name": "Featuring Ty Dolla $ign",
+        "url": "https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8"
       },
       "artists": [
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         },
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 200186,
-      "name": "The London (feat. J. Cole & Travis Scott)",
-      "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
+      "duration_ms": 143375,
+      "name": "Spicy (feat. Post Malone)",
+      "url": "https://open.spotify.com/track/5IUtvfNvOyVYZUa6AJFrnP"
     },
     {
       "added_at": "2024-03-21 23:01:00",
@@ -1319,6 +1311,30 @@
     {
       "added_at": "2024-03-21 23:01:00",
       "album": {
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "The London (feat. J. Cole & Travis Scott)",
+      "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
+    },
+    {
+      "added_at": "2024-03-21 23:01:00",
+      "album": {
         "name": "FATHER OF 4",
         "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
       },
@@ -1335,26 +1351,6 @@
       "duration_ms": 205803,
       "name": "Clout (feat. Cardi B)",
       "url": "https://open.spotify.com/track/59ywHNwwchG4nZJMLyxSzd"
-    },
-    {
-      "added_at": "2024-03-21 23:01:00",
-      "album": {
-        "name": "Night Away (Dance) (feat. Tion Wayne)",
-        "url": "https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0"
-      },
-      "artists": [
-        {
-          "name": "A1 x J1",
-          "url": "https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy"
-        },
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        }
-      ],
-      "duration_ms": 175774,
-      "name": "Night Away (Dance) (feat. Tion Wayne)",
-      "url": "https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g"
     }
   ],
   "unique_name": "Rap Motivazionale",

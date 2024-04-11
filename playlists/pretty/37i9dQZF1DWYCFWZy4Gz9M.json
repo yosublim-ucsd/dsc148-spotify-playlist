@@ -1,12 +1,12 @@
 {
   "description": "Ancient North African rhythms.",
-  "num_followers": 58752,
+  "num_followers": 58773,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2YxMmFlMGI1NTQ3MDZlMTVmZDk4YWJhZjY2MzU0MzE0YmFmNjNi",
+  "snapshot_id": "MCxkZjIxZDQwMmEwYzRmOTBkYTI2ZWExMzRlN2MwODE2NjkyMDI2MmJl",
   "tracks": [
     {
       "added_at": "2023-08-10 19:42:53",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-08-10 19:42:53",
       "album": {
-        "name": "Ifrikya",
-        "url": "https://open.spotify.com/album/4ZxEG0vF1yh3EPoO7BWmUw"
-      },
-      "artists": [
-        {
-          "name": "Karim Ziad",
-          "url": "https://open.spotify.com/artist/6ja9bhaKf5yHBKQGGbLGi8"
-        }
-      ],
-      "duration_ms": 277293,
-      "name": "Sandiya",
-      "url": "https://open.spotify.com/track/0dOrMZUgxBpT2SlKT2dTcp"
-    },
-    {
-      "added_at": "2023-08-10 19:42:53",
-      "album": {
         "name": "Les Gnawa du Maroc (Ouled El' Abdi)",
         "url": "https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 291306,
       "name": "Marhaba - Les Mlouks",
       "url": "https://open.spotify.com/track/5UH3CEKTwhw2PnxVEnF1TC"
+    },
+    {
+      "added_at": "2023-08-10 19:42:53",
+      "album": {
+        "name": "Ifrikya",
+        "url": "https://open.spotify.com/album/4ZxEG0vF1yh3EPoO7BWmUw"
+      },
+      "artists": [
+        {
+          "name": "Karim Ziad",
+          "url": "https://open.spotify.com/artist/6ja9bhaKf5yHBKQGGbLGi8"
+        }
+      ],
+      "duration_ms": 277293,
+      "name": "Sandiya",
+      "url": "https://open.spotify.com/track/0dOrMZUgxBpT2SlKT2dTcp"
     },
     {
       "added_at": "2023-08-10 19:42:53",
@@ -611,18 +611,26 @@
     {
       "added_at": "2023-08-10 19:42:53",
       "album": {
-        "name": "Songs for Sidi Mimoun",
-        "url": "https://open.spotify.com/album/2BZk9yFHsF61mPIHxE3EyX"
+        "name": "Assala",
+        "url": "https://open.spotify.com/album/0naKDiFvjhAcy1IWy2QiyS"
       },
       "artists": [
         {
-          "name": "Gnawa from Marrakech",
-          "url": "https://open.spotify.com/artist/4q1sQE08zDqPaBapzhweMv"
+          "name": "Omri Mor",
+          "url": "https://open.spotify.com/artist/3Y0M0thRIXdQ9bbPKUuaA9"
+        },
+        {
+          "name": "Mehdi Nassouli",
+          "url": "https://open.spotify.com/artist/3oK06jAg9UUaNpQQHh1lJJ"
+        },
+        {
+          "name": "Karim Ziad",
+          "url": "https://open.spotify.com/artist/6ja9bhaKf5yHBKQGGbLGi8"
         }
       ],
-      "duration_ms": 106000,
-      "name": "La ilaha ila Allah Jilala",
-      "url": "https://open.spotify.com/track/2sre9xkQzX2glQZnFYrqk3"
+      "duration_ms": 473588,
+      "name": "44",
+      "url": "https://open.spotify.com/track/5PoYydFEND0uinZ6tSHn10"
     },
     {
       "added_at": "2023-08-10 19:42:53",
@@ -659,26 +667,18 @@
     {
       "added_at": "2023-08-10 19:42:53",
       "album": {
-        "name": "Assala",
-        "url": "https://open.spotify.com/album/0naKDiFvjhAcy1IWy2QiyS"
+        "name": "Songs for Sidi Mimoun",
+        "url": "https://open.spotify.com/album/2BZk9yFHsF61mPIHxE3EyX"
       },
       "artists": [
         {
-          "name": "Omri Mor",
-          "url": "https://open.spotify.com/artist/3Y0M0thRIXdQ9bbPKUuaA9"
-        },
-        {
-          "name": "Mehdi Nassouli",
-          "url": "https://open.spotify.com/artist/3oK06jAg9UUaNpQQHh1lJJ"
-        },
-        {
-          "name": "Karim Ziad",
-          "url": "https://open.spotify.com/artist/6ja9bhaKf5yHBKQGGbLGi8"
+          "name": "Gnawa from Marrakech",
+          "url": "https://open.spotify.com/artist/4q1sQE08zDqPaBapzhweMv"
         }
       ],
-      "duration_ms": 473588,
-      "name": "44",
-      "url": "https://open.spotify.com/track/5PoYydFEND0uinZ6tSHn10"
+      "duration_ms": 106000,
+      "name": "La ilaha ila Allah Jilala",
+      "url": "https://open.spotify.com/track/2sre9xkQzX2glQZnFYrqk3"
     },
     {
       "added_at": "2023-08-10 19:42:53",
@@ -819,34 +819,34 @@
     {
       "added_at": "2023-08-10 19:42:53",
       "album": {
-        "name": "Altaf Gnawa Group: Gnawa - Music From Morocco",
-        "url": "https://open.spotify.com/album/5gHBwsQA4pekfm5k6VmpB7"
+        "name": "Marrakech Undermoon: The Black Album, Vol. 2b",
+        "url": "https://open.spotify.com/album/6fBcXZbJb43gFxIpztjnzP"
       },
       "artists": [
         {
-          "name": "Altaf Gnawa Group",
-          "url": "https://open.spotify.com/artist/25cHSgsQbrP9cJucrj2wbn"
+          "name": "The Sons of the Moon-Ouled Kamar",
+          "url": "https://open.spotify.com/artist/0RZ8EW3Dl3knNPp8IbrIHl"
         }
       ],
-      "duration_ms": 467800,
-      "name": "Sentir solo",
-      "url": "https://open.spotify.com/track/3RZWkRMU2BsIiTZ9U5ugFL"
+      "duration_ms": 569226,
+      "name": "Bilaji",
+      "url": "https://open.spotify.com/track/6Ozohbpy5mYF0pX8HxfIxv"
     },
     {
       "added_at": "2023-08-10 19:42:53",
       "album": {
-        "name": "Gnawa - Sahara Desert Music",
-        "url": "https://open.spotify.com/album/0oOMF0xYlNdAgtgOlchO0P"
+        "name": "Sewary\u00e9 gnawa influences",
+        "url": "https://open.spotify.com/album/27PzrBG8lH8FmMZX5vYI3c"
       },
       "artists": [
         {
-          "name": "Ben Souda Group",
-          "url": "https://open.spotify.com/artist/1cmi0pd20tMWGMJKmaC81l"
+          "name": "Hassan Boussou",
+          "url": "https://open.spotify.com/artist/3FX6IGUTOn1zh4D8iMFpeI"
         }
       ],
-      "duration_ms": 546400,
-      "name": "Moussa bahri",
-      "url": "https://open.spotify.com/track/0ATAbhw6ntNOd1KK5yZ82O"
+      "duration_ms": 358700,
+      "name": "Fangara",
+      "url": "https://open.spotify.com/track/3ZbOt3J5GlRhuIUcWxgMY1"
     },
     {
       "added_at": "2023-08-10 19:42:53",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-08-10 19:42:53",
       "album": {
-        "name": "Marrakech Undermoon: The Black Album, Vol. 2b",
-        "url": "https://open.spotify.com/album/6fBcXZbJb43gFxIpztjnzP"
+        "name": "Moroccan Spring (Live)",
+        "url": "https://open.spotify.com/album/4Oj9M6TMJTIsxIXXhEVJYX"
       },
       "artists": [
         {
-          "name": "The Sons of the Moon-Ouled Kamar",
-          "url": "https://open.spotify.com/artist/0RZ8EW3Dl3knNPp8IbrIHl"
+          "name": "Chalaban",
+          "url": "https://open.spotify.com/artist/7wy6H1DoR6ORojXiehTmbG"
         }
       ],
-      "duration_ms": 569226,
-      "name": "Bilaji",
-      "url": "https://open.spotify.com/track/6Ozohbpy5mYF0pX8HxfIxv"
+      "duration_ms": 343840,
+      "name": "Chalaban - Live",
+      "url": "https://open.spotify.com/track/2kQIp8ezdvT75GnZyXpLpz"
     }
   ],
   "unique_name": "Gnawa Music",

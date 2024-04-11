@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tl6tGvyHMK5cyDc38ZF7I">Fanny Hultman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-91 songs - 4 hr 39 min
+93 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Come Back](https://open.spotify.com/track/6TUzJcKYHYiOrDeZJAzrhk) | [Heidi Musum](https://open.spotify.com/artist/1Qa6Sji9xtimBJOkZ2CgmL) | [Come Back](https://open.spotify.com/album/5rGM8WIGIYcJoqcGjVZ3LY) | 3:29 | 2024-01-29 |  |
 | [Commitment](https://open.spotify.com/track/78QAv4DENpmj3dP5Qg01eS) | [Molly Rainford](https://open.spotify.com/artist/3tYGIUJfYvYgbq3qKpjOlY) | [Commitment](https://open.spotify.com/album/1o0hDMlVFGfVmbeIPaQ1V5) | 3:39 | 2024-01-29 |  |
 | [Damn Good Liar](https://open.spotify.com/track/2gGsrY1udACD6le3SgesIo) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [PDA](https://open.spotify.com/album/1UqFCtxeGzhf2Nm8yV6ypV) | 2:53 | 2024-01-29 |  |
+| [Dark Waters \(feat\. HOLT\)](https://open.spotify.com/track/2j4bCIxx7IReA1d1gGw4hF) | [Axel Johansson](https://open.spotify.com/artist/2xW3pBjCngD69hC1wIUgjA), [HOLT](https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis) | [Dark Waters \(feat\. HOLT\)](https://open.spotify.com/album/03dBnxknCp96kyY1rMavoV) | 2:32 | 2024-04-10 |  |
 | [Days Are Going Darker](https://open.spotify.com/track/0m0QlGOxbdk1NgHtIBqOa8) | [Alex Vargas](https://open.spotify.com/artist/3kdU3J8t1HUPZqFyScP8SF) | [BIG BIG MACHINE](https://open.spotify.com/album/736PRCCYZ6yAHJVpbSqXZJ) | 3:27 | 2024-01-29 |  |
 | [Death of Me](https://open.spotify.com/track/1AgjsphQSNEEMj3DokN5wX) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:13 | 2024-01-29 |  |
 | [Din Låt](https://open.spotify.com/track/5Mo1sg5UVCUlgxZ2HXIMMc) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [ASHS](https://open.spotify.com/album/6OTXcfrNRCVHiuvf6rsPaG) | 2:04 | 2024-01-29 |  |
@@ -37,6 +38,7 @@
 | [First Time](https://open.spotify.com/track/2Gl0FzuLxflY6nPifJp5Dr) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [First Time](https://open.spotify.com/album/6wu7tiTr8zchRG7PWwTOK1) | 3:13 | 2024-01-29 |  |
 | [Five Times \(Acoustic\)](https://open.spotify.com/track/3V03591pqKBD8r9vOOs29Z) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Five Times \(Acoustic\)](https://open.spotify.com/album/5eFyFbPBSGkQMIANPn4tkf) | 3:53 | 2024-01-29 |  |
 | [Follow Your Heart](https://open.spotify.com/track/2LvmiyPIdtW6T3pybKwcSc) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Mad Woman](https://open.spotify.com/album/1jG11sbwvgBovDtIvWMQlq) | 2:21 | 2024-01-29 |  |
+| [Follow Your Heart](https://open.spotify.com/track/3p7HtCeXWT74Pvwg8Jsyo7) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ), [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Mad Women](https://open.spotify.com/album/5mx6EyNDkyKBKUnlkgO3My) | 2:21 | 2024-04-10 |  |
 | [For Andrea](https://open.spotify.com/track/7oBquJ552fIdR2wVknQH1e) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Other Side Of Waiting](https://open.spotify.com/album/3TqiXfpJ027fdRQFhEz9rz) | 2:38 | 2024-01-29 |  |
 | [Forever Yours](https://open.spotify.com/track/6O7cIKJCZc3qHcbdyQ7tRp) | [Tvilling](https://open.spotify.com/artist/2AX5R5SIikV7NGMOZupAGm), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [EiGHTYF!VE](https://open.spotify.com/album/6oClhRDiDoUEfrmVfYCIMr) | 2:52 | 2024-01-29 |  |
 | [Frank Ocean](https://open.spotify.com/track/29fcce3Nr3mrYcfdWFEln8) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Frank Ocean](https://open.spotify.com/album/0oR9YdgNzj4o3GcWzK1xCr) | 2:36 | 2024-01-29 |  |

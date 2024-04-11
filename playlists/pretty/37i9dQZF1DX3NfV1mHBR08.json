@@ -1,12 +1,12 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 14929,
+  "num_followers": 14934,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2JiODU3ODYzN2UzMzVlZTcwNDVmNmNmOTBmNjA3ZDNlZjAzNzdj",
+  "snapshot_id": "MCw4MGY4NDg2ZTMwZTEzNzMyYTU4NzMzMzUyMDUyZDhhZjIwMTBlYTYy",
   "tracks": [
     {
       "added_at": "2024-03-08 06:40:15",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "Take You Home - SM STATION",
-        "url": "https://open.spotify.com/album/35xEwaC2WlMzkllTa3XwhK"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 234954,
-      "name": "Take You Home",
-      "url": "https://open.spotify.com/track/54Nx0KMNIIA0tAPewmd69X"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
         "name": "I can't tell you everything",
         "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 225333,
       "name": "Today's Mood",
       "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
+        "name": "Take You Home - SM STATION",
+        "url": "https://open.spotify.com/album/35xEwaC2WlMzkllTa3XwhK"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 234954,
+      "name": "Take You Home",
+      "url": "https://open.spotify.com/track/54Nx0KMNIIA0tAPewmd69X"
     },
     {
       "added_at": "2024-03-08 06:40:15",
@@ -515,26 +515,6 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "how i remember",
-        "url": "https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        },
-        {
-          "name": "Juju B. Goode",
-          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
-        }
-      ],
-      "duration_ms": 176626,
-      "name": "goodnight",
-      "url": "https://open.spotify.com/track/4pqmFRZiyZSWbTGiF3CSvb"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
         "name": "Graduation",
         "url": "https://open.spotify.com/album/5ER5iKqYrPjHsjlZfwHUV1"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 245349,
       "name": "Bravo, My Life!",
       "url": "https://open.spotify.com/track/5IBGJAEwVNkV1zF5oQzu1N"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
+        "name": "how i remember",
+        "url": "https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Juju B. Goode",
+          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
+        }
+      ],
+      "duration_ms": 176626,
+      "name": "goodnight",
+      "url": "https://open.spotify.com/track/4pqmFRZiyZSWbTGiF3CSvb"
     },
     {
       "added_at": "2024-03-08 06:40:15",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "Extraordinary Attorney Woo (Original Television SoundTrack) Pt. 1",
-        "url": "https://open.spotify.com/album/1JNQlhazNG0N5gK1NoLAuK"
+        "name": "Maum, Part. 1",
+        "url": "https://open.spotify.com/album/2qfIkB00pLxeS1KiOwpuVn"
       },
       "artists": [
         {
-          "name": "Kim Jong Wan of NELL",
-          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
         }
       ],
-      "duration_ms": 262143,
-      "name": "Brave",
-      "url": "https://open.spotify.com/track/30g5E9MteFxeG9pDvRKJNl"
+      "duration_ms": 242120,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/3TFGNIZDnYtX1biTkWvj9M"
     }
   ],
   "unique_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",

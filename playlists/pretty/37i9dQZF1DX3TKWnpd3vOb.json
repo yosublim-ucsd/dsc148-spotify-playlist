@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Los Tres",
-  "num_followers": 195065,
+  "num_followers": 195067,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGIzZTY2YTk5MjQ5OWY0YmIzMmZjNzZiNjhiOWFmOTBlNDYwZDVi",
+  "snapshot_id": "MCw3OGZhYmRhYWM1OWZlZjJiODBlOWU1Y2Y4YWYxNTJmZGI2YjIxOTg4",
   "tracks": [
     {
       "added_at": "2024-03-29 03:00:00",
@@ -427,6 +427,30 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Baile Infinito",
+        "url": "https://open.spotify.com/album/1zpggciAeGOsTlKKaSJxMR"
+      },
+      "artists": [
+        {
+          "name": "Tomo Como Rey",
+          "url": "https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD"
+        },
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        },
+        {
+          "name": "Adri\u00e0 Salas",
+          "url": "https://open.spotify.com/artist/1c7dIKNsUH2LZ998pvirXH"
+        }
+      ],
+      "duration_ms": 195234,
+      "name": "Vida de locos",
+      "url": "https://open.spotify.com/track/7pTWjcVslPSNtuFbKJ58Ab"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "La Llamada",
         "url": "https://open.spotify.com/album/7HKAzGH5Lo7v2WYRIAuZDt"
       },
@@ -443,22 +467,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
-        "url": "https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 252885,
-      "name": "El Mundo Se Termina",
-      "url": "https://open.spotify.com/track/0rl38vmySOskf1DVSw0wMm"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Infiel",
         "url": "https://open.spotify.com/album/1EL3qmK14CMawfXH5hlAFb"
       },
@@ -471,6 +479,22 @@
       "duration_ms": 253293,
       "name": "Infiel",
       "url": "https://open.spotify.com/track/6wKBgNVGgDT1wT6dQhJa2Q"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
+        "url": "https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 252885,
+      "name": "El Mundo Se Termina",
+      "url": "https://open.spotify.com/track/0rl38vmySOskf1DVSw0wMm"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -495,22 +519,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "De La Luz",
-        "url": "https://open.spotify.com/album/0GsaLK3qnIHXrFCflRmuCZ"
-      },
-      "artists": [
-        {
-          "name": "Kuervos del Sur",
-          "url": "https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj"
-        }
-      ],
-      "duration_ms": 307691,
-      "name": "De La Luz",
-      "url": "https://open.spotify.com/track/0muLiRaM3pjoBDA0VTUTFt"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Cayeron L\u00e1grimas",
         "url": "https://open.spotify.com/album/4OLMOISUPqjvgJFc4SrOak"
       },
@@ -523,6 +531,22 @@
       "duration_ms": 215639,
       "name": "Cayeron L\u00e1grimas",
       "url": "https://open.spotify.com/track/3awaeive1cSrGalmCHOFtK"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "De La Luz",
+        "url": "https://open.spotify.com/album/0GsaLK3qnIHXrFCflRmuCZ"
+      },
+      "artists": [
+        {
+          "name": "Kuervos del Sur",
+          "url": "https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj"
+        }
+      ],
+      "duration_ms": 307691,
+      "name": "De La Luz",
+      "url": "https://open.spotify.com/track/0muLiRaM3pjoBDA0VTUTFt"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -559,30 +583,6 @@
       "duration_ms": 359233,
       "name": "Carne - En Vivo",
       "url": "https://open.spotify.com/track/3HwLNLwUY2sicFxkBVbMlx"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Baile Infinito",
-        "url": "https://open.spotify.com/album/1zpggciAeGOsTlKKaSJxMR"
-      },
-      "artists": [
-        {
-          "name": "Tomo Como Rey",
-          "url": "https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD"
-        },
-        {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
-        },
-        {
-          "name": "Adri\u00e0 Salas",
-          "url": "https://open.spotify.com/artist/1c7dIKNsUH2LZ998pvirXH"
-        }
-      ],
-      "duration_ms": 195234,
-      "name": "Vida de locos",
-      "url": "https://open.spotify.com/track/7pTWjcVslPSNtuFbKJ58Ab"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
-        "url": "https://open.spotify.com/album/3LA2gnmgO9iz2Jv7zj1nIY"
-      },
-      "artists": [
-        {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
-        }
-      ],
-      "duration_ms": 209579,
-      "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
-      "url": "https://open.spotify.com/track/63YbNqEhNmyTEkuKeN5wIE"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Privado",
         "url": "https://open.spotify.com/album/4AjiNqomtPDlz0WGYwgxPG"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 281037,
       "name": "Privado",
       "url": "https://open.spotify.com/track/0xnVxyivmqxo72jx0ffkVx"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
+        "url": "https://open.spotify.com/album/3LA2gnmgO9iz2Jv7zj1nIY"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "duration_ms": 209579,
+      "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
+      "url": "https://open.spotify.com/track/63YbNqEhNmyTEkuKeN5wIE"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "El Hijo",
-        "url": "https://open.spotify.com/album/1yKNYNg08SNuCotBuKhNhp"
-      },
-      "artists": [
-        {
-          "name": "Ases Falsos",
-          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
-        }
-      ],
-      "duration_ms": 111000,
-      "name": "El Hijo",
-      "url": "https://open.spotify.com/track/1h5eCRXAcho6ixIGdOFjFl"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Amaneciendo",
         "url": "https://open.spotify.com/album/3UeaOvDIWsGVqUmsTjZ3Gd"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 288226,
       "name": "Amaneciendo",
       "url": "https://open.spotify.com/track/7bPavFLJlHzL5lXvzCeoAr"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "El Hijo",
+        "url": "https://open.spotify.com/album/1yKNYNg08SNuCotBuKhNhp"
+      },
+      "artists": [
+        {
+          "name": "Ases Falsos",
+          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
+        }
+      ],
+      "duration_ms": 111000,
+      "name": "El Hijo",
+      "url": "https://open.spotify.com/track/1h5eCRXAcho6ixIGdOFjFl"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -931,18 +931,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3gk4kujnDIt6T27Panenvo"
+        "name": "7 Mares",
+        "url": "https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy"
       },
       "artists": [
         {
-          "name": "Lanza Internacional",
-          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
+          "name": "Tsunamis",
+          "url": "https://open.spotify.com/artist/2oqOl5iVYtC7mpaqUtm5pU"
         }
       ],
-      "duration_ms": 218735,
-      "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6z042rCDhAXCVZcBwvIOnA"
+      "duration_ms": 258331,
+      "name": "Diabla",
+      "url": "https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -959,6 +959,22 @@
       "duration_ms": 262530,
       "name": "Todo Cae",
       "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3gk4kujnDIt6T27Panenvo"
+      },
+      "artists": [
+        {
+          "name": "Lanza Internacional",
+          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
+        }
+      ],
+      "duration_ms": 218735,
+      "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6z042rCDhAXCVZcBwvIOnA"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -995,22 +1011,6 @@
       "duration_ms": 173664,
       "name": "Camino a Casa",
       "url": "https://open.spotify.com/track/3evQsJptwoHiMgjPEXHgUY"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "7 Mares",
-        "url": "https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy"
-      },
-      "artists": [
-        {
-          "name": "Tsunamis",
-          "url": "https://open.spotify.com/artist/2oqOl5iVYtC7mpaqUtm5pU"
-        }
-      ],
-      "duration_ms": 258331,
-      "name": "Diabla",
-      "url": "https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Dignidad",
-        "url": "https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt"
-      },
-      "artists": [
-        {
-          "name": "La M\u00f3rbida",
-          "url": "https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K"
-        }
-      ],
-      "duration_ms": 248747,
-      "name": "Dignidad",
-      "url": "https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "R\u00e1pida Comida",
         "url": "https://open.spotify.com/album/3wljTa4XPg1EYHfRvAOeid"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 124552,
       "name": "Surfing caracol",
       "url": "https://open.spotify.com/track/41xLPySJ8th6QbO0aEKrBd"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Dignidad",
+        "url": "https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt"
+      },
+      "artists": [
+        {
+          "name": "La M\u00f3rbida",
+          "url": "https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K"
+        }
+      ],
+      "duration_ms": 248747,
+      "name": "Dignidad",
+      "url": "https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Blue Dalom",
-        "url": "https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8"
-      },
-      "artists": [
-        {
-          "name": "Cigarbox Man",
-          "url": "https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV"
-        }
-      ],
-      "duration_ms": 222133,
-      "name": "Let Me Fly",
-      "url": "https://open.spotify.com/track/1mf0JSb8GiZd8yFzLodBUh"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "La Pelea",
         "url": "https://open.spotify.com/album/3kbW39Z4MLMUv8TQogzwD3"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 205434,
       "name": "La Pelea",
       "url": "https://open.spotify.com/track/2sevFQjf4CLlhosI9knEhs"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Blue Dalom",
+        "url": "https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8"
+      },
+      "artists": [
+        {
+          "name": "Cigarbox Man",
+          "url": "https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV"
+        }
+      ],
+      "duration_ms": 222133,
+      "name": "Let Me Fly",
+      "url": "https://open.spotify.com/track/1mf0JSb8GiZd8yFzLodBUh"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Blue Dalom",
-        "url": "https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8"
-      },
-      "artists": [
-        {
-          "name": "Cigarbox Man",
-          "url": "https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV"
-        }
-      ],
-      "duration_ms": 215699,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/7drgoOz9TjniNAP79jB7Us"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Shawarma Love",
         "url": "https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 231750,
       "name": "Shawarma Love",
       "url": "https://open.spotify.com/track/6Vi9Cf1rg1KSM7Vlnp1Wgn"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Blue Dalom",
+        "url": "https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8"
+      },
+      "artists": [
+        {
+          "name": "Cigarbox Man",
+          "url": "https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV"
+        }
+      ],
+      "duration_ms": 215699,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/7drgoOz9TjniNAP79jB7Us"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Vaso de agua",
-        "url": "https://open.spotify.com/album/3J5DPUm1L0l2aW28N4K5Bh"
-      },
-      "artists": [
-        {
-          "name": "Pez Pl\u00e1tano",
-          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
-        }
-      ],
-      "duration_ms": 222835,
-      "name": "Vaso de agua",
-      "url": "https://open.spotify.com/track/1ZWArrmgFGakWumTH24Isn"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Baladas del Fin del Mundo",
         "url": "https://open.spotify.com/album/0WPzYjeKd2clBUAgdZv6yw"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 224096,
       "name": "Fuego y Mar",
       "url": "https://open.spotify.com/track/632EQlodzA2oI40ZjZYa2n"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Lo Que Es Real",
+        "url": "https://open.spotify.com/album/4EhoOmnnr75ndHqBbsT7CA"
+      },
+      "artists": [
+        {
+          "name": "El Otro Astronauta",
+          "url": "https://open.spotify.com/artist/0XgIpxvQkRLs1IbbCkNcFa"
+        }
+      ],
+      "duration_ms": 223593,
+      "name": "Lo Que Es Real",
+      "url": "https://open.spotify.com/track/0BWlOb5MiXGRhVcCpeRwrF"
     },
     {
       "added_at": "2024-03-29 03:00:00",

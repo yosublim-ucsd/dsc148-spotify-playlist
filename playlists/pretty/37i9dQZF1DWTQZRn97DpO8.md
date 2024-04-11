@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > Quand R&B francophone rime avec douceur 🍯\. Photo : Arma Jackson
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,266 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,313 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 31 | [Avec Toi](https://open.spotify.com/track/0X2jgXzlIaYfEvBze5h2vC) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Avec Toi](https://open.spotify.com/album/7kk0g6pZsVEQrw0abbqLRR) | 3:00 |
 | 32 | [simplement t'aimer](https://open.spotify.com/track/5bNiFgrPbyRvpJLLXgUZJT) | [Yaïr](https://open.spotify.com/artist/3ZbB3Lt9FyO45FXgYklwOA) | [simplement t'aimer](https://open.spotify.com/album/0zqoxnsWiegundutSlDb2t) | 3:26 |
 | 33 | [Parisienne High Level](https://open.spotify.com/track/5OYJXif1vzHZFvFORFBpvI) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [Parisienne High Level](https://open.spotify.com/album/6jvxhfExqa59zUlIIrCHUp) | 2:31 |
-| 34 | [MAISON MARGIELA](https://open.spotify.com/track/31apVS91MZ1rj1gZ7DpBBB) | [Abou Tall](https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2) | [Monsieur Saudade](https://open.spotify.com/album/2utwqz4VmZWi2rTKhRP3HV) | 3:55 |
+| 34 | [MAISON MARGIELA](https://open.spotify.com/track/1MggOUzXdsy6jhrhuWvuiD) | [Abou Tall](https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2) | [Monsieur Saudade](https://open.spotify.com/album/1amJT80lbG7zPvoVcpw05B) | 3:55 |
 | 35 | [Entre nous \(ft\. Cinco\)](https://open.spotify.com/track/5VbARAAqegErQsxjwhzqrf) | [Jaïa Rose](https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y), [Cinco](https://open.spotify.com/artist/3S8r9fkqybCCXJLhZGA3r1) | [Star Magazine](https://open.spotify.com/album/4WR46VLHEnxNCVdUKyEKQe) | 3:05 |
 | 36 | [LONG LIVE LOVE](https://open.spotify.com/track/24KilG16jjFWArvhW1Wply) | [May Hi](https://open.spotify.com/artist/6M3tXpbSUNyON6g1O9fYDf) | [LLL](https://open.spotify.com/album/1TYQHG0hwKKstrEA4c1ZYr) | 3:13 |
 | 37 | [Conséquences \(feat\. Tuerie\)](https://open.spotify.com/track/0TQzpIYyBIhnBjbyq5yEdf) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL), [Tuerie](https://open.spotify.com/artist/1UILCk5p48n9qaNf1uie0a) | [Conséquences \(feat\. Tuerie\)](https://open.spotify.com/album/03VtAtXTEuKUysbNav4Yuh) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [Honey Glazed](https://open.spotify.com/track/2BQ9kr7iW8M3GY5GKn19jv) | [Nu Linh](https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1) | [Chick & Dips](https://open.spotify.com/album/7wr1oxPx5FU5c7ll4Ca6FO) | 3:12 |
 | 50 | [Mienne](https://open.spotify.com/track/5GFYyEJYUQrG4q3URRtT4B) | [Gol.d](https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV) | [Mienne](https://open.spotify.com/album/0X0mA4fLAGZJLbTHFfu8Nb) | 3:00 |
 
-Snapshot ID: `MCw0MWUzZmIxN2Y4YmM1NDdlZTJhMWJjODFiNTAyN2Y2NTkxNWQ0Zjgw`
+Snapshot ID: `MCw3YTgwMTA2ZDRhY2Y1MjIwZjk2MWIxZGVmYTA4YmQxNGVlYzg4YjVi`

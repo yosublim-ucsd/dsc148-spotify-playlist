@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Steves J. Bryan",
-  "num_followers": 86529,
+  "num_followers": 86550,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTBjMWJhMmZiMTIxNDU4NjlhNDA2ZWUxNTFkNmRiZTBhOGE3OTk0",
+  "snapshot_id": "MCw1YzU4MmI2MWRkZDg3ZDUxZTk2YzY2NTI4NzI3MWYyZmJmZDIwY2Qx",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Ha\u00eftian Troubadours, Vol. 1",
-        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
-      },
-      "artists": [
-        {
-          "name": "Michael Benjamin",
-          "url": "https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ"
-        }
-      ],
-      "duration_ms": 268240,
-      "name": "Ou pati",
-      "url": "https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Map Rap Ak Ke Kontan",
         "url": "https://open.spotify.com/album/09TYeIwUMxcDZjqv52Xdl1"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 138333,
       "name": "Veye Priye",
       "url": "https://open.spotify.com/track/3tIi3d8WRYlSb1aPs9Ro8H"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Ha\u00eftian Troubadours, Vol. 1",
+        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
+      },
+      "artists": [
+        {
+          "name": "Michael Benjamin",
+          "url": "https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ"
+        }
+      ],
+      "duration_ms": 268240,
+      "name": "Ou pati",
+      "url": "https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Se Ou M Chwazi",
-        "url": "https://open.spotify.com/album/2p3uVHyJpc9sxzCTT7YXGx"
-      },
-      "artists": [
-        {
-          "name": "D-Singer",
-          "url": "https://open.spotify.com/artist/2t7LC046sLDvGmzgwe9pdf"
-        },
-        {
-          "name": "Rob Vital",
-          "url": "https://open.spotify.com/artist/5KpCduTjXtQ4HkOiRbYvyY"
-        }
-      ],
-      "duration_ms": 218191,
-      "name": "Se Ou M Chwazi",
-      "url": "https://open.spotify.com/track/3Wz1Al5jmlNCltjY8IzMim"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "BIDIBAM",
         "url": "https://open.spotify.com/album/0m5LrWTafT6BEg1BPe8jYI"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 190143,
       "name": "BIDIBAM",
       "url": "https://open.spotify.com/track/0nPPHiRNgQjCdzpot8Itgf"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Se Ou M Chwazi",
+        "url": "https://open.spotify.com/album/2p3uVHyJpc9sxzCTT7YXGx"
+      },
+      "artists": [
+        {
+          "name": "D-Singer",
+          "url": "https://open.spotify.com/artist/2t7LC046sLDvGmzgwe9pdf"
+        },
+        {
+          "name": "Rob Vital",
+          "url": "https://open.spotify.com/artist/5KpCduTjXtQ4HkOiRbYvyY"
+        }
+      ],
+      "duration_ms": 218191,
+      "name": "Se Ou M Chwazi",
+      "url": "https://open.spotify.com/track/3Wz1Al5jmlNCltjY8IzMim"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "White Flower",
-        "url": "https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW"
-      },
-      "artists": [
-        {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
-        }
-      ],
-      "duration_ms": 144118,
-      "name": "White Flower",
-      "url": "https://open.spotify.com/track/0E2IeoRCb8VUI0EwVTwPuk"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Ou Bezwen",
         "url": "https://open.spotify.com/album/0tH8ORhhM3pt7UhoG9jnOp"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 252450,
       "name": "Ou Bezwen",
       "url": "https://open.spotify.com/track/5H51dmoxcnIjGtWi8Z7Mje"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "White Flower",
+        "url": "https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        }
+      ],
+      "duration_ms": 144118,
+      "name": "White Flower",
+      "url": "https://open.spotify.com/track/0E2IeoRCb8VUI0EwVTwPuk"
     },
     {
       "added_at": "2024-02-23 05:00:00",

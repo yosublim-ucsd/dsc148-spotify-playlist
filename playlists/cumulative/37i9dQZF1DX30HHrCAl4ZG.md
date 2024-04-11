@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from Blondshell & Bully
 
-1,438 songs - 3 day 7 hr 11 min
+1,439 songs - 3 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,8 @@
 | [Candy Apple](https://open.spotify.com/track/20uwCFdYyUHOhKZ3xGhrQh) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE) | [Candy Apple](https://open.spotify.com/album/1oNoQWHRmr3ADNwAGO9dB6) | 3:46 | 2023-08-11 | 2023-08-26 |
 | [Cannonball](https://open.spotify.com/track/40ipIQoiI8Dg58yPbe4S5X) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [It Will Never Be The Same](https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX) | 4:05 | 2023-03-31 | 2023-06-10 |
 | [cant celebrate](https://open.spotify.com/track/7FASEsOoEfBpUjdkIuz40V) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [cant celebrate](https://open.spotify.com/album/7feZHa1JhU5fizfntgl46E) | 4:14 | 2022-04-29 | 2022-06-10 |
-| [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 | 2024-02-16 |  |
+| [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 | 2024-02-16 | 2024-04-11 |
+| [Capricorn](https://open.spotify.com/track/4oAGV7IADPWfkpk6aGQqZt) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:09 | 2024-02-16 |  |
 | [Car Sex](https://open.spotify.com/track/07Y0MWRfkOeOxEtjMKv7Mb) | [Secondhand Sound](https://open.spotify.com/artist/7F5gkuNk8gKIYIQtXJNFAw) | [Car Sex](https://open.spotify.com/album/1Sq1347HBtOCkzZtZFaFEN) | 3:38 | 2023-07-14 | 2023-09-16 |
 | [Car??](https://open.spotify.com/track/4x4a7S7JRCUQDJkRf3FBfP) | [Baby Wave](https://open.spotify.com/artist/2InWfiCopgR2razz9odY6K) | [Car??](https://open.spotify.com/album/4PTh2dyxZND8vnplSqejfv) | 2:41 | 2023-08-04 | 2023-08-26 |
 | [Carry On](https://open.spotify.com/track/5rvc8Bi2rNLRHIU1zPJG1v) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Campanita](https://open.spotify.com/album/41FeoNfcFYVQfGSTJkcC5W) | 2:51 | 2023-04-28 | 2023-07-22 |

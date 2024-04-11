@@ -4,7 +4,7 @@
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: Vampire Weekend
 
-1,187 songs - 2 day 20 hr 16 min
+1,188 songs - 2 day 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [A Love](https://open.spotify.com/track/3fPfkDNKwefwabaDKEOioY) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [A Love](https://open.spotify.com/album/0nNK36AnVwTjbNEt3vrrma) | 3:25 | 2023-07-27 | 2023-08-04 |
 | [A Love International](https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A Love International](https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9) | 4:15 | 2024-01-18 | 2024-03-15 |
 | [A Room Up In The Sky \(feat\. The Marías\)](https://open.spotify.com/track/2b6tGpbflP62TnzKx9TSDu) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [A Room Up In The Sky \(feat\. The Marías\)](https://open.spotify.com/album/0S4c1T8qWm1ZnCUj9edQq2) | 2:45 | 2023-12-14 | 2023-12-22 |
-| [A Vineyard for the North](https://open.spotify.com/track/3xZAvU8o7EDJzFKBy9mvlg) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Where’s My Utopia?](https://open.spotify.com/album/1mRX6QPV832KdiDhsdOb09) | 5:03 | 2024-02-29 |  |
+| [A Vineyard for the North](https://open.spotify.com/track/3xZAvU8o7EDJzFKBy9mvlg) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Where’s My Utopia?](https://open.spotify.com/album/1mRX6QPV832KdiDhsdOb09) | 5:03 | 2024-02-29 | 2024-04-11 |
+| [A Vineyard for the North](https://open.spotify.com/track/5hBUhTczqTowWOpRLU7mZg) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Where’s My Utopia?](https://open.spotify.com/album/34UIFF2mDOl7JN0QdmMjPg) | 5:03 | 2024-04-05 |  |
 | [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \(from Kaiju No\. 8\)](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 | 2024-03-28 |  |
 | [Acervation](https://open.spotify.com/track/1WDBTG5GxhEqETVuOlyESU) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Acervation](https://open.spotify.com/album/5HGJXHbUXFfMXwHdwjFanD) | 3:49 | 2023-10-12 | 2023-10-27 |
 | [Act Of God](https://open.spotify.com/track/4txZfRFchA3Ry0qfDGKrEQ) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Act Of God](https://open.spotify.com/album/6w3SdiAuavZUFkBBTcPJ57) | 3:21 | 2024-02-29 |  |
@@ -210,7 +211,7 @@
 | [Can't Have It All](https://open.spotify.com/track/1gENu5WicP0cgHaVEEIhza) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Can't Have It All](https://open.spotify.com/album/2bCdj53PszAxn5LSFzS39Q) | 3:33 | 2023-04-27 | 2023-05-05 |
 | [Candles](https://open.spotify.com/track/4uJ91RNHU2dG3WBFpVtY6P) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Halloween Mixtape II](https://open.spotify.com/album/11K5RRCKRsn5RCYWBNniD5) | 2:09 | 2023-10-26 | 2023-11-10 |
 | [Candy Pink](https://open.spotify.com/track/0fhDu7tCzkKEsWvwAZYHLH) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Pulp](https://open.spotify.com/album/3jGK6MR6SNkw4j78MFQ1I2) | 2:53 | 2023-05-25 | 2023-06-09 |
-| [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 | 2024-02-15 |  |
+| [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 | 2024-02-15 | 2024-04-11 |
 | [Carnavoyeur](https://open.spotify.com/track/11VOYtYJ0Bstb7QOCDDs5e) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Carnavoyeur](https://open.spotify.com/album/2UB1sEIK8wEhikbkcsIcIn) | 3:56 | 2023-06-01 | 2023-06-22 |
 | [CAROLINE](https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [CAROLINE](https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n) | 3:12 | 2023-03-16 | 2023-03-25 |
 | [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/track/5AzFP6taTTCZp0SU18jxpc) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/album/1dVLmx7MeskNv1bwe6MY8Y) | 3:56 | 2023-10-12 | 2023-10-20 |
@@ -336,7 +337,7 @@
 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 | 2024-03-03 |  |
 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 | 2023-03-16 | 2023-09-22 |
 | [Elevated Heartbreak](https://open.spotify.com/track/71kN8wL4AFqpMsmk9jb33D) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Elevated Heartbreak](https://open.spotify.com/album/2IAhYPxUgFVgKqLVzQV2By) | 3:23 | 2023-06-08 | 2023-06-23 |
-| [Emergency Contact](https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:00 | 2023-05-11 | 2024-03-01 |
+| [Emergency Contact](https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:00 | 2023-05-11 |  |
 | [Emergency Contact](https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Emergency Contact](https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH) | 4:00 | 2023-04-27 | 2023-05-05 |
 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 | 2023-05-18 | 2023-07-07 |
 | [Emotional](https://open.spotify.com/track/0mt5kngEPeux5Bgflvm9qN) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Emotional](https://open.spotify.com/album/1XvJPvitM6cBjEik59dzDr) | 2:43 | 2023-07-13 | 2023-07-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: なとり
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,333 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,457 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 49 | [僕だけが愛](https://open.spotify.com/track/586HamUq3n9cH9cDXWRzAb) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [僕だけが愛](https://open.spotify.com/album/3bdleoxF74CDSzQXLwY8MI) | 5:23 |
 | 50 | [私が明日死ぬなら](https://open.spotify.com/track/29KOSOrduu8U6Pz6ZZtuEj) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ROUNDABOUT](https://open.spotify.com/album/1N3qm3w4YsYgXh6XxBjkay) | 4:13 |
 | 51 | [また旅に誘われて](https://open.spotify.com/track/5l0SzsTg6IBI3LwfLvq4f2) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 2:42 |
-| 52 | [チーム友達 \- 東海 Remix](https://open.spotify.com/track/4IvowW1NWTpXKUGSCZwW0K) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [SOCKS](https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn) | [チーム友達 \(東海 Remix\)](https://open.spotify.com/album/1ghhtRYZ7LLs6d5Hq1rFOY) | 2:45 |
+| 52 | [Team Tomodachi \- Tokai Remix](https://open.spotify.com/track/1JMN2uoAK1XVe1ZveJxIFo) | [Yuki Chiba](https://open.spotify.com/artist/6zOzMb66GICS4gVDtd1yvR), [SOCKS](https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn) | [Team Tomodachi \(Tokai Remix\)](https://open.spotify.com/album/5Xk6LCAzqYQY4WMyv4bfv9) | 2:45 |
 | 53 | [Don’t Look Down](https://open.spotify.com/track/12aiT6u1KdAW15HGUqAhSN) | [Loota](https://open.spotify.com/artist/2i98we4ZId0tp9xtg2Vte7), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Don't Look Down](https://open.spotify.com/album/3OrVnCytoZ2vsJnTp4Ohy9) | 4:10 |
 | 54 | [GOAT](https://open.spotify.com/track/074s54XQPsBttINKj02W9T) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:38 |
 | 55 | [BINBO](https://open.spotify.com/track/3jLoBEYECqYA1kzlt5UTBL) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [BINBO](https://open.spotify.com/album/7iZN9psShtHZhWXr0rh4Ai) | 2:18 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 59 | [escaper](https://open.spotify.com/track/2Mm4RrOBvZe7tWEeWk4R6i) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [escaper](https://open.spotify.com/album/1N6dcviDSU9kWkqHOizc1Z) | 3:19 |
 | 60 | [Kyoutou feat\. RYOKI from BE:FIRST](https://open.spotify.com/track/2IdPiAdM5pUmUMtzS1UBnJ) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa), [RYOKI](https://open.spotify.com/artist/5wTRBlhKerluU2z9KGtdFm) | [Kyoutou feat\. RYOKI from BE:FIRST](https://open.spotify.com/album/5xZRKhx7mmHb6SwlY2uPwh) | 2:56 |
 
-Snapshot ID: `MCxiYjVkYTlhYmFmZDQ3ZWU4MjQxOTI0NTAxMmM4ZjJlMGE3M2YyZWQ4`
+Snapshot ID: `MCxkMGIzMzYyNTc0NzFjMDFlNGQwYjQyNWU3NWRlN2ViMGE3NGM3NGM2`

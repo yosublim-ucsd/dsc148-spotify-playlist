@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1189671,
+  "num_followers": 1189835,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWQ2MTUzZWZhYzY2NjU1YWFlM2NkNGJlNDVlMTQ3YzM0Y2Q4OTdj",
+  "snapshot_id": "MCxiZDhlMWVmOGU0OWRiMzdlZWZlMzYwODhkN2JlNjZmNTQzODc4Yjlk",
   "tracks": [
     {
       "added_at": "2023-09-29 20:20:52",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Learning",
-        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
-      },
-      "artists": [
-        {
-          "name": "Debbii Dawson",
-          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
-        }
-      ],
-      "duration_ms": 136250,
-      "name": "Eulogy For Nobody",
-      "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "ALLERGIC",
         "url": "https://open.spotify.com/album/2Ftd8lx8OfGra32bqFbu1f"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 279306,
       "name": "Pictures of Us",
       "url": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Learning",
+        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "duration_ms": 136250,
+      "name": "Eulogy For Nobody",
+      "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Coming Clean",
-        "url": "https://open.spotify.com/album/3HYuk6rTzUcO1ZGya3vHwu"
-      },
-      "artists": [
-        {
-          "name": "Brandon",
-          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
-        }
-      ],
-      "duration_ms": 111710,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/5jI88gmbKnva1Pak0ZZo1M"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "i'd rather be alone",
         "url": "https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "THE GIRL WILL BE OKAY",
-        "url": "https://open.spotify.com/album/5Iv87ZOJiSAfvxYyarcdts"
+        "name": "Coming Clean",
+        "url": "https://open.spotify.com/album/3HYuk6rTzUcO1ZGya3vHwu"
       },
       "artists": [
         {
-          "name": "RC AVENUE",
-          "url": "https://open.spotify.com/artist/72l1FxPT1pEy9kuGz2UC1w"
+          "name": "Brandon",
+          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
         }
       ],
-      "duration_ms": 96125,
-      "name": "THE GIRL WILL BE OKAY",
-      "url": "https://open.spotify.com/track/0QbzrbAp8Mfu1cdmFRbgBx"
+      "duration_ms": 111710,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5jI88gmbKnva1Pak0ZZo1M"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1175,6 +1159,22 @@
       "duration_ms": 289058,
       "name": "just wanna forget you",
       "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "THE GIRL WILL BE OKAY",
+        "url": "https://open.spotify.com/album/5Iv87ZOJiSAfvxYyarcdts"
+      },
+      "artists": [
+        {
+          "name": "RC AVENUE",
+          "url": "https://open.spotify.com/artist/72l1FxPT1pEy9kuGz2UC1w"
+        }
+      ],
+      "duration_ms": 96125,
+      "name": "THE GIRL WILL BE OKAY",
+      "url": "https://open.spotify.com/track/0QbzrbAp8Mfu1cdmFRbgBx"
     },
     {
       "added_at": "2024-03-07 21:03:22",
@@ -1301,6 +1301,22 @@
       "url": "https://open.spotify.com/track/7HY0lAbWyJr6JqvKgRQDEL"
     },
     {
+      "added_at": "2024-03-07 21:03:22",
+      "album": {
+        "name": "safe space",
+        "url": "https://open.spotify.com/album/2tBmCvqE2xObYau5vGoY2z"
+      },
+      "artists": [
+        {
+          "name": "Sughn",
+          "url": "https://open.spotify.com/artist/0BPCwLHpZIpVlVXcZyH2CB"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "safe space",
+      "url": "https://open.spotify.com/track/7lOsJPdQuDAVmm3ZZsvG9f"
+    },
+    {
       "added_at": "2023-09-29 20:20:52",
       "album": {
         "name": "Hey u x",
@@ -1315,6 +1331,22 @@
       "duration_ms": 231700,
       "name": "Happen To Me",
       "url": "https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM"
+    },
+    {
+      "added_at": "2024-03-07 21:03:22",
+      "album": {
+        "name": "Your Mother's Name",
+        "url": "https://open.spotify.com/album/0oTmJI1vJfW5D7zH9fGByM"
+      },
+      "artists": [
+        {
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        }
+      ],
+      "duration_ms": 139086,
+      "name": "Die Your Daughter",
+      "url": "https://open.spotify.com/track/5Ey7icpjKCGpi5oJi7VLdu"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1351,38 +1383,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "are you sleeping alone again?",
-        "url": "https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU"
-      },
-      "artists": [
-        {
-          "name": "bixby",
-          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "are you sleeping alone again?",
-      "url": "https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4"
-    },
-    {
-      "added_at": "2024-03-07 21:03:22",
-      "album": {
-        "name": "safe space",
-        "url": "https://open.spotify.com/album/2tBmCvqE2xObYau5vGoY2z"
-      },
-      "artists": [
-        {
-          "name": "Sughn",
-          "url": "https://open.spotify.com/artist/0BPCwLHpZIpVlVXcZyH2CB"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "safe space",
-      "url": "https://open.spotify.com/track/7lOsJPdQuDAVmm3ZZsvG9f"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Things I Wanted To Tell You",
         "url": "https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0"
       },
@@ -1401,20 +1401,20 @@
       "url": "https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c"
     },
     {
-      "added_at": "2024-03-07 21:03:22",
+      "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Your Mother's Name",
-        "url": "https://open.spotify.com/album/0oTmJI1vJfW5D7zH9fGByM"
+        "name": "are you sleeping alone again?",
+        "url": "https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU"
       },
       "artists": [
         {
-          "name": "Susannah Joffe",
-          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+          "name": "bixby",
+          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
         }
       ],
-      "duration_ms": 139086,
-      "name": "Die Your Daughter",
-      "url": "https://open.spotify.com/track/5Ey7icpjKCGpi5oJi7VLdu"
+      "duration_ms": 126857,
+      "name": "are you sleeping alone again?",
+      "url": "https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "infinity",
+        "url": "https://open.spotify.com/album/6Av8IyC0LC2H11oSpvXKRF"
+      },
+      "artists": [
+        {
+          "name": "asumuh",
+          "url": "https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO"
+        }
+      ],
+      "duration_ms": 174208,
+      "name": "infinity",
+      "url": "https://open.spotify.com/track/1LKRq7700oFaulUp6MpIiW"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "When the City Sleeps",
         "url": "https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 163384,
       "name": "whore",
       "url": "https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "infinity",
-        "url": "https://open.spotify.com/album/6Av8IyC0LC2H11oSpvXKRF"
-      },
-      "artists": [
-        {
-          "name": "asumuh",
-          "url": "https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO"
-        }
-      ],
-      "duration_ms": 174208,
-      "name": "infinity",
-      "url": "https://open.spotify.com/track/1LKRq7700oFaulUp6MpIiW"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "Falling Down",
+        "url": "https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P"
+      },
+      "artists": [
+        {
+          "name": "Puma Blue",
+          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
+        }
+      ],
+      "duration_ms": 215306,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "handgun",
         "url": "https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 153915,
       "name": "princes of melancholia",
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Falling Down",
-        "url": "https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P"
-      },
-      "artists": [
-        {
-          "name": "Puma Blue",
-          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
-        }
-      ],
-      "duration_ms": 215306,
-      "name": "Falling Down",
-      "url": "https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "the way we used to love.",
-        "url": "https://open.spotify.com/album/5TpuZa5jlD6Jf3Kf6qglHo"
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/5H1Am1NOFLH6n9xHIaFUJU"
       },
       "artists": [
         {
-          "name": "eli.",
-          "url": "https://open.spotify.com/artist/05TvjXcgQveeF7wh2DBHvp"
+          "name": "Landon Conrath",
+          "url": "https://open.spotify.com/artist/2PJ06l59DomDd440az768u"
         }
       ],
-      "duration_ms": 225600,
-      "name": "disappear",
-      "url": "https://open.spotify.com/track/5YVuTCLDxjS8pORppZhNsf"
+      "duration_ms": 136686,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/1Mn12q06NlGF3EdDkugUAi"
     }
   ],
   "unique_name": "idk.",

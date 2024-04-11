@@ -4,7 +4,7 @@
 
 > The amazing sounds of the tropics.
 
-361 songs - 1 day 5 hr 16 min
+362 songs - 1 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,8 @@
 | [Loca](https://open.spotify.com/track/3hWP7gZBIcRoLsPhH0oduK) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Santiago Caliente](https://open.spotify.com/album/5OR9wpC5rXNgRRii8UVIqZ) | 3:12 | 2021-12-24 |  |
 | [Loco De Amor](https://open.spotify.com/track/2uJsn2yi8HVZ8qwICHcNSW) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [Rei Momo](https://open.spotify.com/album/2JQU5ZvGycMsa7gITyaGb6) | 3:45 | 2022-04-01 |  |
 | [Los Comentarios](https://open.spotify.com/track/5LlpaWXd6wjjKXrPtCaYV9) | [Papo Man](https://open.spotify.com/artist/3oIFwa7ekCrHUcuFBb9WiF) | [Grandes Éxitos](https://open.spotify.com/album/4kCzDt5W6fAK5hLFBRTjsb) | 4:17 | 2021-12-24 |  |
-| [Los Trapitos al Agua](https://open.spotify.com/track/5uY067t7HIaEfCmhgRaA7m) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [Los Trapitos al Agua](https://open.spotify.com/album/7CwbUzZX90EMQubtrwxn8X) | 4:07 | 2021-12-24 |  |
+| [Los Trapitos al Agua](https://open.spotify.com/track/7v5ZLaD5qY9IbNcFOapmi0) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [Los Trapitos al Agua](https://open.spotify.com/album/76jDSZyI21nZFUcEK0FrHN) | 4:04 | 2021-12-24 |  |
+| [Los Trapitos al Agua](https://open.spotify.com/track/5uY067t7HIaEfCmhgRaA7m) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [Los Trapitos al Agua](https://open.spotify.com/album/7CwbUzZX90EMQubtrwxn8X) | 4:07 | 2021-12-24 | 2024-04-11 |
 | [Lost Mi Love](https://open.spotify.com/track/5dvG16Ma80h9FZ1sQq5Sb1) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Mister Yellowman](https://open.spotify.com/album/1ub0O2c6o8TFplwF01SADt) | 5:10 | 2021-12-24 |  |
 | [Love and Death](https://open.spotify.com/track/2EdcEOJf2V8xMOTO7q2gCN) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/4MTtvGnI74RyOmG5UrVZhf) | 6:55 | 2021-12-24 |  |
 | [Lung Tung Wai](https://open.spotify.com/track/0Jqpo39GGCFpNX2E81lhjD) | [Chaweewan Dumnern](https://open.spotify.com/artist/5FfClIGioybDMrfEp2cj3T) | [Sound of Siam, Vol\. 1 \- Leftfield Luk Thung, Jazz & Molam in Thailand 1964\-1975](https://open.spotify.com/album/0fnDkJkDLNyv7kGDoxhSyR) | 3:41 | 2021-12-24 |  |

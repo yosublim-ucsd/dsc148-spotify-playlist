@@ -1,12 +1,12 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 73888,
+  "num_followers": 73882,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTJhOGJkMWRhNWQ2MmEwMmZjOGNjZjZjMWIwMGI4ZWJhNjZmM2M5",
+  "snapshot_id": "MCxiNjk5MGYzN2UyNTM1YWEwMjRmZWFjNDI1NDlhZDQzZjc2MWFjOGUw",
   "tracks": [
     {
       "added_at": "2024-03-20 11:39:23",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "You Deliver Me",
-        "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
-      },
-      "artists": [
-        {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "How Deep The Father's Love For Us",
-      "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
         "name": "Land Of The Living (Live)",
         "url": "https://open.spotify.com/album/18Zm6kFysUFl9qHLdgIjLa"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 325701,
       "name": "Rest On Us - Live",
       "url": "https://open.spotify.com/track/6TYAbOGCUk4jvJhc8W9QZv"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "You Deliver Me",
+        "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "How Deep The Father's Love For Us",
+      "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -971,46 +971,6 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Awe + Wonder (Live)",
-        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 389897,
-      "name": "Hosanna - Live",
-      "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
-        "name": "Take Heart (Again)",
-        "url": "https://open.spotify.com/album/6HcqVBH2iWODP7vYAuvR8O"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 314493,
-      "name": "I Surrender",
-      "url": "https://open.spotify.com/track/2oIJcLFfmcNNaNpMJzBUwG"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
         "name": "Freedom.",
         "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
       },
@@ -1035,6 +995,46 @@
       "duration_ms": 286453,
       "name": "Where Do I Fit In (feat. Tori Kelly, Chandler Moore & Judah Smith)",
       "url": "https://open.spotify.com/track/6e3oGWsdfHSKBCFv548RRm"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "Take Heart (Again)",
+        "url": "https://open.spotify.com/album/6HcqVBH2iWODP7vYAuvR8O"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 314493,
+      "name": "I Surrender",
+      "url": "https://open.spotify.com/track/2oIJcLFfmcNNaNpMJzBUwG"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "Awe + Wonder (Live)",
+        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 389897,
+      "name": "Hosanna - Live",
+      "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1488,13 +1488,13 @@
           "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
         },
         {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
         }
       ],
-      "duration_ms": 246640,
-      "name": "Fierce - Live",
-      "url": "https://open.spotify.com/track/4VS6PK5bVEBtEt4lLvLYoi"
+      "duration_ms": 314320,
+      "name": "Alive In You - Live",
+      "url": "https://open.spotify.com/track/7IZj7C9LM2jj0ISnyve3Ox"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1636,13 +1636,13 @@
           "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
         },
         {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
         }
       ],
-      "duration_ms": 314320,
-      "name": "Alive In You - Live",
-      "url": "https://open.spotify.com/track/7IZj7C9LM2jj0ISnyve3Ox"
+      "duration_ms": 246640,
+      "name": "Fierce - Live",
+      "url": "https://open.spotify.com/track/4VS6PK5bVEBtEt4lLvLYoi"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "With/In",
-        "url": "https://open.spotify.com/album/24VYLFYasTOQhFXVv2HUE4"
-      },
-      "artists": [
-        {
-          "name": "Austin Stone Worship",
-          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
-        }
-      ],
-      "duration_ms": 287933,
-      "name": "Our God Is Alive",
-      "url": "https://open.spotify.com/track/2CAztZQ7LpJdtiIBhHWgnM"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
         "name": "The Darker The Night / The Brighter The Morning",
         "url": "https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 254840,
       "name": "The Cross Has The Final Word",
       "url": "https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "With/In",
+        "url": "https://open.spotify.com/album/24VYLFYasTOQhFXVv2HUE4"
+      },
+      "artists": [
+        {
+          "name": "Austin Stone Worship",
+          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
+        }
+      ],
+      "duration_ms": 287933,
+      "name": "Our God Is Alive",
+      "url": "https://open.spotify.com/track/2CAztZQ7LpJdtiIBhHWgnM"
     }
   ],
   "unique_name": "Easter Worship",

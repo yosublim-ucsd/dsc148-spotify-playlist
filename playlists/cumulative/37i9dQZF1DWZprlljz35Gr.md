@@ -4,7 +4,7 @@
 
 > Bluesy blips and blops
 
-82 songs - 5 hr 38 min
+83 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Troubled \- Whiskey and a Saddle Part One](https://open.spotify.com/track/61k4urgjSdyLegkf0yBlwT) | [Charlie Beale](https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o) | [Troubled \(Whiskey and a Saddle Part One\)](https://open.spotify.com/album/55uUuquxQLTgp4xHPahzDp) | 2:53 | 2024-03-22 |  |
 | [Victim](https://open.spotify.com/track/6ZyGzHdjqt4bqvWBwlYuaD) | [Mblue](https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ) | [Victim](https://open.spotify.com/album/2DQffRbld5NnGdhiMhVwJ9) | 2:52 | 2022-09-30 |  |
 | [We'r Gonna Have \(a Good Time\)](https://open.spotify.com/track/3AbawelgHpuAm3VTz7vAgF) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5) | [We'r Gonna Have \(a Good Time\)](https://open.spotify.com/album/0itpRa7RxoZXXhuOYJALqS) | 3:11 | 2023-02-03 | 2024-02-08 |
-| [We'r Gonna Have \(a Good Time\)](https://open.spotify.com/track/3fxmPJD9uAhBmQLPqxsW3g) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5) | [We'r Gonna Have \(A Good Time\)](https://open.spotify.com/album/5ppQwO8UwO15NrEpDlVg88) | 3:11 | 2023-03-17 |  |
+| [We'r Gonna Have \(a Good Time\)](https://open.spotify.com/track/3fxmPJD9uAhBmQLPqxsW3g) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5) | [We'r Gonna Have \(A Good Time\)](https://open.spotify.com/album/5ppQwO8UwO15NrEpDlVg88) | 3:11 | 2023-03-17 | 2024-04-11 |
+| [We'r Gonna Have \(a Good Time\)](https://open.spotify.com/track/4G9aIO19Bpmil8aOPmS1K1) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5) | [We'r Gonna Have \(A Good Time\)](https://open.spotify.com/album/32t2T9nsxWEeJ8ZHLqHiba) | 3:11 | 2023-03-17 |  |
 | [Why Not?](https://open.spotify.com/track/5ygOxeRiafW51ViBgiXLf8) | [Akolo](https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J) | [Why Not?](https://open.spotify.com/album/5PAyO6SUXQJhGDPqmqcMBY) | 3:33 | 2020-12-01 |  |
 | [Wolves](https://open.spotify.com/track/2oLo4vGUIP3eJ9T001keTu) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 2:55 | 2020-12-01 |  |
 | [Xotic](https://open.spotify.com/track/5zT0oYIpruDMbverZ28esj) | [miXendorp](https://open.spotify.com/artist/4lK3eAKeNM2RTUE5cILbgP) | [Bluestronica EP nr 2](https://open.spotify.com/album/5CnJQvhMyM5qtHoRBjVvC3) | 4:05 | 2023-08-04 |  |

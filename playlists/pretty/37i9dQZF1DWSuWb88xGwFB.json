@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 33831,
+  "num_followers": 33841,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzI5YTk5ZjU3NzgxODY3MzJmYzU5NjRmMWUyMzA2YzU2MjJmNzIz",
+  "snapshot_id": "MCwyYjRlZGZlNDYzYWVjNjdjNDJiNWUxNjdlY2EwMDU2YWU4Mjg3NjAy",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -903,26 +903,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/55amN0lWdcvH5QVZ5egjor"
-      },
-      "artists": [
-        {
-          "name": "Code 718",
-          "url": "https://open.spotify.com/artist/4kSrRAfjG8flVU9ITYpVkW"
-        },
-        {
-          "name": "Henrik Schwarz",
-          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
-        }
-      ],
-      "duration_ms": 368466,
-      "name": "Equinox (Henrik Schwarz Remix)",
-      "url": "https://open.spotify.com/track/5E1DUqZWjJXjUsOFXLh9RC"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Muevete Mama",
         "url": "https://open.spotify.com/album/3zmd8wHIeDNeAGHZS5TTwx"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 358546,
       "name": "Boom (Radio Mix)",
       "url": "https://open.spotify.com/track/2Mnqeirws7LI60BXCKRA3S"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/55amN0lWdcvH5QVZ5egjor"
+      },
+      "artists": [
+        {
+          "name": "Code 718",
+          "url": "https://open.spotify.com/artist/4kSrRAfjG8flVU9ITYpVkW"
+        },
+        {
+          "name": "Henrik Schwarz",
+          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
+        }
+      ],
+      "duration_ms": 368466,
+      "name": "Equinox (Henrik Schwarz Remix)",
+      "url": "https://open.spotify.com/track/5E1DUqZWjJXjUsOFXLh9RC"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Everybody Dance",
-        "url": "https://open.spotify.com/album/6cLUkcaFe8voggxAoWXEDS"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 479440,
-      "name": "Everybody Dance (M.A.S. Club Vocal)",
-      "url": "https://open.spotify.com/track/2kAjEH6vpzYTrp5vRnJkBE"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Move Your Body (feat. LaVette) [Mixes]",
         "url": "https://open.spotify.com/album/73qB0bVff6GfAOZabkcTOC"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 228238,
       "name": "Move Your Body (feat. LaVette) (Radio Mix)",
       "url": "https://open.spotify.com/track/26KSmfr8x8Zo2HFAvyceIB"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Everybody Dance",
+        "url": "https://open.spotify.com/album/6cLUkcaFe8voggxAoWXEDS"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "duration_ms": 479440,
+      "name": "Everybody Dance (M.A.S. Club Vocal)",
+      "url": "https://open.spotify.com/track/2kAjEH6vpzYTrp5vRnJkBE"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1155,6 +1155,22 @@
       "duration_ms": 731735,
       "name": "Dancin",
       "url": "https://open.spotify.com/track/1eoiVmdM3ja0wRN4Zfh9HD"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
+      },
+      "artists": [
+        {
+          "name": "Shadii",
+          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
+        }
+      ],
+      "duration_ms": 342621,
+      "name": "My People (My People Mix)",
+      "url": "https://open.spotify.com/track/23kx0OirzCk4PQbbKs6rya"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
-      },
-      "artists": [
-        {
-          "name": "Shadii",
-          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
-        }
-      ],
-      "duration_ms": 342621,
-      "name": "My People (My People Mix)",
-      "url": "https://open.spotify.com/track/23kx0OirzCk4PQbbKs6rya"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "In Da Clouds",
         "url": "https://open.spotify.com/album/62sUlFutPV4Txj0H1NyDun"
       },
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Straight from the Bario EP",
-        "url": "https://open.spotify.com/album/6h4R4lF6pLr6ZxtyKcaG9J"
-      },
-      "artists": [
-        {
-          "name": "RBM",
-          "url": "https://open.spotify.com/artist/5xIJpFh1VA7BD7uJSuWnGo"
-        }
-      ],
-      "duration_ms": 369987,
-      "name": "The Bombero Remix 96",
-      "url": "https://open.spotify.com/track/1uApzgJThhGdsQgIe8kud4"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Strictly Rhythms, Vol. 1",
         "url": "https://open.spotify.com/album/6VfiD0SC34baxLDlDxtPI2"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 260065,
       "name": "Shine (Sundown Dub)",
       "url": "https://open.spotify.com/track/20PGCMaMNwACzTtZGdiCBm"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Straight from the Bario EP",
+        "url": "https://open.spotify.com/album/6h4R4lF6pLr6ZxtyKcaG9J"
+      },
+      "artists": [
+        {
+          "name": "RBM",
+          "url": "https://open.spotify.com/artist/5xIJpFh1VA7BD7uJSuWnGo"
+        }
+      ],
+      "duration_ms": 369987,
+      "name": "The Bombero Remix 96",
+      "url": "https://open.spotify.com/track/1uApzgJThhGdsQgIe8kud4"
     },
     {
       "added_at": "2022-03-03 13:59:16",

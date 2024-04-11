@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,822 likes - 35 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,915 likes - 35 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 34 | [Right And A Wrong Way](https://open.spotify.com/track/2bm9LWKQR8PwqveIBGTHpH) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 5:11 |
 | 35 | [Stop, Look, Listen To Your Heart](https://open.spotify.com/track/1IDqjd1izHqfglec625jgJ) | [Will Downing](https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY), [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [The Best Of Will Downing: The Millennium Collection \- 20th Century Masters](https://open.spotify.com/album/25s9D0Llmg6ZSvFCK9MDAM) | 3:41 |
 
-Snapshot ID: `MCxlYWU0Yzc2NjU3NzI0NzYyNmY2OTlmZGVjODdlZjJhZGI0ZjNkZTFm`
+Snapshot ID: `MCwxYTRjYTZmM2JkNmEzNzI3MWU0Zjg0ZWFhYTBiMTA0NzVkZjYxOWM4`

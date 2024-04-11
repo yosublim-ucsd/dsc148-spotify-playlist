@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,494 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,542 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 42 | [Somos Más Americanos](https://open.spotify.com/track/0kBFfb1T2aCkhSJUIo56Mz) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [Tr3s Presents MTV Unplugged Los Tigres Del Norte And Friends](https://open.spotify.com/album/0SzXF8v0Vv3EFeaPY6h9LP) | 4:10 |
 | 43 | [Millones](https://open.spotify.com/track/6EYVI4zwxzP3EnViyiI5x0) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Almismotiempo](https://open.spotify.com/album/0DdeLpEFBKlHGUT72nyxAQ) | 3:42 |
 | 44 | [Para Que Nunca Mas](https://open.spotify.com/track/3hucW9oJIdJkxjaNxAc6wd) | [Sol y Lluvia](https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI) | [Antología del Canto Nuevo Vol\. 2](https://open.spotify.com/album/6ABGUSzgpN1gX8vIW4abGu) | 2:27 |
-| 45 | [Mujeres](https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Mujeres](https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P) | 3:35 |
+| 45 | [La Tierra](https://open.spotify.com/track/5R5BUvAO23Z83xvL5wXVOj) | [Ekhymosis](https://open.spotify.com/artist/4gOoiVWzfjPtXK3ohuEy0M) | [Ekhymosis](https://open.spotify.com/album/4EhPQamyGb7l1PnpkBHpjB) | 3:45 |
 | 46 | [Shock](https://open.spotify.com/track/322LgcUL3uhHbpUQP57WUF) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [La Bala](https://open.spotify.com/album/2zKOLLaPdOm8gouCwbzkgF) | 3:30 |
-| 47 | [La Tierra](https://open.spotify.com/track/5R5BUvAO23Z83xvL5wXVOj) | [Ekhymosis](https://open.spotify.com/artist/4gOoiVWzfjPtXK3ohuEy0M) | [Ekhymosis](https://open.spotify.com/album/4EhPQamyGb7l1PnpkBHpjB) | 3:45 |
+| 47 | [Mujeres](https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Mujeres](https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P) | 3:35 |
 | 48 | [Al Pueblo Le Asusta La Revolución](https://open.spotify.com/track/582Lfqa9mSQO8bXtZImRYl) | [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg) | [Escribo Rap Con R De Revolucion](https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7) | 4:28 |
 | 49 | [Tlatelolco 68](https://open.spotify.com/track/0IpAufJEjttMegWQvxcI2i) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:47 |
 | 50 | [Por Que No Se Van](https://open.spotify.com/track/0U79l5US7T8snNuDSrZ3X6) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Pateando Piedras](https://open.spotify.com/album/0Av7hm17VTE9gQgJ2pg7WW) | 2:59 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 96 | [El Club de la Resistencia](https://open.spotify.com/track/3TYSlb2zMxnnhPEyhdl3QK) | [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv) | [Souvenir \(Deluxe\)](https://open.spotify.com/album/2J73BmU7DnY2iCCXzrRls8) | 3:33 |
 | 97 | [Guayabo](https://open.spotify.com/track/7E0fKLZLwODr87yOe1GA3H) | [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Guayabo](https://open.spotify.com/album/4bjLDyvWAgtdaCm8ygrcmW) | 2:32 |
 | 98 | [Plegaria A Un Labrador](https://open.spotify.com/track/1AD8C9GGDDvzm6i0r0v4c2) | [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [Antología 1968\-1992](https://open.spotify.com/album/1rJ7VkFSDPEB9m27A8NAO4) | 3:14 |
-| 99 | [Odio](https://open.spotify.com/track/7ss9oVoeAgsvNPhn5DyeQh) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:15 |
-| 100 | [Su Madre Patria](https://open.spotify.com/track/644qoF650m6xvB8PHPSz1q) | [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi), [Adriana Lizcano](https://open.spotify.com/artist/2vITZovJRCRAywLXzKqEje) | [Su Madre Patria](https://open.spotify.com/album/3BlhpwuACPUsR8xSLO8DwW) | 2:16 |
+| 99 | [Su Madre Patria](https://open.spotify.com/track/644qoF650m6xvB8PHPSz1q) | [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi), [Adriana Lizcano](https://open.spotify.com/artist/2vITZovJRCRAywLXzKqEje) | [Su Madre Patria](https://open.spotify.com/album/3BlhpwuACPUsR8xSLO8DwW) | 2:16 |
+| 100 | [Odio](https://open.spotify.com/track/7ss9oVoeAgsvNPhn5DyeQh) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:15 |
 
-Snapshot ID: `MCxiMjEyYzk0OWMzODUzMzhjODU5ODUxNmU2MjgyNDA5NzhiOWM3ZGU3`
+Snapshot ID: `MCw3MTkzYjk3Mjk2ODliNmRmYmI1NzJlN2Q4MzZjMzc3ZWEzMDI0ZDhl`

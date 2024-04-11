@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 742113,
+  "2024-04-11": 742121,
   "date_first_scraped": "2022-10-06",
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
   "name": "NCS Releases",
@@ -287,7 +287,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 213488,
       "name": "All For You",
       "url": "https://open.spotify.com/track/67v9iKzTmtMmLaKgZqHo1n"
@@ -8901,6 +8901,24 @@
       "duration_ms": 175636,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/7w72YAANcgERnbpqcW4C5B"
+    },
+    {
+      "album": {
+        "name": "Stars In The Sky",
+        "url": "https://open.spotify.com/album/3Qz0orOMHZRAhTe00UUOmV"
+      },
+      "artists": [
+        {
+          "name": "BEKSY.",
+          "url": "https://open.spotify.com/artist/3c6PB0rp6XOiA2JywVvnKV"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150422,
+      "name": "Stars In The Sky",
+      "url": "https://open.spotify.com/track/1PRtgc9OQr4wlJjjBz4LKy"
     },
     {
       "album": {

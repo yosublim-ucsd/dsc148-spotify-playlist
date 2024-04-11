@@ -9437,6 +9437,32 @@
     },
     {
       "album": {
+        "name": "The Scientist",
+        "url": "https://open.spotify.com/album/37wPy2LW3iLCALxjZFIdDb"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207483,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/3wxbMFOaduop2XFO9gKihO"
+    },
+    {
+      "album": {
         "name": "The Weekend",
         "url": "https://open.spotify.com/album/4053RHHeqwePbdghoqM1i9"
       },
@@ -10386,7 +10412,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 153817,
       "name": "Won't Forget You",
       "url": "https://open.spotify.com/track/2fP9aII1LkmZZmzdAiuNVz"

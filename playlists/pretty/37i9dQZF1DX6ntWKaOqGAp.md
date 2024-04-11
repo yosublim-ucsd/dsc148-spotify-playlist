@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > The biggest Japanese rock hits right now\.  Cover: SHISHAMO　日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,867 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,008 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 63 | [ブレイクスルー](https://open.spotify.com/track/5dYz0z2oEr4jnzgort0quj) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [ブレイクスルー](https://open.spotify.com/album/7wkmbAsdhTrQ8ThQVs5gMf) | 4:04 |
 | 64 | [この愛に敵うもんはない](https://open.spotify.com/track/3oaqQczgoSVRK8NPvNL6i4) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [この愛に敵うもんはない](https://open.spotify.com/album/5FCwuMphmpu2sJf1Ctom42) | 3:24 |
 | 65 | [ハルキゲニア](https://open.spotify.com/track/7EvQhxwe2M5U5pE287U43u) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [ハルキゲニア](https://open.spotify.com/album/3ATSJVfCR0aRI0ZGAx0JxK) | 4:15 |
-| 66 | [Donut Song](https://open.spotify.com/track/5m5B3uG46zGUc4ed8VPss8) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Donut Song](https://open.spotify.com/album/7KrJUUBFfoE8nanB2K5wRK) | 3:47 |
+| 66 | [Donut Song](https://open.spotify.com/track/5JPN8TqaCEeB2bD9jHfALI) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Donut Song](https://open.spotify.com/album/4bWIkjiyqyVvC7VlcNsxPa) | 3:47 |
 | 67 | [Amateras](https://open.spotify.com/track/3d3stxYuh7C03hbqGP5iSo) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [Amateras](https://open.spotify.com/album/0T5x4ZdEfiDPF2bE66Fzv4) | 4:12 |
 | 68 | [Yell](https://open.spotify.com/track/6jbW0l3nlZ3uh26p8vsC1K) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Yell](https://open.spotify.com/album/60y9C21RHhHnMMdWXunkav) | 3:23 |
 | 69 | [バタフライ](https://open.spotify.com/track/5hTz6biiwx8XYnP4rYNF8i) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [バタフライ](https://open.spotify.com/album/3RWDRZ9L51JXdRYfsTBp0p) | 3:09 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 89 | [太陽](https://open.spotify.com/track/7kzQIvZgFgmLIWnZO1Ug3S) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [太陽](https://open.spotify.com/album/0ju6G6RWdJvkRQqmtHigEV) | 4:26 |
 | 90 | [k.r.k.r.](https://open.spotify.com/track/0A4xGe5noApa54rAewO7Hw) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [k.r.k.r.](https://open.spotify.com/album/3Jgq3kKy3Mc9eGJ8DQi5kY) | 1:55 |
 | 91 | [overtime](https://open.spotify.com/track/3GjWcRCJw1fgdWXek9TVbP) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [overtime](https://open.spotify.com/album/6qoqj6pfCiQFh84BIXb7MG) | 1:53 |
-| 92 | [東京](https://open.spotify.com/track/00V9LA7VW5ff8nATmCuszE) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [東京](https://open.spotify.com/album/17YDZhxb7tl5O8AfSyXvvB) | 4:44 |
+| 92 | [Tokyo](https://open.spotify.com/track/337l2e0J2fR3NJUw2cblGf) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [Tokyo](https://open.spotify.com/album/0MgvMvyDml5kkAdljrsdKd) | 4:44 |
 | 93 | [Fukan Romance](https://open.spotify.com/track/4qUBjqmstuHK8DfdfKpkWk) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [Fukan Romance](https://open.spotify.com/album/4BZryJ7vxw9BkS1lIfwXZy) | 3:30 |
 | 94 | [さよならより遠いどこかへ](https://open.spotify.com/track/6hsG3pTwhHGo0MaA88bgx8) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [ハロー・グッドバイ \- EP](https://open.spotify.com/album/6s2g4Wz0f21TY7FJF4709H) | 3:39 |
 | 95 | [あるサンセット](https://open.spotify.com/track/6cBCrkEBMDigvkiUosyb66) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ハロー！グッドモーニング！](https://open.spotify.com/album/46qMP08f2cjRcfkqRLd5UH) | 4:05 |
 | 96 | [キラー・タンゴ](https://open.spotify.com/track/5eKBFo6EpHdgpCI2MspNI4) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [キラー・タンゴ](https://open.spotify.com/album/14z27wK8CdYkzmUYs30Edf) | 3:39 |
 | 97 | [戦場のマリア](https://open.spotify.com/track/18xXf4CEYFNmkmWJzqvBNr) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [戦場のマリア](https://open.spotify.com/album/1viHBH2Ogwsw9mgWzqLmiL) | 4:11 |
 | 98 | [Ikada no Uta](https://open.spotify.com/track/50IvU2o8mBruTfMeVpaVb7) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [Taiyo Hoko](https://open.spotify.com/album/3kjFKAwm3qgsWIo7bHW0i5) | 4:34 |
-| 99 | [声にならねえな](https://open.spotify.com/track/6BFVYDYBoPypxUs3DT15GI) | [THE BOYS&GIRLS](https://open.spotify.com/artist/11kPSVeZeo3t4Ep9TSKa8T) | [陰も日向も](https://open.spotify.com/album/0Y7IxL19t1AePukHRUXNjM) | 4:38 |
+| 99 | [Koe ni naraneena](https://open.spotify.com/track/1pNphNgoUoCgfkUKncVT4E) | [THE BOYS&GIRLS](https://open.spotify.com/artist/11kPSVeZeo3t4Ep9TSKa8T) | [Kage mo hinata mo](https://open.spotify.com/album/0Ii7bfcD5hLGbntyqCpMxr) | 4:38 |
 | 100 | [キャンドルソング](https://open.spotify.com/track/7ojsb0V4rZhcYuKD1grOPI) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [CANDLE SONGS](https://open.spotify.com/album/3OFqVn00cZJzvHBQcNzJ1O) | 3:40 |
 
-Snapshot ID: `MCw0ZDk4MjJjZTBiMGRhNDM4YWMyYjA3MmRkNzFhODY2MmUxYWI5NjIx`
+Snapshot ID: `MCwzZjUzYWJlMjA1NWY5MmZiNTI4OThlYzFkOGJkZjc0NTk2ZTNlMDIx`

@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 47307,
+  "2024-04-11": 47367,
   "date_first_scraped": "2022-10-01",
   "description": "Revisit the best Kwaito songs ever released. Cover: Bongo Maffin",
   "name": "Kwaito Classics",
@@ -223,10 +223,28 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 347480,
       "name": "Ghets Ghetsa",
       "url": "https://open.spotify.com/track/11Uc9JBy59hJNB99TyC9pJ"
+    },
+    {
+      "album": {
+        "name": "S'kumfete",
+        "url": "https://open.spotify.com/album/0GxgWwGLlul7YXxelBlkWM"
+      },
+      "artists": [
+        {
+          "name": "Doc Shebeleza",
+          "url": "https://open.spotify.com/artist/4FdeMdW9yGUe580u1pK0DB"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347480,
+      "name": "Ghets Ghetsa",
+      "url": "https://open.spotify.com/track/60V8AB9b0yzGeQBpDliW5s"
     },
     {
       "album": {
@@ -619,10 +637,28 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 301853,
       "name": "Kortes (Kasi Luv)",
       "url": "https://open.spotify.com/track/1symqHZD5IP3wJtEIx1cws"
+    },
+    {
+      "album": {
+        "name": "BullDawgz First Lady",
+        "url": "https://open.spotify.com/album/36oAuFI8ArWu6F9qNgXzbl"
+      },
+      "artists": [
+        {
+          "name": "Mshoza",
+          "url": "https://open.spotify.com/artist/455ZtdycIN670IpP0Y3s44"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301853,
+      "name": "Kortes (Kasi Luv)",
+      "url": "https://open.spotify.com/track/6fsfp8i7LQPtLhKUf0OSFr"
     },
     {
       "album": {

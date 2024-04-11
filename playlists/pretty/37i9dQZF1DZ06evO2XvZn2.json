@@ -1,12 +1,12 @@
 {
   "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
-  "num_followers": 14869,
+  "num_followers": 14877,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2FkZWNiNWJlNzlhOTk4OTlkZjAxYjkxMGYxNTJjZTc0ZGFmOGFm",
+  "snapshot_id": "MCxkNmJhMzE4ZjUzMDNiZDM2OWFjNWI4MTBkOGM1OTlmYzIwNGFkNjRj",
   "tracks": [
     {
       "added_at": null,
@@ -739,30 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nadie Como Yo (feat. Riccardo Frascari)",
-        "url": "https://open.spotify.com/album/77wgeN8InWCzZuh7vrHhLn"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Riccardo Frascari",
-          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
-        }
-      ],
-      "duration_ms": 160038,
-      "name": "Nadie Como Yo (feat. Riccardo Frascari)",
-      "url": "https://open.spotify.com/track/2AuwBMf8LAIyxPx8kQp3z8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luna Para Ti (feat. Riccardo Frascari)",
         "url": "https://open.spotify.com/album/5PwTYoP0LgXel5HctvYlsm"
       },
@@ -807,6 +783,30 @@
       "duration_ms": 154120,
       "name": "Eva (feat. Riccardo Frascari)",
       "url": "https://open.spotify.com/track/2z2Zwa8JCOi4CLbJlI9DTf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nadie Como Yo (feat. Riccardo Frascari)",
+        "url": "https://open.spotify.com/album/77wgeN8InWCzZuh7vrHhLn"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Riccardo Frascari",
+          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
+        }
+      ],
+      "duration_ms": 160038,
+      "name": "Nadie Como Yo (feat. Riccardo Frascari)",
+      "url": "https://open.spotify.com/track/2AuwBMf8LAIyxPx8kQp3z8"
     },
     {
       "added_at": null,

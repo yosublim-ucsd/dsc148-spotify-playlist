@@ -1,12 +1,12 @@
 {
   "description": "Corridos aesthetic y rolitas pa' las buchifresas \ud83c\udf53\ud83c\udf51",
-  "num_followers": 66812,
+  "num_followers": 66931,
   "original_name": "Corridos Aesthetic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2UzMWEwNzBhYzc4NGFjYTYyNWJlNzNhZjQ3MWQ5ZTk0ODE3NGJh",
+  "snapshot_id": "MCxhMjFlMjZmNjBiOGIyNjQzZjA4NzMxZjE1ZGQ4Mjk4YWJjOWY3MmUw",
   "tracks": [
     {
       "added_at": "2024-02-20 19:26:32",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-02-20 19:26:32",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 193621,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
-    },
-    {
-      "added_at": "2024-02-20 19:26:32",
-      "album": {
         "name": "3 Doritos Despues (En Vivo)",
         "url": "https://open.spotify.com/album/4PJXpxazXhN6AOC0xUagQF"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 218453,
       "name": "3 Doritos Despues (En Vivo)",
       "url": "https://open.spotify.com/track/07aKw7LfC27IGSb5ppldIQ"
+    },
+    {
+      "added_at": "2024-02-20 19:26:32",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 193621,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
     },
     {
       "added_at": "2024-02-20 19:26:32",
@@ -427,26 +427,6 @@
     {
       "added_at": "2024-02-20 19:26:32",
       "album": {
-        "name": "No Quiero Perderte",
-        "url": "https://open.spotify.com/album/6N1YHlNxKfAyB2llfHDYIH"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 159530,
-      "name": "No Quiero Perderte",
-      "url": "https://open.spotify.com/track/00bc7aBgwI1wD3zEwrcH4h"
-    },
-    {
-      "added_at": "2024-02-20 19:26:32",
-      "album": {
         "name": "Super Poderes",
         "url": "https://open.spotify.com/album/47Kif0U9Uen1422h9tSkAM"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 173305,
       "name": "Super Poderes",
       "url": "https://open.spotify.com/track/5rAOIlEChbdFyrFEEcDqAX"
+    },
+    {
+      "added_at": "2024-02-20 19:26:32",
+      "album": {
+        "name": "No Quiero Perderte",
+        "url": "https://open.spotify.com/album/6N1YHlNxKfAyB2llfHDYIH"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 159530,
+      "name": "No Quiero Perderte",
+      "url": "https://open.spotify.com/track/00bc7aBgwI1wD3zEwrcH4h"
     },
     {
       "added_at": "2024-02-20 19:26:32",
@@ -583,18 +583,18 @@
     {
       "added_at": "2024-02-20 19:26:32",
       "album": {
-        "name": "Pa' Olvidar",
-        "url": "https://open.spotify.com/album/42C8pktaxUVrz8NKQEtTC3"
+        "name": "Todo Porque Te Amo",
+        "url": "https://open.spotify.com/album/6hpCzNbJXGyzW22aPVTQoC"
       },
       "artists": [
         {
-          "name": "Nico Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
         }
       ],
-      "duration_ms": 199210,
-      "name": "Dile al Amor",
-      "url": "https://open.spotify.com/track/6h7dFkekl5awWSe9IGtAfP"
+      "duration_ms": 204500,
+      "name": "Todo Porque Te Amo",
+      "url": "https://open.spotify.com/track/6xEUelbWEG0tntBKr3qjK3"
     },
     {
       "added_at": "2024-02-20 19:26:32",
@@ -615,18 +615,18 @@
     {
       "added_at": "2024-02-20 19:26:32",
       "album": {
-        "name": "Todo Porque Te Amo",
-        "url": "https://open.spotify.com/album/6hpCzNbJXGyzW22aPVTQoC"
+        "name": "Pa' Olvidar",
+        "url": "https://open.spotify.com/album/42C8pktaxUVrz8NKQEtTC3"
       },
       "artists": [
         {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
         }
       ],
-      "duration_ms": 204500,
-      "name": "Todo Porque Te Amo",
-      "url": "https://open.spotify.com/track/6xEUelbWEG0tntBKr3qjK3"
+      "duration_ms": 199210,
+      "name": "Dile al Amor",
+      "url": "https://open.spotify.com/track/6h7dFkekl5awWSe9IGtAfP"
     },
     {
       "added_at": "2024-02-20 19:26:32",
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-02-20 19:26:32",
       "album": {
-        "name": "Gotas de Agua Dulce",
-        "url": "https://open.spotify.com/album/0qIwz78hTB7PjXNYDPXced"
+        "name": "Te Perdonar\u00eda",
+        "url": "https://open.spotify.com/album/07RKZoRaIAU01NpC5LnJXD"
       },
       "artists": [
         {
-          "name": "Predilecto",
-          "url": "https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb"
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
         }
       ],
-      "duration_ms": 175438,
-      "name": "Gotas de Agua Dulce",
-      "url": "https://open.spotify.com/track/1lNwxGWTLo2NOEQcszIWTB"
+      "duration_ms": 163542,
+      "name": "Te Perdonar\u00eda",
+      "url": "https://open.spotify.com/track/59GiiVw3zIjLjxKsw8qYef"
     },
     {
       "added_at": "2024-02-20 19:26:32",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-02-20 19:26:32",
       "album": {
-        "name": "La Playa",
-        "url": "https://open.spotify.com/album/2WPUpSHxzc6TUYM5oxDMPO"
+        "name": "Gotas de Agua Dulce",
+        "url": "https://open.spotify.com/album/0qIwz78hTB7PjXNYDPXced"
       },
       "artists": [
         {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb"
         }
       ],
-      "duration_ms": 226208,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/5EZN4BkMvZxFR5I9tBoE0O"
+      "duration_ms": 175438,
+      "name": "Gotas de Agua Dulce",
+      "url": "https://open.spotify.com/track/1lNwxGWTLo2NOEQcszIWTB"
     },
     {
       "added_at": "2024-02-20 19:26:32",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-02-20 19:26:32",
       "album": {
-        "name": "Te Perdonar\u00eda",
-        "url": "https://open.spotify.com/album/07RKZoRaIAU01NpC5LnJXD"
-      },
-      "artists": [
-        {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
-        }
-      ],
-      "duration_ms": 163542,
-      "name": "Te Perdonar\u00eda",
-      "url": "https://open.spotify.com/track/59GiiVw3zIjLjxKsw8qYef"
-    },
-    {
-      "added_at": "2024-02-20 19:26:32",
-      "album": {
         "name": "Pura Pieza de Mi Gusto",
         "url": "https://open.spotify.com/album/0HcFVoI6GxQV2lHbXgUhZj"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 217276,
       "name": "Un Siglo Sin Ti",
       "url": "https://open.spotify.com/track/5WryQfin9lje7KFyXF3Qs1"
+    },
+    {
+      "added_at": "2024-02-20 19:26:32",
+      "album": {
+        "name": "La Playa",
+        "url": "https://open.spotify.com/album/2WPUpSHxzc6TUYM5oxDMPO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 226208,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/5EZN4BkMvZxFR5I9tBoE0O"
     },
     {
       "added_at": "2024-02-20 19:26:32",

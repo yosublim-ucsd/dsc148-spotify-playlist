@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 ### [Standards de la Chanson Française](https://open.spotify.com/playlist/37i9dQZF1DWTypZHlgEy1G)
 
-> Le patrimoine de la chanson française\. Photo : Jacques Brel
+> Le patrimoine de la chanson française\. Photo : Georges Brassens
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,138 likes - 85 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,152 likes - 85 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 41 | [À bicyclette](https://open.spotify.com/track/5px3ShFMjwhidOFVVc0Z4R) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [La Bicyclette](https://open.spotify.com/album/2DS4hsoeFgvqhzsCJ0tmbj) | 2:42 |
 | 42 | [La chanson de Prévert](https://open.spotify.com/track/0Y04xGwKImCqVSFZQI5All) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [L'étonnant Serge Gainsbourg \(N°3\)](https://open.spotify.com/album/5sMMhisGphUYvtb9jmdydj) | 3:02 |
 | 43 | [La mer \- Remasterisé en 2017](https://open.spotify.com/track/1n29R9nsoyeFbUuvmnmw1y) | [Charles Trenet](https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ) | [1943 \- 1948 \(Remasterisé en 2017\)](https://open.spotify.com/album/2vo9j3dgK07xfGodOH11gZ) | 3:21 |
-| 44 | [Il est cinq heures, Paris s'éveille](https://open.spotify.com/track/1Gw2viJ4XE9hylW4ujtNef) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [En Vogue](https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm) | 2:53 |
-| 45 | [Paroles… paroles…](https://open.spotify.com/track/4upAAK88rtQ3L9vTnk5YKs) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8) | [Paroles… paroles…](https://open.spotify.com/album/6JiuuqFh8JDjSFNKkmoZYr) | 4:05 |
+| 44 | [Paroles… paroles…](https://open.spotify.com/track/4upAAK88rtQ3L9vTnk5YKs) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8) | [Paroles… paroles…](https://open.spotify.com/album/6JiuuqFh8JDjSFNKkmoZYr) | 4:05 |
+| 45 | [Il est cinq heures, Paris s'éveille](https://open.spotify.com/track/1Gw2viJ4XE9hylW4ujtNef) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [En Vogue](https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm) | 2:53 |
 | 46 | [Le tourbillon](https://open.spotify.com/track/1GlwHwQqCxqaHyX4Iz21q1) | [Georges Delerue](https://open.spotify.com/artist/5C2ILE4DWY1vzn1NPxJOag) | [Jules & Jim \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KE2RFb1iOYARWwQ85dgep) | 2:07 |
 | 47 | [Sous le ciel de Paris](https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Yves Montand](https://open.spotify.com/album/41hNqtbMJTaTYCIq6W0571) | 2:56 |
 | 48 | [La chanson d'Hélène](https://open.spotify.com/track/5zcGOXyESkZHfMNsVfGii9) | [Michel Piccoli](https://open.spotify.com/artist/2QsRmnoI00agPNYw1umyEy), [Philippe Sarde](https://open.spotify.com/artist/4bYBV1q22KJiyT0z1pxFLK), [Romy Schneider](https://open.spotify.com/artist/2DbluJLyOOKvRcZFN22lY9) | [Les Choses De La Vie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OabVhWVDlxtZLqp6KMURV) | 2:51 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 51 | [Nathalie](https://open.spotify.com/track/4xyCkwlgvdrULd6kzSIs0I) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [20 chansons d'or](https://open.spotify.com/album/0sLW7R4AIb8Zr0TX8Voe0b) | 4:07 |
 | 52 | [Paris](https://open.spotify.com/track/2ALK3U3XsDzz85bynK1hnt) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 2:42 |
 | 53 | [La ballade des gens heureux](https://open.spotify.com/track/2I69iebe4CftqShXyRoIZh) | [Gérard Lenorman](https://open.spotify.com/artist/5yyYswdvKadmf03amOvBDx) | [Les indispensables](https://open.spotify.com/album/5kDBB1VYkmUQdxVlAAuIUB) | 3:17 |
-| 54 | [Les Aristochats](https://open.spotify.com/track/2SDU9Ls1XkvkbmlUgzyx2x) | [Maurice Chevalier](https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc) | [The Aristocats Original Soundtrack](https://open.spotify.com/album/4xP8YdX6dIi649dxAH2PXO) | 2:20 |
-| 55 | [Il venait d'avoir 18 ans](https://open.spotify.com/track/4u1OoyLiL8ufdJOLwZE3XS) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Paroles… paroles…](https://open.spotify.com/album/6JiuuqFh8JDjSFNKkmoZYr) | 2:56 |
+| 54 | [Il venait d'avoir 18 ans](https://open.spotify.com/track/4u1OoyLiL8ufdJOLwZE3XS) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Paroles… paroles…](https://open.spotify.com/album/6JiuuqFh8JDjSFNKkmoZYr) | 2:56 |
+| 55 | [Les Aristochats](https://open.spotify.com/track/2SDU9Ls1XkvkbmlUgzyx2x) | [Maurice Chevalier](https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc) | [The Aristocats Original Soundtrack](https://open.spotify.com/album/4xP8YdX6dIi649dxAH2PXO) | 2:20 |
 | 56 | [Tout L'Amour](https://open.spotify.com/track/3IpN4w5HAStXjJ1PNihtlc) | [Dario Moreno](https://open.spotify.com/artist/39rtUmVAGX9W1e2aXE9YkF) | [Si Tu Vas A Rio](https://open.spotify.com/album/3fuvWRKCCJ5GM9C4DAaQAe) | 1:56 |
 | 57 | [Salade de fruits](https://open.spotify.com/track/4yvuxFp9SAPviEb7J9dtAc) | [Andre Bourvil](https://open.spotify.com/artist/5ruLBvB3VLj0yLVxwitU0M) | [Du Rire Aux Larmes](https://open.spotify.com/album/1kuaDf4qlg3J0t2Zi061Lk) | 3:15 |
 | 58 | [Tu verras](https://open.spotify.com/track/5jsCb9iTwwY7VVD73PGezb) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [Jazz Et Java](https://open.spotify.com/album/0Becl0XzJp8Z1zunK1vdrn) | 3:16 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 69 | [Aimer à perdre la raison](https://open.spotify.com/track/5okI57GiUG0innS360o2bH) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [Ferrat Chante Aragon: L'intégrale](https://open.spotify.com/album/1zRWFeLiYxPW48gefbBpV5) | 2:23 |
 | 70 | [Mon amant de Saint\-Jean](https://open.spotify.com/track/1WvtVTM9dEtinNSbRtRTED) | [Lucienne Delyle](https://open.spotify.com/artist/3EgEPntANThgR5WDgznAmM) | [Mon amant de St Jean](https://open.spotify.com/album/0AHaLXmXUR6OYAjbWMndUB) | 3:09 |
 | 71 | [Chanson pour l'auvergnat](https://open.spotify.com/track/03i4HQaxKuef4sNUTB3txK) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Les Copains D'Abord](https://open.spotify.com/album/4lQ45mAu5gYotfGJrgDuJn) | 3:02 |
-| 72 | [Parlez\-moi d'amour](https://open.spotify.com/track/3iznKcLLjWek1s329iuTxh) | [Lucienne Boyer](https://open.spotify.com/artist/5KIyBfTJdvEzz2OxfVvsE6) | [Parlez\-moi d'amour](https://open.spotify.com/album/7w5tAsVVbOdWgIEhKkSNzG) | 3:00 |
-| 73 | [Avec le temps](https://open.spotify.com/track/4cncK4CmE3lW8DMCsj2494) | [Léo Ferré](https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo) | [Léo Ferré](https://open.spotify.com/album/6mQiZriU3LU6CKuQAryJvp) | 4:24 |
+| 72 | [Avec le temps](https://open.spotify.com/track/4cncK4CmE3lW8DMCsj2494) | [Léo Ferré](https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo) | [Léo Ferré](https://open.spotify.com/album/6mQiZriU3LU6CKuQAryJvp) | 4:24 |
+| 73 | [Parlez\-moi d'amour](https://open.spotify.com/track/3iznKcLLjWek1s329iuTxh) | [Lucienne Boyer](https://open.spotify.com/artist/5KIyBfTJdvEzz2OxfVvsE6) | [Parlez\-moi d'amour](https://open.spotify.com/album/7w5tAsVVbOdWgIEhKkSNzG) | 3:00 |
 | 74 | [Les rupins](https://open.spotify.com/track/4hOj5cF3vQ6lNOKkOLQdef) | [Catherine Sauvage](https://open.spotify.com/artist/4NjkPdOPwWlQBF59ff6YoV) | [Heritage \- Jolie Môme \- Philips \(1961\)](https://open.spotify.com/album/3cmSgfLLDmlPguaIk8L4A9) | 2:46 |
 | 75 | [J'ai Deux Amours](https://open.spotify.com/track/52NUhRcTRhpRj4NCkLd6Ys) | [Joséphine Baker](https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz) | [J'ai Deux Amours](https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A) | 3:11 |
 | 76 | [Les feuilles mortes](https://open.spotify.com/track/30bqPdEUBZhn44u10awaup) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Yves Montand \- Les feuilles mortes](https://open.spotify.com/album/0te0uNKFId8mR70yBOgEVE) | 3:23 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 84 | [Les amoureux des bancs publics](https://open.spotify.com/track/3sySoSz1tI6IDt7qDkecnQ) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Les Copains D'Abord](https://open.spotify.com/album/4lQ45mAu5gYotfGJrgDuJn) | 3:00 |
 | 85 | [Les roses blanches](https://open.spotify.com/track/7ydTfhNqTm76kd23L0RJrQ) | [Berthe Sylva](https://open.spotify.com/artist/0vR8oYjqxHpaUbZucd95a0) | [Chante](https://open.spotify.com/album/1g18yXxYwQ1N660N5HFJpt) | 3:26 |
 
-Snapshot ID: `MCwxNjViZWIxMTBjOTc1MDBkOTZhMzc1Y2Y3OWNiZmEzMzFmMjRlMTVl`
+Snapshot ID: `MCw1NTc3NWFhOTM0YjQ5YWQzYjRjZjYxOTQyNTY2ZmY0NWE3NjQ0MGVk`

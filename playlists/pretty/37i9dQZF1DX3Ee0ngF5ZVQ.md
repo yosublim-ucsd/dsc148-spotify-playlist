@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Josh Abbott Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,260 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,253 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,19 +49,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 39 | [Hurt No More](https://open.spotify.com/track/4vdMdvjrwdm3CR5oobcBIS) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Pecos & the Rooftops](https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH) | 3:34 |
 | 40 | [Texas Hold 'Em](https://open.spotify.com/track/5e0h38dIcXdVLoLXKxFRYb) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Texas Hold 'Em](https://open.spotify.com/album/1V0WoAMcL38iGQYyDfgxzL) | 3:02 |
 | 41 | [Astronaut](https://open.spotify.com/track/2q3Qtn6pVjR3MkKW0LZAl8) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Somewhere Down The Road](https://open.spotify.com/album/59QCDtvrb7ndBKYKyFJ12q) | 3:41 |
-| 42 | [Work Boots](https://open.spotify.com/track/1exnSf5fH7OBKDvxduf0LT) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Work Boots and More from Leather](https://open.spotify.com/album/5RO9lbgYJlJxBdtdz4unA0) | 2:49 |
-| 43 | [Stay](https://open.spotify.com/track/37s7g1BDBh9n8dSF2iWBNd) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Stay](https://open.spotify.com/album/4j8zbgOMEK1MdNCMfZFBhg) | 3:24 |
+| 42 | [Stay](https://open.spotify.com/track/37s7g1BDBh9n8dSF2iWBNd) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Stay](https://open.spotify.com/album/4j8zbgOMEK1MdNCMfZFBhg) | 3:24 |
+| 43 | [Work Boots](https://open.spotify.com/track/1exnSf5fH7OBKDvxduf0LT) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Work Boots and More from Leather](https://open.spotify.com/album/5RO9lbgYJlJxBdtdz4unA0) | 2:49 |
 | 44 | [Mean Old Sun](https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Mean Old Sun](https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk) | 4:08 |
 | 45 | [Hang of Hangin’ On](https://open.spotify.com/track/2viDvDsv8BksWQdL5JKYAT) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Hang of Hangin’ On](https://open.spotify.com/album/2v4JTwSalSwSUxMwAajHoD) | 3:16 |
 | 46 | [Hello Highway](https://open.spotify.com/track/4VZtc1T7NzTsFQfdnJZK7p) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Corazón y Cabeza](https://open.spotify.com/album/6yZOlNv2YKskr93XnhtY0a) | 3:42 |
 | 47 | [Running out of Time](https://open.spotify.com/track/66Xb15mkqTgCu06aGUmgOu) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib), [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX), [Randy Rogers](https://open.spotify.com/artist/2DwAtAKSDY87F2pu50Csrk), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Running out of Time](https://open.spotify.com/album/43tiHHwZStRZcQJmm6ohVf) | 3:37 |
-| 48 | [Honky Tonk Halo](https://open.spotify.com/track/1QnjAMD4pKP8vHmsgFMLW4) | [Mikayla Lane](https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl) | [Honky Tonk Halo](https://open.spotify.com/album/5Vg9rREsvZv7Hi8X5JxMhQ) | 3:57 |
-| 49 | [The Road](https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Turning Point](https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21) | 2:33 |
+| 48 | [The Road](https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Turning Point](https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21) | 2:33 |
+| 49 | [Breaking News](https://open.spotify.com/track/7d9gF9B10bhRGsYOSlWhXX) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County To The Moon](https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr) | 3:40 |
 | 50 | [If Texas Had a Heart](https://open.spotify.com/track/7dpjo7JoXTMJJzXjBS45Oh) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/4fo3Nvdjbwjz4Qc9dfMemp) | 3:31 |
 | 51 | [Like She Does](https://open.spotify.com/track/7vLzS4QoDV2wP9zfvdhVgd) | [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Your Love](https://open.spotify.com/album/7gei0BhwKRgS4MhsO4RqLh) | 3:48 |
-| 52 | [Breaking News](https://open.spotify.com/track/7d9gF9B10bhRGsYOSlWhXX) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County To The Moon](https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr) | 3:40 |
+| 52 | [Tomorrow's Out Of Sight](https://open.spotify.com/track/37CikqHaMorBEZg3hRx9P8) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Tomorrow's Out Of Sight](https://open.spotify.com/album/2fnlrAlHt9poTfrMSsUSCt) | 3:34 |
 | 53 | [Why Do Good People Die](https://open.spotify.com/track/49Pmd0h8IYfu0YferhZQtb) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Midland](https://open.spotify.com/album/1WqO0gfSatzacLlvivWTih) | 3:57 |
-| 54 | [Tomorrow's Out Of Sight](https://open.spotify.com/track/37CikqHaMorBEZg3hRx9P8) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Tomorrow's Out Of Sight](https://open.spotify.com/album/2fnlrAlHt9poTfrMSsUSCt) | 3:34 |
+| 54 | [Honky Tonk Halo](https://open.spotify.com/track/1QnjAMD4pKP8vHmsgFMLW4) | [Mikayla Lane](https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl) | [Honky Tonk Halo](https://open.spotify.com/album/5Vg9rREsvZv7Hi8X5JxMhQ) | 3:57 |
 | 55 | [A Few Years Back](https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [A Few Years Back](https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4) | 3:40 |
 | 56 | [Coulda Been Love](https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Coulda Been Love](https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6) | 2:52 |
 | 57 | [Oklahoma](https://open.spotify.com/track/6whzN4pEb9ArYN4z9FqijU) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Oklahoma](https://open.spotify.com/album/4UjSoAyBIRZu3cGSEA6MXM) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 99 | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep) | 2:54 |
 | 100 | [Till You](https://open.spotify.com/track/2XSZ4cEzB2lUY8i2rUWKN6) | [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Till You](https://open.spotify.com/album/29VsW5EVau6fNhYop1nIWR) | 3:26 |
 
-Snapshot ID: `MCw2Yzc1ZDg2OWU3MjIwZmU3ZjYwYjJhNjBiNjIwYzg0MjMyM2I4ZTdj`
+Snapshot ID: `MCwzZjdmZGFkNmRlMjAwNmE0ZGVlODdjZDU1YjFlODczY2M1NTUwMTQy`

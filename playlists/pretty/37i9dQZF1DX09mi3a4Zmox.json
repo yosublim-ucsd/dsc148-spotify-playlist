@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para enamorarse.",
-  "num_followers": 4042352,
+  "num_followers": 4042657,
   "original_name": "Baladas Rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWEyN2E2ZDBjM2Y0YmUzMTg2NmMxNzM1MWEyZTQxZGM4ZjRiYzQ3",
+  "snapshot_id": "MCxmYTc5MWY0YjFiNTI0ZWJmNzlmZTU1NWNjYjI3NTJlNDRhM2FkMTVj",
   "tracks": [
     {
       "added_at": "2024-04-05 04:01:00",
@@ -175,18 +175,18 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
+        "name": "Amor Supremo (Desnudo)",
+        "url": "https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 239426,
-      "name": "Abr\u00e1zame Muy Fuerte",
-      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
+      "duration_ms": 242446,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -255,18 +255,18 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Amor Supremo (Desnudo)",
-        "url": "https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz"
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
       },
       "artists": [
         {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 242446,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa"
+      "duration_ms": 239426,
+      "name": "Abr\u00e1zame Muy Fuerte",
+      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -655,6 +655,26 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "La Correcta",
+        "url": "https://open.spotify.com/album/0lVFRNJhdAgvHzkGkdX2CD"
+      },
+      "artists": [
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 219198,
+      "name": "La Correcta",
+      "url": "https://open.spotify.com/track/1ISamB2lPDAeKb4Js2hLgq"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "MTV Unplugged (En Vivo)",
         "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 305120,
       "name": "Prometiste (En Vivo)",
       "url": "https://open.spotify.com/track/1VHkHdFww8aXRTqj4VVSwC"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "La Correcta",
-        "url": "https://open.spotify.com/album/0lVFRNJhdAgvHzkGkdX2CD"
-      },
-      "artists": [
-        {
-          "name": "Nab\u00e1lez",
-          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 219198,
-      "name": "La Correcta",
-      "url": "https://open.spotify.com/track/1ISamB2lPDAeKb4Js2hLgq"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -755,6 +755,26 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Aire (Versi\u00f3n D\u00eda)",
+        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "Tanto",
+      "url": "https://open.spotify.com/track/0ZqhB08GsFc4xfV07AsXzE"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 211946,
       "name": "\u00bfC\u00f3mo Pagarte?",
       "url": "https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Aire (Versi\u00f3n D\u00eda)",
-        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        },
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Tanto",
-      "url": "https://open.spotify.com/track/0ZqhB08GsFc4xfV07AsXzE"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "No Hay Imposibles",
+        "url": "https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 263666,
+      "name": "Me Enamor\u00e9 de Ti",
+      "url": "https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Por Amor A Mi Pueblo",
         "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 299626,
       "name": "Ser\u00e1 Mejor Que Te Vayas",
       "url": "https://open.spotify.com/track/6rtHT1rKFnDZL4EksdLY0t"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "No Hay Imposibles",
-        "url": "https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 263666,
-      "name": "Me Enamor\u00e9 de Ti",
-      "url": "https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Negroklaro",
+        "url": "https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM"
+      },
+      "artists": [
+        {
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        }
+      ],
+      "duration_ms": 221293,
+      "name": "S\u00f3lo D\u00e9jate Amar",
+      "url": "https://open.spotify.com/track/7mUFcQWYwoRxRa5ZfI2mHG"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
         "url": "https://open.spotify.com/album/3QbrSkxFkJ89HGE0i7GyfA"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 227973,
       "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
       "url": "https://open.spotify.com/track/73lcrkJKuPLoMWF0UnecCb"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Negroklaro",
-        "url": "https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM"
-      },
-      "artists": [
-        {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
-        }
-      ],
-      "duration_ms": 221293,
-      "name": "S\u00f3lo D\u00e9jate Amar",
-      "url": "https://open.spotify.com/track/7mUFcQWYwoRxRa5ZfI2mHG"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Mis Canciones De La Web",
+        "url": "https://open.spotify.com/album/5Cpv2FIiZHAGFrYHtVTDNP"
+      },
+      "artists": [
+        {
+          "name": "Griss Romero",
+          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
+        }
+      ],
+      "duration_ms": 195946,
+      "name": "Cuando Tu Me Besas",
+      "url": "https://open.spotify.com/track/626F53aUbrz0lMzYZOJ3RT"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Agust\u00edn",
         "url": "https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW"
       },
@@ -1487,22 +1503,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Mis Canciones De La Web",
-        "url": "https://open.spotify.com/album/5Cpv2FIiZHAGFrYHtVTDNP"
-      },
-      "artists": [
-        {
-          "name": "Griss Romero",
-          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
-        }
-      ],
-      "duration_ms": 195946,
-      "name": "Cuando Tu Me Besas",
-      "url": "https://open.spotify.com/track/626F53aUbrz0lMzYZOJ3RT"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Contigo Siempre",
         "url": "https://open.spotify.com/album/1DuXr4GCQLue0kTKvI6Txa"
       },
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Gracias por Nada",
-        "url": "https://open.spotify.com/album/7GceIonKv0MVw9HUcHw6ra"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 123658,
-      "name": "Gracias por Nada",
-      "url": "https://open.spotify.com/track/1cNKHvYhFbaRfvcRuKLTeI"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "M\u00e1tame",
         "url": "https://open.spotify.com/album/7M8QOj2t3BIVeODclyoPRq"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 155710,
       "name": "M\u00e1tame",
       "url": "https://open.spotify.com/track/6VA26TYfNOZmzXxoxoe1Qr"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Gracias por Nada",
+        "url": "https://open.spotify.com/album/7GceIonKv0MVw9HUcHw6ra"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 123658,
+      "name": "Gracias por Nada",
+      "url": "https://open.spotify.com/track/1cNKHvYhFbaRfvcRuKLTeI"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Des/Amor",
-        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 212946,
-      "name": "Un Amor de Verdad",
-      "url": "https://open.spotify.com/track/4Z3wNhlam0BHHnK1lZmPRU"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Mil Ciudades",
         "url": "https://open.spotify.com/album/1SXUz690tncddHzbcj4wPT"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 225266,
       "name": "Por el Resto de Mi Vida",
       "url": "https://open.spotify.com/track/0gjhhuqKxswtR1KzYSpSfd"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Des/Amor",
+        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 212946,
+      "name": "Un Amor de Verdad",
+      "url": "https://open.spotify.com/track/4Z3wNhlam0BHHnK1lZmPRU"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1747,18 +1747,18 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Romances",
-        "url": "https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo"
+        "name": "Extra\u00f1os",
+        "url": "https://open.spotify.com/album/3VgQqkogbq1J5tNxz0Cbbj"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
         }
       ],
-      "duration_ms": 184080,
-      "name": "Por Debajo De La Mesa",
-      "url": "https://open.spotify.com/track/1livAifXh1DMv25kTfFFHR"
+      "duration_ms": 225428,
+      "name": "As\u00ed Te Ped\u00ed",
+      "url": "https://open.spotify.com/track/79Le7RyHdaPC1eEZBpFm4x"
     }
   ],
   "unique_name": "Baladas Rom\u00e1nticas",

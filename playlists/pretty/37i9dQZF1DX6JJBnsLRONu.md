@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,707 likes - 68 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,710 likes - 68 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Last Rockabilly](https://open.spotify.com/track/0N7xhtiFCCcVvWj6wLX80h) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [The Last Rockabilly](https://open.spotify.com/album/3fRaDR9AaKWjJZHcYKQc22) | 4:22 |
+| 1 | [The Last Rockabilly](https://open.spotify.com/track/6LbVv2ZlpOtda9FFzJHZpM) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Long Cool World](https://open.spotify.com/album/5y7H3tDoGqmw1w88QKGV8o) | 4:22 |
 | 2 | [Juvenescence](https://open.spotify.com/track/5KrUt55R9EGl9ZMl8BL8kV) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/65a7yUVNDttPR2ioJOgyok) | 3:50 |
 | 3 | [At the Edge of the World](https://open.spotify.com/track/1HNy9IZDRBBWOc2HYUSIJw) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW), [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [At the Edge of the World](https://open.spotify.com/album/3pPEotWlGwWvmZfiMJvn8R) | 6:16 |
 | 4 | [Summer's Fingers Sweetly Linger \(Everywhere On Every Side\)](https://open.spotify.com/track/5rvb9OHjEQRTSsUqWqlSTr) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [When The Roses Come Again](https://open.spotify.com/album/3nOeQI6IpCQ8yAhCP8sIkt) | 4:21 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 | 67 | [Afar](https://open.spotify.com/track/7ix5BtN2K7vsTpFWDqN8Bk) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 2:34 |
 | 68 | [Paris, Texas](https://open.spotify.com/track/1idiifjTcCoGfBeZiYOdim) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Music by Ry Cooder](https://open.spotify.com/album/0gLaTb6BP8pySUWwkiZjdD) | 2:54 |
 
-Snapshot ID: `MCw3MjNkZjQ4NzlmNWI4OGI1NDIxZTBiMDIyM2RjNmZhZDZjZTUxODAx`
+Snapshot ID: `MCw4ZTI1MTdiOGViMDc1YmRhZjI5NjBkODhmNDMyMDJkODEwOWZlMTZi`

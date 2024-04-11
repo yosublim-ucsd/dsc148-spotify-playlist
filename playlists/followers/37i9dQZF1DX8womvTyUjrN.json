@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 284515,
+  "2024-04-11": 284534,
   "date_first_scraped": "2022-03-22",
   "description": "Fresh Latin pop on the rise. Cover: Nsqk",
   "name": "el nuevo pop",
@@ -2453,6 +2453,24 @@
       "duration_ms": 192786,
       "name": "CONTIGO (with Ti\u00ebsto)",
       "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
+    },
+    {
+      "album": {
+        "name": "Contrav\u00eda",
+        "url": "https://open.spotify.com/album/21IAal1ql6WvdscCoi3cmx"
+      },
+      "artists": [
+        {
+          "name": "Alessandra Aguirre",
+          "url": "https://open.spotify.com/artist/0m4SQNU6NyIJxjsSQRGfpB"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180720,
+      "name": "Contrav\u00eda",
+      "url": "https://open.spotify.com/track/0RF0vTHsseW7qa0hO4Nlac"
     },
     {
       "album": {

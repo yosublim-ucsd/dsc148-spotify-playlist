@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s.",
-  "num_followers": 714561,
+  "num_followers": 714751,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWVlYmNhMDU5ZTE3NmJjYjFiZTUzYmY0MWZiYjExMWE1M2RkNGQ3",
+  "snapshot_id": "MCw4ZTYzODU4MjVlZGMwNDA3ZWUyMDBmMmM2NzYzNjE0NmJlNjJhZjA5",
   "tracks": [
     {
       "added_at": "2023-10-19 19:33:14",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
+        "name": "El Arrollador",
+        "url": "https://open.spotify.com/album/2JWLAvJiDRdUJfrr2Xhfju"
+      },
+      "artists": [
+        {
+          "name": "Pochy Y Su Cocoband",
+          "url": "https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu"
+        }
+      ],
+      "duration_ms": 294440,
+      "name": "Salsa Con Coco",
+      "url": "https://open.spotify.com/track/3Xy4svERcnUuFcOaBI0539"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
         "name": "Desde Un Principio / From The Beginning",
         "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 366200,
       "name": "Vivir Lo Nuestro",
       "url": "https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
-        "name": "El Arrollador",
-        "url": "https://open.spotify.com/album/2JWLAvJiDRdUJfrr2Xhfju"
-      },
-      "artists": [
-        {
-          "name": "Pochy Y Su Cocoband",
-          "url": "https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu"
-        }
-      ],
-      "duration_ms": 294440,
-      "name": "Salsa Con Coco",
-      "url": "https://open.spotify.com/track/3Xy4svERcnUuFcOaBI0539"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "El Sonero Quel El Pueblo Prefiere",
-        "url": "https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G"
+        "name": "Cuando Parar\u00e1 La Lluvia",
+        "url": "https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ"
       },
       "artists": [
         {
-          "name": "Raulin Rosendo",
-          "url": "https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF"
+          "name": "Johnny Rivera",
+          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
         }
       ],
-      "duration_ms": 300106,
-      "name": "Lady Laura",
-      "url": "https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR"
+      "duration_ms": 280266,
+      "name": "Por Eso Est\u00e1 Conmigo",
+      "url": "https://open.spotify.com/track/2gB1aIidmaeWBapZuqr4xg"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Cuando Parar\u00e1 La Lluvia",
-        "url": "https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ"
+        "name": "El Sonero Quel El Pueblo Prefiere",
+        "url": "https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G"
       },
       "artists": [
         {
-          "name": "Johnny Rivera",
-          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
+          "name": "Raulin Rosendo",
+          "url": "https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF"
         }
       ],
-      "duration_ms": 280266,
-      "name": "Por Eso Est\u00e1 Conmigo",
-      "url": "https://open.spotify.com/track/2gB1aIidmaeWBapZuqr4xg"
+      "duration_ms": 300106,
+      "name": "Lady Laura",
+      "url": "https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Fabricando Fantas\u00edas",
-        "url": "https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 204306,
-      "name": "Ya No Queda Nada - Salsa Version",
-      "url": "https://open.spotify.com/track/2Jcr5m0dP68G1Zlrp7iKp3"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
         "name": "Cuando Parar\u00e1 La Lluvia",
         "url": "https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 302733,
       "name": "Voy A Conquistar Tu Amor",
       "url": "https://open.spotify.com/track/1RbjmUfYA4rH0OXpS1JvYx"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "Fabricando Fantas\u00edas",
+        "url": "https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 204306,
+      "name": "Ya No Queda Nada - Salsa Version",
+      "url": "https://open.spotify.com/track/2Jcr5m0dP68G1Zlrp7iKp3"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Sensual",
-        "url": "https://open.spotify.com/album/6UN6viB3vjqwZM1rMZGS1A"
-      },
-      "artists": [
-        {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
-        }
-      ],
-      "duration_ms": 277706,
-      "name": "Me Mata La Soledad",
-      "url": "https://open.spotify.com/track/3EKsRQDRXgXHmNxQZ76MFc"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
         "name": "Nacimiento Y Recuerdos",
         "url": "https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 307200,
       "name": "Mirandote",
       "url": "https://open.spotify.com/track/3JbPsz4vSiFDJ64PLODktv"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "Sensual",
+        "url": "https://open.spotify.com/album/6UN6viB3vjqwZM1rMZGS1A"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "duration_ms": 277706,
+      "name": "Me Mata La Soledad",
+      "url": "https://open.spotify.com/track/3EKsRQDRXgXHmNxQZ76MFc"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Muy Agradecido",
-        "url": "https://open.spotify.com/album/2kn0CaGJauvm8apjq6a08i"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 273746,
-      "name": "La Salsa Vive",
-      "url": "https://open.spotify.com/track/2CwVYhTdEkCWF1qNkkAa3M"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
         "name": "14 \u00c9xitos Duros Como Guayacan",
         "url": "https://open.spotify.com/album/36uyTCJM4iwiMY9OJ0kFI9"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 315026,
       "name": "Invierno En Primavera",
       "url": "https://open.spotify.com/track/1Ta3rORfRZyTPcqCHsZXGF"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "Muy Agradecido",
+        "url": "https://open.spotify.com/album/2kn0CaGJauvm8apjq6a08i"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 273746,
+      "name": "La Salsa Vive",
+      "url": "https://open.spotify.com/track/2CwVYhTdEkCWF1qNkkAa3M"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Super Exitos",
-        "url": "https://open.spotify.com/album/4ny39fXV8NndHMSBu1V0bT"
+        "name": "Sus Exitos",
+        "url": "https://open.spotify.com/album/34dZAoWWPEVQVbJBtZil6E"
       },
       "artists": [
         {
-          "name": "Luisito Ayala Y La Puerto Rican Power",
-          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
+          "name": "Orlando Collado",
+          "url": "https://open.spotify.com/artist/1d8qTTb4e1ZR1EuKzlhIeh"
         }
       ],
-      "duration_ms": 250773,
-      "name": "No Puedo Prescindir De Ti",
-      "url": "https://open.spotify.com/track/7LDZh6bVrES7Z9RuD4HMTC"
+      "duration_ms": 304280,
+      "name": "Llorando",
+      "url": "https://open.spotify.com/track/3xt4LD7CTYxTA5kJSnGeI4"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Sus Exitos",
-        "url": "https://open.spotify.com/album/34dZAoWWPEVQVbJBtZil6E"
+        "name": "Super Exitos",
+        "url": "https://open.spotify.com/album/4ny39fXV8NndHMSBu1V0bT"
       },
       "artists": [
         {
-          "name": "Orlando Collado",
-          "url": "https://open.spotify.com/artist/1d8qTTb4e1ZR1EuKzlhIeh"
+          "name": "Luisito Ayala Y La Puerto Rican Power",
+          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
         }
       ],
-      "duration_ms": 304280,
-      "name": "Llorando",
-      "url": "https://open.spotify.com/track/3xt4LD7CTYxTA5kJSnGeI4"
+      "duration_ms": 250773,
+      "name": "No Puedo Prescindir De Ti",
+      "url": "https://open.spotify.com/track/7LDZh6bVrES7Z9RuD4HMTC"
     },
     {
       "added_at": "2023-10-19 19:33:14",

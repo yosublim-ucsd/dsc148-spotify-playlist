@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,807 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,861 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,20 +33,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 23 | [Good Bye Boogie Dance](https://open.spotify.com/track/5LZja1KAke25BqjsidAcsq) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Bi・Ki・Ni](https://open.spotify.com/album/2ygK2uxtgO5sTZFs3ye1GT) | 4:32 |
 | 24 | [OH NO,OH YES!](https://open.spotify.com/track/7hT9QzdqxxoWB0JtCGuCnD) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [REQUEST \(30th Anniversary Edition\)](https://open.spotify.com/album/4IjRikscB01fLT0BtKT5g5) | 5:18 |
 | 25 | [Mystical Composer](https://open.spotify.com/track/70aHCdlGCMaUmoFRyrA8gO) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [ADVENTURE](https://open.spotify.com/album/7bUJ1pvnhxdbFA7DyY0DJf) | 5:08 |
-| 26 | [First Light \- 2018 Remaster](https://open.spotify.com/track/5Dra6dW1mc7BOh833TDowz) | [Makoto Matsushita](https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG) | [FIRST LIGHT \(2018 Remaster\)](https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT) | 4:33 |
-| 27 | [FUTARI NO NATSU MONOGATARI NEVER ENDING SUMMER](https://open.spotify.com/track/2pzmWqLgCSQDYzGZs0jGsN) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [ANOTHER SUMMER](https://open.spotify.com/album/7ztCPdPiNeNGTlpsnX9mYQ) | 4:01 |
+| 26 | [FUTARI NO NATSU MONOGATARI NEVER ENDING SUMMER](https://open.spotify.com/track/2pzmWqLgCSQDYzGZs0jGsN) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [ANOTHER SUMMER](https://open.spotify.com/album/7ztCPdPiNeNGTlpsnX9mYQ) | 4:01 |
+| 27 | [First Light \- 2018 Remaster](https://open.spotify.com/track/5Dra6dW1mc7BOh833TDowz) | [Makoto Matsushita](https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG) | [FIRST LIGHT \(2018 Remaster\)](https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT) | 4:33 |
 | 28 | [Bewitched \(Are You Leaving Soon\)](https://open.spotify.com/track/2GWrllGqXji3zboRZZItyy) | [Naomi Akimoto](https://open.spotify.com/artist/4tVWj4YQ5kteJu56XOphEl) | [The 20th Anniversary](https://open.spotify.com/album/1WfGuS4y9cMowFLTCMplPd) | 4:44 |
 | 29 | [MIDNIGHT DRIVER](https://open.spotify.com/track/2wKsVeNrzorCLCix24ljAU) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [MONOCHROME](https://open.spotify.com/album/3jaNik4jYyepujb5xplAYo) | 7:44 |
 | 30 | [君は天然色](https://open.spotify.com/track/0LyR8MZT3A2tp58dgHeNhB) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 5:06 |
 | 31 | [SAY GOODBYE](https://open.spotify.com/track/439YMLXTadwJM1AunVQf1V) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [Awakening](https://open.spotify.com/album/0bBj6hYg0NLPJtiQlKXNRd) | 3:26 |
-| 32 | [DOWN TOWN](https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH) | [EPO](https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv) | [DOWN TOWN](https://open.spotify.com/album/1N1eSro0gsmLBiQgVS7QBc) | 4:14 |
-| 33 | [Silly Crush](https://open.spotify.com/track/44MAe7e2MbOPLnP3XWC8ie) | [Masaki Matsubara](https://open.spotify.com/artist/5pDFSAj0BZHUN8Uw2C5VhA) | [Painted Woman](https://open.spotify.com/album/0mZOYr5JOK30XDTzaYSQFw) | 4:11 |
+| 32 | [Silly Crush](https://open.spotify.com/track/44MAe7e2MbOPLnP3XWC8ie) | [Masaki Matsubara](https://open.spotify.com/artist/5pDFSAj0BZHUN8Uw2C5VhA) | [Painted Woman](https://open.spotify.com/album/0mZOYr5JOK30XDTzaYSQFw) | 4:11 |
+| 33 | [DOWN TOWN](https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH) | [EPO](https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv) | [DOWN TOWN](https://open.spotify.com/album/1N1eSro0gsmLBiQgVS7QBc) | 4:14 |
 | 34 | [雨](https://open.spotify.com/track/697jY7OLi15Iv3YUMrrULD) | [Kei Ishiguro](https://open.spotify.com/artist/3wiCwqhbzyXzW8GI7WfZSM) | [Yokohama Ragtime](https://open.spotify.com/album/7qjft00dDfIB21CxjCGjiJ) | 3:28 |
-| 35 | [September Rain \- 2018 Remaster](https://open.spotify.com/track/25z4QmWYR2stp1xbVcG51J) | [Makoto Matsushita](https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG) | [FIRST LIGHT \(2018 Remaster\)](https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT) | 4:29 |
-| 36 | [Older Girl](https://open.spotify.com/track/3lmsq8LdfOOA6UlE3hFDPC) | [1986 OMEGA TRIBE](https://open.spotify.com/artist/0ECegKslGWO6zz3XzTyIwQ) | [Navigator](https://open.spotify.com/album/7G9VfKv9e1OmEQF0BByRK3) | 4:15 |
+| 35 | [Older Girl](https://open.spotify.com/track/3lmsq8LdfOOA6UlE3hFDPC) | [1986 OMEGA TRIBE](https://open.spotify.com/artist/0ECegKslGWO6zz3XzTyIwQ) | [Navigator](https://open.spotify.com/album/7G9VfKv9e1OmEQF0BByRK3) | 4:15 |
+| 36 | [September Rain \- 2018 Remaster](https://open.spotify.com/track/25z4QmWYR2stp1xbVcG51J) | [Makoto Matsushita](https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG) | [FIRST LIGHT \(2018 Remaster\)](https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT) | 4:29 |
 | 37 | [It's so Creamy](https://open.spotify.com/track/5wxTRe4L7bdHyrF3Nm11lO) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Miki Matsubara Best Collection](https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5) | 3:43 |
-| 38 | [カナリア諸島にて](https://open.spotify.com/track/38XNkVwthnLAUH2RmoKCz3) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 4:01 |
-| 39 | [DEAR BREEZE](https://open.spotify.com/track/302ODkHI9JcO8e5dCuinrp) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [ANOTHER SUMMER](https://open.spotify.com/album/7ztCPdPiNeNGTlpsnX9mYQ) | 4:00 |
+| 38 | [DEAR BREEZE](https://open.spotify.com/track/302ODkHI9JcO8e5dCuinrp) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [ANOTHER SUMMER](https://open.spotify.com/album/7ztCPdPiNeNGTlpsnX9mYQ) | 4:00 |
+| 39 | [カナリア諸島にて](https://open.spotify.com/track/38XNkVwthnLAUH2RmoKCz3) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 4:01 |
 | 40 | [GATSBY WOMAN](https://open.spotify.com/track/4O02HMxIxGLptYi4ngd0es) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [BEST COLLECTION 〜MOON YEARS〜](https://open.spotify.com/album/4KiV0b6zN4dDIXYBsvYVcw) | 4:26 |
 | 41 | [Slow Nights](https://open.spotify.com/track/4TQVYbMBXqzBlKrVeW1Nsd) | [Tomoko Aran](https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp) | [MORE RELAX](https://open.spotify.com/album/57PGfsHat10fVPFSrqROIa) | 3:43 |
 | 42 | [LIGHT'N UP](https://open.spotify.com/track/2zelDSKrMkJzWNjgfRrQDi) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [LIGHT'N UP](https://open.spotify.com/album/1HkD7anWh1N7oUqQvbHQa7) | 5:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 49 | [A面で恋をして](https://open.spotify.com/track/6jsFJedHQqWpySVjRXn4lH) | [NIAGARA TRIANGLE](https://open.spotify.com/artist/2Z7xG1x1KFkKXGQmr38j1M), [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb), [Masamichi Sugi](https://open.spotify.com/artist/0sunKSW71vUUlXKwwJQKKH), [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [NIAGARA TRIANGLE vol.2 40th Anniversary Edition](https://open.spotify.com/album/1eXJvf74OeQnFlx6G7qbCJ) | 3:11 |
 | 50 | [雨のウェンズデイ](https://open.spotify.com/track/05cPxtumQhtpLhPBnnCf3x) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 4:26 |
 
-Snapshot ID: `MCxhMDczMTU3ZThlODQyM2VhNTgzZmNjMDU3YmRmYTg5ZGQ4ZTE0NzY4`
+Snapshot ID: `MCw2OThlMTVhZGQwYmE1MjY1NmExYWQzMmVmODc3YTY5NzdkMzUwMzc3`

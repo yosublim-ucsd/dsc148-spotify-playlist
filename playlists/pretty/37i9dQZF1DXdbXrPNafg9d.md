@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Khruangbin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,275,461 likes - 175 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,275,585 likes - 175 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 38 | [How does it end?](https://open.spotify.com/track/0WHP8Nz9CSqalerNkQ0dBL) | [Kellan Christopher Cragg](https://open.spotify.com/artist/31ukhOt5qC5evJZZgopJuq) | [How does it end?](https://open.spotify.com/album/4t2odh5PaH2MQQIUYIsN5I) | 3:53 |
 | 39 | [Docket \(feat\. Bully\)](https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Docket \(feat\. Bully\)](https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI) | 3:30 |
 | 40 | [Make Ya Proud](https://open.spotify.com/track/4fhgClrrGEsKTpBekCmuUy) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Make Ya Proud](https://open.spotify.com/album/0XV0mG5uUDwqDkZvR6LKeE) | 3:30 |
-| 41 | [Mary Boone](https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Mary Boone](https://open.spotify.com/album/3BeMjbziyS6lCFnSel4Tsz) | 4:26 |
+| 41 | [Mary Boone](https://open.spotify.com/track/6OjwIdLlkjCLuOThOwODEY) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:26 |
 | 42 | [World on a String](https://open.spotify.com/track/0IsVEZzB4oBYqf2Nx0u2n8) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [World on a String](https://open.spotify.com/album/39juqMzTGcRlRdBsGfSyFe) | 3:09 |
 | 43 | [Hell of A Ride](https://open.spotify.com/track/09P99kOfM2P7w3DN3eL1uz) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Catching Chickens EP](https://open.spotify.com/album/2F3uJS0u2IHG8itwnMTTNH) | 3:43 |
 | 44 | [All In One](https://open.spotify.com/track/7ycbGYrE2GMshCIiv2I33j) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [All In One](https://open.spotify.com/album/433yKcIuI3sgm8eYmhJuHg) | 5:06 |
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 108 | [Twin](https://open.spotify.com/track/1Baclns5t6diyC7UfWsGJp) | [1010benja](https://open.spotify.com/artist/7xBrMNV9UKo2THKIk9xpBK) | [Ten Total](https://open.spotify.com/album/1EQ4JquFxRPX36J3MmxOIg) | 3:03 |
 | 109 | [Honey](https://open.spotify.com/track/133l3HlaTfwwVagRZfSbbF) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Honey](https://open.spotify.com/album/4RLQovCB3cnnrVxGAGdpaO) | 2:28 |
 | 110 | [My Heart Your Heart](https://open.spotify.com/track/47LxA6pPKDv8Y5J2eRA86m) | [Bad Bad Hats](https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6) | [My Heart Your Heart](https://open.spotify.com/album/0eC8ALyJCCfX2ergC72Ikr) | 2:48 |
-| 111 | [Classical](https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Classical](https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ) | 4:19 |
+| 111 | [Classical](https://open.spotify.com/track/4DlGLD32K7shuL8ub067DL) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:19 |
 | 112 | [One Last Dance](https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [One Last Dance](https://open.spotify.com/album/4jkz8mydS7s16NGGaBdQTe) | 3:28 |
 | 113 | [Buffalo Replaced \- Spotify Singles](https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Spotify Singles](https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni) | 2:33 |
 | 114 | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [Boys](https://open.spotify.com/track/1wzz6n18rGB4G7Jlz1MKIr) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM) | [Boys](https://open.spotify.com/album/3WD2Esqx5d8U6kjiiTLLkU) | 4:18 |
 | 175 | [Wishing Well](https://open.spotify.com/track/7DKNr6w1S807VC3DIsFGTK) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Wishing Well](https://open.spotify.com/album/1sDJd52CG9r5lYy7D7ir48) | 4:04 |
 
-Snapshot ID: `MCxiZTg4ODczZjk4MjIzMjBmMTkwNDJiOTliYzdkMTE3ZjhlZGU0MzYy`
+Snapshot ID: `MCw5NjdmNDNmZWU5MTExNjQ5ZDk4NTcwZGZhM2QwNzkyOTlhN2Q1YmU3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Artemas
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,780 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,901 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 31 | [C'EST LA VIE \(Lip Filler\)](https://open.spotify.com/track/1DZWlEkkYFWrswBQzGkaQ6) | [Z1NO](https://open.spotify.com/artist/4bfQkUZTG4S8I7sP8UlXvU) | [C'EST LA VIE \(Lip Filler\)](https://open.spotify.com/album/2qI0RA6npmX2rv8NSqF5G6) | 3:36 |
 | 32 | [I Wouldn't Mind](https://open.spotify.com/track/3XB10votaPOcmrFS1dM59j) | [Eure Jungs](https://open.spotify.com/artist/1uvjKQHpHj5BiEHBOlU97U) | [I Wouldn't Mind](https://open.spotify.com/album/1YvMESin0KV0FsTinzdhz3) | 1:59 |
 | 33 | [Verstecken](https://open.spotify.com/track/6LliQsJvqpEBrP1Bhf6HEw) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Verstecken](https://open.spotify.com/album/2PoecB4132E7hBtLC0uBgy) | 2:42 |
-| 34 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 34 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/09QRjJiYl5FTaDKwee1cnR), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 35 | [someday i'll get it](https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY) | [Alek Olsen](https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8) | [someday i'll get it](https://open.spotify.com/album/2YXww1viuuKZPi458rdopk) | 1:34 |
 | 36 | [Ode an den Bass](https://open.spotify.com/track/5BfQq5cdMr5f5PVSz6yRpq) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Ode an den Bass](https://open.spotify.com/album/1gAnk5qZJAA3T01vufMMDD) | 3:20 |
 | 37 | [Austin](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [BIKINI GRELL](https://open.spotify.com/track/4vXM3vMsSr8eFcK8HKTcJq) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Robbensohn](https://open.spotify.com/artist/4B4kCbtNX4oFNSelmh0uAf) | [BIKINI GRELL](https://open.spotify.com/album/3HtPLQupfZZwUsULtgLEuM) | 2:03 |
 | 100 | [Mein Herz](https://open.spotify.com/track/5k77C1MvcmyvZeNViBJkji) | [Yung Yury](https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz), [Damn Yury](https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ) | [Mein Herz](https://open.spotify.com/album/1OVBKljWDrQrzgaDNaajXm) | 2:34 |
 
-Snapshot ID: `MCwwNDA1OTkwNzZhMzViNDI2OGY0MWE1ZWFlM2NiZDgyM2U1ODJjNmQz`
+Snapshot ID: `MCw2NWJhZTc3OGEyY2YzMTY4MDc4MDEzYmMxNDkxZDliOTA0MmJjNGUz`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGZjYWExZGMxNzgzNmNmM2FhMzdjMWEwZmZkYjYyNzRkZGU3NTUx",
+  "snapshot_id": "MCw0OGY1MGYwMTY4ODQxZmUwMTllZGFiZTljMjMwMzdkNzEwMzYzYjgy",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "\u00d3 Noite Santa",
-        "url": "https://open.spotify.com/album/0vXRWz90LTIjiXKcoorBfl"
-      },
-      "artists": [
-        {
-          "name": "Pedras Vivas",
-          "url": "https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F"
-        }
-      ],
-      "duration_ms": 310714,
-      "name": "\u00d3 Noite Santa",
-      "url": "https://open.spotify.com/track/5yhQjZ8DUS5SrPI5WNUYFi"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "A Can\u00e7\u00e3o de Natal",
         "url": "https://open.spotify.com/album/7MFHWfAfMt5Ueioziy2y8O"
       },
@@ -515,6 +499,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "\u00d3 Noite Santa",
+        "url": "https://open.spotify.com/album/0vXRWz90LTIjiXKcoorBfl"
+      },
+      "artists": [
+        {
+          "name": "Pedras Vivas",
+          "url": "https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F"
+        }
+      ],
+      "duration_ms": 310714,
+      "name": "\u00d3 Noite Santa",
+      "url": "https://open.spotify.com/track/5yhQjZ8DUS5SrPI5WNUYFi"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "O Natal de Todos N\u00f3s",
         "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
       },
@@ -527,6 +527,30 @@
       "duration_ms": 219920,
       "name": "Nasce Jesus",
       "url": "https://open.spotify.com/track/7CSgp6bjKNHoKQgVzyilaM"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Outra Vez, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3RZA19AblrMjpYWIVzPU59"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 282500,
+      "name": "Como Um de N\u00f3s - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ALCSur6iFfGd1UuVoF0Td"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -575,30 +599,6 @@
       "duration_ms": 322058,
       "name": "Busquem a Jesus",
       "url": "https://open.spotify.com/track/6Dhjqku6LpMOMzYJHMiwkl"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Outra Vez, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3RZA19AblrMjpYWIVzPU59"
-      },
-      "artists": [
-        {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
-        },
-        {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 282500,
-      "name": "Como Um de N\u00f3s - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ALCSur6iFfGd1UuVoF0Td"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+      },
+      "artists": [
+        {
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+        }
+      ],
+      "duration_ms": 210372,
+      "name": "Dai Louvores ao Rei",
+      "url": "https://open.spotify.com/track/68f92k1JBf9Aq8n69M10Pw"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Natal de Amor",
         "url": "https://open.spotify.com/album/1ow4VlwnqoFnYqBaOQrZ40"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 301859,
       "name": "Natal de Amor",
       "url": "https://open.spotify.com/track/2ygJjF3mMGpICRfkJZKQS3"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
-      },
-      "artists": [
-        {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
-        }
-      ],
-      "duration_ms": 210372,
-      "name": "Dai Louvores ao Rei",
-      "url": "https://open.spotify.com/track/68f92k1JBf9Aq8n69M10Pw"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "O Natal de Todos N\u00f3s",
-        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
-      },
-      "artists": [
-        {
-          "name": "Pr. Lucas",
-          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
-        }
-      ],
-      "duration_ms": 211466,
-      "name": "Primeiro Natal (The First Noel)",
-      "url": "https://open.spotify.com/track/2GANoSBnjKrVaJuCX4QXZa"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Deus Emanuel",
         "url": "https://open.spotify.com/album/1p7afgoQGyBtbXhhsYwLFi"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 313652,
       "name": "Deus Emanuel",
       "url": "https://open.spotify.com/track/00Wx6Gd3jm6N26zgch4Y7M"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "O Natal de Todos N\u00f3s",
+        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
+      },
+      "artists": [
+        {
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
+        }
+      ],
+      "duration_ms": 211466,
+      "name": "Primeiro Natal (The First Noel)",
+      "url": "https://open.spotify.com/track/2GANoSBnjKrVaJuCX4QXZa"
     },
     {
       "added_at": "2023-12-22 03:00:00",

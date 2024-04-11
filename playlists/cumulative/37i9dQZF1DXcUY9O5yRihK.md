@@ -4,7 +4,7 @@
 
 > Bossa nova vibes for the hopeless romantic daydreamers.
 
-116 songs - 5 hr 52 min
+117 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-03-10 |  |
 | [Hopeless Romantic](https://open.spotify.com/track/6MVMbS5zwts8wgC1Re1VKF) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [Hopeless Romantic](https://open.spotify.com/album/7ld58A7mgtQhByX8NQnXN2) | 4:30 | 2023-05-26 |  |
 | [Hot Yoga](https://open.spotify.com/track/7Kww1lvMVSlOK7LttfKxNO) | [Morganne](https://open.spotify.com/artist/6Au2T6xOPGJU6SsgyLWKp8) | [Hot Yoga](https://open.spotify.com/album/2uGz5bn9F2IkqpZwwkO3be) | 2:57 | 2023-09-15 | 2024-02-03 |
+| [hotline \(edit\)](https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [hotline \(edit\)](https://open.spotify.com/album/5iq9BytomHl2yBtORjUlzP) | 1:00 | 2024-04-10 |  |
 | [I Can't Get Over You](https://open.spotify.com/track/7tdFmz7aTM0MTssyzOSXta) | [Leo Sun](https://open.spotify.com/artist/40F0oisdGBuAC0i1vh2cxW) | [I Can't Get Over You](https://open.spotify.com/album/3OCO1ebyxBC6CXsF99Xara) | 4:21 | 2023-01-06 |  |
 | [I Hear a Symphony](https://open.spotify.com/track/4ZHGRFGwjnEIXHG2FhcDPv) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Flying](https://open.spotify.com/album/2gM39a0pG4TMzkb1ExkqgT) | 3:05 | 2023-07-28 |  |
 | [I'll Play the Fool](https://open.spotify.com/track/44jrccmdmEEaAMgvWMiNN5) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Claude Fontaine](https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7) | 2:48 | 2023-01-06 |  |
@@ -117,7 +118,7 @@
 | [Waiting by the Window](https://open.spotify.com/track/3NVDwR7cuCNy30L0DZPQil) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc), [carbeau](https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j) | [Waiting by the Window](https://open.spotify.com/album/1EnZIihjXvcmZW4IW84P6j) | 2:19 | 2023-01-06 |  |
 | [walk but in a garden \(with mxmtoon\)](https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [walk but in a garden](https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF) | 1:52 | 2023-01-06 | 2024-02-10 |
 | [When I Look Into Your Eyes](https://open.spotify.com/track/6h0zYPs9wEj3ydlgwpibSL) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c), [Lanie](https://open.spotify.com/artist/1qUDBm1ALFrHogBczA8KIF) | [When I Look Into Your Eyes](https://open.spotify.com/album/6wT9XMbBpXNZTkXGatvKiV) | 2:30 | 2023-01-06 |  |
-| [when ur around](https://open.spotify.com/track/5YZVINXGdthlMIrQAJKvKS) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [when ur around](https://open.spotify.com/album/4W04vSNFmCuXKTbHwBhNbp) | 1:41 | 2023-08-04 |  |
+| [when ur around](https://open.spotify.com/track/5YZVINXGdthlMIrQAJKvKS) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [when ur around](https://open.spotify.com/album/4W04vSNFmCuXKTbHwBhNbp) | 1:41 | 2023-08-04 | 2024-04-11 |
 | [When We Were Younger \(feat\. Cavetown\)](https://open.spotify.com/track/7dlkFdNPITZL1OAWQ1fqOm) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [When We Were Younger \(feat\. Cavetown\)](https://open.spotify.com/album/0nYhWc5ZvFPrfHAq6a08yh) | 3:54 | 2023-07-25 |  |
 | [where u are](https://open.spotify.com/track/5Twzpnu3oSKEWEjSHRlhgn) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [where u are](https://open.spotify.com/album/4QtgZKyzpwutPTFkMGDFpX) | 4:41 | 2023-01-06 | 2023-11-11 |
 | [Why Don't You](https://open.spotify.com/track/6RQ0i7rApnnWSI8uEiGVVF) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 3:48 | 2023-01-06 |  |

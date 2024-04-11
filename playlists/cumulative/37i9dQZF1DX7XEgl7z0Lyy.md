@@ -4,11 +4,11 @@
 
 > music from the underworld\. featuring a 10 track co\-curation from <a href="spotify:artist:0I7VmE5LkRmWoHltutTUh9">asteria</a>.
 
-208 songs - 7 hr 14 min
+209 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/37xKfBHDeIzMeeScHOp89Q) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6LPcdvBpYreJXcEYOwbwgs) | 0:00 | 2024-03-29 |  |
+| [](https://open.spotify.com/track/37xKfBHDeIzMeeScHOp89Q) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6LPcdvBpYreJXcEYOwbwgs) | 0:00 | 2024-03-29 | 2024-04-11 |
 | [\#\#FOREVAKLUB](https://open.spotify.com/track/6xbNIEglAydFKNFetHYAj3) | [h!tex](https://open.spotify.com/artist/03RNbfo25PLqg0EYLx1XXS) | [\#KO1](https://open.spotify.com/album/4bVuHAFwEvY0QCKjCbAwmn) | 2:05 | 2023-07-21 | 2023-07-29 |
 | [\#RAVELIFE](https://open.spotify.com/track/1VGOyYVey2xo2A4shKl2LR) | [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9), [WASTY](https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ) | [RAVE2DEATH](https://open.spotify.com/album/5uP9wURgtWm96wNpcM1k29) | 1:49 | 2023-08-04 | 2023-08-26 |
 | [2BIPOLAR](https://open.spotify.com/track/0LKrP0sD4PK0Y46kKWOTk6) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [cW](https://open.spotify.com/artist/2RWEvEloRDEO2tiOL6JEjh) | [2BIPOLAR](https://open.spotify.com/album/65jfpqh8Nf8qeHT77KXLIe) | 1:47 | 2023-08-25 |  |
@@ -138,6 +138,7 @@
 | [Narcissistic gem](https://open.spotify.com/track/7JzCGO8fgagRlcTcdvt6nE) | [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU) | [Narcissistic gem](https://open.spotify.com/album/24FMaMwjpUIaAgFFLs7dYD) | 1:52 | 2023-07-21 |  |
 | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/10o52EY3moL562KKhd3Cet) | 1:50 | 2023-07-21 | 2023-11-21 |
 | [noble 6 \(feat\. nuvfr\)](https://open.spotify.com/track/5sK8yQ6lyOe7sPrfWlIQLm) | [removeface](https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF), [Nuvfr](https://open.spotify.com/artist/2fWukyNksCO4foi0KYnRJy) | [noble 6 \(feat\. nuvfr\)](https://open.spotify.com/album/5eH4nQ7il4xlWpD0kirvQf) | 2:03 | 2023-09-01 | 2023-12-16 |
+| [noir](https://open.spotify.com/track/1Qv9RlQrACS2sIvuVZQHiO) | [sho](https://open.spotify.com/artist/7J931Zo6xntPEBM04BANte) | [noir](https://open.spotify.com/album/68buIxo0GiCtikqj7sNoUP) | 1:37 | 2024-04-10 |  |
 | [OBSESSION](https://open.spotify.com/track/3KjtiCFg1dNCEXfkF4PKWE) | [h!tex](https://open.spotify.com/artist/03RNbfo25PLqg0EYLx1XXS) | [OBSESSION](https://open.spotify.com/album/36EOTkSV05Ousfmuwj5rzI) | 1:16 | 2023-07-21 | 2024-03-22 |
 | [OK WE SININ](https://open.spotify.com/track/3chuJrGz159KoAJ7wbDuGI) | [gaptoothv4mp](https://open.spotify.com/artist/7DIlL1MSilsc1jNsEsH2CJ), [knieyn](https://open.spotify.com/artist/0DEmgXcgJqx7pAnJT8AAQV) | [OK WE SININ](https://open.spotify.com/album/5FMPea4GvLcbEA1GMW5zKA) | 1:20 | 2023-09-01 | 2023-12-11 |
 | [OK WE SININ](https://open.spotify.com/track/3stbW6MArOPEjS2yr8tCRA) | [gaptoothv4mp](https://open.spotify.com/artist/7DIlL1MSilsc1jNsEsH2CJ), [knieyn](https://open.spotify.com/artist/6mFJ6p0JXGBH8z38219P7r) | [OK WE SININ](https://open.spotify.com/album/3LA7ZCMNSH17iZYMd2TBqd) | 1:20 | 2023-09-22 | 2023-12-16 |

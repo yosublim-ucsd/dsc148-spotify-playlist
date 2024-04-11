@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 
 > This is Ana Bárbara\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,096 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,103 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 | 49 | [Amor Perfecto](https://open.spotify.com/track/3X4rVC4WXcUYU1u2NyMWKo) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Bienvenida La Vida](https://open.spotify.com/album/5mcWT0gHRYtncD9jCT3f6E) | 3:54 |
 | 50 | [Mujer](https://open.spotify.com/track/5VmzEleX0KRzfWZFMX1xio) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Mujer](https://open.spotify.com/album/4u0UVzUb1ACRrolFEIPcOs) | 2:56 |
 
-Snapshot ID: `MCwwNDc0N2QxOTYxYWM0OTRiM2ZlYWI0Mzk5NDY5ZjM4ZjMyYmNjOTk4`
+Snapshot ID: `MCw2NDZjYTE3YTYzOGE5MDVmMzI4ZmJkNTViMTIxZTBiODJiZDU2OTVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Disrupta
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,181 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,220 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 29 | [Mosh Pit](https://open.spotify.com/track/7ub3gsFkHrnkS38HOTyATJ) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [Mosh Pit](https://open.spotify.com/album/6HmXSgT3vWune8Dy1yc66h) | 2:08 |
 | 30 | [Finesse Riddim](https://open.spotify.com/track/13Mgkz3Rk8t1XsMZ6JyIrG) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Devilman](https://open.spotify.com/artist/73nEd2GvjMYNSsFnxKSDAK), [DJ ADZ](https://open.spotify.com/artist/0yWeK60Enkx19d6ONJibla), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [Finesse Riddim](https://open.spotify.com/album/5tQmcRslhxZE5hAMZbKUT9) | 3:24 |
 | 31 | [Pray For Me](https://open.spotify.com/track/1bDyUuOtKXNAF4WQV6ZH9k) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Pray For Me](https://open.spotify.com/album/0F4aNngvvZbIX25XmojJEQ) | 3:03 |
-| 32 | [IFTK \- Vibe Chemistry Remix](https://open.spotify.com/track/7lXkhek4aKD6v01Rq8fotO) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [IFTK \(Vibe Chemistry Remix\)](https://open.spotify.com/album/62F2vp2ZSP3o2hbv75MzjQ) | 3:13 |
-| 33 | [Brazil](https://open.spotify.com/track/3jrToiaGyx4o553AfgoofP) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [Brazil](https://open.spotify.com/album/3FYytbD70Bedz0Nwmsuqqq) | 3:46 |
+| 32 | [Brazil](https://open.spotify.com/track/3jrToiaGyx4o553AfgoofP) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [Brazil](https://open.spotify.com/album/3FYytbD70Bedz0Nwmsuqqq) | 3:46 |
+| 33 | [IFTK \- Vibe Chemistry Remix](https://open.spotify.com/track/7lXkhek4aKD6v01Rq8fotO) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [IFTK \(Vibe Chemistry Remix\)](https://open.spotify.com/album/62F2vp2ZSP3o2hbv75MzjQ) | 3:13 |
 | 34 | [Behemoth](https://open.spotify.com/track/6ZVgnqRsYGRwSYrdmUGkF8) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Behemoth](https://open.spotify.com/album/03I61jwYEx4Uymzs4iAZio) | 4:28 |
 | 35 | [Sundown](https://open.spotify.com/track/5IiAyeg16Rk5holAyjwpLO) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Sundown](https://open.spotify.com/album/1XevLzt5Tds3Cjbuz1oz0g) | 4:28 |
 | 36 | [No Excuses \- Hedex Remix](https://open.spotify.com/track/0asLTNDnmEXN6h8VMZmY21) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [No Excuses \(Hedex Remix\)](https://open.spotify.com/album/1wzs9WivkaUqEQEAqLuNZ4) | 2:43 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Too Lazy](https://open.spotify.com/track/20z8sOQkGiwos8mlmRfbnj) | [Document One](https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu) | [Too Lazy](https://open.spotify.com/album/25EVRGSF2edbKo80nU9QKm) | 3:54 |
 | 55 | [Lady Petrol](https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Lady Petrol](https://open.spotify.com/album/24e3IAndixmqYlExyKTldi) | 5:09 |
 
-Snapshot ID: `MCw5Y2JhM2Q3MDFjZTc3NTdjZWExYjM2OWFhNTNmMGQ2NjE3YWQ0OWJl`
+Snapshot ID: `MCxhOTMzMDMwMjdjNWE4Yjg5NWM3MjEzMGVmZjIyNmIyNzk2MDU5Zjdl`

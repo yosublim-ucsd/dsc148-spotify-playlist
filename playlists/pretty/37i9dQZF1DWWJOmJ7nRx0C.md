@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The rock songs you need to know\. Turn it  ⬆️ Cover: <b>The Black Keys</b>
 
-[Spotify](https://open.spotify.com/user/spotify) - 934,580 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 934,608 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 74 | [Dynamite](https://open.spotify.com/track/0HyTlSNDM1T23hPUphzWBX) | [Any Given Sin](https://open.spotify.com/artist/1376cQHGVXyY9lSz0Wf900) | [War Within](https://open.spotify.com/album/5D0LpsoApx8bPbwLiLsbtD) | 3:48 |
 | 75 | [Dark Thoughts](https://open.spotify.com/track/7aSFYakNWB9xQGDEZtoBDH) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Dark Thoughts](https://open.spotify.com/album/4hZRZ9Mwu9NAIeB73uI2JT) | 4:08 |
 
-Snapshot ID: `MCw3OWRiMTNlYmMyMmM0MmE3ZjJiMWRlYzE1ODYzNWQwMTJlYWJjNmUz`
+Snapshot ID: `MCwwOGMyNWQ2NTI5NDg1YzMxZjE4NWIyM2VhMmUzMTUzZWQzOTRhZDBh`

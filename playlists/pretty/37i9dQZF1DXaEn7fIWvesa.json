@@ -1,12 +1,12 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con El Chacal en portada.",
-  "num_followers": 7586,
+  "num_followers": 7605,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Yzk1ZDkyODJmYmZmN2I2Zjk4NjZlNTk3NGI3ODZiOGVhMTQ2MmVh",
+  "snapshot_id": "MCxkZmQxYWY4MGJmM2I3MmU2NzIwN2U1YWU2NTdhYmRjMjlkZGIyZjJh",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -443,26 +443,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Pi\u00f1a Colada",
-        "url": "https://open.spotify.com/album/2aRxTjGSC7zwgIiCuoQh4E"
-      },
-      "artists": [
-        {
-          "name": "Orlenis 22k",
-          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
-        },
-        {
-          "name": "Charly & Johayron",
-          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Pi\u00f1a Colada",
-      "url": "https://open.spotify.com/track/67h0pnnJczXLsNqmew78lw"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "The Hits Kings",
         "url": "https://open.spotify.com/album/3bmjwMBcBOPkQgr01HYLRH"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 183131,
       "name": "Ganas de Ti",
       "url": "https://open.spotify.com/track/6mzR2nbLrfzNw3BQ3puq4D"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Pi\u00f1a Colada",
+        "url": "https://open.spotify.com/album/2aRxTjGSC7zwgIiCuoQh4E"
+      },
+      "artists": [
+        {
+          "name": "Orlenis 22k",
+          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
+        },
+        {
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Pi\u00f1a Colada",
+      "url": "https://open.spotify.com/track/67h0pnnJczXLsNqmew78lw"
     },
     {
       "added_at": "2024-02-09 05:00:00",

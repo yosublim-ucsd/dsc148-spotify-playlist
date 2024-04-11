@@ -1,12 +1,12 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Cover: Cody Johnson",
-  "num_followers": 259342,
+  "num_followers": 259430,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDM0YThjMjNmMTk3ZWFkODA0MzE3YTI0MDBlMjI1NDVhZDQ4Nzdj",
+  "snapshot_id": "MCw2Y2NkMDViNjFjZDYzY2Y0MTAzMDI1ZDdkNWZmOTZmNDQzZDhhZGIz",
   "tracks": [
     {
       "added_at": "2024-01-19 17:31:05",
@@ -691,18 +691,18 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Medicine Man",
-        "url": "https://open.spotify.com/album/5SqBAJno2evV4WNNlBYZOY"
+        "name": "I Believe In You",
+        "url": "https://open.spotify.com/album/5FG0ZnaPrdDqlHpu9dAspG"
       },
       "artists": [
         {
-          "name": "Tanner Usrey",
-          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
         }
       ],
-      "duration_ms": 273035,
-      "name": "Come Back Down",
-      "url": "https://open.spotify.com/track/61jsFe3tc6Z6uIHU2Qeq3B"
+      "duration_ms": 246440,
+      "name": "I Believe In You",
+      "url": "https://open.spotify.com/track/1PpbrbgsXRXeKw1GnZMEv7"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -723,18 +723,18 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "I Believe In You",
-        "url": "https://open.spotify.com/album/5FG0ZnaPrdDqlHpu9dAspG"
+        "name": "Broke Ass Kid",
+        "url": "https://open.spotify.com/album/2HfPwB24BxVvoZJf6aDVAP"
       },
       "artists": [
         {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
         }
       ],
-      "duration_ms": 246440,
-      "name": "I Believe In You",
-      "url": "https://open.spotify.com/track/1PpbrbgsXRXeKw1GnZMEv7"
+      "duration_ms": 242325,
+      "name": "Broke Ass Kid",
+      "url": "https://open.spotify.com/track/22NJ4gaxcMI4j5Fg8dbnug"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -775,18 +775,18 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Broke Ass Kid",
-        "url": "https://open.spotify.com/album/2HfPwB24BxVvoZJf6aDVAP"
+        "name": "Medicine Man",
+        "url": "https://open.spotify.com/album/5SqBAJno2evV4WNNlBYZOY"
       },
       "artists": [
         {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
         }
       ],
-      "duration_ms": 242325,
-      "name": "Broke Ass Kid",
-      "url": "https://open.spotify.com/track/22NJ4gaxcMI4j5Fg8dbnug"
+      "duration_ms": 273035,
+      "name": "Come Back Down",
+      "url": "https://open.spotify.com/track/61jsFe3tc6Z6uIHU2Qeq3B"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
-      },
-      "artists": [
-        {
-          "name": "Kody West",
-          "url": "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
-        }
-      ],
-      "duration_ms": 216146,
-      "name": "Green",
-      "url": "https://open.spotify.com/track/5Uf1Lw638mmsPEQFRmCUYq"
-    },
-    {
-      "added_at": "2024-01-19 17:31:05",
-      "album": {
         "name": "Wave On Wave",
         "url": "https://open.spotify.com/album/0HjdNkgyrUKC2ynRUNna7V"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 244373,
       "name": "Wave on Wave",
       "url": "https://open.spotify.com/track/7rS87NoPWbAkVURdVFbGH9"
+    },
+    {
+      "added_at": "2024-01-19 17:31:05",
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
+      },
+      "artists": [
+        {
+          "name": "Kody West",
+          "url": "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
+        }
+      ],
+      "duration_ms": 216146,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/5Uf1Lw638mmsPEQFRmCUYq"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Cold Hard Truth",
-        "url": "https://open.spotify.com/album/1OOYMqvCCRZDdRFezpg8l3"
+        "name": "Green",
+        "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+          "name": "Kody West",
+          "url": "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
         }
       ],
-      "duration_ms": 206213,
-      "name": "Choices",
-      "url": "https://open.spotify.com/track/7ottDUMz3VomUN2Ln9FWdI"
+      "duration_ms": 233106,
+      "name": "Shine Out",
+      "url": "https://open.spotify.com/track/03Urb1JlysmjtjNUNNOrsP"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -1339,18 +1339,34 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
+        "name": "Cold Hard Truth",
+        "url": "https://open.spotify.com/album/1OOYMqvCCRZDdRFezpg8l3"
       },
       "artists": [
         {
-          "name": "Kody West",
-          "url": "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
         }
       ],
-      "duration_ms": 233106,
-      "name": "Shine Out",
-      "url": "https://open.spotify.com/track/03Urb1JlysmjtjNUNNOrsP"
+      "duration_ms": 206213,
+      "name": "Choices",
+      "url": "https://open.spotify.com/track/7ottDUMz3VomUN2Ln9FWdI"
+    },
+    {
+      "added_at": "2024-01-19 17:31:05",
+      "album": {
+        "name": "Borrowed Time",
+        "url": "https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR"
+      },
+      "artists": [
+        {
+          "name": "Southall",
+          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
+        }
+      ],
+      "duration_ms": 220649,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/2YdMVlfOdhVmewv1VQBVSl"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -1371,22 +1387,6 @@
       "duration_ms": 223451,
       "name": "Wasn't That Drunk (feat. Carly Pearce)",
       "url": "https://open.spotify.com/track/0WnGvxW15RZyOvZxDYiWF4"
-    },
-    {
-      "added_at": "2024-01-19 17:31:05",
-      "album": {
-        "name": "Borrowed Time",
-        "url": "https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR"
-      },
-      "artists": [
-        {
-          "name": "Southall",
-          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
-        }
-      ],
-      "duration_ms": 220649,
-      "name": "Don't Tell Me",
-      "url": "https://open.spotify.com/track/2YdMVlfOdhVmewv1VQBVSl"
     },
     {
       "added_at": "2024-01-19 17:31:05",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-01-19 17:31:05",
       "album": {
-        "name": "West Textures",
-        "url": "https://open.spotify.com/album/5P5vbUH4xyFhmzPzhKOoM6"
-      },
-      "artists": [
-        {
-          "name": "Robert Earl Keen",
-          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
-        }
-      ],
-      "duration_ms": 303000,
-      "name": "The Road Goes On Forever",
-      "url": "https://open.spotify.com/track/0UgCiz5n2p2S7BKrFqCXEj"
-    },
-    {
-      "added_at": "2024-01-19 17:31:05",
-      "album": {
         "name": "Burning The Day",
         "url": "https://open.spotify.com/album/56Eev1ECimoTdex4w7yjpY"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 281653,
       "name": "Interstate",
       "url": "https://open.spotify.com/track/2bSakZfbGt38Z9sViKpNXc"
+    },
+    {
+      "added_at": "2024-01-19 17:31:05",
+      "album": {
+        "name": "West Textures",
+        "url": "https://open.spotify.com/album/5P5vbUH4xyFhmzPzhKOoM6"
+      },
+      "artists": [
+        {
+          "name": "Robert Earl Keen",
+          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
+        }
+      ],
+      "duration_ms": 303000,
+      "name": "The Road Goes On Forever",
+      "url": "https://open.spotify.com/track/0UgCiz5n2p2S7BKrFqCXEj"
     },
     {
       "added_at": "2024-01-19 17:31:05",

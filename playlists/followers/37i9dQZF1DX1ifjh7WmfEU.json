@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 79002,
+  "2024-04-11": 79034,
   "date_first_scraped": "2022-06-20",
   "description": "Affirmations. Intentions. Skin Care. Self Care. ",
   "name": "self care vibes",
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 154256,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/7yXwSf40aUSSRQTAjg2TRV"
@@ -503,10 +503,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 140647,
       "name": "Bolero Chiquito",
       "url": "https://open.spotify.com/track/0WIGmqsYeC6i5NLVAvFZzx"
+    },
+    {
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/7JfW3XHvMfeoC4ioGD9FpI"
+      },
+      "artists": [
+        {
+          "name": "Jamie McNeal",
+          "url": "https://open.spotify.com/artist/74vNtY2P9DwQNltXVislIc"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132744,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/10EePqFwFowFmqDqwyP1qm"
     },
     {
       "album": {
@@ -539,7 +557,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 149000,
       "name": "Cador",
       "url": "https://open.spotify.com/track/3DHvdguXXEjrlZuileL4hi"
@@ -1389,7 +1407,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 165350,
       "name": "Friend",
       "url": "https://open.spotify.com/track/0IYFu2XwAw4upJLfODQAWo"
@@ -1504,6 +1522,24 @@
     },
     {
       "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/2GsLI3ZuRTI5GyktudCsBd"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163395,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/6I3wMGZNIGwGvjPfzIyq01"
+    },
+    {
+      "album": {
         "name": "Haven",
         "url": "https://open.spotify.com/album/0H5QTuTm9ADsvHDlIONIMH"
       },
@@ -1533,7 +1569,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 149786,
       "name": "heart pieces",
       "url": "https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za"
@@ -1569,7 +1605,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 134625,
       "name": "Herz gebrochen",
       "url": "https://open.spotify.com/track/2x6qK1oorFfWjIZ9bRf1MZ"
@@ -1717,7 +1753,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 180000,
       "name": "Ichi",
       "url": "https://open.spotify.com/track/0UkREomqApLByCfaqCkLIU"
@@ -1765,6 +1801,24 @@
       "duration_ms": 180000,
       "name": "Ichi",
       "url": "https://open.spotify.com/track/73HaoXa8YdZlfAmcbMl8oI"
+    },
+    {
+      "album": {
+        "name": "Idyll",
+        "url": "https://open.spotify.com/album/1eB9IofFwCJi40HRPo50ov"
+      },
+      "artists": [
+        {
+          "name": "Haupu",
+          "url": "https://open.spotify.com/artist/4MmKQsRQZ1bHFIhYxMJOv0"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168583,
+      "name": "Idyll",
+      "url": "https://open.spotify.com/track/2IbmkbZxpaEamIoEbpJ4r5"
     },
     {
       "album": {
@@ -1905,7 +1959,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 184000,
       "name": "In the break of dawn",
       "url": "https://open.spotify.com/track/6IB2ZyzLmfydwyjnkdFSLZ"
@@ -2085,7 +2139,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 181303,
       "name": "Kj\u00e6rlighet",
       "url": "https://open.spotify.com/track/1UgFiq67HxKCD2rCeloW2V"
@@ -2175,10 +2229,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 237250,
       "name": "Like A Whisper",
       "url": "https://open.spotify.com/track/4C4B9L1O7JCiDSniF64rbJ"
+    },
+    {
+      "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/5wP3H8FWcmE8A8mGAL6VIn"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Granneman",
+          "url": "https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130190,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/1L9NurhEYJFmy69FNRZpQX"
     },
     {
       "album": {
@@ -2283,7 +2355,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 165720,
       "name": "Lyra",
       "url": "https://open.spotify.com/track/2SzsBwBFIiPquJXYAjPobX"
@@ -3039,7 +3111,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 116000,
       "name": "Rowan's Lullaby",
       "url": "https://open.spotify.com/track/2Q5J3fYP2cPXDQwCsS0OkT"
@@ -3129,7 +3201,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 237000,
       "name": "Santa Cruz",
       "url": "https://open.spotify.com/track/75b0f1695j8tRmXL6cvtmb"
@@ -3208,6 +3280,24 @@
     },
     {
       "album": {
+        "name": "Seceda",
+        "url": "https://open.spotify.com/album/2nVTO8rEyqhORMFRrlYUGt"
+      },
+      "artists": [
+        {
+          "name": "Lukasz Allain",
+          "url": "https://open.spotify.com/artist/3O2fAJFoOE1uxFK9ZXouLc"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179250,
+      "name": "Seceda",
+      "url": "https://open.spotify.com/track/0bhgyVhN8V0GH26HgQisqE"
+    },
+    {
+      "album": {
         "name": "Seeking Peace",
         "url": "https://open.spotify.com/album/7gW9EjAmEafsT7eii28A4w"
       },
@@ -3237,7 +3327,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 138861,
       "name": "Seichtes Wasser",
       "url": "https://open.spotify.com/track/1F6M5OxEBzMTpcTX64ie9m"
@@ -3399,7 +3489,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 134625,
       "name": "So No Regrets",
       "url": "https://open.spotify.com/track/4SnS6XcwucVNuXw44juFEY"
@@ -3471,7 +3561,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 227000,
       "name": "Statuette",
       "url": "https://open.spotify.com/track/5zoMbgXYkKymbUeCWP6p3o"
@@ -3561,7 +3651,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 150750,
       "name": "Synchronicity",
       "url": "https://open.spotify.com/track/0nk3vSKIYGQV6CK6pShUDQ"
@@ -3597,7 +3687,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 164000,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5"
@@ -4015,7 +4105,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 120000,
       "name": "Wait For Me",
       "url": "https://open.spotify.com/track/2z6wyjZZ5hIP7ef5qjW7kW"
@@ -4293,7 +4383,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 150500,
       "name": "With Dreams In Mind",
       "url": "https://open.spotify.com/track/4bXgmTz6rUXzetS0ugUGgy"

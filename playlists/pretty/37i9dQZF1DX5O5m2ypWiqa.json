@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Joan Sebastian en portada",
-  "num_followers": 1852858,
+  "num_followers": 1853481,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGU1ZTQ3OTg4NDcyNTUzY2RlMWIyMjBhOGJjZGNkOTA1ODUwNjg0",
+  "snapshot_id": "MCxjNjQwMGEwNTViY2NiNTNiM2RkYjIyZmZmM2Q1ZTU2YTY3YWVlMTQ4",
   "tracks": [
     {
       "added_at": "2024-04-08 16:23:47",
@@ -243,26 +243,6 @@
     {
       "added_at": "2024-04-08 16:23:47",
       "album": {
-        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
-        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 240456,
-      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
-    },
-    {
-      "added_at": "2024-04-08 16:23:47",
-      "album": {
         "name": "30 Aniversario",
         "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
       },
@@ -275,6 +255,22 @@
       "duration_ms": 234000,
       "name": "En Peligro de Extinci\u00f3n",
       "url": "https://open.spotify.com/track/4wZqjBJCs2tD7AV3c2UUh5"
+    },
+    {
+      "added_at": "2024-04-08 16:23:47",
+      "album": {
+        "name": "Fuera De Servicio",
+        "url": "https://open.spotify.com/album/2zPcd5LBH4VamS81YFR0nG"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 154868,
+      "name": "Fuera De Servicio",
+      "url": "https://open.spotify.com/track/6wTqVQ6RRkqAyT5XDGcRq4"
     },
     {
       "added_at": "2024-04-08 16:23:47",
@@ -311,18 +307,22 @@
     {
       "added_at": "2024-04-08 16:23:47",
       "album": {
-        "name": "Fuera De Servicio",
-        "url": "https://open.spotify.com/album/2zPcd5LBH4VamS81YFR0nG"
+        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
+        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 154868,
-      "name": "Fuera De Servicio",
-      "url": "https://open.spotify.com/track/6wTqVQ6RRkqAyT5XDGcRq4"
+      "duration_ms": 240456,
+      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
     },
     {
       "added_at": "2024-04-08 16:23:47",
@@ -1147,22 +1147,18 @@
     {
       "added_at": "2024-04-08 16:23:47",
       "album": {
-        "name": "Mil Gracias Por Existir",
-        "url": "https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6"
+        "name": "Cuando Quieras Quiero",
+        "url": "https://open.spotify.com/album/7sqfC2rpdO72asrro3cLUm"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Claudio Alcaraz",
+          "url": "https://open.spotify.com/artist/0lf6aJ031s7V2V7eKB1mhz"
         }
       ],
-      "duration_ms": 225541,
-      "name": "Mil Gracias Por Existir",
-      "url": "https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X"
+      "duration_ms": 183500,
+      "name": "Hola, \u00bfQue Tal?",
+      "url": "https://open.spotify.com/track/7cEQJRlW3o32ItgI5cq9kK"
     },
     {
       "added_at": "2024-04-08 16:23:47",
@@ -1183,38 +1179,22 @@
     {
       "added_at": "2024-04-08 16:23:47",
       "album": {
-        "name": "Cuando Quieras Quiero",
-        "url": "https://open.spotify.com/album/7sqfC2rpdO72asrro3cLUm"
+        "name": "Mil Gracias Por Existir",
+        "url": "https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6"
       },
       "artists": [
         {
-          "name": "Claudio Alcaraz",
-          "url": "https://open.spotify.com/artist/0lf6aJ031s7V2V7eKB1mhz"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "Hola, \u00bfQue Tal?",
-      "url": "https://open.spotify.com/track/7cEQJRlW3o32ItgI5cq9kK"
-    },
-    {
-      "added_at": "2024-04-08 16:23:47",
-      "album": {
-        "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
-        "url": "https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN"
-      },
-      "artists": [
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         }
       ],
-      "duration_ms": 250686,
-      "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
-      "url": "https://open.spotify.com/track/70w1mwTod6NgCNV6e7ZlIQ"
+      "duration_ms": 225541,
+      "name": "Mil Gracias Por Existir",
+      "url": "https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X"
     },
     {
       "added_at": "2024-04-08 16:23:47",
@@ -1247,6 +1227,26 @@
       "duration_ms": 214146,
       "name": "Espero Con Ansias",
       "url": "https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r"
+    },
+    {
+      "added_at": "2024-04-08 16:23:47",
+      "album": {
+        "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
+        "url": "https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 250686,
+      "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
+      "url": "https://open.spotify.com/track/70w1mwTod6NgCNV6e7ZlIQ"
     },
     {
       "added_at": "2024-04-08 16:23:47",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2024-04-08 16:23:47",
       "album": {
+        "name": "Decide T\u00fa",
+        "url": "https://open.spotify.com/album/3xQxAY9NIQsUUocYxGWxcW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda la Sinaloense de Alex Ojeda",
+          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
+        }
+      ],
+      "duration_ms": 232611,
+      "name": "Decide T\u00fa",
+      "url": "https://open.spotify.com/track/1BzsZa83qlhgv8hyt1UtWc"
+    },
+    {
+      "added_at": "2024-04-08 16:23:47",
+      "album": {
         "name": "El Antes Y El Despu\u00e9s",
         "url": "https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0"
       },
@@ -1327,22 +1347,6 @@
       "duration_ms": 183360,
       "name": "El Antes Y El Despu\u00e9s",
       "url": "https://open.spotify.com/track/6P89ndGzxFpxtdbzhRoVdn"
-    },
-    {
-      "added_at": "2024-04-08 16:23:47",
-      "album": {
-        "name": "Puras Rancheras",
-        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Arboles De La Barranca",
-      "url": "https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ"
     },
     {
       "added_at": "2024-04-08 16:23:47",
@@ -1363,22 +1367,18 @@
     {
       "added_at": "2024-04-08 16:23:47",
       "album": {
-        "name": "Decide T\u00fa",
-        "url": "https://open.spotify.com/album/3xQxAY9NIQsUUocYxGWxcW"
+        "name": "Puras Rancheras",
+        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda la Sinaloense de Alex Ojeda",
-          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 232611,
-      "name": "Decide T\u00fa",
-      "url": "https://open.spotify.com/track/1BzsZa83qlhgv8hyt1UtWc"
+      "duration_ms": 179400,
+      "name": "Arboles De La Barranca",
+      "url": "https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ"
     },
     {
       "added_at": "2024-04-08 16:23:47",
@@ -1655,8 +1655,8 @@
     {
       "added_at": "2024-04-08 16:23:47",
       "album": {
-        "name": "Te So\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
+        "name": "El Polo Norte",
+        "url": "https://open.spotify.com/album/0mtRgmzxZP7qeD8Sr9yNPy"
       },
       "artists": [
         {
@@ -1664,9 +1664,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 225573,
-      "name": "Te So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/0hZgBAj7W0EkRH16feKmUu"
+      "duration_ms": 203180,
+      "name": "Cita con un Invento",
+      "url": "https://open.spotify.com/track/773lk88kjUKstndUTL1W7F"
     },
     {
       "added_at": "2024-04-08 16:23:47",
@@ -1815,8 +1815,8 @@
     {
       "added_at": "2024-04-08 16:23:47",
       "album": {
-        "name": "El Polo Norte",
-        "url": "https://open.spotify.com/album/0mtRgmzxZP7qeD8Sr9yNPy"
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
       },
       "artists": [
         {
@@ -1824,9 +1824,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 203180,
-      "name": "Cita con un Invento",
-      "url": "https://open.spotify.com/track/773lk88kjUKstndUTL1W7F"
+      "duration_ms": 225573,
+      "name": "Te So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/0hZgBAj7W0EkRH16feKmUu"
     },
     {
       "added_at": "2024-04-08 16:23:47",
@@ -1927,18 +1927,18 @@
     {
       "added_at": "2024-04-08 16:23:47",
       "album": {
-        "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
-        "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
+        "name": "Durmiendo en el Lugar Equivocado",
+        "url": "https://open.spotify.com/album/50x6RBfdV0Ao2eX3T2ekty"
       },
       "artists": [
         {
-          "name": "Banda Sinaloense de Acero",
-          "url": "https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 135146,
-      "name": "El Sauce y la Palma",
-      "url": "https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1"
+      "duration_ms": 195253,
+      "name": "Te Dir\u00e1n",
+      "url": "https://open.spotify.com/track/1PB6yA6o4CuJZUcVQ8UWh8"
     },
     {
       "added_at": "2024-04-08 16:23:47",
@@ -1975,34 +1975,18 @@
     {
       "added_at": "2024-04-08 16:23:47",
       "album": {
-        "name": "Durmiendo en el Lugar Equivocado",
-        "url": "https://open.spotify.com/album/50x6RBfdV0Ao2eX3T2ekty"
+        "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
+        "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
       },
       "artists": [
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "Banda Sinaloense de Acero",
+          "url": "https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe"
         }
       ],
-      "duration_ms": 195253,
-      "name": "Te Dir\u00e1n",
-      "url": "https://open.spotify.com/track/1PB6yA6o4CuJZUcVQ8UWh8"
-    },
-    {
-      "added_at": "2024-04-08 16:23:47",
-      "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/5jt17hy0CY3U7NuzbXdX4u"
-      },
-      "artists": [
-        {
-          "name": "Germ\u00e1n Montero",
-          "url": "https://open.spotify.com/artist/2mJLFoa2cRqCZHL6MZNaak"
-        }
-      ],
-      "duration_ms": 133106,
-      "name": "\u00bfQue Nos Separa?",
-      "url": "https://open.spotify.com/track/4jULFslCeq1Wan6nczXoum"
+      "duration_ms": 135146,
+      "name": "El Sauce y la Palma",
+      "url": "https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1"
     },
     {
       "added_at": "2024-04-08 16:23:47",
@@ -2019,6 +2003,22 @@
       "duration_ms": 120240,
       "name": "La Cuichi",
       "url": "https://open.spotify.com/track/5MJWoHFH5pOemxZuObv42p"
+    },
+    {
+      "added_at": "2024-04-08 16:23:47",
+      "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/5jt17hy0CY3U7NuzbXdX4u"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Montero",
+          "url": "https://open.spotify.com/artist/2mJLFoa2cRqCZHL6MZNaak"
+        }
+      ],
+      "duration_ms": 133106,
+      "name": "\u00bfQue Nos Separa?",
+      "url": "https://open.spotify.com/track/4jULFslCeq1Wan6nczXoum"
     },
     {
       "added_at": "2024-04-08 16:23:47",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2024-04-08 16:23:47",
       "album": {
+        "name": "Al Ataque",
+        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 201108,
+      "name": "Mil Cartas",
+      "url": "https://open.spotify.com/track/43X0I9YHv8Nxkq5fJ1CD1K"
+    },
+    {
+      "added_at": "2024-04-08 16:23:47",
+      "album": {
         "name": "Trayectoria",
         "url": "https://open.spotify.com/album/4HEcnwhFZEvZrOZjJr4hFe"
       },
@@ -2071,18 +2087,18 @@
     {
       "added_at": "2024-04-08 16:23:47",
       "album": {
-        "name": "Al Ataque",
-        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
+        "name": "Disfrut\u00e9 Enga\u00f1arte",
+        "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
       },
       "artists": [
         {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 201108,
-      "name": "Mil Cartas",
-      "url": "https://open.spotify.com/track/43X0I9YHv8Nxkq5fJ1CD1K"
+      "duration_ms": 204960,
+      "name": "En la Sierra y la Ciudad (La China)",
+      "url": "https://open.spotify.com/track/4d87IagHd2tUKqPup408jJ"
     },
     {
       "added_at": "2024-04-08 16:23:47",
@@ -2115,22 +2131,6 @@
       "duration_ms": 192522,
       "name": "Te He Prometido",
       "url": "https://open.spotify.com/track/2vdVI9ya3CLLXKCRr4rryJ"
-    },
-    {
-      "added_at": "2024-04-08 16:23:47",
-      "album": {
-        "name": "Disfrut\u00e9 Enga\u00f1arte",
-        "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 204960,
-      "name": "En la Sierra y la Ciudad (La China)",
-      "url": "https://open.spotify.com/track/4d87IagHd2tUKqPup408jJ"
     },
     {
       "added_at": "2024-04-08 16:23:47",

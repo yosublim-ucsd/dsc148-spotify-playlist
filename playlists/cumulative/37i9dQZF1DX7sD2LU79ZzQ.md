@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Derai, Feby Putri
 
-219 songs - 14 hr 15 min
+220 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Lebih Dari Teman](https://open.spotify.com/track/3SUux6YLOZiIP3qJgbkPZU) | [Zara Leola](https://open.spotify.com/artist/4vaDsig0zUuO0Z91IU2Ky8), [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Lebih Dari Teman](https://open.spotify.com/album/3eZPI989kkozcOz7vyowwI) | 4:07 | 2024-01-18 |  |
 | [Legenda \- Remastered 2023](https://open.spotify.com/track/3dziFZM7rTwW4v7dR5d2a4) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Legenda \(Remastered 2023\)](https://open.spotify.com/album/6yS1yt5EHwUnwJZ1M90Qze) | 4:59 | 2024-01-18 | 2024-02-23 |
 | [Let It Rain](https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Let It Rain](https://open.spotify.com/album/4IZbTGF4UTaEFRHDrA8rIC) | 3:30 | 2024-01-18 | 2024-03-15 |
-| [Lewat Doa](https://open.spotify.com/track/1IhVdSpDJV4ASULOTALD3P) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Lewat Doa](https://open.spotify.com/album/1yTMN5y852AZFeViX6rrKz) | 4:18 | 2024-03-28 |  |
+| [Lewat Doa](https://open.spotify.com/track/1IhVdSpDJV4ASULOTALD3P) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Lewat Doa](https://open.spotify.com/album/1yTMN5y852AZFeViX6rrKz) | 4:18 | 2024-03-28 | 2024-04-11 |
+| [Lewat Doa](https://open.spotify.com/track/47w31Y7t568KU7NC0sqCy9) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Lewat Doa](https://open.spotify.com/album/40Hol4DUyuiR00IWlfJ6vL) | 4:18 | 2024-04-04 |  |
 | [Lost In A Maze](https://open.spotify.com/track/6kvAnBR8HBGIG73ASyhF5Z) | [Incircle.](https://open.spotify.com/artist/6N1cdKDau7Es37PJzDcBiI) | [Lost In A Maze](https://open.spotify.com/album/60eBVoIjdn8xemWPWFSljj) | 5:28 | 2024-04-04 |  |
 | [Love Again](https://open.spotify.com/track/6YAGyRdsS4SZNlFGrpFjNr) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [Love Again](https://open.spotify.com/album/3ueOQerHU7Qv1tuHmmDl3e) | 3:12 | 2024-02-29 |  |
 | [Love Distance](https://open.spotify.com/track/4cL8A2FNfID5l2Kq5hLhXW) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd), [KYNYA](https://open.spotify.com/artist/4zy1Zb5mi7hSWc7MOFevU8) | [Love Distance](https://open.spotify.com/album/253BrdvTfgPnAOVVOS2a3X) | 3:36 | 2024-01-18 | 2024-02-23 |

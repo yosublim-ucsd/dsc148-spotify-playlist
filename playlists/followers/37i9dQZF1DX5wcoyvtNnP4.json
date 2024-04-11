@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 492171,
+  "2024-04-11": 492159,
   "date_first_scraped": "2023-09-07",
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
   "name": "Wochenende",
@@ -869,6 +869,28 @@
       "duration_ms": 160403,
       "name": "Daydreamer",
       "url": "https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy"
+    },
+    {
+      "album": {
+        "name": "ONE",
+        "url": "https://open.spotify.com/album/5Z7s0szSd5N5sMh1Zyq81Y"
+      },
+      "artists": [
+        {
+          "name": "MIKOLAS",
+          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
+        },
+        {
+          "name": "Mark Neve",
+          "url": "https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141027,
+      "name": "DELILAH",
+      "url": "https://open.spotify.com/track/1dGjNaPbx96cRZ22BBGcAU"
     },
     {
       "album": {
@@ -1803,7 +1825,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 215370,
       "name": "Mess It Up - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/7wkTF8cHGCurrfNATqvJLc"

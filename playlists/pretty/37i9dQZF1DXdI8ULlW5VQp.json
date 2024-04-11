@@ -1,12 +1,12 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Reik y Ha*Ash en portada.",
-  "num_followers": 66451,
+  "num_followers": 66468,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzZjNTJlYWY0MjNiNmQyYTE3Mjc0N2Q4YWY5ZmIzMjllYTUzNTEw",
+  "snapshot_id": "MCw5MzBiMTFjOWIxYTdhMWY3YzNlZjdmOTFmNGE2MTE3OGI0ZmU1MmM0",
   "tracks": [
     {
       "added_at": "2023-09-26 16:29:26",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
+        "name": "Eres Diamante",
+        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 240295,
+      "name": "Ojos Noche",
+      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
         "name": "Te Llor\u00e9 Un R\u00edo",
         "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 230811,
       "name": "Te Llor\u00e9 Un R\u00edo",
       "url": "https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
-        "name": "Eres Diamante",
-        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 240295,
-      "name": "Ojos Noche",
-      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
     },
     {
       "added_at": "2023-09-26 16:29:26",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
+      },
+      "artists": [
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "duration_ms": 148370,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
         "name": "Hab\u00eda Olvidado (feat. Jos\u00e9 Maria Napole\u00f3n)",
         "url": "https://open.spotify.com/album/0xTx8go2fsysiJnH79Fqu6"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 205744,
       "name": "Hab\u00eda Olvidado (feat. Jos\u00e9 Maria Napole\u00f3n)",
       "url": "https://open.spotify.com/track/13BbOFg8aYZBTw4vOPK1Qa"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
-      },
-      "artists": [
-        {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
-        }
-      ],
-      "duration_ms": 148370,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
     },
     {
       "added_at": "2023-09-26 16:29:26",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
-        "name": "Luna y Marea (feat. KURT)",
-        "url": "https://open.spotify.com/album/3lekI28ahWodrOaaRgmmae"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 228731,
-      "name": "Luna y Marea (feat. KURT)",
-      "url": "https://open.spotify.com/track/5Z2gkSJIibMCdbE7TWceE6"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
         "name": "Mis No Lugares",
         "url": "https://open.spotify.com/album/5UTVOml5TfH7wUeCkqxM8k"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 193443,
       "name": "Todo el Ruido del Mundo",
       "url": "https://open.spotify.com/track/3pILIhM9jDZ94GsyB7r82u"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
+        "name": "Luna y Marea (feat. KURT)",
+        "url": "https://open.spotify.com/album/3lekI28ahWodrOaaRgmmae"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 228731,
+      "name": "Luna y Marea (feat. KURT)",
+      "url": "https://open.spotify.com/track/5Z2gkSJIibMCdbE7TWceE6"
     },
     {
       "added_at": "2023-09-26 16:29:26",

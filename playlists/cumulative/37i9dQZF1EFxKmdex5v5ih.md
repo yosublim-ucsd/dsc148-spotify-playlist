@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-420 songs - 23 hr 12 min
+421 songs - 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [Se Dig Græde](https://open.spotify.com/track/3HkAJYKTQ8D2MXbbu5N8XH) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [KNUSTE HJERTER HELER ALDRIG](https://open.spotify.com/album/71gvf2GimSHvbzVO5B4uYd) | 1:53 | 2023-04-14 |  |
 | [Se Dig Græde](https://open.spotify.com/track/3r8ie9cu2LumbxtwAzXTAd) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Se Dig Græde](https://open.spotify.com/album/3Sw0RFbDZXoZw2Df3bLiMF) | 1:53 | 2023-04-04 | 2023-04-15 |
 | [See You Later](https://open.spotify.com/track/4Fn3jsImMdfQzsvtU3o8CW) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [I'm Sorry I Love You \- EP](https://open.spotify.com/album/5DplyhOUuIy3xuAdS7rfqL) | 2:42 | 2021-12-27 |  |
+| [shine on](https://open.spotify.com/track/4WG69ltMTdZA8hPrgieNzn) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TORI.](https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2) | 2:57 | 2024-04-10 |  |
 | [Shot Glass of Tears](https://open.spotify.com/track/7AbqgE05nFl9qY4FRUiq2p) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:47 | 2024-01-17 |  |
 | [Sick](https://open.spotify.com/track/6hlfwM9SScYH5kRjDBCbBy) | [Mic Ross](https://open.spotify.com/artist/0Xmx6LWkU1ZYaLOCEvm3Ob), [Shonuf](https://open.spotify.com/artist/6gXLnjgWSymxOcGkE77xKN) | [Towards All Your Love Or Revenge](https://open.spotify.com/album/1oZC4wMQbJ2bjdauz6c86W) | 2:29 | 2022-12-15 | 2023-12-14 |
 | [Sick and Tired](https://open.spotify.com/track/35BnBS56IWfKibtlYRKIoo) | [Il Laboratorio del Ritmo](https://open.spotify.com/artist/2CSOHWGP7rB1vvAXO7rQ8Y) | [A Tribute to Anastacia](https://open.spotify.com/album/7vhQXZuaT9cyKjcY7fmANg) | 3:30 | 2023-12-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 7401,
+  "num_followers": 7426,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTVmMDZiNzY3YTNlNDE2M2FlNGM2NjQyNzg3OTE4MDc0YTQ2YjM5",
+  "snapshot_id": "MCwxYmIwMjY3MDM4YmQ3M2EyZmI4ZjVkYTk5ODdlZmMxODlkNTg3MWIx",
   "tracks": [
     {
       "added_at": null,
@@ -299,34 +299,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essa Minha Vida Bandida",
-        "url": "https://open.spotify.com/album/3vdEEeAQYc0HPzetJ488cH"
+        "name": "Poetisas no Topo 3",
+        "url": "https://open.spotify.com/album/59B1Leein60p2cEODo6OHl"
       },
       "artists": [
         {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "Sodomita",
+          "url": "https://open.spotify.com/artist/3Cp40adI2d1cngPRDC1kX2"
         },
         {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+          "name": "Attlanta",
+          "url": "https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr"
         }
       ],
-      "duration_ms": 152380,
-      "name": "Intriga",
-      "url": "https://open.spotify.com/track/4VQOUertHGuID2EgEzVF30"
+      "duration_ms": 374400,
+      "name": "Poetisas no Topo 3",
+      "url": "https://open.spotify.com/track/3tW24NTLSEjFSeIFW1EZQE"
     },
     {
       "added_at": null,
@@ -375,50 +391,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poetisas no Topo 3",
-        "url": "https://open.spotify.com/album/59B1Leein60p2cEODo6OHl"
+        "name": "Essa Minha Vida Bandida",
+        "url": "https://open.spotify.com/album/3vdEEeAQYc0HPzetJ488cH"
       },
       "artists": [
         {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
-        },
-        {
-          "name": "Sodomita",
-          "url": "https://open.spotify.com/artist/3Cp40adI2d1cngPRDC1kX2"
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
         },
         {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Attlanta",
-          "url": "https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr"
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
         }
       ],
-      "duration_ms": 374400,
-      "name": "Poetisas no Topo 3",
-      "url": "https://open.spotify.com/track/3tW24NTLSEjFSeIFW1EZQE"
+      "duration_ms": 152380,
+      "name": "Intriga",
+      "url": "https://open.spotify.com/track/4VQOUertHGuID2EgEzVF30"
     },
     {
       "added_at": null,
@@ -751,30 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fra\u00e7\u00e3o 3/4",
-        "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Ro\u00e7a na Pe\u00e7a",
-      "url": "https://open.spotify.com/track/3FbBLeDmrYdOgJKSiTxzqr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ai Caralh*",
         "url": "https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv"
       },
@@ -795,6 +771,30 @@
       "duration_ms": 169655,
       "name": "Ai Caralh*",
       "url": "https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fra\u00e7\u00e3o 3/4",
+        "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Ro\u00e7a na Pe\u00e7a",
+      "url": "https://open.spotify.com/track/3FbBLeDmrYdOgJKSiTxzqr"
     },
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maldita",
+        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 124546,
+      "name": "Foi S\u00f3 Eu Te Deixar",
+      "url": "https://open.spotify.com/track/3G5iHgGJqWAKRi60HT0pHG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Evolu\u00e7\u00e3o 2",
         "url": "https://open.spotify.com/album/1xi8mesuJOPY2hRHIxAeCB"
       },
@@ -883,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maldita",
-        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 124546,
-      "name": "Foi S\u00f3 Eu Te Deixar",
-      "url": "https://open.spotify.com/track/3G5iHgGJqWAKRi60HT0pHG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Notas",
         "url": "https://open.spotify.com/album/5JxbFGCIxfZPOPSuSs5GAY"
       },
@@ -927,34 +927,6 @@
       "duration_ms": 201951,
       "name": "Notas",
       "url": "https://open.spotify.com/track/2AuH6RO1u7PMqCUv8HNg43"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poder Aquisitivo",
-        "url": "https://open.spotify.com/album/2ESgnOBqnvfeceu4IWWxk2"
-      },
-      "artists": [
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "AnjO 005",
-          "url": "https://open.spotify.com/artist/4JNDTzpVfxrzffzbK2qVn3"
-        },
-        {
-          "name": "JIRAYA",
-          "url": "https://open.spotify.com/artist/66HNyGlf150V83GQlgwNgQ"
-        }
-      ],
-      "duration_ms": 210048,
-      "name": "Poder Aquisitivo",
-      "url": "https://open.spotify.com/track/3HQO3UMEUBCFquwkkfW2FB"
     },
     {
       "added_at": null,
@@ -995,6 +967,34 @@
       "duration_ms": 409756,
       "name": "Sem Compaix\u00e3o Bb",
       "url": "https://open.spotify.com/track/7wPDUhgv7YgKtGgkinvUYx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poder Aquisitivo",
+        "url": "https://open.spotify.com/album/2ESgnOBqnvfeceu4IWWxk2"
+      },
+      "artists": [
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "AnjO 005",
+          "url": "https://open.spotify.com/artist/4JNDTzpVfxrzffzbK2qVn3"
+        },
+        {
+          "name": "JIRAYA",
+          "url": "https://open.spotify.com/artist/66HNyGlf150V83GQlgwNgQ"
+        }
+      ],
+      "duration_ms": 210048,
+      "name": "Poder Aquisitivo",
+      "url": "https://open.spotify.com/track/3HQO3UMEUBCFquwkkfW2FB"
     },
     {
       "added_at": null,

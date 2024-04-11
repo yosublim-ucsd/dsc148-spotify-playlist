@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 10778,
+  "num_followers": 10784,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDc4NzgyNWQ4ZGJmZmFhNDI1ODA0MDhiMGI4MjNhZjVhOWUyNmRh",
+  "snapshot_id": "MCxhZWEyYzEzZWNlYzc3YzkyYzdiOWFhMjQ3ZWRkZTJiYmM4OGMzZTkx",
   "tracks": [
     {
       "added_at": null,
@@ -523,30 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 193617,
-      "name": "Lick Back Remix (feat. Future & Young Thug)",
-      "url": "https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FAST X (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF"
       },
@@ -567,22 +543,6 @@
       "duration_ms": 167812,
       "name": "Spinnin' (feat. EST Gee)",
       "url": "https://open.spotify.com/track/4Kgy1BDA6IM9ahZNrYbCZq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Still Dont Feel Nun",
-        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "30 Boppa",
-      "url": "https://open.spotify.com/track/3JF5uKi0M1RPLnji4QAQMO"
     },
     {
       "added_at": null,
@@ -611,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Still Dont Feel Nun",
+        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "30 Boppa",
+      "url": "https://open.spotify.com/track/3JF5uKi0M1RPLnji4QAQMO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bigger Than Life Or Death (Deluxe)",
         "url": "https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA"
       },
@@ -627,6 +603,30 @@
       "duration_ms": 156981,
       "name": "Balloons (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/48l0R6FAcGDQtyRCdIc9Vs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 193617,
+      "name": "Lick Back Remix (feat. Future & Young Thug)",
+      "url": "https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ion Feel Nun",
-        "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 106904,
-      "name": "Morals",
-      "url": "https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free Dem Boyz",
         "url": "https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 185948,
       "name": "Rose Gold (feat. EST Gee)",
       "url": "https://open.spotify.com/track/2SY4ib4Llku3au3gsGPPEW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ion Feel Nun",
+        "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 106904,
+      "name": "Morals",
+      "url": "https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breezy",
-        "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 204533,
-      "name": "Hmhmm (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/0Tnw0FXl9CYNec5VsPN0y8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Been One",
         "url": "https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 152314,
       "name": "On Da Floor (feat. EST Gee)",
       "url": "https://open.spotify.com/track/3MQXlG1GoNK0lezV66qcWq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breezy",
+        "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 204533,
+      "name": "Hmhmm (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/0Tnw0FXl9CYNec5VsPN0y8"
     },
     {
       "added_at": null,
@@ -999,6 +999,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bigger Than Life Or Death Part 2",
+        "url": "https://open.spotify.com/album/50590zy2jXipuPgHomTXgv"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 171349,
+      "name": "Lamborghini Geeski",
+      "url": "https://open.spotify.com/track/3yFeGITfaWIQpWK2UQc8BM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Did It Again",
         "url": "https://open.spotify.com/album/5PT0DdEwow8sctBE5EVz3O"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 184032,
       "name": "Did It Again",
       "url": "https://open.spotify.com/track/4Z2oORKlQdMBpI3syl8iZl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bigger Than Life Or Death Part 2",
-        "url": "https://open.spotify.com/album/50590zy2jXipuPgHomTXgv"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 171349,
-      "name": "Lamborghini Geeski",
-      "url": "https://open.spotify.com/track/3yFeGITfaWIQpWK2UQc8BM"
     }
   ],
   "unique_name": "This Is EST Gee",

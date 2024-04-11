@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237 likes - 227 songs - 13 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 238 likes - 227 songs - 13 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 117 | [Friends With Benefits](https://open.spotify.com/track/1zqCcxtHDODySsHnM7lxox) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [I Told You](https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4) | 5:29 |
 | 118 | [Handsome](https://open.spotify.com/track/766N0mjf1KzAAYsA1eAJaN) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Heavy Is The Head](https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c) | 2:32 |
 | 119 | [Rolling Papers 2](https://open.spotify.com/track/3Ulh8AlXmYztutPMN59e0s) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Rolling Papers 2](https://open.spotify.com/album/0YFou4SbS16F4GhSADLDfz) | 4:22 |
-| 120 | [Big Bucks](https://open.spotify.com/track/6aQzok2i9onyg7piIm63pF) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [Big Bucks](https://open.spotify.com/album/4SaIYKSkgpur8zvvr9VZ4f) | 1:44 |
-| 121 | [2 Lit 2 Late Interlude](https://open.spotify.com/track/43RSiN5Os4MiYwj3fNVomY) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 0:55 |
+| 120 | [2 Lit 2 Late Interlude](https://open.spotify.com/track/43RSiN5Os4MiYwj3fNVomY) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 0:55 |
+| 121 | [Big Bucks](https://open.spotify.com/track/6aQzok2i9onyg7piIm63pF) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [Big Bucks](https://open.spotify.com/album/4SaIYKSkgpur8zvvr9VZ4f) | 1:44 |
 | 122 | [Hedron](https://open.spotify.com/track/10lGufP5RmCsUwKDTcPpxs) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Late Night Tales: Bonobo](https://open.spotify.com/album/75mOIzgjMsFLN5hyQlpsy8) | 5:51 |
 | 123 | [911](https://open.spotify.com/track/2fEG34NYIZ33WTxhDFePvp) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [The Fate of the Furious: The Album](https://open.spotify.com/album/2FoY0AdBnIYxOH7Z2arD89) | 3:12 |
 | 124 | [Feels Like Summer](https://open.spotify.com/track/5zEeiQbazUWskpZNhnh6i2) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [FM!](https://open.spotify.com/album/1XGGeqLZxjOMdCJhmamIn8) | 2:29 |
@@ -236,4 +236,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 226 | [The Grand Design](https://open.spotify.com/track/3pVOogOInku8irJgvk91yh) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Season 2](https://open.spotify.com/album/0kWlgwwcyciyZcNe0JXqqy) | 2:41 |
 | 227 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `Mjg1NDUyNjAsMDAwMDAwMDBiNzU3YjU5NGI5ZGMyODkxYzI4ZDhhZjUyNDg2NjhhZg==`
+Snapshot ID: `Mjg1NDY2NzAsMDAwMDAwMDA4ZmI1MzUwOTZiYWViN2IxYjQzN2I0Y2NmY2VlZjI4YQ==`

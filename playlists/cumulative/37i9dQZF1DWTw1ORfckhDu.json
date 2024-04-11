@@ -3558,10 +3558,28 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 253300,
       "name": "Konami",
       "url": "https://open.spotify.com/track/09eFIpwjaGEgtmiyePDOk7"
+    },
+    {
+      "album": {
+        "name": "Hai",
+        "url": "https://open.spotify.com/album/5vao2cG8LkUZ1qm3RkPWGa"
+      },
+      "artists": [
+        {
+          "name": "DJ Kridlokk",
+          "url": "https://open.spotify.com/artist/40S3a8Beijh7mZ7vTV5TmJ"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253300,
+      "name": "Konami",
+      "url": "https://open.spotify.com/track/5yoT8V1KnSJxEcIEsCQyTW"
     },
     {
       "album": {

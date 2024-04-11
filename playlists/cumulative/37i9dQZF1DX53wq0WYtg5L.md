@@ -4,7 +4,7 @@
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-199 songs - 10 hr 26 min
+201 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Jesucita en Chihuahua](https://open.spotify.com/track/2Hmt4wtmK3mJVCTj823VW7) | [Mariachi Sol](https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC) | [Mariachi Sol: Viva Mexico](https://open.spotify.com/album/6Gzq7vAbIoNkTAuYKzUpsR) | 2:45 | 2021-09-01 | 2022-07-29 |
 | [Jesucita en Chihuahua](https://open.spotify.com/track/4qmA4beOhror8XzML0d00V) | [Mariachi Sol](https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC) | [Best of Mariachi](https://open.spotify.com/album/6UjKqBJ1V10YiWpjFVWb1d) | 2:45 | 2022-09-12 | 2022-11-13 |
 | [Jesusita En Chihuahua](https://open.spotify.com/track/4AbGDNKKAIfhf53JmclIMr) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Polkas Mexicanas](https://open.spotify.com/album/2mUqMvwE655JirAbrd3sTb) | 2:40 | 2021-09-01 | 2022-07-29 |
-| [Jesusita En Chihuahua](https://open.spotify.com/track/6uPPaJBSEn1kp9ZUQuDfEq) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Polkas Mexicanas](https://open.spotify.com/album/38xZkah2e5R45YCihrw5Wg) | 2:40 | 2022-01-25 |  |
+| [Jesusita En Chihuahua](https://open.spotify.com/track/6uPPaJBSEn1kp9ZUQuDfEq) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Polkas Mexicanas](https://open.spotify.com/album/38xZkah2e5R45YCihrw5Wg) | 2:40 | 2022-01-25 | 2024-04-11 |
+| [Jesusita En Chihuahua](https://open.spotify.com/track/2NYMau9PeHx8LaMcTNVkS1) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Polkas Mexicanas](https://open.spotify.com/album/5j0i6Sbxay5XktMAd3cE92) | 2:40 | 2024-02-23 |  |
 | [Juan Charrasqueado \- Remastered](https://open.spotify.com/track/4i0xJYVDfQ1dUXMOzO3s15) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Viva México \(Remastered\)](https://open.spotify.com/album/5Vvkijcd0ytPuVRv6CMjJz) | 3:28 | 2021-09-01 |  |
 | [Juan Colorado](https://open.spotify.com/track/2qqdRSEgnCaxg3gXnCQGJC) | [Mariachi Arriba Juárez](https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy) | [Mariachi](https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93) | 2:58 | 2021-09-01 |  |
 | [La Adelita](https://open.spotify.com/track/7zjzbXZYUnWbtbs6FEOJjS) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mexico](https://open.spotify.com/album/42OkbulDj2TluRpFiSpzZu) | 1:54 | 2021-09-01 | 2022-07-29 |
@@ -146,7 +147,8 @@
 | [La Malagueña](https://open.spotify.com/track/1XB5aqI6iacCG4bXJSVb0j) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Las Canciones Mexicanas Que El Mundo Canta](https://open.spotify.com/album/3jIy0sTCKvICnOyFCWoxrM) | 4:54 | 2021-09-01 |  |
 | [La Malagueña](https://open.spotify.com/track/3ffFEGNAioJPjFYAruekiT) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:53 | 2021-09-01 |  |
 | [La Marcha De Zacatecas](https://open.spotify.com/track/1yNvdltBhsqVc6LwK33SCn) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Polkas Mexicanas](https://open.spotify.com/album/2mUqMvwE655JirAbrd3sTb) | 3:01 | 2021-09-01 | 2022-07-29 |
-| [La Marcha De Zacatecas](https://open.spotify.com/track/2CNm9DuATGZtLcb7R9dxfi) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Polkas Mexicanas](https://open.spotify.com/album/38xZkah2e5R45YCihrw5Wg) | 3:01 | 2022-01-25 |  |
+| [La Marcha De Zacatecas](https://open.spotify.com/track/2CNm9DuATGZtLcb7R9dxfi) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Polkas Mexicanas](https://open.spotify.com/album/38xZkah2e5R45YCihrw5Wg) | 3:01 | 2022-01-25 | 2024-04-11 |
+| [La Marcha De Zacatecas](https://open.spotify.com/track/0Dlq6fg5KQgEyDzDxUfeUz) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Polkas Mexicanas](https://open.spotify.com/album/5j0i6Sbxay5XktMAd3cE92) | 3:01 | 2024-02-23 |  |
 | [La Marcha de Zacatecas \- Remastered](https://open.spotify.com/track/4RbpfM93z7CyIRgvUSGXgO) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Selección Especial \(Remastered\)](https://open.spotify.com/album/0cIdrD4KzNHtGwyWRKf5ac) | 2:58 | 2022-09-12 | 2022-11-13 |
 | [La Mulita Prieta](https://open.spotify.com/track/2dCICTepTYf3CgfITnxQ4f) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Pepe Aguilar Interpreta A Joan Sebastian](https://open.spotify.com/album/3tIHIHQhkjShT31Br8nreb) | 2:31 | 2022-09-12 |  |
 | [La Petenera \(Medley\)](https://open.spotify.com/track/3P0TvGizbuE8uZvIUwjGKo) | [Mariachi Los Camperos](https://open.spotify.com/artist/7vPYT79nMovLYmO2M3nTe5) | [Tradición, Arte y Pasión](https://open.spotify.com/album/3UeGxT4MIkqxp1kJxvOS2f) | 6:16 | 2021-09-01 |  |

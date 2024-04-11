@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 85572,
+  "num_followers": 85587,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmE0ZGFiNmI2NmEyZTFlMGJmYzViODM2NzdlYTc2MjU0ZGZkNDU2",
+  "snapshot_id": "MCxhYTlmNGNkNDFlYWUyODZiY2YwNmViYmI1MDRmYmIxMzEwNGQ2NjEy",
   "tracks": [
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Code Red",
-        "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
+        "name": "Gangsta Art 2",
+        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
       },
       "artists": [
         {
@@ -392,17 +392,13 @@
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         },
         {
-          "name": "BIG30",
-          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
         }
       ],
-      "duration_ms": 157480,
-      "name": "SRT (feat. BIG30 & Pooh Shiesty)",
-      "url": "https://open.spotify.com/track/0VohK45FIUHEMBbfUw8iBM"
+      "duration_ms": 128009,
+      "name": "50/50 (Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/1aOKOAnj6s8JOgxCEKx4OP"
     },
     {
       "added_at": null,
@@ -423,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gangsta Art 2",
-        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
+        "name": "Code Red",
+        "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
       },
       "artists": [
         {
@@ -432,13 +428,17 @@
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         },
         {
-          "name": "CMG The Label",
-          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
         }
       ],
-      "duration_ms": 128009,
-      "name": "50/50 (Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/1aOKOAnj6s8JOgxCEKx4OP"
+      "duration_ms": 157480,
+      "name": "SRT (feat. BIG30 & Pooh Shiesty)",
+      "url": "https://open.spotify.com/track/0VohK45FIUHEMBbfUw8iBM"
     },
     {
       "added_at": null,
@@ -907,6 +907,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 176551,
+      "name": "All Dere (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/0KLbL3svWeZyhE02nSW8QG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Time Served",
         "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 173161,
       "name": "Splash (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/3GW3dMxqIbl14cZtpLRQBy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ehhthang Ehhthang",
-        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 176551,
-      "name": "All Dere (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/0KLbL3svWeZyhE02nSW8QG"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "?! ft. Malcolm Todd",
-  "num_followers": 741882,
+  "num_followers": 741993,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTRhNWFhMWRmNjQxYzVhODgyMjNhNDJkNjg2MWJmYzYxZDAyNDdj",
+  "snapshot_id": "MCxkZTlhNjEzOGFkNjhmNTczZWUzOTY1OWE0ODNmOTE5OGE2ZDdkMGVm",
   "tracks": [
     {
       "added_at": "2024-04-05 04:00:00",
@@ -285,20 +285,24 @@
       "url": "https://open.spotify.com/track/6EQLN1Fl8oy46k4FMwhxug"
     },
     {
-      "added_at": "2024-03-19 20:25:15",
+      "added_at": "2024-04-05 23:27:41",
       "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE"
+        "name": "Scarlet 2 CLAUDE",
+        "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
         }
       ],
-      "duration_ms": 214557,
-      "name": "Gimme Love",
-      "url": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6"
+      "duration_ms": 205933,
+      "name": "MASC (feat. Teezo Touchdown)",
+      "url": "https://open.spotify.com/track/0FdW7MEbDKdz8v5TXqcFkG"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -315,6 +319,22 @@
       "duration_ms": 146776,
       "name": "Heart",
       "url": "https://open.spotify.com/track/5G6mtgQ3cirV1SrN6mUAMj"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 214557,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -359,26 +379,6 @@
       "duration_ms": 194520,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/49oKnEjgRSs3DMXScEU2G1"
-    },
-    {
-      "added_at": "2024-04-05 23:27:41",
-      "album": {
-        "name": "Scarlet 2 CLAUDE",
-        "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "MASC (feat. Teezo Touchdown)",
-      "url": "https://open.spotify.com/track/0FdW7MEbDKdz8v5TXqcFkG"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/1wCM1ubIBrRPSQvFzGHqV7"
     },
     {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "Do You Like Me?",
-        "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 227663,
-      "name": "Do You Like Me?",
-      "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
-    },
-    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "Conceited",
@@ -615,6 +599,22 @@
       "duration_ms": 239451,
       "name": "Conceited",
       "url": "https://open.spotify.com/track/2Iv1yhxAH7m9SpohnJMs9B"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "Do You Like Me?",
+        "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 227663,
+      "name": "Do You Like Me?",
+      "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -747,26 +747,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "New Friends (feat. Eem Triplin)",
-        "url": "https://open.spotify.com/album/2A4pe5mwhAjBx2gas0HsWM"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        },
-        {
-          "name": "Eem Triplin",
-          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
-        }
-      ],
-      "duration_ms": 130434,
-      "name": "New Friends (feat. Eem Triplin)",
-      "url": "https://open.spotify.com/track/0shO1fRNWJusvfEId0OfsR"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "12:34 AM",
         "url": "https://open.spotify.com/album/4bJGMpZ7LqygIsCM3G9ZYQ"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 127000,
       "name": "12:34 AM",
       "url": "https://open.spotify.com/track/16iNVfWKKZPDjctIcd0KMn"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "New Friends (feat. Eem Triplin)",
+        "url": "https://open.spotify.com/album/2A4pe5mwhAjBx2gas0HsWM"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        },
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        }
+      ],
+      "duration_ms": 130434,
+      "name": "New Friends (feat. Eem Triplin)",
+      "url": "https://open.spotify.com/track/0shO1fRNWJusvfEId0OfsR"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
+        "name": "Sweet Boy Pt. 2",
+        "url": "https://open.spotify.com/album/4hQLHqX3ht0FNuk2z5sKfG"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Sore Throat",
+      "url": "https://open.spotify.com/track/4rFBcz1rUH5IKmKeVRVpcO"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
         "name": "STILL EMO",
         "url": "https://open.spotify.com/album/74LSOp5FSRJFoMMhLpltKz"
       },
@@ -891,6 +907,22 @@
       "duration_ms": 141780,
       "name": "Be Somebody (feat. Tkay Maidza)",
       "url": "https://open.spotify.com/track/3gYy3nywL9QXjYWaMpeHFC"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Too Slow",
+        "url": "https://open.spotify.com/album/4jG5t1TT5os5XgzEekr9J7"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "duration_ms": 124614,
+      "name": "Too Slow",
+      "url": "https://open.spotify.com/track/4XUejjxBZ4UQQ2LB9h8qvJ"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -935,22 +967,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "Sweet Boy Pt. 2",
-        "url": "https://open.spotify.com/album/4hQLHqX3ht0FNuk2z5sKfG"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Sore Throat",
-      "url": "https://open.spotify.com/track/4rFBcz1rUH5IKmKeVRVpcO"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "CAROLINE",
         "url": "https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n"
       },
@@ -967,38 +983,18 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "Starving (feat. Teezo Touchdown)",
-        "url": "https://open.spotify.com/album/1H7FJxNEOxKJbbHvKCtAgp"
+        "name": "the Rake (can\u2019t complain)",
+        "url": "https://open.spotify.com/album/15uH3yROMIfOmC3UZKwtVF"
       },
       "artists": [
         {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        },
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
         }
       ],
-      "duration_ms": 216841,
-      "name": "Starving (feat. Teezo Touchdown)",
-      "url": "https://open.spotify.com/track/6zELuTXrMMOk4fFIf3OErT"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Too Slow",
-        "url": "https://open.spotify.com/album/4jG5t1TT5os5XgzEekr9J7"
-      },
-      "artists": [
-        {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
-        }
-      ],
-      "duration_ms": 124614,
-      "name": "Too Slow",
-      "url": "https://open.spotify.com/track/4XUejjxBZ4UQQ2LB9h8qvJ"
+      "duration_ms": 181714,
+      "name": "the Rake (can\u2019t complain)",
+      "url": "https://open.spotify.com/track/4wXMa4oleu4CaD06V7zEyG"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1035,18 +1031,22 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "the Rake (can\u2019t complain)",
-        "url": "https://open.spotify.com/album/15uH3yROMIfOmC3UZKwtVF"
+        "name": "Starving (feat. Teezo Touchdown)",
+        "url": "https://open.spotify.com/album/1H7FJxNEOxKJbbHvKCtAgp"
       },
       "artists": [
         {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
         }
       ],
-      "duration_ms": 181714,
-      "name": "the Rake (can\u2019t complain)",
-      "url": "https://open.spotify.com/track/4wXMa4oleu4CaD06V7zEyG"
+      "duration_ms": 216841,
+      "name": "Starving (feat. Teezo Touchdown)",
+      "url": "https://open.spotify.com/track/6zELuTXrMMOk4fFIf3OErT"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
+        "name": "Evil",
+        "url": "https://open.spotify.com/album/5vzUGiHb1LrOjJ5Pz55wO0"
+      },
+      "artists": [
+        {
+          "name": "Doov",
+          "url": "https://open.spotify.com/artist/5HRGHEtYLGW78bYOxCmhnm"
+        }
+      ],
+      "duration_ms": 158235,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/3nlwxpdoduF0VTIphyOS2Q"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
         "name": "SINS",
         "url": "https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra"
       },
@@ -1081,20 +1097,68 @@
       "url": "https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW"
     },
     {
-      "added_at": "2024-03-19 20:25:15",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Evil",
-        "url": "https://open.spotify.com/album/5vzUGiHb1LrOjJ5Pz55wO0"
+        "name": "Catching Chickens EP",
+        "url": "https://open.spotify.com/album/2F3uJS0u2IHG8itwnMTTNH"
       },
       "artists": [
         {
-          "name": "Doov",
-          "url": "https://open.spotify.com/artist/5HRGHEtYLGW78bYOxCmhnm"
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
         }
       ],
-      "duration_ms": 158235,
-      "name": "Evil",
-      "url": "https://open.spotify.com/track/3nlwxpdoduF0VTIphyOS2Q"
+      "duration_ms": 223986,
+      "name": "Hell of A Ride",
+      "url": "https://open.spotify.com/track/09P99kOfM2P7w3DN3eL1uz"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "Alone In A Crowd",
+        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 94857,
+      "name": "Fairweather Friends",
+      "url": "https://open.spotify.com/track/05tQzyLaod9RqjabafQYKv"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "Me n My Girl",
+        "url": "https://open.spotify.com/album/5zod1g9FgDO4eNNpjLMDPT"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 130242,
+      "name": "Me n My Girl",
+      "url": "https://open.spotify.com/track/6tngVk9QDusW1nJmcY83uf"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 190348,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1119,82 +1183,18 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "Alone In A Crowd",
-        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+        "name": "The Party",
+        "url": "https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA"
       },
       "artists": [
         {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
         }
       ],
-      "duration_ms": 94857,
-      "name": "Fairweather Friends",
-      "url": "https://open.spotify.com/track/05tQzyLaod9RqjabafQYKv"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Catching Chickens EP",
-        "url": "https://open.spotify.com/album/2F3uJS0u2IHG8itwnMTTNH"
-      },
-      "artists": [
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
-        }
-      ],
-      "duration_ms": 223986,
-      "name": "Hell of A Ride",
-      "url": "https://open.spotify.com/track/09P99kOfM2P7w3DN3eL1uz"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 190348,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "Me n My Girl",
-        "url": "https://open.spotify.com/album/5zod1g9FgDO4eNNpjLMDPT"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 130242,
-      "name": "Me n My Girl",
-      "url": "https://open.spotify.com/track/6tngVk9QDusW1nJmcY83uf"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "Aphid (feat. Dijon)",
-        "url": "https://open.spotify.com/album/4vtOzM8bPSkU9ctAJMcVlc"
-      },
-      "artists": [
-        {
-          "name": "Matt Champion",
-          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "Aphid (feat. Dijon)",
-      "url": "https://open.spotify.com/track/5BLRxUeMQFa4cK61ljrNiF"
+      "duration_ms": 169466,
+      "name": "The Party",
+      "url": "https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "The Party",
-        "url": "https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA"
+        "name": "Sad Night Dynamite",
+        "url": "https://open.spotify.com/album/2a7NyNVcy7eJSeUzzOOF4x"
       },
       "artists": [
         {
-          "name": "Portraits Of Tracy",
-          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+          "name": "Sad Night Dynamite",
+          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
         }
       ],
-      "duration_ms": 169466,
-      "name": "The Party",
-      "url": "https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd"
+      "duration_ms": 187466,
+      "name": "Krunk",
+      "url": "https://open.spotify.com/track/4JC2H3j5NOkpiOXTgMVsx7"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "Sad Night Dynamite",
-        "url": "https://open.spotify.com/album/2a7NyNVcy7eJSeUzzOOF4x"
+        "name": "Aphid (feat. Dijon)",
+        "url": "https://open.spotify.com/album/4vtOzM8bPSkU9ctAJMcVlc"
       },
       "artists": [
         {
-          "name": "Sad Night Dynamite",
-          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
+          "name": "Matt Champion",
+          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
         }
       ],
-      "duration_ms": 187466,
-      "name": "Krunk",
-      "url": "https://open.spotify.com/track/4JC2H3j5NOkpiOXTgMVsx7"
+      "duration_ms": 165360,
+      "name": "Aphid (feat. Dijon)",
+      "url": "https://open.spotify.com/track/5BLRxUeMQFa4cK61ljrNiF"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1275,6 +1275,22 @@
       "duration_ms": 148468,
       "name": "sweet tooth",
       "url": "https://open.spotify.com/track/3EGa3eOp7SFocMhRuiltEz"
+    },
+    {
+      "added_at": "2024-04-09 16:51:42",
+      "album": {
+        "name": "So What If I'm A Freak",
+        "url": "https://open.spotify.com/album/01Si4JV49tWw0ZI3o9L7VQ"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 146865,
+      "name": "So What If I'm A Freak",
+      "url": "https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1307,22 +1323,6 @@
       "duration_ms": 125090,
       "name": "lazy (haste)",
       "url": "https://open.spotify.com/track/4oU1f0xXoSCSB4tpKPSwc7"
-    },
-    {
-      "added_at": "2024-04-09 16:51:42",
-      "album": {
-        "name": "So What If I'm A Freak",
-        "url": "https://open.spotify.com/album/01Si4JV49tWw0ZI3o9L7VQ"
-      },
-      "artists": [
-        {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
-        }
-      ],
-      "duration_ms": 146865,
-      "name": "So What If I'm A Freak",
-      "url": "https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "Where Are You Going?",
-        "url": "https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp"
-      },
-      "artists": [
-        {
-          "name": "Bennett Coast",
-          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
-        }
-      ],
-      "duration_ms": 212985,
-      "name": "Now I Know You",
-      "url": "https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 178477,
       "name": "Fever",
       "url": "https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "Where Are You Going?",
+        "url": "https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "duration_ms": 212985,
+      "name": "Now I Know You",
+      "url": "https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1529,6 +1529,26 @@
       "url": "https://open.spotify.com/track/5HmAnp494nmfabHiRFGBkc"
     },
     {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Psykos",
+        "url": "https://open.spotify.com/album/6aLnXrlksffrrHRb6ktBF9"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 180083,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/7hwDYSEPIrr5GO9Loxuk7E"
+    },
+    {
       "added_at": "2024-03-19 20:25:15",
       "album": {
         "name": "are you sleeping alone again?",
@@ -1623,6 +1643,22 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
+        "name": "Wallsocket",
+        "url": "https://open.spotify.com/album/6exrhkZKAwCGoihIZDJnpv"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 245122,
+      "name": "Johnny johnny johnny",
+      "url": "https://open.spotify.com/track/60qaApzoNFsAXhhPc5zDxh"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
         "name": "I Might be Fake",
         "url": "https://open.spotify.com/album/6lg88hmM7QAFDWvaW47TZ6"
       },
@@ -1659,22 +1695,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "Wallsocket",
-        "url": "https://open.spotify.com/album/6exrhkZKAwCGoihIZDJnpv"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 245122,
-      "name": "Johnny johnny johnny",
-      "url": "https://open.spotify.com/track/60qaApzoNFsAXhhPc5zDxh"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "it was nice knowing u",
         "url": "https://open.spotify.com/album/2lTY9F1Grt1D0HPsaQrGGT"
       },
@@ -1705,22 +1725,6 @@
       "url": "https://open.spotify.com/track/1D0JQnRvAP5vsEg3eKNTPy"
     },
     {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "true",
-        "url": "https://open.spotify.com/album/0a7AaCJjuiyqe1cM5nvjtv"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 191711,
-      "name": "true",
-      "url": "https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN"
-    },
-    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Calling My Name",
@@ -1739,6 +1743,22 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
+        "name": "true",
+        "url": "https://open.spotify.com/album/0a7AaCJjuiyqe1cM5nvjtv"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 191711,
+      "name": "true",
+      "url": "https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
         "name": "UGLY",
         "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
       },
@@ -1751,26 +1771,6 @@
       "duration_ms": 174648,
       "name": "Sooner",
       "url": "https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Psykos",
-        "url": "https://open.spotify.com/album/6aLnXrlksffrrHRb6ktBF9"
-      },
-      "artists": [
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        },
-        {
-          "name": "Bladee",
-          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
-        }
-      ],
-      "duration_ms": 180083,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/7hwDYSEPIrr5GO9Loxuk7E"
     }
   ],
   "unique_name": "anti pop",

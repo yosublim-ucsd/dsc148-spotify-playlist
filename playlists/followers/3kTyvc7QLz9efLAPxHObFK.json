@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 17,
+  "2024-04-11": 17,
   "date_first_scraped": "2023-10-10",
   "description": "",
   "name": "UK Hardcore/Hardstyle/Hardcore/J-Core/Frenchcore/Hard Dance",
@@ -765,6 +765,28 @@
       "duration_ms": 241600,
       "name": "All Of The Lights",
       "url": "https://open.spotify.com/track/5hBqQDU8fb3tuUDgtRR13H"
+    },
+    {
+      "album": {
+        "name": "All The Time",
+        "url": "https://open.spotify.com/album/5Eqe6eFvDq4r02IkiOKw2m"
+      },
+      "artists": [
+        {
+          "name": "Screecher",
+          "url": "https://open.spotify.com/artist/0ZTkDaAaIcEnjE0FPq5rBD"
+        },
+        {
+          "name": "Darkside Unleashed",
+          "url": "https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160399,
+      "name": "All The Time",
+      "url": "https://open.spotify.com/track/1UEdP3g5JQTdhFmLJuY3Nd"
     },
     {
       "album": {
@@ -3570,6 +3592,24 @@
     },
     {
       "album": {
+        "name": "Can't Get You Outta My Head",
+        "url": "https://open.spotify.com/album/5T1QnJXPIQ97h3tXNcdLLJ"
+      },
+      "artists": [
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156378,
+      "name": "Can't Get You Outta My Head",
+      "url": "https://open.spotify.com/track/7dWTrhDYI7wdE2kc8deHOf"
+    },
+    {
+      "album": {
         "name": "Can't Help Falling In Love",
         "url": "https://open.spotify.com/album/3auD6CFKlMPcCZtL1Szvhk"
       },
@@ -3755,6 +3795,28 @@
       "duration_ms": 207600,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/0CBGhRvwtczaFHMtPt6vmH"
+    },
+    {
+      "album": {
+        "name": "ElektraWave",
+        "url": "https://open.spotify.com/album/29I2xhfBPyvI5lAM6sPOZs"
+      },
+      "artists": [
+        {
+          "name": "Vasto",
+          "url": "https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa"
+        },
+        {
+          "name": "MC Livid",
+          "url": "https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132003,
+      "name": "Chaos On Earth",
+      "url": "https://open.spotify.com/track/4m6oZzIkHXX5Q7cVBa0I6J"
     },
     {
       "album": {
@@ -3986,6 +4048,24 @@
     },
     {
       "album": {
+        "name": "Clip To My Fingerz",
+        "url": "https://open.spotify.com/album/0ge9MHRWBzrBg6mRN2tVY6"
+      },
+      "artists": [
+        {
+          "name": "Heartless",
+          "url": "https://open.spotify.com/artist/5kt5kCRNT99Dr93bWD0RPo"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Clip To My Fingerz",
+      "url": "https://open.spotify.com/track/6v5QCFHAR87zDxvHx8xNbT"
+    },
+    {
+      "album": {
         "name": "CLOSE TO ME",
         "url": "https://open.spotify.com/album/6CqJuCUJXzJIpEfZ2jdLJo"
       },
@@ -4019,6 +4099,24 @@
       "duration_ms": 195600,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/24qnpPIyJS3Fln8QxQbHkw"
+    },
+    {
+      "album": {
+        "name": "Closer & Closer (Lust)",
+        "url": "https://open.spotify.com/album/0e21VAdWXglV2uNwQczLdE"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190774,
+      "name": "Closer & Closer (Lust)",
+      "url": "https://open.spotify.com/track/33I6EMlyKVXZFexDSOWJw9"
     },
     {
       "album": {
@@ -6180,6 +6278,28 @@
     },
     {
       "album": {
+        "name": "Drums",
+        "url": "https://open.spotify.com/album/6mK4sFo2r6P7Puxz9VJbUK"
+      },
+      "artists": [
+        {
+          "name": "Imperatorz",
+          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
+        },
+        {
+          "name": "Regain",
+          "url": "https://open.spotify.com/artist/0Fp1lykJGk1eInmWFbSwoK"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145640,
+      "name": "Drums",
+      "url": "https://open.spotify.com/track/6H3bpoZgeYMmmmIgIZqkQH"
+    },
+    {
+      "album": {
         "name": "Drums In My Hand",
         "url": "https://open.spotify.com/album/6zyLcpTafY55gOacmCfMkT"
       },
@@ -6887,6 +7007,24 @@
       "duration_ms": 199152,
       "name": "Evil",
       "url": "https://open.spotify.com/track/0g6FNaWRStoYqhQiHC2Vs3"
+    },
+    {
+      "album": {
+        "name": "Evolve Rerise",
+        "url": "https://open.spotify.com/album/4f6wwMWCfRhmIRBFgZSAH2"
+      },
+      "artists": [
+        {
+          "name": "nora2r",
+          "url": "https://open.spotify.com/artist/2w6fOiIppkVrA659vJN89h"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123708,
+      "name": "Evolve Rerise",
+      "url": "https://open.spotify.com/track/1OTdjQoSOX78UBKpkk4eIQ"
     },
     {
       "album": {
@@ -10893,6 +11031,46 @@
       "duration_ms": 269049,
       "name": "I Like Bass",
       "url": "https://open.spotify.com/track/7eNFtBAwul6cqskHAtlRbN"
+    },
+    {
+      "album": {
+        "name": "I Love It",
+        "url": "https://open.spotify.com/album/539fmAbtb0njedW5AkMjxK"
+      },
+      "artists": [
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        },
+        {
+          "name": "Beats by Luca",
+          "url": "https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/5VG6MONs7BkKKjO65vZYMm"
+    },
+    {
+      "album": {
+        "name": "I Wanna Live",
+        "url": "https://open.spotify.com/album/2uC5gLWEn11uheW0003mHm"
+      },
+      "artists": [
+        {
+          "name": "Odium",
+          "url": "https://open.spotify.com/artist/6J2T1atTrazMhACALYdA5Q"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145333,
+      "name": "I Wanna Live",
+      "url": "https://open.spotify.com/track/57jMN6YemUojabtxDUm9JI"
     },
     {
       "album": {
@@ -19498,6 +19676,28 @@
     },
     {
       "album": {
+        "name": "Presents VKNG",
+        "url": "https://open.spotify.com/album/7g2zXj7JSjH6DYjEOn6CvH"
+      },
+      "artists": [
+        {
+          "name": "David Rust",
+          "url": "https://open.spotify.com/artist/31PQANabd071TUYth7bG5n"
+        },
+        {
+          "name": "Jakka-B",
+          "url": "https://open.spotify.com/artist/2jVj0crTzkmBmxsBXkQaM8"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/59HQbyhXPILArjeQNWj4Qh"
+    },
+    {
+      "album": {
         "name": "SEXA J\u00c4GER (Yetixz Remix)",
         "url": "https://open.spotify.com/album/4rlyIzsuF1VhmkBpsw8MwO"
       },
@@ -20947,6 +21147,24 @@
       "duration_ms": 277519,
       "name": "System Addict",
       "url": "https://open.spotify.com/track/5ZUnpAUmjIT4GBBAdSHnRj"
+    },
+    {
+      "album": {
+        "name": "Take A Ride",
+        "url": "https://open.spotify.com/album/0GaU783CD7TVU4pZHX2y2w"
+      },
+      "artists": [
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166200,
+      "name": "Take A Ride",
+      "url": "https://open.spotify.com/track/7EHbXDGgmMRIqQsZiMKKTv"
     },
     {
       "album": {
@@ -23657,6 +23875,28 @@
       "duration_ms": 209333,
       "name": "Veilinghallen",
       "url": "https://open.spotify.com/track/2n33B7iUh4oRF37trcSq3M"
+    },
+    {
+      "album": {
+        "name": "Veo Veo",
+        "url": "https://open.spotify.com/album/0dheXvm7uUV6KW3CgmeDFW"
+      },
+      "artists": [
+        {
+          "name": "Beats by Luca",
+          "url": "https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs"
+        },
+        {
+          "name": "Noiseflow",
+          "url": "https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166998,
+      "name": "Veo Veo",
+      "url": "https://open.spotify.com/track/13FraYFP1CPx0c726P5cF3"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 79361,
+  "num_followers": 79390,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzRhNTRhMjg1MjljNGY5MGU1NmZmN2IzMmYzYWFlOGQ1MmI4MjJi",
+  "snapshot_id": "MCw2N2M4NDE0ZDQzN2M5ODJiMmE2N2JmMWJiOTk5ZWRkYTI1YmEyMmJi",
   "tracks": [
     {
       "added_at": "2023-12-27 14:18:14",
@@ -575,6 +575,26 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "Semblante de Criminoso Speed",
+        "url": "https://open.spotify.com/album/4OapHKHJ62yQphWbquFKQt"
+      },
+      "artists": [
+        {
+          "name": "DJ Cayoo",
+          "url": "https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv"
+        },
+        {
+          "name": "MC Myres",
+          "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz"
+        }
+      ],
+      "duration_ms": 98475,
+      "name": "Semblante de Criminoso Speed",
+      "url": "https://open.spotify.com/track/4NXhoDZKkhtWfulsgqsmOa"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "Ela T\u00e1 Querendo (Remix)",
         "url": "https://open.spotify.com/album/205zkN1K6TB8WPFwXxVq3O"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 75971,
       "name": "Ela T\u00e1 Querendo - Remix",
       "url": "https://open.spotify.com/track/3AB3etyCs8orfDXKB7OVez"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Semblante de Criminoso Speed",
-        "url": "https://open.spotify.com/album/4OapHKHJ62yQphWbquFKQt"
-      },
-      "artists": [
-        {
-          "name": "DJ Cayoo",
-          "url": "https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv"
-        },
-        {
-          "name": "MC Myres",
-          "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz"
-        }
-      ],
-      "duration_ms": 98475,
-      "name": "Semblante de Criminoso Speed",
-      "url": "https://open.spotify.com/track/4NXhoDZKkhtWfulsgqsmOa"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -847,6 +847,26 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "Joga na Cara (Vers\u00e3o Speed)",
+        "url": "https://open.spotify.com/album/2Lh5XIcVNQdd8Dq2lglDGo"
+      },
+      "artists": [
+        {
+          "name": "MC Braz",
+          "url": "https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ"
+        },
+        {
+          "name": "MC Gabluca",
+          "url": "https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8"
+        }
+      ],
+      "duration_ms": 97714,
+      "name": "Joga na Cara (Vers\u00e3o Speed)",
+      "url": "https://open.spotify.com/track/1pVFSyBX7zVzZtcI5a9y5z"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "Manda \u00c1udio (Sped Funk)",
         "url": "https://open.spotify.com/album/0zuN31JROjiQnzQm0KGtkk"
       },
@@ -871,38 +891,18 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Joga na Cara (Vers\u00e3o Speed)",
-        "url": "https://open.spotify.com/album/2Lh5XIcVNQdd8Dq2lglDGo"
+        "name": "Se a Saudade Bater (Workout Version)",
+        "url": "https://open.spotify.com/album/5XC3pLLrZMj6d254BFHBD3"
       },
       "artists": [
         {
-          "name": "MC Braz",
-          "url": "https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ"
-        },
-        {
-          "name": "MC Gabluca",
-          "url": "https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8"
+          "name": "MC Tairon",
+          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
         }
       ],
-      "duration_ms": 97714,
-      "name": "Joga na Cara (Vers\u00e3o Speed)",
-      "url": "https://open.spotify.com/track/1pVFSyBX7zVzZtcI5a9y5z"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Como Era Antes",
-        "url": "https://open.spotify.com/album/6ftwzFoSNWFnJLcZ2seY98"
-      },
-      "artists": [
-        {
-          "name": "rs9",
-          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
-        }
-      ],
-      "duration_ms": 64480,
-      "name": "Como Era Antes... (Speed Up)",
-      "url": "https://open.spotify.com/track/1ehN4TuEBlGb3ievwvTIhQ"
+      "duration_ms": 131280,
+      "name": "Se a Saudade Bater (Workout Version)",
+      "url": "https://open.spotify.com/track/4WDFyuqWL2TzMFeiBqMdK2"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Se a Saudade Bater (Workout Version)",
-        "url": "https://open.spotify.com/album/5XC3pLLrZMj6d254BFHBD3"
+        "name": "Como Era Antes",
+        "url": "https://open.spotify.com/album/6ftwzFoSNWFnJLcZ2seY98"
       },
       "artists": [
         {
-          "name": "MC Tairon",
-          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
+          "name": "rs9",
+          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
         }
       ],
-      "duration_ms": 131280,
-      "name": "Se a Saudade Bater (Workout Version)",
-      "url": "https://open.spotify.com/track/4WDFyuqWL2TzMFeiBqMdK2"
+      "duration_ms": 64480,
+      "name": "Como Era Antes... (Speed Up)",
+      "url": "https://open.spotify.com/track/1ehN4TuEBlGb3ievwvTIhQ"
     },
     {
       "added_at": "2023-12-27 14:18:14",

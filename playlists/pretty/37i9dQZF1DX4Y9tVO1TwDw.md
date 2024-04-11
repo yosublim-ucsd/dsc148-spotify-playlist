@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 34 | [VAN A VER](https://open.spotify.com/track/3DMbXac1r9ZOwOZKs1Pd1O) | [Tony Loya](https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L) | [Town Shit Vol\. 3](https://open.spotify.com/album/6vRbcfIeASWMzW5xXoaPUA) | 2:24 |
 | 35 | [Agradecido](https://open.spotify.com/track/0ZHiVXwpcteAbqEJmFYBdy) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Agradecido](https://open.spotify.com/album/58g9KaWSWjKq81CVyIsv9z) | 2:41 |
 | 36 | [Donde Se Fue el Sol](https://open.spotify.com/track/2V5SOpJyIyJudUPJzB5HI8) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Donde Se Fue el Sol](https://open.spotify.com/album/2v2kVJmiTZAej6IcQT19oQ) | 3:39 |
-| 37 | [¿Qué Nos Pasó?](https://open.spotify.com/track/3HFoiMqUstpjKGuCnAYQ2U) | [Mauro](https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD), [Palm Street Music](https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c) | [¿Qué Nos Pasó?](https://open.spotify.com/album/1DWrE8Xky9itsV13fWyPEJ) | 3:59 |
-| 38 | [Tengo Sed](https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [LOBA Vol\. I](https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2) | 2:53 |
-| 39 | [EN LA MAÑANA](https://open.spotify.com/track/2G7KZHdWfYtoosTp7ssdsv) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [EN LA MAÑANA](https://open.spotify.com/album/6F0xELstPslG3d9Fqv2hRX) | 2:33 |
-| 40 | [Siempre Tendré Mi Voz](https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Siempre Tendré Mi Voz](https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4) | 2:45 |
+| 37 | [Tengo Sed](https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [LOBA Vol\. I](https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2) | 2:53 |
+| 38 | [¿Qué Nos Pasó?](https://open.spotify.com/track/3HFoiMqUstpjKGuCnAYQ2U) | [Mauro](https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD), [Palm Street Music](https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c) | [¿Qué Nos Pasó?](https://open.spotify.com/album/1DWrE8Xky9itsV13fWyPEJ) | 3:59 |
+| 39 | [Siempre Tendré Mi Voz](https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Siempre Tendré Mi Voz](https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4) | 2:45 |
+| 40 | [EN LA MAÑANA](https://open.spotify.com/track/2G7KZHdWfYtoosTp7ssdsv) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [EN LA MAÑANA](https://open.spotify.com/album/6F0xELstPslG3d9Fqv2hRX) | 2:33 |
 | 41 | [C'est La Vie](https://open.spotify.com/track/3tnLzpNisAGDZVmemNcjM5) | [Henao](https://open.spotify.com/artist/2tAOr6Bu4b1JDQjRZcMdML) | [C'est La Vie](https://open.spotify.com/album/5sKVdHaUCdYnz3JHTin2N7) | 3:05 |
 | 42 | [Atrapada](https://open.spotify.com/track/7c0EhjQTq7i4W7eHHFQyXR) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Atrapada](https://open.spotify.com/album/5MIfFyJ75UraxeBT9MV3us) | 4:06 |
 | 43 | [Olivia Rodrigo](https://open.spotify.com/track/2jSijYfc6NxLkh1NvmSLCM) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl) | [Olivia Rodrigo](https://open.spotify.com/album/793yH9COaJR4F2qAXM0MAu) | 2:21 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 53 | [NISSAN](https://open.spotify.com/track/2UpUXtRKh1yaPW3p0UpEo3) | [Harlay](https://open.spotify.com/artist/0aN1efj8fytfb8PUYyjZus) | [NISSAN](https://open.spotify.com/album/66NvqSro6inz5pGKQnIxdK) | 1:56 |
 | 54 | [Fría](https://open.spotify.com/track/7eqgrmkz5xhqZYKyWk8X5j) | [Ratchetón](https://open.spotify.com/artist/3KtoMerxi4LwxzYytFbgx5) | [Fría](https://open.spotify.com/album/2PSESkGglaCfC4Qvk1XLSc) | 2:26 |
 
-Snapshot ID: `MCwyZjk0NzRlYTE0YmMxMTFkZmNmN2ZhZjBiMmI4ZDdlZTE0N2M2NDVm`
+Snapshot ID: `MCxlZDdmNmJiN2IxODJhYjEyZjU3NTkxOTYwZGZjMmFhNDFiMTg2ZDJh`

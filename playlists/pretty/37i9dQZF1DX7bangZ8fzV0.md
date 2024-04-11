@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v?si=45a30asnSZC1qXPlyoy12w">Brendan Peyper</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,454 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,511 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 74 | [Dina](https://open.spotify.com/track/5qA6bUnDzyLDbyAlH4U7vV) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 3:16 |
 | 75 | [Vuur Op Die Water](https://open.spotify.com/track/7hnO1itqe41tDT0tuEOgVV) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Vuur Op Die Water](https://open.spotify.com/album/40vvsgbIIr5XKof5iKCBr2) | 3:36 |
 
-Snapshot ID: `MCxhOGY3YTdmOTJmMGQzODg5ZTkyMjdhZjJmZWY1NTM4MTIwNTlhYjIx`
+Snapshot ID: `MCw2NzA5ODhmMDllNDhmZmUxMzk4YzhlOWU0OTY5NmRiYmJhOGQyZjYx`

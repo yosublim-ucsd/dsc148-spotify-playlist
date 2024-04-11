@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 
 > Fold time and space through sound to reach imaginary universes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,679 likes - 75 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,752 likes - 75 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 29 | [Aura](https://open.spotify.com/track/0zYhhEnVPmb1cTwPYeCO44) | [Wojciech Golczewski](https://open.spotify.com/artist/7GTDYl4iOKyUUdQVJXlmy0) | [The Priests Of Hiroshima](https://open.spotify.com/album/4qRNz1VSyZ7njYp3UKqKcu) | 2:41 |
 | 30 | [Welcome to Lunar Industries](https://open.spotify.com/track/4NkxNXR19hl20qlB2DOgAx) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [Moon \(Original Score\)](https://open.spotify.com/album/0ux9vxJhJoFKaD66UH3160) | 7:11 |
 | 31 | [Theme Number Sixty Eight](https://open.spotify.com/track/3j42kvMTc7rDaxrt0vFMwt) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Black Mill Tapes \(10th Anniversary Box\)](https://open.spotify.com/album/3GWTJtbuaUpSPK9IQSUMSw) | 1:50 |
-| 32 | [Briefly](https://open.spotify.com/track/0qSjSC6I0puPWQbyQXOIAf) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ) | 27:02 |
+| 32 | [Deep Distance](https://open.spotify.com/track/2cRQA17KKBy0pklGxGZ699) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [New Age Of Earth](https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1) | 5:49 |
 | 33 | [White Cyclosa](https://open.spotify.com/track/7F2r3g9H42ZawwrOJJrDMz) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 3:13 |
-| 34 | [Deep Distance](https://open.spotify.com/track/2cRQA17KKBy0pklGxGZ699) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [New Age Of Earth](https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1) | 5:49 |
+| 34 | [Briefly](https://open.spotify.com/track/0qSjSC6I0puPWQbyQXOIAf) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ) | 27:02 |
 | 35 | [1983 \- Main Theme](https://open.spotify.com/track/7cbccIqslt9et0xpkmcCaa) | [Sinoia Caves](https://open.spotify.com/artist/3PiClMYSnMYHCc2T11m9cd) | [Beyond The Black Rainbow \- Original Soundtrack](https://open.spotify.com/album/5cbwOeQ5ScNqV942hoet9P) | 3:19 |
 | 36 | [4T Recordings](https://open.spotify.com/track/4Apw7hpz0mMcYeNhNZq3ml) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [4T Recordings](https://open.spotify.com/album/1TP8nDCTDUaVGFr6lfQ61r) | 3:17 |
 | 37 | [Transmission 01](https://open.spotify.com/track/5rbSdmjpfIXrAfSMRIh2eS) | [Wojciech Golczewski](https://open.spotify.com/artist/7GTDYl4iOKyUUdQVJXlmy0) | [End of Transmission](https://open.spotify.com/album/73dzZJt3kdrqH4T9luIhKb) | 3:23 |
@@ -69,11 +69,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 59 | [The First Wave \- Birth Of Venus](https://open.spotify.com/track/6wG4izwDQdTxkpBEB6CRlk) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Seven Waves](https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3) | 5:04 |
 | 60 | [Lipstick To Void](https://open.spotify.com/track/3iJP1AzZzlbUqJNJUvfJo3) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Under The Skin \(Original Soundtrack Album\)](https://open.spotify.com/album/0MJwS1KqklO8tr95IJAcQA) | 6:41 |
 | 61 | [Illusion Of Time](https://open.spotify.com/track/02svSerh4F5X5Fn3rdnd93) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/60zljcyghRa4eCzf8nxeJU) | 4:22 |
-| 62 | [Mahi Mahi](https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU) | [Moonfish](https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T), [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb), [Riccardo Chiaberta](https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1) | [Mahi Mahi](https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC) | 3:16 |
-| 63 | [Margin](https://open.spotify.com/track/5ftP8UAivGwdKrLtiXCDcX) | [Abstract Aprils](https://open.spotify.com/artist/0tEsiY5wdNsxeUga1b8yu0) | [Margin](https://open.spotify.com/album/4VHeuhHxD88i9lWoispU9I) | 5:16 |
+| 62 | [Is This Power](https://open.spotify.com/track/0Q70gojAQn9mTAdY15tWzM) | [The Field](https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS) | [Looping State Of Mind](https://open.spotify.com/album/6h1LdVhHDirAXwgDFftCL0) | 8:39 |
+| 63 | [Mahi Mahi](https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU) | [Moonfish](https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T), [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb), [Riccardo Chiaberta](https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1) | [Mahi Mahi](https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC) | 3:16 |
 | 64 | [Mono No Aware 1.1](https://open.spotify.com/track/6iGNMNHHbsdSh0f14q3jcS) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Selva Oscura](https://open.spotify.com/album/1BbS1N3W9MnpKuiAn26tSo) | 5:39 |
-| 65 | [Is This Power](https://open.spotify.com/track/0Q70gojAQn9mTAdY15tWzM) | [The Field](https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS) | [Looping State Of Mind](https://open.spotify.com/album/6h1LdVhHDirAXwgDFftCL0) | 8:39 |
-| 66 | [Subtractive Skies](https://open.spotify.com/track/3ehy5UoF8LJfWmJpm4UHOI) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Nonlin](https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn) | 6:46 |
+| 65 | [Subtractive Skies](https://open.spotify.com/track/3ehy5UoF8LJfWmJpm4UHOI) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Nonlin](https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn) | 6:46 |
+| 66 | [Margin](https://open.spotify.com/track/5ftP8UAivGwdKrLtiXCDcX) | [Abstract Aprils](https://open.spotify.com/artist/0tEsiY5wdNsxeUga1b8yu0) | [Margin](https://open.spotify.com/album/4VHeuhHxD88i9lWoispU9I) | 5:16 |
 | 67 | [Moderato](https://open.spotify.com/track/5nihxnUMrvUAY7NweeNPbT) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 3:57 |
 | 68 | [The Runaround](https://open.spotify.com/track/7uapTtBbij6ydhnU7BaerU) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Lowell Brams](https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4) | [Aporia](https://open.spotify.com/album/1juVCzBeCE5Nzx0iqXZ8kU) | 3:35 |
 | 69 | [Los Angeles](https://open.spotify.com/track/0zY2EvOMhmQEF2unzzfqqz) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1) | 2:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 74 | [Barcarolle](https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW) | [Saloli](https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj) | [The Deep End](https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm) | 4:42 |
 | 75 | [Hell Riders](https://open.spotify.com/track/4WoJjW20CcWFt5S4PVBycE) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [DSVII](https://open.spotify.com/album/1euK7GgNJmBprlctpGtDC5) | 6:47 |
 
-Snapshot ID: `MCw4NjIyNjliMTcwMThiODgzM2Q2YWZkZGFkZDlhOWM1MmFiZjViZjNi`
+Snapshot ID: `MCw0YjU0NmEyYTE2NWY1ODgzOTE2YjYwYzVlMjE5NDQzOTI3NGNiZjc2`

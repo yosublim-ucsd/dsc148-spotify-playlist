@@ -4,7 +4,7 @@
 
 > Acoustic pop songs for chill summer days or nights.
 
-184 songs - 10 hr 9 min
+185 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Chasing Pavements](https://open.spotify.com/track/1tIEJc4Sgw1Op6Ef0fLSzV) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Chasing Pavements](https://open.spotify.com/album/4ZBXi0owchcH5sIj5qyrn0) | 3:00 | 2024-02-23 |  |
 | [Chemical](https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk) | [Abbie Parker](https://open.spotify.com/artist/4WL3KimNe6kNw0abLnzpko) | [Chemical](https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64) | 3:07 | 2023-05-23 |  |
 | [Complicated](https://open.spotify.com/track/7t24uFfZmiMrYMUIgaCQ3e) | [Ben & Tim](https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv) | [Complicated](https://open.spotify.com/album/5DJqyKsCjkMaU3CiSOoTxA) | 3:02 | 2023-08-10 |  |
-| [Cool](https://open.spotify.com/track/0B6Gf49UuiyYiKM3cCdfzW) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Cool](https://open.spotify.com/album/3Y5mbHm9zcwmAmhKlORakx) | 4:03 | 2022-08-02 |  |
+| [Cool](https://open.spotify.com/track/0B6Gf49UuiyYiKM3cCdfzW) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Cool](https://open.spotify.com/album/3Y5mbHm9zcwmAmhKlORakx) | 4:03 | 2022-08-02 | 2024-04-11 |
+| [Cool](https://open.spotify.com/track/6lF7TSRbGXhSQhGWQyvBaX) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Cool](https://open.spotify.com/album/4R5WjtyRwOjs0iNi2pD0MZ) | 4:03 | 2024-03-21 |  |
 | [Crazy in Love](https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy in Love](https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk) | 3:47 | 2022-06-03 | 2023-04-14 |
 | [Dancing In The Dark](https://open.spotify.com/track/1bqxj84nNs2iic1dsi6h9K) | [Bear Little](https://open.spotify.com/artist/5gf3VTWJ6siWvD4xtPUfJf) | [Dancing In The Dark](https://open.spotify.com/album/6OV5a9PVlsfnMVtgKPc1Gy) | 3:17 | 2022-07-01 |  |
 | [Dancing in the Dark](https://open.spotify.com/track/0aLBrgdmfl1DADg3ZO6y0N) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Blood & Rust](https://open.spotify.com/album/3i0G8lTtnie5oGe4xJuicR) | 3:59 | 2022-03-10 | 2022-07-29 |

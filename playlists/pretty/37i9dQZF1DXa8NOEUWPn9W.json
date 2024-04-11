@@ -1,12 +1,12 @@
 {
   "description": "House music lives here. United under one roof, featuring Cloonee.",
-  "num_followers": 1931004,
+  "num_followers": 1931145,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjlkM2YxZjc0YmJlMGQzZjZlODE5MzlkOWI3MTU5ZDEzYmE1ODdj",
+  "snapshot_id": "MCw1ZWU3NWNlYTE4Njc1NDVkNmI0ZGNjYzU5NTQ2YTcwYjI0OWMxMjFi",
   "tracks": [
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Get Hard (You In The Lobby)",
-        "url": "https://open.spotify.com/album/3Py5hR3sTJG5PqCxw6TqYn"
-      },
-      "artists": [
-        {
-          "name": "Luke Dean",
-          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
-        }
-      ],
-      "duration_ms": 156948,
-      "name": "Get Hard (You In The Lobby)",
-      "url": "https://open.spotify.com/track/3tUtwmznpPiEu8AkqX3Xom"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Ti Sento",
         "url": "https://open.spotify.com/album/7Cm248Tj1NigR5Jujq0IJq"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 180261,
       "name": "Ti Sento",
       "url": "https://open.spotify.com/track/5PcmvoBshN5YfFmU4uSXwd"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Get Hard (You In The Lobby)",
+        "url": "https://open.spotify.com/album/3Py5hR3sTJG5PqCxw6TqYn"
+      },
+      "artists": [
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "duration_ms": 156948,
+      "name": "Get Hard (You In The Lobby)",
+      "url": "https://open.spotify.com/track/3tUtwmznpPiEu8AkqX3Xom"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1471,30 +1471,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Jiggy Woogie",
-        "url": "https://open.spotify.com/album/1POseoKNTFrdId8Tvt5N2G"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Baby Lawd",
-          "url": "https://open.spotify.com/artist/3yIk29nEyIjpijSSOX1EII"
-        }
-      ],
-      "duration_ms": 140495,
-      "name": "Jiggy Woogie",
-      "url": "https://open.spotify.com/track/3yGpcjSuAiNofSrnsgzNRk"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Brighter Days (30 Year Anniversary Remixes)",
         "url": "https://open.spotify.com/album/27khu5BAQkUgYxqlYFwRLB"
       },
@@ -1519,6 +1495,46 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Jiggy Woogie",
+        "url": "https://open.spotify.com/album/1POseoKNTFrdId8Tvt5N2G"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Baby Lawd",
+          "url": "https://open.spotify.com/artist/3yIk29nEyIjpijSSOX1EII"
+        }
+      ],
+      "duration_ms": 140495,
+      "name": "Jiggy Woogie",
+      "url": "https://open.spotify.com/track/3yGpcjSuAiNofSrnsgzNRk"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Baby Wants to Ride / Your Love",
+        "url": "https://open.spotify.com/album/6hV7MW8zuYQ9skUy0rY2h5"
+      },
+      "artists": [
+        {
+          "name": "Frankie Knuckles",
+          "url": "https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc"
+        }
+      ],
+      "duration_ms": 403706,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/0vryyKyxCFXT0gg670yNEw"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Carry Me Higher",
         "url": "https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 270402,
       "name": "Carry Me Higher - 7 Inch Version",
       "url": "https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Baby Wants to Ride / Your Love",
-        "url": "https://open.spotify.com/album/6hV7MW8zuYQ9skUy0rY2h5"
-      },
-      "artists": [
-        {
-          "name": "Frankie Knuckles",
-          "url": "https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc"
-        }
-      ],
-      "duration_ms": 403706,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/0vryyKyxCFXT0gg670yNEw"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Vibrate / On The Ground",
-        "url": "https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
-        }
-      ],
-      "duration_ms": 134170,
-      "name": "Vibrate",
-      "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Ando High",
         "url": "https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 165875,
       "name": "Ando High",
       "url": "https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Vibrate / On The Ground",
+        "url": "https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "duration_ms": 134170,
+      "name": "Vibrate",
+      "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1875,6 +1875,50 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Mind Still (feat. blythe)",
+        "url": "https://open.spotify.com/album/5vQgixmnyYGp53WtWEfBtQ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "blythe",
+          "url": "https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC"
+        }
+      ],
+      "duration_ms": 156498,
+      "name": "Mind Still (feat. blythe)",
+      "url": "https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Heaven or Not",
+        "url": "https://open.spotify.com/album/57vgi9GXqxBvyLmlTQeeUk"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "duration_ms": 151259,
+      "name": "Heaven or Not",
+      "url": "https://open.spotify.com/track/6B8ZQyILzGTzJZ2BE8ydcF"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "No Reason (Chris Lake Remix)",
         "url": "https://open.spotify.com/album/3TEApFY0nZSH1JTceGBK53"
       },
@@ -1915,30 +1959,6 @@
       "duration_ms": 184244,
       "name": "Cutting Loose",
       "url": "https://open.spotify.com/track/6n34hL7CBdTVeekAeprHow"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Heaven or Not",
-        "url": "https://open.spotify.com/album/57vgi9GXqxBvyLmlTQeeUk"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Riva Starr",
-          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
-        },
-        {
-          "name": "Kareen Lomax",
-          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
-        }
-      ],
-      "duration_ms": 151259,
-      "name": "Heaven or Not",
-      "url": "https://open.spotify.com/track/6B8ZQyILzGTzJZ2BE8ydcF"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -2035,8 +2055,8 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Mind Still (feat. blythe)",
-        "url": "https://open.spotify.com/album/5vQgixmnyYGp53WtWEfBtQ"
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
       },
       "artists": [
         {
@@ -2044,13 +2064,13 @@
           "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
         },
         {
-          "name": "blythe",
-          "url": "https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC"
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
         }
       ],
-      "duration_ms": 156498,
-      "name": "Mind Still (feat. blythe)",
-      "url": "https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v"
+      "duration_ms": 165000,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -2135,22 +2155,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Vogue",
-        "url": "https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 192187,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Seismic",
         "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
       },
@@ -2175,22 +2179,18 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Levitate",
-        "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz"
       },
       "artists": [
         {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
+      "duration_ms": 192187,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -2211,22 +2211,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Don't Abuse It",
-        "url": "https://open.spotify.com/album/3z8N7BrygP8gQIrirqvE6v"
+        "name": "I Am The One",
+        "url": "https://open.spotify.com/album/6EigqdKdQ2B8bxnJrIGLN9"
       },
       "artists": [
         {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
         },
         {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
         }
       ],
-      "duration_ms": 135967,
-      "name": "Don't Abuse It",
-      "url": "https://open.spotify.com/track/5E9ulwLRaDx2tO9liULCuE"
+      "duration_ms": 200624,
+      "name": "I Am The One",
+      "url": "https://open.spotify.com/track/6c6aGOsp8aME26mlghPuBd"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -2255,18 +2255,38 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv"
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs"
       },
       "artists": [
         {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
         }
       ],
-      "duration_ms": 198508,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ"
+      "duration_ms": 200318,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Don't Abuse It",
+        "url": "https://open.spotify.com/album/3z8N7BrygP8gQIrirqvE6v"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        }
+      ],
+      "duration_ms": 135967,
+      "name": "Don't Abuse It",
+      "url": "https://open.spotify.com/track/5E9ulwLRaDx2tO9liULCuE"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -2295,38 +2315,18 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs"
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv"
       },
       "artists": [
         {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
         }
       ],
-      "duration_ms": 200318,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "I Am The One",
-        "url": "https://open.spotify.com/album/6EigqdKdQ2B8bxnJrIGLN9"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        },
-        {
-          "name": "TOBEHONEST",
-          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
-        }
-      ],
-      "duration_ms": 200624,
-      "name": "I Am The One",
-      "url": "https://open.spotify.com/track/6c6aGOsp8aME26mlghPuBd"
+      "duration_ms": 198508,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -2351,22 +2351,18 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Ready To Go (My Addiction)",
-        "url": "https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo"
+        "name": "Disco Boy",
+        "url": "https://open.spotify.com/album/3Txc8x00YzCwL0RKvZ3jxs"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Alex Guesta",
-          "url": "https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3"
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
         }
       ],
-      "duration_ms": 144390,
-      "name": "Ready To Go (My Addiction)",
-      "url": "https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn"
+      "duration_ms": 221370,
+      "name": "Disco Boy",
+      "url": "https://open.spotify.com/track/0kE354dlcnsm9hYRTT2D5E"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -2391,6 +2387,26 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Ready To Go (My Addiction)",
+        "url": "https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Alex Guesta",
+          "url": "https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3"
+        }
+      ],
+      "duration_ms": 144390,
+      "name": "Ready To Go (My Addiction)",
+      "url": "https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Tudo Bem, Tudo Bom",
         "url": "https://open.spotify.com/album/5DDC66giRO5VgBOVypxxkn"
       },
@@ -2403,38 +2419,6 @@
       "duration_ms": 178125,
       "name": "Tudo Bem, Tudo Bom - Radio Edit",
       "url": "https://open.spotify.com/track/6qcPNJ9UGyBNxEc6r9Aiki"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Disco Boy",
-        "url": "https://open.spotify.com/album/3Txc8x00YzCwL0RKvZ3jxs"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 221370,
-      "name": "Disco Boy",
-      "url": "https://open.spotify.com/track/0kE354dlcnsm9hYRTT2D5E"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "One Pill",
-        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
-      },
-      "artists": [
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "One Pill",
-      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -2459,6 +2443,22 @@
       "duration_ms": 176185,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/3nAYEZFHbgbWyR9ztORqlm"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "One Pill",
+        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "One Pill",
+      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
     },
     {
       "added_at": "2024-04-05 04:01:00",

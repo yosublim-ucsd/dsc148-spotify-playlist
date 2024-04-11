@@ -1,12 +1,12 @@
 {
   "description": "This is Los Hijos De Garcia. The essential tracks, all in one playlist.",
-  "num_followers": 4576,
+  "num_followers": 4579,
   "original_name": "This Is Los Hijos De Garcia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGI4MjA3ZjU5ODZlZDQ1ZjkwM2I5MTM1NzQyMWU5NjY4OWE1YjY4",
+  "snapshot_id": "MCxkZGNhMmIwN2I2NWM1ODExNTJkZjk0MDEzMTYxYTI2MmJmZjNiNmVk",
   "tracks": [
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 183040,
-      "name": "Mujer Paseada - En Vivo",
-      "url": "https://open.spotify.com/track/6d7s3sqE0cOR1oUdbxPrhS"
+      "duration_ms": 177493,
+      "name": "Bohemio de Afici\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/4i0SFmcMd79sCXfnuFKqlf"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 177493,
-      "name": "Bohemio de Afici\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/4i0SFmcMd79sCXfnuFKqlf"
+      "duration_ms": 183040,
+      "name": "Mujer Paseada - En Vivo",
+      "url": "https://open.spotify.com/track/6d7s3sqE0cOR1oUdbxPrhS"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 156928,
-      "name": "El Cimarron",
-      "url": "https://open.spotify.com/track/3mBI9q2AWvbEEGLnxjmdBg"
+      "duration_ms": 175178,
+      "name": "El R De Houston",
+      "url": "https://open.spotify.com/track/44rxSvGpVmqoPt6RGkhbQp"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 175178,
-      "name": "El R De Houston",
-      "url": "https://open.spotify.com/track/44rxSvGpVmqoPt6RGkhbQp"
+      "duration_ms": 156928,
+      "name": "El Cimarron",
+      "url": "https://open.spotify.com/track/3mBI9q2AWvbEEGLnxjmdBg"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Casa De La Esquina",
-        "url": "https://open.spotify.com/album/5ahdqBULRpO7ISU4jBazcP"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 117760,
-      "name": "La Casa De La Esquina",
-      "url": "https://open.spotify.com/track/6qw1U481E7u4DAw5UZv3vD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aqui Nada Me Va Mal",
         "url": "https://open.spotify.com/album/3QfoLOlTy4yUlO7R1HWadb"
       },
@@ -695,22 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Gre\u00f1ita",
-        "url": "https://open.spotify.com/album/11gHCZZq5kRtQvpN0D1dVz"
+        "name": "La Casa De La Esquina",
+        "url": "https://open.spotify.com/album/5ahdqBULRpO7ISU4jBazcP"
       },
       "artists": [
-        {
-          "name": "La Nueva C",
-          "url": "https://open.spotify.com/artist/1tl27rwbbTb7px4vcga4R3"
-        },
         {
           "name": "Los Hijos De Garcia",
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 157685,
-      "name": "La Gre\u00f1ita",
-      "url": "https://open.spotify.com/track/40P38t8Q2JYgngn5xke2Mm"
+      "duration_ms": 117760,
+      "name": "La Casa De La Esquina",
+      "url": "https://open.spotify.com/track/6qw1U481E7u4DAw5UZv3vD"
     },
     {
       "added_at": null,
@@ -747,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Gre\u00f1ita",
+        "url": "https://open.spotify.com/album/11gHCZZq5kRtQvpN0D1dVz"
+      },
+      "artists": [
+        {
+          "name": "La Nueva C",
+          "url": "https://open.spotify.com/artist/1tl27rwbbTb7px4vcga4R3"
+        },
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 157685,
+      "name": "La Gre\u00f1ita",
+      "url": "https://open.spotify.com/track/40P38t8Q2JYgngn5xke2Mm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quisiste T\u00fa Volver",
         "url": "https://open.spotify.com/album/4wBviDB8A3WuLU9PRFNDSR"
       },
@@ -779,22 +779,6 @@
       "duration_ms": 256641,
       "name": "Classroom Love",
       "url": "https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Loco Malandro",
-        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 135711,
-      "name": "Gorra De Tijuana",
-      "url": "https://open.spotify.com/track/2ef6lyJzo9pj6UNdoWgqes"
     },
     {
       "added_at": null,
@@ -847,22 +831,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pisteando Con Larry Hern\u00e1ndez, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/2NBIYoC2EnQndQkfIHffQf"
+        "name": "Loco Malandro",
+        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
       },
       "artists": [
-        {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
-        },
         {
           "name": "Los Hijos De Garcia",
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 177280,
-      "name": "18 Libras (En Vivo)",
-      "url": "https://open.spotify.com/track/4LllVWdo8dth4v3wZTwh1X"
+      "duration_ms": 135711,
+      "name": "Gorra De Tijuana",
+      "url": "https://open.spotify.com/track/2ef6lyJzo9pj6UNdoWgqes"
     },
     {
       "added_at": null,
@@ -883,8 +863,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loco Malandro",
-        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
+        "name": "Pisteando Con Larry Hern\u00e1ndez, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/2NBIYoC2EnQndQkfIHffQf"
+      },
+      "artists": [
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        },
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 177280,
+      "name": "18 Libras (En Vivo)",
+      "url": "https://open.spotify.com/track/4LllVWdo8dth4v3wZTwh1X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blanca Nieves",
+        "url": "https://open.spotify.com/album/70riXpr57NKCdX0b6h2siw"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 182640,
-      "name": "Recordando La Sierra",
-      "url": "https://open.spotify.com/track/0dMeXStZXBSurWBhZlZtTV"
+      "duration_ms": 257531,
+      "name": "Blanca Nieves",
+      "url": "https://open.spotify.com/track/0cIjGS69xkKGavLQG8n0YK"
     }
   ],
   "unique_name": "This Is Los Hijos De Garcia",

@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9746,
+  "num_followers": 9748,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTk2ZWM3MjY3NTMyMjdmZDZkMGVkYzM0MTA1NGI5YTY0ZDFjZTkz",
+  "snapshot_id": "MCxjMTc0NGIyY2M0NDlhY2EyNzMwZTRkMjEwNzIxZDUzM2FlYjc3NGI3",
   "tracks": [
     {
       "added_at": "2024-03-27 14:49:50",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-03-27 14:49:50",
       "album": {
+        "name": "Paint on Spring",
+        "url": "https://open.spotify.com/album/3wHPgbPG7fuBktQszASI1I"
+      },
+      "artists": [
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd"
+        }
+      ],
+      "duration_ms": 232653,
+      "name": "Paint on Spring",
+      "url": "https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v"
+    },
+    {
+      "added_at": "2024-03-27 14:49:50",
+      "album": {
         "name": "Q",
         "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 205773,
       "name": "Natural",
       "url": "https://open.spotify.com/track/6NTqjlA3cY297AfumSxm2o"
-    },
-    {
-      "added_at": "2024-03-27 14:49:50",
-      "album": {
-        "name": "Paint on Spring",
-        "url": "https://open.spotify.com/album/3wHPgbPG7fuBktQszASI1I"
-      },
-      "artists": [
-        {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd"
-        }
-      ],
-      "duration_ms": 232653,
-      "name": "Paint on Spring",
-      "url": "https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v"
     },
     {
       "added_at": "2024-03-27 14:49:50",

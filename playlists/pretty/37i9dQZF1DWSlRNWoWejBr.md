@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ou vc dança ou o grave t balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,512 likes - 70 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 767,069 likes - 70 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 33 | [Ai Ui Que Bunda Que Você Tem](https://open.spotify.com/track/1hKva9BUEPMAz4rwGCL2XE) | [Mc Kitinho](https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO), [DJ DEIVÃO](https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk), [Silva Mc](https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3), [MC Flavinho](https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM), [MC GIL DO ANDARAI](https://open.spotify.com/artist/5ZHOFwo9fCShzy3rTXEsYt) | [Ai Ui Que Bunda Que Você Tem](https://open.spotify.com/album/50saEBrPbzwkF47hgs6cL8) | 2:15 |
 | 34 | [PEGA MEU BONECO 2](https://open.spotify.com/track/1oqkrkdGyznvLH1cIyI3Hp) | [DJ JN PROD](https://open.spotify.com/artist/4EUj9LINHYskuTsLjZCArq), [DJ ITIN](https://open.spotify.com/artist/7C3mp2BNLYQ04iGHoPFrsL) | [PEGA MEU BONECO 2](https://open.spotify.com/album/32N7HqEPSPZjbBVBG8eGi8) | 2:06 |
 | 35 | [3 Dias Virado](https://open.spotify.com/track/7DROtyR6IMNifyZmyksyE7) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN) | [Só Explosão](https://open.spotify.com/album/3gfYd2A8jDzJCNOamNRJEm) | 3:27 |
-| 36 | [RITMINHO DO FUNK CARIOCA](https://open.spotify.com/track/4IpFpviWYpu9lUjSQEXkSF) | [exit life](https://open.spotify.com/artist/4jp2EULcqGbvPfKM5ws4Ak) | [RITMINHO DO FUNK CARIOCA](https://open.spotify.com/album/6PPv4nVWf1oCVIaU2zGuQ0) | 6:35 |
+| 36 | [RITMINHO DO FUNK CARIOCA](https://open.spotify.com/track/0NfTUts3LtgpVVaZQ1wBwI) | [Evrido](https://open.spotify.com/artist/3nPR47yybren4Tgt40dstS) | [RITMINHO DO FUNK CARIOCA](https://open.spotify.com/album/79f6J7SdFhPlscCB4e5sBW) | 6:35 |
 | 37 | [Calendário do Papai](https://open.spotify.com/track/0HrfC94KO4hQx21pGHWBcv) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB) | [Calendário do Papai](https://open.spotify.com/album/2IA4kNjwNlHxJzzl3cUF3o) | 2:21 |
 | 38 | [Tipo Hollywood](https://open.spotify.com/track/6nvbXA95vgyThzj2Tbhank) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [MC Cothiê](https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C) | [Tipo Holywood](https://open.spotify.com/album/5W7hjyoWwy2KGEUTCN0L6z) | 1:49 |
 | 39 | [Subindo e Descendo](https://open.spotify.com/track/4F3XVx6fmZvWLBqmBG1gxg) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [Mc Topre](https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy) | [Alcateia](https://open.spotify.com/album/5ds061BRZCKGmFLpq1Cwok) | 3:12 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 69 | [Tipo Hollywood](https://open.spotify.com/track/6nvbXA95vgyThzj2Tbhank) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [MC Cothiê](https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C) | [Tipo Holywood](https://open.spotify.com/album/5W7hjyoWwy2KGEUTCN0L6z) | 1:49 |
 | 70 | [Melodia Alucinógena](https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN) | [DJ AK BR](https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO), [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML) | [Melodia Alucinógena](https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs) | 3:03 |
 
-Snapshot ID: `MCw1ZjM0MDliOTgwMGQzMGZmODRmNTNmN2Q0NDJmOTExZjkxYWEwOTFl`
+Snapshot ID: `MCw1ZDFlM2ZhY2IyYjk5MDJjNTQwZDFhODY5MWEzNmM4Nzc2NDkxY2Vl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Nanpa Básico & Pj Sin Suela
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,715 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,790 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 60 | [MAMA](https://open.spotify.com/track/3aOmRscxeXJqnywqdjyoEN) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [MAMA](https://open.spotify.com/album/2e1cjrIszuy4lI8BD4MGOO) | 4:25 |
 | 61 | [VICE](https://open.spotify.com/track/5cEKOjsX3RhJZ5PM6SUSei) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [VICE](https://open.spotify.com/album/3KdT1P24jy6A1n8N6juvxy) | 2:41 |
 | 62 | [Joder](https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Joder](https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml) | 2:29 |
-| 63 | [Ron En El Piso](https://open.spotify.com/track/4NV0h97tYFnu3nlj8dyDqP) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Ron En El Piso](https://open.spotify.com/album/2FfQlGud9aEcHPuDkwYj5z) | 5:35 |
+| 63 | [Jaguar](https://open.spotify.com/track/3k3Hm3PBmnE7bNCExKOxFm) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [Jaguar](https://open.spotify.com/album/5DxjVYkGm326bIHaFv6nvX) | 3:15 |
 | 64 | [Morena 420](https://open.spotify.com/track/4NxwFVKcqu0xAQngTiB3dA) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Morena 420](https://open.spotify.com/album/7ACMkgQ4dC0JitXOeGL1tC) | 3:56 |
-| 65 | [Jaguar](https://open.spotify.com/track/3k3Hm3PBmnE7bNCExKOxFm) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [Jaguar](https://open.spotify.com/album/5DxjVYkGm326bIHaFv6nvX) | 3:15 |
+| 65 | [Ron En El Piso](https://open.spotify.com/track/4NV0h97tYFnu3nlj8dyDqP) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Ron En El Piso](https://open.spotify.com/album/2FfQlGud9aEcHPuDkwYj5z) | 5:35 |
 | 66 | [Pico y Pala](https://open.spotify.com/track/1AWefrQG0I0OtvatTB01EZ) | [Munic HB](https://open.spotify.com/artist/28oQ6vi1R2m9mdSBnsAkUQ) | [Pico y Pala](https://open.spotify.com/album/2W3jyJZSprQ0fxlOpEGH7H) | 2:54 |
 | 67 | [Algo más](https://open.spotify.com/track/6FE1NAMYwkuNJDNPEZ8xez) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [TODO](https://open.spotify.com/album/1ga2yneTMtHivfc7wDKl1W) | 3:12 |
 | 68 | [El 3 Letras](https://open.spotify.com/track/0avQe2HiA50Q20yp7Tf8Qu) | [El Makabelico](https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO) | [El 3 Letras](https://open.spotify.com/album/6S3n6edGaYeA3dNhp8xxFv) | 6:02 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 85 | [Ilegal](https://open.spotify.com/track/0cTwOl6O8Vp9bcCqiXryum) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Denilson](https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj), [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ) | [Ilegal](https://open.spotify.com/album/5ZW5SdUAU4ICF6Ch0IBwpG) | 4:45 |
 | 86 | [Socios](https://open.spotify.com/track/5XEKaGX5bEvZE79KneoLic) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Socios](https://open.spotify.com/album/35aCkilcy42NSM3eQqdYWm) | 4:03 |
 | 87 | [Kame Hame](https://open.spotify.com/track/7xh93gqqo5VBD6tGRp77qv) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Kame Hame](https://open.spotify.com/album/5mAMMqiX0sebEb7npoeBV8) | 2:47 |
-| 88 | [NUDE](https://open.spotify.com/track/5LZEvEjAzndBZUaHrp1o0L) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [NUDE](https://open.spotify.com/album/3U89lACWYtEdnV1UTke0CP) | 2:55 |
-| 89 | [Ahi voy](https://open.spotify.com/track/0ceKCaT9XNZJzkzEBO2zTy) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Ahi voy](https://open.spotify.com/album/42wP55l1oKBcJ3xx7P9bL4) | 3:45 |
+| 88 | [Ahi voy](https://open.spotify.com/track/0ceKCaT9XNZJzkzEBO2zTy) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Ahi voy](https://open.spotify.com/album/42wP55l1oKBcJ3xx7P9bL4) | 3:45 |
+| 89 | [NUDE](https://open.spotify.com/track/5LZEvEjAzndBZUaHrp1o0L) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [NUDE](https://open.spotify.com/album/3U89lACWYtEdnV1UTke0CP) | 2:55 |
 | 90 | [Whoopty \(Latin Mix\) \[feat\. Anuel AA and Ozuna\]](https://open.spotify.com/track/48MsdL5Med93EyIwINl5qY) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Whoopty \(Latin Mix\) \[feat\. Anuel AA and Ozuna\]](https://open.spotify.com/album/4NM6c7Q88osAJ4KoDQUvpo) | 3:33 |
 | 91 | [Maradona](https://open.spotify.com/track/42HcEeL1pumhrTRF62ssz8) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Haciéndolo Fino](https://open.spotify.com/album/0DDsexe1qhQ2TQ43XztwMl) | 3:33 |
 | 92 | [PEGAO](https://open.spotify.com/track/06AeysOdGsT32fTpBRGik6) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [SMILE BIX :\)](https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 99 | [7](https://open.spotify.com/track/4xrsV0Sy36rxEYoyDoz11a) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [7](https://open.spotify.com/album/4AcTenx2Op3VL7XJ4zRLjl) | 3:26 |
 | 100 | [Santo Grial](https://open.spotify.com/track/71CmmeQnoVpTAlMtxEevaf) | [Dano](https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Mir Nicolas](https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT) | [El Hombre Hace Planes, Dios Se Ríe](https://open.spotify.com/album/0xEGQSfKAhZj1yAFj4JMYP) | 5:51 |
 
-Snapshot ID: `MCwxNWJlMDIyNzUzODg1ZGEyZTYwMTdhZTMxNDYzZjE1MmY3Njg0ZTZj`
+Snapshot ID: `MCw0M2UwZWIwNDIxYjQ5YTdiY2IyNTNiNjZlMjQ0ODgwMzdmYTJiMTlk`

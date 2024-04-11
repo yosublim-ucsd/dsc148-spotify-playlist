@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 227781,
+  "num_followers": 227822,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTc4NjY1ZTk1YzQ3NTczNWE4ZDU2NjU2OWFjNzM4Nzg1YWE5OTcy",
+  "snapshot_id": "MCxhY2E3NTliYTEyMjY0NWY3MDdkMDQ5MjFlNTY4YTMxYjM2YmQ3NWRl",
   "tracks": [
     {
       "added_at": null,
@@ -963,22 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D.A.B. Muzic, Vol. 1",
-        "url": "https://open.spotify.com/album/1aBzIVyoNah5QzW5LHZEXD"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 187324,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/0fujQqs6ybS47td4sEwPcA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -1103,6 +1087,34 @@
       "duration_ms": 194706,
       "name": "Want Me Dead (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3GXjlz7evuodm50dfiDDWo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "mainstream sellout",
+        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Landon Barker",
+          "url": "https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF"
+        }
+      ],
+      "duration_ms": 207007,
+      "name": "die in california (feat. Gunna, Young Thug & Landon Barker)",
+      "url": "https://open.spotify.com/track/28ZGbkz2MDnpvHhSRQw4f1"
     }
   ],
   "unique_name": "This Is Young Thug",

@@ -1,12 +1,12 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 66252,
+  "num_followers": 66309,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWQ4NDJiYjlmNDJkMTMyNjVkNzRlN2MyNzI4YTM2Y2ZiYTUwMjlj",
+  "snapshot_id": "MCwyNzIwOTRiOGQwOTI0OWMzM2RlMTc1ODFiOTUxOTA4MjBmZDI3YzY2",
   "tracks": [
     {
       "added_at": "2024-03-15 06:36:00",
@@ -641,7 +641,7 @@
         }
       ],
       "duration_ms": 327416,
-      "name": "JAGERMEISTER (feat. 2woBunnies)",
+      "name": "JAGERMEISTER",
       "url": "https://open.spotify.com/track/3S9FC9B3GExBXy2eIFq1tT"
     },
     {
@@ -964,8 +964,12 @@
       },
       "artists": [
         {
-          "name": "Teraphonique & DNZL444",
-          "url": "https://open.spotify.com/artist/1CCbWy2ncjMEyrbXausjKF"
+          "name": "TeraphoniQue",
+          "url": "https://open.spotify.com/artist/04oIjchSi05edEVbMQr64m"
+        },
+        {
+          "name": "DNZL444",
+          "url": "https://open.spotify.com/artist/1aBBAzFrklsARDCrA7Qpe9"
         }
       ],
       "duration_ms": 426289,

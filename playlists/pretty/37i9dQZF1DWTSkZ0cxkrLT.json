@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 424417,
+  "num_followers": 424435,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2Y2NjliODk0OTk4MDgzNTVlODhiMzIxZjU2OGU4M2EzMGY4NmQy",
+  "snapshot_id": "MCwyN2NjZTY2Y2NmMGVlMWYyOTZhM2Y3ZWNhNThjYzM0MDMzZmY3OTlm",
   "tracks": [
     {
       "added_at": "2024-04-05 17:20:07",
@@ -227,18 +227,18 @@
     {
       "added_at": "2024-04-05 17:20:07",
       "album": {
-        "name": "Clandestino",
-        "url": "https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq"
+        "name": "Fuerza Natural",
+        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
       },
       "artists": [
         {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 122760,
-      "name": "Je ne t'aime plus",
-      "url": "https://open.spotify.com/track/7Deb4scGmEv4fY2CZcVnSb"
+      "duration_ms": 234760,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
     },
     {
       "added_at": "2024-04-05 17:20:07",
@@ -263,18 +263,18 @@
     {
       "added_at": "2024-04-05 17:20:07",
       "album": {
-        "name": "Fuerza Natural",
-        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
+        "name": "Clandestino",
+        "url": "https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
         }
       ],
-      "duration_ms": 234760,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
+      "duration_ms": 122760,
+      "name": "Je ne t'aime plus",
+      "url": "https://open.spotify.com/track/7Deb4scGmEv4fY2CZcVnSb"
     },
     {
       "added_at": "2024-04-05 17:20:07",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-04-05 17:20:07",
       "album": {
+        "name": "Amor Amarillo",
+        "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "Te Llevo para Que Me Lleves",
+      "url": "https://open.spotify.com/track/5rGphVLnbPdyBQ5X3rjb2X"
+    },
+    {
+      "added_at": "2024-04-05 17:20:07",
+      "album": {
         "name": "1.22.03 Acoustic",
         "url": "https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu"
       },
@@ -431,22 +447,6 @@
     {
       "added_at": "2024-04-05 17:20:07",
       "album": {
-        "name": "Amor Amarillo",
-        "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "Te Llevo para Que Me Lleves",
-      "url": "https://open.spotify.com/track/5rGphVLnbPdyBQ5X3rjb2X"
-    },
-    {
-      "added_at": "2024-04-05 17:20:07",
-      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-04-05 17:20:07",
       "album": {
+        "name": "Beatriz",
+        "url": "https://open.spotify.com/album/1pWjhnDNd6hDpFGsGT55bR"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 302613,
+      "name": "Bossa & People",
+      "url": "https://open.spotify.com/track/4yFh5okeS2u5iO5vAsBsHc"
+    },
+    {
+      "added_at": "2024-04-05 17:20:07",
+      "album": {
         "name": "Cantora 2",
         "url": "https://open.spotify.com/album/3pnyaihZuauVqbp3SiRy3r"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 238840,
       "name": "Zona de Promesas (with Gustavo Cerati)",
       "url": "https://open.spotify.com/track/1YBSWq2Wc7cwgHgvHvMm2Z"
-    },
-    {
-      "added_at": "2024-04-05 17:20:07",
-      "album": {
-        "name": "Beatriz",
-        "url": "https://open.spotify.com/album/1pWjhnDNd6hDpFGsGT55bR"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 302613,
-      "name": "Bossa & People",
-      "url": "https://open.spotify.com/track/4yFh5okeS2u5iO5vAsBsHc"
     },
     {
       "added_at": "2024-04-05 17:20:07",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-04-05 17:20:07",
       "album": {
-        "name": "Inconsciente Colectivo",
-        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Amanece en la Ruta",
-      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
-    },
-    {
-      "added_at": "2024-04-05 17:20:07",
-      "album": {
         "name": "Todo el D\u00eda As\u00ed",
         "url": "https://open.spotify.com/album/1hM9onmRwyME8M8E1X0OgR"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 215492,
       "name": "Todo el D\u00eda As\u00ed",
       "url": "https://open.spotify.com/track/1EAOYGRgF3eUJLZMSfin7P"
+    },
+    {
+      "added_at": "2024-04-05 17:20:07",
+      "album": {
+        "name": "Inconsciente Colectivo",
+        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Amanece en la Ruta",
+      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
     },
     {
       "added_at": "2024-04-05 17:20:07",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2024-04-05 17:20:07",
       "album": {
+        "name": "Chica Acuario",
+        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 207163,
+      "name": "Chica Acuario",
+      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
+    },
+    {
+      "added_at": "2024-04-05 17:20:07",
+      "album": {
         "name": "Un Koala En Una Palmera",
         "url": "https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM"
       },
@@ -1131,26 +1151,6 @@
       "duration_ms": 261815,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt"
-    },
-    {
-      "added_at": "2024-04-05 17:20:07",
-      "album": {
-        "name": "Chica Acuario",
-        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 207163,
-      "name": "Chica Acuario",
-      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
     },
     {
       "added_at": "2024-04-05 17:20:07",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-04-05 17:20:07",
       "album": {
+        "name": "Fin del Mundo",
+        "url": "https://open.spotify.com/album/1T24IS66qX4DlVj1xIhUv0"
+      },
+      "artists": [
+        {
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+        }
+      ],
+      "duration_ms": 232263,
+      "name": "Fin del Mundo",
+      "url": "https://open.spotify.com/track/4s6KoIwPyCL8vXFCTCXKCw"
+    },
+    {
+      "added_at": "2024-04-05 17:20:07",
+      "album": {
         "name": "Por Amor al Arte",
         "url": "https://open.spotify.com/album/5hpbQTlqiYxmrwLn4IYQls"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 125611,
       "name": "Por Amor al Arte",
       "url": "https://open.spotify.com/track/2M6gFpCKX6IxkdQZrzi7r6"
-    },
-    {
-      "added_at": "2024-04-05 17:20:07",
-      "album": {
-        "name": "Fin del Mundo",
-        "url": "https://open.spotify.com/album/1T24IS66qX4DlVj1xIhUv0"
-      },
-      "artists": [
-        {
-          "name": "Alan Sutton y las criaturitas de la ansiedad",
-          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
-        }
-      ],
-      "duration_ms": 232263,
-      "name": "Fin del Mundo",
-      "url": "https://open.spotify.com/track/4s6KoIwPyCL8vXFCTCXKCw"
     }
   ],
   "unique_name": "T\u00e9 Para Tres",

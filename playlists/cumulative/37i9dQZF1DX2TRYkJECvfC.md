@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-483 songs - 1 day 17 hr 29 min
+484 songs - 1 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [Just Us 2](https://open.spotify.com/track/77PphOhe88ESixnOdJBfby) | [Vivra Verra](https://open.spotify.com/artist/6pfji9v6mcjF8tFmzsDx9z) | [Just Us 2](https://open.spotify.com/album/2Vxp30fUJJKOKTdmaaKYzY) | 7:04 | 2021-12-08 | 2023-03-05 |
 | [Karabali](https://open.spotify.com/track/0IEuz3GjLdjk8WQfPw8Q3m) | [Kiko Navarro](https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj), [Isis "Apache" Montero](https://open.spotify.com/artist/6bYazLdY9FOXMKqiJpP8yA), [Roque Martinez](https://open.spotify.com/artist/6LcN8OnXsB9BD3j58iDKKT) | [Afroterraneo](https://open.spotify.com/album/0pnCkqw8Kl7MP1A9j7MqKL) | 7:05 | 2022-10-28 | 2023-04-30 |
 | [Karabali](https://open.spotify.com/track/1hSjdeo8nyWJZO5nBO7rVC) | [Kiko Navarro](https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj), [Isis "Apache" Montero](https://open.spotify.com/artist/6bYazLdY9FOXMKqiJpP8yA), [Roque Martinez](https://open.spotify.com/artist/6LcN8OnXsB9BD3j58iDKKT) | [Afroterraneo](https://open.spotify.com/album/4BpBqfC0qi6MaB3l96QBo4) | 7:05 | 2021-12-08 | 2022-10-13 |
-| [Karabali](https://open.spotify.com/track/48qDlvkTp9Qwi9upy4HbTw) | [Kiko Navarro](https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj), [Isis "Apache" Montero](https://open.spotify.com/artist/6bYazLdY9FOXMKqiJpP8yA), [Roque Martinez](https://open.spotify.com/artist/6LcN8OnXsB9BD3j58iDKKT) | [Afroterraneo](https://open.spotify.com/album/39wGGsvN5SnqfjlrAe8l7l) | 7:05 | 2023-05-12 |  |
+| [Karabali](https://open.spotify.com/track/48qDlvkTp9Qwi9upy4HbTw) | [Kiko Navarro](https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj), [Isis "Apache" Montero](https://open.spotify.com/artist/6bYazLdY9FOXMKqiJpP8yA), [Roque Martinez](https://open.spotify.com/artist/6LcN8OnXsB9BD3j58iDKKT) | [Afroterraneo](https://open.spotify.com/album/39wGGsvN5SnqfjlrAe8l7l) | 7:05 | 2023-05-12 | 2024-04-11 |
 | [Karizma](https://open.spotify.com/track/6oTrSmQUsvndDDQSMjqcyM) | [Moe Turk](https://open.spotify.com/artist/12rv3gD3SpWQRRkswqlwvF) | [Karizma](https://open.spotify.com/album/012jKWKp9G69I3jQXhvh4C) | 5:52 | 2022-10-28 | 2024-04-08 |
 | [Keep Going](https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Keep Going](https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo) | 3:44 | 2023-02-03 |  |
 | [Keep On](https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Keep On](https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO) | 3:38 | 2022-05-03 | 2024-01-07 |
@@ -412,6 +412,7 @@
 | [Supervivencia \- Original Mix](https://open.spotify.com/track/4bJlbvjScvFlkzuHU1AC0n) | [Julian Iannone](https://open.spotify.com/artist/01mHkY7IVrdNlF1KJm1hkQ), [Ramon Bedoya](https://open.spotify.com/artist/7bca0jrEcYw3lqIHQp3wl2) | [Supervivencia](https://open.spotify.com/album/0wAqQzMRN0RIsjYdb27Xs5) | 7:21 | 2021-12-08 | 2022-07-05 |
 | [Surrender](https://open.spotify.com/track/1o5ZPbk5NxzAODTs698XTz) | [Angelos](https://open.spotify.com/artist/2zagWFWxFhQg3OvUmnnliq), [Jaidene Veda](https://open.spotify.com/artist/5RnHlRFELc91Qk6dV6mhNG) | [Surrender EP](https://open.spotify.com/album/4YMwLHF5geIbncO1hSCm6Y) | 6:34 | 2021-12-08 |  |
 | [Surrender \- Pablo Fierro Remix](https://open.spotify.com/track/3DioyryIiTFOavvhrQ00G6) | [Angelos](https://open.spotify.com/artist/2zagWFWxFhQg3OvUmnnliq), [Jaidene Veda](https://open.spotify.com/artist/5RnHlRFELc91Qk6dV6mhNG), [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Surrender EP](https://open.spotify.com/album/4YMwLHF5geIbncO1hSCm6Y) | 7:40 | 2021-12-08 | 2023-03-04 |
+| [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 | 2024-04-05 |  |
 | [Swim](https://open.spotify.com/track/7I1e5uMItJ9kiTWFyUayVs) | [Hugo Mari](https://open.spotify.com/artist/6BmSO09b1cngqE8X2SEygU) | [Swim](https://open.spotify.com/album/1DEJoLpHJgQrKW4g6OtNSp) | 4:12 | 2021-12-08 | 2024-02-15 |
 | [Swing Theory \- Radio Edit](https://open.spotify.com/track/1hdg5jyymn9UVOoqi9FY9o) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH) | [Swing Theory EP](https://open.spotify.com/album/1ZRQKNxFP6nBWnNOA9ZJOd) | 3:54 | 2021-12-08 | 2023-05-13 |
 | [Synesthesia](https://open.spotify.com/track/4IyPWtUklvJDCG5b7eFZyg) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Synesthesia](https://open.spotify.com/album/1lBVXRRehgnwoMpRm0wwBb) | 4:28 | 2023-09-08 |  |

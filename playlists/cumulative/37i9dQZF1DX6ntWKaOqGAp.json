@@ -2978,7 +2978,7 @@
     {
       "album": {
         "name": "Donut Song",
-        "url": "https://open.spotify.com/album/7KrJUUBFfoE8nanB2K5wRK"
+        "url": "https://open.spotify.com/album/4bWIkjiyqyVvC7VlcNsxPa"
       },
       "artists": [
         {
@@ -2989,6 +2989,24 @@
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 227250,
+      "name": "Donut Song",
+      "url": "https://open.spotify.com/track/5JPN8TqaCEeB2bD9jHfALI"
+    },
+    {
+      "album": {
+        "name": "Donut Song",
+        "url": "https://open.spotify.com/album/7KrJUUBFfoE8nanB2K5wRK"
+      },
+      "artists": [
+        {
+          "name": "Re:name",
+          "url": "https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-11",
       "duration_ms": 227250,
       "name": "Donut Song",
       "url": "https://open.spotify.com/track/5m5B3uG46zGUc4ed8VPss8"
@@ -6440,6 +6458,24 @@
       "duration_ms": 225906,
       "name": "Knock Out(Album Mix)",
       "url": "https://open.spotify.com/track/3J6zAKrJoz24YsoEYtWLSh"
+    },
+    {
+      "album": {
+        "name": "Kage mo hinata mo",
+        "url": "https://open.spotify.com/album/0Ii7bfcD5hLGbntyqCpMxr"
+      },
+      "artists": [
+        {
+          "name": "THE BOYS&GIRLS",
+          "url": "https://open.spotify.com/artist/11kPSVeZeo3t4Ep9TSKa8T"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278026,
+      "name": "Koe ni naraneena",
+      "url": "https://open.spotify.com/track/1pNphNgoUoCgfkUKncVT4E"
     },
     {
       "album": {
@@ -12602,6 +12638,24 @@
       "duration_ms": 257828,
       "name": "Tokai no Yurei",
       "url": "https://open.spotify.com/track/5N1vMQL4L3jpgMUniAZrJs"
+    },
+    {
+      "album": {
+        "name": "Tokyo",
+        "url": "https://open.spotify.com/album/0MgvMvyDml5kkAdljrsdKd"
+      },
+      "artists": [
+        {
+          "name": "KOTORI",
+          "url": "https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284677,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/337l2e0J2fR3NJUw2cblGf"
     },
     {
       "album": {
@@ -21292,7 +21346,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 278026,
       "name": "\u58f0\u306b\u306a\u3089\u306d\u3048\u306a",
       "url": "https://open.spotify.com/track/6BFVYDYBoPypxUs3DT15GI"
@@ -23472,7 +23526,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 284677,
       "name": "\u6771\u4eac",
       "url": "https://open.spotify.com/track/00V9LA7VW5ff8nATmCuszE"

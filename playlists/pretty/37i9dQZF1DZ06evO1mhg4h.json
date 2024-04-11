@@ -1,12 +1,12 @@
 {
   "description": "This is \u7d50\u675f\u30d0\u30f3\u30c9. The essential tracks, all in one playlist.",
-  "num_followers": 16347,
+  "num_followers": 16363,
   "original_name": "This Is \u7d50\u675f\u30d0\u30f3\u30c9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjBkZDY0OGY4MTViNmUxMTU3OGFlNzNkNWZlOTBkMjkxMDJkNDNj",
+  "snapshot_id": "MCwwN2UxOTNmZTQyZDg0OTg3YTkyMzUyOTNmNjQzM2E3OTRiYjg0YTlh",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
         }
       ],
-      "duration_ms": 203626,
-      "name": "\u9752\u6625\u30b3\u30f3\u30d7\u30ec\u30c3\u30af\u30b9",
-      "url": "https://open.spotify.com/track/60nwK1iMgnFCznF6FiNfts"
+      "duration_ms": 258173,
+      "name": "\u661f\u5ea7\u306b\u306a\u308c\u305f\u3089",
+      "url": "https://open.spotify.com/track/1iNhNmEwrd2TP4XrV7pQBI"
     },
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
         }
       ],
-      "duration_ms": 258173,
-      "name": "\u661f\u5ea7\u306b\u306a\u308c\u305f\u3089",
-      "url": "https://open.spotify.com/track/1iNhNmEwrd2TP4XrV7pQBI"
+      "duration_ms": 203626,
+      "name": "\u9752\u6625\u30b3\u30f3\u30d7\u30ec\u30c3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/60nwK1iMgnFCznF6FiNfts"
     },
     {
       "added_at": null,

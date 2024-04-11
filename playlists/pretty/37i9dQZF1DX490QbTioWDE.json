@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Luck Ra & Ulises Bueno.",
-  "num_followers": 703302,
+  "num_followers": 703547,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzVkN2Q2MTI2YmI0NGQ0YTk2MWZlNzBhM2VkMGYwZGU3NGNiZTQy",
+  "snapshot_id": "MCxjMzIyNGM3M2NlNDQ2ODVmNzQ5MjhlNDZjODM5Mzk3YmQ4ZTc5NDI2",
   "tracks": [
     {
       "added_at": "2024-04-05 11:52:17",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-04-05 11:52:17",
       "album": {
-        "name": "Despechada (Cover) [En Vivo]",
-        "url": "https://open.spotify.com/album/7uXNegW0zpr5lrRo9YNiOl"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        }
-      ],
-      "duration_ms": 172585,
-      "name": "Despechada (Cover) - En Vivo",
-      "url": "https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP"
-    },
-    {
-      "added_at": "2024-04-05 11:52:17",
-      "album": {
         "name": "Olvidarte de Mi Jamas Podras",
         "url": "https://open.spotify.com/album/6vjNYZjE6MCDbEGSQM4mwF"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 193358,
       "name": "Olvidarte de Mi Jamas Podras",
       "url": "https://open.spotify.com/track/7iSjpEVClrTJ490HArIKny"
+    },
+    {
+      "added_at": "2024-04-05 11:52:17",
+      "album": {
+        "name": "Despechada (Cover) [En Vivo]",
+        "url": "https://open.spotify.com/album/7uXNegW0zpr5lrRo9YNiOl"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "duration_ms": 172585,
+      "name": "Despechada (Cover) - En Vivo",
+      "url": "https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP"
     },
     {
       "added_at": "2024-04-05 11:52:17",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2024-04-05 11:52:17",
       "album": {
-        "name": "Que Agon\u00eda / Carne y Hueso",
-        "url": "https://open.spotify.com/album/0238rKvgAcoYEs9ATsjn9O"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        },
-        {
-          "name": "La banda de Carlitos",
-          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
-        }
-      ],
-      "duration_ms": 291313,
-      "name": "Que Agonia - Carne y Hueso",
-      "url": "https://open.spotify.com/track/58gpjoW1gjN1TzvWRU58Sm"
-    },
-    {
-      "added_at": "2024-04-05 11:52:17",
-      "album": {
         "name": "10 A\u00f1os Con Amigos (En Vivo)",
         "url": "https://open.spotify.com/album/6v5d0NrtAi1ysFnI9eZYL6"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 236543,
       "name": "La Mejor Version de M\u00ed (En Vivo)",
       "url": "https://open.spotify.com/track/6o3xMKoAm76DWLtoNuPhAu"
+    },
+    {
+      "added_at": "2024-04-05 11:52:17",
+      "album": {
+        "name": "Que Agon\u00eda / Carne y Hueso",
+        "url": "https://open.spotify.com/album/0238rKvgAcoYEs9ATsjn9O"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+        }
+      ],
+      "duration_ms": 291313,
+      "name": "Que Agonia - Carne y Hueso",
+      "url": "https://open.spotify.com/track/58gpjoW1gjN1TzvWRU58Sm"
     },
     {
       "added_at": "2024-04-05 11:52:17",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2024-04-05 11:52:17",
       "album": {
+        "name": "De Nada",
+        "url": "https://open.spotify.com/album/746z1LiHVs93wlgNoxLyk3"
+      },
+      "artists": [
+        {
+          "name": "Magui Olave",
+          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
+        }
+      ],
+      "duration_ms": 197565,
+      "name": "De Nada",
+      "url": "https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf"
+    },
+    {
+      "added_at": "2024-04-05 11:52:17",
+      "album": {
         "name": "La Vagancia Cuartetera",
         "url": "https://open.spotify.com/album/3SP1JmVsoWHsHVOpxhMRTB"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 211250,
       "name": "La Vagancia Cuartetera",
       "url": "https://open.spotify.com/track/2YaJoA2sjtcfq8oM9CyIri"
-    },
-    {
-      "added_at": "2024-04-05 11:52:17",
-      "album": {
-        "name": "De Nada",
-        "url": "https://open.spotify.com/album/746z1LiHVs93wlgNoxLyk3"
-      },
-      "artists": [
-        {
-          "name": "Magui Olave",
-          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
-        }
-      ],
-      "duration_ms": 197565,
-      "name": "De Nada",
-      "url": "https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf"
     },
     {
       "added_at": "2024-04-05 11:52:17",

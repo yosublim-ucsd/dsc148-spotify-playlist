@@ -1,12 +1,12 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: CHERISE. Artwork: Joy Yamusangie.",
-  "num_followers": 213389,
+  "num_followers": 213756,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDE2ZDViNDk1M2U4YWZiZjA2NGE5Y2E5MTY4ZjE3YjVmZWYyMmQ5",
+  "snapshot_id": "MCw2MzZmNWY1ZDUwYTkxNzgzMjFiZTEwZjc5M2EyMjlmNmUyNDFkNTNm",
   "tracks": [
     {
       "added_at": "2024-03-27 13:18:36",
@@ -27,6 +27,90 @@
       "duration_ms": 208978,
       "name": "Fly",
       "url": "https://open.spotify.com/track/6bsCkIuP5zdST3CrvBJDnm"
+    },
+    {
+      "added_at": "2024-04-10 04:00:00",
+      "album": {
+        "name": "Elyne Road",
+        "url": "https://open.spotify.com/album/0vd22mWrC3rcAnlY9Pvy9L"
+      },
+      "artists": [
+        {
+          "name": "Suedejazz Collective",
+          "url": "https://open.spotify.com/artist/05R1pyq7FjaRrAvJ6Ocenc"
+        },
+        {
+          "name": "LEYLAH",
+          "url": "https://open.spotify.com/artist/5XDUjNWvmp7UKGz7GQt5la"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Elyne Road",
+      "url": "https://open.spotify.com/track/4BaXtyWayfOjvGRZQn1wJe"
+    },
+    {
+      "added_at": "2024-04-10 04:00:00",
+      "album": {
+        "name": "Outside World 3",
+        "url": "https://open.spotify.com/album/2oLh1HmqMMqeSX42cffHcS"
+      },
+      "artists": [
+        {
+          "name": "Outside World",
+          "url": "https://open.spotify.com/artist/5xWSapntbvFDBkJ2y37CKf"
+        },
+        {
+          "name": "Henry Solomon",
+          "url": "https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR"
+        },
+        {
+          "name": "Logan Kane",
+          "url": "https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ"
+        },
+        {
+          "name": "Paul Cornish",
+          "url": "https://open.spotify.com/artist/5Q0eMcdJs94WKKEz6DS1Zk"
+        },
+        {
+          "name": "Roy McCurdy",
+          "url": "https://open.spotify.com/artist/5jx7iddojZGfrIqTTDzkDO"
+        }
+      ],
+      "duration_ms": 496597,
+      "name": "Breathing Wish",
+      "url": "https://open.spotify.com/track/2lv5U8pIgC9JlnlzEiXDDZ"
+    },
+    {
+      "added_at": "2024-04-10 04:00:00",
+      "album": {
+        "name": "RoseGold",
+        "url": "https://open.spotify.com/album/6Ane8pLlHEehPVZWe26z4N"
+      },
+      "artists": [
+        {
+          "name": "Cooks But We're Chefs",
+          "url": "https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "RoseGold",
+      "url": "https://open.spotify.com/track/3HwPz3OzoXWOEA1yiAIMZo"
+    },
+    {
+      "added_at": "2024-04-10 04:00:00",
+      "album": {
+        "name": "176",
+        "url": "https://open.spotify.com/album/0ClUEdCEjqzgRUP5Q1xbW2"
+      },
+      "artists": [
+        {
+          "name": "O.",
+          "url": "https://open.spotify.com/artist/0R2UqQKBdSADXMN2Gx5CrB"
+        }
+      ],
+      "duration_ms": 211630,
+      "name": "176",
+      "url": "https://open.spotify.com/track/5fGadEkoXstOnj4HzB8dqS"
     },
     {
       "added_at": "2024-04-03 04:00:00",

@@ -4,7 +4,7 @@
 
 > Get into the Eid spirit with this uplifting Eid songs collection.
 
-139 songs - 7 hr 21 min
+141 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Burdah](https://open.spotify.com/track/7fFCJWEAF1CzAtnRDg64b5) | [Mesut Kurtis](https://open.spotify.com/artist/1B03KdvD2TCVUEeaDbP5qf) | [Salawat](https://open.spotify.com/album/1pex4GnIaNIwABWsoZ5BAp) | 4:45 | 2024-03-11 | 2024-04-09 |
 | [Duaa An Rafea El Balaa](https://open.spotify.com/track/4IGbksNKMx0aJKWrKWwohG) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Duaa an Rafea El Balaa](https://open.spotify.com/album/78khcsgKTO0D97aS7xi8Rq) | 1:35 | 2024-03-11 | 2024-04-09 |
 | [Eghferli Rabbi](https://open.spotify.com/track/1wzHh1Se5MPz0eKDfHaq1A) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [Anechid Al Rouh](https://open.spotify.com/album/2DTE74pjdIZvohdS72yRUA) | 2:28 | 2024-03-11 | 2024-03-25 |
+| [Eid Bala Qyoud](https://open.spotify.com/track/4wpTGJzGX2NMSo5xiojbmY) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U), [Hamad Alkhazina](https://open.spotify.com/artist/3p0nJ84LCAtFxqIg2zdAcE) | [Eid Bala Qyoud](https://open.spotify.com/album/2XucnWpj84VDUWf1hEGrK8) | 2:39 | 2024-04-10 |  |
 | [El 3asal](https://open.spotify.com/track/5ecSRvEKkYarFYgyFgKak8) | [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [El 3asal](https://open.spotify.com/album/3TE0kPmcSenKkNKyfTLLWS) | 3:00 | 2024-04-08 |  |
 | [El Aid Farha](https://open.spotify.com/track/5yxyWoggDlBpifR2DfypC5) | [Safaa Abu El Saod](https://open.spotify.com/artist/1GFCDy4U5mu7Uv39llPL0U) | [El Aid Farha](https://open.spotify.com/album/2eRXLokn0P5UvA9ilaruSD) | 3:35 | 2024-04-08 |  |
 | [Elahi](https://open.spotify.com/track/2Qskx2GJlj2bqRestF4CF8) | [Cairo Steps](https://open.spotify.com/artist/2vplyVvtElnBqkZuftPVow), [Diwan Café](https://open.spotify.com/artist/33LAvkMX74zhQhtOskFavN), [Ali El Helbawy](https://open.spotify.com/artist/12sCmBLk1sGPX3DygTKu9t) | [Diwan Cafe](https://open.spotify.com/album/6ndBGyrGTh95LYUjnn44iA) | 4:01 | 2024-03-11 | 2024-04-09 |
@@ -81,6 +82,7 @@
 | [Safati Nadra](https://open.spotify.com/track/4LHxGcZFGyswoLQMOvZFk0) | [Noureddine Khourchid](https://open.spotify.com/artist/7GLFihHZo32vfP6oUnqrXb) | [Jalassat Soufiya \(Inshad\)](https://open.spotify.com/album/3o7fGGtytZHqG6wuG9GyAj) | 1:30 | 2024-03-11 | 2024-04-09 |
 | [Salat wa salam](https://open.spotify.com/track/61GqGt76bvqd8bY8gfc2kH) | [Groupe Al\-Houda](https://open.spotify.com/artist/5s22ybIc4xM351P4bepras) | [Soiree mystique andalouse \- Chants religieux \- Inchad \- Quran \- Coran](https://open.spotify.com/album/5eYlEogdqjUUrQnOFT0pKj) | 1:03 | 2024-03-11 | 2024-04-09 |
 | [Salo 3la Rasol Allah](https://open.spotify.com/track/2cEAqY1dsGq0ZIamWepfID) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Salo 3la Rasol Allah](https://open.spotify.com/album/7JQreuS5ckA3arSJH1VlVb) | 3:13 | 2024-03-11 | 2024-04-09 |
+| [Shahr 7](https://open.spotify.com/track/5W38ngA8pVHq5AnsyWNVM5) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Shahr 7](https://open.spotify.com/album/2Bhcqu0QL5QSr6RmtIffsv) | 6:06 | 2024-04-10 |  |
 | [Shahr Ramadan](https://open.spotify.com/track/1eKfU40hKG21tJz0J8VgMW) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [El Ganna Fi Beyoutna](https://open.spotify.com/album/0wOv5sjQ2MM0rkgpX4qKFx) | 1:47 | 2024-03-11 | 2024-04-09 |
 | [Shalawatul Fathilah](https://open.spotify.com/track/66OQfujyetSoPMTeTFf0SV) | [Raihan](https://open.spotify.com/artist/0wWm1rOeaLQ4jkLpn8tmTt) | [The Spirit of Shalawat](https://open.spotify.com/album/4HA6gNFD8CHrbCKE23sb0h) | 5:05 | 2024-03-11 | 2024-04-09 |
 | [Siraj Al\-Medina \- Arabic & Turkish](https://open.spotify.com/track/5UBv9IyyeXWeuBzGQcmxXp) | [Murat Belet](https://open.spotify.com/artist/1aGDQkLy73SE8pPwdkZAxn), [Ali Magrebi](https://open.spotify.com/artist/4GSR6lcJZdCOlptrvPtLSN) | [Siraj Al\-Medina](https://open.spotify.com/album/44eX3kbYvSqLsGjkDjRrMw) | 2:53 | 2024-03-11 | 2024-04-09 |

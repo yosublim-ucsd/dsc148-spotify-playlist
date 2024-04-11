@@ -1,12 +1,12 @@
 {
   "description": "This is John Williamson. The essential tracks, all in one playlist.",
-  "num_followers": 20283,
+  "num_followers": 20290,
   "original_name": "This Is John Williamson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjEwYzJiZjQ3ZDMzOTlkNThkYjkwZWQyNjU2Y2JmYjViMTVmOTcx",
+  "snapshot_id": "MCw0ZGIyMDYzNWQwNzE4Y2ExMjZjMGU0NGM1MDQ0OWU1NzJkOTdjYzRm",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthems - A Celebration of Australia",
-        "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 230360,
-      "name": "Waltzing Matilda 2000",
-      "url": "https://open.spotify.com/track/3xHpEd9vn7tPjbWpS79VeU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boomerang Caf\u00e9",
         "url": "https://open.spotify.com/album/3aKnYVHf49TqnydtPknQ4G"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 198240,
       "name": "Sail the Nullarbor",
       "url": "https://open.spotify.com/track/6f8fJZWKhNcWTU51MujI6f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anthems - A Celebration of Australia",
+        "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 230360,
+      "name": "Waltzing Matilda 2000",
+      "url": "https://open.spotify.com/track/3xHpEd9vn7tPjbWpS79VeU"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warragul",
-        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
+        "name": "Anthems - A Celebration of Australia",
+        "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 192240,
-      "name": "Amazing Day",
-      "url": "https://open.spotify.com/track/4WqwsO0HkaLFNb6rdWt7FR"
+      "duration_ms": 211200,
+      "name": "This Is Australia Calling",
+      "url": "https://open.spotify.com/track/42ZwdT2pu6qZUkEZReNsDW"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthems - A Celebration of Australia",
-        "url": "https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "This Is Australia Calling",
-      "url": "https://open.spotify.com/track/42ZwdT2pu6qZUkEZReNsDW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rip Rip Woodchip (feat. John Williamson) [Live At The Sydney Opera House]",
         "url": "https://open.spotify.com/album/3yiovJTUp4fzK0F8bDdXZu"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 147934,
       "name": "Rip Rip Woodchip (feat. John Williamson) - Live At The Sydney Opera House",
       "url": "https://open.spotify.com/track/0s6Lj8fFvNNkCWs37qU5iH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Warragul",
+        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 192240,
+      "name": "Amazing Day",
+      "url": "https://open.spotify.com/track/4WqwsO0HkaLFNb6rdWt7FR"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warragul",
-        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "Dingo",
-      "url": "https://open.spotify.com/track/4RkZxYF4v9mQLsr0bLGGnP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hillbilly Road",
         "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
       },
@@ -499,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Warragul",
+        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "Dingo",
+      "url": "https://open.spotify.com/track/4RkZxYF4v9mQLsr0bLGGnP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "His Favourite Collection",
         "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
       },
@@ -511,6 +511,22 @@
       "duration_ms": 199360,
       "name": "Papa Whisky November",
       "url": "https://open.spotify.com/track/5GHyi4qF0TEZKPhTi4CmhQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waratah St.",
+        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 158866,
+      "name": "Wobbly Boot Hotel",
+      "url": "https://open.spotify.com/track/3V4BAoJgTMrOP39LIXhf7Z"
     },
     {
       "added_at": null,
@@ -563,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waratah St.",
-        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 158866,
-      "name": "Wobbly Boot Hotel",
-      "url": "https://open.spotify.com/track/3V4BAoJgTMrOP39LIXhf7Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Favourite Collection",
         "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
       },
@@ -627,18 +627,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mulga to Mangoes",
-        "url": "https://open.spotify.com/album/64eh3xc1oIsr9qbssOngbG"
+        "name": "Both Sides Now",
+        "url": "https://open.spotify.com/album/35OfYsF8wYNq3OR2YJpMvm"
       },
       "artists": [
+        {
+          "name": "Adam Harvey",
+          "url": "https://open.spotify.com/artist/3uKiMJO25JbcnE72DrmUMf"
+        },
         {
           "name": "John Williamson",
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 173093,
-      "name": "Aussie Balladeer",
-      "url": "https://open.spotify.com/track/5VWbVfY2IVdK7qQAjYXeAd"
+      "duration_ms": 126586,
+      "name": "King Of The Road",
+      "url": "https://open.spotify.com/track/1Ndrjyj3hZv7KuZmNLQr9U"
     },
     {
       "added_at": null,
@@ -659,22 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Both Sides Now",
-        "url": "https://open.spotify.com/album/35OfYsF8wYNq3OR2YJpMvm"
+        "name": "Mulga to Mangoes",
+        "url": "https://open.spotify.com/album/64eh3xc1oIsr9qbssOngbG"
       },
       "artists": [
-        {
-          "name": "Adam Harvey",
-          "url": "https://open.spotify.com/artist/3uKiMJO25JbcnE72DrmUMf"
-        },
         {
           "name": "John Williamson",
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 126586,
-      "name": "King Of The Road",
-      "url": "https://open.spotify.com/track/1Ndrjyj3hZv7KuZmNLQr9U"
+      "duration_ms": 173093,
+      "name": "Aussie Balladeer",
+      "url": "https://open.spotify.com/track/5VWbVfY2IVdK7qQAjYXeAd"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Hell of a Career",
-        "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 208560,
-      "name": "Hawkesbury River Lovin'",
-      "url": "https://open.spotify.com/track/6Lemvl39DNczbvLt7BIymQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Favourite Collection",
         "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 227653,
       "name": "Prettiest Girl in the Kimberley",
       "url": "https://open.spotify.com/track/05tYnIXdjhCUTuBmoMTEFe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Hell of a Career",
+        "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 208560,
+      "name": "Hawkesbury River Lovin'",
+      "url": "https://open.spotify.com/track/6Lemvl39DNczbvLt7BIymQ"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warragul",
-        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 171306,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/4OGlxdoxuVUIrYVUY6x3vs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Favourite Collection",
         "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 242786,
       "name": "Waltzing Matilda",
       "url": "https://open.spotify.com/track/1x2KFbCFp8k3MFBMrz7eXA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Warragul",
+        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 171306,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/4OGlxdoxuVUIrYVUY6x3vs"
     }
   ],
   "unique_name": "This Is John Williamson",

@@ -1,12 +1,12 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: dosii(\ub3c4\uc2dc)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 465731,
+  "num_followers": 465795,
   "original_name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTA3ZjFlZjMxZmQ5OTA0MjY2N2ZiMGU4Njk2YzY5ZTY4NDU2ZWQ3",
+  "snapshot_id": "MCxhNGVlOTk4NmMzZWZhOGVmZWMzODZmODY2NTBlN2MzZGZiODE0ZTIx",
   "tracks": [
     {
       "added_at": "2024-04-04 05:45:36",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-04-04 05:45:36",
       "album": {
-        "name": "The night we parted",
-        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
-      },
-      "artists": [
-        {
-          "name": "ACOURVE",
-          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
-        }
-      ],
-      "duration_ms": 229665,
-      "name": "The night we parted",
-      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
-    },
-    {
-      "added_at": "2024-04-04 05:45:36",
-      "album": {
         "name": "I can't tell you everything",
         "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 225333,
       "name": "Today's Mood",
       "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
+    },
+    {
+      "added_at": "2024-04-04 05:45:36",
+      "album": {
+        "name": "The night we parted",
+        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
+      },
+      "artists": [
+        {
+          "name": "ACOURVE",
+          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
+        }
+      ],
+      "duration_ms": 229665,
+      "name": "The night we parted",
+      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
     },
     {
       "added_at": "2024-04-04 05:45:36",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-04-04 05:45:36",
       "album": {
-        "name": "1",
-        "url": "https://open.spotify.com/album/1uBSQRIdCFLgfaipqfVXp2"
-      },
-      "artists": [
-        {
-          "name": "ALEPH",
-          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
-        }
-      ],
-      "duration_ms": 223400,
-      "name": "No One Told Me Why",
-      "url": "https://open.spotify.com/track/5toMPAVWtyrI1R6THYKhiE"
-    },
-    {
-      "added_at": "2024-04-04 05:45:36",
-      "album": {
         "name": "Okinawa",
         "url": "https://open.spotify.com/album/3SfmjXBkaB9ASer8mFHNg6"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 348445,
       "name": "Okinawa",
       "url": "https://open.spotify.com/track/1CfcKv1RLdJBWhRHAZgVdf"
+    },
+    {
+      "added_at": "2024-04-04 05:45:36",
+      "album": {
+        "name": "1",
+        "url": "https://open.spotify.com/album/1uBSQRIdCFLgfaipqfVXp2"
+      },
+      "artists": [
+        {
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+        }
+      ],
+      "duration_ms": 223400,
+      "name": "No One Told Me Why",
+      "url": "https://open.spotify.com/track/5toMPAVWtyrI1R6THYKhiE"
     },
     {
       "added_at": "2024-04-04 05:45:36",

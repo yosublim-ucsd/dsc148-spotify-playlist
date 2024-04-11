@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDMwNmU1YjkwZjk5ZTZhNmQ5ZmMwMGZiNGM1MTc1M2EyOTQ0NWUw",
+  "snapshot_id": "MCwwZWI1MWRiODc5OWY3ZDIwOGE0ODI1MWMzNGRiMjU3ZWZkMTAyNzUz",
   "tracks": [
     {
       "added_at": null,
@@ -443,18 +443,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confidente",
-        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
+        "name": "Te Metiste (En Vivo)",
+        "url": "https://open.spotify.com/album/2amIneXgm8tKn9gWlB6fbm"
       },
       "artists": [
+        {
+          "name": "DEL Records",
+          "url": "https://open.spotify.com/artist/6rW5Y4FndhF6xC3FuWT3rZ"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Jose Manuel",
+          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
+        },
         {
           "name": "Cheli Madrid",
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 192413,
-      "name": "Me Cae",
-      "url": "https://open.spotify.com/track/0P14iNFjf1g8qVOrmjC5Jq"
+      "duration_ms": 198048,
+      "name": "Te Metiste - En Vivo",
+      "url": "https://open.spotify.com/track/7vynqQ4OOv5dWCfGNOKsAu"
     },
     {
       "added_at": null,
@@ -507,22 +523,10 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Metiste (En Vivo)",
-        "url": "https://open.spotify.com/album/2amIneXgm8tKn9gWlB6fbm"
+        "name": "DEL Records Presenta - En Vivo Desde La Finca El Cielo",
+        "url": "https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq"
       },
       "artists": [
-        {
-          "name": "DEL Records",
-          "url": "https://open.spotify.com/artist/6rW5Y4FndhF6xC3FuWT3rZ"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        },
         {
           "name": "Jose Manuel",
           "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
@@ -532,9 +536,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 198048,
-      "name": "Te Metiste - En Vivo",
-      "url": "https://open.spotify.com/track/7vynqQ4OOv5dWCfGNOKsAu"
+      "duration_ms": 235144,
+      "name": "Golpes En El Corazon - En Vivo",
+      "url": "https://open.spotify.com/track/0gSdIIHdkqIZKBiiScOuCX"
     },
     {
       "added_at": null,
@@ -571,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DEL Records Presenta - En Vivo Desde La Finca El Cielo",
-        "url": "https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq"
+        "name": "Confidente",
+        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
       },
       "artists": [
-        {
-          "name": "Jose Manuel",
-          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
-        },
         {
           "name": "Cheli Madrid",
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 235144,
-      "name": "Golpes En El Corazon - En Vivo",
-      "url": "https://open.spotify.com/track/0gSdIIHdkqIZKBiiScOuCX"
+      "duration_ms": 192413,
+      "name": "Me Cae",
+      "url": "https://open.spotify.com/track/0P14iNFjf1g8qVOrmjC5Jq"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 200704,
-      "name": "Extra\u00f1a Manera - En Vivo",
-      "url": "https://open.spotify.com/track/2TwbZlvEyVpYDtMY6dsHMP"
+      "duration_ms": 196816,
+      "name": "Le\u00f1a De Pirul - En Vivo",
+      "url": "https://open.spotify.com/track/1AYy8gtLDsPJURA6xfoma9"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 196816,
-      "name": "Le\u00f1a De Pirul - En Vivo",
-      "url": "https://open.spotify.com/track/1AYy8gtLDsPJURA6xfoma9"
+      "duration_ms": 200704,
+      "name": "Extra\u00f1a Manera - En Vivo",
+      "url": "https://open.spotify.com/track/2TwbZlvEyVpYDtMY6dsHMP"
     },
     {
       "added_at": null,

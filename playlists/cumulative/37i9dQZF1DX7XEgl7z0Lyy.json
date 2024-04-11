@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/37xKfBHDeIzMeeScHOp89Q"
@@ -2678,6 +2678,24 @@
       "duration_ms": 123341,
       "name": "noble 6 (feat. nuvfr)",
       "url": "https://open.spotify.com/track/5sK8yQ6lyOe7sPrfWlIQLm"
+    },
+    {
+      "album": {
+        "name": "noir",
+        "url": "https://open.spotify.com/album/68buIxo0GiCtikqj7sNoUP"
+      },
+      "artists": [
+        {
+          "name": "sho",
+          "url": "https://open.spotify.com/artist/7J931Zo6xntPEBM04BANte"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97711,
+      "name": "noir",
+      "url": "https://open.spotify.com/track/1Qv9RlQrACS2sIvuVZQHiO"
     },
     {
       "album": {

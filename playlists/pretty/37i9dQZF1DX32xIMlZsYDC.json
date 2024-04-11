@@ -1,12 +1,12 @@
 {
   "description": "Despierta poco a poco con la tranquilidad de las notas del piano.",
-  "num_followers": 18564,
+  "num_followers": 18561,
   "original_name": "Piano para Despertar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzliNDkxZTFmYTRhYjlmNzhhZjlmMmRlZmE3ODg0Y2QzMmUyYTk0",
+  "snapshot_id": "MCxlZmI0M2FjNWYzZDAyZjRlNjdkZjAxMmE4NzgwNzc4YmQyNzc5MDdi",
   "tracks": [
     {
       "added_at": "2023-09-11 13:52:39",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Homeland",
-        "url": "https://open.spotify.com/album/67XXxVyBzRfwLuuFAUwmos"
+        "name": "My Soul Is a Strange Country (Solo Piano)",
+        "url": "https://open.spotify.com/album/16DNJgqbmH6wB42u4JKeWS"
       },
       "artists": [
         {
-          "name": "Jef Martens",
-          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+          "name": "The Magic Lantern",
+          "url": "https://open.spotify.com/artist/2jIhiAEbmLrPj69WLM2R3V"
         }
       ],
-      "duration_ms": 142625,
-      "name": "Homeland",
-      "url": "https://open.spotify.com/track/5CMV79VrT9PxQRwdQr2EW0"
+      "duration_ms": 180093,
+      "name": "A Long Goodbye",
+      "url": "https://open.spotify.com/track/4WgPQlt7Pa115gVyoiLTVc"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "My Soul Is a Strange Country (Solo Piano)",
-        "url": "https://open.spotify.com/album/16DNJgqbmH6wB42u4JKeWS"
+        "name": "Homeland",
+        "url": "https://open.spotify.com/album/67XXxVyBzRfwLuuFAUwmos"
       },
       "artists": [
         {
-          "name": "The Magic Lantern",
-          "url": "https://open.spotify.com/artist/2jIhiAEbmLrPj69WLM2R3V"
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
         }
       ],
-      "duration_ms": 180093,
-      "name": "A Long Goodbye",
-      "url": "https://open.spotify.com/track/4WgPQlt7Pa115gVyoiLTVc"
+      "duration_ms": 142625,
+      "name": "Homeland",
+      "url": "https://open.spotify.com/track/5CMV79VrT9PxQRwdQr2EW0"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -475,6 +475,38 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
+        "name": "Becoming",
+        "url": "https://open.spotify.com/album/1XDp0E8TtyTWFlniXqkV1C"
+      },
+      "artists": [
+        {
+          "name": "Davignon",
+          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+        }
+      ],
+      "duration_ms": 163250,
+      "name": "Becoming",
+      "url": "https://open.spotify.com/track/2wPHCAgYiIIfEMt4Lj1xMg"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Donde Nadas",
+        "url": "https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK"
+      },
+      "artists": [
+        {
+          "name": "Lupe Sinsonte",
+          "url": "https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE"
+        }
+      ],
+      "duration_ms": 141941,
+      "name": "Donde Nadas",
+      "url": "https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
         "name": "Retrospection",
         "url": "https://open.spotify.com/album/2TTPCvN55NHOr95q89qmpa"
       },
@@ -503,38 +535,6 @@
       "duration_ms": 179500,
       "name": "Seeking The Autumn Wind",
       "url": "https://open.spotify.com/track/2TV5VWvY46I7k51reLMGvE"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
-        "name": "Donde Nadas",
-        "url": "https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK"
-      },
-      "artists": [
-        {
-          "name": "Lupe Sinsonte",
-          "url": "https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE"
-        }
-      ],
-      "duration_ms": 141941,
-      "name": "Donde Nadas",
-      "url": "https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
-        "name": "Becoming",
-        "url": "https://open.spotify.com/album/1XDp0E8TtyTWFlniXqkV1C"
-      },
-      "artists": [
-        {
-          "name": "Davignon",
-          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
-        }
-      ],
-      "duration_ms": 163250,
-      "name": "Becoming",
-      "url": "https://open.spotify.com/track/2wPHCAgYiIIfEMt4Lj1xMg"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "If You Must Go",
-        "url": "https://open.spotify.com/album/3jEulBsDS8z6IMdS3GzSmd"
-      },
-      "artists": [
-        {
-          "name": "Larry McDavid",
-          "url": "https://open.spotify.com/artist/7hAPV8dP6bbuFTeoINNcqz"
-        }
-      ],
-      "duration_ms": 127624,
-      "name": "If You Must Go",
-      "url": "https://open.spotify.com/track/6u3YEpTK7Hc4mc2TIXCZeB"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Divisio",
         "url": "https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 147250,
       "name": "Now and Then",
       "url": "https://open.spotify.com/track/3flrE9SDAQj4hP2kKzcHOG"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "If You Must Go",
+        "url": "https://open.spotify.com/album/3jEulBsDS8z6IMdS3GzSmd"
+      },
+      "artists": [
+        {
+          "name": "Larry McDavid",
+          "url": "https://open.spotify.com/artist/7hAPV8dP6bbuFTeoINNcqz"
+        }
+      ],
+      "duration_ms": 127624,
+      "name": "If You Must Go",
+      "url": "https://open.spotify.com/track/6u3YEpTK7Hc4mc2TIXCZeB"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Mind Wide Open",
-        "url": "https://open.spotify.com/album/1LVpYB2Jtto4OMvjzQqBrn"
-      },
-      "artists": [
-        {
-          "name": "Dan Volker",
-          "url": "https://open.spotify.com/artist/6dKolJLPeFV2ruWSwZBuYk"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Mind Wide Open",
-      "url": "https://open.spotify.com/track/3qofUkK1Yak7mp81Lojn3L"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Castor / Pollux",
         "url": "https://open.spotify.com/album/6P0cJjPi0SSUPXX8rv3s9t"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 142379,
       "name": "Pollux",
       "url": "https://open.spotify.com/track/3R0TQ0CK1KPse8hizZz476"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Mind Wide Open",
+        "url": "https://open.spotify.com/album/1LVpYB2Jtto4OMvjzQqBrn"
+      },
+      "artists": [
+        {
+          "name": "Dan Volker",
+          "url": "https://open.spotify.com/artist/6dKolJLPeFV2ruWSwZBuYk"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Mind Wide Open",
+      "url": "https://open.spotify.com/track/3qofUkK1Yak7mp81Lojn3L"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Mandeville",
-        "url": "https://open.spotify.com/album/5MuXyJBi2fK0SDWdDwAQPS"
-      },
-      "artists": [
-        {
-          "name": "Hearth Mason",
-          "url": "https://open.spotify.com/artist/5AOB5inMqu92bUZuE6q9L7"
-        }
-      ],
-      "duration_ms": 137169,
-      "name": "Mandeville",
-      "url": "https://open.spotify.com/track/2IL8731S2rxVzOuMzIbm08"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Morgenstern",
         "url": "https://open.spotify.com/album/5YMCE4ptMtQgujet4mkiZb"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Involution",
-        "url": "https://open.spotify.com/album/3GqBjeMovVIis4YxjAYfg4"
+        "name": "Mandeville",
+        "url": "https://open.spotify.com/album/5MuXyJBi2fK0SDWdDwAQPS"
       },
       "artists": [
         {
-          "name": "Ivan Vladusic",
-          "url": "https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN"
+          "name": "Hearth Mason",
+          "url": "https://open.spotify.com/artist/5AOB5inMqu92bUZuE6q9L7"
         }
       ],
-      "duration_ms": 163500,
-      "name": "Involution",
-      "url": "https://open.spotify.com/track/7pYYH192TuKAQH2cHG7vPR"
+      "duration_ms": 137169,
+      "name": "Mandeville",
+      "url": "https://open.spotify.com/track/2IL8731S2rxVzOuMzIbm08"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -875,18 +859,18 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Feuilles Tombantes",
-        "url": "https://open.spotify.com/album/7gKQQqcUaQuE6g9hWuz23J"
+        "name": "Involution",
+        "url": "https://open.spotify.com/album/3GqBjeMovVIis4YxjAYfg4"
       },
       "artists": [
         {
-          "name": "Mauvais Roger",
-          "url": "https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD"
+          "name": "Ivan Vladusic",
+          "url": "https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN"
         }
       ],
-      "duration_ms": 127962,
-      "name": "Feuilles Tombantes",
-      "url": "https://open.spotify.com/track/18KgQFOqj7gZSWN81jcs9C"
+      "duration_ms": 163500,
+      "name": "Involution",
+      "url": "https://open.spotify.com/track/7pYYH192TuKAQH2cHG7vPR"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -903,6 +887,22 @@
       "duration_ms": 143500,
       "name": "Young Love",
       "url": "https://open.spotify.com/track/5LS7VV5Gp3evv8pjcpTDDu"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Feuilles Tombantes",
+        "url": "https://open.spotify.com/album/7gKQQqcUaQuE6g9hWuz23J"
+      },
+      "artists": [
+        {
+          "name": "Mauvais Roger",
+          "url": "https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD"
+        }
+      ],
+      "duration_ms": 127962,
+      "name": "Feuilles Tombantes",
+      "url": "https://open.spotify.com/track/18KgQFOqj7gZSWN81jcs9C"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Soudainement",
-        "url": "https://open.spotify.com/album/1ifSKbmtHSrvkhBtp2Q9rX"
-      },
-      "artists": [
-        {
-          "name": "Alonzo Gautier",
-          "url": "https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Soudainement",
-      "url": "https://open.spotify.com/track/4k9OkooMVPlnoU2qJLKl0k"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Manus in Mano",
         "url": "https://open.spotify.com/album/0UZv7J3zLMPRhhxcZuOmDa"
       },
@@ -1163,18 +1147,34 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Longing For Yesterday",
-        "url": "https://open.spotify.com/album/05JFGW1xgW0McGf9EiQl0v"
+        "name": "Soudainement",
+        "url": "https://open.spotify.com/album/1ifSKbmtHSrvkhBtp2Q9rX"
       },
       "artists": [
         {
-          "name": "Charles Weathersby",
-          "url": "https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz"
+          "name": "Alonzo Gautier",
+          "url": "https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Longing For Yesterday",
-      "url": "https://open.spotify.com/track/6dHlvIZhsp3Ts3MUsyudKa"
+      "duration_ms": 168000,
+      "name": "Soudainement",
+      "url": "https://open.spotify.com/track/4k9OkooMVPlnoU2qJLKl0k"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Ever so Slightly",
+        "url": "https://open.spotify.com/album/3ITjZBoELygScB7OPp1hzq"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lange",
+          "url": "https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Ever so Slightly",
+      "url": "https://open.spotify.com/track/3YNk1HaBPCs41BV4ZocgCd"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Ever so Slightly",
-        "url": "https://open.spotify.com/album/3ITjZBoELygScB7OPp1hzq"
+        "name": "Longing For Yesterday",
+        "url": "https://open.spotify.com/album/05JFGW1xgW0McGf9EiQl0v"
       },
       "artists": [
         {
-          "name": "Jenny Lange",
-          "url": "https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i"
+          "name": "Charles Weathersby",
+          "url": "https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Ever so Slightly",
-      "url": "https://open.spotify.com/track/3YNk1HaBPCs41BV4ZocgCd"
+      "duration_ms": 217000,
+      "name": "Longing For Yesterday",
+      "url": "https://open.spotify.com/track/6dHlvIZhsp3Ts3MUsyudKa"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
+        "name": "Belle Chose",
+        "url": "https://open.spotify.com/album/7j9Fxq6fK1UyldqGnnY1TX"
+      },
+      "artists": [
+        {
+          "name": "Moldoveanu",
+          "url": "https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O"
+        }
+      ],
+      "duration_ms": 160624,
+      "name": "Belle Chose",
+      "url": "https://open.spotify.com/track/1xvQ1dL7KqGKWxqR0dkSeY"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
         "name": "Paradox",
         "url": "https://open.spotify.com/album/3feFqOuaXAe4Lc9sgycv0t"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 166749,
       "name": "Synchronicities",
       "url": "https://open.spotify.com/track/3EzFGVsv6wd9u8ZZx7F7En"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
-        "name": "Belle Chose",
-        "url": "https://open.spotify.com/album/7j9Fxq6fK1UyldqGnnY1TX"
-      },
-      "artists": [
-        {
-          "name": "Moldoveanu",
-          "url": "https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O"
-        }
-      ],
-      "duration_ms": 160624,
-      "name": "Belle Chose",
-      "url": "https://open.spotify.com/track/1xvQ1dL7KqGKWxqR0dkSeY"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Sentinel",
-        "url": "https://open.spotify.com/album/30YAFhyQWYw9KnQTD4jABf"
-      },
-      "artists": [
-        {
-          "name": "Geir Gudmundson",
-          "url": "https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Sentinel",
-      "url": "https://open.spotify.com/track/6eF8X3wXM9mrwmLPprYEe6"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "\u00c1rtabra",
         "url": "https://open.spotify.com/album/1d1jH5lYcRiaRZVCOCSNTe"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 202147,
       "name": "A\u0301rtabra",
       "url": "https://open.spotify.com/track/3AMGT6wBi8UYxmYK4dS1mP"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Sentinel",
+        "url": "https://open.spotify.com/album/30YAFhyQWYw9KnQTD4jABf"
+      },
+      "artists": [
+        {
+          "name": "Geir Gudmundson",
+          "url": "https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Sentinel",
+      "url": "https://open.spotify.com/track/6eF8X3wXM9mrwmLPprYEe6"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Oh Endless Day",
-        "url": "https://open.spotify.com/album/3RRumjF8Ef3D6eGngq3Vbb"
-      },
-      "artists": [
-        {
-          "name": "Philip Daniel",
-          "url": "https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5"
-        }
-      ],
-      "duration_ms": 287014,
-      "name": "Oh Endless Day",
-      "url": "https://open.spotify.com/track/7gqehJjwPZxAkMFEsxMAYr"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/4ppzXvFRl1WF5nnjUq0Vjk"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 135874,
       "name": "Trust",
       "url": "https://open.spotify.com/track/6MV97AqFAH2PLEzfuX5qzS"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Oh Endless Day",
+        "url": "https://open.spotify.com/album/3RRumjF8Ef3D6eGngq3Vbb"
+      },
+      "artists": [
+        {
+          "name": "Philip Daniel",
+          "url": "https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5"
+        }
+      ],
+      "duration_ms": 287014,
+      "name": "Oh Endless Day",
+      "url": "https://open.spotify.com/track/7gqehJjwPZxAkMFEsxMAYr"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Recollection",
-        "url": "https://open.spotify.com/album/33xkBxyjcytIaKn3Xfq06Q"
-      },
-      "artists": [
-        {
-          "name": "Crimson Memoirs",
-          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
-        }
-      ],
-      "duration_ms": 179562,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/0dymukJKDPEJiX7KkRnMVM"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "On Your Side",
         "url": "https://open.spotify.com/album/6sJJQ0VIYMW3lQLv6zdhPV"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 206000,
       "name": "On Your Side",
       "url": "https://open.spotify.com/track/12Ha6FmHZqlgVgIJU2kn3o"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Recollection",
+        "url": "https://open.spotify.com/album/33xkBxyjcytIaKn3Xfq06Q"
+      },
+      "artists": [
+        {
+          "name": "Crimson Memoirs",
+          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
+        }
+      ],
+      "duration_ms": 179562,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/0dymukJKDPEJiX7KkRnMVM"
     },
     {
       "added_at": "2023-09-11 13:52:39",

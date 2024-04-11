@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 84937,
+  "num_followers": 84955,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTNlZmU0MDU4MTE5MzVkNDU3MjVkNTg4YjlkMmNlMWY0NzI4Mzli",
+  "snapshot_id": "MCxkNDRjMTYxNDc0Y2JhYzdiNTY5NjVhMmRkYmExMDg5N2EyOGNhNWY3",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -247,6 +247,22 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Ella Fitzgerald Sings The George And Ira Gershwin Song Book",
+        "url": "https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 211480,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/4AlPwIoAo5TzpQQ6b8KwBv"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
         "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 358640,
       "name": "How Long Has This Been Going On?",
       "url": "https://open.spotify.com/track/5axYHelFYVT2Qb5R49LMX6"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Ella Fitzgerald Sings The George And Ira Gershwin Song Book",
-        "url": "https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 211480,
-      "name": "'S Wonderful",
-      "url": "https://open.spotify.com/track/4AlPwIoAo5TzpQQ6b8KwBv"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1139,30 +1139,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin - Set: Bernstein/Ozawa/Previn/Levine",
-        "url": "https://open.spotify.com/album/4OCPUWvxvehvgxAv5nOJ4i"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Gil Shaham",
-          "url": "https://open.spotify.com/artist/6ALhP2ILfgcSmpTefE4C3Q"
-        },
-        {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
-        }
-      ],
-      "duration_ms": 204920,
-      "name": "3 Preludes for Piano Solo: 2. Andante con moto e poco rubato (Arr. Jascha Heifetz)",
-      "url": "https://open.spotify.com/track/0SIRzB0ZuR3LTPisCFPsAp"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin: Rhapsody in Blue",
         "url": "https://open.spotify.com/album/2NO6kml1PSIKXTVXYoQVXc"
       },
@@ -1187,6 +1163,30 @@
       "duration_ms": 275706,
       "name": "Of Thee I Sing: Overture (Arr. D. Rose for Orchestra)",
       "url": "https://open.spotify.com/track/2OyY9i6Ct7zLdrron7eIdt"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin - Set: Bernstein/Ozawa/Previn/Levine",
+        "url": "https://open.spotify.com/album/4OCPUWvxvehvgxAv5nOJ4i"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Gil Shaham",
+          "url": "https://open.spotify.com/artist/6ALhP2ILfgcSmpTefE4C3Q"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        }
+      ],
+      "duration_ms": 204920,
+      "name": "3 Preludes for Piano Solo: 2. Andante con moto e poco rubato (Arr. Jascha Heifetz)",
+      "url": "https://open.spotify.com/track/0SIRzB0ZuR3LTPisCFPsAp"
     },
     {
       "added_at": "2022-08-05 04:02:00",

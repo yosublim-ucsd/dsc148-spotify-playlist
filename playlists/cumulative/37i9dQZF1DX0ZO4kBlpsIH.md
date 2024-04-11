@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-207 songs - 10 hr 8 min
+208 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Passion gitane](https://open.spotify.com/track/1a6WWeuqyJFk5GPQru1R83) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F) | [Passion Gitane](https://open.spotify.com/album/3dQ85ldFwfDtl2WNdaED1l) | 2:22 | 2022-11-25 |  |
 | [Pauvre Jean](https://open.spotify.com/track/3TiiAMXiveFrseyky7ZhFA) | [Pierre\-Antoine Martin](https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs) | [The Sound of Paris](https://open.spotify.com/album/1o9x9MH5jHm5PwewyWato8) | 2:43 | 2023-03-28 |  |
 | [Petite Chanson de l'amour](https://open.spotify.com/track/03CoelVFp9OYFb9MXZjkDd) | [Paris Cafe Ensemble](https://open.spotify.com/artist/0olzGBukMq0WEUDno526kZ) | [Café Paris: French Accordion & Gypsy Guitar Favorites](https://open.spotify.com/album/1hmtyvAicRpfnJLKmNVd9K) | 2:03 | 2023-03-07 | 2023-04-28 |
+| [Petite Fleur](https://open.spotify.com/track/6KbZgjkegPtz3KSQTGqK9o) | [Trio Musette](https://open.spotify.com/artist/2ePIFH8jgBe6Cqe2uc8s6A) | [Petite Fleur](https://open.spotify.com/album/4pqTRwa2Yscsk07QH7gCTA) | 3:14 | 2024-04-10 |  |
 | [Petite Musette](https://open.spotify.com/track/2I68yop53AHjpZoyQEJspL) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Valse musette de Paris](https://open.spotify.com/album/6DhvEyNar7K1i3gVcS0rGH) | 3:06 | 2022-08-05 | 2022-11-13 |
 | [Petite Musette](https://open.spotify.com/track/5DxwUiJ9Fcmdz0aHPL5Vtr) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 3:06 | 2022-02-18 | 2023-04-14 |
 | [Petite Musette](https://open.spotify.com/track/33x847YFwz6rusGFsfXgg1) | [Jose Fermin Gurbindo](https://open.spotify.com/artist/5y5y5xtgZX3rECXXmT81JJ), [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/3eF4eKkt4DHrOUG1A0z6wC) | 3:06 | 2022-02-18 | 2022-07-29 |

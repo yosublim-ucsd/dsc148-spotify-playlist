@@ -1,12 +1,12 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Magixx",
-  "num_followers": 226293,
+  "num_followers": 226357,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDFkMTgzNTA0MTBmYjU1MDg1NTU4ZTFhMjg5YzJkMDEyY2Q2ODRj",
+  "snapshot_id": "MCxmNjkyYTdhYTI4YTJhNzQ1OWEzYzNlYWM3NzQwZjhhY2UzZWNiM2Q3",
   "tracks": [
     {
       "added_at": "2024-04-05 00:01:00",
@@ -647,22 +647,22 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Qing Madi",
-        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
+        "name": "Jaga Jaga (with Babyboy AV)",
+        "url": "https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp"
       },
       "artists": [
         {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         },
         {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
         }
       ],
-      "duration_ms": 170322,
-      "name": "Ole (feat. BNXN)",
-      "url": "https://open.spotify.com/track/6GkFuU6FVfx866bhM1T1Iz"
+      "duration_ms": 226000,
+      "name": "Jaga Jaga (with Babyboy AV)",
+      "url": "https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -687,22 +687,22 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Jaga Jaga (with Babyboy AV)",
-        "url": "https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp"
+        "name": "Qing Madi",
+        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
         },
         {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Jaga Jaga (with Babyboy AV)",
-      "url": "https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi"
+      "duration_ms": 170322,
+      "name": "Ole (feat. BNXN)",
+      "url": "https://open.spotify.com/track/6GkFuU6FVfx866bhM1T1Iz"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Qing Madi",
-        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Vision",
-      "url": "https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
         "name": "Rent Free",
         "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 136842,
       "name": "Rent Free",
       "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Qing Madi",
+        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Manifest (My Prayer)",
-        "url": "https://open.spotify.com/album/6Sx26wth07xY8HhYACRaZu"
-      },
-      "artists": [
-        {
-          "name": "Toby Grey",
-          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Manifest (My Prayer)",
-      "url": "https://open.spotify.com/track/5PQPG6LgvLxDuB02z4zSzY"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
         "name": "Undress You",
         "url": "https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 213818,
       "name": "Undress You",
       "url": "https://open.spotify.com/track/6LVuaveD4hazORqbg67C03"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Manifest (My Prayer)",
+        "url": "https://open.spotify.com/album/6Sx26wth07xY8HhYACRaZu"
+      },
+      "artists": [
+        {
+          "name": "Toby Grey",
+          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Manifest (My Prayer)",
+      "url": "https://open.spotify.com/track/5PQPG6LgvLxDuB02z4zSzY"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Let You Down",
-        "url": "https://open.spotify.com/album/6Up0QUA4FZV8K4xXvtzDom"
-      },
-      "artists": [
-        {
-          "name": "Nikita Kering'",
-          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
-        },
-        {
-          "name": "Kemena",
-          "url": "https://open.spotify.com/artist/0SGTAjot9GShYwCQ69DfG2"
-        }
-      ],
-      "duration_ms": 205575,
-      "name": "Let You Down",
-      "url": "https://open.spotify.com/track/3apziXJWNWQPmpTceYJSZZ"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
         "name": "OVAMI",
         "url": "https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 204000,
       "name": "OVAMI",
       "url": "https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Let You Down",
+        "url": "https://open.spotify.com/album/6Up0QUA4FZV8K4xXvtzDom"
+      },
+      "artists": [
+        {
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+        },
+        {
+          "name": "Kemena",
+          "url": "https://open.spotify.com/artist/0SGTAjot9GShYwCQ69DfG2"
+        }
+      ],
+      "duration_ms": 205575,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/3apziXJWNWQPmpTceYJSZZ"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
+        "name": "KATIGORI/PIANO",
+        "url": "https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "P.Priime",
+          "url": "https://open.spotify.com/artist/5wqjeyQhV9mvu43Bv4wiLy"
+        }
+      ],
+      "duration_ms": 167547,
+      "name": "PIANO",
+      "url": "https://open.spotify.com/track/3idcqABwcfdvgBEdbG0ebq"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
         "name": "5th Dimension",
         "url": "https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb"
       },
@@ -1359,26 +1379,6 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "KATIGORI/PIANO",
-        "url": "https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "P.Priime",
-          "url": "https://open.spotify.com/artist/5wqjeyQhV9mvu43Bv4wiLy"
-        }
-      ],
-      "duration_ms": 167547,
-      "name": "PIANO",
-      "url": "https://open.spotify.com/track/3idcqABwcfdvgBEdbG0ebq"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
         "name": "Old",
         "url": "https://open.spotify.com/album/7m8teznwhjVGEHlHQPhBGW"
       },
@@ -1391,6 +1391,22 @@
       "duration_ms": 251254,
       "name": "Old",
       "url": "https://open.spotify.com/track/5NqUNHSCMW7ikeHXGFVIbN"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Only God Can Save Me",
+        "url": "https://open.spotify.com/album/46BxNQYEL1ez8HQ8w6Fpql"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Only God Can Save Me",
+      "url": "https://open.spotify.com/track/3QnQAJkb10GQWnmUtJLBoq"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1411,22 +1427,6 @@
       "duration_ms": 143762,
       "name": "Rora",
       "url": "https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Only God Can Save Me",
-        "url": "https://open.spotify.com/album/46BxNQYEL1ez8HQ8w6Fpql"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Only God Can Save Me",
-      "url": "https://open.spotify.com/track/3QnQAJkb10GQWnmUtJLBoq"
     },
     {
       "added_at": "2024-04-05 00:01:00",

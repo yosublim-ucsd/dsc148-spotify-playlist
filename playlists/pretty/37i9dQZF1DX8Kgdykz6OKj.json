@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1262746,
+  "num_followers": 1263174,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWExMTI0ZmMzNmU0NjVjZDY1YmNjMTJlNmViYjcxZjE5MzZjODMx",
+  "snapshot_id": "MCwwZmMzNWY5NjA3OWM4OWYwZGY5MjRmY2FjZjM3MTdiNmI5NmE3ZTdi",
   "tracks": [
     {
       "added_at": "2024-04-09 17:17:07",
@@ -51,22 +51,6 @@
     {
       "added_at": "2024-04-09 17:17:07",
       "album": {
-        "name": "Beats, Rhymes & Life",
-        "url": "https://open.spotify.com/album/0EguP4tsJurU5I8ocCxdyb"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        }
-      ],
-      "duration_ms": 207466,
-      "name": "The Hop",
-      "url": "https://open.spotify.com/track/7f1UEGMBMuXfLBP5XANfrW"
-    },
-    {
-      "added_at": "2024-04-09 17:17:07",
-      "album": {
         "name": "Konbini Wars",
         "url": "https://open.spotify.com/album/1mCk7AHyKfC93rJ8tjhRZg"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 173414,
       "name": "Konbini Wars",
       "url": "https://open.spotify.com/track/4G6fhntNzO01jPr2jV8TAk"
+    },
+    {
+      "added_at": "2024-04-09 17:17:07",
+      "album": {
+        "name": "Beats, Rhymes & Life",
+        "url": "https://open.spotify.com/album/0EguP4tsJurU5I8ocCxdyb"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 207466,
+      "name": "The Hop",
+      "url": "https://open.spotify.com/track/7f1UEGMBMuXfLBP5XANfrW"
     },
     {
       "added_at": "2024-04-09 17:17:07",
@@ -271,18 +271,18 @@
     {
       "added_at": "2024-04-09 17:17:07",
       "album": {
-        "name": "Buhloone Mindstate",
-        "url": "https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd"
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
       },
       "artists": [
         {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
         }
       ],
-      "duration_ms": 255008,
-      "name": "Breakadawn",
-      "url": "https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY"
+      "duration_ms": 275342,
+      "name": "Where I'm From",
+      "url": "https://open.spotify.com/track/1962ZwEY7WNQLcmYFn3eR9"
     },
     {
       "added_at": "2024-04-09 17:17:07",
@@ -303,18 +303,18 @@
     {
       "added_at": "2024-04-09 17:17:07",
       "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+        "name": "Buhloone Mindstate",
+        "url": "https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd"
       },
       "artists": [
         {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
         }
       ],
-      "duration_ms": 275342,
-      "name": "Where I'm From",
-      "url": "https://open.spotify.com/track/1962ZwEY7WNQLcmYFn3eR9"
+      "duration_ms": 255008,
+      "name": "Breakadawn",
+      "url": "https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY"
     },
     {
       "added_at": "2024-04-09 17:17:07",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2024-04-09 17:17:07",
       "album": {
-        "name": "Chapter 7",
-        "url": "https://open.spotify.com/album/0xAT19PSU54ExVPjdt2kTI"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Ty",
-          "url": "https://open.spotify.com/artist/2hED6gNVoqGvmmX8i5dRoj"
-        }
-      ],
-      "duration_ms": 287320,
-      "name": "Chapter 7 (feat. Ty)",
-      "url": "https://open.spotify.com/track/04fnzAJxtQZFVbn8N3XrQm"
-    },
-    {
-      "added_at": "2024-04-09 17:17:07",
-      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 226933,
       "name": "Standing There",
       "url": "https://open.spotify.com/track/11qPxILRaVPoLVgVajD82l"
+    },
+    {
+      "added_at": "2024-04-09 17:17:07",
+      "album": {
+        "name": "Chapter 7",
+        "url": "https://open.spotify.com/album/0xAT19PSU54ExVPjdt2kTI"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Ty",
+          "url": "https://open.spotify.com/artist/2hED6gNVoqGvmmX8i5dRoj"
+        }
+      ],
+      "duration_ms": 287320,
+      "name": "Chapter 7 (feat. Ty)",
+      "url": "https://open.spotify.com/track/04fnzAJxtQZFVbn8N3XrQm"
     },
     {
       "added_at": "2024-04-09 17:17:07",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2024-04-09 17:17:07",
       "album": {
+        "name": "Therapy pt. 2 [Feat. Mac Miller]",
+        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 202225,
+      "name": "Therapy pt. 2 [Feat. Mac Miller]",
+      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
+    },
+    {
+      "added_at": "2024-04-09 17:17:07",
+      "album": {
         "name": "The Pure",
         "url": "https://open.spotify.com/album/3BiY0c1t8TMJaWJ1OCa07o"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 221123,
       "name": "The Pure",
       "url": "https://open.spotify.com/track/6ZkH2U1dkFSLaQFBgTEfrn"
-    },
-    {
-      "added_at": "2024-04-09 17:17:07",
-      "album": {
-        "name": "Therapy pt. 2 [Feat. Mac Miller]",
-        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
-      },
-      "artists": [
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 202225,
-      "name": "Therapy pt. 2 [Feat. Mac Miller]",
-      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
     },
     {
       "added_at": "2024-04-09 17:17:07",
@@ -1691,30 +1691,6 @@
     {
       "added_at": "2024-04-09 17:17:07",
       "album": {
-        "name": "Eddie",
-        "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
-      },
-      "artists": [
-        {
-          "name": "Busty and the Bass",
-          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
-        },
-        {
-          "name": "Illa J",
-          "url": "https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp"
-        },
-        {
-          "name": "Jon Connor",
-          "url": "https://open.spotify.com/artist/1F5zdoXcwIB9XSNfitdo7x"
-        }
-      ],
-      "duration_ms": 242747,
-      "name": "Go So Far",
-      "url": "https://open.spotify.com/track/7q2H0gVB35EQgn8vXS3kw3"
-    },
-    {
-      "added_at": "2024-04-09 17:17:07",
-      "album": {
         "name": "Factor",
         "url": "https://open.spotify.com/album/05VwnXwsWgDKvhoAi62vPq"
       },
@@ -1735,6 +1711,30 @@
       "duration_ms": 177713,
       "name": "Factor",
       "url": "https://open.spotify.com/track/4P2wL0Bt5X2NyrpHywsuPM"
+    },
+    {
+      "added_at": "2024-04-09 17:17:07",
+      "album": {
+        "name": "Eddie",
+        "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
+      },
+      "artists": [
+        {
+          "name": "Busty and the Bass",
+          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
+        },
+        {
+          "name": "Illa J",
+          "url": "https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp"
+        },
+        {
+          "name": "Jon Connor",
+          "url": "https://open.spotify.com/artist/1F5zdoXcwIB9XSNfitdo7x"
+        }
+      ],
+      "duration_ms": 242747,
+      "name": "Go So Far",
+      "url": "https://open.spotify.com/track/7q2H0gVB35EQgn8vXS3kw3"
     },
     {
       "added_at": "2024-04-09 17:17:07",
@@ -1819,30 +1819,6 @@
     {
       "added_at": "2024-04-09 17:17:07",
       "album": {
-        "name": "YHWH is LOVE",
-        "url": "https://open.spotify.com/album/0GCFzQmxBDBjUcVFHh3Mji"
-      },
-      "artists": [
-        {
-          "name": "Jahari Massamba Unit",
-          "url": "https://open.spotify.com/artist/0wQu6RGpwgoD20qNxb4vwj"
-        },
-        {
-          "name": "Karriem Riggins",
-          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        }
-      ],
-      "duration_ms": 189418,
-      "name": "Anointed Soul",
-      "url": "https://open.spotify.com/track/6kPK6JPNSsWovpDcnfOIyQ"
-    },
-    {
-      "added_at": "2024-04-09 17:17:07",
-      "album": {
         "name": "Late Night Link",
         "url": "https://open.spotify.com/album/5ROL6IqcFzRv6lm68RzsSo"
       },
@@ -1867,6 +1843,30 @@
     {
       "added_at": "2024-04-09 17:17:07",
       "album": {
+        "name": "YHWH is LOVE",
+        "url": "https://open.spotify.com/album/0GCFzQmxBDBjUcVFHh3Mji"
+      },
+      "artists": [
+        {
+          "name": "Jahari Massamba Unit",
+          "url": "https://open.spotify.com/artist/0wQu6RGpwgoD20qNxb4vwj"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "duration_ms": 189418,
+      "name": "Anointed Soul",
+      "url": "https://open.spotify.com/track/6kPK6JPNSsWovpDcnfOIyQ"
+    },
+    {
+      "added_at": "2024-04-09 17:17:07",
+      "album": {
         "name": "Can't Let You Go (feat. Nick Grant)",
         "url": "https://open.spotify.com/album/1rTUaJkFNfc671grQVrpXp"
       },
@@ -1887,26 +1887,6 @@
     {
       "added_at": "2024-04-09 17:17:07",
       "album": {
-        "name": "Scottie Pippen",
-        "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 233154,
-      "name": "Scottie Pippen",
-      "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
-    },
-    {
-      "added_at": "2024-04-09 17:17:07",
-      "album": {
         "name": "Back At The House",
         "url": "https://open.spotify.com/album/78q1wlDQCvJXhjqTq9ZTZV"
       },
@@ -1923,6 +1903,26 @@
       "duration_ms": 258461,
       "name": "Down",
       "url": "https://open.spotify.com/track/0XnhTgMuX3ncdnf5mZnce8"
+    },
+    {
+      "added_at": "2024-04-09 17:17:07",
+      "album": {
+        "name": "Scottie Pippen",
+        "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 233154,
+      "name": "Scottie Pippen",
+      "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
     },
     {
       "added_at": "2024-04-09 17:17:07",
@@ -1987,18 +1987,26 @@
     {
       "added_at": "2024-04-09 17:17:07",
       "album": {
-        "name": "Elephant in the Room",
-        "url": "https://open.spotify.com/album/5u9fxl08KewKRV27T3nqGN"
+        "name": "Palm Trees",
+        "url": "https://open.spotify.com/album/5cFilTRRO7XTL1ZN3AjDKM"
       },
       "artists": [
         {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+          "name": "K. Sparks",
+          "url": "https://open.spotify.com/artist/24wsTHZ4EsAzPrgG4qIf3Z"
+        },
+        {
+          "name": "Ricardo Schneider",
+          "url": "https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv"
+        },
+        {
+          "name": "Hoffy Beats",
+          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
         }
       ],
-      "duration_ms": 189082,
-      "name": "Gucci Tried to Tell Me",
-      "url": "https://open.spotify.com/track/1ufp82dH3kwlqiPmeKNBVz"
+      "duration_ms": 136526,
+      "name": "Midnight Schemes",
+      "url": "https://open.spotify.com/track/6xPB98epJF3wqRObu8w0Ro"
     },
     {
       "added_at": "2024-04-09 17:17:07",

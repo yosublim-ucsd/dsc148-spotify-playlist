@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 1526066,
+  "2024-04-11": 1526137,
   "date_first_scraped": "2019-05-25",
   "description": "A calm piano soundtrack to all activities.",
   "name": "Piano in the Background",
@@ -673,7 +673,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 179253,
       "name": "A subtle joy",
       "url": "https://open.spotify.com/track/1MoboyfmxM1P6tgpEnnfud"
@@ -1127,7 +1127,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 147107,
       "name": "Ahniara",
       "url": "https://open.spotify.com/track/0f6nb7wvA7iVsO87btpiB8"
@@ -3413,7 +3413,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 162160,
       "name": "Box of Memories",
       "url": "https://open.spotify.com/track/0I9HIOTtaXrX968btEa3DA"
@@ -3575,7 +3575,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 127327,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/0AZQYsPjwWB1Zd8KCRCp2m"
@@ -4589,7 +4589,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 149983,
       "name": "Coming Back",
       "url": "https://open.spotify.com/track/7bziJO7BnTUSodDC4yWmRg"
@@ -5903,7 +5903,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 143011,
       "name": "Dolce",
       "url": "https://open.spotify.com/track/44e6QZtPPxu2OXO1AkEYMf"
@@ -6591,7 +6591,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 187750,
       "name": "Ell",
       "url": "https://open.spotify.com/track/6TmXkyhQ7WyL3MWoSVccD3"
@@ -10001,7 +10001,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 195882,
       "name": "Hidden place",
       "url": "https://open.spotify.com/track/3NZVlwqVu3qMwYM7EXaMV9"
@@ -10109,7 +10109,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 151058,
       "name": "Hinode",
       "url": "https://open.spotify.com/track/0jP1vlXPZWKezTOU49xGzN"
@@ -10253,7 +10253,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 152636,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/2GoWywxSwJTNVrwgtzqQoR"
@@ -15820,6 +15820,24 @@
     },
     {
       "album": {
+        "name": "Mirabella",
+        "url": "https://open.spotify.com/album/0iDH8OS9P0DcVV7Y2jVCUx"
+      },
+      "artists": [
+        {
+          "name": "Adiamo Mero",
+          "url": "https://open.spotify.com/artist/5GVoes1XQcUk6ru4HHwUMy"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161600,
+      "name": "Mirabella",
+      "url": "https://open.spotify.com/track/7xWIjzKV1OyZDnuA1DQNqM"
+    },
+    {
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/6CQKX5bb2MZHTDTOurFBB0"
       },
@@ -16281,7 +16299,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 144146,
       "name": "Moonlight Waltz",
       "url": "https://open.spotify.com/track/2w4w29W62gzZ6OWWmilEB6"
@@ -16587,7 +16605,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 122766,
       "name": "Mullaghmore",
       "url": "https://open.spotify.com/track/0uFGCfcqs595Q0ptklBeUt"
@@ -18211,7 +18229,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 158591,
       "name": "Om \u00e4n bara f\u00f6r en stund",
       "url": "https://open.spotify.com/track/37aia1wG2Ncz8AWjM4tPlY"
@@ -18697,7 +18715,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 120066,
       "name": "Os ventos do amor",
       "url": "https://open.spotify.com/track/0NQrHEQ4wPot63kIRzjASq"
@@ -19817,7 +19835,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 144406,
       "name": "Pour dessiner des fleur",
       "url": "https://open.spotify.com/track/45tnZArwDyo4hM7Zjguqb9"
@@ -20361,6 +20379,24 @@
       "duration_ms": 143000,
       "name": "Raison d'etre",
       "url": "https://open.spotify.com/track/4zypTg1KZ3HNPcYqfWou6f"
+    },
+    {
+      "album": {
+        "name": "Ray",
+        "url": "https://open.spotify.com/album/47ce8yosa7ZuuLDpQfzGtp"
+      },
+      "artists": [
+        {
+          "name": "Cole Neumann",
+          "url": "https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130308,
+      "name": "Ray",
+      "url": "https://open.spotify.com/track/2DGFV4U3tPuoTq0vTRfYja"
     },
     {
       "album": {
@@ -24052,6 +24088,24 @@
     },
     {
       "album": {
+        "name": "Stockholm Nocturne",
+        "url": "https://open.spotify.com/album/4OyoRGcdIcAF5S8AU9u9jP"
+      },
+      "artists": [
+        {
+          "name": "Rasmus H Thomsen",
+          "url": "https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130225,
+      "name": "Stockholm Nocturne",
+      "url": "https://open.spotify.com/track/3xNxdbEfDZRZbLm2ssng5F"
+    },
+    {
+      "album": {
         "name": "Storr",
         "url": "https://open.spotify.com/album/2HKmEzAH66lNarpba1JyoU"
       },
@@ -24225,7 +24279,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 134706,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/0rlR7gBOx5jfIvVsPfGQsC"
@@ -27711,7 +27765,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 158000,
       "name": "Unyielding Faith",
       "url": "https://open.spotify.com/track/4sOJSA5LPjdT1gfrcQL3sQ"
@@ -28960,6 +29014,24 @@
     },
     {
       "album": {
+        "name": "When I look at you",
+        "url": "https://open.spotify.com/album/1tWBD3z06MedKPwvKThkUx"
+      },
+      "artists": [
+        {
+          "name": "Kisane",
+          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148672,
+      "name": "When I look at you",
+      "url": "https://open.spotify.com/track/4Pp19M88QCTYhHSlt9GFmB"
+    },
+    {
+      "album": {
         "name": "When in doubt",
         "url": "https://open.spotify.com/album/2PDnAHcHGiWy9fEjLhF9YM"
       },
@@ -29583,7 +29655,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 154500,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/37chqYPZ4Lf6sQ2vG9LqSQ"

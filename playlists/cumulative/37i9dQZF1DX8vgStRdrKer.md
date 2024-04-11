@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:   <a href="https://open.spotify.com/artist/3A3j7JESpmqIZQNz4C7GRn?si=s0FACvsIRauTYAVMvwe3Vw">KIMAH</a>
 
-148 songs - 12 hr 23 min
+149 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,10 +22,11 @@
 | [Any More](https://open.spotify.com/track/097YWoXrjEEvt4kQvvzkAs) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Any More](https://open.spotify.com/album/5I8ZmHSWHadih90oz3B7Gp) | 3:08 | 2023-09-15 | 2023-11-07 |
 | [Any More](https://open.spotify.com/track/4ldre3NG3HbOSroRRm5lTP) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Jesus Music](https://open.spotify.com/album/5KC7lsKPZZs9d85B7kEGba) | 3:08 | 2023-11-24 | 2023-12-06 |
 | [B'Ola \- Honour](https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [B'Ola \(Honour\)](https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM) | 5:24 | 2023-09-15 | 2024-03-16 |
+| [Baba](https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Baba](https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp) | 3:31 | 2024-04-05 |  |
 | [BBTNTL](https://open.spotify.com/track/2oJktKr5udS1gtY8egIBPx) | [Xammie](https://open.spotify.com/artist/6Zc3JsghzKESNYD9CfAvqG) | [BBTNTL](https://open.spotify.com/album/1zdAcSx1879EaMTUB6j317) | 2:49 | 2024-02-16 |  |
 | [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 | 2024-01-26 |  |
 | [Blessed Year](https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Vin Mokay](https://open.spotify.com/artist/4H3x6M1mNufxM9SANBPTqz) | [Blessed Year](https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW) | 3:04 | 2024-01-26 |  |
-| [Bobby](https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Bobby](https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz) | 2:48 | 2024-03-08 |  |
+| [Bobby](https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Bobby](https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz) | 2:48 | 2024-03-08 | 2024-04-11 |
 | [Brighter Days](https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:28 | 2023-09-15 | 2024-03-16 |
 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 | 2023-09-29 | 2024-03-16 |
 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 | 2023-12-01 | 2024-02-09 |

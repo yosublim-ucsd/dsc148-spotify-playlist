@@ -1,28 +1,60 @@
 {
-  "description": "The best new pop music by independent artists and labels. Cover: Micah McLaurin. Artwork by Paola Saliby",
-  "num_followers": 208806,
+  "description": "The best new pop music by independent artists and labels. Cover: Maryon. Artwork by Paola Saliby",
+  "num_followers": 208914,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGRmNGUxOTg2ZGM5ZGFiMmExMDRmMjM3M2QzYjAwMDRjNDJjMDYw",
+  "snapshot_id": "MCw1OGJjMjQ4YTM1NmFiYjBlMTdmOWY5MTVlMGYzNTJhYzRjYjkwMzky",
   "tracks": [
     {
-      "added_at": "2024-04-03 04:00:00",
+      "added_at": "2024-03-27 04:00:00",
       "album": {
-        "name": "Don't Give Up On Love",
-        "url": "https://open.spotify.com/album/1GIfzALsAVoILlh1AkX6Pl"
+        "name": "Understatement",
+        "url": "https://open.spotify.com/album/2dmcrQEI5C8AVNTdrcAaNw"
       },
       "artists": [
         {
-          "name": "Micah McLaurin",
-          "url": "https://open.spotify.com/artist/65myEloviHpLiDJ7sA79DD"
+          "name": "Maryon",
+          "url": "https://open.spotify.com/artist/7AtbuRokFnPshEZ6muoDWV"
         }
       ],
-      "duration_ms": 209747,
-      "name": "Don't Give Up On Love",
-      "url": "https://open.spotify.com/track/6PKIbeiAWkXCW6zokx4WUR"
+      "duration_ms": 151868,
+      "name": "Understatement",
+      "url": "https://open.spotify.com/track/57jENaZ0ZEqxIRwEDCm63R"
+    },
+    {
+      "added_at": "2024-04-10 04:00:00",
+      "album": {
+        "name": "MOTHER ATE",
+        "url": "https://open.spotify.com/album/17SKda70MgNi3mViFcweHp"
+      },
+      "artists": [
+        {
+          "name": "Jane Bell",
+          "url": "https://open.spotify.com/artist/77bNmKoq4fuzSlRB8KDCKk"
+        }
+      ],
+      "duration_ms": 201904,
+      "name": "MOTHER ATE",
+      "url": "https://open.spotify.com/track/6S2LusrzKx5Khn4FxfzhYw"
+    },
+    {
+      "added_at": "2024-04-10 04:00:00",
+      "album": {
+        "name": "Fired",
+        "url": "https://open.spotify.com/album/7rn0KhYtCySANpEwwc00a6"
+      },
+      "artists": [
+        {
+          "name": "Libby Whitehouse",
+          "url": "https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe"
+        }
+      ],
+      "duration_ms": 158026,
+      "name": "Fired",
+      "url": "https://open.spotify.com/track/3pswST6FEbW1HKR5AQiXm6"
     },
     {
       "added_at": "2024-04-03 04:00:00",
@@ -39,6 +71,86 @@
       "duration_ms": 212841,
       "name": "Eulogy",
       "url": "https://open.spotify.com/track/0OWyJzSLWlM3WZhl7IfYc6"
+    },
+    {
+      "added_at": "2024-04-10 04:00:00",
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/1LtL4M8Ap0tzNZNLFQjQhN"
+      },
+      "artists": [
+        {
+          "name": "Maya Malkin",
+          "url": "https://open.spotify.com/artist/4E7h9iuJDTrjAtpd0cnIRJ"
+        }
+      ],
+      "duration_ms": 128507,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/3NcbkfyYhxERMXaUU7UaUR"
+    },
+    {
+      "added_at": "2024-04-10 04:00:00",
+      "album": {
+        "name": "Unforgiven",
+        "url": "https://open.spotify.com/album/1eEwOD2bANSds4MbRMVOJM"
+      },
+      "artists": [
+        {
+          "name": "Tender Misfit",
+          "url": "https://open.spotify.com/artist/1fkaNNQRGflvAClVJM0b6I"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Unforgiven",
+      "url": "https://open.spotify.com/track/0v5aQFc4XqGE3elusG0P4o"
+    },
+    {
+      "added_at": "2024-04-10 04:00:00",
+      "album": {
+        "name": "Lie Back",
+        "url": "https://open.spotify.com/album/7kKUm4ugcK18N4NN1BkEQA"
+      },
+      "artists": [
+        {
+          "name": "Madeline",
+          "url": "https://open.spotify.com/artist/3u5FXThTL9t0pv8PhUCElb"
+        }
+      ],
+      "duration_ms": 193347,
+      "name": "Lie Back",
+      "url": "https://open.spotify.com/track/21jpWfG2wPBsxDP9Hukvu5"
+    },
+    {
+      "added_at": "2024-04-10 04:00:00",
+      "album": {
+        "name": "Not A Heartbreak",
+        "url": "https://open.spotify.com/album/1VDxAp3zH2rSXYwBtXaLLD"
+      },
+      "artists": [
+        {
+          "name": "Talia Rae",
+          "url": "https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr"
+        }
+      ],
+      "duration_ms": 232305,
+      "name": "Not A Heartbreak",
+      "url": "https://open.spotify.com/track/4nFvMJhg3O0RwREcS2FoRY"
+    },
+    {
+      "added_at": "2024-04-03 04:00:00",
+      "album": {
+        "name": "Don't Give Up On Love",
+        "url": "https://open.spotify.com/album/1GIfzALsAVoILlh1AkX6Pl"
+      },
+      "artists": [
+        {
+          "name": "Micah McLaurin",
+          "url": "https://open.spotify.com/artist/65myEloviHpLiDJ7sA79DD"
+        }
+      ],
+      "duration_ms": 209747,
+      "name": "Don't Give Up On Love",
+      "url": "https://open.spotify.com/track/6PKIbeiAWkXCW6zokx4WUR"
     },
     {
       "added_at": "2024-04-03 04:00:00",
@@ -87,22 +199,6 @@
       "duration_ms": 154033,
       "name": "crowd pleaser",
       "url": "https://open.spotify.com/track/3g7L6qhsAhZfAAFHfYvnAo"
-    },
-    {
-      "added_at": "2024-03-27 04:00:00",
-      "album": {
-        "name": "Understatement",
-        "url": "https://open.spotify.com/album/2dmcrQEI5C8AVNTdrcAaNw"
-      },
-      "artists": [
-        {
-          "name": "Maryon",
-          "url": "https://open.spotify.com/artist/7AtbuRokFnPshEZ6muoDWV"
-        }
-      ],
-      "duration_ms": 151868,
-      "name": "Understatement",
-      "url": "https://open.spotify.com/track/57jENaZ0ZEqxIRwEDCm63R"
     },
     {
       "added_at": "2024-04-03 04:00:00",
@@ -619,22 +715,6 @@
       "duration_ms": 178363,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/1HYGM2aLGnfWdXF31ZNUOG"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/5nkLySr4VplyXkX7KVK2e0"
-      },
-      "artists": [
-        {
-          "name": "Libby Whitehouse",
-          "url": "https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe"
-        }
-      ],
-      "duration_ms": 161882,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/39Tp0g9FmNfeRxOdh9mdUG"
     },
     {
       "added_at": "2024-03-06 05:00:00",
@@ -1157,22 +1237,6 @@
       "url": "https://open.spotify.com/track/6fvFzv3h94tKr9SWhR6SSh"
     },
     {
-      "added_at": "2024-02-21 05:00:00",
-      "album": {
-        "name": "Hostile",
-        "url": "https://open.spotify.com/album/5Say74X6vOcKRdnKB6hVY2"
-      },
-      "artists": [
-        {
-          "name": "Maya Kuriel",
-          "url": "https://open.spotify.com/artist/0QdMbXjSLBS2LfjQ3lvJvP"
-        }
-      ],
-      "duration_ms": 153110,
-      "name": "Hostile",
-      "url": "https://open.spotify.com/track/0GeIW97TvjqE2TA4P6a7gB"
-    },
-    {
       "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "on purpose",
@@ -1267,22 +1331,6 @@
       "duration_ms": 183230,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/3Sa7PJ7ohCAEnAzLccmmfj"
-    },
-    {
-      "added_at": "2024-02-21 05:00:00",
-      "album": {
-        "name": "Last Impression",
-        "url": "https://open.spotify.com/album/4g8K0OE7R8aTWhoItCw61v"
-      },
-      "artists": [
-        {
-          "name": "Eiza Murphy",
-          "url": "https://open.spotify.com/artist/0A7bgQaXKKxFsvurGyFMn9"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Last Impression",
-      "url": "https://open.spotify.com/track/2Csuu6a5cp3UBjS3JD6WQR"
     },
     {
       "added_at": "2024-02-21 05:00:00",
@@ -1449,22 +1497,6 @@
       "url": "https://open.spotify.com/track/4w0WVJWw1cm1n5FLox2Yjp"
     },
     {
-      "added_at": "2024-02-14 05:05:28",
-      "album": {
-        "name": "Someone To Come Home To",
-        "url": "https://open.spotify.com/album/1Or2hpu3qAR7IAcZtL9aD8"
-      },
-      "artists": [
-        {
-          "name": "Melis",
-          "url": "https://open.spotify.com/artist/6kSTKwK0UxnSFLdpF3DCc3"
-        }
-      ],
-      "duration_ms": 257153,
-      "name": "Someone To Come Home To",
-      "url": "https://open.spotify.com/track/5yVtHz94qJwWDhj2Y35lcX"
-    },
-    {
       "added_at": "2024-01-31 05:00:00",
       "album": {
         "name": "Call Me Yours",
@@ -1513,22 +1545,6 @@
       "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
     },
     {
-      "added_at": "2024-01-24 05:00:00",
-      "album": {
-        "name": "affirmations! affirmations!",
-        "url": "https://open.spotify.com/album/6nAJfmblUxC6nmEM41fGHd"
-      },
-      "artists": [
-        {
-          "name": "Maya Malkin",
-          "url": "https://open.spotify.com/artist/4E7h9iuJDTrjAtpd0cnIRJ"
-        }
-      ],
-      "duration_ms": 132573,
-      "name": "affirmations! affirmations!",
-      "url": "https://open.spotify.com/track/1sqqlPRqM3DcRt26g5a5G0"
-    },
-    {
       "added_at": "2024-01-25 05:07:27",
       "album": {
         "name": "Eulogize",
@@ -1559,22 +1575,6 @@
       "duration_ms": 206042,
       "name": "Moon Girl",
       "url": "https://open.spotify.com/track/7nJtQwoQ6k1SEaNRW3cmUn"
-    },
-    {
-      "added_at": "2024-01-17 05:00:00",
-      "album": {
-        "name": "dead to me",
-        "url": "https://open.spotify.com/album/0oZYgcrHbMQ3V0Ge9SowII"
-      },
-      "artists": [
-        {
-          "name": "Eva Snyder",
-          "url": "https://open.spotify.com/artist/6qwzV9a2lGZLfTmXXhkP4l"
-        }
-      ],
-      "duration_ms": 158920,
-      "name": "dead to me",
-      "url": "https://open.spotify.com/track/081O4UBlyJI74TlA4G75oM"
     },
     {
       "added_at": "2024-01-10 05:00:00",

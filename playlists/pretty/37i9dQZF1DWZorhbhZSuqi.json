@@ -1,12 +1,12 @@
 {
   "description": "to the people who look at the stars and wish \ud83e\uddda\u200d\u2640\ufe0f",
-  "num_followers": 13294,
+  "num_followers": 13315,
   "original_name": "Faerie Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDc4N2VhMTNkM2MxMjlkNGNlNDc3YWQ1ODg4MzExMzA3YmFiM2Jj",
+  "snapshot_id": "MCw2Yjk2NWY2ODQ1YmI2M2JlMzg2YjcwMDg5ZThhYzk5ZWI5MjA2MDhi",
   "tracks": [
     {
       "added_at": "2024-03-25 20:44:21",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-03-25 20:15:23",
       "album": {
-        "name": "Wild Youth",
-        "url": "https://open.spotify.com/album/6BxQ7IyCBbx4CeB7BHQwet"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 258972,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/1ujiHGg5p9SVrNIV4jumQK"
-    },
-    {
-      "added_at": "2024-03-25 20:15:23",
-      "album": {
         "name": "LSD and the Search for God",
         "url": "https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 304240,
       "name": "Starting Over",
       "url": "https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp"
+    },
+    {
+      "added_at": "2024-03-25 20:15:23",
+      "album": {
+        "name": "Wild Youth",
+        "url": "https://open.spotify.com/album/6BxQ7IyCBbx4CeB7BHQwet"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "duration_ms": 258972,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/1ujiHGg5p9SVrNIV4jumQK"
     },
     {
       "added_at": "2024-03-25 20:15:23",

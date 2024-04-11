@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-264 songs - 15 hr 34 min
+265 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Lift High \(Emmanuel\)](https://open.spotify.com/track/6Pzv40MLNnwE0N4xZpYJ2X) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Lift High \(Emmanuel\)](https://open.spotify.com/album/5DqiYPcDeTilZ0lcUWVHhi) | 5:11 | 2022-12-11 | 2023-08-09 |
 | [Little Drummer Boy](https://open.spotify.com/track/0yiZFkTS3Lo9dAutRKs6s5) | [Ariel Fitz\-Patrick](https://open.spotify.com/artist/0Y2NXQx6UQT0Jh932dxFah), [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX) | [Little Drummer Boy](https://open.spotify.com/album/4hhjrH3pzthZEqDVnYgGiz) | 4:06 | 2023-12-15 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/6MtecozqUbilB5qbVARrUH) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas](https://open.spotify.com/album/3mzFzJI8WYQ7Szerr4zLzT) | 4:48 | 2022-12-11 |  |
-| [Little Drummer Boy](https://open.spotify.com/track/24aU7xjRrQPYiH0GwkUvFa) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo), [Emily Schultz](https://open.spotify.com/artist/1QxBK9B8Dzq72wd4f5Nlba) | [Little Drummer Boy](https://open.spotify.com/album/78azCxU0zgCpkQKSpVX35m) | 3:05 | 2022-12-11 |  |
+| [Little Drummer Boy](https://open.spotify.com/track/24aU7xjRrQPYiH0GwkUvFa) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo), [Emily Schultz](https://open.spotify.com/artist/1QxBK9B8Dzq72wd4f5Nlba) | [Little Drummer Boy](https://open.spotify.com/album/78azCxU0zgCpkQKSpVX35m) | 3:05 | 2022-12-11 | 2024-04-11 |
 | [Manger Throne](https://open.spotify.com/track/1Z0IdyRLTGeUQDincfC5DI) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Manger Throne](https://open.spotify.com/album/6hHBbeDEOg6y1N4OGgcMop) | 4:20 | 2023-11-03 |  |
 | [Mary & Joseph](https://open.spotify.com/track/0R1RPMrUi4pNPbI9cLlOc2) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Mary & Joseph](https://open.spotify.com/album/6pPITZmKTHNMS6kf5FV70D) | 4:05 | 2022-11-26 |  |
 | [Mary Did You Know? \- Radio Version](https://open.spotify.com/track/3msuA22zBie3qiCG7BVf9L) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV) | [Mary Did You Know? \(Radio Version\)](https://open.spotify.com/album/0I7r8bytAaTnRtjukX0MJ5) | 2:54 | 2022-12-11 |  |
@@ -266,6 +266,7 @@
 | [White Christmas \- 1947 Version](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) | 2:57 | 2022-12-11 | 2023-11-23 |
 | [Who Would Imagine A King](https://open.spotify.com/track/6QvTNgKLJVBvKQTXcMxqMx) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Who Would Imagine A King](https://open.spotify.com/album/0GtTL5GRCNIoBA3PKQJXYo) | 2:58 | 2023-12-15 |  |
 | [Winter Wonderland](https://open.spotify.com/track/0SI7ktQIodpsrsk7J4se7V) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Winter Wonderland](https://open.spotify.com/album/5cDpUgDcGSnr6kYOS0SIbr) | 3:52 | 2022-12-11 | 2024-01-08 |
+| [Winter Wonderland](https://open.spotify.com/track/6QQgDGAHnwdSLVnoBXtqmK) | [Chandler + Maria Letner](https://open.spotify.com/artist/59ndUDeoAo4edRIwS1Ux7k) | [Winter Wonderland](https://open.spotify.com/album/2z5OIyt8vzsKxwNUI9FOqY) | 2:00 | 2023-12-15 |  |
 | [Winter Wonderland](https://open.spotify.com/track/4ImMxNxQj1o9iF35rDVFjE) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Christmas Eve in Bethlehem \(Deluxe Edition\)](https://open.spotify.com/album/2zpe0u6jgqTdlxZWo92MYa) | 2:36 | 2022-12-11 | 2023-10-16 |
 | [Winter Wonderland](https://open.spotify.com/track/0mEVR7fOrIeOtLXP1DLuAx) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [Clark Beckham](https://open.spotify.com/artist/5rfQucYgrOXJ3aD5TuLdoK) | [Winter Wonderland](https://open.spotify.com/album/1X8tQ76K8lWa5hC5Ebtpek) | 2:31 | 2021-12-24 | 2024-02-12 |
 | [Wonderful Christmastime](https://open.spotify.com/track/1eDJEL8bpj88WReUBTaYxb) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Like A Child](https://open.spotify.com/album/16grvtJnFp58G4sS7rt7K9) | 2:52 | 2023-11-03 |  |

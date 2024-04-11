@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa Averagekidluke.
 
-440 songs - 21 hr 5 min
+441 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,8 @@
 | [Koira De Bruyne](https://open.spotify.com/track/0ngzab8Nyz98RBkWIPtFX9) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [Koira De Bruyne](https://open.spotify.com/album/6RCsSeKy0aOYjs4gvd3k1m) | 2:11 | 2024-03-21 | 2024-04-05 |
 | [Kokonaan sun](https://open.spotify.com/track/6LCQb46zSJWbcfniC8GRx1) | [MIKAYLA](https://open.spotify.com/artist/1HTqDkXCcdMUAalw6a3BK8) | [Kokonaan sun](https://open.spotify.com/album/4kFO6g4elZKioFb9zXIE5f) | 2:58 | 2024-02-22 | 2024-03-15 |
 | [Kolmestaa \(feat\. Lauri Haav & Etta\)](https://open.spotify.com/track/6PSdyypNd84uQn4f2qFrtC) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Kolmestaa \(feat\. Lauri Haav & Etta\)](https://open.spotify.com/album/2fNvVSMdDSoOHnOgTWrB7M) | 2:59 | 2023-12-28 | 2024-03-15 |
-| [Konami](https://open.spotify.com/track/09eFIpwjaGEgtmiyePDOk7) | [DJ Kridlokk](https://open.spotify.com/artist/40S3a8Beijh7mZ7vTV5TmJ) | [Hai](https://open.spotify.com/album/7oxSQd9mtYnKAMXSGhPSlD) | 4:13 | 2024-04-04 |  |
+| [Konami](https://open.spotify.com/track/09eFIpwjaGEgtmiyePDOk7) | [DJ Kridlokk](https://open.spotify.com/artist/40S3a8Beijh7mZ7vTV5TmJ) | [Hai](https://open.spotify.com/album/7oxSQd9mtYnKAMXSGhPSlD) | 4:13 | 2024-04-04 | 2024-04-11 |
+| [Konami](https://open.spotify.com/track/5yoT8V1KnSJxEcIEsCQyTW) | [DJ Kridlokk](https://open.spotify.com/artist/40S3a8Beijh7mZ7vTV5TmJ) | [Hai](https://open.spotify.com/album/5vao2cG8LkUZ1qm3RkPWGa) | 4:13 | 2024-04-09 |  |
 | [KOODAA TEXTAA](https://open.spotify.com/track/0rxfxJzW4ggwpVaFgT5bjO) | [Nelli Orell](https://open.spotify.com/artist/1Buj43f2VREVfcmEsNBjVd) | [KOODAA TEXTAA](https://open.spotify.com/album/42czhCOVCBS3OvwN0cbUz3) | 2:20 | 2024-01-25 | 2024-02-23 |
 | [Kopernikaaninen](https://open.spotify.com/track/31CxGw0N1lv2jS4g3f1yOy) | [Joku Roti Mafia](https://open.spotify.com/artist/3xErpeXqmNXyKKHiJZogLM), [Hannibal](https://open.spotify.com/artist/3Q1Ocmqs8NBXyLMkwxrDj2), [Lauri Räpping Vantaanjoki](https://open.spotify.com/artist/53Om42DPd8ZL0yScH9r8EU), [Tapani Kansalainen](https://open.spotify.com/artist/6HJP1mv9ilk7DmpRyXo2vT), [Tykopaatti](https://open.spotify.com/artist/4uEo4R2E8pjf2z72LcBQGW), [Are](https://open.spotify.com/artist/16X4XStfwmDUkI98lVGj4Z), [Tomigun](https://open.spotify.com/artist/3y7CJjjHCan5o9079FtTkz), [DJ Massimo](https://open.spotify.com/artist/71qkSHIyLGgk1ffDbcbEAj), [MEGAFAUNA](https://open.spotify.com/artist/5fIEH13vowRybS8ASJ3XFN) | [Kopernikaaninen](https://open.spotify.com/album/3ZApBSnT4xKET5mllPMSzL) | 4:31 | 2023-09-28 | 2023-10-13 |
 | [Kortteli \(feat\. Aste, EKI JA RAY & Becki\)](https://open.spotify.com/track/2mCYmOIJxf7CxRVn7Pn4Pz) | [Brädi](https://open.spotify.com/artist/7sffd21zAdar6cigY9A1b7), [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [EKI JA RAY](https://open.spotify.com/artist/5kFA7hu270oNJDL55BDEEp), [Becki](https://open.spotify.com/artist/6510PIQYPEOlw19irLlFmK) | [Kortteli \(feat\. Aste, EKI JA RAY & Becki\)](https://open.spotify.com/album/2AOBCkwqdhf1W8NoIogJhb) | 3:55 | 2023-09-21 | 2023-09-29 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 131572,
+  "2024-04-11": 131590,
   "date_first_scraped": "2023-05-19",
   "description": "Magic of acoustic poured into your Chai. Cover - Shreya Ghoshal",
   "name": "Chai & Acoustic",
@@ -2712,6 +2712,32 @@
     },
     {
       "album": {
+        "name": "Lafz",
+        "url": "https://open.spotify.com/album/4LAHU5zvi4sU5wBApjHa4E"
+      },
+      "artists": [
+        {
+          "name": "Garvit - Priyansh",
+          "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4"
+        },
+        {
+          "name": "Garvit Soni",
+          "url": "https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH"
+        },
+        {
+          "name": "Priyansh Srivastava",
+          "url": "https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222039,
+      "name": "Keh Do Na",
+      "url": "https://open.spotify.com/track/6c3LR94yDATEjWBJQCaYs3"
+    },
+    {
+      "album": {
         "name": "Kehedo Sanam",
         "url": "https://open.spotify.com/album/36vvhudUd2zaFouRIIaltH"
       },
@@ -4873,7 +4899,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 324283,
       "name": "Shamiyana",
       "url": "https://open.spotify.com/track/3QC6onisBo4QROKE7Wr6W9"

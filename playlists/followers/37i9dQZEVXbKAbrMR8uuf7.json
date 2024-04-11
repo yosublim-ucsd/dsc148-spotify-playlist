@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 153421,
+  "2024-04-11": 153432,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Dominican Republic.",
   "name": "Top 50 - Dominican Republic",
@@ -4033,7 +4033,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 164055,
       "name": "Cintureo - Remix",
       "url": "https://open.spotify.com/track/1cQTT0WyAvD4LL0m42J8M4"
@@ -4459,7 +4459,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 192786,
       "name": "CONTIGO (with Ti\u00ebsto)",
       "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
@@ -9341,6 +9341,28 @@
       "duration_ms": 149000,
       "name": "Gastar",
       "url": "https://open.spotify.com/track/7jZGELQvY3aZKaCIQVqwSY"
+    },
+    {
+      "album": {
+        "name": "Gata Only",
+        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
       "album": {
@@ -15707,7 +15729,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 229276,
       "name": "Mi Todo",
       "url": "https://open.spotify.com/track/02Rs1gB9idwpTtgcyciiuY"
@@ -20123,7 +20145,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 125004,
       "name": "Que La Choque",
       "url": "https://open.spotify.com/track/0kjH0WcUn6hzQxbwW03vjq"
@@ -22917,7 +22939,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 204649,
       "name": "Sicaria",
       "url": "https://open.spotify.com/track/02AZnoKXGEeOrTI9xrtOsg"
@@ -26309,7 +26331,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 111295,
       "name": "Una Malita",
       "url": "https://open.spotify.com/track/4L6Il4csGOZ077lp8g4cvo"
@@ -27031,7 +27053,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 555071,
       "name": "VVS Switch (feat. Hades66, Luar La L & CDobleta) - Remix",
       "url": "https://open.spotify.com/track/7kSL8RqBe9ySL8tjvSoII0"

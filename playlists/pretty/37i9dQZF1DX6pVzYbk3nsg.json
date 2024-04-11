@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 5648,
+  "num_followers": 5657,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDk4Mzg4M2E3NjU5ODM2ZDAwZThhZTVhYTgwNWEyOGY2ZDJiYWM1",
+  "snapshot_id": "MCwyZmFiZWVjNGMzMDc0YmQxNjM3ZTI1YzQ1MWVkYzRhYzRkOGJhNDU3",
   "tracks": [
     {
       "added_at": "2023-06-13 22:15:19",
@@ -771,8 +771,8 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Para Todos Ustedes",
-        "url": "https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5"
+        "name": "Somos Boricuas: Bomba Y Plena En Nueva York",
+        "url": "https://open.spotify.com/album/3RTj6IuypsPsWoGUsiUTwB"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
         }
       ],
-      "duration_ms": 223853,
-      "name": "Madame Calal\u00fa",
-      "url": "https://open.spotify.com/track/7rgzOhmb0GFWDgAOqhk8ah"
+      "duration_ms": 223293,
+      "name": "Plena De San Anton",
+      "url": "https://open.spotify.com/track/6bSNlhadeU2eW6MWQN1Kq0"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -819,8 +819,8 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Somos Boricuas: Bomba Y Plena En Nueva York",
-        "url": "https://open.spotify.com/album/3RTj6IuypsPsWoGUsiUTwB"
+        "name": "Para Todos Ustedes",
+        "url": "https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
         }
       ],
-      "duration_ms": 223293,
-      "name": "Plena De San Anton",
-      "url": "https://open.spotify.com/track/6bSNlhadeU2eW6MWQN1Kq0"
+      "duration_ms": 223853,
+      "name": "Madame Calal\u00fa",
+      "url": "https://open.spotify.com/track/7rgzOhmb0GFWDgAOqhk8ah"
     }
   ],
   "unique_name": "Bomba y Plena",

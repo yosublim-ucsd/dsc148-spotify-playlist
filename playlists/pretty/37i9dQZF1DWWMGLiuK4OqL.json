@@ -1,12 +1,12 @@
 {
   "description": "The soft sound of some of the smoothest and sweetest vocal Jazz.",
-  "num_followers": 217353,
+  "num_followers": 217499,
   "original_name": "Sweet Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWMxYjEzMGE1YjU0MzE4OTMzZGE4OTEyOTcxMGMyYWEzNDM0YWE0",
+  "snapshot_id": "MCw1MjI5NWQwMTIyNzY2ZDRiM2QwMWFlMzNmZjQ4ZTE2YjI5MjFmZGMy",
   "tracks": [
     {
       "added_at": "2024-03-20 09:05:16",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-03-20 09:05:16",
       "album": {
-        "name": "This Guy's In Love",
-        "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
-      },
-      "artists": [
-        {
-          "name": "Steve Tyrell",
-          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "I've Got a Crush On You",
-      "url": "https://open.spotify.com/track/0Kp6wskdOWA5U74pbtZ3qQ"
-    },
-    {
-      "added_at": "2024-03-20 09:05:16",
-      "album": {
         "name": "Relaxing Bossa Lounge 4",
         "url": "https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 255933,
       "name": "You\u00b4ve Got A Friend (Bossa Version)",
       "url": "https://open.spotify.com/track/72d2qNpo39PRtwMWS9m2nq"
+    },
+    {
+      "added_at": "2024-03-20 09:05:16",
+      "album": {
+        "name": "This Guy's In Love",
+        "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
+      },
+      "artists": [
+        {
+          "name": "Steve Tyrell",
+          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "I've Got a Crush On You",
+      "url": "https://open.spotify.com/track/0Kp6wskdOWA5U74pbtZ3qQ"
     },
     {
       "added_at": "2024-03-20 09:05:16",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-03-20 09:05:16",
       "album": {
-        "name": "That Bad Eartha",
-        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
-      },
-      "artists": [
-        {
-          "name": "Eartha Kitt",
-          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
-        }
-      ],
-      "duration_ms": 185666,
-      "name": "Let's Do It",
-      "url": "https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc"
-    },
-    {
-      "added_at": "2024-03-20 09:05:16",
-      "album": {
         "name": "Mystery Lady: Songs of Billie Holiday",
         "url": "https://open.spotify.com/album/73XbGVMidbd8XpuNmTVkOW"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 266733,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/0rXZu998CXslEpwhxdHzeu"
+    },
+    {
+      "added_at": "2024-03-20 09:05:16",
+      "album": {
+        "name": "That Bad Eartha",
+        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "Let's Do It",
+      "url": "https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc"
     },
     {
       "added_at": "2024-03-20 09:05:16",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-03-20 09:05:16",
       "album": {
-        "name": "Let It All Out",
-        "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 258693,
-      "name": "Don't Explain",
-      "url": "https://open.spotify.com/track/5trSBbOg0lYbiDq9khCB8u"
-    },
-    {
-      "added_at": "2024-03-20 09:05:16",
-      "album": {
         "name": "Dreamers Do",
         "url": "https://open.spotify.com/album/48vMJyoBaAUs7mRtVnENwh"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 164693,
       "name": "What a Wonderful World",
       "url": "https://open.spotify.com/track/1fKTjYXhEV4f2Iz1LOYOk0"
+    },
+    {
+      "added_at": "2024-03-20 09:05:16",
+      "album": {
+        "name": "Let It All Out",
+        "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 258693,
+      "name": "Don't Explain",
+      "url": "https://open.spotify.com/track/5trSBbOg0lYbiDq9khCB8u"
     },
     {
       "added_at": "2024-03-20 09:05:16",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-03-20 09:05:16",
       "album": {
+        "name": "These Are the Memories",
+        "url": "https://open.spotify.com/album/4wmAugLcz7Whavrrr1t1Kb"
+      },
+      "artists": [
+        {
+          "name": "Emmaline",
+          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
+        }
+      ],
+      "duration_ms": 273670,
+      "name": "These Are the Memories",
+      "url": "https://open.spotify.com/track/6cBAQr4SjyDLDfkUa1oprE"
+    },
+    {
+      "added_at": "2024-03-20 09:05:16",
+      "album": {
         "name": "Live at Jamboree - Barcelona",
         "url": "https://open.spotify.com/album/7tXiRWUOJWPqTxFIjbpvue"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 462306,
       "name": "Summer Time",
       "url": "https://open.spotify.com/track/7skpOVKLMC9oUwVcG6mZQ6"
-    },
-    {
-      "added_at": "2024-03-20 09:05:16",
-      "album": {
-        "name": "These Are the Memories",
-        "url": "https://open.spotify.com/album/4wmAugLcz7Whavrrr1t1Kb"
-      },
-      "artists": [
-        {
-          "name": "Emmaline",
-          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
-        }
-      ],
-      "duration_ms": 273670,
-      "name": "These Are the Memories",
-      "url": "https://open.spotify.com/track/6cBAQr4SjyDLDfkUa1oprE"
     },
     {
       "added_at": "2024-03-20 09:05:16",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-03-20 09:05:16",
       "album": {
-        "name": "Frank",
-        "url": "https://open.spotify.com/album/2poSmwqkBX2RE1Z7eQoU5c"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 268440,
-      "name": "Someone To Watch Over Me - Demo",
-      "url": "https://open.spotify.com/track/6NTYTe9TefEXD65luwjxal"
-    },
-    {
-      "added_at": "2024-03-20 09:05:16",
-      "album": {
         "name": "Conjuring",
         "url": "https://open.spotify.com/album/1Z67DgVbrQYsPShoWAeC6X"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 185296,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/5HkkshNeJCmfEwUI06wbTZ"
+    },
+    {
+      "added_at": "2024-03-20 09:05:16",
+      "album": {
+        "name": "Frank",
+        "url": "https://open.spotify.com/album/2poSmwqkBX2RE1Z7eQoU5c"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 268440,
+      "name": "Someone To Watch Over Me - Demo",
+      "url": "https://open.spotify.com/track/6NTYTe9TefEXD65luwjxal"
     },
     {
       "added_at": "2024-03-20 09:05:16",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-03-20 09:05:16",
       "album": {
-        "name": "Carmen McRae For Lovers",
-        "url": "https://open.spotify.com/album/7clmDaiCZ59KoFu05W6CAU"
-      },
-      "artists": [
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "When I Fall In Love",
-      "url": "https://open.spotify.com/track/3qo1rizHmEmLPZbCwYSiKX"
-    },
-    {
-      "added_at": "2024-03-20 09:05:16",
-      "album": {
         "name": "I Miss You So",
         "url": "https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF"
       },
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2024-03-20 09:05:16",
       "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+        "name": "Carmen McRae For Lovers",
+        "url": "https://open.spotify.com/album/7clmDaiCZ59KoFu05W6CAU"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
         }
       ],
-      "duration_ms": 185346,
-      "name": "Hallelujah, I Love Him So - First Sessions Outtake",
-      "url": "https://open.spotify.com/track/1QLBKel4BFnZIk6VTQiiqY"
+      "duration_ms": 229226,
+      "name": "When I Fall In Love",
+      "url": "https://open.spotify.com/track/3qo1rizHmEmLPZbCwYSiKX"
     },
     {
       "added_at": "2024-03-20 09:05:16",
@@ -1359,6 +1343,22 @@
       "duration_ms": 210346,
       "name": "Our Love Will Always Be There",
       "url": "https://open.spotify.com/track/7aX4JxBER6j1OaMMOOfW1m"
+    },
+    {
+      "added_at": "2024-03-20 09:05:16",
+      "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 185346,
+      "name": "Hallelujah, I Love Him So - First Sessions Outtake",
+      "url": "https://open.spotify.com/track/1QLBKel4BFnZIk6VTQiiqY"
     },
     {
       "added_at": "2024-03-20 09:05:16",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-03-20 09:05:16",
       "album": {
-        "name": "Same Soul",
-        "url": "https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx"
-      },
-      "artists": [
-        {
-          "name": "Karen Rosenberg",
-          "url": "https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77"
-        }
-      ],
-      "duration_ms": 380380,
-      "name": "Behind Me",
-      "url": "https://open.spotify.com/track/56aMKNhh10LMs7zzPvICNS"
-    },
-    {
-      "added_at": "2024-03-20 09:05:16",
-      "album": {
         "name": "Time To Swing",
         "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 157133,
       "name": "(It Will Have To Do) Until The Real Thing Comes Along",
       "url": "https://open.spotify.com/track/6XiTocvILURpEtGL6NWW7i"
+    },
+    {
+      "added_at": "2024-03-20 09:05:16",
+      "album": {
+        "name": "Same Soul",
+        "url": "https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx"
+      },
+      "artists": [
+        {
+          "name": "Karen Rosenberg",
+          "url": "https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77"
+        }
+      ],
+      "duration_ms": 380380,
+      "name": "Behind Me",
+      "url": "https://open.spotify.com/track/56aMKNhh10LMs7zzPvICNS"
     },
     {
       "added_at": "2024-03-20 09:05:16",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2024-03-20 09:05:16",
       "album": {
+        "name": "The Sound of Music",
+        "url": "https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        }
+      ],
+      "duration_ms": 245148,
+      "name": "The Sound of Music",
+      "url": "https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx"
+    },
+    {
+      "added_at": "2024-03-20 09:05:16",
+      "album": {
         "name": "It Had To Be You",
         "url": "https://open.spotify.com/album/4OCNUHcGGDd3ebWfFnQqMM"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 158875,
       "name": "It Had To Be You",
       "url": "https://open.spotify.com/track/6wHE239XacQWh9qJtGGaGJ"
-    },
-    {
-      "added_at": "2024-03-20 09:05:16",
-      "album": {
-        "name": "The Sound of Music",
-        "url": "https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL"
-      },
-      "artists": [
-        {
-          "name": "Martina DaSilva",
-          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
-        }
-      ],
-      "duration_ms": 245148,
-      "name": "The Sound of Music",
-      "url": "https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx"
     },
     {
       "added_at": "2024-03-20 09:05:16",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2024-03-20 09:05:16",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/4us3GOm42EubfNyOqYf55R"
-      },
-      "artists": [
-        {
-          "name": "Eartha Kitt",
-          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
-        }
-      ],
-      "duration_ms": 184453,
-      "name": "The Girl from Ipanema",
-      "url": "https://open.spotify.com/track/1aucqAQImjlcxcQajOBUAv"
-    },
-    {
-      "added_at": "2024-03-20 09:05:16",
-      "album": {
         "name": "When I Get Low",
         "url": "https://open.spotify.com/album/70ljTIleoi86TjqilzoR3r"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 165921,
       "name": "Smile",
       "url": "https://open.spotify.com/track/5H09kZp2YiQjnzhrjch3Ae"
+    },
+    {
+      "added_at": "2024-03-20 09:05:16",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/4us3GOm42EubfNyOqYf55R"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "duration_ms": 184453,
+      "name": "The Girl from Ipanema",
+      "url": "https://open.spotify.com/track/1aucqAQImjlcxcQajOBUAv"
     },
     {
       "added_at": "2024-03-20 09:05:16",
@@ -2095,6 +2095,22 @@
     {
       "added_at": "2024-03-20 09:05:16",
       "album": {
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Any Little Time",
+      "url": "https://open.spotify.com/track/1sqn0LWWNkKM8XYaIyaw10"
+    },
+    {
+      "added_at": "2024-03-20 09:05:16",
+      "album": {
         "name": "Spring Can Really Hang You up the Most",
         "url": "https://open.spotify.com/album/6Jl50vplY7lfIVwFpMoWSI"
       },
@@ -2115,22 +2131,6 @@
       "duration_ms": 326019,
       "name": "Spring Can Really Hang You up the Most",
       "url": "https://open.spotify.com/track/3GFBG0crgjK3sjivJtMwLe"
-    },
-    {
-      "added_at": "2024-03-20 09:05:16",
-      "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "Any Little Time",
-      "url": "https://open.spotify.com/track/1sqn0LWWNkKM8XYaIyaw10"
     },
     {
       "added_at": "2024-03-20 09:05:16",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2024-03-20 09:05:16",
       "album": {
-        "name": "Flirting With Twilight",
-        "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Blame It On My Youth",
-      "url": "https://open.spotify.com/track/1eWkhs5WbRc8q4s2xtKuRL"
-    },
-    {
-      "added_at": "2024-03-20 09:05:16",
-      "album": {
         "name": "Her Very Best So Far",
         "url": "https://open.spotify.com/album/769kAlgamFR5WMLGMfoHio"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 262453,
       "name": "No More Blues",
       "url": "https://open.spotify.com/track/4iyqobj3767rBvX0bHxEfL"
+    },
+    {
+      "added_at": "2024-03-20 09:05:16",
+      "album": {
+        "name": "Flirting With Twilight",
+        "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Blame It On My Youth",
+      "url": "https://open.spotify.com/track/1eWkhs5WbRc8q4s2xtKuRL"
     },
     {
       "added_at": "2024-03-20 09:05:16",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2024-03-20 09:05:16",
       "album": {
-        "name": "Sentimental Journey",
-        "url": "https://open.spotify.com/album/5Df4tcguBo4qkUYY8vA7IV"
-      },
-      "artists": [
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        }
-      ],
-      "duration_ms": 283693,
-      "name": "My Foolish Heart",
-      "url": "https://open.spotify.com/track/0kDcnUVGfVX1JvRPkslQc3"
-    },
-    {
-      "added_at": "2024-03-20 09:05:16",
-      "album": {
         "name": "Ultimate Peggy Lee",
         "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 219933,
       "name": "The Folks Who Live On The Hill",
       "url": "https://open.spotify.com/track/2aP2eG8PpJ7jjcGxT7kDr8"
+    },
+    {
+      "added_at": "2024-03-20 09:05:16",
+      "album": {
+        "name": "Sentimental Journey",
+        "url": "https://open.spotify.com/album/5Df4tcguBo4qkUYY8vA7IV"
+      },
+      "artists": [
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 283693,
+      "name": "My Foolish Heart",
+      "url": "https://open.spotify.com/track/0kDcnUVGfVX1JvRPkslQc3"
     },
     {
       "added_at": "2024-03-20 09:05:16",
@@ -2623,6 +2623,22 @@
     {
       "added_at": "2024-03-20 09:05:16",
       "album": {
+        "name": "The Complete Piano Duets",
+        "url": "https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "I Cried For You",
+      "url": "https://open.spotify.com/track/5sOGjH3QgwqhNRwT9I1nYl"
+    },
+    {
+      "added_at": "2024-03-20 09:05:16",
+      "album": {
         "name": "Desperado",
         "url": "https://open.spotify.com/album/37ZtGtGstCyBZRre6ashNa"
       },
@@ -2667,38 +2683,6 @@
     {
       "added_at": "2024-03-20 09:05:16",
       "album": {
-        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
-        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 239493,
-      "name": "Empty Hearts",
-      "url": "https://open.spotify.com/track/27UI0uk8QjBG6D0FVXBjTa"
-    },
-    {
-      "added_at": "2024-03-20 09:05:16",
-      "album": {
-        "name": "The Complete Piano Duets",
-        "url": "https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "I Cried For You",
-      "url": "https://open.spotify.com/track/5sOGjH3QgwqhNRwT9I1nYl"
-    },
-    {
-      "added_at": "2024-03-20 09:05:16",
-      "album": {
         "name": "City Garden",
         "url": "https://open.spotify.com/album/2WF1uyK8XP5PEa1KbeZNC1"
       },
@@ -2735,6 +2719,22 @@
       "duration_ms": 247149,
       "name": "When the Sun Comes Out",
       "url": "https://open.spotify.com/track/6jIGf0fxuEpUR7jHr8wZNN"
+    },
+    {
+      "added_at": "2024-03-20 09:05:16",
+      "album": {
+        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
+        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        }
+      ],
+      "duration_ms": 239493,
+      "name": "Empty Hearts",
+      "url": "https://open.spotify.com/track/27UI0uk8QjBG6D0FVXBjTa"
     },
     {
       "added_at": "2024-03-20 09:05:16",
@@ -2887,22 +2887,6 @@
     {
       "added_at": "2024-03-20 09:05:16",
       "album": {
-        "name": "A Little Moonlight",
-        "url": "https://open.spotify.com/album/2kI3zicMFYrMlRDHOLXJ7s"
-      },
-      "artists": [
-        {
-          "name": "Dianne Reeves",
-          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
-        }
-      ],
-      "duration_ms": 286813,
-      "name": "Darn That Dream",
-      "url": "https://open.spotify.com/track/1bKYwMDGYIRbo2vqm8UCym"
-    },
-    {
-      "added_at": "2024-03-20 09:05:16",
-      "album": {
         "name": "Bird of Beauty",
         "url": "https://open.spotify.com/album/2VKy0JyPz1r9LTmaHIoBej"
       },
@@ -2915,6 +2899,22 @@
       "duration_ms": 295739,
       "name": "Bird of Beauty",
       "url": "https://open.spotify.com/track/1nJ1e4KA6flzNjWnkH8O5i"
+    },
+    {
+      "added_at": "2024-03-20 09:05:16",
+      "album": {
+        "name": "A Little Moonlight",
+        "url": "https://open.spotify.com/album/2kI3zicMFYrMlRDHOLXJ7s"
+      },
+      "artists": [
+        {
+          "name": "Dianne Reeves",
+          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
+        }
+      ],
+      "duration_ms": 286813,
+      "name": "Darn That Dream",
+      "url": "https://open.spotify.com/track/1bKYwMDGYIRbo2vqm8UCym"
     },
     {
       "added_at": "2024-03-20 09:05:16",
@@ -2947,18 +2947,18 @@
     {
       "added_at": "2024-03-20 09:05:16",
       "album": {
-        "name": "Love for Connoisseurs",
-        "url": "https://open.spotify.com/album/4y2H40oDDsnEBPEZwXrE9h"
+        "name": "A Certain Someone",
+        "url": "https://open.spotify.com/album/5UPRQVPIXbuOwOuEcnjif1"
       },
       "artists": [
         {
-          "name": "Angela Verbrugge",
-          "url": "https://open.spotify.com/artist/6RseXDJE4211hDR6MHVfyj"
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
         }
       ],
-      "duration_ms": 220720,
-      "name": "Twentieth Century Fox",
-      "url": "https://open.spotify.com/track/7hi3rz13X8vRWRWPqflOEJ"
+      "duration_ms": 252013,
+      "name": "A Certain Someone",
+      "url": "https://open.spotify.com/track/25yMnwMO9d5urUdVtPyWee"
     },
     {
       "added_at": "2024-03-20 09:05:16",
@@ -2979,22 +2979,6 @@
     {
       "added_at": "2024-03-20 09:05:16",
       "album": {
-        "name": "A Certain Someone",
-        "url": "https://open.spotify.com/album/5UPRQVPIXbuOwOuEcnjif1"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 252013,
-      "name": "A Certain Someone",
-      "url": "https://open.spotify.com/track/25yMnwMO9d5urUdVtPyWee"
-    },
-    {
-      "added_at": "2024-03-20 09:05:16",
-      "album": {
         "name": "Nikki By Starlight",
         "url": "https://open.spotify.com/album/6qinGfHy2uxsXICIzwKtnx"
       },
@@ -3007,6 +2991,42 @@
       "duration_ms": 138706,
       "name": "Comment Allez Vous",
       "url": "https://open.spotify.com/track/4PpEdpAMhNSRA0iTFxKCtE"
+    },
+    {
+      "added_at": "2024-03-20 09:05:16",
+      "album": {
+        "name": "Love for Connoisseurs",
+        "url": "https://open.spotify.com/album/4y2H40oDDsnEBPEZwXrE9h"
+      },
+      "artists": [
+        {
+          "name": "Angela Verbrugge",
+          "url": "https://open.spotify.com/artist/6RseXDJE4211hDR6MHVfyj"
+        }
+      ],
+      "duration_ms": 220720,
+      "name": "Twentieth Century Fox",
+      "url": "https://open.spotify.com/track/7hi3rz13X8vRWRWPqflOEJ"
+    },
+    {
+      "added_at": "2024-03-20 09:05:16",
+      "album": {
+        "name": "Under the Covers",
+        "url": "https://open.spotify.com/album/2n1QUTdi2StG378HUORudq"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias Jr",
+          "url": "https://open.spotify.com/artist/3GjoS8zAETCfiBvgfvlpGm"
+        },
+        {
+          "name": "Jewel",
+          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+        }
+      ],
+      "duration_ms": 296306,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/3ye2omDBPm3MpR3aQDbfA7"
     },
     {
       "added_at": "2024-03-20 09:05:16",
@@ -3051,26 +3071,6 @@
     {
       "added_at": "2024-03-20 09:05:16",
       "album": {
-        "name": "Under the Covers",
-        "url": "https://open.spotify.com/album/2n1QUTdi2StG378HUORudq"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias Jr",
-          "url": "https://open.spotify.com/artist/3GjoS8zAETCfiBvgfvlpGm"
-        },
-        {
-          "name": "Jewel",
-          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
-        }
-      ],
-      "duration_ms": 296306,
-      "name": "Careless Whisper",
-      "url": "https://open.spotify.com/track/3ye2omDBPm3MpR3aQDbfA7"
-    },
-    {
-      "added_at": "2024-03-20 09:05:16",
-      "album": {
         "name": "There's Only One...",
         "url": "https://open.spotify.com/album/23rGVbzBz5S72mqLUGQJB8"
       },
@@ -3083,6 +3083,34 @@
       "duration_ms": 312840,
       "name": "I'm Getting Sentimental Over You",
       "url": "https://open.spotify.com/track/1OxzwCDfkefXTnfwiKUufb"
+    },
+    {
+      "added_at": "2024-03-20 09:05:16",
+      "album": {
+        "name": "At Long Last Love (LIVE at Flux Studio)",
+        "url": "https://open.spotify.com/album/6kVpz5J10q6MZDgelBFLoI"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Barry Stephenson",
+          "url": "https://open.spotify.com/artist/2be2q753N8e1UfuV5AvqNa"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        }
+      ],
+      "duration_ms": 171760,
+      "name": "At Long Last Love - LIVE at Flux Studio",
+      "url": "https://open.spotify.com/track/1qq1J4KcCCjLsghHMqN77d"
     },
     {
       "added_at": "2024-03-20 09:05:16",
@@ -3119,22 +3147,6 @@
     {
       "added_at": "2024-03-20 09:05:16",
       "album": {
-        "name": "Anna's Dollhouse",
-        "url": "https://open.spotify.com/album/2pTZXDcFJkdfvqaUz9GcsF"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Koppel",
-          "url": "https://open.spotify.com/artist/6rSihViB4AAFhVp45EKGbY"
-        }
-      ],
-      "duration_ms": 616306,
-      "name": "Black Water",
-      "url": "https://open.spotify.com/track/4R9PjSTAMvzLxCMw2m7Hqq"
-    },
-    {
-      "added_at": "2024-03-20 09:05:16",
-      "album": {
         "name": "Escondida",
         "url": "https://open.spotify.com/album/75yVGSOBXe3OI8bRrIMalh"
       },
@@ -3147,6 +3159,22 @@
       "duration_ms": 188893,
       "name": "Sascha",
       "url": "https://open.spotify.com/track/1E3CX8oFjpHceDtSp5Fhq5"
+    },
+    {
+      "added_at": "2024-03-20 09:05:16",
+      "album": {
+        "name": "Anna's Dollhouse",
+        "url": "https://open.spotify.com/album/2pTZXDcFJkdfvqaUz9GcsF"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Koppel",
+          "url": "https://open.spotify.com/artist/6rSihViB4AAFhVp45EKGbY"
+        }
+      ],
+      "duration_ms": 616306,
+      "name": "Black Water",
+      "url": "https://open.spotify.com/track/4R9PjSTAMvzLxCMw2m7Hqq"
     },
     {
       "added_at": "2024-03-20 09:05:16",
@@ -3171,34 +3199,6 @@
       "duration_ms": 278898,
       "name": "The Sweetest Moments",
       "url": "https://open.spotify.com/track/0RiaJTqHbBt9gSuhos3pla"
-    },
-    {
-      "added_at": "2024-03-20 09:05:16",
-      "album": {
-        "name": "At Long Last Love (LIVE at Flux Studio)",
-        "url": "https://open.spotify.com/album/6kVpz5J10q6MZDgelBFLoI"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Barry Stephenson",
-          "url": "https://open.spotify.com/artist/2be2q753N8e1UfuV5AvqNa"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        },
-        {
-          "name": "Sullivan Fortner",
-          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
-        }
-      ],
-      "duration_ms": 171760,
-      "name": "At Long Last Love - LIVE at Flux Studio",
-      "url": "https://open.spotify.com/track/1qq1J4KcCCjLsghHMqN77d"
     },
     {
       "added_at": "2024-03-20 09:05:16",
@@ -3235,6 +3235,26 @@
     {
       "added_at": "2024-03-20 09:05:16",
       "album": {
+        "name": "Back Home in Kansas City",
+        "url": "https://open.spotify.com/album/1HxUWVcuyaeA0hP824M17k"
+      },
+      "artists": [
+        {
+          "name": "Bobby Watson",
+          "url": "https://open.spotify.com/artist/13uMuAAeBobEw1i4wRQ7HQ"
+        },
+        {
+          "name": "Carmen Lundy",
+          "url": "https://open.spotify.com/artist/6ea0n3vrwje4VwlWDXMLxL"
+        }
+      ],
+      "duration_ms": 326133,
+      "name": "Our Love Remains",
+      "url": "https://open.spotify.com/track/7rch4tA20nJHicdvSSFahf"
+    },
+    {
+      "added_at": "2024-03-20 09:05:16",
+      "album": {
         "name": "Cantare Pieranunzi",
         "url": "https://open.spotify.com/album/5gZQsyFV01xEKHeRCtEhJQ"
       },
@@ -3267,22 +3287,18 @@
     {
       "added_at": "2024-03-20 09:05:16",
       "album": {
-        "name": "Back Home in Kansas City",
-        "url": "https://open.spotify.com/album/1HxUWVcuyaeA0hP824M17k"
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/0sZ66FzxugWumHwU97CVum"
       },
       "artists": [
         {
-          "name": "Bobby Watson",
-          "url": "https://open.spotify.com/artist/13uMuAAeBobEw1i4wRQ7HQ"
-        },
-        {
-          "name": "Carmen Lundy",
-          "url": "https://open.spotify.com/artist/6ea0n3vrwje4VwlWDXMLxL"
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
         }
       ],
-      "duration_ms": 326133,
-      "name": "Our Love Remains",
-      "url": "https://open.spotify.com/track/7rch4tA20nJHicdvSSFahf"
+      "duration_ms": 217379,
+      "name": "I Didn't Know About You",
+      "url": "https://open.spotify.com/track/7l2h3uxkaw0R4asgHyVkQP"
     },
     {
       "added_at": "2024-03-20 09:05:16",
@@ -3319,22 +3335,6 @@
     {
       "added_at": "2024-03-20 09:05:16",
       "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/0sZ66FzxugWumHwU97CVum"
-      },
-      "artists": [
-        {
-          "name": "Seth MacFarlane",
-          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
-        }
-      ],
-      "duration_ms": 217379,
-      "name": "I Didn't Know About You",
-      "url": "https://open.spotify.com/track/7l2h3uxkaw0R4asgHyVkQP"
-    },
-    {
-      "added_at": "2024-03-20 09:05:16",
-      "album": {
         "name": "Give My Charlest (A Tribute to the Charleston)",
         "url": "https://open.spotify.com/album/0mB8mupcVZruSMADvYDCHz"
       },
@@ -3367,22 +3367,6 @@
     {
       "added_at": "2024-03-20 09:05:16",
       "album": {
-        "name": "Catching Tales",
-        "url": "https://open.spotify.com/album/2m7zerGZkKVyB192vMpvLr"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 249213,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/5tXrETFfbMA1q6tgP7aSwz"
-    },
-    {
-      "added_at": "2024-03-20 09:05:16",
-      "album": {
         "name": "All You Need Is The Girl",
         "url": "https://open.spotify.com/album/4XhmSNCri3iq7vOF4n55Bz"
       },
@@ -3395,6 +3379,22 @@
       "duration_ms": 290880,
       "name": "Until It Happens to You",
       "url": "https://open.spotify.com/track/4aUVMqQWLjpXyjvONHUpvC"
+    },
+    {
+      "added_at": "2024-03-20 09:05:16",
+      "album": {
+        "name": "Catching Tales",
+        "url": "https://open.spotify.com/album/2m7zerGZkKVyB192vMpvLr"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 249213,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/5tXrETFfbMA1q6tgP7aSwz"
     },
     {
       "added_at": "2024-03-20 09:05:16",
@@ -3443,22 +3443,6 @@
       "duration_ms": 303266,
       "name": "Lazy Afternoon",
       "url": "https://open.spotify.com/track/2eLtQAYHNzglYKH2nGaBrn"
-    },
-    {
-      "added_at": "2024-03-20 09:05:16",
-      "album": {
-        "name": "Isn't It Romantic?",
-        "url": "https://open.spotify.com/album/7lgznc93SEj6gYWbO9MOmi"
-      },
-      "artists": [
-        {
-          "name": "Judy Whitmore",
-          "url": "https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5"
-        }
-      ],
-      "duration_ms": 212906,
-      "name": "It Could Happen to You",
-      "url": "https://open.spotify.com/track/394KDSNViy2bwXtHw6Tk8F"
     },
     {
       "added_at": "2024-03-20 09:05:16",
@@ -3527,6 +3511,22 @@
     {
       "added_at": "2024-03-20 09:05:16",
       "album": {
+        "name": "Isn't It Romantic?",
+        "url": "https://open.spotify.com/album/7lgznc93SEj6gYWbO9MOmi"
+      },
+      "artists": [
+        {
+          "name": "Judy Whitmore",
+          "url": "https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5"
+        }
+      ],
+      "duration_ms": 212906,
+      "name": "It Could Happen to You",
+      "url": "https://open.spotify.com/track/394KDSNViy2bwXtHw6Tk8F"
+    },
+    {
+      "added_at": "2024-03-20 09:05:16",
+      "album": {
         "name": "All Or Nothing At All",
         "url": "https://open.spotify.com/album/0Y9LX6aX9SxXZnvd1K0HAz"
       },
@@ -3579,6 +3579,38 @@
     {
       "added_at": "2024-03-20 09:05:16",
       "album": {
+        "name": "Conjuring",
+        "url": "https://open.spotify.com/album/1Z67DgVbrQYsPShoWAeC6X"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        }
+      ],
+      "duration_ms": 321485,
+      "name": "Day Dream",
+      "url": "https://open.spotify.com/track/3gQiDngCQnZ4gAFBJFqynD"
+    },
+    {
+      "added_at": "2024-03-20 09:05:16",
+      "album": {
         "name": "Plays Well With Others",
         "url": "https://open.spotify.com/album/1glJqGy1jDHQp6KjmV42Tv"
       },
@@ -3595,22 +3627,6 @@
       "duration_ms": 297227,
       "name": "I Wanna Be Around",
       "url": "https://open.spotify.com/track/6WE4UaOwShZi7ZBTaZgPUW"
-    },
-    {
-      "added_at": "2024-03-20 09:05:16",
-      "album": {
-        "name": "Disclosure",
-        "url": "https://open.spotify.com/album/0CRTddNeha55cCvPDQrEcQ"
-      },
-      "artists": [
-        {
-          "name": "Katherine Kostoff",
-          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
-        }
-      ],
-      "duration_ms": 287041,
-      "name": "Disclosure",
-      "url": "https://open.spotify.com/track/0VjBHtyg5rKmjZyLOKt3sn"
     }
   ],
   "unique_name": "Sweet Jazz",

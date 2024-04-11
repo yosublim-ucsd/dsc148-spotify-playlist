@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Rvssian, Ayra Starr & Rauw Alejandro ",
-  "num_followers": 115006,
+  "num_followers": 115029,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2E1ZGU3NzdhZmFhNDhmNGM3MmJlMzVjODVjODAxODA0ZjgxZWQw",
+  "snapshot_id": "MCw4ZWM3OGI1YjEyMWZmNjI3ZGY5ZWMxYjliNTdhNWI5YWVkMDk5NjVi",
   "tracks": [
     {
       "added_at": "2024-04-05 05:42:37",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-04-05 05:42:37",
       "album": {
+        "name": "Flavors",
+        "url": "https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 185002,
+      "name": "Mimosas",
+      "url": "https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS"
+    },
+    {
+      "added_at": "2024-04-05 05:42:37",
+      "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
@@ -951,18 +967,18 @@
     {
       "added_at": "2024-04-05 05:42:37",
       "album": {
-        "name": "Flavors",
-        "url": "https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox"
+        "name": "Parcerita",
+        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
       },
       "artists": [
         {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+          "name": "Dahili",
+          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
         }
       ],
-      "duration_ms": 185002,
-      "name": "Mimosas",
-      "url": "https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS"
+      "duration_ms": 166950,
+      "name": "Parcerita",
+      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
     },
     {
       "added_at": "2024-04-05 05:42:37",
@@ -983,22 +999,6 @@
       "duration_ms": 201013,
       "name": "Don't Rush - Remix",
       "url": "https://open.spotify.com/track/4ltz90zE6hPqE12EGHDMDu"
-    },
-    {
-      "added_at": "2024-04-05 05:42:37",
-      "album": {
-        "name": "Parcerita",
-        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
-      },
-      "artists": [
-        {
-          "name": "Dahili",
-          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
-        }
-      ],
-      "duration_ms": 166950,
-      "name": "Parcerita",
-      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
     },
     {
       "added_at": "2024-04-05 05:42:37",

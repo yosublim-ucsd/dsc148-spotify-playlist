@@ -4,7 +4,7 @@
 
 > Favor de hacer doble fila para bailar estos cumbiones ¡Súbale hay lugares!
 
-223 songs - 14 hr 54 min
+224 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [El Angel Del Amor](https://open.spotify.com/track/1nVkADZwBF7ZK5zAZAFLXm) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/1iqpr5cqKi8XkqCAmV1eGD) | 3:53 | 2022-06-07 | 2023-03-12 |
 | [El Angel Del Amor](https://open.spotify.com/track/2tuHAfDnVFgmuuCwL46Srp) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/3weW5AD4k5a6hgnNktMXUU) | 3:53 | 2022-12-30 | 2023-11-11 |
 | [El Angel del Amor](https://open.spotify.com/track/7gDMlhUAgItgPsKJWNDKrQ) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel del Amor](https://open.spotify.com/album/51QPsSHrXnW1u8dwEzbzRB) | 3:53 | 2021-12-27 | 2022-07-29 |
-| [El Angel Del Amor](https://open.spotify.com/track/2q5YyxChGazXIMIsTKUrdU) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba) | 3:56 | 2022-06-07 |  |
+| [El Angel Del Amor](https://open.spotify.com/track/2q5YyxChGazXIMIsTKUrdU) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba) | 3:56 | 2022-06-07 | 2024-04-11 |
 | [El Baile De San Juan](https://open.spotify.com/track/3OWgaoLMcjnF6RRbzZrS7O) | [Grupo La Chomba](https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd) | [Con Musica Del Barrio y Para El Barrio](https://open.spotify.com/album/35L0etvGB9w2whJfmkkXQo) | 4:14 | 2021-12-27 | 2022-07-29 |
 | [El Baile de San Juan](https://open.spotify.com/track/25KUL02kWrFzEVhANo0ESg) | [Grupo La Chomba](https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd) | [El Baile de San Juan](https://open.spotify.com/album/6I3BGNjjCmPZ6NKvB9krta) | 4:14 | 2022-06-07 |  |
 | [El Burro Loco](https://open.spotify.com/track/1daCaKKKumwrRr8vMqyn6A) | [El Compa Sebas Y Su Teclado](https://open.spotify.com/artist/7yFKqPasXxhmMvQgPrpsdu) | [El Burro Loco](https://open.spotify.com/album/0lLCNXX3w4XBNukORTkd7u) | 3:24 | 2023-01-10 |  |
@@ -100,6 +100,7 @@
 | [El Viejo Del Sombrerón](https://open.spotify.com/track/69t2uPKHCIGszITR3JpOyj) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [La Morocha](https://open.spotify.com/artist/5nWfqSJHayE4qvjUxoQfMu) | [Cumbias Para Bailar](https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne) | 4:15 | 2021-12-27 | 2023-01-11 |
 | [En Mi Escritorio \(La Carta\)](https://open.spotify.com/track/2C6li2i3dNYUJdkwFznNw3) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/5RBuvCYvuCfjews8uBowfU) | 4:47 | 2022-12-30 | 2023-10-03 |
 | [En Mi Escritorio \(La Carta\)](https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG) | 4:47 | 2022-12-30 | 2024-04-07 |
+| [En Mi Escritorio \(La Carta\)](https://open.spotify.com/track/1xCglnp7QllgJK3JwZY0R9) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima De Todos](https://open.spotify.com/album/4cTpFaucJ8foIRdht4Azld) | 4:47 | 2023-11-08 |  |
 | [Enamorada de un Amigo Mio](https://open.spotify.com/track/3z2T45ct8degaDYLsbQyBw) | [La Suerte Sonidera](https://open.spotify.com/artist/6OUVtbAqtQ3lm9F7AvGx3v) | [30 Exitos de Oro 30, Vol\. 1](https://open.spotify.com/album/5aBKyVNMaVkWSwWtDGeByf) | 4:03 | 2022-12-30 |  |
 | [Entrega De Amor](https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Entrega De Amor](https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw) | 2:56 | 2021-12-27 |  |
 | [Eres](https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp) | [Los Extraños](https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK) | [Sigueme](https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw) | 3:22 | 2021-12-27 |  |
@@ -120,7 +121,7 @@
 | [La Cumbia Del Garrote](https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY) | [Los Del Garrote](https://open.spotify.com/artist/3Ee2idXHXSI5KHjrRelgOx) | [Los Del Garrote](https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX) | 3:17 | 2022-06-07 |  |
 | [La Cumbia Señal](https://open.spotify.com/track/1NhZB15j0NfhJihKP0H1s9) | [La Nueva Orquesta Sonidera](https://open.spotify.com/artist/2R0A3pt9Ysob5m2ymaHEhB) | [La Cumbia Señal](https://open.spotify.com/album/6YTxVxs81ZfPj1afYAiGaj) | 6:15 | 2021-12-27 |  |
 | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3) | [Grupo Toca Recio](https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u) | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V) | 4:09 | 2021-12-27 |  |
-| [La Muñequita Fea](https://open.spotify.com/track/3Ua9fZLumeONPtLnkkUHbI) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba) | 4:28 | 2022-12-30 |  |
+| [La Muñequita Fea](https://open.spotify.com/track/3Ua9fZLumeONPtLnkkUHbI) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba) | 4:28 | 2022-12-30 | 2024-04-11 |
 | [La Muñequita Fea](https://open.spotify.com/track/06wSG6q9kzJRjpLZan56cs) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/3weW5AD4k5a6hgnNktMXUU) | 4:29 | 2022-12-30 | 2023-08-29 |
 | [La Muñequita Fea](https://open.spotify.com/track/4yaknNmyExSj5p5sc36RLV) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/1iqpr5cqKi8XkqCAmV1eGD) | 4:29 | 2022-06-07 | 2023-03-13 |
 | [La Muñequita Fea](https://open.spotify.com/track/7iTx4GPv5f8tTHL1mir51N) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel del Amor](https://open.spotify.com/album/51QPsSHrXnW1u8dwEzbzRB) | 4:29 | 2021-12-27 | 2022-07-29 |
@@ -133,7 +134,7 @@
 | [Las Amo a Las Dos](https://open.spotify.com/track/0jhtqu6qU7UU4qEfQuv634) | [Cumbias Poblanas](https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4) | [Cumbia Pa' seguir Bailando](https://open.spotify.com/album/0XgaEEDzNf5VjXlaSV1eHK) | 4:49 | 2021-12-27 | 2022-07-29 |
 | [Las Amo a Las Dos](https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm) | [Cumbias Poblanas](https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4) | [Cumbia Pa' seguir Bailando](https://open.spotify.com/album/6StHl9h5jusxFp10JAKmZu) | 4:49 | 2022-06-07 | 2023-12-22 |
 | [Las Mujers No Se Acaban](https://open.spotify.com/track/0NLSsL8sIElmNuTySSb3s6) | [Grupo Kual? Dinastia Pedraza Es Grupo Kein?](https://open.spotify.com/artist/3mtUQL8wfuXoI3bcciosLd), [Grupo Kien? Los reyes del sabor](https://open.spotify.com/artist/6fEzGwsCbebAQaAXoSh2gy) | [Para Que La Cuña Apriete](https://open.spotify.com/album/643Req8SJXX188L5fuuVD2) | 4:30 | 2021-12-27 |  |
-| [Lejos de Ti](https://open.spotify.com/track/0nLuVU9SOoV5vTztTRBzM5) | [Grupo Los Kiero de Edgar Zacary](https://open.spotify.com/artist/0Dp5uzlISYu38jwPXsGPqF) | [Sólo Éxitos](https://open.spotify.com/album/7kSRAeZiTW6RcdHerCxpjq) | 5:37 | 2021-12-27 | 2024-03-22 |
+| [Lejos de Ti](https://open.spotify.com/track/0nLuVU9SOoV5vTztTRBzM5) | [Grupo Los Kiero de Edgar Zacary](https://open.spotify.com/artist/0Dp5uzlISYu38jwPXsGPqF) | [Sólo Éxitos](https://open.spotify.com/album/7kSRAeZiTW6RcdHerCxpjq) | 5:37 | 2021-12-27 |  |
 | [Llanto de los Lucero](https://open.spotify.com/track/0aPqM5gU1gBm34H37KFOlg) | [Grupo Mijez](https://open.spotify.com/artist/6bnOv0WLGRT8DDzbhH3pWF) | [El Sabor de la Cumbia Mexicana](https://open.spotify.com/album/4YIYxh1snAfMl6wLuibNPP) | 3:49 | 2021-12-27 | 2022-07-29 |
 | [Llora Corazon](https://open.spotify.com/track/7iUG2meAhX0Uswh3uBNZCq) | [Los Niniz](https://open.spotify.com/artist/1zVMKlA170IEctynCqmpwh) | [Lo Nuevo y Lo Mejor](https://open.spotify.com/album/1kgzlPmrbQmeaSXOajz4di) | 3:43 | 2022-06-07 | 2022-11-13 |
 | [Llorando Se Fue "Lambada"](https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [El Auténtico e Imbatible](https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62) | 3:28 | 2021-12-27 |  |

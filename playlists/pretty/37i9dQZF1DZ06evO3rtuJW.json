@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 32486,
+  "num_followers": 32490,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGQ3NmEyMzQ1ZWEwNTYxMjY0NzA2MmJmODk4MjRjYWViZmRhNmQ1",
+  "snapshot_id": "MCw4YjExNTZjYWJmYTg2NzM3Mjg3MDI5OTdhNjU5NjA5NmZkNTc1Y2E2",
   "tracks": [
     {
       "added_at": null,
@@ -199,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 210586,
-      "name": "idk that bitch (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/0n56YWlnKfK1meIGHwMFWt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Levon James",
         "url": "https://open.spotify.com/album/1ZRAeQ6zsPJ5W1K3DvpRpP"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 157759,
       "name": "On Yo Ass",
       "url": "https://open.spotify.com/track/1GieuvkMLaSeu57s1BRVNP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 210586,
+      "name": "idk that bitch (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/0n56YWlnKfK1meIGHwMFWt"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strictly 4 My Fans",
-        "url": "https://open.spotify.com/album/5XLw4dnwqajOACwT2MN2d0"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 208422,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/4QgtGpNXs1v2UFz1VuCvWB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Swervin",
         "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 148239,
       "name": "Wilt Chamberlin",
       "url": "https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strictly 4 My Fans",
+        "url": "https://open.spotify.com/album/5XLw4dnwqajOACwT2MN2d0"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 208422,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/4QgtGpNXs1v2UFz1VuCvWB"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 244329,
+      "name": "2 Chains",
+      "url": "https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F*CK LOVE 3+: OVER YOU",
         "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 167965,
       "name": "DON'T LEAVE ME (feat. G Herbo & Lil Durk)",
       "url": "https://open.spotify.com/track/2n1XN46reBpu5I9wDwzZMP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 244329,
-      "name": "2 Chains",
-      "url": "https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq"
     },
     {
       "added_at": null,
@@ -803,18 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strictly 4 My Fans 2",
-        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
+        "name": "UNDERWORLD",
+        "url": "https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV"
       },
       "artists": [
+        {
+          "name": "Skrilla",
+          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
+        },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 164992,
-      "name": "Letter to My Love",
-      "url": "https://open.spotify.com/track/5G5iMk561afCKl3Di8rWAq"
+      "duration_ms": 181080,
+      "name": "Swerve (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC"
     },
     {
       "added_at": null,
@@ -839,22 +843,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNDERWORLD",
-        "url": "https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV"
+        "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
       },
       "artists": [
-        {
-          "name": "Skrilla",
-          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
-        },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 181080,
-      "name": "Swerve (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC"
+      "duration_ms": 164992,
+      "name": "Letter to My Love",
+      "url": "https://open.spotify.com/track/5G5iMk561afCKl3Di8rWAq"
     },
     {
       "added_at": null,
@@ -987,6 +987,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "FOR CERTAIN (Deluxe)",
+        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 131224,
+      "name": "BESITO (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/1JTJws1FmfNRrF90bns0TT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Likka Sto 2 (feat. Travis Scott, G Herbo & BIA)",
         "url": "https://open.spotify.com/album/4ivFpkn1STHMCITMSO7vUt"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 228251,
       "name": "Likka Sto 2 (feat. Travis Scott, G Herbo & BIA)",
       "url": "https://open.spotify.com/track/3NbQIxqkq36cy5a8Ub9vZ0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FOR CERTAIN (Deluxe)",
-        "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 131224,
-      "name": "BESITO (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/1JTJws1FmfNRrF90bns0TT"
     },
     {
       "added_at": null,

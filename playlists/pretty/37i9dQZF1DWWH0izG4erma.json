@@ -1,12 +1,12 @@
 {
   "description": "Country Music that rocks. Cover: Ole 60",
-  "num_followers": 592081,
+  "num_followers": 592223,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjRjYTY1N2ExM2MxMjRlMDViZmNkMWI5NjAzZGU5ZjVhYzcxOWE2",
+  "snapshot_id": "MCw4NDE3YzhmM2NiZmFjMjU5OGZkY2UwNjY5ZTJlMzE5NzZlZTkyODJm",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Bad For Me",
+        "url": "https://open.spotify.com/album/6vuwxb0fLibvV8pIh071QY"
+      },
+      "artists": [
+        {
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
+        }
+      ],
+      "duration_ms": 228144,
+      "name": "23",
+      "url": "https://open.spotify.com/track/5NU6kBZORKaoqS09mOqgXs"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Something's Gonna Kill Me",
         "url": "https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It"
       },
@@ -907,22 +923,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Bad For Me",
-        "url": "https://open.spotify.com/album/6vuwxb0fLibvV8pIh071QY"
-      },
-      "artists": [
-        {
-          "name": "Chayce Beckham",
-          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
-        }
-      ],
-      "duration_ms": 228144,
-      "name": "23",
-      "url": "https://open.spotify.com/track/5NU6kBZORKaoqS09mOqgXs"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "My Kinda Party",
         "url": "https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv"
       },
@@ -935,38 +935,6 @@
       "duration_ms": 202466,
       "name": "Tattoos on This Town",
       "url": "https://open.spotify.com/track/4tL7NTZPdKd5kdYRQ6bgpO"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 258799,
-      "name": "Heart On Fire",
-      "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Redneck Rockstar",
-        "url": "https://open.spotify.com/album/2y7EyqGpyA7tqpvUsYTkar"
-      },
-      "artists": [
-        {
-          "name": "Royale Lynn",
-          "url": "https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Redneck Rockstar",
-      "url": "https://open.spotify.com/track/3CNY9kgeeuOWrnJ5PAz9kD"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -987,18 +955,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Midwest Rock & Roll",
-        "url": "https://open.spotify.com/album/1ROseSkx6NaAleh4OIknGf"
+        "name": "Redneck Rockstar",
+        "url": "https://open.spotify.com/album/2y7EyqGpyA7tqpvUsYTkar"
       },
       "artists": [
         {
-          "name": "Ryan Hurd",
-          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+          "name": "Royale Lynn",
+          "url": "https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK"
         }
       ],
-      "duration_ms": 231672,
-      "name": "Midwest Rock & Roll",
-      "url": "https://open.spotify.com/track/1bCXJNruuOmSgeoc2kij4S"
+      "duration_ms": 198000,
+      "name": "Redneck Rockstar",
+      "url": "https://open.spotify.com/track/3CNY9kgeeuOWrnJ5PAz9kD"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1015,6 +983,38 @@
       "duration_ms": 152866,
       "name": "Muddy Water Rockstar",
       "url": "https://open.spotify.com/track/0c7q7lZtMhZRorMojoxS5k"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Midwest Rock & Roll",
+        "url": "https://open.spotify.com/album/1ROseSkx6NaAleh4OIknGf"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        }
+      ],
+      "duration_ms": 231672,
+      "name": "Midwest Rock & Roll",
+      "url": "https://open.spotify.com/track/1bCXJNruuOmSgeoc2kij4S"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 258799,
+      "name": "Heart On Fire",
+      "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1087,22 +1087,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Wrecking Ball",
-        "url": "https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd"
+        "name": "Hell Paso",
+        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 235053,
-      "name": "Wrecking Ball",
-      "url": "https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl"
+      "duration_ms": 156610,
+      "name": "Money Spent",
+      "url": "https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1123,18 +1119,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Hell Paso",
-        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
+        "name": "Wrecking Ball",
+        "url": "https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 156610,
-      "name": "Money Spent",
-      "url": "https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O"
+      "duration_ms": 235053,
+      "name": "Wrecking Ball",
+      "url": "https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Boy From Anderson County To The Moon",
-        "url": "https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr"
+        "name": "Backslider",
+        "url": "https://open.spotify.com/album/0iyg3QqROay2R4ejj8GBqP"
       },
       "artists": [
         {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+          "name": "Elvie Shane",
+          "url": "https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j"
         }
       ],
-      "duration_ms": 206646,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/1nfwZ5Q7RBynXAnO1rTV3x"
+      "duration_ms": 191765,
+      "name": "County Roads",
+      "url": "https://open.spotify.com/track/3cLJUuJRWBAP2k8LhWgONB"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Backslider",
-        "url": "https://open.spotify.com/album/0iyg3QqROay2R4ejj8GBqP"
+        "name": "Boy From Anderson County To The Moon",
+        "url": "https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr"
       },
       "artists": [
         {
-          "name": "Elvie Shane",
-          "url": "https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j"
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
         }
       ],
-      "duration_ms": 191765,
-      "name": "County Roads",
-      "url": "https://open.spotify.com/track/3cLJUuJRWBAP2k8LhWgONB"
+      "duration_ms": 206646,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/1nfwZ5Q7RBynXAnO1rTV3x"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Like an Arrow",
-        "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
-      },
-      "artists": [
-        {
-          "name": "Blackberry Smoke",
-          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
-        }
-      ],
-      "duration_ms": 247008,
-      "name": "Waiting for the Thunder",
-      "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Ain't Nothin' to It",
         "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 257079,
       "name": "Long Haired Country Boy (feat. The Rockin' CJB)",
       "url": "https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Like an Arrow",
+        "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
+      },
+      "artists": [
+        {
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+        }
+      ],
+      "duration_ms": 247008,
+      "name": "Waiting for the Thunder",
+      "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
     },
     {
       "added_at": "2024-03-15 04:00:00",

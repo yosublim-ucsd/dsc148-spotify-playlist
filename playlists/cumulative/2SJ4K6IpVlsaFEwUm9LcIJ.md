@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2024 \(previous playlists archived on my profile\)
 
-111 songs - 5 hr 47 min
+113 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Casa Del Queso](https://open.spotify.com/track/2PT6tdovqv5DRfbRrwsblr) | [Aventuras De Kirlian](https://open.spotify.com/artist/7hA1LNd4lisPMV7RLmxvg7) | [86\-88](https://open.spotify.com/album/69aOUaKV2diPvH7PWI8xPZ) | 1:28 | 2024-02-27 | 2024-03-10 |
 | [Celesta](https://open.spotify.com/track/43zrSh64eLYs8fpHbT20LJ) | [Azamiah](https://open.spotify.com/artist/0q4P4opctE6mHRUnm9PHD8) | [In Phases](https://open.spotify.com/album/5FYCzyWq5vcfhDLSTh9Sze) | 4:09 | 2024-02-13 | 2024-03-10 |
 | [Choke Throat](https://open.spotify.com/track/77DKMP47yasQNFfz1dadNA) | [GOON](https://open.spotify.com/artist/4NXLuWrShwLG44Had3qhw5) | [Choke Throat](https://open.spotify.com/album/6RqQubyNGzX6lsNfeFaiVn) | 2:02 | 2024-04-03 |  |
+| [Closer](https://open.spotify.com/track/6vjyZVLkjfENDguX2WHrLB) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [Fabiana Palladino](https://open.spotify.com/album/42oaWsdIjvtngWBANg0tux) | 3:35 | 2024-04-10 |  |
 | [Cold War](https://open.spotify.com/track/6sgWlYPMTsQbPxcK8PE3Qs) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Freedom of Choice](https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41) | 2:31 | 2024-02-27 | 2024-03-10 |
 | [Constants Are Changing](https://open.spotify.com/track/5ivVLMrixj6Qtw9HgX8EuD) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 1:42 | 2024-01-08 | 2024-03-10 |
 | [Convenient Parking](https://open.spotify.com/track/7ow8R2QCGeAr3JiRbSDzWs) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [The Lonesome Crowded West](https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj) | 4:08 | 2024-01-05 | 2024-03-10 |
@@ -86,6 +87,7 @@
 | [One Part Be My Lover](https://open.spotify.com/track/4pdZpMvjlYo7m31DrhCStB) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 5:06 | 2024-01-24 | 2024-03-10 |
 | [One Step Up](https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 4:21 | 2024-01-24 | 2024-03-10 |
 | [Only People Can Save the World](https://open.spotify.com/track/7uGt9uDMoSaXFAHPKvGbJn) | [The Whatnauts](https://open.spotify.com/artist/2SFOkFzbmtkUJ5A6LcYPWB) | [On the Rocks](https://open.spotify.com/album/6QCGoXCij8HCBI4DwMGjZ6) | 4:44 | 2024-03-09 |  |
+| [Pallor Tricks](https://open.spotify.com/track/6b3sztg64sk7iiKzjLGT2G) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Pallor Tricks](https://open.spotify.com/album/78gHirhgGXJ0rPFbCa89y0) | 3:57 | 2024-04-10 |  |
 | [POKKA POKKA](https://open.spotify.com/track/2diC2THH55uAw4GGpZQjwn) | [Fishmans](https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR) | [宇宙 日本 世田谷](https://open.spotify.com/album/0hUfv1cSXNaBZ6dHKGluEy) | 4:04 | 2024-01-24 | 2024-03-10 |
 | [Post\-War Glamour Girls](https://open.spotify.com/track/3ocWpEl44dJAIMuDCMqC4E) | [John Cooper Clarke](https://open.spotify.com/artist/0EOkMBYWbDnVqwfHA4zq32) | [The Very Best Of](https://open.spotify.com/album/0GbJSduK8qUuLpG91duF0C) | 3:31 | 2024-02-28 | 2024-03-05 |
 | [Problem Number 6](https://open.spotify.com/track/53b4ay3zz0DpRd3QVgzaqW) | [Bruno Pernadas](https://open.spotify.com/artist/5LEK1kaklDfReP092sVvGd) | [Those Who Throw Objects at the Crocodiles Will Be Asked to Retrieve Them](https://open.spotify.com/album/2NYnAb4TkXGHrY8wZ9uZwT) | 4:22 | 2024-01-05 | 2024-03-10 |

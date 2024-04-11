@@ -1,12 +1,12 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 1720290,
+  "num_followers": 1720297,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OThkZTY3ZGJlMTFlM2Q3ZDQ5M2YwMmMxMmVkZGE1M2MzODY4NTFm",
+  "snapshot_id": "MCw5NjRmZWIyMjZiNGYyMzg5MGQzZjY4NDE0ZWMzYjUzZGQ2MTFlY2Vj",
   "tracks": [
     {
       "added_at": "2024-03-21 08:22:30",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Somebody That I Used To Know",
-        "url": "https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl"
-      },
-      "artists": [
-        {
-          "name": "L\u00fac",
-          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
-        }
-      ],
-      "duration_ms": 172454,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Don't You (Forget About Me)",
         "url": "https://open.spotify.com/album/2GGSKP9yuyZRAsygbY8prb"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 175122,
       "name": "Don't You (Forget About Me)",
       "url": "https://open.spotify.com/track/7cMg25mIUyWRpyiFDTdiPi"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "Somebody That I Used To Know",
+        "url": "https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl"
+      },
+      "artists": [
+        {
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+        }
+      ],
+      "duration_ms": 172454,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/5DJqyKsCjkMaU3CiSOoTxA"
-      },
-      "artists": [
-        {
-          "name": "Ben & Tim",
-          "url": "https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv"
-        }
-      ],
-      "duration_ms": 182952,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/7t24uFfZmiMrYMUIgaCQ3e"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "she's all i wanna be",
         "url": "https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 197357,
       "name": "she's all i wanna be",
       "url": "https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/5DJqyKsCjkMaU3CiSOoTxA"
+      },
+      "artists": [
+        {
+          "name": "Ben & Tim",
+          "url": "https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv"
+        }
+      ],
+      "duration_ms": 182952,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/7t24uFfZmiMrYMUIgaCQ3e"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Dance Monkey",
-        "url": "https://open.spotify.com/album/21n1KOLGCVWVnqsaaOWqTT"
-      },
-      "artists": [
-        {
-          "name": "Roses & Frey",
-          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
-        }
-      ],
-      "duration_ms": 197850,
-      "name": "Dance Monkey",
-      "url": "https://open.spotify.com/track/4zYkSXrfgJyrNkNv3mTiIZ"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Call Me Maybe - Acoustic",
         "url": "https://open.spotify.com/album/1iOPpvvfeNAslLpKHjw9Vr"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 210473,
       "name": "Call Me Maybe - Acoustic",
       "url": "https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "Dance Monkey",
+        "url": "https://open.spotify.com/album/21n1KOLGCVWVnqsaaOWqTT"
+      },
+      "artists": [
+        {
+          "name": "Roses & Frey",
+          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
+        }
+      ],
+      "duration_ms": 197850,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/4zYkSXrfgJyrNkNv3mTiIZ"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
+        "name": "Chasing Cars (Acoustic)",
+        "url": "https://open.spotify.com/album/7xtPuadPQVQKfKUr7eQvC7"
+      },
+      "artists": [
+        {
+          "name": "Jessy Hayden",
+          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
+        }
+      ],
+      "duration_ms": 221762,
+      "name": "Chasing Cars (Acoustic)",
+      "url": "https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
         "name": "see you soon",
         "url": "https://open.spotify.com/album/3R0uLgP4cb8h4BEMzmAvLW"
       },
@@ -603,18 +619,18 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Chasing Cars (Acoustic)",
-        "url": "https://open.spotify.com/album/7xtPuadPQVQKfKUr7eQvC7"
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/2KaUS3nSP8EgKStEa8Jeia"
       },
       "artists": [
         {
-          "name": "Jessy Hayden",
-          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
+          "name": "J. Seasons",
+          "url": "https://open.spotify.com/artist/3RSFoHIhEK1TsXXWDXQnvP"
         }
       ],
-      "duration_ms": 221762,
-      "name": "Chasing Cars (Acoustic)",
-      "url": "https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI"
+      "duration_ms": 157611,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/0QUUfXxit1xeCtmuF6VNrc"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -635,22 +651,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/5iDeC4ftOj2Uy3ed0vGy7x"
-      },
-      "artists": [
-        {
-          "name": "Claire McCarty",
-          "url": "https://open.spotify.com/artist/28GfREYBUSkSAz6dloYO6K"
-        }
-      ],
-      "duration_ms": 169437,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4VY8ztiVMTBjDqaAXCOu9c"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Lose You To Love Me (Acoustic)",
         "url": "https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd"
       },
@@ -667,18 +667,18 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/2KaUS3nSP8EgKStEa8Jeia"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/5iDeC4ftOj2Uy3ed0vGy7x"
       },
       "artists": [
         {
-          "name": "J. Seasons",
-          "url": "https://open.spotify.com/artist/3RSFoHIhEK1TsXXWDXQnvP"
+          "name": "Claire McCarty",
+          "url": "https://open.spotify.com/artist/28GfREYBUSkSAz6dloYO6K"
         }
       ],
-      "duration_ms": 157611,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/0QUUfXxit1xeCtmuF6VNrc"
+      "duration_ms": 169437,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4VY8ztiVMTBjDqaAXCOu9c"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Back to Black",
-        "url": "https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9"
-      },
-      "artists": [
-        {
-          "name": "Sky Garden",
-          "url": "https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC"
-        }
-      ],
-      "duration_ms": 183674,
-      "name": "Back to Black",
-      "url": "https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "all night long",
         "url": "https://open.spotify.com/album/5EZ1Gg6Qq4ZBPqPNZ64gTO"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 194018,
       "name": "all night long",
       "url": "https://open.spotify.com/track/61wHg8g1eNbBatDAijJ2IT"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "Back to Black",
+        "url": "https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9"
+      },
+      "artists": [
+        {
+          "name": "Sky Garden",
+          "url": "https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC"
+        }
+      ],
+      "duration_ms": 183674,
+      "name": "Back to Black",
+      "url": "https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Little Lies",
-        "url": "https://open.spotify.com/album/70ToToyGxWgZ2s745s1CxV"
-      },
-      "artists": [
-        {
-          "name": "Roses & Frey",
-          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
-        }
-      ],
-      "duration_ms": 197851,
-      "name": "Little Lies",
-      "url": "https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "In The Meantime",
         "url": "https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 178966,
       "name": "In The Meantime",
       "url": "https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "Little Lies",
+        "url": "https://open.spotify.com/album/70ToToyGxWgZ2s745s1CxV"
+      },
+      "artists": [
+        {
+          "name": "Roses & Frey",
+          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
+        }
+      ],
+      "duration_ms": 197851,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm"
+        "name": "Cold Heart",
+        "url": "https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl"
       },
       "artists": [
         {
-          "name": "Water and Salt",
-          "url": "https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv"
+          "name": "Clementine Duo",
+          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
         }
       ],
-      "duration_ms": 242011,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5"
+      "duration_ms": 188742,
+      "name": "Cold Heart",
+      "url": "https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Cold Heart",
-        "url": "https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl"
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm"
       },
       "artists": [
         {
-          "name": "Clementine Duo",
-          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
+          "name": "Water and Salt",
+          "url": "https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv"
         }
       ],
-      "duration_ms": 188742,
-      "name": "Cold Heart",
-      "url": "https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo"
+      "duration_ms": 242011,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
+        "name": "Glad He's Gone",
+        "url": "https://open.spotify.com/album/2mVO7VhmBHjYpgjOiwX9sa"
+      },
+      "artists": [
+        {
+          "name": "POOL KIDS",
+          "url": "https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR"
+        }
+      ],
+      "duration_ms": 222333,
+      "name": "Glad He's Gone",
+      "url": "https://open.spotify.com/track/1FJsp3bXsiAk3ivX92czw0"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
         "name": "Got You (Where I Want You)",
         "url": "https://open.spotify.com/album/6sDxOln0tkqDXj8qy6t3Qd"
       },
@@ -1099,18 +1115,18 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Glad He's Gone",
-        "url": "https://open.spotify.com/album/2mVO7VhmBHjYpgjOiwX9sa"
+        "name": "Only Girl In The World",
+        "url": "https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG"
       },
       "artists": [
         {
-          "name": "POOL KIDS",
-          "url": "https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR"
+          "name": "Norah Davis",
+          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
         }
       ],
-      "duration_ms": 222333,
-      "name": "Glad He's Gone",
-      "url": "https://open.spotify.com/track/1FJsp3bXsiAk3ivX92czw0"
+      "duration_ms": 226181,
+      "name": "Only Girl In The World",
+      "url": "https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Only Girl In The World",
-        "url": "https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG"
+        "name": "Arcade",
+        "url": "https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62"
       },
       "artists": [
         {
-          "name": "Norah Davis",
-          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
         }
       ],
-      "duration_ms": 226181,
-      "name": "Only Girl In The World",
-      "url": "https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL"
+      "duration_ms": 148015,
+      "name": "Arcade",
+      "url": "https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -1159,22 +1175,6 @@
       "duration_ms": 202076,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
-        "name": "Arcade",
-        "url": "https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62"
-      },
-      "artists": [
-        {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
-        }
-      ],
-      "duration_ms": 148015,
-      "name": "Arcade",
-      "url": "https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "All of me - Acoustic",
-        "url": "https://open.spotify.com/album/2TsiANPJWN2t0z0ya5wAcd"
-      },
-      "artists": [
-        {
-          "name": "Norah Davis",
-          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
-        }
-      ],
-      "duration_ms": 268551,
-      "name": "All of me - Acoustic",
-      "url": "https://open.spotify.com/track/5vWzHxL50EEk7GCEBhXwrQ"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Kissing Other People (Acoustic)",
         "url": "https://open.spotify.com/album/1OkuJQhcqBAbxBD7Hbhi0T"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 192374,
       "name": "Kissing Other People - Acoustic",
       "url": "https://open.spotify.com/track/0Otf6MBWU5vOqlwCl1ZIZY"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "All of me - Acoustic",
+        "url": "https://open.spotify.com/album/2TsiANPJWN2t0z0ya5wAcd"
+      },
+      "artists": [
+        {
+          "name": "Norah Davis",
+          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
+        }
+      ],
+      "duration_ms": 268551,
+      "name": "All of me - Acoustic",
+      "url": "https://open.spotify.com/track/5vWzHxL50EEk7GCEBhXwrQ"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Beautiful People",
-        "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 212624,
-      "name": "Beautiful People",
-      "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Jealous (Acoustic)",
         "url": "https://open.spotify.com/album/2ZF0az5U4LXBf9whGXDLVg"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 211639,
       "name": "Jealous (Acoustic)",
       "url": "https://open.spotify.com/track/24De0ebxOCeIgrkuPknUUX"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 212624,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/27wqComza4OEQnzS4AniQe"
-      },
-      "artists": [
-        {
-          "name": "Mother's Daughter",
-          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
-        }
-      ],
-      "duration_ms": 175002,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/0Kb3SXteauSCX2o6FmY6LP"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/1E8YY35FSQpnw8fgpDOCq6"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 162461,
       "name": "SOS",
       "url": "https://open.spotify.com/track/2IfYpa1MOT2tuvgH4i0gBr"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/27wqComza4OEQnzS4AniQe"
+      },
+      "artists": [
+        {
+          "name": "Mother's Daughter",
+          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
+        }
+      ],
+      "duration_ms": 175002,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/0Kb3SXteauSCX2o6FmY6LP"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Barbie Girl",
-        "url": "https://open.spotify.com/album/2dQVj6SJhxaKIlq2AaRJUD"
-      },
-      "artists": [
-        {
-          "name": "Jill & Jane",
-          "url": "https://open.spotify.com/artist/2XsNyprLTFSGhXfJCY8qYG"
-        }
-      ],
-      "duration_ms": 170931,
-      "name": "Barbie Girl",
-      "url": "https://open.spotify.com/track/2nWifBZb998ETUqTrriQR9"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Sure Thing",
         "url": "https://open.spotify.com/album/4gEJtympDfHPCd0I1Aft8c"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 239178,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0b8ZH4B3FM4HHDabjfZFTL"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/3ZSjHPyJ3NnbtH271F2kWe"
+      },
+      "artists": [
+        {
+          "name": "Theresa Chase",
+          "url": "https://open.spotify.com/artist/1FxU7Hz4HvvknicyJDeG9P"
+        }
+      ],
+      "duration_ms": 203603,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/1MFZQ3L9XixU9Hi3XLXeRl"
     }
   ],
   "unique_name": "Chill Acoustic Covers",

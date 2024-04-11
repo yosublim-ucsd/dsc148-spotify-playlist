@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Benson Boone, Doja Cat, Khalid, Conan Gray, なとり and more! cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,533 likes - 90 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,538 likes - 90 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 87 | [旅立ちの鐘](https://open.spotify.com/track/6eftqGjcyB4Mfs9MoM0tdw) | [20th Century](https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD) | [旅立ちの鐘](https://open.spotify.com/album/1daK7g4CFGbGURS9fJktDX) | 4:41 |
 | 88 | [In The Cards](https://open.spotify.com/track/5oEoCJsMs5fsPgOKuwdFmE) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [In The Cards](https://open.spotify.com/album/5e3ZkbTHw3BtPoVI9VYXTS) | 3:00 |
 | 89 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
-| 90 | [Viola Saga: Movement 2](https://open.spotify.com/track/2LryZ4IpqPYxQFAgYomJcA) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [ウィーン交響楽団](https://open.spotify.com/artist/45P7v25izf78nRf3bgfYI8), [アントワーヌ・タムスティ](https://open.spotify.com/artist/4OvFr49pX6XA0PE1EJChyu) | [Joe Hisaishi: Viola Saga: Movement 2](https://open.spotify.com/album/0OxOWGoixNZhaOYcSlYpOp) | 10:04 |
+| 90 | [Viola Saga: Movement 2](https://open.spotify.com/track/2LryZ4IpqPYxQFAgYomJcA) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Wiener Symphoniker](https://open.spotify.com/artist/6XZxFuZaBnZBngpxbut80O), [Antoine Tamestit](https://open.spotify.com/artist/31U8AuKww3USO1uWfUBnlr) | [Joe Hisaishi: Viola Saga: Movement 2](https://open.spotify.com/album/0OxOWGoixNZhaOYcSlYpOp) | 10:04 |
 
-Snapshot ID: `MCxkNmRmN2FjNDgyZWVlMjQxOGQ0YzcyZDA4ODNlYjk1NTk3YmMwMGE5`
+Snapshot ID: `MCxlMGM0NWEzMDY2ODNmN2JlYjdhMzRhNDVmN2ViMWRjOWVhYTJhNTA4`

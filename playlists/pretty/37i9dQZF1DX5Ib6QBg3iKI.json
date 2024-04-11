@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 131661,
+  "num_followers": 131655,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGNmODcyZmNjYWI0YmM1Y2NiZTBjMTQwNmNhMjMwMmUzYTU4ZTAz",
+  "snapshot_id": "MCxiZDQ4MjNlNWFmNjc0YzIxMzdhM2Y0NWExZTI2MzA3YWU0NmJmOGQ1",
   "tracks": [
     {
       "added_at": "2023-11-28 17:00:03",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
+        "name": "The Lighthouse Keeper",
+        "url": "https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "The Lighthouse Keeper",
+      "url": "https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
         "name": "Christmas (Deluxe Special Edition)",
         "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 218465,
       "name": "White Christmas (with Shania Twain)",
       "url": "https://open.spotify.com/track/114461rbzcgTriw8n4FOPW"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
-        "name": "The Lighthouse Keeper",
-        "url": "https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "The Lighthouse Keeper",
-      "url": "https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "Night Before Christmas",
-        "url": "https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW"
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 216220,
-      "name": "Night Before Christmas",
-      "url": "https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x"
+      "duration_ms": 171826,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/1FRqLI971CD1QedTiJeL3c"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+        "name": "Night Before Christmas",
+        "url": "https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 171826,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/1FRqLI971CD1QedTiJeL3c"
+      "duration_ms": 216220,
+      "name": "Night Before Christmas",
+      "url": "https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x"
     },
     {
       "added_at": "2023-11-28 17:00:03",

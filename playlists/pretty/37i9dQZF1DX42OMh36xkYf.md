@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con Elsa y Elmar en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,455 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,457 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 | 49 | [Get Down](https://open.spotify.com/track/3OrNw2UkMV8NI2hk5tDr5U) | [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Get Down](https://open.spotify.com/album/6rcOUZ2u6fVjuY6oxn8x2h) | 2:38 |
 | 50 | [Otros Ritmos](https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Otros Ritmos](https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc) | 3:42 |
 
-Snapshot ID: `MCwwYjYzOWMxYjY4ZjczN2ZlYWRiNjAzNzFkOWI3ODJiMDM4NDY3NWIw`
+Snapshot ID: `MCxiZWU2NzlhZTBhOGI5ZTUwOTRkZTdkMGE4ZjMyZTg1NDUyODgyMDNi`

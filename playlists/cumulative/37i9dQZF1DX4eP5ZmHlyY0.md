@@ -4,7 +4,7 @@
 
 > 日本で活躍するボーイズグループを特集。cover: RAMPAGE from EXILE TRIBE
 
-189 songs - 10 hr 59 min
+191 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [REC](https://open.spotify.com/track/2mccAxFdI4g5AcDmB1FICG) | [Tensaibonjin](https://open.spotify.com/artist/1ELi8EtBddXdfm2QdYCtVj) | [REC](https://open.spotify.com/album/3GzQyeVLAP3Cg7npOSqXMd) | 2:53 | 2024-01-24 | 2024-02-07 |
 | [Revolution](https://open.spotify.com/track/1iv9W7OAqcJcMpzy0s8vaT) | [SUPER★DRAGON](https://open.spotify.com/artist/2O86rYMEuvyrkOhyooK87W) | [mirror](https://open.spotify.com/album/4c7Xu0FHmZPfXgLAapJvPy) | 3:28 | 2023-11-23 | 2024-01-03 |
 | [Roar](https://open.spotify.com/track/7AaR3KHGWP4JKe5EgOyPkk) | [KAT\-TUN](https://open.spotify.com/artist/5HQAzIHOdemXR2DoevwhjT) | [Honey（Selected Edition）](https://open.spotify.com/album/7igGKMIcjTirpS0JSkxN5L) | 3:55 | 2024-01-02 |  |
+| [Rock Out](https://open.spotify.com/track/29vF4jweyTmEUfrGkAML3E) | [ZIPANG OPERA](https://open.spotify.com/artist/4MDWbWU2bmU59KAcRTC72d) | [Rock Out](https://open.spotify.com/album/0HvY3diaylDJJeaNgNeS9h) | 3:32 | 2024-04-09 |  |
 | [Rock Out](https://open.spotify.com/track/5rZ9iaQdXdUekoOm3CLZ6G) | [ZIPANG OPERA](https://open.spotify.com/artist/4MDWbWU2bmU59KAcRTC72d) | [Rock Out](https://open.spotify.com/album/5l6YBLJ4myl83evAzFHUDR) | 3:32 | 2024-03-26 | 2024-04-10 |
 | [Rocketeer](https://open.spotify.com/track/5ONAE8kbnpU9roroXScbcm) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [A \(Special Edition\)](https://open.spotify.com/album/51NB4PIC5vgboVu6RaLoa2) | 3:07 | 2023-11-23 | 2024-02-01 |
 | [RU\-PUM PUM \- Japanese ver.](https://open.spotify.com/track/6DHzcm29i8oid8To18mMxx) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [RU\-PUM PUM \(Japanese ver.\)](https://open.spotify.com/album/5OurfkN4UO7DRPnIkfODcA) | 3:22 | 2024-03-05 | 2024-03-27 |
@@ -160,7 +161,8 @@
 | [Use Your Body](https://open.spotify.com/track/5jJanCOrDYbqfWO85B6XzJ) | [DA PUMP](https://open.spotify.com/artist/3NRXKeatDxKe4apH6XawKX) | [Use Your Body / E\-NERGY BOYS](https://open.spotify.com/album/7pVVu6AwIlArQyTUq8jpqu) | 2:59 | 2024-02-20 | 2024-03-13 |
 | [Venus](https://open.spotify.com/track/5A6AfI5wfTAY7xnxu1PSUq) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [EQUINOX \(Special Edition\)](https://open.spotify.com/album/5a3C5LKYVvfZGNxfNuT5Qa) | 3:18 | 2023-11-23 | 2023-12-20 |
 | [Vivid](https://open.spotify.com/track/3nXzWBaH6lhOksp1wu8hnL) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Vivid](https://open.spotify.com/album/326p2F8FWYrvdoVgSjLDdB) | 3:24 | 2023-11-23 | 2024-02-28 |
-| [Waterfall](https://open.spotify.com/track/180UE30SYVQfYU02UzcyHT) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Waterfall](https://open.spotify.com/album/0w9NEJmBHrCvWewrujlOgt) | 2:53 | 2024-01-31 |  |
+| [Waterfall](https://open.spotify.com/track/180UE30SYVQfYU02UzcyHT) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Waterfall](https://open.spotify.com/album/0w9NEJmBHrCvWewrujlOgt) | 2:53 | 2024-01-31 | 2024-04-11 |
+| [WE ARE](https://open.spotify.com/track/6s9tyJZi9bzB2mlClX0wq7) | [STARTO for you](https://open.spotify.com/artist/2zaYhpTOgIi02oNR6mxbiz) | [WE ARE](https://open.spotify.com/album/0uBmPpcPFPBIRbuny5xELa) | 5:21 | 2024-04-09 |  |
 | [We are the best](https://open.spotify.com/track/2ZH5inwjqHJ1ByyhKEZrE7) | [EXILE THE SECOND](https://open.spotify.com/artist/5l7Uyt1IiYk8l93ohXiQd6) | [THE FAR EAST COWBOYZ \(E.P.\)](https://open.spotify.com/album/0UJIgWc7sdJZ8VhxEnzLhT) | 3:26 | 2024-02-29 | 2024-03-06 |
 | [What is done \- feat\. BOOM BOOM CASH](https://open.spotify.com/track/7CgAIw3V4wocPaH5Kt4a4K) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW), [Boom Boom Cash](https://open.spotify.com/artist/2Q6XC0dzJl7VbE678w82Vf) | [What is done \(feat\. BOOM BOOM CASH\)](https://open.spotify.com/album/7DZpUkMThxkXuZBzb2rxTO) | 4:18 | 2023-11-24 | 2023-12-20 |
 | [Whatcha Gonna Do](https://open.spotify.com/track/7xW477Puc2lltQKKYbihrw) | [IVVY](https://open.spotify.com/artist/2vt1pSDdswpATBUN6lPMre) | [Whatcha Gonna Do](https://open.spotify.com/album/4CHSQQXvYFdtNgiN5gsLsL) | 3:38 | 2023-11-28 | 2024-01-10 |

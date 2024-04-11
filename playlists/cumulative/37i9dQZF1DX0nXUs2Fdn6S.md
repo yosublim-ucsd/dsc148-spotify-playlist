@@ -4,7 +4,7 @@
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-66 songs - 3 hr 32 min
+67 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [KMTN](https://open.spotify.com/track/0PGFtUkvDdvQx5CmqezI8t) | [babyface](https://open.spotify.com/artist/5MTT0dvjp1BmpEwF1xEZZi) | [KMTN](https://open.spotify.com/album/2lWLqWYZZBs4vr2ASJpdtc) | 2:42 | 2023-10-20 |  |
 | [Kya Hai Tu](https://open.spotify.com/track/37jRP4BxoLNvtYsTI1YFJv) | [Five YearsFromNow](https://open.spotify.com/artist/2O0JXlpMv39NnRZXjFDFbU), [Ratri](https://open.spotify.com/artist/2uZIepJ8Gjj8CwSi42JClr) | [Kya Hai Tu](https://open.spotify.com/album/3dC0Lt4ypDURm45UQjRVVB) | 3:49 | 2023-10-20 |  |
 | [Laung Gawacha](https://open.spotify.com/track/11j7AtNPZNq6BUQhAYrWvC) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Avneet Khurmi](https://open.spotify.com/artist/25rYHJjDq8FFPApQnj3LXT) | [Bass Rani](https://open.spotify.com/album/6qz7Uf0jWIEaAr7vEr5cYY) | 3:33 | 2023-10-20 |  |
-| [Leja](https://open.spotify.com/track/77kFQ06wtiKTmrgDlq4uwp) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP) | [Marigold Soundsystem](https://open.spotify.com/album/6t9tMKgYyud4Bb43XYxSX2) | 3:18 | 2023-10-20 |  |
+| [Leja](https://open.spotify.com/track/2wthG5BIYGo3UXPplvXscX) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP) | [Marigold Soundsystem \(Deluxe\)](https://open.spotify.com/album/5k3Z3B3ahxGdxCmCO8kwxX) | 3:18 | 2024-02-05 |  |
+| [Leja](https://open.spotify.com/track/77kFQ06wtiKTmrgDlq4uwp) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP) | [Marigold Soundsystem](https://open.spotify.com/album/6t9tMKgYyud4Bb43XYxSX2) | 3:18 | 2023-10-20 | 2024-04-11 |
 | [Lost Without You](https://open.spotify.com/track/57cRnwOnlIVsBKHOzrF7oZ) | [Mridul Kala](https://open.spotify.com/artist/1jhHH5kwbkL3Cr8GxWNTdY) | [Lost Without You](https://open.spotify.com/album/44y80LKSLF3D9F3UDlKoVY) | 2:20 | 2023-10-20 |  |
 | [Love For A Lifetime](https://open.spotify.com/track/4RoK4OX2L4HXqKXh1xa0LB) | [Progressive Brothers](https://open.spotify.com/artist/49ATHR1LB0svG40PcjjHPP) | [Love For A Lifetime](https://open.spotify.com/album/3KLFtWLDjwXvmoXWpuO5nr) | 3:44 | 2023-10-20 |  |
 | [Love Forever](https://open.spotify.com/track/4VCdLSfRMx5nX2TsarZxUs) | [Swattrex](https://open.spotify.com/artist/1c4IXYT2idOski3WEtfJpW), [Chaitxnya](https://open.spotify.com/artist/1gcR7Ufcrolsr7zRn1bv1A) | [Love Forever](https://open.spotify.com/album/7bzpFypf96SjUDRKMok6gR) | 3:23 | 2023-10-20 |  |

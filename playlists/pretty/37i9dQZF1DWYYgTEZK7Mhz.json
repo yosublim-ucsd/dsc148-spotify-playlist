@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 27825,
+  "num_followers": 27852,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODE5ZDc1NmUwZTIwOWRmNTBiNTA3ZDU2OWNlNmU2MjYwMTg3ODg1",
+  "snapshot_id": "MCw1ODNiZjYyYzc3YWZmNDQ1N2IyMjJmNzI4ZWY5M2RlNjcwNzIyMThj",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "40 Grandi Successi",
-        "url": "https://open.spotify.com/album/6NNxG8OkhT9HiKOfPB3ioV"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Fontana",
-          "url": "https://open.spotify.com/artist/6YvCTF77M8f4Nq3IqoWvtz"
-        }
-      ],
-      "duration_ms": 165015,
-      "name": "Il Mondo",
-      "url": "https://open.spotify.com/track/31PdyIg9pQAyKRDy8yAAF9"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Donna Felicita'",
         "url": "https://open.spotify.com/album/3Dpo8mHt0NgsXPbADMNzE5"
       },
@@ -427,18 +411,18 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Il Meglio",
-        "url": "https://open.spotify.com/album/6i07oLcpCIodSkJgPBZdUU"
+        "name": "40 Grandi Successi",
+        "url": "https://open.spotify.com/album/6NNxG8OkhT9HiKOfPB3ioV"
       },
       "artists": [
         {
-          "name": "Mario Tessuto",
-          "url": "https://open.spotify.com/artist/1xaJH9NMuR3721EGoHgTFi"
+          "name": "Jimmy Fontana",
+          "url": "https://open.spotify.com/artist/6YvCTF77M8f4Nq3IqoWvtz"
         }
       ],
-      "duration_ms": 197533,
-      "name": "Lisa dagli occhi blu",
-      "url": "https://open.spotify.com/track/72dcYqzC2rNikkqgK0e06Y"
+      "duration_ms": 165015,
+      "name": "Il Mondo",
+      "url": "https://open.spotify.com/track/31PdyIg9pQAyKRDy8yAAF9"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -459,6 +443,22 @@
       "duration_ms": 149493,
       "name": "Abbronzatissima",
       "url": "https://open.spotify.com/track/5pBoclEiiZgUyZMXgR3jJ7"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Il Meglio",
+        "url": "https://open.spotify.com/album/6i07oLcpCIodSkJgPBZdUU"
+      },
+      "artists": [
+        {
+          "name": "Mario Tessuto",
+          "url": "https://open.spotify.com/artist/1xaJH9NMuR3721EGoHgTFi"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Lisa dagli occhi blu",
+      "url": "https://open.spotify.com/track/72dcYqzC2rNikkqgK0e06Y"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Ritratto di Mina: I singoli, Vol. 1",
+        "url": "https://open.spotify.com/album/50cuyRjtimjIb4R4RcnevN"
+      },
+      "artists": [
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+        }
+      ],
+      "duration_ms": 179060,
+      "name": "Tintarella di luna",
+      "url": "https://open.spotify.com/track/11UYx9rpvK8RCEYhuvLHuH"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Estate",
         "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 268080,
       "name": "Fotoromanza",
       "url": "https://open.spotify.com/track/58KPUv9L8rmAosHctUoaJr"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Ritratto di Mina: I singoli, Vol. 1",
-        "url": "https://open.spotify.com/album/50cuyRjtimjIb4R4RcnevN"
-      },
-      "artists": [
-        {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
-        }
-      ],
-      "duration_ms": 179060,
-      "name": "Tintarella di luna",
-      "url": "https://open.spotify.com/track/11UYx9rpvK8RCEYhuvLHuH"
     },
     {
       "added_at": "2023-06-05 07:42:38",

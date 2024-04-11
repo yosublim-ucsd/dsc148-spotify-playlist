@@ -4,7 +4,7 @@
 
 > A neo\-classic sound for the road\. Cover: Thee Sacred Souls
 
-132 songs - 7 hr 55 min
+133 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,11 +95,12 @@
 | [Piece Of Me](https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:44 | 2021-07-13 |  |
 | [Put Me Thru](https://open.spotify.com/track/70SjyVMzhmMeJQD8hOmIBp) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) | 2:40 | 2021-07-13 |  |
 | [Ray of Sunshine](https://open.spotify.com/track/3MxGvARK9bWt0uuGOJezLd) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Shed a Little Light](https://open.spotify.com/album/2JVchfGAOejBNAA2mc2bUA) | 3:24 | 2021-07-13 | 2024-02-04 |
+| [Ray of Sunshine](https://open.spotify.com/track/5WXHMmuVipJGyGk5HY5cFx) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Shed a Little Light](https://open.spotify.com/album/0MCiekZj3hIeeT6RVexMKk) | 3:24 | 2021-07-13 |  |
 | [Ride or Die](https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 4:14 | 2021-07-30 |  |
 | [Rita Is Gone](https://open.spotify.com/track/4gi81cgaU0Xmek1IuOENM5) | [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [The Marcus King Band](https://open.spotify.com/album/2aV3gQ8recdvTivyl8EFiO) | 4:25 | 2021-07-13 |  |
 | [Rome](https://open.spotify.com/track/0t34scg6386JnLUEb7jFb1) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Tomorrow's Gonna Come](https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0) | 3:38 | 2022-12-13 |  |
 | [San Francisco Street](https://open.spotify.com/track/5pjWzUc1tVcewUTdDJd6Ce) | [Sun Rai](https://open.spotify.com/artist/6UOV42aOSJ5YrbYzLIfLwr) | [Pocket Music](https://open.spotify.com/album/5Y7du83uUhCUXobupkRCjN) | 4:26 | 2021-07-13 |  |
-| [See It Through](https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 3:24 | 2023-07-14 |  |
+| [See It Through](https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 3:24 | 2023-07-14 | 2024-04-11 |
 | [Side by Side](https://open.spotify.com/track/5RABWGh9kQl6I3WFaGOKje) | [Collin Miller & the Brother Nature](https://open.spotify.com/artist/5zbwJxPIe7maUt0t8LTUB6) | [Side by Side](https://open.spotify.com/album/3b9cLrv8J3sDdh6sckaZOF) | 5:34 | 2021-07-13 | 2024-02-01 |
 | [Sleeping Without You Is a Dragg \(feat\. Justin Vernon, Jenny Lewis\)](https://open.spotify.com/track/6wMH6KMlV8PW1iwdxdJ4Hv) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX), [Justin Vernon](https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV), [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Sorry You Couldn't Make It](https://open.spotify.com/album/2p5pkNlYTEAzPdNdLHLMlP) | 4:01 | 2021-07-13 |  |
 | [Slipping](https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Aviary: Act 1](https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N) | 3:42 | 2021-07-13 |  |

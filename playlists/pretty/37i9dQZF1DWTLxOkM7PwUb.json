@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 42671,
+  "num_followers": 42727,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzhmZTEwNDljN2E4ODJkYjQ2ZGRkZjY1ZDYyNjdlNmFjOWFmYTNm",
+  "snapshot_id": "MCxhYTE0MWFiNWYyYjE2NmY3YTJlMGVlM2MzNTUyMTViY2E0ZjZlZmVj",
   "tracks": [
     {
       "added_at": "2024-03-18 15:07:52",
@@ -483,18 +483,22 @@
     {
       "added_at": "2024-03-18 15:07:52",
       "album": {
-        "name": "Arriba",
-        "url": "https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb"
+        "name": "No Me Llores",
+        "url": "https://open.spotify.com/album/3Iz5tFIsYZ1K6jV5nCjD52"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Leby",
+          "url": "https://open.spotify.com/artist/1Pk9sKrTxQ1lLfCg9b0PlF"
         }
       ],
-      "duration_ms": 174642,
-      "name": "Arriba",
-      "url": "https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm"
+      "duration_ms": 191846,
+      "name": "No Me Llores",
+      "url": "https://open.spotify.com/track/2fBL047Cv32R3UFEup6xkP"
     },
     {
       "added_at": "2024-03-18 15:07:52",
@@ -515,22 +519,18 @@
     {
       "added_at": "2024-03-18 15:07:52",
       "album": {
-        "name": "No Me Llores",
-        "url": "https://open.spotify.com/album/3Iz5tFIsYZ1K6jV5nCjD52"
+        "name": "Arriba",
+        "url": "https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb"
       },
       "artists": [
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Leby",
-          "url": "https://open.spotify.com/artist/1Pk9sKrTxQ1lLfCg9b0PlF"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 191846,
-      "name": "No Me Llores",
-      "url": "https://open.spotify.com/track/2fBL047Cv32R3UFEup6xkP"
+      "duration_ms": 174642,
+      "name": "Arriba",
+      "url": "https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm"
     },
     {
       "added_at": "2024-03-18 15:07:52",
@@ -1255,22 +1255,18 @@
     {
       "added_at": "2024-03-18 15:07:52",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+        "name": "Por Si Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/0EK7wOGPTR2Mvbf4ddWvT0"
       },
       "artists": [
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
         }
       ],
-      "duration_ms": 245141,
-      "name": "Dejar Atr\u00e1s / Rompe Corazones",
-      "url": "https://open.spotify.com/track/2UZkyyrceQx4PP1cMIpMkO"
+      "duration_ms": 187046,
+      "name": "S\u00e1banas An\u00f3nimas",
+      "url": "https://open.spotify.com/track/3onL7etNXsBumOa4HmFnqE"
     },
     {
       "added_at": "2024-03-18 15:07:52",
@@ -1295,6 +1291,26 @@
     {
       "added_at": "2024-03-18 15:07:52",
       "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 245141,
+      "name": "Dejar Atr\u00e1s / Rompe Corazones",
+      "url": "https://open.spotify.com/track/2UZkyyrceQx4PP1cMIpMkO"
+    },
+    {
+      "added_at": "2024-03-18 15:07:52",
+      "album": {
         "name": "Quedate Sola",
         "url": "https://open.spotify.com/album/5ovRJUVUBRZmOcyzUbJFNl"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 270608,
       "name": "Quedate Sola",
       "url": "https://open.spotify.com/track/0UT1rpFwDw5GLM7jDVs9pN"
-    },
-    {
-      "added_at": "2024-03-18 15:07:52",
-      "album": {
-        "name": "Por Si Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/0EK7wOGPTR2Mvbf4ddWvT0"
-      },
-      "artists": [
-        {
-          "name": "Zeballos",
-          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
-        }
-      ],
-      "duration_ms": 187046,
-      "name": "S\u00e1banas An\u00f3nimas",
-      "url": "https://open.spotify.com/track/3onL7etNXsBumOa4HmFnqE"
     },
     {
       "added_at": "2024-03-18 15:07:52",
@@ -1479,22 +1479,18 @@
     {
       "added_at": "2024-03-18 15:07:52",
       "album": {
-        "name": "DESPUES QUE TE PERDI",
-        "url": "https://open.spotify.com/album/42WNwBmPUmwfEfU92jiLvn"
+        "name": "Digame Usted",
+        "url": "https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF"
       },
       "artists": [
         {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
         }
       ],
-      "duration_ms": 247174,
-      "name": "DESPUES QUE TE PERDI",
-      "url": "https://open.spotify.com/track/5gsW8TMmNVnevjq13h0Nlp"
+      "duration_ms": 141688,
+      "name": "Digame Usted",
+      "url": "https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7"
     },
     {
       "added_at": "2024-03-18 15:07:52",
@@ -1519,18 +1515,22 @@
     {
       "added_at": "2024-03-18 15:07:52",
       "album": {
-        "name": "Digame Usted",
-        "url": "https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF"
+        "name": "DESPUES QUE TE PERDI",
+        "url": "https://open.spotify.com/album/42WNwBmPUmwfEfU92jiLvn"
       },
       "artists": [
         {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         }
       ],
-      "duration_ms": 141688,
-      "name": "Digame Usted",
-      "url": "https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7"
+      "duration_ms": 247174,
+      "name": "DESPUES QUE TE PERDI",
+      "url": "https://open.spotify.com/track/5gsW8TMmNVnevjq13h0Nlp"
     },
     {
       "added_at": "2024-03-18 15:07:52",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-03-18 15:07:52",
       "album": {
-        "name": "Wake Me",
-        "url": "https://open.spotify.com/album/2ymNHseI83zQVhSOTC2R3m"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 174335,
-      "name": "Wake Me",
-      "url": "https://open.spotify.com/track/1fWa8CXfSZvP64CChqRve9"
-    },
-    {
-      "added_at": "2024-03-18 15:07:52",
-      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/2k12JOTXBLjRdIeFSskitG"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 271743,
       "name": "Slow",
       "url": "https://open.spotify.com/track/1x1KnF1LOtTQMZbI3XntnQ"
+    },
+    {
+      "added_at": "2024-03-18 15:07:52",
+      "album": {
+        "name": "Wake Me",
+        "url": "https://open.spotify.com/album/2ymNHseI83zQVhSOTC2R3m"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 174335,
+      "name": "Wake Me",
+      "url": "https://open.spotify.com/track/1fWa8CXfSZvP64CChqRve9"
     },
     {
       "added_at": "2024-03-18 15:07:52",

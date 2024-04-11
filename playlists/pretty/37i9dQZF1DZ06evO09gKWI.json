@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWVhNDIyMDRiMTYyY2M0N2E0Y2I3NTM1NjVmODI4MTUyNGQ2MWIx",
+  "snapshot_id": "MCw4NTY1ZTZhNDdlZmFlODRiNzBmZjdmOTVlNTBlNDE1M2RhNTIwN2U5",
   "tracks": [
     {
       "added_at": null,
@@ -231,34 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raspa Placa",
-        "url": "https://open.spotify.com/album/3uGteRtMeCBA8XeN46qdR5"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        },
-        {
-          "name": "Douglas Moda",
-          "url": "https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK"
-        }
-      ],
-      "duration_ms": 137450,
-      "name": "Raspa Placa",
-      "url": "https://open.spotify.com/track/7zzNgcpskV8UuPBGjYqryC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Olhos Negros",
         "url": "https://open.spotify.com/album/1sp3ZppccDy7EkMeQAKgpM"
       },
@@ -287,6 +259,34 @@
       "duration_ms": 267944,
       "name": "Olhos Negros",
       "url": "https://open.spotify.com/track/6R9BnZpuvY1vwaqaBPaS5C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Raspa Placa",
+        "url": "https://open.spotify.com/album/3uGteRtMeCBA8XeN46qdR5"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        },
+        {
+          "name": "Douglas Moda",
+          "url": "https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK"
+        }
+      ],
+      "duration_ms": 137450,
+      "name": "Raspa Placa",
+      "url": "https://open.spotify.com/track/7zzNgcpskV8UuPBGjYqryC"
     },
     {
       "added_at": null,
@@ -1035,26 +1035,6 @@
       "duration_ms": 318139,
       "name": "Eu Avisei",
       "url": "https://open.spotify.com/track/71r0LXr8KWYQhqeNnIHMf9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bivolt no Est\u00fadio Showlivre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/54Hy0G86AMIiRvEd9KsP65"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Showlivre",
-          "url": "https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U"
-        }
-      ],
-      "duration_ms": 156288,
-      "name": "M\u00fasica Vai Transmitir - Ao Vivo",
-      "url": "https://open.spotify.com/track/3mSUoylWBqxtmpkCxgqcsO"
     }
   ],
   "unique_name": "This Is Bivolt",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,774 songs - 3 day 21 hr 49 min
+1,775 songs - 3 day 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [3x filtré](https://open.spotify.com/track/4XwMoPc7s1E2V0Q5eKSzpA) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Telegram 2](https://open.spotify.com/album/7931mqzx81Hm7rsKGjaVFc) | 3:00 | 2023-09-23 | 2023-10-01 |
 | [4 Juin 2022](https://open.spotify.com/track/0AS7ShmcA2UVxtXHIZEmLV) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Team Jul](https://open.spotify.com/artist/3GVvLlXO3Y9ezKfxpFzqJ5) | [Extraterrestre](https://open.spotify.com/album/4Nagii8jn7jhLZvcqmbnzp) | 3:09 | 2022-06-18 | 2022-06-21 |
 | [44](https://open.spotify.com/track/2kg6gav2Y7ceVoZ0s5l3Zz) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Le monde est méchant](https://open.spotify.com/album/4htdMrekIHwLEHhyw4ArcX) | 2:47 | 2021-11-07 | 2021-11-14 |
-| [4MOTION](https://open.spotify.com/track/6ieP0aiCmwen9DShYLJO5r) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [4MOTION](https://open.spotify.com/album/1S5teq1mi2YJxAH1tcB44E) | 3:19 | 2024-03-02 |  |
+| [4MOTION](https://open.spotify.com/track/6ieP0aiCmwen9DShYLJO5r) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [4MOTION](https://open.spotify.com/album/1S5teq1mi2YJxAH1tcB44E) | 3:19 | 2024-03-02 | 2024-04-11 |
 | [500](https://open.spotify.com/track/1dyyYwgfDLt7v0JzQ1JmJu) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [24](https://open.spotify.com/album/2vdJtLZGq4ljPBo3gFTwJC) | 2:49 | 2023-12-23 | 2023-12-25 |
 | [50k€](https://open.spotify.com/track/5SN8g3koBFMIJdB7icMzk3) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [J.000.$](https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w) | 3:08 | 2023-10-29 | 2023-11-03 |
 | [50°](https://open.spotify.com/track/2yl8lePeFcQAPJKef8AM93) | [Lomepal](https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm) | [Mauvais Ordre](https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq) | 3:59 | 2022-09-17 | 2022-09-30 |
@@ -646,6 +646,7 @@
 | [Galerie](https://open.spotify.com/track/2hsEYpnAtMH7CbZJajUU5C) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Galerie](https://open.spotify.com/album/3wzW6OkUdpj8RFn8UCCNF3) | 2:45 | 2021-11-12 | 2021-11-14 |
 | [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2022-09-30 | 2022-10-04 |
 | [Gare du Nord](https://open.spotify.com/track/41rNgAeNWLDhpVnybXbRvT) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Chambre 140 \(Part.1\)](https://open.spotify.com/album/0VRRwExn96kc3L9BfYIF6s) | 2:20 | 2024-01-20 | 2024-01-26 |
+| [GARS DU ZOO](https://open.spotify.com/track/2x4Tzd6KDGwiMraNGopTyf) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [SUR LE CHEMIN \(Phase 2\)](https://open.spotify.com/album/5snjlu5BRcHa6UFsrmF14C) | 2:45 | 2024-04-10 |  |
 | [Gasolina \(feat\. Ninho\)](https://open.spotify.com/track/6CyIkPh5mRkJg7T5xXynQ8) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Toujours nous\-mêmes](https://open.spotify.com/album/3LYMEkvKNcITfGChENpSbP) | 2:33 | 2021-08-29 | 2022-05-22 |
 | [Gasolina \(feat\. Rsko\)](https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 3:03 | 2022-05-28 | 2023-09-13 |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-10 |
@@ -1224,7 +1225,7 @@
 | [Pablo](https://open.spotify.com/track/0KifVydMFjrwl53BPjhS0o) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Pablo](https://open.spotify.com/album/1pU0VS9klvCOCdoEkjQfOW) | 3:07 | 2022-07-06 | 2022-07-08 |
 | [Paint The Town Red](https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 3:50 | 2023-09-23 | 2024-02-02 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-28 | 2023-09-24 |
-| [Panama](https://open.spotify.com/track/2HimJmsy7QZOauXXvlCd2m) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Day One](https://open.spotify.com/album/3nbNEZbsGU2DuuXHnscx0L) | 3:45 | 2024-01-09 |  |
+| [Panama](https://open.spotify.com/track/2HimJmsy7QZOauXXvlCd2m) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Day One](https://open.spotify.com/album/3nbNEZbsGU2DuuXHnscx0L) | 3:45 | 2024-01-09 | 2024-04-11 |
 | [Panama Bende](https://open.spotify.com/track/0h5KJnkDMA8fZswm7thalY) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [2069'](https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq) | 2:57 | 2023-04-15 | 2023-04-21 |
 | [Pandémie](https://open.spotify.com/track/5FHewCm87pZHevn3wc1zDp) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 2:34 | 2022-02-05 | 2022-02-18 |
 | [Panorama](https://open.spotify.com/track/5ZoDjOBNGlXo6X66mm9TeQ) | [Jazzy Bazz](https://open.spotify.com/artist/0cMsSWXCY2Wag16luxN6fL), [Alpha Wann](https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti) | [Memoria](https://open.spotify.com/album/4ocMBARU5In7WQpVoT9OPv) | 2:41 | 2022-01-22 | 2022-01-27 |
@@ -1499,7 +1500,7 @@
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-12-25 | 2023-12-30 |
 | [SOBAD](https://open.spotify.com/track/6UhgUbPfAIMdKif2Srt7F6) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 4:19 | 2023-12-02 | 2023-12-10 |
 | [Solitaire](https://open.spotify.com/track/0uSjZhPKuYBcObeetfVlpn) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Telegram](https://open.spotify.com/album/2IvmoaCYrxIVVdmfW9082i) | 2:26 | 2022-12-09 | 2023-08-25 |
-| [Solitaire](https://open.spotify.com/track/3kzXT2poHInDISrXOgT1PR) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Telegram](https://open.spotify.com/album/6p4UuRtrBi7EzUVYJdMWDJ) | 2:26 | 2023-08-25 | 2024-04-10 |
+| [Solitaire](https://open.spotify.com/track/3kzXT2poHInDISrXOgT1PR) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Telegram](https://open.spotify.com/album/6p4UuRtrBi7EzUVYJdMWDJ) | 2:26 | 2023-08-25 |  |
 | [Solitaire](https://open.spotify.com/track/7GFWDhZK15ylF7JyDRB9mj) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Telegram](https://open.spotify.com/album/6NmNYVVe4XeHk5lZz1Zz8g) | 2:26 | 2023-08-24 | 2023-08-26 |
 | [Solitaire 1895](https://open.spotify.com/track/45KzQaAly1V4Lmt0KaMXxz) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Hiver à Paris](https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA) | 3:09 | 2022-11-05 | 2022-11-10 |
 | [Solo](https://open.spotify.com/track/0AeVbdaEJhOF1RbHv7SoC6) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA) | 3:40 | 2021-12-05 | 2021-12-09 |

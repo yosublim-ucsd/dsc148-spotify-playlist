@@ -1,12 +1,12 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 669398,
+  "num_followers": 669405,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjQzYzlkZjQ3ZDgxNTQ5ZWU2ODhkZDg0Mzg4N2Y5OGZmYzBmNWZl",
+  "snapshot_id": "MCw2MmJjZTU4ZGQ4YjQ2ZDk0MGVjMTQ5NzJkYjhmOGRkMmE0N2E3MTZk",
   "tracks": [
     {
       "added_at": "2023-12-27 17:00:21",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
+        "name": "Drop Stop Roll",
+        "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 170788,
+      "name": "Drop Stop Roll",
+      "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
+    },
+    {
+      "added_at": "2023-12-27 17:00:21",
+      "album": {
         "name": "Mermaid Avenue",
         "url": "https://open.spotify.com/album/22rLwPW3QCaLB8UgWDY9bM"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 298533,
       "name": "California Stars",
       "url": "https://open.spotify.com/track/5B2mJIk8yso3ugyvfHR62A"
-    },
-    {
-      "added_at": "2023-12-27 17:00:21",
-      "album": {
-        "name": "Drop Stop Roll",
-        "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 170788,
-      "name": "Drop Stop Roll",
-      "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
     },
     {
       "added_at": "2023-12-27 17:00:21",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
-        "name": "Softly",
-        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 188780,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
-    },
-    {
-      "added_at": "2023-12-27 17:00:21",
-      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 212480,
       "name": "Highwomen",
       "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
+    },
+    {
+      "added_at": "2023-12-27 17:00:21",
+      "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 188780,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
     },
     {
       "added_at": "2023-12-27 17:00:21",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6Wpawdx7fSuBAKY0t793fx"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 463653,
-      "name": "Away From The Mire",
-      "url": "https://open.spotify.com/track/6oPDKGwBri4OLQX5IYu02T"
-    },
-    {
-      "added_at": "2023-12-27 17:00:21",
-      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 150824,
       "name": "Bad Love",
       "url": "https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE"
+    },
+    {
+      "added_at": "2023-12-27 17:00:21",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6Wpawdx7fSuBAKY0t793fx"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 463653,
+      "name": "Away From The Mire",
+      "url": "https://open.spotify.com/track/6oPDKGwBri4OLQX5IYu02T"
     },
     {
       "added_at": "2023-12-27 17:00:21",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
-        "name": "Age of Apathy",
-        "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 221842,
-      "name": "B61",
-      "url": "https://open.spotify.com/track/48I5zrBAbKfGp7lqfBZ0Ll"
-    },
-    {
-      "added_at": "2023-12-27 17:00:21",
-      "album": {
         "name": "You Were",
         "url": "https://open.spotify.com/album/6wnBVRrp4xGypc2UjRUcRg"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 193746,
       "name": "You Were",
       "url": "https://open.spotify.com/track/0TsWu7ZYypXsIEIPwl6BOi"
+    },
+    {
+      "added_at": "2023-12-27 17:00:21",
+      "album": {
+        "name": "Age of Apathy",
+        "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 221842,
+      "name": "B61",
+      "url": "https://open.spotify.com/track/48I5zrBAbKfGp7lqfBZ0Ll"
     },
     {
       "added_at": "2023-12-27 17:00:21",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
-        "name": "Lucifer On The Sofa",
-        "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
-      },
-      "artists": [
-        {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
-        }
-      ],
-      "duration_ms": 193277,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx"
-    },
-    {
-      "added_at": "2023-12-27 17:00:21",
-      "album": {
         "name": "Delta",
         "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
-        "name": "Not Dead Yet",
-        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
+        "name": "Lucifer On The Sofa",
+        "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
         }
       ],
-      "duration_ms": 177366,
-      "name": "Not Dead Yet",
-      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
+      "duration_ms": 193277,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx"
     },
     {
       "added_at": "2023-12-27 17:00:21",
@@ -1619,6 +1603,22 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
+        "name": "Not Dead Yet",
+        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 177366,
+      "name": "Not Dead Yet",
+      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
+    },
+    {
+      "added_at": "2023-12-27 17:00:21",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
       },
@@ -1631,6 +1631,22 @@
       "duration_ms": 196772,
       "name": "I Can't Make You Love Me - Spotify Singles",
       "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
+    },
+    {
+      "added_at": "2023-12-27 17:00:21",
+      "album": {
+        "name": "County Line",
+        "url": "https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "duration_ms": 265453,
+      "name": "4runner",
+      "url": "https://open.spotify.com/track/30Uu3CWjWfudnTGTIrw93V"
     },
     {
       "added_at": "2023-12-27 17:00:21",
@@ -1663,22 +1679,6 @@
       "duration_ms": 224034,
       "name": "Dreamsicle",
       "url": "https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3"
-    },
-    {
-      "added_at": "2023-12-27 17:00:21",
-      "album": {
-        "name": "Things Are Great",
-        "url": "https://open.spotify.com/album/6oDxFhDxCrSxiPgy6Xlact"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 223053,
-      "name": "Crutch",
-      "url": "https://open.spotify.com/track/1Ft5ivAGXYDmNoKmys13sX"
     }
   ],
   "unique_name": "Scenic Route",

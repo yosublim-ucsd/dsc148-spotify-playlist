@@ -4,7 +4,7 @@
 
 > Quand R&B francophone rime avec douceur 🍯\. Photo : Arma Jackson
 
-135 songs - 6 hr 37 min
+136 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [LUCKY](https://open.spotify.com/track/5MKX0y0nRqiXc1lnpDxMFM) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [LUCKY](https://open.spotify.com/album/48yAtmi6yZ3vyp4lwhdQif) | 3:30 | 2024-02-22 |  |
 | [Là où on dort heureux](https://open.spotify.com/track/5BalWculrB3c08qX6wN4pb) | [Tuerie](https://open.spotify.com/artist/1UILCk5p48n9qaNf1uie0a) | [Papillon Monarque](https://open.spotify.com/album/5WJBBxQz7mhA2XlvWFP7CX) | 2:12 | 2023-09-28 |  |
 | [Ma Go](https://open.spotify.com/track/5sl1qh0eclSeUTGW5XgZnc) | [Ysos](https://open.spotify.com/artist/1SQBvSuDIDiab53e3JCuLP), [Yakuzian](https://open.spotify.com/artist/5lpfeX5C3gGvxa5dja8JhM) | [Ma Go](https://open.spotify.com/album/6uzWRdxMpk51b2f1QjI5iA) | 2:37 | 2023-12-14 | 2024-03-15 |
-| [MAISON MARGIELA](https://open.spotify.com/track/31apVS91MZ1rj1gZ7DpBBB) | [Abou Tall](https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2) | [Monsieur Saudade](https://open.spotify.com/album/2utwqz4VmZWi2rTKhRP3HV) | 3:55 | 2024-02-22 |  |
+| [MAISON MARGIELA](https://open.spotify.com/track/1MggOUzXdsy6jhrhuWvuiD) | [Abou Tall](https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2) | [Monsieur Saudade](https://open.spotify.com/album/1amJT80lbG7zPvoVcpw05B) | 3:55 | 2024-04-04 |  |
+| [MAISON MARGIELA](https://open.spotify.com/track/31apVS91MZ1rj1gZ7DpBBB) | [Abou Tall](https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2) | [Monsieur Saudade](https://open.spotify.com/album/2utwqz4VmZWi2rTKhRP3HV) | 3:55 | 2024-02-22 | 2024-04-11 |
 | [Match](https://open.spotify.com/track/1bnIZA3TTVezTeFUCQKejA) | [Dj Mk Neal](https://open.spotify.com/artist/1MCoEJsXR1t0wduJIc39QG), [Asma](https://open.spotify.com/artist/0GAbpRBkxeFvT9d5yjOMrB) | [Match](https://open.spotify.com/album/2Aa7pSxhX9PaijFYujYE7U) | 3:22 | 2024-01-25 | 2024-03-01 |
 | [Maudit](https://open.spotify.com/track/0CyzbKO9MFV1pFCaMbwA1U) | [Abah](https://open.spotify.com/artist/34HGZEcVjKwWtkIebx4tfR) | [Lumière](https://open.spotify.com/album/0crLrXnmTkvukqmoPQh2Yv) | 1:49 | 2023-09-28 | 2023-10-13 |
 | [Mauvais Pressentiment](https://open.spotify.com/track/7D5CKBjZ1ylncHKMUAm5bU) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [YG Pablo](https://open.spotify.com/artist/3UHc2YZGHYS6TEYMJeDf1D), [Kyana](https://open.spotify.com/artist/1xOGqfYHZ2N0C06PzHE1dx) | [Mauvais Pressentiment](https://open.spotify.com/album/5kdv7c7jY0TGSjsNASas2p) | 2:17 | 2023-12-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1551754,
+  "num_followers": 1551934,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjc5YTBkZGM4MDBkMmZhZjY3OWU5NzJkMDEyM2ZkN2Q2YjM0Zjc0",
+  "snapshot_id": "MCw3ZGQwN2Q0NTViZjNlMjkxN2E5ZGMwMjI0OTAxMTU3ZTFkOTc4OTky",
   "tracks": [
     {
       "added_at": "2024-04-05 04:01:00",
@@ -499,6 +499,26 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Nothing Ever Changes",
+        "url": "https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        }
+      ],
+      "duration_ms": 226048,
+      "name": "Nothing Ever Changes",
+      "url": "https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "U&ME",
         "url": "https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 169528,
       "name": "Light",
       "url": "https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Nothing Ever Changes",
-        "url": "https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
-        }
-      ],
-      "duration_ms": 226048,
-      "name": "Nothing Ever Changes",
-      "url": "https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/2Te7Vf1TcGQBbSlh3BRWat"
-      },
-      "artists": [
-        {
-          "name": "19Clouds",
-          "url": "https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF"
-        }
-      ],
-      "duration_ms": 167691,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/05VS9ifTEUpV6RiajKLxxW"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Bloom At Night",
         "url": "https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 199047,
       "name": "Bloom At Night",
       "url": "https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/2Te7Vf1TcGQBbSlh3BRWat"
+      },
+      "artists": [
+        {
+          "name": "19Clouds",
+          "url": "https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF"
+        }
+      ],
+      "duration_ms": 167691,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/05VS9ifTEUpV6RiajKLxxW"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza"
-      },
-      "artists": [
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
-        }
-      ],
-      "duration_ms": 194160,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "All That Matters (Artbat Remix)",
         "url": "https://open.spotify.com/album/5BRqAXbsa6oxnnLQIiDHai"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 314880,
       "name": "All That Matters - ARTBAT Remix Radio Edit",
       "url": "https://open.spotify.com/track/4vLdWFBi8WgA00nWPUHaLS"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza"
+      },
+      "artists": [
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Losing Control (feat. Nathan Nicholson)",
-        "url": "https://open.spotify.com/album/5w42DeUYoCaocV1PqDx7QF"
-      },
-      "artists": [
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 209056,
-      "name": "Losing Control (feat. Nathan Nicholson)",
-      "url": "https://open.spotify.com/track/6yW6KjdBVwpexa0xI26si0"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Genesys II",
         "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 244130,
       "name": "Consciousness - Eric Prydz Remix",
       "url": "https://open.spotify.com/track/1pM05FAgX2lLp3NwpMY2vs"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Losing Control (feat. Nathan Nicholson)",
+        "url": "https://open.spotify.com/album/5w42DeUYoCaocV1PqDx7QF"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 209056,
+      "name": "Losing Control (feat. Nathan Nicholson)",
+      "url": "https://open.spotify.com/track/6yW6KjdBVwpexa0xI26si0"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Electric Feeling",
+        "url": "https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "duration_ms": 186239,
+      "name": "Electric Feeling",
+      "url": "https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "HEREON",
         "url": "https://open.spotify.com/album/5jSrvGNnDa6PDi7vlRFMLV"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 211428,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/2J2CcT3UwIq79wQvCCGtqR"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Electric Feeling",
-        "url": "https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        }
-      ],
-      "duration_ms": 186239,
-      "name": "Electric Feeling",
-      "url": "https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Yumi (edit)",
+        "url": "https://open.spotify.com/album/6Or1qZMDfcuXZyq0qceqsX"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 197213,
+      "name": "Yumi - edit",
+      "url": "https://open.spotify.com/track/6PK96Y20GrGeiU8yptYGfl"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Skyscrapers (Hi-Lo Remix)",
         "url": "https://open.spotify.com/album/5jhAOb0JdrZjlbfEl6BVPS"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 296368,
       "name": "Skyscrapers - Hi-Lo Remix",
       "url": "https://open.spotify.com/track/2g95XDCx4GqcaJPv7TTk8C"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Yumi (edit)",
-        "url": "https://open.spotify.com/album/6Or1qZMDfcuXZyq0qceqsX"
-      },
-      "artists": [
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        }
-      ],
-      "duration_ms": 197213,
-      "name": "Yumi - edit",
-      "url": "https://open.spotify.com/track/6PK96Y20GrGeiU8yptYGfl"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Chains (feat. Daya)",
-        "url": "https://open.spotify.com/album/2BInfOuI2kMrm2FIyCvoN0"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 199692,
-      "name": "Chains (feat. Daya)",
-      "url": "https://open.spotify.com/track/7FDbfuQ1VjSuFmFl5KFcyo"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Sweet Surrender",
         "url": "https://open.spotify.com/album/3oeckQ2isCZKg9GD1dk98W"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 245538,
       "name": "Desire",
       "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Chains (feat. Daya)",
+        "url": "https://open.spotify.com/album/2BInfOuI2kMrm2FIyCvoN0"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 199692,
+      "name": "Chains (feat. Daya)",
+      "url": "https://open.spotify.com/track/7FDbfuQ1VjSuFmFl5KFcyo"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1843,18 +1843,18 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Lights Go Out",
-        "url": "https://open.spotify.com/album/1o5GJh8M5rS4s5fE3Acq4m"
+        "name": "The Return (Edit)",
+        "url": "https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2"
       },
       "artists": [
         {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+          "name": "Pryda",
+          "url": "https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Lights Go Out",
-      "url": "https://open.spotify.com/track/79XeC0VG01wojLxzrk4Ypq"
+      "duration_ms": 232380,
+      "name": "The Return - Edit",
+      "url": "https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1879,22 +1879,18 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Into Dust",
-        "url": "https://open.spotify.com/album/7ITggXxODRWOO3vhHM1EOA"
+        "name": "Lights Go Out",
+        "url": "https://open.spotify.com/album/1o5GJh8M5rS4s5fE3Acq4m"
       },
       "artists": [
         {
-          "name": "AN21",
-          "url": "https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn"
-        },
-        {
-          "name": "Ali Bakgor",
-          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
         }
       ],
-      "duration_ms": 196905,
-      "name": "Into Dust",
-      "url": "https://open.spotify.com/track/3Yosq67GSBqGVkPm3O3Iul"
+      "duration_ms": 186666,
+      "name": "Lights Go Out",
+      "url": "https://open.spotify.com/track/79XeC0VG01wojLxzrk4Ypq"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1915,22 +1911,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "The Return (Edit)",
-        "url": "https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2"
-      },
-      "artists": [
-        {
-          "name": "Pryda",
-          "url": "https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt"
-        }
-      ],
-      "duration_ms": 232380,
-      "name": "The Return - Edit",
-      "url": "https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Under My Skin",
         "url": "https://open.spotify.com/album/1fqzT3Bwp9puo8c7kl0j3i"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 222151,
       "name": "Under My Skin",
       "url": "https://open.spotify.com/track/0Qsm4e0tjof17GOrxoRhLO"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Into Dust",
+        "url": "https://open.spotify.com/album/7ITggXxODRWOO3vhHM1EOA"
+      },
+      "artists": [
+        {
+          "name": "AN21",
+          "url": "https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn"
+        },
+        {
+          "name": "Ali Bakgor",
+          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
+        }
+      ],
+      "duration_ms": 196905,
+      "name": "Into Dust",
+      "url": "https://open.spotify.com/track/3Yosq67GSBqGVkPm3O3Iul"
     },
     {
       "added_at": "2024-04-05 04:01:00",

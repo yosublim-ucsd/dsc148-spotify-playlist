@@ -4,7 +4,7 @@
 
 > Dreamy springtime melodies to watch the flowers bloom 🌷
 
-648 songs - 1 day 16 hr 41 min
+649 songs - 1 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [Cherry Wine \- Live](https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:00 | 2022-09-06 | 2024-03-16 |
 | [Chewing Cotton Wool](https://open.spotify.com/track/3XxI16XYIjNhbvMFSN6Mlg) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Chewing Cotton Wool](https://open.spotify.com/album/1OlByJ5jsP9Eklfp03Xn8z) | 3:29 | 2023-12-15 | 2024-03-16 |
 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 | 2023-03-15 |  |
-| [Classic Water](https://open.spotify.com/track/4sdMxRr2pRhdfD6rGFhf2j) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Classic Water](https://open.spotify.com/album/07P3xJ5E3QZI0x2AGC2GyU) | 4:06 | 2023-03-15 |  |
+| [Classic Water](https://open.spotify.com/track/4sdMxRr2pRhdfD6rGFhf2j) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Classic Water](https://open.spotify.com/album/07P3xJ5E3QZI0x2AGC2GyU) | 4:06 | 2023-03-15 | 2024-04-11 |
+| [Classic Water](https://open.spotify.com/track/5ssUh7AkegCho1jtCOqiXf) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Long Cool World](https://open.spotify.com/album/5y7H3tDoGqmw1w88QKGV8o) | 4:06 | 2024-03-15 |  |
 | [Coast](https://open.spotify.com/track/4ih6tIjbm3jJMjHYwYe7x9) | [Participant](https://open.spotify.com/artist/7G3EOvlud2ZumHznucmZPc) | [Modern Retelling](https://open.spotify.com/album/07ztbIFK4y5fAlIzrUra9z) | 3:57 | 2021-12-20 | 2022-03-22 |
 | [Coastline](https://open.spotify.com/track/4sDbdBjuYQVdNNB4PiHUPo) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw) | 3:53 | 2022-12-21 |  |
 | [cold aired breeze](https://open.spotify.com/track/0aEYF9gLW1JqT3aOKzHMrx) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [they only talk about the weather](https://open.spotify.com/album/6fAwhVuJzrG19uLkfWopkR) | 4:44 | 2023-12-15 | 2024-03-16 |

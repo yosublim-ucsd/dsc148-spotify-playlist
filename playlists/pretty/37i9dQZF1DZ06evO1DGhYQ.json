@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 7028,
+  "num_followers": 7030,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGQzY2ZlNWFkY2FhNTI2ZWZjNTlmYzZiODhhNzIyZDY3MTAzOGRj",
+  "snapshot_id": "MCw4MDUxY2Y3ZGZiZWI3NzIxNzkzNTRiNDAyY2UwZmZiNTIyMzdkMTE2",
   "tracks": [
     {
       "added_at": null,
@@ -103,22 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Temptations",
-        "url": "https://open.spotify.com/album/6vR3bL2HLIKKWpukolyqbM"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 169466,
-      "name": "Temptations",
-      "url": "https://open.spotify.com/track/2HyCSbrfRjy0smkJMol7Oy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Professionalism",
         "url": "https://open.spotify.com/album/7FXCeryLiLzxMIRVrFNIt1"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 292866,
       "name": "Professionalism",
       "url": "https://open.spotify.com/track/7K3oYLroJb1bK9qW2YiK4j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Temptations",
+        "url": "https://open.spotify.com/album/6vR3bL2HLIKKWpukolyqbM"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "Temptations",
+      "url": "https://open.spotify.com/track/2HyCSbrfRjy0smkJMol7Oy"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "INGLOURIOUS EASTERN COWBOY",
-        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
+        "name": "LOST IN PARADISE",
+        "url": "https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT"
       },
       "artists": [
         {
@@ -340,13 +340,17 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         },
         {
-          "name": "\u6728\u6751\u6634",
-          "url": "https://open.spotify.com/artist/7xgoSh8BBoyKV02juTgUag"
+          "name": "\u306a\u307f\u3061\u3048",
+          "url": "https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ"
+        },
+        {
+          "name": "GOMESS",
+          "url": "https://open.spotify.com/artist/37cFtvT8bs2rU39mvPLN0I"
         }
       ],
-      "duration_ms": 246839,
-      "name": "Whole Lotta Love",
-      "url": "https://open.spotify.com/track/0qRGWueuXYkUmVTaVMXDRD"
+      "duration_ms": 347706,
+      "name": "FAITH",
+      "url": "https://open.spotify.com/track/3FSzby80mFX8cBt1zGbjUr"
     },
     {
       "added_at": null,
@@ -403,18 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LONELY LONELY",
-        "url": "https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z"
+        "name": "INGLOURIOUS EASTERN COWBOY",
+        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "\u6728\u6751\u6634",
+          "url": "https://open.spotify.com/artist/7xgoSh8BBoyKV02juTgUag"
         }
       ],
-      "duration_ms": 277700,
-      "name": "LONELY LONELY",
-      "url": "https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP"
+      "duration_ms": 246839,
+      "name": "Whole Lotta Love",
+      "url": "https://open.spotify.com/track/0qRGWueuXYkUmVTaVMXDRD"
     },
     {
       "added_at": null,
@@ -439,26 +447,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOST IN PARADISE",
-        "url": "https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT"
+        "name": "LONELY LONELY",
+        "url": "https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "\u306a\u307f\u3061\u3048",
-          "url": "https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ"
-        },
-        {
-          "name": "GOMESS",
-          "url": "https://open.spotify.com/artist/37cFtvT8bs2rU39mvPLN0I"
         }
       ],
-      "duration_ms": 347706,
-      "name": "FAITH",
-      "url": "https://open.spotify.com/track/3FSzby80mFX8cBt1zGbjUr"
+      "duration_ms": 277700,
+      "name": "LONELY LONELY",
+      "url": "https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP"
     },
     {
       "added_at": null,

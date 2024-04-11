@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: BABYMONSTER
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,182 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,155 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 62 | [SIREN](https://open.spotify.com/track/2SRHNn97rMNVYdtmH1gmd5) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [POP MUSIC](https://open.spotify.com/album/6jyKlst4HrUaxqjVwysHLK) | 2:16 |
 | 63 | [BAD GIRL](https://open.spotify.com/track/7IPRdn43uFd1QC8MqPxoor) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [BAD GIRL](https://open.spotify.com/album/5XTF2UdTT1I0YZGGadUcgE) | 3:28 |
 | 64 | [Cross My Heart I Hope U Die \(With Chandler Leighton\)](https://open.spotify.com/track/2YWQGk9zzkAkGXmjP027db) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Cross My Heart I Hope U Die \(With Chandler Leighton\)](https://open.spotify.com/album/7oXLJl1mwaPoewLLvE9emw) | 2:49 |
-| 65 | [Should We](https://open.spotify.com/track/4OXsPvszcSqLA8l5kDf9qL) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Razzle](https://open.spotify.com/album/76jhxPZPgnxpfmK9EGoYEc) | 2:33 |
+| 65 | [Should We](https://open.spotify.com/track/7MKlj3JF81xWi7Mvz6ZLEZ) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Razzle](https://open.spotify.com/album/0rjKAEIDh1VtNrjJ7tvnFP) | 2:33 |
 | 66 | [2 of us](https://open.spotify.com/track/7JKKIrRBNO9Og5ayp2F7hi) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [2 of us](https://open.spotify.com/album/3bFEQnbwElcnheCSsT7uGI) | 2:46 |
 | 67 | [Morally Grey \- Nation Haven Edition](https://open.spotify.com/track/7eVqXk41Uv6mUhc4s3sB2D) | [April Jai](https://open.spotify.com/artist/2TUSOcgYseNtC3VosDywhQ), [Nation Haven](https://open.spotify.com/artist/266zMJv8G84icIhwQMQ56L) | [Morally Grey \(Nation Haven Edition\)](https://open.spotify.com/album/3EPjtINkYOX4HPjK3Blr7X) | 2:43 |
 | 68 | [Alien](https://open.spotify.com/track/2YdDd0WUsWLWZq0Puz0Ypo) | [Nico & Chelsea](https://open.spotify.com/artist/2D3SlrKnJAnNyxf2ty2a97), [Nico Collins](https://open.spotify.com/artist/1iGwHlKgQKtdrtzmlwZ71U), [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [Alien](https://open.spotify.com/album/23Id7uPv0luo4pJpzKYBAO) | 3:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 74 | [SPOOKED](https://open.spotify.com/track/5z7WYNGTHyrJEPweEuSotD) | [XTINA GG](https://open.spotify.com/artist/4PS6CG01HPH6t4K2aBzril) | [SPOOKED](https://open.spotify.com/album/1QDMoJMquUqbvL6VmWKffu) | 2:32 |
 | 75 | [Pretty Distraction](https://open.spotify.com/track/6cPh0IceWYeMEeYmbSgIMG) | [SkyDxddy](https://open.spotify.com/artist/2xe5FZM6bB4k1KhfTZBBSx) | [Pretty Distraction](https://open.spotify.com/album/3KGO7t6s7VEAmJntA0R59Q) | 2:55 |
 
-Snapshot ID: `MCxjNTlmZmVlZjIxYjQyZmQ4MmZkNGU1OGNmYjE5N2NhNTFiZDk4YWM4`
+Snapshot ID: `MCxhYzc1OWQwNDY0YTAxYjU1OTY0MTk3YzBhN2JiZWRmNGYzYjI5ZmRl`

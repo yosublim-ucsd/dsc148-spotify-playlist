@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 430019,
+  "num_followers": 430090,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDA5YzE3MjNjNTdkNTUxODRjNmVlNWIyY2YwMGRiN2JlOTBhM2Uz",
+  "snapshot_id": "MCxkZDY5MDRiNzVhNDhlYmViNDU2ZTUyNDMxYjc2ZWQ5NDY3MGVhM2Ez",
   "tracks": [
     {
       "added_at": "2023-11-03 23:08:22",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Bad Contestant",
-        "url": "https://open.spotify.com/album/7I6d6PkjEJE50fnxhCwQ8M"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 200093,
-      "name": "Strange Time",
-      "url": "https://open.spotify.com/track/4eCXQY1vh9XMW66LmS5alP"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Show Me Your Mind",
         "url": "https://open.spotify.com/album/1SRKtsEc9mOeNc6yhQrzpM"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 213236,
       "name": "Show Me Your Mind",
       "url": "https://open.spotify.com/track/2ZgOEDHGRz34mewrKsND2t"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Bad Contestant",
+        "url": "https://open.spotify.com/album/7I6d6PkjEJE50fnxhCwQ8M"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 200093,
+      "name": "Strange Time",
+      "url": "https://open.spotify.com/track/4eCXQY1vh9XMW66LmS5alP"
     },
     {
       "added_at": "2024-02-05 23:33:58",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Flower of Devotion",
-        "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 177316,
-      "name": "Flood",
-      "url": "https://open.spotify.com/track/49WW6BCMjCCYt6V6UEhy4H"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Sleeping In Your Garden",
         "url": "https://open.spotify.com/album/2am9dGCCUrwCw1DOX4wiXX"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 204029,
       "name": "Sleeping In Your Garden",
       "url": "https://open.spotify.com/track/1eG48OpdY0FRJcDlBwqzRi"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Flower of Devotion",
+        "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 177316,
+      "name": "Flood",
+      "url": "https://open.spotify.com/track/49WW6BCMjCCYt6V6UEhy4H"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
+      },
+      "artists": [
+        {
+          "name": "Crippled Black Phoenix",
+          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
+        }
+      ],
+      "duration_ms": 491180,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "Treat Her Strangely",
         "url": "https://open.spotify.com/album/160v3MwjFlmnBYCFXbTxzH"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 239250,
       "name": "Exposed to Some Light",
       "url": "https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
-      },
-      "artists": [
-        {
-          "name": "Crippled Black Phoenix",
-          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
-        }
-      ],
-      "duration_ms": 491180,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Spelling",
-        "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
-      },
-      "artists": [
-        {
-          "name": "Lolahol",
-          "url": "https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn"
-        }
-      ],
-      "duration_ms": 241133,
-      "name": "Spelling",
-      "url": "https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "I, Gemini",
         "url": "https://open.spotify.com/album/377kd2Yt5RbH24v4rcKKRC"
       },
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
+        "name": "Spelling",
+        "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
+      },
+      "artists": [
+        {
+          "name": "Lolahol",
+          "url": "https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn"
+        }
+      ],
+      "duration_ms": 241133,
+      "name": "Spelling",
+      "url": "https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
         "name": "Less",
         "url": "https://open.spotify.com/album/7H0jxA1HMTBK1IbvqJEPuk"
       },
@@ -1435,6 +1435,26 @@
       "duration_ms": 219133,
       "name": "Duffy's",
       "url": "https://open.spotify.com/track/4lcamfRMk5t5fC2OQ3QfXZ"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Wicked Animal",
+        "url": "https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i"
+      },
+      "artists": [
+        {
+          "name": "Amandla Stenberg",
+          "url": "https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck"
+        },
+        {
+          "name": "Bobbi Salv\u00f6r Menuez",
+          "url": "https://open.spotify.com/artist/1AJGOgliKuczd24lJOh33J"
+        }
+      ],
+      "duration_ms": 284745,
+      "name": "Wicked Animal",
+      "url": "https://open.spotify.com/track/3OU685WYjjsCh8PJ39KU73"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1467,26 +1487,6 @@
       "duration_ms": 233556,
       "name": "Blue May",
       "url": "https://open.spotify.com/track/6vlN4TQsjWS6mQKvJX2ERP"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
-        "name": "Wicked Animal",
-        "url": "https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i"
-      },
-      "artists": [
-        {
-          "name": "Amandla Stenberg",
-          "url": "https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck"
-        },
-        {
-          "name": "Bobbi Salv\u00f6r Menuez",
-          "url": "https://open.spotify.com/artist/1AJGOgliKuczd24lJOh33J"
-        }
-      ],
-      "duration_ms": 284745,
-      "name": "Wicked Animal",
-      "url": "https://open.spotify.com/track/3OU685WYjjsCh8PJ39KU73"
     },
     {
       "added_at": "2023-11-03 23:08:22",

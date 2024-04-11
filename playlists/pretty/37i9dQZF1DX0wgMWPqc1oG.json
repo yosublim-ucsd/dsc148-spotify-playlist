@@ -1,12 +1,12 @@
 {
   "description": "The essential recordings from the beginning of the Post Bop era. Cover: Freddie Hubbard",
-  "num_followers": 28543,
+  "num_followers": 28558,
   "original_name": "Post Bop Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTNlYjg3ODBlMDliNzNhNDhiNGJkOWYwOWE4YWUzNGRjZjBjYjMw",
+  "snapshot_id": "MCwzNTcwZjk0YTJlOTcwM2Q5ODdlOGJjYmMwOTg5NGI5M2ZhNmRiOTk3",
   "tracks": [
     {
       "added_at": "2024-03-20 14:57:59",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-03-20 14:57:59",
       "album": {
-        "name": "Dear John C.",
-        "url": "https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1"
-      },
-      "artists": [
-        {
-          "name": "Elvin Jones",
-          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "Love Bird",
-      "url": "https://open.spotify.com/track/1pIvCPswzivDXnC1y5hl4w"
-    },
-    {
-      "added_at": "2024-03-20 14:57:59",
-      "album": {
         "name": "In 'N Out (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4KI0kC5rANmc5YeXyNshDr"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 547666,
       "name": "Punjab - Remastered 2003 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/64EpFQnk4OlbMl3fitdrp6"
+    },
+    {
+      "added_at": "2024-03-20 14:57:59",
+      "album": {
+        "name": "Dear John C.",
+        "url": "https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1"
+      },
+      "artists": [
+        {
+          "name": "Elvin Jones",
+          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "Love Bird",
+      "url": "https://open.spotify.com/track/1pIvCPswzivDXnC1y5hl4w"
     },
     {
       "added_at": "2024-03-20 14:57:59",
@@ -743,6 +743,30 @@
     {
       "added_at": "2024-03-20 14:57:59",
       "album": {
+        "name": "Illumination!",
+        "url": "https://open.spotify.com/album/5CdhRgQcKX62nphZ2DpwXi"
+      },
+      "artists": [
+        {
+          "name": "Elvin Jones",
+          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
+        },
+        {
+          "name": "Jimmy Garrison Sextet",
+          "url": "https://open.spotify.com/artist/6AkdhZR9b49kcH3AM4gx5B"
+        },
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 385653,
+      "name": "Half And Half",
+      "url": "https://open.spotify.com/track/43HfhwCGlQSQX38zxXdVaR"
+    },
+    {
+      "added_at": "2024-03-20 14:57:59",
+      "album": {
         "name": "Astigmatic (Polish Jazz)",
         "url": "https://open.spotify.com/album/5AHmsOtE3kyBWr0TRqHyzD"
       },
@@ -795,30 +819,6 @@
       "duration_ms": 342360,
       "name": "Perception - Remastered 2005/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/0ofvMRAUIFzkrHthNTbxRB"
-    },
-    {
-      "added_at": "2024-03-20 14:57:59",
-      "album": {
-        "name": "Illumination!",
-        "url": "https://open.spotify.com/album/5CdhRgQcKX62nphZ2DpwXi"
-      },
-      "artists": [
-        {
-          "name": "Elvin Jones",
-          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
-        },
-        {
-          "name": "Jimmy Garrison Sextet",
-          "url": "https://open.spotify.com/artist/6AkdhZR9b49kcH3AM4gx5B"
-        },
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 385653,
-      "name": "Half And Half",
-      "url": "https://open.spotify.com/track/43HfhwCGlQSQX38zxXdVaR"
     },
     {
       "added_at": "2024-03-20 14:57:59",
@@ -967,8 +967,8 @@
     {
       "added_at": "2024-03-20 14:57:59",
       "album": {
-        "name": "Components",
-        "url": "https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP"
+        "name": "Total Eclipse",
+        "url": "https://open.spotify.com/album/22CAQduBWiDnEMAF05wWlM"
       },
       "artists": [
         {
@@ -976,9 +976,9 @@
           "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
         }
       ],
-      "duration_ms": 385933,
-      "name": "Components - Remastered 1994",
-      "url": "https://open.spotify.com/track/11RdQ7zGzEfRuXcZW5sb1Y"
+      "duration_ms": 396360,
+      "name": "Herzog",
+      "url": "https://open.spotify.com/track/00ccfrP2pK0CHhaSeGZXHy"
     },
     {
       "added_at": "2024-03-20 14:57:59",
@@ -1095,8 +1095,8 @@
     {
       "added_at": "2024-03-20 14:57:59",
       "album": {
-        "name": "Total Eclipse",
-        "url": "https://open.spotify.com/album/22CAQduBWiDnEMAF05wWlM"
+        "name": "Components",
+        "url": "https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP"
       },
       "artists": [
         {
@@ -1104,9 +1104,9 @@
           "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
         }
       ],
-      "duration_ms": 396360,
-      "name": "Herzog",
-      "url": "https://open.spotify.com/track/00ccfrP2pK0CHhaSeGZXHy"
+      "duration_ms": 385933,
+      "name": "Components - Remastered 1994",
+      "url": "https://open.spotify.com/track/11RdQ7zGzEfRuXcZW5sb1Y"
     },
     {
       "added_at": "2024-03-20 14:57:59",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-03-20 14:57:59",
       "album": {
-        "name": "Spring (Remastered)",
-        "url": "https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10"
-      },
-      "artists": [
-        {
-          "name": "Anthony Williams",
-          "url": "https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6"
-        }
-      ],
-      "duration_ms": 629053,
-      "name": "Tee - Remastered 2009/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/4Jfk9tUIZOmwmNb86Qd9uu"
-    },
-    {
-      "added_at": "2024-03-20 14:57:59",
-      "album": {
         "name": "The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali",
         "url": "https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 313733,
       "name": "Off My Back Jack",
       "url": "https://open.spotify.com/track/3AtuHU0gxC9210nu0wK3tU"
+    },
+    {
+      "added_at": "2024-03-20 14:57:59",
+      "album": {
+        "name": "Spring (Remastered)",
+        "url": "https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10"
+      },
+      "artists": [
+        {
+          "name": "Anthony Williams",
+          "url": "https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6"
+        }
+      ],
+      "duration_ms": 629053,
+      "name": "Tee - Remastered 2009/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/4Jfk9tUIZOmwmNb86Qd9uu"
     },
     {
       "added_at": "2024-03-20 14:57:59",
@@ -1431,8 +1431,8 @@
     {
       "added_at": "2024-03-20 14:57:59",
       "album": {
-        "name": "Puttin' It Together",
-        "url": "https://open.spotify.com/album/5JkyHalhn8Ml6KhwZBYfBp"
+        "name": "The Ultimate",
+        "url": "https://open.spotify.com/album/2ppTwBc53nvo0GEtQ53XSp"
       },
       "artists": [
         {
@@ -1440,9 +1440,9 @@
           "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
         }
       ],
-      "duration_ms": 311826,
-      "name": "Village Greene",
-      "url": "https://open.spotify.com/track/0zowXbXX2KisRPIvUAw56X"
+      "duration_ms": 302842,
+      "name": "In The Truth",
+      "url": "https://open.spotify.com/track/2QdzdWDxxwG1XJdL4iAX4U"
     },
     {
       "added_at": "2024-03-20 14:57:59",
@@ -1495,8 +1495,8 @@
     {
       "added_at": "2024-03-20 14:57:59",
       "album": {
-        "name": "The Ultimate",
-        "url": "https://open.spotify.com/album/2ppTwBc53nvo0GEtQ53XSp"
+        "name": "Puttin' It Together",
+        "url": "https://open.spotify.com/album/5JkyHalhn8Ml6KhwZBYfBp"
       },
       "artists": [
         {
@@ -1504,9 +1504,9 @@
           "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
         }
       ],
-      "duration_ms": 302842,
-      "name": "In The Truth",
-      "url": "https://open.spotify.com/track/2QdzdWDxxwG1XJdL4iAX4U"
+      "duration_ms": 311826,
+      "name": "Village Greene",
+      "url": "https://open.spotify.com/track/0zowXbXX2KisRPIvUAw56X"
     },
     {
       "added_at": "2024-03-20 14:57:59",

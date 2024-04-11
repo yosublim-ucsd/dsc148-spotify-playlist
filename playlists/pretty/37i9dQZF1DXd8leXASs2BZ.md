@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 8 & KVGGLV
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,274 likes - 99 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,281 likes - 99 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 98 | [Anthem](https://open.spotify.com/track/0MBzNOhfoa8U32LuXw34f2) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [ISSUES DELUXE](https://open.spotify.com/album/6RwZHwh768vKLfDgAxhsbJ) | 2:50 |
 | 99 | [Karate](https://open.spotify.com/track/5WVG5gcr3IYucGjTAJtKp9) | [Sh0ta](https://open.spotify.com/artist/0DPwzajAlCTDhhq1jgNcW2) | [Karate](https://open.spotify.com/album/7djQ0wgXOnhbVPvmzCeKbH) | 2:08 |
 
-Snapshot ID: `MCxlNjA4Nzg5MzM3MzE5NmU5OTE2NDA4OWFhMGEzZTdjNjcyNzk2ZGQz`
+Snapshot ID: `MCxmZGZkOGY3YjUwZWQ2NDBmNWZiODFhZWE0OGRmMmRlN2IzYTVkNDJj`

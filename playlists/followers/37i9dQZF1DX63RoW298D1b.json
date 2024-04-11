@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 84286,
+  "2024-04-11": 84384,
   "date_first_scraped": "2023-05-16",
   "description": "Soothing piano for the ultimate wind down.",
   "name": "Relaxing Bath",
@@ -1674,6 +1674,24 @@
     },
     {
       "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/5wP3H8FWcmE8A8mGAL6VIn"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Granneman",
+          "url": "https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130190,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/1L9NurhEYJFmy69FNRZpQX"
+    },
+    {
+      "album": {
         "name": "Echoes of Home",
         "url": "https://open.spotify.com/album/7yCqK5TU8KBZM4MeyHqydu"
       },
@@ -2233,6 +2251,24 @@
       "duration_ms": 125000,
       "name": "Seascape",
       "url": "https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA"
+    },
+    {
+      "album": {
+        "name": "Seceda",
+        "url": "https://open.spotify.com/album/2nVTO8rEyqhORMFRrlYUGt"
+      },
+      "artists": [
+        {
+          "name": "Lukasz Allain",
+          "url": "https://open.spotify.com/artist/3O2fAJFoOE1uxFK9ZXouLc"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179250,
+      "name": "Seceda",
+      "url": "https://open.spotify.com/track/0bhgyVhN8V0GH26HgQisqE"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 名誉伝説
 
-1,487 songs - 3 day 18 hr 16 min
+1,488 songs - 3 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,8 @@
 | [doll](https://open.spotify.com/track/7lZgyhI0XOvjzi7g0eeHBA) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/7gkjbmsbhiXCDPmKYGPk2l) | 3:33 | 2023-12-12 | 2024-01-11 |
 | [don't call me queen](https://open.spotify.com/track/6LEN840bmAq5qa1z9ZXVZr) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:14 | 2023-05-16 | 2023-06-28 |
 | [Don't need to let it go](https://open.spotify.com/track/3zAtX7g2H7B03ARDRk0hRn) | [Kinami](https://open.spotify.com/artist/5Zm3vMvLFPUji0Y2txuRdt) | [Don't need to let it go](https://open.spotify.com/album/46ga0qLyG7yUc5WYvJtS97) | 3:11 | 2022-10-11 | 2022-11-16 |
-| [Donut Song](https://open.spotify.com/track/5m5B3uG46zGUc4ed8VPss8) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Donut Song](https://open.spotify.com/album/7KrJUUBFfoE8nanB2K5wRK) | 3:47 | 2024-04-09 |  |
+| [Donut Song](https://open.spotify.com/track/5JPN8TqaCEeB2bD9jHfALI) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Donut Song](https://open.spotify.com/album/4bWIkjiyqyVvC7VlcNsxPa) | 3:47 | 2024-04-09 |  |
+| [Donut Song](https://open.spotify.com/track/5m5B3uG46zGUc4ed8VPss8) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Donut Song](https://open.spotify.com/album/7KrJUUBFfoE8nanB2K5wRK) | 3:47 | 2024-04-09 | 2024-04-11 |
 | [door](https://open.spotify.com/track/2I4ispQ4UjY6cot5eSJHTg) | [ULTRA](https://open.spotify.com/artist/0lyPo2zoahnoeFXTq1JHeS) | [door](https://open.spotify.com/album/4lycjMMaKA1imPO6Wm4OUc) | 3:47 | 2023-02-07 | 2023-02-22 |
 | [DOORS](https://open.spotify.com/track/3dAJ5JPLdIt8YQ8bsPCs14) | [NEI](https://open.spotify.com/artist/1TxxPD6FTYXeDfzdGDG5my) | [DOORS](https://open.spotify.com/album/4RDIiNWS6zv8upiy7KkUIE) | 4:11 | 2022-03-29 | 2022-04-13 |
 | [Dopamine \(feat\. Wez Atlas\)](https://open.spotify.com/track/6IR2NAuk2mkpGS1MeOkKJw) | [MoMo](https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Dopamine \(feat\. Wez Atlas\)](https://open.spotify.com/album/7sNLkCLjRzBFvRMa8qj1eD) | 2:24 | 2023-03-21 | 2023-04-07 |

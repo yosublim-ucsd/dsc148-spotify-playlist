@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: BABYMONSTER
 
-630 songs - 1 day 4 hr 54 min
+631 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,8 +488,9 @@
 | [She Ruins Everything](https://open.spotify.com/track/6bxpZV3PmkGzGpr5qgIejf) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [She Ruins Everything](https://open.spotify.com/album/47dUMKJXhMColrlmkd0WPU) | 3:09 | 2023-12-08 | 2024-03-23 |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-02-04 | 2022-03-18 |
 | [SHEESH](https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONS7ER](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) | 2:50 | 2024-04-05 |  |
-| [Should We](https://open.spotify.com/track/4OXsPvszcSqLA8l5kDf9qL) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Razzle](https://open.spotify.com/album/76jhxPZPgnxpfmK9EGoYEc) | 2:33 | 2024-03-15 |  |
+| [Should We](https://open.spotify.com/track/4OXsPvszcSqLA8l5kDf9qL) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Razzle](https://open.spotify.com/album/76jhxPZPgnxpfmK9EGoYEc) | 2:33 | 2024-03-15 | 2024-04-11 |
 | [Should We](https://open.spotify.com/track/4Y8PgWmxjAnBHNuz516yWf) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Should We](https://open.spotify.com/album/4UTy95lbfZb73MJeRwSfcA) | 2:33 | 2024-01-15 | 2024-03-20 |
+| [Should We](https://open.spotify.com/track/7MKlj3JF81xWi7Mvz6ZLEZ) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Razzle](https://open.spotify.com/album/0rjKAEIDh1VtNrjJ7tvnFP) | 2:33 | 2024-04-05 |  |
 | [Should've Been A Dick to You](https://open.spotify.com/track/1x7H9gKKAvLjYkxZQCBDWZ) | [Piper 57](https://open.spotify.com/artist/6sOxk8gr7bsACj95waVXx7) | [Should've Been A Dick to You](https://open.spotify.com/album/3UbV2bdR9F3FxQNqO9RXMk) | 2:12 | 2023-10-02 | 2024-01-20 |
 | [SHUT UP](https://open.spotify.com/track/0EdZVIPG9yl7D796fiFiw1) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [SHUT UP](https://open.spotify.com/album/3wcpkLbPP7w7ciwuYcI7aV) | 2:33 | 2022-11-25 | 2023-06-10 |
 | [SHUT UP AND KISS ME](https://open.spotify.com/track/69XM2hnoX1hVwqDGnnGZSq) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [EMOTION SICKNESS](https://open.spotify.com/album/7qpJHu4q1taE6JOFvdm6YA) | 2:43 | 2023-09-29 | 2023-11-18 |

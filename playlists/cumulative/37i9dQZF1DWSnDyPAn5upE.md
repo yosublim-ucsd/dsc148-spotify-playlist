@@ -4,7 +4,7 @@
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-170 songs - 13 hr 12 min
+171 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Long Dizzying Air Through A Balcony Door](https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 7:48 | 2022-05-18 |  |
 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 | 2022-05-18 |  |
 | [Lullaby for the Newborn](https://open.spotify.com/track/4KgYBHkIZpuI7KQBUfza8A) | [Sonja Tofik](https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3) | [Anomi](https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV) | 2:00 | 2022-05-18 | 2022-07-28 |
-| [Lämpö](https://open.spotify.com/track/0EzJNQX4oVC7p4PF1mqOg0) | [Cucina Povera](https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1) | [Dalmarnock Tapes](https://open.spotify.com/album/6ZAGUwp9bVhe13qoXrNqA7) | 5:14 | 2022-05-18 |  |
+| [Lämpö](https://open.spotify.com/track/0EzJNQX4oVC7p4PF1mqOg0) | [Cucina Povera](https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1) | [Dalmarnock Tapes](https://open.spotify.com/album/6ZAGUwp9bVhe13qoXrNqA7) | 5:14 | 2022-05-18 | 2024-04-11 |
 | [Magnolia](https://open.spotify.com/track/1d3wIYlKXUUylvCkIkbzXW) | [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig), [Scandinavian Star](https://open.spotify.com/artist/0IHVd7aU0SzB7t0HDiCWsp), [Alto Aria](https://open.spotify.com/artist/2fKzX6tkABWKK5MnXizpSR) | [Spring Snow](https://open.spotify.com/album/3l3DeVnMAOtSLZKSjLzJay) | 4:44 | 2022-05-18 | 2023-06-16 |
 | [melting cups](https://open.spotify.com/track/4ACEmXrMgFt6PnRdp0mJVj) | [Aphir](https://open.spotify.com/artist/5FjAJK7JsaOahbaAwIxtE4) | [plastichoir](https://open.spotify.com/album/1KlD8Ua27Osp0ChMjb1Zq2) | 3:10 | 2022-05-18 |  |
 | [Mirror](https://open.spotify.com/track/57R08VnhqGxJ9gQibB9ARS) | [Umitaro Abe](https://open.spotify.com/artist/5JZautVqz7ojSZdWHldk7b), [Kaori Takeda](https://open.spotify.com/artist/7eXYitpmnte1BBdZZsmuHk) | [Mirror](https://open.spotify.com/album/4dgEPvuxoOfoyciOzTiQQj) | 2:01 | 2023-08-31 | 2023-12-03 |
@@ -174,6 +174,7 @@
 | [Untethering](https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ) | [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [Untethering](https://open.spotify.com/album/7pQyhMhsJvmpghevCKZnhw) | 6:58 | 2022-05-18 |  |
 | [Violence](https://open.spotify.com/track/59rWOvuBELmfqvVBI9NiWf) | [Andy Stott](https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K) | [Faith in Strangers](https://open.spotify.com/album/1BzMONuUlgUnqOrg2aQeAY) | 6:37 | 2022-05-18 |  |
 | [Waving](https://open.spotify.com/track/2IwTXSns7feJ8H5hQL4LUk) | [Nebno](https://open.spotify.com/artist/3sb9YxHMKqnzyLM89FzoWf) | [Waving](https://open.spotify.com/album/6F5Qae0yAmB2nO8QRPVhOK) | 4:05 | 2022-05-18 |  |
+| [What I Never Lost](https://open.spotify.com/track/6cLeuSDEs9FGbk8hzx9fPI) | [Salamander Collective](https://open.spotify.com/artist/6vj0F7zgz0mgY8iuMkHkR9), [Marissa Zechinato](https://open.spotify.com/artist/6VJ25I8H8tRG3d3X76iMJX), [Centre](https://open.spotify.com/artist/3A6IPxMbVFSLfzUYMjiLYY), [Cy Paul Fontenot](https://open.spotify.com/artist/7FGBGMusaUM80l1S4SkAJC), [Ben Holt](https://open.spotify.com/artist/7G6CFMVXsu33nRASahH0M0) | [JAHMODE](https://open.spotify.com/album/4mWpSK6ySOqk1yVzx0Ng3O) | 2:12 | 2023-10-12 |  |
 | [what's on the inside](https://open.spotify.com/track/0M3qSerO5fBuimM3wghYX5) | [marine eyes](https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25), [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2) | [what's on the inside](https://open.spotify.com/album/0tjgXt36gsBjCBnvHZ7C67) | 4:10 | 2022-12-02 | 2024-02-17 |
 | [Yodeling Slits](https://open.spotify.com/track/6wvDPoypPjxxEgvgUUNxWc) | [Aaron Dilloway](https://open.spotify.com/artist/1iA1G6TFhNc3GerD6e5XNm), [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Lucy & Aaron](https://open.spotify.com/album/0LcvLhp0X1prpE872gcCBA) | 2:41 | 2022-05-18 | 2023-12-21 |
 | [You Make It Look so Easy \- Reverbed by Malibu](https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a) | [Himera](https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj), [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [You Make It Look so Easy \(Reverbed by Malibu\)](https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl) | 3:59 | 2022-05-18 |  |

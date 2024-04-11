@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: REI AMI",
-  "num_followers": 85327,
+  "num_followers": 85329,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTg4Y2M2MTNhNTUyYTIyOTYzYzAxYWQwZWQzYjBjMmEzZjY3Y2Ux",
+  "snapshot_id": "MCw0MTUzMmMxMTY2NTA2OTI0NTVkNTc4ZDg1ZDQxMjczZDZmMzNkYzYw",
   "tracks": [
     {
       "added_at": "2024-03-01 05:01:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "Bad Girls Behave",
-        "url": "https://open.spotify.com/album/6c6ObiguaXrGWxcy3kP0pJ"
-      },
-      "artists": [
-        {
-          "name": "Karencici",
-          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
-        }
-      ],
-      "duration_ms": 170007,
-      "name": "Bad Girls Behave",
-      "url": "https://open.spotify.com/track/2CspyaDniJQAhgAYamTyI3"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
         "name": "Our Time is Blue",
         "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 218266,
       "name": "Our Time",
       "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Bad Girls Behave",
+        "url": "https://open.spotify.com/album/6c6ObiguaXrGWxcy3kP0pJ"
+      },
+      "artists": [
+        {
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
+        }
+      ],
+      "duration_ms": 170007,
+      "name": "Bad Girls Behave",
+      "url": "https://open.spotify.com/track/2CspyaDniJQAhgAYamTyI3"
     },
     {
       "added_at": "2024-03-01 05:01:00",

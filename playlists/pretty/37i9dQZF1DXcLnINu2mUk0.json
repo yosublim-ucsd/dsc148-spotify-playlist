@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Rony Fuego e Loony Johnson.",
-  "num_followers": 44963,
+  "num_followers": 44984,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWY5YzQ1NTU0YzJiYjgwZThiNzA0OTBhY2E2NmEwOTkxNTRlMTVj",
+  "snapshot_id": "MCxmNTIyOWRlNzgzNDcwNDMyOTNkOGY1Y2FjYWZkMjk4NTA5MzljYmY0",
   "tracks": [
     {
       "added_at": "2024-04-05 00:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Fica",
-        "url": "https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr"
-      },
-      "artists": [
-        {
-          "name": "Domingues",
-          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
-        }
-      ],
-      "duration_ms": 260571,
-      "name": "Fica",
-      "url": "https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Mais Antigo",
         "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 206466,
       "name": "Lembrei-me",
       "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Fica",
+        "url": "https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr"
+      },
+      "artists": [
+        {
+          "name": "Domingues",
+          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
+        }
+      ],
+      "duration_ms": 260571,
+      "name": "Fica",
+      "url": "https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -527,8 +527,8 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Nada a Esconder",
-        "url": "https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3"
+        "name": "CorDaPele",
+        "url": "https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
         }
       ],
-      "duration_ms": 218258,
-      "name": "Nada a Esconder",
-      "url": "https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi"
+      "duration_ms": 178815,
+      "name": "CorDaPele",
+      "url": "https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -659,8 +659,8 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "CorDaPele",
-        "url": "https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA"
+        "name": "Nada a Esconder",
+        "url": "https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
         }
       ],
-      "duration_ms": 178815,
-      "name": "CorDaPele",
-      "url": "https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9"
+      "duration_ms": 218258,
+      "name": "Nada a Esconder",
+      "url": "https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1003,6 +1003,30 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "Soma",
+        "url": "https://open.spotify.com/album/6nlMPBV9pvlP9O5sUA1iez"
+      },
+      "artists": [
+        {
+          "name": "Branko",
+          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
+        },
+        {
+          "name": "Dino d'Santiago",
+          "url": "https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr"
+        },
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        }
+      ],
+      "duration_ms": 219266,
+      "name": "Mood 111",
+      "url": "https://open.spotify.com/track/5ZcyKNKvNX5ZJofCwvTArU"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Juro",
         "url": "https://open.spotify.com/album/5pN2iGKNsoGZvT8GqfUmoP"
       },
@@ -1043,26 +1067,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Soma",
-        "url": "https://open.spotify.com/album/6nlMPBV9pvlP9O5sUA1iez"
+        "name": "Orgulho",
+        "url": "https://open.spotify.com/album/2pv6xhnEH7N71mcgMkp7wX"
       },
       "artists": [
         {
-          "name": "Branko",
-          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
+          "name": "Dream Boyz",
+          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
         },
         {
-          "name": "Dino d'Santiago",
-          "url": "https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr"
-        },
-        {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+          "name": "Dji Tafinha",
+          "url": "https://open.spotify.com/artist/3VGB73iYdHZ7T3jjgucrYS"
         }
       ],
-      "duration_ms": 219266,
-      "name": "Mood 111",
-      "url": "https://open.spotify.com/track/5ZcyKNKvNX5ZJofCwvTArU"
+      "duration_ms": 264496,
+      "name": "Orgulho",
+      "url": "https://open.spotify.com/track/76dnUs1YTIIGCUBiTWIbY4"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1083,26 +1103,6 @@
       "duration_ms": 161392,
       "name": "Feiti\u00e7o",
       "url": "https://open.spotify.com/track/1dGSNINnssx5BA35whIPzC"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "Orgulho",
-        "url": "https://open.spotify.com/album/2pv6xhnEH7N71mcgMkp7wX"
-      },
-      "artists": [
-        {
-          "name": "Dream Boyz",
-          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
-        },
-        {
-          "name": "Dji Tafinha",
-          "url": "https://open.spotify.com/artist/3VGB73iYdHZ7T3jjgucrYS"
-        }
-      ],
-      "duration_ms": 264496,
-      "name": "Orgulho",
-      "url": "https://open.spotify.com/track/76dnUs1YTIIGCUBiTWIbY4"
     },
     {
       "added_at": "2024-04-05 00:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy của rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,311 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,369 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 11 | [TETVOVEN](https://open.spotify.com/track/72ictTz6o0dusD2QpCn4bn) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [Machiot](https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh) | [TETVOVEN](https://open.spotify.com/album/3jwSlUKUdfxcIuy3b2SCxc) | 3:17 |
 | 12 | [An Thần](https://open.spotify.com/track/5T6j0rfpCDBzAxC8Fpd0N7) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [An Thần](https://open.spotify.com/album/1GZA9k0UojVkU7KFoVVRlC) | 2:54 |
 | 13 | [Chỉ Một Đêm Nữa Thôi](https://open.spotify.com/track/28bxbqNcAuNxYDZYet6eZ7) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:21 |
-| 14 | [nếu lúc đó](https://open.spotify.com/track/7wj9sGlHGTMQ28liyi48hz) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [nếu lúc đó](https://open.spotify.com/album/0OThHPtV2ovPxWwh8ublMV) | 4:24 |
+| 14 | [Exit Sign](https://open.spotify.com/track/4nXrVH5xwN1w6TpmP7uu8n) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [marzuz](https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/4faMbTZifuYsBllYHZsFKJ) | 3:21 |
 | 15 | [Chìm Sâu](https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Chìm Sâu](https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs) | 2:36 |
-| 16 | [Exit Sign](https://open.spotify.com/track/4nXrVH5xwN1w6TpmP7uu8n) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [marzuz](https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/4faMbTZifuYsBllYHZsFKJ) | 3:21 |
+| 16 | [nếu lúc đó](https://open.spotify.com/track/7wj9sGlHGTMQ28liyi48hz) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [nếu lúc đó](https://open.spotify.com/album/0OThHPtV2ovPxWwh8ublMV) | 4:24 |
 | 17 | [Hà Nội \(ft\. VSTRA\)](https://open.spotify.com/track/0SLhB9JLM4Ksz1XdwK3aQD) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 2:45 |
 | 18 | [Có Em](https://open.spotify.com/track/6Hs2xIgB8nzyGFDvVA8lFa) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Có em](https://open.spotify.com/album/7nvdYW7qe9f1DT7pZ1EXDg) | 3:38 |
 | 19 | [pho real](https://open.spotify.com/track/0OIed6UFpfT2nW4BffD7Js) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Anh Phan](https://open.spotify.com/artist/6Zx90B1VRgR4TB01S87duQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [pho real](https://open.spotify.com/album/2vCSyr1hNfzQqOcuHXD8uD) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [ex's hate me, Pt\. 2](https://open.spotify.com/track/0Rx4GFPy8ISxPhRwkjl64b) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve), [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [dreAMEE](https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt) | 3:36 |
 | 50 | [Ổ Quỷ](https://open.spotify.com/track/5WIKVELHZYJ4vl3x3xlbZD) | [DMT](https://open.spotify.com/artist/54gIDmy6EgICaX1Uiez1iC), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU), [summerdayy](https://open.spotify.com/artist/6c7kFoIy4IC56Pr5605Jnt), [Rocky CDE](https://open.spotify.com/artist/2lnesmkx2eGDj0wTUv61Ch) | [Ổ Quỷ](https://open.spotify.com/album/328QgBSGnAypQVDc1pxvl2) | 4:11 |
 
-Snapshot ID: `MCw0NDY0NWQ3OTA0ZWU3NjkzMmJmMGU3MjYyNDc0MTM5NjMyYTQxZGQ1`
+Snapshot ID: `MCwzNWNhZDYwYjEwYTA2YmQyZjQwYjFhMTg1NGRhN2YyNjY5OTQ1YTll`

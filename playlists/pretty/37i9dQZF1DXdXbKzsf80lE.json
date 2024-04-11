@@ -1,12 +1,12 @@
 {
   "description": "Queeeima pared\u00e3o! Pra forrozeiro sofrer dan\u00e7ando e dan\u00e7ar sofrendo, bora.",
-  "num_followers": 241627,
+  "num_followers": 241756,
   "original_name": "Bora arrochar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTY1ODczZDM1MjgzYjA5YmYzNDUzNzgzNzU0NGU2Y2JlNzZiNmJk",
+  "snapshot_id": "MCwxNDNhYjNkMzUwODM0ZTgwMWVlNDJjMGIwNzgzNGQwYzAzNDg1NTU5",
   "tracks": [
     {
       "added_at": "2024-03-28 22:14:39",
@@ -375,8 +375,8 @@
     {
       "added_at": "2024-03-28 22:14:39",
       "album": {
-        "name": "Errejota (ao Vivo)",
-        "url": "https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k"
+        "name": "Todos Os Ritmos",
+        "url": "https://open.spotify.com/album/2Jim2Tr9XtfwdDB5ZsmI6u"
       },
       "artists": [
         {
@@ -384,13 +384,13 @@
           "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
         },
         {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
         }
       ],
-      "duration_ms": 231680,
-      "name": "Algo Mais (Amante) - Ao Vivo",
-      "url": "https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P"
+      "duration_ms": 197233,
+      "name": "Ela Aperta a Minha Mente",
+      "url": "https://open.spotify.com/track/1T3hcBQRwacjWLuJJFt8co"
     },
     {
       "added_at": "2024-03-28 22:14:39",
@@ -483,8 +483,8 @@
     {
       "added_at": "2024-03-28 22:14:39",
       "album": {
-        "name": "Todos Os Ritmos",
-        "url": "https://open.spotify.com/album/2Jim2Tr9XtfwdDB5ZsmI6u"
+        "name": "Errejota (ao Vivo)",
+        "url": "https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k"
       },
       "artists": [
         {
@@ -492,13 +492,13 @@
           "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
         },
         {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
         }
       ],
-      "duration_ms": 197233,
-      "name": "Ela Aperta a Minha Mente",
-      "url": "https://open.spotify.com/track/1T3hcBQRwacjWLuJJFt8co"
+      "duration_ms": 231680,
+      "name": "Algo Mais (Amante) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P"
     },
     {
       "added_at": "2024-03-28 22:14:39",
@@ -559,26 +559,6 @@
     {
       "added_at": "2024-03-28 22:14:39",
       "album": {
-        "name": "Conquistas - EP 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2ox3dMDK8hSZ1kkIJRbslu"
-      },
-      "artists": [
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        },
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        }
-      ],
-      "duration_ms": 182976,
-      "name": "Basta Voc\u00ea Me Ligar - Ao Vivo",
-      "url": "https://open.spotify.com/track/3AV1KI22k1jGMz792lDrj1"
-    },
-    {
-      "added_at": "2024-03-28 22:14:39",
-      "album": {
         "name": "Cena de Amor",
         "url": "https://open.spotify.com/album/7x46uFO4ntA1LfbJt2VP3Y"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 222000,
       "name": "Cena de Amor",
       "url": "https://open.spotify.com/track/6RMYuqlTn8777j5arY9zhC"
+    },
+    {
+      "added_at": "2024-03-28 22:14:39",
+      "album": {
+        "name": "Conquistas - EP 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2ox3dMDK8hSZ1kkIJRbslu"
+      },
+      "artists": [
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        },
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "duration_ms": 182976,
+      "name": "Basta Voc\u00ea Me Ligar - Ao Vivo",
+      "url": "https://open.spotify.com/track/3AV1KI22k1jGMz792lDrj1"
     },
     {
       "added_at": "2024-03-28 22:14:39",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-03-28 22:14:39",
       "album": {
-        "name": "Vem Me Amar",
-        "url": "https://open.spotify.com/album/54zbtfsS8bCb9PTvwpw2F2"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Vaqueiro",
-          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
-        }
-      ],
-      "duration_ms": 200986,
-      "name": "Se Voc\u00ea Se Entregar",
-      "url": "https://open.spotify.com/track/3WbtamPQS9wdB784HVTeAN"
-    },
-    {
-      "added_at": "2024-03-28 22:14:39",
-      "album": {
         "name": "A\u00f4 Saudade Da M\u00e3e Dos Meninos",
         "url": "https://open.spotify.com/album/5YvNCAEo2mumV4xkS7HXfN"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 157124,
       "name": "Rita",
       "url": "https://open.spotify.com/track/6NEJZvJeu2pIMpRbiyhCPi"
+    },
+    {
+      "added_at": "2024-03-28 22:14:39",
+      "album": {
+        "name": "Vem Me Amar",
+        "url": "https://open.spotify.com/album/54zbtfsS8bCb9PTvwpw2F2"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        }
+      ],
+      "duration_ms": 200986,
+      "name": "Se Voc\u00ea Se Entregar",
+      "url": "https://open.spotify.com/track/3WbtamPQS9wdB784HVTeAN"
     },
     {
       "added_at": "2024-03-28 22:14:39",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-03-28 22:14:39",
       "album": {
-        "name": "Atualiza A\u00ea BB",
-        "url": "https://open.spotify.com/album/4WiGDTDjR9B5P6Cy0Bk27R"
-      },
-      "artists": [
-        {
-          "name": "Malu",
-          "url": "https://open.spotify.com/artist/3fll16LLw6kdDxWzSpJPEQ"
-        }
-      ],
-      "duration_ms": 167808,
-      "name": "Disco Arranhado",
-      "url": "https://open.spotify.com/track/4QTy8WBsWugusgc32mtj2j"
-    },
-    {
-      "added_at": "2024-03-28 22:14:39",
-      "album": {
         "name": "Trip do Boyzinho",
         "url": "https://open.spotify.com/album/6JU1sx4sZfbO2gsicBwuxx"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 169903,
       "name": "Trip do Boyzinho",
       "url": "https://open.spotify.com/track/41GMwa6sCB3iA2aS5T30iE"
+    },
+    {
+      "added_at": "2024-03-28 22:14:39",
+      "album": {
+        "name": "Atualiza A\u00ea BB",
+        "url": "https://open.spotify.com/album/4WiGDTDjR9B5P6Cy0Bk27R"
+      },
+      "artists": [
+        {
+          "name": "Malu",
+          "url": "https://open.spotify.com/artist/3fll16LLw6kdDxWzSpJPEQ"
+        }
+      ],
+      "duration_ms": 167808,
+      "name": "Disco Arranhado",
+      "url": "https://open.spotify.com/track/4QTy8WBsWugusgc32mtj2j"
     },
     {
       "added_at": "2024-03-28 22:14:39",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-03-28 22:14:39",
       "album": {
+        "name": "Acertou Na Mosca",
+        "url": "https://open.spotify.com/album/4vOfQufVR5xI14wXEjgdX0"
+      },
+      "artists": [
+        {
+          "name": "Tierry",
+          "url": "https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8"
+        }
+      ],
+      "duration_ms": 142145,
+      "name": "Hb20",
+      "url": "https://open.spotify.com/track/5fLCrCEayDFaaRMtorglwq"
+    },
+    {
+      "added_at": "2024-03-28 22:14:39",
+      "album": {
         "name": "CP 25 Anos, Pt. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2aBcsCLnWCf002QuBJok53"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 151805,
       "name": "Vazou um \u00c1udio - Ao Vivo No Casa Filtr",
       "url": "https://open.spotify.com/track/59wOSyrOPTS1NmNHED6hbI"
-    },
-    {
-      "added_at": "2024-03-28 22:14:39",
-      "album": {
-        "name": "Acertou Na Mosca",
-        "url": "https://open.spotify.com/album/4vOfQufVR5xI14wXEjgdX0"
-      },
-      "artists": [
-        {
-          "name": "Tierry",
-          "url": "https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8"
-        }
-      ],
-      "duration_ms": 142145,
-      "name": "Hb20",
-      "url": "https://open.spotify.com/track/5fLCrCEayDFaaRMtorglwq"
     },
     {
       "added_at": "2024-03-28 22:14:39",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-03-28 22:14:39",
       "album": {
-        "name": "My Baby",
-        "url": "https://open.spotify.com/album/2Tvmo1uMgsFxkMtZ1xgzLp"
-      },
-      "artists": [
-        {
-          "name": "Furac\u00e3o Love",
-          "url": "https://open.spotify.com/artist/35udcF82bFL8EzsDlWWcsr"
-        }
-      ],
-      "duration_ms": 144535,
-      "name": "My Baby",
-      "url": "https://open.spotify.com/track/5BG7jLnjI62eS7EuBGr3r7"
-    },
-    {
-      "added_at": "2024-03-28 22:14:39",
-      "album": {
         "name": "Lovez\u00e3o da Porra",
         "url": "https://open.spotify.com/album/6K5XxHJwvR1F0EXQm3AcBO"
       },
@@ -1523,18 +1507,18 @@
     {
       "added_at": "2024-03-28 22:14:39",
       "album": {
-        "name": "Bom Dia",
-        "url": "https://open.spotify.com/album/5Fxrlgctaae03u1eLNoW7W"
+        "name": "My Baby",
+        "url": "https://open.spotify.com/album/2Tvmo1uMgsFxkMtZ1xgzLp"
       },
       "artists": [
         {
-          "name": "N\u00eago Jh\u00e1",
-          "url": "https://open.spotify.com/artist/2KbGxTODNjsDa9DZgpC6rZ"
+          "name": "Furac\u00e3o Love",
+          "url": "https://open.spotify.com/artist/35udcF82bFL8EzsDlWWcsr"
         }
       ],
-      "duration_ms": 116166,
-      "name": "Bom Dia",
-      "url": "https://open.spotify.com/track/4A0vKKkbHRVJc7vIVnEoop"
+      "duration_ms": 144535,
+      "name": "My Baby",
+      "url": "https://open.spotify.com/track/5BG7jLnjI62eS7EuBGr3r7"
     },
     {
       "added_at": "2024-03-28 22:14:39",
@@ -1551,6 +1535,22 @@
       "duration_ms": 141048,
       "name": "Monta Logo Vai",
       "url": "https://open.spotify.com/track/6Fy2jcYzVfej3EfElB3XVK"
+    },
+    {
+      "added_at": "2024-03-28 22:14:39",
+      "album": {
+        "name": "Bom Dia",
+        "url": "https://open.spotify.com/album/5Fxrlgctaae03u1eLNoW7W"
+      },
+      "artists": [
+        {
+          "name": "N\u00eago Jh\u00e1",
+          "url": "https://open.spotify.com/artist/2KbGxTODNjsDa9DZgpC6rZ"
+        }
+      ],
+      "duration_ms": 116166,
+      "name": "Bom Dia",
+      "url": "https://open.spotify.com/track/4A0vKKkbHRVJc7vIVnEoop"
     },
     {
       "added_at": "2024-03-28 22:14:39",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-03-28 22:14:39",
       "album": {
-        "name": "Edilene",
-        "url": "https://open.spotify.com/album/6WOKAQp9jXSSpICGAoEyPN"
-      },
-      "artists": [
-        {
-          "name": "Tayrone",
-          "url": "https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm"
-        }
-      ],
-      "duration_ms": 189634,
-      "name": "Edilene",
-      "url": "https://open.spotify.com/track/7xEvzxbqAxFYDC5OzF51aQ"
-    },
-    {
-      "added_at": "2024-03-28 22:14:39",
-      "album": {
         "name": "Na Press\u00e3o",
         "url": "https://open.spotify.com/album/1aD9s70SHK5DyLthruVVAZ"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 176770,
       "name": "Cheirosa",
       "url": "https://open.spotify.com/track/2jI4ABmHk9XZjYmy3EPfN9"
+    },
+    {
+      "added_at": "2024-03-28 22:14:39",
+      "album": {
+        "name": "Edilene",
+        "url": "https://open.spotify.com/album/6WOKAQp9jXSSpICGAoEyPN"
+      },
+      "artists": [
+        {
+          "name": "Tayrone",
+          "url": "https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm"
+        }
+      ],
+      "duration_ms": 189634,
+      "name": "Edilene",
+      "url": "https://open.spotify.com/track/7xEvzxbqAxFYDC5OzF51aQ"
     },
     {
       "added_at": "2024-03-28 22:14:39",

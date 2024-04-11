@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 601536,
+  "num_followers": 601680,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzcxOTEzNjI3ZTk2MTQ3ZTc0YTRkODIzMTMwMWM5ODc1Yjg1ODc4",
+  "snapshot_id": "MCw0N2JiODQ2ZGNiNDE0NTliNWMzYTFhMWE0OThlOGNlZTg1YzE5OWJj",
   "tracks": [
     {
       "added_at": "2024-02-16 19:57:55",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Live at the Old Quarter, Houston, Texas",
-        "url": "https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC"
-      },
-      "artists": [
-        {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
-        }
-      ],
-      "duration_ms": 154186,
-      "name": "Lungs - Live",
-      "url": "https://open.spotify.com/track/0gctFhy7ZomaBNuUrFnjrU"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "From Eden EP",
         "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 229666,
       "name": "Work Song",
       "url": "https://open.spotify.com/track/5szmwG86IFASvYrca21MEz"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Live at the Old Quarter, Houston, Texas",
+        "url": "https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "duration_ms": 154186,
+      "name": "Lungs - Live",
+      "url": "https://open.spotify.com/track/0gctFhy7ZomaBNuUrFnjrU"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "By The Rule",
-        "url": "https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T"
-      },
-      "artists": [
-        {
-          "name": "Mick Flannery",
-          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "Get What You Give",
-      "url": "https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "The Dark",
         "url": "https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 180920,
       "name": "The Beast",
       "url": "https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "By The Rule",
+        "url": "https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T"
+      },
+      "artists": [
+        {
+          "name": "Mick Flannery",
+          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "Get What You Give",
+      "url": "https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/2ayE2lKEyIyBP2EcuWiB0d"
+      },
+      "artists": [
+        {
+          "name": "William Crighton",
+          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
+        }
+      ],
+      "duration_ms": 217240,
+      "name": "Fire in the Empire",
+      "url": "https://open.spotify.com/track/7nBlwy9FltJKrO23b6edNi"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
         "name": "Daughter, Daughter",
         "url": "https://open.spotify.com/album/0OaUiE3t8fSKBr0yJva0vw"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 205022,
       "name": "Daughter, Daughter",
       "url": "https://open.spotify.com/track/1GLsKI9ZvoahRB8UTsKBxC"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
-        "name": "Empire",
-        "url": "https://open.spotify.com/album/2ayE2lKEyIyBP2EcuWiB0d"
-      },
-      "artists": [
-        {
-          "name": "William Crighton",
-          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
-        }
-      ],
-      "duration_ms": 217240,
-      "name": "Fire in the Empire",
-      "url": "https://open.spotify.com/track/7nBlwy9FltJKrO23b6edNi"
     },
     {
       "added_at": "2024-02-16 19:57:55",

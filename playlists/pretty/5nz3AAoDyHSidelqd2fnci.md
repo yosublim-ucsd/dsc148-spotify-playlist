@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 44 min 43 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 48 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Trois Vierges \- Orchestral Version](https://open.spotify.com/track/6IMfQjuM1naBDnozmXdjnx) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Consign To Oblivion \(Expanded Edition\)](https://open.spotify.com/album/050Dza66lBFneTLseVdFP8) | 4:43 |
-| 2 | [We Won't Back Down](https://open.spotify.com/track/3kLmk0aDytt5hrqgGCNgnF) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [This War Is Ours \(Deluxe Edition\)](https://open.spotify.com/album/56a9Tuww0ddc52DHYG61Ai) | 3:30 |
-| 3 | [That's What You Get](https://open.spotify.com/track/0UY4FvG4f9JI6kBR1BlWrZ) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:40 |
-| 4 | [Hush \- 1998 Remaster](https://open.spotify.com/track/1dX0NML9pxDIJxrGWzIoJW) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Platinum Collection](https://open.spotify.com/album/1G5FycaSPGPZiwMDxrumgm) | 4:26 |
-| 5 | [Love Ain't For Keeping](https://open.spotify.com/track/1zdmeAd3wE2VlrrxpAAEgr) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 2:10 |
-| 6 | [Puente](https://open.spotify.com/track/4XDpxSBawMhjoHkKlIe5Yc) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Infinito](https://open.spotify.com/album/1saYfZwr5b7Gad73hp41ue) | 4:33 |
-| 7 | [Sex on Fire](https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:23 |
-| 8 | [In The Unblind \(Demo\) \- Bonus Track](https://open.spotify.com/track/46iIT5XKbR48y4HZ6YKIZb) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Killswitch Engage \(Expanded Edition\) \[2004 Remaster\]](https://open.spotify.com/album/1MgyBHsiad6REK9veCUATT) | 2:48 |
-| 9 | [No More Sorrow](https://open.spotify.com/track/69vMDipMastHvYna7plBdS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND) | 3:41 |
-| 10 | [cross my heart \(hope to die\)](https://open.spotify.com/track/7qt0s5OswWIDJBlLHmiKNi) | [Mackenzie Arromba](https://open.spotify.com/artist/1BdbPr0jIW0h7HurLRlekq) | [cross my heart \(hope to die\)](https://open.spotify.com/album/2OPo2MAbCCUWp3TS4N7nld) | 2:40 |
-| 11 | [Cryin'](https://open.spotify.com/track/16YFSY0VM91QkDJWeC55VL) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Tough Love: Best Of The Ballads \(International Version\)](https://open.spotify.com/album/2UhyWgiFb1ZDB1p0Uyljd4) | 5:07 |
-| 12 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
+| 1 | [Mixed Emotions \- 2009 Edit Re\-Mastered Digital Version](https://open.spotify.com/track/0ZHvpEZx0KyO7zHBfkcIPN) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Jump Back \- The Best Of The Rolling Stones, '71 \- '93 \(2009 Re\-mastered\)](https://open.spotify.com/album/0dOQMOGNf5PvdPG0oecU19) | 3:59 |
+| 2 | [The Last Crusade \(A New Age Dawns 1\)](https://open.spotify.com/track/1q575cro90WoHNYBm0Dspv) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Consign to Oblivion \(Expanded Edition\)](https://open.spotify.com/album/0IUmtDZj4sNXkJzm8Pvske) | 4:22 |
+| 3 | [六兆年と一夜物語 \(feat\. 星乃一歌&初音ミク\)](https://open.spotify.com/track/07ar7rYlFwzJhbvQTTuu14) | [Leo/need](https://open.spotify.com/artist/7CXyP7IN0L3ySUeIQ6Ymu1) | [Leo/need SEKAI ALBUM vol.1](https://open.spotify.com/album/3WsKMKwulspjsv4IGMehaK) | 3:35 |
+| 4 | [Underneath Every Smile \- Instrumental Version](https://open.spotify.com/track/7HkWYRaHcWwXajvITCx1X6) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [Digital Renegade \[Instrumental Version\]](https://open.spotify.com/album/2EGx88OVWH7a0BQXpfvP6M) | 3:17 |
+| 5 | [Blood Stains](https://open.spotify.com/track/1NkbA7ZHoa4kQw1IWmerGr) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Disarm the Descent \(Special Edition\)](https://open.spotify.com/album/5I6bH0UaVR4LnKmVUWDZoD) | 3:22 |
+| 6 | [Estrechez De Corazón](https://open.spotify.com/track/2U4FUCJSFTI0yqer1XZnyI) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Antología: Su Historia y Sus Éxitos](https://open.spotify.com/album/7m8AqShFcldsxokXFksDZ4) | 6:22 |
+| 7 | [WORK](https://open.spotify.com/track/6CbZAYh6bOfahHkptyvc59) | [Très Mortimer](https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7) | [WORK](https://open.spotify.com/album/7LPdj3geNctVBgnFWBgyjr) | 4:04 |
+| 8 | [Valentine](https://open.spotify.com/track/1Lv33qFAcC8028WWHNNRMM) | [The Get Up Kids](https://open.spotify.com/artist/54Bjxn26WsjfslQbNVtSCm) | [Something to Write Home About](https://open.spotify.com/album/3S0PabpZF2USPmwK8lIRZ8) | 4:19 |
+| 9 | [Doubt](https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 2:35 |
+| 10 | [Inside the Fire](https://open.spotify.com/track/5cxp9kjCFyJwzv3lzeX7ku) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Indestructible \(Deluxe Edition\)](https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6) | 3:51 |
+| 11 | [Under & Over It](https://open.spotify.com/track/1kDO47fQrlYv1R3iSDuEDb) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1](https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3) | 4:09 |
+| 12 | [Imágenes Paganas](https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Vivo](https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm) | 4:29 |
 
-Snapshot ID: `ODEsMmFlZWI5YWFjOTY2MzhjY2I3ZmNjODhkMWEyMDQ5OTRjNjAxYWNkMA==`
+Snapshot ID: `ODIsNjY5MDI5ZGZkZGM3NDY2YWQ2YzA5MzcxOTQ2MDk0ODI3NDI5NGJhYQ==`

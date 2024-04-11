@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > Your weekly rock update\. Cover: Gustaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,118 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,115 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 63 | [Bitter Melon](https://open.spotify.com/track/5VAGx9L6hdAk6PgVWpmX13) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Bitter Melon](https://open.spotify.com/album/3V1jYsGINylmb0rvweOfna) | 6:09 |
 | 64 | [Time :: Fate :: Karma :: God](https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City \(Deluxe\)](https://open.spotify.com/album/2RAkwilnza3i5WYKNhGqWS) | 3:03 |
 | 65 | [Dead Tourists](https://open.spotify.com/track/1vkX5szdGe9z0kZQt5CzKT) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Boeckner!](https://open.spotify.com/album/1we8POeAomGmp8hTzGFdaW) | 3:31 |
-| 66 | [Classical](https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Classical](https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ) | 4:19 |
+| 66 | [Classical](https://open.spotify.com/track/4DlGLD32K7shuL8ub067DL) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:19 |
 | 67 | [Legendary](https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Legendary](https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb) | 4:05 |
 | 68 | [Chompin' At The Bit](https://open.spotify.com/track/4Nvn9NPYbOh2j8MtcrJZ7f) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [TROUBLE EP](https://open.spotify.com/album/5IcmjyqYJeUDMrqu5DTE7B) | 3:01 |
 | 69 | [Plucked](https://open.spotify.com/track/7bkTXTJgFgGvAeLw4Tateh) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Plucked](https://open.spotify.com/album/2DIAuUtBOj0fmoxbLUMHKZ) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Hate That I Love Your Love](https://open.spotify.com/track/2AcG9bdaEGikV4EaHz2XNm) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Razzle](https://open.spotify.com/album/0rjKAEIDh1VtNrjJ7tvnFP) | 2:20 |
 | 100 | [you're the one to blame](https://open.spotify.com/track/1jmQZK2rhRyFuXSoWHY955) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [you're the one to blame](https://open.spotify.com/album/3P8MUep1suyTtd4WI0pQft) | 2:31 |
 
-Snapshot ID: `MCxjYmUxZmFkZDZiZmMwMzczNGNiNjY5ODUzYWJiNzAyZmNmYjc4YzUy`
+Snapshot ID: `MCw3MDgyM2FmZGI0NjhjYzVlYjc3ZTFmZDdkODMxMjVmZWM0ZDI2MzM1`

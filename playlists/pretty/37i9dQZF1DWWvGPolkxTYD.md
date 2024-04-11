@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 
 > A selection of relaxing, spiritual, and instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,522 likes - 40 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,526 likes - 40 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 | 39 | [Al\-Andalus Abre Sus Puertas\. Al\-Andalus Opens Its Gates](https://open.spotify.com/track/4iQvCKLlT8DlRm7hqBPS3n) | [Naseer Shamma](https://open.spotify.com/artist/57NW7ND6Cdzrj5z8ARvUEZ), [Shabbaz Hussain](https://open.spotify.com/artist/1entpGIZiFUjcFLOMzbXUL), [Ashraf Sharif Khan](https://open.spotify.com/artist/75hY1HGxwO5zlBmXzj1UQs) | [Viaje De Las Almas\. Travelling Souls](https://open.spotify.com/album/1nEZo4Uk9UfaAnt0AvqDAb) | 6:35 |
 | 40 | [Meçhul](https://open.spotify.com/track/4btMC5zessMUb1G9JUTT6q) | [Mercan Dede](https://open.spotify.com/artist/1rwDpyhfCIGcutXf9kmLkY) | [Dünya, Vol\. 1 \(Gün Doğumu\)](https://open.spotify.com/album/2Qocr6xEdeOsTOFGzTdTw9) | 7:39 |
 
-Snapshot ID: `MCwxOTVjMzI2ZjI5NTA0NjgxNzJkZGYzZDRlZmVkNjJjMjE4NGNlMTU0`
+Snapshot ID: `MCw1ZGM3YjZkYmU0N2IyMjhiMzlkYmZlYjkwOThiNWUyOGY0NTVlMjIy`

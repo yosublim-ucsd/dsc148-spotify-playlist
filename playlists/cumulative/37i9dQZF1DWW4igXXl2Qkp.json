@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new hip-hop music by independent artists and labels. Cover: Chris Patrick\n",
+  "description": "The best new hip-hop music by independent artists and labels. Cover: Paris Texas performing at Fresh Finds Chicago March 2024\n",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -731,6 +731,24 @@
     },
     {
       "album": {
+        "name": "SATAY",
+        "url": "https://open.spotify.com/album/7aUQyGG6snU961QgaUPdzD"
+      },
+      "artists": [
+        {
+          "name": "Sheldon Sabastian",
+          "url": "https://open.spotify.com/artist/3TVN22ppuxvrMtVOIGFYYn"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139459,
+      "name": "A Man Once Depressed",
+      "url": "https://open.spotify.com/track/7w9aym3ftmlmYWmVFK1bE8"
+    },
+    {
+      "album": {
         "name": "Accept It",
         "url": "https://open.spotify.com/album/3DQcyHctMbdm5Ku0NTyJ9o"
       },
@@ -1126,7 +1144,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 127500,
       "name": "All is well",
       "url": "https://open.spotify.com/track/0LUYZQVMi2LctaRmXVimA0"
@@ -2190,7 +2208,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 147702,
       "name": "BARCELONA",
       "url": "https://open.spotify.com/track/70Pxlv6OpjLTGwtUQhRLwa"
@@ -2588,6 +2606,36 @@
       "duration_ms": 161109,
       "name": "Big Bandz (feat. MDMA)",
       "url": "https://open.spotify.com/track/6IlvWJ5mKeBQg8sqNDslI1"
+    },
+    {
+      "album": {
+        "name": "Pigeons & Planes presents: See You Next Year 2",
+        "url": "https://open.spotify.com/album/2HmJbK4LHezgshv0V4m9bi"
+      },
+      "artists": [
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        },
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        },
+        {
+          "name": "See You Next Year",
+          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
+        },
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "Big Bank",
+      "url": "https://open.spotify.com/track/61IrD4hmjsM5myqBWmeZc7"
     },
     {
       "album": {
@@ -5696,7 +5744,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 232615,
       "name": "Don't Make No Sense",
       "url": "https://open.spotify.com/track/5zdQslM9L6djad729h1VuO"
@@ -6832,7 +6880,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 124712,
       "name": "Feel Myself",
       "url": "https://open.spotify.com/track/5UZDa68agfhGslaVVOKphN"
@@ -9074,7 +9122,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 180000,
       "name": "How?! (feat. Niontay)",
       "url": "https://open.spotify.com/track/5IPSlwgpJskSg5i7m2JAmr"
@@ -11847,6 +11895,24 @@
     },
     {
       "album": {
+        "name": "Make A Play",
+        "url": "https://open.spotify.com/album/7o8z0ZVk2NdQ9VM20m0SNr"
+      },
+      "artists": [
+        {
+          "name": "Kolo",
+          "url": "https://open.spotify.com/artist/1rsA71w7RvNFRojjnFzHcG"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168795,
+      "name": "Make A Play",
+      "url": "https://open.spotify.com/track/4nepgSbu8QPoUSlZU4x5Mf"
+    },
+    {
+      "album": {
         "name": "Make Em Say",
         "url": "https://open.spotify.com/album/1xodCstcsyZOs4VwKQr6uC"
       },
@@ -12072,6 +12138,32 @@
       "duration_ms": 208000,
       "name": "Mazel Tron",
       "url": "https://open.spotify.com/track/5Ex5aIXLQimPjhiRUZjtre"
+    },
+    {
+      "album": {
+        "name": "MCM",
+        "url": "https://open.spotify.com/album/6GYE0YLxKrAeABjsSDAS47"
+      },
+      "artists": [
+        {
+          "name": "Duckman",
+          "url": "https://open.spotify.com/artist/58PwAP3Hd18RMVdxW1MbZj"
+        },
+        {
+          "name": "Black Soprano Family",
+          "url": "https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222315,
+      "name": "MCM",
+      "url": "https://open.spotify.com/track/2AcBGL0khduY6lIOii1QUj"
     },
     {
       "album": {
@@ -14052,7 +14144,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 124800,
       "name": "No Reason",
       "url": "https://open.spotify.com/track/02zVMezpAua7ZMmbzSyejO"
@@ -15255,6 +15347,24 @@
     },
     {
       "album": {
+        "name": "Pocket Watching",
+        "url": "https://open.spotify.com/album/3hvGGCN06TaNbCAG6uoP3o"
+      },
+      "artists": [
+        {
+          "name": "408 Darwin",
+          "url": "https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135466,
+      "name": "Pocket Watching",
+      "url": "https://open.spotify.com/track/0Wd9CVoO7y9wnDorEg9Gml"
+    },
+    {
+      "album": {
         "name": "Pogo Stick",
         "url": "https://open.spotify.com/album/3TpiW7u9Ja6qQj2K7znFiW"
       },
@@ -15852,7 +15962,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 100312,
       "name": "Rainy Day In Hollywood",
       "url": "https://open.spotify.com/track/0cFVYyzDFk9aogAMXP91yI"
@@ -15980,6 +16090,36 @@
       "duration_ms": 185142,
       "name": "Ready To Ride",
       "url": "https://open.spotify.com/track/2UwIUkE4rQk7dup2dOWgSY"
+    },
+    {
+      "album": {
+        "name": "REAL",
+        "url": "https://open.spotify.com/album/16D9s7sxlxWgC6MotMmGM9"
+      },
+      "artists": [
+        {
+          "name": "Paris Price",
+          "url": "https://open.spotify.com/artist/6rt9RysQUXJjzYXaIXdXu7"
+        },
+        {
+          "name": "Phoelix",
+          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
+        },
+        {
+          "name": "HUE SOUND",
+          "url": "https://open.spotify.com/artist/3BsGKNayMq7tYR01UU13z6"
+        },
+        {
+          "name": "Mad Keys",
+          "url": "https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122686,
+      "name": "REAL",
+      "url": "https://open.spotify.com/track/217TmpbCNpVPISJYmAdxlu"
     },
     {
       "album": {
@@ -16884,6 +17024,28 @@
       "duration_ms": 163872,
       "name": "Score Or Die",
       "url": "https://open.spotify.com/track/6VLv4EhaNR5SRfVEpleoWs"
+    },
+    {
+      "album": {
+        "name": "ANDY",
+        "url": "https://open.spotify.com/album/3iXUvQhZEDrYkxokNiqGVk"
+      },
+      "artists": [
+        {
+          "name": "Jynx716",
+          "url": "https://open.spotify.com/artist/0Vo0ZXY4vL2VZn6McDBYKD"
+        },
+        {
+          "name": "Che Noir",
+          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177519,
+      "name": "Second Impression",
+      "url": "https://open.spotify.com/track/6neBWc8JXo3T3CRdRFg7zp"
     },
     {
       "album": {
@@ -18774,7 +18936,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 148994,
       "name": "TAKE TIME FOR MYSELF",
       "url": "https://open.spotify.com/track/483fOSKLspJj5Lk7X7EKt8"
@@ -19662,6 +19824,28 @@
       "duration_ms": 150883,
       "name": "Ton1ght (Bonus)",
       "url": "https://open.spotify.com/track/1AxglUIgkkLQ0RnMI67e3f"
+    },
+    {
+      "album": {
+        "name": "Too Busy Winnin",
+        "url": "https://open.spotify.com/album/01mXBMtSXub3q3ZgpCjgcK"
+      },
+      "artists": [
+        {
+          "name": "Billacheck",
+          "url": "https://open.spotify.com/artist/4UfNNfhp5pt4iQcF4TMKMH"
+        },
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203129,
+      "name": "Too Busy Winnin",
+      "url": "https://open.spotify.com/track/5fQ7vuILKHWjPumVvPGVZ7"
     },
     {
       "album": {
@@ -20674,7 +20858,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 147517,
       "name": "WAITONME",
       "url": "https://open.spotify.com/track/5UCMgaqTE8LCLU94ZzhDVm"
@@ -21288,7 +21472,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 149565,
       "name": "who?",
       "url": "https://open.spotify.com/track/6GO4Wjcz1yiZHtPBE4DzAJ"

@@ -2,7 +2,7 @@
 
 ### [Raï Hits](https://open.spotify.com/playlist/37i9dQZF1DXb7WmotStdsj)
 
-> Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
+> Les meilleurs tubes Raï du moment que vous entendez partout.
 
 197 songs - 16 hr 1 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,951 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,992 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 33 | [Bruises \- Steve Void Remix](https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB), [Steve Void](https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt) | [Bruises EP](https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR) | 3:32 |
 | 34 | [Dance Alone \(Kito Remix\)](https://open.spotify.com/track/3pPGUUSytWxsBTWpRxV6QC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [Dance Alone \(Kito Remix\)](https://open.spotify.com/album/0QPJ40cXdOLGrLDcLjVsmo) | 3:09 |
 | 35 | [JOY \(Back On 74\)](https://open.spotify.com/track/0K2PQziTagDXHiCFPqoE82) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Back on 74\)](https://open.spotify.com/album/4HYWB8dT9bJHIZnVLU2D6z) | 4:31 |
-| 36 | [Alibi \(feat\. Rudimental\) \- Joel Corry Remix](https://open.spotify.com/track/4ufh4uvxSmJCRsR85b96be) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Alibi \(feat\. Rudimental\) \[Joel Corry Remix\]](https://open.spotify.com/album/5dY7Ol2aeGlG0LdeIkIrdG) | 2:22 |
-| 37 | [My Head & My Heart \- Claptone Remix](https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [My Head & My Heart \(Claptone Remix\)](https://open.spotify.com/album/5t9BpDVQZu6T7H7qZPqlth) | 3:02 |
+| 36 | [My Head & My Heart \- Claptone Remix](https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [My Head & My Heart \(Claptone Remix\)](https://open.spotify.com/album/5t9BpDVQZu6T7H7qZPqlth) | 3:02 |
+| 37 | [Alibi \(feat\. Rudimental\) \- Joel Corry Remix](https://open.spotify.com/track/4ufh4uvxSmJCRsR85b96be) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Alibi \(feat\. Rudimental\) \[Joel Corry Remix\]](https://open.spotify.com/album/5dY7Ol2aeGlG0LdeIkIrdG) | 2:22 |
 | 38 | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in) | 3:42 |
 | 39 | [Heat Waves \- Oliver Heldens Remix](https://open.spotify.com/track/65xvfgI2nNrOYHhGUzw9XP) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0E2xXn23qVmfx9ThZjWFBE) | 4:03 |
 | 40 | [Padam Padam \(Jax Jones Remix\)](https://open.spotify.com/track/6Ow5yGcdb7YhjRmZJ2cViv) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Padam Padam \(Jax Jones Remix\)](https://open.spotify.com/album/6eg4SmA5q6IwAfRJ3r140S) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 49 | [Life Goes On \- Alok Remix](https://open.spotify.com/track/7Gwx8Ry5me7Mpd2oRQyikF) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Life Goes On \(Alok Remix\)](https://open.spotify.com/album/1U0bfwnhIZaygrKy4X2fX8) | 2:37 |
 | 50 | [Say So \(Jax Jones Midnight Snack Remix\)](https://open.spotify.com/track/7qrO2oI0A9DW6wQPjSADxx) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Say So \(Jax Jones Midnight Snack Remix\)](https://open.spotify.com/album/6pbeqvCzbgBigh3zo8SSit) | 3:30 |
 
-Snapshot ID: `MCwzNmVkZTcxZmU0YmU5ZGNjNmMzNmM4ODM5YjAzNDBiZTA3M2Q2ZjJl`
+Snapshot ID: `MCxmNmZkNWM2NWViMGU2YWFhOTNmZTY3NWM5YTY1MjhkMjBlMjg3MDRj`

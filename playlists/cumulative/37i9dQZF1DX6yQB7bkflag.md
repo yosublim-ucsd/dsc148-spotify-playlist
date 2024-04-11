@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Lizzy McAlpine
 
-291 songs - 17 hr 20 min
+292 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [Legenda \- Remastered 2023](https://open.spotify.com/track/3dziFZM7rTwW4v7dR5d2a4) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Legenda \(Remastered 2023\)](https://open.spotify.com/album/6yS1yt5EHwUnwJZ1M90Qze) | 4:59 | 2024-01-18 | 2024-01-26 |
 | [Lelaki Itu](https://open.spotify.com/track/1XxewgFF7Wp6jHhze78x75) | [Aquene](https://open.spotify.com/artist/03yjA4IJBNUY1wOW6v5kqL) | [Lelaki Itu](https://open.spotify.com/album/5OnPy8zI63UE2deTL09U1I) | 4:25 | 2024-01-18 | 2024-02-10 |
 | [Let It Rain](https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Let It Rain](https://open.spotify.com/album/4IZbTGF4UTaEFRHDrA8rIC) | 3:30 | 2024-01-18 | 2024-03-22 |
-| [Lewat Doa](https://open.spotify.com/track/1IhVdSpDJV4ASULOTALD3P) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Lewat Doa](https://open.spotify.com/album/1yTMN5y852AZFeViX6rrKz) | 4:18 | 2024-03-28 |  |
+| [Lewat Doa](https://open.spotify.com/track/1IhVdSpDJV4ASULOTALD3P) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Lewat Doa](https://open.spotify.com/album/1yTMN5y852AZFeViX6rrKz) | 4:18 | 2024-03-28 | 2024-04-11 |
+| [Lewat Doa](https://open.spotify.com/track/47w31Y7t568KU7NC0sqCy9) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Lewat Doa](https://open.spotify.com/album/40Hol4DUyuiR00IWlfJ6vL) | 4:18 | 2024-04-08 |  |
 | [LiGhT rAiLs \*ੈ✩‧₊˚](https://open.spotify.com/track/2CKjPJ59ihAjVro074hFmW) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [LiGhT rAiLs \*ੈ✩‧₊˚](https://open.spotify.com/album/0Sl4hjNHwOrVq6rnexErGu) | 2:25 | 2024-01-18 | 2024-02-17 |
 | [Lighthouse](https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lighthouse](https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S) | 3:11 | 2024-01-18 | 2024-02-17 |
 | [lil' freak](https://open.spotify.com/track/6guIMfoWJvsCXQxNsAtWPN) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [lil' freak](https://open.spotify.com/album/3sEThxFC8DglKnXEokpmww) | 2:48 | 2024-03-28 |  |

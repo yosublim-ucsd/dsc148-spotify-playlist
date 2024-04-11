@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 137332,
+  "num_followers": 137388,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGVjZDk0ZDgzOGE3NWE5OWIzNWY0NjlhYjk3NTRkMWRmODc5OWVj",
+  "snapshot_id": "MCxjM2FlMTFjZTY2NzQzNThjODY4MDVlNjdiOGU4YTJmMjUwZWE0Y2Fh",
   "tracks": [
     {
       "added_at": null,
@@ -139,30 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Firm Foundation (He Won't)",
-        "url": "https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 524757,
-      "name": "Firm Foundation (He Won't)",
-      "url": "https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Move Your Heart",
         "url": "https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR"
       },
@@ -191,6 +167,30 @@
       "duration_ms": 465744,
       "name": "I Thank God (feat. Dante Bowe, Maryanne Joshua George & Aaron Moses)",
       "url": "https://open.spotify.com/track/3IBHk8pwBYyzlKYGVmoWQt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Firm Foundation (He Won't)",
+        "url": "https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 524757,
+      "name": "Firm Foundation (He Won't)",
+      "url": "https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2"
     },
     {
       "added_at": null,

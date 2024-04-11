@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 32282,
+  "num_followers": 32294,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzEyMTc5NGZjMWM5ODBkMmJkM2ZiYzU3NDc4YjMyZWNlZWI4NDJm",
+  "snapshot_id": "MCw3NGE3NzM2ZjAxNjdkZmE0ZWMxNzNiNTc0NjI5NmUwNGVlYzQ3MjNm",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 228506,
-      "name": "Love Is My Religion",
-      "url": "https://open.spotify.com/track/1HH9AYnSKZaPKgZUGuiDRf"
+      "duration_ms": 224413,
+      "name": "Beach In Hawaii",
+      "url": "https://open.spotify.com/track/4jKapTvg2oCpikdt0oFqf6"
     },
     {
       "added_at": null,
@@ -95,22 +95,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spin It Faster",
-        "url": "https://open.spotify.com/album/1T6SLtqelpeRnPQAG2ehKI"
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
       },
       "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        },
         {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 236217,
-      "name": "Spin It Faster",
-      "url": "https://open.spotify.com/track/65kIGQ8TIXVLKxcZahctVO"
+      "duration_ms": 228506,
+      "name": "Love Is My Religion",
+      "url": "https://open.spotify.com/track/1HH9AYnSKZaPKgZUGuiDRf"
     },
     {
       "added_at": null,
@@ -135,6 +131,26 @@
       "duration_ms": 243226,
       "name": "Cry Cry Cry",
       "url": "https://open.spotify.com/track/1VilEaotlgWLe02BEUIyZP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spin It Faster",
+        "url": "https://open.spotify.com/album/1T6SLtqelpeRnPQAG2ehKI"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 236217,
+      "name": "Spin It Faster",
+      "url": "https://open.spotify.com/track/65kIGQ8TIXVLKxcZahctVO"
     },
     {
       "added_at": null,
@@ -199,6 +215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
+        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 292863,
+      "name": "Roots, Rock, Reggae - Live",
+      "url": "https://open.spotify.com/track/2AVcwdUR9479DrbWDRK07l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Iron Lion Zion (feat. Ziggy Marley & ChocQuibTown)",
         "url": "https://open.spotify.com/album/2uKjJJ1dRu5ovo9PajxnPf"
       },
@@ -219,22 +251,6 @@
       "duration_ms": 270386,
       "name": "Iron Lion Zion (feat. Ziggy Marley & ChocQuibTown)",
       "url": "https://open.spotify.com/track/1sCfYZLKuW5OJ5AZQxIgj8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
-        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 292863,
-      "name": "Roots, Rock, Reggae - Live",
-      "url": "https://open.spotify.com/track/2AVcwdUR9479DrbWDRK07l"
     },
     {
       "added_at": null,
@@ -364,9 +380,9 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 188333,
-      "name": "Rainbow in the Sky",
-      "url": "https://open.spotify.com/track/2U7kXTPxWV8OS7ZR3muAJT"
+      "duration_ms": 201400,
+      "name": "Looking",
+      "url": "https://open.spotify.com/track/0P6g4X0sQlKCDp9mKSHsjl"
     },
     {
       "added_at": null,
@@ -432,9 +448,9 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 201400,
-      "name": "Looking",
-      "url": "https://open.spotify.com/track/0P6g4X0sQlKCDp9mKSHsjl"
+      "duration_ms": 188333,
+      "name": "Rainbow in the Sky",
+      "url": "https://open.spotify.com/track/2U7kXTPxWV8OS7ZR3muAJT"
     },
     {
       "added_at": null,
@@ -551,6 +567,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fly Rasta",
+        "url": "https://open.spotify.com/album/5nQixRPyGjTQnCc5GR1kKC"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "U-Roy",
+          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
+        }
+      ],
+      "duration_ms": 219906,
+      "name": "Fly Rasta (feat. U-Roy)",
+      "url": "https://open.spotify.com/track/7dFKiop2pzcDffeBNOXyPb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "More Family Time",
         "url": "https://open.spotify.com/album/2kHooAwZ8twZMTDzzpRvyf"
       },
@@ -567,6 +603,22 @@
       "duration_ms": 191278,
       "name": "Garden Song of Miracles (feat. Stephen Marley)",
       "url": "https://open.spotify.com/track/3Potk2QPnD4Oc9jvgPUYZ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
+        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 306002,
+      "name": "One Love/People Get Ready - Live",
+      "url": "https://open.spotify.com/track/72O23qlY7x6kh45WWhAhZB"
     },
     {
       "added_at": null,
@@ -591,42 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
-        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 306002,
-      "name": "One Love/People Get Ready - Live",
-      "url": "https://open.spotify.com/track/72O23qlY7x6kh45WWhAhZB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fly Rasta",
-        "url": "https://open.spotify.com/album/5nQixRPyGjTQnCc5GR1kKC"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "U-Roy",
-          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
-        }
-      ],
-      "duration_ms": 219906,
-      "name": "Fly Rasta (feat. U-Roy)",
-      "url": "https://open.spotify.com/track/7dFKiop2pzcDffeBNOXyPb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Long Story Short: Willie Nelson 90 (Live At The Hollywood Bowl)",
         "url": "https://open.spotify.com/album/3FSyqiY2cUZTeCoQaJDHBM"
       },
@@ -643,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ziggy Marley",
-        "url": "https://open.spotify.com/album/7fIN5avPoJja6R05c0h0NI"
+        "name": "Wild And Free",
+        "url": "https://open.spotify.com/album/3JhnFg804zHUlIRjByYytY"
       },
       "artists": [
         {
@@ -652,9 +668,9 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 267306,
-      "name": "Weekend's Long",
-      "url": "https://open.spotify.com/track/4Y2GDsWFPYA7ijDSYB4m9Y"
+      "duration_ms": 294106,
+      "name": "Personal Revolution",
+      "url": "https://open.spotify.com/track/6pkW8i62ePJGccr8fsVqIY"
     },
     {
       "added_at": null,
@@ -675,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild And Free",
-        "url": "https://open.spotify.com/album/3JhnFg804zHUlIRjByYytY"
+        "name": "Ziggy Marley",
+        "url": "https://open.spotify.com/album/7fIN5avPoJja6R05c0h0NI"
       },
       "artists": [
         {
@@ -684,9 +700,9 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 294106,
-      "name": "Personal Revolution",
-      "url": "https://open.spotify.com/track/6pkW8i62ePJGccr8fsVqIY"
+      "duration_ms": 267306,
+      "name": "Weekend's Long",
+      "url": "https://open.spotify.com/track/4Y2GDsWFPYA7ijDSYB4m9Y"
     },
     {
       "added_at": null,
@@ -931,22 +947,6 @@
       "duration_ms": 260853,
       "name": "Family Time (feat. Judah Marley)",
       "url": "https://open.spotify.com/track/34OvVyZ6Vq0AcAnI6LMnjM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ziggy Marley",
-        "url": "https://open.spotify.com/album/1flAWuCR67R6HOsoLTE4xf"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 201800,
-      "name": "Start It Up",
-      "url": "https://open.spotify.com/track/0MT9KFAob9TAw1FlMweOGi"
     }
   ],
   "unique_name": "This Is Ziggy Marley",

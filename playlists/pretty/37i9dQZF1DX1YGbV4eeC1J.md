@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > Exceptionally vivid Swahili love stories for you and yours\.  Cover: Phina
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,621 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,654 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 49 | [Aló](https://open.spotify.com/track/1PCqgmYwQQfZtDXSYvcAXy) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Aló](https://open.spotify.com/album/0556miRSxmC7vGyTZuZ5Ex) | 2:56 |
 | 50 | [Angel & Demon](https://open.spotify.com/track/1qc2kAS8FbSUpA6p9Iqy3G) | [Kivumbi King](https://open.spotify.com/artist/3HUSbkQozU4gXUD82jAbRv), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Angel & Demon](https://open.spotify.com/album/2lP03gWGjSZvi5QqADbDY3) | 2:53 |
 
-Snapshot ID: `MCxhNTM5ZDVlMTRhMWE1NDU4ZDAwNTA3NTEzYTZhM2JiNzc2MjFlNTQ2`
+Snapshot ID: `MCwzOTkzMDdjYmMyN2UxMGU5NWUwODk2YjdiZGJhMTc0ZGZhNTgxY2U5`

@@ -2,9 +2,9 @@
 
 ### [RADAR India](https://open.spotify.com/playlist/37i9dQZF1DWTAtTdFMiJYK)
 
-> Most exciting artists from the Indian Indie scene\. Cover: Swastik The Band
+> Most exciting artists from the Indian Indie scene\. Cover: RANJ x Clifr
 
-294 songs - 17 hr 8 min
+296 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Barsatein](https://open.spotify.com/track/4XBADEVfEfWxOZRhreFt2T) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Barsatein](https://open.spotify.com/album/6HUDcDyuJl4soXxx464G6a) | 3:42 | 2023-01-31 | 2023-08-07 |
 | [Barsatein](https://open.spotify.com/track/4k7cZkLNUXl5qK81CskzLe) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Barsatein](https://open.spotify.com/album/5IlxdyEqP1PEobICaKQXZ0) | 3:42 | 2023-08-08 | 2023-08-11 |
 | [Barse](https://open.spotify.com/track/6wV51vPTYtewZNGDpHcwWi) | [ZOH](https://open.spotify.com/artist/1T5V8R7QKMhQImEdKNDyFU), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [Barse](https://open.spotify.com/album/6It9s6jgRF07GUUf28VFSK) | 4:00 | 2022-11-01 | 2024-03-11 |
+| [Barse More Naina](https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Barse More Naina](https://open.spotify.com/album/0xVOTxx8rhWsD25L6sw6jg) | 3:18 | 2024-04-10 |  |
 | [Bazaar](https://open.spotify.com/track/5oNFYKJEIhdUUg9CEsyEQS) | [Alif](https://open.spotify.com/artist/66PL9mtBViWeqR2wUrS0Bk) | [Siyah \- Pt.2 \| Maazi](https://open.spotify.com/album/5xJ0TthXT6WOZtkXtPltTK) | 2:10 | 2022-01-10 | 2022-04-15 |
 | [Be Alright](https://open.spotify.com/track/543Bseh8jEwo0WGXX1CnuS) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Be Alright](https://open.spotify.com/album/5bXKOBmX9KFO5mB83SSPBq) | 3:01 | 2021-12-06 | 2022-01-11 |
 | [Be Easy](https://open.spotify.com/track/385HQiCjv8SupdPX2XAX8e) | [Chirag Todi](https://open.spotify.com/artist/44kXrtuLNc6FpMB8YNbMdE), [YodaDrunk](https://open.spotify.com/artist/1n1QC4XCxAiLh3pnnwiK7I) | [Be Easy](https://open.spotify.com/album/41nTEAqZy01P9q6XTxYNlK) | 2:59 | 2021-12-06 | 2022-01-11 |
@@ -82,7 +83,7 @@
 | [Easy Bake Easy Wake](https://open.spotify.com/track/37jlSwK5rjIOTvkzAeV21B) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Easy Bake Easy Wake](https://open.spotify.com/album/7oPrvDPosF3XdPCnhTIM0I) | 5:03 | 2022-01-10 | 2023-01-11 |
 | [Ehsaas](https://open.spotify.com/track/7jY3iEgqKEnVJLLYhkPex3) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Ehsaas](https://open.spotify.com/album/00Png6WHwGSedQksDn24w4) | 3:48 | 2022-04-07 | 2023-03-02 |
 | [Ek Din](https://open.spotify.com/track/6hFeEa1XPaw2bbHi8eFt4x) | [Raman Negi](https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB) | [Ek Din](https://open.spotify.com/album/61VF8aptPP2fs4Idcakhr1) | 5:00 | 2022-08-05 | 2023-07-22 |
-| [Ek Pal](https://open.spotify.com/track/4YmuwxEfzF5bXTuwg3sYbE) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Ek Pal](https://open.spotify.com/album/1NU5fBhBK0zR6Ei6FGw8Dl) | 4:31 | 2022-10-13 |  |
+| [Ek Pal](https://open.spotify.com/track/4YmuwxEfzF5bXTuwg3sYbE) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Ek Pal](https://open.spotify.com/album/1NU5fBhBK0zR6Ei6FGw8Dl) | 4:31 | 2022-10-13 | 2024-04-11 |
 | [Everything's Fine?](https://open.spotify.com/track/5dST1RxAvJtCeyogTnn6dr) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [Everything's Fine?](https://open.spotify.com/album/42zEB4XQfZXWn8pNGT7vF8) | 4:19 | 2021-12-06 | 2022-01-11 |
 | [Faasle](https://open.spotify.com/track/0s76ExpXyMGVBlKLUr683e) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Faasle](https://open.spotify.com/album/2xfAmgKBQroCYbDnl18me3) | 3:41 | 2022-01-31 | 2023-06-07 |
 | [Faasle](https://open.spotify.com/track/3vKclvEn6o2UyHl9WR6958) | [Kushal Chokshi](https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa) | [Bitter Sweet](https://open.spotify.com/album/1x1xYzNzlziGfjTGmYCKUl) | 3:08 | 2022-01-10 | 2023-01-11 |
@@ -227,6 +228,7 @@
 | [Roothe Saiyaan](https://open.spotify.com/track/6Y22M2lBDpfk1GEGYrsVrn) | [Keshav Tyohar](https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Reverse Prodigy](https://open.spotify.com/artist/6zXaDDbpZlywcU9kb61gHI) | [Roothe Saiyaan](https://open.spotify.com/album/4BfsyCJjVYQc8G3ZKDW5KN) | 2:58 | 2021-12-06 | 2023-01-11 |
 | [Roshni](https://open.spotify.com/track/2HG7HYy6d5aVAPoBNdWjs6) | [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd), [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx) | [NIKAMMA](https://open.spotify.com/album/0sco8sEz0VIAuAoJiHIAIp) | 3:51 | 2024-01-10 |  |
 | [Run to the Ocean](https://open.spotify.com/track/5LNCjqlDfOb8Pki1j1UWx5) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Run to the Ocean](https://open.spotify.com/album/7g114toMJHLl21XaZfh81e) | 4:10 | 2021-12-06 | 2022-01-11 |
+| [S.O.T.I\. \(Strangers On The Internet\)](https://open.spotify.com/track/06sNozukABz39ZsUtJuCj5) | [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [S.O.T.I\. \(Strangers On The Internet\)](https://open.spotify.com/album/6TMdWV3qpSH8irxIpDhKUk) | 2:46 | 2024-04-10 |  |
 | [Saacha Sahib](https://open.spotify.com/track/17aNTNL5QuHmomXRTeUpVN) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Saacha Sahib](https://open.spotify.com/album/4OuOdarOPimks7xemmkcPI) | 3:36 | 2022-02-10 | 2023-02-15 |
 | [Saajanwa](https://open.spotify.com/track/6NWgIuDeOr1Xeb4MZ1Bl6L) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Saajanwa](https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ) | 2:42 | 2023-11-06 |  |
 | [Saal](https://open.spotify.com/track/2S3erlZaNr7EGakVORv619) | [Ishpreet Singh](https://open.spotify.com/artist/0uYkdsYTX52nJ3iiER4rg9), [Khushraj Hussain](https://open.spotify.com/artist/2F4iyLhAJANxKrKl3Iw9Dh) | [Saal](https://open.spotify.com/album/5WZa0b0DV0zS6K3sEWAuKP) | 3:08 | 2022-03-21 | 2023-03-11 |
@@ -237,7 +239,7 @@
 | [Saawariya](https://open.spotify.com/track/4WUjl8l3t5yg2JCGeYa7DV) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Saawariya](https://open.spotify.com/album/1PRfv8sVJ5hIxwN2nunPha) | 3:22 | 2023-02-03 |  |
 | [Safar](https://open.spotify.com/track/69o9DthSQrg5Dy50OJ3Ly0) | [Usman Shaikh](https://open.spotify.com/artist/2YyTy4oKKkjKlRg0MKQsOl) | [Safar](https://open.spotify.com/album/7sTEKrKGCXyMFcfvZj4gFC) | 3:54 | 2022-03-22 | 2023-01-11 |
 | [Sahaare](https://open.spotify.com/track/0QPecwAlW2oX98JC0hGUV0) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Sahaare](https://open.spotify.com/album/3QzEFXJSJmKvraUIjfvoWf) | 3:08 | 2023-05-18 |  |
-| [Sajna](https://open.spotify.com/track/1DdS3bAkQtLdapb5hiSN9S) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Sajna](https://open.spotify.com/album/7039HqORwYMTeXxfWrrScw) | 4:26 | 2023-01-17 |  |
+| [Sajna](https://open.spotify.com/track/1DdS3bAkQtLdapb5hiSN9S) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Sajna](https://open.spotify.com/album/7039HqORwYMTeXxfWrrScw) | 4:26 | 2023-01-17 | 2024-04-11 |
 | [Sanware](https://open.spotify.com/track/4qBHgJWDMuWhgWwp2FFz7z) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Saurabh Jain](https://open.spotify.com/artist/20YBMuBchncywfuOulfmtG) | [Sanware](https://open.spotify.com/album/1MjMz9NFcXGDktqiB5h4r5) | 4:57 | 2022-01-17 | 2023-08-23 |
 | [Schoolbus](https://open.spotify.com/track/0kQW2QuxGyygGQAREdGILd) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [Issamood](https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW), [Tintin](https://open.spotify.com/artist/4UqI6vZZIuZAT4d2yzVnYA) | [593, Vol\. I](https://open.spotify.com/album/1UtL4DXUWM7Qs6TeL42I5I) | 2:28 | 2021-12-06 | 2022-01-11 |
 | [Semi Automatic Butane](https://open.spotify.com/track/1rN9zRk3KjZyYDTNKih1yi) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Semi Automatic Butane](https://open.spotify.com/album/3Z5Ozc5CVfx8Tojvj8Z8GY) | 3:29 | 2023-10-18 |  |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Aquí vive el hip\-hop mexicano\. C\-Kan, Dharius y Tiro Loko en la casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,740 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 824,944 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La Misión \(Episodio 4\)](https://open.spotify.com/track/3TAzpSBGCZvFe3XuHevWoW) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [La Misión \(Episodio 4\)](https://open.spotify.com/album/5TzgFVuMKUDiyYPtMiX66e) | 4:53 |
-| 2 | [Sangre Latina](https://open.spotify.com/track/6UFSmkCAWAX3dt85f1TBNA) | [Adehese](https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Shainy](https://open.spotify.com/artist/1dWbgySTFdOiYwHXESFqIJ), [Baruch Vázquez](https://open.spotify.com/artist/1ZsNbUQL75f4XEJ9tp6crS), [Full THM](https://open.spotify.com/artist/1wp3PNNbj7GpiXOQ1VemCy) | [Sangre Latina](https://open.spotify.com/album/18ROL4LADkNhuzfGNMgF7H) | 5:00 |
+| 2 | [Sangre Latina](https://open.spotify.com/track/6UFSmkCAWAX3dt85f1TBNA) | [Adehese](https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Shainy](https://open.spotify.com/artist/1dWbgySTFdOiYwHXESFqIJ), [Baruch Vázquez](https://open.spotify.com/artist/1ZsNbUQL75f4XEJ9tp6crS), [Full THM](https://open.spotify.com/artist/1wp3PNNbj7GpiXOQ1VemCy), [Carlos PM](https://open.spotify.com/artist/4DQt6FtqoyXxMp7G1Cvx65) | [Sangre Latina](https://open.spotify.com/album/18ROL4LADkNhuzfGNMgF7H) | 5:00 |
 | 3 | [Solita](https://open.spotify.com/track/5bZ1FNzTSeFOg58a4k00iQ) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Solita](https://open.spotify.com/album/4jnbjRmfIxT6M5ECYpXizH) | 3:22 |
 | 4 | [LEYENDA](https://open.spotify.com/track/45LzMBMAtMP6IeWBqd8mUR) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [LEYENDA](https://open.spotify.com/album/69TuNGeXi7iah9B755lakY) | 4:48 |
 | 5 | [Ahogándome en Alcohol](https://open.spotify.com/track/0T2SVUCPRmf2gUbGmgJXCT) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Ahogándome en Alcohol](https://open.spotify.com/album/2mzpFXzP8MMSCOp0YjpshS) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 49 | [Soy Un Malandrin](https://open.spotify.com/track/1T6iGIGjkE6FEmkC9QkCB7) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Soy Un Malandrin](https://open.spotify.com/album/0BsSKppeiHTt3HDGZe68V7) | 4:21 |
 | 50 | [GTA](https://open.spotify.com/track/41bLlBHtmIwjuAUaBP3Uho) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [GTA](https://open.spotify.com/album/7ozyczf9FNC3aPSV1A6kDW) | 2:41 |
 
-Snapshot ID: `MCwxODJjYjZlMjM2NzI0N2EzMDE0OGE4YmFmYTRiZWE1ZTQ4MDhhZjk4`
+Snapshot ID: `MCw2MDIwZjAyNmViYzdjMGZlODQ1YmI3ZTY4MDcxZDk2OTlkMTY3MTE4`

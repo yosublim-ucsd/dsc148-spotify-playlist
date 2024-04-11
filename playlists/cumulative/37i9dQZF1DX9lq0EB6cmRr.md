@@ -2,9 +2,9 @@
 
 ### [Classic K](https://open.spotify.com/playlist/37i9dQZF1DX9lq0EB6cmRr)
 
-> Listen hot and new Korean classical & new age  music in here! \(Cover: Yunchan Lim\(임윤찬\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
+> Listen hot and new Korean classical & new age  music in here! \(Cover: Danny Koo\(대니 구\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
 
-110 songs - 8 hr 57 min
+112 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Listen](https://open.spotify.com/track/4RFNTlSZ5P3H6gFhFkr994) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Listen](https://open.spotify.com/album/7KbMcDktADsrjGx6nFDccI) | 6:41 | 2023-09-13 |  |
 | [Love Again](https://open.spotify.com/track/6bM1AM7nvmkpFxUaH3eWk5) | [Paul Kim](https://open.spotify.com/artist/2FRCeQL1u1A7YLxXde0Y1R) | [Love Again](https://open.spotify.com/album/5tJbCZf6eQpp4CANZXG7fQ) | 3:27 | 2023-09-13 |  |
 | [Love Confession](https://open.spotify.com/track/24X5IqRxbwbz1ucMUWrkTE) | [John Noh](https://open.spotify.com/artist/1tPIuR4bDZafphfZrLXg13) | [Love Confession](https://open.spotify.com/album/6ucfdG0kBvVkHqoOT6A1SE) | 3:57 | 2023-09-13 |  |
+| [Love Letter](https://open.spotify.com/track/6bQr39dhQRzL6Ja1pkZ0g0) | [대니 구\(Danny Koo\)](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [MOONLIGHT](https://open.spotify.com/album/15nHJiMLYYFDgfryUskaAY) | 3:54 | 2024-04-10 |  |
 | [Lovely Night](https://open.spotify.com/track/5mMzR4exCSdokzXVQh2VOq) | [Hyunsoo Park](https://open.spotify.com/artist/5FFIobzpoENexOu1dXGd0s) | [Lovely Night](https://open.spotify.com/album/4lrTjfIh8foTGkaitpI39J) | 3:22 | 2023-09-13 |  |
 | [Magnolia](https://open.spotify.com/track/3ohdGaN55v20ZmO9pIvkty) | [YOONHAN](https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb) | [FLOWER](https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i) | 3:36 | 2023-09-13 |  |
 | [Make A Wish \(Birthday Song\) \- Orchestra Version](https://open.spotify.com/track/384VlAWxIQjjxoulQz0P54) | [SM Classics TOWN Orchestra](https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF) | [Make A Wish \(Birthday Song\) \[Orchestra Version\]](https://open.spotify.com/album/0fOonLfWvfoOYNaaVJyIp8) | 4:33 | 2024-02-21 |  |
@@ -100,6 +101,7 @@
 | [The War](https://open.spotify.com/track/6XxWCHSggKK5lmUGRe1oa0) | [LA POEM](https://open.spotify.com/artist/0FnUIVrcXuabu4ec2Wu1tG) | [THE WAR](https://open.spotify.com/album/36vxVW2Dnh8vpwOR7wdSNs) | 3:32 | 2023-09-13 |  |
 | [Tosca, SC 69, Act I: Recondita armonia](https://open.spotify.com/track/1fPMSIOJRNZLqhEitUupuk) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [MIN SEOK KIM](https://open.spotify.com/artist/27BEj1cGrS6dhkNRcX0aWM), [Korea Coop Orchestra](https://open.spotify.com/artist/1hz7jSaUzBkoK6jYLjoUcM), [Leonard Kwon](https://open.spotify.com/artist/5BzVHE5992wU1q8YVgTTfc) | [Aria D’amore](https://open.spotify.com/album/7E92fSvjhYJHEHu4H7fpha) | 2:49 | 2023-09-13 |  |
 | [Tree \- Orchestra Version](https://open.spotify.com/track/4Jd92aiHEfyHSf8IGlO9Ay) | [SM Classics TOWN Orchestra](https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF) | [Our Beloved BoA \#5 \- SM STATION](https://open.spotify.com/album/2qCFU2r5sHsVlffK3mclJs) | 4:29 | 2024-02-21 |  |
+| [Twilight Waltz](https://open.spotify.com/track/7psQSIK06QI8ijSG56AmpI) | [대니 구\(Danny Koo\)](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [MOONLIGHT](https://open.spotify.com/album/15nHJiMLYYFDgfryUskaAY) | 2:59 | 2024-04-10 |  |
 | [Two Pieces for Cello and Piano, Op.2 : I\. Prélude](https://open.spotify.com/track/6zI5QVxrwU3rOl03Ao5vzb) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Yoosin Park](https://open.spotify.com/artist/0d06TjR29UBzbk5QaHRsBI), [Ilya Rashkovskiy](https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB) | [White Night](https://open.spotify.com/album/7FB6YKYscqNfDvvJrDJtom) | 3:51 | 2023-09-13 |  |
 | [Une Vie Part 1](https://open.spotify.com/track/2tE7v0aS6S78AjerGVTqRH) | [Denis Sungho](https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp) | [Une Vie Full album](https://open.spotify.com/album/2fGe5nCYxVlSFIkk3VAw5p) | 4:13 | 2023-09-13 |  |
 | [Une Vie Part 1](https://open.spotify.com/track/66V6BzDDI5U9xEsrB5tTkK) | [Denis Sungho](https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp) | [Une Vie](https://open.spotify.com/album/35ZxJ2C6cLe4x9mkWrR4xL) | 4:13 | 2023-09-13 |  |

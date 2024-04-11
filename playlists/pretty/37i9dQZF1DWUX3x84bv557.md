@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Kraantje Pappie
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,057 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,063 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 2 | [Verder Gaan](https://open.spotify.com/track/6UmHcP85c9ithN6491OqGB) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Verder Gaan](https://open.spotify.com/album/0r77Nr0uGa2s6LjUhUn8nu) | 2:59 |
 | 3 | [Sugardaddy](https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Sugardaddy](https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf) | 2:11 |
 | 4 | [Is Dit Geluk?](https://open.spotify.com/track/7dYSfLscOlKorZ8w0CufbM) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Is Dit Geluk?](https://open.spotify.com/album/51dFIOwEKQqryRgGz1As6z) | 2:17 |
-| 5 | [Huilen In De Bioscoop](https://open.spotify.com/track/0dYQzM1CKG4OVZmdm08rv8) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Huilen In De Bioscoop](https://open.spotify.com/album/0oHj3DnR0rpVXptWzN9V6o) | 2:27 |
-| 6 | [Ralphie](https://open.spotify.com/track/0f2GSOCvtLTWJZNmVSCE1v) | [Matz Voskamp](https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd), [Ghazi](https://open.spotify.com/artist/0WQ05juCyNhLOY4sjYrpTK) | [Ralphie](https://open.spotify.com/album/5FY4guwMoh3L8DDy8dxCmf) | 2:41 |
-| 7 | [You & Me](https://open.spotify.com/track/6sX8CkFopBSOHX7PFS4VpI) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [You & Me](https://open.spotify.com/album/49Qtp4b1FhN4DNcjCW9qnJ) | 4:42 |
-| 8 | [Soms gaat de tijd zo snel](https://open.spotify.com/track/3o20NBEBiwh7xB5ByLHzNh) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [Soms gaat de tijd zo snel](https://open.spotify.com/album/2anvye5Ul8HSsufVusk8zQ) | 2:55 |
-| 9 | [Entourage](https://open.spotify.com/track/48kxfGK5XbO1eW8Cf4Vil7) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Entourage](https://open.spotify.com/album/3QuhArgaKaAgzXoh6Iggue) | 2:09 |
-| 10 | [Stick To Your Ways](https://open.spotify.com/track/3YU5kaYun2AdIII0AqFJRN) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Dromers Slapen Niet](https://open.spotify.com/album/7hD0o6qizBV3vivCFNHvqD) | 2:22 |
+| 5 | [Stick To Your Ways](https://open.spotify.com/track/3YU5kaYun2AdIII0AqFJRN) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Dromers Slapen Niet](https://open.spotify.com/album/7hD0o6qizBV3vivCFNHvqD) | 2:22 |
+| 6 | [Huilen In De Bioscoop](https://open.spotify.com/track/0dYQzM1CKG4OVZmdm08rv8) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Huilen In De Bioscoop](https://open.spotify.com/album/0oHj3DnR0rpVXptWzN9V6o) | 2:27 |
+| 7 | [Ralphie](https://open.spotify.com/track/0f2GSOCvtLTWJZNmVSCE1v) | [Matz Voskamp](https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd), [Ghazi](https://open.spotify.com/artist/0WQ05juCyNhLOY4sjYrpTK) | [Ralphie](https://open.spotify.com/album/5FY4guwMoh3L8DDy8dxCmf) | 2:41 |
+| 8 | [You & Me](https://open.spotify.com/track/6sX8CkFopBSOHX7PFS4VpI) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [You & Me](https://open.spotify.com/album/49Qtp4b1FhN4DNcjCW9qnJ) | 4:42 |
+| 9 | [Soms gaat de tijd zo snel](https://open.spotify.com/track/3o20NBEBiwh7xB5ByLHzNh) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [Soms gaat de tijd zo snel](https://open.spotify.com/album/2anvye5Ul8HSsufVusk8zQ) | 2:55 |
+| 10 | [Entourage](https://open.spotify.com/track/48kxfGK5XbO1eW8Cf4Vil7) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Entourage](https://open.spotify.com/album/3QuhArgaKaAgzXoh6Iggue) | 2:09 |
 | 11 | [Liever Dan Lief](https://open.spotify.com/track/45tt651zCvMR0Lq2xABBBo) | [KRISTAN](https://open.spotify.com/artist/23406Pq96EgLcng2suxLhT) | [Liever Dan Lief](https://open.spotify.com/album/2xBlCsxpTu5BjIToy8GeWI) | 3:26 |
 | 12 | [Wees Niet Bang](https://open.spotify.com/track/7jkWQ2e92jOyjjhj2ZwVem) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Wees Niet Bang](https://open.spotify.com/album/3wT5djJDPFupycW30g3lob) | 3:22 |
 | 13 | [Laat Me Nooit Meer Los \(Never Let Me Go\)](https://open.spotify.com/track/1prhH9cmEkXHnAprZ92Ake) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Laat Me Nooit Meer Los \(Never Let Me Go\)](https://open.spotify.com/album/5HJ2BolbLuIdB6fnpmQ5jc) | 3:27 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 59 | [Wat Als De Storm Komt](https://open.spotify.com/track/1gEBvpvyyQmDeG6Lpo7cwN) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW), [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Wat Als De Storm Komt](https://open.spotify.com/album/2lLQEEFu8bzGmhqpYQ3F8Q) | 3:03 |
 | 60 | [Dezelfde Maan](https://open.spotify.com/track/2whP8MoeFeJE7olMwdv1rL) | [Sterre Koning](https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB) | [Dezelfde Maan](https://open.spotify.com/album/1900kIZlwAIYxmGSosvfnR) | 3:05 |
 
-Snapshot ID: `MCwzYTA2MTRlMWM3MGI0MGVjNjI0MjA5OWFmZDMxMWZlMjAyYjAzNDFh`
+Snapshot ID: `MCwxOTc1NzYxYzY2ZGEzMTc5ZmI0ZDM4NjJjMDU3MjMwYTEwYTlkMzEy`

@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 32845,
+  "2024-04-11": 32852,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Romania.",
   "name": "Top 50 - Romania",
@@ -4857,7 +4857,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 146307,
       "name": "Cariceps",
       "url": "https://open.spotify.com/track/51E7KRgoeTzCJeilsoS2Cg"
@@ -6359,7 +6359,7 @@
       ],
       "date_added": "2021-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 141333,
       "name": "Cum O Dai Tu",
       "url": "https://open.spotify.com/track/5TL2ui5tdet8DSvZTaHZbe"
@@ -8447,7 +8447,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 148238,
       "name": "Ebal - From \u201cRomina VTM\u201d The Movie",
       "url": "https://open.spotify.com/track/4vc40DbwS0XjindGtlZkwq"
@@ -11463,6 +11463,24 @@
       "duration_ms": 156755,
       "name": "HA HA HA!",
       "url": "https://open.spotify.com/track/0VXCNAVWSLuuyWMg61cNw3"
+    },
+    {
+      "album": {
+        "name": "Habibi",
+        "url": "https://open.spotify.com/album/3pzaeGJg6nQExvJazlHbyy"
+      },
+      "artists": [
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130754,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/4EBATplQoU295eNOeONlAP"
     },
     {
       "album": {
@@ -28419,7 +28437,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 127976,
       "name": "TOTU' GATA",
       "url": "https://open.spotify.com/track/52KHk29WdiA2DhI5ijDMZh"
@@ -29655,6 +29673,32 @@
       "duration_ms": 253586,
       "name": "VENT'ANNI",
       "url": "https://open.spotify.com/track/6Vfo6O3hk38vDcSpazNo3p"
+    },
+    {
+      "album": {
+        "name": "VENTRICUL",
+        "url": "https://open.spotify.com/album/3XmcPiUcPPw0ZBdwlG29Mh"
+      },
+      "artists": [
+        {
+          "name": "Marko Glass",
+          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
+        },
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        },
+        {
+          "name": "Johnny",
+          "url": "https://open.spotify.com/artist/2kFXvDLajDe0RI6CsWJl6M"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160222,
+      "name": "VENTRICUL",
+      "url": "https://open.spotify.com/track/30ZMJORnHTwavYcuryU5vd"
     },
     {
       "album": {

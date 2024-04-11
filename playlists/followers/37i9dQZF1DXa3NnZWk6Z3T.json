@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 598295,
+  "2024-04-11": 598346,
   "date_first_scraped": "2021-12-30",
   "description": "Keep calm and enjoy this musical cafecito.",
   "name": "Caf\u00e9 con Leche",
@@ -1811,7 +1811,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 202826,
       "name": "desde que estas en mi vida",
       "url": "https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X"
@@ -2973,6 +2973,24 @@
     {
       "album": {
         "name": "Junto al Mar",
+        "url": "https://open.spotify.com/album/1NcPDfd2KYkHCi1mANvhLF"
+      },
+      "artists": [
+        {
+          "name": "Sofia Macchi",
+          "url": "https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278244,
+      "name": "Junto al Mar",
+      "url": "https://open.spotify.com/track/0UeMXtEAaFZGFQT4DejyaJ"
+    },
+    {
+      "album": {
+        "name": "Junto al Mar",
         "url": "https://open.spotify.com/album/20Ar89pZc5ITtvq4WyIDJB"
       },
       "artists": [
@@ -3837,7 +3855,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 181368,
       "name": "Mp3",
       "url": "https://open.spotify.com/track/0PWLHDSK39Kh8Adc83Ltw6"
@@ -6607,7 +6625,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 220000,
       "name": "\u00bfPara qu\u00e9?",
       "url": "https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS"

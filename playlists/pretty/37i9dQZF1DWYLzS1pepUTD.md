@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLzS1pepUTD.md) - [plain]
 
 > The essential entrance themes for the Superstars of <a href="https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX">WWE</a>\. \#MakeAnEntrance
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,740 likes - 82 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,944 likes - 82 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLzS1pepUTD.md) - [plain]
 | 81 | [WWE: Legacy Of The Ghost \(Santos Escobar\)](https://open.spotify.com/track/57do2RsTvIU9zr1JD5zH7r) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Legacy Of The Ghost \(Santos Escobar\)](https://open.spotify.com/album/4ooM3q9JMNUSb6Oc58S3mT) | 2:32 |
 | 82 | [WWE: I Won't Do What You Tell Me \(Stone Cold Steve Austin\) \[Original Theme\]](https://open.spotify.com/track/4vHR7NYZh2wbQ6jLlC0wdH) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Jim Johnston](https://open.spotify.com/artist/6irRU9KRGb0cMtlsBZMg2i) | [WWE: Stone Cold Steve Austin \(The Entrance Music\)](https://open.spotify.com/album/6G3gBUvVjaWTJXjYBln3K0) | 3:03 |
 
-Snapshot ID: `MCxlYzdmNzUzMDFlZTgwZmFiZjdhOWE2YWRmZmQ4MjMwMzlmNWE5NmFl`
+Snapshot ID: `MCwxYzA3YTkwNGE0YTE5ZTZhOWRjMjc3YTNhZGFhN2Y0ZGQxYmE1ZWY4`

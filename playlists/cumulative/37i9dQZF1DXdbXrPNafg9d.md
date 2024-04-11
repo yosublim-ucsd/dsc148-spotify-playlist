@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Khruangbin
 
-6,822 songs - 16 day 14 hr 22 min
+6,824 songs - 16 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1135,7 +1135,8 @@
 | [Clarity](https://open.spotify.com/track/65Q1A6yrq4ynGetAp29r1s) | [Hibou](https://open.spotify.com/artist/60S3PHPmmVaBxa0zrcAiHq) | [Clarity](https://open.spotify.com/album/3Nk0tl2Gus2bJ21WugYm2H) | 4:08 | 2019-07-05 | 2019-08-23 |
 | [CLASH \- Edit](https://open.spotify.com/track/4IPATLSUoEdsmqwxwNjr4g) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [CLASH](https://open.spotify.com/album/3teqPCjiUVKdmTONZZrrcv) | 3:30 | 2023-02-17 | 2023-04-01 |
 | [Classic City Girl](https://open.spotify.com/track/3sGCCc0FL1fhn1lQIIu6pv) | [Lokoy](https://open.spotify.com/artist/5kUcNb2wMcDP3fE51Q52Iv) | [Classic City Girl](https://open.spotify.com/album/5L4FB13FjnH27w9hp2R58f) | 2:09 | 2020-06-05 | 2020-06-19 |
-| [Classical](https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Classical](https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ) | 4:19 | 2024-03-15 |  |
+| [Classical](https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Classical](https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ) | 4:19 | 2024-03-15 | 2024-04-11 |
+| [Classical](https://open.spotify.com/track/4DlGLD32K7shuL8ub067DL) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:19 | 2024-03-15 |  |
 | [Claw Your Way Out](https://open.spotify.com/track/3HjohYDsYZg2KLhYjto8Hq) | [Pluralone](https://open.spotify.com/artist/5jQsMNuCW0iZeFTz6YUK8K) | [Claw Your Way Out](https://open.spotify.com/album/6ZXoRg5L8XMA7M3HC2QOpl) | 3:03 | 2022-02-11 | 2022-03-05 |
 | [claws](https://open.spotify.com/track/2KNgQ5Kf7T4ye2d4m82GwV) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Covers 2](https://open.spotify.com/album/1i2NlZ6K921BklfdpvZS1k) | 2:15 | 2021-01-23 | 2021-03-14 |
 | [Clay Pigeon](https://open.spotify.com/track/1yZyPhdJF5L60qDUeuwojc) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Clay Pigeon](https://open.spotify.com/album/1ACZGErPeFAM92avUZMvZZ) | 2:29 | 2021-05-22 | 2021-07-17 |
@@ -3761,7 +3762,8 @@
 | [Marvel Room \(feat\. Bon Iver\)](https://open.spotify.com/track/0RolGZOTW6ygV5BaZNc3sK) | [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Marvel Room](https://open.spotify.com/album/7a9QTgppwUrjlIf8GFTwjv) | 3:04 | 2023-06-09 | 2023-07-15 |
 | [Marvelous](https://open.spotify.com/track/5wkEdciZkVGiasumRPReSV) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Tell Me That It’s Over](https://open.spotify.com/album/5L6fAzbz2x5oF8l0qluSKm) | 2:22 | 2022-03-25 | 2022-04-23 |
 | [Mary Always](https://open.spotify.com/track/7IcLoOGPw7doy7iw9ciZUV) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mary Always](https://open.spotify.com/album/6QUYb9bb2XTcoM4O5qKRGR) | 3:14 | 2019-06-14 | 2019-08-13 |
-| [Mary Boone](https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Mary Boone](https://open.spotify.com/album/3BeMjbziyS6lCFnSel4Tsz) | 4:26 | 2024-03-29 |  |
+| [Mary Boone](https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Mary Boone](https://open.spotify.com/album/3BeMjbziyS6lCFnSel4Tsz) | 4:26 | 2024-03-29 | 2024-04-11 |
+| [Mary Boone](https://open.spotify.com/track/6OjwIdLlkjCLuOThOwODEY) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:26 | 2024-03-29 |  |
 | [Master Of My Own Mind](https://open.spotify.com/track/36R2553UOslgHKBhRgMdCb) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Always Tomorrow](https://open.spotify.com/album/4Y7Lc550FiGQYWzr3icx2j) | 3:16 | 2020-02-21 | 2020-03-13 |
 | [Matando](https://open.spotify.com/track/7k7vlfNo7gD2tP6UxJrG47) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [La Linda](https://open.spotify.com/album/00hYcSKigzR016vKD63ysl) | 3:35 | 2019-11-15 | 2020-01-17 |
 | [Matchmaker](https://open.spotify.com/track/2JtbeKqIexKBZXu4zu1siA) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Matchmaker](https://open.spotify.com/album/4TKUMKYMx4AGZqyPEM7DI6) | 3:47 | 2023-05-26 | 2023-06-24 |

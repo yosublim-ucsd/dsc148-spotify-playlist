@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fxXD138pp0.md) - [plain]
 
 > para andar en modo k\-poper alucín 🫰🏼🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,700 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,741 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fxXD138pp0.md) - [plain]
 | 74 | [Get A Guitar](https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Get A Guitar](https://open.spotify.com/album/4QzCT76QtPCyLinchwVt8l) | 2:40 |
 | 75 | [CRAZYZ](https://open.spotify.com/track/4zfQER4owi8q6NL8Gg63Ya) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 3:24 |
 
-Snapshot ID: `MCw0M2NjYWNiOGM4YTlhNDU3ZDc5ODMyNGM0NTRiMTNmYzBhMjQyNDgw`
+Snapshot ID: `MCxlZDQ0NWE0MGNmMTRlYzNiZTk2ZDE1YzAwMzNhNTBhNjY2OWE0ZWE5`

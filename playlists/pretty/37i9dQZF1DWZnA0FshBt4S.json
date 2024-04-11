@@ -1,12 +1,12 @@
 {
   "description": "The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk",
-  "num_followers": 106427,
+  "num_followers": 106478,
   "original_name": "Youth Group Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2ExY2RkYjQ1MzgyMGRmYzAxYjk4NTBjYTc4MTM4Nzk1MGQ3OGEy",
+  "snapshot_id": "MCxmN2QzZjk4Y2FmNmZmNTUwYTZmZWQyMjRjYTQxNjdmZTQ4YTJhMWQ5",
   "tracks": [
     {
       "added_at": "2023-02-01 04:53:20",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
+        "name": "Lay It Down",
+        "url": "https://open.spotify.com/album/5cxJJ5gekgM7WSbTtvO9H4"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Knapp",
+          "url": "https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/7HMBPVrRkwGuABMvMVTiys"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 284134,
       "name": "Free At Last - Live",
       "url": "https://open.spotify.com/track/5zmoHiyoqhSnoV9EGcYhYi"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
-        "name": "Lay It Down",
-        "url": "https://open.spotify.com/album/5cxJJ5gekgM7WSbTtvO9H4"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Knapp",
-          "url": "https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "Into You",
-      "url": "https://open.spotify.com/track/7HMBPVrRkwGuABMvMVTiys"
     },
     {
       "added_at": "2023-02-01 04:53:20",

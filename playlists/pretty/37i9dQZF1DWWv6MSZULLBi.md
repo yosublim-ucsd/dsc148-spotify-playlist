@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Jessica Pratt
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,009 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,015 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Sometimes the Darts Hit the Wall](https://open.spotify.com/track/2NOIMtgcRNmQ2n93ZbyukF) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936) | [Nothing Lasts Forever \(B\-Sides\)](https://open.spotify.com/album/3RtPgB29r2QpPfK5L6H00j) | 3:43 |
 | 100 | [What You Don’t Know](https://open.spotify.com/track/6tp9ZObhuYqZb1lNPyMXxf) | [Martin Kerr](https://open.spotify.com/artist/3Qg69CFtPUh3Uu14OfjV2t) | [What You Don't Know](https://open.spotify.com/album/1fKYAXIj2jDoT5amgBVbSc) | 2:59 |
 
-Snapshot ID: `MCxmMjVmYzU1NmFhZjJmNjg4N2RlOGYyOThkZjAxYWE1YTY2OGQyNzZk`
+Snapshot ID: `MCw4ZDQxNmNjZWMxMGNiN2E0Mzg4NTlhY2MwYTI5NzJlYWZkMzllZTM1`

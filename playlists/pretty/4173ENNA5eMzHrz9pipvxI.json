@@ -1,13 +1,222 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Lucas &amp; Steve x Lawrent x Jordan Shaw",
-  "num_followers": 120765,
+  "num_followers": 120755,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "NzQ4Niw2MDM2OGY2NDc4ZmY2MjdlN2I5NjJhZTEyOGExMDY0YTBmMjdmYThm",
-  "tracks": [],
+  "snapshot_id": "NzQ5MSxiYjVhZjQ2YTNmOWM1M2VjNDBmN2ZjNWIzMzQ3ZDY3OGQ4NGQ5NDk0",
+  "tracks": [
+    {
+      "added_at": "2024-04-10 11:32:05",
+      "album": {
+        "name": "End Of Time (feat. Jordan Shaw)",
+        "url": "https://open.spotify.com/album/0LOBvrnYTIvHZkLoDEWgWY"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "LAWRENT",
+          "url": "https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "duration_ms": 148960,
+      "name": "End Of Time (feat. Jordan Shaw)",
+      "url": "https://open.spotify.com/track/0g998xGTsjf9uTVJ9SksS4"
+    },
+    {
+      "added_at": "2024-04-10 11:32:05",
+      "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/19JTuhercisDkcrejs4eFu"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "22Bullets",
+          "url": "https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9"
+        }
+      ],
+      "duration_ms": 154191,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/269dhoLUrjVl8bSXyhdH6r"
+    },
+    {
+      "added_at": "2024-04-10 11:32:05",
+      "album": {
+        "name": "All the Things She Said",
+        "url": "https://open.spotify.com/album/6GxNLOlFGgl6J3cvLGN81l"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "KOPPY",
+          "url": "https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO"
+        }
+      ],
+      "duration_ms": 165299,
+      "name": "All the Things She Said",
+      "url": "https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx"
+    },
+    {
+      "added_at": "2024-04-10 11:32:05",
+      "album": {
+        "name": "Explode",
+        "url": "https://open.spotify.com/album/6PlqsS0firvxsrefOvbUOc"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+        }
+      ],
+      "duration_ms": 159374,
+      "name": "Explode",
+      "url": "https://open.spotify.com/track/4rnwQPqGNoHCQppYVdTZdu"
+    },
+    {
+      "added_at": "2024-04-10 11:32:05",
+      "album": {
+        "name": "Numbin' My Feelings",
+        "url": "https://open.spotify.com/album/5HPBGMfxTV1PbNyrxi4ZaT"
+      },
+      "artists": [
+        {
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+        },
+        {
+          "name": "Lee McKing",
+          "url": "https://open.spotify.com/artist/6gjwMfbDEX2vTmjsbiHJHK"
+        }
+      ],
+      "duration_ms": 186971,
+      "name": "Numbin' My Feelings",
+      "url": "https://open.spotify.com/track/3VCYw8SMFvbE644z69raqW"
+    },
+    {
+      "added_at": "2024-04-10 11:32:05",
+      "album": {
+        "name": "Mini Skirt",
+        "url": "https://open.spotify.com/album/41KC1B9vCozk31FXGBu0mU"
+      },
+      "artists": [
+        {
+          "name": "Reggio",
+          "url": "https://open.spotify.com/artist/1Q6CDBTFFKnanZ20DS2QnQ"
+        }
+      ],
+      "duration_ms": 144750,
+      "name": "Mini Skirt",
+      "url": "https://open.spotify.com/track/4uyOQKIqGPcKKvYN53WIjT"
+    },
+    {
+      "added_at": "2024-04-10 11:32:05",
+      "album": {
+        "name": "Liquor By The Litre (feat. P Money & Laurena Volant\u00e9) [Benny Page Remix]",
+        "url": "https://open.spotify.com/album/7ceqzm5cuwzDo58uy834K9"
+      },
+      "artists": [
+        {
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Benny Page",
+          "url": "https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1"
+        },
+        {
+          "name": "Laurena Volant\u00e9",
+          "url": "https://open.spotify.com/artist/7KI4ye1U84lYhq78qm1hCu"
+        }
+      ],
+      "duration_ms": 169310,
+      "name": "Liquor By The Litre (feat. P Money & Laurena Volant\u00e9) [Benny Page Remix]",
+      "url": "https://open.spotify.com/track/3JCER183EUlHgqaH6964wo"
+    },
+    {
+      "added_at": "2024-04-10 11:32:05",
+      "album": {
+        "name": "Gimme! Gimme! Gimme! (A Man After Midnight) [VINNE Remix]",
+        "url": "https://open.spotify.com/album/6KuS8bW4ao32LDvqUodpdz"
+      },
+      "artists": [
+        {
+          "name": "Le Pedre",
+          "url": "https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE"
+        },
+        {
+          "name": "VINNE",
+          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
+        }
+      ],
+      "duration_ms": 140142,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight) [VINNE Remix]",
+      "url": "https://open.spotify.com/track/1t92bd4xvLSf4jHb4OeDDH"
+    },
+    {
+      "added_at": "2024-04-10 11:32:05",
+      "album": {
+        "name": "I Got 5 On It",
+        "url": "https://open.spotify.com/album/0jQTt37lufq8NkLUYn3dYA"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 177160,
+      "name": "I Got 5 On It",
+      "url": "https://open.spotify.com/track/1Jbpfpf8ao084qOrbBbE1J"
+    },
+    {
+      "added_at": "2024-04-10 11:32:05",
+      "album": {
+        "name": "Dumb",
+        "url": "https://open.spotify.com/album/6kTbD89ZP1Tg9yj14QgvR1"
+      },
+      "artists": [
+        {
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+        },
+        {
+          "name": "Nikki Vianna",
+          "url": "https://open.spotify.com/artist/5YyGLejM00snCF1RJKlocJ"
+        }
+      ],
+      "duration_ms": 149032,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/6FURMXT8OfQ63MFePpVBYl"
+    }
+  ],
   "unique_name": "Spinnin' Records Brand New",
   "url": "https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI"
 }

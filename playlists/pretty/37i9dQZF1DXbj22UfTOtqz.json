@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del Hip Hop para toda la familia a disfrutar.",
-  "num_followers": 8718,
+  "num_followers": 8729,
   "original_name": "Historia del Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjAzZDY2YTJlMDBkMzBkMmFkNTA4ZDMwZGI0ZWZlMjYzZGUzZWNh",
+  "snapshot_id": "MCwzYzY0ZTc0ZGFjOTRhYTRjMmFjNGVkMDM3NmZhNjA2MzljMjQ3ZWMw",
   "tracks": [
     {
       "added_at": "2021-04-21 17:09:31",
@@ -147,6 +147,22 @@
     {
       "added_at": "2021-04-21 17:09:31",
       "album": {
+        "name": "Homebase",
+        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 270973,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
+    },
+    {
+      "added_at": "2021-04-21 17:09:31",
+      "album": {
         "name": "The Score (Expanded Edition)",
         "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 273093,
       "name": "No Woman, No Cry",
       "url": "https://open.spotify.com/track/5bUVHuzQh5mkvMPjUU074i"
-    },
-    {
-      "added_at": "2021-04-21 17:09:31",
-      "album": {
-        "name": "Homebase",
-        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
-        }
-      ],
-      "duration_ms": 270973,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
     },
     {
       "added_at": "2021-04-21 17:09:31",
@@ -252,29 +252,17 @@
       "added_at": "2021-04-21 17:09:31",
       "album": {
         "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/29pTiwvAAgbAjrl0g1twLy"
+        "url": "https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz"
       },
       "artists": [
         {
-          "name": "Fugees",
-          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        },
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        },
-        {
-          "name": "Pras",
-          "url": "https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD"
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
         }
       ],
-      "duration_ms": 290293,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/2HAVFycrhtbmLxyyxpm6JI"
+      "duration_ms": 177266,
+      "name": "The Fresh Prince of Bel-Air",
+      "url": "https://open.spotify.com/track/0UREO3QWbXJW3gOUXpK1am"
     },
     {
       "added_at": "2021-04-21 17:09:31",
@@ -328,17 +316,29 @@
       "added_at": "2021-04-21 17:09:31",
       "album": {
         "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz"
+        "url": "https://open.spotify.com/album/29pTiwvAAgbAjrl0g1twLy"
       },
       "artists": [
         {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+          "name": "Fugees",
+          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "name": "Pras",
+          "url": "https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD"
         }
       ],
-      "duration_ms": 177266,
-      "name": "The Fresh Prince of Bel-Air",
-      "url": "https://open.spotify.com/track/0UREO3QWbXJW3gOUXpK1am"
+      "duration_ms": 290293,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/2HAVFycrhtbmLxyyxpm6JI"
     },
     {
       "added_at": "2021-04-21 17:09:31",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > the best in hardcore\. open the pit w/ DRAIN.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,743 likes - 100 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,805 likes - 100 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 99 | [Poison Darts](https://open.spotify.com/track/0JVWDMYRBnxv5XLcR6dSU2) | [NØ MAN](https://open.spotify.com/artist/3YVOPyK3WSherrqK2E34CZ) | [Poison Darts](https://open.spotify.com/album/2RVbNuThMaCD4nQsz0KgE2) | 2:30 |
 | 100 | [Predator](https://open.spotify.com/track/1ybz0ZxYntBCRhT4XidpSZ) | [Exhibition](https://open.spotify.com/artist/3PXIpUyxwTbRam0fB84BKD) | [The Last Laugh](https://open.spotify.com/album/0jLiscuEhkYovlrf6u09Af) | 2:10 |
 
-Snapshot ID: `MCw4ZTEwMzI5MTdiMDBkYmQ5N2IwZjBlNzg5ZGQzNTUxNzgwNmIyNzVl`
+Snapshot ID: `MCwyOWExOTkwMWFkZTUxMzExNTI0ZTEwOTgxNjcxYmU2MzA1NTgyYWI5`

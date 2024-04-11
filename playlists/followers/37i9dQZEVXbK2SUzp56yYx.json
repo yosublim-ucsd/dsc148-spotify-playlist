@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 1408,
+  "2024-04-11": 1410,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Belarus.",
   "name": "Viral 50 - Belarus",
@@ -364,6 +364,32 @@
     },
     {
       "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169840,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o"
+    },
+    {
+      "album": {
         "name": "Meet The Lilithz",
         "url": "https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5"
       },
@@ -473,6 +499,24 @@
       "duration_ms": 142080,
       "name": "DARK ARIA <LV2>",
       "url": "https://open.spotify.com/track/5Mg4ZgUgR6whGObRh6UGn0"
+    },
+    {
+      "album": {
+        "name": "DICE AND ROLL",
+        "url": "https://open.spotify.com/album/7HjhTNKB0MZYWXiQF4VH5a"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120165,
+      "name": "DICE AND ROLL",
+      "url": "https://open.spotify.com/track/6yMGcFkUPJWW7Mwy5pY6GC"
     },
     {
       "album": {
@@ -613,7 +657,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 103807,
       "name": "Export",
       "url": "https://open.spotify.com/track/5AIhwRpAydVpQTZZWjgM0e"
@@ -707,7 +751,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 115200,
       "name": "Faster n Harder - Sped Up",
       "url": "https://open.spotify.com/track/6NUFdzl2bm1isRfSUd3bEl"
@@ -801,7 +845,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -1101,6 +1145,24 @@
       "duration_ms": 308826,
       "name": "I Don't Wanna Be Me",
       "url": "https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p"
+    },
+    {
+      "album": {
+        "name": "I LIKE THE WAY YOU KISS ME (TECHNO VERSION)",
+        "url": "https://open.spotify.com/album/2MGrsQIVIhp7qjAL7NzQmu"
+      },
+      "artists": [
+        {
+          "name": "KETNO",
+          "url": "https://open.spotify.com/artist/5tuN2asQ2o024v4ZBIgzwx"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103441,
+      "name": "I LIKE THE WAY YOU KISS ME - TECHNO VERSION",
+      "url": "https://open.spotify.com/track/21qbjqn61TFQ5BHkCkTMQk"
     },
     {
       "album": {
@@ -1508,6 +1570,32 @@
     },
     {
       "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267706,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
+    },
+    {
+      "album": {
         "name": "Live @ Need 4 Beat",
         "url": "https://open.spotify.com/album/0fmNrkBP5fAqgWqf6ID6Jl"
       },
@@ -1604,6 +1692,24 @@
     },
     {
       "album": {
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160688,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
+    },
+    {
+      "album": {
         "name": "MAKE UP (FBL)",
         "url": "https://open.spotify.com/album/5WPQSiRMmFpe1A19A8SqI8"
       },
@@ -1633,7 +1739,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 221709,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
@@ -1765,7 +1871,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 114955,
       "name": "MONTAGEM DIAMANTE ROSA - SLOWED",
       "url": "https://open.spotify.com/track/6fdjPVlCwFryREAsmRHy4C"
@@ -2002,6 +2108,28 @@
     },
     {
       "album": {
+        "name": "Night of the Creeps",
+        "url": "https://open.spotify.com/album/12DtFyx5PTjYvFlrg71xr0"
+      },
+      "artists": [
+        {
+          "name": "Sadistik",
+          "url": "https://open.spotify.com/artist/3qgsChODA5iJM6AdA0rr21"
+        },
+        {
+          "name": "Sahtyre",
+          "url": "https://open.spotify.com/artist/1ZHmdzn0KzjEICyi9v6oDU"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "Night of the Creeps",
+      "url": "https://open.spotify.com/track/4XTEWE9cMFcFYpSJ7IPLD1"
+    },
+    {
+      "album": {
         "name": "Non Serviam",
         "url": "https://open.spotify.com/album/5Ym5OQHSm9LRCbeRONXjTo"
       },
@@ -2013,7 +2141,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 139428,
       "name": "Non Serviam",
       "url": "https://open.spotify.com/track/5SC4SXHEBcNUAquzmYOLHS"
@@ -2275,7 +2403,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 223255,
       "name": "Race",
       "url": "https://open.spotify.com/track/50gchdAhBUnVOLqQRyKE9L"
@@ -2735,7 +2863,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 146400,
       "name": "The Lost Soul Down x Stealing Alcohol",
       "url": "https://open.spotify.com/track/7nCettppAdQbRkKWau92t7"
@@ -2793,6 +2921,36 @@
       "duration_ms": 112423,
       "name": "TryToFriend",
       "url": "https://open.spotify.com/track/7vD6fJg66dEzbYXVvEyQCh"
+    },
+    {
+      "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228266,
+      "name": "Type Shit",
+      "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
     },
     {
       "album": {
@@ -3274,6 +3432,32 @@
     },
     {
       "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205346,
+      "name": "Young Metro",
+      "url": "https://open.spotify.com/track/3OxL6MuctgZp1e0zxoAZhH"
+    },
+    {
+      "album": {
         "name": "Yugoslavskiy Groove",
         "url": "https://open.spotify.com/album/6llF3dFiFrCjKyKnEHdLVy"
       },
@@ -3573,6 +3757,28 @@
       "duration_ms": 108375,
       "name": "\u0413\u0440\u043e\u0431\u043e\u0432\u0449\u0438\u043a\u0438",
       "url": "https://open.spotify.com/track/2NqCUYqbMgHsDmSxJMTjBa"
+    },
+    {
+      "album": {
+        "name": "\u0414\u0430 \u0445\u0443\u043d \u043f\u0430\u043e",
+        "url": "https://open.spotify.com/album/3OaTccbjsFBpPowUAc2Ppd"
+      },
+      "artists": [
+        {
+          "name": "Voskresenskii",
+          "url": "https://open.spotify.com/artist/4x79BOihyDga7T7R1ULYC3"
+        },
+        {
+          "name": "\u0410\u043a\u0443\u043b\u0430",
+          "url": "https://open.spotify.com/artist/3IQSKjY1c5XH8XONazaZVB"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140679,
+      "name": "\u0414\u0430 \u0445\u0443\u043d \u043f\u0430\u043e",
+      "url": "https://open.spotify.com/track/0AzQcXNkhZdbufx0n7bke2"
     },
     {
       "album": {
@@ -3914,6 +4120,50 @@
     },
     {
       "album": {
+        "name": "\u041a\u0430\u043a\u0430\u044f?",
+        "url": "https://open.spotify.com/album/4l5vDIyg4iFAIQ050QMGXc"
+      },
+      "artists": [
+        {
+          "name": "whyspurky",
+          "url": "https://open.spotify.com/artist/1KIeXmQtSdJhogky2IJIFB"
+        },
+        {
+          "name": "whylovly",
+          "url": "https://open.spotify.com/artist/26z9rMtxlbq8pwPJ9FfsFe"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176170,
+      "name": "\u041a\u0430\u043a\u0430\u044f?",
+      "url": "https://open.spotify.com/track/0lEQFpuJSpREmNlc2h3PA2"
+    },
+    {
+      "album": {
+        "name": "\u041a\u0430\u043a\u0430\u044f?",
+        "url": "https://open.spotify.com/album/4l5vDIyg4iFAIQ050QMGXc"
+      },
+      "artists": [
+        {
+          "name": "whyspurky",
+          "url": "https://open.spotify.com/artist/1KIeXmQtSdJhogky2IJIFB"
+        },
+        {
+          "name": "whylovly",
+          "url": "https://open.spotify.com/artist/26z9rMtxlbq8pwPJ9FfsFe"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160183,
+      "name": "\u041a\u0430\u043a\u0430\u044f? (Speed Up)",
+      "url": "https://open.spotify.com/track/2T41OZDWpiz5LTjyP6gZrX"
+    },
+    {
+      "album": {
         "name": "\u041a\u0438\u0441\u0442\u0438",
         "url": "https://open.spotify.com/album/7MknjLHIoWLa3hn4F7S4EE"
       },
@@ -3976,6 +4226,24 @@
     },
     {
       "album": {
+        "name": "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u044b\u0439 \u043a\u043e\u0442",
+        "url": "https://open.spotify.com/album/0kA9HsMf3OHZJcI18O79Ts"
+      },
+      "artists": [
+        {
+          "name": "Nezhnoe Eto",
+          "url": "https://open.spotify.com/artist/3uj4GPFTFyn2vVX5gq3Omn"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154080,
+      "name": "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u044b\u0439 \u043a\u043e\u0442",
+      "url": "https://open.spotify.com/track/1LiRjgMyfg1OGzS4jhgz5Q"
+    },
+    {
+      "album": {
         "name": "\u041b\u0410\u041c\u0410 \u041c\u0410\u041c\u0410",
         "url": "https://open.spotify.com/album/5aLqahllGBakC5T7rh6L73"
       },
@@ -3987,7 +4255,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 107636,
       "name": "\u041b\u0410\u041c\u0410 \u041c\u0410\u041c\u0410",
       "url": "https://open.spotify.com/track/7KHC8RbksoIbE6ww6oYbH5"
@@ -4473,7 +4741,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 159171,
       "name": "\u041f\u041e\u0414\u0410\u0420\u041e\u041a",
       "url": "https://open.spotify.com/track/1Mm9DXmUXT2xiCQAZPEEaK"
@@ -5038,6 +5306,24 @@
     },
     {
       "album": {
+        "name": "GOD SYSTEM",
+        "url": "https://open.spotify.com/album/4mOYvmMHqKHT81fcWBOFuF"
+      },
+      "artists": [
+        {
+          "name": "Kai Angel",
+          "url": "https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119172,
+      "name": "\u0425\u041e\u041b\u041e\u0414",
+      "url": "https://open.spotify.com/track/1d1l3aWJPR0dc3sNOHSZz4"
+    },
+    {
+      "album": {
         "name": "VERVERA",
         "url": "https://open.spotify.com/album/0xMm3ZELQN70XRixRkWLEp"
       },
@@ -5143,7 +5429,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 200100,
       "name": "\u0427\u0421\u0412",
       "url": "https://open.spotify.com/track/05wSx129HwVCEpXpjAXn6X"
@@ -5367,7 +5653,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 190850,
       "name": "\u273bH+3+\u042f\u0414\u273b7luCJIo0T6...",
       "url": "https://open.spotify.com/track/4hjRjhLvBIMUUhRjb7DACd"
@@ -5385,7 +5671,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 159000,
       "name": "\u30e9\u30d3\u30c3\u30c8\u30db\u30fc\u30eb",
       "url": "https://open.spotify.com/track/6CIQOFf01zQ9qJaqhD6rlH"

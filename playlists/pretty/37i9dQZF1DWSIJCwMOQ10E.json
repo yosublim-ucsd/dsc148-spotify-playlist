@@ -1,12 +1,12 @@
 {
   "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Gusi",
-  "num_followers": 95653,
+  "num_followers": 95659,
   "original_name": "Rumba Colombiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODNiMzQ2YzRiZmJhNzJlNTEwNzg4MjgzZTgzMGE3ODY4Y2Q0ZDk2",
+  "snapshot_id": "MCw2OWIwNTE3NTQzYmYzYzcxNmE2ODAwZThmNjA5MGY5N2VjNDg1MjMw",
   "tracks": [
     {
       "added_at": "2024-02-06 20:37:45",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-02-06 20:37:45",
       "album": {
-        "name": "Corazon Vallenato",
-        "url": "https://open.spotify.com/album/0TsndRPa1GLYdvsNEJ2VvZ"
-      },
-      "artists": [
-        {
-          "name": "Jose Luis Carrascal",
-          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
-        }
-      ],
-      "duration_ms": 298826,
-      "name": "Como Duele El Frio",
-      "url": "https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo"
-    },
-    {
-      "added_at": "2024-02-06 20:37:45",
-      "album": {
         "name": "Con Aroma de Mujer",
         "url": "https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 294040,
       "name": "Tarde Lo Conoci",
       "url": "https://open.spotify.com/track/3J8blQzr6m5cPAlrmoHe93"
+    },
+    {
+      "added_at": "2024-02-06 20:37:45",
+      "album": {
+        "name": "Corazon Vallenato",
+        "url": "https://open.spotify.com/album/0TsndRPa1GLYdvsNEJ2VvZ"
+      },
+      "artists": [
+        {
+          "name": "Jose Luis Carrascal",
+          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
+        }
+      ],
+      "duration_ms": 298826,
+      "name": "Como Duele El Frio",
+      "url": "https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo"
     },
     {
       "added_at": "2024-02-06 20:37:45",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-02-06 20:37:45",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/3fKpYMR0aoC3t8GqdnpL4u"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 286173,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/30RgZM0hngr1UOy4rs7WYf"
-    },
-    {
-      "added_at": "2024-02-06 20:37:45",
-      "album": {
         "name": "Vivo Pensando En Ti (feat. Maluma)",
         "url": "https://open.spotify.com/album/22GyzVcUc0jsXtnH6TqAyu"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 232306,
       "name": "Vivo Pensando En Ti (feat. Maluma)",
       "url": "https://open.spotify.com/track/0H7cz1bR7w9PulJL7Na774"
+    },
+    {
+      "added_at": "2024-02-06 20:37:45",
+      "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/3fKpYMR0aoC3t8GqdnpL4u"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 286173,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/30RgZM0hngr1UOy4rs7WYf"
     },
     {
       "added_at": "2024-02-06 20:37:45",

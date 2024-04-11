@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 47509,
+  "2024-04-11": 47527,
   "date_first_scraped": "2022-08-06",
   "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
   "name": "This Is Bonnie Raitt",
@@ -75,7 +75,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 143933,
       "name": "Any Day Woman - 2008 Remaster",
       "url": "https://open.spotify.com/track/6hH5c3iQ0z1RjyOuz4D0c2"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 309040,
       "name": "Live Wire",
       "url": "https://open.spotify.com/track/39YLkuJY39HjEtw1dgdptd"

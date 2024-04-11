@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbCdb6frP71o.md) - [plain]
 
 > Devotional tracks for an immersive Ramadan\. Cover: Atif Aslam
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,204 likes - 66 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,201 likes - 66 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbCdb6frP71o.md) - [plain]
 | 45 | [Taiba Ki Hai Yaad Aayi](https://open.spotify.com/track/701IIUKNVCLlkEzlM8NhWX) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Taiba Ki Hai Yaad Aayi](https://open.spotify.com/album/0sY9IlbolvqKiyW7Ozdb3F) | 5:13 |
 | 46 | [Dunya Ke Ae Musafir](https://open.spotify.com/track/2lGQATN7pcXQUq8vWdyuIy) | [Junaid Jamshed](https://open.spotify.com/artist/2DmMcw1UxHSzAEFrMY3r2D) | [Hadi Ul Anaam \- Islamic Nasheeds](https://open.spotify.com/album/7bWT109qJ7MyEElTYIv8cN) | 5:16 |
 | 47 | [Maula Ya Salle Wasalim](https://open.spotify.com/track/56R1LYhDu6VGXHrbu45wIa) | [Ahsan Noor](https://open.spotify.com/artist/2PTM4gVDYBUoYuA2xbvkpI) | [Rabi Alnoor Special \- Islamic Naats](https://open.spotify.com/album/3cbTGsALvpnqdnNNhtILsm) | 4:39 |
-| 48 | [Tere Sadqe Me Aaqa](https://open.spotify.com/track/5I6u0LL9y3cqvf7XN4Xx3F) | [Allama Bilal](https://open.spotify.com/artist/3jB5rgyVqgDCkBiHOnBC40) | [Tere Sadqe Me Aaqa](https://open.spotify.com/album/0G4kBuIo9MnPLtud5pdhqj) | 5:39 |
+| 48 | [Tere Sadqe Me Aaqa](https://open.spotify.com/track/5I6u0LL9y3cqvf7XN4Xx3F) | [Allama Hafiz Bilal Qadri](https://open.spotify.com/artist/7Mx07LnQpMC1doVAYDpNkf) | [Tere Sadqe Me Aaqa](https://open.spotify.com/album/0G4kBuIo9MnPLtud5pdhqj) | 5:39 |
 | 49 | [Zahe Muqaddar](https://open.spotify.com/track/5toG8BJcKjlxCj1BsuBDb4) | [Rafaqat Ali Khan](https://open.spotify.com/artist/5gb3fWXn6yqB3bztWCc3wz), [Ar Sonu](https://open.spotify.com/artist/0XFpn7dgJIgKTgJYNPwgtF), [Qari Waheed Zafar Qasmi](https://open.spotify.com/artist/2NkEXPNPJyiuIRnO9oTvnY) | [Zahe Muqaddar](https://open.spotify.com/album/6DwzacnTiRoAA4fEHDnDOP) | 4:29 |
 | 50 | [Har Waqt Tasawur Mein Madine Ki](https://open.spotify.com/track/2pKgtW5QiBvlxFPueS2UcW) | [Alhajj Muhammad Owais Raza Qadri](https://open.spotify.com/artist/52UAPLpDG9yHAp9ezBPpoE) | [Allah Hoo Allah Hoo Vol\. 106 \- Islamic Naats](https://open.spotify.com/album/1ihbzdAlZK4KrhWHV1kVV4) | 6:33 |
 | 51 | [Meetha Meetha Hai Mere Muhammad](https://open.spotify.com/track/0X1XcoPae4kWuPHhJilSa8) | [Prof Abdul Rauf Roofi](https://open.spotify.com/artist/5PN3WZWkenPLwkoI47lGG0) | [Famous Naats, Vol\. 2](https://open.spotify.com/album/7Ky6ZL8R6IkfWUSIDVb8ky) | 4:49 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbCdb6frP71o.md) - [plain]
 | 65 | [Gunahon Ki Aadat](https://open.spotify.com/track/4laPX6MLSSDYNJvwcNC8cX) | [Alhajj Muhammad Owais Raza Qadri](https://open.spotify.com/artist/52UAPLpDG9yHAp9ezBPpoE) | [Best Of Muhammad Owais Raza Qadri](https://open.spotify.com/album/4l0gR0xHaK9bi6rWZ2P7rF) | 5:22 |
 | 66 | [Faslon Ko Takalluf Hai](https://open.spotify.com/track/2iFS7fBDgUpfmknAAA4iLR) | [Mohsin Abbas Haider](https://open.spotify.com/artist/3AkuJRCDsbBy5tftVMtJOT) | [Faslon Ko Takalluf Hai](https://open.spotify.com/album/1ntrUgjwWMkZC8PZmXLAfm) | 4:34 |
 
-Snapshot ID: `MCw4NWIzN2RiYTljYzBkMDBkMWJmYjg4YjhiZDZkYWMzMjIwZGE3YTBh`
+Snapshot ID: `MCxhNjA3NDkzNTJiNDMyYmQ4MTg4MzM5ZmYwYjEwYmE5Yzk0ZWVhMjBl`

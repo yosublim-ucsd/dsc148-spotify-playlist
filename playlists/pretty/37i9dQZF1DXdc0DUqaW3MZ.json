@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 334606,
+  "num_followers": 334738,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzhkM2VlMTI0MzBhNDM3MDZiYzlhOGQyNmIyYmRmODFjNDdhOTQ2",
+  "snapshot_id": "MCxmOTFkNGUxMGExZTdjNzkwNDg0OGNjNDczYzAzMDVlNDI3YjAzZTRk",
   "tracks": [
     {
       "added_at": "2024-04-04 15:22:42",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
+        "name": "Be Patient",
+        "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
+      },
+      "artists": [
+        {
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+        }
+      ],
+      "duration_ms": 216793,
+      "name": "Be Patient",
+      "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
+    },
+    {
+      "added_at": "2024-04-04 15:22:42",
+      "album": {
         "name": "Sounds of My World",
         "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 287037,
       "name": "Summer In The Ends",
       "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
-    },
-    {
-      "added_at": "2024-04-04 15:22:42",
-      "album": {
-        "name": "Be Patient",
-        "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
-      },
-      "artists": [
-        {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
-        }
-      ],
-      "duration_ms": 216793,
-      "name": "Be Patient",
-      "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
     },
     {
       "added_at": "2024-04-04 15:22:42",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 194177,
-      "name": "Unrequited Love",
-      "url": "https://open.spotify.com/track/55odIfJy7sm2HkHf3n9Gha"
-    },
-    {
-      "added_at": "2024-04-04 15:22:42",
-      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS"
       },
@@ -1299,42 +1283,18 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
-        "name": "Small Moments",
-        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
       },
       "artists": [
         {
-          "name": "Dan Kye",
-          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
         }
       ],
-      "duration_ms": 315608,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB"
-    },
-    {
-      "added_at": "2024-04-04 15:22:42",
-      "album": {
-        "name": "Holier (JD. REID Remix feat. Shygirl)",
-        "url": "https://open.spotify.com/album/42At6bfdhnCcDuX2d3zhxh"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        },
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "JD. REID",
-          "url": "https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ"
-        }
-      ],
-      "duration_ms": 215063,
-      "name": "Holier - JD. REID Remix feat. Shygirl",
-      "url": "https://open.spotify.com/track/3SAGwjKKitPBNpgdi80ScD"
+      "duration_ms": 194177,
+      "name": "Unrequited Love",
+      "url": "https://open.spotify.com/track/55odIfJy7sm2HkHf3n9Gha"
     },
     {
       "added_at": "2024-04-04 15:22:42",
@@ -1351,6 +1311,42 @@
       "duration_ms": 179323,
       "name": "OUR LOVE (80'S)",
       "url": "https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O"
+    },
+    {
+      "added_at": "2024-04-04 15:22:42",
+      "album": {
+        "name": "Small Moments",
+        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
+      },
+      "artists": [
+        {
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+        }
+      ],
+      "duration_ms": 315608,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB"
+    },
+    {
+      "added_at": "2024-04-04 15:22:42",
+      "album": {
+        "name": "You Could Be",
+        "url": "https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI"
+      },
+      "artists": [
+        {
+          "name": "Anz",
+          "url": "https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt"
+        },
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        }
+      ],
+      "duration_ms": 218024,
+      "name": "You Could Be",
+      "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"
     }
   ],
   "unique_name": "Soultronic",

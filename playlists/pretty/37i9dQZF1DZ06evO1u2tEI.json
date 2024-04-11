@@ -1,12 +1,12 @@
 {
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 74084,
+  "num_followers": 74101,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWE1NzI2ZDgyM2U2Y2Q2ODMxMjI2NDIxMzIyMjBiN2U3NGZkNTdi",
+  "snapshot_id": "MCxjZTM4OTM2ZmU0NzAxYTc5MTQ0MTkyZTNlN2E1MmM3OGQzOTdhNWIz",
   "tracks": [
     {
       "added_at": null,
@@ -412,7 +412,7 @@
       "added_at": null,
       "album": {
         "name": "From A Basement On The Hill",
-        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
+        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 33800,
-      "name": "Ostrich And Chirping",
-      "url": "https://open.spotify.com/track/25OfkVstO0W60e8OHCggox"
+      "duration_ms": 269360,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/51LWYJAmtqHLYOQD1BKG9X"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 195893,
-      "name": "Sweet Adeline",
-      "url": "https://open.spotify.com/track/5KmMMmc1pXL5lL4HlR9Srz"
+      "duration_ms": 153466,
+      "name": "Oh Well, OK",
+      "url": "https://open.spotify.com/track/7AG284RTvcDG9uHt1NQIbu"
     },
     {
       "added_at": null,
@@ -476,7 +476,7 @@
       "added_at": null,
       "album": {
         "name": "From A Basement On The Hill",
-        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
+        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 269360,
-      "name": "Twilight",
-      "url": "https://open.spotify.com/track/51LWYJAmtqHLYOQD1BKG9X"
+      "duration_ms": 33800,
+      "name": "Ostrich And Chirping",
+      "url": "https://open.spotify.com/track/25OfkVstO0W60e8OHCggox"
     },
     {
       "added_at": null,

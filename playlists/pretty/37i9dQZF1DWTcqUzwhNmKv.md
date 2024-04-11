@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Alpha Wolf is on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,488,534 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,488,785 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [A Drone Opting Out Of The Hive](https://open.spotify.com/track/0CuZB4QJyWWlblKMxN7nTK) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [The Above](https://open.spotify.com/album/1InJp7zivXVxzyEPjNIX6C) | 3:21 |
 | 75 | [Continuum](https://open.spotify.com/track/4jC2qRTDoysT58AggsOij4) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Continuum](https://open.spotify.com/album/6SPHgzM88aGapELlm0vj4A) | 4:20 |
 
-Snapshot ID: `MCxiNTdjNTQ5ODc4YTY2YjAyM2Y0N2NhYzhkMWUzMzg4YzFkMGU1NjI1`
+Snapshot ID: `MCw0YTdjNTBkZTAwM2M4YWU1YjdmZWIxN2EwNGMxODk4MjJjNTBmMWVh`

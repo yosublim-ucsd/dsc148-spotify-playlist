@@ -4,7 +4,7 @@
 
 > This is Ebony\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 18 min
+48 songs - 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [8KG](https://open.spotify.com/track/2Q6tuyXDBYRPa0lu4uiIpr) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [8KG](https://open.spotify.com/album/3TNzyF3UlLqVAK3EHRwL5J) | 2:12 | 2023-12-30 | 2024-04-07 |
 | [8KG](https://open.spotify.com/track/4udduhNmtWkbdh5xP0hRJl) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [8KG](https://open.spotify.com/album/6wJy7soOIrPeUVYXEgyc0c) | 2:12 | 2024-04-07 |  |
 | [After](https://open.spotify.com/track/40D3BjcNrKXsn1dUNBGGJC) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 2:12 | 2023-12-30 |  |
-| [Bourbon](https://open.spotify.com/track/3a9UuunxKhSCrwWI0kr7jm) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8) | [Condessa](https://open.spotify.com/album/56GC33MRAGNUmiZ2gDulgf) | 1:45 | 2023-12-30 |  |
+| [Bourbon](https://open.spotify.com/track/3a9UuunxKhSCrwWI0kr7jm) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8) | [Condessa](https://open.spotify.com/album/56GC33MRAGNUmiZ2gDulgf) | 1:45 | 2023-12-30 | 2024-04-11 |
+| [Bourbon \- Ao Vivo no Estúdio MangoLab](https://open.spotify.com/track/4UMHhiFTQwywcStHOjKzVc) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym) | [Bourbon \(Ao Vivo no Estúdio MangoLab\)](https://open.spotify.com/album/5Z9yIfKWr5Z3gxSu1Akmw8) | 1:50 | 2024-04-11 |  |
 | [Bratz](https://open.spotify.com/track/30xwvoR89CZqAVdpxYQ6Ws) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Bratz](https://open.spotify.com/album/1uekeJ5YHFLhTer9KKHAwh) | 2:48 | 2023-12-30 |  |
 | [Bugatti](https://open.spotify.com/track/6BxOt3jbyRt1Jvqkqx806a) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Condessa](https://open.spotify.com/album/56GC33MRAGNUmiZ2gDulgf) | 1:55 | 2023-12-30 |  |
 | [Caneta](https://open.spotify.com/track/6pivmOyA8mAoCkhSE4H5rL) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 3:08 | 2023-12-30 |  |

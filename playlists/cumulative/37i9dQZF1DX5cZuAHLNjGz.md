@@ -2,13 +2,13 @@
 
 ### [Punjabi 101](https://open.spotify.com/playlist/37i9dQZF1DX5cZuAHLNjGz)
 
-> Ultimate 101 Punjabi Hits with Diljit and Saweetie
+> Ultimate 101 Punjabi Hits with Sidhu Moose Wala
 
-326 songs - 16 hr 51 min
+327 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [.45](https://open.spotify.com/track/4mym4dNc5XPEAXP7Orzq18) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d) | [.45](https://open.spotify.com/album/6vG52FnBHzc61469A3yiBs) | 2:40 | 2024-01-31 |  |
+| [.45](https://open.spotify.com/track/4mym4dNc5XPEAXP7Orzq18) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d) | [.45](https://open.spotify.com/album/6vG52FnBHzc61469A3yiBs) | 2:40 | 2024-01-31 | 2024-04-11 |
 | [100 Million](https://open.spotify.com/track/3EJslhR33350RLGMb6eOAg) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [100 Million](https://open.spotify.com/album/0DRD7GdJQNalHpKaLhM871) | 3:12 | 2024-01-18 | 2024-03-06 |
 | [12 Bande](https://open.spotify.com/track/6dgYHmc5yBnQFI4FSCbp6y) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [12 Bande](https://open.spotify.com/album/77Yf6yctxLgelDYlLk9k1u) | 3:24 | 2022-12-10 |  |
 | [2 Kamm](https://open.spotify.com/track/7sWYLvZXs3XIl9eFKBFEp0) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura) | [2 Kamm](https://open.spotify.com/album/5ocXx8clrayri1HefLYhv0) | 2:26 | 2022-12-10 | 2023-01-19 |
@@ -16,6 +16,7 @@
 | [25\-25](https://open.spotify.com/track/4aObqXLku7XQqfVQ8azYGo) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jalwa](https://open.spotify.com/album/5zOoQe3sBQ6o2EUead1B3h) | 3:35 | 2022-10-17 | 2023-10-07 |
 | [26 Blvd](https://open.spotify.com/track/3OK2VUpcjQQZAqGHw95N4G) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 3:32 | 2022-08-17 | 2022-10-08 |
 | [295](https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:30 | 2022-05-29 |  |
+| [410](https://open.spotify.com/track/0R1AZYXc34nfMaiengrkRc) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Offgrid](https://open.spotify.com/artist/7F8zSmymsU25wRm0x7R05Y) | [410](https://open.spotify.com/album/0kUrdWYhWYGz71c0jaGnJe) | 3:54 | 2024-04-10 |  |
 | [52 Bars](https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:34 | 2023-02-04 |  |
 | [8 ASLE](https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:41 | 2024-01-30 |  |
 | [8 Raflaan \(Extended Version\) \[feat\. Gurlej Akhtar\]](https://open.spotify.com/track/0bNWc1OJVrZ5S0MtysDiBL) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [8 Raflaan \(Extended Version\) \[feat\. Gurlej Akhtar\]](https://open.spotify.com/album/7Clb3HeoxYeH2Dbk1xH5si) | 3:33 | 2022-05-29 | 2023-04-12 |

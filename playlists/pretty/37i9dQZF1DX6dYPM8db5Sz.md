@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn?si=NjDnbRXMSPSoKNz9iWVChg">Henry Ate</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,340 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,344 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 11 | [Take Me to Church](https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:01 |
 | 12 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 |
 | 13 | [Chelsea Blakemore](https://open.spotify.com/track/7EGi0qRExGCKt76HRmCoBr) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [The Hanging Gardens Of Beatenberg](https://open.spotify.com/album/1LDSPYtniVN09zmRdd1meQ) | 3:37 |
-| 14 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 |
-| 15 | [It Was Always You \(Siempre Fuiste Tú\)](https://open.spotify.com/track/74XgsdImAXUs6VDcmYqbDl) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [It Was Always You \(Siempre Fuiste Tú\)](https://open.spotify.com/album/59P1FibnLGvDRl3jaMgimk) | 3:29 |
+| 14 | [It Was Always You \(Siempre Fuiste Tú\)](https://open.spotify.com/track/74XgsdImAXUs6VDcmYqbDl) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [It Was Always You \(Siempre Fuiste Tú\)](https://open.spotify.com/album/59P1FibnLGvDRl3jaMgimk) | 3:29 |
+| 15 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 |
 | 16 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 |
 | 17 | [Shortcuts](https://open.spotify.com/track/2JMysPffCAEIQd56mmYvBg) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Shortcuts](https://open.spotify.com/album/0MuIUbsI2sYNnC7QSIyZsZ) | 2:53 |
 | 18 | [Pink Skies](https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:21 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 36 | [Nyoni Yami](https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH) | [Nyoni Yami](https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy) | 3:32 |
 | 37 | [Don't Let Me Go](https://open.spotify.com/track/4c3ZblqLbAmXIhlyOopuOu) | [Gangs of Ballet](https://open.spotify.com/artist/2OMjeKZFgRSOJzJnM1umNu) | [Yes / No / Grey.](https://open.spotify.com/album/6kJcdD7xa1ZZXdbgFrTa4q) | 3:16 |
 | 38 | [White Shadow](https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Platinumb Heart Open](https://open.spotify.com/album/22FziGbftNET7IBUj4IFdP) | 4:08 |
-| 39 | [GHOSTS](https://open.spotify.com/track/6QFgE1RSsCncK81HoKmMVp) | [December Streets](https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v) | [GHOSTS](https://open.spotify.com/album/4jrzhfsW9LFG1leDoipgyo) | 2:41 |
+| 39 | [Written In The Stars](https://open.spotify.com/track/3arW9nlgAquoBjZnVZmqlI) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [Written In The Stars](https://open.spotify.com/album/75tepfildppNN5jqkBcEBc) | 3:38 |
 | 40 | [Another Day](https://open.spotify.com/track/4T17A5uxXxGo48TYhbH5jF) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Another Day](https://open.spotify.com/album/759Xj2GPV3t0LaMtr7RPgP) | 2:16 |
-| 41 | [Written In The Stars](https://open.spotify.com/track/3arW9nlgAquoBjZnVZmqlI) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [Written In The Stars](https://open.spotify.com/album/75tepfildppNN5jqkBcEBc) | 3:38 |
+| 41 | [GHOSTS](https://open.spotify.com/track/6QFgE1RSsCncK81HoKmMVp) | [December Streets](https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v) | [GHOSTS](https://open.spotify.com/album/4jrzhfsW9LFG1leDoipgyo) | 2:41 |
 | 42 | [The Loudest Thing](https://open.spotify.com/track/6AgRrEHmDM9w2vEHtJ6Zps) | [Kris Angelis](https://open.spotify.com/artist/5NSCSZj6ourZB5Yy4j4saO), [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [The Loudest Thing](https://open.spotify.com/album/09mOKo6OXJH9ip3OmwBDwF) | 2:52 |
 | 43 | [Everything Slow](https://open.spotify.com/track/5OwSmeumvnHstbaBpaEAnZ) | [Jackal & the Wind](https://open.spotify.com/artist/12iw4uOEV5d8gogRQ3wMkx) | [Everything Slow](https://open.spotify.com/album/0oc6tm1J1vjE649NRXyjzT) | 3:31 |
 | 44 | [Fight For Me](https://open.spotify.com/track/04SvT7sTy6PcImc0mmEXmU) | [Mann Friday](https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8) | [Fight For Me](https://open.spotify.com/album/20vcpStEfCgWZiwTtGojta) | 3:46 |
-| 45 | [Let Go](https://open.spotify.com/track/6qEgpYeOqfauh3lti9cnMz) | [Teagan](https://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi) | [Let Go](https://open.spotify.com/album/6IzKi4MFCpKnXbJtka7uy8) | 3:12 |
-| 46 | [Air \- Single Edit](https://open.spotify.com/track/4SImO1i8rWgT8C7Zu8iVog) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B) | [Air](https://open.spotify.com/album/60AUd6v5EKUDdsrZKK1NKE) | 3:14 |
-| 47 | [Carry Me](https://open.spotify.com/track/2kW2LAlMohQNsroYSIXncM) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa), [Cassidy Godwin](https://open.spotify.com/artist/2fCuEFatpJymbazPkYYVi8) | [Carry Me](https://open.spotify.com/album/46wDOIMnP62uR9tjmndXy2) | 2:24 |
+| 45 | [Miss You](https://open.spotify.com/track/1MpyOrNKUXCv3lE9DlPqWe) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [Miss You](https://open.spotify.com/album/6gqySHl4zPpgNOcxg9Usdj) | 4:47 |
+| 46 | [Let Go](https://open.spotify.com/track/6qEgpYeOqfauh3lti9cnMz) | [Teagan](https://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi) | [Let Go](https://open.spotify.com/album/6IzKi4MFCpKnXbJtka7uy8) | 3:12 |
+| 47 | [Air \- Single Edit](https://open.spotify.com/track/4SImO1i8rWgT8C7Zu8iVog) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B) | [Air](https://open.spotify.com/album/60AUd6v5EKUDdsrZKK1NKE) | 3:14 |
 | 48 | [The Whale Song](https://open.spotify.com/track/2Yzc8jxNWflSY0j1mehJUo) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [The Whale Song](https://open.spotify.com/album/5Ebb9ayKPt4Lw7UO3w5WcW) | 2:46 |
 | 49 | [Holding On To You](https://open.spotify.com/track/7eUpf4w7JE323DhRnjIysS) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Holding On To You](https://open.spotify.com/album/7EPsqTKceMEh9IE4DPjggo) | 2:34 |
-| 50 | [Holy Water](https://open.spotify.com/track/2fHQbsR78hCAf7iJHQvzjk) | [KYLE ZION](https://open.spotify.com/artist/5tqv4v6LBSfDbMYIX4zzTv) | [Holy Water](https://open.spotify.com/album/2D0GdNMz5bFn9aYM1YzLDE) | 2:47 |
+| 50 | [Carry Me](https://open.spotify.com/track/2kW2LAlMohQNsroYSIXncM) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa), [Cassidy Godwin](https://open.spotify.com/artist/2fCuEFatpJymbazPkYYVi8) | [Carry Me](https://open.spotify.com/album/46wDOIMnP62uR9tjmndXy2) | 2:24 |
 
-Snapshot ID: `MCw3YTdhYjliOTQwMWMwYTI1YzFlNjMzOTdmZWU1NDE1MTFkYjM3MjNl`
+Snapshot ID: `MCw4NDMzOTQ0Y2UwOGVjNDUzNmQ2ZDMxMGU0MjAxNjA0ZGMzMTFhNDI0`

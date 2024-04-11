@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Derai, Feby Putri
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,389 likes - 91 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,409 likes - 91 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 4 | [Mati\-Matian](https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Mati\-Matian](https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV) | 4:04 |
 | 5 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 |
 | 6 | [Wanita Biasa](https://open.spotify.com/track/5Gk5wniF0YSpkKMPmQqaxZ) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Wanita Biasa](https://open.spotify.com/album/3wWZ03MvMHn8mVE7cFztFi) | 4:05 |
-| 7 | [Lewat Doa](https://open.spotify.com/track/1IhVdSpDJV4ASULOTALD3P) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Lewat Doa](https://open.spotify.com/album/1yTMN5y852AZFeViX6rrKz) | 4:18 |
+| 7 | [Lewat Doa](https://open.spotify.com/track/47w31Y7t568KU7NC0sqCy9) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Lewat Doa](https://open.spotify.com/album/40Hol4DUyuiR00IWlfJ6vL) | 4:18 |
 | 8 | [Worth](https://open.spotify.com/track/2WSoAaoehLttG8QHoeFtrE) | [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [Worth](https://open.spotify.com/album/3f7pCL5o6C6PsDJxrucVNz) | 2:55 |
 | 9 | [Tak Bisa Gantikannya](https://open.spotify.com/track/2capksSt7xLrddoOSNAeZU) | [Raissa Ramadhani](https://open.spotify.com/artist/7F4To7Rp9vdkoaCi70TYD5) | [Tak Bisa Gantikannya](https://open.spotify.com/album/6k1JwNqnKcZTbcYSYIKbHZ) | 4:07 |
 | 10 | [Semoga, Selamanya.](https://open.spotify.com/track/7jgm3QUDrLiaYLQv1VHMXy) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW) | [Semoga, Selamanya.](https://open.spotify.com/album/1NnHgn9Xx8pgIwV4FT0jtW) | 3:46 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 90 | [Take Me](https://open.spotify.com/track/7Ix7tEAw8le0lP3YSJFPp3) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 3:38 |
 | 91 | [Your Favorite Food](https://open.spotify.com/track/4yWaGVdcT6VhMyUY7kjV3d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Your Favorite Food](https://open.spotify.com/album/6XsHlUuJB9vrOVwflRFoOp) | 4:30 |
 
-Snapshot ID: `MCwxNjRiZmU1OTQ5YTQzNmVkYzZlNzRlNzM3YjA1MTk0ZTBkZTViM2Jh`
+Snapshot ID: `MCw2NzQzNjZhMGE3MzU5MmY2NDU4MTI4Mzg4ZjMwNTA1MmM2MDAyNTc3`

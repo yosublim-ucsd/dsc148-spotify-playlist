@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Sam Hunt, Luke Bryan, Nate Smith and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,795 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,971 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 79 | [After The Storm](https://open.spotify.com/track/10i4wnz3CyvAJ8LZxjGEMV) | [FIREROSE](https://open.spotify.com/artist/2hUvYMF6MBxiZVXjiglBPX), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [After The Storm](https://open.spotify.com/album/6QMgGMYh0z0NWkEPWb769g) | 3:36 |
 | 80 | [Why In The World](https://open.spotify.com/track/2O0RvaJeYQFKUSbsAdhkWt) | [Carson Jeffrey](https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l) | [Why In The World](https://open.spotify.com/album/2834gpZYwjkf3FBqi5NF8Y) | 3:33 |
 
-Snapshot ID: `MCwzMzViMWZhMDcxZWQxYTUwZTdmYzZkN2I4NjIwMzFlYTg5NjI1YTQy`
+Snapshot ID: `MCw4NjM2YWU5OGQ4NDQ3N2YxNzhjNTQ2MDNiMWI5YTBlMGZlODZkMzVh`

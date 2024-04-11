@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 60038,
+  "2024-04-11": 60064,
   "date_first_scraped": "2022-02-06",
   "description": "Meet the future. New artists on the horizon. Cover: Shego.",
   "name": "RADAR Global ",
@@ -3827,7 +3827,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 341124,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/7AhBjNRySvSEna7yOTxspv"
@@ -7099,7 +7099,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 130039,
       "name": "GENNAIO 24 (feat. Caffellatte)",
       "url": "https://open.spotify.com/track/3wTisd4SJ0raRbJmOuqbXd"
@@ -16474,6 +16474,24 @@
     },
     {
       "album": {
+        "name": "Ride or Die",
+        "url": "https://open.spotify.com/album/0a4IcPl8xIWgJ4Wh2h3Yqu"
+      },
+      "artists": [
+        {
+          "name": "Haven",
+          "url": "https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177876,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/4bRmlxIFjwicz4OvXHRDMD"
+    },
+    {
+      "album": {
         "name": "ORIGEN",
         "url": "https://open.spotify.com/album/69uttGVf6dDFwYEpzzOCGL"
       },
@@ -17509,6 +17527,24 @@
       "duration_ms": 132625,
       "name": "Shlut",
       "url": "https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC"
+    },
+    {
+      "album": {
+        "name": "Should Be Us",
+        "url": "https://open.spotify.com/album/0nEny1K3mjUgEQMg4CKtPn"
+      },
+      "artists": [
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143821,
+      "name": "Should Be Us",
+      "url": "https://open.spotify.com/track/110vOPCNhnG4Xe1Gmhe32O"
     },
     {
       "album": {

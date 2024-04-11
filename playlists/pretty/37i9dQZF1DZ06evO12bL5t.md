@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 
 > This is Herencia de Patrones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,441 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,496 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 | 49 | [En El Laboratorio](https://open.spotify.com/track/4jHs2TkRNjEDsymVCzDuxQ) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [En El Laboratorio](https://open.spotify.com/album/1c5GRF8iWRduHOwOMqyLUc) | 3:05 |
 | 50 | [Se Termino](https://open.spotify.com/track/3w68dXKuXUxFocUinFfSeV) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Se Termino](https://open.spotify.com/album/3g09ETqHuYJxpBygHY7cZw) | 3:39 |
 
-Snapshot ID: `MCwzMmI5YjQ0N2EzN2Y0N2Q2MDMzOTU5YzUzOThhODFlYTJlZWYxMzIw`
+Snapshot ID: `MCxhMmQxZmQ3MGZiYWZjYWMyYTk0ZDQ2OGQ0M2EwMzczNjNkODA2ZTFk`

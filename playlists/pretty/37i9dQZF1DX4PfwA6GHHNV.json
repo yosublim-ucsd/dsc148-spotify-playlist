@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 16624,
+  "num_followers": 16633,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2Y1NGZhNzU1YzgwNDkxMzYwOTkyZDEzNzBkNGNlOTZkYjBlMDZm",
+  "snapshot_id": "MCwzNzQzZDYzYmQ2NzliMTRlZmFlM2VmNGJhYzFiZmFkNzhlMjc2OWEw",
   "tracks": [
     {
       "added_at": "2024-03-29 03:01:00",
@@ -233,6 +233,22 @@
       "url": "https://open.spotify.com/track/2sBj9IcVkONWhpCAdCYxG2"
     },
     {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "Fala Comigo",
+        "url": "https://open.spotify.com/album/7HdRWz0dgVDL4GPctATG1T"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9co Oficial",
+          "url": "https://open.spotify.com/artist/0ptHTBxVRPbo2qNsOaFRrx"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Fala Comigo",
+      "url": "https://open.spotify.com/track/5ZR2TRnxpq47Tp7a4FUHNi"
+    },
+    {
       "added_at": "2024-03-29 03:01:00",
       "album": {
         "name": "Calma",
@@ -255,22 +271,6 @@
       "duration_ms": 116588,
       "name": "Calma",
       "url": "https://open.spotify.com/track/2XjHq66MOjqO51SxnwecnT"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "Fala Comigo",
-        "url": "https://open.spotify.com/album/7HdRWz0dgVDL4GPctATG1T"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9co Oficial",
-          "url": "https://open.spotify.com/artist/0ptHTBxVRPbo2qNsOaFRrx"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Fala Comigo",
-      "url": "https://open.spotify.com/track/5ZR2TRnxpq47Tp7a4FUHNi"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -671,6 +671,26 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "Lembra?",
+        "url": "https://open.spotify.com/album/6H247bh0RID4t1srD2PCtD"
+      },
+      "artists": [
+        {
+          "name": "D'Castelo",
+          "url": "https://open.spotify.com/artist/3zUmvZ6hU3cD0Wej7fsfAR"
+        },
+        {
+          "name": "BRUNNOASH",
+          "url": "https://open.spotify.com/artist/6kuFicEpFN9pojNoTKWIRd"
+        }
+      ],
+      "duration_ms": 220389,
+      "name": "Lembra?",
+      "url": "https://open.spotify.com/track/209CDNqYuXqpv3T1LvqYPC"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "O Que Ela Tem?",
         "url": "https://open.spotify.com/album/2VzqF8GFXe6zF6xho5ZBJ7"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 133333,
       "name": "O Que Ela Tem?",
       "url": "https://open.spotify.com/track/68csPARkvDN7lXPnqJJFja"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "Lembra?",
-        "url": "https://open.spotify.com/album/6H247bh0RID4t1srD2PCtD"
-      },
-      "artists": [
-        {
-          "name": "D'Castelo",
-          "url": "https://open.spotify.com/artist/3zUmvZ6hU3cD0Wej7fsfAR"
-        },
-        {
-          "name": "BRUNNOASH",
-          "url": "https://open.spotify.com/artist/6kuFicEpFN9pojNoTKWIRd"
-        }
-      ],
-      "duration_ms": 220389,
-      "name": "Lembra?",
-      "url": "https://open.spotify.com/track/209CDNqYuXqpv3T1LvqYPC"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -997,26 +997,6 @@
       "url": "https://open.spotify.com/track/5aRV9cipoubruQArEFixFQ"
     },
     {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/3sQK9FAmoPBct69Clj6TB5"
-      },
-      "artists": [
-        {
-          "name": "Tito JV",
-          "url": "https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao"
-        },
-        {
-          "name": "Dj Leopoldo",
-          "url": "https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o"
-        }
-      ],
-      "duration_ms": 166438,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/3mdQSQI8aYJbYmFnod2ErL"
-    },
-    {
       "added_at": "2024-04-05 03:01:00",
       "album": {
         "name": "Atitude",
@@ -1035,6 +1015,26 @@
       "duration_ms": 185741,
       "name": "Brinca Comigo",
       "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/3sQK9FAmoPBct69Clj6TB5"
+      },
+      "artists": [
+        {
+          "name": "Tito JV",
+          "url": "https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao"
+        },
+        {
+          "name": "Dj Leopoldo",
+          "url": "https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o"
+        }
+      ],
+      "duration_ms": 166438,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/3mdQSQI8aYJbYmFnod2ErL"
     },
     {
       "added_at": "2024-03-29 03:01:00",

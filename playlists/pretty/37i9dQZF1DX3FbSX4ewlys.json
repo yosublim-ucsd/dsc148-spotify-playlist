@@ -1,12 +1,12 @@
 {
   "description": "la generaci\u00f3n del discman y el walkman",
-  "num_followers": 35599,
+  "num_followers": 35637,
   "original_name": "noventeras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTQ4ZDIwZWUzZTI2ZmFlYzIyOTQ3OTJhYTkyYzc3YTVmYTU4OGQz",
+  "snapshot_id": "MCw3OGI1OTUwMWMwMzA0MTU3YjdkODQwZjA5OWU3ZGU2MTc3Y2Y4MDE1",
   "tracks": [
     {
       "added_at": "2024-02-16 20:23:30",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-02-16 20:23:30",
       "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 263306,
-      "name": "Oye Mi Amor",
-      "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
-    },
-    {
-      "added_at": "2024-02-16 20:23:30",
-      "album": {
         "name": "Left Of The Middle",
         "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 244666,
       "name": "Torn",
       "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
+    },
+    {
+      "added_at": "2024-02-16 20:23:30",
+      "album": {
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 263306,
+      "name": "Oye Mi Amor",
+      "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
     },
     {
       "added_at": "2024-02-16 20:23:30",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-02-16 20:23:30",
       "album": {
-        "name": "Aquarium (Special Edition)",
-        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 197960,
-      "name": "Barbie Girl",
-      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
-    },
-    {
-      "added_at": "2024-02-16 20:23:30",
-      "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 211213,
       "name": "All That She Wants",
       "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
+    },
+    {
+      "added_at": "2024-02-16 20:23:30",
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 197960,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
     },
     {
       "added_at": "2024-02-16 20:23:30",
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         }
       ],
-      "duration_ms": 244026,
-      "name": "Por Amarte",
-      "url": "https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF"
+      "duration_ms": 332040,
+      "name": "Experiencia Religiosa",
+      "url": "https://open.spotify.com/track/0tgjnOlps2Hc798rOYGpvi"
     },
     {
       "added_at": "2024-02-16 20:23:30",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-02-16 20:23:30",
       "album": {
-        "name": "20 A\u00f1os",
-        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Ser\u00e1 Que No Me Amas (Blame It on the Boogie)",
-      "url": "https://open.spotify.com/track/0ULXIAoxSZBcOwygC3PA0i"
-    },
-    {
-      "added_at": "2024-02-16 20:23:30",
-      "album": {
         "name": "Superexitos Vol. 2",
         "url": "https://open.spotify.com/album/5x1hFavbDYh9ttS0KMQGmz"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 219454,
       "name": "Mas de Lo Que Te Imaginas (Classic Version)",
       "url": "https://open.spotify.com/track/4fXBKW9Xt9oSb7qRvVoU9Y"
+    },
+    {
+      "added_at": "2024-02-16 20:23:30",
+      "album": {
+        "name": "20 A\u00f1os",
+        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Ser\u00e1 Que No Me Amas (Blame It on the Boogie)",
+      "url": "https://open.spotify.com/track/0ULXIAoxSZBcOwygC3PA0i"
     },
     {
       "added_at": "2024-02-16 20:23:30",
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         }
       ],
-      "duration_ms": 332040,
-      "name": "Experiencia Religiosa",
-      "url": "https://open.spotify.com/track/0tgjnOlps2Hc798rOYGpvi"
+      "duration_ms": 244026,
+      "name": "Por Amarte",
+      "url": "https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF"
     },
     {
       "added_at": "2024-02-16 20:23:30",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-02-16 20:23:30",
       "album": {
-        "name": "Backstreet Boys",
-        "url": "https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 214333,
-      "name": "As Long as You Love Me",
-      "url": "https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy"
-    },
-    {
-      "added_at": "2024-02-16 20:23:30",
-      "album": {
         "name": "You Can't Stop The Bum Rush",
         "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 265533,
       "name": "Steal My Sunshine",
       "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
+    },
+    {
+      "added_at": "2024-02-16 20:23:30",
+      "album": {
+        "name": "Backstreet Boys",
+        "url": "https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 214333,
+      "name": "As Long as You Love Me",
+      "url": "https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy"
     },
     {
       "added_at": "2024-02-16 20:23:30",

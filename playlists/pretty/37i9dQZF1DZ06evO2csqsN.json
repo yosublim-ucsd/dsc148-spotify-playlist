@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 27336,
+  "num_followers": 27351,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2E0YzZlNjAzNTRlZGRhYWIwNzhiOTVjMTY4YTlhMDc0N2Y4NGQy",
+  "snapshot_id": "MCw4Y2Y3MWZiMjA5YWIwNzQ1OTk3MGVkM2U5YWI4YzhmNWM1ZTU5ODU5",
   "tracks": [
     {
       "added_at": null,
@@ -31,26 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lottery (feat. LU KALA)",
-        "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "LU KALA",
-          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
-        }
-      ],
-      "duration_ms": 186761,
-      "name": "Lottery (feat. LU KALA)",
-      "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sunday Service",
         "url": "https://open.spotify.com/album/5ayh7q1xq1jFa3QsmE3M7n"
       },
@@ -67,18 +47,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Energy",
-        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
+        "name": "Lottery (feat. LU KALA)",
+        "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
       },
       "artists": [
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
         }
       ],
-      "duration_ms": 173182,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
+      "duration_ms": 186761,
+      "name": "Lottery (feat. LU KALA)",
+      "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
     },
     {
       "added_at": null,
@@ -491,26 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Get Enough (feat. Latto)",
-        "url": "https://open.spotify.com/album/7rf0cUzuhJJiUAxaDg33gM"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 207284,
-      "name": "Can't Get Enough (feat. Latto)",
-      "url": "https://open.spotify.com/track/6qLPbIhrnOLnAhSeVlu7V8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Put It On Da Floor",
         "url": "https://open.spotify.com/album/6t8NaWyCTONzie6RKcK7TS"
       },
@@ -539,6 +503,26 @@
       "duration_ms": 144047,
       "name": "B*tch From Da Souf",
       "url": "https://open.spotify.com/track/6tLWt7gkvvTSjS6OfJjiyJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't Get Enough (feat. Latto)",
+        "url": "https://open.spotify.com/album/7rf0cUzuhJJiUAxaDg33gM"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 207284,
+      "name": "Can't Get Enough (feat. Latto)",
+      "url": "https://open.spotify.com/track/6qLPbIhrnOLnAhSeVlu7V8"
     },
     {
       "added_at": null,
@@ -1071,6 +1055,26 @@
       "duration_ms": 163481,
       "name": "Live My Best Life (with Snoop Dogg & Latto)",
       "url": "https://open.spotify.com/track/7gqlF5gGTO4aSZV2HPkYwm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Help Me God!",
+        "url": "https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 190378,
+      "name": "Quarantine Thick (feat. Latto)",
+      "url": "https://open.spotify.com/track/4JfCA7yaiEORC7NcKBS9nk"
     }
   ],
   "unique_name": "This Is Latto",

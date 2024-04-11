@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 224683,
+  "num_followers": 224836,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzY1ZWUzN2UzMjNjMjYxMzBlNWM1MDc1M2ZkMDRiYjRkOTRkNjlm",
+  "snapshot_id": "MCwwNDNlNTJjZTVhNjQyZmIwMWRhNjQyNWE0ZmY1ZTIzZDYyNjg1ODU3",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -439,22 +439,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Fandango",
-        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
-        }
-      ],
-      "duration_ms": 221174,
-      "name": "Fandango",
-      "url": "https://open.spotify.com/track/4aOBQruqZeHFGNjJ1F83Qw"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "20 Valses Instrumentales",
         "url": "https://open.spotify.com/album/2hsUBi8Ua1fykAlfRa2Rd5"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 206653,
       "name": "Se Busca",
       "url": "https://open.spotify.com/track/7HL3Q21K6uNqkcvjAyuBGq"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Fandango",
+        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        }
+      ],
+      "duration_ms": 221174,
+      "name": "Fandango",
+      "url": "https://open.spotify.com/track/4aOBQruqZeHFGNjJ1F83Qw"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -543,22 +543,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Fandango",
-        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
-        }
-      ],
-      "duration_ms": 202367,
-      "name": "Route 101",
-      "url": "https://open.spotify.com/track/0v6LhMOPClXKdV3KB72iJG"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "100 All Time Greatest Hits",
         "url": "https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 183133,
       "name": "Emmanuelle",
       "url": "https://open.spotify.com/track/4z1OqFDJgOtIvwtWd4y9y5"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Fandango",
+        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        }
+      ],
+      "duration_ms": 202367,
+      "name": "Route 101",
+      "url": "https://open.spotify.com/track/0v6LhMOPClXKdV3KB72iJG"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -799,6 +799,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Canciones Inolvidables",
+        "url": "https://open.spotify.com/album/7mnsyJtNOBKWGuQVc7cN2u"
+      },
+      "artists": [
+        {
+          "name": "Cuerdas y Metales",
+          "url": "https://open.spotify.com/artist/4Nvo3WgDLeubApBx2YOWpM"
+        }
+      ],
+      "duration_ms": 220400,
+      "name": "Soleado",
+      "url": "https://open.spotify.com/track/33D7r5tvQ5bDlzjIdrqUhP"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Franck Pourcel : Originals, vol. 8",
         "url": "https://open.spotify.com/album/3BU3eWnOF9Dvv4NZpFgUdL"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 146407,
       "name": "Spanish Harlem - Nuits d'Espagne",
       "url": "https://open.spotify.com/track/1mSekIWPPecpKKsfGOioiY"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Canciones Inolvidables",
-        "url": "https://open.spotify.com/album/7mnsyJtNOBKWGuQVc7cN2u"
-      },
-      "artists": [
-        {
-          "name": "Cuerdas y Metales",
-          "url": "https://open.spotify.com/artist/4Nvo3WgDLeubApBx2YOWpM"
-        }
-      ],
-      "duration_ms": 220400,
-      "name": "Soleado",
-      "url": "https://open.spotify.com/track/33D7r5tvQ5bDlzjIdrqUhP"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -887,22 +887,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "El Condor Pasa",
-        "url": "https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx"
-      },
-      "artists": [
-        {
-          "name": "Orchester Anthony Ventura",
-          "url": "https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK"
-        }
-      ],
-      "duration_ms": 140573,
-      "name": "Don't Cry for Me, Argentina",
-      "url": "https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "The New Limelight",
         "url": "https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 193720,
       "name": "Guantanamera",
       "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "El Condor Pasa",
+        "url": "https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx"
+      },
+      "artists": [
+        {
+          "name": "Orchester Anthony Ventura",
+          "url": "https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK"
+        }
+      ],
+      "duration_ms": 140573,
+      "name": "Don't Cry for Me, Argentina",
+      "url": "https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Bonanza - 50 Fabulous Guitar Favourites",
-        "url": "https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9"
+        "name": "Best of Pop Concerto Orchestra",
+        "url": "https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ"
       },
       "artists": [
         {
-          "name": "Al Caiola",
-          "url": "https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6"
+          "name": "Pop Concerto Orchestra",
+          "url": "https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30"
         }
       ],
-      "duration_ms": 160679,
-      "name": "Guns of Navarone",
-      "url": "https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs"
+      "duration_ms": 156773,
+      "name": "Lady Milady",
+      "url": "https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Best of Pop Concerto Orchestra",
-        "url": "https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ"
+        "name": "Bonanza - 50 Fabulous Guitar Favourites",
+        "url": "https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9"
       },
       "artists": [
         {
-          "name": "Pop Concerto Orchestra",
-          "url": "https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30"
+          "name": "Al Caiola",
+          "url": "https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6"
         }
       ],
-      "duration_ms": 156773,
-      "name": "Lady Milady",
-      "url": "https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41"
+      "duration_ms": 160679,
+      "name": "Guns of Navarone",
+      "url": "https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Pablo Beltr\u00e1n Ru\u00edz y Su Orquesta",
-        "url": "https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F"
-      },
-      "artists": [
-        {
-          "name": "Pablo Beltran Ruiz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq"
-        }
-      ],
-      "duration_ms": 135613,
-      "name": "Perfidia",
-      "url": "https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "101% Cine",
         "url": "https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 131255,
       "name": "P\u00eddele Al Tiempo Que Vuelva",
       "url": "https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Pablo Beltr\u00e1n Ru\u00edz y Su Orquesta",
+        "url": "https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F"
+      },
+      "artists": [
+        {
+          "name": "Pablo Beltran Ruiz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq"
+        }
+      ],
+      "duration_ms": 135613,
+      "name": "Perfidia",
+      "url": "https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1321,22 +1321,6 @@
       "url": "https://open.spotify.com/track/0Xr3UeWGMlgHY8jgb5vp9c"
     },
     {
-      "added_at": "2023-08-10 21:46:24",
-      "album": {
-        "name": "East Bound And Down",
-        "url": "https://open.spotify.com/album/6i4T3kD5KHM5CcQu4yH9iT"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
-        }
-      ],
-      "duration_ms": 162294,
-      "name": "East Bound And Down",
-      "url": "https://open.spotify.com/track/287NlxhT7ovzqs1XeChOhW"
-    },
-    {
       "added_at": "2020-12-08 19:02:01",
       "album": {
         "name": "La Danza De Los Corcelos (with The Royal Philharmonic Orchestra)",
@@ -1357,20 +1341,20 @@
       "url": "https://open.spotify.com/track/5fDbDD0sJ8DLzzSzpMKZZL"
     },
     {
-      "added_at": "2020-12-08 19:02:01",
+      "added_at": "2023-08-10 21:46:24",
       "album": {
-        "name": "Avengers and Other Top Sixties Themes",
-        "url": "https://open.spotify.com/album/1XU7ztjltJ2klhUwFk1z8M"
+        "name": "East Bound And Down",
+        "url": "https://open.spotify.com/album/6i4T3kD5KHM5CcQu4yH9iT"
       },
       "artists": [
         {
-          "name": "Tony Hatch",
-          "url": "https://open.spotify.com/artist/0k1Nc8EWBurYtiQXSW6rgj"
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
         }
       ],
-      "duration_ms": 190840,
-      "name": "Memories of Summer",
-      "url": "https://open.spotify.com/track/53d1VYmnh5LUkTG223zjth"
+      "duration_ms": 162294,
+      "name": "East Bound And Down",
+      "url": "https://open.spotify.com/track/287NlxhT7ovzqs1XeChOhW"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1387,6 +1371,22 @@
       "duration_ms": 403466,
       "name": "Ravel's Bolero",
       "url": "https://open.spotify.com/track/5HbxBGpEw5xoBXUwRFNA7x"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Avengers and Other Top Sixties Themes",
+        "url": "https://open.spotify.com/album/1XU7ztjltJ2klhUwFk1z8M"
+      },
+      "artists": [
+        {
+          "name": "Tony Hatch",
+          "url": "https://open.spotify.com/artist/0k1Nc8EWBurYtiQXSW6rgj"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "Memories of Summer",
+      "url": "https://open.spotify.com/track/53d1VYmnh5LUkTG223zjth"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "A Swingin' Safari",
-        "url": "https://open.spotify.com/album/4DfOHkq52aDLQ2U7z9YpUu"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 135666,
-      "name": "A Swingin' Safari",
-      "url": "https://open.spotify.com/track/67dN68PBuUplLJA2VoWfsB"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Canciones Inolvidables",
         "url": "https://open.spotify.com/album/7mnsyJtNOBKWGuQVc7cN2u"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 189346,
       "name": "Im\u00e1genes",
       "url": "https://open.spotify.com/track/6aRvWvjzsdp5GlNbRr6rRn"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "A Swingin' Safari",
+        "url": "https://open.spotify.com/album/4DfOHkq52aDLQ2U7z9YpUu"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 135666,
+      "name": "A Swingin' Safari",
+      "url": "https://open.spotify.com/track/67dN68PBuUplLJA2VoWfsB"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Die Zauberwelt der Panfl\u00f6te",
-        "url": "https://open.spotify.com/album/4omSoKmpKlAavCTPIlNYtU"
-      },
-      "artists": [
-        {
-          "name": "Edward Simoni",
-          "url": "https://open.spotify.com/artist/0nCX0OS37qHcF3xP74yRmT"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Gefangenenchor aus \"Nabucco\"",
-      "url": "https://open.spotify.com/track/4FLfAjRMQeNbqgwbdUMja6"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Michel Legrand y Su Gran Orquesta",
         "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 159586,
       "name": "Kiss of Fire",
       "url": "https://open.spotify.com/track/15P3eW9xG4WnfvVvHFYQS8"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Die Zauberwelt der Panfl\u00f6te",
+        "url": "https://open.spotify.com/album/4omSoKmpKlAavCTPIlNYtU"
+      },
+      "artists": [
+        {
+          "name": "Edward Simoni",
+          "url": "https://open.spotify.com/artist/0nCX0OS37qHcF3xP74yRmT"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Gefangenenchor aus \"Nabucco\"",
+      "url": "https://open.spotify.com/track/4FLfAjRMQeNbqgwbdUMja6"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Michel Legrand y Su Gran Orquesta",
+        "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
+      },
+      "artists": [
+        {
+          "name": "Michel Legrand",
+          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
+        }
+      ],
+      "duration_ms": 135360,
+      "name": "Boum",
+      "url": "https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Presenting Andr\u00e9 Popp",
         "url": "https://open.spotify.com/album/0WhQteQEm7iV2DBiJXqoMJ"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 175960,
       "name": "Too Young",
       "url": "https://open.spotify.com/track/2l6OsDqjoFFAKHMHcZ7nYi"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "The Incredible Helmut Zacharias",
-        "url": "https://open.spotify.com/album/5ZfXPyyeUz8zS9YXTJLZ9A"
-      },
-      "artists": [
-        {
-          "name": "Helmut Zacharias",
-          "url": "https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH"
-        }
-      ],
-      "duration_ms": 166026,
-      "name": "Ave Maria No Morro",
-      "url": "https://open.spotify.com/track/1tZZ3VD2jbHBEr0KM2rHlG"
     }
   ],
   "unique_name": "Golden Instrumentals",

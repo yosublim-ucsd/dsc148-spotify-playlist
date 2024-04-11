@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 471974,
+  "num_followers": 472043,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGIyZWFhMmJhZTgyNzU3MTM4OTY2NDQxYmZhYjhmYTc3MTAyN2Fk",
+  "snapshot_id": "MCxiZDFkZTdkYWNjMWE2Y2U0OTNiMjE1YzliZTJiNjIxNjgzYjA0ZGVl",
   "tracks": [
     {
       "added_at": "2024-03-05 21:47:18",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-03-05 21:47:18",
       "album": {
-        "name": "The 2000's Greatest",
-        "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
-      },
-      "artists": [
-        {
-          "name": "Dewa 19",
-          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
-        }
-      ],
-      "duration_ms": 300512,
-      "name": "Kangen",
-      "url": "https://open.spotify.com/track/3ZyMRe0jlSqffPBMeHUZFX"
-    },
-    {
-      "added_at": "2024-03-05 21:47:18",
-      "album": {
         "name": "P.S. I LOVE YOU",
         "url": "https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 240903,
       "name": "P.S. I LOVE YOU",
       "url": "https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy"
+    },
+    {
+      "added_at": "2024-03-05 21:47:18",
+      "album": {
+        "name": "The 2000's Greatest",
+        "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
+      },
+      "artists": [
+        {
+          "name": "Dewa 19",
+          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+        }
+      ],
+      "duration_ms": 300512,
+      "name": "Kangen",
+      "url": "https://open.spotify.com/track/3ZyMRe0jlSqffPBMeHUZFX"
     },
     {
       "added_at": "2024-03-05 21:47:18",
@@ -811,22 +811,18 @@
     {
       "added_at": "2024-03-05 21:47:18",
       "album": {
-        "name": "Tempat Aku Pulang",
-        "url": "https://open.spotify.com/album/2jZflSCJ8hq8bp7bBzioOx"
+        "name": "Pelukku Untuk Pelikmu (OST Imperfect: Karier, Cinta, & Timbangan)",
+        "url": "https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh"
       },
       "artists": [
         {
           "name": "Fiersa Besari",
           "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
-        },
-        {
-          "name": "Thantri Sundari",
-          "url": "https://open.spotify.com/artist/5jVRSr4hRxxwEFeG3uWFGV"
         }
       ],
-      "duration_ms": 323956,
-      "name": "Waktu Yang Salah",
-      "url": "https://open.spotify.com/track/47caohVI6Qe7KY8EuaRtg0"
+      "duration_ms": 249503,
+      "name": "Pelukku Untuk Pelikmu - OST Imperfect: Karier, Cinta, & Timbangan",
+      "url": "https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI"
     },
     {
       "added_at": "2024-03-05 21:47:18",
@@ -895,38 +891,6 @@
     {
       "added_at": "2024-03-05 21:47:18",
       "album": {
-        "name": "The Special One",
-        "url": "https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp"
-      },
-      "artists": [
-        {
-          "name": "Yovie & Nuno",
-          "url": "https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Dia Milikku",
-      "url": "https://open.spotify.com/track/1OQyfW04HtxbKJykjlG3wD"
-    },
-    {
-      "added_at": "2024-03-05 21:47:18",
-      "album": {
-        "name": "Pelukku Untuk Pelikmu (OST Imperfect: Karier, Cinta, & Timbangan)",
-        "url": "https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh"
-      },
-      "artists": [
-        {
-          "name": "Fiersa Besari",
-          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
-        }
-      ],
-      "duration_ms": 249503,
-      "name": "Pelukku Untuk Pelikmu - OST Imperfect: Karier, Cinta, & Timbangan",
-      "url": "https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI"
-    },
-    {
-      "added_at": "2024-03-05 21:47:18",
-      "album": {
         "name": "Satu-Satu",
         "url": "https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C"
       },
@@ -939,6 +903,22 @@
       "duration_ms": 284988,
       "name": "Satu-Satu",
       "url": "https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL"
+    },
+    {
+      "added_at": "2024-03-05 21:47:18",
+      "album": {
+        "name": "The Special One",
+        "url": "https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp"
+      },
+      "artists": [
+        {
+          "name": "Yovie & Nuno",
+          "url": "https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Dia Milikku",
+      "url": "https://open.spotify.com/track/1OQyfW04HtxbKJykjlG3wD"
     },
     {
       "added_at": "2024-03-05 21:47:18",
@@ -1039,22 +1019,6 @@
     {
       "added_at": "2024-03-05 21:47:18",
       "album": {
-        "name": "Konspirasi Alam Semesta",
-        "url": "https://open.spotify.com/album/6ej8qsrXEhtkhYYKUoTa4h"
-      },
-      "artists": [
-        {
-          "name": "Fiersa Besari",
-          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
-        }
-      ],
-      "duration_ms": 213236,
-      "name": "Garis Terdepan",
-      "url": "https://open.spotify.com/track/4cLmzFuO46wsTaJnoC8m4P"
-    },
-    {
-      "added_at": "2024-03-05 21:47:18",
-      "album": {
         "name": "Handmade",
         "url": "https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY"
       },
@@ -1103,22 +1067,6 @@
     {
       "added_at": "2024-03-05 21:47:18",
       "album": {
-        "name": "Taman Langit",
-        "url": "https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC"
-      },
-      "artists": [
-        {
-          "name": "Noah",
-          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
-        }
-      ],
-      "duration_ms": 199138,
-      "name": "Yang Terdalam",
-      "url": "https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G"
-    },
-    {
-      "added_at": "2024-03-05 21:47:18",
-      "album": {
         "name": "Harapan",
         "url": "https://open.spotify.com/album/7qKEG7EhkXFNfwGdxgPp77"
       },
@@ -1131,6 +1079,22 @@
       "duration_ms": 288333,
       "name": "Belum Siap Kehilangan",
       "url": "https://open.spotify.com/track/7KXVbdLU70pHjYsVZg47KO"
+    },
+    {
+      "added_at": "2024-03-05 21:47:18",
+      "album": {
+        "name": "Taman Langit",
+        "url": "https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC"
+      },
+      "artists": [
+        {
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+        }
+      ],
+      "duration_ms": 199138,
+      "name": "Yang Terdalam",
+      "url": "https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G"
     },
     {
       "added_at": "2024-03-05 21:47:18",
@@ -1187,18 +1151,18 @@
     {
       "added_at": "2024-03-05 21:47:18",
       "album": {
-        "name": "Tempat Aku Pulang",
-        "url": "https://open.spotify.com/album/2jZflSCJ8hq8bp7bBzioOx"
+        "name": "Chrisye \"Untukku\"",
+        "url": "https://open.spotify.com/album/3UDpNv0SOmaemdASkAtxO8"
       },
       "artists": [
         {
-          "name": "Fiersa Besari",
-          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
+          "name": "Chrisye",
+          "url": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
         }
       ],
-      "duration_ms": 261746,
-      "name": "April",
-      "url": "https://open.spotify.com/track/7acA8bnDcifMEolySXKOz8"
+      "duration_ms": 320760,
+      "name": "Kala Cinta Menggoda",
+      "url": "https://open.spotify.com/track/2KyTzyAZs6stW2TRrXDREW"
     },
     {
       "added_at": "2024-03-05 21:47:18",
@@ -1219,18 +1183,18 @@
     {
       "added_at": "2024-03-05 21:47:18",
       "album": {
-        "name": "Chrisye \"Untukku\"",
-        "url": "https://open.spotify.com/album/3UDpNv0SOmaemdASkAtxO8"
+        "name": "Musim Yang Baik",
+        "url": "https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG"
       },
       "artists": [
         {
-          "name": "Chrisye",
-          "url": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
         }
       ],
-      "duration_ms": 320760,
-      "name": "Kala Cinta Menggoda",
-      "url": "https://open.spotify.com/track/2KyTzyAZs6stW2TRrXDREW"
+      "duration_ms": 216295,
+      "name": "Lapang Dada",
+      "url": "https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4"
     },
     {
       "added_at": "2024-03-05 21:47:18",
@@ -1247,22 +1211,6 @@
       "duration_ms": 212026,
       "name": "11 Januari",
       "url": "https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld"
-    },
-    {
-      "added_at": "2024-03-05 21:47:18",
-      "album": {
-        "name": "Musim Yang Baik",
-        "url": "https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG"
-      },
-      "artists": [
-        {
-          "name": "Sheila On 7",
-          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
-        }
-      ],
-      "duration_ms": 216295,
-      "name": "Lapang Dada",
-      "url": "https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4"
     },
     {
       "added_at": "2024-03-05 21:47:18",
@@ -1347,6 +1295,58 @@
       "duration_ms": 221381,
       "name": "Rayu",
       "url": "https://open.spotify.com/track/4rAWADK2zYdjx2ar2Hp1C8"
+    },
+    {
+      "added_at": "2024-03-05 21:47:18",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
+      },
+      "artists": [
+        {
+          "name": "Naif",
+          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
+        }
+      ],
+      "duration_ms": 186933,
+      "name": "Jikalau",
+      "url": "https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp"
+    },
+    {
+      "added_at": "2024-03-05 21:47:18",
+      "album": {
+        "name": "LOVERs PLAYBOOK",
+        "url": "https://open.spotify.com/album/78UznjghWeYXMeN201KLtC"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "duration_ms": 269242,
+      "name": "THANK YOU 4 LOVIN\u2019 ME",
+      "url": "https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg"
+    },
+    {
+      "added_at": "2024-03-05 21:47:18",
+      "album": {
+        "name": "Selaras",
+        "url": "https://open.spotify.com/album/1b1QRGjDS4CHogOBBCLWOg"
+      },
+      "artists": [
+        {
+          "name": "Kunto Aji",
+          "url": "https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy"
+        },
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "duration_ms": 273491,
+      "name": "Selaras",
+      "url": "https://open.spotify.com/track/7kZ4uU7cO2Y36XWmuwEOW0"
     }
   ],
   "unique_name": "Santai Sejenak",

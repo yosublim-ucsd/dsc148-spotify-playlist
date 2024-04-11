@@ -1,12 +1,12 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 6119,
+  "num_followers": 6144,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGVjMWNiZWEwNDAyOGNlNDNmYzllNzg1NDMwZjJjNTFkMTIxY2M4",
+  "snapshot_id": "MCw3NjdiYjlhZGVkOTc5MDg0YmJiNzU0Y2I0MTc0MDdmMjc5NmI5NmUw",
   "tracks": [
     {
       "added_at": "2024-04-05 04:14:07",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-04-05 04:14:07",
       "album": {
-        "name": "Musica",
-        "url": "https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Musica",
-      "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
-    },
-    {
-      "added_at": "2024-04-05 04:14:07",
-      "album": {
         "name": "La Trumpeta",
         "url": "https://open.spotify.com/album/1FKabhcumxfcWsrtsekyXd"
       },
@@ -1103,22 +1087,6 @@
     {
       "added_at": "2024-04-05 04:14:07",
       "album": {
-        "name": "Roots EP, Pt. 1",
-        "url": "https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Hijos De La Noche",
-      "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
-    },
-    {
-      "added_at": "2024-04-05 04:14:07",
-      "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
       },
@@ -1131,6 +1099,38 @@
       "duration_ms": 187200,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI"
+    },
+    {
+      "added_at": "2024-04-05 04:14:07",
+      "album": {
+        "name": "Musica",
+        "url": "https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Musica",
+      "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
+    },
+    {
+      "added_at": "2024-04-05 04:14:07",
+      "album": {
+        "name": "Roots EP, Pt. 1",
+        "url": "https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Hijos De La Noche",
+      "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
     },
     {
       "added_at": "2024-04-05 04:14:07",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2024-04-05 04:14:07",
       "album": {
-        "name": "Catuca",
-        "url": "https://open.spotify.com/album/2erxOE5ZUFhe00qlGVEacP"
-      },
-      "artists": [
-        {
-          "name": "Classmatic",
-          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
-        },
-        {
-          "name": "Mc Th",
-          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
-        }
-      ],
-      "duration_ms": 398986,
-      "name": "Catuca",
-      "url": "https://open.spotify.com/track/5wo6GTB8QfMfCsCDAeFcZW"
-    },
-    {
-      "added_at": "2024-04-05 04:14:07",
-      "album": {
         "name": "Satisfied",
         "url": "https://open.spotify.com/album/5Ao966nL5V38v8652399lo"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 186713,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/0swB7iITDrfzrKqQXR661u"
+    },
+    {
+      "added_at": "2024-04-05 04:14:07",
+      "album": {
+        "name": "Catuca",
+        "url": "https://open.spotify.com/album/2erxOE5ZUFhe00qlGVEacP"
+      },
+      "artists": [
+        {
+          "name": "Classmatic",
+          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
+        },
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
+        }
+      ],
+      "duration_ms": 398986,
+      "name": "Catuca",
+      "url": "https://open.spotify.com/track/5wo6GTB8QfMfCsCDAeFcZW"
     },
     {
       "added_at": "2024-04-05 04:14:07",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2024-04-05 04:14:07",
       "album": {
-        "name": "Toma Dale",
-        "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
-      },
-      "artists": [
-        {
-          "name": "Classmatic",
-          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        }
-      ],
-      "duration_ms": 323763,
-      "name": "Toma Dale",
-      "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
-    },
-    {
-      "added_at": "2024-04-05 04:14:07",
-      "album": {
         "name": "Corazon",
         "url": "https://open.spotify.com/album/5GJEHZyJuZaAIAoLQscX99"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 167906,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/3bot8lUvwEKSn8yDuxHA4z"
+    },
+    {
+      "added_at": "2024-04-05 04:14:07",
+      "album": {
+        "name": "Toma Dale",
+        "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
+      },
+      "artists": [
+        {
+          "name": "Classmatic",
+          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        }
+      ],
+      "duration_ms": 323763,
+      "name": "Toma Dale",
+      "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
     },
     {
       "added_at": "2024-04-05 04:14:07",
@@ -1839,6 +1839,26 @@
     {
       "added_at": "2024-04-05 04:14:07",
       "album": {
+        "name": "Tocate",
+        "url": "https://open.spotify.com/album/1J69wY1wgzllb0AisNy99J"
+      },
+      "artists": [
+        {
+          "name": "Conrado",
+          "url": "https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e"
+        },
+        {
+          "name": "Cach House",
+          "url": "https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc"
+        }
+      ],
+      "duration_ms": 190393,
+      "name": "Tocate",
+      "url": "https://open.spotify.com/track/0hmovhJh8gx8Ito3nbPRQy"
+    },
+    {
+      "added_at": "2024-04-05 04:14:07",
+      "album": {
         "name": "Wimbo",
         "url": "https://open.spotify.com/album/1g0MngSgjz9ZiPEe8thh87"
       },
@@ -1899,26 +1919,6 @@
     {
       "added_at": "2024-04-05 04:14:07",
       "album": {
-        "name": "HAVANA",
-        "url": "https://open.spotify.com/album/4a01OCAe3GzRCRpx67bXFN"
-      },
-      "artists": [
-        {
-          "name": "Vince Morgana",
-          "url": "https://open.spotify.com/artist/3OSIswp0zBG2rR96q1Rwp8"
-        },
-        {
-          "name": "GLADYS",
-          "url": "https://open.spotify.com/artist/1Prt0hPO7hG4KRGs9DPpDf"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "HAVANA",
-      "url": "https://open.spotify.com/track/1okjg2DZKCyA0w0iCDd10s"
-    },
-    {
-      "added_at": "2024-04-05 04:14:07",
-      "album": {
         "name": "La Bulla",
         "url": "https://open.spotify.com/album/406Xu0Zh1jTzjzBPsJCYmo"
       },
@@ -1939,22 +1939,22 @@
     {
       "added_at": "2024-04-05 04:14:07",
       "album": {
-        "name": "Gringada",
-        "url": "https://open.spotify.com/album/31IgBVgxGhUfMUGlA6wZAq"
+        "name": "HAVANA",
+        "url": "https://open.spotify.com/album/4a01OCAe3GzRCRpx67bXFN"
       },
       "artists": [
         {
-          "name": "Costa Leon",
-          "url": "https://open.spotify.com/artist/3vkZeJ4Gkrwmy21vHPrsDh"
+          "name": "Vince Morgana",
+          "url": "https://open.spotify.com/artist/3OSIswp0zBG2rR96q1Rwp8"
         },
         {
-          "name": "DJ Cuervo",
-          "url": "https://open.spotify.com/artist/1L1RMOhubngzDWQzrRB9UH"
+          "name": "GLADYS",
+          "url": "https://open.spotify.com/artist/1Prt0hPO7hG4KRGs9DPpDf"
         }
       ],
-      "duration_ms": 168188,
-      "name": "Gringada",
-      "url": "https://open.spotify.com/track/5vnQUEjtukbbnWcrnigfpT"
+      "duration_ms": 146666,
+      "name": "HAVANA",
+      "url": "https://open.spotify.com/track/1okjg2DZKCyA0w0iCDd10s"
     }
   ],
   "unique_name": "Latin House",

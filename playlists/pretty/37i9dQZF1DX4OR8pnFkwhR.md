@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 名誉伝説
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,204 likes - 70 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,214 likes - 70 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 16 | [春を綴じる](https://open.spotify.com/track/5380ecDY45s7k3FrFGcqFx) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [春を綴じる](https://open.spotify.com/album/30oTYgvBcmEIRvaGnpp5gg) | 4:08 |
 | 17 | [kimnosoba](https://open.spotify.com/track/1xFrkoI1ZBZOT06r0AP37r) | [tokyo\-kimigainaimati](https://open.spotify.com/artist/682ehg4PP2p5cbdBqH3ADM) | [23\-Spring](https://open.spotify.com/album/7JNO5AFNE0ISRSDUDQqRCl) | 2:50 |
 | 18 | [サンポリズム](https://open.spotify.com/track/1v76huIm1TfABpvoJLxoV0) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [サンポリズム](https://open.spotify.com/album/7jgsyeOtzJoZoXAzsPoMHl) | 3:31 |
-| 19 | [Donut Song](https://open.spotify.com/track/5m5B3uG46zGUc4ed8VPss8) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Donut Song](https://open.spotify.com/album/7KrJUUBFfoE8nanB2K5wRK) | 3:47 |
+| 19 | [Donut Song](https://open.spotify.com/track/5JPN8TqaCEeB2bD9jHfALI) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Donut Song](https://open.spotify.com/album/4bWIkjiyqyVvC7VlcNsxPa) | 3:47 |
 | 20 | [Beautiful Life](https://open.spotify.com/track/0Nxt3bgGuaQ02HzCsR7TBn) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [Beautiful Life](https://open.spotify.com/album/2KZ0CPDNk4bEcBWGWq45fS) | 2:48 |
 | 21 | [さよならより遠いどこかへ](https://open.spotify.com/track/6hsG3pTwhHGo0MaA88bgx8) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [ハロー・グッドバイ \- EP](https://open.spotify.com/album/6s2g4Wz0f21TY7FJF4709H) | 3:39 |
 | 22 | [balloon](https://open.spotify.com/track/6IjyCBKJWENIbRon2naimY) | [EOW](https://open.spotify.com/artist/3hufeT9qrBonKU5iZxAeHI) | [balloon](https://open.spotify.com/album/1pjbRLuDTlLOJZTZW93Acw) | 4:24 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [純情](https://open.spotify.com/track/51gs6ICIvYvSPz22cREjup) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [夢の中で、夢から醒めて](https://open.spotify.com/album/2Gje9p6OLGFQoqSovlwfEb) | 3:27 |
 | 70 | [Sanzameku](https://open.spotify.com/track/0XWKTGEZy1UxKERL4ZuPEz) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [NEO TOKYO METRO](https://open.spotify.com/album/3QmE1SZpwTswgKFSIBkuuv) | 3:05 |
 
-Snapshot ID: `MCxiN2RkN2NmMjg0M2Q4YWEzM2UzNDQ2MDY5YTAzNWFlZDY3NGM5ZTkw`
+Snapshot ID: `MCwxYzM3MmY0ODVjOGU2MjM3NGM4ZTJlNDRiMzVkOTIzZDg4NDY2ZmEy`

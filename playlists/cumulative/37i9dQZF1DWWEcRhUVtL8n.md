@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Empress Of
 
-1,817 songs - 3 day 23 hr 44 min
+1,818 songs - 3 day 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1507,6 +1507,7 @@
 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 | 2023-07-28 | 2024-04-07 |
 | [Stayaway \- Now, Now Remix](https://open.spotify.com/track/0ojEn2GpidI32hiVF5nblj) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Now, Now](https://open.spotify.com/artist/6ZitSwtBSGqj00w11GvMU3) | [Stayaway \(Now, Now Remix\)](https://open.spotify.com/album/5AlYKpAvPaHDXPhKO2g5FV) | 3:19 | 2020-10-16 | 2021-10-12 |
 | [Steep](https://open.spotify.com/track/4KwCVDiQdrcpQs0SPn5Maa) | [Jack Boyd](https://open.spotify.com/artist/7riSp70grwJBgN0Kn5OqIw) | [Steep](https://open.spotify.com/album/6a9oFkzTey2Hri3qnq1FVw) | 2:16 | 2024-02-09 | 2024-02-29 |
+| [Stick Around](https://open.spotify.com/track/4LxQxGzZj0niHD8bbZCEYn) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Country](https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7) | 4:32 | 2024-04-05 |  |
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2022-11-07 |  |
 | [Still Here](https://open.spotify.com/track/5NRFBtaNmTV0F9NaPwhOL2) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Still Here](https://open.spotify.com/album/4rWzxxuZF4Yox7buaxMM6I) | 3:34 | 2021-02-22 | 2021-05-27 |
 | [Still In Love](https://open.spotify.com/track/4nI5nW9MYQ1Sqf9oSotmla) | [Jackson Harris](https://open.spotify.com/artist/0pW16l7mPsVjS9CdmvOstz) | [Still In Love](https://open.spotify.com/album/7ohMD9pTi6zTMLAGlo1Ldy) | 2:57 | 2021-02-22 | 2021-05-26 |
@@ -1531,7 +1532,7 @@
 | [Stuck In A Bubble](https://open.spotify.com/track/1bSJ2FDSYUQHbg4hpnF4Li) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [Stuck In A Bubble](https://open.spotify.com/album/23suzHFs2RSiknQtTOGIJi) | 2:38 | 2020-10-20 | 2020-10-21 |
 | [Stuck in the Middle](https://open.spotify.com/track/0kJkiYAvGPwxcMgVznuS8T) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [When I Close My Eyes](https://open.spotify.com/album/2Hlkq5I3ntvKGPJq130yzF) | 2:21 | 2022-05-06 | 2022-06-20 |
 | [stuck on us](https://open.spotify.com/track/5GIsnSmSyFM8dI3e4dP1G5) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [stuck on us](https://open.spotify.com/album/1KXHYyQGGw2QbPGQSOBwJN) | 2:55 | 2022-03-18 | 2022-12-02 |
-| [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 | 2023-06-02 |  |
+| [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 | 2023-06-02 | 2024-04-11 |
 | [Stupid Boys](https://open.spotify.com/track/3VVTR5byzYX15kSLhENnVN) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Stupid Boys](https://open.spotify.com/album/0njsUW4yb3wviV0Ulopvfk) | 2:13 | 2020-10-13\* | 2021-02-27 |
 | [Subject](https://open.spotify.com/track/2jI4keyUwCmnn6kqA4GlAc) | [Fran Vasilić](https://open.spotify.com/artist/08xR1XU2SWgC2K0yx6lEYm) | [The Very Last Thoughts on Earth](https://open.spotify.com/album/0dDAfkBPnOP70LE5IhqoPY) | 3:35 | 2022-07-22 | 2022-08-06 |
 | [Sucker Punch](https://open.spotify.com/track/0y0xWEzCRBY47WRw67r4Ab) | [Dead Emerson](https://open.spotify.com/artist/4Qlr4ok7GGJw8tmCWdQOP3) | [Sucker Punch](https://open.spotify.com/album/1hB7OK8nNlPLslFuHoeC5e) | 2:26 | 2020-10-13\* | 2020-11-20 |

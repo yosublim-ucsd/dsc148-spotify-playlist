@@ -1,29 +1,13 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 303054,
+  "num_followers": 303096,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjM0NzBhMmFiZmNkNWNkZmRiYThkNjczYmE0NzFkOGZkZDljMDQy",
+  "snapshot_id": "MCw4Yjc4YTcxMGFiYjEwNTU1MzRhZmM0YTg4NmQxNmQ4Yjk1Y2JhNGY3",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "All Along the Watchtower",
-      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
-    },
     {
       "added_at": null,
       "album": {
@@ -59,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Both Sides of the Sky",
-        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 208120,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/4f5nUYzeUioPwNbz2mGx5S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Electric Ladyland",
         "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
@@ -87,6 +55,22 @@
       "duration_ms": 313373,
       "name": "Voodoo Child (Slight Return)",
       "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Both Sides of the Sky",
+        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 208120,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/4f5nUYzeUioPwNbz2mGx5S"
     },
     {
       "added_at": null,
@@ -123,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cry of Love",
-        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 206133,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/7emVwhF4OMemAT65nbpuZO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Electric Ladyland",
         "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
@@ -151,6 +119,22 @@
       "duration_ms": 146573,
       "name": "Crosstown Traffic",
       "url": "https://open.spotify.com/track/1ntxpzIUbSsizvuAy6lTYY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cry of Love",
+        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 206133,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/7emVwhF4OMemAT65nbpuZO"
     },
     {
       "added_at": null,
@@ -187,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 130039,
+      "name": "Have You Ever Been (To Electric Ladyland)",
+      "url": "https://open.spotify.com/track/3Yh64aiu2ANBwDFztyPDkT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "People, Hell & Angels",
         "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
       },
@@ -199,22 +199,6 @@
       "duration_ms": 341800,
       "name": "Hear My Train a Comin'",
       "url": "https://open.spotify.com/track/4DmBVImaIhE3RyNvbtZTTz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 223680,
-      "name": "Gypsy Eyes",
-      "url": "https://open.spotify.com/track/1DfWmv1eJU1a9tuGpqKGFP"
     },
     {
       "added_at": null,
@@ -251,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 223680,
+      "name": "Gypsy Eyes",
+      "url": "https://open.spotify.com/track/1DfWmv1eJU1a9tuGpqKGFP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
       },
@@ -263,22 +263,6 @@
       "duration_ms": 457600,
       "name": "Born Under a Bad Sign",
       "url": "https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 249373,
-      "name": "Come On (Let the Good Times Roll)",
-      "url": "https://open.spotify.com/track/0KqHJXm4Z42fELkW83ZW0r"
     },
     {
       "added_at": null,
@@ -315,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 249373,
+      "name": "Come On (Let the Good Times Roll)",
+      "url": "https://open.spotify.com/track/0KqHJXm4Z42fELkW83ZW0r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Both Sides of the Sky",
         "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
       },
@@ -327,22 +327,6 @@
       "duration_ms": 183426,
       "name": "Lover Man",
       "url": "https://open.spotify.com/track/4pufpcO8KDHalIp3Uh8GEU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "People, Hell & Angels",
-        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 245760,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/64ICrhXuANvFTmJutuZJ1k"
     },
     {
       "added_at": null,
@@ -375,6 +359,22 @@
       "duration_ms": 198773,
       "name": "Foxey Lady",
       "url": "https://open.spotify.com/track/23MrkN7g6Q5U7GLIxNHN1B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 245760,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/64ICrhXuANvFTmJutuZJ1k"
     },
     {
       "added_at": null,

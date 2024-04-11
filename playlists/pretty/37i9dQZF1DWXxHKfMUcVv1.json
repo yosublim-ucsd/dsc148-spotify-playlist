@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 115557,
+  "num_followers": 115575,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWZjOTA3NGNhODRmNGI2ZTk3OWZhOWRkNjU4NmYwMzU5MjJmZTAw",
+  "snapshot_id": "MCwyNTUxNmY1OTA4ZjZkMTE1ZmM5OGJkOTkxY2E1OTg5OGU5YzAyYjcz",
   "tracks": [
     {
       "added_at": "2024-04-05 17:19:39",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-04-05 17:19:39",
       "album": {
-        "name": "Olv\u00eddame Si Puedes",
-        "url": "https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H"
-      },
-      "artists": [
-        {
-          "name": "Noa - Noa",
-          "url": "https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7"
-        }
-      ],
-      "duration_ms": 198773,
-      "name": "Pobre De Mis Ojos",
-      "url": "https://open.spotify.com/track/22vlaPIylFwBjlsqIVDNHC"
-    },
-    {
-      "added_at": "2024-04-05 17:19:39",
-      "album": {
         "name": "Armadura De Rosas",
         "url": "https://open.spotify.com/album/7q1Ya9cTQeN1ryNie2dDaF"
       },
@@ -683,6 +667,38 @@
       "duration_ms": 189733,
       "name": "En Un Solo Dia",
       "url": "https://open.spotify.com/track/3Me4qJDkBKKfIFWg7JcLY6"
+    },
+    {
+      "added_at": "2024-04-05 17:19:39",
+      "album": {
+        "name": "Olv\u00eddame Si Puedes",
+        "url": "https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H"
+      },
+      "artists": [
+        {
+          "name": "Noa - Noa",
+          "url": "https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7"
+        }
+      ],
+      "duration_ms": 198773,
+      "name": "Pobre De Mis Ojos",
+      "url": "https://open.spotify.com/track/22vlaPIylFwBjlsqIVDNHC"
+    },
+    {
+      "added_at": "2024-04-05 17:19:39",
+      "album": {
+        "name": "Amor pirata",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
+      },
+      "artists": [
+        {
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+        }
+      ],
+      "duration_ms": 204346,
+      "name": "La Mami Que Mas Quiero",
+      "url": "https://open.spotify.com/track/0GFknDDycu3HvtlFlBK5h6"
     },
     {
       "added_at": "2024-04-05 17:19:39",
@@ -715,22 +731,6 @@
       "duration_ms": 217192,
       "name": "Me Liber\u00e9",
       "url": "https://open.spotify.com/track/32qhajow0UHHPmNudtmfKK"
-    },
-    {
-      "added_at": "2024-04-05 17:19:39",
-      "album": {
-        "name": "Amor pirata",
-        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
-      },
-      "artists": [
-        {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
-        }
-      ],
-      "duration_ms": 204346,
-      "name": "La Mami Que Mas Quiero",
-      "url": "https://open.spotify.com/track/0GFknDDycu3HvtlFlBK5h6"
     },
     {
       "added_at": "2024-04-05 17:19:39",

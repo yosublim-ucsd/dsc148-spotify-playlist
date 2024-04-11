@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 22823,
+  "num_followers": 22862,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWM0ZTMxYjExOTkyNTEzMzM4MDhiZjRiYTU1MWEwNDljMGRkMzYy",
+  "snapshot_id": "MCxjMjAzNmRhYzE3YWI0YWEwZTU2MzlkNjc3ZWQ3YWUwMmY3MTljYzIz",
   "tracks": [
     {
       "added_at": null,
@@ -375,18 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos Mayiza",
-        "url": "https://open.spotify.com/album/0pWFlJBrWfDzgdiDAwcdUX"
+        "name": "Yo Mir\u00e9 Un Sombrero",
+        "url": "https://open.spotify.com/album/62lwfVovojkqTMPUoroB6U"
       },
       "artists": [
+        {
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+        },
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 192600,
-      "name": "Somos Mayiza",
-      "url": "https://open.spotify.com/track/1Et5s6nYXMuit7gdEk3q9F"
+      "duration_ms": 155185,
+      "name": "Yo Mir\u00e9 Un Sombrero",
+      "url": "https://open.spotify.com/track/7mVFcEeHc14QekO81qEGPN"
     },
     {
       "added_at": null,
@@ -411,22 +415,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Mir\u00e9 Un Sombrero",
-        "url": "https://open.spotify.com/album/62lwfVovojkqTMPUoroB6U"
+        "name": "Somos Mayiza",
+        "url": "https://open.spotify.com/album/0pWFlJBrWfDzgdiDAwcdUX"
       },
       "artists": [
-        {
-          "name": "Grupo Selectivo",
-          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
-        },
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 155185,
-      "name": "Yo Mir\u00e9 Un Sombrero",
-      "url": "https://open.spotify.com/track/7mVFcEeHc14QekO81qEGPN"
+      "duration_ms": 192600,
+      "name": "Somos Mayiza",
+      "url": "https://open.spotify.com/track/1Et5s6nYXMuit7gdEk3q9F"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fotos Hot",
+        "url": "https://open.spotify.com/album/4zD9ojAyJyG2On7waxHdn1"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 177786,
+      "name": "Fotos Hot",
+      "url": "https://open.spotify.com/track/1vnDr3JmeBIYPOCCntE76H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Isidro El Chapo",
         "url": "https://open.spotify.com/album/30HVgN4IGJj9kprrLhb9jz"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fotos Hot",
-        "url": "https://open.spotify.com/album/4zD9ojAyJyG2On7waxHdn1"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 177786,
-      "name": "Fotos Hot",
-      "url": "https://open.spotify.com/track/1vnDr3JmeBIYPOCCntE76H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Al Modo Culiac\u00e1n",
         "url": "https://open.spotify.com/album/6Y3QJ12QIF9hD9jyIZq7gk"
       },
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pizza Est\u00e1 En El Horno",
-        "url": "https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 154453,
-      "name": "Los Placeres De Archivaldo",
-      "url": "https://open.spotify.com/track/27l55K6adgEeUssURt0FnS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chalo Araujo (Pistolero De Arturo Beltr\u00e1n)",
         "url": "https://open.spotify.com/album/5WMWsNeKATwiYcN6u1XCz3"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 135653,
       "name": "Chalo Araujo (Pistolero De Arturo Beltr\u00e1n)",
       "url": "https://open.spotify.com/track/2Jw4p4WIIxl8BwLyZ78HJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Pizza Est\u00e1 En El Horno",
+        "url": "https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 154453,
+      "name": "Los Placeres De Archivaldo",
+      "url": "https://open.spotify.com/track/27l55K6adgEeUssURt0FnS"
     },
     {
       "added_at": null,

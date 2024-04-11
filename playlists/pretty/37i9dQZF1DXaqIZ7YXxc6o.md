@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Peggy Gou
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,146 likes - 98 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,149 likes - 98 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 97 | [Breakaway](https://open.spotify.com/track/3g0eHwVjGYZaHooqGtKefQ) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [WILHELM](https://open.spotify.com/artist/7g4gQKWTNj0X8BqpKpZFC0) | [Breakaway](https://open.spotify.com/album/3Qf1lsCco4UBhUZF0ydjmx) | 2:45 |
 | 98 | [Break](https://open.spotify.com/track/21qh7wOW9qljk3A7tMAyLM) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Break / Saw U](https://open.spotify.com/album/3B9VRmFZ4TK6jgRsgextA5) | 4:06 |
 
-Snapshot ID: `MCw3Y2U3MDBlY2Y3ZjZmYzQ2Y2EzNzg1YmEwM2IyNTVmNDdkM2E3MjZl`
+Snapshot ID: `MCwwNDFlODU0MjhhY2Q4YzBmZDQ1YWI1MGFlOTFkNTBjYzI4ODZjOGEy`

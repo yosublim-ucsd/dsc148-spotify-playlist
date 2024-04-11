@@ -4,7 +4,7 @@
 
 > Your weekly rock update\. Cover: Gustaf
 
-1,011 songs - 2 day 8 hr 7 min
+1,012 songs - 2 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,8 @@
 | [Chompin' At The Bit](https://open.spotify.com/track/4Nvn9NPYbOh2j8MtcrJZ7f) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [TROUBLE EP](https://open.spotify.com/album/5IcmjyqYJeUDMrqu5DTE7B) | 3:01 | 2024-03-15 |  |
 | [Cicada](https://open.spotify.com/track/1G2JfPGXBbVgVnBtk0ToxD) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL) | [One Day](https://open.spotify.com/album/3hMj3XLQTq6irh3C0U1HdD) | 4:29 | 2023-02-10 | 2023-04-01 |
 | [City of Angels](https://open.spotify.com/track/6FvI7R1y1OX5xjfDc2ed5n) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [City of Angels](https://open.spotify.com/album/1gkhkwllwZOHYtGKj9T0af) | 2:12 | 2024-03-15 |  |
-| [Classical](https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Classical](https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ) | 4:19 | 2024-03-15 |  |
+| [Classical](https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Classical](https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ) | 4:19 | 2024-03-15 | 2024-04-11 |
+| [Classical](https://open.spotify.com/track/4DlGLD32K7shuL8ub067DL) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:19 | 2024-04-05 |  |
 | [Clay Feet](https://open.spotify.com/track/7CJkmupnhIhgdDuPMBpSMD) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Clay Feet](https://open.spotify.com/album/5IXXU7lT4HFRSryIRwfiZF) | 3:39 | 2023-07-14 | 2023-09-16 |
 | [Clean](https://open.spotify.com/track/28OHFYWmXQf4rjVXAVDkmM) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Clean](https://open.spotify.com/album/0RXJVNNoCXQ3YgL16NsRcL) | 2:55 | 2023-11-17 | 2024-01-13 |
 | [Close](https://open.spotify.com/track/1FnbRzgI5mGdh8XjXTXD9w) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Close](https://open.spotify.com/album/0VG3BsmyLoIEEUIUswHV9i) | 3:57 | 2024-03-15 |  |

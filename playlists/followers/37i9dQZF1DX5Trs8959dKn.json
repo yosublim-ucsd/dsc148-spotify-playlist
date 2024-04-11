@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 27506,
+  "2024-04-11": 27561,
   "date_first_scraped": "2023-04-07",
   "description": "Knees go down and the prayers go up",
   "name": "On Bended Knees",
@@ -967,6 +967,24 @@
     {
       "album": {
         "name": "Man Of Galilee",
+        "url": "https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295262,
+      "name": "More Than Gold",
+      "url": "https://open.spotify.com/track/74xNLJNnHY9YDFRSi57UoI"
+    },
+    {
+      "album": {
+        "name": "Man Of Galilee",
         "url": "https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08"
       },
       "artists": [
@@ -977,7 +995,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 295262,
       "name": "More Than Gold",
       "url": "https://open.spotify.com/track/7aYSK256AQktjtOs3MnIii"

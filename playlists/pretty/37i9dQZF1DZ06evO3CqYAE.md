@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 
 > This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,823 likes - 48 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,836 likes - 48 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 47 | [Do Something](https://open.spotify.com/track/7hMCer4q0483Uxdb7EcvG2) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Holy Ghost](https://open.spotify.com/album/4wJuzLINYvguF70TkdSbYB) | 3:26 |
 | 48 | [Eze \(feat\. Preye Odede\)](https://open.spotify.com/track/2Y2mu2RkaSmGKymRSA35od) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Reba](https://open.spotify.com/artist/0I2iJ4qXhWez7QzSRd2UX6) | [Eze \(feat\. Preye Odede\)](https://open.spotify.com/album/3PH6kZDIT5gJYMGNWzqqq2) | 5:56 |
 
-Snapshot ID: `MCwxZjI4NDlmMWNlNTNhZmM1YzY2OWUxYmVlODA4MjMzMjU1OTc4M2Zl`
+Snapshot ID: `MCw3ZGUxYWIxZGJhOWQ3ODg1ZWQ3MmRlNWRiMzk5MjBhMmIzYzIzZWE0`

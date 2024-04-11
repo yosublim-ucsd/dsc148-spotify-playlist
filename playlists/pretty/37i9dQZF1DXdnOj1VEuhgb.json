@@ -1,12 +1,12 @@
 {
   "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Ati242",
-  "num_followers": 1344304,
+  "num_followers": 1344583,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmZhMjM2M2IwOGEyZTFmYzk1NDFlZDUwYWI0YTczMzIxMjdmNDQw",
+  "snapshot_id": "MCxlODU5OGE0YTkxNjY4YWRiOGE4NDE4N2FhZjI4YmE0ZTI2OTNjNGZi",
   "tracks": [
     {
       "added_at": "2024-04-08 07:51:11",
@@ -163,38 +163,6 @@
     {
       "added_at": "2024-04-08 07:51:11",
       "album": {
-        "name": "G\u00dcZEL VE \u0130DD\u0130ALI",
-        "url": "https://open.spotify.com/album/4KiKXZthJfVz0mKIkv7E2G"
-      },
-      "artists": [
-        {
-          "name": "BLOK3",
-          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
-        }
-      ],
-      "duration_ms": 175829,
-      "name": "G\u00dcZEL VE \u0130DD\u0130ALI",
-      "url": "https://open.spotify.com/track/3LUFeTIPLxgZYdBxG0eV5k"
-    },
-    {
-      "added_at": "2024-04-08 07:51:11",
-      "album": {
-        "name": "CAITYPE",
-        "url": "https://open.spotify.com/album/44lkzLxZrsdJ5iFus1I9Au"
-      },
-      "artists": [
-        {
-          "name": "Cairo",
-          "url": "https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId"
-        }
-      ],
-      "duration_ms": 154160,
-      "name": "\u00c7aresizce",
-      "url": "https://open.spotify.com/track/5Owbx90EQ9qYyGQtJmZ8x1"
-    },
-    {
-      "added_at": "2024-04-08 07:51:11",
-      "album": {
         "name": "MINI TERORISTA",
         "url": "https://open.spotify.com/album/5U4UvgvFitfNPiIF0zAPBp"
       },
@@ -211,22 +179,18 @@
     {
       "added_at": "2024-04-08 07:51:11",
       "album": {
-        "name": "Havadis",
-        "url": "https://open.spotify.com/album/7judDMxvhfm8dqBae5T17i"
+        "name": "G\u00dcZEL VE \u0130DD\u0130ALI",
+        "url": "https://open.spotify.com/album/4KiKXZthJfVz0mKIkv7E2G"
       },
       "artists": [
         {
-          "name": "Alba",
-          "url": "https://open.spotify.com/artist/3gT9Z8pVuqk2Rvl52J5W71"
-        },
-        {
-          "name": "\u015eehin\u015fah",
-          "url": "https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA"
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Havadis",
-      "url": "https://open.spotify.com/track/2bMqzC7XDi9HwUg3Rlv6WU"
+      "duration_ms": 175829,
+      "name": "G\u00dcZEL VE \u0130DD\u0130ALI",
+      "url": "https://open.spotify.com/track/3LUFeTIPLxgZYdBxG0eV5k"
     },
     {
       "added_at": "2024-04-08 07:51:11",
@@ -255,18 +219,18 @@
     {
       "added_at": "2024-04-08 07:51:11",
       "album": {
-        "name": "Sendeliyorum",
-        "url": "https://open.spotify.com/album/11jVyEW36UPcLpqfhv8zfq"
+        "name": "CAITYPE",
+        "url": "https://open.spotify.com/album/44lkzLxZrsdJ5iFus1I9Au"
       },
       "artists": [
         {
-          "name": "Lia Shine",
-          "url": "https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw"
+          "name": "Cairo",
+          "url": "https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId"
         }
       ],
-      "duration_ms": 139217,
-      "name": "Sendeliyorum",
-      "url": "https://open.spotify.com/track/3EpJjtwJA3iskhkXtL48n6"
+      "duration_ms": 154160,
+      "name": "\u00c7aresizce",
+      "url": "https://open.spotify.com/track/5Owbx90EQ9qYyGQtJmZ8x1"
     },
     {
       "added_at": "2024-04-08 07:51:11",
@@ -291,6 +255,50 @@
     {
       "added_at": "2024-04-08 07:51:11",
       "album": {
+        "name": "Havadis",
+        "url": "https://open.spotify.com/album/7judDMxvhfm8dqBae5T17i"
+      },
+      "artists": [
+        {
+          "name": "Alba",
+          "url": "https://open.spotify.com/artist/3gT9Z8pVuqk2Rvl52J5W71"
+        },
+        {
+          "name": "\u015eehin\u015fah",
+          "url": "https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Havadis",
+      "url": "https://open.spotify.com/track/2bMqzC7XDi9HwUg3Rlv6WU"
+    },
+    {
+      "added_at": "2024-04-08 07:51:11",
+      "album": {
+        "name": "Kapak Olsun",
+        "url": "https://open.spotify.com/album/7j9rfRyTb6tHY4CWgE8S2B"
+      },
+      "artists": [
+        {
+          "name": "Defkhan",
+          "url": "https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS"
+        },
+        {
+          "name": "NELLIE",
+          "url": "https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3"
+        },
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/49h0OdRzNx53XMMIXoHMm6"
+        }
+      ],
+      "duration_ms": 147136,
+      "name": "Kapak Olsun",
+      "url": "https://open.spotify.com/track/4yThcjBXiBsiP8QxFraRG1"
+    },
+    {
+      "added_at": "2024-04-08 07:51:11",
+      "album": {
         "name": "NEDEN M\u0130 \u0130LLEGAL 4",
         "url": "https://open.spotify.com/album/0DF9gdff6u1fr0NSUike62"
       },
@@ -303,6 +311,62 @@
       "duration_ms": 209361,
       "name": "NEDEN M\u0130 \u0130LLEGAL 4",
       "url": "https://open.spotify.com/track/6ARmCtYLY3bYsuInpMmVqZ"
+    },
+    {
+      "added_at": "2024-04-08 07:51:11",
+      "album": {
+        "name": "y\u0131ld\u0131zlar \u015fahit a\u015fk\u0131ma",
+        "url": "https://open.spotify.com/album/75stAff8dVdEedkMHAsB74"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "duration_ms": 156004,
+      "name": "y\u0131ld\u0131zlar \u015fahit a\u015fk\u0131ma",
+      "url": "https://open.spotify.com/track/490MqlRWgEby3jzfYi8ULn"
+    },
+    {
+      "added_at": "2024-04-08 07:51:11",
+      "album": {
+        "name": "Sendeliyorum",
+        "url": "https://open.spotify.com/album/11jVyEW36UPcLpqfhv8zfq"
+      },
+      "artists": [
+        {
+          "name": "Lia Shine",
+          "url": "https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw"
+        }
+      ],
+      "duration_ms": 139217,
+      "name": "Sendeliyorum",
+      "url": "https://open.spotify.com/track/3EpJjtwJA3iskhkXtL48n6"
+    },
+    {
+      "added_at": "2024-04-08 07:51:11",
+      "album": {
+        "name": "Gidemem",
+        "url": "https://open.spotify.com/album/1oXVgFvLiexNS48eLlEuLV"
+      },
+      "artists": [
+        {
+          "name": "Tefo",
+          "url": "https://open.spotify.com/artist/5bKfDewWHUg0VqXqRX1low"
+        },
+        {
+          "name": "Seko",
+          "url": "https://open.spotify.com/artist/5ExPDJ7ouyX5oURLZ7VcAh"
+        },
+        {
+          "name": "Kibariye",
+          "url": "https://open.spotify.com/artist/1btod3aNfVEYNrEzIQgx90"
+        }
+      ],
+      "duration_ms": 148969,
+      "name": "Gidemem",
+      "url": "https://open.spotify.com/track/5VzWVTB0F3nVSK25OsJxVw"
     },
     {
       "added_at": "2024-04-08 07:51:11",
@@ -343,70 +407,6 @@
     {
       "added_at": "2024-04-08 07:51:11",
       "album": {
-        "name": "Kapak Olsun",
-        "url": "https://open.spotify.com/album/7j9rfRyTb6tHY4CWgE8S2B"
-      },
-      "artists": [
-        {
-          "name": "Defkhan",
-          "url": "https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS"
-        },
-        {
-          "name": "NELLIE",
-          "url": "https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3"
-        },
-        {
-          "name": "Fredo",
-          "url": "https://open.spotify.com/artist/49h0OdRzNx53XMMIXoHMm6"
-        }
-      ],
-      "duration_ms": 147136,
-      "name": "Kapak Olsun",
-      "url": "https://open.spotify.com/track/4yThcjBXiBsiP8QxFraRG1"
-    },
-    {
-      "added_at": "2024-04-08 07:51:11",
-      "album": {
-        "name": "Gidemem",
-        "url": "https://open.spotify.com/album/1oXVgFvLiexNS48eLlEuLV"
-      },
-      "artists": [
-        {
-          "name": "Tefo",
-          "url": "https://open.spotify.com/artist/5bKfDewWHUg0VqXqRX1low"
-        },
-        {
-          "name": "Seko",
-          "url": "https://open.spotify.com/artist/5ExPDJ7ouyX5oURLZ7VcAh"
-        },
-        {
-          "name": "Kibariye",
-          "url": "https://open.spotify.com/artist/1btod3aNfVEYNrEzIQgx90"
-        }
-      ],
-      "duration_ms": 148969,
-      "name": "Gidemem",
-      "url": "https://open.spotify.com/track/5VzWVTB0F3nVSK25OsJxVw"
-    },
-    {
-      "added_at": "2024-04-08 07:51:11",
-      "album": {
-        "name": "y\u0131ld\u0131zlar \u015fahit a\u015fk\u0131ma",
-        "url": "https://open.spotify.com/album/75stAff8dVdEedkMHAsB74"
-      },
-      "artists": [
-        {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
-        }
-      ],
-      "duration_ms": 156004,
-      "name": "y\u0131ld\u0131zlar \u015fahit a\u015fk\u0131ma",
-      "url": "https://open.spotify.com/track/490MqlRWgEby3jzfYi8ULn"
-    },
-    {
-      "added_at": "2024-04-08 07:51:11",
-      "album": {
         "name": "\u00c7evir Tavuklar\u0131",
         "url": "https://open.spotify.com/album/4tYo3XSPJn7tFCWHMXYYmZ"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 204149,
       "name": "\u00c7evir Tavuklar\u0131",
       "url": "https://open.spotify.com/track/1AWDAK1mwVI2hJltDDj71m"
-    },
-    {
-      "added_at": "2024-04-08 07:51:11",
-      "album": {
-        "name": "B2LA",
-        "url": "https://open.spotify.com/album/2scj0YG10DXcGLkgQ3KvSw"
-      },
-      "artists": [
-        {
-          "name": "cakal",
-          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "B2LA",
-      "url": "https://open.spotify.com/track/4rz4fCQqbxjBQZW3cQXiL5"
     },
     {
       "added_at": "2024-04-08 07:51:11",
@@ -475,6 +459,22 @@
       "duration_ms": 154105,
       "name": "Geceler Harab",
       "url": "https://open.spotify.com/track/7GvX3cVI6gLWyCMUiqP7LG"
+    },
+    {
+      "added_at": "2024-04-08 07:51:11",
+      "album": {
+        "name": "B2LA",
+        "url": "https://open.spotify.com/album/2scj0YG10DXcGLkgQ3KvSw"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "B2LA",
+      "url": "https://open.spotify.com/track/4rz4fCQqbxjBQZW3cQXiL5"
     },
     {
       "added_at": "2024-04-08 07:51:11",

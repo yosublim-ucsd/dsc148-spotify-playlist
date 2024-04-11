@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2gEu1155ig.md) - [plain]
 
 > Canciones tropicales que te transportan a Caleta y Caletilla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,589 likes - 170 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,607 likes - 170 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2gEu1155ig.md) - [plain]
 | 99 | [La Brujita](https://open.spotify.com/track/6n8M4N16lQMUFeCHNtZIzJ) | [La Luz Roja De San Marcos](https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb) | [15 Anos De Exitos](https://open.spotify.com/album/5y8nVWoUWR774YYWRSdYEh) | 3:48 |
 | 100 | [Quen Pompo](https://open.spotify.com/track/4Gu5KSinsMNv4KTkCNVa7G) | [Chico Che y La Crisis](https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm) | [Quen Pompo](https://open.spotify.com/album/6ZXHFy31PiXJFufZzxfXFn) | 2:26 |
 | 101 | [En Tus Manos](https://open.spotify.com/track/7dniUnDWDCZn9V7iT2dAhl) | [Los Byby's](https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN) | [En Tus Manos](https://open.spotify.com/album/5z3TRIQbmeAvd3yzCOmslK) | 3:29 |
-| 102 | [Macumba](https://open.spotify.com/track/1RRnygeCEjxTrMQYcHONUd) | [Rigo Dominguez Y Su Grupo Audaz](https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr) | [Macumba](https://open.spotify.com/album/7m67Buns7GWyajKdkoUkq5) | 2:44 |
+| 102 | [Macumba](https://open.spotify.com/track/6SaxdxTudmpOYbRRMkMNxK) | [Rigo Dominguez Y Su Grupo Audaz](https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr) | [Las Más Escuchadas de Rigo Dominguez y Su Grupo Audaz](https://open.spotify.com/album/598KphjHhPIn4v8SGbEAxZ) | 2:44 |
 | 103 | [El Ladrón](https://open.spotify.com/track/6wD6ELX0mFyBzEMqhDp3F8) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [15 EXITOS](https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs) | 2:46 |
 | 104 | [Vienes y Te Vas](https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Con la Fuerza de un Volcán](https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y) | 3:48 |
 | 105 | [El Hombre Que Yo Amo](https://open.spotify.com/track/3bukaSKEeFiyYx9JfgiqYf) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs) | [Tesoros De Coleccion](https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn) | 4:07 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2gEu1155ig.md) - [plain]
 | 169 | [Viva el Amor](https://open.spotify.com/track/0dPW1gm93Ls6VVdNDuxbGw) | [Su Majestad La Brissa](https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L) | [Viva el Amor](https://open.spotify.com/album/1o5ZMdsdZIjhjCRV54BDlF) | 3:28 |
 | 170 | [El Baile Del Pingüino](https://open.spotify.com/track/23oyX1l6NMXQ00vh7IuTjl) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Tu Principe Azul](https://open.spotify.com/album/3Rx03l8gqAhv3NAciC3gh5) | 3:19 |
 
-Snapshot ID: `MCxmODMzZjk4NTIwYjQ0Njg4NDE2MzQwNWU1MTA2NDUzNDIxMGU0Njk2`
+Snapshot ID: `MCw2ZmI3NWRmMjgxNDUzNDQ2MzgwOGEwMjU2MzcwZGMzZTU1ZTc0NGM3`

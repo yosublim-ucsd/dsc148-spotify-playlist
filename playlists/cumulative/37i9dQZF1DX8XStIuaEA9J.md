@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: なとり
 
-373 songs - 22 hr 1 min
+374 songs - 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Tap Tap Dance](https://open.spotify.com/track/68Zr9ftLbJdjs0dLXMbvWT) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Party!!](https://open.spotify.com/album/3sg0BgfaXzY0QNNngxZG0J) | 3:32 | 2024-03-05 | 2024-03-20 |
 | [TARAFUKU](https://open.spotify.com/track/3dgupQzsgGKz3x1tHQX1uZ) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [Taro Ishida](https://open.spotify.com/artist/1nvWvHHNSq13HJqwgsrnUZ) | [TARAFUKU](https://open.spotify.com/album/0irRaQh2W9x6MTlswDs0qV) | 3:04 | 2024-03-19 | 2024-03-27 |
 | [Team Tomodachi \- Remix](https://open.spotify.com/track/1TBtAioi82LToAaojj9ruU) | [Yuki Chiba](https://open.spotify.com/artist/6zOzMb66GICS4gVDtd1yvR), [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Team Tomodachi \(Remix\)](https://open.spotify.com/album/03GtNIvFYHk7ltVGMC3Mkh) | 3:38 | 2024-03-12 | 2024-04-10 |
+| [Team Tomodachi \- Tokai Remix](https://open.spotify.com/track/1JMN2uoAK1XVe1ZveJxIFo) | [Yuki Chiba](https://open.spotify.com/artist/6zOzMb66GICS4gVDtd1yvR), [SOCKS](https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn) | [Team Tomodachi \(Tokai Remix\)](https://open.spotify.com/album/5Xk6LCAzqYQY4WMyv4bfv9) | 2:45 | 2024-04-09 |  |
 | [Test Drive](https://open.spotify.com/track/5ARYBmzAgJcxs4wlQJNAuS) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Test Drive](https://open.spotify.com/album/5sZ3aPaqUMKyC9ssgHquE9) | 3:12 | 2024-04-09 |  |
 | [The Nails](https://open.spotify.com/track/2etvnOCgpIt7Zz0d44h5oM) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [The Nails](https://open.spotify.com/album/67QCIL6ILTQRP9e7MRMkgl) | 4:19 | 2023-12-12 | 2023-12-27 |
 | [THOUSAND LIGHTS](https://open.spotify.com/track/3rgJNEZzpKgkD8ZsVRtHs9) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [THOUSAND LIGHTS](https://open.spotify.com/album/6P1Dki5g316HmEPFqLAwGI) | 3:18 | 2024-02-06 | 2024-02-14 |
@@ -272,7 +273,7 @@
 | [ターミナル](https://open.spotify.com/track/0K5GWdH6o5PXnLlP2dAxSA) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [劇場](https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc) | 4:26 | 2023-12-19 | 2024-01-10 |
 | [ダブル・プッシュ・オフ。](https://open.spotify.com/track/5TiirG23LRTNq0hRuML8iq) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq), [A4。](https://open.spotify.com/artist/18pJlMkSYAxCTkpSzGrLR9) | [ダブル・プッシュ・オフ。](https://open.spotify.com/album/5TrVfUhS0GLtkJ8uapOmGF) | 2:54 | 2023-11-29 | 2023-12-20 |
 | [チャンスは平等](https://open.spotify.com/track/7zOjmnHDE1Wg7SPwbGdpPr) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [チャンスは平等](https://open.spotify.com/album/4zSEHTrIKneN7Zepl7Km9g) | 4:13 | 2024-03-19 | 2024-04-03 |
-| [チーム友達 \- 東海 Remix](https://open.spotify.com/track/4IvowW1NWTpXKUGSCZwW0K) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [SOCKS](https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn) | [チーム友達 \(東海 Remix\)](https://open.spotify.com/album/1ghhtRYZ7LLs6d5Hq1rFOY) | 2:45 | 2024-04-09 |  |
+| [チーム友達 \- 東海 Remix](https://open.spotify.com/track/4IvowW1NWTpXKUGSCZwW0K) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [SOCKS](https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn) | [チーム友達 \(東海 Remix\)](https://open.spotify.com/album/1ghhtRYZ7LLs6d5Hq1rFOY) | 2:45 | 2024-04-09 | 2024-04-11 |
 | [デッドエンド](https://open.spotify.com/track/505amJN26gbUe9tb9FtZL5) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Nautilus](https://open.spotify.com/album/1e1wT6uxWS5EwnHVeu6K0b) | 4:40 | 2024-03-12 | 2024-03-20 |
 | [ドライフラワー](https://open.spotify.com/track/3Vv1nFQzl47ZKArinuF3Es) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Adoの歌ってみたアルバム](https://open.spotify.com/album/4cnBUmiIGHBHozAVteqWXT) | 4:48 | 2023-12-12 | 2023-12-14 |
 | [ナイスアイディア！](https://open.spotify.com/track/0M7rTSchHlSDzbwjA7s9eu) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ナイスアイディア！](https://open.spotify.com/album/5iHRmLOt9Qn5hgqirPBKAU) | 3:15 | 2024-03-19 |  |

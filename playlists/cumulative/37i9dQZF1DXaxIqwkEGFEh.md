@@ -4,7 +4,7 @@
 
 > Strictly for the streets\. Cover: Future & Metro Boomin
 
-1,255 songs - 2 day 10 hr 14 min
+1,256 songs - 2 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -850,7 +850,8 @@
 | [PISTOL PACCIN](https://open.spotify.com/track/3ScMs95OaNlkrZuRe7gyYa) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Cottonwood 2 \(Deluxe 2.0\)](https://open.spotify.com/album/1ugjPDt5OYUeYmwYkgqEfQ) | 2:29 | 2024-02-02 |  |
 | [PLATINUM](https://open.spotify.com/track/54yKZ2DQV7laSMTaWKDJBu) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [PLATINUM](https://open.spotify.com/album/6QQYtQ7qZ6TXU2iskQXh9A) | 2:38 | 2023-06-16 | 2023-07-01 |
 | [Play For Keeps](https://open.spotify.com/track/3A78E3T3cAKMpHoHjCQ9K3) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Play For Keeps](https://open.spotify.com/album/2Yx3C8dKDdjJS3WTrUGV2p) | 2:58 | 2022-03-18 | 2022-04-02 |
-| [Play Me Outside](https://open.spotify.com/track/24zyiPWL052SKsWaCoFLvU) | [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe) | [Chosen One](https://open.spotify.com/album/6PeFIKJlGlsxLqPEKVI1gK) | 2:24 | 2024-02-09 |  |
+| [Play Me Outside](https://open.spotify.com/track/24zyiPWL052SKsWaCoFLvU) | [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe) | [Chosen One](https://open.spotify.com/album/6PeFIKJlGlsxLqPEKVI1gK) | 2:24 | 2024-02-09 | 2024-04-11 |
+| [Play Me Outside](https://open.spotify.com/track/2GhclJCdhPF3X8Ex9Su0pA) | [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe) | [Chosen One](https://open.spotify.com/album/3uxDpA36a597lDDgUTqIpr) | 2:24 | 2024-04-05 |  |
 | [Plenty](https://open.spotify.com/track/0jpyhIyvdVZUagbPP9IiZI) | [FaZe Kaysan](https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Plenty](https://open.spotify.com/album/097aY57QMnEguasSbYWyoW) | 3:58 | 2022-12-02 | 2023-03-04 |
 | [Plenty](https://open.spotify.com/track/2ss1LPi7nbrzUKjxsRxkWH) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Whale Games](https://open.spotify.com/album/3GjJR2eVc3KOAzrB1uTnca) | 1:42 | 2022-05-06 | 2022-07-02 |
 | [Pogo Stick](https://open.spotify.com/track/1qJQmFwpaW4RQEjw55nUjE) | [GMK](https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj) | [Pogo Stick](https://open.spotify.com/album/3TpiW7u9Ja6qQj2K7znFiW) | 2:26 | 2022-07-22 | 2022-07-30 |

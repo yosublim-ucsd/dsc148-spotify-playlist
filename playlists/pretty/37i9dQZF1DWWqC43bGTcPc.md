@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: ØZI x 落日飛車 \(Sunset Rollercoaster\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,391 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,521 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [最後一班車](https://open.spotify.com/track/2Xe9BalAo8ryezvsp2yPAs) | [PPlin](https://open.spotify.com/artist/6w4UFdB9juoTUzWhBJeOlw) | [最後一班車](https://open.spotify.com/album/4lcbQskGqnjH39FFs05huV) | 3:33 |
 | 50 | [唯一](https://open.spotify.com/track/6ENf77i5DmXDimXle5Ux3C) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [唯一](https://open.spotify.com/album/4o9Q4RFqR6deYGWOgUQ3nC) | 4:13 |
 
-Snapshot ID: `MCwyNmQ1YTgzZjRlMGNlMzRiMTZjNzk3OTBmMGViZTE1YTFkNjlhMGQ4`
+Snapshot ID: `MCw2ODM1YTQzNWM4ZWU0NDdkZjVjNjhkOTMzMGZkZjA5NDU3MjU2OWIz`

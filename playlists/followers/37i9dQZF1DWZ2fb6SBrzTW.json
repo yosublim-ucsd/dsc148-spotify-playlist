@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 30582,
+  "2024-04-11": 30618,
   "date_first_scraped": "2022-07-19",
   "description": "Your go to Afrobeats workout playlist ",
   "name": "Keep Fit Club ",
@@ -179,6 +179,36 @@
       "duration_ms": 182073,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/7zhLSGUbneW7Tm3wpp3HjY"
+    },
+    {
+      "album": {
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/1Xx9FuRYRHnop8tqo9Xm7b"
+      },
+      "artists": [
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172062,
+      "name": "Abracadabra (feat. Wizkid) - Remix",
+      "url": "https://open.spotify.com/track/4U5WkBkmsSJmpqpybXvMGZ"
     },
     {
       "album": {
@@ -511,7 +541,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 146000,
       "name": "Ara (Gen Gen Tin)",
       "url": "https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU"

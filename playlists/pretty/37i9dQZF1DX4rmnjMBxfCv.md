@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > The best dance and electronic songs in the MENA region\. Cover: Zerb, Sofiya Nzau
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,439 likes - 52 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,465 likes - 52 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 | 7 | [El Hob](https://open.spotify.com/track/07fRbyvuAdno6U4NtnlI2c) | [Pharonic Electronic](https://open.spotify.com/artist/2gQv5UbFmjuJ6jDIeLG6TA) | [El Hob](https://open.spotify.com/album/1V2RgQJtSriNJc5ai9CgPw) | 3:34 |
 | 8 | [Ahebak](https://open.spotify.com/track/4GLX8N95KtElLmZTp79os3) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74), [Joya](https://open.spotify.com/artist/1eR8UBKIijXBZhfnQMTq8r) | [Ahebak](https://open.spotify.com/album/1pInYMdKG9Nnt1QOluCcpG) | 5:22 |
 | 9 | [Andalusian \(feat\. Ribale Wehbe\)](https://open.spotify.com/track/6q9NkHUStU2RddAreEpomo) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Ribale Wehbe](https://open.spotify.com/artist/0aDFtp48TNejF5G7hqM4J9) | [Andalusian \(feat\. Ribale Wehbe\)](https://open.spotify.com/album/5ysZd6Tg1QMm90mLUSCCjK) | 4:21 |
-| 10 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 10 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/09QRjJiYl5FTaDKwee1cnR), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 11 | [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 |
 | 12 | [Habaytak \- R3HAB Remix](https://open.spotify.com/track/4YsUfCgWG0xYgjGcsk4SPG) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [GHIZLANE MELIH](https://open.spotify.com/artist/1uYBVm9FAaZlqfz00biCt7), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Habaytak \(R3HAB Remix\)](https://open.spotify.com/album/3qpkbDjRygBqmgrowMGPtq) | 2:26 |
 | 13 | [Shakshaka](https://open.spotify.com/track/2RGuapH4pwoOSIIdpPS5Ey) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Shakshaka](https://open.spotify.com/album/71GUT29ISc2e0qyokN06TX) | 3:26 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 | 51 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 |
 | 52 | [Bayen Habeit](https://open.spotify.com/track/29KS7kBSU77PrYGB6RVR5O) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Bayen Habeit](https://open.spotify.com/album/4RdUsMpepg4HbsFyaIpHsB) | 2:19 |
 
-Snapshot ID: `MCwwOTU5NzczMDgyYTQ2MzY4YTE5NmYyOTQ5ZjJjZmJhZGU2ZWU5ODZk`
+Snapshot ID: `MCxlOTk0ZGQyNmY1NTdlNGMwNmQyMDI3M2RjMTU5ZDg4ZGI5NjUwNTcx`

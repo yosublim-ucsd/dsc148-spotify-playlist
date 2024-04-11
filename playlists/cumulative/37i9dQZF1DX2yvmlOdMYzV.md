@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-684 songs - 1 day 13 hr 31 min
+685 songs - 1 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [He Will Follow You With His Eyes](https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1) | 3:45 | 2023-09-15 |  |
 | [Heavenly Mother](https://open.spotify.com/track/328rLNs6WQPOlFSPpIUy7E) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Lost In June \- EP](https://open.spotify.com/album/1n2Qha9Jrppqk5FXnWxWSX) | 3:59 | 2021-12-15 | 2023-01-28 |
 | [Hello](https://open.spotify.com/track/1Sr7G1nLlnAFZ8AKT7PuGo) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Hello](https://open.spotify.com/album/3eBHvRyUhfarjwJH0YK7HK) | 3:15 | 2023-03-31 | 2023-08-26 |
+| [HERE THEY COME](https://open.spotify.com/track/5H5eCRqsbOq8BlXgqjXJbu) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [HERE THEY COME](https://open.spotify.com/album/6F7eC5DNJNyX0wsy3Ll7IR) | 2:19 | 2024-03-29 |  |
 | [Here To Stay](https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Here To Stay](https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA) | 3:22 | 2024-04-05 |  |
 | [Higher Self](https://open.spotify.com/track/2KcaOSZlR03H41Nhmg2QyH) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Higher Self](https://open.spotify.com/album/1MQEYp0fugw64pyAodgnxe) | 4:01 | 2023-10-20 |  |
 | [Hip Dips](https://open.spotify.com/track/2DRBmze6Xcwi5VZt8XBNZh) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [& what else?](https://open.spotify.com/album/4p5YlAC56HCZOSDBNzqm8A) | 1:26 | 2023-05-19 | 2024-01-28 |
@@ -386,7 +387,7 @@
 | [Lying To You](https://open.spotify.com/track/67ngp6fHtPNrUGuGu4cvcm) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH) | [All For You](https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ) | 3:58 | 2023-04-28 | 2023-08-26 |
 | [LăVĭNDŭR](https://open.spotify.com/track/5TfndFjdJY502LOhS4S9wX) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [TheKAMAUU\-CASSETTE: ŭRTH GōLD](https://open.spotify.com/album/4qxxcHeWbjCYTiXVTeHArq) | 4:00 | 2021-12-15 | 2023-03-04 |
 | [L’Anthropofemme](https://open.spotify.com/track/5LDkPdCtlZpf5gWsFjghri) | [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [L’Anthropofemme](https://open.spotify.com/album/2rdk5oMRB4g6yBMxzXPv7I) | 3:10 | 2024-01-19 | 2024-03-09 |
-| [MAGIC!](https://open.spotify.com/track/03bFDCogqEAeXsiNdTBY1D) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [MAGIC!](https://open.spotify.com/album/7rZ8d3jhHarpijjU57Waqo) | 3:15 | 2023-05-12 |  |
+| [MAGIC!](https://open.spotify.com/track/03bFDCogqEAeXsiNdTBY1D) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [MAGIC!](https://open.spotify.com/album/7rZ8d3jhHarpijjU57Waqo) | 3:15 | 2023-05-12 | 2024-04-11 |
 | [Make Friends \- Pocket Size Radio Edit](https://open.spotify.com/track/2TO33go9HrlIUiduVua6Ic) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Make Friends](https://open.spotify.com/album/3o6yPI5w4ywLt8menXJ6Jm) | 4:08 | 2024-03-29 |  |
 | [Make It Better \(feat\. Smokey Robinson\)](https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:39 | 2021-12-15 | 2023-01-28 |
 | [makeitliveforever](https://open.spotify.com/track/2xXSBf2g9yFvNwL966JrUO) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [1988](https://open.spotify.com/album/53gOm5R7JN5DAkIuZymFOZ) | 1:50 | 2021-12-15 | 2022-02-12 |

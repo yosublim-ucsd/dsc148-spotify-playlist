@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO359MM7.md) - [plain]
 
 > This is Lil Baby\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,793 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,878 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO359MM7.md) - [plain]
 | 50 | [25k jacket \(feat\. Lil Baby\)](https://open.spotify.com/track/6tsVFchreYTt2OPXSOoFCX) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:00 |
 | 51 | [Trap \[Feat\. Lil Baby\]](https://open.spotify.com/track/46KjZQkVOB5rvzSCGKJrIO) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Ghetto Lenny's Love Songs](https://open.spotify.com/album/0Tbf101DgSbH9k9gOMYjAF) | 3:04 |
 
-Snapshot ID: `MCw1Zjc3ZTQwOTAyODc0MzJhMDAxYjNmM2EwMzkzMGM1MzA1MjlhZTcw`
+Snapshot ID: `MCxlYTQ0NTIzNDZmNzA5MTk5Nzc3OTA3YjFlOWVmYjUyOGQxM2Q3MTYy`

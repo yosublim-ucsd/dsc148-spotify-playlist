@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 
 > Thunder is coming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,843 likes - 40 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,840 likes - 40 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,22 +31,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 | 21 | [Job's Lament](https://open.spotify.com/track/6rK7VyAi0XGdhz4LdzXVZj) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [G\_d's Pee AT STATE'S END!](https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0) | 8:02 |
 | 22 | [It's Dark, It's Cold, It's Winter](https://open.spotify.com/track/0hZSni3035ItjVGyfYGiQX) | [sleepmakeswaves](https://open.spotify.com/artist/0EnDtiDrCgklr97QMJOSPv) | [sleepmakeswaves](https://open.spotify.com/album/4n51rWv1OwFWlYmrFNQFVp) | 4:50 |
 | 23 | [Unmake the Wild Light](https://open.spotify.com/track/7EmaLbhPGnQuw4riUkvlkp) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [Wild Light](https://open.spotify.com/album/3a68UJXba5ejXgM5K8BUVF) | 6:23 |
-| 24 | [Captured Moments](https://open.spotify.com/track/4ckmG9O7QH2qNA67QbDzjk) | [Collapse Under The Empire](https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY) | [Find a Place to Be Safe](https://open.spotify.com/album/7xnGXpy5HE5AbAgshq0wGw) | 4:25 |
-| 25 | [In Illusions Of Order](https://open.spotify.com/track/2wWQwx1ymkpCr4ItPUQ94g) | [Red Sparowes](https://open.spotify.com/artist/4MT9A89Dq8xRJ9hMvvPiJw) | [The Fear Is Excruciating, But Therein Lies The Answer](https://open.spotify.com/album/1mLisF7qgSwVDrQ4gklpcR) | 7:36 |
+| 24 | [In Illusions Of Order](https://open.spotify.com/track/2wWQwx1ymkpCr4ItPUQ94g) | [Red Sparowes](https://open.spotify.com/artist/4MT9A89Dq8xRJ9hMvvPiJw) | [The Fear Is Excruciating, But Therein Lies The Answer](https://open.spotify.com/album/1mLisF7qgSwVDrQ4gklpcR) | 7:36 |
+| 25 | [Captured Moments](https://open.spotify.com/track/4ckmG9O7QH2qNA67QbDzjk) | [Collapse Under The Empire](https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY) | [Find a Place to Be Safe](https://open.spotify.com/album/7xnGXpy5HE5AbAgshq0wGw) | 4:25 |
 | 26 | [De la Orquídea y la Avispa](https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [De la Orquídea y la Avispa](https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d) | 6:47 |
 | 27 | [Children](https://open.spotify.com/track/6lgUuPNqAPnihWXs66mRVP) | [sleepmakeswaves](https://open.spotify.com/artist/0EnDtiDrCgklr97QMJOSPv) | [Children](https://open.spotify.com/album/54HUczZ6IE8t8rrDuhWLaE) | 4:34 |
 | 28 | [Glow](https://open.spotify.com/track/0LF29vtBiXGfFdLzq0dkdo) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Chronicle](https://open.spotify.com/album/0VIxw6zt84N7sWxGzgXEOU) | 4:16 |
 | 29 | [Love in the Void](https://open.spotify.com/track/6pta8oSJZZ8ypEgAN3zeNY) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Love in the Void](https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX) | 5:03 |
 | 30 | [Radio Protector](https://open.spotify.com/track/1QuJm7XRpFjEfOU6A01mw2) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [Radio Protector](https://open.spotify.com/album/3ruXFYPxKwCqPIzZtxjGmg) | 5:28 |
-| 31 | [Balabaristas](https://open.spotify.com/track/0iJhP5gxnbgprXwQOkZD52) | [Tristeza](https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5) | [A Colores](https://open.spotify.com/album/2G1xCfcdhD34iLvclBqfM6) | 6:07 |
-| 32 | [Safety in Numbers](https://open.spotify.com/track/5RDhMJXMbRMIdRkvV3w2Df) | [Jakob](https://open.spotify.com/artist/0SBEeMzVANjUpI6gTQdTic) | [Solace](https://open.spotify.com/album/2iNLwx97kVhWiEAdJqALOL) | 7:53 |
+| 31 | [Safety in Numbers](https://open.spotify.com/track/5RDhMJXMbRMIdRkvV3w2Df) | [Jakob](https://open.spotify.com/artist/0SBEeMzVANjUpI6gTQdTic) | [Solace](https://open.spotify.com/album/2iNLwx97kVhWiEAdJqALOL) | 7:53 |
+| 32 | [Balabaristas](https://open.spotify.com/track/0iJhP5gxnbgprXwQOkZD52) | [Tristeza](https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5) | [A Colores](https://open.spotify.com/album/2G1xCfcdhD34iLvclBqfM6) | 6:07 |
 | 33 | [Her Beating Wings](https://open.spotify.com/track/2FGsWazGl3pdFX1kNk2NY1) | [This Patch of Sky](https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf) | [These Small Spaces](https://open.spotify.com/album/7ACcoSiFkGjT3TlntaogzB) | 6:59 |
 | 34 | [From Embrace To Embrace](https://open.spotify.com/track/2AHejGSGKvO4qu4f26uyEa) | [Joy Wants Eternity](https://open.spotify.com/artist/4ycYjrk65Tk9G1rhkzGjEy) | [You Who Pretend To Sleep](https://open.spotify.com/album/7G1o9IjZhkUIsQ1IGb7JDs) | 6:23 |
 | 35 | [The Letters We'll Never Send](https://open.spotify.com/track/4HrZYWhVwy6oOzn5BUPjIv) | [Break My Fucking Sky](https://open.spotify.com/artist/3mFTiX7WrhpcmoJLghp54A) | [The Letters We'll Never Send](https://open.spotify.com/album/1X72RQSH32yVaSlTvrIlsL) | 6:50 |
 | 36 | [Alaska](https://open.spotify.com/track/4h0iGeA83sYvsngisIw92M) | [Kwoon](https://open.spotify.com/artist/1ctreRQSlu47UoP3po9zd2) | [Alaska](https://open.spotify.com/album/5hSPs0thai8mK30ivMFHeY) | 6:43 |
 | 37 | [We'll Find the Light in Darkness](https://open.spotify.com/track/1aWPIurjGonozOh46AzNcj) | [The Mantra Discord](https://open.spotify.com/artist/7qGUciCek4iIXfo65Gl7zA) | [We'll Find the Light in Darkness](https://open.spotify.com/album/7JOwJdBWGN0GAKcEf1qanb) | 4:41 |
-| 38 | [Golden Hill](https://open.spotify.com/track/3FhASv6CcevRilYRxpCZrK) | [Tristeza](https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5) | [Spine And Sensory \(Expanded And Remastered\)](https://open.spotify.com/album/6fYcfqLS4HumMAdPHpH9Z6) | 4:52 |
-| 39 | [Magik](https://open.spotify.com/track/0kuRZfnraTXD8p8Qr4FMKA) | [Glasgow Coma Scale](https://open.spotify.com/artist/3OilnTuGkR6gZKZa0sV8E8) | [Sirens](https://open.spotify.com/album/0rJ9KcNjZ8MjYBuviSzMmV) | 6:41 |
-| 40 | [Logic of a Dream](https://open.spotify.com/track/1WQ96gvJgsd3CwxMPEUZYC) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Wilderness](https://open.spotify.com/album/1MUhDxkdqg5IyNYylLu7P8) | 6:37 |
+| 38 | [Magik](https://open.spotify.com/track/0kuRZfnraTXD8p8Qr4FMKA) | [Glasgow Coma Scale](https://open.spotify.com/artist/3OilnTuGkR6gZKZa0sV8E8) | [Sirens](https://open.spotify.com/album/0rJ9KcNjZ8MjYBuviSzMmV) | 6:41 |
+| 39 | [Golden Hill](https://open.spotify.com/track/3FhASv6CcevRilYRxpCZrK) | [Tristeza](https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5) | [Spine And Sensory \(Expanded And Remastered\)](https://open.spotify.com/album/6fYcfqLS4HumMAdPHpH9Z6) | 4:52 |
+| 40 | [Colors In Stereo](https://open.spotify.com/track/2ThL97UJtUQwqZHpgtkktm) | [Moonlit Sailor](https://open.spotify.com/artist/3YX8jgxBqkl30HXjazVXXU) | [Colors In Stereo](https://open.spotify.com/album/6QWZgvK9Gid1Nu8w3rLfCx) | 3:39 |
 
-Snapshot ID: `MCxmODA0ZGU3ZTgxNWQwNTNiN2I2OWY4OGY0Yjk3YjhiNTBkMjUzNTQy`
+Snapshot ID: `MCw4NTc3ZTZjYzJhYjQxMGE1Mzk3MWZmODM1MGNlM2Q2YjJlOTZkNzZl`

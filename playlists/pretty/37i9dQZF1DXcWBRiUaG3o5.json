@@ -1,12 +1,12 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1269896,
+  "num_followers": 1269866,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWU3NDAyOWRhNWQ2NmY5MzYzZDBiOWNiMzMyYjJiMzAyMzU3NzZm",
+  "snapshot_id": "MCxhNTExY2I3YjM2YTc1N2Q4ZTY4ZDg3OWJiMmFhMjI1NDc3OTNlZDk4",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 227488,
+      "name": "In Agreement",
+      "url": "https://open.spotify.com/track/51BXUxZhfG6V51uXNwRHe6"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Lonely Nights",
         "url": "https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 219533,
       "name": "Lonely Nights",
       "url": "https://open.spotify.com/track/1NDRPRFMVnmjqfyfokw2Kq"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "When The World Stopped Moving: The Live EP",
-        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 227488,
-      "name": "In Agreement",
-      "url": "https://open.spotify.com/track/51BXUxZhfG6V51uXNwRHe6"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Lice",
         "url": "https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 183767,
       "name": "Siren Song",
       "url": "https://open.spotify.com/track/3nKCmdfFSB49NPGRsfD4wh"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Hummingbird",
-        "url": "https://open.spotify.com/album/3E5U6w1a0Zw9BDFAzo3giD"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        }
-      ],
-      "duration_ms": 317266,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/2eZZZSbd7OQ6g2m9ww9MXH"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Aldous Harding",
         "url": "https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 338639,
       "name": "Stop Your Tears",
       "url": "https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/3E5U6w1a0Zw9BDFAzo3giD"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        }
+      ],
+      "duration_ms": 317266,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/2eZZZSbd7OQ6g2m9ww9MXH"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "In My Garden",
-        "url": "https://open.spotify.com/album/0ECV8Ah8uUGnJxPjCOjDpe"
-      },
-      "artists": [
-        {
-          "name": "Isobel Anderson",
-          "url": "https://open.spotify.com/artist/1tUN2f2byOej4LZdDq1UO9"
-        }
-      ],
-      "duration_ms": 186560,
-      "name": "Waiting for You",
-      "url": "https://open.spotify.com/track/09GKItLsZLhzxdz70rKhCt"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "There's Always Glimmer (Deluxe Version)",
         "url": "https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 152320,
       "name": "Smoke - Acoustic",
       "url": "https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "In My Garden",
+        "url": "https://open.spotify.com/album/0ECV8Ah8uUGnJxPjCOjDpe"
+      },
+      "artists": [
+        {
+          "name": "Isobel Anderson",
+          "url": "https://open.spotify.com/artist/1tUN2f2byOej4LZdDq1UO9"
+        }
+      ],
+      "duration_ms": 186560,
+      "name": "Waiting for You",
+      "url": "https://open.spotify.com/track/09GKItLsZLhzxdz70rKhCt"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Sang About It",
-        "url": "https://open.spotify.com/album/4mczmDqhr8dVQIQP8mdBJZ"
-      },
-      "artists": [
-        {
-          "name": "Ethan Tasch",
-          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
-        }
-      ],
-      "duration_ms": 133786,
-      "name": "Sang About It",
-      "url": "https://open.spotify.com/track/7r6SeYvJXds6JAxpeeISmg"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Blue Heron Suite",
         "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 268080,
       "name": "Blue Heron",
       "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Sang About It",
+        "url": "https://open.spotify.com/album/4mczmDqhr8dVQIQP8mdBJZ"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        }
+      ],
+      "duration_ms": 133786,
+      "name": "Sang About It",
+      "url": "https://open.spotify.com/track/7r6SeYvJXds6JAxpeeISmg"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1635,22 +1635,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Ain't No Grave",
-        "url": "https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj"
+        "name": "Sweet Return",
+        "url": "https://open.spotify.com/album/3SVbamqXTzLhP9x6yDeHSK"
       },
       "artists": [
         {
-          "name": "Crooked Still",
-          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
-        },
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+          "name": "Diamond Thug",
+          "url": "https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX"
         }
       ],
-      "duration_ms": 198313,
-      "name": "Ain't No Grave (Sparse)",
-      "url": "https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8"
+      "duration_ms": 135077,
+      "name": "Sweet Return",
+      "url": "https://open.spotify.com/track/5nLX5d1k44smyu9OT7tydf"
     }
   ],
   "unique_name": "Evening Acoustic",

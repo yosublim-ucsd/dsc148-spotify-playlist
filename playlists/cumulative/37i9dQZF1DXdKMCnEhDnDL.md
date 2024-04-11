@@ -2,7 +2,7 @@
 
 ### [Beste van NL](https://open.spotify.com/playlist/37i9dQZF1DXdKMCnEhDnDL)
 
-> De beste Nederlandse hits van vroeger en nu\. Cover: MEAU
+> De beste Nederlandse hits van vroeger en nu\. Cover: FLEMMING, Zoë Tauran & Ronnie Flex
 
 227 songs - 11 hr 44 min
 

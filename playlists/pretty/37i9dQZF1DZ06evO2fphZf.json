@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 9136,
+  "num_followers": 9144,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTc0OWIyOTViNGZjODEwNDdjYzJmNDUyNzc1MjI2NWExYWNjYmQy",
+  "snapshot_id": "MCxjOTY3MDkzYmZjYTkxNTRkYjhlNDcxNDMxMmQzMTZlNTczM2VmNDE1",
   "tracks": [
     {
       "added_at": null,
@@ -183,26 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "girls like me don't cry (remix) ft. MIN",
-        "url": "https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "MIN",
-          "url": "https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw"
-        }
-      ],
-      "duration_ms": 213283,
-      "name": "girls like me don't cry (remix) ft. MIN",
-      "url": "https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "girls like me don't cry",
         "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 197557,
       "name": "trust (feat. RINI)",
       "url": "https://open.spotify.com/track/5tHWgoCChShsl9BJDkZDcQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "girls like me don't cry (remix) ft. MIN",
+        "url": "https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "MIN",
+          "url": "https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw"
+        }
+      ],
+      "duration_ms": 213283,
+      "name": "girls like me don't cry (remix) ft. MIN",
+      "url": "https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 173482,
-      "name": "so into you - Spotify Singles",
-      "url": "https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "girls like me don't cry",
         "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 185263,
       "name": "obsessed",
       "url": "https://open.spotify.com/track/4eJHrA5Ujucbjs7ieKYOUQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 173482,
+      "name": "so into you - Spotify Singles",
+      "url": "https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI"
     },
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "girls like me don't cry",
+        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 157199,
+      "name": "u should feel special",
+      "url": "https://open.spotify.com/track/3xpY2T84iSw9bAbJ8zl7Dt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "i hope u see this (deluxe)",
         "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 168000,
       "name": "x's & o's (feat. DCMBR)",
       "url": "https://open.spotify.com/track/7bhTH2uW2wSAl4xDEXFjCA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "girls like me don't cry",
-        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 157199,
-      "name": "u should feel special",
-      "url": "https://open.spotify.com/track/3xpY2T84iSw9bAbJ8zl7Dt"
     },
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "girls like me don't cry",
+        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 166155,
+      "name": "dumb luck",
+      "url": "https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "i hope u see this (deluxe)",
         "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 169411,
       "name": "inhibitions (feat. P-Lo)",
       "url": "https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "girls like me don't cry",
-        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 166155,
-      "name": "dumb luck",
-      "url": "https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Yours",
-        "url": "https://open.spotify.com/album/1hdziZxJ3jB02fmFhfhtVD"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 172608,
-      "name": "Never Yours",
-      "url": "https://open.spotify.com/track/3a9o2LTowJfEYBvp19efLy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "day dream",
         "url": "https://open.spotify.com/album/3i8F0QlXAq0j2EWdRLGz3d"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 210909,
       "name": "day dream",
       "url": "https://open.spotify.com/track/08JJQk3E3UAEqhRByXJKW8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Yours",
+        "url": "https://open.spotify.com/album/1hdziZxJ3jB02fmFhfhtVD"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 172608,
+      "name": "Never Yours",
+      "url": "https://open.spotify.com/track/3a9o2LTowJfEYBvp19efLy"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/1nOfGMBJATb0Cbu1Xpv3ie"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i hope u see this (deluxe)",
         "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 204000,
       "name": "distance between us",
       "url": "https://open.spotify.com/track/0U3yx4Wnmtox0XjsvldOeY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/1nOfGMBJATb0Cbu1Xpv3ie"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "holiday szn",
-        "url": "https://open.spotify.com/album/2a9Re5YephRD9LvoySDKcs"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 167352,
-      "name": "holiday szn",
-      "url": "https://open.spotify.com/track/0bpRZSjPHbZ3zl5iRszVwi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Don't Wanna Rap No More",
         "url": "https://open.spotify.com/album/2NZQvOFm3oJNXg9q5fbQQg"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 232058,
       "name": "Love Come Down",
       "url": "https://open.spotify.com/track/1psyxX7jRaZU8qcUxWQx4z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "holiday szn",
+        "url": "https://open.spotify.com/album/2a9Re5YephRD9LvoySDKcs"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 167352,
+      "name": "holiday szn",
+      "url": "https://open.spotify.com/track/0bpRZSjPHbZ3zl5iRszVwi"
     },
     {
       "added_at": null,

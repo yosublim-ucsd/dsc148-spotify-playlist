@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Dunsin Oyekan
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,641 likes - 59 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,714 likes - 59 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 58 | [Fear Not \- Live](https://open.spotify.com/track/6JNOrgmjEmlIkJGLPak4hO) | [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Live at Soweto Theater](https://open.spotify.com/album/7e0vBGk87YGodfK0eFnho2) | 7:53 |
 | 59 | [Ntate Kemang \- Live](https://open.spotify.com/track/6PeraA6oM2pDVWXRLbKx8t) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p), [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa) | [Songs From Spirit Of Praise \(Live\)](https://open.spotify.com/album/48LYDfZnW8cRlX6kg789yK) | 4:29 |
 
-Snapshot ID: `MCw0OGNmZWI0MmQwNWRkNmQ0NDI0ODVhZGExZDYwMTE3ZDdlNjdjZGNk`
+Snapshot ID: `MCw0ZTEyN2FkY2MyM2JkZWMyMjNlMzM4NjgyMTgxZDI3ODY0NDdhMDI0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:0yTmOzQtdJ0sRxikIoMpug">Sandra Reizer</a> \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,886 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,907 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Kamui](https://open.spotify.com/track/6loyFbjTvacXk5g358t5H6) | [Polish Ski Jumping](https://open.spotify.com/artist/4jUgxKqlweTG4tSZcjzM1f) | [Kamui](https://open.spotify.com/album/6aF17pRKee9gJifrCDTV39) | 3:13 |
 | 100 | [Dwa Tygodnie](https://open.spotify.com/track/3SKqfa0pZSJPSRUkVHsO4K) | [Ciepłe Noce](https://open.spotify.com/artist/1O2k6qSwT5Q9BzIdNrqflD) | [Dwa Tygodnie](https://open.spotify.com/album/34dOi6ulibgjEZKaR5wZ21) | 4:29 |
 
-Snapshot ID: `MCw3NTc1NWNkZjQzNmY3ZjdmMjliMGJkOWZkZGYyOWI5NTViMjVlYWEw`
+Snapshot ID: `MCxlOThlYzhjMWM5NmVmZjljNzIzNWIwNGI1MzAzYmY0YzZlYzdiY2M2`

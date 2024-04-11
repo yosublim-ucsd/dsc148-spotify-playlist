@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 ### [HOUSE MUSIC 2024 \| TOP 100 DANCE HITS](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
 
-> The hottest dance hits, updated every week.\. All the biggest dance, house and electronic music to vibe to in 2024!
+> The hottest dance hits, updated every week.\. All the biggest summer dance, house and electronic music to vibe to in 2024!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,361,663 likes - 100 songs - 4 hr 45 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,361,579 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 99 | [Praise Me \(feat\. Stefi Novo\)](https://open.spotify.com/track/4A4OFV3OWOi46aQ3Hw0cs0) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Stefi Novo](https://open.spotify.com/artist/3key79uXViuXxdyOgRfoTo) | [Praise Me \(feat\. Stefi Novo\)](https://open.spotify.com/album/4vVgunQxEOEwlogDQTv3f7) | 2:41 |
 | 100 | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/track/3lqfTqap6aFMlYGEOyDZvt) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ) | 2:30 |
 
-Snapshot ID: `MzU3MSwzMTg0Zjc4ZmQwMTBhNDUxNjY1ODA1NmEzOTIwMmRhMDVlODhkMDY3`
+Snapshot ID: `MzU3MixhMmYyYzM4NTdhY2M3OGY3NjcyY2E3ZmIzN2Y0MWU4MGM4ZTk5Yzk5`

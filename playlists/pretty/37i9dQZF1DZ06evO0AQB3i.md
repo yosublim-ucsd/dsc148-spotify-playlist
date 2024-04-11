@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 
 > This is Alabama Shakes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,053 likes - 16 songs - 53 min 6 sec
+[Spotify](https://open.spotify.com/user/spotify) - 52,066 likes - 16 songs - 53 min 6 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 | 15 | [Goin' To The Party](https://open.spotify.com/track/4MFQxc7nmKBzMDplDb5UGL) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 1:45 |
 | 16 | [Someday](https://open.spotify.com/track/41xg3SjdwFyAp0kao72944) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:19 |
 
-Snapshot ID: `MCxmZmQ2NWFjZGMxODQ5ZjQ4OGU3N2RmZWVmMTQ0YzBmYmU5MWY4OWQw`
+Snapshot ID: `MCw5Y2YzZGIwNjBlZjBhMDAxNDY3MGY2OTNhMGI4ZjZiMDIyMGNkM2Y4`

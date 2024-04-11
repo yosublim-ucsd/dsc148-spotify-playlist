@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 65041,
+  "num_followers": 65062,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWUxMTNlMTc2NjBhZTk0MzMxZGFmNmUzNzNjM2UzYWE1MmFmNzNl",
+  "snapshot_id": "MCw1ZTNjMGMxNTE5NDc0Y2Y3Y2M0ZDIzODcxMDZjNTY3YWE1NjcxNzVk",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Estamos Tan Locos",
-        "url": "https://open.spotify.com/album/7gZvRRiER5mk2ZtqBfaTu3"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 206354,
-      "name": "No Estamos Tan Locos",
-      "url": "https://open.spotify.com/track/1uZJgxYvEOTlyY2baL0m17"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FINAL (Vol.2)",
         "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 164649,
       "name": "Ll\u00f3rame Un R\u00edo",
       "url": "https://open.spotify.com/track/3LmvPdmYvNEe9D7BTsonsX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Estamos Tan Locos",
+        "url": "https://open.spotify.com/album/7gZvRRiER5mk2ZtqBfaTu3"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 206354,
+      "name": "No Estamos Tan Locos",
+      "url": "https://open.spotify.com/track/1uZJgxYvEOTlyY2baL0m17"
     },
     {
       "added_at": null,

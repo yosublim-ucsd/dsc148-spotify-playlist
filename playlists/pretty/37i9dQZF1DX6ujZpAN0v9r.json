@@ -1,12 +1,12 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 596500,
+  "num_followers": 596774,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjZkMGQ2MjQyY2ViNjEyZjE2NzQ2ZDA2MjU3NzI4MTAzYjNhMjU5",
+  "snapshot_id": "MCxiZjAzMzNkZGRmZTM5Zjk5OWM3ZjE0OTRhNzY2NGM2Njg2NWQzOThk",
   "tracks": [
     {
       "added_at": "2023-12-08 16:49:10",
@@ -411,22 +411,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "The Crow Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
+        "name": "Turn Into",
+        "url": "https://open.spotify.com/album/1tW2xzjwARfKVOQp6e43Fj"
       },
       "artists": [
         {
-          "name": "Medicine",
-          "url": "https://open.spotify.com/artist/61uYVpJPgBq9dNrfUy6kTp"
-        },
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
         }
       ],
-      "duration_ms": 231226,
-      "name": "Time Baby III",
-      "url": "https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98"
+      "duration_ms": 203536,
+      "name": "Turn Into",
+      "url": "https://open.spotify.com/track/0QCpDMWI8zQTB58WqVgu7C"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -447,18 +443,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Turn Into",
-        "url": "https://open.spotify.com/album/1tW2xzjwARfKVOQp6e43Fj"
+        "name": "The Crow Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
       "artists": [
         {
-          "name": "Jay Som",
-          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+          "name": "Medicine",
+          "url": "https://open.spotify.com/artist/61uYVpJPgBq9dNrfUy6kTp"
+        },
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
         }
       ],
-      "duration_ms": 203536,
-      "name": "Turn Into",
-      "url": "https://open.spotify.com/track/0QCpDMWI8zQTB58WqVgu7C"
+      "duration_ms": 231226,
+      "name": "Time Baby III",
+      "url": "https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Creation",
-        "url": "https://open.spotify.com/album/7MkfRXHzsO8yK7wD9unGzS"
-      },
-      "artists": [
-        {
-          "name": "The Daysleepers",
-          "url": "https://open.spotify.com/artist/1geEJC0mAf9bjfmYCffS9F"
-        }
-      ],
-      "duration_ms": 301224,
-      "name": "Flood in Heaven",
-      "url": "https://open.spotify.com/track/2KqKu9seZepmo9uKo6VyD8"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "In the Presence of Nothing",
         "url": "https://open.spotify.com/album/2RWhRlMW0F8urFf7yRLXNP"
       },
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Psychocandy",
-        "url": "https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru"
+        "name": "Creation",
+        "url": "https://open.spotify.com/album/7MkfRXHzsO8yK7wD9unGzS"
       },
       "artists": [
         {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+          "name": "The Daysleepers",
+          "url": "https://open.spotify.com/artist/1geEJC0mAf9bjfmYCffS9F"
         }
       ],
-      "duration_ms": 102333,
-      "name": "Taste of Cindy",
-      "url": "https://open.spotify.com/track/7hyvnzr9Vba4tlvIs9ZHlg"
+      "duration_ms": 301224,
+      "name": "Flood in Heaven",
+      "url": "https://open.spotify.com/track/2KqKu9seZepmo9uKo6VyD8"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Psychocandy",
+        "url": "https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "duration_ms": 102333,
+      "name": "Taste of Cindy",
+      "url": "https://open.spotify.com/track/7hyvnzr9Vba4tlvIs9ZHlg"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Hover",
         "url": "https://open.spotify.com/album/1SRaji5f1FPUmN6k94Mt20"
       },
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "The Comforts of Madness (30th Anniversary Reissue)",
-        "url": "https://open.spotify.com/album/25CMjoxhvBmncIaTPMWf4c"
-      },
-      "artists": [
-        {
-          "name": "Pale Saints",
-          "url": "https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA"
-        }
-      ],
-      "duration_ms": 112265,
-      "name": "She Rides the Waves - John Peel Sessions",
-      "url": "https://open.spotify.com/track/04pPgXeGkAxAvyhvh09hqc"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Ultra Vivid Scene",
         "url": "https://open.spotify.com/album/7LTgeT90u75BlVhweJAC5f"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 249853,
       "name": "Mercy Seat",
       "url": "https://open.spotify.com/track/5OY9UsxOhXpCqhAbI5csui"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "The Comforts of Madness (30th Anniversary Reissue)",
+        "url": "https://open.spotify.com/album/25CMjoxhvBmncIaTPMWf4c"
+      },
+      "artists": [
+        {
+          "name": "Pale Saints",
+          "url": "https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA"
+        }
+      ],
+      "duration_ms": 112265,
+      "name": "She Rides the Waves - John Peel Sessions",
+      "url": "https://open.spotify.com/track/04pPgXeGkAxAvyhvh09hqc"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "In Between",
-        "url": "https://open.spotify.com/album/01wXcpwki6IvQo0ViDDig1"
-      },
-      "artists": [
-        {
-          "name": "Young Prisms",
-          "url": "https://open.spotify.com/artist/62Xs9S1gahH6vGEJ24qdkK"
-        }
-      ],
-      "duration_ms": 273533,
-      "name": "Runner",
-      "url": "https://open.spotify.com/track/0RQxFgbBERaBh9S2GEzXrk"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Whirlpool (Expanded Edition)",
         "url": "https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 253000,
       "name": "Guilt",
       "url": "https://open.spotify.com/track/21v5LW9SrY0dEbU0CicuHk"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "In Between",
+        "url": "https://open.spotify.com/album/01wXcpwki6IvQo0ViDDig1"
+      },
+      "artists": [
+        {
+          "name": "Young Prisms",
+          "url": "https://open.spotify.com/artist/62Xs9S1gahH6vGEJ24qdkK"
+        }
+      ],
+      "duration_ms": 273533,
+      "name": "Runner",
+      "url": "https://open.spotify.com/track/0RQxFgbBERaBh9S2GEzXrk"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "A Gilded Eternity",
-        "url": "https://open.spotify.com/album/6EnYB0SzDQeAUN7qLgCIPs"
-      },
-      "artists": [
-        {
-          "name": "Loop",
-          "url": "https://open.spotify.com/artist/0ReGrqp2iQLy9fySkDCIDh"
-        }
-      ],
-      "duration_ms": 367973,
-      "name": "Vapour",
-      "url": "https://open.spotify.com/track/1PsqU9ouv5JaRpdygiv6eu"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "In Ribbons",
         "url": "https://open.spotify.com/album/0VmunE358t7BiH4hOint6k"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 238226,
       "name": "Ordeal",
       "url": "https://open.spotify.com/track/2ve1LxvPazqDfcr92eL9UL"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "A Gilded Eternity",
+        "url": "https://open.spotify.com/album/6EnYB0SzDQeAUN7qLgCIPs"
+      },
+      "artists": [
+        {
+          "name": "Loop",
+          "url": "https://open.spotify.com/artist/0ReGrqp2iQLy9fySkDCIDh"
+        }
+      ],
+      "duration_ms": 367973,
+      "name": "Vapour",
+      "url": "https://open.spotify.com/track/1PsqU9ouv5JaRpdygiv6eu"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Honey's Dead",
-        "url": "https://open.spotify.com/album/1hsluRV3WUPpeSXSdSL5HF"
-      },
-      "artists": [
-        {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
-        }
-      ],
-      "duration_ms": 220693,
-      "name": "Reverence",
-      "url": "https://open.spotify.com/track/2ox2saGAHVx9mhjk8WH50K"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Outside (briefly)",
         "url": "https://open.spotify.com/album/0YclCtJHjo26eO6NvNdSl7"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 291739,
       "name": "Passing Thing",
       "url": "https://open.spotify.com/track/0nTD0BNGH2tiAMn0A9kaQE"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Honey's Dead",
+        "url": "https://open.spotify.com/album/1hsluRV3WUPpeSXSdSL5HF"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "duration_ms": 220693,
+      "name": "Reverence",
+      "url": "https://open.spotify.com/track/2ox2saGAHVx9mhjk8WH50K"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "The Comforts of Madness (30th Anniversary Reissue)",
-        "url": "https://open.spotify.com/album/25CMjoxhvBmncIaTPMWf4c"
-      },
-      "artists": [
-        {
-          "name": "Pale Saints",
-          "url": "https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA"
-        }
-      ],
-      "duration_ms": 153554,
-      "name": "You Tear the World in Two - Woodhouse Studio LP Demo - Remastered",
-      "url": "https://open.spotify.com/track/5pDey3D5oUHwFqoHHlT4nl"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Telling Tales",
         "url": "https://open.spotify.com/album/2cLkNGHnApbLqGc4xMc8kg"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 252499,
       "name": "Telling Tales",
       "url": "https://open.spotify.com/track/3AfZWVkAf2ipi68BMVvfwq"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "The Comforts of Madness (30th Anniversary Reissue)",
+        "url": "https://open.spotify.com/album/25CMjoxhvBmncIaTPMWf4c"
+      },
+      "artists": [
+        {
+          "name": "Pale Saints",
+          "url": "https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA"
+        }
+      ],
+      "duration_ms": 153554,
+      "name": "You Tear the World in Two - Woodhouse Studio LP Demo - Remastered",
+      "url": "https://open.spotify.com/track/5pDey3D5oUHwFqoHHlT4nl"
     },
     {
       "added_at": "2023-07-17 18:59:20",

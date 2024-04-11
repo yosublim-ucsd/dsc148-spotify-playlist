@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 871569,
+  "2024-04-11": 871771,
   "date_first_scraped": "2023-11-11",
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
   "name": "This Is J. Cole",
@@ -343,7 +343,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 142640,
       "name": "Fever",
       "url": "https://open.spotify.com/track/6XkIQqAsFjk1XfD4L7G6qR"
@@ -1137,6 +1137,28 @@
       "duration_ms": 235480,
       "name": "Snow On Tha Bluff",
       "url": "https://open.spotify.com/track/1oOEkBNp4zWnkD7nWjJdog"
+    },
+    {
+      "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135213,
+      "name": "Stealth Mode (feat. Bas)",
+      "url": "https://open.spotify.com/track/3zyjnHtoi8AtiGgZFnJP7O"
     },
     {
       "album": {

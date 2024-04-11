@@ -15836,7 +15836,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 255506,
       "name": "Ease",
       "url": "https://open.spotify.com/track/1YLz7kcBKxNsQBBbV3uIHS"
@@ -27912,7 +27912,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 220515,
       "name": "Jaye Lo",
       "url": "https://open.spotify.com/track/4fpkZnuLnjvVrpScd0tyMn"
@@ -28536,6 +28536,24 @@
       "duration_ms": 179500,
       "name": "Just You and I",
       "url": "https://open.spotify.com/track/3OusHps31Mbv69fUclwQHY"
+    },
+    {
+      "album": {
+        "name": "Kaleidoscope Daydreaming",
+        "url": "https://open.spotify.com/album/1aFn6yg47NDu9QbXTv7Hq0"
+      },
+      "artists": [
+        {
+          "name": "Yasmine Ross",
+          "url": "https://open.spotify.com/artist/2alXtssNaLUnqz9n2hvevJ"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206783,
+      "name": "Kaleidoscope Daydreaming",
+      "url": "https://open.spotify.com/track/3BB2gPH00aLM3ozeJsAtv0"
     },
     {
       "album": {
@@ -40308,7 +40326,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 226374,
       "name": "Over You Now",
       "url": "https://open.spotify.com/track/1e1p5PE3Hjyj7Tvug6oUiu"
@@ -41130,7 +41148,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 170411,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/5jwI0AZfAkyV5wEma7r2jq"
@@ -50773,6 +50791,24 @@
     },
     {
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/3VAw01yBhYZRUN4VTVrfR3"
+      },
+      "artists": [
+        {
+          "name": "Echo Thrills",
+          "url": "https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161799,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1Mp8BaCEIEXFEDmaZDZ83V"
+    },
+    {
+      "album": {
         "name": "Sunshine (I Can Fly)",
         "url": "https://open.spotify.com/album/66Dlt7sQWMbZRcincRIk3D"
       },
@@ -58484,7 +58520,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 185400,
       "name": "Weekend Vibes",
       "url": "https://open.spotify.com/track/3hLMHKSEs9STlfJnHNxYAT"
@@ -60630,7 +60666,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 125962,
       "name": "Yanni",
       "url": "https://open.spotify.com/track/2Xo9G2vUXVB7MrGFjqBtLC"

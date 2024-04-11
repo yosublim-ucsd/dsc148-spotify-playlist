@@ -4,7 +4,7 @@
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 8 min
+59 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,8 +31,9 @@
 | [EL NIÑO FAME](https://open.spotify.com/track/0qbKFZVCMIZ9LWyOEVTeeP) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 2:38 | 2024-04-10 |  |
 | [El Samurai](https://open.spotify.com/track/3PjPdmbhzvDRt7lSCrDtpr) | [Buknas De Culiancan](https://open.spotify.com/artist/4ltNeZd8JcwBALDRoTRVpU), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0), [La Edición de Culiacán](https://open.spotify.com/artist/14DIWXxTBoAzGJNsAFvNWU), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Los Favoritos](https://open.spotify.com/artist/1Ti9TrFc0eVpEmNngPt5Iy), [Ruta 15](https://open.spotify.com/artist/4k9ZhU49pleTTjKqyrlNlZ) | [Corridos De Accionar](https://open.spotify.com/album/03xxMNyDSb2YvMPMwF7O9r) | 2:49 | 2024-01-29 |  |
 | [El Terminator](https://open.spotify.com/track/1QQeHaqtG8tOU8BbCWVPf6) | [Christian Nava](https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [El Terminator](https://open.spotify.com/album/6k6fcNBK814YrhGv833xc3) | 2:55 | 2024-01-29 |  |
+| [EL TERMINATOR](https://open.spotify.com/track/6gVc3POmDDgTqia2v3xdKg) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 2:35 | 2024-04-11 |  |
 | [El Uno Al 7](https://open.spotify.com/track/6xTQCejd4DEUcJyEHl3Ahj) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [El Uno Al 7](https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs) | 3:24 | 2024-01-29 |  |
-| [El Vecino](https://open.spotify.com/track/4jXLo2WyoyCRQGVeATuSsm) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Legion Del Corrido](https://open.spotify.com/album/0r9jqZqqorVlus4zZLTiO7) | 2:20 | 2024-01-29 |  |
+| [El Vecino](https://open.spotify.com/track/4jXLo2WyoyCRQGVeATuSsm) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Legion Del Corrido](https://open.spotify.com/album/0r9jqZqqorVlus4zZLTiO7) | 2:20 | 2024-01-29 | 2024-04-11 |
 | [En Lynwood Transito](https://open.spotify.com/track/5FIaAzVDQoAWc4bQdrkuz2) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Dueto Consentido](https://open.spotify.com/artist/5oTnGKTgUQYePdPHjbTM4R) | [En Lynwood Transito](https://open.spotify.com/album/0CECKpMVo8kFrGfFdIPkrI) | 3:55 | 2024-01-29 |  |
 | [En Uno al 7 \(En Vivo\)](https://open.spotify.com/track/0MDB6Pst3BtDbp0rk7uiWs) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground Desde Culiacan Sin \(En Vivo\)](https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp) | 3:06 | 2024-01-29 |  |
 | [Equipo Cannabis](https://open.spotify.com/track/7Kuljk1IHforwjZryE6QC5) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Grupo Viada](https://open.spotify.com/artist/6TBtNrAvB4UVFzWZK293ix) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 2:48 | 2024-01-29 |  |

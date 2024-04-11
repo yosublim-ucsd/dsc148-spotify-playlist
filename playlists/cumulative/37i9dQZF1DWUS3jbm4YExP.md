@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-673 songs - 2 day 0 hr 19 min
+674 songs - 2 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Everybody Loves The Sunshine](https://open.spotify.com/track/1r2ZYOuhyyMDDCEMkYZV4U) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Awakening](https://open.spotify.com/album/76gQRKAN8Hs5lSjts05FpV) | 6:32 | 2021-10-06 | 2022-04-21 |
 | [Evolution](https://open.spotify.com/track/60lRT01X553ode0LvndRf0) | [Magnum](https://open.spotify.com/artist/3NCYHagstCfaXKU2WoAAXP) | [Fully Loaded](https://open.spotify.com/album/5JdrXJhIxq21tkQTTf8BoV) | 5:50 | 2021-10-06 | 2022-06-01 |
 | [Existe Uma Voz](https://open.spotify.com/track/67FeJNl0O51jh7HqtryxTt) | [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [Existe Uma Voz](https://open.spotify.com/album/3IxCKH95VNnV1nToX3Gwer) | 3:45 | 2023-02-23 |  |
+| [Fana](https://open.spotify.com/track/26s9aTmkOYRzSAQfNOFJkD) | [Bank](https://open.spotify.com/artist/7GYuuWp775MTtjWkK4N5CF) | [Fana](https://open.spotify.com/album/4hvZXIyD1dcy1EAr5G6CcS) | 4:14 | 2024-04-09 |  |
 | [Faux savage](https://open.spotify.com/track/7KvVIORJJStrkmynVw2Y8r) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Miniatures de auto rhythm](https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn) | 2:23 | 2022-09-23 |  |
 | [Feira Jacobina](https://open.spotify.com/track/78UVMDmyok0Ah1wCO29b3B) | [Bando À Flor da Pele](https://open.spotify.com/artist/5n4I6U8npI8W21YgOlHG7u) | [Feira Jacobina](https://open.spotify.com/album/5VvaMDbGcgThJFFP47oXwg) | 5:14 | 2021-10-06 | 2022-04-17 |
 | [Felony](https://open.spotify.com/track/2vz6J5AmYo6Te8qWbUOQRD) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Felony / Rile 'Em Up](https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0) | 3:17 | 2021-10-06 | 2023-11-10 |
@@ -328,7 +329,7 @@
 | [Kristina](https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV) | [Sanje](https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx) | [Kristina](https://open.spotify.com/album/5BCwHTPb0MVFbxsxtJtdIT) | 3:58 | 2023-03-31 | 2023-06-11 |
 | [Kryé Mwen](https://open.spotify.com/track/5lvKr1Tlivc0synzzGHjZ3) | [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7) | [Soleil Kréyol](https://open.spotify.com/album/7DbNMvgyppGTky16qCWyah) | 5:01 | 2021-10-06 |  |
 | [Kulun Mankwaleshi](https://open.spotify.com/track/1IcJMglWLxYd9JGAJ9Kqvf) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [Kulun Mankwaleshi](https://open.spotify.com/album/4BrhtEr3Vh43XyD1HGN4gL) | 7:47 | 2021-10-06 | 2022-07-15 |
-| [Kwatamaja \- Pete Herbert Remix](https://open.spotify.com/track/6TvCiVsXAl4hIHMDsNavCA) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Jupiter & Okwess](https://open.spotify.com/artist/2tujJgEWPfR8gdqVw183dT), [Pete Herbert](https://open.spotify.com/artist/1hySxd3wcF1XRQXyYSEblQ) | [Kwatamaja \(Pete Herbert Remix\)](https://open.spotify.com/album/4LdvbKgCDyImJzvaekSbfY) | 5:53 | 2024-04-09 |  |
+| [Kwatamaja \- Pete Herbert Remix](https://open.spotify.com/track/6TvCiVsXAl4hIHMDsNavCA) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Jupiter & Okwess](https://open.spotify.com/artist/2tujJgEWPfR8gdqVw183dT), [Pete Herbert](https://open.spotify.com/artist/1hySxd3wcF1XRQXyYSEblQ) | [Kwatamaja \(Pete Herbert Remix\)](https://open.spotify.com/album/4LdvbKgCDyImJzvaekSbfY) | 5:53 | 2024-04-09 | 2024-04-11 |
 | [L'origine du Monde \- iZem Remix](https://open.spotify.com/track/1gfWtL0rEJwEJwyfaInfgu) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [iZem](https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r) | [iZem Remixes](https://open.spotify.com/album/7w4HYQplaz3uezp8tUm9hf) | 4:32 | 2021-10-06 | 2022-07-14 |
 | [L.A\. Night](https://open.spotify.com/track/5t3qH3xZNxTscMT0adF8hF) | [Yasuko Agawa](https://open.spotify.com/artist/5kk6wMgDfumWGwd0GDvvk2) | [L.A\. Night](https://open.spotify.com/album/6MEdamjFV17MAGzlcV8zDF) | 5:23 | 2021-10-06 | 2022-04-21 |
 | [La Ceiba](https://open.spotify.com/track/5Qxq67uihw0kxbuDh2IBqw) | [Anthonius](https://open.spotify.com/artist/2WALCcYqfxc6tcLVbt5Sny), [Yadira Ferrer](https://open.spotify.com/artist/2mginHA29nrfNmvFoGtgKX), [Tarquim](https://open.spotify.com/artist/7qMC73hJTezS5KODuYn8ta), [Kevin Díaz](https://open.spotify.com/artist/1RkrvgjO0Ig4OsD0jjhHkv), [Diego Coppinger](https://open.spotify.com/artist/6unKT5IZSWhllP00qDflu4) | [GOSHINBOKU](https://open.spotify.com/album/6ETbH5RFLFcY3lyWy495b1) | 6:27 | 2023-04-14 | 2023-05-23 |

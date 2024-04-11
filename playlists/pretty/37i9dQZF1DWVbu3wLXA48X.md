@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Adam Melchor
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,246 likes - 94 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,238 likes - 94 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 5 | [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 |
 | 6 | [Co\-Pathetic](https://open.spotify.com/track/6eI1uc8HMy4SYp133fF94C) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Collapse List](https://open.spotify.com/album/1hh3GhyscEuCplQQL31RtB) | 3:55 |
 | 7 | [Clouds](https://open.spotify.com/track/2YdFDvMP6S38Q45ugDxKdf) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [Clouds](https://open.spotify.com/album/5hTbSIwFjM0qEbHYybjlkL) | 3:43 |
-| 8 | [Mary Boone](https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Mary Boone](https://open.spotify.com/album/3BeMjbziyS6lCFnSel4Tsz) | 4:26 |
+| 8 | [Mary Boone](https://open.spotify.com/track/6OjwIdLlkjCLuOThOwODEY) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:26 |
 | 9 | [City Warm Heart](https://open.spotify.com/track/3nqjxIyCFr72mrgbUvxX0y) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [City Warm Heart](https://open.spotify.com/album/5iNljgQzhCShhX58EmQA52) | 3:01 |
 | 10 | [Unwavering](https://open.spotify.com/track/5om9MS3yRKxRrt9FSMBq4w) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF), [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Unwavering](https://open.spotify.com/album/60Ems1fT6kFthRWEaL3Nkj) | 3:37 |
 | 11 | [World on a String](https://open.spotify.com/track/0IsVEZzB4oBYqf2Nx0u2n8) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [World on a String](https://open.spotify.com/album/39juqMzTGcRlRdBsGfSyFe) | 3:09 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 76 | [Cosmic Dancer \(with Dora Jar\)](https://open.spotify.com/track/38PETVexY67H0CCj0bNT65) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf), [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Songs That Aren't Mine](https://open.spotify.com/album/4Hfqnc8K019JtWci0BgXkE) | 2:58 |
 | 77 | [Like A Lesson](https://open.spotify.com/track/2MxDVhWDvd2f7ROLe8VDYe) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Like A Lesson](https://open.spotify.com/album/7htHFZFmrO9ChMSK82QLXx) | 3:19 |
 | 78 | [Spring Is Coming With A Strawberry In The Mouth](https://open.spotify.com/track/0I49aN2b9qfw1UWtctmNtr) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You: Everasking Edition](https://open.spotify.com/album/25ktFe8igqIwv9aRbkdnTS) | 3:53 |
-| 79 | [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 |
+| 79 | [Capricorn](https://open.spotify.com/track/4oAGV7IADPWfkpk6aGQqZt) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:09 |
 | 80 | [Butterfly Net \(feat\. Weyes Blood\)](https://open.spotify.com/track/0NL61fJiDf07EAd2HzsNCW) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Butterfly Net \(feat\. Weyes Blood\)](https://open.spotify.com/album/3rxjw1Di3SRicz2Z4eE4Pb) | 5:33 |
 | 81 | [Eyes Wide Shut](https://open.spotify.com/track/2LyaOE8P7p8X0yofHVtF2D) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Eyes Wide Shut](https://open.spotify.com/album/6O7B3KJmgRfdn0OaCPv8Gq) | 3:22 |
 | 82 | [Better Now \(feat\. Rae Morris\)](https://open.spotify.com/track/0Zu5Nb2llf36AMjYd1as45) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Fantasies](https://open.spotify.com/album/7jI0uMNouj0i2i0Kw0NpSR) | 3:46 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 93 | [Funeral for Justice](https://open.spotify.com/track/6jRkPX7aziy9qweRaBloXF) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Funeral for Justice](https://open.spotify.com/album/2TEqu1Bvm8jFijAybw6S38) | 3:08 |
 | 94 | [Electric Blue](https://open.spotify.com/track/3vqMSB50nUqjw5dlVKuYlF) | [Tash Wolf](https://open.spotify.com/artist/10EGVgMvnFkNlI3BF2LhV3) | [Electric Blue](https://open.spotify.com/album/0gZrh2whTmhOttHSoHe7Cz) | 2:16 |
 
-Snapshot ID: `MCw2ZDYyOWNmNmE0NGU5MjFlMzg5YzI0ODdhMDM4Y2UxYzFkNWEyYjc2`
+Snapshot ID: `MCxkZDZkMWQyMTk1OGI5YzRiYWNlYTc5N2M0MDc1ZTJhNzVlOWI4YzY2`

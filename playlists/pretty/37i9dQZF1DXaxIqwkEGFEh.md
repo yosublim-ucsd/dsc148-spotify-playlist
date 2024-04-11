@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Future & Metro Boomin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,196,081 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,196,189 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 55 | [Ain't No Love](https://open.spotify.com/track/72qABvaqn3TP6drO2tByA6) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:02 |
 | 56 | [02.02.99](https://open.spotify.com/track/582YxhgpJEY0aEHQtVQFhO) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [02.02.99](https://open.spotify.com/album/079OfpydEQxerHZRJD3Or9) | 2:42 |
 | 57 | [Rappin N Trappin](https://open.spotify.com/track/1nxoLeQx0GlJ3t7ZYZOVKM) | [Rublow](https://open.spotify.com/artist/4ldyGaB3s6qWtuhlNfwVZs) | [Rappin N Trappin](https://open.spotify.com/album/75dLcQdc2cf9TFDWJ6iNHP) | 1:55 |
-| 58 | [Play Me Outside](https://open.spotify.com/track/24zyiPWL052SKsWaCoFLvU) | [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe) | [Chosen One](https://open.spotify.com/album/6PeFIKJlGlsxLqPEKVI1gK) | 2:24 |
+| 58 | [Play Me Outside](https://open.spotify.com/track/2GhclJCdhPF3X8Ex9Su0pA) | [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe) | [Chosen One](https://open.spotify.com/album/3uxDpA36a597lDDgUTqIpr) | 2:24 |
 | 59 | [Finesse \(feat\. GloRilla\)](https://open.spotify.com/track/6zdGkPEBTBojHWZmEDU8zE) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Finesse \(feat\. GloRilla\)](https://open.spotify.com/album/0RRvy9tpjR19zKnM0xhRW4) | 3:12 |
 | 60 | [The Old Price](https://open.spotify.com/track/3rCU2B31iUETO4Em2N25GX) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Mega Star](https://open.spotify.com/album/3caOovUrxEQhKoAEE4PJfE) | 2:24 |
 | 61 | [Deeper Den Rap](https://open.spotify.com/track/7Clx7nirFAdXmme8ot75dH) | [Foolio](https://open.spotify.com/artist/79mgHJytm385Muv7GfaneD) | [Resurrection](https://open.spotify.com/album/2d0Xr48jlUFn19m68gb4Er) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [WAKE EM UP](https://open.spotify.com/track/5b9eyzFhqDrxDjySPlGCo7) | [Big Moochie Grape](https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa) | [WAKE EM UP](https://open.spotify.com/album/4qjoG39v1vDKKZegKiMntm) | 2:43 |
 | 100 | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy) | 3:50 |
 
-Snapshot ID: `MCxiNWU3YmY1YmE2OTQ0NjY3MDlkNzRmZTBhNjViNDMyOTdkZGU0OGNh`
+Snapshot ID: `MCxiZmM4M2UyYzhiMGI0ZjEzMThmM2MxYTNjMmNhMDQxMGEzMWZiZmRj`

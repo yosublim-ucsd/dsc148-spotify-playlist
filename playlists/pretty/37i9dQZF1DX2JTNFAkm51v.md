@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 
 > 5/25・26に開催「<a href="https://kobe\-mellow\-cruise.com/">KOBE MELLOW CRUISE</a>」出演アーティストを特集！音楽とカルチャーを極上の空間を堪能できる音楽フェス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,403 likes - 49 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,449 likes - 49 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 | 25 | [See you!](https://open.spotify.com/track/0TX1skTZ7B0VCTrTJCXPgk) | [Yurufuwa Gang](https://open.spotify.com/artist/5F80x2l9juqR6RLeuACpqS) | [Journey](https://open.spotify.com/album/0Gc67mwzvMLjKUmTsMURRw) | 3:57 |
 | 26 | [MADRAS NIGHT PART2](https://open.spotify.com/track/4Nm8xSLgvmEJ0Bo6m5fu07) | [Yurufuwa Gang](https://open.spotify.com/artist/5F80x2l9juqR6RLeuACpqS), [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho) | [GAMA](https://open.spotify.com/album/5g4Z6IX5rMUjNXx5zycNsz) | 3:26 |
 | 27 | [Honki!](https://open.spotify.com/track/2jLqwSiPLweqDsttAM9t3Y) | [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6) | [NOT REGULAR \(Deluxe\)](https://open.spotify.com/album/39oMPmahDUW7tse3mOsrWQ) | 2:46 |
-| 28 | [Team Tomodachi \- Remix](https://open.spotify.com/track/1TBtAioi82LToAaojj9ruU) | [Yuki Chiba](https://open.spotify.com/artist/6zOzMb66GICS4gVDtd1yvR), [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Team Tomodachi \(Remix\)](https://open.spotify.com/album/03GtNIvFYHk7ltVGMC3Mkh) | 3:38 |
+| 28 | [Team Tomodachi \- Dirty Kansai Remix](https://open.spotify.com/track/1TBtAioi82LToAaojj9ruU) | [Yuki Chiba](https://open.spotify.com/artist/6zOzMb66GICS4gVDtd1yvR), [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Team Tomodachi \(Dirty Kansai Remix\)](https://open.spotify.com/album/03GtNIvFYHk7ltVGMC3Mkh) | 3:38 |
 | 29 | [The Moon in the WEST](https://open.spotify.com/track/3EDiJKjh5vtKxlbaKPbsHA) | [BMSG WEST](https://open.spotify.com/artist/1JrDkSRW9bwkRm4cplpYn2), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42), [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [BMSG ALLSTARS](https://open.spotify.com/artist/39qDfqWfhU23Jbclt2ltYe) | [The Moon in the WEST](https://open.spotify.com/album/5Q5fXROtlTw2Ohos86tw1A) | 4:50 |
 | 30 | [The Sun from the EAST](https://open.spotify.com/track/6TjKaQCs5N4y3vZ27DUiYS) | [BMSG EAST](https://open.spotify.com/artist/4vk6EFtraixSbwq7k904Ek), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42), [BMSG ALLSTARS](https://open.spotify.com/artist/39qDfqWfhU23Jbclt2ltYe) | [The Sun from the EAST](https://open.spotify.com/album/0Sz92ehWl4ayWuLU7iIKZD) | 5:21 |
 | 31 | [Let Go \(feat\. 柊人\)](https://open.spotify.com/track/4upoXNub9Rh9mXeoq9W1uy) | [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [柊人](https://open.spotify.com/artist/6yyHILrojOyOKNvly7Yu0j) | [Grandma's Wish](https://open.spotify.com/album/2nZymAc6SIUQ769WRPTKzz) | 3:00 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 | 48 | [やらかした](https://open.spotify.com/track/6KDhbwRCxX41VehN3aTIUu) | [MARIA](https://open.spotify.com/artist/7tKxdhFrTaqJPI7rBFmIU6) | [True Color](https://open.spotify.com/album/5NQfJOBy8QMB00fdB7CXs6) | 2:43 |
 | 49 | [Set Me Free](https://open.spotify.com/track/4i2fHujkCum1QmN85sXC68) | [MARIA](https://open.spotify.com/artist/7tKxdhFrTaqJPI7rBFmIU6) | [Set Me Free](https://open.spotify.com/album/1eN68Rywsekf82Xm36We6n) | 3:21 |
 
-Snapshot ID: `MCw0MGE2MTYxOTYwMjUzZTEyNTU4YTQ0ZDk3MTQ2ZjgwM2M4YTcwNjk2`
+Snapshot ID: `MCxkMzdlODFhMTRlM2I0ZGUwODBmMjVhMGY1MTBjMjUwMDk0NzNjZTRj`

@@ -4,7 +4,7 @@
 
 > 150%
 
-307 songs - 13 hr 19 min
+308 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Cool for the Summer \- Sped Up \(Nightcore\)](https://open.spotify.com/track/4FYWOYqOF9lbb1JcZFDT67) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Cool for the Summer \[Sped Up \(Nightcore\)\]](https://open.spotify.com/album/410MZofhiv240ybaWhUxpc) | 3:11 | 2022-06-09 | 2023-06-03 |
 | [Count of three \(You can eat $\#@!\) – Nightcore ‘Sped\-up’ Version](https://open.spotify.com/track/4wI1w1ebOAwfkmdIqUsOug) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/album/0lECZgEfNA8676KlvMRzp9) | 2:01 | 2023-02-09 | 2023-03-18 |
 | [Count of three \(You can eat $\#@!\) – Nightcore ‘Sped\-up’ Version](https://open.spotify.com/track/5LFKZYq2PoGC6Beu2gW8AZ) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\) – Nightcore ‘Sped\-up’ Version](https://open.spotify.com/album/0FeB4UDbTDXtxCvGC5WAMe) | 2:01 | 2023-02-09 | 2023-03-12 |
+| [Cupid \- Twin Ver\. \(FIFTY FIFTY\) \- Sped Up Version](https://open.spotify.com/track/7o7l1L5bNUtheuOnFvQquh) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73) | 2:25 | 2024-03-22 |  |
 | [Cupid – Twin Ver\. \(FIFTY FIFTY\) – Sped Up Version](https://open.spotify.com/track/3B228N0GxfUCwPyfNcJxps) | [sped up 8282](https://open.spotify.com/artist/1c0ChJZVluriMPwFrTAmly) | [Cupid – Twin Ver\. \(FIFTY FIFTY\) – Sped Up Version](https://open.spotify.com/album/2kzO9CzI8XI1gG207XPOgk) | 2:25 | 2023-04-25 | 2024-04-07 |
 | [Daylight \- Sped Up](https://open.spotify.com/track/3Scolo2qkKcTNVI3GOsKAP) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight \(Reimagined\)](https://open.spotify.com/album/3HGXJ3VnxgW0KEEzQy5GCZ) | 2:49 | 2023-11-16 |  |
 | [Deep End \- Sped Up Version](https://open.spotify.com/track/5mKkwBL6lDoaBSehvKeZjf) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Deep End \(Sped Up Version\)](https://open.spotify.com/album/4Zd9SR8tNBvaOT2t2Rg0Xg) | 2:35 | 2022-12-30 | 2023-01-28 |
@@ -145,7 +146,7 @@
 | [isolation \- sped up](https://open.spotify.com/track/3FlwFheL7mcHFRkypdoD5R) | [jite](https://open.spotify.com/artist/2U5muScVm0KPEmqiBQuXO3) | [isolation](https://open.spotify.com/album/0CSsz8tNAwFgEpcQqdRxVO) | 3:19 | 2023-03-21 | 2023-04-09 |
 | [IT GIRL \- Sped up Version](https://open.spotify.com/track/1uwMSX0OAZO5jzX2GqTjYV) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL \(Sped up Version\)](https://open.spotify.com/album/4OXIscygWnydT362qnaKGK) | 2:35 | 2023-10-06 | 2024-01-22 |
 | [IT GIRL \- Sped up Version](https://open.spotify.com/track/3dtzk6pwRzb9OTlInQGEdo) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL \(Sped up Version\)](https://open.spotify.com/album/6Vo7CAjDxSElpcVrAklmMp) | 2:35 | 2024-01-19 |  |
-| [It's Called: Freefall \(Rainbow Kitten Surprise\) \- Sped Up Version](https://open.spotify.com/track/29xN2h4Cmzmt7lo5Ws1PlZ) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [It’s Called: Freefall \(Rainbow Kitten Surprise\) \[Sped Up Version\]](https://open.spotify.com/album/0mk9wKYZseQHEdkHPyPVki) | 2:08 | 2023-03-13 |  |
+| [It's Called: Freefall \(Rainbow Kitten Surprise\) \- Sped Up Version](https://open.spotify.com/track/29xN2h4Cmzmt7lo5Ws1PlZ) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [It’s Called: Freefall \(Rainbow Kitten Surprise\) \[Sped Up Version\]](https://open.spotify.com/album/0mk9wKYZseQHEdkHPyPVki) | 2:08 | 2023-03-13 | 2024-04-11 |
 | [IT'S GETTING HOT \- Sped Up](https://open.spotify.com/track/6bBM9dDbqCDTLAxcxokQTf) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [IT'S GETTING HOT \(Sped Up\)](https://open.spotify.com/album/6oRQXevG9QBbXKKV0upvjS) | 1:48 | 2023-08-31 | 2023-11-17 |
 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 | 2022-06-09 | 2023-11-17 |
 | [Jenny \- Hearteye Speed Mix](https://open.spotify.com/track/5B3UxvXTvcjFoIFiCfhTH2) | [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Jenny \(Hearteye Speed Mix\)](https://open.spotify.com/album/6qLuZEfEiDrVoyfTQXYs8t) | 2:58 | 2022-06-09 | 2023-11-17 |

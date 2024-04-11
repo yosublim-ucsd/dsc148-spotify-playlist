@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: 花澤香菜
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,865 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,914 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 49 | [FAKEit](https://open.spotify.com/track/2Fo6g5hxRpaR2rvrw8nhMi) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [FAKEit](https://open.spotify.com/album/3LgahfFyNmXwudGoFtN9yC) | 2:54 |
 | 50 | [スイートサイン](https://open.spotify.com/track/3PSgLRh1Wrk5fqxRDYfnDW) | [岬 なこ](https://open.spotify.com/artist/3b4KP5O2za8H98IxieMJfh) | [スイートサイン](https://open.spotify.com/album/4AEN1kQph1d95G97SKEutw) | 3:25 |
 
-Snapshot ID: `MCxjNDY3NjU2YzVkYTY5Njk5NWU4NzFjODg4NDZlZGE3MTdhZDI3NDE3`
+Snapshot ID: `MCxlNWQ1YzQxNzMzMzg0MjE0YzFjYTkzODJlODIzYzdlYmJmZDliZjI3`

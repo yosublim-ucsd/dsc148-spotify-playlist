@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 1688445,
+  "2024-04-11": 1688427,
   "date_first_scraped": "2020-10-13",
   "description": "New and approved indie pop. Cover: Empress Of",
   "name": "Indie Pop",
@@ -4822,6 +4822,24 @@
     },
     {
       "album": {
+        "name": "Call Me Up",
+        "url": "https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO"
+      },
+      "artists": [
+        {
+          "name": "daydreamers",
+          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161168,
+      "name": "Call Me Up",
+      "url": "https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A"
+    },
+    {
+      "album": {
         "name": "Call You Right Now",
         "url": "https://open.spotify.com/album/13W6NZY00onLgaDrDYiI56"
       },
@@ -8900,6 +8918,24 @@
     },
     {
       "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+    },
+    {
+      "album": {
         "name": "Ease",
         "url": "https://open.spotify.com/album/6p9GPyaPUEagITrXkAcDkm"
       },
@@ -11421,7 +11457,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 175117,
       "name": "Give It Up For Love",
       "url": "https://open.spotify.com/track/2L5fTA7BBgL70AjMYq0sfI"
@@ -24931,7 +24967,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 189150,
       "name": "Running",
       "url": "https://open.spotify.com/track/2yg33GUVcKi3b6A8SxtCU3"
@@ -29025,7 +29061,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 179049,
       "name": "Sweet N Low",
       "url": "https://open.spotify.com/track/0f4motUd4Dn7UXr6I7GUsG"
@@ -31365,6 +31401,24 @@
       "duration_ms": 153066,
       "name": "USMO",
       "url": "https://open.spotify.com/track/1hblRUhOt2Yi618eAJGGiK"
+    },
+    {
+      "album": {
+        "name": "N.F.A. DEMOS",
+        "url": "https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz"
+      },
+      "artists": [
+        {
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208713,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t"
     },
     {
       "album": {

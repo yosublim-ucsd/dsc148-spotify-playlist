@@ -4,7 +4,7 @@
 
 > the best of the deep end\. cover: Prinz
 
-216 songs - 10 hr 26 min
+217 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Broken Hearted Crook](https://open.spotify.com/track/0WQhEX03KEWDKi14HKr23H) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Broken Hearted Crook](https://open.spotify.com/album/4l05CxNJBHiUqOW1Mo3lHk) | 2:47 | 2022-08-02 | 2022-11-26 |
 | [Broken Hearted Crook](https://open.spotify.com/track/5NZFqe9zArfB2WRxpGp4Vj) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Broken Hearted Crook](https://open.spotify.com/album/6wIT6xsXQj5gP2rGq4auPS) | 2:47 | 2022-04-05 | 2023-07-28 |
 | [Broken Hearted Crook](https://open.spotify.com/track/4SyXN06wxmCIulGCXSud0c) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Broken Hearted Crook](https://open.spotify.com/album/4uUlH56l3S2AehDBiFiVjP) | 2:48 | 2022-08-02 | 2023-07-05 |
-| [Broken Hearted Crook](https://open.spotify.com/track/1ctqXOZ0hbWiLcxRlT1DTx) | [Lovens](https://open.spotify.com/artist/5cTm9LWB8FJXxdPfnfxc6g) | [Broken Hearted Crook](https://open.spotify.com/album/7b21OHTHyZynzt1ehAyhSF) | 2:48 | 2023-08-01 |  |
+| [Broken Hearted Crook](https://open.spotify.com/track/1ctqXOZ0hbWiLcxRlT1DTx) | [Lovens](https://open.spotify.com/artist/5cTm9LWB8FJXxdPfnfxc6g) | [Broken Hearted Crook](https://open.spotify.com/album/7b21OHTHyZynzt1ehAyhSF) | 2:48 | 2023-08-01 | 2024-04-11 |
+| [Broken Hearted Crook](https://open.spotify.com/track/2CKeKX8NIkbLj54F6qp7xD) | [yknowdavibez](https://open.spotify.com/artist/5l6rN84ztH0XVlOs2IcQA9) | [quantom 2](https://open.spotify.com/album/7j8Sccx4C9Vv0dCpiGT1Ri) | 2:48 | 2023-08-01 |  |
 | [Broken Hearted Crook](https://open.spotify.com/track/60clenfS2gkpTwndV2a8Cv) | [yknowdavibez](https://open.spotify.com/artist/5l6rN84ztH0XVlOs2IcQA9) | [Broken Hearted Crook](https://open.spotify.com/album/6FxWacdUVFgdyDjbuRxTFR) | 2:48 | 2023-08-01 | 2024-03-14 |
 | [Broken Hearted Crook](https://open.spotify.com/track/4HplaTgdvvlJYEBWkqvkf7) | [yknowdavibez](https://open.spotify.com/artist/5l6rN84ztH0XVlOs2IcQA9) | [Broken Hearted Crook](https://open.spotify.com/album/2sqSWZfcYWTFU0zeSlq5vd) | 2:48 | 2023-08-01 | 2023-11-03 |
 | [Broken Hearted Crook](https://open.spotify.com/track/7d9H7S7eXhGq6idubYpbto) | [yknowdavibez](https://open.spotify.com/artist/5l6rN84ztH0XVlOs2IcQA9) | [Broken Hearted Crook](https://open.spotify.com/album/5GLX9V0bREOnv5E2zFrnhH) | 2:48 | 2023-07-06 | 2023-10-29 |

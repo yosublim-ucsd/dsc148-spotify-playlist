@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: Artemas",
-  "num_followers": 478365,
+  "num_followers": 478435,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTJkODdhNDNlM2I5ZWUzZDU4NWI1Yjc0NjE1NmM3ZjAwNjJhY2Ez",
+  "snapshot_id": "MCxlOTYwNGExMWQ0ZWFhMDUzNjBlZjg3MTYxOWRjNzJmOGNiNmY0MTkw",
   "tracks": [
     {
       "added_at": "2024-03-22 04:01:00",
@@ -379,26 +379,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Rain (from The Suicide Squad)",
-        "url": "https://open.spotify.com/album/3RofvYZbV6xjU5H4RMNPap"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 236040,
-      "name": "Rain (from The Suicide Squad)",
-      "url": "https://open.spotify.com/track/6gi7qsHSH2JWZsTRHndxqm"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Story Of My Life (feat. Trippie Redd)",
         "url": "https://open.spotify.com/album/6C4DfusL8qEXmt6MFhAMU6"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 191124,
       "name": "Story Of My Life (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/1g7j5AxiNKTGjryhFIlAsA"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Rain (from The Suicide Squad)",
+        "url": "https://open.spotify.com/album/3RofvYZbV6xjU5H4RMNPap"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 236040,
+      "name": "Rain (from The Suicide Squad)",
+      "url": "https://open.spotify.com/track/6gi7qsHSH2JWZsTRHndxqm"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Max Maco Is Dead Right?",
-        "url": "https://open.spotify.com/album/6wPnQigsvCXa5LrMfEuU6K"
-      },
-      "artists": [
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "Flatline",
-      "url": "https://open.spotify.com/track/4r05ev9hIFnjWUkzJGMu46"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Hello Sunshine",
         "url": "https://open.spotify.com/album/5R3R5lGNcVmNXdDFljZzud"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "One Night",
-        "url": "https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt"
+        "name": "Max Maco Is Dead Right?",
+        "url": "https://open.spotify.com/album/6wPnQigsvCXa5LrMfEuU6K"
       },
       "artists": [
         {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
         }
       ],
-      "duration_ms": 163492,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR"
+      "duration_ms": 174306,
+      "name": "Flatline",
+      "url": "https://open.spotify.com/track/4r05ev9hIFnjWUkzJGMu46"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1059,6 +1043,38 @@
       "duration_ms": 210027,
       "name": "WICKED",
       "url": "https://open.spotify.com/track/5b7gKOgD33l2iGFgoiVF1I"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "duration_ms": 163492,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "the last laugh",
+        "url": "https://open.spotify.com/album/2Ph3wOGu6UwYZz5UqicIHL"
+      },
+      "artists": [
+        {
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+        }
+      ],
+      "duration_ms": 196880,
+      "name": "deadly ever after",
+      "url": "https://open.spotify.com/track/1sGT7SHoxtjk18oSNSItBq"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "the last laugh",
-        "url": "https://open.spotify.com/album/2Ph3wOGu6UwYZz5UqicIHL"
-      },
-      "artists": [
-        {
-          "name": "Ethan Bortnick",
-          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
-        }
-      ],
-      "duration_ms": 196880,
-      "name": "deadly ever after",
-      "url": "https://open.spotify.com/track/1sGT7SHoxtjk18oSNSItBq"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "I WANT BLOOD / i want love",
         "url": "https://open.spotify.com/album/4KkTFPZPuyOWmBNuUXrD0e"
       },
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/6HileZpU7Zc2ybr3fLX8Xg"
-      },
-      "artists": [
-        {
-          "name": "Rosenfeld",
-          "url": "https://open.spotify.com/artist/3p2pMpzDerhMR4w2xZyHWg"
-        }
-      ],
-      "duration_ms": 138946,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/2wjUXJaPHgzBaCMnSzOjwH"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Time Isn't Real",
         "url": "https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 212946,
       "name": "Pain Killer",
       "url": "https://open.spotify.com/track/5LNPEJ6scc19YXfivgWPAC"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/6HileZpU7Zc2ybr3fLX8Xg"
+      },
+      "artists": [
+        {
+          "name": "Rosenfeld",
+          "url": "https://open.spotify.com/artist/3p2pMpzDerhMR4w2xZyHWg"
+        }
+      ],
+      "duration_ms": 138946,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/2wjUXJaPHgzBaCMnSzOjwH"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "LOST IT",
-        "url": "https://open.spotify.com/album/0kHS4bvtYbAaBREla4DtLt"
-      },
-      "artists": [
-        {
-          "name": "Layto",
-          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
-        },
-        {
-          "name": "P!X!E",
-          "url": "https://open.spotify.com/artist/4tThMJlJVcKRl4cJoB4aLq"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "LOST IT",
-      "url": "https://open.spotify.com/track/0BpRdpbGMQ18OLpU0r0kPb"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Armatron",
         "url": "https://open.spotify.com/album/7pYfAkU5CwZFOgIzQncD3r"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 220528,
       "name": "Our House (The Mess We Made)",
       "url": "https://open.spotify.com/track/5kqRMynqZR8JbJH4JodkFs"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "LOST IT",
+        "url": "https://open.spotify.com/album/0kHS4bvtYbAaBREla4DtLt"
+      },
+      "artists": [
+        {
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+        },
+        {
+          "name": "P!X!E",
+          "url": "https://open.spotify.com/artist/4tThMJlJVcKRl4cJoB4aLq"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "LOST IT",
+      "url": "https://open.spotify.com/track/0BpRdpbGMQ18OLpU0r0kPb"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1347,22 +1347,6 @@
       "duration_ms": 189920,
       "name": "Sing To Me",
       "url": "https://open.spotify.com/track/17KGTOb8fkxlyTnB5eFnsh"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
-        "name": "rusty",
-        "url": "https://open.spotify.com/album/12sM1DPfzb1nmSAWVrUxsG"
-      },
-      "artists": [
-        {
-          "name": "Layto",
-          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
-        }
-      ],
-      "duration_ms": 135882,
-      "name": "rusty",
-      "url": "https://open.spotify.com/track/3ntxIRgurUskKaJ8F7jnXr"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1431,6 +1415,22 @@
       "duration_ms": 156000,
       "name": "BELIEVE",
       "url": "https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "rusty",
+        "url": "https://open.spotify.com/album/12sM1DPfzb1nmSAWVrUxsG"
+      },
+      "artists": [
+        {
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+        }
+      ],
+      "duration_ms": 135882,
+      "name": "rusty",
+      "url": "https://open.spotify.com/track/3ntxIRgurUskKaJ8F7jnXr"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Dead",
-        "url": "https://open.spotify.com/album/3hKxNaxs2oVPewk04LDuBI"
-      },
-      "artists": [
-        {
-          "name": "Baby Jane",
-          "url": "https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI"
-        }
-      ],
-      "duration_ms": 157565,
-      "name": "Dead",
-      "url": "https://open.spotify.com/track/6O2QJqa6hgF0uzj9mcDq4p"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Anomaly",
         "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
       },
@@ -1619,22 +1603,18 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Freefall (feat. Oliver Tree)",
-        "url": "https://open.spotify.com/album/2IBBJbVcT3jBmbkf1HChaU"
+        "name": "Dead",
+        "url": "https://open.spotify.com/album/3hKxNaxs2oVPewk04LDuBI"
       },
       "artists": [
         {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        },
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+          "name": "Baby Jane",
+          "url": "https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI"
         }
       ],
-      "duration_ms": 155498,
-      "name": "Freefall (feat. Oliver Tree)",
-      "url": "https://open.spotify.com/track/5VsZwt7AyePLXFrlHhMvoI"
+      "duration_ms": 157565,
+      "name": "Dead",
+      "url": "https://open.spotify.com/track/6O2QJqa6hgF0uzj9mcDq4p"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1655,6 +1635,26 @@
       "duration_ms": 209454,
       "name": "Regret - Remix",
       "url": "https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "Freefall (feat. Oliver Tree)",
+        "url": "https://open.spotify.com/album/2IBBJbVcT3jBmbkf1HChaU"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 155498,
+      "name": "Freefall (feat. Oliver Tree)",
+      "url": "https://open.spotify.com/track/5VsZwt7AyePLXFrlHhMvoI"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "god damn!",
-        "url": "https://open.spotify.com/album/1Txk1kbTVJZqvdU2ZsJwpv"
-      },
-      "artists": [
-        {
-          "name": "viisi",
-          "url": "https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z"
-        }
-      ],
-      "duration_ms": 116307,
-      "name": "god damn!",
-      "url": "https://open.spotify.com/track/40e2TPl5w4fmHJkIgwAM3U"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Miracle, Baby",
         "url": "https://open.spotify.com/album/4OEXo5dPHC8m3h3um07mL0"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 176349,
       "name": "New Friends",
       "url": "https://open.spotify.com/track/6bHFFcOvpc1pKrT4YL1K83"
+    },
+    {
+      "added_at": "2024-03-22 04:01:00",
+      "album": {
+        "name": "1",
+        "url": "https://open.spotify.com/album/2yfYHs5lPBh6YJbwXF4rOg"
+      },
+      "artists": [
+        {
+          "name": "dapurr",
+          "url": "https://open.spotify.com/artist/3Dn91YO242mHAywGp5Tptt"
+        }
+      ],
+      "duration_ms": 203294,
+      "name": "Speeding Fast",
+      "url": "https://open.spotify.com/track/3QTK0aSjMeCsja2oxkPGxp"
     }
   ],
   "unique_name": "Alternative Beats",

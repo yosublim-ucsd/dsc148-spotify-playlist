@@ -1,5 +1,5 @@
 {
-  "2024-04-10": 2946232,
+  "2024-04-11": 2947348,
   "date_first_scraped": "2021-12-30",
   "description": "every main character needs their soundtrack. ",
   "name": "my life is a movie",
@@ -2811,6 +2811,24 @@
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
+    },
+    {
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
       "album": {
@@ -5701,7 +5719,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-10",
       "duration_ms": 267773,
       "name": "Right Down the Line",
       "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
@@ -7906,7 +7924,7 @@
     },
     {
       "album": {
-        "name": "Surfer Rosa",
+        "name": "Surfer Rosa (2007 Remaster)",
         "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
       },
       "artists": [
@@ -7919,7 +7937,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 234973,
-      "name": "Where Is My Mind? - Remastered",
+      "name": "Where Is My Mind? - 2007 Remaster",
       "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"
     },
     {

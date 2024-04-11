@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,451 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,513 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 49 | [Friday Lake](https://open.spotify.com/track/6maRenLzXyL8x72a2gTDMY) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Friday Lake](https://open.spotify.com/album/17u0E5PLaCn1SJMPXj8Ova) | 3:16 |
 | 50 | [Turtle Jazz](https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [Turtle Jazz](https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws) | 3:13 |
 
-Snapshot ID: `MCwyMjQ4MTVjN2M2M2IzYzQ0NmZkOGY4ZTVhM2IzNTgwMGM0NjZkMTBl`
+Snapshot ID: `MCwxOTBlOWY3NWM2ZTEzMmFjNWJjY2IxYmQwY2NmYWE5ZTk0ZWEyNjYy`

@@ -8029,6 +8029,24 @@
     },
     {
       "album": {
+        "name": "Sete Vidas - Ep1",
+        "url": "https://open.spotify.com/album/1z8g8hfoWvGFDrCTq0QpcS"
+      },
+      "artists": [
+        {
+          "name": "Leandro Kato",
+          "url": "https://open.spotify.com/artist/2Cse5DmD2EpqYRlVin7qjo"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153214,
+      "name": "Sete Vidas",
+      "url": "https://open.spotify.com/track/3roe5tPp6hWqnQf7uvEz3L"
+    },
+    {
+      "album": {
         "name": "Dois Tempos, Pt. 2",
         "url": "https://open.spotify.com/album/4qsjL0Fi1XFyW9ag7Mmdmk"
       },

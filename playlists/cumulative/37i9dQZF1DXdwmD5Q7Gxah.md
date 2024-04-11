@@ -4,7 +4,7 @@
 
 > cover: lizzy mcalpine
 
-2,705 songs - 6 day 1 hr 41 min
+2,706 songs - 6 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [cant celebrate](https://open.spotify.com/track/7FASEsOoEfBpUjdkIuz40V) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [cant celebrate](https://open.spotify.com/album/7feZHa1JhU5fizfntgl46E) | 4:14 | 2022-04-22 | 2022-06-18 |
 | [Car Crash in G Major](https://open.spotify.com/track/3zt5zKBpsliBi0aDldNBsX) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/43glATQ0nobuUZOCXPRbQM) | 2:12 | 2020-10-20 | 2021-01-12 |
 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 | 2023-01-06 | 2023-02-11 |
+| [Cards On The Table](https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Cards On The Table](https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox) | 2:56 | 2024-04-10 |  |
 | [Care](https://open.spotify.com/track/4sEH3mM8kkKaE5g9V2QZoU) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Care](https://open.spotify.com/album/51fkPPsTPpZdFEGr3o5dCt) | 3:14 | 2020-07-18 | 2020-08-25 |
 | [Care](https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Care](https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg) | 4:37 | 2024-02-14 |  |
 | [Care \(with Omar Apollo\)](https://open.spotify.com/track/296wnQ0NPmj0hwpdhICSRy) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [FRIENDS KEEP SECRETS 2](https://open.spotify.com/album/7jainWomsRbTs5dGUOP21C) | 4:50 | 2021-03-26 | 2021-08-14 |
@@ -1927,7 +1928,7 @@
 | [River](https://open.spotify.com/track/3MdfiTYyZLFxWHwHf4gDsu) | [Blaize Jenkins](https://open.spotify.com/artist/7FCM7W3EeI7rNfLGKYFrAn) | [River](https://open.spotify.com/album/1l2tLGBVpMvwnZ8TV5sC4l) | 4:01 | 2023-11-03 | 2024-02-10 |
 | [Robbers](https://open.spotify.com/track/06cCziAHtDg6pcsidZHu03) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:14 | 2022-11-28 | 2022-12-15 |
 | [Robes](https://open.spotify.com/track/1qD1cw9NSca7RMNwOKcpWA) | [Ricky Gourmet](https://open.spotify.com/artist/0Q4wGWyoRtJmgRaQJYNtbg) | [Robes](https://open.spotify.com/album/0XoXRIqvPe0m0dCPHqi0jy) | 3:07 | 2023-08-11 | 2023-10-02 |
-| [Rockin My World](https://open.spotify.com/track/6HW2JkmIH0XbAdG2hrQY2n) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Intercession Before Charlotte](https://open.spotify.com/album/5eT8m1zk15Bbb0FeyAZB49) | 3:01 | 2024-03-15 |  |
+| [Rockin My World](https://open.spotify.com/track/6HW2JkmIH0XbAdG2hrQY2n) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Intercession Before Charlotte](https://open.spotify.com/album/5eT8m1zk15Bbb0FeyAZB49) | 3:01 | 2024-03-15 | 2024-04-11 |
 | [Rockstar](https://open.spotify.com/track/4ui2HoMD04KdlWjsTM343e) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Rockstar](https://open.spotify.com/album/7CpHZgBT4UFz8eJWr659KU) | 3:28 | 2020-10-10 | 2021-04-02 |
 | [Rocky](https://open.spotify.com/track/5uDohC8URXwbGiHAMuKGoa) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Rocky](https://open.spotify.com/album/47pYIGsuBIKvsbAQpipfur) | 2:46 | 2021-02-19 | 2021-06-05 |
 | [Roddy](https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0) | 4:12 | 2023-04-05 | 2023-04-09 |

@@ -4,7 +4,7 @@
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-104 songs - 6 hr 4 min
+105 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Praia do Rosa \- Acústico](https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Praia do Rosa \(Acústico\)](https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql) | 4:16 | 2023-10-13 |  |
 | [Promete](https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Promete](https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ) | 3:18 | 2023-10-13 |  |
 | [Péssimo Negócio \(Ao Vivo\) \- Acústico](https://open.spotify.com/track/7wBTOYiJy9Fa1JeTtrZIBQ) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Terra do Nunca \(Acústico\)](https://open.spotify.com/album/5srHRGI7y6NKTPzvhkKfgj) | 3:25 | 2023-10-13 |  |
-| [Quando a Chuva Passar](https://open.spotify.com/track/6lgl29Vc2xmfE0mTFRI4ip) | [PEU](https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f) | [Peu Canta Ivete](https://open.spotify.com/album/5WDe14rM6lvHcjEOXwTcBw) | 4:03 | 2023-10-13 |  |
+| [Quando a Chuva Passar](https://open.spotify.com/track/2xugF4yd7h4xvW3i8BFMpW) | [PEU](https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f) | [PEU Canta Ivete](https://open.spotify.com/album/73wJq77EDwMA5bTclsZFU0) | 4:03 | 2024-03-18 |  |
+| [Quando a Chuva Passar](https://open.spotify.com/track/6lgl29Vc2xmfE0mTFRI4ip) | [PEU](https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f) | [Peu Canta Ivete](https://open.spotify.com/album/5WDe14rM6lvHcjEOXwTcBw) | 4:03 | 2023-10-13 | 2024-04-11 |
 | [Quase Sem Querer](https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Quase Sem Querer](https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME) | 3:36 | 2023-10-13 |  |
 | [Quase Sem Querer \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/7x2PPGgAptvKQI2Aw8XIY0) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Spotify Singles](https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V) | 3:14 | 2023-10-13 |  |
 | [Quero Ser Feliz Também \- Ao Vivo](https://open.spotify.com/track/3b8vIZo54D5aIHjukUCYuy) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i) | 3:34 | 2023-10-13 |  |

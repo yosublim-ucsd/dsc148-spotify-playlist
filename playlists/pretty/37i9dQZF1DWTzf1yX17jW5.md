@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 
 > Our editor’s picks for best Jersey Club songs of the year\. Cover: kanii
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,293 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,308 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 | 58 | [River](https://open.spotify.com/track/4tZCAD2myjzONvRWoDMulN) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Electus](https://open.spotify.com/album/12BfPxoETgAfdrgRVu36jS) | 2:03 |
 | 59 | [SOS](https://open.spotify.com/track/26p68PG4mrL9tXpan62sv6) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Emociones 1.5](https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr) | 3:02 |
 | 60 | [Birthday](https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW) | [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Kajun Waters](https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY) | [Birthday](https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs) | 2:20 |
-| 61 | [Gummie](https://open.spotify.com/track/2VS4DvkyetQCSnfMXHBASG) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Gummie](https://open.spotify.com/album/53w2aqJQv74dnJ0ogfTN5U) | 2:54 |
-| 62 | [Day Ones](https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Day Ones](https://open.spotify.com/album/4STghfPx4foktyWk2TCJWq) | 2:42 |
+| 61 | [Day Ones](https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Day Ones](https://open.spotify.com/album/4STghfPx4foktyWk2TCJWq) | 2:42 |
+| 62 | [Gummie](https://open.spotify.com/track/2VS4DvkyetQCSnfMXHBASG) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Gummie](https://open.spotify.com/album/53w2aqJQv74dnJ0ogfTN5U) | 2:54 |
 | 63 | [Pretty Girl](https://open.spotify.com/track/2tcpUWETIBdjfXCHd8AsAm) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Pretty Girl](https://open.spotify.com/album/5giY2G75GmuOICcyhxk2iG) | 2:15 |
 | 64 | [KEEP WISHING \(feat\. 2Rare\)](https://open.spotify.com/track/237JPwIrEEFCC9IWgzHxsm) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [KEEP WISHING \(feat\. 2Rare\)](https://open.spotify.com/album/6tHZnpHCEBn15sj29nuNEA) | 2:36 |
 | 65 | [Beat it Up 2k23](https://open.spotify.com/track/7dW44unUq1kL0Hku6wq7uj) | [DJ Difficult](https://open.spotify.com/artist/6n5uPTOp1khc829NG6tQ39), [A.B.E](https://open.spotify.com/artist/6xZs87XR7vPelRzsbyz17R), [Slice ThaHitMaker](https://open.spotify.com/artist/6Vmkl1MWtu88DAcSWoMmul) | [Beat it Up 2k23](https://open.spotify.com/album/2MW2quIyd72cp0Gv8vtc4n) | 3:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 | 74 | [Real Hips 2](https://open.spotify.com/track/740rzQXrAE1qwhQ7UqZPzN) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1), [Defiant Presents](https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65) | [Real Hips 2](https://open.spotify.com/album/25MTp5gwjXq9Y1iVzpWUth) | 2:11 |
 | 75 | [Need](https://open.spotify.com/track/4s8fQKAfuHR9gMDzoA9ioQ) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [Need](https://open.spotify.com/album/5zcHTgSTVHfrF4JJOh1Gnh) | 2:37 |
 
-Snapshot ID: `MCxmZDA2MTczN2VmYjQ1NjIxZmVkYTMyMjA5ZTExMTUyYTlhZTY1NzIx`
+Snapshot ID: `MCwwMGFhNWYxMzMwZmIxZDFjODljMDkwNTc0YzBiMTkwZjEyNjdiMDRk`

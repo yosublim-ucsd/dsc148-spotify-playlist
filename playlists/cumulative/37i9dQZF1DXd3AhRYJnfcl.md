@@ -2,7 +2,7 @@
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\.  الغلاف: <a href="https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D?si=Vorxq4xxTKecyE2YS573dw"> حسين الجسمي </a>
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu?si=8WwDgnZjSWCx\-d3cVmkM2g"> عصام صاصا </a>
 
 271 songs - 15 hr 49 min
 

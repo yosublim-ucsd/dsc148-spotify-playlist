@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Rvssian, Ayra Starr & Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,006 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,029 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 42 | [Lento](https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Lento](https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00) | 3:08 |
 | 43 | [Jeje de Whine](https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:56 |
 | 44 | [Posa](https://open.spotify.com/track/3fcIZ1K25xOEAwePGagbN8) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Zara Williams](https://open.spotify.com/artist/6cDW8p42zhFhvAbiCPeGQB) | [Posa](https://open.spotify.com/album/2pt4yzywteOWyobOMyRN7n) | 3:26 |
-| 45 | [Maria Elegante \(feat\. Afro B\)](https://open.spotify.com/track/2OU6RxOSA8n7nDpg3gF3aX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:06 |
-| 46 | [Mimosas](https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors](https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox) | 3:05 |
-| 47 | [Don't Rush \- Remix](https://open.spotify.com/track/4ltz90zE6hPqE12EGHDMDu) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Don't Rush \(Remix\)](https://open.spotify.com/album/7F360hzRX7Ig1r5sQPc3db) | 3:21 |
-| 48 | [Parcerita](https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK) | [Dahili](https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE) | [Parcerita](https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9) | 2:46 |
+| 45 | [Mimosas](https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors](https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox) | 3:05 |
+| 46 | [Maria Elegante \(feat\. Afro B\)](https://open.spotify.com/track/2OU6RxOSA8n7nDpg3gF3aX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:06 |
+| 47 | [Parcerita](https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK) | [Dahili](https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE) | [Parcerita](https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9) | 2:46 |
+| 48 | [Don't Rush \- Remix](https://open.spotify.com/track/4ltz90zE6hPqE12EGHDMDu) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Don't Rush \(Remix\)](https://open.spotify.com/album/7F360hzRX7Ig1r5sQPc3db) | 3:21 |
 | 49 | [Love Language](https://open.spotify.com/track/7Jqa7kWKN4d2Fn7FESctLz) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 3:24 |
 | 50 | [before](https://open.spotify.com/track/4E6uEWazcA6C2VaWoODFyH) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Andrew Ace](https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG) | [iluminada](https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr) | 2:55 |
 | 51 | [Baila Kumi](https://open.spotify.com/track/6MDegdCkEiUjE7ftt5GcPU) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Baila Kumi](https://open.spotify.com/album/7Bpb7mSPr0iJE7MyHqeVav) | 3:26 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 69 | [Claramente](https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Claramente](https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH) | 3:02 |
 | 70 | [Sanga Zoo \(feat\. Farruko\)](https://open.spotify.com/track/6RcQeYGYy2N8CR6N1HJN5T) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Obrinn](https://open.spotify.com/artist/50jpd7AIFmv5ki7QBv2WgY), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Sanga Zoo \(feat\. Farruko\)](https://open.spotify.com/album/5StbSlzS0COrqrPJDhQr9V) | 3:51 |
 
-Snapshot ID: `MCxhM2E1ZGU3NzdhZmFhNDhmNGM3MmJlMzVjODVjODAxODA0ZjgxZWQw`
+Snapshot ID: `MCw4ZWM3OGI1YjEyMWZmNjI3ZGY5ZWMxYjliNTdhNWI5YWVkMDk5NjVi`

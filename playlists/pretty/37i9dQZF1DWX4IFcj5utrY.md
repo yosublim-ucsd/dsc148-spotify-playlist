@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=eXMnqbKqRbGHU2vdnJw4jQ">DBN Gogo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,805 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,830 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ulele](https://open.spotify.com/track/2znV6ccKYPJOLh1GzKM3zE) | [Heavy\-K](https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts), [Samthing Soweto](https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm), [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Professor](https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt) | [Respect The Drumboss \(3 Step Edition\)](https://open.spotify.com/album/1gYcrQzMkSsXhmJpo7Z8eX) | 6:33 |
 | 2 | [UTHANDO](https://open.spotify.com/track/0jKtJJYzgAsfBrAEb02lPh) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH), [Shazmicsoul](https://open.spotify.com/artist/1J4VWFnc4Abj57kr4qI9wg), [Dr Thulz](https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4), [Mashudu](https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R), [Leandra.Vert](https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l) | [Click Bait](https://open.spotify.com/album/0dvAgkKcoVFHDYAYFViWm1) | 5:31 |
-| 3 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
+| 3 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/09QRjJiYl5FTaDKwee1cnR), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 4 | [Water](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Water](https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D) | 3:11 |
 | 5 | [Hade Boss](https://open.spotify.com/track/2ee1Pa7Gs7lIGRXrl217IG) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Mr Nation Thingz](https://open.spotify.com/artist/5N1to90ym4E3lzJg0CyEGH), [K.C Driller](https://open.spotify.com/artist/4q9iK3DBv5DqV3Pn49ynXp) | [Hade Boss](https://open.spotify.com/album/1p1GcNM063zEJBu0NsM4DO) | 6:22 |
 | 6 | [Abasekho](https://open.spotify.com/track/1W5pFCjik3BlmyIsBglaBH) | [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [The Star Is Reborn](https://open.spotify.com/album/23EoRgzCXwzvaRQ5WMEL2S) | 7:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 49 | [Rekere 3 Step](https://open.spotify.com/track/7bcotMiHylhuo0dEc34XL9) | [SGVO](https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR) | [VO](https://open.spotify.com/album/6czH3qSpT34ZlRDyhEOPJ0) | 6:38 |
 | 50 | [Osanisiya](https://open.spotify.com/track/3HnmM3C6ohQxXSSisoUgDW) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [Frigid Armadillo](https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i), [Y.LOH](https://open.spotify.com/artist/1gvykSoZ2FsfbsnKywDQnW), [Mumba Yachi](https://open.spotify.com/artist/3kn4gPzyX5oJWXUjbnJ1GT) | [Osanisiya](https://open.spotify.com/album/3LXoa6T7tZwQ43xfp2h6gp) | 3:35 |
 
-Snapshot ID: `MCxmZDBlNzIwYTNiOWIwZDk4ZTE4MmQ2MzNjNDdkMzJkNjcxYWQwNjY2`
+Snapshot ID: `MCw2MTU2ZTkyOTBmMDU3NzZlODJiNzEyNGJkYTM4NGZiMjFmOTRiODZm`

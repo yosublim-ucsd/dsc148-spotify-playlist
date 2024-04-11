@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NBIL7.md) - [plain]
 
 > This is Fangclub\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,478 likes - 24 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,479 likes - 24 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NBIL7.md) - [plain]
 | 23 | [Best Fake Friends](https://open.spotify.com/track/2A1ZQp6zcVEBGfGrkbcpNO) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 2:15 |
 | 24 | [Lightning](https://open.spotify.com/track/3C7J7Tm6F8XTnCeRMPMBNt) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 3:41 |
 
-Snapshot ID: `MCw0NzU0MWM0NWU4MzRhMTVmNmZhNTU1ZTY1M2Y5YmQ2MTVmZDk4YzA2`
+Snapshot ID: `MCw3MTNjNDdiNDM0NDEzOTJlMGY0MjVlMGY0MGUzMDkwYWZlYTg0YmQz`
