@@ -1,4 +1,4 @@
-## Playlists \(7708\)
+## Playlists \(7709\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -7490,6 +7490,7 @@
 - [traka](/playlists/pretty/37i9dQZF1DX2l07ZaEeQkJ.md)
 - [tropic.alt](/playlists/pretty/37i9dQZF1DX8HSZzYIDgBB.md)
 - [tumbette](/playlists/pretty/37i9dQZF1DWSEjz7TrmLMY.md)
+- [twelve](/playlists/pretty/3z2cw3ZogDTDR1ZWpAUKRM.md)
 - [twerk](/playlists/pretty/37i9dQZF1DWTOPE5PGBHDN.md)
 - [twilight vibes](/playlists/pretty/37i9dQZF1DX7rFF5HEchjS.md)
 - [una playlist felice](/playlists/pretty/37i9dQZF1DWT888el8RDPq.md)
