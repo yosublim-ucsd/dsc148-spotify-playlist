@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 131922,
+  "num_followers": 131941,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTYwYzNjMGIwZTM3YjA1Y2U0MjkwMmE4ZjI3YzZmZGFiYjIwMDE1",
+  "snapshot_id": "MTY4NzQ4OTIwMCwwMDAwMDAwMDdlNmU4ZWY0YTc1YzE0Mzk2MWFkYmZjNGRiYjlkMTll",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Tom Jobim",
-        "url": "https://open.spotify.com/album/10g32N6XzlGiOQ79DvYbJO"
+        "name": "Rio de Janeiro",
+        "url": "https://open.spotify.com/album/1DKniIwcfVDe3jNTo8rhJu"
       },
       "artists": [
         {
-          "name": "Edley INC.",
-          "url": "https://open.spotify.com/artist/4ugyOypb7Cflv7D72t80UE"
+          "name": "josefe",
+          "url": "https://open.spotify.com/artist/1KgTCjRp4Cuoe7N2dwzrPX"
         }
       ],
-      "duration_ms": 248839,
-      "name": "Tom Jobim",
-      "url": "https://open.spotify.com/track/6BRjl1Pkk7zBUMnRwdnGOz"
+      "duration_ms": 143606,
+      "name": "Rio de Janeiro",
+      "url": "https://open.spotify.com/track/3OMblck71RVFmRfSkXrGpt"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Rio de Janeiro",
-        "url": "https://open.spotify.com/album/1DKniIwcfVDe3jNTo8rhJu"
+        "name": "Tom Jobim",
+        "url": "https://open.spotify.com/album/10g32N6XzlGiOQ79DvYbJO"
       },
       "artists": [
         {
-          "name": "josefe",
-          "url": "https://open.spotify.com/artist/1KgTCjRp4Cuoe7N2dwzrPX"
+          "name": "Edley INC.",
+          "url": "https://open.spotify.com/artist/4ugyOypb7Cflv7D72t80UE"
         }
       ],
-      "duration_ms": 143606,
-      "name": "Rio de Janeiro",
-      "url": "https://open.spotify.com/track/3OMblck71RVFmRfSkXrGpt"
+      "duration_ms": 248839,
+      "name": "Tom Jobim",
+      "url": "https://open.spotify.com/track/6BRjl1Pkk7zBUMnRwdnGOz"
     },
     {
       "added_at": "2023-06-23 03:00:00",

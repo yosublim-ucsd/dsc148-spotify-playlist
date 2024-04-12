@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Soft Launch
+> Discover your new favourite artists from UK&IE\. Cover: MRCY
 
-255 songs - 13 hr 46 min
+256 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Put A Record On](https://open.spotify.com/track/2SGCf4PBhnBf0NJex8sNyn) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [I Wish I Was A...](https://open.spotify.com/album/5Q9tbNhGMAS6IO7azxjKSx) | 3:01 | 2022-07-28 | 2024-02-12 |
 | [Queenish](https://open.spotify.com/track/0kPZoWuMLkHAZv1k3fxk5a) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP) | [Queenish](https://open.spotify.com/album/4hk6LBPYaFiOxSdKA56XSE) | 2:27 | 2022-10-13 |  |
 | [Queenish](https://open.spotify.com/track/2Znf0E9LG4wjJetJvvpQzE) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP) | [Queenish](https://open.spotify.com/album/5eiEM1cWniDEmWVMW83zMM) | 2:27 | 2022-02-18 | 2022-10-17 |
+| [R.L.M](https://open.spotify.com/track/7xrp1M7PQfRh5fsT8dOGnj) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [R.L.M](https://open.spotify.com/album/5jk1ZbZsxdmcKNFKmDO2nF) | 3:45 | 2024-04-11 |  |
 | [Red Hearts](https://open.spotify.com/track/6kLdSLraP7xxZ7MG2whHBM) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Red Hearts](https://open.spotify.com/album/51SibOPo6UKKZ4ffvZ8Snc) | 4:23 | 2022-02-18 |  |
 | [Remedies](https://open.spotify.com/track/1bCl2ys5OAbgoEw3vE0B57) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Remedies](https://open.spotify.com/album/2ib2McC2mS6zPUud6LqBgA) | 4:42 | 2022-02-18 | 2022-07-29 |
 | [Remedies](https://open.spotify.com/track/20AgOIjyk2Qd7DLt8lkxvn) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Remedies](https://open.spotify.com/album/2WUzn7UJ7mdiu7hAYQWMYh) | 4:42 | 2022-07-28 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\n\u6211\u4e0d\u5728\u4e4e \u5225\u4eba\u600e\u9ebc\u770b \u600e\u9ebc\u731c\u6e2c \u6211\u53ea\u5728\u4e4e \u4f60\u4eca\u5929\u662f\u5426 \u7b11\u904e\u54ed\u904e\u3002",
+  "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\u6211\u5011\u4e00\u8d77\u52aa\u529b\u4e86\u90a3\u9ebc\u4e45\uff0c\u6700\u5f8c\u537b\u9084\u662f\u6557\u7d66\u4e0d\u9069\u5408\u3002",
   "name": "\u60b2\u50b7\u91cb\u653e",
   "tracks": [
     {
@@ -819,6 +819,28 @@
     },
     {
       "album": {
+        "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a",
+        "url": "https://open.spotify.com/album/0yZmjmMyA25lq1giL8yl0a"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        },
+        {
+          "name": "DIOR \u5927\u7a4e",
+          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a",
+      "url": "https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh"
+    },
+    {
+      "album": {
         "name": "\u611b&\u82f1\u96c4 LOVE HERO",
         "url": "https://open.spotify.com/album/2GjxUO3a9vqRChJcZSJ25U"
       },
@@ -1558,7 +1580,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 236269,
       "name": "\u6251\u706b",
       "url": "https://open.spotify.com/track/4MzaOc1mOP988KxV3ppWGR"

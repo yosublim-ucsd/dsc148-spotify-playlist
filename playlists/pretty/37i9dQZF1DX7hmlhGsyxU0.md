@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,292 likes - 63 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,341 likes - 63 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 30 | [Living Rooms](https://open.spotify.com/track/1bqUq2J07aWRk2Fu0QpAWy) | [Joshua Naranjo](https://open.spotify.com/artist/79umW4lywuQrIeeDrleqB5) | [Living Rooms](https://open.spotify.com/album/3XSU10axr4q7lPwiMXQPUe) | 2:55 |
 | 31 | [Joshua Tree](https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Joshua Tree](https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw) | 2:37 |
 | 32 | [Islands](https://open.spotify.com/track/6nEE1lj51T4efni3T2NxET) | [Nsee](https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm), [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Islands](https://open.spotify.com/album/2XIKAebL8aZ70mFTOFDsAr) | 2:21 |
-| 33 | [EGUZKIA GALDU](https://open.spotify.com/track/1jXTcTeHRUaWmWJME9U2I3) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [EGUZKIA GALDU](https://open.spotify.com/album/06pHIdK1jZwvfOUBUQyFUR) | 2:41 |
-| 34 | [Swan Lake Story, Op\. 1](https://open.spotify.com/track/0xnJfH95YdS540hYkQK0qU) | [W CELLO](https://open.spotify.com/artist/3qEFluoXwyiaw2Du5gUrpd), [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Swan Lake Story](https://open.spotify.com/album/4xV5TH4Vr5ujQadhFpoxNU) | 2:50 |
+| 33 | [Swan Lake Story, Op\. 1](https://open.spotify.com/track/0xnJfH95YdS540hYkQK0qU) | [W CELLO](https://open.spotify.com/artist/3qEFluoXwyiaw2Du5gUrpd), [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Swan Lake Story](https://open.spotify.com/album/4xV5TH4Vr5ujQadhFpoxNU) | 2:50 |
+| 34 | [EGUZKIA GALDU](https://open.spotify.com/track/1jXTcTeHRUaWmWJME9U2I3) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [EGUZKIA GALDU](https://open.spotify.com/album/06pHIdK1jZwvfOUBUQyFUR) | 2:41 |
 | 35 | [Calm Water](https://open.spotify.com/track/00CUZP34M4082rJyr4ZMen) | [Elise Bordeaux](https://open.spotify.com/artist/4LARDrja1IhwG5bE3512AW) | [Calm Water](https://open.spotify.com/album/1qgjBW7ZMom06x4uXaqnvQ) | 4:20 |
 | 36 | [Kärlek](https://open.spotify.com/track/3biDlhK0lzErVCKW1Yoafk) | [Ruben Fjellner](https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG) | [Kärlek](https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8) | 2:28 |
 | 37 | [Autumn](https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Autumn](https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q) | 2:33 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 62 | [Musica Desolata](https://open.spotify.com/track/3Yxr6ErXlxOZlKpHopaOZ4) | [Alexei Aigui](https://open.spotify.com/artist/5LaWJYIJaRFtx0HbieOTE5), [Arkady Marto](https://open.spotify.com/artist/2EgSk5VfvU0eFTdX3J7tWx) | [Musica Desolata](https://open.spotify.com/album/6d2zEv374iiL8FmTRbuklB) | 4:44 |
 | 63 | [Procyon](https://open.spotify.com/track/2dURcygV26MUOQuztCjBwX) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Altair](https://open.spotify.com/album/26LhooOyV1xLfqTZxkqSkB) | 3:06 |
 
-Snapshot ID: `MCw5YzQyNWNiODQ4ZWRmMjEwM2MwMTA0MGUwNjQxODk1OWIxOGJiZDI0`
+Snapshot ID: `MTY4Nzg4MjM1OSwwMDAwMDAwMDZhNTRhMmYzZDE2MWIyZDZlNTE5OTA1OWVlNDViY2Q5`

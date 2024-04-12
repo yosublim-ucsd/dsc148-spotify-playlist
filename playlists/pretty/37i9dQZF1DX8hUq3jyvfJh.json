@@ -1,12 +1,12 @@
 {
   "description": "Escute Manu e mais mulheres no volume m\u00e1ximo! Co-curadoria com ",
-  "num_followers": 177948,
+  "num_followers": 178145,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDFlOWNlNDljNWM0ZmU5M2M1ZjhiYjY3OGI2MzYxZTA3M2RjN2Ew",
+  "snapshot_id": "MTcxMjExMzIwMCwwMDAwMDAwMDYzNzQ1MTAwMDg4Y2ZjMTVhN2ZjM2E5OTdmOGFhNjM3",
   "tracks": [
     {
       "added_at": "2024-04-03 03:00:00",
@@ -71,26 +71,6 @@
     {
       "added_at": "2024-04-03 03:00:00",
       "album": {
-        "name": "Macetando",
-        "url": "https://open.spotify.com/album/6FEJSBFIqZe9GYN2xaAP52"
-      },
-      "artists": [
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 167786,
-      "name": "Macetando",
-      "url": "https://open.spotify.com/track/6eJUG282cUKuIoa72sEsqO"
-    },
-    {
-      "added_at": "2024-04-03 03:00:00",
-      "album": {
         "name": "Joga Pra Lua",
         "url": "https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1"
       },
@@ -111,6 +91,26 @@
       "duration_ms": 125108,
       "name": "Joga Pra Lua",
       "url": "https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu"
+    },
+    {
+      "added_at": "2024-04-03 03:00:00",
+      "album": {
+        "name": "Macetando",
+        "url": "https://open.spotify.com/album/6FEJSBFIqZe9GYN2xaAP52"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 167786,
+      "name": "Macetando",
+      "url": "https://open.spotify.com/track/6eJUG282cUKuIoa72sEsqO"
     },
     {
       "added_at": "2024-04-03 03:00:00",
@@ -183,6 +183,26 @@
     {
       "added_at": "2024-04-03 03:00:00",
       "album": {
+        "name": "Mil Vezes (Remix)",
+        "url": "https://open.spotify.com/album/28TohT0cuarLuUCyC7VGA1"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "Mil Vezes - Remix",
+      "url": "https://open.spotify.com/track/2azJDduVngaqpaUsxKXevt"
+    },
+    {
+      "added_at": "2024-04-03 03:00:00",
+      "album": {
         "name": "Vai Viver",
         "url": "https://open.spotify.com/album/0tmVFpNaA1in2fz5oK4NVp"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 170191,
       "name": "Palha\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/0KXdSF0Poa57KOepZ3hKrh"
-    },
-    {
-      "added_at": "2024-04-03 03:00:00",
-      "album": {
-        "name": "Mil Vezes (Remix)",
-        "url": "https://open.spotify.com/album/28TohT0cuarLuUCyC7VGA1"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Melody",
-          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Mil Vezes - Remix",
-      "url": "https://open.spotify.com/track/2azJDduVngaqpaUsxKXevt"
     },
     {
       "added_at": "2024-04-03 03:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-04-03 03:00:00",
       "album": {
-        "name": "A culpa \u00e9 do meu SIGNO",
-        "url": "https://open.spotify.com/album/7JjEHekB15sJmSy23SO0Cd"
-      },
-      "artists": [
-        {
-          "name": "Luiza Martins",
-          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
-        }
-      ],
-      "duration_ms": 160420,
-      "name": "Carinho E Respeito",
-      "url": "https://open.spotify.com/track/4zfd2DA0X6juAIIUHbnbIZ"
-    },
-    {
-      "added_at": "2024-04-03 03:00:00",
-      "album": {
         "name": "Cleide",
         "url": "https://open.spotify.com/album/3QY7ydZS435baVDOqu4h8L"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 209506,
       "name": "Cleide",
       "url": "https://open.spotify.com/track/4vJAhyVQqc08HKmeWwmTWk"
+    },
+    {
+      "added_at": "2024-04-03 03:00:00",
+      "album": {
+        "name": "A culpa \u00e9 do meu SIGNO",
+        "url": "https://open.spotify.com/album/7JjEHekB15sJmSy23SO0Cd"
+      },
+      "artists": [
+        {
+          "name": "Luiza Martins",
+          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
+        }
+      ],
+      "duration_ms": 160420,
+      "name": "Carinho E Respeito",
+      "url": "https://open.spotify.com/track/4zfd2DA0X6juAIIUHbnbIZ"
     },
     {
       "added_at": "2024-04-03 03:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-04-03 03:00:00",
       "album": {
-        "name": "Ao Vivo em Nazar\u00e9 das Farinhas",
-        "url": "https://open.spotify.com/album/2ZNIQZydZyHNGUNA9djAD6"
-      },
-      "artists": [
-        {
-          "name": "Anna Catarina",
-          "url": "https://open.spotify.com/artist/5ejwC1lGyvPsz5FGaqHsow"
-        }
-      ],
-      "duration_ms": 147300,
-      "name": "A Prova de Ex",
-      "url": "https://open.spotify.com/track/0RnGEYHURSUAgii5QS7lcx"
-    },
-    {
-      "added_at": "2024-04-03 03:00:00",
-      "album": {
         "name": "Bola de Fogo (Que Calor da Porra)",
         "url": "https://open.spotify.com/album/0NmkkblhEj0f8mNprfmsX6"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 154426,
       "name": "Bola de Fogo (Que Calor da Porra)",
       "url": "https://open.spotify.com/track/69sfMbcP4UKRoGVqBJcHgs"
+    },
+    {
+      "added_at": "2024-04-03 03:00:00",
+      "album": {
+        "name": "Ao Vivo em Nazar\u00e9 das Farinhas",
+        "url": "https://open.spotify.com/album/2ZNIQZydZyHNGUNA9djAD6"
+      },
+      "artists": [
+        {
+          "name": "Anna Catarina",
+          "url": "https://open.spotify.com/artist/5ejwC1lGyvPsz5FGaqHsow"
+        }
+      ],
+      "duration_ms": 147300,
+      "name": "A Prova de Ex",
+      "url": "https://open.spotify.com/track/0RnGEYHURSUAgii5QS7lcx"
     },
     {
       "added_at": "2024-04-03 03:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-04-03 03:00:00",
       "album": {
+        "name": "Muvuca",
+        "url": "https://open.spotify.com/album/53bI27tNxFAmguVRUW1yAd"
+      },
+      "artists": [
+        {
+          "name": "Anna Catarina",
+          "url": "https://open.spotify.com/artist/5ejwC1lGyvPsz5FGaqHsow"
+        }
+      ],
+      "duration_ms": 164776,
+      "name": "Muvuca",
+      "url": "https://open.spotify.com/track/6CgXbGugDy2XiZm8IwRgwN"
+    },
+    {
+      "added_at": "2024-04-03 03:00:00",
+      "album": {
         "name": "Garota",
         "url": "https://open.spotify.com/album/6XonAhian0PAQ0DWRkQY6Y"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 142990,
       "name": "Vapt Vupt",
       "url": "https://open.spotify.com/track/1Ccih7yKi46g9TK9KQmNGG"
-    },
-    {
-      "added_at": "2024-04-03 03:00:00",
-      "album": {
-        "name": "Muvuca",
-        "url": "https://open.spotify.com/album/53bI27tNxFAmguVRUW1yAd"
-      },
-      "artists": [
-        {
-          "name": "Anna Catarina",
-          "url": "https://open.spotify.com/artist/5ejwC1lGyvPsz5FGaqHsow"
-        }
-      ],
-      "duration_ms": 164776,
-      "name": "Muvuca",
-      "url": "https://open.spotify.com/track/6CgXbGugDy2XiZm8IwRgwN"
     }
   ],
   "unique_name": "EQUAL Brasil",

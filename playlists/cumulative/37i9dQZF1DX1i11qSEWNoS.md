@@ -4,7 +4,7 @@
 
 > und macht laune
 
-186 songs - 8 hr 58 min
+187 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,13 +82,14 @@
 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 | 2023-07-21 | 2023-11-11 |
 | [Gyal You a Party Animal \- Sped Up](https://open.spotify.com/track/7sn9yeYbto2CZVunHV0mAr) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You a Party Animal \(Sped Up\)](https://open.spotify.com/album/0gE5oJEIhlavq8ocpiU1NU) | 2:40 | 2023-07-21 | 2023-09-07 |
 | [Hardcore Vibes](https://open.spotify.com/track/0yx5eBLk3AGOH5EruCqLDx) | [Dune](https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r), [Froning](https://open.spotify.com/artist/4ZyOzd4u9Kg3B6Ny0NDyGd) | [Dune](https://open.spotify.com/album/5hAcH6CTDKGj43pMhp4iwR) | 3:33 | 2023-12-28 | 2024-01-02 |
-| [Herz an Herz](https://open.spotify.com/track/3JfKaDVt5I1egdhm2V5GRG) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx) | [Herz an Herz](https://open.spotify.com/album/2ErXScnw552ExYN83eloZw) | 2:23 | 2023-07-21 |  |
+| [Herz an Herz](https://open.spotify.com/track/3JfKaDVt5I1egdhm2V5GRG) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx) | [Herz an Herz](https://open.spotify.com/album/2ErXScnw552ExYN83eloZw) | 2:23 | 2023-07-21 | 2024-04-12 |
 | [HERZ MACHT BAMM](https://open.spotify.com/track/5uiokPQwUgidgRBPEQPImc) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [HERZ MACHT BAMM](https://open.spotify.com/album/43hhHQjezxykYy1yf5CG11) | 2:44 | 2024-02-09 |  |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2023-07-21 |  |
 | [Home Alone \(with Marnik\)](https://open.spotify.com/track/7zyvQ8sb72g4RuwBpcuGUP) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [Home Alone \(with Marnik\)](https://open.spotify.com/album/4PX1HXUcKRTNYEQOcBfpsc) | 2:08 | 2024-01-05 | 2024-03-29 |
 | [How I Fell in Love](https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7) | [CH4YN](https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU) | [How I Fell in Love](https://open.spotify.com/album/461FLD6OW9OextuRH70VKF) | 1:52 | 2023-07-21 |  |
 | [How You Remind Me](https://open.spotify.com/track/2SqCxbiL0ClhKZgIQxAgK0) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR) | [How You Remind Me](https://open.spotify.com/album/0W6erefb8fRvnBVvfxCS1P) | 2:28 | 2023-10-28 |  |
 | [I Can Feel](https://open.spotify.com/track/2siKpBqjCCIsOFf5L4AqoR) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [I Can Feel](https://open.spotify.com/album/1dGXSpvShR62ZdS9k4qjy7) | 2:53 | 2023-10-03 |  |
+| [I Wouldn't Mind](https://open.spotify.com/track/3XB10votaPOcmrFS1dM59j) | [Eure Jungs](https://open.spotify.com/artist/1uvjKQHpHj5BiEHBOlU97U) | [I Wouldn't Mind](https://open.spotify.com/album/1YvMESin0KV0FsTinzdhz3) | 1:59 | 2024-04-11 |  |
 | [Ich nehm dich bei der Hand \(SimsalaGrimm\)](https://open.spotify.com/track/14iwJXnTuI9qdcosMEB73h) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Beats by Luca](https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs) | [Ich nehm dich bei der Hand \(SimsalaGrimm\)](https://open.spotify.com/album/2nP38OhbFaK5iCeGV8gEbP) | 2:05 | 2024-01-05 |  |
 | [Ich will nur dass du weißt \- IIVEN Remix](https://open.spotify.com/track/7MCNurIGh8Hg9SYaCPP9vv) | [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG), [IIVEN](https://open.spotify.com/artist/0ydBtmgupeHnGowYxRo6tq), [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Ich will nur dass du weißt \(IIVEN Remix\)](https://open.spotify.com/album/2prLFss2H7K0y4ZY094MZA) | 2:36 | 2023-08-11 |  |
 | [IN THE CLUB](https://open.spotify.com/track/7vX0rvoGneCCOJ2QPruNNZ) | [Mishashi Sensei](https://open.spotify.com/artist/2kH0ycFAZXMJzpNems0mVK) | [IN THE CLUB](https://open.spotify.com/album/1nKcVRIapkprHO7oeNLyE4) | 2:19 | 2023-07-21 | 2023-09-09 |

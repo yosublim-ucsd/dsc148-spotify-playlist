@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 43542,
+  "num_followers": 43552,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjE2NDk3MTEzMjU0ZDg1MWFmYTkwMWY5ZTQ2ZmIxMDdiOGIxNWRm",
+  "snapshot_id": "MTY4NjkxODEwMywwMDAwMDAwMGUxYTk2ZmFjMGRhOWUxMTcyOTFlMDdjY2I4YmU5NmEy",
   "tracks": [
     {
       "added_at": "2019-10-04 16:01:14",
@@ -803,22 +803,18 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Buddy And Sweets",
-        "url": "https://open.spotify.com/album/2vkrql6FPjZeTADB3om0kc"
+        "name": "Ellis In Wonderland",
+        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
       },
       "artists": [
         {
-          "name": "Buddy Rich",
-          "url": "https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs"
-        },
-        {
-          "name": "Harry \"Sweets\" Edison",
-          "url": "https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN"
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
         }
       ],
-      "duration_ms": 244706,
-      "name": "Nice Work If You Can Get It",
-      "url": "https://open.spotify.com/track/0CslMMe56XfdYTTdl0WxVU"
+      "duration_ms": 251600,
+      "name": "A Simple Tune",
+      "url": "https://open.spotify.com/track/7yYPygAHXo8HlJjqFJHxjb"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -843,18 +839,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Ellis In Wonderland",
-        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
+        "name": "Buddy And Sweets",
+        "url": "https://open.spotify.com/album/2vkrql6FPjZeTADB3om0kc"
       },
       "artists": [
         {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+          "name": "Buddy Rich",
+          "url": "https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs"
+        },
+        {
+          "name": "Harry \"Sweets\" Edison",
+          "url": "https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN"
         }
       ],
-      "duration_ms": 251600,
-      "name": "A Simple Tune",
-      "url": "https://open.spotify.com/track/7yYPygAHXo8HlJjqFJHxjb"
+      "duration_ms": 244706,
+      "name": "Nice Work If You Can Get It",
+      "url": "https://open.spotify.com/track/0CslMMe56XfdYTTdl0WxVU"
     },
     {
       "added_at": "2019-10-04 16:01:14",

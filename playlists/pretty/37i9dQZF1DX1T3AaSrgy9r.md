@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 
 > Underground dance and alternative that went on to define a new millennium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,675 likes - 88 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,714 likes - 88 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 | 18 | [Da Funk](https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 5:28 |
 | 19 | [In The Waiting Line](https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 4:31 |
 | 20 | [Superstylin'](https://open.spotify.com/track/2yWyFT6bW1Rd9cjVvYi4v8) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Goodbye Country \(Hello Nightclub\)](https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6) | 6:00 |
-| 21 | [Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 5:09 |
+| 21 | [Roygbiv](https://open.spotify.com/track/5Hf2h59YLInKlic7ooWZVd) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 2:29 |
 | 22 | [Sexy Boy](https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:58 |
-| 23 | [Roygbiv](https://open.spotify.com/track/5Hf2h59YLInKlic7ooWZVd) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 2:29 |
+| 23 | [Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 5:09 |
 | 24 | [Insomnia \- Radio Edit](https://open.spotify.com/track/07sxccsfOMu3ZiNG31pn4d) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Headliners](https://open.spotify.com/album/6ptnlw9K2gpKuocxaO8F2N) | 3:35 |
 | 25 | [Alberto Balsalm](https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 5:10 |
 | 26 | [Protection](https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Tracey Thorn](https://open.spotify.com/artist/7xFnmid57ZE6iWEXdEXO3b) | [Protection](https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC) | 7:51 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 | 28 | [Hell Is Round The Corner](https://open.spotify.com/track/2wC0qK8JN6gblb0ZJzE2d9) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Martina Topley\-Bird](https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 3:47 |
 | 29 | [Let Forever Be](https://open.spotify.com/track/3m1JFLpKLYgMi1jf6Bu16P) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Surrender](https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3) | 3:56 |
 | 30 | [My Friend](https://open.spotify.com/track/5LRxSyiIRHQD26h1mdM0Ir) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Goodbye Country \(Hello Nightclub\)](https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6) | 5:00 |
-| 31 | [I Might Be Wrong](https://open.spotify.com/track/5JZ1jTanqLWVuThmZ6XRAc) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Amnesiac](https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0) | 4:53 |
-| 32 | [Red Alert \- Jaxx Radio Mix](https://open.spotify.com/track/0Z3Y5cWOPaXIBI08KKDVTO) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Red Alert](https://open.spotify.com/album/60O0wPhfgkZGGKTJho6bHS) | 3:38 |
+| 31 | [Red Alert \- Jaxx Radio Mix](https://open.spotify.com/track/0Z3Y5cWOPaXIBI08KKDVTO) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Red Alert](https://open.spotify.com/album/60O0wPhfgkZGGKTJho6bHS) | 3:38 |
+| 32 | [I Might Be Wrong](https://open.spotify.com/track/5JZ1jTanqLWVuThmZ6XRAc) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Amnesiac](https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0) | 4:53 |
 | 33 | [A Little Less Conversation \- JXL Radio Edit Remix](https://open.spotify.com/track/4rr0gWiMrF4sOIefs3IEvZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [A Little Less Conversation: Elvis vs JXL](https://open.spotify.com/album/3nZRriUOOM8Gvv3ox8ybn1) | 3:31 |
 | 34 | [Army of Me](https://open.spotify.com/track/3vEmpJQC2p8h0U3OiBufQm) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:54 |
 | 35 | [Windowlicker](https://open.spotify.com/track/409z4jUHpq7eIkg3N3FzZh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Windowlicker](https://open.spotify.com/album/59wyQv8zUfLulyPYefI8vh) | 6:05 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 | 68 | [Little Fluffy Clouds \- Dance Mix 2](https://open.spotify.com/track/0yHKFQNwiCzpjR312MJsb0) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Off: The Best Of The Orb](https://open.spotify.com/album/6VRqDW5Y4WmF9d0ZplJGLp) | 4:10 |
 | 69 | [Makes Me Wanna Die](https://open.spotify.com/track/385DxV3uLG88GaCUsyCyrX) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Martina Topley\-Bird](https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6) | [Pre Millennium Tension](https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu) | 4:01 |
 | 70 | [Pacific 707](https://open.spotify.com/track/2riROGFV3u0vtPnUT1z9Sc) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [808:88:98](https://open.spotify.com/album/6EnSysBL3MNcB0o8BUfPh3) | 3:53 |
-| 71 | [Original Bedroom Rockers](https://open.spotify.com/track/348kpkfbJUZn7GBpOEvPh4) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [G\-Stoned](https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN) | 6:07 |
-| 72 | [Bug Powder Dust](https://open.spotify.com/track/01JiMbcLflocOuTLk3SXuF) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6), [Justin Warfield](https://open.spotify.com/artist/7FsYhkJR8zX4NeEqifNqDA) | [Clear](https://open.spotify.com/album/43znyD1XdGyB02qwhUpfEV) | 4:18 |
+| 71 | [Bug Powder Dust](https://open.spotify.com/track/01JiMbcLflocOuTLk3SXuF) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6), [Justin Warfield](https://open.spotify.com/artist/7FsYhkJR8zX4NeEqifNqDA) | [Clear](https://open.spotify.com/album/43znyD1XdGyB02qwhUpfEV) | 4:18 |
+| 72 | [Original Bedroom Rockers](https://open.spotify.com/track/348kpkfbJUZn7GBpOEvPh4) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [G\-Stoned](https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN) | 6:07 |
 | 73 | [Spin Spin Sugar \- Armands Dark Garage Mix](https://open.spotify.com/track/2sNJyLDDk7WXLtr1XpgjVY) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Spin Spin Sugar](https://open.spotify.com/album/12GoFqpYnoVBbYy4XkU39u) | 9:04 |
 | 74 | [Dealing with the Roster](https://open.spotify.com/track/6mnQcJtt3gMf9jBAj957le) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Saturday Teenage Kick](https://open.spotify.com/album/5BM8CimFKOpUHa9zUmcZHV) | 5:27 |
 | 75 | [The Rockafeller Skank](https://open.spotify.com/track/5KgBcFl3sjhGTa5PStoHMp) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way Baby](https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L) | 6:53 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 | 87 | [Battleflag](https://open.spotify.com/track/1PI6HcPT1Wx9hTLdTvMwv7) | [Lo Fidelity Allstars](https://open.spotify.com/artist/2YiWXa7E1raYyY0uQDLpgs) | [Battleflag](https://open.spotify.com/album/1GxB3FFX5Zy2cOYlWZtwTj) | 5:41 |
 | 88 | [Atom Bomb \- Atomix 1](https://open.spotify.com/track/4VNSaSXvYJeLlkulxTXqs1) | [Fluke](https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ) | [Atom Bomb](https://open.spotify.com/album/5TbRo1rBrhgHSTB4i2wdZS) | 5:42 |
 
-Snapshot ID: `MCxjMGFjMDJiNmRkYjhkZjU0ZjFjOTkxYmM2MjJmNmUwYTJhZTk2YTU5`
+Snapshot ID: `MTY4NjkxODg1OCwwMDAwMDAwMDY1ZTNiMjgzYzMxOTA1NjczZmE5NjhjOTY5MTc3ZGUx`

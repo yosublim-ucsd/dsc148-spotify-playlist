@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5tDsz1WqJv1ZFSXeC453wy">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-212 songs - 11 hr 42 min
+213 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,8 @@
 | [SOS \(Overboard\)](https://open.spotify.com/track/4OeXeFN1dxx3LTrjcKGSV9) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG) | 3:05 | 2022-09-08 |  |
 | [Spaceship \(feat\. Uffie\) \- MOTi Remix](https://open.spotify.com/track/592JiALLj5xL5Z6LuMmaOV) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Spaceship \(feat\. Uffie\) \[Remixes\]](https://open.spotify.com/album/0RekAKOcexNf6alzxOOzzv) | 3:09 | 2022-09-08 |  |
 | [Still Awake](https://open.spotify.com/track/5gS1VUzCGb7KMzVZDRMiqq) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 3:57 | 2022-09-08 |  |
-| [Stitches](https://open.spotify.com/track/3zkWCteF82vJwv0hRLba76) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/0CnQ0JQajNswRjPkNYVG8m) | 3:26 | 2022-09-08 |  |
+| [Stitches](https://open.spotify.com/track/3vaorwB6JOPAdvSiHSRQiZ) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten \(Deluxe\)](https://open.spotify.com/album/3Qv3N62b2EXxvMLwFURoFj) | 3:26 | 2024-04-11 |  |
+| [Stitches](https://open.spotify.com/track/3zkWCteF82vJwv0hRLba76) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/0CnQ0JQajNswRjPkNYVG8m) | 3:26 | 2022-09-08 | 2024-04-12 |
 | [Stitches](https://open.spotify.com/track/2Cm7fX9OtLd5r9wJgA6N3V) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Stitches \(Official Video\)](https://open.spotify.com/album/3BHbgMpMlaFukTSSTgddiD) | 4:00 | 2023-12-13 | 2024-02-01 |
 | [Sudden Death \(OMG\)](https://open.spotify.com/track/19TH3RUU4RFCJXOMCNHfZM) | [Tyler Glenn](https://open.spotify.com/artist/5XCujjq919BFXTnjyyDpiE) | [Excommunication](https://open.spotify.com/album/6Wy2fOHFH90riocdTcRtkq) | 3:18 | 2022-09-08 |  |
 | [Summer Nights](https://open.spotify.com/track/6Mq704d8DJi7r8zEsONOKI) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Town Called Paradise \(Japan Special Edition\)](https://open.spotify.com/album/473olrWTIYqylqGEVlS9t7) | 3:10 | 2022-09-08 |  |

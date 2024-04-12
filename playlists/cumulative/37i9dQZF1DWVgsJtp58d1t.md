@@ -4,7 +4,7 @@
 
 > New music from Black artists every Friday\. Cover: <a href="spotify:artist:2qoQgPAilErOKCwE2Y8wOG"> Glorilla </a> and <a href="spotify:artist:181bsRPaVXVlUKXrxwZfHK">Megan Thee Stallion </a>
 
-3,047 songs - 6 day 8 hr 38 min
+3,048 songs - 6 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [Bout U](https://open.spotify.com/track/3QWiUcQwaFsR7a4U1zOKmX) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bout U](https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX) | 2:39 | 2022-10-07 | 2022-10-22 |
 | [Bow Down](https://open.spotify.com/track/6PoD6ZYOAMkCJAbpAgpT1T) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 2:03 | 2023-02-17 | 2023-03-04 |
 | [Bows](https://open.spotify.com/track/4Xkk9RBSBgRBAFwPta5FlT) | [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal) | [Bows](https://open.spotify.com/album/6arekQAfjAS10TzMsgacOn) | 2:34 | 2022-07-09 | 2022-08-06 |
+| [Boy Bye](https://open.spotify.com/track/4vZqE8iZ1wYFqlmeOB72nh) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Boy Bye](https://open.spotify.com/album/5Z3LNuIi0IWLJCnIn4OkdG) | 3:25 | 2024-04-05 |  |
 | [Boy's a liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 | 2022-12-02 | 2022-12-31 |
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-03 | 2024-02-03 |
 | [Boyfriend](https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Boyfriend](https://open.spotify.com/album/471LKZ5JPTXVww871Bn9cf) | 3:46 | 2023-08-18 | 2024-02-03 |

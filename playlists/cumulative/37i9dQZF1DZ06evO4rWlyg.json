@@ -506,7 +506,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 246053,
       "name": "Borealis",
       "url": "https://open.spotify.com/track/4J7yVcO9wMxau3NJ1s54eO"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 246053,
       "name": "Borealis",
       "url": "https://open.spotify.com/track/5wOWgKdRSuqdR1UshYDw4q"
@@ -1502,6 +1502,24 @@
     {
       "album": {
         "name": "Debut",
+        "url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273400,
+      "name": "Like Someone In Love",
+      "url": "https://open.spotify.com/track/2dkeRnIM7fXKBkkHvkz91v"
+    },
+    {
+      "album": {
+        "name": "Debut",
         "url": "https://open.spotify.com/album/2Fb37JsRMVPASJcl3wwDOa"
       },
       "artists": [
@@ -1722,10 +1740,36 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 222737,
       "name": "Oral",
       "url": "https://open.spotify.com/track/3re91K41XNVsViNbCPumTw"
+    },
+    {
+      "album": {
+        "name": "Oral (Olof Dreijer Remix)",
+        "url": "https://open.spotify.com/album/19kgSkNIOpr2Uu2X2sHkkb"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Olof Dreijer",
+          "url": "https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321800,
+      "name": "Oral - Olof Dreijer Remix",
+      "url": "https://open.spotify.com/track/1AG0zqRn0lKTXDqcnXKa1x"
     },
     {
       "album": {
@@ -2190,7 +2234,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 201533,
       "name": "There's More To Life Than This - Live At The Milk Bar Toilets",
       "url": "https://open.spotify.com/track/2runFrIwOg5p2HZo1oymEL"

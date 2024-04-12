@@ -1,12 +1,12 @@
 {
   "description": "Relax with this mix of peaceful, ambient, indie music.",
-  "num_followers": 424090,
+  "num_followers": 424100,
   "original_name": "Peaceful Ambient Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWI3YmUyMzcyNjJkZjJiZWIzODQyYWFjYTJiZmFmZGFhNGE2NDFh",
+  "snapshot_id": "MTY5NjAxODczMCwwMDAwMDAwMGI5ZjEyZTFjMDM1YjdmN2UzZWRjNTViYzRjNTY0MTMw",
   "tracks": [
     {
       "added_at": "2023-09-29 20:18:50",
@@ -819,18 +819,22 @@
     {
       "added_at": "2023-09-29 20:18:50",
       "album": {
-        "name": "Unmap",
-        "url": "https://open.spotify.com/album/4Man19eOZ8DBymTPSbSuF3"
+        "name": "Better in the Shade",
+        "url": "https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG"
       },
       "artists": [
         {
-          "name": "Volcano Choir",
-          "url": "https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO"
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "Sea Oleena",
+          "url": "https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP"
         }
       ],
-      "duration_ms": 223746,
-      "name": "Husks And Shells",
-      "url": "https://open.spotify.com/track/0jeDGNGMULFL1xE6ImBhVQ"
+      "duration_ms": 248280,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2Ux24Mdegm7ZP6dfOm6cFc"
     }
   ],
   "unique_name": "Peaceful Ambient Indie",

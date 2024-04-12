@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 123320,
+  "num_followers": 123359,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTQyMTUyOWZlMTA4Njc2MTBhNTdjMzJjMDQ4NjdlMjlmNDc2NGIw",
+  "snapshot_id": "MTY4NjgzNDAxOCwwMDAwMDAwMGI4NDQzZTBlZDZhOGY5MmNlNTM3MDU1Mjg2ZTQwYzIz",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -651,26 +651,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Lo Que Dice El Alma",
-        "url": "https://open.spotify.com/album/6diQlol7c5bsMCk85RXRgu"
-      },
-      "artists": [
-        {
-          "name": "Josue Escogido",
-          "url": "https://open.spotify.com/artist/75Gl0anAafMmfj2gSUP2VK"
-        },
-        {
-          "name": "Yariel y Omy",
-          "url": "https://open.spotify.com/artist/57rWlpin8dSDoSuO0bcr0f"
-        }
-      ],
-      "duration_ms": 257230,
-      "name": "El Mismo De Ayer",
-      "url": "https://open.spotify.com/track/14vPeVOX4it5xXsTKqQlIC"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Mi Resurgimiento",
         "url": "https://open.spotify.com/album/5XKayUtzWsWH4VEciBqhEg"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 195459,
       "name": "Dependo de Ti",
       "url": "https://open.spotify.com/track/0OTp7O27Oz1hpBAPpAJVTe"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Lo Que Dice El Alma",
+        "url": "https://open.spotify.com/album/6diQlol7c5bsMCk85RXRgu"
+      },
+      "artists": [
+        {
+          "name": "Josue Escogido",
+          "url": "https://open.spotify.com/artist/75Gl0anAafMmfj2gSUP2VK"
+        },
+        {
+          "name": "Yariel y Omy",
+          "url": "https://open.spotify.com/artist/57rWlpin8dSDoSuO0bcr0f"
+        }
+      ],
+      "duration_ms": 257230,
+      "name": "El Mismo De Ayer",
+      "url": "https://open.spotify.com/track/14vPeVOX4it5xXsTKqQlIC"
     },
     {
       "added_at": "2020-09-18 05:02:00",

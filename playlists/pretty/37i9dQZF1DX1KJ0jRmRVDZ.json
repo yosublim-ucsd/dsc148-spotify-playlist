@@ -1,12 +1,12 @@
 {
   "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30fb\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u6b21\u3005\u3068\u51fa\u73fe\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002Check out artists of the new Internet age! Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 114907,
+  "num_followers": 114937,
   "original_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGY2Y2M2NGZkMTM0YzAxNzRkNDE0MDRkMzA2ZjI2YTVlNGM1ZjA3",
+  "snapshot_id": "MTcxMjczOTEwNywwMDAwMDAwMDViYmRhMDFiNDMzZjQ2YjcyZWY0ODJkMDk0YzU4ZTQx",
   "tracks": [
     {
       "added_at": "2024-04-10 08:51:47",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-04-10 08:51:47",
       "album": {
-        "name": "Ado \"Ready For My Show Playlist\"",
-        "url": "https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 191105,
-      "name": "\u30af\u30e9\u30af\u30e9",
-      "url": "https://open.spotify.com/track/7lcXrOj9HdsHFQfNNBR4XS"
-    },
-    {
-      "added_at": "2024-04-10 08:51:47",
-      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/1PwHrnwnlvNg8stBetjmyE"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 157161,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/22EHB5z2GwYNPA1wZ3LtL4"
+    },
+    {
+      "added_at": "2024-04-10 08:51:47",
+      "album": {
+        "name": "Ado \"Ready For My Show Playlist\"",
+        "url": "https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 191105,
+      "name": "\u30af\u30e9\u30af\u30e9",
+      "url": "https://open.spotify.com/track/7lcXrOj9HdsHFQfNNBR4XS"
     },
     {
       "added_at": "2024-04-10 08:51:47",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-04-10 08:51:47",
       "album": {
-        "name": "Ado's Utattemita Album",
-        "url": "https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 238360,
-      "name": "unravel",
-      "url": "https://open.spotify.com/track/0Cez33GqDU7Pw5rqOVUPpU"
-    },
-    {
-      "added_at": "2024-04-10 08:51:47",
-      "album": {
         "name": "\u661f\u3081\u3050\u308b\u8a69",
         "url": "https://open.spotify.com/album/2EfEYAvVUWajLKby2VTeZC"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 201764,
       "name": "\u661f\u3081\u3050\u308b\u8a69",
       "url": "https://open.spotify.com/track/30aPCMAtkH6Cf5ejzY4cE4"
+    },
+    {
+      "added_at": "2024-04-10 08:51:47",
+      "album": {
+        "name": "Ado's Utattemita Album",
+        "url": "https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 238360,
+      "name": "unravel",
+      "url": "https://open.spotify.com/track/0Cez33GqDU7Pw5rqOVUPpU"
     },
     {
       "added_at": "2024-04-10 08:51:47",
@@ -847,18 +847,22 @@
     {
       "added_at": "2024-04-10 08:51:47",
       "album": {
-        "name": "Ado \"Ready For My Show Playlist\"",
-        "url": "https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU"
+        "name": "\u61a7\u308c\u306e\u307e\u307e\u306b",
+        "url": "https://open.spotify.com/album/7xaN3BvO06dYFJywAwgZDe"
       },
       "artists": [
         {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        },
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
         }
       ],
-      "duration_ms": 178064,
-      "name": "\u30ea\u30d9\u30ea\u30aa\u30f3",
-      "url": "https://open.spotify.com/track/3JTIwNusgtT95H26DDadkc"
+      "duration_ms": 204600,
+      "name": "\u61a7\u308c\u306e\u307e\u307e\u306b",
+      "url": "https://open.spotify.com/track/7LXjgEPK0QDh2yAZDRwVTs"
     }
   ],
   "unique_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",

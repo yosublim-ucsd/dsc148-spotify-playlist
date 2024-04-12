@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 64034,
+  "num_followers": 64085,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDNiZmI3YjY5ZmJlMWE3MWZhNmY4Mjg4MWIxMmVhMDk2MzFlMDBk",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDRjNWZiNzJiNTlkZDU2MzM3YThhMTkwZDk1MDBiMmE3",
   "tracks": [
     {
       "added_at": null,
@@ -483,30 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stack of Records",
-        "url": "https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW"
-      },
-      "artists": [
-        {
-          "name": "Larry Fleet",
-          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 183403,
-      "name": "In Love With My Problems (feat. Jon Pardi)",
-      "url": "https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HIXTAPE: Vol. 3: DIFFTAPE",
         "url": "https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O"
       },
@@ -535,6 +511,30 @@
       "duration_ms": 170112,
       "name": "Third Rock From The Sun (feat. Brooks & Dunn)",
       "url": "https://open.spotify.com/track/1tJqLiSIjsVcvtmMGtCmXA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stack of Records",
+        "url": "https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW"
+      },
+      "artists": [
+        {
+          "name": "Larry Fleet",
+          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 183403,
+      "name": "In Love With My Problems (feat. Jon Pardi)",
+      "url": "https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL"
     },
     {
       "added_at": null,

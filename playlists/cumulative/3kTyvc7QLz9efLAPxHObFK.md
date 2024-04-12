@@ -4,7 +4,7 @@
 
 > 
 
-1,251 songs - 2 day 21 hr 22 min
+1,252 songs - 2 day 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -992,6 +992,7 @@
 | [Spark](https://open.spotify.com/track/6jrfWYGfKcvLiWSC5MSOJQ) | [INVADE](https://open.spotify.com/artist/4e8kbnPF9d7axpC8u8QJbX), [Hellsystem](https://open.spotify.com/artist/53EHsN2X6QI9xsmunKAW85) | [Spark](https://open.spotify.com/album/5BlRNSXwNR9Cw5xk26upoA) | 3:14 | 2022-09-21 |  |
 | [Sparkling Software v2.0](https://open.spotify.com/track/7nD7M9FWaPaR3iRbqiqVWV) | [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb) | [SUPER KEY GENERATOR](https://open.spotify.com/album/0QQVwPaGD5Vr33bYXy60lY) | 3:26 | 2023-05-02 |  |
 | [Sparkling Star](https://open.spotify.com/track/64J1inaYNaQo8nDKdS3eYO) | [DJ Genki](https://open.spotify.com/artist/787mj6iFvEpBBuQQRDdMXB), [Yukacco](https://open.spotify.com/artist/4zu3DQyVnu3BnzErDmPULM) | [MiraclePop Adventure!!!!!](https://open.spotify.com/album/6mQrXsjzpgMyGIg5KSHU7T) | 4:01 | 2023-05-13 |  |
+| [Spit In My Mouth](https://open.spotify.com/track/2OHgJaxMquD8S6MKLJ4QNq) | [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4), [Dr Donk](https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu) | [Spit In My Mouth](https://open.spotify.com/album/1m9UkPkelQzhA2NMvtqWWL) | 2:31 | 2024-04-12 |  |
 | [Squishy](https://open.spotify.com/track/4RpOckUdZgowtQxQcd112p) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [Squishy](https://open.spotify.com/album/6YgngQwovuyKZ70rTIukyy) | 3:14 | 2022-09-09 |  |
 | [St8ment \- DRS Remix](https://open.spotify.com/track/2NmXEx1SOsYHn8m6R4QG5E) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO), [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs) | [From The Depths](https://open.spotify.com/album/4yZs9QAoAyKBgAC7LbgokT) | 2:42 | 2023-01-16 |  |
 | [Stand Behind It](https://open.spotify.com/track/3WldTu8Z5pLc1ZNPhJSJhH) | [Lumex](https://open.spotify.com/artist/5mmH8aPIBykETuGLc97VOi) | [Stand Behind It](https://open.spotify.com/album/3pqIDBCjClAsY1Nx0dSyjt) | 3:27 | 2023-08-07 |  |

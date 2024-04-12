@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,014 likes - 48 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,099 likes - 48 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 47 | [Besito Con Lengua](https://open.spotify.com/track/4jVEcFzRACgZm5gpkhXigP) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Yakarta](https://open.spotify.com/artist/7a639C80zwLMF0NYMpMxzG) | [Party Full Nasty \(Deluxe Edition\)](https://open.spotify.com/album/01MOvDJDnOLpU47OT2zkFw) | 3:28 |
 | 48 | [Qué Pasa Loco](https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut) | [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ) | [Grandes Exitos Vol\. 1](https://open.spotify.com/album/2qIauTRLruweUbBVZrQkF9) | 6:18 |
 
-Snapshot ID: `MCxlYjNjYjVjOGZiYWQ1OTRjYWI5OTcyODk3M2ZmZWE2YTc0MjIwNzVm`
+Snapshot ID: `MTcxMDg1OTU5MywwMDAwMDAwMDg1MmU2ZjdlMmNmNDYyNzIyNzQxZDE5YTNiOWU2YmFm`

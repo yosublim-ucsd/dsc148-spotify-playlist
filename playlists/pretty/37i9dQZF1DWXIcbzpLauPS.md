@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: The Ghost Inside
 
-[Spotify](https://open.spotify.com/user/spotify) - 926,462 likes - 125 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 926,568 likes - 125 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 85 | [Fractured State of Mind](https://open.spotify.com/track/14cHOXg4CKdHdnX91mptNz) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Fractured State Of Mind](https://open.spotify.com/album/0HHsbTFhkLLocRvKsbs8zR) | 3:44 |
 | 86 | [I Hope You Choke](https://open.spotify.com/track/5tzQBDvosYbVemX5GLFkmB) | [Harper](https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3) | [I Hope You Choke](https://open.spotify.com/album/2cHzgepoOGSgCETJzyXPb6) | 3:27 |
 | 87 | [Panic Waves](https://open.spotify.com/track/2UE48m09FyDdc6Ot1sGKqS) | [Our Promise](https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD) | [Panic Waves](https://open.spotify.com/album/5aNJN4zGJTPKvie47D56aE) | 4:07 |
-| 88 | [Everything You Wanted](https://open.spotify.com/track/3BrT8IC9flGHw78gzPLifE) | [If Not For Me](https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd) | [Everything You Wanted](https://open.spotify.com/album/7mrWYcglvi7cBGgebyJCY7) | 3:31 |
+| 88 | [Everything You Wanted](https://open.spotify.com/track/2U6Q6k3BlUpKpds9i6YEsQ) | [If Not For Me](https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd) | [Everything You Wanted](https://open.spotify.com/album/7DEuDoDGatpED4PItRAXD8) | 3:31 |
 | 89 | [Trying to Survive](https://open.spotify.com/track/0h5uhIvjec46Ggg8WOJCYQ) | [Alleviate](https://open.spotify.com/artist/5dfB8okcJRsAoU0zlylZrm) | [Trying to Survive](https://open.spotify.com/album/6Qzmtxrs3z6qrNBP6pBwZ2) | 3:13 |
 | 90 | [Farewell](https://open.spotify.com/track/2edDAzLyy0m1Yt7LWRad2e) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Farewell](https://open.spotify.com/album/3rjMJ2WhDsDeZtGRDVf5gl) | 3:44 |
 | 91 | [Roulette](https://open.spotify.com/track/2KVE3CIYhD83nTwI2HGio9) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [DEATH 2](https://open.spotify.com/album/0SZhoXnyrw33OzOen90BgZ) | 3:32 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 124 | [Dead Souls](https://open.spotify.com/track/7aa7J2weJ0mVLu4xHEKiKu) | [Substation](https://open.spotify.com/artist/4uCcS8G5SOw5BGO67pngjC) | [Dead Souls](https://open.spotify.com/album/0yyK6w1nNjDq3YutrQMvk1) | 3:46 |
 | 125 | [Absence](https://open.spotify.com/track/0bGJxR2A2yTGCOJwcEwktz) | [Skylene](https://open.spotify.com/artist/2Rlhr0EaeREpWAkL9fctT9) | [Absence](https://open.spotify.com/album/0o5VRf3w65zCDVBVuRq9fB) | 5:45 |
 
-Snapshot ID: `MCw3Zjg5ZDNhOTQxZDAxNDVkODRmYTIyOWNjMGQwNGFhZjZmNjI2ZGU2`
+Snapshot ID: `MTcxMTU0NzIwNSwwMDAwMDAwMGI0ZTkwNDg3ZTQ5MTNhNzI1MTg5ZDZiZDE3Nzk3MGI1`

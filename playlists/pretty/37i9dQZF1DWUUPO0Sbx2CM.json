@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 199098,
+  "num_followers": 199182,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTcwOTlmZGU4NDkzMDBmMzA3MmQyNGRkMjZjOTQ3NGNlNTc0NWQ1",
+  "snapshot_id": "MTY4NjkyMDAxNiwwMDAwMDAwMGM5YmFhZDZmYWNjMDViMmY3YjYzZDRlNGExZmQwMzI1",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:21",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "God Help Me",
-        "url": "https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 193934,
-      "name": "Loved By You",
-      "url": "https://open.spotify.com/track/08Kl8Vhr889IAfCuj8IZwK"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "What Are We Waiting For?",
         "url": "https://open.spotify.com/album/6h95CVsuRQt0SHA0MtjpWW"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 191283,
       "name": "Broken Halos",
       "url": "https://open.spotify.com/track/7dlCAK8HdnI6UGHqZkfvJT"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "God Help Me",
+        "url": "https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "duration_ms": 193934,
+      "name": "Loved By You",
+      "url": "https://open.spotify.com/track/08Kl8Vhr889IAfCuj8IZwK"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/26qSpAIvmpQFn5bgZI6uuc"
+        "name": "Friend",
+        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
       },
       "artists": [
         {
-          "name": "Soulsician",
-          "url": "https://open.spotify.com/artist/2dtqpsPMsRwt3CaiMrt0Kt"
+          "name": "John Jin Han",
+          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
         }
       ],
-      "duration_ms": 236347,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/5OfN4P2gKl36SVjbr2GUjI"
+      "duration_ms": 226295,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Friend",
-        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/26qSpAIvmpQFn5bgZI6uuc"
       },
       "artists": [
         {
-          "name": "John Jin Han",
-          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
+          "name": "Soulsician",
+          "url": "https://open.spotify.com/artist/2dtqpsPMsRwt3CaiMrt0Kt"
         }
       ],
-      "duration_ms": 226295,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
+      "duration_ms": 236347,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/5OfN4P2gKl36SVjbr2GUjI"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1143,26 +1143,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Fake It",
-        "url": "https://open.spotify.com/album/6YX6VkBN80s2eHGsqwEsuU"
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Neon Feather",
-          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
+          "name": "Run51",
+          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
         }
       ],
-      "duration_ms": 137990,
-      "name": "Fake It - Warehouse Mix",
-      "url": "https://open.spotify.com/track/2bSvz6l48lHHQnluvmNXfS"
+      "duration_ms": 178587,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1207,18 +1199,26 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh"
+        "name": "Fake It",
+        "url": "https://open.spotify.com/album/6YX6VkBN80s2eHGsqwEsuU"
       },
       "artists": [
         {
-          "name": "Run51",
-          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Neon Feather",
+          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
         }
       ],
-      "duration_ms": 178587,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg"
+      "duration_ms": 137990,
+      "name": "Fake It - Warehouse Mix",
+      "url": "https://open.spotify.com/track/2bSvz6l48lHHQnluvmNXfS"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1371,22 +1371,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Choose to Praise (Reinvented)",
-        "url": "https://open.spotify.com/album/0eyqPa96JLeqNSbjejlfcL"
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/6YF6LnMttUrjDv1COLZahy"
       },
       "artists": [
         {
-          "name": "ICF Worship",
-          "url": "https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW"
-        },
-        {
-          "name": "Dominik Laim",
-          "url": "https://open.spotify.com/artist/0udPC7cUyylgH64F092xPd"
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
         }
       ],
-      "duration_ms": 150213,
-      "name": "Choose To Praise - Reinvented",
-      "url": "https://open.spotify.com/track/7EkvI5wcwayleQvmpd4ZfI"
+      "duration_ms": 174314,
+      "name": "It's About Time",
+      "url": "https://open.spotify.com/track/0aB914urPdqO2CNCMn5X8i"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1407,18 +1403,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "It's About Time",
-        "url": "https://open.spotify.com/album/6YF6LnMttUrjDv1COLZahy"
+        "name": "Choose to Praise (Reinvented)",
+        "url": "https://open.spotify.com/album/0eyqPa96JLeqNSbjejlfcL"
       },
       "artists": [
         {
-          "name": "Kevin Quinn",
-          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+          "name": "ICF Worship",
+          "url": "https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW"
+        },
+        {
+          "name": "Dominik Laim",
+          "url": "https://open.spotify.com/artist/0udPC7cUyylgH64F092xPd"
         }
       ],
-      "duration_ms": 174314,
-      "name": "It's About Time",
-      "url": "https://open.spotify.com/track/0aB914urPdqO2CNCMn5X8i"
+      "duration_ms": 150213,
+      "name": "Choose To Praise - Reinvented",
+      "url": "https://open.spotify.com/track/7EkvI5wcwayleQvmpd4ZfI"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "More Than Halfway",
+        "url": "https://open.spotify.com/album/4mEerAhqml8ALLnBOzZm1n"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 221453,
+      "name": "More Than Halfway",
+      "url": "https://open.spotify.com/track/4tG9V6oCruIY1xovDGgDXg"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "HEY GOD",
         "url": "https://open.spotify.com/album/16dHro8vtYbycbNct69lmT"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 174216,
       "name": "HEY GOD",
       "url": "https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "More Than Halfway",
-        "url": "https://open.spotify.com/album/4mEerAhqml8ALLnBOzZm1n"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 221453,
-      "name": "More Than Halfway",
-      "url": "https://open.spotify.com/track/4tG9V6oCruIY1xovDGgDXg"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1635,8 +1635,8 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "I Will Follow You (Live)",
-        "url": "https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3"
+        "name": "You, Me, The Church, That's Us - Side B",
+        "url": "https://open.spotify.com/album/2yJsvDKWdnG1pszRmhqSpK"
       },
       "artists": [
         {
@@ -1644,9 +1644,9 @@
           "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
         }
       ],
-      "duration_ms": 231123,
-      "name": "I Will Follow You - Live",
-      "url": "https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66"
+      "duration_ms": 188120,
+      "name": "Word - Live",
+      "url": "https://open.spotify.com/track/5c2fafEPiPWYGBWBRxcjVg"
     },
     {
       "added_at": "2023-02-07 17:43:21",

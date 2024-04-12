@@ -1,12 +1,12 @@
 {
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
-  "num_followers": 135365,
+  "num_followers": 135382,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWJlZDJhODZlN2IzOGNjZTQ4Yzg4NmU3Y2EzMTg0OTQwNzI0ZWE2",
+  "snapshot_id": "MTcwOTgzODgyOSwwMDAwMDAwMGRkZWZiODQxODVlMzQ5ZGU1ZDgwYmZjM2ViN2MwZWQ4",
   "tracks": [
     {
       "added_at": "2023-08-14 14:58:41",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Premiers \u00e9mois",
-        "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
-      },
-      "artists": [
-        {
-          "name": "Vendredi sur Mer",
-          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
-        }
-      ],
-      "duration_ms": 206546,
-      "name": "La femme \u00e0 la peau bleue",
-      "url": "https://open.spotify.com/track/3t9AQbyfGnVbe3xuTg9PEX"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Outer Peace",
         "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 183752,
       "name": "Ordinary Pleasure",
       "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Premiers \u00e9mois",
+        "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
+      },
+      "artists": [
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        }
+      ],
+      "duration_ms": 206546,
+      "name": "La femme \u00e0 la peau bleue",
+      "url": "https://open.spotify.com/track/3t9AQbyfGnVbe3xuTg9PEX"
     },
     {
       "added_at": "2024-03-07 19:13:49",
@@ -817,6 +817,26 @@
       "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
     },
     {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "You Knew",
+        "url": "https://open.spotify.com/album/26QAdfI4TGJ3eyOoDfs4sS"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 271112,
+      "name": "CooCool",
+      "url": "https://open.spotify.com/track/77v3whD60OC0g4RePlHDhT"
+    },
+    {
       "added_at": "2023-12-12 19:01:54",
       "album": {
         "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
@@ -855,26 +875,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "You Knew",
-        "url": "https://open.spotify.com/album/26QAdfI4TGJ3eyOoDfs4sS"
-      },
-      "artists": [
-        {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        },
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 271112,
-      "name": "CooCool",
-      "url": "https://open.spotify.com/track/77v3whD60OC0g4RePlHDhT"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Akousmatikous",
         "url": "https://open.spotify.com/album/2rIjJDL6c2IlN8rrWOhwGD"
       },
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Flash",
-        "url": "https://open.spotify.com/album/5ydGen2aXGjy4rawJIKhe5"
-      },
-      "artists": [
-        {
-          "name": "Lewis OfMan",
-          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
-        }
-      ],
-      "duration_ms": 179417,
-      "name": "Flash",
-      "url": "https://open.spotify.com/track/52d8baQxvV3AkHcAyXCkkO"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Si Te Portas Bonito",
         "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 301850,
       "name": "Si Te Portas Bonito",
       "url": "https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Flash",
+        "url": "https://open.spotify.com/album/5ydGen2aXGjy4rawJIKhe5"
+      },
+      "artists": [
+        {
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+        }
+      ],
+      "duration_ms": 179417,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/52d8baQxvV3AkHcAyXCkkO"
     },
     {
       "added_at": "2023-10-24 02:02:26",
@@ -983,6 +983,26 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Laberinto (Bosq Remix)",
+        "url": "https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
+        }
+      ],
+      "duration_ms": 224211,
+      "name": "Laberinto - Bosq Remix",
+      "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "froge.mp3",
         "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 195226,
       "name": "beachin",
       "url": "https://open.spotify.com/track/3urYUGRvToBI4u87OzsSMZ"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Laberinto (Bosq Remix)",
-        "url": "https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Bosq",
-          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
-        }
-      ],
-      "duration_ms": 224211,
-      "name": "Laberinto - Bosq Remix",
-      "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Moment EP",
-        "url": "https://open.spotify.com/album/13ANf72KYKBlFSwGgiC1Y1"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 401695,
-      "name": "Han Pan",
-      "url": "https://open.spotify.com/track/3KAMgcLxqce9PRkwzbYkHa"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "MOOD",
         "url": "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 287123,
       "name": "WALLS",
       "url": "https://open.spotify.com/track/4mUWS2M0eoM8jezmEJPbFh"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Moment EP",
+        "url": "https://open.spotify.com/album/13ANf72KYKBlFSwGgiC1Y1"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 401695,
+      "name": "Han Pan",
+      "url": "https://open.spotify.com/track/3KAMgcLxqce9PRkwzbYkHa"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "DJ-Kicks EP",
+        "url": "https://open.spotify.com/album/746ZU4riC8a5f4aCrJ5IuE"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 275533,
+      "name": "Hungboo - DJ-Kicks",
+      "url": "https://open.spotify.com/track/2k9aBWJjIv3onRBIdg7oWm"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Sister",
         "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
       },
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "DJ-Kicks EP",
-        "url": "https://open.spotify.com/album/746ZU4riC8a5f4aCrJ5IuE"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 275533,
-      "name": "Hungboo - DJ-Kicks",
-      "url": "https://open.spotify.com/track/2k9aBWJjIv3onRBIdg7oWm"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "LALI",
         "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
       },
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "We Love Dogs!",
+        "url": "https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        },
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 236082,
+      "name": "Hello Hello Hello - Polo & Pan Remix",
+      "url": "https://open.spotify.com/track/4L42hh6L8tpg1KPVwGkUja"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Power of Two / Echo Arms",
         "url": "https://open.spotify.com/album/0u8kiGzYokhOupZ5AXXdJN"
       },
@@ -1395,26 +1415,6 @@
       "duration_ms": 226253,
       "name": "Ceci n'est pas un clich\u00e9",
       "url": "https://open.spotify.com/track/1usZqtTrEPNm8gvn1vN4T8"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "We Love Dogs!",
-        "url": "https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        },
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 236082,
-      "name": "Hello Hello Hello - Polo & Pan Remix",
-      "url": "https://open.spotify.com/track/4L42hh6L8tpg1KPVwGkUja"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "It's alright",
-        "url": "https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML"
-      },
-      "artists": [
-        {
-          "name": "Goose Groovy",
-          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
-        }
-      ],
-      "duration_ms": 196676,
-      "name": "It's alright",
-      "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Hustler's Lullaby",
         "url": "https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 314181,
       "name": "Shinjuku Strut",
       "url": "https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "It's alright",
+        "url": "https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML"
+      },
+      "artists": [
+        {
+          "name": "Goose Groovy",
+          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
+        }
+      ],
+      "duration_ms": 196676,
+      "name": "It's alright",
+      "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Information (Redacted)",
+        "url": "https://open.spotify.com/album/12gAB26MYzHb34WYOxjM3W"
+      },
+      "artists": [
+        {
+          "name": "Galcher Lustwerk",
+          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Warming Up",
+      "url": "https://open.spotify.com/track/7mkGyBb7Bhftg5St3Aka5K"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Chronologic",
         "url": "https://open.spotify.com/album/3YtyKfYxHzyzYhw4yoQ6Hw"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 386443,
       "name": "Voodoo? - Lazywax Remix",
       "url": "https://open.spotify.com/track/2wHeYDrniYngp3did3McYD"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Information (Redacted)",
-        "url": "https://open.spotify.com/album/12gAB26MYzHb34WYOxjM3W"
-      },
-      "artists": [
-        {
-          "name": "Galcher Lustwerk",
-          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Warming Up",
-      "url": "https://open.spotify.com/track/7mkGyBb7Bhftg5St3Aka5K"
     },
     {
       "added_at": "2023-08-14 14:58:41",

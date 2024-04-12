@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 168893,
+  "2024-04-12": 168968,
   "date_first_scraped": "2022-04-20",
   "description": "Jazz piano to accompany your reading.",
   "name": "Jazz for Reading",
@@ -57,6 +57,24 @@
       "duration_ms": 126669,
       "name": "A Certain Smile",
       "url": "https://open.spotify.com/track/7bQJp5ntthltjReJmZJjCM"
+    },
+    {
+      "album": {
+        "name": "A Dozy Afternoon",
+        "url": "https://open.spotify.com/album/1rE0YWh57id27inaJawLT5"
+      },
+      "artists": [
+        {
+          "name": "Wes Ivory",
+          "url": "https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200625,
+      "name": "A Dozy Afternoon",
+      "url": "https://open.spotify.com/track/6qafoZ7ARao8g3lUQQcXav"
     },
     {
       "album": {
@@ -1087,6 +1105,24 @@
     {
       "album": {
         "name": "But Not For Me",
+        "url": "https://open.spotify.com/album/3pWuTRkqpITXHBnMocpDKK"
+      },
+      "artists": [
+        {
+          "name": "Joshua Garland",
+          "url": "https://open.spotify.com/artist/4uDakG3Fmg1CdRB1xvby7X"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182033,
+      "name": "But Not For Me",
+      "url": "https://open.spotify.com/track/7k4Wyi9KZpQnsvL14KpFm6"
+    },
+    {
+      "album": {
+        "name": "But Not For Me",
         "url": "https://open.spotify.com/album/4opEostLBBqzrbpFyFXPNy"
       },
       "artists": [
@@ -1281,6 +1317,24 @@
       "duration_ms": 129205,
       "name": "Chemin de la lune",
       "url": "https://open.spotify.com/track/20uoDnTsBOXkPJd1TmjpqZ"
+    },
+    {
+      "album": {
+        "name": "Cherish the Night",
+        "url": "https://open.spotify.com/album/6Y9FHM9bhGbQeaNjuFrFwI"
+      },
+      "artists": [
+        {
+          "name": "Claire Martinelle",
+          "url": "https://open.spotify.com/artist/4cregPQpQ72XMMVzvvyiEl"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153717,
+      "name": "Cherish the Night",
+      "url": "https://open.spotify.com/track/5W3P7uSiJUZIlZxiYFUYam"
     },
     {
       "album": {
@@ -3419,7 +3473,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 203165,
       "name": "I'll Remember April",
       "url": "https://open.spotify.com/track/508qW9dDv9pTh85XgQm9Xp"
@@ -4236,6 +4290,24 @@
     },
     {
       "album": {
+        "name": "Laura",
+        "url": "https://open.spotify.com/album/5CbJxOOZY2ecaVSDjSO8gb"
+      },
+      "artists": [
+        {
+          "name": "Eli M. Arnold",
+          "url": "https://open.spotify.com/artist/6Ed2TW5VpcnNBgafMeK2aA"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153437,
+      "name": "Laura",
+      "url": "https://open.spotify.com/track/5GeV5VHplD4jZ45hjkVKI8"
+    },
+    {
+      "album": {
         "name": "Lazy Afternoon",
         "url": "https://open.spotify.com/album/4g3jWHBTgPCUE3zid7T3Mr"
       },
@@ -4553,7 +4625,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 179911,
       "name": "Love Explained",
       "url": "https://open.spotify.com/track/6zI01iJFI0FWPaNCFA67Ra"
@@ -5457,6 +5529,24 @@
       "duration_ms": 151283,
       "name": "Narrative Plots",
       "url": "https://open.spotify.com/track/04kxiPz27M53foJBfuucne"
+    },
+    {
+      "album": {
+        "name": "Neon Glow",
+        "url": "https://open.spotify.com/album/20KVhmteL1Sm9iiMJn5IC3"
+      },
+      "artists": [
+        {
+          "name": "Harry Reed",
+          "url": "https://open.spotify.com/artist/1PFJCooFyvogVUkv1abGgu"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Neon Glow",
+      "url": "https://open.spotify.com/track/0vebiwyUB8NbtJXGCE4bIf"
     },
     {
       "album": {
@@ -7530,6 +7620,24 @@
     },
     {
       "album": {
+        "name": "Tender Moments",
+        "url": "https://open.spotify.com/album/5jMWuMhWDpXOjuEzAHLEHT"
+      },
+      "artists": [
+        {
+          "name": "Ward Stetson",
+          "url": "https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168374,
+      "name": "Tender Moments",
+      "url": "https://open.spotify.com/track/3kcML10JWRmtCovbUfiqvL"
+    },
+    {
+      "album": {
         "name": "Tender Nocturne",
         "url": "https://open.spotify.com/album/3JVmL0xyHtxUPYKZb2yTBI"
       },
@@ -7797,6 +7905,24 @@
       "duration_ms": 185341,
       "name": "The Morning After",
       "url": "https://open.spotify.com/track/4XkUAWiznUGx9U6ePlnRnh"
+    },
+    {
+      "album": {
+        "name": "The Morning Coffee",
+        "url": "https://open.spotify.com/album/0XP5OIhHrrStWbwkK9Pn5h"
+      },
+      "artists": [
+        {
+          "name": "Jeannie Purdue",
+          "url": "https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200749,
+      "name": "The Morning Coffee",
+      "url": "https://open.spotify.com/track/67AR74v5XF4tLLFkKbFnmB"
     },
     {
       "album": {
@@ -8877,6 +9003,24 @@
       "duration_ms": 256062,
       "name": "When We Lay Down",
       "url": "https://open.spotify.com/track/2fra5fucGEJTFXnE7NwnKZ"
+    },
+    {
+      "album": {
+        "name": "When You Come Home",
+        "url": "https://open.spotify.com/album/3CUAfH53DhI9Tdt8uN9ZmJ"
+      },
+      "artists": [
+        {
+          "name": "Charles Blake",
+          "url": "https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177562,
+      "name": "When You Come Home",
+      "url": "https://open.spotify.com/track/3YIB84TV1T3xzp091cyNaG"
     },
     {
       "album": {

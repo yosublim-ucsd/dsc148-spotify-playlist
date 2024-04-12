@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 10784,
+  "num_followers": 10794,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWEyYzEzZWNlYzc3YzkyYzdiOWFhMjQ3ZWRkZTJiYmM4OGMzZTkx",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMGI3MWY5NjM4NTNlMWFiZmIyNDQyNDVmOTJjNmU1OGFj",
   "tracks": [
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ion Feel Nun",
-        "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 106904,
-      "name": "Morals",
-      "url": "https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EL TORO 2",
         "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 162055,
       "name": "TURN THE STREETS UP",
       "url": "https://open.spotify.com/track/0A5fRjPHOLznxrx7dVEpx5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ion Feel Nun",
+        "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 106904,
+      "name": "Morals",
+      "url": "https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Been One",
-        "url": "https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa"
-      },
-      "artists": [
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 152314,
-      "name": "On Da Floor (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/3MQXlG1GoNK0lezV66qcWq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Breezy",
         "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 204791,
       "name": "Scarface (feat. EST Gee)",
       "url": "https://open.spotify.com/track/59JNRew95Gmn4wSfqdf1kR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Been One",
+        "url": "https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa"
+      },
+      "artists": [
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 152314,
+      "name": "On Da Floor (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/3MQXlG1GoNK0lezV66qcWq"
     },
     {
       "added_at": null,
@@ -1015,22 +1015,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Did It Again",
-        "url": "https://open.spotify.com/album/5PT0DdEwow8sctBE5EVz3O"
+        "name": "Rich Off The Pack",
+        "url": "https://open.spotify.com/album/7uHyX5l5ZEqNoP62SVD4LL"
       },
       "artists": [
         {
-          "name": "TRTrizzy",
-          "url": "https://open.spotify.com/artist/2CXGDRh4MYWK9NPff9nCMy"
+          "name": "22nd Jim",
+          "url": "https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU"
         },
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 184032,
-      "name": "Did It Again",
-      "url": "https://open.spotify.com/track/4Z2oORKlQdMBpI3syl8iZl"
+      "duration_ms": 127105,
+      "name": "Off White Mikes (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/1sJE6dY3LYW3L0BMcMH8Ym"
     }
   ],
   "unique_name": "This Is EST Gee",

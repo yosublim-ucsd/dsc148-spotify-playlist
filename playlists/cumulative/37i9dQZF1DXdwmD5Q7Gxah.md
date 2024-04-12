@@ -4,7 +4,7 @@
 
 > cover: lizzy mcalpine
 
-2,706 songs - 6 day 1 hr 44 min
+2,707 songs - 6 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2182,6 +2182,7 @@
 | [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-08 | 2022-12-10 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-11-08 | 2022-12-25 |
 | [Spit Up](https://open.spotify.com/track/0DYIVjRfixT8rHJyBkW3ns) | [lilo](https://open.spotify.com/artist/0UHZYAHCtBGKef12trPQrL) | [I Don't Like My Chances On The Outside](https://open.spotify.com/album/6aD5li3XAl6aT4oTq8bE2M) | 4:40 | 2023-08-11 | 2023-08-26 |
+| [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:42 | 2024-04-11 |  |
 | [Splendor](https://open.spotify.com/track/5gtBltnNY2bjlAxy0RPlhf) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [She Only Said](https://open.spotify.com/album/0T7eVLYyDDliWwggDLZ9iU) | 4:13 | 2023-10-11 | 2023-11-11 |
 | [Splinter](https://open.spotify.com/track/1oMKYS43XRqNsY1SVuiCoJ) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Splinter](https://open.spotify.com/album/41mLVNvRtzAvh8W3Ybhx6K) | 2:28 | 2022-05-20 | 2022-07-19 |
 | [sports](https://open.spotify.com/track/4xp4OChbf94rpxwPe9qA5R) | [Elah Hale](https://open.spotify.com/artist/0EDEUACmghvLBhxLnMpyeU) | [sports](https://open.spotify.com/album/6bxnyq3skEwaXzcauU7FUs) | 3:00 | 2020-09-25 | 2020-10-13 |

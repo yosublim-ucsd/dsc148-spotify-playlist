@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : Arma Jackson",
+  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : Monsieur Nov",
   "name": "le miel",
   "tracks": [
     {
@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "BBM (Freestyle)",
+        "url": "https://open.spotify.com/album/2dmcYBtfJKHWwsS1Kxq0vH"
+      },
+      "artists": [
+        {
+          "name": "KOKE\u00cfNEJTD",
+          "url": "https://open.spotify.com/artist/1QiNcFh9MLHHNvKxjntbsP"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "BBM (Freestyle)",
+      "url": "https://open.spotify.com/track/6Z5zr8eT7KzOiWcwB4aw9X"
+    },
+    {
+      "album": {
         "name": "Bijoux",
         "url": "https://open.spotify.com/album/5u6lSDCLRY04TFacwR6fkI"
       },
@@ -294,7 +312,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 183513,
       "name": "Ce que tu m'as fait",
       "url": "https://open.spotify.com/track/6Sc1mL3Bie74NTiu6JTyb3"
@@ -532,6 +550,24 @@
       "duration_ms": 190400,
       "name": "Cra$h (feat. Enchant\u00e9e Julia & Jazzy Bazz)",
       "url": "https://open.spotify.com/track/2F2i8pZ4yGqLGrRFuMicOA"
+    },
+    {
+      "album": {
+        "name": "Dans son tel",
+        "url": "https://open.spotify.com/album/3Ua1IfFgIPVlD9aiNGD2AG"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Nov",
+          "url": "https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226599,
+      "name": "Dans son tel",
+      "url": "https://open.spotify.com/track/45hdgr7UGtAFE8aN8aQI10"
     },
     {
       "album": {
@@ -872,7 +908,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 192996,
       "name": "Honey Glazed",
       "url": "https://open.spotify.com/track/2BQ9kr7iW8M3GY5GKn19jv"
@@ -938,6 +974,28 @@
       "duration_ms": 132500,
       "name": "HYPNOTIZE",
       "url": "https://open.spotify.com/track/70X9LqPXUPKJgvDYvzk0eJ"
+    },
+    {
+      "album": {
+        "name": "musique POUR LA F\u00caTE - Extended",
+        "url": "https://open.spotify.com/album/605bfRdX9CHgKO21GoQ03q"
+      },
+      "artists": [
+        {
+          "name": "BR\u00d6",
+          "url": "https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5"
+        },
+        {
+          "name": "Tuerie",
+          "url": "https://open.spotify.com/artist/1UILCk5p48n9qaNf1uie0a"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250080,
+      "name": "Idoles",
+      "url": "https://open.spotify.com/track/3XAq5S6j6tceMe1B1t9GwX"
     },
     {
       "album": {
@@ -1148,7 +1206,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 280413,
       "name": "Le code",
       "url": "https://open.spotify.com/track/74SKS91bfQHLomV8rcErwE"
@@ -1170,6 +1228,24 @@
       "duration_ms": 165066,
       "name": "Le feu",
       "url": "https://open.spotify.com/track/15RdsytotGYShRTw1ZkLww"
+    },
+    {
+      "album": {
+        "name": "Les yeux ne mentent jamais",
+        "url": "https://open.spotify.com/album/0CTvc2l6imOJGDlrrtNcJr"
+      },
+      "artists": [
+        {
+          "name": "Lafleyne",
+          "url": "https://open.spotify.com/artist/2HtWjfmbuI9kqQqMfLkfvh"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198698,
+      "name": "Les yeux ne mentent jamais",
+      "url": "https://open.spotify.com/track/7y1cfgGTIjVhij8Yh1sQcs"
     },
     {
       "album": {
@@ -1449,6 +1525,24 @@
     },
     {
       "album": {
+        "name": "AU COEUR DU MIEN",
+        "url": "https://open.spotify.com/album/2jm5SpD0s0eNf3lDKC1fR6"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rave",
+          "url": "https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200307,
+      "name": "MUSE",
+      "url": "https://open.spotify.com/track/4HiNfdHUfq8PG4v8fgXjvB"
+    },
+    {
+      "album": {
         "name": "My Love (feat. Tayc) [Acoustic]",
         "url": "https://open.spotify.com/album/6DatG710FskVHGjVshqJye"
       },
@@ -1500,7 +1594,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 125500,
       "name": "NBDY",
       "url": "https://open.spotify.com/track/4P2njhfma47xkcdVlEuXkL"
@@ -2396,7 +2490,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 226150,
       "name": "Tu mens mal",
       "url": "https://open.spotify.com/track/50NmgRTIoJxkwnGLXhplIG"

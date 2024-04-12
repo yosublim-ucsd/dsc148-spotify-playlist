@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11ghcIxjcjE.md) - [plain]
 
 ### [Grunge Forever](https://open.spotify.com/playlist/37i9dQZF1DX11ghcIxjcjE)
 
-> Grunge will live forever\. Cover: Kurt Cobain
+> Grunge will live forever\. Cover: Eddie Vedder
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,697,859 likes - 60 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,698,030 likes - 60 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11ghcIxjcjE.md) - [plain]
 | 59 | [Swallow My Pride](https://open.spotify.com/track/1LvJ1PFobtIm5DwzRrK0jG) | [Green River](https://open.spotify.com/artist/1XIIxzmo6BNRR4QkImSdsX) | [Dry as a Bone/Rehab Doll](https://open.spotify.com/album/1yfs3jV84tLJf7i3dSHEDU) | 2:59 |
 | 60 | [Six Foot Under](https://open.spotify.com/track/6AZFTXEbrftYn5Ca0PaKru) | [Blood Circus](https://open.spotify.com/artist/3RJbkbBAHUe5EEw7dpDVUV) | [Dead Beats](https://open.spotify.com/album/4OocizHrG47twaG6A7KDGA) | 3:52 |
 
-Snapshot ID: `MCxlYjJlMzQ4MWEzNmRkNTdhNGE0NTg1NDNlM2IxYmE2YzhiYzU3Nzk5`
+Snapshot ID: `MTcxMTkyNjAwMCwwMDAwMDAwMDM4OTVmMGZkZjg3NDljZmY1M2YxMjEyYjBjZTkyNzc1`

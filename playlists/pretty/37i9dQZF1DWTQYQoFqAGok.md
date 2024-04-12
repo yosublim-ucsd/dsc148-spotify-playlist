@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,662 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,675 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 33 | [Más Allá](https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp) | [Donna Pierrot](https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj) | [Retazos](https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb) | 4:29 |
 | 34 | [Era La Luz De Abril](https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc) | [Xalapa Jazz Orchestra](https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F), [Valentina Marentes](https://open.spotify.com/artist/2quK2WgFo26pueFzJRrb5x) | [Cronologías](https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK) | 6:43 |
 | 35 | [Aquel Incendio](https://open.spotify.com/track/21B1SsKnsjcUTkzRAAUJqy) | [Sara Valenzuela](https://open.spotify.com/artist/2f0Ur2QXNCjpeGEqXZxOYc), [Barney McAll](https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9), [Jonathan Maron](https://open.spotify.com/artist/3c1abg4EpGemD4WexcVj6B), [Bill Campbell](https://open.spotify.com/artist/5LPzwY21u7i62eGAb7LcuK) | [Fulgor](https://open.spotify.com/album/3hHdb3FvT0zU1eXrKmQOgS) | 4:06 |
-| 36 | [Ventana espacial](https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34) | [Filip y Woppe](https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC) | [Ventana espacial](https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG) | 4:14 |
-| 37 | [Paisaje Gris](https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60) | [Jenny Beaujean](https://open.spotify.com/artist/6ex3zdLBHsbn07VkD3Nnq3), [Benjamín García](https://open.spotify.com/artist/25pBtHDlplMjQ9FrFoMcuE) | [Paisaje Gris](https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG) | 4:19 |
+| 36 | [Paisaje Gris](https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60) | [Jenny Beaujean](https://open.spotify.com/artist/6ex3zdLBHsbn07VkD3Nnq3), [Benjamín García](https://open.spotify.com/artist/25pBtHDlplMjQ9FrFoMcuE) | [Paisaje Gris](https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG) | 4:19 |
+| 37 | [Ventana espacial](https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34) | [Filip y Woppe](https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC) | [Ventana espacial](https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG) | 4:14 |
 | 38 | [The Pink Panther](https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at) | [Pavel Loaria Big Band](https://open.spotify.com/artist/2JrCiD3IZIa2ds3vl6bqkX) | [Pavel Loaria Big Band, Vol\. 1](https://open.spotify.com/album/0nQiE3rJ7zfl10ki3mM7Ff) | 3:53 |
 | 39 | [Your Voice](https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [Your Voice](https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20) | 2:55 |
 | 40 | [Luna Taxqueña \- Jazz Mariachi](https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp) | [Tino Contreras](https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX) | [Jazz Mariachi](https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh) | 3:31 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 43 | [Debí Llorar](https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14) | [Dannah Garay](https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK), [Oscar Stagnaro](https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3) | [Cuenta Conmigo \(feat\. Oscar Stagnaro\)](https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz) | 3:37 |
 | 44 | [La vida tiene que seguir, amor](https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj) | [Freddy Marichal](https://open.spotify.com/artist/6ZBb42oo1ieaC08giXjJoA), [Nuevas Relaciones, Las](https://open.spotify.com/artist/2baRW1aGPtYJiA8hsTC61c) | [Nuevas Relaciones: Atardecer](https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl) | 6:10 |
 | 45 | [Dana \(Cha\-Cha\-Shag\)](https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io) | [Gigio Romero](https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn) | [Electratoaster \- EP](https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS) | 4:17 |
-| 46 | [Nada Es Para Siempre](https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8) | [Lalo Galván](https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc) | [KonFussion](https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu) | 5:04 |
-| 47 | [Chorinho Blanco](https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil) | [Ingrid Beaujean](https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1) | [Días Lentos](https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38) | 3:34 |
+| 46 | [Chorinho Blanco](https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil) | [Ingrid Beaujean](https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1) | [Días Lentos](https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38) | 3:34 |
+| 47 | [Nada Es Para Siempre](https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8) | [Lalo Galván](https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc) | [KonFussion](https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu) | 5:04 |
 | 48 | [Those People](https://open.spotify.com/track/3FTnF6GptSUAfsMMEZH1i8) | [Gabriel Balderas Quartet](https://open.spotify.com/artist/58qSHv8M0ELKIDSObDqEFH), [John Vince](https://open.spotify.com/artist/5aPsi6G5Cs3dt1FnjkVYDF) | [Voices from the Border](https://open.spotify.com/album/2wITZBdfVISfiCe7NOEWfA) | 7:23 |
 | 49 | [Tipitipitín](https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj) | [Chucho Zarzosa Y Su Conjunto](https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E) | [Jazz](https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv) | 2:37 |
 | 50 | [La Cocola](https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA) | [Gerardo Batiz](https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3) | [Soñe \- Jazz Mexicano](https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6) | 4:26 |
 
-Snapshot ID: `MCxlYzEyNTUwYjRiYWVkNWNkN2U4MWM0ZGUwOWQ2MjIzOGZmYjJkYmIw`
+Snapshot ID: `MTcwMDcwOTI0NiwwMDAwMDAwMDM0ZWY4MWQ4NDkwYTE1MTk3ZTRhOTFkZGRmNWE4OWZm`

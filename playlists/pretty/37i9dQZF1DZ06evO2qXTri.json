@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 27394,
+  "num_followers": 27414,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzZiZTQyN2IwYWEwYjcyN2UxYmZhNDU0NWY2OTk1YmEzNzllY2Vm",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDk1NDc1MjhmMTE4MDk3YWM1MWI0Yzc4YzEyY2M5Mzcy",
   "tracks": [
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 236339,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/5KC5XsV0BwYyHJkNqx2C7n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Epilogue.",
         "url": "https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 276629,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 236339,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/5KC5XsV0BwYyHJkNqx2C7n"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kirk Franklin and the Family",
-        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 292040,
-      "name": "Silver and Gold - Live",
-      "url": "https://open.spotify.com/track/49BWLtQKtyz1kYhe148mWj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LONG LIVE LOVE",
         "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 275582,
       "name": "Just for Me",
       "url": "https://open.spotify.com/track/37llIA4HTMvM3IvZUVbbC0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kirk Franklin and the Family",
+        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 292040,
+      "name": "Silver and Gold - Live",
+      "url": "https://open.spotify.com/track/49BWLtQKtyz1kYhe148mWj"
     },
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breakthrough (Music From & Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/2e6XpPJpzqrhcsWFVG7ETI"
-      },
-      "artists": [
-        {
-          "name": "Taylor Mosby",
-          "url": "https://open.spotify.com/artist/3pk4AaSmKojd4CmEosErcg"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 265693,
-      "name": "Oceans (Where Feet May Fail)",
-      "url": "https://open.spotify.com/track/7t6JZ71UsOkMLfxCw3kGrK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LONG LIVE LOVE",
         "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
       },
@@ -863,6 +843,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Breakthrough (Music From & Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/2e6XpPJpzqrhcsWFVG7ETI"
+      },
+      "artists": [
+        {
+          "name": "Taylor Mosby",
+          "url": "https://open.spotify.com/artist/3pk4AaSmKojd4CmEosErcg"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 265693,
+      "name": "Oceans (Where Feet May Fail)",
+      "url": "https://open.spotify.com/track/7t6JZ71UsOkMLfxCw3kGrK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hold on Me (feat. Kirk Franklin & John P. Kee)",
         "url": "https://open.spotify.com/album/0GZRbYYeZYmRKLZZPCMblg"
       },
@@ -887,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rebirth Of Kirk Franklin (Live)",
-        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Richard Smallwood",
-          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
-        }
-      ],
-      "duration_ms": 368560,
-      "name": "Don't Cry - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/7H9ye7JTsRRlOFeOOlb1v6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LONG LIVE LOVE",
         "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
       },
@@ -919,6 +899,22 @@
       "duration_ms": 245901,
       "name": "Strong God",
       "url": "https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rebirth Of Kirk Franklin (Live)",
+        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 382573,
+      "name": "My Life, My Love, My All - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/40cMyQLw09ehBKgfvVxjie"
     },
     {
       "added_at": null,
@@ -971,22 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rebirth Of Kirk Franklin (Live)",
-        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 382573,
-      "name": "My Life, My Love, My All - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/40cMyQLw09ehBKgfvVxjie"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kingdom Book One (Deluxe)",
         "url": "https://open.spotify.com/album/6yyl9jkkJYITe8z6dNDvIj"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 312078,
       "name": "Can't Nobody (feat. Ryan Ofei & Maryanne J. George)",
       "url": "https://open.spotify.com/track/2VLXdIm5sJgDdRvfh2QrRe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rebirth Of Kirk Franklin (Live)",
+        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+        }
+      ],
+      "duration_ms": 368560,
+      "name": "Don't Cry - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/7H9ye7JTsRRlOFeOOlb1v6"
     },
     {
       "added_at": null,

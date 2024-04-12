@@ -1,12 +1,12 @@
 {
   "description": "Gotta catch 'em all.",
-  "num_followers": 144901,
+  "num_followers": 144916,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2E5OGQ4M2NiMGI5YjI5ZjY4MjM4ODE4NmJmZTg5NDNmMmVmOWVi",
+  "snapshot_id": "MTcxMTM2MjEyNSwwMDAwMDAwMGNlN2U5YjkwMjNiNDEwNDBmYjM1MGU0Yzc2MmVhYTA5",
   "tracks": [
     {
       "added_at": "2024-03-25 10:22:05",
@@ -411,6 +411,26 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
+        "name": "Lucky For You",
+        "url": "https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz"
+      },
+      "artists": [
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        },
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 175386,
+      "name": "Lose You (feat. Soccer Mommy)",
+      "url": "https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA"
+    },
+    {
+      "added_at": "2024-03-25 10:22:05",
+      "album": {
         "name": "Jar",
         "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
       },
@@ -439,26 +459,6 @@
       "duration_ms": 196310,
       "name": "Flesh",
       "url": "https://open.spotify.com/track/4LP9nAAiWGF9Z343uIopF5"
-    },
-    {
-      "added_at": "2024-03-25 10:22:05",
-      "album": {
-        "name": "Lucky For You",
-        "url": "https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz"
-      },
-      "artists": [
-        {
-          "name": "Bully",
-          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
-        },
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 175386,
-      "name": "Lose You (feat. Soccer Mommy)",
-      "url": "https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "sanjake",
-        "url": "https://open.spotify.com/album/5pagUXzTuiWLh52rTojpSj"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 182885,
-      "name": "sanjake",
-      "url": "https://open.spotify.com/track/61Od02a9dXArdW9bBCKUPp"
-    },
-    {
-      "added_at": "2024-03-25 10:22:05",
-      "album": {
         "name": "No Name No Color",
         "url": "https://open.spotify.com/album/75ffrFVb8rQLovdDANnEAw"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 256506,
       "name": "New Low",
       "url": "https://open.spotify.com/track/01TgrylmgyEAgsdxiqEOpL"
+    },
+    {
+      "added_at": "2024-03-25 10:22:05",
+      "album": {
+        "name": "sanjake",
+        "url": "https://open.spotify.com/album/5pagUXzTuiWLh52rTojpSj"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 182885,
+      "name": "sanjake",
+      "url": "https://open.spotify.com/track/61Od02a9dXArdW9bBCKUPp"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "The Midnight Organ Fight",
-        "url": "https://open.spotify.com/album/42UPwzHW8rhA13t5JJxp09"
-      },
-      "artists": [
-        {
-          "name": "Frightened Rabbit",
-          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
-        }
-      ],
-      "duration_ms": 228453,
-      "name": "The Modern Leper",
-      "url": "https://open.spotify.com/track/3aunzvczA4MkwIrHuARjqM"
-    },
-    {
-      "added_at": "2024-03-25 10:22:05",
-      "album": {
         "name": "Bakesale: Deluxe Edition",
         "url": "https://open.spotify.com/album/0FVtcEj9ZmOa7QKvsZNFoh"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 106613,
       "name": "License to Confuse - Remastered",
       "url": "https://open.spotify.com/track/4hjMwtr7tPmU62d32Hwia5"
+    },
+    {
+      "added_at": "2024-03-25 10:22:05",
+      "album": {
+        "name": "The Midnight Organ Fight",
+        "url": "https://open.spotify.com/album/42UPwzHW8rhA13t5JJxp09"
+      },
+      "artists": [
+        {
+          "name": "Frightened Rabbit",
+          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
+        }
+      ],
+      "duration_ms": 228453,
+      "name": "The Modern Leper",
+      "url": "https://open.spotify.com/track/3aunzvczA4MkwIrHuARjqM"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "Anymore",
-        "url": "https://open.spotify.com/album/1MtHTmOWEN7bpDj8sgCmHt"
-      },
-      "artists": [
-        {
-          "name": "Gleemer",
-          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "Come Down",
-      "url": "https://open.spotify.com/track/6aoslVx9b2J5tbYvbp3TbD"
-    },
-    {
-      "added_at": "2024-03-25 10:22:05",
-      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 172867,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4"
+    },
+    {
+      "added_at": "2024-03-25 10:22:05",
+      "album": {
+        "name": "Anymore",
+        "url": "https://open.spotify.com/album/1MtHTmOWEN7bpDj8sgCmHt"
+      },
+      "artists": [
+        {
+          "name": "Gleemer",
+          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "Come Down",
+      "url": "https://open.spotify.com/track/6aoslVx9b2J5tbYvbp3TbD"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
+        "name": "Whirr & Nothing",
+        "url": "https://open.spotify.com/album/6pDNWot4SaDPtMLerJ3AFZ"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "Ease",
+      "url": "https://open.spotify.com/track/4gOGOvsQkmUCRYCWQYY3mP"
+    },
+    {
+      "added_at": "2024-03-25 10:22:05",
+      "album": {
         "name": "Troublegum",
         "url": "https://open.spotify.com/album/6ub0GyzfrkFZahy42i7pfR"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "RARE",
-        "url": "https://open.spotify.com/album/7cO0T3BJ6xAkv0BX3TXFAp"
-      },
-      "artists": [
-        {
-          "name": "Hundredth",
-          "url": "https://open.spotify.com/artist/2rtsR8zno5naTxY0iJr7M0"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Neurotic",
-      "url": "https://open.spotify.com/track/2xQoftRvm3Uk1V77dcArB3"
-    },
-    {
-      "added_at": "2024-03-25 10:22:05",
-      "album": {
         "name": "Pedestrian Verse",
         "url": "https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x"
       },
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "Stovall",
-        "url": "https://open.spotify.com/album/5UE6N0IU0pfG18urYs44Wp"
+        "name": "RARE",
+        "url": "https://open.spotify.com/album/7cO0T3BJ6xAkv0BX3TXFAp"
       },
       "artists": [
         {
-          "name": "Microwave",
-          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
+          "name": "Hundredth",
+          "url": "https://open.spotify.com/artist/2rtsR8zno5naTxY0iJr7M0"
         }
       ],
-      "duration_ms": 201854,
-      "name": "Something Right",
-      "url": "https://open.spotify.com/track/1QdijT3d4feqhc39m9Wm6a"
+      "duration_ms": 217133,
+      "name": "Neurotic",
+      "url": "https://open.spotify.com/track/2xQoftRvm3Uk1V77dcArB3"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/0XvjdaLFvJ510mcmVXriw7"
+        "name": "Stovall",
+        "url": "https://open.spotify.com/album/5UE6N0IU0pfG18urYs44Wp"
       },
       "artists": [
         {
-          "name": "Modern Baseball",
-          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
+          "name": "Microwave",
+          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
         }
       ],
-      "duration_ms": 117345,
-      "name": "Apple Cider, I Don't Mind",
-      "url": "https://open.spotify.com/track/02SdGsV2CdVzFNaMiI33Uk"
+      "duration_ms": 201854,
+      "name": "Something Right",
+      "url": "https://open.spotify.com/track/1QdijT3d4feqhc39m9Wm6a"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -1195,6 +1195,22 @@
       "duration_ms": 222040,
       "name": "Aquasun",
       "url": "https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4"
+    },
+    {
+      "added_at": "2024-03-25 10:22:05",
+      "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/0XvjdaLFvJ510mcmVXriw7"
+      },
+      "artists": [
+        {
+          "name": "Modern Baseball",
+          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
+        }
+      ],
+      "duration_ms": 117345,
+      "name": "Apple Cider, I Don't Mind",
+      "url": "https://open.spotify.com/track/02SdGsV2CdVzFNaMiI33Uk"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "Slow Heart",
-        "url": "https://open.spotify.com/album/5rSuj8zTBnFqQETbm25sFb"
-      },
-      "artists": [
-        {
-          "name": "Balance And Composure",
-          "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3"
-        }
-      ],
-      "duration_ms": 249800,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/5f4cJRc2JpB92ljQRJeA6K"
-    },
-    {
-      "added_at": "2024-03-25 10:22:05",
-      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
+        "name": "Slow Heart",
+        "url": "https://open.spotify.com/album/5rSuj8zTBnFqQETbm25sFb"
+      },
+      "artists": [
+        {
+          "name": "Balance And Composure",
+          "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3"
+        }
+      ],
+      "duration_ms": 249800,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/5f4cJRc2JpB92ljQRJeA6K"
+    },
+    {
+      "added_at": "2024-03-25 10:22:05",
+      "album": {
         "name": "No Good Left To Give",
         "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 236986,
       "name": "Don\u2019t Give Up Your Ghost",
       "url": "https://open.spotify.com/track/0o0orlqmDZFKNbmAm1Rzgc"
-    },
-    {
-      "added_at": "2024-03-25 10:22:05",
-      "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/0XvjdaLFvJ510mcmVXriw7"
-      },
-      "artists": [
-        {
-          "name": "Modern Baseball",
-          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
-        }
-      ],
-      "duration_ms": 229075,
-      "name": "Note To Self",
-      "url": "https://open.spotify.com/track/7CX4fbtJXUvlV7RNNqBOpO"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -1355,6 +1355,22 @@
       "duration_ms": 275960,
       "name": "Not Up To You",
       "url": "https://open.spotify.com/track/1NOhzFmTzPYMJ8vjEVxjAE"
+    },
+    {
+      "added_at": "2024-03-25 10:22:05",
+      "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/0XvjdaLFvJ510mcmVXriw7"
+      },
+      "artists": [
+        {
+          "name": "Modern Baseball",
+          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
+        }
+      ],
+      "duration_ms": 229075,
+      "name": "Note To Self",
+      "url": "https://open.spotify.com/track/7CX4fbtJXUvlV7RNNqBOpO"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "To Be Everywhere Is to Be Nowhere",
-        "url": "https://open.spotify.com/album/5i3Vd8CipVhDocbVVFYvVv"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        }
-      ],
-      "duration_ms": 251474,
-      "name": "The Long Defeat",
-      "url": "https://open.spotify.com/track/0LiwVQusyq7nakql6TIQNG"
-    },
-    {
-      "added_at": "2024-03-25 10:22:05",
-      "album": {
         "name": "Decay",
         "url": "https://open.spotify.com/album/6ECwJB9w4fL7X3vtoVTbHw"
       },
@@ -1563,6 +1563,22 @@
       "duration_ms": 279872,
       "name": "Decay",
       "url": "https://open.spotify.com/track/3slMJuJsQelR7QrKJIIYci"
+    },
+    {
+      "added_at": "2024-03-25 10:22:05",
+      "album": {
+        "name": "To Be Everywhere Is to Be Nowhere",
+        "url": "https://open.spotify.com/album/5i3Vd8CipVhDocbVVFYvVv"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 251474,
+      "name": "The Long Defeat",
+      "url": "https://open.spotify.com/track/0LiwVQusyq7nakql6TIQNG"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -1595,22 +1611,6 @@
       "duration_ms": 271733,
       "name": "Goldfinger",
       "url": "https://open.spotify.com/track/7npgVYPIv7jzYC9yFKKHig"
-    },
-    {
-      "added_at": "2024-03-25 10:22:05",
-      "album": {
-        "name": "The Remote Part",
-        "url": "https://open.spotify.com/album/7zsB506W3ZKxNpjy8iIf8q"
-      },
-      "artists": [
-        {
-          "name": "Idlewild",
-          "url": "https://open.spotify.com/artist/1xdB9gS1NrKEYgZUEfoqIw"
-        }
-      ],
-      "duration_ms": 143760,
-      "name": "A Modern Way of Letting Go",
-      "url": "https://open.spotify.com/track/1fplcK4BIi4k5hzp2DJ0kt"
     }
   ],
   "unique_name": "Alternative Rock's Most Precious Gems",

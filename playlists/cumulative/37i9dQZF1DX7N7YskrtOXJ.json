@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Borrachito",
+        "url": "https://open.spotify.com/album/6eONEPTIHy682tfjvkgRUI"
+      },
+      "artists": [
+        {
+          "name": "Organizaci\u00f3n X",
+          "url": "https://open.spotify.com/artist/4LlbFyAhhOYvtbluyFiiyq"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160403,
+      "name": "Borrachito",
+      "url": "https://open.spotify.com/track/7yAV45QuPVvzPfQob431qP"
+    },
+    {
+      "album": {
         "name": "Amor y Caos",
         "url": "https://open.spotify.com/album/4dxLAaULsk0CzzHbkM5sqX"
       },
@@ -1936,7 +1954,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 188040,
       "name": "No Te Marches",
       "url": "https://open.spotify.com/track/2p6NdfaJywYmZOfGsQvzXQ"
@@ -2222,7 +2240,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 77760,
       "name": "Porque Te Quiero",
       "url": "https://open.spotify.com/track/6cvUP6WuCTW9urJC8EXnoH"
@@ -3178,7 +3196,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 246920,
       "name": "Y Me Beb\u00ed Tu Recuerdo",
       "url": "https://open.spotify.com/track/2yEbq1d68QtkwkGFfDpMbr"

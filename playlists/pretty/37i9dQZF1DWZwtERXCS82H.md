@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Calm and quiet piano music for reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,148,572 likes - 206 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,148,824 likes - 206 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -215,4 +215,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 205 | [Les passions](https://open.spotify.com/track/5eVSECRwlo8dpiAVWZImDs) | [Gianfranco Abate](https://open.spotify.com/artist/0LY1eNeWoYUJ9kwockmS2t) | [Les passions](https://open.spotify.com/album/1kLAGCQCV2Zn75wEKDl9eh) | 2:34 |
 | 206 | [Gran Paradiso](https://open.spotify.com/track/4Yzal0YrY55V7aQeXIeCvL) | [Sabrina Liszt](https://open.spotify.com/artist/6n135dZybVFYAp3fyK5RgU) | [Tiger Mountain](https://open.spotify.com/album/1rphq17hTPA0uYSToevcdY) | 3:29 |
 
-Snapshot ID: `MCw5MGQ4ZjVlYmM1OTQzNDMzZGU3NmU3YTg2ZmJhMmIzNGExNjdjMDFm`
+Snapshot ID: `MTcxMjY1NzcyMCwwMDAwMDAwMGZlNmJiOWI5Y2ViYWZjYjA2ZTQ5NzRkMjJlNDUzM2Rm`

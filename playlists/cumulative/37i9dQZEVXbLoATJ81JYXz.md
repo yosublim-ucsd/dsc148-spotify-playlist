@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,826 songs - 3 day 21 hr 57 min
+1,827 songs - 3 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -850,7 +850,7 @@
 | [John Daly](https://open.spotify.com/track/2bHkxIrKmodno557Z4BJBK) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [John Daly](https://open.spotify.com/album/410yZGA5oklqvmUXCEJeVu) | 2:49 | 2023-04-01 | 2023-04-21 |
 | [John Snow](https://open.spotify.com/track/6fulMfMC4B5S52YaAhdnmF) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Handen Under Mona Lisas Kjol \(PT:1\)](https://open.spotify.com/album/4pLkHKKCpechDpqhW439gJ) | 2:00 | 2023-12-29 | 2024-03-03 |
 | [JOKER](https://open.spotify.com/track/7a802vreAOcKkK8JLT4KFD) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [JOKER](https://open.spotify.com/album/7JFn8WQbABOPZcOWHyukRk) | 3:30 | 2021-10-10 | 2021-10-23 |
-| [JOLENE](https://open.spotify.com/track/1VxEaXbIq3xAvqh80xP67w) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/2m1enA3YrMLVvR3q0MqLpL) | 3:09 | 2024-03-30 |  |
+| [JOLENE](https://open.spotify.com/track/1VxEaXbIq3xAvqh80xP67w) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/2m1enA3YrMLVvR3q0MqLpL) | 3:09 | 2024-03-30 | 2024-04-12 |
 | [Jonah](https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:15 | 2021-08-31 | 2021-09-04 |
 | [Josefin](https://open.spotify.com/track/2gwirjNHYJPlBwOJ5Aftwv) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Josefin](https://open.spotify.com/album/482RW3Fc6VeLEsGTHh0cII) | 3:41 | 2021-06-21 | 2023-07-23 |
 | [Josefin](https://open.spotify.com/track/5LDi79YkHmZ1vRLMlyNlNH) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Josefin](https://open.spotify.com/album/6Berl5qBDpBAksUykxTT4v) | 3:41 | 2023-07-22 | 2024-02-06 |
@@ -1522,7 +1522,7 @@
 | [Suburban Legends \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/6T0sEnqjmHISIKwFETeeiP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 2:51 | 2023-10-28 | 2023-10-30 |
 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 | 2021-08-22 | 2021-08-29 |
 | [SUN GOES DOWN](https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [SUN GOES DOWN](https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0) | 2:48 | 2021-05-23 | 2021-05-24 |
-| [Sunnanvind](https://open.spotify.com/track/4GK4mydvnsodLEHWb4zJV4) | [Mares](https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC) | [Sunnanvind](https://open.spotify.com/album/11zMh9VPccELGpM5FgJIx9) | 3:22 | 2022-06-25 |  |
+| [Sunnanvind](https://open.spotify.com/track/4GK4mydvnsodLEHWb4zJV4) | [Mares](https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC) | [Sunnanvind](https://open.spotify.com/album/11zMh9VPccELGpM5FgJIx9) | 3:22 | 2022-06-25 | 2024-04-12 |
 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2021-11-14 | 2021-11-14 |
 | [SUPA](https://open.spotify.com/track/4gORd3Ws62ueWU2tQ2Fe16) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u), [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [SUPA](https://open.spotify.com/album/74R5y9CwBBcBNGTmm1vkww) | 2:58 | 2022-05-26 | 2023-04-18 |
 | [Super Freaky Girl](https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen Radio: Volume 1](https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6) | 2:50 | 2022-08-27 | 2022-10-02 |
@@ -1534,7 +1534,7 @@
 | [Svag](https://open.spotify.com/track/4SS4YfDAEQG0fZAe1xfgn3) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fånga mig när jag faller](https://open.spotify.com/album/3dXd7zPtfgASvaxo0jIAtu) | 3:11 | 2021-03-27\* | 2022-08-25 |
 | [Svalen till grammis](https://open.spotify.com/track/2SxOcZ9qTi8oRgViQFE4gF) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Svalen till grammis](https://open.spotify.com/album/4AqhSm1RxCLe3G6a5r5GHr) | 2:42 | 2024-04-06 | 2024-04-11 |
 | [Svansen](https://open.spotify.com/track/6QjV1SS98rca3Ekkrg6fsT) | [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [Svansen](https://open.spotify.com/album/6xdroRsbP7x8VSY0gQJiOA) | 2:53 | 2023-04-19 | 2023-04-23 |
-| [Svar](https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:41 | 2024-01-06 | 2024-04-08 |
+| [Svar](https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:41 | 2024-01-06 |  |
 | [Svart Ferrari](https://open.spotify.com/track/1CPOpQKVLD2evuM7HrBYY7) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Svart Ferrari](https://open.spotify.com/album/5q6u7feIJNs8GubNSybtYb) | 3:15 | 2024-01-13 | 2024-01-21 |
 | [Sveparen](https://open.spotify.com/track/4n4VeRFf8gFLjHHANAOuX3) | [Dree Low](https://open.spotify.com/artist/3tNPDodRNuLdezJnTsYOqy) | [Sveparen](https://open.spotify.com/album/6BPVqVQ2KuNTvABtg7nM5p) | 2:47 | 2021-08-13 | 2021-08-29 |
 | [Svett](https://open.spotify.com/track/4uXlhWXPnysM9HQMFqzU3f) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Svett](https://open.spotify.com/album/565wtWK25tA1JjATQZbvVg) | 3:06 | 2024-04-06 | 2024-04-08 |
@@ -1734,6 +1734,7 @@
 | [Vvvalsta](https://open.spotify.com/track/2muh7P8rylTiI0IJIn2d3z) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Vvvalsta](https://open.spotify.com/album/5dLKndnZiYa2YzHKcIoLpH) | 2:37 | 2021-07-28 | 2022-01-08 |
 | [Välkommen hem](https://open.spotify.com/track/4WfSDuJ4MrpdSSCEOanwzD) | [E.M.D.](https://open.spotify.com/artist/76Dn4GvguIMU4Gbcx155dg) | [Välkommen hem](https://open.spotify.com/album/6AKGh8BsUAvUZmelHIxSGe) | 3:28 | 2021-11-28 | 2023-12-30 |
 | [Välkommen in](https://open.spotify.com/track/5MEuFY2DxrozPEgGpR8Fji) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Satan i gatan \(Bonus Version\)](https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH) | 3:32 | 2022-03-21 | 2024-01-04 |
+| [Välkommen ner](https://open.spotify.com/track/29YN98sTVSpfYMpPzFXaGU) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Välkommen ner](https://open.spotify.com/album/2g6uhhynepaJyUn5eFR4qN) | 2:38 | 2024-04-11 |  |
 | [VÄLKOMMEN TILL SÖDRA](https://open.spotify.com/track/4ygFhEjbNInflnSHfCOOxE) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [VÄLKOMMEN TILL SÖDRA](https://open.spotify.com/album/6Ov9IoG4DndKVgilC20UY3) | 3:05 | 2023-01-10 | 2023-01-12 |
 | [Välkommen Åter](https://open.spotify.com/track/4q2nejfnJpmHqr2GAi09ph) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq), [Junie](https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N) | [Välkommen Åter](https://open.spotify.com/album/38ApGKtXK58w6N7DRfJ1kX) | 2:55 | 2022-05-25 | 2022-09-28 |
 | [Vänner](https://open.spotify.com/track/1uXln6ile0AkTgeSePVaGr) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6), [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Vi](https://open.spotify.com/album/7jzxFogzrtyfr0QSxWUBIX) | 3:18 | 2022-01-22 | 2022-02-13 |

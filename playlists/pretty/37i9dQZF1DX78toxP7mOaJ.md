@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Slow Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,279 likes - 110 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,342 likes - 110 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 109 | [Big Air](https://open.spotify.com/track/4CV3vmoI1mExWRTcGCsKTc) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Spiel](https://open.spotify.com/album/38uN3ZQLCnEz7LhFq5Y2Qh) | 3:26 |
 | 110 | [Cruise](https://open.spotify.com/track/2HxGutaMBJvIF8qRh3yBjl) | [Oscar Louis](https://open.spotify.com/artist/3beovFcnzA9hTr18ZxymFK), [Chris Vincent](https://open.spotify.com/artist/2TP5gePc0SBG8sOpRp8ymQ) | [Cruise](https://open.spotify.com/album/7Ks5QNF8Ea61IGRbzJVfwA) | 2:43 |
 
-Snapshot ID: `MCw5YzVjYTM0YTYwMTY3M2RkYWEwNjZmYjY5YzY2M2QxMjY5NzBiZWY4`
+Snapshot ID: `MTcxMjc3NTYwNSwwMDAwMDAwMGE2YjQ2YTk3ZWM4MDYxMTUxMTM4YjcyNTAyNGVkZjc4`

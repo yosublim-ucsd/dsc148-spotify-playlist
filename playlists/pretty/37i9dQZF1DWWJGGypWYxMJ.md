@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJGGypWYxMJ.md) - [plain]
 
 > pov, you ask for your Martini shaken...
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,262 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 452 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJGGypWYxMJ.md) - [plain]
 | 6 | [On Her Majesty's Secret Service \- From “On Her Majesty’s Secret Service” Soundtrack / Remastered 2003](https://open.spotify.com/track/3M0zi8iD2KRzY71XcGFUpE) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [On Her Majesty's Secret Service \(Expanded Edition\)](https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av) | 2:35 |
 | 7 | [Interpol](https://open.spotify.com/track/1dgEYrpCzCnylUhWgrGSo3) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [Voir Venise et crever \(Agent spécial à Venise\)](https://open.spotify.com/album/2RHEPodR5oGoaGj0wqqzSP) | 1:16 |
 | 8 | [Moonraker](https://open.spotify.com/track/0XCszZIzEncBpgAMkKoDB2) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Bassey \- The EMI/UA Years 1959\-1979](https://open.spotify.com/album/5aoxGBTOftx2uzyWGRKtxL) | 3:09 |
-| 9 | [Liquid Sunshine](https://open.spotify.com/track/5rXMjn480P9q0aomXjmj0Q) | [John Cameron](https://open.spotify.com/artist/18ouJo7j7egCFOsRdCTcUk) | [Kpm 1000 Series: Voices in Harmony](https://open.spotify.com/album/3VmCC7JnGsOpPf2PncZX8o) | 2:59 |
+| 9 | [Analisi scientifiche](https://open.spotify.com/track/6vN0AqD9Zk4uolNlCRufxQ) | [Giuliano Sorgini](https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX) | [Lavoro e tempo libero](https://open.spotify.com/album/5VWALGguSmp9l3FN2BWcNP) | 4:54 |
 | 10 | [Get Carter Theme \- Alternative Mix 1](https://open.spotify.com/track/5AVTxDtDTPvvIlABb6mZVQ) | [Roy Budd](https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV) | [Get Carter \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1WifKFCV4FXukva8WWNiWV) | 3:40 |
-| 11 | [Analisi scientifiche](https://open.spotify.com/track/6vN0AqD9Zk4uolNlCRufxQ) | [Giuliano Sorgini](https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX) | [Lavoro e tempo libero](https://open.spotify.com/album/5VWALGguSmp9l3FN2BWcNP) | 4:54 |
+| 11 | [Liquid Sunshine](https://open.spotify.com/track/5rXMjn480P9q0aomXjmj0Q) | [John Cameron](https://open.spotify.com/artist/18ouJo7j7egCFOsRdCTcUk) | [Kpm 1000 Series: Voices in Harmony](https://open.spotify.com/album/3VmCC7JnGsOpPf2PncZX8o) | 2:59 |
 | 12 | [Left Bank Two \- \[Gallery Theme from "Vision On"](https://open.spotify.com/track/4EVjJAF4v519GjGk3rsJ7Z) | [Wayne Hill](https://open.spotify.com/artist/1wDTppICsOJwrAAaROEqaY) | [Top Dog \(A Retrospective Of Classic TV & Radio Themes 1960\-1982\)](https://open.spotify.com/album/2d286hNlRXgpqtTxXWjgiD) | 2:29 |
 | 13 | [Mermaid](https://open.spotify.com/track/4LcogSQgiNo6rtCG70emJj) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Kpm 1000 Series: Synthesis](https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB) | 3:56 |
 | 14 | [Morning Broadway](https://open.spotify.com/track/6X0ufegIaeHxuShNKKmIGQ) | [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH), [The KPM Orchestra](https://open.spotify.com/artist/4kOSJhA1mfQHM6UDNJWjp1) | [Kpm 1000 Series: Chorus and Orchestra](https://open.spotify.com/album/6FdX6HqSa45LRBndboUfS7) | 2:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJGGypWYxMJ.md) - [plain]
 | 49 | [Studio 69](https://open.spotify.com/track/2hETyXkSvWidMCtUAd5xFZ) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 1:54 |
 | 50 | [Sour Soul](https://open.spotify.com/track/7yJ65bgAz0vUqgN6GaguL1) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [Sour Soul](https://open.spotify.com/album/7EP7RtY2i9ULwT3sLxEZIx) | 3:19 |
 
-Snapshot ID: `MCw3NjM3NWQ1MGY4NmYwNzAyMWM4OGRlNTY2YjljMGE0ZjUzYjM0MjM0`
+Snapshot ID: `MTcxMjg3ODI1MywwMDAwMDAwMDA2OGJkNjIyYzdmMWI5MTE5ZWZjODk0OGQyMzY3MmFi`

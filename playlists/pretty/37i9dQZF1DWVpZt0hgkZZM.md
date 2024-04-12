@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,025 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,050 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,10 +65,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 55 | [Junto A Tu Corazon](https://open.spotify.com/track/0weoBV2J1VVaNrjD8h4bLx) | [Miguel Moly](https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8) | [Y Como Se Mata El Gusano?](https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK) | 3:16 |
 | 56 | [Agüita 'e Coco](https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:07 |
 | 57 | [Ay Amor](https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:03 |
-| 58 | [En Silencio Te Amaré](https://open.spotify.com/track/0j4yCgCJGgVZFayuTDfmO4) | [El Combo De Las Estrellas](https://open.spotify.com/artist/3a1bkJS7AQnJ8KGvf9hFiN) | [30 Mejores: El Combo de las Estrellas](https://open.spotify.com/album/1z7GXxwkXxAlJz1m6Rh14v) | 3:57 |
+| 58 | [Carola](https://open.spotify.com/track/5ruhUADQWwKmsaFBZH4yFO) | [Rodolfo Su Tipica](https://open.spotify.com/artist/5qBFpNp9zx5aihCltUNxAJ) | [A Bailar Tropical](https://open.spotify.com/album/4jsWeqoxStBEjucGK7Quuv) | 2:53 |
 | 59 | [Tabaco y Ron](https://open.spotify.com/track/2jOuQXGCCVHrQeVzyNLwb9) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable \- 16 Exitos](https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8) | 4:04 |
 | 60 | [El Viejo del Sombrerón](https://open.spotify.com/track/02bm1KDGRX3saB1iupRa3h) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [La India Meliyará](https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG) | [Greatest Cumbia Classics Of Colombia, Vol\. 1](https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV) | 4:12 |
-| 61 | [Carola](https://open.spotify.com/track/5ruhUADQWwKmsaFBZH4yFO) | [Rodolfo Su Tipica](https://open.spotify.com/artist/5qBFpNp9zx5aihCltUNxAJ) | [A Bailar Tropical](https://open.spotify.com/album/4jsWeqoxStBEjucGK7Quuv) | 2:53 |
+| 61 | [En Silencio Te Amaré](https://open.spotify.com/track/0j4yCgCJGgVZFayuTDfmO4) | [El Combo De Las Estrellas](https://open.spotify.com/artist/3a1bkJS7AQnJ8KGvf9hFiN) | [30 Mejores: El Combo de las Estrellas](https://open.spotify.com/album/1z7GXxwkXxAlJz1m6Rh14v) | 3:57 |
 | 62 | [muero por verla luis mateus vallenato](https://open.spotify.com/track/0TONniNVBHXA4QvTw93P91) | [14 vallenatos sabroso corta venas vol.1 exitos](https://open.spotify.com/artist/06KHPOCzkYqiehC5da8hrl) | [14 vallenatos sabroso](https://open.spotify.com/album/0gXmF1WjNrMS7lr2IGvZlc) | 4:43 |
 | 63 | [Noches de Fantasia](https://open.spotify.com/track/3PeQq6jHoOXcEi3OjDO6xu) | [Roberto Antonio](https://open.spotify.com/artist/1OuxoQIMrPUQOoshgkopYx) | [Mentirosa](https://open.spotify.com/album/1WfKKkx38gcIJrdekcDwO4) | 3:51 |
 | 64 | [Las Caleñas](https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 99 | [El Ausente](https://open.spotify.com/track/2bmlo7ze2SmrVooKmSYbDm) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Fruko el Bueno "ayunando"](https://open.spotify.com/album/02D7tAZfwwecg2kx5m66jW) | 4:03 |
 | 100 | [El Solitario](https://open.spotify.com/track/7q82VvrWXF2ENfLkCZzSAD) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A) | [Colecciones de Oro](https://open.spotify.com/album/5rMb7dMhK7k7OILWRtswUe) | 3:36 |
 
-Snapshot ID: `MCwzNjNhYTk0MDc3ZDg4NWIzNzE4NzY2OGVkOTA5OGIxZWI3YzhiMDg0`
+Snapshot ID: `MTcxMjM2MzUwMCwwMDAwMDAwMDhhNTUwNjI4YzI5NjBhNGZkZDIxYWNhNjAwMTBiYmMy`

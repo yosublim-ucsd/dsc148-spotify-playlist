@@ -4,7 +4,7 @@
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: 米津玄師
 
-1,278 songs - 3 day 7 hr 32 min
+1,280 songs - 3 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,7 @@
 | [Ima Wo Ikirunoda.](https://open.spotify.com/track/2TfgEnBBdBvQl7fdMX1Nqy) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Ima Wo Ikirunoda.](https://open.spotify.com/album/27P7OClUEHrPiybgPxdA7y) | 4:34 | 2022-12-11 | 2023-01-16 |
 | [In Your Life](https://open.spotify.com/track/5s94xrIDUhNwtZt26V0MiN) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [In Your Life](https://open.spotify.com/album/20yZQbH7TZ1cCZ0MRyrGVh) | 3:55 | 2023-07-02 | 2023-07-10 |
 | [Inori](https://open.spotify.com/track/45RVt1QEw92zIv7pFwYJ7j) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Inori](https://open.spotify.com/album/4owR8s4kYTyqTM995UaXOf) | 3:35 | 2023-04-23 | 2023-05-01 |
-| [Insomnia](https://open.spotify.com/track/52KxsRBZj7Ip9HdxgvEQbO) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Insomnia](https://open.spotify.com/album/51QJlvJclfVB6jNNXlDatS) | 3:24 | 2024-03-05 |  |
+| [Insomnia](https://open.spotify.com/track/52KxsRBZj7Ip9HdxgvEQbO) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Insomnia](https://open.spotify.com/album/51QJlvJclfVB6jNNXlDatS) | 3:24 | 2024-03-05 | 2024-04-12 |
 | [ISOGA♡PEACH](https://open.spotify.com/track/2rUXvoihe7UXWbHogW3xNs) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [gokigen](https://open.spotify.com/album/4vNzwzawCSP3840t0wVEdE) | 2:53 | 2022-06-05 | 2022-06-13 |
 | [It's all about you](https://open.spotify.com/track/4D8vdQENwuYMbcaYG0ZKcr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [It's all about you](https://open.spotify.com/album/2Nle2je0kLudi6kk0PJsuA) | 3:11 | 2022-01-23 | 2022-02-21 |
 | [It's All For Us](https://open.spotify.com/track/2EQFpKZWfUMdcpWILJVGru) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [It's All For Us](https://open.spotify.com/album/2m2LvEg4ByGuDlVrD4DFGN) | 3:48 | 2021-12-26 | 2022-01-24 |
@@ -576,7 +576,7 @@
 | [slash](https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [slash](https://open.spotify.com/album/4oLomJzmXTSNYrOYsEg4u3) | 3:58 | 2023-04-16 | 2023-05-30 |
 | [Sleep Walking Orchestra](https://open.spotify.com/track/0vMBqdJIkmflvFk728hKH7) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Sleep Walking Orchestra](https://open.spotify.com/album/565KNcvUbOCDBIdCNFqiWl) | 3:55 | 2023-12-10 | 2024-02-05 |
 | [SLEEPLESS](https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [SLEEPLESS](https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k) | 3:38 | 2022-06-26 | 2022-07-11 |
-| [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 | 2023-12-10 |  |
+| [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 | 2023-12-10 | 2024-04-12 |
 | [Small White](https://open.spotify.com/track/5gtz1vlmjbtUePIh3oXhWo) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Small White](https://open.spotify.com/album/7vFfieIpd90YZe7FKUXpAy) | 4:44 | 2022-11-13 | 2023-02-06 |
 | [Small World](https://open.spotify.com/track/0wRayZpIP9rv3gGz3jQPlp) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Small World](https://open.spotify.com/album/1pPlX9beCj4fdbNYeqD7kH) | 4:42 | 2022-03-06 | 2022-03-21 |
 | [Smile Again](https://open.spotify.com/track/6EJDyT2T7pEeLLhNRR416r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Smile Again](https://open.spotify.com/album/7aIMR4kB87X92XrEzK6L6M) | 3:22 | 2023-04-23 | 2023-05-23 |
@@ -660,6 +660,7 @@
 | [There](https://open.spotify.com/track/6gHeWGamtOYHBd1LBZ7Fv6) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [There](https://open.spotify.com/album/2j8BoKqZrMUYTARDIs9XDk) | 3:35 | 2023-02-19 | 2023-02-21 |
 | [Thinking](https://open.spotify.com/track/5ZuVfW3iyz4AUA7aSDwNtp) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Thinking](https://open.spotify.com/album/3DpicBvCX079m21wMy9cMt) | 4:02 | 2022-08-07 | 2022-08-29 |
 | [This Hell](https://open.spotify.com/track/6A6yKpsgFr4gIKd7gsfHhm) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [This Hell](https://open.spotify.com/album/0U4egSSjgOOcAO7Qmj189E) | 3:56 | 2022-11-23 | 2023-01-16 |
+| [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6) | 3:56 | 2024-04-11 |  |
 | [This Kiss](https://open.spotify.com/track/40DAmimMs6oT7dsScFTCBC) | [Vickeblanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [This Kiss](https://open.spotify.com/album/2xJ9ttPAKlrV7k9X9JDXHO) | 4:20 | 2022-07-24 | 2022-08-15 |
 | [Time Machine/Kazokuno Fukei](https://open.spotify.com/track/341Yx5D0ebbX7FcWDEHtRp) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [Time Machine/Kazokuno Fukei](https://open.spotify.com/album/5fB1LmRdJBtp4qZ6990791) | 3:37 | 2023-03-26 | 2023-05-01 |
 | [Tippy Toes](https://open.spotify.com/track/1MKmSbQfJpEVnC3XfGywyF) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [Tippy Toes](https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w) | 3:08 | 2022-03-21 | 2022-04-25 |
@@ -1182,6 +1183,7 @@
 | [異世界混合大舞踏会 \(feat\. おばけ\)](https://open.spotify.com/track/2YaWdN5tieE4Ntorawbbvq) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [異世界混合大舞踏会 \(feat\. おばけ\)](https://open.spotify.com/album/48aHoa0UvjChDUllkQZoaX) | 3:45 | 2022-07-17 | 2022-07-29 |
 | [白色蜉蝣](https://open.spotify.com/track/6g4LVUmjflm93R0T8GkvtF) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [白色蜉蝣](https://open.spotify.com/album/1QZOlZ7LLH6QVmFxVGWk7X) | 3:11 | 2023-10-08 | 2023-11-16 |
 | [盆ギリ恋歌](https://open.spotify.com/track/2kxp3ZUOXssozAGMEXshLO) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [盆ギリ恋歌](https://open.spotify.com/album/7hgrQHyNvrIdJrviKQsheH) | 4:19 | 2023-07-16 | 2023-07-18 |
+| [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 | 2024-04-11 |  |
 | [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 | 2022-08-14 | 2022-09-26 |
 | [眩光](https://open.spotify.com/track/0Imzg052WsTbxUNDMnZhmp) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [あの日、あの場所/眩光](https://open.spotify.com/album/1VSTDVmonKezz5ZiBtc66c) | 3:34 | 2022-04-17 | 2022-06-06 |
 | [瞳にめざめて](https://open.spotify.com/track/2Mf4WM0Ek5JjbolrOtjLgi) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [瞳にめざめて](https://open.spotify.com/album/6YypBeWPNEqtimK2ffZll4) | 3:27 | 2022-10-30 | 2022-11-28 |

@@ -1,12 +1,12 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 272153,
+  "num_followers": 272283,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWNkZGIzMWMzYzhkY2IyYmFkZThjZjYwYjk3ZTFjMTVhNDYxMDc5",
+  "snapshot_id": "MTY5MDUxNjg2MCwwMDAwMDAwMDAyMmE2MzkzZGJiNGZhOGM1MTIwNDdiMzNkYTBjOThi",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Obey / Hidden Here",
-        "url": "https://open.spotify.com/album/6HEZcwsH3hTAfEYwC2DqXg"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        }
-      ],
-      "duration_ms": 235168,
-      "name": "Obey",
-      "url": "https://open.spotify.com/track/7hRadFcj5kcgS9PkWV1wce"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "While I Can",
         "url": "https://open.spotify.com/album/6CA3wQ1FPOU52vhvWYgJGV"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 186029,
       "name": "While I Can",
       "url": "https://open.spotify.com/track/6o3KtG52dLuCm6MYPqVU1C"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Obey / Hidden Here",
+        "url": "https://open.spotify.com/album/6HEZcwsH3hTAfEYwC2DqXg"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "duration_ms": 235168,
+      "name": "Obey",
+      "url": "https://open.spotify.com/track/7hRadFcj5kcgS9PkWV1wce"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Love Unending",
-        "url": "https://open.spotify.com/album/2ZIucC5ZWuMUM4Y8cVZFpb"
-      },
-      "artists": [
-        {
-          "name": "Ry Cox",
-          "url": "https://open.spotify.com/artist/16gW6AKnwvZj4t09Jfv4ap"
-        }
-      ],
-      "duration_ms": 270467,
-      "name": "Deeper Water",
-      "url": "https://open.spotify.com/track/1sPYj7Rd00yeMRGefniYuT"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Shiloh",
         "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 268360,
       "name": "Shiloh",
       "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Love Unending",
+        "url": "https://open.spotify.com/album/2ZIucC5ZWuMUM4Y8cVZFpb"
+      },
+      "artists": [
+        {
+          "name": "Ry Cox",
+          "url": "https://open.spotify.com/artist/16gW6AKnwvZj4t09Jfv4ap"
+        }
+      ],
+      "duration_ms": 270467,
+      "name": "Deeper Water",
+      "url": "https://open.spotify.com/track/1sPYj7Rd00yeMRGefniYuT"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Let the Ground Rest",
-        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        }
-      ],
-      "duration_ms": 232933,
-      "name": "Not Finished Yet",
-      "url": "https://open.spotify.com/track/48LaNGUAT0JmYdqSGAN6Bi"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "The Harvest",
         "url": "https://open.spotify.com/album/60YVj0sHClGPNLYs3dXMei"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 200261,
       "name": "If You Love Me",
       "url": "https://open.spotify.com/track/19Mez2lwbJzTTp02yaYFPP"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Let the Ground Rest",
+        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "duration_ms": 232933,
+      "name": "Not Finished Yet",
+      "url": "https://open.spotify.com/track/48LaNGUAT0JmYdqSGAN6Bi"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -595,6 +595,26 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Charmed",
+        "url": "https://open.spotify.com/album/3zfFEn0p5vxMcLDqZVYGcc"
+      },
+      "artists": [
+        {
+          "name": "Ethan C. Davis",
+          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
+        },
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+        }
+      ],
+      "duration_ms": 213157,
+      "name": "Charmed",
+      "url": "https://open.spotify.com/track/0IQeeIqzADdN1xh0B3ZAwu"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "In Every Way",
         "url": "https://open.spotify.com/album/79XjwIUuzdsB6zEyugFEUv"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 187943,
       "name": "Be My Shalom",
       "url": "https://open.spotify.com/track/6eGFb1mib8IH3F6QGirRIG"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Charmed",
-        "url": "https://open.spotify.com/album/3zfFEn0p5vxMcLDqZVYGcc"
-      },
-      "artists": [
-        {
-          "name": "Ethan C. Davis",
-          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
-        },
-        {
-          "name": "Isla Vista Worship",
-          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
-        }
-      ],
-      "duration_ms": 213157,
-      "name": "Charmed",
-      "url": "https://open.spotify.com/track/0IQeeIqzADdN1xh0B3ZAwu"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Glory Hour",
-        "url": "https://open.spotify.com/album/0P3o32VNf3DArR1I3TcSR4"
-      },
-      "artists": [
-        {
-          "name": "Victory",
-          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
-        }
-      ],
-      "duration_ms": 421320,
-      "name": "One Thing",
-      "url": "https://open.spotify.com/track/5VfQ6xXvgmm4Udi6Jf3AEk"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "TOGETHER (Acoustic Version)",
         "url": "https://open.spotify.com/album/2bxW2yfuNRzAYao44imd3E"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 216681,
       "name": "TOGETHER (Acoustic Version)",
       "url": "https://open.spotify.com/track/3TX44ZXlkDzGkk8QmlxuYr"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Glory Hour",
+        "url": "https://open.spotify.com/album/0P3o32VNf3DArR1I3TcSR4"
+      },
+      "artists": [
+        {
+          "name": "Victory",
+          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
+        }
+      ],
+      "duration_ms": 421320,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/5VfQ6xXvgmm4Udi6Jf3AEk"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Ashes to Skies",
-        "url": "https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX"
-      },
-      "artists": [
-        {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
-        }
-      ],
-      "duration_ms": 274546,
-      "name": "Ashes to Skies",
-      "url": "https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "We Rise We Bow",
         "url": "https://open.spotify.com/album/6vQiAyokbSLC6BJUZlkKtr"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 344206,
       "name": "We Rise",
       "url": "https://open.spotify.com/track/32oefCfjl6LcXDzQD5eqMy"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Ashes to Skies",
+        "url": "https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX"
+      },
+      "artists": [
+        {
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
+        }
+      ],
+      "duration_ms": 274546,
+      "name": "Ashes to Skies",
+      "url": "https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "On Christ (House Church)",
-        "url": "https://open.spotify.com/album/44eE0gE1CPQpBKeAscz6Tw"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 264289,
-      "name": "On Christ (House Church)",
-      "url": "https://open.spotify.com/track/7cLvP0zD6nwFhdaxBfpIk9"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "When It Comes to You",
         "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 335299,
       "name": "Goodness",
       "url": "https://open.spotify.com/track/3JyI1zIVyM1N7wb7Qylro6"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "On Christ (House Church)",
+        "url": "https://open.spotify.com/album/44eE0gE1CPQpBKeAscz6Tw"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 264289,
+      "name": "On Christ (House Church)",
+      "url": "https://open.spotify.com/track/7cLvP0zD6nwFhdaxBfpIk9"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Thank God I Do",
+        "url": "https://open.spotify.com/album/0E1Ip2z8HR4ZYobvGTSlbJ"
+      },
+      "artists": [
+        {
+          "name": "Caleb and Kelsey",
+          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+        }
+      ],
+      "duration_ms": 169188,
+      "name": "Thank God I Do",
+      "url": "https://open.spotify.com/track/1V89zM9vgYVK4wyuasc74p"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "You Are God, Be Glorified",
         "url": "https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb"
       },
@@ -1307,18 +1323,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "After All These Years: A Collection",
-        "url": "https://open.spotify.com/album/1ixYVxV8caqaVDiHrktthj"
+        "name": "Different Story",
+        "url": "https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6"
       },
       "artists": [
         {
-          "name": "Andrew Peterson",
-          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
+          "name": "Jon Thurlow",
+          "url": "https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B"
         }
       ],
-      "duration_ms": 279373,
-      "name": "Isn't It Love - 2014 Version",
-      "url": "https://open.spotify.com/track/04Lw9ot3N6m7o4Z02JdwCx"
+      "duration_ms": 244746,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1339,34 +1355,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Thank God I Do",
-        "url": "https://open.spotify.com/album/0E1Ip2z8HR4ZYobvGTSlbJ"
+        "name": "After All These Years: A Collection",
+        "url": "https://open.spotify.com/album/1ixYVxV8caqaVDiHrktthj"
       },
       "artists": [
         {
-          "name": "Caleb and Kelsey",
-          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+          "name": "Andrew Peterson",
+          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
         }
       ],
-      "duration_ms": 169188,
-      "name": "Thank God I Do",
-      "url": "https://open.spotify.com/track/1V89zM9vgYVK4wyuasc74p"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Different Story",
-        "url": "https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6"
-      },
-      "artists": [
-        {
-          "name": "Jon Thurlow",
-          "url": "https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B"
-        }
-      ],
-      "duration_ms": 244746,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC"
+      "duration_ms": 279373,
+      "name": "Isn't It Love - 2014 Version",
+      "url": "https://open.spotify.com/track/04Lw9ot3N6m7o4Z02JdwCx"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Fortress (Acoustic)",
-        "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
-      },
-      "artists": [
-        {
-          "name": "Refuge Worship",
-          "url": "https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz"
-        }
-      ],
-      "duration_ms": 249485,
-      "name": "Fortress (Acoustic)",
-      "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Ever Be",
         "url": "https://open.spotify.com/album/4Yg6IeCzU0q4OAxu5X2Ks0"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 268970,
       "name": "Light & Momentary",
       "url": "https://open.spotify.com/track/08DEpqd2B46uUj5MeagoC6"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Fortress (Acoustic)",
+        "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
+      },
+      "artists": [
+        {
+          "name": "Refuge Worship",
+          "url": "https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz"
+        }
+      ],
+      "duration_ms": 249485,
+      "name": "Fortress (Acoustic)",
+      "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1723,26 +1723,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Now I See",
-        "url": "https://open.spotify.com/album/3ag0IZGy6XuaBQPA4fH3V3"
+        "name": "Don't Give Up",
+        "url": "https://open.spotify.com/album/1ovkI3emaN9GE40ssMY00u"
       },
       "artists": [
         {
-          "name": "The McClures",
-          "url": "https://open.spotify.com/artist/5lI2VDVbI989t1YHEFhGyI"
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
         },
         {
-          "name": "Paul McClure",
-          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
-        },
-        {
-          "name": "Hannah McClure",
-          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
+          "name": "Will Reagan",
+          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
         }
       ],
-      "duration_ms": 243653,
-      "name": "Now I See",
-      "url": "https://open.spotify.com/track/66SLmhCxmoFG8DUgBFv572"
+      "duration_ms": 317000,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/6GIrD3RbCAKD7nMTsdAxjx"
     }
   ],
   "unique_name": "Love Coffee, Love Jesus",

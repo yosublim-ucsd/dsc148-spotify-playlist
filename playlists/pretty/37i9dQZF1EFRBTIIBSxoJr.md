@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 502 likes - 121 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 504 likes - 121 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 52 | [Almost Home](https://open.spotify.com/track/7h38rvuinAanaR7vaYLDVQ) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:23 |
 | 53 | [Crown](https://open.spotify.com/track/75nhw5YxdMeEE9cj9AjyHR) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jamila Velazquez](https://open.spotify.com/artist/0DNer7EBpWOFyAGuxmF9GN), [Raquel Castro](https://open.spotify.com/artist/1FOw6qIycSqShZV57QtDIX), [Yani Marin](https://open.spotify.com/artist/6eMmKtGbT9oHRnDMDzPlu3) | [Empire: Original Soundtrack, Season 2 Volume 2 \(Deluxe\)](https://open.spotify.com/album/5F63FnyDVZcFljjvVRdPd8) | 3:11 |
 | 54 | [She Do](https://open.spotify.com/track/7cJWV4gJVR78HFLvosMhcb) | [In Real Life](https://open.spotify.com/artist/09fEeGYqb3MUeV1c9BJgDI) | [She Do](https://open.spotify.com/album/7KnSdU7mu0fvU1M4gl8Ct7) | 3:20 |
-| 55 | [I Still Believe \- Purple Disco Machine Remix](https://open.spotify.com/track/40uD8YIrDmTuFFPNYp3ovN) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [I Still Believe \(Purple Disco Machine Remix\)](https://open.spotify.com/album/4vRTaNLGafRDnsuQfyetJY) | 3:39 |
-| 56 | [VACANCY](https://open.spotify.com/track/3fcVS6VEBwtD9Qo3polMCf) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki) | [VACANCY](https://open.spotify.com/album/4kCboiPS30I9IL5cCgCmjz) | 3:11 |
+| 55 | [VACANCY](https://open.spotify.com/track/3fcVS6VEBwtD9Qo3polMCf) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki) | [VACANCY](https://open.spotify.com/album/4kCboiPS30I9IL5cCgCmjz) | 3:11 |
+| 56 | [I Still Believe \- Purple Disco Machine Remix](https://open.spotify.com/track/40uD8YIrDmTuFFPNYp3ovN) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [I Still Believe \(Purple Disco Machine Remix\)](https://open.spotify.com/album/4vRTaNLGafRDnsuQfyetJY) | 3:39 |
 | 57 | [Gatekeeper](https://open.spotify.com/track/02T6r1FheCaKwnJUwNJ04I) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Gatekeeper](https://open.spotify.com/album/7qEf07O8bfCTYzxrUmhkgq) | 2:30 |
 | 58 | [Mimosa \(feat\. Jamila Velazquez, Raquel Castro & Yani Marin\)](https://open.spotify.com/track/1suT5CMehGisHTWyOYc0KS) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jamila Velazquez](https://open.spotify.com/artist/0DNer7EBpWOFyAGuxmF9GN), [Raquel Castro](https://open.spotify.com/artist/1FOw6qIycSqShZV57QtDIX), [Yani Marin](https://open.spotify.com/artist/6eMmKtGbT9oHRnDMDzPlu3) | [Empire: The Complete Season 2](https://open.spotify.com/album/28L0OF7HJKdFUP5VZgdiz5) | 3:27 |
 | 59 | [Hit The Ceiling](https://open.spotify.com/track/4qK2OPcn4ABsV4n71ICer0) | [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) | [Cold Heart](https://open.spotify.com/album/3UJW1p1qiGScFrGKLwBptB) | 4:19 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 120 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha\-Lee](https://open.spotify.com/artist/7ef107j57lGW8zlDLp78n6) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 121 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `Mjg1NDY2OTAsMDAwMDAwMDA3N2M1Y2YzMGIwZGNiYzU2NWE4YTRhODMzMzc4ZTc0ZQ==`
+Snapshot ID: `Mjg1NDgxMzAsMDAwMDAwMDAyMjYxYjZjYzM2YTg2NjMzZWJlZDQ1YWQ2YTEzZmVkMA==`

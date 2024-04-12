@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVbqQrqciCF.md) - [plain]
 
 > コンポーザーのAyase、ボーカルのikuraからなる「小説を音楽にするユニット」、YOASOBIの楽曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,194 likes - 48 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,418 likes - 56 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,18 +43,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVbqQrqciCF.md) - [plain]
 | 33 | [Romance](https://open.spotify.com/track/0dSPApaBoWn6SA4GKWq9QK) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 2](https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd) | 2:46 |
 | 34 | [Monster](https://open.spotify.com/track/7M9lc2hHXKQobbHQ31Yg2v) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Monster](https://open.spotify.com/album/3GUW4WpvJPXgzsOW1hVifv) | 3:25 |
 | 35 | [Blue](https://open.spotify.com/track/3eGKvQ0eYpyl28lMo8ZT93) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Blue](https://open.spotify.com/album/142pAHbasPxFPBKbS5wsb3) | 4:08 |
-| 36 | [The Blessing](https://open.spotify.com/track/4KFvsGchCp4c7zphBlPxz3) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 3:12 |
-| 37 | [Haven't](https://open.spotify.com/track/33ALvsldNGJduk3Bqr7VjS) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE](https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R) | 4:16 |
-| 38 | [Haruka](https://open.spotify.com/track/0jFon5RVg19KlwNVnXVX0s) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 4:02 |
-| 39 | [If I Could Draw Life](https://open.spotify.com/track/5ASNsnnOvreLu9FtvA3jpR) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 3:22 |
-| 40 | [Tracing A Dream](https://open.spotify.com/track/4L9Iuupn2JTSCHSn8uVdD6) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE](https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R) | 4:01 |
-| 41 | [RGB](https://open.spotify.com/track/55O5PJor96At64xOQSWnkc) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [RGB](https://open.spotify.com/album/1lFZcTOrL1ZukflkJg9zX2) | 3:42 |
-| 42 | [Encore](https://open.spotify.com/track/0O0RP8iesLTKxhlEY4MKX6) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE](https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R) | 4:30 |
-| 43 | [Love Letter](https://open.spotify.com/track/325iR7dCw6hNekr48puGdG) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 3:30 |
-| 44 | [Halzion](https://open.spotify.com/track/6YgWUfKPwZJigKBbSDwu7e) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 3:18 |
-| 45 | [Comet](https://open.spotify.com/track/7LrT6Lpn0hOQ58pbBP6D2M) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE](https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R) | 3:33 |
-| 46 | [The Swallow \(feat\. Midories\)](https://open.spotify.com/track/6oexafIxFkZaEEcfJCsx4y) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [midories](https://open.spotify.com/artist/71hoL3Rlmuptv4h4g2bJxU) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 3:37 |
-| 47 | [Just a Little Step](https://open.spotify.com/track/3UCbRuJbsnEZeGLXefqeow) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 3:39 |
-| 48 | [Romance](https://open.spotify.com/track/6Kh3obD8LG4yeXxQDhr6Vr) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 2:46 |
+| 36 | [Biri\-Biri \- English Version](https://open.spotify.com/track/1oZ8KYg3WAt9PtBQkWhWBr) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Biri\-Biri](https://open.spotify.com/album/1hxB0L2PCz5d5jQl2s39Sz) | 3:07 |
+| 37 | [Idol](https://open.spotify.com/track/1zVsw1SqQKgtzE4aqmE8nE) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Idol](https://open.spotify.com/album/2t5eAUqMwN0Kb2JGTxW2w0) | 3:33 |
+| 38 | [Mister](https://open.spotify.com/track/6sHinRfFGZcxeTTdCvxgCG) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 3:04 |
+| 39 | [manimani](https://open.spotify.com/track/0JXxrmM7bHmpwHczGTjCUm) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 4:16 |
+| 40 | [The Brave](https://open.spotify.com/track/2C0zR1j4Xd5JVSrMABMFSG) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [The Brave](https://open.spotify.com/album/1LIrHjmcINgiNpzx1NvbhB) | 3:14 |
+| 41 | [Seventeen](https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 3:19 |
+| 42 | [Loving You](https://open.spotify.com/track/7nN7TkxDGH8DeXs2Vy67nv) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 3:37 |
+| 43 | [Adventure](https://open.spotify.com/track/69O0RdcJkH7eimOTXw41L7) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Adventure](https://open.spotify.com/album/4h9tiuZQB6hXz68dzZED6g) | 3:20 |
+| 44 | [The Blessing](https://open.spotify.com/track/4KFvsGchCp4c7zphBlPxz3) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 3:12 |
+| 45 | [Haven't](https://open.spotify.com/track/33ALvsldNGJduk3Bqr7VjS) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE](https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R) | 4:16 |
+| 46 | [Haruka](https://open.spotify.com/track/0jFon5RVg19KlwNVnXVX0s) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 4:02 |
+| 47 | [If I Could Draw Life](https://open.spotify.com/track/5ASNsnnOvreLu9FtvA3jpR) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 3:22 |
+| 48 | [Tracing A Dream](https://open.spotify.com/track/4L9Iuupn2JTSCHSn8uVdD6) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE](https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R) | 4:01 |
+| 49 | [RGB](https://open.spotify.com/track/55O5PJor96At64xOQSWnkc) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [RGB](https://open.spotify.com/album/1lFZcTOrL1ZukflkJg9zX2) | 3:42 |
+| 50 | [Encore](https://open.spotify.com/track/0O0RP8iesLTKxhlEY4MKX6) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE](https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R) | 4:30 |
+| 51 | [Love Letter](https://open.spotify.com/track/325iR7dCw6hNekr48puGdG) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 3:30 |
+| 52 | [Halzion](https://open.spotify.com/track/6YgWUfKPwZJigKBbSDwu7e) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 3:18 |
+| 53 | [Comet](https://open.spotify.com/track/7LrT6Lpn0hOQ58pbBP6D2M) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE](https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R) | 3:33 |
+| 54 | [The Swallow \(feat\. Midories\)](https://open.spotify.com/track/6oexafIxFkZaEEcfJCsx4y) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [midories](https://open.spotify.com/artist/71hoL3Rlmuptv4h4g2bJxU) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 3:37 |
+| 55 | [Just a Little Step](https://open.spotify.com/track/3UCbRuJbsnEZeGLXefqeow) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 3:39 |
+| 56 | [Romance](https://open.spotify.com/track/6Kh3obD8LG4yeXxQDhr6Vr) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 2:46 |
 
-Snapshot ID: `MCw1YmI4ODA1ZDkxOWU4OGJjMDdjYWYxMzY4MzkxNTgxNWEzNWNiYTc5`
+Snapshot ID: `MTcxMjg3OTg1OSwwMDAwMDAwMGRmOTc2ODY2NDUzNzFjN2I3MzM0OTdjNzRlYzMzZDQ4`

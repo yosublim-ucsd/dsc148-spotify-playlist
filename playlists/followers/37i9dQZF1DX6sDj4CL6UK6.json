@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 35812,
+  "2024-04-12": 35819,
   "date_first_scraped": "2022-03-28",
   "description": "Top English songs from Asia. Cover: Derek & The Cats, Frizzell D'souza",
   "name": "IndiEnglish",
@@ -3989,7 +3989,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 251709,
       "name": "Remember",
       "url": "https://open.spotify.com/track/7KkKCRrs1BaeA9aug5OKLX"
@@ -4751,7 +4751,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 154894,
       "name": "sushi song",
       "url": "https://open.spotify.com/track/5scUVb02Ea6aph7XAb2I7X"

@@ -1,12 +1,12 @@
 {
-  "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 383966,
+  "description": "This Is The Offspring. Los temas esenciales, todos en una lista.",
+  "num_followers": 384060,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjMwYWE2N2RiNzg0Mzg3YzE3MmIxMmMyM2ZmY2QyMmMxOTdkZDIz",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMGM0YzI3MzA4OWRhYjBhYzAxYjcxZTAwMjQ5N2I5MzVm",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let The Bad Times Roll (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Let The Bad Times Roll",
-      "url": "https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 232160,
       "name": "Gotta Get Away",
       "url": "https://open.spotify.com/track/0vQPY1VCcvZa2Mm6QM63Le"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Let The Bad Times Roll",
+      "url": "https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let The Bad Times Roll (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 228586,
-      "name": "Coming For You",
-      "url": "https://open.spotify.com/track/0FLmCEO4OccwwiHxveEpt1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 223906,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/5tFzUj1jV09bo4wBQWSbDl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 228586,
+      "name": "Coming For You",
+      "url": "https://open.spotify.com/track/0FLmCEO4OccwwiHxveEpt1"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conspiracy Of One",
-        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 165146,
-      "name": "One Fine Day",
-      "url": "https://open.spotify.com/track/0sRviro3ekvHWmPqT2uYFP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 146960,
       "name": "Nitro (Youth Energy)",
       "url": "https://open.spotify.com/track/6LjDGj9Hn5ERX3uhrT9LGV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Conspiracy Of One",
+        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 165146,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/0sRviro3ekvHWmPqT2uYFP"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conspiracy Of One",
-        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 219800,
-      "name": "Million Miles Away",
-      "url": "https://open.spotify.com/track/6tNeHmedp9qo3BsBp5zOPe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
@@ -463,38 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Go By",
-        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 248413,
-      "name": "The Future Is Now",
-      "url": "https://open.spotify.com/track/2B17416FS7vL5qljgqfm7L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 206520,
-      "name": "Can't Repeat",
-      "url": "https://open.spotify.com/track/4K20nocu6gubbWYiuCR23K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Conspiracy Of One",
         "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
       },
@@ -504,25 +456,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 168893,
-      "name": "Dammit, I Changed Again",
-      "url": "https://open.spotify.com/track/2wInvm8hrvonqyArYUIpvi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let The Bad Times Roll (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Behind Your Walls",
-      "url": "https://open.spotify.com/track/0bfpMVuGjXbkZonmvymDSv"
+      "duration_ms": 219800,
+      "name": "Million Miles Away",
+      "url": "https://open.spotify.com/track/6tNeHmedp9qo3BsBp5zOPe"
     },
     {
       "added_at": null,
@@ -552,9 +488,25 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 228240,
-      "name": "Defy You",
-      "url": "https://open.spotify.com/track/5VBVIcMh6CWy8szP3U0Ttp"
+      "duration_ms": 206520,
+      "name": "Can't Repeat",
+      "url": "https://open.spotify.com/track/4K20nocu6gubbWYiuCR23K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Behind Your Walls",
+      "url": "https://open.spotify.com/track/0bfpMVuGjXbkZonmvymDSv"
     },
     {
       "added_at": null,
@@ -568,9 +520,41 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 167240,
-      "name": "Come Out Swinging",
-      "url": "https://open.spotify.com/track/3T8Ht5f3xUejqEctN3RGb6"
+      "duration_ms": 168893,
+      "name": "Dammit, I Changed Again",
+      "url": "https://open.spotify.com/track/2wInvm8hrvonqyArYUIpvi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Go By",
+        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 248413,
+      "name": "The Future Is Now",
+      "url": "https://open.spotify.com/track/2B17416FS7vL5qljgqfm7L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Defy You",
+      "url": "https://open.spotify.com/track/5VBVIcMh6CWy8szP3U0Ttp"
     },
     {
       "added_at": null,
@@ -587,6 +571,22 @@
       "duration_ms": 278440,
       "name": "Hammerhead",
       "url": "https://open.spotify.com/track/6LGeOxAohAJTZ0fxKXMqXa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Conspiracy Of One",
+        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 167240,
+      "name": "Come Out Swinging",
+      "url": "https://open.spotify.com/track/3T8Ht5f3xUejqEctN3RGb6"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let The Bad Times Roll (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 158333,
-      "name": "This Is Not Utopia",
-      "url": "https://open.spotify.com/track/7JmbtvmRa0ujQc7HXesX5G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rise And Fall, Rage And Grace",
         "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 179506,
       "name": "Takes Me Nowhere",
       "url": "https://open.spotify.com/track/0IsjJJXTH3DzoQ13M3kK2A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 158333,
+      "name": "This Is Not Utopia",
+      "url": "https://open.spotify.com/track/7JmbtvmRa0ujQc7HXesX5G"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Go By",
-        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Days Go By",
-      "url": "https://open.spotify.com/track/0wDgnPr6qmNH3I9EGsIRu2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rise And Fall, Rage And Grace",
         "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 222866,
       "name": "Kristy, Are You Doing Okay?",
       "url": "https://open.spotify.com/track/616cVydBdvTudiKpoWs0WY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Go By",
+        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Days Go By",
+      "url": "https://open.spotify.com/track/0wDgnPr6qmNH3I9EGsIRu2"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Go By",
-        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 240213,
-      "name": "Dirty Magic",
-      "url": "https://open.spotify.com/track/0iRJc27fHvcDd7D3mUlZZX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ignition",
         "url": "https://open.spotify.com/album/1obNbVrcFQ00nbmC1ZsJT3"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 196373,
       "name": "Kick Him When He's Down",
       "url": "https://open.spotify.com/track/5r5pPZLoablansl2iYPohk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Go By",
+        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 240213,
+      "name": "Dirty Magic",
+      "url": "https://open.spotify.com/track/0iRJc27fHvcDd7D3mUlZZX"
     },
     {
       "added_at": null,

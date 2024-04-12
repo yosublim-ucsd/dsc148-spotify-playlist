@@ -1,12 +1,12 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 11344,
+  "num_followers": 11349,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDc0MTVjMTU2NmJhZDNkNDQ5YWY3MDg4MzJkOGIyZThiZTcwYzIy",
+  "snapshot_id": "MTY5OTU4NTM4MCwwMDAwMDAwMDAzODNiNjcxMzM2MDY0MmUwOTg4MGQ4Nzg3ZGFmZjI0",
   "tracks": [
     {
       "added_at": "2023-11-10 03:03:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Sem Sono",
+        "url": "https://open.spotify.com/album/1nHAqV2yyqPui5o8v13T5t"
+      },
+      "artists": [
+        {
+          "name": "Martinelli",
+          "url": "https://open.spotify.com/artist/3iSJjv1yv9EwpaTIfiuJ4L"
+        }
+      ],
+      "duration_ms": 337643,
+      "name": "Sem Sono",
+      "url": "https://open.spotify.com/track/0tnTG94G8PnaWUUkX79zqx"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Laiarai\u00e1 (Remixes)",
         "url": "https://open.spotify.com/album/7nnfxrjhpD6t0lyuW7JYix"
       },
@@ -807,34 +823,18 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Sem Sono",
-        "url": "https://open.spotify.com/album/1nHAqV2yyqPui5o8v13T5t"
+        "name": "Maytrea",
+        "url": "https://open.spotify.com/album/0B2eoVhFKrsHBraDO7p8mC"
       },
       "artists": [
         {
-          "name": "Martinelli",
-          "url": "https://open.spotify.com/artist/3iSJjv1yv9EwpaTIfiuJ4L"
+          "name": "Art in Motion",
+          "url": "https://open.spotify.com/artist/4y3VghKwwjmfAUHo3G5rvP"
         }
       ],
-      "duration_ms": 337643,
-      "name": "Sem Sono",
-      "url": "https://open.spotify.com/track/0tnTG94G8PnaWUUkX79zqx"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Kengaral Eletrohits, Vol. 2",
-        "url": "https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC"
-      },
-      "artists": [
-        {
-          "name": "Diaz",
-          "url": "https://open.spotify.com/artist/0iT0OQnrYcfJ5nCee7jbGX"
-        }
-      ],
-      "duration_ms": 247083,
-      "name": "Passa a Lata de L\u00f3lo",
-      "url": "https://open.spotify.com/track/3j3Qy9Xc8Lpy5xxZ0nwgRq"
+      "duration_ms": 452106,
+      "name": "Maytrea",
+      "url": "https://open.spotify.com/track/77xfpj0U5Bb8Am1gcx5Mbb"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -851,22 +851,6 @@
       "duration_ms": 453333,
       "name": "Sobre Tum Tum Ta",
       "url": "https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Maytrea",
-        "url": "https://open.spotify.com/album/0B2eoVhFKrsHBraDO7p8mC"
-      },
-      "artists": [
-        {
-          "name": "Art in Motion",
-          "url": "https://open.spotify.com/artist/4y3VghKwwjmfAUHo3G5rvP"
-        }
-      ],
-      "duration_ms": 452106,
-      "name": "Maytrea",
-      "url": "https://open.spotify.com/track/77xfpj0U5Bb8Am1gcx5Mbb"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -891,18 +875,34 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Ghetto Hong Kong",
-        "url": "https://open.spotify.com/album/6D1PHgImMxDMtKCSznl6L8"
+        "name": "Kengaral Eletrohits, Vol. 2",
+        "url": "https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC"
       },
       "artists": [
         {
-          "name": "Agrabah",
-          "url": "https://open.spotify.com/artist/24lbhcjEJEOInrDEAGZfE6"
+          "name": "Diaz",
+          "url": "https://open.spotify.com/artist/0iT0OQnrYcfJ5nCee7jbGX"
         }
       ],
-      "duration_ms": 365082,
-      "name": "Madame Kabukicho",
-      "url": "https://open.spotify.com/track/5wdbMg0l4UIig9nnkRVQOz"
+      "duration_ms": 247083,
+      "name": "Passa a Lata de L\u00f3lo",
+      "url": "https://open.spotify.com/track/3j3Qy9Xc8Lpy5xxZ0nwgRq"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "V.Acina, Vol.1",
+        "url": "https://open.spotify.com/album/7HQdcJ7vVn4peTFqTrLe54"
+      },
+      "artists": [
+        {
+          "name": "Brisa Busters",
+          "url": "https://open.spotify.com/artist/1aljmjX3dsFm1MGihqcxoP"
+        }
+      ],
+      "duration_ms": 396922,
+      "name": "Eu Vou Surfar Na Pista",
+      "url": "https://open.spotify.com/track/2ZLNBOe9ytRcrHlqNrqBfL"
     }
   ],
   "unique_name": "Front BR",

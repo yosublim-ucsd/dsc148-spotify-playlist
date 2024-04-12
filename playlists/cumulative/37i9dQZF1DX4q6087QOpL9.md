@@ -4,7 +4,7 @@
 
 > That real soulful house sound\. Cover: Kerri Chandler
 
-230 songs - 1 day 1 hr 25 min
+231 songs - 1 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Power Of One](https://open.spotify.com/track/3UR5UresBbHljYFVOHm83m) | [Kelly G](https://open.spotify.com/artist/0xJk3iLNm8oNfKfrocZdwz), [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Power Of One](https://open.spotify.com/album/5Fvt14TezBeoJfE7TCxxef) | 3:59 | 2024-03-21 |  |
 | [Pride \(Main Mix\)](https://open.spotify.com/track/6g2O54hw97iNV0Y9kXdrAP) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Nadirah Shakoor](https://open.spotify.com/artist/6NxIOj0bsCWjW5mJGDEFwy) | [Pride](https://open.spotify.com/album/6KV80D3ILcPYRKetKucQ68) | 6:28 | 2023-11-04 |  |
 | [Pride \- Main Mix](https://open.spotify.com/track/51l17BzbgSXv4kEdQdzABO) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Nadirah Shakoor](https://open.spotify.com/artist/6NxIOj0bsCWjW5mJGDEFwy) | [Pride](https://open.spotify.com/album/43xDloRiOgJc41Vczj2uvG) | 6:29 | 2022-09-13 | 2023-11-05 |
-| [Rain \- Terry Hunter Rainy Daze Remix](https://open.spotify.com/track/6X91fIkR4u3cdB5nA74VSY) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w), [Charlotte Small](https://open.spotify.com/artist/25qKHla3850wXUL5ooWa2o) | [Rain](https://open.spotify.com/album/7if5T5GgLmQbe2uaZBcTAZ) | 8:17 | 2022-09-13 |  |
+| [Rain \- Terry Hunter Rainy Daze Remix](https://open.spotify.com/track/6X91fIkR4u3cdB5nA74VSY) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w), [Charlotte Small](https://open.spotify.com/artist/25qKHla3850wXUL5ooWa2o) | [Rain](https://open.spotify.com/album/7if5T5GgLmQbe2uaZBcTAZ) | 8:17 | 2022-09-13 | 2024-04-12 |
 | [Reach 4 Freedom \- DF's Vocal Mix](https://open.spotify.com/track/54X05f5d050gA2NYxvBvqk) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi) | [House Legends](https://open.spotify.com/album/7iKMqmzTBogRrZZTGo36WH) | 8:27 | 2024-03-11 |  |
 | [Reach 4 Freedom \- DF's Vocal Mix](https://open.spotify.com/track/0ZEcI78PzxOXJ7mY3cRQDV) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi) | [Abstract Jazz Journey EP 2](https://open.spotify.com/album/1aPp2W2uo2oe9XdjsSJPZR) | 8:27 | 2022-09-13 | 2024-03-06 |
 | [Reach Up \- Original Mix](https://open.spotify.com/track/7AB802Sv78ZnmkgfSj8YdN) | [Luis Radio](https://open.spotify.com/artist/5SPeKTZ46MUeEfuYHKskyS) | [Reach Up](https://open.spotify.com/album/0nIUCZYTx2DB6acEsp0paN) | 5:19 | 2024-03-06 |  |
@@ -224,6 +224,7 @@
 | [Turn Me On](https://open.spotify.com/track/7aUlBqAHppttybHHYrefZk) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Turn Me On / Come To Me](https://open.spotify.com/album/2wVWjbRa5CuecQyf9Iu6en) | 7:25 | 2022-09-13 | 2023-04-29 |
 | [Turn Me On](https://open.spotify.com/track/2zh8futZbM4gJ9x4ZV8Yu6) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Bucie](https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG) | [Turn Me On](https://open.spotify.com/album/2H7dJqD0zZPrMdVrPHNpdY) | 7:25 | 2023-03-07 | 2023-09-07 |
 | [Ugly Part of Me \- Terry Hunter Mix](https://open.spotify.com/track/0N0lb2ExXb6eCRwLVrpBRJ) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Avery\*Sunshine Summer EP](https://open.spotify.com/album/0sLbMeLCTvBYnQv1YWb7NM) | 7:21 | 2022-09-13 |  |
+| [Waiting For Your Love \- Soulmekanikz Remix](https://open.spotify.com/track/2kXEbeveGtsrlBaSE1fQEc) | [Anna\-Marie Johnson](https://open.spotify.com/artist/5f90YJ8NEJnVppyncZ2CT1), [Soulmekanikz](https://open.spotify.com/artist/3GZ33s9dYiEWyGHdn50Tzi) | [Waiting For Your Love](https://open.spotify.com/album/5v6jSrVXvTp6FEiEUKW372) | 3:42 | 2024-04-11 |  |
 | [Want You In My Soul](https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR) | [Lovebirds](https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui), [Stee Downes](https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ) | [Want You In My Soul](https://open.spotify.com/album/2s4lZOcIMe1MN2X9w1qeML) | 8:17 | 2022-09-13 |  |
 | [Warning \- Radio Edit](https://open.spotify.com/track/0UGEJhHc5CwI2BmbPTGq72) | [Terry Hunter](https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu), [Reelsoul](https://open.spotify.com/artist/2BrpHfecMN0szTiQ0H0sWE), [DJ Spen](https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Warning \(Radio Edit\)](https://open.spotify.com/album/05hqHQOPleFvNzVddVR7YD) | 3:52 | 2023-09-06 |  |
 | [Watch Them Come \(Men from the Nile aka Roy Davis Jr.\)](https://open.spotify.com/track/6SNja7FTHw7sazeyKqdk28) | [Men From The Nile](https://open.spotify.com/artist/40dtUsUbqQfyoQ6Ec5XpYO) | [The Afro Club Night](https://open.spotify.com/album/0BT0H5aadr5TFW8pl4yY4K) | 5:35 | 2022-09-13 |  |

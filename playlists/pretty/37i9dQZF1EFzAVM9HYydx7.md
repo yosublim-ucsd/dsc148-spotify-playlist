@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,463 likes - 275 songs - 16 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,466 likes - 275 songs - 16 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 89 | [Needle \(feat\. Drake\)](https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:55 |
 | 90 | [King Of My City](https://open.spotify.com/track/3o0nkjyy6eZL5lZcEpvJec) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 2:28 |
 | 91 | [Seduction](https://open.spotify.com/track/2V7NoXGv2VDnLeTM7w8SFd) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:35 |
-| 92 | [All Things Go](https://open.spotify.com/track/0MVUm3Nied9ocRAkDjRWvP) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Pinkprint \(Deluxe\)](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) | 4:53 |
+| 92 | [All Things Go](https://open.spotify.com/track/1lW62Z2BOtL2xl3PR68AEk) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Pinkprint](https://open.spotify.com/album/1IOHcoY4gPRECxpIhVGmuq) | 4:53 |
 | 93 | [Schemin Up \(feat\. Drake and P\. Reign\)](https://open.spotify.com/track/6wBpgsERq6XpJfIjWXOrnn) | [OB OBrien](https://open.spotify.com/artist/4thGcsymOK5oc43gJVtAqZ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [Schemin Up \(feat\. Drake and P\. Reign\)](https://open.spotify.com/album/4dPN67UqCc7dcCly1UeNKQ) | 5:30 |
 | 94 | [The Resistance](https://open.spotify.com/track/0llA0pYA6GpGk7fTjew0wO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 3:45 |
 | 95 | [Fireworks](https://open.spotify.com/track/73tgFzBug5Ifk1Retdtwk7) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 5:13 |
@@ -251,8 +251,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 241 | [Lifestyles of the Rich & Hated \(feat\. Rick Ross\)](https://open.spotify.com/track/1KvKPSssiIgALGatBVmlCj) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [When It's Dark Out \(Deluxe Edition\)](https://open.spotify.com/album/5a4Yx5hc7VRHUBeNX56euP) | 3:54 |
 | 242 | [Pressure](https://open.spotify.com/track/54MQ4xMvsIfWpJ314JytMD) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [A 64 East Saga](https://open.spotify.com/album/6rNaEOcCOyzFJfNTAp1SS8) | 2:39 |
 | 243 | [Suicidal Thoughts](https://open.spotify.com/track/5Sr7LOgvXpogQurC38FKcN) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Kiss The Ring \(Deluxe\)](https://open.spotify.com/album/1KDc01X8ZF9VYqVW6c4lvr) | 3:14 |
-| 244 | [Burning Rubber](https://open.spotify.com/track/6rBxl8ZgnXCDZVhzLEBTAG) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead](https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR) | 2:43 |
-| 245 | [Light Of My Soul](https://open.spotify.com/track/0vwt7L8myy4EIJDiHVMK0X) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [We Only Talk About Real Shit When We're Fucked Up](https://open.spotify.com/album/3kXP7albhNo2neJAivDwxk) | 3:36 |
+| 244 | [Light Of My Soul](https://open.spotify.com/track/0vwt7L8myy4EIJDiHVMK0X) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [We Only Talk About Real Shit When We're Fucked Up](https://open.spotify.com/album/3kXP7albhNo2neJAivDwxk) | 3:36 |
+| 245 | [Burning Rubber](https://open.spotify.com/track/6rBxl8ZgnXCDZVhzLEBTAG) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead](https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR) | 2:43 |
 | 246 | [Can't Stop](https://open.spotify.com/track/31BoeyQtnaoqRHsCMKyOtK) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs) | [We The Best Forever](https://open.spotify.com/album/7FyxsUO4kVqRfo2ne1aUOg) | 2:49 |
 | 247 | [Options](https://open.spotify.com/track/5AbFf7bcqyFFCSQh3az5XX) | [Quincy](https://open.spotify.com/artist/19dpHprxtijzCuWbrtmGrL), [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda) | [Options](https://open.spotify.com/album/3bna9MFciOVPiqMzjZ24AO) | 2:59 |
 | 248 | [Maison](https://open.spotify.com/track/5Fp1CtbZMoCKyIyojRRjC8) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [Up For Days](https://open.spotify.com/album/7MH5ah4TuR5b7ENaloxEtr) | 3:18 |
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 274 | [My Life](https://open.spotify.com/track/659VW7lp1PC9EogVmyy2NW) | [KO](https://open.spotify.com/artist/0QsGiZaEitDoqU4AQJhPqF) | [My Life](https://open.spotify.com/album/62ZHBhUPSiyGbG9TFE5BPk) | 3:20 |
 | 275 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `Mjg1NDY3MDAsMDAwMDAwMDBjMzk3NmZjMTAwYzMzYWFlNDY4ZjMzYTIzN2RkMDIzNw==`
+Snapshot ID: `Mjg1NDgxNDAsMDAwMDAwMDBmOTk4ZmU2NWY3N2M0MmM3YWJhOGVhNTU4NDcwMzliMw==`

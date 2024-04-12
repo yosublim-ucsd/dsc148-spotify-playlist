@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > 20 new tracks added by Wisp to celebrate her new EP Pandora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,736 likes - 125 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,944 likes - 125 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 124 | [Avalon](https://open.spotify.com/track/5Zs526IB2ezqyXc9WthLuY) | [Zeruel](https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu) | [Avalon](https://open.spotify.com/album/6193L5p5jwFGW6ivHCxMkX) | 2:56 |
 | 125 | [Slumbernumb](https://open.spotify.com/track/3bcQvxrW59PlemA7rrPm2G) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Slumbernumb](https://open.spotify.com/album/7ItF9Bbj5JzCVqNv1nOp4p) | 3:09 |
 
-Snapshot ID: `MCxiZWVhNzBhNThiNzk3ZTNkNjgzODNkOTE4ODVkMjM2MjVlMjdiNzBk`
+Snapshot ID: `MTcxMjI4OTYwMCwwMDAwMDAwMDUyNmQzOWM2NWMzNGMxZjY4ZGE2NzNmMWY1N2I0ZTJh`

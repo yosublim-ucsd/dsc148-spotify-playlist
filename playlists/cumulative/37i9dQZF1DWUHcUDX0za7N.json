@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "Shakespopi",
+        "url": "https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160375,
+      "name": "ASAP",
+      "url": "https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk"
+    },
+    {
+      "album": {
         "name": "Gbagada Express",
         "url": "https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd"
       },
@@ -952,6 +970,32 @@
       "duration_ms": 233571,
       "name": "BLOOD ON THE DANCE FLOOR (feat. Bloody Civilian and Wale)",
       "url": "https://open.spotify.com/track/35MU2MEhQMw0NhXZztAP9m"
+    },
+    {
+      "album": {
+        "name": "Blow My Cover",
+        "url": "https://open.spotify.com/album/050KMVbrfE1FfgzKv2bdYs"
+      },
+      "artists": [
+        {
+          "name": "Global Neil ENT",
+          "url": "https://open.spotify.com/artist/4FytKf4mpfsTSRdqCldLmQ"
+        },
+        {
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+        },
+        {
+          "name": "Prettyboy D-O",
+          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126344,
+      "name": "Blow My Cover",
+      "url": "https://open.spotify.com/track/2vQQibREgJ2bST3KqzSQdt"
     },
     {
       "album": {
@@ -3310,7 +3354,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 222000,
       "name": "If They Are Real",
       "url": "https://open.spotify.com/track/4nlA1i2haXMOxCHBRAVx2j"
@@ -4306,7 +4350,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 165851,
       "name": "Money",
       "url": "https://open.spotify.com/track/4Keazb2IMSuk05NiI2D2qE"
@@ -4422,7 +4466,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 186906,
       "name": "My Bro",
       "url": "https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh"
@@ -6368,6 +6412,28 @@
       "duration_ms": 103750,
       "name": "SHINE FOREVER",
       "url": "https://open.spotify.com/track/5GU7NV6PiTRmxWb0Q5D4eH"
+    },
+    {
+      "album": {
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Showcase (feat. Blaqbonez)",
+      "url": "https://open.spotify.com/track/2OXu4ZL9eNoBQiVVPe9Wn3"
     },
     {
       "album": {

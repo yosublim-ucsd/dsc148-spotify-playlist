@@ -1,12 +1,12 @@
 {
   "description": "Our editors' picks of best tracks of 2023 by independent, developing artists from around the world. Cover: Searows\n",
-  "num_followers": 3418,
+  "num_followers": 3434,
   "original_name": "Fresh Finds: Class of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjkzZjQ0YzQwOGFlZWMzM2JkNTA3ZjhjODkxZWQ1ZmJjM2M3M2U4",
+  "snapshot_id": "MTcwNDkwMjc5NSwwMDAwMDAwMGFlNDExOGJjZjhjYmE1OWY0OTYyYWQwZjRjZmFlMWRl",
   "tracks": [
     {
       "added_at": "2024-01-10 16:06:35",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Art House",
-        "url": "https://open.spotify.com/album/6xFQACinH8dNlzhKaRCfua"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Art House",
-      "url": "https://open.spotify.com/track/1Qq0KLUDks1te934eJpbeV"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "The Rebirth Of Marvin",
         "url": "https://open.spotify.com/album/0AjhGOAPLNOJtBm1HiVYLo"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 202826,
       "name": "Back To Your Place",
       "url": "https://open.spotify.com/track/5BzADVUCRuxiPz2ah64RLk"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Art House",
+        "url": "https://open.spotify.com/album/6xFQACinH8dNlzhKaRCfua"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Art House",
+      "url": "https://open.spotify.com/track/1Qq0KLUDks1te934eJpbeV"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Menghargai Kata Rindu",
-        "url": "https://open.spotify.com/album/6ZttUG5J6ohmAPaudE74Au"
-      },
-      "artists": [
-        {
-          "name": "Nabila Taqiyyah",
-          "url": "https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "Menghargai Kata Rindu",
-      "url": "https://open.spotify.com/track/7dJXDo04rMWbfIepBGTfi0"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "DECLAN RICE",
         "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 124000,
       "name": "DECLAN RICE",
       "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Menghargai Kata Rindu",
+        "url": "https://open.spotify.com/album/6ZttUG5J6ohmAPaudE74Au"
+      },
+      "artists": [
+        {
+          "name": "Nabila Taqiyyah",
+          "url": "https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "Menghargai Kata Rindu",
+      "url": "https://open.spotify.com/track/7dJXDo04rMWbfIepBGTfi0"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "BLOOD",
-        "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
-      },
-      "artists": [
-        {
-          "name": "Sean Leon",
-          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
-        }
-      ],
-      "duration_ms": 123966,
-      "name": "BLOOD",
-      "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Times It By Two",
         "url": "https://open.spotify.com/album/296rlA2qhO9UrAxy7u9MNk"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 205743,
       "name": "Times It By Two",
       "url": "https://open.spotify.com/track/2PG64K0mmStEaVEARRurQm"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "BLOOD",
+        "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        }
+      ],
+      "duration_ms": 123966,
+      "name": "BLOOD",
+      "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Anyway",
-        "url": "https://open.spotify.com/album/5BDJXhWGt1RwSY7MOEAshC"
-      },
-      "artists": [
-        {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
-        }
-      ],
-      "duration_ms": 223231,
-      "name": "Anyway",
-      "url": "https://open.spotify.com/track/6CkE4wWUVQ5Hdnbfm2pOmF"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Erotic Probiotic 2",
         "url": "https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 246626,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Anyway",
+        "url": "https://open.spotify.com/album/5BDJXhWGt1RwSY7MOEAshC"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "duration_ms": 223231,
+      "name": "Anyway",
+      "url": "https://open.spotify.com/track/6CkE4wWUVQ5Hdnbfm2pOmF"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
+        "name": "let me go*",
+        "url": "https://open.spotify.com/album/1G2wWDw7j1NQHDScKlvkAK"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "let me go*",
+      "url": "https://open.spotify.com/track/6YuYrLiDFsUxyxZONZMVn0"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
         "name": "Talk to Me",
         "url": "https://open.spotify.com/album/05wLs4epCt9e5RKsmDJ8Zo"
       },
@@ -1311,18 +1327,18 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "let me go*",
-        "url": "https://open.spotify.com/album/1G2wWDw7j1NQHDScKlvkAK"
+        "name": "Best Case Girl",
+        "url": "https://open.spotify.com/album/4xPgs4mLTECXBQEjEkq5mu"
       },
       "artists": [
         {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+          "name": "Beeson",
+          "url": "https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8"
         }
       ],
-      "duration_ms": 139354,
-      "name": "let me go*",
-      "url": "https://open.spotify.com/track/6YuYrLiDFsUxyxZONZMVn0"
+      "duration_ms": 171500,
+      "name": "Best Case Girl",
+      "url": "https://open.spotify.com/track/7keAG1RvGg0pd3CExIVwu0"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1355,22 +1371,6 @@
       "duration_ms": 228600,
       "name": "Falling Behind",
       "url": "https://open.spotify.com/track/2bgIuOQEKQZ6TDDiMMJbfX"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
-        "name": "Best Case Girl",
-        "url": "https://open.spotify.com/album/4xPgs4mLTECXBQEjEkq5mu"
-      },
-      "artists": [
-        {
-          "name": "Beeson",
-          "url": "https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "Best Case Girl",
-      "url": "https://open.spotify.com/track/7keAG1RvGg0pd3CExIVwu0"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Funny Black Lines",
-        "url": "https://open.spotify.com/album/6JaQdJcEU4rzdq3NjWDo7N"
-      },
-      "artists": [
-        {
-          "name": "Kieran Campbell",
-          "url": "https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK"
-        }
-      ],
-      "duration_ms": 178826,
-      "name": "Funny Black Lines",
-      "url": "https://open.spotify.com/track/6X6Znaazqzi1EHrGKPz2n2"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "styrofoam",
         "url": "https://open.spotify.com/album/0gSptDCMS0E8RuYLGr7WML"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 184221,
       "name": "styrofoam",
       "url": "https://open.spotify.com/track/1ZakuNLOHhoPOlMjCNG5w9"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Funny Black Lines",
+        "url": "https://open.spotify.com/album/6JaQdJcEU4rzdq3NjWDo7N"
+      },
+      "artists": [
+        {
+          "name": "Kieran Campbell",
+          "url": "https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK"
+        }
+      ],
+      "duration_ms": 178826,
+      "name": "Funny Black Lines",
+      "url": "https://open.spotify.com/track/6X6Znaazqzi1EHrGKPz2n2"
     },
     {
       "added_at": "2024-01-10 16:06:35",

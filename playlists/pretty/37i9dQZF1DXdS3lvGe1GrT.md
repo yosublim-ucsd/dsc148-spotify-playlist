@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Kara Jackson performing at Fresh Finds Chicago March, 2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,830 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,909 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Anytime](https://open.spotify.com/track/52yPZ3t6X2ZbY8m818Roxe) | [Cameron Sonnier](https://open.spotify.com/artist/2pTieEpWjwvRiaR3ZI9sDw) | [Anytime](https://open.spotify.com/album/21uNaBlOGtnuuZT219MsY7) | 4:52 |
 | 100 | [Hand Me Downs](https://open.spotify.com/track/2YCTEg3wqbMyiug6vg2uCJ) | [Laurs](https://open.spotify.com/artist/7I2CFnjp7Xh3iOKUmbakbk) | [Hand Me Downs](https://open.spotify.com/album/47i5TjzJsUUGgs8bzvQ1jf) | 4:46 |
 
-Snapshot ID: `MCw1NmU1YjAxYjBjZDFmNzc4NzkwYjM0MTMwNjQ4OGFiMDY5NzJhNjYw`
+Snapshot ID: `MTcxMjcyMTYwMCwwMDAwMDAwMDA5YzNiMWI3MmNjMGMyYjg2MDIwODYzMWM3ZDA5Mzgw`

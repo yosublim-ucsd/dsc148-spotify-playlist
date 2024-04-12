@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 449770,
+  "2024-04-12": 449812,
   "date_first_scraped": "2021-12-21",
   "description": "Set the scene for romance with beautiful classical music. ",
   "name": "Classical Romance",
@@ -816,6 +816,24 @@
     },
     {
       "album": {
+        "name": "Tchaikovksy: Piano Concerto No. 1",
+        "url": "https://open.spotify.com/album/6kWB1eBRomYBtAn7jYDmCQ"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216798,
+      "name": "Fr\u00fchlingsglaube (Arr. Franz Liszt)",
+      "url": "https://open.spotify.com/track/6jNL1rh8p3SVWYmosZxuWT"
+    },
+    {
+      "album": {
         "name": "Tchaikovsky: Piano Concerto No. 1",
         "url": "https://open.spotify.com/album/6CGw0GbQ3PyJhXxHlBVjSk"
       },
@@ -831,7 +849,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 216284,
       "name": "Fr\u00fchlingsglaube (Arr. Franz Liszt)",
       "url": "https://open.spotify.com/track/2EAgTVB2EdsMdqaqOk062L"

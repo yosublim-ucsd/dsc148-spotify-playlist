@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: Kraantje Pappie",
+  "description": "De nieuwste Nederlandse pop! Cover: Danique",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -411,6 +411,24 @@
     },
     {
       "album": {
+        "name": "Adem In, Adem Uit",
+        "url": "https://open.spotify.com/album/5Nufsh4togaizijSgMIW7X"
+      },
+      "artists": [
+        {
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "Adem In, Adem Uit",
+      "url": "https://open.spotify.com/track/0b4WkyO0shczSa82GQAnvG"
+    },
+    {
+      "album": {
         "name": "Adembenemend",
         "url": "https://open.spotify.com/album/0O471lCkhdDK2zr9LVyi4A"
       },
@@ -444,7 +462,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 202000,
       "name": "Al Heb Ik Mijn Dag Niet",
       "url": "https://open.spotify.com/track/4FoFIk9hoa38futUYCVAlC"
@@ -604,7 +622,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 169444,
       "name": "Alles Op Gevoel",
       "url": "https://open.spotify.com/track/2hCc09htDSAQobdmbYWryY"
@@ -1392,7 +1410,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 139737,
       "name": "Blauwe Maandag",
       "url": "https://open.spotify.com/track/6LflKewsKYkZ3ylzfSwHKF"
@@ -1558,7 +1576,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 160645,
       "name": "Blindelings",
       "url": "https://open.spotify.com/track/24Kh86Io6xp1jLwCRjjK4m"
@@ -1822,7 +1840,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 170504,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/1CYCk63BLjz4sGA8coNU6u"
@@ -2534,7 +2552,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 177362,
       "name": "diesel",
       "url": "https://open.spotify.com/track/3HNux7xnWN8BwV7Tr2zkml"
@@ -3019,6 +3037,24 @@
     },
     {
       "album": {
+        "name": "Sereen",
+        "url": "https://open.spotify.com/album/3wITyTdZonDkClhqDpzx2s"
+      },
+      "artists": [
+        {
+          "name": "Nobu",
+          "url": "https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Eindeloos",
+      "url": "https://open.spotify.com/track/1dwbLPTQKBtIQH2jpfurVv"
+    },
+    {
+      "album": {
         "name": "Elke Avond Feest",
         "url": "https://open.spotify.com/album/4LjBa0yk1oYtaOlwrbSVcZ"
       },
@@ -3052,6 +3088,24 @@
       "duration_ms": 140482,
       "name": "ELKE KEER",
       "url": "https://open.spotify.com/track/1HJQ9AiWo6PKbl9gG5JKFo"
+    },
+    {
+      "album": {
+        "name": "Eloise",
+        "url": "https://open.spotify.com/album/6wCab0sEdCH02C5LgY9c4q"
+      },
+      "artists": [
+        {
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/2m8UpPHNuamk6f8mgNHyU7"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134528,
+      "name": "Eloise",
+      "url": "https://open.spotify.com/track/3QGIkkjhRIhRwanFXkenW9"
     },
     {
       "album": {
@@ -3381,6 +3435,24 @@
     },
     {
       "album": {
+        "name": "Geen Afscheid",
+        "url": "https://open.spotify.com/album/4dOsneFTsRlUXPWVWrr7Ne"
+      },
+      "artists": [
+        {
+          "name": "Sarita Lorena",
+          "url": "https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Geen Afscheid",
+      "url": "https://open.spotify.com/track/2BwUN986gM7c7IidyCP9Dr"
+    },
+    {
+      "album": {
         "name": "Geen Spijt",
         "url": "https://open.spotify.com/album/2FzO6i5P5sSGjjSt3DIuxE"
       },
@@ -3684,7 +3756,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 215905,
       "name": "Haat Me",
       "url": "https://open.spotify.com/track/50ELw2DvK4J2Z02m0Vphed"
@@ -3702,7 +3774,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 141932,
       "name": "Handrem",
       "url": "https://open.spotify.com/track/4s72CMCZtnxbRIJPUzdC4C"
@@ -4785,6 +4857,24 @@
     },
     {
       "album": {
+        "name": "Je Hebt Me",
+        "url": "https://open.spotify.com/album/2yi7y3OKpF8ckliYQJjbDG"
+      },
+      "artists": [
+        {
+          "name": "Delany",
+          "url": "https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172689,
+      "name": "Je Hebt Me",
+      "url": "https://open.spotify.com/track/5SBIUbG9ksjffWW23BlxN2"
+    },
+    {
+      "album": {
         "name": "Je leeft maar 1 keer",
         "url": "https://open.spotify.com/album/1EgjIzMkAbsoxMdaYKq5xz"
       },
@@ -5428,7 +5518,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 138260,
       "name": "Laatste Keer",
       "url": "https://open.spotify.com/track/3OBDE2Zx4u2YZYd0PUUOGp"
@@ -5870,6 +5960,24 @@
       "duration_ms": 201031,
       "name": "Maken of Breken",
       "url": "https://open.spotify.com/track/3o8mKz6JvIxl08QXq6vyxQ"
+    },
+    {
+      "album": {
+        "name": "Mama Dankjewel",
+        "url": "https://open.spotify.com/album/4ggIWKdq8bfW2cO8T9SduC"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Bloom",
+          "url": "https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170306,
+      "name": "Mama Dankjewel",
+      "url": "https://open.spotify.com/track/59YKXDKbiCKeFE34dP2AFK"
     },
     {
       "album": {
@@ -7933,6 +8041,24 @@
     },
     {
       "album": {
+        "name": "Spijt",
+        "url": "https://open.spotify.com/album/3cJU4l6JLEJrjESpcMkgUQ"
+      },
+      "artists": [
+        {
+          "name": "Babs",
+          "url": "https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163018,
+      "name": "Spijt",
+      "url": "https://open.spotify.com/track/7d3nTgaCcWmvFVt8AhGAJO"
+    },
+    {
+      "album": {
         "name": "Aurelia (Deluxe)",
         "url": "https://open.spotify.com/album/685rvbfLSwlnFArXpendcy"
       },
@@ -8352,7 +8478,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 180039,
       "name": "Terug Naar Daar Waar De Zon Scheen",
       "url": "https://open.spotify.com/track/3TVjFBmMBHig54PN1JcRQz"
@@ -8684,6 +8810,24 @@
       "duration_ms": 150384,
       "name": "Tweeling",
       "url": "https://open.spotify.com/track/0K6NoPuA8DDFTduY5301rV"
+    },
+    {
+      "album": {
+        "name": "Un Chance",
+        "url": "https://open.spotify.com/album/7D6eElKu2eb6Tf73bnYESd"
+      },
+      "artists": [
+        {
+          "name": "Rolf Sanchez",
+          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172385,
+      "name": "Un Chance",
+      "url": "https://open.spotify.com/track/2r1MMDskd8NazaS6EgIhy8"
     },
     {
       "album": {
@@ -9385,6 +9529,28 @@
     },
     {
       "album": {
+        "name": "Waar Ben Je Bang Voor",
+        "url": "https://open.spotify.com/album/5HAfiOik2KpgQDhp8vzjWl"
+      },
+      "artists": [
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        },
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Waar Ben Je Bang Voor",
+      "url": "https://open.spotify.com/track/1N2qmVOdqt66SP0CT968G7"
+    },
+    {
+      "album": {
         "name": "Waarom",
         "url": "https://open.spotify.com/album/3fcUz2SzycRa0vTdhZmzkc"
       },
@@ -9400,6 +9566,24 @@
       "duration_ms": 194285,
       "name": "Waarom",
       "url": "https://open.spotify.com/track/3rg3zR2N2KWWyvpGUo78f6"
+    },
+    {
+      "album": {
+        "name": "in vertrouwen",
+        "url": "https://open.spotify.com/album/3ro70qeSO0Liu4kZ3Vldsy"
+      },
+      "artists": [
+        {
+          "name": "Danique",
+          "url": "https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203248,
+      "name": "waarom met haar",
+      "url": "https://open.spotify.com/track/2qodcGSBmMVTUhEnbyZ8my"
     },
     {
       "album": {
@@ -9502,7 +9686,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 183252,
       "name": "Wat Als De Storm Komt",
       "url": "https://open.spotify.com/track/1gEBvpvyyQmDeG6Lpo7cwN"
@@ -9578,6 +9762,24 @@
       "duration_ms": 180000,
       "name": "Wat Ik Met Je Moet",
       "url": "https://open.spotify.com/track/4tnR69RLKKnFHXwdoqhpLM"
+    },
+    {
+      "album": {
+        "name": "Wat Ik Ook Ga Doen",
+        "url": "https://open.spotify.com/album/4SQiHWRdAA9WfUF3tae3XY"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158694,
+      "name": "Wat Ik Ook Ga Doen",
+      "url": "https://open.spotify.com/track/35BBNYg2fEtgYjkgJrGcg1"
     },
     {
       "album": {

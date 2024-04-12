@@ -4,13 +4,14 @@
 
 > Vegas pool party vibes with a mix of the hottest Latin dance anthems of today.
 
-192 songs - 10 hr 0 min
+193 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Mí Me Encanta \(Tequila\)](https://open.spotify.com/track/7hOypPNirw4UFkCtCHAOou) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc) | [A Mí Me Encanta \(Tequila\)](https://open.spotify.com/album/3v2S4J6gKUF5oG8cQFXiNi) | 2:36 | 2022-05-11 | 2023-05-09 |
 | [AEIOU](https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [AEIOU](https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK) | 2:41 | 2023-05-08 |  |
-| [Aguila \(feat\. Cumbiafrica\)](https://open.spotify.com/track/1TAWywmhj68rLpor3w8J0X) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Aguila \(feat\. Cumbiafrica\)](https://open.spotify.com/album/6rqFLZcRn19VEwRQ6ERBFS) | 2:48 | 2023-09-01 |  |
+| [Aguila \(feat\. Cumbiafrica\)](https://open.spotify.com/track/1TAWywmhj68rLpor3w8J0X) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Aguila \(feat\. Cumbiafrica\)](https://open.spotify.com/album/6rqFLZcRn19VEwRQ6ERBFS) | 2:48 | 2023-09-01 | 2024-04-12 |
+| [Aguila \(feat\. Cumbiafrica\)](https://open.spotify.com/track/7MqutWIllOwYhtKOFhl5ST) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Aguila \(feat\. Cumbiafrica\)](https://open.spotify.com/album/1ewDn1vURADZMGulxAeeol) | 2:48 | 2023-09-01 |  |
 | [Aguila ft\. Cumbiafrica](https://open.spotify.com/track/6WLZljpPR8EiUT2LDubJ6T) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Aguila ft\. Cumbiafrica](https://open.spotify.com/album/3E02tEWunwSUsnGYw09IJs) | 2:48 | 2023-05-08 | 2023-11-11 |
 | [Alarm](https://open.spotify.com/track/76NnAWqSHapiaJmzBsHgIe) | [LeoRachi](https://open.spotify.com/artist/2a6rrIHLnzYWkiPkEDxyp8) | [Alarm](https://open.spotify.com/album/5cGMdUejaZJEiKeAVVAO3J) | 3:08 | 2022-05-11 | 2023-05-09 |
 | [All Nighter](https://open.spotify.com/track/3jksOdXCaDXyGiZ7L4YZbp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:14 | 2023-05-08 |  |

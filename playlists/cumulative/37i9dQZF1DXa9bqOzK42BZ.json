@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 330860,
       "name": "Action",
       "url": "https://open.spotify.com/track/3Kw2ogHWEVOln1I0COwKpx"
@@ -777,6 +777,28 @@
     },
     {
       "album": {
+        "name": "Kama Si We",
+        "url": "https://open.spotify.com/album/1q8AY8q98nPV8Rgkv5YSWw"
+      },
+      "artists": [
+        {
+          "name": "Kanjii Mbugua",
+          "url": "https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY"
+        },
+        {
+          "name": "Pambio",
+          "url": "https://open.spotify.com/artist/3EuZWendm4t9IRhkVCnrYs"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247246,
+      "name": "Kama Si We",
+      "url": "https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS"
+    },
+    {
+      "album": {
         "name": "Kama Si Wewe",
         "url": "https://open.spotify.com/album/406zuP4Ou96lLG9Stb5laf"
       },
@@ -872,6 +894,24 @@
       "duration_ms": 260064,
       "name": "Kumama Papa",
       "url": "https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2"
+    },
+    {
+      "album": {
+        "name": "Kwa Maombi",
+        "url": "https://open.spotify.com/album/6qppeKr28BhCBT464qRsF0"
+      },
+      "artists": [
+        {
+          "name": "Kenani",
+          "url": "https://open.spotify.com/artist/5k3oBkYy3nm3hHoUreIJ3O"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163199,
+      "name": "Kwa Maombi",
+      "url": "https://open.spotify.com/track/6vrlnd03PjPB5UGdHJTT14"
     },
     {
       "album": {
@@ -2350,7 +2390,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 218828,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/2CZNoaLPWNcIBjKkNlQ9GS"

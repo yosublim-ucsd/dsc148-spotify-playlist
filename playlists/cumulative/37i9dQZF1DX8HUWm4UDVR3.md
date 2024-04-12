@@ -2,9 +2,9 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Johnny Jane
+> La pop française annonce la couleur\. Photo : Charlotte Cardin
 
-163 songs - 8 hr 6 min
+165 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Baiser Amer](https://open.spotify.com/track/3cguuolaXUqJU7tUAEbFfZ) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Baiser Amer](https://open.spotify.com/album/7LP6H3F3QX3p3rCWecqbLK) | 2:37 | 2023-09-07 | 2023-10-13 |
 | [Bates Motel](https://open.spotify.com/track/6qW69hFqGopaoI2TQGxE1z) | [June The Girl](https://open.spotify.com/artist/5YAuSUk0Vn6sZBId4I9cni) | [Bates Motel](https://open.spotify.com/album/6Hotowgzqgg36cK3KAokNY) | 2:25 | 2024-03-07 |  |
 | [bbtumadores](https://open.spotify.com/track/5yqoaf3rsnWWeWhYWVQP17) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [bbtumadores](https://open.spotify.com/album/4WmnQJL9ALfQOetoBXUpdZ) | 2:40 | 2024-02-01 |  |
+| [Bbye](https://open.spotify.com/track/0huj0MRkufIVv1b3naAjav) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Attitude\(s\)](https://open.spotify.com/album/5dK5JOfILFFyqqPUzBuS58) | 3:16 | 2024-04-11 |  |
 | [Belle et douce](https://open.spotify.com/track/62EIK97xEvRVHCPMluN8bR) | [Enola Cox](https://open.spotify.com/artist/4FugFjuE5dLtKNtSbxe3gD) | [Mémoire d'un Été](https://open.spotify.com/album/59xVZaODpDUf84OtD7QwYJ) | 2:57 | 2023-12-21 |  |
 | [BEST LIFE](https://open.spotify.com/track/5Qjk0a7VO87YfIVacHJVgG) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [BEST LIFE](https://open.spotify.com/album/3lkMSvubaannkhFlv8lyg1) | 2:50 | 2023-11-30 | 2023-12-22 |
 | [Bonnie](https://open.spotify.com/track/1AQnssggAwAJTeV9hFzZHu) | [ALTA](https://open.spotify.com/artist/7dW8OtSsFavE9MUjqq4pSN) | [Nagasaki](https://open.spotify.com/album/7je4NzsgC07H1xxFZR0g8s) | 2:38 | 2023-09-28 | 2023-12-15 |
@@ -56,7 +57,7 @@
 | [En Tempête](https://open.spotify.com/track/2s3XdMAhUphgMcVsXb7VEk) | [Illa](https://open.spotify.com/artist/0aRBiwxscsF4yfu14Hs55O) | [En Tempête](https://open.spotify.com/album/7sH2SfPz71jhcqFE6N3eWD) | 3:21 | 2024-02-22 |  |
 | [encore + triste](https://open.spotify.com/track/2ppsKRsn8QJAjL5xr17Rcn) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Chansons \(+\) tristes](https://open.spotify.com/album/1lGhHAusdvuwsG81xS7khE) | 2:55 | 2023-07-27 | 2024-01-19 |
 | [Envie de toi](https://open.spotify.com/track/1zbEXE5iszVEJbalOERHTp) | [Charlie Motto](https://open.spotify.com/artist/6zdCsWv5dvlyaJhk0nMmfb) | [Envie de toi](https://open.spotify.com/album/3ZvaIqyBibuSGTINRkeUvM) | 3:00 | 2023-09-28 | 2023-11-25 |
-| [Essence Ivresse](https://open.spotify.com/track/6m5bb0HGuIJMAvnDnh7EGm) | [Abel](https://open.spotify.com/artist/4kitxzTDsGXkCybo2BIUnW) | [Essence Ivresse](https://open.spotify.com/album/0tPxztqibO6KQRaNnN8DNK) | 3:11 | 2024-02-08 |  |
+| [Essence Ivresse](https://open.spotify.com/track/6m5bb0HGuIJMAvnDnh7EGm) | [Abel](https://open.spotify.com/artist/4kitxzTDsGXkCybo2BIUnW) | [Essence Ivresse](https://open.spotify.com/album/0tPxztqibO6KQRaNnN8DNK) | 3:11 | 2024-02-08 | 2024-04-12 |
 | [Etoile noire](https://open.spotify.com/track/7D8lO8l8QLSKahYnuKK9ls) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [La vitesse](https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF) | 3:17 | 2023-07-27 | 2023-09-08 |
 | [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 | 2023-09-14 |  |
 | [FEEL GOOD](https://open.spotify.com/track/4818KPM4qB4jOHL3wCx4xv) | [Julien Granel](https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45) | [FEEL GOOD](https://open.spotify.com/album/0nUUsu6S1qzEjiTZ7ibxQF) | 3:19 | 2023-07-27 | 2023-10-13 |
@@ -84,6 +85,7 @@
 | [L'an prochain](https://open.spotify.com/track/5KcrRKstOkD5USI4wA2hEV) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [Jules Jaconelli](https://open.spotify.com/artist/5vQd9dKRdEZFKuMjtF4qoJ) | [L'an prochain](https://open.spotify.com/album/6kExkDePwNliVyZfXLRscx) | 3:20 | 2023-07-27 | 2023-09-22 |
 | [L'Atlantique](https://open.spotify.com/track/2M9JOD1W6AUSkbnpsDaWce) | [Opaline](https://open.spotify.com/artist/0Mp2rPC1xoRs63od7dflGV) | [L'Atlantique](https://open.spotify.com/album/7uzRSsf4pJDhkYqaSBDZ0W) | 2:46 | 2024-02-15 |  |
 | [L'été](https://open.spotify.com/track/3BsWBBgjhc9Iaqh74ffpTf) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [L'été](https://open.spotify.com/album/7xTNZ0EmI8hmzZLFwQRUAB) | 3:20 | 2023-10-05 | 2023-11-25 |
+| [La vie est longue](https://open.spotify.com/track/2McsyeHX5S2SyUFfb73J5Z) | [Juicy Cola](https://open.spotify.com/artist/6u9m2Ocxutj8gv7UJdwiWJ), [Orilia](https://open.spotify.com/artist/5NerLamEpJvx6k2iquvXHK) | [La vie est longue](https://open.spotify.com/album/1N83q5bGAu09JywfzvlYi3) | 2:37 | 2024-04-11 |  |
 | [Langue de P\*\*\*](https://open.spotify.com/track/3i9Pggk53qDhoMSV5CPmUk) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Langue de P\*\*\*](https://open.spotify.com/album/4CiDivdp3Wgi3isf1Soywy) | 2:44 | 2023-07-27 | 2023-10-13 |
 | [Le club des 27](https://open.spotify.com/track/4u7Vc3ia7XEhirbBk9BqRe) | [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [Le club des 27](https://open.spotify.com/album/18Q7ySQhJ4nDErcnQ7fTnj) | 3:12 | 2023-09-21 | 2024-01-19 |
 | [Le dessert en premier](https://open.spotify.com/track/1rJMWy4MeA2fo04H9O9YxU) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pause](https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46) | 2:38 | 2023-07-27 | 2024-01-12 |
@@ -93,7 +95,7 @@
 | [Le sport](https://open.spotify.com/track/327n10K86XlYJ6SNU92HLx) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI) | [Le sport](https://open.spotify.com/album/1eeXV77VD0bcIROCu4MAI0) | 3:08 | 2023-10-12 | 2023-11-17 |
 | [LE TEMPS DE VIVRE \(ENCORE PLUS FORT\)](https://open.spotify.com/track/2XVGJbLeWeKxsb8dN5sPH3) | [NACH](https://open.spotify.com/artist/1Rt8z1WIL486Ohrcokl6t0) | [LE TEMPS DE VIVRE \(ENCORE PLUS FORT\)](https://open.spotify.com/album/2ynHjQselUDztGQiXi8nFd) | 2:42 | 2024-01-18 | 2024-03-15 |
 | [Les insectes](https://open.spotify.com/track/17nHtKXQRXjyXb7YpFf9gB) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Les Royaumes Minuscules](https://open.spotify.com/album/3VGubAeKi1fg002fAta5rz) | 3:20 | 2023-07-27 | 2023-09-01 |
-| [Les silences](https://open.spotify.com/track/7ohHHewIJczp32oPYHl6wv) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [Et alors ?](https://open.spotify.com/album/2UKWuWCmesuNXNsFbdbEVw) | 3:43 | 2023-10-19 |  |
+| [Les silences](https://open.spotify.com/track/7ohHHewIJczp32oPYHl6wv) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [Et alors ?](https://open.spotify.com/album/2UKWuWCmesuNXNsFbdbEVw) | 3:43 | 2023-10-19 | 2024-04-12 |
 | [LIGNE D'ARRIVÉE](https://open.spotify.com/track/7apnTW8c5llW1ERH033ETy) | [TESSÆ](https://open.spotify.com/artist/4Rc4ZjE8dK1b794tfc3BIt) | [LIGNE D'ARRIVÉE](https://open.spotify.com/album/7LAKsgH2czlD90MDrUXEf2) | 2:58 | 2023-09-28 | 2024-01-19 |
 | [Loin de moi](https://open.spotify.com/track/39n7S9oaAPZ9JyVYaadset) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Loin de moi](https://open.spotify.com/album/3hwZ6kczuObzQxBBBk23CW) | 2:46 | 2023-10-12 | 2024-03-29 |
 | [LOVE'n'TENDRESSE](https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [LOVE'n'TENDRESSE](https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6) | 3:14 | 2023-09-07 |  |

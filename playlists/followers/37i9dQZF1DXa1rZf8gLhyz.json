@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 1269831,
+  "2024-04-12": 1270112,
   "date_first_scraped": "2021-12-21",
   "description": "Let these calm Jazz tracks lull you to sleep.",
   "name": "Jazz for Sleep",
@@ -1281,6 +1281,24 @@
       "duration_ms": 129205,
       "name": "Chemin de la lune",
       "url": "https://open.spotify.com/track/20uoDnTsBOXkPJd1TmjpqZ"
+    },
+    {
+      "album": {
+        "name": "Cherish the Night",
+        "url": "https://open.spotify.com/album/6Y9FHM9bhGbQeaNjuFrFwI"
+      },
+      "artists": [
+        {
+          "name": "Claire Martinelle",
+          "url": "https://open.spotify.com/artist/4cregPQpQ72XMMVzvvyiEl"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153717,
+      "name": "Cherish the Night",
+      "url": "https://open.spotify.com/track/5W3P7uSiJUZIlZxiYFUYam"
     },
     {
       "album": {
@@ -4377,6 +4395,24 @@
       "duration_ms": 197150,
       "name": "Later honey",
       "url": "https://open.spotify.com/track/0w4tcM6osjc6yykd0IqqYQ"
+    },
+    {
+      "album": {
+        "name": "Laura",
+        "url": "https://open.spotify.com/album/5CbJxOOZY2ecaVSDjSO8gb"
+      },
+      "artists": [
+        {
+          "name": "Eli M. Arnold",
+          "url": "https://open.spotify.com/artist/6Ed2TW5VpcnNBgafMeK2aA"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153437,
+      "name": "Laura",
+      "url": "https://open.spotify.com/track/5GeV5VHplD4jZ45hjkVKI8"
     },
     {
       "album": {
@@ -7531,6 +7567,24 @@
       "duration_ms": 159445,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb"
+    },
+    {
+      "album": {
+        "name": "Tender Moments",
+        "url": "https://open.spotify.com/album/5jMWuMhWDpXOjuEzAHLEHT"
+      },
+      "artists": [
+        {
+          "name": "Ward Stetson",
+          "url": "https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168374,
+      "name": "Tender Moments",
+      "url": "https://open.spotify.com/track/3kcML10JWRmtCovbUfiqvL"
     },
     {
       "album": {

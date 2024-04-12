@@ -1,12 +1,12 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 339684,
+  "num_followers": 339680,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjJlOGM2ZGEyZmMyYzU5ZDExYTQ1N2JhNTk3M2Q5ZWQzY2JiMDRh",
+  "snapshot_id": "MTY4NjkxOTY2NSwwMDAwMDAwMGFiMTQ1MmUyNDFhMzE1NTAzNTU4OWI1M2RhNzc4OGRm",
   "tracks": [
     {
       "added_at": "2023-01-17 01:33:36",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Assalto Perigoso",
+        "url": "https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs"
+      },
+      "artists": [
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+        }
+      ],
+      "duration_ms": 155417,
+      "name": "Assalto Perigoso",
+      "url": "https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Cobaia",
         "url": "https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 219442,
       "name": "Cobaia",
       "url": "https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Assalto Perigoso",
-        "url": "https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs"
-      },
-      "artists": [
-        {
-          "name": "Melody",
-          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
-        }
-      ],
-      "duration_ms": 155417,
-      "name": "Assalto Perigoso",
-      "url": "https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1259,22 +1259,18 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "S\u00e3o Jo\u00e3o 2018",
-        "url": "https://open.spotify.com/album/2vtTaoVQP4fGcblFZptHbH"
+        "name": "Devagarinho",
+        "url": "https://open.spotify.com/album/4gdw60lOahihgNIvaiH1mr"
       },
       "artists": [
         {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 172654,
-      "name": "Romance Com Safadeza",
-      "url": "https://open.spotify.com/track/0q4oI0SqCL4PpIO4AB5wUu"
+      "duration_ms": 137045,
+      "name": "Devagarinho",
+      "url": "https://open.spotify.com/track/0aZfIiaO3b2HTNxZ3sv1cg"
     },
     {
       "added_at": "2023-01-17 01:33:36",

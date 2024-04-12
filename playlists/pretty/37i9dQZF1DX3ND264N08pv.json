@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 72196,
+  "num_followers": 72215,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWFkYzBhM2ZkZTdhMmQ1ZjNkMDM2NjE5YTFlYjhiODMyNmM1ZmFj",
+  "snapshot_id": "MTcxMTQ2NjYwMywwMDAwMDAwMDNkYmUxYjdlODMzYTNkMGE5NWZlNTk5MmJhYzkyZDZm",
   "tracks": [
     {
       "added_at": "2024-03-26 15:23:23",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
-        "name": "Go Insane",
-        "url": "https://open.spotify.com/album/5StSF4OCsRGmOxa2Bm7c9d"
-      },
-      "artists": [
-        {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
-        },
-        {
-          "name": "Tha Watcher",
-          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
-        }
-      ],
-      "duration_ms": 198315,
-      "name": "Go Insane",
-      "url": "https://open.spotify.com/track/33jVtnlOdTUVN6Fc6MTSIS"
-    },
-    {
-      "added_at": "2024-03-26 15:23:23",
-      "album": {
         "name": "Mutilate",
         "url": "https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 230281,
       "name": "Mutilate",
       "url": "https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE"
+    },
+    {
+      "added_at": "2024-03-26 15:23:23",
+      "album": {
+        "name": "Go Insane",
+        "url": "https://open.spotify.com/album/5StSF4OCsRGmOxa2Bm7c9d"
+      },
+      "artists": [
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        },
+        {
+          "name": "Tha Watcher",
+          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
+        }
+      ],
+      "duration_ms": 198315,
+      "name": "Go Insane",
+      "url": "https://open.spotify.com/track/33jVtnlOdTUVN6Fc6MTSIS"
     },
     {
       "added_at": "2024-03-26 15:23:23",
@@ -1263,22 +1263,18 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
-        "name": "Adrenaline (Never Surrender Remix)",
-        "url": "https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9"
+        "name": "Force Of Salvation (Official Masters of Hardcore Austria 2023 Anthem)",
+        "url": "https://open.spotify.com/album/3frDN1XwkMYXIB504jjoKY"
       },
       "artists": [
         {
-          "name": "Neophyte Records All Stars",
-          "url": "https://open.spotify.com/artist/2hVZTYGteTg6wpyXg8TNeE"
-        },
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+          "name": "GridKiller",
+          "url": "https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7"
         }
       ],
-      "duration_ms": 167996,
-      "name": "Adrenaline - Never Surrender Remix",
-      "url": "https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5"
+      "duration_ms": 322666,
+      "name": "Force Of Salvation - Official Masters of Hardcore Austria 2023 Anthem",
+      "url": "https://open.spotify.com/track/56tEduBCyWPZ3gVAWONJCu"
     },
     {
       "added_at": "2024-03-26 15:23:23",
@@ -1303,18 +1299,22 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
-        "name": "Force Of Salvation (Official Masters of Hardcore Austria 2023 Anthem)",
-        "url": "https://open.spotify.com/album/3frDN1XwkMYXIB504jjoKY"
+        "name": "Adrenaline (Never Surrender Remix)",
+        "url": "https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9"
       },
       "artists": [
         {
-          "name": "GridKiller",
-          "url": "https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7"
+          "name": "Neophyte Records All Stars",
+          "url": "https://open.spotify.com/artist/2hVZTYGteTg6wpyXg8TNeE"
+        },
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
         }
       ],
-      "duration_ms": 322666,
-      "name": "Force Of Salvation - Official Masters of Hardcore Austria 2023 Anthem",
-      "url": "https://open.spotify.com/track/56tEduBCyWPZ3gVAWONJCu"
+      "duration_ms": 167996,
+      "name": "Adrenaline - Never Surrender Remix",
+      "url": "https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5"
     },
     {
       "added_at": "2024-03-26 15:23:23",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
-        "name": "Shadows in the Dark",
-        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
-      },
-      "artists": [
-        {
-          "name": "Re-Fuzz",
-          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
-        }
-      ],
-      "duration_ms": 288398,
-      "name": "Shadows in the Dark",
-      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
-    },
-    {
-      "added_at": "2024-03-26 15:23:23",
-      "album": {
         "name": "One Way",
         "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 205846,
       "name": "Here To Stay",
       "url": "https://open.spotify.com/track/6Zvj3BSyp3lwyw9uSqsGpr"
+    },
+    {
+      "added_at": "2024-03-26 15:23:23",
+      "album": {
+        "name": "Shadows in the Dark",
+        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
+      },
+      "artists": [
+        {
+          "name": "Re-Fuzz",
+          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
+        }
+      ],
+      "duration_ms": 288398,
+      "name": "Shadows in the Dark",
+      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
     },
     {
       "added_at": "2024-03-26 15:23:23",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
+        "name": "Woo",
+        "url": "https://open.spotify.com/album/3Zf6HFquFGMyFJrVCvp2bB"
+      },
+      "artists": [
+        {
+          "name": "Korsakoff",
+          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
+        }
+      ],
+      "duration_ms": 217652,
+      "name": "Woo",
+      "url": "https://open.spotify.com/track/0EpqkTQgogq6iHpeOwEoGh"
+    },
+    {
+      "added_at": "2024-03-26 15:23:23",
+      "album": {
         "name": "STRUGGLE TO SURVIVE (2023 RMX)",
         "url": "https://open.spotify.com/album/6Qfszcle60C258we00nyTG"
       },
@@ -1511,22 +1527,6 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
-        "name": "Woo",
-        "url": "https://open.spotify.com/album/3Zf6HFquFGMyFJrVCvp2bB"
-      },
-      "artists": [
-        {
-          "name": "Korsakoff",
-          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
-        }
-      ],
-      "duration_ms": 217652,
-      "name": "Woo",
-      "url": "https://open.spotify.com/track/0EpqkTQgogq6iHpeOwEoGh"
-    },
-    {
-      "added_at": "2024-03-26 15:23:23",
-      "album": {
         "name": "HIT IT",
         "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
       },
@@ -1539,22 +1539,6 @@
       "duration_ms": 164210,
       "name": "HIT IT",
       "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
-    },
-    {
-      "added_at": "2024-03-26 15:23:23",
-      "album": {
-        "name": "The Resurrection (Official Toxicator 2022 Anthem)",
-        "url": "https://open.spotify.com/album/0s4LZijzRcP42pi2QuqJaC"
-      },
-      "artists": [
-        {
-          "name": "Re-Fuzz",
-          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
-        }
-      ],
-      "duration_ms": 254075,
-      "name": "The Resurrection (Official Toxicator 2022 Anthem)",
-      "url": "https://open.spotify.com/track/1A86wZUo1CsjqycCQ8glen"
     },
     {
       "added_at": "2024-03-26 15:23:23",
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
+        "name": "The Resurrection (Official Toxicator 2022 Anthem)",
+        "url": "https://open.spotify.com/album/0s4LZijzRcP42pi2QuqJaC"
+      },
+      "artists": [
+        {
+          "name": "Re-Fuzz",
+          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
+        }
+      ],
+      "duration_ms": 254075,
+      "name": "The Resurrection (Official Toxicator 2022 Anthem)",
+      "url": "https://open.spotify.com/track/1A86wZUo1CsjqycCQ8glen"
+    },
+    {
+      "added_at": "2024-03-26 15:23:23",
+      "album": {
         "name": "Mysteries of Creation",
         "url": "https://open.spotify.com/album/0GBa0Z1qbfRGpQrNxcXpna"
       },
@@ -1587,6 +1587,22 @@
       "duration_ms": 197379,
       "name": "Mysteries of Creation",
       "url": "https://open.spotify.com/track/2fW70pWLS91PeHFp6BvsEk"
+    },
+    {
+      "added_at": "2024-03-26 15:23:23",
+      "album": {
+        "name": "THE 4TH DIMENSION",
+        "url": "https://open.spotify.com/album/3S0H9fBa0BlcZnjCQQEte8"
+      },
+      "artists": [
+        {
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        }
+      ],
+      "duration_ms": 203052,
+      "name": "Oldschool The School",
+      "url": "https://open.spotify.com/track/3og4g4ASh85aYNRTHzX0gO"
     },
     {
       "added_at": "2024-03-26 15:23:23",
@@ -1607,22 +1623,6 @@
       "duration_ms": 183268,
       "name": "LEGEND (feat. XELOR)",
       "url": "https://open.spotify.com/track/4CSQFGPnH6Q6UzcequUkKn"
-    },
-    {
-      "added_at": "2024-03-26 15:23:23",
-      "album": {
-        "name": "THE 4TH DIMENSION",
-        "url": "https://open.spotify.com/album/3S0H9fBa0BlcZnjCQQEte8"
-      },
-      "artists": [
-        {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
-        }
-      ],
-      "duration_ms": 203052,
-      "name": "Oldschool The School",
-      "url": "https://open.spotify.com/track/3og4g4ASh85aYNRTHzX0gO"
     },
     {
       "added_at": "2024-03-26 15:23:23",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2024-03-26 15:23:23",
       "album": {
-        "name": "TH3 FL0W",
-        "url": "https://open.spotify.com/album/11ykfjfk1g4ZJjsx7tEM9J"
-      },
-      "artists": [
-        {
-          "name": "Mind Compressor",
-          "url": "https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n"
-        }
-      ],
-      "duration_ms": 154272,
-      "name": "TH3 FL0W",
-      "url": "https://open.spotify.com/track/67pe3dZk02n1cXjtPbXuHh"
-    },
-    {
-      "added_at": "2024-03-26 15:23:23",
-      "album": {
         "name": "Demonic Playgrounds",
         "url": "https://open.spotify.com/album/23jLMFzSBYcGYrdu1f85NC"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 188404,
       "name": "Demonic Playgrounds",
       "url": "https://open.spotify.com/track/1kiI7G35IZs0u4vtKX2Mne"
+    },
+    {
+      "added_at": "2024-03-26 15:23:23",
+      "album": {
+        "name": "TH3 FL0W",
+        "url": "https://open.spotify.com/album/11ykfjfk1g4ZJjsx7tEM9J"
+      },
+      "artists": [
+        {
+          "name": "Mind Compressor",
+          "url": "https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n"
+        }
+      ],
+      "duration_ms": 154272,
+      "name": "TH3 FL0W",
+      "url": "https://open.spotify.com/track/67pe3dZk02n1cXjtPbXuHh"
     },
     {
       "added_at": "2024-03-26 15:23:23",

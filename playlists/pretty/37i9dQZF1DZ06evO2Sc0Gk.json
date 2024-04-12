@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 18947,
+  "num_followers": 18951,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTg3NzA5ZGFiYjIzNjc3MGVjZmJjMGNlOThlY2I5ZTAyOGY2NjI3",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDBlNzI3NjllYzc4NGMyNTU2ZjM4OGY3MTZlNTY2NGQy",
   "tracks": [
     {
       "added_at": null,
@@ -215,6 +215,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Modus Operandi",
+        "url": "https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq"
+      },
+      "artists": [
+        {
+          "name": "M.O",
+          "url": "https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC"
+        },
+        {
+          "name": "Lotto Boyzz",
+          "url": "https://open.spotify.com/artist/6TlhWcs3imNDmxFviZjpDX"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 214253,
+      "name": "Bad Vibe",
+      "url": "https://open.spotify.com/track/3HATF0OPbTWWy5TPz8KiAu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
@@ -239,30 +263,6 @@
       "duration_ms": 155990,
       "name": "DON'T JEALOUS ME",
       "url": "https://open.spotify.com/track/1yvFoBp2Bq1ilD0518ZpQx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Modus Operandi",
-        "url": "https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq"
-      },
-      "artists": [
-        {
-          "name": "M.O",
-          "url": "https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC"
-        },
-        {
-          "name": "Lotto Boyzz",
-          "url": "https://open.spotify.com/artist/6TlhWcs3imNDmxFviZjpDX"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 214253,
-      "name": "Bad Vibe",
-      "url": "https://open.spotify.com/track/3HATF0OPbTWWy5TPz8KiAu"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00e0\u00e0j\u00ed",
-        "url": "https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 149741,
-      "name": "F\u00e0\u00e0j\u00ed",
-      "url": "https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call Waiting",
         "url": "https://open.spotify.com/album/5JkpF4etIZ5IOrAPzCcfjI"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 150702,
       "name": "Call Waiting",
       "url": "https://open.spotify.com/track/6E7inQoWgdOxhFw4GmNS4c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00e0\u00e0j\u00ed",
+        "url": "https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 149741,
+      "name": "F\u00e0\u00e0j\u00ed",
+      "url": "https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09"
     },
     {
       "added_at": null,

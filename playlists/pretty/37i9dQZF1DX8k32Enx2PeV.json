@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 10038,
+  "num_followers": 10053,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGU5YjBkMTU1Yzk0OTBiZDgyZTIwZjE5NWQ1ODE2YzIzOGUxODFj",
+  "snapshot_id": "MTY5NTM2MDMwMCwwMDAwMDAwMDdlNGE3NDM3NDliYmVkODhkMzBiYzM1NGRhMDYxN2U3",
   "tracks": [
     {
       "added_at": "2023-09-22 05:25:00",
@@ -691,6 +691,26 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
+        "name": "ALL-YOU-CAN-EAT, Vol.1",
+        "url": "https://open.spotify.com/album/2f4R1pwsykiOA4hwF9clHM"
+      },
+      "artists": [
+        {
+          "name": "Comida Para Llevar",
+          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
+        },
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        }
+      ],
+      "duration_ms": 219341,
+      "name": "Que Te Vaya Mal",
+      "url": "https://open.spotify.com/track/0ipCiNGPn2n8aeTEPmWp9R"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
         "name": "Est\u00e1s Escuchando (with El David Aguilar)",
         "url": "https://open.spotify.com/album/5Uh0kntVBVR3LYu06MN5jK"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 137996,
       "name": "Est\u00e1s Escuchando (with El David Aguilar) - Single Edit",
       "url": "https://open.spotify.com/track/48Jst8pgJLrsiVw0P9XdhH"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
-        "name": "Caribe\u00f1a",
-        "url": "https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        },
-        {
-          "name": "Paz Court",
-          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
-        }
-      ],
-      "duration_ms": 191141,
-      "name": "Caribe\u00f1a",
-      "url": "https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -751,22 +751,22 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "ALL-YOU-CAN-EAT, Vol.1",
-        "url": "https://open.spotify.com/album/2f4R1pwsykiOA4hwF9clHM"
+        "name": "Caribe\u00f1a",
+        "url": "https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM"
       },
       "artists": [
         {
-          "name": "Comida Para Llevar",
-          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
         },
         {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+          "name": "Paz Court",
+          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
         }
       ],
-      "duration_ms": 219341,
-      "name": "Que Te Vaya Mal",
-      "url": "https://open.spotify.com/track/0ipCiNGPn2n8aeTEPmWp9R"
+      "duration_ms": 191141,
+      "name": "Caribe\u00f1a",
+      "url": "https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
+        "name": "Camino al Mar",
+        "url": "https://open.spotify.com/album/20jmEAKKemowX8dH6dRNXt"
+      },
+      "artists": [
+        {
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Soy la Fuerza",
+      "url": "https://open.spotify.com/track/1dLUGmTp8Fy9Sl0p2Tn7T1"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
         "name": "Adi\u00f3s Batata (Cerrero Dub Mix)",
         "url": "https://open.spotify.com/album/7o7iFlxztqfLv1FbaSg8Zo"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 407295,
       "name": "Adi\u00f3s Batata - Cerrero Dub Mix",
       "url": "https://open.spotify.com/track/1VJi7PtheTX2oJYIJZ7bWD"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
-        "name": "Camino al Mar",
-        "url": "https://open.spotify.com/album/20jmEAKKemowX8dH6dRNXt"
-      },
-      "artists": [
-        {
-          "name": "Acid Coco",
-          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Soy la Fuerza",
-      "url": "https://open.spotify.com/track/1dLUGmTp8Fy9Sl0p2Tn7T1"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Ci\u00e9naga",
-        "url": "https://open.spotify.com/album/6rZTSfPwLlZQz80lF4vKVn"
-      },
-      "artists": [
-        {
-          "name": "Los Yoryis",
-          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
-        }
-      ],
-      "duration_ms": 176353,
-      "name": "Ci\u00e9naga",
-      "url": "https://open.spotify.com/track/6Mvxbj2eJphVbSFfa4RE5U"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Rumbo a Tiera",
         "url": "https://open.spotify.com/album/3ly8UdrXp9i8tlOiRft6We"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 212946,
       "name": "Tumbamurallas",
       "url": "https://open.spotify.com/track/2IkCZUGLS7o2tkocsMNgC9"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Ci\u00e9naga",
+        "url": "https://open.spotify.com/album/6rZTSfPwLlZQz80lF4vKVn"
+      },
+      "artists": [
+        {
+          "name": "Los Yoryis",
+          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
+        }
+      ],
+      "duration_ms": 176353,
+      "name": "Ci\u00e9naga",
+      "url": "https://open.spotify.com/track/6Mvxbj2eJphVbSFfa4RE5U"
     },
     {
       "added_at": "2023-09-22 05:25:00",

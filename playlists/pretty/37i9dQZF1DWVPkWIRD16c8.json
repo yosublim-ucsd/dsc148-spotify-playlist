@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 155774,
+  "num_followers": 156038,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmQ0NTFhYWVkODNhMWIzMjY2MDk2NTdjZDc5OTdkZWRlMzVhMDE1",
+  "snapshot_id": "MTY4NjkyMDAxNSwwMDAwMDAwMDhmOWVkNGRkOWVlNjRiZmVlYTJhY2JiYjAyNDAwNmI1",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:16",
@@ -563,18 +563,22 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "The Best Yet",
-        "url": "https://open.spotify.com/album/2VEuUgMk7r1fFYQ4toPVHc"
+        "name": "I Know A Ghost",
+        "url": "https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq"
       },
       "artists": [
         {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
         }
       ],
-      "duration_ms": 246826,
-      "name": "Dare You to Move",
-      "url": "https://open.spotify.com/track/45sziCSqS4BWSQWUlLRpyf"
+      "duration_ms": 209840,
+      "name": "Let It Rain (Is There Anybody)",
+      "url": "https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -595,22 +599,18 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "I Know A Ghost",
-        "url": "https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq"
+        "name": "The Best Yet",
+        "url": "https://open.spotify.com/album/2VEuUgMk7r1fFYQ4toPVHc"
       },
       "artists": [
         {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        },
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
         }
       ],
-      "duration_ms": 209840,
-      "name": "Let It Rain (Is There Anybody)",
-      "url": "https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde"
+      "duration_ms": 246826,
+      "name": "Dare You to Move",
+      "url": "https://open.spotify.com/track/45sziCSqS4BWSQWUlLRpyf"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Chrysaline",
-        "url": "https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA"
-      },
-      "artists": [
-        {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
-        }
-      ],
-      "duration_ms": 309354,
-      "name": "Closer Than a Brother",
-      "url": "https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "Wildest Dreams",
         "url": "https://open.spotify.com/album/7sMUMoz8M97aFHePhUpdR9"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 267333,
       "name": "When We Fall Apart",
       "url": "https://open.spotify.com/track/6QZP7wxsor0vZsI9dkKZk2"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "Chrysaline",
+        "url": "https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA"
+      },
+      "artists": [
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        }
+      ],
+      "duration_ms": 309354,
+      "name": "Closer Than a Brother",
+      "url": "https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4"
     },
     {
       "added_at": "2023-02-07 17:43:16",

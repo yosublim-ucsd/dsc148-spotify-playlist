@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: Cassyette",
-  "num_followers": 671180,
+  "num_followers": 671398,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmU4NTUwZmM3ZTI0NGQ3YmY3ZWYxZDk1M2VmOTU1NjdmM2VlZDlk",
+  "snapshot_id": "MTcxMTQ3MjAxOCwwMDAwMDAwMGZmNzhmYzlhMjkzZWU4MjU5M2I5ZjFjMDkyYzMyOTE4",
   "tracks": [
     {
       "added_at": "2024-02-16 12:14:47",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 243783,
+      "name": "Petrichor",
+      "url": "https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
         "name": "Seize the Power",
         "url": "https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 139728,
       "name": "Clique",
       "url": "https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
-        "name": "Petrichor",
-        "url": "https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 243783,
-      "name": "Petrichor",
-      "url": "https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
-        "name": "I Hope You Choke",
-        "url": "https://open.spotify.com/album/2cHzgepoOGSgCETJzyXPb6"
-      },
-      "artists": [
-        {
-          "name": "Harper",
-          "url": "https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3"
-        }
-      ],
-      "duration_ms": 207660,
-      "name": "I Hope You Choke",
-      "url": "https://open.spotify.com/track/5tzQBDvosYbVemX5GLFkmB"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
         "name": "Tsunami (11:11)",
         "url": "https://open.spotify.com/album/1mQwEcEkEfQ5EFW9Q4PpsE"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 188823,
       "name": "Tsunami (11:11)",
       "url": "https://open.spotify.com/track/0u4SRuld2zPAnyImNdfMAo"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "I Hope You Choke",
+        "url": "https://open.spotify.com/album/2cHzgepoOGSgCETJzyXPb6"
+      },
+      "artists": [
+        {
+          "name": "Harper",
+          "url": "https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3"
+        }
+      ],
+      "duration_ms": 207660,
+      "name": "I Hope You Choke",
+      "url": "https://open.spotify.com/track/5tzQBDvosYbVemX5GLFkmB"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/0WA5fU4NhSv5TDIs4tOR7F"
+      },
+      "artists": [
+        {
+          "name": "Volturian",
+          "url": "https://open.spotify.com/artist/1kaSMA4dkMLk11AoMUQdoJ"
+        }
+      ],
+      "duration_ms": 219132,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/69BhJ2YVTYR5EltHFH2wfg"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
         "name": "Bang Ya Head",
         "url": "https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5"
       },
@@ -1043,34 +1059,18 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
-        "name": "Crimson",
-        "url": "https://open.spotify.com/album/0WA5fU4NhSv5TDIs4tOR7F"
+        "name": "Forsaken (The Aftermath)",
+        "url": "https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06"
       },
       "artists": [
         {
-          "name": "Volturian",
-          "url": "https://open.spotify.com/artist/1kaSMA4dkMLk11AoMUQdoJ"
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 219132,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/69BhJ2YVTYR5EltHFH2wfg"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
-        "name": "welcome2paradise",
-        "url": "https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 286941,
-      "name": "welcome2paradise",
-      "url": "https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv"
+      "duration_ms": 298634,
+      "name": "Forsaken - The Aftermath",
+      "url": "https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR"
     },
     {
       "added_at": "2024-03-26 16:53:38",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
-        "name": "Forsaken (The Aftermath)",
-        "url": "https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06"
+        "name": "welcome2paradise",
+        "url": "https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq"
       },
       "artists": [
         {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
         }
       ],
-      "duration_ms": 298634,
-      "name": "Forsaken - The Aftermath",
-      "url": "https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR"
+      "duration_ms": 286941,
+      "name": "welcome2paradise",
+      "url": "https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
-        "name": "Noise",
-        "url": "https://open.spotify.com/album/6gOIHf3Y3W7uTe8ERFYzex"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 340281,
-      "name": "Noise",
-      "url": "https://open.spotify.com/track/2a3sZJP4uTrNQbj0EdiUuV"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
         "name": "Stigmata Itch",
         "url": "https://open.spotify.com/album/1lrivcdLt2w1EXhVKwYvLN"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
-        "name": "Bottom of a Bottle",
-        "url": "https://open.spotify.com/album/4wDzDgS3DzXNoFnwVy1yD3"
+        "name": "Noise",
+        "url": "https://open.spotify.com/album/6gOIHf3Y3W7uTe8ERFYzex"
       },
       "artists": [
         {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 199672,
-      "name": "Bottom of a Bottle",
-      "url": "https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U"
+      "duration_ms": 340281,
+      "name": "Noise",
+      "url": "https://open.spotify.com/track/2a3sZJP4uTrNQbj0EdiUuV"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -1247,6 +1231,22 @@
       "duration_ms": 228626,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/1iFIRC1D9NnxjTwF240jZy"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "Bottom of a Bottle",
+        "url": "https://open.spotify.com/album/4wDzDgS3DzXNoFnwVy1yD3"
+      },
+      "artists": [
+        {
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+        }
+      ],
+      "duration_ms": 199672,
+      "name": "Bottom of a Bottle",
+      "url": "https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U"
     },
     {
       "added_at": "2024-02-16 12:14:47",

@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : DTF
+> Le meilleur du rap français version cloud\. Photo : AAMO
 
-365 songs - 17 hr 59 min
+369 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [100 ans](https://open.spotify.com/track/2guJAJFWNnaujR0iVYM1pB) | [Diddi Trix](https://open.spotify.com/artist/52h6A1y99QgoEf5FzKEHs1) | [100 ans](https://open.spotify.com/album/55IJ9CgUSLuU72XAs7N0al) | 2:01 | 2022-12-15 | 2023-01-27 |
 | [16 appels manqués](https://open.spotify.com/track/5aJOVLvDSbKvg3vDFCNlIV) | [Cashmire](https://open.spotify.com/artist/4Z7rTDNEHqLkQmRzAlNnjL) | [16 appels manqués](https://open.spotify.com/album/7zKUv0YPtYlnSkrIbjnw0C) | 2:01 | 2023-04-13 | 2023-06-09 |
 | [1jour](https://open.spotify.com/track/36rmAqEXbOlUGhUCrq61vb) | [Simili Gum](https://open.spotify.com/artist/20ZFMIA16SxwO2NGFmw7vS) | [prepa21](https://open.spotify.com/album/3SKxrBONDzWkk3ULdlPdOw) | 2:49 | 2022-10-13 | 2022-12-09 |
+| [2ECOND](https://open.spotify.com/track/2t6hlxN2lH505pPRrKNeFW) | [Rodrigo](https://open.spotify.com/artist/2kyVYRUwlrrJobeoqGoVvy), [CAPU$H](https://open.spotify.com/artist/45OjNQ1shjnnjtjteryVxq) | [ÉTERNEL SECOND](https://open.spotify.com/album/72qSwqyIdk7ZNtksWQvowj) | 4:16 | 2024-04-11 |  |
 | [5 AM](https://open.spotify.com/track/5I4nsx9cderO8FqfjDR0zA) | [Many Santana](https://open.spotify.com/artist/3rCZ4fFIVhGxQHg3UwizcJ) | [5 AM](https://open.spotify.com/album/3fdxBZ7JxFiXtCDRYizYSB) | 2:33 | 2023-06-15 | 2023-10-27 |
 | [7](https://open.spotify.com/track/74ybaViAxhYYyOwwJ74Ht6) | [Seth Sad](https://open.spotify.com/artist/4yDo1iZ02sOpLsh1oGAAg9) | [7](https://open.spotify.com/album/2o9EiJ3C397bqvknB0oQqw) | 2:41 | 2024-02-01 |  |
 | [7DUMATIN](https://open.spotify.com/track/7FUj9qDOg4ak69PUih6QiA) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [Reset/Start](https://open.spotify.com/album/5esIkU96v4JHvpNGqprjQo) | 2:40 | 2023-04-27 | 2023-09-08 |
@@ -89,7 +90,7 @@
 | [COOOOL](https://open.spotify.com/track/4nhqACNPqh3MA6kwZO3BEK) | [Nallas](https://open.spotify.com/artist/5p3YfFowJftLjDnkny1ILZ) | [COOOOL](https://open.spotify.com/album/1qZ5Be3r7fNWH2SWfplHl2) | 3:26 | 2023-06-08 | 2023-07-07 |
 | [COUPÉ](https://open.spotify.com/track/6AbZfezde2hXaauuzMaO0i) | [TLZ Clan](https://open.spotify.com/artist/6rl2UnIXbg1TcusvFlPzWp) | [COUPÉ](https://open.spotify.com/album/2LNG7f47uJJAZcgiVZlHEY) | 2:58 | 2022-10-20 | 2022-12-16 |
 | [crescendo](https://open.spotify.com/track/0vzg1Trj75I00yTBRch0rr) | [yuo](https://open.spotify.com/artist/4pc342kOtT5KA7XDXBISsc), [yung g](https://open.spotify.com/artist/4Uyc1gUVun2PXGfzLGghh7) | [crescendo](https://open.spotify.com/album/1B7y1c3M9d5eg0mytTC8Wd) | 2:53 | 2024-01-04 | 2024-02-09 |
-| [CYCLOPE](https://open.spotify.com/track/7xFKQU5QkRuVCxIoWseuMv) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [CYCLOPE](https://open.spotify.com/album/7wbaB5YZY7gzv93wm1ZIdu) | 2:04 | 2024-02-08 |  |
+| [CYCLOPE](https://open.spotify.com/track/7xFKQU5QkRuVCxIoWseuMv) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [CYCLOPE](https://open.spotify.com/album/7wbaB5YZY7gzv93wm1ZIdu) | 2:04 | 2024-02-08 | 2024-04-12 |
 | [D'une vie à l'autre](https://open.spotify.com/track/6N64lJLiw3QqhWjZlhKJvB) | [Lacraps](https://open.spotify.com/artist/082dnQ2APdm4cFw8eILB4u), [Dezef](https://open.spotify.com/artist/6MAtTUpkhJRcdgGRQUotX1) | [Associés](https://open.spotify.com/album/7cKu958VBrfEhv5UQLeY0v) | 3:06 | 2023-06-29 | 2023-08-25 |
 | [DANS L'TRAP](https://open.spotify.com/track/374qdqFUlA7IwLSuC23WQE) | [AAMO](https://open.spotify.com/artist/5PQWIvBPwezhXhqnr4gpdm) | [DANS L'TRAP](https://open.spotify.com/album/3R96xzeG9JkMeeWBy1k626) | 2:51 | 2024-02-29 |  |
 | [Dans le sang](https://open.spotify.com/track/26ofCvzxI2u8tS1ON81mNv) | [CHATNOIR](https://open.spotify.com/artist/417jPajaJxfk3XL4IxJZhV), [Beeby](https://open.spotify.com/artist/0dbSMR7FjTxrmClPei3FPk) | [Dans le sang](https://open.spotify.com/album/33jB6ufMMpEsdITKnha6aU) | 3:43 | 2023-07-06 | 2023-10-06 |
@@ -138,6 +139,7 @@
 | [Gaouri](https://open.spotify.com/track/6usP72J7HRHaR0wqiJXcxc) | [Eniah](https://open.spotify.com/artist/07AutVRBzcfa2AIYsGSgLj) | [Gaouri](https://open.spotify.com/album/48ABfPStfF7AJjEd5woBOP) | 2:39 | 2023-04-27 | 2023-05-26 |
 | [Geneva](https://open.spotify.com/track/0qfXETr4UazAeIbOzhsZJm) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU), [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [Geneva](https://open.spotify.com/album/4u84K5dAcGP8ew41zNnqKu) | 2:48 | 2023-12-08 |  |
 | [GINGER MC KENNA](https://open.spotify.com/track/1po7uuEaDOOhXwWYjtNhIo) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [ROUGE NÉON](https://open.spotify.com/album/7LLEJ0jIS3lfCF79i0dXQj) | 2:07 | 2023-04-27 | 2023-10-13 |
+| [Go Mode](https://open.spotify.com/track/7MX9uRrHcyORpE2JXJpfUa) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Go Mode](https://open.spotify.com/album/3GekvJk4hGZw39M27jUcCc) | 3:44 | 2024-04-11 |  |
 | [GRANDIR ET RAJEUNIR](https://open.spotify.com/track/0qXgwDS6MQzM4FHgoS0eLp) | [Luni](https://open.spotify.com/artist/3xEtgUoHv1k1JyqYLEwRGl) | [AHBON MIXTAPE](https://open.spotify.com/album/5s5MPCy39ktuAFfewT2xSk) | 2:19 | 2023-10-09 | 2023-11-17 |
 | [GRANDIR ET RAJEUNIR](https://open.spotify.com/track/1E5HtrT3tKSsnoS05Zi88X) | [Luni](https://open.spotify.com/artist/3xEtgUoHv1k1JyqYLEwRGl) | [AHBON](https://open.spotify.com/album/2haouOfnfhMt0vLrRAACG2) | 2:19 | 2023-09-28 | 2023-09-30 |
 | [GRENADE](https://open.spotify.com/track/0WZ7TQn8MJnzRxKdxWlpdN) | [HAKAI](https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN) | [GRENADE](https://open.spotify.com/album/2CW4ULev9mQurLEpFHdovg) | 2:56 | 2022-07-14 | 2022-12-30 |
@@ -175,6 +177,7 @@
 | [J'rentre pas chez moi](https://open.spotify.com/track/1kqrfPAEFaOx33YHlYqQLa) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [J'rentre pas chez moi](https://open.spotify.com/album/5MaykxZo8kzq0uYHgQXjqD) | 2:43 | 2022-07-14 | 2022-09-30 |
 | [J'y pense encore](https://open.spotify.com/track/1dMDYQjrnhee5nmyKEydJd) | [Lil Purpx](https://open.spotify.com/artist/45gUSG3z1KARI7RfS1Bj28) | [J'y pense encore](https://open.spotify.com/album/0UzFkYv4X5yskUaB2QbjRz) | 3:29 | 2022-10-06 | 2022-12-02 |
 | [JAUNE CRÉMEUX](https://open.spotify.com/track/5MZ7AYuPDyjSYRWdSu7N1l) | [Laroma](https://open.spotify.com/artist/7Hv2hIVAkEylgEKAOyF7bw) | [JAUNE CRÉMEUX](https://open.spotify.com/album/05B6weLYEjhrIIJwECtOdV) | 3:28 | 2023-10-26 | 2023-12-08 |
+| [Je les méprise tous](https://open.spotify.com/track/79f0vcZmbrTu04Q0baYnau) | [Lycos](https://open.spotify.com/artist/6nxnoznWVrq1HXBbjl2cz3) | [HYPERION](https://open.spotify.com/album/6FspfLkCe1TDl1IIocgXmV) | 2:48 | 2024-04-11 |  |
 | [JET & SCOOTER](https://open.spotify.com/track/00oe1I3awDM2HjAF9Efz68) | [GEAVN](https://open.spotify.com/artist/1wRjJI80Z1xUT2aFdn7aru) | [JET & SCOOTER](https://open.spotify.com/album/1C4HIM7Szj2NOgyUIGVmOQ) | 3:20 | 2023-02-16 | 2023-04-07 |
 | [Jour de pluie](https://open.spotify.com/track/7Cuca28lbRnHCWlpgEwxCu) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [Jour de pluie](https://open.spotify.com/album/55HrsnQR83ZjEiaSYnXdRO) | 3:17 | 2023-11-09 | 2024-02-02 |
 | [JOUR DE PLUIE](https://open.spotify.com/track/6nxLFvMeQySR4wKFPRh1tC) | [Golgoth](https://open.spotify.com/artist/6YPGhj88VOEmQ6e9qTotvA) | [JOUR DE PLUIE](https://open.spotify.com/album/2yWX4MlBDNXu3xtscHFi3O) | 2:47 | 2023-09-07 | 2023-10-20 |
@@ -239,7 +242,7 @@
 | [Mémoire d'un presque rien](https://open.spotify.com/track/5lQTCLF6eeHJnkS03xzWmB) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Mémoire d'un presque rien](https://open.spotify.com/album/589cZ1HYzFumBTBeFcK2pj) | 3:33 | 2023-01-19 | 2023-04-21 |
 | [Même endroit](https://open.spotify.com/track/0ct2OyqqdMHxkur8pLQgxh) | [Rvzmo](https://open.spotify.com/artist/6QQSZZB94LcSTNd1hrTw5z) | [Même endroit](https://open.spotify.com/album/4jhFORYq9OfAOesOgVPZGF) | 1:55 | 2024-02-15 | 2024-03-08 |
 | [MÖDI](https://open.spotify.com/track/3KXmiKG3D0imrkAJfMKv3X) | [Sokuu](https://open.spotify.com/artist/0et1mZYLCSVBIBUY94B8Xn) | [MÖDI](https://open.spotify.com/album/6oGbaQspWtK4A3cCLC5noJ) | 2:19 | 2023-10-12 | 2024-02-09 |
-| [nebula](https://open.spotify.com/track/4dWQt09nlBLh34No9tNA5o) | [Ashh](https://open.spotify.com/artist/4YUcg2ee9TxMNdjhAxzZBF) | [nebula](https://open.spotify.com/album/4FNFa5X1j7FhS3IRchDgqm) | 3:30 | 2023-07-20 |  |
+| [nebula](https://open.spotify.com/track/4dWQt09nlBLh34No9tNA5o) | [Ashh](https://open.spotify.com/artist/4YUcg2ee9TxMNdjhAxzZBF) | [nebula](https://open.spotify.com/album/4FNFa5X1j7FhS3IRchDgqm) | 3:30 | 2023-07-20 | 2024-04-12 |
 | [Neurasthenie](https://open.spotify.com/track/2bWzPmMqIeWVO3lCTKEDpv) | [Klem Schen](https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c) | [Neurasthenie](https://open.spotify.com/album/147jyWgnirPp1V7z2IUxVS) | 4:26 | 2022-09-22 | 2022-12-16 |
 | [New Flow](https://open.spotify.com/track/7wcvpuqOwffUGKXydc5Ngn) | [91 All Stars](https://open.spotify.com/artist/2NXFKDjgSuIyiUUH2PEVHG), [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [91 ALL STARS](https://open.spotify.com/album/67RktnRUQzkN9ZM8VAsakU) | 3:05 | 2022-07-14 | 2022-10-21 |
 | [No Love](https://open.spotify.com/track/43s7xJq0iHdcn2eGfE4M2x) | [Enolevrai](https://open.spotify.com/artist/08tDZqfKfLCf5TXC8A2aNf) | [No Love](https://open.spotify.com/album/6oTrv1boqK0GsoqLXbnuu8) | 2:27 | 2023-05-04 | 2023-06-02 |
@@ -320,7 +323,7 @@
 | [semaine](https://open.spotify.com/track/7goMhYijPlWUKJDJLOv1BQ) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [semaine](https://open.spotify.com/album/1ryox3WvXWyAMAr0Ax4lNP) | 1:54 | 2023-11-09 | 2023-12-13 |
 | [Semblant](https://open.spotify.com/track/48cHrfBxVCy0x1hgNBACe4) | [Djiggy](https://open.spotify.com/artist/6dsigAAr7UblMinqOSzbCa) | [Semblant](https://open.spotify.com/album/2lRudXz3qRULXLQz961e65) | 2:20 | 2023-09-21 | 2023-10-27 |
 | [Seul au monde](https://open.spotify.com/track/4luvWLKyAZbCMqltYuD9Dc) | [A$tro Boi](https://open.spotify.com/artist/3z3ZlPSstN29UKnGUTbgVJ) | [Seul au monde](https://open.spotify.com/album/1xyOjLlsdrQkcRg3dDpDig) | 2:53 | 2023-01-26 | 2023-02-24 |
-| [Si demain je t'aime](https://open.spotify.com/track/6v7vxXFrKUFhDSFDlryU8D) | [Eline](https://open.spotify.com/artist/5bGFc6JdtR529TQfHSmMYF) | [Si demain je t'aime](https://open.spotify.com/album/4EzklkyTSK2FUQD8C0bxZc) | 2:46 | 2024-02-15 |  |
+| [Si demain je t'aime](https://open.spotify.com/track/6v7vxXFrKUFhDSFDlryU8D) | [Eline](https://open.spotify.com/artist/5bGFc6JdtR529TQfHSmMYF) | [Si demain je t'aime](https://open.spotify.com/album/4EzklkyTSK2FUQD8C0bxZc) | 2:46 | 2024-02-15 | 2024-04-12 |
 | [Si tu savais](https://open.spotify.com/track/3TWnM57OZnvqz6aVWu5l5e) | [mademoiselle lou](https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N) | [Si tu savais](https://open.spotify.com/album/2WSYOicKVLU5SDaZ5VnB8K) | 2:25 | 2023-11-09 | 2024-02-16 |
 | [Si ça compte](https://open.spotify.com/track/2KGyvpsnb8PXovZx4ecfUF) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7), [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [Kenna](https://open.spotify.com/album/76pipx8axggIWa1sXWV7K4) | 3:05 | 2022-10-27 | 2023-03-25 |
 | [Silver Haze](https://open.spotify.com/track/03cm8VgdEvDM0rC7txjmpY) | [Bakari](https://open.spotify.com/artist/6ENue1D9ypy32vI8BWQx33) | [Silver Haze](https://open.spotify.com/album/12CHUcB1WTZPeB2KHGyRoq) | 3:53 | 2022-10-27 | 2022-12-09 |
@@ -346,6 +349,7 @@
 | [TARZAN](https://open.spotify.com/track/2weBFL1vsF2p92lgSlxzbo) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [EUPHORIA](https://open.spotify.com/album/5DUgKgqnqt4jWWP4DCx2NI) | 2:59 | 2022-10-13 | 2023-01-27 |
 | [Tempête](https://open.spotify.com/track/2BrQwWQmdFASBPmjdI7qZa) | [Lycos](https://open.spotify.com/artist/6nxnoznWVrq1HXBbjl2cz3) | [ALCAN CITY](https://open.spotify.com/album/4JKfBNGQOaXaMUTftt9Txm) | 3:57 | 2022-09-08 | 2022-11-25 |
 | [THÉRAPIE](https://open.spotify.com/track/410PptAEZCpF56YJBxgDIQ) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [ICARE](https://open.spotify.com/album/0fOl6xbizjCOl1Hl2eCgMM) | 3:05 | 2023-11-23 | 2024-02-02 |
+| [TOUJOURS+](https://open.spotify.com/track/4IB8JqXWpQXKRryrRDmtWc) | [Coyote Jo Bastard](https://open.spotify.com/artist/3nDLTOGw0WwwddP3tq5561) | [TOUJOURS+](https://open.spotify.com/album/7Idj3ciTMQ4ESCmMAVTwkH) | 2:21 | 2024-04-11 |  |
 | [Tous les jours](https://open.spotify.com/track/1O5nheIwgavNsDYIHIUx7Z) | [BFG](https://open.spotify.com/artist/3XxZVlDivZ7aV3xCIViakY) | [KILO](https://open.spotify.com/album/7f9bQMl1mk8T3B5aBz72Ya) | 2:46 | 2023-04-20 | 2023-06-16 |
 | [Tout peut s'effacer](https://open.spotify.com/track/04lh5nf7uhCtzdD60ZtXHk) | [Lestin](https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh) | [Tout peut s'effacer](https://open.spotify.com/album/3FPxbZhLbM2AJ7E0jthbco) | 3:17 | 2023-03-23 | 2023-04-21 |
 | [Tranchées](https://open.spotify.com/track/3GbI95bOGncWZrb7rw3hd9) | [Giacomo](https://open.spotify.com/artist/7359RgrSfWHHVJIE0CuqVv), [AAMO](https://open.spotify.com/artist/5PQWIvBPwezhXhqnr4gpdm) | [Van Cleef](https://open.spotify.com/album/43zoP8neUAjDQRqtqver6C) | 2:23 | 2024-02-15 |  |
@@ -371,7 +375,7 @@
 | [Âmes perdues](https://open.spotify.com/track/7zUgId6sQBSyaaBXbbiIf3) | [joysad](https://open.spotify.com/artist/6CZr9MXuLgVw8tcZxrf29Z) | [Transparent](https://open.spotify.com/album/4C8YgxhvIVBVPN5RvUG3hm) | 3:12 | 2022-10-20 | 2023-03-03 |
 | [Ça fait longtemps](https://open.spotify.com/track/41yHBw1H6W4Ny5lmiiAG7V) | [BOUB'Z](https://open.spotify.com/artist/1QMdau3cUloTZtR7JXpBLH), [Yanso](https://open.spotify.com/artist/1mAdVbvz1w6v9I5iGxRtnE) | [Ça fait longtemps](https://open.spotify.com/album/2LmWQYHjovtF1vneboqvAp) | 3:12 | 2022-12-01 | 2023-01-06 |
 | [Élastique \(Freestyle BDLB \#1\)](https://open.spotify.com/track/5Qcl3FNCGGClPX9wz7pE7D) | [BOUB'Z](https://open.spotify.com/artist/1QMdau3cUloTZtR7JXpBLH) | [Élastique \(Freestyle BDLB \#1\)](https://open.spotify.com/album/3mIen5WzBCIijfMqMgoxnX) | 2:08 | 2023-01-26 | 2023-03-18 |
-| [Émotion](https://open.spotify.com/track/5hFImCo7K3URs5Gn9kj7QU) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [MIEL](https://open.spotify.com/album/4dWovRp9R5G9mXcO5ooSi7) | 2:48 | 2023-12-28 |  |
+| [Émotion](https://open.spotify.com/track/5hFImCo7K3URs5Gn9kj7QU) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [MIEL](https://open.spotify.com/album/4dWovRp9R5G9mXcO5ooSi7) | 2:48 | 2023-12-28 | 2024-04-12 |
 | [ÉTÉ HIVER](https://open.spotify.com/track/37dQuMCbUX9ikesEh9AP6A) | [DMS](https://open.spotify.com/artist/5uo0xw2Agih4NcDVajOd6e), [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1) | [VAGALAME](https://open.spotify.com/album/011c9UckMBRFQmp1ZgRA0P) | 2:39 | 2023-03-23 | 2023-11-17 |
 
 \*This playlist was first scraped on 2022-07-17. Prior content cannot be recovered.

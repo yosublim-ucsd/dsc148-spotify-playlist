@@ -1167,6 +1167,24 @@
     },
     {
       "album": {
+        "name": "Can't Get You Outta My Head",
+        "url": "https://open.spotify.com/album/5T1QnJXPIQ97h3tXNcdLLJ"
+      },
+      "artists": [
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156378,
+      "name": "Can't Get You Outta My Head",
+      "url": "https://open.spotify.com/track/7dWTrhDYI7wdE2kc8deHOf"
+    },
+    {
+      "album": {
         "name": "Disc Charge",
         "url": "https://open.spotify.com/album/6aVh29cSNxXPvQwn5YhqGZ"
       },
@@ -2352,6 +2370,28 @@
       "duration_ms": 147712,
       "name": "Ga Naar De Gym",
       "url": "https://open.spotify.com/track/0ILN49UubBDhmYcGiIvbQ0"
+    },
+    {
+      "album": {
+        "name": "Gata Only",
+        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
       "album": {
@@ -7264,6 +7304,10 @@
         {
           "name": "Badger",
           "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
         }
       ],
       "date_added": "2024-04-06",

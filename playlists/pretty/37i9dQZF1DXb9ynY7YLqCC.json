@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 168599,
+  "num_followers": 168668,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDJiMzAwYmQyMTQ1NjM2OTFiYjRkODhmNTNkYzhhMDhmNzExN2Ni",
+  "snapshot_id": "MTcwNjIzODAwMCwwMDAwMDAwMDRiYTQzNTU0MGRhMWZiYjcxZmQ3ZDc5YmE3NGYxZWJi",
   "tracks": [
     {
       "added_at": "2024-01-26 03:00:00",
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Vengo Del Placard De Otro",
-        "url": "https://open.spotify.com/album/3ljsgnB9LYYXmVmXIk5sby"
+        "name": "Toro Rojo",
+        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
       },
       "artists": [
         {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
         }
       ],
-      "duration_ms": 244560,
-      "name": "Pepe Lui",
-      "url": "https://open.spotify.com/track/3dYlW2oy1sBMVCH5zst8le"
+      "duration_ms": 188586,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/134qy1huhbABWZV86Jy0l1"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -923,18 +923,18 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Toro Rojo",
-        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
+        "name": "Vengo Del Placard De Otro",
+        "url": "https://open.spotify.com/album/3ljsgnB9LYYXmVmXIk5sby"
       },
       "artists": [
         {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
         }
       ],
-      "duration_ms": 188586,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/134qy1huhbABWZV86Jy0l1"
+      "duration_ms": 244560,
+      "name": "Pepe Lui",
+      "url": "https://open.spotify.com/track/3dYlW2oy1sBMVCH5zst8le"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Alucinados como la primera vez",
-        "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
-      },
-      "artists": [
-        {
-          "name": "Pier",
-          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
-        }
-      ],
-      "duration_ms": 300184,
-      "name": "La ilusi\u00f3n que me condena",
-      "url": "https://open.spotify.com/track/0AP4CI592TMd5YktR6XINJ"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "Aunque Cueste Ver El Sol",
         "url": "https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 244093,
       "name": "Cielo De Un Solo Color",
       "url": "https://open.spotify.com/track/0KQQimYTGg3Rc1bISoSuXl"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "Alucinados como la primera vez",
+        "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
+      },
+      "artists": [
+        {
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+        }
+      ],
+      "duration_ms": 300184,
+      "name": "La ilusi\u00f3n que me condena",
+      "url": "https://open.spotify.com/track/0AP4CI592TMd5YktR6XINJ"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Gladiadores del rock",
-        "url": "https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp"
-      },
-      "artists": [
-        {
-          "name": "Pier",
-          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
-        }
-      ],
-      "duration_ms": 269331,
-      "name": "Sacrificio y Rock N' Roll",
-      "url": "https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "Tan (En Vivo)",
         "url": "https://open.spotify.com/album/1H5MsrfzzoiznKp4jj8WWz"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Flor de ceibo",
-        "url": "https://open.spotify.com/album/3bX8ps73c1Ps2lroSYD2rV"
+        "name": "Gladiadores del rock",
+        "url": "https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp"
       },
       "artists": [
         {
-          "name": "Don Osvaldo",
-          "url": "https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8"
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
         }
       ],
-      "duration_ms": 128597,
-      "name": "Caer",
-      "url": "https://open.spotify.com/track/76imPO6e12fh4HTzsbqYVm"
+      "duration_ms": 269331,
+      "name": "Sacrificio y Rock N' Roll",
+      "url": "https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1159,6 +1143,22 @@
       "duration_ms": 236605,
       "name": "Solito",
       "url": "https://open.spotify.com/track/3GyVh0ptPs7ttfbpex6Bmn"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "Flor de ceibo",
+        "url": "https://open.spotify.com/album/3bX8ps73c1Ps2lroSYD2rV"
+      },
+      "artists": [
+        {
+          "name": "Don Osvaldo",
+          "url": "https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8"
+        }
+      ],
+      "duration_ms": 128597,
+      "name": "Caer",
+      "url": "https://open.spotify.com/track/76imPO6e12fh4HTzsbqYVm"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Mundo Imperfecto",
-        "url": "https://open.spotify.com/album/1a8ZNsUD375wEwTdzE2F8F"
-      },
-      "artists": [
-        {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
-        }
-      ],
-      "duration_ms": 246893,
-      "name": "Andrajoso",
-      "url": "https://open.spotify.com/track/3ibB1bUbvgHheGYlnSa9b9"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "Contratiempos",
         "url": "https://open.spotify.com/album/57M8d2JDEqjdz9LVzDtK3V"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 195900,
       "name": "Sutil",
       "url": "https://open.spotify.com/track/3hkMZFo9dwI3mTM1I6eGu3"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "Mundo Imperfecto",
+        "url": "https://open.spotify.com/album/1a8ZNsUD375wEwTdzE2F8F"
+      },
+      "artists": [
+        {
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+        }
+      ],
+      "duration_ms": 246893,
+      "name": "Andrajoso",
+      "url": "https://open.spotify.com/track/3ibB1bUbvgHheGYlnSa9b9"
     },
     {
       "added_at": "2024-01-26 03:00:00",

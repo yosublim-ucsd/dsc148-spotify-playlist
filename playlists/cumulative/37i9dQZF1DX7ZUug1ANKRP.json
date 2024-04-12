@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Dance hits and the ones to come. Cover: CYRIL",
+  "description": "The biggest Dance hits and the ones to come. Cover: Ella Henderson, Rudimental",
   "name": "Main Stage",
   "tracks": [
     {
@@ -582,6 +582,32 @@
       "duration_ms": 147973,
       "name": "All Or Nothing",
       "url": "https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH"
+    },
+    {
+      "album": {
+        "name": "All the Things She Said",
+        "url": "https://open.spotify.com/album/6GxNLOlFGgl6J3cvLGN81l"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "KOPPY",
+          "url": "https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165299,
+      "name": "All the Things She Said",
+      "url": "https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx"
     },
     {
       "album": {
@@ -1522,6 +1548,32 @@
       "duration_ms": 151589,
       "name": "Boyz In Paris (with VINAI)",
       "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
+    },
+    {
+      "album": {
+        "name": "Break The Rules",
+        "url": "https://open.spotify.com/album/7Guk7DtnnFnvUdplePgeOF"
+      },
+      "artists": [
+        {
+          "name": "KXXMA",
+          "url": "https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx"
+        },
+        {
+          "name": "YAMAS",
+          "url": "https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY"
+        },
+        {
+          "name": "MeSSy",
+          "url": "https://open.spotify.com/artist/2u5KJ1Wbzv2zoSwA611lyP"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165931,
+      "name": "Break The Rules",
+      "url": "https://open.spotify.com/track/2RskfmXnkMxDN6R9Mz9uG3"
     },
     {
       "album": {
@@ -5127,6 +5179,28 @@
     },
     {
       "album": {
+        "name": "I Love It",
+        "url": "https://open.spotify.com/album/539fmAbtb0njedW5AkMjxK"
+      },
+      "artists": [
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        },
+        {
+          "name": "Beats by Luca",
+          "url": "https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/5VG6MONs7BkKKjO65vZYMm"
+    },
+    {
+      "album": {
         "name": "I Swear",
         "url": "https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO"
       },
@@ -5222,7 +5296,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 125032,
       "name": "Ich nehm dich bei der Hand (SimsalaGrimm)",
       "url": "https://open.spotify.com/track/14iwJXnTuI9qdcosMEB73h"
@@ -5792,7 +5866,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 157069,
       "name": "Leave The World Behind (L'Esperanza)",
       "url": "https://open.spotify.com/track/0LfaCcUnwFsfeOctUbzUCO"
@@ -6196,7 +6270,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 132209,
       "name": "Living On My Own",
       "url": "https://open.spotify.com/track/0SgO1pBl2uZyD754ZqQbK5"
@@ -7090,7 +7164,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 175562,
       "name": "Monster (with Alok)",
       "url": "https://open.spotify.com/track/3qAqbbNRC9ce1fqb7EcZed"
@@ -7892,7 +7966,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 161276,
       "name": "One By One (feat. Oaks)",
       "url": "https://open.spotify.com/track/2D1P2Y9RUxZW2Ch9A1rwHA"
@@ -9567,6 +9641,32 @@
     },
     {
       "album": {
+        "name": "Shadows Of The Night (GIGI DAG Mix)",
+        "url": "https://open.spotify.com/album/5X1zTvAgAce4WDfP2vRBbi"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        },
+        {
+          "name": "Boostedkids",
+          "url": "https://open.spotify.com/artist/2PMTEy2vzCh81UZTpjK7fZ"
+        },
+        {
+          "name": "GIGI DAG",
+          "url": "https://open.spotify.com/artist/5dnmJca9sE7eYfwKyeWVI0"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162130,
+      "name": "Shadows Of The Night - GIGI DAG Mix",
+      "url": "https://open.spotify.com/track/5n3jPpWweeAWjSEIONrcXS"
+    },
+    {
+      "album": {
         "name": "She Knows (with Akon)",
         "url": "https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F"
       },
@@ -10776,6 +10876,32 @@
       "duration_ms": 132417,
       "name": "These Nights",
       "url": "https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG"
+    },
+    {
+      "album": {
+        "name": "Think About The Way",
+        "url": "https://open.spotify.com/album/3SpHHuYNB1OqkupIrmWuMi"
+      },
+      "artists": [
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        },
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        },
+        {
+          "name": "URBANO",
+          "url": "https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150736,
+      "name": "Think About The Way",
+      "url": "https://open.spotify.com/track/4lHacAc1D1roQi1tMvC8Na"
     },
     {
       "album": {

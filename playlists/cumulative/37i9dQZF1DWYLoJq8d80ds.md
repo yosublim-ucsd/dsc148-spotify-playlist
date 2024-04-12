@@ -4,7 +4,7 @@
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los Tekis & Cantores del Monte
 
-162 songs - 9 hr 0 min
+163 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,10 +50,11 @@
 | [Es Tan Bonito](https://open.spotify.com/track/4v8SCzqiaCHJ23qYrSFd1s) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Es Tan Bonito](https://open.spotify.com/album/5tRZfG0rPTYAheg8fMkxXw) | 3:26 | 2021-12-31 | 2022-02-05 |
 | [Es Tan Grande Este Amor](https://open.spotify.com/track/6Z4uK6bVC2XjJKXjTUobhr) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4), [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Es Tan Grande Este Amor](https://open.spotify.com/album/2iLRaP3hBMDL0Q06VYzqkm) | 3:06 | 2022-03-18 |  |
 | [Eterno Amor](https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H) | [Eterno Amor](https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X) | 3:56 | 2021-12-31 |  |
+| [Eterno Amor \(En Vivo\)](https://open.spotify.com/track/2uSn8VGgamdhCKDqdasxHQ) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Eterno Amor \(En Vivo\)](https://open.spotify.com/album/6gJiMu8AMgn0ydw4WDDefD) | 4:08 | 2024-04-11 |  |
 | [Febrero Es Carnaval](https://open.spotify.com/track/5sGFvenxnClUZ6cV89v6Gh) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx), [Sergio Galleguillo](https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt) | [Festivalero](https://open.spotify.com/album/0A4WmGsLF5CXiQcvpsisBR) | 3:25 | 2022-07-01 | 2023-10-06 |
 | [Febrero Es Carnaval](https://open.spotify.com/track/3P2jmXKi39mCteMPCY8npI) | [Sergio Galleguillo](https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt), [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Festivalero](https://open.spotify.com/album/5TyDRD791MEoJfshww4v4K) | 3:23 | 2021-12-31 | 2022-07-29 |
 | [Gato del Festival](https://open.spotify.com/track/4KHBPKKzPuPtj5I73AAXpX) | [Daniela Toro](https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau), [Yámana](https://open.spotify.com/artist/54aqhNJ3tynW46SOwMR9hT) | [Gato del Festival](https://open.spotify.com/album/3HLPRr5dA9yuJMlirISWxr) | 2:08 | 2021-12-31 |  |
-| [Hay Amores que Matan](https://open.spotify.com/track/1GFf0SJRyglqz9NmkWmI9c) | [Ricardo Palavecino](https://open.spotify.com/artist/0Fb3MQOrO8SlKdeVtMB75H) | [Coplas Viajeras](https://open.spotify.com/album/031ofAXQHoOE98pHJhAwNy) | 3:06 | 2023-05-12 |  |
+| [Hay Amores que Matan](https://open.spotify.com/track/1GFf0SJRyglqz9NmkWmI9c) | [Ricardo Palavecino](https://open.spotify.com/artist/0Fb3MQOrO8SlKdeVtMB75H) | [Coplas Viajeras](https://open.spotify.com/album/031ofAXQHoOE98pHJhAwNy) | 3:06 | 2023-05-12 | 2024-04-12 |
 | [Hay Amores que Matan](https://open.spotify.com/track/2FPOXYQnJRORQdRxy2nQzz) | [Ricardo Palavecino](https://open.spotify.com/artist/0Fb3MQOrO8SlKdeVtMB75H) | [Coplas Viajeras](https://open.spotify.com/album/4qJQXvSgPdJz3crYm4t0uO) | 3:06 | 2021-12-31 | 2023-05-16 |
 | [Hay Que Esperar](https://open.spotify.com/track/2idxkMAtyKTQ7t4Xuu8W2T) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos \(Sesiones 2020\)](https://open.spotify.com/album/3mrsqUgypqoCX1xyZzlJFk) | 3:39 | 2021-12-31 |  |
 | [Ilusión de Carnaval](https://open.spotify.com/track/7zm6z0z9F1m57JEGqre5Io) | [Juan Fuentes](https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF) | [Ilusión de Carnaval](https://open.spotify.com/album/6a88iIbN8DnXF4cHcdyTx1) | 2:58 | 2021-12-31 |  |

@@ -20311,6 +20311,24 @@
     },
     {
       "album": {
+        "name": "Peaceful Days",
+        "url": "https://open.spotify.com/album/6KRgVOirgic0ceFIS9ZVrl"
+      },
+      "artists": [
+        {
+          "name": "Cello Soul",
+          "url": "https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60277,
+      "name": "Peaceful Days",
+      "url": "https://open.spotify.com/track/7iWUvaDKVbb83ZLSEztfR4"
+    },
+    {
+      "album": {
         "name": "Spring Reflections",
         "url": "https://open.spotify.com/album/4eY1601yvpJts5SRxdIR3V"
       },

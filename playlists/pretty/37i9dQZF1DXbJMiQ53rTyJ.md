@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJMiQ53rTyJ.md) - [plain]
 
 > The most streamed songs of 2023 in the USA Cover: Morgan Wallen \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,783 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,749 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJMiQ53rTyJ.md) - [plain]
 | 49 | [One Thing At A Time](https://open.spotify.com/track/1rXq0uoV4KTgRN64jXzIxo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:26 |
 | 50 | [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 |
 
-Snapshot ID: `MCxiZWI3MDY0MjE3MTNjNDUyYTJjMjg1NGM3Yzc2ODc3Mjk4MzE1NjAw`
+Snapshot ID: `MTcwMTI2MDE2MCwwMDAwMDAwMGY5NGFkNzExYWFkOGE0ZDBmNzM0MWNhYzcwYzcwYTI0`

@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-398 songs - 1 day 2 hr 16 min
+400 songs - 1 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [告訴自己 \- 《滾石摘星號》選手創作單曲](https://open.spotify.com/track/2tNWBKcFnck6pouSTu2cHt) | [鄺澤東](https://open.spotify.com/artist/6j3P7Wl2ApIvTqYk6plJmD) | [告訴自己](https://open.spotify.com/album/7aaC8XxZ1jpT402jgZGxpQ) | 4:21 | 2024-02-01 | 2024-02-03 |
 | [和淚做朋友](https://open.spotify.com/track/24XKowTHmxYfZ5QEJDUfyV) | [Lai](https://open.spotify.com/artist/7tbfeiO8CyfySSll1zFmqB) | [I ,](https://open.spotify.com/album/075wWBWMjyyeCUcWpzfXa6) | 4:38 | 2023-07-10 | 2023-07-21 |
 | [唯一 \(三立/台視戲劇《戀愛是科學》插曲\)](https://open.spotify.com/track/19fp9nI0tq0lcBl7XoCHAb) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [運氣來得若有似無](https://open.spotify.com/album/6Vss0GQqlLtD4k3lSXnYI5) | 4:30 | 2022-06-02 |  |
-| [善良的我們 \(影集《不夠善良的我們》片尾曲\)](https://open.spotify.com/track/1OxW5HUdYBZVCuiPGUPXhb) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [善良的我們 \(影集《不夠善良的我們》片尾曲\)](https://open.spotify.com/album/1RRhiFuUxwxYhOHKbOzHIi) | 3:55 | 2024-04-04 |  |
+| [善良的我們 \(影集《不夠善良的我們》片尾曲\)](https://open.spotify.com/track/1OxW5HUdYBZVCuiPGUPXhb) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [善良的我們 \(影集《不夠善良的我們》片尾曲\)](https://open.spotify.com/album/1RRhiFuUxwxYhOHKbOzHIi) | 3:55 | 2024-04-04 | 2024-04-12 |
 | [喜寶 \- 電影《喜寶》同名推廣曲](https://open.spotify.com/track/5UCJLm1qwdh66cmHfkW3Ge) | [Amber Kuo](https://open.spotify.com/artist/4x5ldH1RO3ezKX4ZVd3CUo) | [喜寶\-電影《喜寶》同名推廣曲](https://open.spotify.com/album/3IEjtX05ROjlMgARuBQpP4) | 3:32 | 2022-06-16 | 2022-07-28 |
 | [四月是適合說謊的日子](https://open.spotify.com/track/3IAct7dgBXQmRNcnYvnWFo) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y), [Jude Chiu](https://open.spotify.com/artist/0RFpGSVvrZOh43m5WdZn8T) | [四月是適合說謊的日子](https://open.spotify.com/album/3JZL4Qn4Ho4FrRjk2CmyXA) | 5:16 | 2022-06-10 | 2022-07-28 |
 | [回家吧\(大愛劇場《早點回家》主題曲\)](https://open.spotify.com/track/661aKfbocldenu4arqaIfo) | [方宥心](https://open.spotify.com/artist/50P8rIDVl6tfTLPEyxNoT7) | [回家吧\(大愛劇場《早點回家》主題曲\)](https://open.spotify.com/album/6jOAgsqvIfYOnr1Az0DNh4) | 3:59 | 2023-06-01 | 2023-06-16 |
@@ -256,8 +256,9 @@
 | [明室](https://open.spotify.com/track/61rAMMOHksE6rLlkWnXV9m) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [明室](https://open.spotify.com/album/6EszGrLFpfDVjBypK9dQ8D) | 4:19 | 2022-10-17 | 2024-01-19 |
 | [星星落下](https://open.spotify.com/track/4QUDODyjbeoFLWSFg0PwJM) | [葛宸羽 K bao](https://open.spotify.com/artist/6UC4EkenNEYX11oas6jPYV) | [星星落下](https://open.spotify.com/album/4kZHskkEDNydYvD90qzzA9) | 3:28 | 2023-06-08 | 2023-06-23 |
 | [春生](https://open.spotify.com/track/1hd53G3KCX0bQaztRVrT2r) | [容祖兒](https://open.spotify.com/artist/0GRWyJM5WRwDQ7sbFtZRp5) | [春生](https://open.spotify.com/album/3m4UiBAR7f4PpbNiqNrgB3) | 4:47 | 2023-02-02 | 2023-02-24 |
+| [是你治癒了我的孤單](https://open.spotify.com/track/04tUeaYn8y9H1qohdFoajG) | [Sandy Lam](https://open.spotify.com/artist/3K2hOAx9MPhduvDf2qguro) | [是你治癒了我的孤單](https://open.spotify.com/album/0poaQZmzUoFK0I4vGaFIJq) | 3:21 | 2024-04-11 |  |
 | [是真的](https://open.spotify.com/track/7x3DALEaUQMlSEbbmOO2sL) | [陳曉東](https://open.spotify.com/artist/1XYZT911VpRwP311djiYHM) | [是真的](https://open.spotify.com/album/3VPjlieNDk642y3Eyf8HYx) | 3:51 | 2022-06-10 | 2022-06-14 |
-| [時光厚禮](https://open.spotify.com/track/6uoLPWe7aBoQjWEHFGrKf9) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [時光厚禮](https://open.spotify.com/album/6beMU56PrsOxkTTF6PPB8f) | 3:51 | 2024-01-25 |  |
+| [時光厚禮](https://open.spotify.com/track/6uoLPWe7aBoQjWEHFGrKf9) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [時光厚禮](https://open.spotify.com/album/6beMU56PrsOxkTTF6PPB8f) | 3:51 | 2024-01-25 | 2024-04-12 |
 | [時間的輪](https://open.spotify.com/track/5cze6ZSsHwLVIRMRS9h8Hg) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [時間的輪](https://open.spotify.com/album/3De0h0EROxVD9ljubGI5r8) | 3:32 | 2022-06-30 | 2022-07-05 |
 | [晴時多雲偶想你](https://open.spotify.com/track/2fKc4ptqI3fBB4apuuu608) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [晴時多雲偶想你](https://open.spotify.com/album/1wfELxNgs2R3eZpc5YrP0a) | 4:48 | 2023-06-01 |  |
 | [曬乾](https://open.spotify.com/track/7z35FmNUu7cbexL1FxP1et) | [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [曬乾](https://open.spotify.com/album/0F9l7aMrGGGcjo2k7PZGXM) | 4:10 | 2024-03-21 | 2024-03-29 |
@@ -335,6 +336,7 @@
 | [聽說](https://open.spotify.com/track/6sutQACt2GWl8USgfpjge9) | [政学Zed\-X](https://open.spotify.com/artist/7DAjUaK40De066EOFR6fxB) | [聽說](https://open.spotify.com/album/4RNiyW6rZaKxCm7FUaEw8V) | 2:05 | 2023-07-13 | 2023-07-28 |
 | [致。青春 \- 不插電版](https://open.spotify.com/track/69AwI75lGm1Dza1DosVPrs) | [Quis](https://open.spotify.com/artist/5tBUXHMbwrbqysU0oTUP1P) | [致。青春 \(不插電版\)](https://open.spotify.com/album/6fZRxLirdn8mxNPS8SrwDR) | 5:12 | 2022-07-15 | 2022-07-19 |
 | [船到橋頭自然直](https://open.spotify.com/track/4Sfk5EfGrDR3b3QLCWU7CU) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [船到橋頭自然直](https://open.spotify.com/album/5gMcbYIRxCGPUAAIQ4v2XZ) | 3:51 | 2023-09-14 | 2023-09-29 |
+| [芬蘭距離](https://open.spotify.com/track/1OvQbBToQ5gMPs7bwqUbbz) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [《不夠善良的我們》戲劇音樂設計專輯](https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC) | 5:49 | 2024-04-11 |  |
 | [英雄 \(Heroes\) \- 動畫電影《諸葛四郎\-英雄的英雄》主題曲 Acoustic Ver.](https://open.spotify.com/track/6k9i8zbLhbGRmlK5hqfkjy) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [英雄 \(Heroes\)](https://open.spotify.com/album/6Qd5JEwZU3m5STH0ovsLiz) | 3:16 | 2022-06-02 | 2022-07-29 |
 | [荒島](https://open.spotify.com/track/4KYWEzS8298WL2vzEaGUzy) | [多多 x 以捷](https://open.spotify.com/artist/25vtw3bkiKz9nbo7vl6qqY) | [二十歲](https://open.spotify.com/album/101LuRO1uDAjMMWI5c2Sd6) | 3:27 | 2023-11-09 | 2023-11-24 |
 | [莫忘初衷](https://open.spotify.com/track/0jZse1d0sIzWEDQI74f9KB) | [李芷婷](https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs) | [莫忘初衷](https://open.spotify.com/album/0YpUrt8Wo9SHdy3hF9BClV) | 3:57 | 2023-10-05 | 2023-10-20 |

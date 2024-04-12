@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0?si=RwdPtw5wQ\-Chp4dkZviL4A">Simi </a>  and  <a href="https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc?si=W\-X7xcnoQkOCdHMflKtX8A">Tiwa Savage</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,576,891 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,577,303 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 49 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 |
 | 50 | [Ananipenda \(feat\. Soge Culebra, Marioo\) \- Remix](https://open.spotify.com/track/2SCK9dHI52spNQDwUCedD0) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5) | [Ananipenda \(feat\. Soge Culebra, Marioo\) \[Remix\]](https://open.spotify.com/album/12rtLcPE9RQYL8e8WqaWY0) | 4:49 |
 
-Snapshot ID: `MCxlOTBjZDRmNzQyZWVlNGZhZDI4MWMxMTM2Yzk0NjlkYTUwNDkyOTMw`
+Snapshot ID: `MTcxMjI3NTI2MCwwMDAwMDAwMDFkNmYwYmFmOTUzM2Q5ZGMyMTNlZjBlZmQxNTFiZjZl`

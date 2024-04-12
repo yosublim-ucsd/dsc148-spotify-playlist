@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 79390,
+  "num_followers": 79433,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2M4NDE0ZDQzN2M5ODJiMmE2N2JmMWJiOTk5ZWRkYTI1YmEyMmJi",
+  "snapshot_id": "MTcwMzY4NjY5NCwwMDAwMDAwMDcwN2FjNmFkNDc4NTYzZmM5N2Q4ZDdhZjA3Mzk2YmYy",
   "tracks": [
     {
       "added_at": "2023-12-27 14:18:14",
@@ -659,34 +659,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Levante",
-        "url": "https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS"
-      },
-      "artists": [
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "DJ Gui",
-          "url": "https://open.spotify.com/artist/3ojbgoniv6UU4eR2HM22wK"
-        }
-      ],
-      "duration_ms": 115714,
-      "name": "SUV - Remix",
-      "url": "https://open.spotify.com/track/3NC8cCoF495lDMjXDyNvhd"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Ele Te Bota Soca Soca (Speed Up)",
         "url": "https://open.spotify.com/album/3rFJruJgtv2Y83i5dUydCg"
       },
@@ -715,18 +687,30 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
-        "url": "https://open.spotify.com/album/55NOFy7Em1EvBc8ZY5vIuX"
+        "name": "Levante",
+        "url": "https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS"
       },
       "artists": [
         {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "DJ Gui",
+          "url": "https://open.spotify.com/artist/3ojbgoniv6UU4eR2HM22wK"
         }
       ],
-      "duration_ms": 202666,
-      "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
-      "url": "https://open.spotify.com/track/05UzengsM8WqaRbwgLcn6f"
+      "duration_ms": 115714,
+      "name": "SUV - Remix",
+      "url": "https://open.spotify.com/track/3NC8cCoF495lDMjXDyNvhd"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -747,6 +731,22 @@
       "duration_ms": 149170,
       "name": "Palha\u00e7ada Speed",
       "url": "https://open.spotify.com/track/0ehjQBJZp0dpOv1oCZFHGE"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
+        "url": "https://open.spotify.com/album/55NOFy7Em1EvBc8ZY5vIuX"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
+      "url": "https://open.spotify.com/track/05UzengsM8WqaRbwgLcn6f"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -791,26 +791,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Ametista (Speed Up)",
-        "url": "https://open.spotify.com/album/1HcOE3ol5qAHGmldOsgMbd"
-      },
-      "artists": [
-        {
-          "name": "WZ MC",
-          "url": "https://open.spotify.com/artist/61NU9Rh9OeA6dK1xXsqdud"
-        },
-        {
-          "name": "AyDucz",
-          "url": "https://open.spotify.com/artist/0EAZjy1z2Tl4FCc58ivbqZ"
-        }
-      ],
-      "duration_ms": 107095,
-      "name": "Ametista - Speed Up",
-      "url": "https://open.spotify.com/track/00YEk4Jfp0hvzA9Jlbp11s"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Conto do Pescador (Speed Version)",
         "url": "https://open.spotify.com/album/3LICvuGYphRaseJNrNAO0N"
       },
@@ -831,18 +811,22 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
+        "name": "Ametista (Speed Up)",
+        "url": "https://open.spotify.com/album/1HcOE3ol5qAHGmldOsgMbd"
       },
       "artists": [
         {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+          "name": "WZ MC",
+          "url": "https://open.spotify.com/artist/61NU9Rh9OeA6dK1xXsqdud"
+        },
+        {
+          "name": "AyDucz",
+          "url": "https://open.spotify.com/artist/0EAZjy1z2Tl4FCc58ivbqZ"
         }
       ],
-      "duration_ms": 176538,
-      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
+      "duration_ms": 107095,
+      "name": "Ametista - Speed Up",
+      "url": "https://open.spotify.com/track/00YEk4Jfp0hvzA9Jlbp11s"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -907,6 +891,38 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "Ah Vai Ter Que Descer - Remix",
+        "url": "https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv"
+      },
+      "artists": [
+        {
+          "name": "LC DE VV",
+          "url": "https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p"
+        }
+      ],
+      "duration_ms": 102511,
+      "name": "Ah Vai Ter Que Descer - Remix",
+      "url": "https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 176538,
+      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
         "url": "https://open.spotify.com/album/3xRQIsFyx99ERIDNL7T7eA"
       },
@@ -931,38 +947,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Como Era Antes",
-        "url": "https://open.spotify.com/album/6ftwzFoSNWFnJLcZ2seY98"
-      },
-      "artists": [
-        {
-          "name": "rs9",
-          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
-        }
-      ],
-      "duration_ms": 64480,
-      "name": "Como Era Antes... (Speed Up)",
-      "url": "https://open.spotify.com/track/1ehN4TuEBlGb3ievwvTIhQ"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Ah Vai Ter Que Descer - Remix",
-        "url": "https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv"
-      },
-      "artists": [
-        {
-          "name": "LC DE VV",
-          "url": "https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p"
-        }
-      ],
-      "duration_ms": 102511,
-      "name": "Ah Vai Ter Que Descer - Remix",
-      "url": "https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Virgulado",
         "url": "https://open.spotify.com/album/6N1NIsdnVMvU9SGAFcOgSk"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
-        "url": "https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh"
+        "name": "Como Era Antes",
+        "url": "https://open.spotify.com/album/6ftwzFoSNWFnJLcZ2seY98"
       },
       "artists": [
         {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+          "name": "rs9",
+          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
         }
       ],
-      "duration_ms": 160421,
-      "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
-      "url": "https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8"
+      "duration_ms": 64480,
+      "name": "Como Era Antes... (Speed Up)",
+      "url": "https://open.spotify.com/track/1ehN4TuEBlGb3ievwvTIhQ"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -1123,6 +1107,22 @@
       "duration_ms": 154818,
       "name": "Rede Social - Speed",
       "url": "https://open.spotify.com/track/0FIjebtfvcayZNDzG993SH"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
+        "url": "https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 160421,
+      "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
+      "url": "https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8"
     },
     {
       "added_at": "2023-12-27 14:18:14",

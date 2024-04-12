@@ -2,7 +2,7 @@
 
 ### [All Out 70s](https://open.spotify.com/playlist/37i9dQZF1DWTJ7xPn4vNaz)
 
-> The biggest songs of the 1970s\. Cover: ABBA
+> The biggest songs of the 1970s\. Cover: Stevie Wonder
 
 552 songs - 1 day 13 hr 10 min
 
@@ -11,7 +11,7 @@
 | [\(Don't Fear\) The Reaper](https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Agents Of Fortune](https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt) | 5:08 | 2019-06-25 |  |
 | [\(Shake, Shake, Shake\) Shake Your Booty](https://open.spotify.com/track/4mn7iv4DYJxPYbPy5R0nPE) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [Part 3](https://open.spotify.com/album/7nb5eaxuDO4jbOxk0euRJv) | 3:05 | 2019-06-22 | 2021-10-12 |
 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul) | 4:33 | 2019-11-30 | 2021-06-14 |
-| [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 | 2019-05-26\* |  |
+| [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 | 2019-05-26\* | 2024-04-12 |
 | [A Case of You](https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 4:23 | 2019-06-21 | 2022-06-08 |
 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 | 2019-05-26\* |  |
 | [A Little Less Conversation](https://open.spotify.com/track/5Fpe2DMiC7BujUQeZFY6IV) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Almost in Love](https://open.spotify.com/album/37RnDHLg68pu4owUWJYmMt) | 2:00 | 2019-11-30 | 2021-10-14 |
@@ -230,7 +230,7 @@
 | [I'll Be There](https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Third Album](https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG) | 3:57 | 2019-07-16 | 2021-10-13 |
 | [I'll Never Fall in Love Again](https://open.spotify.com/track/0Bx8q1kYXV4PUf4cKwszAG) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Sings Burt Bacharach](https://open.spotify.com/album/4FGkmrsBTrNdmVqUIAaRKJ) | 3:01 | 2021-04-08 | 2022-01-23 |
 | [I'm Every Woman](https://open.spotify.com/track/2M55R2A9IAhLdsCGFj8r8k) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Epiphany: The Best of Chaka Khan, Vol\. 1](https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe) | 4:09 | 2019-06-21 | 2021-10-12 |
-| [I'm Not In Love](https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [The Original Soundtrack](https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj) | 6:06 | 2019-05-26\* | 2024-03-02 |
+| [I'm Not In Love](https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [The Original Soundtrack](https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj) | 6:06 | 2019-05-26\* |  |
 | [I'm Your Boogie Man](https://open.spotify.com/track/6mjlbRIgMTf2nqY0kq1rOJ) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [KC & the Sunshine Band, Pt\. 3..\. and More](https://open.spotify.com/album/1nxHfb1EerQyKdT1aLSXf6) | 4:02 | 2019-07-17 | 2021-05-26 |
 | [If I Can't Have You \- From "Saturday Night Fever"](https://open.spotify.com/track/7hIo2An8IJ0gBtzogU7Lud) | [Yvonne Elliman](https://open.spotify.com/artist/2d6JU9LvNhZR7AAtu4x2rS) | [Saturday Night Fever \(The Original Movie Soundtrack\)](https://open.spotify.com/album/6kFmH2VMMFaUrK4QhY4hLi) | 2:58 | 2019-06-21 | 2022-03-05 |
 | [If You Don't Know Me by Now \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/3oI95Uihdvu7uCiirC1DQA) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [The Best Of Harold Melvin & The Blue Notes: If You Don't Know Me By Now \(Featuring Teddy Pendergrass\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/4FyAsercGqajQeEdk2Isj6) | 3:25 | 2019-06-26 | 2021-10-16 |

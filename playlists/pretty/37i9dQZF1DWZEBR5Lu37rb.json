@@ -1,12 +1,12 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 56674,
+  "num_followers": 56781,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTA1NmMyZDA0YzdkMjk2NDVhZmExNWRiYTBiOWYyZjlmNDRiY2Zk",
+  "snapshot_id": "MTcxMDkyNjU1MiwwMDAwMDAwMDEzNTE2YWE1ZWM4MTI5OGIzNzc4MzRiYTM4ZjI5YjU5",
   "tracks": [
     {
       "added_at": "2024-02-13 07:43:01",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
-        "name": "ODO",
-        "url": "https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i"
-      },
-      "artists": [
-        {
-          "name": "A\u1e63a",
-          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "ODO",
-      "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
         "name": "Alusa Why Are You Topless?",
         "url": "https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 281860,
       "name": "Chikwere",
       "url": "https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu"
+    },
+    {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
+        "name": "ODO",
+        "url": "https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i"
+      },
+      "artists": [
+        {
+          "name": "A\u1e63a",
+          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "ODO",
+      "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
+        "name": "Sweet Sensation",
+        "url": "https://open.spotify.com/album/5rvGWT1H7j1qDjTQsLetPM"
+      },
+      "artists": [
+        {
+          "name": "Orezi",
+          "url": "https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD"
+        },
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "duration_ms": 210651,
+      "name": "Sweet Sensation",
+      "url": "https://open.spotify.com/track/0XSE0EfkNkGtb6Bbhd0ae4"
+    },
+    {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
         "name": "uThando",
         "url": "https://open.spotify.com/album/3iFIu4LucpvAw23loKDVOk"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 484285,
       "name": "uThando",
       "url": "https://open.spotify.com/track/17gVmpZcORWwkNnDLoqgC2"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
-        "name": "Sweet Sensation",
-        "url": "https://open.spotify.com/album/5rvGWT1H7j1qDjTQsLetPM"
-      },
-      "artists": [
-        {
-          "name": "Orezi",
-          "url": "https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD"
-        },
-        {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
-        }
-      ],
-      "duration_ms": 210651,
-      "name": "Sweet Sensation",
-      "url": "https://open.spotify.com/track/0XSE0EfkNkGtb6Bbhd0ae4"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
-        "name": "Ntumba",
-        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
-      },
-      "artists": [
-        {
-          "name": "Ringo Madlingozi",
-          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
-        }
-      ],
-      "duration_ms": 265506,
-      "name": "Ndiyagodola",
-      "url": "https://open.spotify.com/track/5PIYT6wbHYd1z4wUOavkUH"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
         "name": "Mr Serious",
         "url": "https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 293613,
       "name": "Mthande",
       "url": "https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4"
+    },
+    {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
+        "name": "Ntumba",
+        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
+      },
+      "artists": [
+        {
+          "name": "Ringo Madlingozi",
+          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
+        }
+      ],
+      "duration_ms": 265506,
+      "name": "Ndiyagodola",
+      "url": "https://open.spotify.com/track/5PIYT6wbHYd1z4wUOavkUH"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
-        "name": "Nomvula",
-        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
-      },
-      "artists": [
-        {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
-        }
-      ],
-      "duration_ms": 382186,
-      "name": "I'd Like",
-      "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
         "name": "Ebusuku",
         "url": "https://open.spotify.com/album/0HQ1l9VkXO0eXVCjGCophv"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 221819,
       "name": "Prosecco",
       "url": "https://open.spotify.com/track/3hU7AL6FCDZwnPADD88544"
+    },
+    {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
+        "name": "Nomvula",
+        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
+      },
+      "artists": [
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "duration_ms": 382186,
+      "name": "I'd Like",
+      "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
-        "name": "Songs in The Key of Love",
-        "url": "https://open.spotify.com/album/2U2yQrvQtQFSCabDSxl8mK"
-      },
-      "artists": [
-        {
-          "name": "Berita",
-          "url": "https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Ndicel'ikiss",
-      "url": "https://open.spotify.com/track/6xLM23LrQKss6kiLNUK9vE"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
         "name": "Sawa Sawa",
         "url": "https://open.spotify.com/album/6YGk7QcA9LkknK66j3JGsw"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 215400,
       "name": "Ritwa Riaku",
       "url": "https://open.spotify.com/track/05sESPfWsXLK9EXaIS4ki9"
+    },
+    {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
+        "name": "Songs in The Key of Love",
+        "url": "https://open.spotify.com/album/2U2yQrvQtQFSCabDSxl8mK"
+      },
+      "artists": [
+        {
+          "name": "Berita",
+          "url": "https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Ndicel'ikiss",
+      "url": "https://open.spotify.com/track/6xLM23LrQKss6kiLNUK9vE"
     },
     {
       "added_at": "2024-02-13 07:43:01",

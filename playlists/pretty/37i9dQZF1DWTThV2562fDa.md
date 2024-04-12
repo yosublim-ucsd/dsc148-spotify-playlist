@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTThV2562fDa.md) - [plain]
 
 > Enjoy the soundtracks of the Netflix original Korean drama Squid Game\. \(전세계를 강타한 넷플릭스 오리지널 한국 드라마 오징어게임의 사운드 트랙들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,624 likes - 24 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,623 likes - 24 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTThV2562fDa.md) - [plain]
 | 23 | [Dawn](https://open.spotify.com/track/3x5kegiXk53hWQiK1jraV3) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 6:41 |
 | 24 | [Let’s Go Out Tonight](https://open.spotify.com/track/3UGvD1GlibzODZGxddpzAl) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 3:27 |
 
-Snapshot ID: `MCxhZGQ2YzY4MWUxODI5MTM4ZDc5MDFlNzYyZDNmOWM4NGU1ZGQzMTIx`
+Snapshot ID: `MTY4NjkxODcwOSwwMDAwMDAwMDUzN2IxNTg0ZjljMWFiM2YyN2FkZDE0NjIyM2VhMTEz`

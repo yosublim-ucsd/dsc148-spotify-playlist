@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 
 > This is Kenny G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,622 likes - 47 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,672 likes - 47 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 46 | [Don't Know Why \(feat\. David Benoit\)](https://open.spotify.com/track/6OYTX5S8bqRA7CeUtpzBR5) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [David Benoit](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) | [At Last...The Duets Album](https://open.spotify.com/album/4XyegEYaF8gFxDI4OB3T4W) | 4:32 |
 | 47 | [One More Time \(feat\. Chante Moore\)](https://open.spotify.com/track/3jWIQKsrPtAxQEWJ0V89xR) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo) | [Ultimate Kenny G](https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P) | 4:01 |
 
-Snapshot ID: `MCw2OWRmMWJiYzFiNWI2MjQxMzI4ZjIwM2IzNGIxZWQ5NTQ1MjE5Yjdk`
+Snapshot ID: `MTcxMjcwNzIwMCwwMDAwMDAwMDUwNDdlODI3ZTJiZWZiYzg0YTkwYjYyMmRhZjJkMjEx`

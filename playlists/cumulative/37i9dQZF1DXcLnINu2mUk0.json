@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Rony Fuego e Loony Johnson.",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Salah, Timor YSF, MC Zaquin",
   "name": "Seda",
   "tracks": [
     {
@@ -2554,7 +2554,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 206553,
       "name": "Cores",
       "url": "https://open.spotify.com/track/4dbrAqUbdbzDXHYr9rZTSr"
@@ -3728,6 +3728,32 @@
       "duration_ms": 223961,
       "name": "EU SEI",
       "url": "https://open.spotify.com/track/7BN2gjCwesbpg6fk2AgRvB"
+    },
+    {
+      "album": {
+        "name": "Eu Sei #6",
+        "url": "https://open.spotify.com/album/7zxYPMBvLHPqSbpMQsl7V1"
+      },
+      "artists": [
+        {
+          "name": "Salah",
+          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
+        },
+        {
+          "name": "Timor YSF",
+          "url": "https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO"
+        },
+        {
+          "name": "MC Zaquin",
+          "url": "https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165957,
+      "name": "Eu Sei #6",
+      "url": "https://open.spotify.com/track/14iGjeiHaM9xTqjNYqANNL"
     },
     {
       "album": {

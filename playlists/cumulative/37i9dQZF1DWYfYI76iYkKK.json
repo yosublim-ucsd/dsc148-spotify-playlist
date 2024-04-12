@@ -2452,7 +2452,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 235764,
       "name": "\u5584\u826f\u7684\u6211\u5011 (\u5f71\u96c6\u300a\u4e0d\u5920\u5584\u826f\u7684\u6211\u5011\u300b\u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/1OxW5HUdYBZVCuiPGUPXhb"
@@ -4517,6 +4517,24 @@
     },
     {
       "album": {
+        "name": "\u662f\u4f60\u6cbb\u7652\u4e86\u6211\u7684\u5b64\u55ae",
+        "url": "https://open.spotify.com/album/0poaQZmzUoFK0I4vGaFIJq"
+      },
+      "artists": [
+        {
+          "name": "Sandy Lam",
+          "url": "https://open.spotify.com/artist/3K2hOAx9MPhduvDf2qguro"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201675,
+      "name": "\u662f\u4f60\u6cbb\u7652\u4e86\u6211\u7684\u5b64\u55ae",
+      "url": "https://open.spotify.com/track/04tUeaYn8y9H1qohdFoajG"
+    },
+    {
+      "album": {
         "name": "\u662f\u771f\u7684",
         "url": "https://open.spotify.com/album/3VPjlieNDk642y3Eyf8HYx"
       },
@@ -4546,7 +4564,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 231371,
       "name": "\u6642\u5149\u539a\u79ae",
       "url": "https://open.spotify.com/track/6uoLPWe7aBoQjWEHFGrKf9"
@@ -5972,6 +5990,24 @@
       "duration_ms": 231057,
       "name": "\u8239\u5230\u6a4b\u982d\u81ea\u7136\u76f4",
       "url": "https://open.spotify.com/track/4Sfk5EfGrDR3b3QLCWU7CU"
+    },
+    {
+      "album": {
+        "name": "\u300a\u4e0d\u5920\u5584\u826f\u7684\u6211\u5011\u300b\u6232\u5287\u97f3\u6a02\u8a2d\u8a08\u5c08\u8f2f",
+        "url": "https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC"
+      },
+      "artists": [
+        {
+          "name": "Tanya Chua",
+          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349541,
+      "name": "\u82ac\u862d\u8ddd\u96e2",
+      "url": "https://open.spotify.com/track/1OvQbBToQ5gMPs7bwqUbbz"
     },
     {
       "album": {

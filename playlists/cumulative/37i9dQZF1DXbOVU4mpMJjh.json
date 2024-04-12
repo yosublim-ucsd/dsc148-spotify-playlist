@@ -1409,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "Another Fairytale",
+        "url": "https://open.spotify.com/album/5uCV7xBcsS9iJXd6UPKUr6"
+      },
+      "artists": [
+        {
+          "name": "Urskogen Jazz",
+          "url": "https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153225,
+      "name": "Another Fairytale",
+      "url": "https://open.spotify.com/track/6q49DPa2Q5D8ZNi6Hz62uJ"
+    },
+    {
+      "album": {
         "name": "Anse Source d'Argent",
         "url": "https://open.spotify.com/album/78HJ40CFyeOvdOhGy9LItG"
       },
@@ -2088,7 +2106,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 198273,
       "name": "Beautiful Friendship",
       "url": "https://open.spotify.com/track/5gNyYlp835GvqvIl0Vp4xV"
@@ -2508,6 +2526,24 @@
       "duration_ms": 193330,
       "name": "Blue Moonshine",
       "url": "https://open.spotify.com/track/67Dn2vbyUSRJEMVJaOqOPu"
+    },
+    {
+      "album": {
+        "name": "Blue Note Balladry",
+        "url": "https://open.spotify.com/album/5be4DYOcI8m9j5sTM0dW3X"
+      },
+      "artists": [
+        {
+          "name": "The Belleville Band",
+          "url": "https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259376,
+      "name": "Blue Note Balladry",
+      "url": "https://open.spotify.com/track/2b9dU6yCmyjSdQfTN22sZl"
     },
     {
       "album": {
@@ -2948,7 +2984,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 246061,
       "name": "But Beautiful",
       "url": "https://open.spotify.com/track/52LmAJCy3r74r5Ce64aYZJ"
@@ -4348,7 +4384,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 365880,
       "name": "Dim",
       "url": "https://open.spotify.com/track/6XE5oVQWVz9XsYloOkHMt4"
@@ -5922,7 +5958,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 388040,
       "name": "For Wee Folks",
       "url": "https://open.spotify.com/track/7kFpCWoKe2iqZSsBe9xwm5"
@@ -8761,6 +8797,24 @@
     },
     {
       "album": {
+        "name": "Interpret as You May",
+        "url": "https://open.spotify.com/album/27kM4gSwJZcuaaKCprR5Ih"
+      },
+      "artists": [
+        {
+          "name": "Kendrettes",
+          "url": "https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218362,
+      "name": "Interpret as You May",
+      "url": "https://open.spotify.com/track/49LoxJXxHRRPb0dSNgYtwU"
+    },
+    {
+      "album": {
         "name": "Into The Unknown",
         "url": "https://open.spotify.com/album/0Ifmedg8QIdPrxzJm7eekM"
       },
@@ -10644,7 +10698,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 140939,
       "name": "Love In Technicolor",
       "url": "https://open.spotify.com/track/4Hn9MbDM7PSVjjRd7tTI4A"
@@ -12549,6 +12603,24 @@
     },
     {
       "album": {
+        "name": "Need You Here",
+        "url": "https://open.spotify.com/album/5fb0JVW12CPXXIZQ4LIcW4"
+      },
+      "artists": [
+        {
+          "name": "Urban Jazz Junction",
+          "url": "https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248500,
+      "name": "Need You Here",
+      "url": "https://open.spotify.com/track/6U31miey75JtdzenSiTToi"
+    },
+    {
+      "album": {
         "name": "Neon Nightscape",
         "url": "https://open.spotify.com/album/3o4zbbXblhFCJSanZqQqqn"
       },
@@ -14399,6 +14471,24 @@
     },
     {
       "album": {
+        "name": "Railroad Tracks",
+        "url": "https://open.spotify.com/album/3BcaPbeGTCHVSMhgj3ZFSg"
+      },
+      "artists": [
+        {
+          "name": "Tiril Brandt",
+          "url": "https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192248,
+      "name": "Railroad Tracks",
+      "url": "https://open.spotify.com/track/6sxvsyHI6XCCnnEt2IYDdB"
+    },
+    {
+      "album": {
         "name": "Reflections in Blue",
         "url": "https://open.spotify.com/album/4y2Qcm0gdpw1ibhfj4QZD4"
       },
@@ -15725,6 +15815,24 @@
     },
     {
       "album": {
+        "name": "Something Is Off",
+        "url": "https://open.spotify.com/album/46tskQAFmLIuN7IQVyTmAC"
+      },
+      "artists": [
+        {
+          "name": "Nouvelle Mar\u00e9e",
+          "url": "https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235221,
+      "name": "Something Is Off",
+      "url": "https://open.spotify.com/track/2kBY2bMjKdRSWbu3zhh2Ap"
+    },
+    {
+      "album": {
         "name": "Sometime Ago",
         "url": "https://open.spotify.com/album/1EC43KDhKglDOxqSQA9vbe"
       },
@@ -16170,7 +16278,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 454200,
       "name": "Star Crossed Lovers",
       "url": "https://open.spotify.com/track/7KuOy0As2XsXoA4HupFo6v"
@@ -17018,7 +17126,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 185323,
       "name": "That Lingering Feeling",
       "url": "https://open.spotify.com/track/3hCYV3GlOiuywPLW6zchgr"
@@ -17058,6 +17166,24 @@
       "duration_ms": 293946,
       "name": "That's All",
       "url": "https://open.spotify.com/track/0d43eTmA0tQP9ortsZQ9hN"
+    },
+    {
+      "album": {
+        "name": "That's All",
+        "url": "https://open.spotify.com/album/1NG2MHtqLO0f4BAZGSOFN7"
+      },
+      "artists": [
+        {
+          "name": "Saginaw Society",
+          "url": "https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182485,
+      "name": "That's All",
+      "url": "https://open.spotify.com/track/59mVrBgcjofN5aU96PPOqj"
     },
     {
       "album": {
@@ -18927,6 +19053,24 @@
     },
     {
       "album": {
+        "name": "Two Blocks Away",
+        "url": "https://open.spotify.com/album/6TbsvECm8IeduEiVDQ6W2a"
+      },
+      "artists": [
+        {
+          "name": "Jules Moreau",
+          "url": "https://open.spotify.com/artist/4EgOpuGf3Qe7DYYol4AJCz"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Two Blocks Away",
+      "url": "https://open.spotify.com/track/7dpeRPzopCJK29V4pueY8K"
+    },
+    {
+      "album": {
         "name": "All The Way-EP",
         "url": "https://open.spotify.com/album/6SGi9R8T8BfGSwhg6fjtEG"
       },
@@ -20340,7 +20484,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 214455,
       "name": "Would You Mind?",
       "url": "https://open.spotify.com/track/4CC7JBuwQKHCSCxf5hc6SK"

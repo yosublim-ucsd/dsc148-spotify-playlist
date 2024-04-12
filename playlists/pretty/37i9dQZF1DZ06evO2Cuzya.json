@@ -1,12 +1,12 @@
 {
   "description": "This is Gracie Abrams. The essential tracks, all in one playlist.",
-  "num_followers": 70764,
+  "num_followers": 70853,
   "original_name": "This Is Gracie Abrams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmZkZTM3ZTVjMjE1NDA0MzE0NjM0OTU4YTZlNjYyODY3ZThlZGM5",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDkzMGJiYzRiZThkMTA5NzA2MzNkMzM5NDI2OWM5OTM0",
   "tracks": [
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 246352,
-      "name": "Camden",
-      "url": "https://open.spotify.com/track/1NAWiOec7X7xTa24nXQFCG"
+      "duration_ms": 180488,
+      "name": "The Bottom",
+      "url": "https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y"
     },
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 180488,
-      "name": "The Bottom",
-      "url": "https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y"
+      "duration_ms": 246352,
+      "name": "Camden",
+      "url": "https://open.spotify.com/track/1NAWiOec7X7xTa24nXQFCG"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Ocean. The essential tracks, all in one playlist.",
-  "num_followers": 236937,
+  "num_followers": 237063,
   "original_name": "This Is Danny Ocean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YThiZjJjNWRiMjg1ZmJjOThjZWI0ZTdlMjk0MWUwZTQwNzMyYjYy",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDc4M2I5ZjUxZDdkMGZlMzZmZTQ2NDA5NTBmZDQyZTQx",
   "tracks": [
     {
       "added_at": null,
@@ -339,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emeyc\u00e9",
-        "url": "https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 176222,
-      "name": "Emeyc\u00e9",
-      "url": "https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Insomnio",
         "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 185546,
       "name": "Bailarina",
       "url": "https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emeyc\u00e9",
+        "url": "https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 176222,
+      "name": "Emeyc\u00e9",
+      "url": "https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pronto",
-        "url": "https://open.spotify.com/album/3BYgxxZDSXIfoa6Z7pz2NZ"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 228218,
-      "name": "Pronto",
-      "url": "https://open.spotify.com/track/76v3J11Zq0HwkJqQLyw7sJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuando Amanezca (feat. Danny Ocean, Justin Quiles, Feid)",
         "url": "https://open.spotify.com/album/6WjiLNVEpAtgN4XTwxRvnA"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 187492,
       "name": "Cuando Amanezca (feat. Danny Ocean, Justin Quiles, Feid)",
       "url": "https://open.spotify.com/track/0yx82WHSiVRekLwqfxQkvJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pronto",
+        "url": "https://open.spotify.com/album/3BYgxxZDSXIfoa6Z7pz2NZ"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 228218,
+      "name": "Pronto",
+      "url": "https://open.spotify.com/track/76v3J11Zq0HwkJqQLyw7sJ"
     },
     {
       "added_at": null,

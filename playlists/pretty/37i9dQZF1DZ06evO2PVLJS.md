@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PVLJS.md) - [plain]
 
 ### [This Is Vicente Fernández](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PVLJS)
 
-> This is Vicente Fernández\. The essential tracks, all in one playlist.
+> This Is Vicente Fernández\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 999,275 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 999,498 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PVLJS.md) - [plain]
 | 49 | [El Hombre Que Más Te Amó](https://open.spotify.com/track/3L1JzwKjjUr76VOdM9zwHk) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hombre Que Más Te Amo](https://open.spotify.com/album/1mHnKPJaeo49qWrVILI3FO) | 3:16 |
 | 50 | [Miraron Llorar a un Hombre](https://open.spotify.com/track/2FkpqyehpuEhvkEMsOEg69) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [A Pesar De Todo](https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso) | 3:23 |
 
-Snapshot ID: `MCwzYmU3OTcxNzVlMDBkMmQzZWI1YWJlYzgzOWQxZjYwZmNjMWUxNjUy`
+Snapshot ID: `MTcxMjcwNzIwMCwwMDAwMDAwMGQxZGM0ZGRkMzdkYzZlOTMwM2QwNmYzNDhkMmRhZDQy`

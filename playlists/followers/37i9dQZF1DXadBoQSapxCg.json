@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 310493,
+  "2024-04-12": 310504,
   "date_first_scraped": "2023-09-18",
   "description": "Apaga a luz e deixa rolar.",
   "name": "Rala e Rola",
@@ -149,7 +149,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 137333,
       "name": "Apela\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0IN3WGJIqcwnypFHtGpoZJ"
@@ -1365,6 +1365,28 @@
       "duration_ms": 185139,
       "name": "Tenho Voc\u00ea",
       "url": "https://open.spotify.com/track/2FJrDD1ZvsUg9klCy4LjCj"
+    },
+    {
+      "album": {
+        "name": "Um Dia Qualquer",
+        "url": "https://open.spotify.com/album/2zz4INOhhY4YbXpIrcoaIr"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189850,
+      "name": "Um Dia Qualquer",
+      "url": "https://open.spotify.com/track/3eQGPLAGqZWrJ7Xk51bVXp"
     },
     {
       "album": {

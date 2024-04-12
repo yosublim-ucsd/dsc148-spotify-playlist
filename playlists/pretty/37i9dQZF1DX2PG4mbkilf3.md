@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is r&b in Canada, elevate your aura with Liza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,283 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,343 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 20 | [that's how it goes](https://open.spotify.com/track/5qtk6yMO0JXqtEzwEAsREF) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [that's how it goes](https://open.spotify.com/album/70M43ZOMnWArjX8dsVx5Ap) | 3:59 |
 | 21 | [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 |
 | 22 | [release! \(THE KRAKEN\)](https://open.spotify.com/track/1io6ZvYgR23E6HEEkfza6G) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [release! \(THE KRAKEN\)](https://open.spotify.com/album/7tX0YPMk6534CBiqHDpY0D) | 2:44 |
-| 23 | [Popular \(with Playboi Carti & Madonna\)](https://open.spotify.com/track/7GUhiAHLoVy1V8ucQuZ3CB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Highlights \(Deluxe\)](https://open.spotify.com/album/18sR8zHx4zsVJUI4bHWuPC) | 3:35 |
+| 23 | [Popular \(with Playboi Carti & Madonna\) \- From The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \(Music from the HBO Original Series\)](https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i) | 3:35 |
 | 24 | [Bleeding Me Dry \- A COLORS SHOW](https://open.spotify.com/track/4bBjJXHNQPiUdY0L90dO4D) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Bleeding Me Dry \- A COLORS SHOW](https://open.spotify.com/album/0tT4aJMUh0ToD5vEFhhPnh) | 3:33 |
 | 25 | [Eyes Closed](https://open.spotify.com/track/0l0UDr9M10FQAMkq8jcIf8) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People](https://open.spotify.com/album/3c2sTUBeNCa5Nf6HACiyA3) | 4:32 |
 | 26 | [Ain't Love \(feat\. Cam Griff\)](https://open.spotify.com/track/5TU32ghk2CPY2DHXxt3v5k) | [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf), [Cam Griff](https://open.spotify.com/artist/08VOhx07DNsS86zMNvXdPL) | [Ain't Love \(feat\. Cam Griff\)](https://open.spotify.com/album/1rSFyEed1CCMn1JAEIimdw) | 2:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [been a long day](https://open.spotify.com/track/08AAf8wcx8aq1V9n2ROwqq) | [kaiyel](https://open.spotify.com/artist/03rXop4hKhPSjd6S6oQNUn) | [been a long day](https://open.spotify.com/album/0c7BQEPfu2VWawWVAlg0ry) | 2:38 |
 | 100 | [LIE LIE LIE!](https://open.spotify.com/track/0pAQYA3DItRcxctQCGM2AH) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [LIE LIE LIE!](https://open.spotify.com/album/2NnP52zmXOENLm19DojzmS) | 2:28 |
 
-Snapshot ID: `MCxjZjUzODI3NDM0Y2VkODg4NDMzYjBkY2FmYWUxZDViZDA0Yzc2NTZl`
+Snapshot ID: `MTcxMjI4OTYwMCwwMDAwMDAwMDhlN2VlNmVjZTVhYzNkNzYwYjJhY2Y4NGQ2MTQ4M2Iz`

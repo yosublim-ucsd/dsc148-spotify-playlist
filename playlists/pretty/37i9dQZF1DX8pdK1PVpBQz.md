@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: total tommy  Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,674 likes - 85 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,678 likes - 85 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 84 | [selfish](https://open.spotify.com/track/4BATH08Zoh6qqlnnukWWqJ) | [Gabby Nacua](https://open.spotify.com/artist/2qvbmHsVyNd9JzMWFe1jbK), [Déjà Miru](https://open.spotify.com/artist/5oX0eBe2oPNBcYxeihnGGw) | [selfish](https://open.spotify.com/album/6odXg3fnjorPKcRhveYNss) | 2:31 |
 | 85 | [Happy Place](https://open.spotify.com/track/3tqPTEzjnmY9dDlkbZHP7Z) | [Kitschen Boy](https://open.spotify.com/artist/3us25I84azA5CwbzFMB8vC) | [Happy Place](https://open.spotify.com/album/3UAMMOaR8YPYa03CC6vtua) | 3:17 |
 
-Snapshot ID: `MCw4YjZjOTI2NzQzZDRmYzMwMGQ3NGQwMTVlNGVjY2FjYzllZDVjYmQz`
+Snapshot ID: `MTcxMjU1MDg2MCwwMDAwMDAwMDZlMGFhYzBjZGVlNjlmNzI0MDJhMTEzMDY4YTU1ZDE3`

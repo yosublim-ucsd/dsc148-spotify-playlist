@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:09LCTrVGnMsGbxexUFJoap\">Lacey Sturm</a> ",
-  "num_followers": 148109,
+  "num_followers": 148167,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2M3YTdlZDI5OTEzODVlM2I2ZWE2MDNhOTNlMWRkOGVjZmQ4YTk4",
+  "snapshot_id": "MTcwMDI1ODg5NSwwMDAwMDAwMDZmOGM3ZWVmYjAxY2YzYjQ4NWNmODc5MjYzN2E4NTg3",
   "tracks": [
     {
       "added_at": "2023-11-17 22:08:15",
@@ -319,18 +319,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Long Live the Rebels",
-        "url": "https://open.spotify.com/album/15add9fux55wlIQygXNPz9"
+        "name": "of Beauty and Rage",
+        "url": "https://open.spotify.com/album/4Kn0DsnXrrWm4buuVNIyBJ"
       },
       "artists": [
         {
-          "name": "Disciple",
-          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+          "name": "Red",
+          "url": "https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk"
         }
       ],
-      "duration_ms": 243699,
-      "name": "Erase",
-      "url": "https://open.spotify.com/track/5ZCEWXE5I4l6x76GZA2Xby"
+      "duration_ms": 289720,
+      "name": "Yours Again",
+      "url": "https://open.spotify.com/track/57fh50SS5Igc0u6LuHuZHN"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -347,6 +347,22 @@
       "duration_ms": 180537,
       "name": "Surrogates",
       "url": "https://open.spotify.com/track/35SrlqVrYmRxAB4g54ow9z"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Long Live the Rebels",
+        "url": "https://open.spotify.com/album/15add9fux55wlIQygXNPz9"
+      },
+      "artists": [
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        }
+      ],
+      "duration_ms": 243699,
+      "name": "Erase",
+      "url": "https://open.spotify.com/track/5ZCEWXE5I4l6x76GZA2Xby"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -427,22 +443,6 @@
       "duration_ms": 219151,
       "name": "The First & the Last",
       "url": "https://open.spotify.com/track/4MJoEFLiEMkDZch8l3J63z"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "of Beauty and Rage",
-        "url": "https://open.spotify.com/album/4Kn0DsnXrrWm4buuVNIyBJ"
-      },
-      "artists": [
-        {
-          "name": "Red",
-          "url": "https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk"
-        }
-      ],
-      "duration_ms": 289720,
-      "name": "Yours Again",
-      "url": "https://open.spotify.com/track/57fh50SS5Igc0u6LuHuZHN"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Farewell to Midnight",
-        "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
-      },
-      "artists": [
-        {
-          "name": "As We Ascend",
-          "url": "https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1"
-        }
-      ],
-      "duration_ms": 214315,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "The Final Battle",
         "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 233686,
       "name": "Ashes to Ashes",
       "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Farewell to Midnight",
+        "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
+      },
+      "artists": [
+        {
+          "name": "As We Ascend",
+          "url": "https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1"
+        }
+      ],
+      "duration_ms": 214315,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Honor & Glory",
-        "url": "https://open.spotify.com/album/2itu4IaIrGFui5Y117djYw"
-      },
-      "artists": [
-        {
-          "name": "Honor & Glory",
-          "url": "https://open.spotify.com/artist/16bPRQeTKQ7kM03xe3n3e6"
-        }
-      ],
-      "duration_ms": 271159,
-      "name": "Fear of Missing Out",
-      "url": "https://open.spotify.com/track/4NvVIO4OXlYGLXTqcnl9EC"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Live Again",
         "url": "https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Wake Me Up",
-        "url": "https://open.spotify.com/album/5fowoa7JGYZ3k75dQyCfTY"
+        "name": "Honor & Glory",
+        "url": "https://open.spotify.com/album/2itu4IaIrGFui5Y117djYw"
       },
       "artists": [
         {
-          "name": "Living Scars",
-          "url": "https://open.spotify.com/artist/5XIE35eMDOvXmZPHyE0mGE"
+          "name": "Honor & Glory",
+          "url": "https://open.spotify.com/artist/16bPRQeTKQ7kM03xe3n3e6"
         }
       ],
-      "duration_ms": 253740,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/4o8ncJ9YOfkBTrXpyCjy4y"
+      "duration_ms": 271159,
+      "name": "Fear of Missing Out",
+      "url": "https://open.spotify.com/track/4NvVIO4OXlYGLXTqcnl9EC"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/5fowoa7JGYZ3k75dQyCfTY"
+      },
+      "artists": [
+        {
+          "name": "Living Scars",
+          "url": "https://open.spotify.com/artist/5XIE35eMDOvXmZPHyE0mGE"
+        }
+      ],
+      "duration_ms": 253740,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/4o8ncJ9YOfkBTrXpyCjy4y"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
         "name": "Death Stare",
         "url": "https://open.spotify.com/album/2RxRyFBmCUY7KplNaAux3i"
       },
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Acoustic - EP",
-        "url": "https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA"
-      },
-      "artists": [
-        {
-          "name": "Decyfer Down",
-          "url": "https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B"
-        }
-      ],
-      "duration_ms": 239552,
-      "name": "Burn Back the Sun",
-      "url": "https://open.spotify.com/track/56ergFXREcLtf2aAWSG5Au"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Pariah",
         "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 237522,
       "name": "Fame",
       "url": "https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Acoustic - EP",
+        "url": "https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA"
+      },
+      "artists": [
+        {
+          "name": "Decyfer Down",
+          "url": "https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B"
+        }
+      ],
+      "duration_ms": 239552,
+      "name": "Burn Back the Sun",
+      "url": "https://open.spotify.com/track/56ergFXREcLtf2aAWSG5Au"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Melancholy Machines",
-        "url": "https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz"
-      },
-      "artists": [
-        {
-          "name": "Death Therapy",
-          "url": "https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo"
-        }
-      ],
-      "duration_ms": 255980,
-      "name": "Pls Snd Hlp",
-      "url": "https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Dark Cold Night",
         "url": "https://open.spotify.com/album/2eJRAVWbt44uZ2Ce0bMhcB"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 281117,
       "name": "Dark Cold Night",
       "url": "https://open.spotify.com/track/72bKH2Kp1BT69a3xjYkej0"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Melancholy Machines",
+        "url": "https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz"
+      },
+      "artists": [
+        {
+          "name": "Death Therapy",
+          "url": "https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo"
+        }
+      ],
+      "duration_ms": 255980,
+      "name": "Pls Snd Hlp",
+      "url": "https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Blood of the Son",
-        "url": "https://open.spotify.com/album/4Frfc6QdL7kZtfTh19WJHt"
-      },
-      "artists": [
-        {
-          "name": "Brother Hamm",
-          "url": "https://open.spotify.com/artist/52knD2OLkz6oIjppQwD7Jd"
-        }
-      ],
-      "duration_ms": 340000,
-      "name": "Blood of the Son",
-      "url": "https://open.spotify.com/track/2lAaxALfW5C4OEYuOGTAqU"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Strong Enough to Live",
         "url": "https://open.spotify.com/album/5iaVtM0KucT2XDISJjmRTP"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 220140,
       "name": "Strong Enough to Live (Acoustic)",
       "url": "https://open.spotify.com/track/0YQBnvW2XtRrygrgn4sYbl"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Blood of the Son",
+        "url": "https://open.spotify.com/album/4Frfc6QdL7kZtfTh19WJHt"
+      },
+      "artists": [
+        {
+          "name": "Brother Hamm",
+          "url": "https://open.spotify.com/artist/52knD2OLkz6oIjppQwD7Jd"
+        }
+      ],
+      "duration_ms": 340000,
+      "name": "Blood of the Son",
+      "url": "https://open.spotify.com/track/2lAaxALfW5C4OEYuOGTAqU"
     },
     {
       "added_at": "2023-11-17 22:08:15",

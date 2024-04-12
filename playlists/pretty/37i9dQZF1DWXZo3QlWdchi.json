@@ -1,12 +1,12 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 300611,
+  "num_followers": 300643,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDNlYmJlZDkzYWY0MDcxMzk5MzFmZmNlYzBkMTdmNjk4NjBmNTY3",
+  "snapshot_id": "MTcwOTg2Njg2MCwwMDAwMDAwMDQ3MDNkYzcwNzkxNTA5Mjc5MGRlZWYwZDFmYzM4Zjkz",
   "tracks": [
     {
       "added_at": "2024-03-08 03:01:00",
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Ac\u00fastico Jota Quest",
-        "url": "https://open.spotify.com/album/5op3qEsyQ81iVROB97nWd9"
+        "name": "Come What(ever) May [Special Edition]",
+        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
       },
       "artists": [
         {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
         }
       ],
-      "duration_ms": 323882,
-      "name": "Do Seu Lado - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3wYP8mfPEMBmCjT3DcG2la"
+      "duration_ms": 267253,
+      "name": "Wicked Game - Acoustic; Live",
+      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Come What(ever) May [Special Edition]",
-        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
+        "name": "Ac\u00fastico Jota Quest",
+        "url": "https://open.spotify.com/album/5op3qEsyQ81iVROB97nWd9"
       },
       "artists": [
         {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
         }
       ],
-      "duration_ms": 267253,
-      "name": "Wicked Game - Acoustic; Live",
-      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
+      "duration_ms": 323882,
+      "name": "Do Seu Lado - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3wYP8mfPEMBmCjT3DcG2la"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Capital Inicial Ac\u00fastico NYC (Ao Vivo) [Vers\u00e3o Deluxe + Faixa Extra]",
-        "url": "https://open.spotify.com/album/2lahfyiTR3XXoGDIhzb9oN"
-      },
-      "artists": [
-        {
-          "name": "Capital Inicial",
-          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
-        }
-      ],
-      "duration_ms": 65965,
-      "name": "Welcome To The Sky (Intro) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2cfUKb4GlITzFHWKO844GX"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "A C\u00e9u Aberto (Ao Vivo)",
         "url": "https://open.spotify.com/album/3YMSBwHkhEE4yfpzQqzXHu"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 244733,
       "name": "Dan\u00e7a do Tempo - Ao Vivo",
       "url": "https://open.spotify.com/track/5kB97u7TFIsfor7faFWtvO"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Capital Inicial Ac\u00fastico NYC (Ao Vivo) [Vers\u00e3o Deluxe + Faixa Extra]",
+        "url": "https://open.spotify.com/album/2lahfyiTR3XXoGDIhzb9oN"
+      },
+      "artists": [
+        {
+          "name": "Capital Inicial",
+          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+        }
+      ],
+      "duration_ms": 65965,
+      "name": "Welcome To The Sky (Intro) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2cfUKb4GlITzFHWKO844GX"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "Imprevis\u00edvel (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5j4JF0JaqOzsPxIfXP0bDf"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "duration_ms": 188821,
+      "name": "Imprevis\u00edvel (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/0zo8ZIMMDWQNOmUNS3BIXl"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "Moska Apresenta Zoombido: Dado Villa-Lobos",
         "url": "https://open.spotify.com/album/3zLzFVZjxn13eycidc60xp"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 227541,
       "name": "O Teatro dos Vampiros",
       "url": "https://open.spotify.com/track/7kQejoMuF2whRQPOIwqWfU"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "Imprevis\u00edvel (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5j4JF0JaqOzsPxIfXP0bDf"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        }
-      ],
-      "duration_ms": 188821,
-      "name": "Imprevis\u00edvel (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/0zo8ZIMMDWQNOmUNS3BIXl"
     },
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
-        "name": "Jota Quest Ac\u00fastico CCBB LIVE EP",
-        "url": "https://open.spotify.com/album/7zxSEA6cNt4FPPZGs4yYMU"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        }
-      ],
-      "duration_ms": 190651,
-      "name": "Guerra e Paz - Ac\u00fastico Live",
-      "url": "https://open.spotify.com/track/0GqflosdHRexuPNdL0ocT6"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
         "name": "M\u00fasicas de amor",
         "url": "https://open.spotify.com/album/6vaiqih5PBwWPezVD3If7T"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 240799,
       "name": "Malandragem - Ao Vivo",
       "url": "https://open.spotify.com/track/3eF6c8ZvbGgVCiMkHITcJE"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
+        "name": "Jota Quest Ac\u00fastico CCBB LIVE EP",
+        "url": "https://open.spotify.com/album/7zxSEA6cNt4FPPZGs4yYMU"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "duration_ms": 190651,
+      "name": "Guerra e Paz - Ac\u00fastico Live",
+      "url": "https://open.spotify.com/track/0GqflosdHRexuPNdL0ocT6"
     },
     {
       "added_at": "2024-03-08 03:01:00",

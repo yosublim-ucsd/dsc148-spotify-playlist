@@ -1,12 +1,12 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 697742,
+  "num_followers": 697729,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDUzODAxZTMwMGMyNmFiYTRiMGE0NGRkZWEyOWVkYjQ2ZTU3ZmNk",
+  "snapshot_id": "MTcxMTQ1MDUxOSwwMDAwMDAwMDQ2NjZkN2JiYTgwZDYyNzNkNjA3M2QyZjYyZmI2ZDVi",
   "tracks": [
     {
       "added_at": "2024-03-26 10:55:19",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-03-26 10:55:19",
       "album": {
-        "name": "Paranoid (Remaster)",
-        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 168405,
-      "name": "Paranoid - 2012 - Remaster",
-      "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
-    },
-    {
-      "added_at": "2024-03-26 10:55:19",
-      "album": {
         "name": "One By One (Expanded Edition)",
         "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 263440,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
+    },
+    {
+      "added_at": "2024-03-26 10:55:19",
+      "album": {
+        "name": "Paranoid (Remaster)",
+        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 168405,
+      "name": "Paranoid - 2012 - Remaster",
+      "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
     },
     {
       "added_at": "2024-03-26 10:55:19",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-03-26 10:55:19",
       "album": {
-        "name": "Permission to Land",
-        "url": "https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM"
-      },
-      "artists": [
-        {
-          "name": "The Darkness",
-          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
-        }
-      ],
-      "duration_ms": 216453,
-      "name": "I Believe in a Thing Called Love",
-      "url": "https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"
-    },
-    {
-      "added_at": "2024-03-26 10:55:19",
-      "album": {
         "name": "Eliminator",
         "url": "https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 241080,
       "name": "Gimme All Your Lovin'",
       "url": "https://open.spotify.com/track/29uKzagduhFDTWPCjqaGOg"
+    },
+    {
+      "added_at": "2024-03-26 10:55:19",
+      "album": {
+        "name": "Permission to Land",
+        "url": "https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM"
+      },
+      "artists": [
+        {
+          "name": "The Darkness",
+          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "I Believe in a Thing Called Love",
+      "url": "https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"
     },
     {
       "added_at": "2024-03-26 10:55:19",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-03-26 10:55:19",
       "album": {
-        "name": "Versatile",
-        "url": "https://open.spotify.com/album/6YttNp6wg0mDmb9Pg86xBo"
+        "name": "Breakin' Outta Hell",
+        "url": "https://open.spotify.com/album/6zg7O8iR0ODT7pDibI3vfd"
       },
       "artists": [
         {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
         }
       ],
-      "duration_ms": 191440,
-      "name": "Breathe Again",
-      "url": "https://open.spotify.com/track/5KfXH2tHeTqIX9WvJwXTz1"
+      "duration_ms": 232425,
+      "name": "Breakin' Outta Hell",
+      "url": "https://open.spotify.com/track/08irH52vpSQqYM8ckrsZqg"
     }
   ],
   "unique_name": "Highway to Yell",

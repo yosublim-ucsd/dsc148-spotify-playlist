@@ -24550,10 +24550,28 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 131576,
       "name": "My Perspective",
       "url": "https://open.spotify.com/track/1tHRn6koxUE5l2Rx2ngfpZ"
+    },
+    {
+      "album": {
+        "name": "Lost Poems",
+        "url": "https://open.spotify.com/album/30D1EvMkhVtgPqVH60RKpL"
+      },
+      "artists": [
+        {
+          "name": "Jontae",
+          "url": "https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131586,
+      "name": "My Perspective",
+      "url": "https://open.spotify.com/track/59QCLgFxPqAohMf2VQYqRE"
     },
     {
       "album": {

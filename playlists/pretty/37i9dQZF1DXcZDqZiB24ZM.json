@@ -1,12 +1,12 @@
 {
   "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Dead Obies",
-  "num_followers": 9065,
+  "num_followers": 9067,
   "original_name": "Les nouveaux classiques",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjViN2U4M2RiZTNjOWQxMDM2NzMzY2VjNjU4MDNjNmU5ZTQ1MjY4",
+  "snapshot_id": "MTcxMjI3MDk0NywwMDAwMDAwMGU5ZWFjYWQ0YTMyM2ZmNGE4MDk1OTFhOTY1NmY3Zjhm",
   "tracks": [
     {
       "added_at": "2024-04-04 22:49:07",
@@ -95,26 +95,18 @@
     {
       "added_at": "2024-04-04 22:49:07",
       "album": {
-        "name": "002 / LOVE ME",
-        "url": "https://open.spotify.com/album/5leZNrFKUULuMcQjhlA2Kj"
+        "name": "Survivant",
+        "url": "https://open.spotify.com/album/4Wi38v5VLNOnKjpLebg7e0"
       },
       "artists": [
         {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Jazz Cartier",
-          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
         }
       ],
-      "duration_ms": 266599,
-      "name": "Come Inside (Kaytranada Edit)",
-      "url": "https://open.spotify.com/track/7vE5BCq8NB9aOrCo8IVhw6"
+      "duration_ms": 216360,
+      "name": "Valentina",
+      "url": "https://open.spotify.com/track/7JtZ96DZ5WJEhF4ppZfrIN"
     },
     {
       "added_at": "2024-04-04 22:49:07",
@@ -135,18 +127,26 @@
     {
       "added_at": "2024-04-04 22:49:07",
       "album": {
-        "name": "Survivant",
-        "url": "https://open.spotify.com/album/4Wi38v5VLNOnKjpLebg7e0"
+        "name": "002 / LOVE ME",
+        "url": "https://open.spotify.com/album/5leZNrFKUULuMcQjhlA2Kj"
       },
       "artists": [
         {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Jazz Cartier",
+          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
         }
       ],
-      "duration_ms": 216360,
-      "name": "Valentina",
-      "url": "https://open.spotify.com/track/7JtZ96DZ5WJEhF4ppZfrIN"
+      "duration_ms": 266599,
+      "name": "Come Inside (Kaytranada Edit)",
+      "url": "https://open.spotify.com/track/7vE5BCq8NB9aOrCo8IVhw6"
     },
     {
       "added_at": "2024-04-04 22:49:07",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-04-04 22:49:07",
       "album": {
+        "name": "Gros Big",
+        "url": "https://open.spotify.com/album/4Q36ml6qUFGkfS43RopXOq"
+      },
+      "artists": [
+        {
+          "name": "Gros Big",
+          "url": "https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0"
+        }
+      ],
+      "duration_ms": 240500,
+      "name": "La route est longue",
+      "url": "https://open.spotify.com/track/3yXbhZkrEVcGKW2d4NRwh4"
+    },
+    {
+      "added_at": "2024-04-04 22:49:07",
+      "album": {
         "name": "Undercover",
         "url": "https://open.spotify.com/album/1HpEHr7YME3TpJmHNX7x3T"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 147853,
       "name": "Undercover",
       "url": "https://open.spotify.com/track/3wz9q30Ip0dqpi4wWw6g1q"
-    },
-    {
-      "added_at": "2024-04-04 22:49:07",
-      "album": {
-        "name": "Gros Big",
-        "url": "https://open.spotify.com/album/4Q36ml6qUFGkfS43RopXOq"
-      },
-      "artists": [
-        {
-          "name": "Gros Big",
-          "url": "https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0"
-        }
-      ],
-      "duration_ms": 240500,
-      "name": "La route est longue",
-      "url": "https://open.spotify.com/track/3yXbhZkrEVcGKW2d4NRwh4"
     },
     {
       "added_at": "2024-04-04 22:49:07",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-04-04 22:49:07",
       "album": {
+        "name": "DEAD.",
+        "url": "https://open.spotify.com/album/3LKroOov310fASJk3twjmP"
+      },
+      "artists": [
+        {
+          "name": "Dead Obies",
+          "url": "https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA"
+        }
+      ],
+      "duration_ms": 279706,
+      "name": "Doo Wop",
+      "url": "https://open.spotify.com/track/17RcMFZHPrjusBlklhSKou"
+    },
+    {
+      "added_at": "2024-04-04 22:49:07",
+      "album": {
         "name": "Added Sugar",
         "url": "https://open.spotify.com/album/1EqGwkiaYljCmwbpzPO5d6"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 160000,
       "name": "Brk Frm Nrml",
       "url": "https://open.spotify.com/track/4Da8BX0odlupbRhjc4QmED"
-    },
-    {
-      "added_at": "2024-04-04 22:49:07",
-      "album": {
-        "name": "DEAD.",
-        "url": "https://open.spotify.com/album/3LKroOov310fASJk3twjmP"
-      },
-      "artists": [
-        {
-          "name": "Dead Obies",
-          "url": "https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA"
-        }
-      ],
-      "duration_ms": 279706,
-      "name": "Doo Wop",
-      "url": "https://open.spotify.com/track/17RcMFZHPrjusBlklhSKou"
     },
     {
       "added_at": "2024-04-04 22:49:07",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-04-04 22:49:07",
       "album": {
+        "name": "Henny",
+        "url": "https://open.spotify.com/album/0RgMc7wfq8zSRyYBoDSY6Z"
+      },
+      "artists": [
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        }
+      ],
+      "duration_ms": 227262,
+      "name": "Henny",
+      "url": "https://open.spotify.com/track/2kr0AZ8R4zMR6aQu0Icnzp"
+    },
+    {
+      "added_at": "2024-04-04 22:49:07",
+      "album": {
         "name": "C'est pas la qualit\u00e9 qui compte",
         "url": "https://open.spotify.com/album/3Xz40mydponIZHMBubJsSX"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 159688,
       "name": "Basilic",
       "url": "https://open.spotify.com/track/1yjWkxCO8FVKX9ETBpw3X8"
-    },
-    {
-      "added_at": "2024-04-04 22:49:07",
-      "album": {
-        "name": "Henny",
-        "url": "https://open.spotify.com/album/0RgMc7wfq8zSRyYBoDSY6Z"
-      },
-      "artists": [
-        {
-          "name": "Enima",
-          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
-        }
-      ],
-      "duration_ms": 227262,
-      "name": "Henny",
-      "url": "https://open.spotify.com/track/2kr0AZ8R4zMR6aQu0Icnzp"
     },
     {
       "added_at": "2024-04-04 22:49:07",

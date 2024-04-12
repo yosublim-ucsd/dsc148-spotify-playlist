@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 71357,
+  "2024-04-12": 71539,
   "date_first_scraped": "2023-11-11",
   "description": "she's ready for her sequel. cover: sidney prescott \ud83d\ude31\ud83d\udc51",
   "name": "pov: the final girl",
@@ -767,7 +767,7 @@
     {
       "album": {
         "name": "Woman of the Hour",
-        "url": "https://open.spotify.com/album/7bScqw7wY3piw63QTeOwzI"
+        "url": "https://open.spotify.com/album/6pJUxU739kYhn9TMecjeaV"
       },
       "artists": [
         {
@@ -778,6 +778,24 @@
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 188383,
+      "name": "Graveyard Shift",
+      "url": "https://open.spotify.com/track/2vVi1QmsQ5ntGJ1vGoxFuD"
+    },
+    {
+      "album": {
+        "name": "Woman of the Hour",
+        "url": "https://open.spotify.com/album/7bScqw7wY3piw63QTeOwzI"
+      },
+      "artists": [
+        {
+          "name": "Stela Cole",
+          "url": "https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-11",
       "duration_ms": 188394,
       "name": "Graveyard Shift",
       "url": "https://open.spotify.com/track/0UQ1DKUfMQXqgE6JEFlXnl"

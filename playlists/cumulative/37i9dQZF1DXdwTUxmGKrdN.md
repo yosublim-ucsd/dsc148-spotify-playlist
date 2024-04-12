@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-239 songs - 17 hr 30 min
+240 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Release](https://open.spotify.com/track/68JOcOeibkcTidFF6VGxwW) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [Release](https://open.spotify.com/album/7xjP0qV8h62UHwown45INg) | 4:52 | 2021-12-27 |  |
 | [Reverence](https://open.spotify.com/track/5aCHWYlwuHAnZkV0Po17Yn) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Turn It Up](https://open.spotify.com/album/2emYvyogfNZbvdVJwUFRrb) | 5:03 | 2022-04-11 |  |
 | [Revolving Door](https://open.spotify.com/track/7v6XfSM2XpK6KEVyn4Ud73) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec) | [Revolving Door](https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc) | 5:47 | 2021-12-27 |  |
-| [Romance The Rain](https://open.spotify.com/track/31w9FMhkYosHrqoHWB5BmW) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Romance the Rain](https://open.spotify.com/album/3ooWJYv4fR8z13Qbcv0qXA) | 4:49 | 2022-11-14 |  |
+| [Romance The Rain](https://open.spotify.com/track/31w9FMhkYosHrqoHWB5BmW) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Romance the Rain](https://open.spotify.com/album/3ooWJYv4fR8z13Qbcv0qXA) | 4:49 | 2022-11-14 | 2024-04-12 |
 | [Romantic Nights](https://open.spotify.com/track/5izY7hVmO6F17Le3TRtO4M) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Finger Painting](https://open.spotify.com/album/5Bc13DoOtM3LFdmx4Jl7oM) | 3:48 | 2023-01-31 |  |
 | [Romantic Nites](https://open.spotify.com/track/6IfLElgQIOE5xG8DDCC9Rp) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Finger Painting](https://open.spotify.com/album/4VCMgZaEQq8p8oNAtQPVoI) | 3:48 | 2022-01-03 | 2022-07-29 |
 | [Round And Round](https://open.spotify.com/track/4KtQuilZOf6EhdcmqMSLVP) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [Promised Land](https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM) | 3:35 | 2022-11-14 |  |
@@ -223,6 +223,7 @@
 | [Sweet Kisses](https://open.spotify.com/track/34rxNLSGAcmsjBJtpZHRtW) | [Freddie Fox](https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr) | [Limitless](https://open.spotify.com/album/3iE43BPltF4nvTGrSynFLL) | 4:54 | 2021-12-27 |  |
 | [Sweetest Somebody I Know](https://open.spotify.com/track/5eB67ISqWfSnL5JJ9nd9kK) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Blue](https://open.spotify.com/album/1tDXepai7d5pHIclDq1nFY) | 6:47 | 2022-04-11 | 2022-12-24 |
 | [Swing City](https://open.spotify.com/track/5MsQwkEceGOA8v9nrc5BnK) | [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX), [Jazmin Ghent](https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY) | [Soulmate](https://open.spotify.com/album/3gPvkf0kcggPPcxqXKYmvd) | 4:05 | 2022-01-10 |  |
+| [Tell Me Something](https://open.spotify.com/track/6KIs2Q5C8kx3UqLKxm00PC) | [Quintin Gerard W.](https://open.spotify.com/artist/6g4eHNkohXvvsUwagnrIeL) | [Tell Me Something](https://open.spotify.com/album/6Aiu0gSiVwJiRN1VavzPP4) | 4:56 | 2024-03-19 |  |
 | [Tequila Moon](https://open.spotify.com/track/4qkdBTRPwojWnqGcUSVQ3Z) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Tequila Moon](https://open.spotify.com/album/49n82PnSnIi9LFveKPH6h5) | 4:36 | 2022-07-18 |  |
 | [Tequila Moon](https://open.spotify.com/track/6CqToVNuBYHXvlzdQmZHJA) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Tequila Moon](https://open.spotify.com/album/5m4EAIIS14jJMOQyhNo3UH) | 4:36 | 2022-04-11 | 2022-04-21 |
 | [That's The Way Love Goes](https://open.spotify.com/track/6UkHSbQcqBwWZr98OSELoL) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [After The Storm](https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj) | 4:45 | 2022-01-17 | 2023-08-09 |

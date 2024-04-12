@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/3bEST1JRTy3cmNbRLTyEVb?si=ZXqGyRHTQY2VCnM6FwepgQ\">Mark Akol</a>, <a href=\"https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8?si=Rk3WycIzTcO5bsOMhdziEg\">Sipho The Gift</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs?si=OPO7p9FcTuizQfdDx0_TtQ\">Usimamane</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -604,6 +604,24 @@
       "duration_ms": 237975,
       "name": "All Day",
       "url": "https://open.spotify.com/track/2svROdMoio7v4sGPvupT4h"
+    },
+    {
+      "album": {
+        "name": "all faxx",
+        "url": "https://open.spotify.com/album/1WFEItK2dxMAUTKpNaoEBW"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171187,
+      "name": "all faxx",
+      "url": "https://open.spotify.com/track/432OxDuiDIxa0zPMxLAhrY"
     },
     {
       "album": {
@@ -2136,7 +2154,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 185604,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/38UjoTvHAPl0faBoO5ZoVX"
@@ -2928,7 +2946,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 215124,
       "name": "Cold",
       "url": "https://open.spotify.com/track/6M7jRiYZ2Ckq2bkZSNRm07"
@@ -7162,7 +7180,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 185639,
       "name": "Last Letter",
       "url": "https://open.spotify.com/track/5zf0pGzmnhhXxyXp1OPt27"

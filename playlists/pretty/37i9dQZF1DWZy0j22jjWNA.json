@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 92744,
+  "num_followers": 92773,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODkwMDRiMzg4ZWZkMGE4YTZhYzliNDI2MjU2MGI2NmE5NzYyYzZl",
+  "snapshot_id": "MTY4NjkxODEzMywwMDAwMDAwMDY2YzFhZDA1NmFjNmRjN2UyNjVhNWE3YjhhNzVlNzg0",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Mighty Refuge",
-        "url": "https://open.spotify.com/album/3gbvScgQgY27kOt15QR8zt"
-      },
-      "artists": [
-        {
-          "name": "Aaron Strumpel",
-          "url": "https://open.spotify.com/artist/5mtfJ5KHvDBiCLB2Ue1yYg"
-        }
-      ],
-      "duration_ms": 323076,
-      "name": "Spark My Heart",
-      "url": "https://open.spotify.com/track/4GkzKZVbwUKW83hKk0MfrA"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Dragons",
         "url": "https://open.spotify.com/album/2eQQ5hpGJHFQW76nobnF31"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 240630,
       "name": "Waters",
       "url": "https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Mighty Refuge",
+        "url": "https://open.spotify.com/album/3gbvScgQgY27kOt15QR8zt"
+      },
+      "artists": [
+        {
+          "name": "Aaron Strumpel",
+          "url": "https://open.spotify.com/artist/5mtfJ5KHvDBiCLB2Ue1yYg"
+        }
+      ],
+      "duration_ms": 323076,
+      "name": "Spark My Heart",
+      "url": "https://open.spotify.com/track/4GkzKZVbwUKW83hKk0MfrA"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -627,18 +627,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Under Fire",
-        "url": "https://open.spotify.com/album/5M8KlKcuRbCgIE7Yx7u99m"
+        "name": "City of Black & White Revisited",
+        "url": "https://open.spotify.com/album/2QpByGx95I9XzccW9aNVtM"
       },
       "artists": [
         {
-          "name": "Green River Ordinance",
-          "url": "https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7"
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
         }
       ],
-      "duration_ms": 258573,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/7wT7EvhnZ1MygDBoRyO9z0"
+      "duration_ms": 225837,
+      "name": "City of Black & White",
+      "url": "https://open.spotify.com/track/33dVEqsu2V7zvCIgid8PnF"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "City of Black & White Revisited",
-        "url": "https://open.spotify.com/album/2QpByGx95I9XzccW9aNVtM"
-      },
-      "artists": [
-        {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
-        }
-      ],
-      "duration_ms": 225837,
-      "name": "City of Black & White",
-      "url": "https://open.spotify.com/track/33dVEqsu2V7zvCIgid8PnF"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "When the Walls Come Crashing Down",
         "url": "https://open.spotify.com/album/4xaqP5u8jIbH7cTwTRZ3a8"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 221680,
       "name": "When the Walls Come Crashing Down (feat. Jon Foreman & Jillian Edwards)",
       "url": "https://open.spotify.com/track/6b0X26lFzNr7FnlbPTD4Qg"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Under Fire",
+        "url": "https://open.spotify.com/album/5M8KlKcuRbCgIE7Yx7u99m"
+      },
+      "artists": [
+        {
+          "name": "Green River Ordinance",
+          "url": "https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7"
+        }
+      ],
+      "duration_ms": 258573,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/7wT7EvhnZ1MygDBoRyO9z0"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Compromise",
+        "url": "https://open.spotify.com/album/3M8SOThdRPxCbOGBCKQGuh"
+      },
+      "artists": [
+        {
+          "name": "Molly Kate Kestner",
+          "url": "https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf"
+        }
+      ],
+      "duration_ms": 179748,
+      "name": "Compromise",
+      "url": "https://open.spotify.com/track/0tZSHcIwouL6HLgH0BBpUC"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Unshackled",
         "url": "https://open.spotify.com/album/3rvPQDXFMxJqtSlMzD7JSm"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 244089,
       "name": "Unshackled",
       "url": "https://open.spotify.com/track/1ZHOREB6ew670daqMQ75F0"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Compromise",
-        "url": "https://open.spotify.com/album/3M8SOThdRPxCbOGBCKQGuh"
-      },
-      "artists": [
-        {
-          "name": "Molly Kate Kestner",
-          "url": "https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf"
-        }
-      ],
-      "duration_ms": 179748,
-      "name": "Compromise",
-      "url": "https://open.spotify.com/track/0tZSHcIwouL6HLgH0BBpUC"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd"
-      },
-      "artists": [
-        {
-          "name": "Esaro",
-          "url": "https://open.spotify.com/artist/5gb8iXoOjlgn9dCXGj0TK3"
-        }
-      ],
-      "duration_ms": 201487,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Hold to the Light",
         "url": "https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 183720,
       "name": "Glow",
       "url": "https://open.spotify.com/track/2dUteNJxoMXUvnECvjvvAf"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd"
+      },
+      "artists": [
+        {
+          "name": "Esaro",
+          "url": "https://open.spotify.com/artist/5gb8iXoOjlgn9dCXGj0TK3"
+        }
+      ],
+      "duration_ms": 201487,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Dawned On Me",
-        "url": "https://open.spotify.com/album/1t9g1ZwBOn2EvDFc1copoe"
-      },
-      "artists": [
-        {
-          "name": "Brewer",
-          "url": "https://open.spotify.com/artist/1WNwNKCMaAZKRhB1PAquF2"
-        }
-      ],
-      "duration_ms": 177633,
-      "name": "Dawned On Me",
-      "url": "https://open.spotify.com/track/4rTJ1zQvTsXNAs365RWGYj"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Songs from the Valley",
         "url": "https://open.spotify.com/album/1kv20nppb2CdJLMMQ8D7AN"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 197445,
       "name": "Reciprocate",
       "url": "https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Dawned On Me",
+        "url": "https://open.spotify.com/album/1t9g1ZwBOn2EvDFc1copoe"
+      },
+      "artists": [
+        {
+          "name": "Brewer",
+          "url": "https://open.spotify.com/artist/1WNwNKCMaAZKRhB1PAquF2"
+        }
+      ],
+      "duration_ms": 177633,
+      "name": "Dawned On Me",
+      "url": "https://open.spotify.com/track/4rTJ1zQvTsXNAs365RWGYj"
     },
     {
       "added_at": "2020-09-04 04:02:00",

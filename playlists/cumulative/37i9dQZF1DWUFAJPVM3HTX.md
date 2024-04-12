@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE?si=wf2AU64KSOmNwXd1SbxUYg"> Casper Sage </a> performing at Fresh Finds, Chicago 2024\. Updates every Wednesday.
 
-2,236 songs - 4 day 18 hr 36 min
+2,237 songs - 4 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1301,7 +1301,8 @@
 | [My Lover](https://open.spotify.com/track/1yPOR3tRc2SicQ8zTaubZ5) | [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [My Lover](https://open.spotify.com/album/0XHGbQ6HdVjSBIGybE87qR) | 3:31 | 2023-03-31 | 2023-04-22 |
 | [My Own Woman](https://open.spotify.com/track/3ctFJNHXIxoXQhURSbyyVT) | [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [My Own Woman](https://open.spotify.com/album/3LvyVlKkhgT7KbYVTubjeO) | 2:43 | 2023-11-15 | 2023-11-30 |
 | [My Person](https://open.spotify.com/track/6rnbXLZ12ZlpT7putstFit) | [Meron Addis](https://open.spotify.com/artist/3rJPKKWZTceQMIRlMIHVBy) | [My Person](https://open.spotify.com/album/1OniSnlcaJ2sLmbwAoY6is) | 2:11 | 2023-02-10 | 2023-03-25 |
-| [My Perspective](https://open.spotify.com/track/1tHRn6koxUE5l2Rx2ngfpZ) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Lost Poems](https://open.spotify.com/album/4AHXjbPqu5mc0lVxmN3HcA) | 2:11 | 2024-03-29 |  |
+| [My Perspective](https://open.spotify.com/track/1tHRn6koxUE5l2Rx2ngfpZ) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Lost Poems](https://open.spotify.com/album/4AHXjbPqu5mc0lVxmN3HcA) | 2:11 | 2024-03-29 | 2024-04-12 |
+| [My Perspective](https://open.spotify.com/track/59QCLgFxPqAohMf2VQYqRE) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Lost Poems](https://open.spotify.com/album/30D1EvMkhVtgPqVH60RKpL) | 2:11 | 2024-03-29 |  |
 | [My Surprise](https://open.spotify.com/track/4ZBvPdivPyR7hnJ4t3XwDF) | [Sun](https://open.spotify.com/artist/37AvA9c8rndxYbojqst9At) | [My Surprise](https://open.spotify.com/album/4nojcy1wSuG5AQqmovDfhm) | 3:28 | 2021-10-06 | 2022-01-13 |
 | [My Way](https://open.spotify.com/track/1yDbyNGxnz7k9IMrrbFnOd) | [Korin](https://open.spotify.com/artist/0eDD2Q4izETtZS1pnTp5Fd), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [My Way](https://open.spotify.com/album/315eZb2048lQgEXUYHU81Q) | 3:21 | 2023-10-04 | 2024-01-11 |
 | [N@STY](https://open.spotify.com/track/4gakvfER14bHLM7IkBpwsn) | [Billymaree](https://open.spotify.com/artist/54WEGLBrZDqfZgZaJgrxj2) | [BETTER LEFT UNSAID](https://open.spotify.com/album/3cCLcNCX9Om2ewNHYlFtaL) | 2:16 | 2023-06-30 | 2023-08-26 |

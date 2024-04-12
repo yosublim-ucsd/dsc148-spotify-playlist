@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The freshest pop sounds\. Cover: Chappell Roan
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,619 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,631 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 59 | [Safe House](https://open.spotify.com/track/2esSObQC6pfnta4C6Crjbu) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Nothing To Lose](https://open.spotify.com/album/51Ejpf2T7D8fjeQuL45tf4) | 3:15 |
 | 60 | [Somebody New](https://open.spotify.com/track/6Se74aLQWLjOsVvg5GRQY7) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Somebody New](https://open.spotify.com/album/59PAAx06alV3da3WBAO1NK) | 2:23 |
 
-Snapshot ID: `MCwwMTNmOThlNDUzMzE5ODhhYzYzMmUyN2I1ZWU0NGIzY2ZlZWViOGE5`
+Snapshot ID: `MTcxMjY3MjU2MCwwMDAwMDAwMDk2OTA2MTIxY2JkNTAwODg4MWJiOThkM2Y4NTJkM2Nk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsZlh6idqWJ.md) - [plain]
 
 > Holiday bangers + pop bangers = a perfect holiday party!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,801 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,792 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsZlh6idqWJ.md) - [plain]
 | 49 | [Snowman \- Sped Up Version](https://open.spotify.com/track/3BwbSLW4YtIGkhCNFsHu52) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Snowman \(Sped Up Version\)](https://open.spotify.com/album/4ZGx4gR1GCT5i5zOHsRX6T) | 2:17 |
 | 50 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 |
 
-Snapshot ID: `MCxjOWI3MTM1M2NkN2MwYzMwMjZlOGY1NWVjODU0NDU3NjQ1ZjkwNjcw`
+Snapshot ID: `MTcwMzI4NjgzMSwwMDAwMDAwMGJjYzE4OTI1NWM2MTQ2MGI2ZDlmMGVlODg0ZjhiZmZl`

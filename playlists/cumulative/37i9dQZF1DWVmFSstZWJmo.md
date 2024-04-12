@@ -2,7 +2,7 @@
 
 ### [Indie Sleaze](https://open.spotify.com/playlist/37i9dQZF1DWVmFSstZWJmo)
 
-> Is "indie sleaze" in the room with us? ft\. The Strokes
+> Is "indie sleaze" in the room with us now? ft\. M.I.A
 
 207 songs - 13 hr 1 min
 

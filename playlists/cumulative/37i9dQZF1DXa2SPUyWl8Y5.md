@@ -4,7 +4,7 @@
 
 > Focus with melodic house and techno.
 
-367 songs - 1 day 16 hr 18 min
+368 songs - 1 day 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Charmer](https://open.spotify.com/track/1vCMQnSMA1ENkf01WbruXK) | [Sobek](https://open.spotify.com/artist/7id8eArvVd4finwH5fR2pL) | [Charmer](https://open.spotify.com/album/0pqXcCLbCvYkPb2da2xM8k) | 6:34 | 2020-03-17 | 2022-07-27 |
 | [Chrysalis](https://open.spotify.com/track/5wlV5kpg4XyeMUcetHoTDw) | [Clawz SG](https://open.spotify.com/artist/2Em0PWUcrHZFGLrpVv0xtb), [Mashk](https://open.spotify.com/artist/5kB9WpgrgUoKxmknyQpGHW) | [Chrysalis](https://open.spotify.com/album/7hi2OS9XFqF8n0xsn8DrCA) | 7:36 | 2019-05-26\* | 2019-09-27 |
 | [Civilist](https://open.spotify.com/track/4Nkqr387bkoRn8omFcjQnS) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [You Are Safe](https://open.spotify.com/album/7lg5i5BW3Fhmay7kEpyORQ) | 6:50 | 2019-05-26\* | 2019-07-05 |
-| [Cliff \- Einmusik Remix](https://open.spotify.com/track/27hMse6DWTePfwtnoUtsvr) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Cliff \(Einmusik Remix\)](https://open.spotify.com/album/1Y2UePUXE1qCL4DlxeO9Zy) | 7:24 | 2021-09-05 |  |
+| [Cliff \- Einmusik Remix](https://open.spotify.com/track/27hMse6DWTePfwtnoUtsvr) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Cliff \(Einmusik Remix\)](https://open.spotify.com/album/1Y2UePUXE1qCL4DlxeO9Zy) | 7:24 | 2021-09-05 | 2024-04-12 |
 | [Close to the Edge](https://open.spotify.com/track/5QC6Ze5kjWoFr3xHOXhx1N) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Close to the Edge](https://open.spotify.com/album/6fDQUCufTFl072nXDT54Hm) | 5:08 | 2022-09-02 |  |
 | [Coalescence](https://open.spotify.com/track/3P3hqAX11ByilOMaeM2uGB) | [Strinner](https://open.spotify.com/artist/1fwhAXbVWWu93TsEpwjK92) | [Strinner Presents Authentic Steyoyoke \#014](https://open.spotify.com/album/4CTCl1DvHQVliCzpa5GTMc) | 7:50 | 2019-05-26\* | 2021-05-27 |
 | [Coast Ride](https://open.spotify.com/track/7KGnlXVmZKfsadE8a577bD) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Changes](https://open.spotify.com/album/1xmLXwpj7I874BENnmJgMS) | 7:18 | 2019-06-03 | 2019-06-28 |
@@ -320,6 +320,7 @@
 | [Stone Flower \- Original](https://open.spotify.com/track/1QrxggFof36TcpeREbDAXI) | [Namito](https://open.spotify.com/artist/6E8wYeE1CsvOUO031l9QGJ) | [Stone Flower](https://open.spotify.com/album/3ZoEajMzgGXVRdiheQAVas) | 7:48 | 2019-06-23 | 2021-02-09 |
 | [Storia Infinita](https://open.spotify.com/track/0L74Azd7cF1Rrt0Nkx9n0s) | [Fran&co](https://open.spotify.com/artist/6GLpNI3XjDnspncxnnrSpX) | [Storia Infinita \- Chapter Three](https://open.spotify.com/album/417hmxteoKV7nKVsWQ46jH) | 6:58 | 2022-06-24 | 2022-07-27 |
 | [Strand](https://open.spotify.com/track/7enI1KbQAwrMcu6Zf5FScf) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [Strand](https://open.spotify.com/album/72mMdIXpng6ejTdL11KISF) | 7:48 | 2019-06-03 | 2019-11-09 |
+| [Strangers](https://open.spotify.com/track/1FUNbwPOfV2D3Juv1eoXZZ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 4:31 | 2024-04-11 |  |
 | [Stringtest](https://open.spotify.com/track/1FaIqJhS3xMyHwPUbXSrKq) | [Gaiser](https://open.spotify.com/artist/0zNtdoyO2ZA7hhYMNLh48Y) | [III](https://open.spotify.com/album/2pxvKaLrP9eJdiETYVpsfc) | 7:02 | 2019-05-27 | 2020-02-10 |
 | [Subzero \- Original Mix](https://open.spotify.com/track/7p6oXzBSPAXXz8Xb8gBPki) | [Ben Klock](https://open.spotify.com/artist/1vJHfCreWAS46V8RZ67ojo) | [Before One EP](https://open.spotify.com/album/6nDabvimKikHWteZsybtEd) | 6:23 | 2019-06-22 | 2019-11-09 |
 | [Sunday](https://open.spotify.com/track/3ZqCO6acHqEwsanRjE7OXK) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Herzensangelegenheit](https://open.spotify.com/album/5nlqi0XbTK64XzAwE0U796) | 6:06 | 2019-06-21 | 2019-11-09 |

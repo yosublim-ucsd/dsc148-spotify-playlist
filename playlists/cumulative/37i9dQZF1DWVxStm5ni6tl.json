@@ -14308,10 +14308,28 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 243428,
       "name": "Sick As Your Secrets",
       "url": "https://open.spotify.com/track/1tfbXcqMhvdB2YYkpz54Np"
+    },
+    {
+      "album": {
+        "name": "Mourning Myth",
+        "url": "https://open.spotify.com/album/40Vt4i7A5fjg79i1QH6chF"
+      },
+      "artists": [
+        {
+          "name": "Sara Sloan",
+          "url": "https://open.spotify.com/artist/0HqD7L1K0yANRk0geft2EV"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243428,
+      "name": "Sick As Your Secrets",
+      "url": "https://open.spotify.com/track/4sCctIBX5eAGv5B2u8yTb0"
     },
     {
       "album": {

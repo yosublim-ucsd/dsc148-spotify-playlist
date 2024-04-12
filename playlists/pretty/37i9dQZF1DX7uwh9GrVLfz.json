@@ -1,12 +1,12 @@
 {
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: TOTALFAT",
-  "num_followers": 118376,
+  "num_followers": 118399,
   "original_name": "Punk Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWNmYzdkZTEzMTBmMTRhYWQ4MWI2ZmRjMWYyOGQ5NzQyODA4Y2Y4",
+  "snapshot_id": "MTcxMTQ3NjQzMSwwMDAwMDAwMDU5ZTE3OWVhMTZkMjYxZThkOWE2YWQ2OTcyYmYyMDE2",
   "tracks": [
     {
       "added_at": "2024-03-26 18:07:11",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-03-26 18:07:11",
       "album": {
-        "name": "STOP THE WAR",
-        "url": "https://open.spotify.com/album/4FiPEUGopzwNJKxdA9TBaU"
-      },
-      "artists": [
-        {
-          "name": "HEY-SMITH",
-          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
-        }
-      ],
-      "duration_ms": 183009,
-      "name": "Dandadan",
-      "url": "https://open.spotify.com/track/6PiCVwbOFHXCGgKhhscqXf"
-    },
-    {
-      "added_at": "2024-03-26 18:07:11",
-      "album": {
         "name": "THE GIFT",
         "url": "https://open.spotify.com/album/2vvt4IjFm6sLlipjJCB0TH"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 142000,
       "name": "The Gift",
       "url": "https://open.spotify.com/track/4zbkeCco7LYg7hs4dSxLjR"
+    },
+    {
+      "added_at": "2024-03-26 18:07:11",
+      "album": {
+        "name": "175R BEST \u300cANNIVERSARY 1998-2018\u300d",
+        "url": "https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A"
+      },
+      "artists": [
+        {
+          "name": "175R",
+          "url": "https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI"
+        }
+      ],
+      "duration_ms": 275866,
+      "name": "SAKURA",
+      "url": "https://open.spotify.com/track/7JovoyGpmr87X05qn0gZPe"
     },
     {
       "added_at": "2024-03-26 18:07:11",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2024-03-26 18:07:11",
       "album": {
-        "name": "175R BEST \u300cANNIVERSARY 1998-2018\u300d",
-        "url": "https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A"
+        "name": "STOP THE WAR",
+        "url": "https://open.spotify.com/album/4FiPEUGopzwNJKxdA9TBaU"
       },
       "artists": [
         {
-          "name": "175R",
-          "url": "https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI"
+          "name": "HEY-SMITH",
+          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
         }
       ],
-      "duration_ms": 275866,
-      "name": "SAKURA",
-      "url": "https://open.spotify.com/track/7JovoyGpmr87X05qn0gZPe"
+      "duration_ms": 183009,
+      "name": "Dandadan",
+      "url": "https://open.spotify.com/track/6PiCVwbOFHXCGgKhhscqXf"
     },
     {
       "added_at": "2024-03-26 18:07:11",

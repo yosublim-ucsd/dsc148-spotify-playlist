@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 35052,
+  "num_followers": 35055,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODUzODZhNDBiNWNlNzg1MTYzYWYwMThkNmI1YTUzNGIwYjM0Yjhk",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMGJmNzM2YzAzMmZkODA3ZmZmYmE1OWIwZmIwZjZlZWE1",
   "tracks": [
     {
       "added_at": null,
@@ -115,22 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mali",
-        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 374106,
-      "name": "My Baby",
-      "url": "https://open.spotify.com/track/6fWKHcXxJQHV2xCiQCSTWu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nomakanjani",
         "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 275493,
       "name": "Mpundulu",
       "url": "https://open.spotify.com/track/0UqdpKfjQXx242CoKQMVqr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mali",
+        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 374106,
+      "name": "My Baby",
+      "url": "https://open.spotify.com/track/6fWKHcXxJQHV2xCiQCSTWu"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 241973,
-      "name": "Hara Lebitla",
-      "url": "https://open.spotify.com/track/1KrgwYPtJTmQX9rxVqJZFa"
+      "duration_ms": 210697,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/16MAkaxp01uHJLm6kKIu7L"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 210697,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/16MAkaxp01uHJLm6kKIu7L"
+      "duration_ms": 241973,
+      "name": "Hara Lebitla",
+      "url": "https://open.spotify.com/track/1KrgwYPtJTmQX9rxVqJZFa"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gimme Some Volume",
+        "url": "https://open.spotify.com/album/0mZUadtsJA1ax3WHtX8oAO"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 301986,
+      "name": "Matshidiso",
+      "url": "https://open.spotify.com/track/3rcrsKkRXu7EnVHLCdrUGF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ag Shame Lovey",
         "url": "https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 245973,
       "name": "I Can't Stop Loving You",
       "url": "https://open.spotify.com/track/6qhfrCJkCrQsyhqt1tpRIG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mali",
-        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 355066,
-      "name": "Ntsware - Ndibambe",
-      "url": "https://open.spotify.com/track/2CbMJFrNNXHFEJ0rfvAg8I"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gimme Some Volume",
-        "url": "https://open.spotify.com/album/0mZUadtsJA1ax3WHtX8oAO"
+        "name": "Mali",
+        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 301986,
-      "name": "Matshidiso",
-      "url": "https://open.spotify.com/track/3rcrsKkRXu7EnVHLCdrUGF"
+      "duration_ms": 355066,
+      "name": "Ntsware - Ndibambe",
+      "url": "https://open.spotify.com/track/2CbMJFrNNXHFEJ0rfvAg8I"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z"
         }
       ],
-      "duration_ms": 291640,
-      "name": "Somlandela",
-      "url": "https://open.spotify.com/track/33PtTKpTPfEdpbgVGHhnef"
+      "duration_ms": 290266,
+      "name": "Hamba Sathane",
+      "url": "https://open.spotify.com/track/5WRoiwyCUQxn4eE6WOaQKa"
     },
     {
       "added_at": null,
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z"
         }
       ],
-      "duration_ms": 290266,
-      "name": "Hamba Sathane",
-      "url": "https://open.spotify.com/track/5WRoiwyCUQxn4eE6WOaQKa"
+      "duration_ms": 291640,
+      "name": "Somlandela",
+      "url": "https://open.spotify.com/track/33PtTKpTPfEdpbgVGHhnef"
     }
   ],
   "unique_name": "This Is Brenda Fassie",

@@ -19885,6 +19885,24 @@
     },
     {
       "album": {
+        "name": "Too Many Bags",
+        "url": "https://open.spotify.com/album/6Pi67BNRnROAY7uOTnnJsL"
+      },
+      "artists": [
+        {
+          "name": "Mango Foo",
+          "url": "https://open.spotify.com/artist/7FRSHbAPSN9RLPSsh2a2rV"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131568,
+      "name": "Too Many Bags",
+      "url": "https://open.spotify.com/track/0F8YYkgyWhGNFI8jczpbwW"
+    },
+    {
+      "album": {
         "name": "Too Nice",
         "url": "https://open.spotify.com/album/0EWmeppHgwRfPwCDqA2gf1"
       },
@@ -21292,6 +21310,28 @@
       "duration_ms": 156521,
       "name": "what time is it'",
       "url": "https://open.spotify.com/track/3LqXf2UKNB5JU5vH5apbC9"
+    },
+    {
+      "album": {
+        "name": "Whatcha Got",
+        "url": "https://open.spotify.com/album/0Tx3AWtVd2l7Sffk0exqzo"
+      },
+      "artists": [
+        {
+          "name": "Lisha G",
+          "url": "https://open.spotify.com/artist/5nwxAowdUQSK1tuyVHD5lJ"
+        },
+        {
+          "name": "Trini Viv",
+          "url": "https://open.spotify.com/artist/0BdYblPVnK3wnWREfBQ712"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101721,
+      "name": "Whatcha Got",
+      "url": "https://open.spotify.com/track/4JNuJwEaU0fIZb9mrIurtw"
     },
     {
       "album": {

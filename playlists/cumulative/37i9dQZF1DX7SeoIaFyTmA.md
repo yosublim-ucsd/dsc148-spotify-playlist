@@ -2,7 +2,7 @@
 
 ### [Salsa Classics](https://open.spotify.com/playlist/37i9dQZF1DX7SeoIaFyTmA)
 
-> Timeless Salsa from your favorite legends\. Cover: Rubén Blades
+> Timeless Salsa from your favorite legends\. Cover: Willie Colón
 
 144 songs - 12 hr 26 min
 

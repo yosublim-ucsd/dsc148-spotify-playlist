@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eS6Eu8zMZN.md) - [plain]
 
 > Rock tranqui para concentrarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,286 likes - 77 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,300 likes - 77 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eS6Eu8zMZN.md) - [plain]
 | 4 | [Por Un Amor](https://open.spotify.com/track/30V5WvVaHmvbKnpPm31hjr) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Por Un Amor / Melodrama](https://open.spotify.com/album/37hmlwEAzNfuy2KScrXA4W) | 2:49 |
 | 5 | [Ecos y Ruido](https://open.spotify.com/track/1u2aFq1CWNi97H2JQlYRKW) | [Kill Aniston](https://open.spotify.com/artist/4ltjTwCiYMegbR6ZA3Jbor) | [Ecos y Ruido](https://open.spotify.com/album/7yMKIXccKrlZt7A9EbLlgW) | 3:36 |
 | 6 | [Para Siempre Joven](https://open.spotify.com/track/2Uv1xKRSxG7Z5XUoEKAVIt) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP), [Macha](https://open.spotify.com/artist/16QcrGi8KouBjobR8dEIoz) | [Para Siempre Joven](https://open.spotify.com/album/5umvuDuDhHfv6mrfwKtqm7) | 3:21 |
-| 7 | [Enemigo \(Acústico\)](https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enemigo \(Acústico\)](https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB) | 4:02 |
+| 7 | [Enemigo Noches De Salón \- Noches De Salón](https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enemigo Noches De Salón](https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB) | 4:02 |
 | 8 | [LOTO](https://open.spotify.com/track/01c2emv4rHsA4KZ5gBTLhv) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [LOTO](https://open.spotify.com/album/69ejRbPjsusOcKQm6ZwsSg) | 2:46 |
 | 9 | [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 |
 | 10 | [mis compas tan aquí](https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [mis compas tan aquí](https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN) | 3:50 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eS6Eu8zMZN.md) - [plain]
 | 76 | [Desvanecer \- Versión Acústica](https://open.spotify.com/track/1ZilxgQ1uFsJZAKOdYCBLl) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 3:01 |
 | 77 | [El Matador](https://open.spotify.com/track/3GSFaZ8m1nTEzZaZ5bco11) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [El Matador](https://open.spotify.com/album/4iRUuWS0A140Fm7tjKchrj) | 2:31 |
 
-Snapshot ID: `MCw1MDEzZmIzZDEyNTUzODg2YjNhOWFkZTQxYmY3YTI3Y2NjYTFiZjlh`
+Snapshot ID: `MTcwOTU2OTY1NiwwMDAwMDAwMDVmMDc1ZDUyY2JhZDdmNTgyY2Y3MTdjMzE4OWQwMmJh`

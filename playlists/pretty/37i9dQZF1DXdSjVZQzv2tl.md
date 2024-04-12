@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: George Henrique & Rodrigo, Guilherme & Benuto
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,696,932 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,697,862 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [CHEIRO NA CAMISETA](https://open.spotify.com/track/6qYTjIEgne0leltNnvpSIM) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [CHEIRO NA CAMISETA](https://open.spotify.com/album/4KtTqtXRtTk6tfozdYmgNv) | 2:35 |
 | 50 | [Leão](https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 2](https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf) | 2:46 |
 
-Snapshot ID: `MCwyMDFiZjhjNmUwNDhjNmU2MGMxMTAyYWY1ODliZWQ2ODRjYzZhY2Fl`
+Snapshot ID: `MTcxMjI4NjE4MCwwMDAwMDAwMGMyNDdkZDViNGUwOGFlZjczMWM1MDYzZDM0MDBmNTJl`

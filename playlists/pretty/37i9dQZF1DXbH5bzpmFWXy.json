@@ -1,12 +1,12 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. \nEme Malafe, Lefty SM en portada.",
-  "num_followers": 164673,
+  "num_followers": 164744,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTRkZTAwMzliMzk4YTVkNDlmMDQxMTQ5YmE3NDNhYWMxYmFhYjBi",
+  "snapshot_id": "MTcxMDQ4MjQwMCwwMDAwMDAwMGU2YTA5OTVkMjMzY2Y3ZTE2ZjhhMDg0OWU3YWFkOGU0",
   "tracks": [
     {
       "added_at": "2024-03-15 06:00:00",
@@ -675,6 +675,26 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Shorty Party",
+        "url": "https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "name": "La Kelly",
+          "url": "https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Shorty Party",
+      "url": "https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "NO SON KLLE",
         "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 223586,
       "name": "NO SON KLLE",
       "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Shorty Party",
-        "url": "https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        },
-        {
-          "name": "La Kelly",
-          "url": "https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Shorty Party",
-      "url": "https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Don Ismael",
-        "url": "https://open.spotify.com/album/1EhSwLRbSkj0YkBCgMoHFj"
-      },
-      "artists": [
-        {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 158938,
-      "name": "Don Ismael",
-      "url": "https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "EXCENTRICON",
         "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
       },
@@ -1263,22 +1243,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "BELICONTENTO",
-        "url": "https://open.spotify.com/album/1Oo4iemjn5zgW9ah4p1gp7"
+        "name": "Don Ismael",
+        "url": "https://open.spotify.com/album/1EhSwLRbSkj0YkBCgMoHFj"
       },
       "artists": [
         {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
         },
         {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 151680,
-      "name": "BELICONTENTO",
-      "url": "https://open.spotify.com/track/5WoQIn0VwI7h4D5QWMDBx2"
+      "duration_ms": 158938,
+      "name": "Don Ismael",
+      "url": "https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1307,6 +1287,26 @@
       "duration_ms": 155909,
       "name": "KATY PERRY",
       "url": "https://open.spotify.com/track/7F9wULTYG7mrp7bykMoU2K"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "BELICONTENTO",
+        "url": "https://open.spotify.com/album/1Oo4iemjn5zgW9ah4p1gp7"
+      },
+      "artists": [
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 151680,
+      "name": "BELICONTENTO",
+      "url": "https://open.spotify.com/track/5WoQIn0VwI7h4D5QWMDBx2"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "UN SHOT",
-        "url": "https://open.spotify.com/album/2jvXp1bCPloqmYullNXsye"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 202328,
-      "name": "UN SHOT",
-      "url": "https://open.spotify.com/track/45jgvHSwcq3vx0CxN0iBUx"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "El Chamaquito",
         "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 139863,
       "name": "El Chamaquito",
       "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "UN SHOT",
+        "url": "https://open.spotify.com/album/2jvXp1bCPloqmYullNXsye"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 202328,
+      "name": "UN SHOT",
+      "url": "https://open.spotify.com/track/45jgvHSwcq3vx0CxN0iBUx"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "CIUDAD DEL SOL",
-        "url": "https://open.spotify.com/album/7JVqErrplUbFAA5xSvavG5"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 224770,
-      "name": "CIUDAD DEL SOL",
-      "url": "https://open.spotify.com/track/6n8Cw2zuSUtfa9RsaQB8Wt"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "3 de la Ma\u00f1ana",
         "url": "https://open.spotify.com/album/1LxvD7UdloYCTIamKIPlNm"
       },
@@ -1703,6 +1687,38 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Un Tabaco (En Vivo)",
+        "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
+      },
+      "artists": [
+        {
+          "name": "Juanpa Salazar",
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
+        }
+      ],
+      "duration_ms": 207625,
+      "name": "Un Tabaco (En Vivo)",
+      "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "CIUDAD DEL SOL",
+        "url": "https://open.spotify.com/album/7JVqErrplUbFAA5xSvavG5"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 224770,
+      "name": "CIUDAD DEL SOL",
+      "url": "https://open.spotify.com/track/6n8Cw2zuSUtfa9RsaQB8Wt"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "En las Calles",
         "url": "https://open.spotify.com/album/4qOhvAmdxDJOirM21yLFAP"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 203221,
       "name": "En las Calles",
       "url": "https://open.spotify.com/track/1kzn8QyrcNw1h8SACHzYMR"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Un Tabaco (En Vivo)",
-        "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
-      },
-      "artists": [
-        {
-          "name": "Juanpa Salazar",
-          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
-        }
-      ],
-      "duration_ms": 207625,
-      "name": "Un Tabaco (En Vivo)",
-      "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
     },
     {
       "added_at": "2024-03-15 06:00:00",

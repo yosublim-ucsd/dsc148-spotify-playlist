@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 7034,
+  "num_followers": 7058,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWE3ODMzZWVkNzQ0ZjAyNGI4ZTNjYTA1MWRjOTU4YmY2MmVhMTBm",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDE2YTNhYWNlZTc5MWRjNDFmZjdjZGNhMDgyNGFkZmUx",
   "tracks": [
     {
       "added_at": null,
@@ -115,26 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAMN!",
-        "url": "https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr"
-      },
-      "artists": [
-        {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 117606,
-      "name": "DAMN!",
-      "url": "https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mechero",
         "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
       },
@@ -151,6 +131,26 @@
       "duration_ms": 155392,
       "name": "Mechero",
       "url": "https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAMN!",
+        "url": "https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr"
+      },
+      "artists": [
+        {
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 117606,
+      "name": "DAMN!",
+      "url": "https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo"
     },
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiki Tai",
-        "url": "https://open.spotify.com/album/2oDU6B51AlXlUm5DkoDcUu"
-      },
-      "artists": [
-        {
-          "name": "Amuna",
-          "url": "https://open.spotify.com/artist/7gtLIOTPwX9CdZttm7ETVt"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 152316,
-      "name": "Tiki Tai",
-      "url": "https://open.spotify.com/track/3Ss1uzI0Eh1pAvVOTIixR5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AHORA O NUNCA",
         "url": "https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 156448,
       "name": "AHORA O NUNCA",
       "url": "https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiki Tai",
+        "url": "https://open.spotify.com/album/2oDU6B51AlXlUm5DkoDcUu"
+      },
+      "artists": [
+        {
+          "name": "Amuna",
+          "url": "https://open.spotify.com/artist/7gtLIOTPwX9CdZttm7ETVt"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 152316,
+      "name": "Tiki Tai",
+      "url": "https://open.spotify.com/track/3Ss1uzI0Eh1pAvVOTIixR5"
     },
     {
       "added_at": null,

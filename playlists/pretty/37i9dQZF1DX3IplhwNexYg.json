@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Sl\u00f8tface",
-  "num_followers": 114653,
+  "num_followers": 114654,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGZiZWMzMWI3Mzc1ODFmYmJjNWY1OTgyODg2Njc1OTY4ZWYzMGE0",
+  "snapshot_id": "MTcxMDUwNjExNywwMDAwMDAwMDlmYTk1NTAxMGM3ZjYyOTJjZGQ4M2QwZmVlN2Q0YWY5",
   "tracks": [
     {
       "added_at": "2024-03-15 12:32:20",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-03-15 12:32:20",
       "album": {
-        "name": "Billie Toppy",
-        "url": "https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 195289,
-      "name": "Billie Toppy",
-      "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
-    },
-    {
-      "added_at": "2024-03-15 12:32:20",
-      "album": {
         "name": "How Have You Been?",
         "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
       },
@@ -243,18 +227,34 @@
     {
       "added_at": "2024-03-15 12:32:20",
       "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+        "name": "Billie Toppy",
+        "url": "https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 158293,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK"
+      "duration_ms": 195289,
+      "name": "Billie Toppy",
+      "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
+    },
+    {
+      "added_at": "2024-03-15 12:32:20",
+      "album": {
+        "name": "Only God Was Above Us",
+        "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 227506,
+      "name": "Gen-X Cops",
+      "url": "https://open.spotify.com/track/7EBmnpMsikHSmwOoCnAKrd"
     },
     {
       "added_at": "2024-03-15 12:32:20",
@@ -275,18 +275,18 @@
     {
       "added_at": "2024-03-15 12:32:20",
       "album": {
-        "name": "Only God Was Above Us",
-        "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y"
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
       "artists": [
         {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 227506,
-      "name": "Gen-X Cops",
-      "url": "https://open.spotify.com/track/7EBmnpMsikHSmwOoCnAKrd"
+      "duration_ms": 158293,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK"
     },
     {
       "added_at": "2024-03-15 12:32:20",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-03-15 12:32:20",
       "album": {
-        "name": "One Bad Day",
-        "url": "https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 200248,
-      "name": "One Bad Day",
-      "url": "https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y"
-    },
-    {
-      "added_at": "2024-03-15 12:32:20",
-      "album": {
         "name": "Two Star & The Dream Police",
         "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 198295,
       "name": "Alesis",
       "url": "https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG"
+    },
+    {
+      "added_at": "2024-03-15 12:32:20",
+      "album": {
+        "name": "One Bad Day",
+        "url": "https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 200248,
+      "name": "One Bad Day",
+      "url": "https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y"
     },
     {
       "added_at": "2024-03-15 12:32:20",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-03-15 12:32:20",
       "album": {
-        "name": "I Got Heaven",
-        "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
-      },
-      "artists": [
-        {
-          "name": "Mannequin Pussy",
-          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/2hVbai5ZN5yykTbSteAPKy"
-    },
-    {
-      "added_at": "2024-03-15 12:32:20",
-      "album": {
         "name": "MADRA",
         "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw"
       },
@@ -567,18 +551,18 @@
     {
       "added_at": "2024-03-15 12:32:20",
       "album": {
-        "name": "Bleach",
-        "url": "https://open.spotify.com/album/1vM3k1nzp5CL2dsIHgPA2x"
+        "name": "I Got Heaven",
+        "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
       },
       "artists": [
         {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
         }
       ],
-      "duration_ms": 249751,
-      "name": "Bleach",
-      "url": "https://open.spotify.com/track/71hZZmCpeIly6IDECDKDun"
+      "duration_ms": 207600,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/2hVbai5ZN5yykTbSteAPKy"
     },
     {
       "added_at": "2024-03-15 12:32:20",
@@ -599,18 +583,18 @@
     {
       "added_at": "2024-03-15 12:32:20",
       "album": {
-        "name": "Waiting to Spill",
-        "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/1vM3k1nzp5CL2dsIHgPA2x"
       },
       "artists": [
         {
-          "name": "The Backseat Lovers",
-          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
         }
       ],
-      "duration_ms": 320186,
-      "name": "Slowing Down",
-      "url": "https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4"
+      "duration_ms": 249751,
+      "name": "Bleach",
+      "url": "https://open.spotify.com/track/71hZZmCpeIly6IDECDKDun"
     },
     {
       "added_at": "2024-03-15 12:32:20",
@@ -631,34 +615,18 @@
     {
       "added_at": "2024-03-15 12:32:20",
       "album": {
-        "name": "I Got Heaven",
-        "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
+        "name": "Waiting to Spill",
+        "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
       },
       "artists": [
         {
-          "name": "Mannequin Pussy",
-          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
         }
       ],
-      "duration_ms": 249440,
-      "name": "Nothing Like",
-      "url": "https://open.spotify.com/track/7sWKIQsoW2dlKMNobxXoXp"
-    },
-    {
-      "added_at": "2024-03-15 12:32:20",
-      "album": {
-        "name": "I Want You To Know Me",
-        "url": "https://open.spotify.com/album/4ybZv7O8powGQPEhTK9cD0"
-      },
-      "artists": [
-        {
-          "name": "Sea Girls",
-          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
-        }
-      ],
-      "duration_ms": 217040,
-      "name": "I Want You To Know Me",
-      "url": "https://open.spotify.com/track/2lIl1LDlcnAoYnDOE6Xngi"
+      "duration_ms": 320186,
+      "name": "Slowing Down",
+      "url": "https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4"
     },
     {
       "added_at": "2024-03-15 12:32:20",
@@ -679,6 +647,22 @@
     {
       "added_at": "2024-03-15 12:32:20",
       "album": {
+        "name": "I Want You To Know Me",
+        "url": "https://open.spotify.com/album/4ybZv7O8powGQPEhTK9cD0"
+      },
+      "artists": [
+        {
+          "name": "Sea Girls",
+          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
+        }
+      ],
+      "duration_ms": 217040,
+      "name": "I Want You To Know Me",
+      "url": "https://open.spotify.com/track/2lIl1LDlcnAoYnDOE6Xngi"
+    },
+    {
+      "added_at": "2024-03-15 12:32:20",
+      "album": {
         "name": "Laugh Track",
         "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 269440,
       "name": "Deep End (Paul's in Pieces)",
       "url": "https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS"
+    },
+    {
+      "added_at": "2024-03-15 12:32:20",
+      "album": {
+        "name": "I Got Heaven",
+        "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "duration_ms": 249440,
+      "name": "Nothing Like",
+      "url": "https://open.spotify.com/track/7sWKIQsoW2dlKMNobxXoXp"
     },
     {
       "added_at": "2024-03-15 12:32:20",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-03-15 12:32:20",
       "album": {
-        "name": "Fishbrain",
-        "url": "https://open.spotify.com/album/0ynJtdryiHqFKeHHSCRjnc"
-      },
-      "artists": [
-        {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        }
-      ],
-      "duration_ms": 277285,
-      "name": "Fishbrain",
-      "url": "https://open.spotify.com/track/0xEHXAoanem0YrAZ2HMFRY"
-    },
-    {
-      "added_at": "2024-03-15 12:32:20",
-      "album": {
         "name": "strawberry chainsaw",
         "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 155262,
       "name": "Holdup",
       "url": "https://open.spotify.com/track/0l8o0hshn4qrihNPvvJu2l"
+    },
+    {
+      "added_at": "2024-03-15 12:32:20",
+      "album": {
+        "name": "Fishbrain",
+        "url": "https://open.spotify.com/album/0ynJtdryiHqFKeHHSCRjnc"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        }
+      ],
+      "duration_ms": 277285,
+      "name": "Fishbrain",
+      "url": "https://open.spotify.com/track/0xEHXAoanem0YrAZ2HMFRY"
     },
     {
       "added_at": "2024-03-15 12:32:20",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-03-15 12:32:20",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
-    },
-    {
-      "added_at": "2024-03-15 12:32:20",
-      "album": {
         "name": "atomic",
         "url": "https://open.spotify.com/album/7IYojlDZvmGIURf0qTulLd"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 169190,
       "name": "atomic",
       "url": "https://open.spotify.com/track/5kBBVaQUEisiw5AHIGbRn4"
+    },
+    {
+      "added_at": "2024-03-15 12:32:20",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
     },
     {
       "added_at": "2024-03-15 12:32:20",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-03-15 12:32:20",
       "album": {
-        "name": "Follow You Down",
-        "url": "https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc"
-      },
-      "artists": [
-        {
-          "name": "Vistas",
-          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
-        }
-      ],
-      "duration_ms": 136435,
-      "name": "Follow You Down",
-      "url": "https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA"
-    },
-    {
-      "added_at": "2024-03-15 12:32:20",
-      "album": {
         "name": "Kiss Ur Face Forever",
         "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 166556,
       "name": "Kiss Ur Face Forever",
       "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
+    },
+    {
+      "added_at": "2024-03-15 12:32:20",
+      "album": {
+        "name": "Follow You Down",
+        "url": "https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc"
+      },
+      "artists": [
+        {
+          "name": "Vistas",
+          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
+        }
+      ],
+      "duration_ms": 136435,
+      "name": "Follow You Down",
+      "url": "https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA"
     },
     {
       "added_at": "2024-03-15 12:32:20",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-03-15 12:32:20",
       "album": {
-        "name": "Emotional Creature",
-        "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 202693,
-      "name": "Weeds",
-      "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
-    },
-    {
-      "added_at": "2024-03-15 12:32:20",
-      "album": {
         "name": "R&B",
         "url": "https://open.spotify.com/album/1fr1VcE4Jo3WoaUcOi7chU"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 168063,
       "name": "R&B",
       "url": "https://open.spotify.com/track/6yRsDLeo8qszcOS2u11ZDn"
+    },
+    {
+      "added_at": "2024-03-15 12:32:20",
+      "album": {
+        "name": "Emotional Creature",
+        "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 202693,
+      "name": "Weeds",
+      "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
     },
     {
       "added_at": "2024-03-15 12:32:20",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2024-03-15 12:32:20",
       "album": {
-        "name": "Waste My Life",
-        "url": "https://open.spotify.com/album/5mvlXivNaikCN2SW6YhHSH"
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
       },
       "artists": [
         {
-          "name": "Alice Merton",
-          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
         }
       ],
-      "duration_ms": 160853,
-      "name": "Waste My Life",
-      "url": "https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z"
+      "duration_ms": 196800,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
     },
     {
       "added_at": "2024-03-15 12:32:20",
@@ -1247,18 +1247,34 @@
     {
       "added_at": "2024-03-15 12:32:20",
       "album": {
-        "name": "Blue Weekend",
-        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
+        "name": "Waste My Life",
+        "url": "https://open.spotify.com/album/5mvlXivNaikCN2SW6YhHSH"
       },
       "artists": [
         {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
+      "duration_ms": 160853,
+      "name": "Waste My Life",
+      "url": "https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z"
+    },
+    {
+      "added_at": "2024-03-15 12:32:20",
+      "album": {
+        "name": "Nearly Daffodils",
+        "url": "https://open.spotify.com/album/5wsCwJ7cW59jEebWfqBosB"
+      },
+      "artists": [
+        {
+          "name": "English Teacher",
+          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+        }
+      ],
+      "duration_ms": 224858,
+      "name": "Nearly Daffodils",
+      "url": "https://open.spotify.com/track/27gZNSZFWAdADpJ4sEbhZM"
     },
     {
       "added_at": "2024-03-15 12:32:20",
@@ -1307,22 +1323,6 @@
       "duration_ms": 160346,
       "name": "Knuckles",
       "url": "https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8"
-    },
-    {
-      "added_at": "2024-03-15 12:32:20",
-      "album": {
-        "name": "Nearly Daffodils",
-        "url": "https://open.spotify.com/album/5wsCwJ7cW59jEebWfqBosB"
-      },
-      "artists": [
-        {
-          "name": "English Teacher",
-          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
-        }
-      ],
-      "duration_ms": 224858,
-      "name": "Nearly Daffodils",
-      "url": "https://open.spotify.com/track/27gZNSZFWAdADpJ4sEbhZM"
     }
   ],
   "unique_name": "pulp",

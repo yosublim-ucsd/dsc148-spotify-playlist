@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Germany.",
-  "num_followers": 2142462,
+  "num_followers": 2142507,
   "original_name": "Top 50 - Germany",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzY2MTEzNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzY2MjAwMDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "ZEIT, DASS SICH WAS DREHT",
         "url": "https://open.spotify.com/album/3kGCNaXI68tIspcsuWQ1yy"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/1NifMX1JqCz9caJowG8dxq"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "Fireworks & Rollerblades",
         "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "Belong Together",
         "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
@@ -81,95 +81,7 @@
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
-      "album": {
-        "name": "K\u00fcssen",
-        "url": "https://open.spotify.com/album/4B2Ne3gGGMnP9zd3PdyuF1"
-      },
-      "artists": [
-        {
-          "name": "01099",
-          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
-        },
-        {
-          "name": "Gustav",
-          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
-        },
-        {
-          "name": "Zachi",
-          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
-        }
-      ],
-      "duration_ms": 139919,
-      "name": "K\u00fcssen",
-      "url": "https://open.spotify.com/track/2FbTZrdW0KGqH7TOdZRHiP"
-    },
-    {
-      "added_at": "2024-04-10 09:57:33",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2024-04-10 09:57:33",
-      "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
-    },
-    {
-      "added_at": "2024-04-10 09:57:33",
-      "album": {
-        "name": "Vois sur ton chemin (Techno Mix)",
-        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 178156,
-      "name": "Vois sur ton chemin - Techno Mix",
-      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
-    },
-    {
-      "added_at": "2024-04-10 09:57:33",
-      "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
-    },
-    {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "Pedro",
         "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
@@ -193,7 +105,95 @@
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
+      "album": {
+        "name": "K\u00fcssen",
+        "url": "https://open.spotify.com/album/4B2Ne3gGGMnP9zd3PdyuF1"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Gustav",
+          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
+        },
+        {
+          "name": "Zachi",
+          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+        }
+      ],
+      "duration_ms": 139919,
+      "name": "K\u00fcssen",
+      "url": "https://open.spotify.com/track/2FbTZrdW0KGqH7TOdZRHiP"
+    },
+    {
+      "added_at": "2024-04-11 10:11:30",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "added_at": "2024-04-11 10:11:30",
+      "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "added_at": "2024-04-11 10:11:30",
+      "album": {
+        "name": "Vois sur ton chemin (Techno Mix)",
+        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 178156,
+      "name": "Vois sur ton chemin - Techno Mix",
+      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "added_at": "2024-04-11 10:11:30",
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
+    },
+    {
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
@@ -209,31 +209,7 @@
       "url": "https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
-      "album": {
-        "name": "Eredivisie",
-        "url": "https://open.spotify.com/album/5MMyBEmIbKkJEEvo9pv4RW"
-      },
-      "artists": [
-        {
-          "name": "Rap La Rue",
-          "url": "https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos"
-        },
-        {
-          "name": "Haaland936",
-          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
-        },
-        {
-          "name": "Amo",
-          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
-        }
-      ],
-      "duration_ms": 153408,
-      "name": "Eredivisie",
-      "url": "https://open.spotify.com/track/1IaZUglHDN0kO6yhuyYta2"
-    },
-    {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -257,7 +233,7 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "Unwritten",
         "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
@@ -273,7 +249,31 @@
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
+      "album": {
+        "name": "Eredivisie",
+        "url": "https://open.spotify.com/album/5MMyBEmIbKkJEEvo9pv4RW"
+      },
+      "artists": [
+        {
+          "name": "Rap La Rue",
+          "url": "https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos"
+        },
+        {
+          "name": "Haaland936",
+          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "duration_ms": 153408,
+      "name": "Eredivisie",
+      "url": "https://open.spotify.com/track/1IaZUglHDN0kO6yhuyYta2"
+    },
+    {
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "What Happens Now?",
         "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "Seductive",
         "url": "https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/1sNQMj0Dq0UHrryEQqP4OY"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "Up and down",
         "url": "https://open.spotify.com/album/7r3SKsAXb951yqOde4BjX2"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/3uBXhhgrVB5a3FizUGNv52"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "Thank You (Not So Bad)",
         "url": "https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN"
@@ -397,7 +397,55 @@
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
+      "album": {
+        "name": "Substanzen (feat. Aymen, Jiyo & ilo 7araga)",
+        "url": "https://open.spotify.com/album/6gv4kiVC6pdkz3qV70WKzz"
+      },
+      "artists": [
+        {
+          "name": "Rap La Rue",
+          "url": "https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos"
+        },
+        {
+          "name": "Jiyo",
+          "url": "https://open.spotify.com/artist/0i9OWm62ob5N5f6NTqhSts"
+        },
+        {
+          "name": "ilo 7araga",
+          "url": "https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        }
+      ],
+      "duration_ms": 147731,
+      "name": "Substanzen (feat. Aymen, Jiyo & ilo 7araga)",
+      "url": "https://open.spotify.com/track/1EypcNrXUoHSv6siw5FNPi"
+    },
+    {
+      "added_at": "2024-04-11 10:11:30",
+      "album": {
+        "name": "Overdrive (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "duration_ms": 155905,
+      "name": "Overdrive (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
+    },
+    {
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
@@ -429,75 +477,7 @@
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
-      "album": {
-        "name": "Substanzen (feat. Aymen, Jiyo & ilo 7araga)",
-        "url": "https://open.spotify.com/album/6gv4kiVC6pdkz3qV70WKzz"
-      },
-      "artists": [
-        {
-          "name": "Rap La Rue",
-          "url": "https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos"
-        },
-        {
-          "name": "Jiyo",
-          "url": "https://open.spotify.com/artist/0i9OWm62ob5N5f6NTqhSts"
-        },
-        {
-          "name": "ilo 7araga",
-          "url": "https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga"
-        },
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
-        }
-      ],
-      "duration_ms": 147731,
-      "name": "Substanzen (feat. Aymen, Jiyo & ilo 7araga)",
-      "url": "https://open.spotify.com/track/1EypcNrXUoHSv6siw5FNPi"
-    },
-    {
-      "added_at": "2024-04-10 09:57:33",
-      "album": {
-        "name": "Overdrive (feat. Norma Jean Martine)",
-        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
-        }
-      ],
-      "duration_ms": 155905,
-      "name": "Overdrive (feat. Norma Jean Martine)",
-      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
-    },
-    {
-      "added_at": "2024-04-10 09:57:33",
-      "album": {
-        "name": "Katastrophe",
-        "url": "https://open.spotify.com/album/2uGdPU34k4wNNAq3qVZRLv"
-      },
-      "artists": [
-        {
-          "name": "Rap La Rue",
-          "url": "https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos"
-        },
-        {
-          "name": "Jiyo",
-          "url": "https://open.spotify.com/artist/0i9OWm62ob5N5f6NTqhSts"
-        }
-      ],
-      "duration_ms": 198516,
-      "name": "Katastrophe",
-      "url": "https://open.spotify.com/track/64PC5XVJuKbvxYHecenRGO"
-    },
-    {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "LET'S GET FKD UP (feat. Tribbs)",
         "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
@@ -525,7 +505,27 @@
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
+      "album": {
+        "name": "Katastrophe",
+        "url": "https://open.spotify.com/album/2uGdPU34k4wNNAq3qVZRLv"
+      },
+      "artists": [
+        {
+          "name": "Rap La Rue",
+          "url": "https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos"
+        },
+        {
+          "name": "Jiyo",
+          "url": "https://open.spotify.com/artist/0i9OWm62ob5N5f6NTqhSts"
+        }
+      ],
+      "duration_ms": 198516,
+      "name": "Katastrophe",
+      "url": "https://open.spotify.com/track/64PC5XVJuKbvxYHecenRGO"
+    },
+    {
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "Walou Diploma",
         "url": "https://open.spotify.com/album/1ZfFqau3hQgm7Gko5p1L21"
@@ -541,27 +541,7 @@
       "url": "https://open.spotify.com/track/27EXNwLk86McXpIr85kvjk"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
-      "album": {
-        "name": "Himmel Leer",
-        "url": "https://open.spotify.com/album/0uxNKoR5OgxbwKJH97LxyK"
-      },
-      "artists": [
-        {
-          "name": "SANTOS",
-          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
-        },
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        }
-      ],
-      "duration_ms": 182823,
-      "name": "Himmel Leer",
-      "url": "https://open.spotify.com/track/1iZy5e1JQcMCICG1flsRNl"
-    },
-    {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "F\u00fcr immer Fr\u00fchling",
         "url": "https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN"
@@ -577,39 +557,7 @@
       "url": "https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
-      "album": {
-        "name": "Ma Boo",
-        "url": "https://open.spotify.com/album/25Czgzhkp0nUcH5GGPgqEP"
-      },
-      "artists": [
-        {
-          "name": "YAKARY",
-          "url": "https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI"
-        }
-      ],
-      "duration_ms": 131650,
-      "name": "Ma Boo",
-      "url": "https://open.spotify.com/track/7igSh4nWYQqmv94rIma7eh"
-    },
-    {
-      "added_at": "2024-04-10 09:57:33",
-      "album": {
-        "name": "Liebe ist ein Dieb",
-        "url": "https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW"
-      },
-      "artists": [
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "Liebe ist ein Dieb",
-      "url": "https://open.spotify.com/track/01LYfVauZ0LlK5gok0HdTO"
-    },
-    {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "Egal",
         "url": "https://open.spotify.com/album/6ITpDSZZKmZejmS4EPMqPW"
@@ -633,27 +581,7 @@
       "url": "https://open.spotify.com/track/6zF5LE8eK9Bf98UwLVe8Du"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
-      "album": {
-        "name": "Uluda\u011f und Sorgen",
-        "url": "https://open.spotify.com/album/3uR9ZiNsj3VU2x1E0VRNgT"
-      },
-      "artists": [
-        {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
-        },
-        {
-          "name": "Symba",
-          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
-        }
-      ],
-      "duration_ms": 186247,
-      "name": "Uluda\u011f und Sorgen",
-      "url": "https://open.spotify.com/track/1kQKmatH0qVvnT05kJ0o4d"
-    },
-    {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "tempo",
         "url": "https://open.spotify.com/album/3T77zsspapRdhGH9FXf4A7"
@@ -677,27 +605,79 @@
       "url": "https://open.spotify.com/track/2sTXJinZQxl58tFCTYtEqa"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
       "album": {
-        "name": "Rattenhaut",
-        "url": "https://open.spotify.com/album/2iewBGkxvpJAoVzJR24hHF"
+        "name": "Himmel Leer",
+        "url": "https://open.spotify.com/album/0uxNKoR5OgxbwKJH97LxyK"
       },
       "artists": [
         {
-          "name": "Rap La Rue",
-          "url": "https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos"
+          "name": "SANTOS",
+          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
         },
         {
-          "name": "Haaland936",
-          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
         }
       ],
-      "duration_ms": 170751,
-      "name": "Rattenhaut",
-      "url": "https://open.spotify.com/track/4H5SR9O8FlXZWlgwFb7mPE"
+      "duration_ms": 182823,
+      "name": "Himmel Leer",
+      "url": "https://open.spotify.com/track/1iZy5e1JQcMCICG1flsRNl"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
+      "album": {
+        "name": "Gata Only",
+        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+    },
+    {
+      "added_at": "2024-04-11 10:11:30",
+      "album": {
+        "name": "Ma Boo",
+        "url": "https://open.spotify.com/album/25Czgzhkp0nUcH5GGPgqEP"
+      },
+      "artists": [
+        {
+          "name": "YAKARY",
+          "url": "https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI"
+        }
+      ],
+      "duration_ms": 131650,
+      "name": "Ma Boo",
+      "url": "https://open.spotify.com/track/7igSh4nWYQqmv94rIma7eh"
+    },
+    {
+      "added_at": "2024-04-11 10:11:30",
+      "album": {
+        "name": "Liebe ist ein Dieb",
+        "url": "https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "Liebe ist ein Dieb",
+      "url": "https://open.spotify.com/track/01LYfVauZ0LlK5gok0HdTO"
+    },
+    {
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "Ms. Jackson",
         "url": "https://open.spotify.com/album/54ehmIjPv8SskzrJrNBGln"
@@ -713,7 +693,7 @@
       "url": "https://open.spotify.com/track/3ilgxZl5g7MOQCUiky3VOG"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "Baile (feat. Amo, Haaland936 & Kauta)",
         "url": "https://open.spotify.com/album/4aEpO1voUnPH8zHZlovtpc"
@@ -741,7 +721,7 @@
       "url": "https://open.spotify.com/track/6p5snXqHBtG6rjO7bwiGZT"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "Scared To Start",
         "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
@@ -757,39 +737,7 @@
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
-      "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
-    },
-    {
-      "added_at": "2024-04-10 09:57:33",
-      "album": {
-        "name": "sonnenbank.mp3",
-        "url": "https://open.spotify.com/album/5a5HgRDL50TK3pa2jv4Bnb"
-      },
-      "artists": [
-        {
-          "name": "YAKARY",
-          "url": "https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI"
-        }
-      ],
-      "duration_ms": 121649,
-      "name": "sonnenbank.mp3",
-      "url": "https://open.spotify.com/track/30vg2QguPyaa7PcAJTn9YE"
-    },
-    {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "Mwaki",
         "url": "https://open.spotify.com/album/4L43UqvSZKiiKwc1wa89Gz"
@@ -809,7 +757,135 @@
       "url": "https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
+      "album": {
+        "name": "sonnenbank.mp3",
+        "url": "https://open.spotify.com/album/5a5HgRDL50TK3pa2jv4Bnb"
+      },
+      "artists": [
+        {
+          "name": "YAKARY",
+          "url": "https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI"
+        }
+      ],
+      "duration_ms": 121649,
+      "name": "sonnenbank.mp3",
+      "url": "https://open.spotify.com/track/30vg2QguPyaa7PcAJTn9YE"
+    },
+    {
+      "added_at": "2024-04-11 10:11:30",
+      "album": {
+        "name": "Rattenhaut",
+        "url": "https://open.spotify.com/album/2iewBGkxvpJAoVzJR24hHF"
+      },
+      "artists": [
+        {
+          "name": "Rap La Rue",
+          "url": "https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos"
+        },
+        {
+          "name": "Haaland936",
+          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
+        }
+      ],
+      "duration_ms": 170751,
+      "name": "Rattenhaut",
+      "url": "https://open.spotify.com/track/4H5SR9O8FlXZWlgwFb7mPE"
+    },
+    {
+      "added_at": "2024-04-11 10:11:30",
+      "album": {
+        "name": "Uluda\u011f und Sorgen",
+        "url": "https://open.spotify.com/album/3uR9ZiNsj3VU2x1E0VRNgT"
+      },
+      "artists": [
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        },
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
+        }
+      ],
+      "duration_ms": 186247,
+      "name": "Uluda\u011f und Sorgen",
+      "url": "https://open.spotify.com/track/1kQKmatH0qVvnT05kJ0o4d"
+    },
+    {
+      "added_at": "2024-04-11 10:11:30",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+    },
+    {
+      "added_at": "2024-04-11 10:11:30",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 191700,
+      "name": "FE!N (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+    },
+    {
+      "added_at": "2024-04-11 10:11:30",
+      "album": {
+        "name": "Komet",
+        "url": "https://open.spotify.com/album/2XWoQ5VUcmGYL1025mZ5dO"
+      },
+      "artists": [
+        {
+          "name": "Udo Lindenberg",
+          "url": "https://open.spotify.com/artist/7iWcRnQMinCoV2u5ICgsW0"
+        },
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "duration_ms": 167356,
+      "name": "Komet",
+      "url": "https://open.spotify.com/track/7oQepKHmXDaPC3rgeLRvQu"
+    },
+    {
+      "added_at": "2024-04-11 10:11:30",
+      "album": {
+        "name": "Verstecken",
+        "url": "https://open.spotify.com/album/2PoecB4132E7hBtLC0uBgy"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "duration_ms": 162975,
+      "name": "Verstecken",
+      "url": "https://open.spotify.com/track/6LliQsJvqpEBrP1Bhf6HEw"
+    },
+    {
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
@@ -833,7 +909,27 @@
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
+      "album": {
+        "name": "I Don't Wanna Wait",
+        "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 149667,
+      "name": "I Don't Wanna Wait",
+      "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
+    },
+    {
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "Long Way Down (Deluxe)",
         "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
@@ -849,83 +945,7 @@
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 191700,
-      "name": "FE!N (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
-    },
-    {
-      "added_at": "2024-04-10 09:57:33",
-      "album": {
-        "name": "Verstecken",
-        "url": "https://open.spotify.com/album/2PoecB4132E7hBtLC0uBgy"
-      },
-      "artists": [
-        {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
-        }
-      ],
-      "duration_ms": 162975,
-      "name": "Verstecken",
-      "url": "https://open.spotify.com/track/6LliQsJvqpEBrP1Bhf6HEw"
-    },
-    {
-      "added_at": "2024-04-10 09:57:33",
-      "album": {
-        "name": "Gata Only",
-        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
-      },
-      "artists": [
-        {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Gata Only",
-      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
-    },
-    {
-      "added_at": "2024-04-10 09:57:33",
-      "album": {
-        "name": "Komet",
-        "url": "https://open.spotify.com/album/2XWoQ5VUcmGYL1025mZ5dO"
-      },
-      "artists": [
-        {
-          "name": "Udo Lindenberg",
-          "url": "https://open.spotify.com/artist/7iWcRnQMinCoV2u5ICgsW0"
-        },
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        }
-      ],
-      "duration_ms": 167356,
-      "name": "Komet",
-      "url": "https://open.spotify.com/track/7oQepKHmXDaPC3rgeLRvQu"
-    },
-    {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
@@ -945,7 +965,7 @@
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
@@ -973,7 +993,7 @@
       "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
     },
     {
-      "added_at": "2024-04-10 09:57:33",
+      "added_at": "2024-04-11 10:11:30",
       "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
@@ -987,22 +1007,6 @@
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
-    },
-    {
-      "added_at": "2024-04-10 09:57:33",
-      "album": {
-        "name": "pretty",
-        "url": "https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 128205,
-      "name": "if u think i'm pretty",
-      "url": "https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3"
     }
   ],
   "unique_name": "Top 50 - Germany",

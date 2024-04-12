@@ -4,7 +4,7 @@
 
 > 日本語、韓国語、英語を巧みに操るトリリンガルラッパー／シンガー、ちゃんみな。独自の観点で時代を切り取るリリックとソリッドなラップが若い音楽ファンを中心に注目を集める彼女のオール・タイム・ベスト。
 
-60 songs - 3 hr 9 min
+61 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [RED](https://open.spotify.com/track/4qcSfF5viKGKUHNOzrvx5b) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/1cyFz7pTFHPXmQ98S5Ztfe) | 2:42 | 2023-08-15 |  |
 | [She's Gone](https://open.spotify.com/track/0qqQ1g7vX2nGLSPtgD60zx) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [未成年](https://open.spotify.com/album/2YtPwt5wECdF2v0wuBJzSM) | 3:38 | 2023-08-15 |  |
 | [Sober](https://open.spotify.com/track/0P0HLpyo42LKdWI0yvIi0O) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [I'm a Pop](https://open.spotify.com/album/5nwWE1A7A7sADxLiD3n9l2) | 3:34 | 2023-08-15 |  |
+| [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6) | 3:56 | 2024-04-11 |  |
 | [TOKYO 4AM](https://open.spotify.com/track/6MwtCelqyWWJsNXHSHnPOi) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 3:22 | 2023-08-15 |  |
 | [Voice Memo No\. 5](https://open.spotify.com/track/02OvOau7SB9kImc7vyxiJT) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Harenchi](https://open.spotify.com/album/1q9RWaiqhyFz8tYrl57w98) | 2:43 | 2023-08-15 |  |
 | [Wake Up Call](https://open.spotify.com/track/1cuV4c3phVhyBDqh0N811c) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 2:02 | 2023-08-15 |  |

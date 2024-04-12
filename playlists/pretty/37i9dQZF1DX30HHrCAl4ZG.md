@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Blondshell & Bully
 
-[Spotify](https://open.spotify.com/user/spotify) - 834,422 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,434 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 17 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 |
 | 18 | [Everyone Out](https://open.spotify.com/track/5zoVhJ5O5PFmPsnHIIkq5f) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Everyone Out](https://open.spotify.com/album/59L5XRlV5kXjmutbYGV8xj) | 4:52 |
 | 19 | [All In One](https://open.spotify.com/track/7ycbGYrE2GMshCIiv2I33j) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [All In One](https://open.spotify.com/album/433yKcIuI3sgm8eYmhJuHg) | 5:06 |
-| 20 | [Soak it In](https://open.spotify.com/track/4bkj4j64FkMlf6nvobCVOJ) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Mundane Pleasure](https://open.spotify.com/album/3NeuhQcs23QELh77ERy0fm) | 2:23 |
+| 20 | [Soak it In](https://open.spotify.com/track/6FYpOljm1nFjvbyLh0l1QX) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Mundane Pleasure](https://open.spotify.com/album/3dt5c3PWLzdNQmwWTu99qz) | 2:23 |
 | 21 | [Huperzine Dreams](https://open.spotify.com/track/3BhFoNMOqS7QZ3vhvxXlAj) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Huperzine Dreams](https://open.spotify.com/album/2bZCSjKfyQKZ3bP3z8eQ25) | 3:17 |
 | 22 | [The Things We Say](https://open.spotify.com/track/4XtJalA8M3CVun9WKlKZ9Q) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [The Things We Say](https://open.spotify.com/album/6zyHjq1L4I8yvAStyIfXbZ) | 3:18 |
 | 23 | [Make Ya Proud](https://open.spotify.com/track/4fhgClrrGEsKTpBekCmuUy) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Make Ya Proud](https://open.spotify.com/album/0XV0mG5uUDwqDkZvR6LKeE) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [My Body ft Your Lips](https://open.spotify.com/track/4xkxhTvP9tmCKfAIO8GFJR) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy), [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:53 |
 | 100 | [Helmet](https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:21 |
 
-Snapshot ID: `MCxhYzRmNDc4ZTk3NjZhYTE0ZmQxNGRlNmZkODY3ZDAzOWM0MzE1NTUx`
+Snapshot ID: `MTcxMjI4OTYwMCwwMDAwMDAwMDg5MmVlMzY5OTNhZWUwNzc2MDdlNzU2NDhhYjIzNDhi`

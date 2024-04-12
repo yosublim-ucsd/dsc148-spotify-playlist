@@ -2,9 +2,9 @@
 
 ### [RADAR 新勢力](https://open.spotify.com/playlist/37i9dQZF1DX2P3E6UOxZyt)
 
-> 2024 全新陣容出列！MEET THE FUTURE 見証未來巨星！Cover: LIU KOI
+> 2024 全新陣容出列！MEET THE FUTURE 見証未來巨星！Cover: 胡恂舞 \(Sabrina Hu\)
 
-517 songs - 1 day 6 hr 12 min
+518 songs - 1 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [CARRY ON \- 《超級王牌棒球隊》片頭曲](https://open.spotify.com/track/46xtb42bgOLycrg95a39Qk) | [同理 Zunya](https://open.spotify.com/artist/3tsoImRDSW4JEcL2CdIUmo), [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [CARRY ON \(《超級王牌棒球隊》片頭曲\)](https://open.spotify.com/album/4xMACvynyJGrHNseiYPDaL) | 3:31 | 2022-07-21 | 2022-08-12 |
 | [Cause U](https://open.spotify.com/track/1CQjCixIGB3y8NwV4f8Zsq) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [Posture and Attitude](https://open.spotify.com/album/6RLEGJSkCl5o1KVQvckHRe) | 3:24 | 2022-08-04 | 2022-10-14 |
 | [Changing](https://open.spotify.com/track/2mYORUFdcHe4xkXOjzLukA) | [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE), [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h), [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [Changing](https://open.spotify.com/album/5tYTEcnieIhDAxikUuRCNc) | 3:15 | 2021-12-30 | 2022-01-14 |
-| [Cloudy Love](https://open.spotify.com/track/6gBX0GeCjv70GVWptj4ZW9) | [Sabrina 胡恂舞](https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs) | [Horizon](https://open.spotify.com/album/4tzg5PxQyc4cFVdMCwd8mK) | 3:00 | 2024-03-28 |  |
+| [Cloudy Love](https://open.spotify.com/track/6gBX0GeCjv70GVWptj4ZW9) | [Sabrina 胡恂舞](https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs) | [Horizon](https://open.spotify.com/album/4tzg5PxQyc4cFVdMCwd8mK) | 3:00 | 2024-03-28 | 2024-04-12 |
 | [CLV](https://open.spotify.com/track/7gh3QqAkJeGSbWTKDopwAd) | [Majin](https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl) | [CLV](https://open.spotify.com/album/5HPjcuwsmRIbpPTwa7z1rV) | 2:44 | 2024-03-28 |  |
 | [Cold Dream](https://open.spotify.com/track/0cwSPWIRLf0nJjvCOwmV5w) | [Edisong](https://open.spotify.com/artist/0RhNindPw9ZrA5KmSr6ASN) | [Liminal](https://open.spotify.com/album/3UsruFkybIk53R1DQf5o75) | 3:54 | 2023-10-05 | 2024-01-05 |
 | [cos idk how](https://open.spotify.com/track/1DozwzMwdx5ovfQfRs6dtb) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP), [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [cos idk how](https://open.spotify.com/album/4vkYp8TEchsqjKSuCR0oHt) | 3:30 | 2023-10-12 | 2024-01-19 |
@@ -49,6 +49,7 @@
 | [Donut \- 《此時此刻》插曲](https://open.spotify.com/track/3RCxeAvPSEGGid6OaklZDG) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g) | [Donut \(《此時此刻》插曲\)](https://open.spotify.com/album/4URQBA3c4WczumnHG8C8tU) | 3:35 | 2023-11-16 | 2024-02-09 |
 | [DOSE ME \(with 吳思賢, Jinbo & 黃祝賢儒\)](https://open.spotify.com/track/77pS53R8n659PX7RQZe2Ap) | [政学Zed\-X](https://open.spotify.com/artist/7DAjUaK40De066EOFR6fxB), [Ben Wu](https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM), [黃祝賢儒](https://open.spotify.com/artist/79Yhu3qWKYYxguxCTyd88K), [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [DOSE ME \(with 吳思賢, Jinbo & 黃祝賢儒\)](https://open.spotify.com/album/2XsonfEoZXfQPVpD0T3UdF) | 2:47 | 2024-02-08 | 2024-02-23 |
 | [Dreaming With You](https://open.spotify.com/track/0hoiu4phiHzoJwhl5kutX3) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Lemonade](https://open.spotify.com/album/3PnXCpHaHzGVm3viOLUKPO) | 3:50 | 2021-12-30 | 2023-05-19 |
+| [EDEN feat\. Sabrina 胡恂舞](https://open.spotify.com/track/373Dpde9za64jysTww7guV) | [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn), [Sabrina 胡恂舞](https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs) | [EDEN feat\. Sabrina 胡恂舞](https://open.spotify.com/album/7sU0ht1a8vpwtMcrudedFn) | 3:06 | 2024-04-11 |  |
 | [End of Circle](https://open.spotify.com/track/0KvehpRvqitfR2GjQY2sX9) | [Edisong](https://open.spotify.com/artist/0RhNindPw9ZrA5KmSr6ASN) | [End of Circle](https://open.spotify.com/album/2o1816OowCUaLO8ribpV2F) | 3:38 | 2024-01-04 | 2024-03-29 |
 | [Everybody Fake Feat\. 婁峻碩](https://open.spotify.com/track/16s4RWlKrk5USU9iF81CuQ) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX) | [鋯石](https://open.spotify.com/album/2smL9jDi65yQmWPeKMaXaY) | 2:51 | 2022-02-03 | 2022-03-11 |
 | [Everything \(feat\. W.LIN\)](https://open.spotify.com/track/6tdPhOn7PqctCLzpb0zknp) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [W.LIN](https://open.spotify.com/artist/3sLmLEHzXUuPzz9SvVrstl) | [23](https://open.spotify.com/album/1i9NZgKrjl9gQVIczUEJYh) | 3:48 | 2021-12-30 | 2022-03-25 |

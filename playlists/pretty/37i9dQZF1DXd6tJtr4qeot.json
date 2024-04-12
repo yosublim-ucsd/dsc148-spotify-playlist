@@ -1,12 +1,12 @@
 {
   "description": "All the of punk rock that you need in your life. ",
-  "num_followers": 913186,
+  "num_followers": 913231,
   "original_name": "Punk Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWVjZDhiMzdkMjA2NDk2NWFkNWQ3MjkzZTY0NzViZDBlY2Y5MGM0",
+  "snapshot_id": "MTcwNzI0ODIxMiwwMDAwMDAwMDlkZmEzNTc3NDI1MGVhNmM1NWMxNTMzNTc4YzFlYTA1",
   "tracks": [
     {
       "added_at": "2024-02-06 19:36:52",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
-        "name": "Say It Like You Mean It",
-        "url": "https://open.spotify.com/album/72ogyoH8DeqTMLYhFwgVx6"
-      },
-      "artists": [
-        {
-          "name": "The Starting Line",
-          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
-        }
-      ],
-      "duration_ms": 258266,
-      "name": "The Best Of Me",
-      "url": "https://open.spotify.com/track/1Up4RdOBpChNDytatxKDXP"
-    },
-    {
-      "added_at": "2024-02-06 19:36:52",
-      "album": {
         "name": "Hello Rockview",
         "url": "https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 211400,
       "name": "All My Best Friends Are Metalheads",
       "url": "https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5"
+    },
+    {
+      "added_at": "2024-02-06 19:36:52",
+      "album": {
+        "name": "Say It Like You Mean It",
+        "url": "https://open.spotify.com/album/72ogyoH8DeqTMLYhFwgVx6"
+      },
+      "artists": [
+        {
+          "name": "The Starting Line",
+          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
+        }
+      ],
+      "duration_ms": 258266,
+      "name": "The Best Of Me",
+      "url": "https://open.spotify.com/track/1Up4RdOBpChNDytatxKDXP"
     },
     {
       "added_at": "2024-02-06 19:36:52",

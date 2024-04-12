@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,123 likes - 96 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,128 likes - 96 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 95 | [The Wonderlightskin Condition](https://open.spotify.com/track/0cFLs7LR2bE7bDJtvofe8r) | [François X](https://open.spotify.com/artist/5sHHgrgK3vQ0jwKIT1D4xu) | [CEO](https://open.spotify.com/album/6EY0b1ztxXQMpcL7WnwLjT) | 5:06 |
 | 96 | [Smack Down Fury](https://open.spotify.com/track/6aESmuzXnIVpo5RTvNUPdL) | [Ika Sile](https://open.spotify.com/artist/1H1NCpFcMUlyZs6JKpsk4C) | [The Fury](https://open.spotify.com/album/73dQebjYa0adfUa40NQDNc) | 5:52 |
 
-Snapshot ID: `MCwwNjVmNWRkZDI1ZmFhYjVkYjQ3NDExZDIwYjYxYzU1MDU3ZTFlNmM1`
+Snapshot ID: `MTcxMTU1MjY4OCwwMDAwMDAwMDIwN2YzOTYwMDdjN2UxMWQzYTBjZGZlMDk3NTM1MDY0`

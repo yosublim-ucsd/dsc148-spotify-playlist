@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: Griff.",
-  "num_followers": 285200,
+  "num_followers": 285194,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmEzNWI5ZDA4MGUxNzU4ZDk3MGZkZjc0OGZmMDdkMjJiYzhiZjBl",
+  "snapshot_id": "MTcxMjI4OTYwMCwwMDAwMDAwMDM5MThmOTI3ZmE4ZGI4YzMxNDMzNmI2NDYwMWYyNzUw",
   "tracks": [
     {
       "added_at": "2024-04-05 04:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "the space between us",
-        "url": "https://open.spotify.com/album/3MW0W3uEDPpMQyzdVJ9xAx"
-      },
-      "artists": [
-        {
-          "name": "siopaolo",
-          "url": "https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf"
-        }
-      ],
-      "duration_ms": 253325,
-      "name": "the space between us",
-      "url": "https://open.spotify.com/track/4s0m05iPPuTeFlJxAQivGy"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 233095,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "the space between us",
+        "url": "https://open.spotify.com/album/3MW0W3uEDPpMQyzdVJ9xAx"
+      },
+      "artists": [
+        {
+          "name": "siopaolo",
+          "url": "https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf"
+        }
+      ],
+      "duration_ms": 253325,
+      "name": "the space between us",
+      "url": "https://open.spotify.com/track/4s0m05iPPuTeFlJxAQivGy"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1111,22 +1111,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Pop Star (Chaeyoung Remix)",
-        "url": "https://open.spotify.com/album/6r0xsy4FAx4p2Fc2WZxVR0"
+        "name": "close with desires (feat. thuy)",
+        "url": "https://open.spotify.com/album/5O9Y71opTaQDJffFJAUDID"
       },
       "artists": [
         {
-          "name": "Coco & Clair Clair",
-          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+          "name": "teo glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
         },
         {
-          "name": "CHAEYOUNG",
-          "url": "https://open.spotify.com/artist/0qtqWLjAkheu9MaVCQ3FXa"
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 208640,
-      "name": "Pop Star - Chaeyoung Remix",
-      "url": "https://open.spotify.com/track/1vQOTeTQlZ5NWX2el2RmlG"
+      "duration_ms": 205750,
+      "name": "close with desires (feat. thuy)",
+      "url": "https://open.spotify.com/track/40mxgmFEtNKcgKRiiHmlHf"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1147,22 +1147,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "close with desires (feat. thuy)",
-        "url": "https://open.spotify.com/album/5O9Y71opTaQDJffFJAUDID"
+        "name": "Pop Star (Chaeyoung Remix)",
+        "url": "https://open.spotify.com/album/6r0xsy4FAx4p2Fc2WZxVR0"
       },
       "artists": [
         {
-          "name": "teo glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+          "name": "Coco & Clair Clair",
+          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
         },
         {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+          "name": "CHAEYOUNG",
+          "url": "https://open.spotify.com/artist/0qtqWLjAkheu9MaVCQ3FXa"
         }
       ],
-      "duration_ms": 205750,
-      "name": "close with desires (feat. thuy)",
-      "url": "https://open.spotify.com/track/40mxgmFEtNKcgKRiiHmlHf"
+      "duration_ms": 208640,
+      "name": "Pop Star - Chaeyoung Remix",
+      "url": "https://open.spotify.com/track/1vQOTeTQlZ5NWX2el2RmlG"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "So I Danced",
-        "url": "https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 173293,
-      "name": "So I Danced",
-      "url": "https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/2lHJ0k2PbqwVJXy6dRyakY"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 201480,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3RnSyeEzR2AU7ZQN2poS6Z"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "So I Danced",
+        "url": "https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 173293,
+      "name": "So I Danced",
+      "url": "https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Cold Rain",
-        "url": "https://open.spotify.com/album/1OTzEYnHyxSdrFeDmHuUQf"
-      },
-      "artists": [
-        {
-          "name": "Raine Cloud",
-          "url": "https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "Cold Rain",
-      "url": "https://open.spotify.com/track/5I8G7QzIyIyjP49a3f6jJp"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "APESHIT",
         "url": "https://open.spotify.com/album/6L1nBEEqTueYzXqFXgjR8Y"
       },
@@ -1643,6 +1627,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Cold Rain",
+        "url": "https://open.spotify.com/album/1OTzEYnHyxSdrFeDmHuUQf"
+      },
+      "artists": [
+        {
+          "name": "Raine Cloud",
+          "url": "https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS"
+        }
+      ],
+      "duration_ms": 170250,
+      "name": "Cold Rain",
+      "url": "https://open.spotify.com/track/5I8G7QzIyIyjP49a3f6jJp"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/4q2bsMhNwwPFu57oEg3MZ6"
       },
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Water Worship Pray",
-        "url": "https://open.spotify.com/album/6IEFi4N1Ge92j1kCFZxXeo"
-      },
-      "artists": [
-        {
-          "name": "Grace Power",
-          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
-        }
-      ],
-      "duration_ms": 191016,
-      "name": "Water Worship Pray",
-      "url": "https://open.spotify.com/track/2EMa8oOv6HvRRErdtXrp3I"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "love letters to u (EP)",
         "url": "https://open.spotify.com/album/4F1W1gMngOB4UhVF0ykpox"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 157377,
       "name": "love of my life",
       "url": "https://open.spotify.com/track/2ooHvit2WOf9PmptyEWfY4"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Water Worship Pray",
+        "url": "https://open.spotify.com/album/6IEFi4N1Ge92j1kCFZxXeo"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "duration_ms": 191016,
+      "name": "Water Worship Pray",
+      "url": "https://open.spotify.com/track/2EMa8oOv6HvRRErdtXrp3I"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "sole outlet",
+        "url": "https://open.spotify.com/album/0Xmtrxgeg2ivd3874Nn9fL"
+      },
+      "artists": [
+        {
+          "name": "juno roome",
+          "url": "https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv"
+        }
+      ],
+      "duration_ms": 227538,
+      "name": "sole outlet",
+      "url": "https://open.spotify.com/track/3Axrk0m3aMkCz2D7R3GT5D"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Think Twice",
         "url": "https://open.spotify.com/album/4xTdNoSXzygD6vzyHw5Tlu"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 192700,
       "name": "Think Twice",
       "url": "https://open.spotify.com/track/287GfoUeiVLiSN2ehJ740d"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "sole outlet",
-        "url": "https://open.spotify.com/album/0Xmtrxgeg2ivd3874Nn9fL"
-      },
-      "artists": [
-        {
-          "name": "juno roome",
-          "url": "https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv"
-        }
-      ],
-      "duration_ms": 227538,
-      "name": "sole outlet",
-      "url": "https://open.spotify.com/track/3Axrk0m3aMkCz2D7R3GT5D"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "2.0",
-        "url": "https://open.spotify.com/album/1hY1pkX1osKhUbdj3Wq0W2"
-      },
-      "artists": [
-        {
-          "name": "Chloe Tang",
-          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
-        }
-      ],
-      "duration_ms": 166941,
-      "name": "2.0",
-      "url": "https://open.spotify.com/track/36srzCGlOmPqwDNwHQZXS6"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Birdwatcher",
         "url": "https://open.spotify.com/album/5jdRIHmKzjrDjvfK6Zf9rZ"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 192317,
       "name": "Birdwatcher",
       "url": "https://open.spotify.com/track/2poBY9AIHsO7O6MjY4350M"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/1hY1pkX1osKhUbdj3Wq0W2"
+      },
+      "artists": [
+        {
+          "name": "Chloe Tang",
+          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
+        }
+      ],
+      "duration_ms": 166941,
+      "name": "2.0",
+      "url": "https://open.spotify.com/track/36srzCGlOmPqwDNwHQZXS6"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -2183,6 +2183,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Where'd The Time Go?",
+        "url": "https://open.spotify.com/album/7ttGJ6CYogFKE2twKTjSHM"
+      },
+      "artists": [
+        {
+          "name": "Kaleah Lee",
+          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
+        }
+      ],
+      "duration_ms": 105266,
+      "name": "Where'd The Time Go?",
+      "url": "https://open.spotify.com/track/2dXU17E5YrtwfQBlpyu8Ut"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Love Bites",
         "url": "https://open.spotify.com/album/2WOuUAtBrDEJOiDUnorXqL"
       },
@@ -2215,22 +2231,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "PRIMAL",
-        "url": "https://open.spotify.com/album/2NVmz3eZuSZTEClHa3Oh4F"
-      },
-      "artists": [
-        {
-          "name": "Chloe Tang",
-          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
-        }
-      ],
-      "duration_ms": 160357,
-      "name": "PRIMAL",
-      "url": "https://open.spotify.com/track/28cJfuhoBA4D4USICqGr4m"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Invited",
         "url": "https://open.spotify.com/album/4Kyw6l5l1o0nC6jWIYOhbU"
       },
@@ -2247,18 +2247,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Where'd The Time Go?",
-        "url": "https://open.spotify.com/album/7ttGJ6CYogFKE2twKTjSHM"
+        "name": "PRIMAL",
+        "url": "https://open.spotify.com/album/2NVmz3eZuSZTEClHa3Oh4F"
       },
       "artists": [
         {
-          "name": "Kaleah Lee",
-          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
+          "name": "Chloe Tang",
+          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
         }
       ],
-      "duration_ms": 105266,
-      "name": "Where'd The Time Go?",
-      "url": "https://open.spotify.com/track/2dXU17E5YrtwfQBlpyu8Ut"
+      "duration_ms": 160357,
+      "name": "PRIMAL",
+      "url": "https://open.spotify.com/track/28cJfuhoBA4D4USICqGr4m"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "MEIGUANXIDEYO",
-        "url": "https://open.spotify.com/album/48zC40YjszPx0f83tzpKgu"
-      },
-      "artists": [
-        {
-          "name": "The Chairs",
-          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "MEIGUANXIDEYO",
-      "url": "https://open.spotify.com/track/4RDEVasHPf6KH7yTCjpL47"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "PARAVI",
         "url": "https://open.spotify.com/album/27d1Ladlcuhf4E10k07EVR"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 173480,
       "name": "Revenge Body",
       "url": "https://open.spotify.com/track/46TPA4mVzk1WE4eFItCLG6"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "MEIGUANXIDEYO",
+        "url": "https://open.spotify.com/album/48zC40YjszPx0f83tzpKgu"
+      },
+      "artists": [
+        {
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "MEIGUANXIDEYO",
+      "url": "https://open.spotify.com/track/4RDEVasHPf6KH7yTCjpL47"
     },
     {
       "added_at": "2024-04-05 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Sweat it out with your favorite country workout songs. Cover: Lainey Wilson",
-  "num_followers": 97175,
+  "num_followers": 97174,
   "original_name": "Country Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWE4ZTU0Njg3NjFlMTUyMDM3NWE1M2U5NzliNDZkM2E5MzMxNWU4",
+  "snapshot_id": "MTY5NjUzMTMzOSwwMDAwMDAwMGMyMWM1MmZjZWE0ZDJiZTEzNWJkODY3Y2IyZmM0MTUy",
   "tracks": [
     {
       "added_at": "2023-10-05 18:42:19",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
       },
       "artists": [
         {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 210772,
-      "name": "I Hope",
-      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
+      "duration_ms": 147893,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/1MX19fnaW1OUQoglWTYaOo"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
         }
       ],
-      "duration_ms": 147893,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/1MX19fnaW1OUQoglWTYaOo"
+      "duration_ms": 210772,
+      "name": "I Hope",
+      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "Love,Heartbreak, & Everything in Between",
-        "url": "https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx"
-      },
-      "artists": [
-        {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        }
-      ],
-      "duration_ms": 198208,
-      "name": "Somebody Like That",
-      "url": "https://open.spotify.com/track/4K7wet87HnlWKi0CXWvg1i"
-    },
-    {
-      "added_at": "2023-10-05 18:42:19",
-      "album": {
         "name": "If You're Going Through Hell",
         "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 216773,
       "name": "If You're Going Through Hell (Before The Devil Even Knows)",
       "url": "https://open.spotify.com/track/7vSn3VNbzOtPebdj6ZSebj"
+    },
+    {
+      "added_at": "2023-10-05 18:42:19",
+      "album": {
+        "name": "Love,Heartbreak, & Everything in Between",
+        "url": "https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 198208,
+      "name": "Somebody Like That",
+      "url": "https://open.spotify.com/track/4K7wet87HnlWKi0CXWvg1i"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
+        "name": "Ripcord",
+        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 184040,
+      "name": "The Fighter",
+      "url": "https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim"
+    },
+    {
+      "added_at": "2023-10-05 18:42:19",
+      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo"
       },
@@ -1487,26 +1507,6 @@
       "duration_ms": 173173,
       "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
       "url": "https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD"
-    },
-    {
-      "added_at": "2023-10-05 18:42:19",
-      "album": {
-        "name": "Ripcord",
-        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 184040,
-      "name": "The Fighter",
-      "url": "https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim"
     },
     {
       "added_at": "2023-10-05 18:42:19",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-10-05 18:42:19",
       "album": {
-        "name": "Dylan Scott (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2zSuxzKE7PIi9LhCk3uL6o"
-      },
-      "artists": [
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 149293,
-      "name": "Hooked",
-      "url": "https://open.spotify.com/track/3DV49ruvI5Sl6iisPZAc2c"
-    },
-    {
-      "added_at": "2023-10-05 18:42:19",
-      "album": {
         "name": "Road Less Traveled",
         "url": "https://open.spotify.com/album/296hswDnxvymjboFBxvmI5"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 216266,
       "name": "Road Less Traveled",
       "url": "https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57"
+    },
+    {
+      "added_at": "2023-10-05 18:42:19",
+      "album": {
+        "name": "Dylan Scott (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2zSuxzKE7PIi9LhCk3uL6o"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 149293,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/3DV49ruvI5Sl6iisPZAc2c"
     },
     {
       "added_at": "2023-10-05 18:42:19",

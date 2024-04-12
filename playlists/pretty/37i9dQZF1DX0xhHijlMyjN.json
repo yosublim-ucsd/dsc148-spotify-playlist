@@ -1,12 +1,12 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 347427,
+  "num_followers": 347425,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWZhZmNlNjRjNThmNDE2OTc3YTgzZTMyNDUyZGJiZWE3Y2M2NGI2",
+  "snapshot_id": "MTY4NzI1Njc2MiwwMDAwMDAwMGY2ZjliY2QwNjQ4ZmMzOGY2ODdlNGRjMzIxNmFjZmJh",
   "tracks": [
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 314760,
-      "name": "Hot Stuff",
-      "url": "https://open.spotify.com/track/2zMJN9JvDlvGP4jB03l1Bz"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Middle Of Nowhere",
         "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 268653,
       "name": "MMMBop",
       "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 314760,
+      "name": "Hot Stuff",
+      "url": "https://open.spotify.com/track/2zMJN9JvDlvGP4jB03l1Bz"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "The King Of Dance",
+        "url": "https://open.spotify.com/album/67hCGmMfz8cg2YLO0xZWnx"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        }
+      ],
+      "duration_ms": 180453,
+      "name": "Bailando por Ahi",
+      "url": "https://open.spotify.com/track/6sHBvzRsuGunQTfCk18KXi"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Stereo Love",
         "url": "https://open.spotify.com/album/774YoW7RL5qzrPdZFi8xJE"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 185120,
       "name": "Stereo Love - Radio Edit",
       "url": "https://open.spotify.com/track/11Iv8RCFmeImLOpaHYxKb4"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "The King Of Dance",
-        "url": "https://open.spotify.com/album/67hCGmMfz8cg2YLO0xZWnx"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        }
-      ],
-      "duration_ms": 180453,
-      "name": "Bailando por Ahi",
-      "url": "https://open.spotify.com/track/6sHBvzRsuGunQTfCk18KXi"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Samba de Janeiro",
-        "url": "https://open.spotify.com/album/5TfIXTpntvzKhPPH7JBBoR"
-      },
-      "artists": [
-        {
-          "name": "Bellini",
-          "url": "https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6"
-        }
-      ],
-      "duration_ms": 168444,
-      "name": "Samba de Janeiro",
-      "url": "https://open.spotify.com/track/5aIfLbdgkbH7NbQryd1poB"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Tribalistas",
         "url": "https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 196933,
       "name": "J\u00e1 Sei Namorar - 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/352FuGmGJClPjojSYjNrXG"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Samba de Janeiro",
+        "url": "https://open.spotify.com/album/5TfIXTpntvzKhPPH7JBBoR"
+      },
+      "artists": [
+        {
+          "name": "Bellini",
+          "url": "https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6"
+        }
+      ],
+      "duration_ms": 168444,
+      "name": "Samba de Janeiro",
+      "url": "https://open.spotify.com/track/5aIfLbdgkbH7NbQryd1poB"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "2000 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw"
-      },
-      "artists": [
-        {
-          "name": "Chocolate",
-          "url": "https://open.spotify.com/artist/4e3lv5qRgFpdILdEOHchbn"
-        }
-      ],
-      "duration_ms": 231080,
-      "name": "Mayonesa",
-      "url": "https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "M.I.A.M.I.",
         "url": "https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 219080,
       "name": "Culo",
       "url": "https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "2000 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw"
+      },
+      "artists": [
+        {
+          "name": "Chocolate",
+          "url": "https://open.spotify.com/artist/4e3lv5qRgFpdILdEOHchbn"
+        }
+      ],
+      "duration_ms": 231080,
+      "name": "Mayonesa",
+      "url": "https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/4SPD09dxTSb1isoxVSNhAq"
-      },
-      "artists": [
-        {
-          "name": "Kate Ryan",
-          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
-        }
-      ],
-      "duration_ms": 184693,
-      "name": "Ella Elle L A",
-      "url": "https://open.spotify.com/track/2uWK6uBDfyg78xfiH1iiFP"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Up (Special Edition)",
         "url": "https://open.spotify.com/album/0GeBgrCuLqz4NKMiv1aRez"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 170466,
       "name": "I'm Too Sexy",
       "url": "https://open.spotify.com/track/1MQrMQwfqjgOjXEUaN9AMd"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/4SPD09dxTSb1isoxVSNhAq"
+      },
+      "artists": [
+        {
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
+        }
+      ],
+      "duration_ms": 184693,
+      "name": "Ella Elle L A",
+      "url": "https://open.spotify.com/track/2uWK6uBDfyg78xfiH1iiFP"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Ananda",
-        "url": "https://open.spotify.com/album/0F2H68l0GgokiCljA6w1aT"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 224786,
-      "name": "Ni Una Sola Palabra",
-      "url": "https://open.spotify.com/track/4oCqda0opcaXQPjoAhhcfg"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "A Medio Vivir",
         "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 281640,
       "name": "A Medio Vivir",
       "url": "https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Ananda",
+        "url": "https://open.spotify.com/album/0F2H68l0GgokiCljA6w1aT"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 224786,
+      "name": "Ni Una Sola Palabra",
+      "url": "https://open.spotify.com/track/4oCqda0opcaXQPjoAhhcfg"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Atado A Tu Amor",
-        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 253133,
-      "name": "Salom\u00e9",
-      "url": "https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Canciones Prohibidas",
         "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 318986,
       "name": "Salir",
       "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Atado A Tu Amor",
+        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 253133,
+      "name": "Salom\u00e9",
+      "url": "https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Papi Chulo... Te Traigo El Mmmm",
-        "url": "https://open.spotify.com/album/2PXmGyRtObJ5jdRjkaovZs"
-      },
-      "artists": [
-        {
-          "name": "Lorna",
-          "url": "https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3"
-        }
-      ],
-      "duration_ms": 180466,
-      "name": "Papi Chulo... Te Traigo El Mmmm - Radio Version",
-      "url": "https://open.spotify.com/track/6PRv5QDR843SgVpk4IqEit"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "The Singles 83/87",
         "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 217327,
       "name": "Vamos a la Playa",
       "url": "https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Papi Chulo... Te Traigo El Mmmm",
+        "url": "https://open.spotify.com/album/2PXmGyRtObJ5jdRjkaovZs"
+      },
+      "artists": [
+        {
+          "name": "Lorna",
+          "url": "https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3"
+        }
+      ],
+      "duration_ms": 180466,
+      "name": "Papi Chulo... Te Traigo El Mmmm - Radio Version",
+      "url": "https://open.spotify.com/track/6PRv5QDR843SgVpk4IqEit"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2463,6 +2463,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Xapomel\u00f6n",
+        "url": "https://open.spotify.com/album/5YGUW9OJPCoT3bUySE50X7"
+      },
+      "artists": [
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        }
+      ],
+      "duration_ms": 145506,
+      "name": "Mari Carmen",
+      "url": "https://open.spotify.com/track/4KOIPoWgg56YkP12E1aFoQ"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Buler\u00eda",
         "url": "https://open.spotify.com/album/2zsm7DcaJsvZFY8DIxPveu"
       },
@@ -2479,18 +2495,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Xapomel\u00f6n",
-        "url": "https://open.spotify.com/album/5YGUW9OJPCoT3bUySE50X7"
+        "name": "Como te d\u00e9 la gana",
+        "url": "https://open.spotify.com/album/5pZyF7BqhusMyrBd8eOjy8"
       },
       "artists": [
         {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+          "name": "Nolasco",
+          "url": "https://open.spotify.com/artist/1iydw0OqyICpB5XlyfZ7qP"
+        },
+        {
+          "name": "Junior Miguez",
+          "url": "https://open.spotify.com/artist/1xaTQJ5aqoB5QcklnScxky"
         }
       ],
-      "duration_ms": 145506,
-      "name": "Mari Carmen",
-      "url": "https://open.spotify.com/track/4KOIPoWgg56YkP12E1aFoQ"
+      "duration_ms": 300026,
+      "name": "Las cosas peque\u00f1itas - Mix",
+      "url": "https://open.spotify.com/track/6ILh8Kypi5rnlOV8LzvVtj"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2523,26 +2543,6 @@
       "duration_ms": 211253,
       "name": "Oh La La La",
       "url": "https://open.spotify.com/track/3y7KI1lRSm9jjrCjmsyFPN"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Como te d\u00e9 la gana",
-        "url": "https://open.spotify.com/album/5pZyF7BqhusMyrBd8eOjy8"
-      },
-      "artists": [
-        {
-          "name": "Nolasco",
-          "url": "https://open.spotify.com/artist/1iydw0OqyICpB5XlyfZ7qP"
-        },
-        {
-          "name": "Junior Miguez",
-          "url": "https://open.spotify.com/artist/1xaTQJ5aqoB5QcklnScxky"
-        }
-      ],
-      "duration_ms": 300026,
-      "name": "Las cosas peque\u00f1itas - Mix",
-      "url": "https://open.spotify.com/track/6ILh8Kypi5rnlOV8LzvVtj"
     },
     {
       "added_at": "2023-06-09 09:38:51",

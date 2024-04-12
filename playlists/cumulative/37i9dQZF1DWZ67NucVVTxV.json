@@ -543,6 +543,24 @@
     },
     {
       "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/6McSBRkkD9JPgGgqYzWPlz"
+      },
+      "artists": [
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/3D9bfMv1mFaYZngz2kFmOn"
+    },
+    {
+      "album": {
         "name": "Anthem",
         "url": "https://open.spotify.com/album/22cggFEzLwSE5qvfGGqVyJ"
       },
@@ -1491,6 +1509,32 @@
     },
     {
       "album": {
+        "name": "Blow My Cover",
+        "url": "https://open.spotify.com/album/050KMVbrfE1FfgzKv2bdYs"
+      },
+      "artists": [
+        {
+          "name": "Global Neil ENT",
+          "url": "https://open.spotify.com/artist/4FytKf4mpfsTSRdqCldLmQ"
+        },
+        {
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+        },
+        {
+          "name": "Prettyboy D-O",
+          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126344,
+      "name": "Blow My Cover",
+      "url": "https://open.spotify.com/track/2vQQibREgJ2bST3KqzSQdt"
+    },
+    {
+      "album": {
         "name": "King of Melodies",
         "url": "https://open.spotify.com/album/1ifp91N2jYTmlLqT1Su4ma"
       },
@@ -1554,7 +1598,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 194316,
       "name": "Brace For Takeoff - Remix",
       "url": "https://open.spotify.com/track/3VjawxpfCOOSGLAjE8ZuRZ"
@@ -5698,7 +5742,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 160657,
       "name": "MMAD\u1ee4 AB\u1ee4R\u1ecc CHUKWU",
       "url": "https://open.spotify.com/track/5gA5NPdfXRRXLmkrDCCqor"
@@ -5980,7 +6024,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 169769,
       "name": "NEVER LATE",
       "url": "https://open.spotify.com/track/1Cc8bDOlOySCAaCjzpPHQV"
@@ -8466,6 +8510,44 @@
       "duration_ms": 174500,
       "name": "SWAG (feat. O'Kenneth, Reggie, Jay Bahd & Kawabanga)",
       "url": "https://open.spotify.com/track/1Gn3pwGB9TLj56eElRY2a2"
+    },
+    {
+      "album": {
+        "name": "Taya",
+        "url": "https://open.spotify.com/album/5ukybcd54gxcfFpZUAs6im"
+      },
+      "artists": [
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        },
+        {
+          "name": "Kayswitch",
+          "url": "https://open.spotify.com/artist/3FygTCDrrBXvQ6hMegQL72"
+        },
+        {
+          "name": "Specikinging",
+          "url": "https://open.spotify.com/artist/4d2sq69ImlTGjVFsAwVwLd"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162250,
+      "name": "Taya",
+      "url": "https://open.spotify.com/track/70NWXrs5axUxvl866fPXNq"
     },
     {
       "album": {

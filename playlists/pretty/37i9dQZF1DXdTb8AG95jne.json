@@ -1,12 +1,12 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: dosii(\ub3c4\uc2dc)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 465795,
+  "num_followers": 465846,
   "original_name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGVlOTk4NmMzZWZhOGVmZWMzODZmODY2NTBlN2MzZGZiODE0ZTIx",
+  "snapshot_id": "MTcxMjIwOTUzNiwwMDAwMDAwMDY2YWY4ZjdiZTFkNzc4NDAyNTJkMTRhM2MyYzJhYTE0",
   "tracks": [
     {
       "added_at": "2024-04-04 05:45:36",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-04-04 05:45:36",
       "album": {
+        "name": "Okinawa",
+        "url": "https://open.spotify.com/album/3SfmjXBkaB9ASer8mFHNg6"
+      },
+      "artists": [
+        {
+          "name": "92914",
+          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
+        }
+      ],
+      "duration_ms": 348445,
+      "name": "Okinawa",
+      "url": "https://open.spotify.com/track/1CfcKv1RLdJBWhRHAZgVdf"
+    },
+    {
+      "added_at": "2024-04-04 05:45:36",
+      "album": {
         "name": "NEXT EPISODE",
         "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 233416,
       "name": "Hey kid, Close your eyes (with Lee Sun Hee)",
       "url": "https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk"
-    },
-    {
-      "added_at": "2024-04-04 05:45:36",
-      "album": {
-        "name": "Okinawa",
-        "url": "https://open.spotify.com/album/3SfmjXBkaB9ASer8mFHNg6"
-      },
-      "artists": [
-        {
-          "name": "92914",
-          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
-        }
-      ],
-      "duration_ms": 348445,
-      "name": "Okinawa",
-      "url": "https://open.spotify.com/track/1CfcKv1RLdJBWhRHAZgVdf"
     },
     {
       "added_at": "2024-04-04 05:45:36",

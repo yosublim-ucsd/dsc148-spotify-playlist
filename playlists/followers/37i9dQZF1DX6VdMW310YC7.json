@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 3711667,
+  "2024-04-12": 3711838,
   "date_first_scraped": "2020-02-29",
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
   "name": "Chill Tracks",
@@ -16249,7 +16249,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 195840,
       "name": "Lifted",
       "url": "https://open.spotify.com/track/52aTqJfaWWLIHSC3bCyjoU"
@@ -28913,6 +28913,24 @@
       "duration_ms": 241037,
       "name": "Time",
       "url": "https://open.spotify.com/track/1Zv8woSN47nSkwMjUWX0aS"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124710,
+      "name": "Time - Edit",
+      "url": "https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs"
     },
     {
       "album": {

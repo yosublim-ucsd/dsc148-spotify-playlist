@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Adam Melchor
 
-1,455 songs - 3 day 15 hr 57 min
+1,456 songs - 3 day 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,8 @@
 | [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo) | 3:01 | 2024-02-02 | 2024-03-31 |
 | [Circle](https://open.spotify.com/track/2daQ1ffjbUgZxzrxQSQb71) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [All Around You](https://open.spotify.com/album/0V1dIAje2IVpyBQp6byOwi) | 3:00 | 2023-09-15 | 2023-12-09 |
 | [City Warm Heart](https://open.spotify.com/track/3nqjxIyCFr72mrgbUvxX0y) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [City Warm Heart](https://open.spotify.com/album/5iNljgQzhCShhX58EmQA52) | 3:01 | 2024-04-04 |  |
-| [Classical](https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Classical](https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ) | 4:19 | 2024-03-15 |  |
+| [Classical](https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Classical](https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ) | 4:19 | 2024-03-15 | 2024-04-12 |
+| [Classical](https://open.spotify.com/track/4DlGLD32K7shuL8ub067DL) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:19 | 2024-04-04 |  |
 | [Close Quarters](https://open.spotify.com/track/7eCpxZdpP7kz9j2OUJLbpd) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Close Quarters](https://open.spotify.com/album/4JEizeJf7M3cbLEzbtmxif) | 3:40 | 2023-10-20 | 2024-02-16 |
 | [Close To You](https://open.spotify.com/track/6SQJyYv6qZHhneGddKRdT0) | [CHARLES.](https://open.spotify.com/artist/5k9DAxaugi6ANyemUgQrgV), [Kim Chi Sun](https://open.spotify.com/artist/6R5x0FCE48rOtZjazPbRyh), [Jsdrmns](https://open.spotify.com/artist/5ga5P2bTvSDu4rDRnXI33l) | [Close To You](https://open.spotify.com/album/40FZJu1z9sHJD8qYLqifUm) | 2:44 | 2022-02-10 | 2022-04-08 |
 | [Closer](https://open.spotify.com/track/24Ai9oaKiidTGV4Keotqml) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [８](https://open.spotify.com/album/18BdJtCTwpeeyRsVEhaT1m) | 3:36 | 2023-10-20 | 2024-03-08 |

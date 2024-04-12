@@ -4,7 +4,7 @@
 
 > The best new hip\-hop music by independent artists and labels\. Cover: Paris Texas performing at Fresh Finds Chicago March 2024
 
-1,146 songs - 2 day 1 hr 47 min
+1,148 songs - 2 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1036,6 +1036,7 @@
 | [Too Busy Winnin](https://open.spotify.com/track/5fQ7vuILKHWjPumVvPGVZ7) | [Billacheck](https://open.spotify.com/artist/4UfNNfhp5pt4iQcF4TMKMH), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Too Busy Winnin](https://open.spotify.com/album/01mXBMtSXub3q3ZgpCjgcK) | 3:23 | 2024-04-10 |  |
 | [Too Close \(Love Is Free\)](https://open.spotify.com/track/1VTcUP7CoyVH3HA7ITPEmB) | [Bass Santana](https://open.spotify.com/artist/0O1cTzccAEKaEFShgzAK9V) | [Too Close \(Love Is Free\)](https://open.spotify.com/album/1n4RZBgK4tySWakLbCZ9sv) | 1:52 | 2023-02-08 | 2023-02-23 |
 | [Too Comfortable](https://open.spotify.com/track/6o430YO7OGbZzaUcfzf40T) | [AQ](https://open.spotify.com/artist/1lXmxcmcB5YYr5Tc27uzZP) | [Too Comfortable](https://open.spotify.com/album/7nheN2HPiSKlqYIDbtJUij) | 2:24 | 2021-12-01 | 2022-01-14 |
+| [Too Many Bags](https://open.spotify.com/track/0F8YYkgyWhGNFI8jczpbwW) | [Mango Foo](https://open.spotify.com/artist/7FRSHbAPSN9RLPSsh2a2rV) | [Too Many Bags](https://open.spotify.com/album/6Pi67BNRnROAY7uOTnnJsL) | 2:11 | 2024-04-10 |  |
 | [Too Nice](https://open.spotify.com/track/6TLsYdcjgjiBAFY1Vzhl5w) | [Jabb](https://open.spotify.com/artist/7pqRXXauuwGQqzrvvz0Azl) | [Too Nice](https://open.spotify.com/album/0EWmeppHgwRfPwCDqA2gf1) | 2:10 | 2023-01-18 | 2024-01-11 |
 | [Toothpaste](https://open.spotify.com/track/1JBMewsromlpB8Ca7FBlXZ) | [Wacotron](https://open.spotify.com/artist/4CAL0nDGvLhUfQEpwSLnUz) | [Toothpaste](https://open.spotify.com/album/3kHhuKbewC3HmXGn7YYcLi) | 3:00 | 2021-12-01 | 2022-01-14 |
 | [TOOYOUNG](https://open.spotify.com/track/737kPzO3GT2cALxjXouTVC) | [Take45](https://open.spotify.com/artist/4v40FFB2OBdChsx83RTEUO) | [Boy On Mars 2](https://open.spotify.com/album/2ailm754W0FoyX3Bf0o1Jq) | 1:47 | 2022-08-03 | 2022-09-01 |
@@ -1111,6 +1112,7 @@
 | [What It Is](https://open.spotify.com/track/1NkDnv0l3TnbHhn58HP51i) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [What It Is](https://open.spotify.com/album/2bOxoVXjjt3YwBIYhtVzoq) | 2:09 | 2022-11-30 | 2023-01-12 |
 | [What It Is](https://open.spotify.com/track/7D4HOXBTsFfC8IJc6UfjsY) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [What It Is](https://open.spotify.com/album/4WFokPlvWtHvqsG6P6Dxo5) | 2:09 | 2022-08-10 | 2022-09-22 |
 | [what time is it'](https://open.spotify.com/track/3LqXf2UKNB5JU5vH5apbC9) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [what time is it'](https://open.spotify.com/album/7BD99HIzCEjAUen8Fjq3tD) | 2:36 | 2024-03-06 | 2024-03-21 |
+| [Whatcha Got](https://open.spotify.com/track/4JNuJwEaU0fIZb9mrIurtw) | [Lisha G](https://open.spotify.com/artist/5nwxAowdUQSK1tuyVHD5lJ), [Trini Viv](https://open.spotify.com/artist/0BdYblPVnK3wnWREfBQ712) | [Whatcha Got](https://open.spotify.com/album/0Tx3AWtVd2l7Sffk0exqzo) | 1:41 | 2024-04-12 |  |
 | [Whatchu Say ?](https://open.spotify.com/track/38Myszu0cRqEwZbzUWE80J) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [Whatchu Say ?](https://open.spotify.com/album/4emUcj6mqDLRpNUMLVTpfY) | 2:38 | 2024-03-20 | 2024-03-28 |
 | [When I'm Gone](https://open.spotify.com/track/3M2gIudnbke08mHonTJE4h) | [Jesse Boone](https://open.spotify.com/artist/6aQVqPrSgYTlUKGI5lD5NO) | [When I'm Gone](https://open.spotify.com/album/5K3nW7r2TR5BE0ws6Xpats) | 2:18 | 2022-02-03 | 2022-03-03 |
 | [Where I Come From](https://open.spotify.com/track/4pX1bbiPtMssDKBGGhwryl) | [RETRO](https://open.spotify.com/artist/5JQ5QsmDCpzhi6StRcYxqf) | [Where I Come From](https://open.spotify.com/album/3ne81fhS9dI3WWtPTMzRJi) | 3:10 | 2021-12-01 | 2022-01-14 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly South African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=vM\-n17pZQIiQLZxllmtI7A">Nomfundo Moh</a>
+> Proudly South African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI?si=9FQZqrCVRby\-kTUgFQTi2Q">Mlindo The Vocalist</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,097 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,223 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 23 | [Kuyabongwa](https://open.spotify.com/track/5126E37MXDlVwL3GNsFE81) | [ChubbyCheeks](https://open.spotify.com/artist/2jMiIQfoS53BBQstybElVW) | [Kuyabongwa](https://open.spotify.com/album/1p2L4YEwcJHgRndeMG25Cw) | 3:34 |
 | 24 | [Ngiyabonga](https://open.spotify.com/track/2fOazsCfbGoDQqwxIJLUzG) | [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN) | [Ngiyabonga](https://open.spotify.com/album/6cSQEZpZosF2eFkZPCYjF8) | 4:01 |
 | 25 | [Masithandane](https://open.spotify.com/track/3WfwcQAHFWsrF8LnPz1QgJ) | [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [From My Soil To Yours](https://open.spotify.com/album/1nHbsCaPCVzmiYgztcKhyp) | 3:06 |
-| 26 | [Thandolwethu](https://open.spotify.com/track/4z4ZqbwPDXiefZtQbXmwbN) | [LaSauce](https://open.spotify.com/artist/7cb8ThGZh7FX75XcX64MKi) | [Thandolwethu](https://open.spotify.com/album/7mBW8j1VBwloatfdfOHMYc) | 3:42 |
-| 27 | [Jabula](https://open.spotify.com/track/5756pF3hDU4lFjrtxxx0T5) | [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Shakes & Les](https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp), [Omit ST](https://open.spotify.com/artist/7MxpcTTd4OWKT6cLrsYknl), [Buhle Sax](https://open.spotify.com/artist/31IAANxTnTcrtGzIceqbhM), [Sipho Magudulela](https://open.spotify.com/artist/34gZK9MCSnKzdcGbG74cXb) | [Isidalo](https://open.spotify.com/album/6dgl6hMGJBw6ldY1mrKG7L) | 6:08 |
+| 26 | [Lobolo \(feat\. Tseke Da Vince, NtoMusica\)](https://open.spotify.com/track/49BM9ZeereUi38LjPHIjAh) | [Daskidoh](https://open.spotify.com/artist/0kja8d7Y2jmEMPREkWJf8U), [NtoMusica](https://open.spotify.com/artist/7JlErV6ZjUdULnC01bNbGw), [Tseke Da Vince](https://open.spotify.com/artist/3szgJVPIFrC0QcqRwMrW1D) | [Lobolo \(feat\. Tseke Da Vince, NtoMusica\)](https://open.spotify.com/album/0m7LxHF868fMcusE0XzmkN) | 4:03 |
+| 27 | [Thandolwethu](https://open.spotify.com/track/4z4ZqbwPDXiefZtQbXmwbN) | [LaSauce](https://open.spotify.com/artist/7cb8ThGZh7FX75XcX64MKi) | [Thandolwethu](https://open.spotify.com/album/7mBW8j1VBwloatfdfOHMYc) | 3:42 |
 | 28 | [Lufana Nolwandle](https://open.spotify.com/track/66jiH5IOcPDgaMipu6yuNX) | [Nue\_Sam](https://open.spotify.com/artist/2mQ1WAgOTUQDBsJpt7tGTY) | [Nokhanyisa](https://open.spotify.com/album/23GvatjZSXfa8jmkwj2uLc) | 3:09 |
 | 29 | [Umkhonto](https://open.spotify.com/track/1L9J1HzkgKfdYPo3gYOhl7) | [Zuko SA](https://open.spotify.com/artist/0LHMSltleAi3zHyRU8gYSt) | [UMKHONTO](https://open.spotify.com/album/0qAAJBVDuxADt93qEk06xZ) | 3:12 |
 | 30 | [Sayona](https://open.spotify.com/track/05A1KzxTLvShctiD0Bsydd) | [Inkabi Zezwe](https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Ukhamba](https://open.spotify.com/album/4VshKshG4GNIVueV0qoeiP) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 49 | [Qongqotha \(live\) \- Demo](https://open.spotify.com/track/72bqWnVS3F7C06i64dvDny) | [Mishy Kope](https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a) | [Qongqotha \(live\) \[Demo\]](https://open.spotify.com/album/1OgbwEsTKgf3FnHXjQha8h) | 2:51 |
 | 50 | [Khuphuka](https://open.spotify.com/track/2woH45Z4imZSyCaqkSC0UX) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Imizwa](https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP) | 3:43 |
 
-Snapshot ID: `MCw1MzcxOTg4ZDYxNDI0OWMxOTc0YTNlOTljNjY3OTk1Y2FiMWU1NDRj`
+Snapshot ID: `MTcxMjg3NjQwMCwwMDAwMDAwMGZjMTFlN2UxOTgzNGY3ODg2Nzk2MDQ4ZTk4Yjc2YTk3`

@@ -1,12 +1,12 @@
 {
-  "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 318909,
+  "description": "This Is Ana Gabriel. Los temas esenciales, todos en una lista.",
+  "num_followers": 319107,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzU5YjMxODlhZjQ2NmNjNjU3ZWIyYjk3YjE4NjFiNjdmMTdlZWU2",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDhjMzhiOGQ0NmQ5MDYzOWFlMjQzOWIxMzUxZjIwNjM1",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Esencial De Ana Gabriel",
-        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 239773,
-      "name": "Destino",
-      "url": "https://open.spotify.com/track/78KzU9VKRmDrEO6EvZlQRG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Mexico",
         "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 288160,
       "name": "Mi Talism\u00e1n",
       "url": "https://open.spotify.com/track/6CYf0PlFE36q772z8qrZrT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Esencial De Ana Gabriel",
+        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 239773,
+      "name": "Destino",
+      "url": "https://open.spotify.com/track/78KzU9VKRmDrEO6EvZlQRG"
     },
     {
       "added_at": null,
@@ -199,26 +199,6 @@
       "duration_ms": 228826,
       "name": "A Pesar de Todo",
       "url": "https://open.spotify.com/track/5f3AqtwIWpWW9Oq31AJHNd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Esencial De Ana Gabriel",
-        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        },
-        {
-          "name": "Vikki Carr",
-          "url": "https://open.spotify.com/artist/3tM3DTmG7ahfACzwqtazLD"
-        }
-      ],
-      "duration_ms": 257453,
-      "name": "Cosas del Amor (with Vikki Carr)",
-      "url": "https://open.spotify.com/track/4BBJezanyqAj6rRC1fKIg4"
     },
     {
       "added_at": null,
@@ -259,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Un Mismo Corazon",
-        "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
+        "name": "Lo Esencial De Ana Gabriel",
+        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
       },
       "artists": [
         {
@@ -268,13 +248,13 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         },
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Vikki Carr",
+          "url": "https://open.spotify.com/artist/3tM3DTmG7ahfACzwqtazLD"
         }
       ],
-      "duration_ms": 220320,
-      "name": "Con un Mismo Coraz\u00f3n (with Vicente Fern\u00e1ndez)",
-      "url": "https://open.spotify.com/track/6t0DlWn7pzC1ByYcRlWQhG"
+      "duration_ms": 257453,
+      "name": "Cosas del Amor (with Vikki Carr)",
+      "url": "https://open.spotify.com/track/4BBJezanyqAj6rRC1fKIg4"
     },
     {
       "added_at": null,
@@ -451,6 +431,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con Un Mismo Corazon",
+        "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        },
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 220320,
+      "name": "Con un Mismo Coraz\u00f3n (with Vicente Fern\u00e1ndez)",
+      "url": "https://open.spotify.com/track/6t0DlWn7pzC1ByYcRlWQhG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vivencias",
         "url": "https://open.spotify.com/album/6DVtXmghv4ZqMbnxWFJs7J"
       },
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Un Mismo Corazon",
-        "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 174373,
-      "name": "Me Equivoqu\u00e9 Contigo",
-      "url": "https://open.spotify.com/track/55ZDD5T3EzXPyCaTSRoFkL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Esencial De Ana Gabriel",
         "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
       },
@@ -515,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
+        "name": "Con Un Mismo Corazon",
+        "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
       },
       "artists": [
         {
@@ -524,9 +508,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 208066,
-      "name": "Qu\u00e9 Manera de Perder",
-      "url": "https://open.spotify.com/track/1Tntl6GISO58wXuQ7bxXcg"
+      "duration_ms": 174373,
+      "name": "Me Equivoqu\u00e9 Contigo",
+      "url": "https://open.spotify.com/track/55ZDD5T3EzXPyCaTSRoFkL"
     },
     {
       "added_at": null,
@@ -543,6 +527,22 @@
       "duration_ms": 205933,
       "name": "Soy Como Quise Ser",
       "url": "https://open.spotify.com/track/4fbkYivlblH2hmA4ezlscp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 208066,
+      "name": "Qu\u00e9 Manera de Perder",
+      "url": "https://open.spotify.com/track/1Tntl6GISO58wXuQ7bxXcg"
     },
     {
       "added_at": null,

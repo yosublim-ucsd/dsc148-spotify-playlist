@@ -2,9 +2,9 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: Petit
+> ✨giovane✨pop✨z✨ Cover: Aka 7even
 
-369 songs - 17 hr 3 min
+372 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [26 modi](https://open.spotify.com/track/3E7QmXDtooIiTwERTy9mQU) | [Federica\_](https://open.spotify.com/artist/75CdCbwT6Q6eGmtO1ya04g) | [26 modi](https://open.spotify.com/album/5cwb5WacM5mr8mASyaTe4Y) | 3:06 | 2023-03-23 | 2023-06-23 |
 | [4ever](https://open.spotify.com/track/3AFk1sRGNVSMQRlGGjKFWH) | [Blake el Diablo](https://open.spotify.com/artist/3f0oZnKV2b5N8TDBnSGEOL) | [4ever](https://open.spotify.com/album/3E2Zx1fkrNW15jOFv3xav2) | 2:43 | 2023-06-08 | 2023-07-07 |
 | [5 MINUTI](https://open.spotify.com/track/35KwZkxsrcJiDJlloj4oHZ) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [5 MINUTI](https://open.spotify.com/album/4KGPs5mBpd4p3b2hGYLH9V) | 2:47 | 2023-03-23 | 2023-05-19 |
+| [9000 KM](https://open.spotify.com/track/3K0W8Y4UWjDPTRkNbfmsbe) | [Uale](https://open.spotify.com/artist/65DfdXpvkdrTY49gfs3LAC) | [9000 KM](https://open.spotify.com/album/1aB8x8m7r9h2kETprJQJWL) | 2:27 | 2024-04-11 |  |
 | [A Modo Nostro \(feat\. Mose\)](https://open.spotify.com/track/4u8ADeOiiWXSvvI3v8OOrb) | [Matteo E Io](https://open.spotify.com/artist/4Zx1FdnVj10w170XV0GzvO), [Mose](https://open.spotify.com/artist/6MxxMir5Ey3h9QxsGDfg4L) | [A Modo Nostro \(feat\. Mose\)](https://open.spotify.com/album/3lEdKxz9XtJfmkjAgLJYRN) | 2:19 | 2023-11-16 | 2023-12-08 |
 | [a Nessuno](https://open.spotify.com/track/5fU20jhQlPyoxuFwHEjA0a) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza](https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b) | 3:13 | 2023-05-04 | 2023-05-26 |
 | [A Squarciagola](https://open.spotify.com/track/1broDLBCr9ZXrMW3RjLa5J) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [A Squarciagola](https://open.spotify.com/album/2r8ADr19yoR2gsgshFH1SV) | 3:04 | 2023-11-02 | 2023-12-13 |
@@ -39,7 +40,7 @@
 | [Arsenico](https://open.spotify.com/track/7anzuQWuiCCULZhfJdXTyw) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 3:03 | 2023-06-08 | 2023-06-30 |
 | [Assurdo](https://open.spotify.com/track/3ZXL0jrjFsK5tlMifAohYg) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Assurdo](https://open.spotify.com/album/1m64K87nJYI6lwpCQKET7h) | 3:01 | 2024-01-04 | 2024-03-15 |
 | [ATTIMO](https://open.spotify.com/track/0KM17GZroJQiZUkQZEUH1I) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [ATTIMO](https://open.spotify.com/album/46oN09hGI1JujQaLgv1kbL) | 3:07 | 2024-03-07 | 2024-03-29 |
-| [AUTODISTRUTTIVO](https://open.spotify.com/track/3ZcpVnBJguv1WVeMG44i2M) | [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY) | [AUTODISTRUTTIVO](https://open.spotify.com/album/1M06XJqOcsMo0kCroZzl0q) | 3:09 | 2024-02-07 |  |
+| [AUTODISTRUTTIVO](https://open.spotify.com/track/3ZcpVnBJguv1WVeMG44i2M) | [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY) | [AUTODISTRUTTIVO](https://open.spotify.com/album/1M06XJqOcsMo0kCroZzl0q) | 3:09 | 2024-02-07 | 2024-04-12 |
 | [Autogol](https://open.spotify.com/track/5QRvX3WAktD8SIN2fQ99e6) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Autogol](https://open.spotify.com/album/3YBhgpFuwuRf0APuD4Ff2M) | 2:34 | 2023-11-23 | 2023-12-13 |
 | [Avaria](https://open.spotify.com/track/25d0v0TOdM0KS99R4uK6bd) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Avaria](https://open.spotify.com/album/7wLjcMg51NTWXNSJ1gloyQ) | 2:33 | 2024-03-21 | 2024-04-05 |
 | [Baby Don't Cry](https://open.spotify.com/track/1FH5kQE84G1aY17BO5U2Ei) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Baby Don't Cry](https://open.spotify.com/album/7zPSn1s2DdZVLTLCRi9zFz) | 3:04 | 2024-01-11 | 2024-02-07 |
@@ -59,6 +60,7 @@
 | [Cado](https://open.spotify.com/track/1zPBSgyezsh0BBTv8CPa1L) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf), [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Cado](https://open.spotify.com/album/2HgX6tuQ1Qjl8gZAZkKdW4) | 3:03 | 2023-03-23 | 2023-05-26 |
 | [Caffè sulla Via Lattea](https://open.spotify.com/track/75rJXt1sAMNfK5zOtgZVtk) | [LUNAR](https://open.spotify.com/artist/5yE4UZ5hln5jeJs40vlvEK) | [Caffè sulla Via Lattea](https://open.spotify.com/album/4NA8oWAIBxQrWHMdR3kfWu) | 2:45 | 2023-11-30 | 2023-12-22 |
 | [Cambiami La Vita](https://open.spotify.com/track/0PnPBuAw3Vm1TsZiHqkKb0) | [Diego Lazzari](https://open.spotify.com/artist/64ni8l4f1uyxljOKU0EugH) | [Cambiami La Vita](https://open.spotify.com/album/1xeUPCllh2Zy5zRSx568mi) | 2:55 | 2023-03-23 | 2023-07-07 |
+| [CAMILLA](https://open.spotify.com/track/44QM4Y4EC2EuDjNrCFdvCh) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [CAMILLA](https://open.spotify.com/album/4WpCQAr30YolcLGQN6zHqA) | 2:29 | 2024-04-11 |  |
 | [CANZONI TRISTI](https://open.spotify.com/track/01D1XwPEG4wOjFjbkYJukz) | [Nick Sick](https://open.spotify.com/artist/4OfbG8mT7rOznJ4UDbejLO) | [CANZONI TRISTI](https://open.spotify.com/album/7mY0E03mCwewk6njZREUna) | 2:45 | 2023-05-04 | 2023-05-19 |
 | [CARAMELLE](https://open.spotify.com/track/4YQ9Fbo5xyKlenSjmNbcqk) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 2:43 | 2023-09-21 | 2023-10-13 |
 | [caramelle](https://open.spotify.com/track/0dMl7ZeyKbUh5sPkwBFAWN) | [blame](https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8), [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [caramelle](https://open.spotify.com/album/10qQiupoXWL01OVJRjRTj8) | 2:22 | 2023-10-26 | 2023-11-10 |
@@ -228,7 +230,7 @@
 | [Non Mi Va](https://open.spotify.com/track/3ljUzyyjKC1TWQdbIo2mib) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Non Mi Va](https://open.spotify.com/album/11UvXQ70qJ3ct1kxgzHRRc) | 2:59 | 2023-06-01 | 2023-06-09 |
 | [Non piangere](https://open.spotify.com/track/2gaO1JmvkTPBHYpqiQWh3z) | [FirkLøver](https://open.spotify.com/artist/4565nNjbVvjOjpZjtJnH3R) | [Non piangere](https://open.spotify.com/album/7u5mHXvGJP0273397P57EW) | 2:45 | 2023-11-30 | 2023-12-13 |
 | [Non Piove Più](https://open.spotify.com/track/6CJC0Dgf1oMOr8dlQKKMOs) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Non Piove Più](https://open.spotify.com/album/4z92PMJqC8PYduMcJu0Os3) | 3:10 | 2023-03-23 | 2023-07-21 |
-| [NON SO SE TU \. viverci](https://open.spotify.com/track/7DquaifQJeQ42uxFwRnLfZ) | [MALÌA](https://open.spotify.com/artist/577NsAk4QOefh7AWViTOU9) | [NON SO SE TU \. viverci](https://open.spotify.com/album/6CLuxcrNdVBPferezBP6Yp) | 1:55 | 2024-03-21 |  |
+| [NON SO SE TU \. viverci](https://open.spotify.com/track/7DquaifQJeQ42uxFwRnLfZ) | [MALÌA](https://open.spotify.com/artist/577NsAk4QOefh7AWViTOU9) | [NON SO SE TU \. viverci](https://open.spotify.com/album/6CLuxcrNdVBPferezBP6Yp) | 1:55 | 2024-03-21 | 2024-04-12 |
 | [Non te l'ho detto mai](https://open.spotify.com/track/4PkT1On1EL0WdX5CilUbAU) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Non te l'ho detto mai](https://open.spotify.com/album/7j1KaDAKd9qTMaqubJq7kS) | 2:16 | 2023-11-16 | 2023-12-08 |
 | [Non Ti Levo Dalla Testa](https://open.spotify.com/track/0i03V0gL4bx2EaGg2KVjPP) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Scarabocchi](https://open.spotify.com/album/4Fo6Walba2hkPdQ5XMBG5m) | 2:44 | 2023-06-29 | 2023-07-21 |
 | [NON TI SEI MAI DIVERTITA COSÌ](https://open.spotify.com/track/5OPX34gJT9DgYl2C9jgHZF) | [Vins](https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir) | [NON TI SEI MAI DIVERTITA COSÌ](https://open.spotify.com/album/2GBE6xcPpKC1QoDu45277o) | 2:09 | 2023-09-05 | 2023-09-22 |
@@ -237,6 +239,7 @@
 | [nonèfunny :\(](https://open.spotify.com/track/4kk1oRW9H7xJO37Wm2PvXO) | [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [nonèfunny :\(](https://open.spotify.com/album/2jcDug6uGALt9aJBnSx5PY) | 2:29 | 2023-05-25 | 2023-06-09 |
 | [Nostalgia](https://open.spotify.com/track/22gH5Qg5j5ZzF7LaR7Nrkj) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Nostalgia](https://open.spotify.com/album/3WKUnE0tlqfep4jO5gyF3P) | 3:02 | 2023-03-23 | 2023-07-07 |
 | [Notte a Roma](https://open.spotify.com/track/6tBJ8wWOkxEcYFT3selR9r) | [Charlotte M](https://open.spotify.com/artist/6v839swiOjpjUxeXJ3l78M) | [Crush](https://open.spotify.com/album/2ddHdXVTTwAgvjhgyLg79T) | 2:24 | 2023-09-14 | 2023-10-06 |
+| [Notte Fonda](https://open.spotify.com/track/6cGrb2jhfQnrsVl1gRDG87) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Notte Fonda](https://open.spotify.com/album/5yaW6sXoUdLpL9VBOdvjs2) | 2:50 | 2024-04-11 |  |
 | [notte vodka](https://open.spotify.com/track/7w6K5uvRrZHdHNgQt5lSXN) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [notte vodka](https://open.spotify.com/album/13jKhdRkvOzf7yzfRkuReL) | 2:25 | 2024-03-14 |  |
 | [NULLA \(feat\. chiello\)](https://open.spotify.com/track/2cUgStjffnjioamiHZV96J) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 3:00 | 2023-09-21 | 2023-10-20 |
 | [NUVOLA](https://open.spotify.com/track/305DlkOzRc0TYoKQr00Kud) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [NUVOLA](https://open.spotify.com/album/1ONjw8s42tymCBK8FGmiAk) | 2:49 | 2023-12-12 |  |
@@ -370,7 +373,7 @@
 | [Vita morte e miracoli](https://open.spotify.com/track/6lg1cQeODHXiQv5xAiLVT2) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Voglia di vivere](https://open.spotify.com/album/6Tr2x4RP8M4ikPNrXQeFOS) | 2:40 | 2023-05-18 | 2023-06-09 |
 | [VIVO](https://open.spotify.com/track/5Z94e6QpyQI50ehSfeeLy3) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [VIVO](https://open.spotify.com/album/2IokIZBdDMvu0nayy0ZEEB) | 3:23 | 2023-12-12 | 2024-03-22 |
 | [Voglio di più](https://open.spotify.com/track/2EwaZtnl6HtnesKXiHfn7U) | [NDG](https://open.spotify.com/artist/6VSx5Yd2AO0fhm0h6xxeGi) | [Voglio di più](https://open.spotify.com/album/21T4LiB4jY83oSi4kfmI2p) | 2:51 | 2023-03-23 | 2023-05-05 |
-| [Voglio Innamorarmi](https://open.spotify.com/track/2phwwQDC5KyglBMPxO8eof) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq) | [Voglio Innamorarmi](https://open.spotify.com/album/7cQCBvJeKOxoZSr0FIM1mZ) | 1:53 | 2024-03-21 |  |
+| [Voglio Innamorarmi](https://open.spotify.com/track/2phwwQDC5KyglBMPxO8eof) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq) | [Voglio Innamorarmi](https://open.spotify.com/album/7cQCBvJeKOxoZSr0FIM1mZ) | 1:53 | 2024-03-21 | 2024-04-12 |
 | [Vorrei](https://open.spotify.com/track/0zZzsWmNBZuzxg80aJdgT2) | [Amedeo Preziosi](https://open.spotify.com/artist/7r9k0d7uURPaucWBl9pMwu) | [Vorrei](https://open.spotify.com/album/3yrHXLLKrmhuRis3E1gP8C) | 3:05 | 2023-04-20 | 2023-05-19 |
 | [Weekend](https://open.spotify.com/track/54wc6ODYOxQu1ctjPpzuVp) | [Oliver Green](https://open.spotify.com/artist/7gW7vauTRIrz3rRV2UFzyK), [Macs](https://open.spotify.com/artist/6HVUM2E6gjSKOp5NZbEqau) | [Weekend](https://open.spotify.com/album/2uneWiq89MM88wczRm3dv9) | 2:23 | 2023-06-08 | 2023-07-28 |
 | [You Make Me So Happy](https://open.spotify.com/track/7qHjjgaBZxth738ejGDqhw) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [You Make Me So Happy](https://open.spotify.com/album/7k6SSz0PxoLOzEPjhpBfhP) | 2:22 | 2023-03-23 | 2023-09-22 |

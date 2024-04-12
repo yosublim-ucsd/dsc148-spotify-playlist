@@ -4,15 +4,16 @@
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-78 songs - 7 hr 52 min
+79 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All Hail King Jesus \- Live](https://open.spotify.com/track/0Aa9storemJMkPbFnLH8jE) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Homecoming \(Live\)](https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL) | 5:36 | 2023-03-17 |  |
+| [Alpha And Omega \(Live\)](https://open.spotify.com/track/3ftk8bFLnW9czTMYV47TP6) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Peter Mattis](https://open.spotify.com/artist/0msEBjWEqERNOm1Vi3QFsC), [Sarah Sperber](https://open.spotify.com/artist/0sA77vgBi4A9x9TJBPhdEn) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 5:54 | 2024-04-12 |  |
 | [Anything Is Possible \- Live](https://open.spotify.com/track/64nXCNi7Ct1wi5Q6VROGAF) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2) | 4:54 | 2023-03-17 | 2023-11-11 |
 | [Back To Life \- Live](https://open.spotify.com/track/6WUwmKUfTF12jlJ2ll1aW5) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Homecoming \(Live\)](https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL) | 6:35 | 2023-03-17 |  |
 | [Be Enthroned \- Live](https://open.spotify.com/track/19uV6FQniZrbWtDPvBisIB) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Have It All \(Live\)](https://open.spotify.com/album/1Jwe1Xa8cuTizhE5EGozP2) | 8:05 | 2023-03-17 |  |
-| [Beauty](https://open.spotify.com/track/7IKax3Xr0hNeWj3jqlQtCl) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Come Up Here](https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03) | 5:18 | 2023-03-27 |  |
+| [Beauty](https://open.spotify.com/track/7IKax3Xr0hNeWj3jqlQtCl) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Come Up Here](https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03) | 5:18 | 2023-03-27 | 2024-04-12 |
 | [Beauty](https://open.spotify.com/track/7dDk1DRpk2YoMOUkcF9ygL) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Surrounded By Holy](https://open.spotify.com/album/40Cv3OatvEElZTKKUhL2Lg) | 5:18 | 2023-03-17 | 2023-03-28 |
 | [Beauty / We Fall Down \- Live](https://open.spotify.com/track/6qk2m4FLAsWT5BaaTqhddH) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Beauty](https://open.spotify.com/album/0N7g1biLYfgX00mWoHmMud) | 9:49 | 2023-09-05 | 2023-11-11 |
 | [By the Grace of God](https://open.spotify.com/track/2NLGDqOvvIU1ZNzAFHeVcO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Peace](https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA) | 5:19 | 2023-03-17 |  |

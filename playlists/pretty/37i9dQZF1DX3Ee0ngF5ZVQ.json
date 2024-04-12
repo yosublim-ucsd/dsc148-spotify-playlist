@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjdmZGFkNmRlMjAwNmE0ZGVlODdjZDU1YjFlODczY2M1NTUwMTQy",
+  "snapshot_id": "MTcxMjI4OTYwMCwwMDAwMDAwMGE2YmI0NDBjZGIyMWQ5YTNlNTBiNjdmMzMwZDY2ZWNj",
   "tracks": [
     {
       "added_at": "2024-04-05 04:00:00",
@@ -435,18 +435,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Pretty Little Poison",
-        "url": "https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg"
+        "name": "Diamondhead",
+        "url": "https://open.spotify.com/album/3PH84CGXxf8KMw2r9JKvzc"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "J.R. Carroll",
+          "url": "https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm"
         }
       ],
-      "duration_ms": 189013,
-      "name": "West Texas Weather",
-      "url": "https://open.spotify.com/track/4SKO7VBkJOwyfLNzYC8CkB"
+      "duration_ms": 187375,
+      "name": "Diamondhead",
+      "url": "https://open.spotify.com/track/1y76vWynOdnIbixqJvxD3e"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -491,18 +491,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Diamondhead",
-        "url": "https://open.spotify.com/album/3PH84CGXxf8KMw2r9JKvzc"
+        "name": "Pretty Little Poison",
+        "url": "https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg"
       },
       "artists": [
         {
-          "name": "J.R. Carroll",
-          "url": "https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 187375,
-      "name": "Diamondhead",
-      "url": "https://open.spotify.com/track/1y76vWynOdnIbixqJvxD3e"
+      "duration_ms": 189013,
+      "name": "West Texas Weather",
+      "url": "https://open.spotify.com/track/4SKO7VBkJOwyfLNzYC8CkB"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1703,18 +1703,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Till You",
-        "url": "https://open.spotify.com/album/29VsW5EVau6fNhYop1nIWR"
+        "name": "Learnin' my Lesson",
+        "url": "https://open.spotify.com/album/7GUnsUVz27ZchZ7vmtm1Mn"
       },
       "artists": [
         {
-          "name": "Dave Fenley",
-          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
+          "name": "The Wilder Blue",
+          "url": "https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD"
+        },
+        {
+          "name": "Wes Bayliss",
+          "url": "https://open.spotify.com/artist/4HVDdibCfau9ebwkNxDp0f"
         }
       ],
-      "duration_ms": 206016,
-      "name": "Till You",
-      "url": "https://open.spotify.com/track/2XSZ4cEzB2lUY8i2rUWKN6"
+      "duration_ms": 187089,
+      "name": "Learnin' my Lesson",
+      "url": "https://open.spotify.com/track/0BbB09Svr2wBTYERsUJ10b"
     }
   ],
   "unique_name": "Texas Country Now",

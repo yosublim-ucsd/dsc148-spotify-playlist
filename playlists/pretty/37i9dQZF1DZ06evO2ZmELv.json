@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWI1MWRiODc5OWY3ZDIwOGE0ODI1MWMzNGRiMjU3ZWZkMTAyNzUz",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDk4ODU2N2UyMmM5YzUxOTNjMWZhYTk0NGQyNjE0NTlm",
   "tracks": [
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 173365,
-      "name": "Destino Cruel - En Vivo",
-      "url": "https://open.spotify.com/track/6BJ2kSTuPGWNb9bXkCwpMt"
+      "duration_ms": 162346,
+      "name": "Se Me Olvid\u00f3 Otra Vez - En Vivo",
+      "url": "https://open.spotify.com/track/4Sa4JAiKTorCrmduJ2M1uH"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 162346,
-      "name": "Se Me Olvid\u00f3 Otra Vez - En Vivo",
-      "url": "https://open.spotify.com/track/4Sa4JAiKTorCrmduJ2M1uH"
+      "duration_ms": 173365,
+      "name": "Destino Cruel - En Vivo",
+      "url": "https://open.spotify.com/track/6BJ2kSTuPGWNb9bXkCwpMt"
     },
     {
       "added_at": null,
@@ -443,22 +443,10 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Metiste (En Vivo)",
-        "url": "https://open.spotify.com/album/2amIneXgm8tKn9gWlB6fbm"
+        "name": "DEL Records Presenta - En Vivo Desde La Finca El Cielo",
+        "url": "https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq"
       },
       "artists": [
-        {
-          "name": "DEL Records",
-          "url": "https://open.spotify.com/artist/6rW5Y4FndhF6xC3FuWT3rZ"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        },
         {
           "name": "Jose Manuel",
           "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
@@ -468,9 +456,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 198048,
-      "name": "Te Metiste - En Vivo",
-      "url": "https://open.spotify.com/track/7vynqQ4OOv5dWCfGNOKsAu"
+      "duration_ms": 235144,
+      "name": "Golpes En El Corazon - En Vivo",
+      "url": "https://open.spotify.com/track/0gSdIIHdkqIZKBiiScOuCX"
     },
     {
       "added_at": null,
@@ -516,17 +504,29 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 246917,
-      "name": "Para Morir Iguales - Versi\u00f3n Banda En Vivo",
-      "url": "https://open.spotify.com/track/5JPZL1qwDXOnYt6w4Rg7gy"
+      "duration_ms": 197733,
+      "name": "Animas Que No Amanezca - Versi\u00f3n Norte\u00f1o En Vivo",
+      "url": "https://open.spotify.com/track/3XMBTKx7OIGhGIrcyvcwCs"
     },
     {
       "added_at": null,
       "album": {
-        "name": "DEL Records Presenta - En Vivo Desde La Finca El Cielo",
-        "url": "https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq"
+        "name": "Te Metiste (En Vivo)",
+        "url": "https://open.spotify.com/album/2amIneXgm8tKn9gWlB6fbm"
       },
       "artists": [
+        {
+          "name": "DEL Records",
+          "url": "https://open.spotify.com/artist/6rW5Y4FndhF6xC3FuWT3rZ"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
         {
           "name": "Jose Manuel",
           "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 235144,
-      "name": "Golpes En El Corazon - En Vivo",
-      "url": "https://open.spotify.com/track/0gSdIIHdkqIZKBiiScOuCX"
+      "duration_ms": 198048,
+      "name": "Te Metiste - En Vivo",
+      "url": "https://open.spotify.com/track/7vynqQ4OOv5dWCfGNOKsAu"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [Dancehall Station](https://open.spotify.com/playlist/37i9dQZF1DX9QYRS3EMTFh)
 
-> Les hits dancehall du moment\. Photo : Kybba
+> Les hits dancehall du moment\. Photo : Shenseea
 
-377 songs - 17 hr 7 min
+378 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Dancewall](https://open.spotify.com/track/4zvye7HkHMAvKPAi9qmVtl) | [General Shizzle](https://open.spotify.com/artist/2Ia7Pj1RflYoHQQHjJHePJ), [Gamix](https://open.spotify.com/artist/3aOHw8ZqmQaNG5MbRumUaI), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [Dancewall](https://open.spotify.com/album/0CCVcksm1E4lYchCwCApRy) | 2:16 | 2023-01-19 | 2023-03-25 |
 | [DBG](https://open.spotify.com/track/7JA7yknfaa6Tb4PBwMP8fD) | [Jahlys](https://open.spotify.com/artist/4AcFhqecUgQOUNmdcdngEq) | [DBG](https://open.spotify.com/album/4asYPug3TrWrrl3mRO086k) | 2:24 | 2023-01-26 | 2023-03-03 |
 | [Dem Fear WE](https://open.spotify.com/track/7GW1ObEMhFzGIlEmNPjt74) | [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Twinkle Brain](https://open.spotify.com/artist/4YUUAPnIuLhAFMuOvt7XfL) | [Dem Fear We](https://open.spotify.com/album/0Rhqlf4jseRmQqT5neGs9g) | 2:52 | 2023-01-06 | 2023-01-20 |
+| [Demon Time](https://open.spotify.com/track/23IuFgCndsodlvirH5HEfJ) | [La Toya Linger](https://open.spotify.com/artist/340ZBWi8L5lldZGTHqQfm7) | [Demon Time](https://open.spotify.com/album/7u5WyK8nbQzCxEAcZ73HNa) | 2:17 | 2024-04-11 |  |
 | [Denge IV](https://open.spotify.com/track/2ZfqGYJqezAO0mJOh5UCoG) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Denge 6.0](https://open.spotify.com/album/5X5PlqH0I4xPr6HAqYvNOx) | 2:38 | 2024-03-07 |  |
 | [Die For You](https://open.spotify.com/track/2Rp4qBtPeJTg8Fxr1Seoft) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Die For You](https://open.spotify.com/album/3PGtY7XwJKnzi9v1o4CtxJ) | 2:20 | 2024-03-28 |  |
 | [DIRTY DANCE](https://open.spotify.com/track/7AOLcbO2fK3SxmASZ6XS2d) | [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [DIRTY DANCE](https://open.spotify.com/album/5v27uyZL7mrN2hWUojOwg2) | 2:35 | 2023-10-12 | 2023-11-17 |
@@ -192,7 +193,7 @@
 | [La La \(feat\. Suarez\)](https://open.spotify.com/track/7GlOrQ7xu2KbxWQKXQKcQA) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Suarez](https://open.spotify.com/artist/6D40RuzdpIC5ip4yL2UUvD) | [La La \(feat\. Suarez\)](https://open.spotify.com/album/0WFGzRgEzfhQ6RDDkowkXc) | 3:42 | 2023-11-30 | 2024-01-12 |
 | [Ladilafé](https://open.spotify.com/track/33F13lqbuq5XLeNJ2vqvdr) | [Xavier Picardo](https://open.spotify.com/artist/41dndcs0lGb9GMwJiJhVCJ) | [Ladilafé](https://open.spotify.com/album/4lQNX2CO4PA7tdwqBif5md) | 2:05 | 2024-02-01 | 2024-03-01 |
 | [Laisse tomber](https://open.spotify.com/track/1oAGCEm3nBKzCMlUSJq9a5) | [Sika Rlion](https://open.spotify.com/artist/2bk4OvULWozcTHC7EMhKaA) | [Laisse tomber](https://open.spotify.com/album/1tJEATN67cEfLK3M5k5svc) | 2:52 | 2023-05-11 | 2023-07-07 |
-| [LAMBIS](https://open.spotify.com/track/5bV24BrLl43oewdVtu1jAa) | [Jahlys](https://open.spotify.com/artist/4AcFhqecUgQOUNmdcdngEq), [DJ Tutuss](https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv) | [LAMBIS](https://open.spotify.com/album/6MyxUeCGFj2GNEktSg8Bil) | 2:03 | 2024-02-29 |  |
+| [LAMBIS](https://open.spotify.com/track/5bV24BrLl43oewdVtu1jAa) | [Jahlys](https://open.spotify.com/artist/4AcFhqecUgQOUNmdcdngEq), [DJ Tutuss](https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv) | [LAMBIS](https://open.spotify.com/album/6MyxUeCGFj2GNEktSg8Bil) | 2:03 | 2024-02-29 | 2024-04-12 |
 | [Laptop](https://open.spotify.com/track/7e2vCAtcYXuM8JOUqIZ9GQ) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Tombolo](https://open.spotify.com/album/5x2zkoZogYhBNF6pYJIzk3) | 2:47 | 2022-04-28 | 2023-11-17 |
 | [Latina Gyal Dem](https://open.spotify.com/track/0b4bFD5AHe2fT6mMQlzyd9) | [Lord Kossity](https://open.spotify.com/artist/5QWxhSb2qupA3pNE3X6VpM), [Digital Cut](https://open.spotify.com/artist/1weuKGa08rOPGVUcMaPvfd), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Latina Gyal Dem](https://open.spotify.com/album/3iq3KUCeo0VgyhPj818uLg) | 3:07 | 2021-12-22 | 2022-01-06 |
 | [Le roi du Shatta](https://open.spotify.com/track/03NgCpDoLcslt53N88Y3Fp) | [Elji](https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s) | [Le roi du Shatta](https://open.spotify.com/album/26JI28j9g7WZgdr4eCc48I) | 2:07 | 2023-06-29 | 2023-09-29 |

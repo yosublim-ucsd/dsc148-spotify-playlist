@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186 likes - 122 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,189 likes - 122 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 81 | [Guyliner, Pt\. 2](https://open.spotify.com/track/2kALtFWOzG7iHhm8EQmLmD) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant \(Deluxe\)](https://open.spotify.com/album/1NcvdqVDbyvZFaZW0cptZe) | 2:45 |
 | 82 | [Wasted Youth](https://open.spotify.com/track/6u2GjEYlRJ1INFD11twSFh) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Bombastic](https://open.spotify.com/album/5dCc6pEo27JNfXbnDcwwf8) | 4:09 |
 | 83 | [I Don't Have to Sleep to Dream](https://open.spotify.com/track/1kxuKjRiXHCGQRj4AeN3ul) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Closer to the Truth \(Deluxe Edition\)](https://open.spotify.com/album/2nlX67uuNKD2avQ17vItT9) | 4:41 |
-| 84 | [Fast Forward](https://open.spotify.com/track/41hmP8GemZuIKrNJybwXe0) | [Oliver](https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K) | [Light Years Away](https://open.spotify.com/album/6F9PZFOFx4YIgF51dXNnw0) | 4:44 |
-| 85 | [Obsessed \(feat\. Ashley Sienna\)](https://open.spotify.com/track/2fWVflATzWBQm6qQNmaRIH) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [Obsessed \(feat\. Ashley Sienna\)](https://open.spotify.com/album/5NtTfPmz1C9xht5kA1WgWw) | 3:03 |
+| 84 | [Obsessed \(feat\. Ashley Sienna\)](https://open.spotify.com/track/2fWVflATzWBQm6qQNmaRIH) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [Obsessed \(feat\. Ashley Sienna\)](https://open.spotify.com/album/5NtTfPmz1C9xht5kA1WgWw) | 3:03 |
+| 85 | [Fast Forward](https://open.spotify.com/track/41hmP8GemZuIKrNJybwXe0) | [Oliver](https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K) | [Light Years Away](https://open.spotify.com/album/6F9PZFOFx4YIgF51dXNnw0) | 4:44 |
 | 86 | [Hot City](https://open.spotify.com/track/66xUkAhfgsvwPxG6t0pLGX) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/18Ufdr767Mvd8Vs6YcDn2a) | 3:41 |
 | 87 | [SLAY](https://open.spotify.com/track/0MiKPNG2SFuv8xGCG6Liak) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [SLAY](https://open.spotify.com/album/2UajmvL5HXIk23XEIspQAK) | 3:39 |
 | 88 | [American Youth French Kissing](https://open.spotify.com/track/1kmSbT5S418UVfpxGyMGR0) | [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [American Youth French Kissing](https://open.spotify.com/album/0TuDB51EX2AACnUfcfyulA) | 3:46 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 121 | [Bad Witches](https://open.spotify.com/track/5v1PfygiFLtzkzzDxRUgm0) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 2:49 |
 | 122 | [Burnin'](https://open.spotify.com/track/16zrncqFw9Jlh9x98rhVFp) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Dehiro](https://open.spotify.com/artist/5wveL5t3Phar9SspgSSf1f) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 3:29 |
 
-Snapshot ID: `Mjg1NDY2NzAsMDAwMDAwMDA5YmFhNWJiZjExOTAwM2YwNzE0MTU5NDcxN2Q4ZWU4OA==`
+Snapshot ID: `Mjg1NDgxMzAsMDAwMDAwMDBmYWVjMDA3YzA0ZGQyZmU2MDUwNDVlYjBjYzYwNzE4ZQ==`

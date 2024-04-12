@@ -737,6 +737,24 @@
     },
     {
       "album": {
+        "name": "Make It Out Alive - The Spider Within: A Spider-Verse Story",
+        "url": "https://open.spotify.com/album/5bPN5komz0RfntHeE07PPA"
+      },
+      "artists": [
+        {
+          "name": "Malachiii",
+          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210750,
+      "name": "Make It Out Alive - The Spider Within: A Spider-Verse Story",
+      "url": "https://open.spotify.com/track/7shT6hTBBFtP5zvOFOqFnr"
+    },
+    {
+      "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },

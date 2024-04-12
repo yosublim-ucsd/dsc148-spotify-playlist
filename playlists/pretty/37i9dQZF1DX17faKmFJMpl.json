@@ -1,12 +1,12 @@
 {
   "description": "\ud55c\uad6d \ud799\ud569\uc758 \ubfcc\ub9ac, \uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d \ud799\ud569\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: Tiger JK)",
-  "num_followers": 3581,
+  "num_followers": 3583,
   "original_name": "\uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d\ud799\ud569 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDA5YWIzMWQwODQwMTk2ZWM2YWM0MzA4YTJjNGMxM2EzYzk5MDRj",
+  "snapshot_id": "MTY5MTY3NjE0NiwwMDAwMDAwMGU5ZWY4ZTM0N2I2ZDQ0YTYzNGNkZTVhNTg4OTIyM2Vi",
   "tracks": [
     {
       "added_at": "2023-08-10 14:02:26",
@@ -539,22 +539,18 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Favorite",
-        "url": "https://open.spotify.com/album/3GJg3berJSA1ZuNY6DbiRA"
+        "name": "Mirror (28 Look at Youth)",
+        "url": "https://open.spotify.com/album/2G4IlfQaKAFysULXYg5n8t"
       },
       "artists": [
         {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        },
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
         }
       ],
-      "duration_ms": 213173,
-      "name": "Favorite (feat. Dynamicduo)",
-      "url": "https://open.spotify.com/track/0yxUK59a4jBkmwVVJyW6c7"
+      "duration_ms": 299470,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/7a34Q612JcJIiuBoDvMX8W"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -575,38 +571,22 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Mirror (28 Look at Youth)",
-        "url": "https://open.spotify.com/album/2G4IlfQaKAFysULXYg5n8t"
+        "name": "Favorite",
+        "url": "https://open.spotify.com/album/3GJg3berJSA1ZuNY6DbiRA"
       },
       "artists": [
         {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
-        }
-      ],
-      "duration_ms": 299470,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/7a34Q612JcJIiuBoDvMX8W"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "Superior Vol. 2 - Seoul City's Finest",
-        "url": "https://open.spotify.com/album/1mGSvFoUY424YVLrMWBGW6"
-      },
-      "artists": [
-        {
-          "name": "Joosuc",
-          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
         },
         {
-          "name": "237",
-          "url": "https://open.spotify.com/artist/4lt6L46vqmgdIzKTqpZ1pb"
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
         }
       ],
-      "duration_ms": 229120,
-      "name": "Neva Lose (feat. 237)",
-      "url": "https://open.spotify.com/track/2I0IPGSGsjQwXj2D9iGhxw"
+      "duration_ms": 213173,
+      "name": "Favorite (feat. Dynamicduo)",
+      "url": "https://open.spotify.com/track/0yxUK59a4jBkmwVVJyW6c7"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -627,6 +607,26 @@
       "duration_ms": 222693,
       "name": "\ud6d4\uccd0 Rob It (feat. Double K)",
       "url": "https://open.spotify.com/track/5UaGldAL222nOHnIS78vfO"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "Superior Vol. 2 - Seoul City's Finest",
+        "url": "https://open.spotify.com/album/1mGSvFoUY424YVLrMWBGW6"
+      },
+      "artists": [
+        {
+          "name": "Joosuc",
+          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
+        },
+        {
+          "name": "237",
+          "url": "https://open.spotify.com/artist/4lt6L46vqmgdIzKTqpZ1pb"
+        }
+      ],
+      "duration_ms": 229120,
+      "name": "Neva Lose (feat. 237)",
+      "url": "https://open.spotify.com/track/2I0IPGSGsjQwXj2D9iGhxw"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
+        "name": "t 3 YOONMIRAE",
+        "url": "https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L"
+      },
+      "artists": [
+        {
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 230765,
+      "name": "Black Diamond",
+      "url": "https://open.spotify.com/track/6ilrRtcSp8IIW48ZPnwDqr"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
         "name": "Map of the Human Soul",
         "url": "https://open.spotify.com/album/0HOb3ypZrAVbuGYLiMhC7z"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "t 3 YOONMIRAE",
-        "url": "https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L"
-      },
-      "artists": [
-        {
-          "name": "YOON MIRAE",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 230765,
-      "name": "Black Diamond",
-      "url": "https://open.spotify.com/track/6ilrRtcSp8IIW48ZPnwDqr"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
         "name": "The Real Me",
         "url": "https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE"
       },
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Positive Mind",
-        "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
-      },
-      "artists": [
-        {
-          "name": "ILLSON",
-          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
-        },
-        {
-          "name": "\uc815\ud45c",
-          "url": "https://open.spotify.com/artist/5d6VYMtjHfDpsZt2GqHRAy"
-        }
-      ],
-      "duration_ms": 276800,
-      "name": "\ub108\uac00 \ub0a0 \ub5a0\ub098\uba74 \uc548\ub418\ub294 \uc774\uc720",
-      "url": "https://open.spotify.com/track/4qeHcnmSFGSsj3zYfHeaS1"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
         "name": "Giant",
         "url": "https://open.spotify.com/album/7nzH9dvMJT3qMTrB0mZOTo"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 230560,
       "name": "\uc80a\uc740\uc774\uc758 \uc591\uc9c0 (feat. MC Sniper)",
       "url": "https://open.spotify.com/track/1Gg9JEerKSgFy9p5tV642n"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "Positive Mind",
+        "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
+      },
+      "artists": [
+        {
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
+        },
+        {
+          "name": "\uc815\ud45c",
+          "url": "https://open.spotify.com/artist/5d6VYMtjHfDpsZt2GqHRAy"
+        }
+      ],
+      "duration_ms": 276800,
+      "name": "\ub108\uac00 \ub0a0 \ub5a0\ub098\uba74 \uc548\ub418\ub294 \uc774\uc720",
+      "url": "https://open.spotify.com/track/4qeHcnmSFGSsj3zYfHeaS1"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Stardom In Future Flow",
-        "url": "https://open.spotify.com/album/099IAQyHxzJvo1ioGSuRmd"
-      },
-      "artists": [
-        {
-          "name": "ZoPD",
-          "url": "https://open.spotify.com/artist/1JIlqu7XZniSF86iMlgKHR"
-        }
-      ],
-      "duration_ms": 242706,
-      "name": "My Style",
-      "url": "https://open.spotify.com/track/40UsCnzkWu5B958U7BCNJR"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1SW0tDZHq8t4YkuFWddBNa"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 278639,
       "name": "\uc544\uc5d0\uc774\uc624\uc6b0 \uc5b4 ?! Pt.2",
       "url": "https://open.spotify.com/track/0Xp0DHasuTlxYUntHoJJ2r"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "Stardom In Future Flow",
+        "url": "https://open.spotify.com/album/099IAQyHxzJvo1ioGSuRmd"
+      },
+      "artists": [
+        {
+          "name": "ZoPD",
+          "url": "https://open.spotify.com/artist/1JIlqu7XZniSF86iMlgKHR"
+        }
+      ],
+      "duration_ms": 242706,
+      "name": "My Style",
+      "url": "https://open.spotify.com/track/40UsCnzkWu5B958U7BCNJR"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1315,22 +1315,26 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Fanatic",
-        "url": "https://open.spotify.com/album/63R1PRmdQrDt6EHftX4laO"
+        "name": "Handalas",
+        "url": "https://open.spotify.com/album/0RmuofqnwuvBbioiOv1jm8"
       },
       "artists": [
         {
-          "name": "Fana",
-          "url": "https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT"
+          "name": "Leo Kekoa",
+          "url": "https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk"
         },
         {
-          "name": "Kebee & The Quiett",
-          "url": "https://open.spotify.com/artist/19FusVEESEp7aIW8ZNORim"
+          "name": "MC Meta",
+          "url": "https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
         }
       ],
-      "duration_ms": 258506,
-      "name": "Brutal Treatment (Part. 1) [feat. Kebee & The Quiett]",
-      "url": "https://open.spotify.com/track/4HJZszQCz2viSCi0qlHSIR"
+      "duration_ms": 216821,
+      "name": "Handalas",
+      "url": "https://open.spotify.com/track/0VGwwzutmfWbxQfRqQnbme"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1375,26 +1379,22 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Handalas",
-        "url": "https://open.spotify.com/album/0RmuofqnwuvBbioiOv1jm8"
+        "name": "Fanatic",
+        "url": "https://open.spotify.com/album/63R1PRmdQrDt6EHftX4laO"
       },
       "artists": [
         {
-          "name": "Leo Kekoa",
-          "url": "https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk"
+          "name": "Fana",
+          "url": "https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT"
         },
         {
-          "name": "MC Meta",
-          "url": "https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu"
-        },
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+          "name": "Kebee & The Quiett",
+          "url": "https://open.spotify.com/artist/19FusVEESEp7aIW8ZNORim"
         }
       ],
-      "duration_ms": 216821,
-      "name": "Handalas",
-      "url": "https://open.spotify.com/track/0VGwwzutmfWbxQfRqQnbme"
+      "duration_ms": 258506,
+      "name": "Brutal Treatment (Part. 1) [feat. Kebee & The Quiett]",
+      "url": "https://open.spotify.com/track/4HJZszQCz2viSCi0qlHSIR"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1411,6 +1411,22 @@
       "duration_ms": 202500,
       "name": "Classic",
       "url": "https://open.spotify.com/track/2jjLNku7WN4Mn4RY19QVrb"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "MP Hip Hop 2000 CHO (Remastered)",
+        "url": "https://open.spotify.com/album/3wjbQMnYUtj5Dh8Wh7qF4n"
+      },
+      "artists": [
+        {
+          "name": "Onesun",
+          "url": "https://open.spotify.com/artist/0tNK6IJVsvU5Zxv5sqgJiU"
+        }
+      ],
+      "duration_ms": 240840,
+      "name": "Little Thug Kid",
+      "url": "https://open.spotify.com/track/1AnuoG3yUsCJWRTmsHz9Fh"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "MP Hip Hop 2000 CHO (Remastered)",
-        "url": "https://open.spotify.com/album/3wjbQMnYUtj5Dh8Wh7qF4n"
-      },
-      "artists": [
-        {
-          "name": "Onesun",
-          "url": "https://open.spotify.com/artist/0tNK6IJVsvU5Zxv5sqgJiU"
-        }
-      ],
-      "duration_ms": 240840,
-      "name": "Little Thug Kid",
-      "url": "https://open.spotify.com/track/1AnuoG3yUsCJWRTmsHz9Fh"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
         "name": "Positive Mind",
         "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
       },
@@ -1467,22 +1467,6 @@
       "duration_ms": 247666,
       "name": "Nu Skool",
       "url": "https://open.spotify.com/track/330s3OIUha9yPqm8WPsDOG"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "Giant",
-        "url": "https://open.spotify.com/album/7nzH9dvMJT3qMTrB0mZOTo"
-      },
-      "artists": [
-        {
-          "name": "BAECHIGI",
-          "url": "https://open.spotify.com/artist/1mKRJeL6KrSlwLG8gvwSQP"
-        }
-      ],
-      "duration_ms": 76560,
-      "name": "Giant",
-      "url": "https://open.spotify.com/track/7553bLdYfafxdS7Lzx9Alf"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
+        "name": "Giant",
+        "url": "https://open.spotify.com/album/7nzH9dvMJT3qMTrB0mZOTo"
+      },
+      "artists": [
+        {
+          "name": "BAECHIGI",
+          "url": "https://open.spotify.com/artist/1mKRJeL6KrSlwLG8gvwSQP"
+        }
+      ],
+      "duration_ms": 76560,
+      "name": "Giant",
+      "url": "https://open.spotify.com/track/7553bLdYfafxdS7Lzx9Alf"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
         "name": "Beatz 4 Da Streetz",
         "url": "https://open.spotify.com/album/5fW9o5IqCJxz7jt3tJk7oh"
       },
@@ -1519,6 +1519,22 @@
       "duration_ms": 233000,
       "name": "Lastman Standing",
       "url": "https://open.spotify.com/track/46P9ESmF3WAGEpllZFAWbd"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "MP Hip Hop 2000 CHO (Remastered)",
+        "url": "https://open.spotify.com/album/3wjbQMnYUtj5Dh8Wh7qF4n"
+      },
+      "artists": [
+        {
+          "name": "MP Hip Hop",
+          "url": "https://open.spotify.com/artist/0idGZ7ZTiHgiTxQRE9bQUo"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "CHO",
+      "url": "https://open.spotify.com/track/5CmKZpxzC8xaFLzXFZUDUY"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1543,6 +1559,26 @@
       "duration_ms": 291333,
       "name": "Alchemy (feat. Kebee, Paloalto)",
       "url": "https://open.spotify.com/track/7mB6gNS7nALqjiMHlGDUVC"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "Poetree Syndrome",
+        "url": "https://open.spotify.com/album/2BBRKCB78xTmsyMPDt6FOo"
+      },
+      "artists": [
+        {
+          "name": "Kebee",
+          "url": "https://open.spotify.com/artist/3TLffOgVLta1P3b7mQypvt"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "duration_ms": 224973,
+      "name": "\ub9c8\ubd80",
+      "url": "https://open.spotify.com/track/7fQmpoHQ4aVyx5wtWyOmSo"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1595,46 +1631,6 @@
       "duration_ms": 506070,
       "name": "\ud55c\uae38\uc744 \uac78\uc5b4\uac00\ub77c (with \ud53c\ud0c0\uc785, \ub77c\uc784\uc5b4\ud0dd, \ub9c8\uc774\ub178\uc2a4, \ub300\ud314, \ub098\ucc30, \ub10b\uc5c5\uc0e8, MC \uba54\ud0c0, Wimpy & Sean2slow) - Remix Version",
       "url": "https://open.spotify.com/track/4orjqC4JPPjNFy1oVnArEP"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "Poetree Syndrome",
-        "url": "https://open.spotify.com/album/2BBRKCB78xTmsyMPDt6FOo"
-      },
-      "artists": [
-        {
-          "name": "Kebee",
-          "url": "https://open.spotify.com/artist/3TLffOgVLta1P3b7mQypvt"
-        },
-        {
-          "name": "Zito",
-          "url": "https://open.spotify.com/artist/1WSXciPLlOnr0DcLVWqext"
-        },
-        {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "Twisted Words",
-      "url": "https://open.spotify.com/track/14qjYcNnyyK0hbBpRZdS5W"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "MP Hip Hop 2000 CHO (Remastered)",
-        "url": "https://open.spotify.com/album/3wjbQMnYUtj5Dh8Wh7qF4n"
-      },
-      "artists": [
-        {
-          "name": "MP Hip Hop",
-          "url": "https://open.spotify.com/artist/0idGZ7ZTiHgiTxQRE9bQUo"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "CHO",
-      "url": "https://open.spotify.com/track/5CmKZpxzC8xaFLzXFZUDUY"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1719,6 +1715,22 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
+        "name": "The Blue Album",
+        "url": "https://open.spotify.com/album/7mBRI8TtXIHOT66CL27CHx"
+      },
+      "artists": [
+        {
+          "name": "Jiggy Fellaz",
+          "url": "https://open.spotify.com/artist/6fGVi4kzWPmzoz7FKGwnIl"
+        }
+      ],
+      "duration_ms": 186973,
+      "name": "New-$-Cool - Jiggy Fellaz",
+      "url": "https://open.spotify.com/track/5xwdzYgQFK9ALpeqb95Cnc"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/2ltQS10O2Tz9PyE3PeeEUr"
       },
@@ -1739,6 +1751,30 @@
       "duration_ms": 221746,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/3UkVMgfOi815K5da9exWM3"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "Poetree Syndrome",
+        "url": "https://open.spotify.com/album/2BBRKCB78xTmsyMPDt6FOo"
+      },
+      "artists": [
+        {
+          "name": "Kebee",
+          "url": "https://open.spotify.com/artist/3TLffOgVLta1P3b7mQypvt"
+        },
+        {
+          "name": "Zito",
+          "url": "https://open.spotify.com/artist/1WSXciPLlOnr0DcLVWqext"
+        },
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Twisted Words",
+      "url": "https://open.spotify.com/track/14qjYcNnyyK0hbBpRZdS5W"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1767,38 +1803,26 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Poetree Syndrome",
-        "url": "https://open.spotify.com/album/2BBRKCB78xTmsyMPDt6FOo"
+        "name": "Ill Skill",
+        "url": "https://open.spotify.com/album/3wluGULbyFDJrp41R7VdYf"
       },
       "artists": [
         {
-          "name": "Kebee",
-          "url": "https://open.spotify.com/artist/3TLffOgVLta1P3b7mQypvt"
+          "name": "Leo Kekoa",
+          "url": "https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk"
         },
         {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        }
-      ],
-      "duration_ms": 224973,
-      "name": "\ub9c8\ubd80",
-      "url": "https://open.spotify.com/track/7fQmpoHQ4aVyx5wtWyOmSo"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "The Blue Album",
-        "url": "https://open.spotify.com/album/7mBRI8TtXIHOT66CL27CHx"
-      },
-      "artists": [
+          "name": "Redroc",
+          "url": "https://open.spotify.com/artist/1wwQDS0bLPNsiFFqWmCJNa"
+        },
         {
-          "name": "Jiggy Fellaz",
-          "url": "https://open.spotify.com/artist/6fGVi4kzWPmzoz7FKGwnIl"
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
         }
       ],
-      "duration_ms": 186973,
-      "name": "New-$-Cool - Jiggy Fellaz",
-      "url": "https://open.spotify.com/track/5xwdzYgQFK9ALpeqb95Cnc"
+      "duration_ms": 218026,
+      "name": "\ub611\ubc14\ub85c \uac78\uc5b4\uac00 (feat. Redroc & \ub3c4\ub07c)",
+      "url": "https://open.spotify.com/track/6LY8SLZE6WahwaAluvocrb"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1823,30 +1847,6 @@
       "duration_ms": 264733,
       "name": "Climb High",
       "url": "https://open.spotify.com/track/6t5aUI9PC1NWSaWlUquNTw"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "Ill Skill",
-        "url": "https://open.spotify.com/album/3wluGULbyFDJrp41R7VdYf"
-      },
-      "artists": [
-        {
-          "name": "Leo Kekoa",
-          "url": "https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk"
-        },
-        {
-          "name": "Redroc",
-          "url": "https://open.spotify.com/artist/1wwQDS0bLPNsiFFqWmCJNa"
-        },
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        }
-      ],
-      "duration_ms": 218026,
-      "name": "\ub611\ubc14\ub85c \uac78\uc5b4\uac00 (feat. Redroc & \ub3c4\ub07c)",
-      "url": "https://open.spotify.com/track/6LY8SLZE6WahwaAluvocrb"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "MP Hip Hop 2000 CHO (Remastered)",
-        "url": "https://open.spotify.com/album/3wjbQMnYUtj5Dh8Wh7qF4n"
-      },
-      "artists": [
-        {
-          "name": "Garion",
-          "url": "https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp"
-        }
-      ],
-      "duration_ms": 248026,
-      "name": "Underground",
-      "url": "https://open.spotify.com/track/2MZLnU6nsGjB9qemy0SIZB"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
         "name": "Heavy Deep",
         "url": "https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 297586,
       "name": "B.L.K. (feat. New Champ, Wutan, Carry Diamond, CeeJay, Swings, Okasian, Rocky L & Vasco) [Bonus Track]",
       "url": "https://open.spotify.com/track/5Aa65H6ueFTucHVZcSV4Bf"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "MP Hip Hop 2000 CHO (Remastered)",
+        "url": "https://open.spotify.com/album/3wjbQMnYUtj5Dh8Wh7qF4n"
+      },
+      "artists": [
+        {
+          "name": "Garion",
+          "url": "https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp"
+        }
+      ],
+      "duration_ms": 248026,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/2MZLnU6nsGjB9qemy0SIZB"
     },
     {
       "added_at": "2023-08-10 14:02:26",

@@ -1,15 +1,31 @@
 {
-  "description": "Motion & good vibes! Cover: Alessio",
-  "num_followers": 321081,
+  "description": "Motion & good vibes! Cover: Delany",
+  "num_followers": 321080,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2I4OGZmOTEzMmY2YmMwYmE2YThiYTdhY2U4ZjcwOWY3ZjUwMDBh",
+  "snapshot_id": "MTcxMjg3MjgwMCwwMDAwMDAwMDY5ZWE3ZTE0OGQ3YzlkOWE3OTJhYjgzNzEwOTM3NGFi",
   "tracks": [
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Je Hebt Me",
+        "url": "https://open.spotify.com/album/2yi7y3OKpF8ckliYQJjbDG"
+      },
+      "artists": [
+        {
+          "name": "Delany",
+          "url": "https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP"
+        }
+      ],
+      "duration_ms": 172689,
+      "name": "Je Hebt Me",
+      "url": "https://open.spotify.com/track/5SBIUbG9ksjffWW23BlxN2"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Beetje Fout (feat. Yssi SB)",
         "url": "https://open.spotify.com/album/7JDX9KJ4Z28MDVK8FXUSmT"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/5l4UcCjgarB4LvLuXQ2RlN"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Beetje Verliefd",
         "url": "https://open.spotify.com/album/0OQRHgSyI54chxRlwZHyW1"
@@ -45,27 +61,31 @@
       "url": "https://open.spotify.com/track/1LOimwvdlTnvOqkFJOaD0g"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Bend Ova/Pop It",
-        "url": "https://open.spotify.com/album/3l2ECZd9XAWZJux9B3ayIF"
+        "name": "SALVZEBIG",
+        "url": "https://open.spotify.com/album/4xlKeokSguiYBUnUVosYxn"
       },
       "artists": [
         {
-          "name": "Tur-G",
-          "url": "https://open.spotify.com/artist/3ront3zvcdInux0rUVQLF2"
+          "name": "ValsBezig",
+          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
         },
         {
-          "name": "Issairo",
-          "url": "https://open.spotify.com/artist/5plDUJR66Vb8TYzXu9L1YV"
+          "name": "Menga",
+          "url": "https://open.spotify.com/artist/1nMz9I5KVfBb5ay108LFJu"
+        },
+        {
+          "name": "Stylez",
+          "url": "https://open.spotify.com/artist/6Ff3sJoKEyLJvKq2SnjtXT"
         }
       ],
-      "duration_ms": 110638,
-      "name": "Bend Ova",
-      "url": "https://open.spotify.com/track/7vxzJ7LY47UoeE5PhSVAyb"
+      "duration_ms": 144356,
+      "name": "MOTC (feat. Menga & Stylez)",
+      "url": "https://open.spotify.com/track/1K5eGqraDCjooLajVQBKpl"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Love Doesn't Exist",
         "url": "https://open.spotify.com/album/4A2PB1hCtF2tcmUsaa9jYO"
@@ -89,39 +109,79 @@
       "url": "https://open.spotify.com/track/7CqWn1gA0R9tCFTpTOcLLZ"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Liever Mezelf Niet",
-        "url": "https://open.spotify.com/album/0tRorJVriSuBjHYih4ytee"
+        "name": "Gata Only",
+        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
       },
       "artists": [
         {
-          "name": "Machario",
-          "url": "https://open.spotify.com/artist/3D3G9qcu6f9pBQMWa9YGXj"
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         }
       ],
-      "duration_ms": 163444,
-      "name": "Liever Mezelf Niet",
-      "url": "https://open.spotify.com/track/3j2mDTK0ypXPa24xLPHyS6"
+      "duration_ms": 222000,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Zeg Mij",
-        "url": "https://open.spotify.com/album/6udSfl2zGXVKIKH07YNjNW"
+        "name": "Bend Ova/Pop It",
+        "url": "https://open.spotify.com/album/3l2ECZd9XAWZJux9B3ayIF"
       },
       "artists": [
         {
-          "name": "Kleine John",
-          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
+          "name": "Tur-G",
+          "url": "https://open.spotify.com/artist/3ront3zvcdInux0rUVQLF2"
+        },
+        {
+          "name": "Issairo",
+          "url": "https://open.spotify.com/artist/5plDUJR66Vb8TYzXu9L1YV"
         }
       ],
-      "duration_ms": 184288,
-      "name": "Zeg Mij",
-      "url": "https://open.spotify.com/track/7lstObFMPeRKB2qsNMXSUV"
+      "duration_ms": 110638,
+      "name": "Bend Ova",
+      "url": "https://open.spotify.com/track/7vxzJ7LY47UoeE5PhSVAyb"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Doggy",
+        "url": "https://open.spotify.com/album/5cSq4ThXJUx5kyFZePn5go"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 132676,
+      "name": "Doggy",
+      "url": "https://open.spotify.com/track/5S1ianZQLvtoL2A7rUETlq"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Perdiste",
+        "url": "https://open.spotify.com/album/7kViNXWBbOD3RahNpEZMr3"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 119285,
+      "name": "Perdiste",
+      "url": "https://open.spotify.com/track/2A7ZjaERtQStEmMhSU1BU3"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Pretty Girls",
         "url": "https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk"
@@ -137,7 +197,103 @@
       "url": "https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Lo Que Tiene",
+        "url": "https://open.spotify.com/album/76q4YOHGrinD2vWSrbPzN4"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Lo Que Tiene",
+      "url": "https://open.spotify.com/track/6RqD0fpAaKEZvQd0QrTj7j"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Liever Mezelf Niet",
+        "url": "https://open.spotify.com/album/0tRorJVriSuBjHYih4ytee"
+      },
+      "artists": [
+        {
+          "name": "Machario",
+          "url": "https://open.spotify.com/artist/3D3G9qcu6f9pBQMWa9YGXj"
+        }
+      ],
+      "duration_ms": 163444,
+      "name": "Liever Mezelf Niet",
+      "url": "https://open.spotify.com/track/3j2mDTK0ypXPa24xLPHyS6"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Zeg Mij",
+        "url": "https://open.spotify.com/album/6udSfl2zGXVKIKH07YNjNW"
+      },
+      "artists": [
+        {
+          "name": "Kleine John",
+          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
+        }
+      ],
+      "duration_ms": 184288,
+      "name": "Zeg Mij",
+      "url": "https://open.spotify.com/track/7lstObFMPeRKB2qsNMXSUV"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "FEELIN U (feat. Jmani)",
+        "url": "https://open.spotify.com/album/5j53DCPuBA7pRGvnk3ZAym"
+      },
+      "artists": [
+        {
+          "name": "Dylisa",
+          "url": "https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2"
+        },
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "FEELIN U (feat. Jmani)",
+      "url": "https://open.spotify.com/track/7q6HU528yPaRuXEFsCuJ32"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Wat Wil Je Doen",
+        "url": "https://open.spotify.com/album/0Zh0ZZbnBS4t1UkGtj8Zxt"
+      },
+      "artists": [
+        {
+          "name": "2mochh",
+          "url": "https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk"
+        },
+        {
+          "name": "Benzo",
+          "url": "https://open.spotify.com/artist/0GCWppR5RVwCGB8pdKaA7k"
+        }
+      ],
+      "duration_ms": 186600,
+      "name": "Wat Wil Je Doen",
+      "url": "https://open.spotify.com/track/2HZF5L0RtUN4a8WsWZWblq"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Tshwala Bam (feat. S.N.E, EeQue)",
         "url": "https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY"
@@ -165,43 +321,7 @@
       "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "FEELIN U (feat. Jmani)",
-        "url": "https://open.spotify.com/album/5j53DCPuBA7pRGvnk3ZAym"
-      },
-      "artists": [
-        {
-          "name": "Dylisa",
-          "url": "https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2"
-        },
-        {
-          "name": "JMANI",
-          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "FEELIN U (feat. Jmani)",
-      "url": "https://open.spotify.com/track/7q6HU528yPaRuXEFsCuJ32"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "Perdiste",
-        "url": "https://open.spotify.com/album/7kViNXWBbOD3RahNpEZMr3"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 119285,
-      "name": "Perdiste",
-      "url": "https://open.spotify.com/track/2A7ZjaERtQStEmMhSU1BU3"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "TYLA",
         "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
@@ -225,7 +345,39 @@
       "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/2UMTQXRwobqaIDJaYDsHN8"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "duration_ms": 195643,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/7kleqbfZAvPzMMiX1uxCin"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Lose My Cool",
+        "url": "https://open.spotify.com/album/2H0GEfmhQV7Tj2ZCBaGrq9"
+      },
+      "artists": [
+        {
+          "name": "Yung Dada",
+          "url": "https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Lose My Cool",
+      "url": "https://open.spotify.com/track/5SDPAYcZY5jWJT9VrXhPqm"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Spijbelaar",
         "url": "https://open.spotify.com/album/5lmn83ndqMmd1IkJBjzKun"
@@ -241,31 +393,7 @@
       "url": "https://open.spotify.com/track/16goKPajUOPBGaOVOTRGWY"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "Lo Que Tiene",
-        "url": "https://open.spotify.com/album/76q4YOHGrinD2vWSrbPzN4"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        },
-        {
-          "name": "Beny Jr",
-          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
-        },
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Lo Que Tiene",
-      "url": "https://open.spotify.com/track/6RqD0fpAaKEZvQd0QrTj7j"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Triq Salama",
         "url": "https://open.spotify.com/album/3Z1THnQmX5vP8riVMtjDSp"
@@ -285,7 +413,7 @@
       "url": "https://open.spotify.com/track/4Z9koEpZf88mBXSoeV5aPO"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Drunk & Luv",
         "url": "https://open.spotify.com/album/58kXDhxfQUF3Yv132I96Zx"
@@ -305,7 +433,7 @@
       "url": "https://open.spotify.com/track/0BI4i1Cj46datq4HLf7g7b"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Laatste Trein",
         "url": "https://open.spotify.com/album/3jeLXcKNuJuYeKKb43TnEG"
@@ -325,23 +453,7 @@
       "url": "https://open.spotify.com/track/0unjn7rOpEnCvpaviiXYxc"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/2UMTQXRwobqaIDJaYDsHN8"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        }
-      ],
-      "duration_ms": 195643,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/7kleqbfZAvPzMMiX1uxCin"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Commas",
         "url": "https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA"
@@ -357,7 +469,43 @@
       "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/0QvhqTigV3PbcHT93q3Sfn"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 174433,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/7zPOZujiZy4q0RYIx7mKKh"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 176503,
+      "name": "Hmmm (feat. Davido)",
+      "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "NUMBA 1",
         "url": "https://open.spotify.com/album/6vsqF5uWNdWr8xkUUHJvtJ"
@@ -381,7 +529,7 @@
       "url": "https://open.spotify.com/track/37cfWnwQVm7vES4DrQOz9n"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Imaranma",
         "url": "https://open.spotify.com/album/48uIaP1oyoy7X5DqMc8SYq"
@@ -401,7 +549,7 @@
       "url": "https://open.spotify.com/track/0NFNiWzFvNjJDSRlMbI9lC"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Zij Wil Mij",
         "url": "https://open.spotify.com/album/6zOsCl08IfBgNa0ZA2ayEH"
@@ -425,23 +573,23 @@
       "url": "https://open.spotify.com/track/0UBHy0chqmMoShrhc3F2f4"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Tuesday",
-        "url": "https://open.spotify.com/album/0QvhqTigV3PbcHT93q3Sfn"
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/3Sb8jx7yxuWbgZF4Qdxmei"
       },
       "artists": [
         {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+          "name": "Ajay",
+          "url": "https://open.spotify.com/artist/6blOShkI4PDC0gqCk6PQoa"
         }
       ],
-      "duration_ms": 174433,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/7zPOZujiZy4q0RYIx7mKKh"
+      "duration_ms": 144549,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0bRjGjJxhliiBZ4u0Yn9YJ"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "DESATAAA",
         "url": "https://open.spotify.com/album/7Ja7q53ewWXSOGM9MSmted"
@@ -465,7 +613,7 @@
       "url": "https://open.spotify.com/track/2vh03XeMmNRwxiAztk01Pe"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "T\u2019\u00e9tais o\u00f9 ?",
         "url": "https://open.spotify.com/album/4YzgzJggoHU1azpDoUMMf5"
@@ -493,7 +641,7 @@
       "url": "https://open.spotify.com/track/1q6nM8Y7NJDsgFknLfZfp4"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Hyp\u00e9 (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
@@ -513,7 +661,7 @@
       "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "My Type",
         "url": "https://open.spotify.com/album/5RrcjQOHU4p7Buzgkj1cvq"
@@ -529,7 +677,7 @@
       "url": "https://open.spotify.com/track/6OG7hyl1LZv2dq9QXX7WEv"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/73EtqjVJRVpMMMCNSQ3C3P"
@@ -549,7 +697,7 @@
       "url": "https://open.spotify.com/track/7nFIZVAJEYbwbB5nbzkoka"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Grey",
         "url": "https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu"
@@ -565,7 +713,7 @@
       "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Bosa",
         "url": "https://open.spotify.com/album/4Zi3zhy0qhsN3kCG56txu4"
@@ -585,7 +733,7 @@
       "url": "https://open.spotify.com/track/1sdHkEn4aLXw81KlRcanX0"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No"
@@ -601,7 +749,7 @@
       "url": "https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Beter dan je Ex",
         "url": "https://open.spotify.com/album/1atlknYHSeBUnEyyi6E1f1"
@@ -621,7 +769,7 @@
       "url": "https://open.spotify.com/track/4CTgqYUQwsUBqMODJH26BI"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Nafsi (Pt. II)",
         "url": "https://open.spotify.com/album/6rneBPWDNtU6TIUTVMehfq"
@@ -645,7 +793,7 @@
       "url": "https://open.spotify.com/track/4bTsUyzB9BG0uMeEJKmTvQ"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Blame T Niet Op Mij",
         "url": "https://open.spotify.com/album/0q6kMzoZdAZOWcd7y1H4cP"
@@ -665,7 +813,23 @@
       "url": "https://open.spotify.com/track/7gPcWfLPov6wAJumgPwMUu"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Demon Time",
+        "url": "https://open.spotify.com/album/7u5WyK8nbQzCxEAcZ73HNa"
+      },
+      "artists": [
+        {
+          "name": "La Toya Linger",
+          "url": "https://open.spotify.com/artist/340ZBWi8L5lldZGTHqQfm7"
+        }
+      ],
+      "duration_ms": 137575,
+      "name": "Demon Time",
+      "url": "https://open.spotify.com/track/23IuFgCndsodlvirH5HEfJ"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Can't Let Go",
         "url": "https://open.spotify.com/album/4UgjilQyPmOKVgbOkhsViD"
@@ -681,7 +845,7 @@
       "url": "https://open.spotify.com/track/230BRmQgwbiSijUbm04V6Q"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Lockdown",
         "url": "https://open.spotify.com/album/5G01ZCVBTb2WbVqceF2C6T"
@@ -701,7 +865,7 @@
       "url": "https://open.spotify.com/track/5EPWi2U2ljFPxxhldZZYor"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Crazy Voor Je",
         "url": "https://open.spotify.com/album/7tr5ueYHoryHonldC6JNG8"
@@ -729,7 +893,7 @@
       "url": "https://open.spotify.com/track/1v4iJIzIG7s24gFHkkRqZ3"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Silence (feat. Chavant\u00e9)",
         "url": "https://open.spotify.com/album/32NOf3K2okwcVkBzjjwqqp"
@@ -749,7 +913,7 @@
       "url": "https://open.spotify.com/track/0Md7RdBvEkiA49Y2MNX8Hq"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/5cW90rGxu6denjf08pebZw"
@@ -765,7 +929,7 @@
       "url": "https://open.spotify.com/track/4vomlztZrN1nspKvzfCEJI"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "goodtime.. (1942)",
         "url": "https://open.spotify.com/album/7Efb0D02vmKaUpj1ZJCipc"
@@ -781,27 +945,7 @@
       "url": "https://open.spotify.com/track/3m4NDPdt9tLZOuorsNV9xr"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "Laat Je Gaan",
-        "url": "https://open.spotify.com/album/3OeyiljRLTgJ2g0ngj4xIU"
-      },
-      "artists": [
-        {
-          "name": "Marra",
-          "url": "https://open.spotify.com/artist/5g5YpaZUfolRoFht3RfTqe"
-        },
-        {
-          "name": "Ricky Savado",
-          "url": "https://open.spotify.com/artist/6NiQgmtsVqh88FVjKXC3Qi"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Laat Je Gaan",
-      "url": "https://open.spotify.com/track/2Fqq2f7VOUSlL6r5oWN0np"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Seya",
         "url": "https://open.spotify.com/album/2VJcmi0iisyLekBIgoKKvw"
@@ -825,7 +969,7 @@
       "url": "https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Loco Loco (feat. Sluwe Ollie)",
         "url": "https://open.spotify.com/album/3v4lZJxJps8UEnZ8UVEIAy"
@@ -845,39 +989,7 @@
       "url": "https://open.spotify.com/track/78dZXRH9JBXITQsS9Mlnsl"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "Plop",
-        "url": "https://open.spotify.com/album/7KUSeYRZVDPuC2eafVGweD"
-      },
-      "artists": [
-        {
-          "name": "Tur-G",
-          "url": "https://open.spotify.com/artist/3ront3zvcdInux0rUVQLF2"
-        }
-      ],
-      "duration_ms": 115285,
-      "name": "Plop",
-      "url": "https://open.spotify.com/track/5ax8XGbm2aEBKcYhTFzi3Z"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "I Dey Slide",
-        "url": "https://open.spotify.com/album/3DPXpC2nWKUoSFmU9ejvgo"
-      },
-      "artists": [
-        {
-          "name": "Yung Dada",
-          "url": "https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ"
-        }
-      ],
-      "duration_ms": 202491,
-      "name": "I Dey Slide",
-      "url": "https://open.spotify.com/track/3lzeRhDFuhqI21l6tnsUx7"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Avec classe (feat. Aya Nakamura & Trinix)",
         "url": "https://open.spotify.com/album/2PeOwsFqU4M5IabYcuMnAL"
@@ -901,23 +1013,7 @@
       "url": "https://open.spotify.com/track/2RqZ8JUBXP4C0nzttGnTL1"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "Laat",
-        "url": "https://open.spotify.com/album/2DWJCCUl66SbxdndoJYc7V"
-      },
-      "artists": [
-        {
-          "name": "ValsBezig",
-          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
-        }
-      ],
-      "duration_ms": 140624,
-      "name": "Laat",
-      "url": "https://open.spotify.com/track/2uZOGsbpfLwCHgBBKycpZx"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Amaria",
         "url": "https://open.spotify.com/album/2QDTlTSuwPiVmtTd2B9fYL"
@@ -933,7 +1029,7 @@
       "url": "https://open.spotify.com/track/14E6VXR7nqhhdybb57asuu"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Als Het Niet Nu Is, Wanneer Dan Wel?",
         "url": "https://open.spotify.com/album/2eMMlN2RGY5zhDNEn1OoXU"
@@ -953,7 +1049,7 @@
       "url": "https://open.spotify.com/track/5yFWXhANGrQFCFnJfbV838"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Fallin in Love",
         "url": "https://open.spotify.com/album/7N3hxtYqewN5Mz0W0QTaM1"
@@ -977,7 +1073,7 @@
       "url": "https://open.spotify.com/track/3HYdxQ11DSiYnuI00jW0QH"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "I love you",
         "url": "https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6"
@@ -997,7 +1093,7 @@
       "url": "https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/2y8PQI8kE0k7AZdraYXl3l"
@@ -1021,7 +1117,7 @@
       "url": "https://open.spotify.com/track/6sVpYIMty1Y20RxjaGUm1y"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
@@ -1037,27 +1133,7 @@
       "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "NIET GELOVEN",
-        "url": "https://open.spotify.com/album/49FyqQ2ycIOtHsot7GWgKO"
-      },
-      "artists": [
-        {
-          "name": "Shikss",
-          "url": "https://open.spotify.com/artist/1SzciTtL2bewCNpbRTk6z7"
-        },
-        {
-          "name": "T4L",
-          "url": "https://open.spotify.com/artist/3XHQ9kWAPHHBE8DPCF6DQZ"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "NIET GELOVEN",
-      "url": "https://open.spotify.com/track/0QkGccZvtAlMO5WBZHJAGR"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Delulu",
         "url": "https://open.spotify.com/album/09IFfWicVoOYZm1YIWKlIE"
@@ -1073,7 +1149,7 @@
       "url": "https://open.spotify.com/track/5QHAXFwbq9NVQWsHSSF9Qs"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Basshall Session #3",
         "url": "https://open.spotify.com/album/5VUd2RpxoXyxGehYhO7AVn"
@@ -1105,7 +1181,7 @@
       "url": "https://open.spotify.com/track/1A9C5UhP7LocWVO5ycWsLb"
     },
     {
-      "added_at": "2024-04-04 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
@@ -1123,82 +1199,6 @@
       "duration_ms": 162767,
       "name": "PERRO NEGRO",
       "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "Niet Doen",
-        "url": "https://open.spotify.com/album/2mzWEU9GSWtRVZPKeo2DYC"
-      },
-      "artists": [
-        {
-          "name": "Architrackz",
-          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
-        },
-        {
-          "name": "Kempi",
-          "url": "https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7"
-        }
-      ],
-      "duration_ms": 180657,
-      "name": "Niet Doen (feat. Kempi)",
-      "url": "https://open.spotify.com/track/15GtBuDme0phDZO8E8W2ba"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "Toko dombi",
-        "url": "https://open.spotify.com/album/75HvvhWytuljxPOc6Asj2i"
-      },
-      "artists": [
-        {
-          "name": "THEODORT",
-          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
-        }
-      ],
-      "duration_ms": 160336,
-      "name": "Toko dombi",
-      "url": "https://open.spotify.com/track/4Hj36H5c7liPVqpDrGxTgJ"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "KUPE",
-        "url": "https://open.spotify.com/album/2FoYINaJqu5rL58c90P25U"
-      },
-      "artists": [
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 137756,
-      "name": "KUPE",
-      "url": "https://open.spotify.com/track/7fUY7l9bzrVALFIlO5UwgD"
-    },
-    {
-      "added_at": "2024-04-04 22:00:00",
-      "album": {
-        "name": "Abnormaal",
-        "url": "https://open.spotify.com/album/1mXNqPmKGoGPPqzrANjQlz"
-      },
-      "artists": [
-        {
-          "name": "Jacq B",
-          "url": "https://open.spotify.com/artist/2Rd0yxydAq7hBWjbsuW8aF"
-        },
-        {
-          "name": "Ghetto Flow",
-          "url": "https://open.spotify.com/artist/0ScfiVR0ZTtu9428PJS3LP"
-        },
-        {
-          "name": "Justice Toch",
-          "url": "https://open.spotify.com/artist/3B4UCLYCwiQTr6bmtpGnIa"
-        }
-      ],
-      "duration_ms": 165337,
-      "name": "Abnormaal",
-      "url": "https://open.spotify.com/track/0EgFQ7En1qRN8IQV7bimhm"
     }
   ],
   "unique_name": "La Vida Loca",

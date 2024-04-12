@@ -4,7 +4,7 @@
 
 > New music from J\. Cole, Lil Wayne and Doja Cat.
 
-1,988 songs - 4 day 6 hr 50 min
+1,989 songs - 4 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Blessing](https://open.spotify.com/track/6DswwzQlABrNoqjNydtvuX) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Blessing](https://open.spotify.com/album/7hjZI0A6hrUjbZFZsnVGlT) | 2:24 | 2022-12-09 | 2023-02-25 |
 | [Blick Blick \(with Nicki Minaj\)](https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Blick Blick](https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf) | 2:58 | 2022-03-18 | 2022-06-11 |
 | [BLIND \(feat\. Young Thug\)](https://open.spotify.com/track/2T5NBwKRySiCR78vVk08vr) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [BLAME IT ON BABY \(DELUXE\)](https://open.spotify.com/album/6SL49HqoUwu2hhfukBAK3Q) | 2:33 | 2020-08-05 | 2020-11-03 |
+| [Bling Bling](https://open.spotify.com/track/5q186AzhWeOEoFnApajHgR) | [B.G.](https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS) | [Chopper City In The Ghetto](https://open.spotify.com/album/71UI6dxPwSUiJUH4DM226k) | 5:12 | 2024-04-11 |  |
 | [Blood Moon \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1OaAlsbTJugFODycEgIDUj) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blood Moon \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/4VubFdZQLlos3I0LbB3qgt) | 2:49 | 2023-08-18 | 2023-10-21 |
 | [Blood On My Jeans](https://open.spotify.com/track/3MmCFghNjzZMn3HKqbVizn) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/1R6vbGGXSEZZmTGn7ewwRL) | 2:34 | 2020-07-18 | 2020-08-07 |
 | [Blood Walk](https://open.spotify.com/track/5GzA5A7JD6ZIJSx8HC2PSR) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [D3szn](https://open.spotify.com/artist/3XUSSPMccIhcVTQ2kOHJPn), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [My Life 4Hunnid](https://open.spotify.com/album/3g2sgN6wC92EwuEA9hLbH0) | 2:40 | 2020-10-02 | 2020-10-09 |

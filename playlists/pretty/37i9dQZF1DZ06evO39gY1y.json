@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 220922,
+  "num_followers": 221006,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDkzZDc3ODIyYzgwMmNhNmU0MWYyMGJjOWMzYTMwMmEwZjFjZDE1",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMGY2MGM4OWIzNzVmMjAzYjRiOWUzNDBhNjRmNmU0NGY1",
   "tracks": [
     {
       "added_at": null,
@@ -315,18 +315,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empapelado",
-        "url": "https://open.spotify.com/album/0503zQbeyfwiMZ2hObZsei"
+        "name": "Antes del Alba",
+        "url": "https://open.spotify.com/album/04jcunBbCe9hXGTfZGo9Bj"
       },
       "artists": [
         {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
         }
       ],
-      "duration_ms": 221500,
-      "name": "Empapelado",
-      "url": "https://open.spotify.com/track/7KGsqbISYpp0c4lweWeoHf"
+      "duration_ms": 181418,
+      "name": "T\u00fa Tienes el Son",
+      "url": "https://open.spotify.com/track/3Tf4cwGqkUJp9hKhakqTqG"
     },
     {
       "added_at": null,
@@ -355,26 +363,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antes del Alba",
-        "url": "https://open.spotify.com/album/04jcunBbCe9hXGTfZGo9Bj"
+        "name": "Empapelado",
+        "url": "https://open.spotify.com/album/0503zQbeyfwiMZ2hObZsei"
       },
       "artists": [
         {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
-        },
-        {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
         }
       ],
-      "duration_ms": 181418,
-      "name": "T\u00fa Tienes el Son",
-      "url": "https://open.spotify.com/track/3Tf4cwGqkUJp9hKhakqTqG"
+      "duration_ms": 221500,
+      "name": "Empapelado",
+      "url": "https://open.spotify.com/track/7KGsqbISYpp0c4lweWeoHf"
     },
     {
       "added_at": null,

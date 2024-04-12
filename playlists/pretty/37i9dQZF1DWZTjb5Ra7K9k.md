@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 
 > Hora de aumentar o som e cair na água!
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,024 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,026 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 56 | [Clean The House](https://open.spotify.com/track/1lFau9QnLnI8Db1K2uxeQ8) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Blackbird](https://open.spotify.com/album/4ahnVMpkBpvPTFfw5O6P9p) | 4:14 |
 | 57 | [Feelin' The Feelings](https://open.spotify.com/track/52CthepepM1EP1vFtacb00) | [Kelly Slater](https://open.spotify.com/artist/3abAEbxycczGWKeL7EOXMm), [Karina Zeviani](https://open.spotify.com/artist/3SyRjJX3ux5gvcAgGBrJ79), [Pretinho da Serrinha](https://open.spotify.com/artist/4qDFGliScFrzPiFS9caqnw) | [Feelin' The Feelings](https://open.spotify.com/album/1p4AVuqLt0H6uedwycus6K) | 4:02 |
 | 58 | [Beautiful Day](https://open.spotify.com/track/7MpEUigVg8fKHyyEKM1WNT) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Move By Yourself](https://open.spotify.com/album/5dZKE378q8mx9ZpE8pg0CG) | 3:26 |
-| 59 | [The Three Of Us](https://open.spotify.com/track/1VD8kfTLRwQErMZkLtHjcP) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Welcome To The Cruel World](https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP) | 2:35 |
+| 59 | [Jah Work](https://open.spotify.com/track/0zWwD8Kr7NAhkVGaGDKpqs) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [The Will To Live](https://open.spotify.com/album/0fTTM8BvDkPd2VJ8Km2lhK) | 4:54 |
 | 60 | [Roots Dance](https://open.spotify.com/track/6fkjiRiUOO5UTUC5hPwqcB) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Só Pra Brilhar](https://open.spotify.com/album/4dcwRYbS4okDFQiwPcEGuY) | 3:33 |
 | 61 | [I Want to Know](https://open.spotify.com/track/3PLN4aXK0A8B76p0OYUDFd) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [Lunatic](https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX) | 3:55 |
 | 62 | [Long Way](https://open.spotify.com/track/5lfBJMEglgfzK2cTMrHuSy) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Long Way](https://open.spotify.com/album/138D9C9ojnHr0p8zPTELvd) | 4:46 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 66 | [Stoked \- Remastered 2001](https://open.spotify.com/track/3rxEuNCh8TJkbbVIGs7zBd) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 2:01 |
 | 67 | [Piloto Automático](https://open.spotify.com/track/739RpxxbLVj7YQz2wGJcE1) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Piloto Automático](https://open.spotify.com/album/5w5bBSJCBvUUy2VeOgPnzu) | 3:05 |
 | 68 | [Joker Smoker 12" Mix](https://open.spotify.com/track/72Mqd8exzzElzRCeuP5tSm) | [Triston Palma](https://open.spotify.com/artist/5zRp3bPBElRwxg5kVzTrAP) | [Joker Smoker](https://open.spotify.com/album/364SqWnW8GVEn3EQAHjuZR) | 7:11 |
-| 69 | [Jah Work](https://open.spotify.com/track/0zWwD8Kr7NAhkVGaGDKpqs) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [The Will To Live](https://open.spotify.com/album/0fTTM8BvDkPd2VJ8Km2lhK) | 4:54 |
+| 69 | [The Three Of Us](https://open.spotify.com/track/1VD8kfTLRwQErMZkLtHjcP) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Welcome To The Cruel World](https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP) | 2:35 |
 | 70 | [Brother the Cloud](https://open.spotify.com/track/5anYF2hAddGXTmeHufKsHN) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Brother the Cloud](https://open.spotify.com/album/6vygZxPOmQG8x2vIDHUPaB) | 4:22 |
 | 71 | [Pipeline](https://open.spotify.com/track/4JnefzMlvvO3OUBRW4oLlU) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1), [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [The Real Deal: Greatest Hits Volume 2](https://open.spotify.com/album/2SYJxEVYF7yzxEf2Ncymi1) | 2:59 |
 | 72 | [Drinkin' Tonight](https://open.spotify.com/track/2uIHbGPZtzNwHbj20lc1ZD) | [The Supervillains](https://open.spotify.com/artist/0LN8DYo6VtPVK0WQ3g6AXJ) | [Postcards from Paradise](https://open.spotify.com/album/4IPsLOsqfr9AROZ7r0u6ZG) | 3:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 74 | [Light On](https://open.spotify.com/track/1mAqeDjQMfKhjT6nLyQBZQ) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Light On](https://open.spotify.com/album/5zbsXC9sAXCkpNjso1U3au) | 3:25 |
 | 75 | [Living Single](https://open.spotify.com/track/2mVjzhHBcqZ9WRzGsX59Tf) | [Kayavibe](https://open.spotify.com/artist/4tuJL0fsbiMtUyKNGCQxox) | [Kayavibe](https://open.spotify.com/album/6oHQpLOX2QXBhZXbMBFo3u) | 3:22 |
 
-Snapshot ID: `MCxiMjUyNDBkNWVkMDc1NjNlYjIxYmM1MThlNzUxZTlkOWY1YTJmZjgx`
+Snapshot ID: `MTY5MDUxMzI2MCwwMDAwMDAwMGNlNmU5ZDBkY2U5YmNjMjhmMzZjMDhiYzIzMTliNzY5`

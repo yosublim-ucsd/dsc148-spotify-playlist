@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 144604,
+  "2024-04-12": 144709,
   "date_first_scraped": "2022-12-10",
   "description": "The best hardstyle remixes of songs you know!",
   "name": "Hardstyle Remixes of Popular Songs",
@@ -783,7 +783,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 128812,
       "name": "Can Can",
       "url": "https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a"
@@ -809,6 +809,24 @@
       "duration_ms": 120187,
       "name": "Can Can (Hardstyle Mix)",
       "url": "https://open.spotify.com/track/1qXFfxYo6lyVk8Cgeuyuu2"
+    },
+    {
+      "album": {
+        "name": "Can't Get You Outta My Head",
+        "url": "https://open.spotify.com/album/5T1QnJXPIQ97h3tXNcdLLJ"
+      },
+      "artists": [
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156378,
+      "name": "Can't Get You Outta My Head",
+      "url": "https://open.spotify.com/track/7dWTrhDYI7wdE2kc8deHOf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Y regresaron las guitarras! Chetes en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,483 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,496 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 3 | [Faltas Tú](https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Faltas Tú](https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia) | 3:21 |
 | 4 | [sin nada](https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [sin nada](https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD) | 2:34 |
 | 5 | [No Me Hace Bien \- Remix](https://open.spotify.com/track/5s0D9G9SZYQBeFd7rdWhtW) | [Kerigma](https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB), [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [No Me Hace Bien \(Remix\)](https://open.spotify.com/album/5Bwk0rxpAKcS1QWOTaInIE) | 3:51 |
-| 6 | [Elemento \- Noches De Salón](https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Elemento \(Noches De Salón\)](https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR) | 3:43 |
+| 6 | [Elemento Noches De Salón \- Noches De Salón](https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Elemento Noches De Salón](https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR) | 3:43 |
 | 7 | [Lejos de Ti](https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Lejos de Ti](https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR) | 2:59 |
 | 8 | [Volví a Nacer](https://open.spotify.com/track/7cfssiXOL2hVTkHGtwjeJ9) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU) | [Volví a Nacer](https://open.spotify.com/album/3mZM9DPndY7FCsT4navL4s) | 3:47 |
 | 9 | [SI TÚ Y YO FUÉRAMOS NOVIOS](https://open.spotify.com/track/5ugWUmQG1yWRMteLgetjnC) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [SI TÚ Y YO FUÉRAMOS NOVIOS](https://open.spotify.com/album/5bpYVf42BYGE1GJhsh5oB0) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 99 | [Lo Que un Hombre Debería Saber](https://open.spotify.com/track/53xbvOgbt6aDHTudDBKGle) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Haashtag](https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw) | 3:14 |
 | 100 | [La Herida](https://open.spotify.com/track/1TmGgQDLKQHm2GzGDjsnFd) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [La Herida](https://open.spotify.com/album/0rer1BBpahM8okGG9wZEBG) | 3:45 |
 
-Snapshot ID: `MCxkODNjOWIyOWExMjczMTE5ODY5NWNlYjk5NjFlZjdiNDAzNWViY2Ez`
+Snapshot ID: `MTcxMjI5NjgwMCwwMDAwMDAwMDIwODZiYzhlNzYxYmM1ZDkxNGFiZjZkMTg2Y2Y0OGMy`

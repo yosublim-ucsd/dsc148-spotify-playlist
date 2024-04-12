@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 215562,
+  "num_followers": 215583,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2NiNTA1OWRmOTEzNWZkMTc2Y2Q0MTkzYmYxY2M4MGE3NTIzZGI3",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDAyMjRjNTIzNWMzY2I3NmViNjNjYzc3YmZjNTgxNjYy",
   "tracks": [
     {
       "added_at": null,
@@ -463,6 +463,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "I've Found Someone",
+      "url": "https://open.spotify.com/track/4RlRqOg8hNWvJ0sY3gCimo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barry White Sings For Someone You Love",
+        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 235293,
+      "name": "Oh What A Night For Dancing",
+      "url": "https://open.spotify.com/track/1CMgTRTMXSzIH4nYJX7fbh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pavarotti - The Greatest Hits",
         "url": "https://open.spotify.com/album/2P3b56yTzSqL3HLM25qUq4"
       },
@@ -491,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barry White Sings For Someone You Love",
-        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
+        "name": "Put Me In Your Mix",
+        "url": "https://open.spotify.com/album/6ZB7sec84vKJ6mBXocdfwL"
       },
       "artists": [
         {
@@ -500,9 +532,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 235293,
-      "name": "Oh What A Night For Dancing",
-      "url": "https://open.spotify.com/track/1CMgTRTMXSzIH4nYJX7fbh"
+      "duration_ms": 345333,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/1LqKlCrgljbKSrjwIfF6cy"
     },
     {
       "added_at": null,
@@ -523,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Put Me In Your Mix",
-        "url": "https://open.spotify.com/album/6ZB7sec84vKJ6mBXocdfwL"
+        "name": "Sheet Music",
+        "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
       },
       "artists": [
         {
@@ -532,9 +564,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 345333,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/1LqKlCrgljbKSrjwIfF6cy"
+      "duration_ms": 340826,
+      "name": "Lady, Sweet Lady",
+      "url": "https://open.spotify.com/track/10z1bj9T7hpJ9bfIlsHF1s"
     },
     {
       "added_at": null,
@@ -843,38 +875,6 @@
       "duration_ms": 181950,
       "name": "I've Got the World to Hold Me Up",
       "url": "https://open.spotify.com/track/3DVBE9gdehucz81D8G0yQN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beware!",
-        "url": "https://open.spotify.com/album/0QZc5pm1bH0kLFCnYoajHw"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 262733,
-      "name": "Rio De Janeiro",
-      "url": "https://open.spotify.com/track/1UvpQB8F2riBElL5bxlD6Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Icon Is Love",
-        "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 639600,
-      "name": "Whatever We Had, We Had",
-      "url": "https://open.spotify.com/track/6Lu3H89JgTh2QzGRnZqYku"
     }
   ],
   "unique_name": "This Is Barry White",

@@ -4,7 +4,7 @@
 
 > Alcuni amori bruciano più di altri\. Cover: Tedua
 
-163 songs - 8 hr 28 min
+164 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Quando Sto Con Te](https://open.spotify.com/track/2FLuWGIR4WwxWbdwZ0GHwd) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:01 | 2022-05-12 | 2022-06-03 |
 | [Quando tu mi baci](https://open.spotify.com/track/1SPbN6ppUSIcOTZAO2HoCf) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Powv\_fsk](https://open.spotify.com/artist/0IPhGUowAYS8nr7nT9synf) | [Quando tu mi baci](https://open.spotify.com/album/3i8BJ5YnNat8a8zzUiM8gd) | 3:18 | 2022-05-03 | 2022-06-23 |
 | [Red Light](https://open.spotify.com/track/1kZLATTXQa5BtEKH8GbW2U) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 2:47 | 2023-06-22 |  |
+| [Rosa](https://open.spotify.com/track/5JhvP5zFShla9LBIjEh6uO) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 2:51 | 2024-04-11 |  |
 | [Rose Nere](https://open.spotify.com/track/1PhB6n0TlYLSHn29v2vDXC) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Bravo Ragazzo \(Royal Edition\)](https://open.spotify.com/album/0LHWAAN1t9MHgpkPjdXrkW) | 4:32 | 2022-05-03 | 2024-01-12 |
 | [Sbaglio a pensarti](https://open.spotify.com/track/2wrEe2wvWKnFQkidWkG4l7) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 2:53 | 2024-01-25 |  |
 | [Scale \(con Luchè\)](https://open.spotify.com/track/1odrZy5kTuj3SGdfgzhMzq) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Botox](https://open.spotify.com/album/4nhZUFV7XuVY3hfsXB7EMt) | 2:32 | 2023-04-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,588 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,605 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 20 | [Nota Dó](https://open.spotify.com/track/1ziAahgQu5yucu1ZLwwe0b) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [DJ DuBom](https://open.spotify.com/artist/7wQO16n82QaPAnxFkAGIFt) | [Nota Dó](https://open.spotify.com/album/0yU8bkVURmhaMPZyKHxtrP) | 3:22 |
 | 21 | [Sintomas de Prazer \- Live](https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Sintomas de Prazer \- Live](https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4) | 2:31 |
 | 22 | [Paladar Infantil](https://open.spotify.com/track/2CzIoSG4eDkstyTiXzjryy) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Paladar Infantil](https://open.spotify.com/album/6y1V62Msb6V5oiVJkYa9Dx) | 2:23 |
-| 23 | [não teria coragem](https://open.spotify.com/track/4Kr59WgiiHoFtN18V9o3vG) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Galdino](https://open.spotify.com/artist/73wXBokdlBHMUchOdiphB3), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [sua vez de escutar](https://open.spotify.com/album/4osDSPHvkroyYR8qdfdqxq) | 2:17 |
+| 23 | [não teria coragem](https://open.spotify.com/track/4Kr59WgiiHoFtN18V9o3vG) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [sua vez de escutar](https://open.spotify.com/album/4osDSPHvkroyYR8qdfdqxq) | 2:17 |
 | 24 | [Não Me Liga 00:00](https://open.spotify.com/track/3N8sn9QZsbwXrEQxqCGgAA) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Um Pequeno Álbum de Natal](https://open.spotify.com/album/2Wo40ErDS87wfkSbGqxt5O) | 3:15 |
 | 25 | [Máquina Alemã](https://open.spotify.com/track/6Zjx3pXVwCCXSs6aFEWBVR) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Dj Aladin GDB](https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ) | [Máquina Alemã](https://open.spotify.com/album/4EHQlVNhFDI34ABmvCQPk7) | 2:12 |
 | 26 | [Lençol](https://open.spotify.com/track/1kExsrotab58XS3pTd1Ym7) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Lençol](https://open.spotify.com/album/6k2B1qx4XwaKcg2eni2Tgm) | 3:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 74 | [OUTROMAR](https://open.spotify.com/track/0a8tMucr4ja7RTDqrdYzbx) | [2:22](https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4), [Ashley David](https://open.spotify.com/artist/1wEC94P6n5pxqSRpiJHufF) | [30ºC](https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE) | 2:28 |
 | 75 | [OLh05f3xD5](https://open.spotify.com/track/4vgttE8mIgf0fHGOkOXrZ7) | [Chozy](https://open.spotify.com/artist/6NTiankZRvz9miBAa9fLuS), [Griluv77](https://open.spotify.com/artist/40AYkcZaW0YvEoO6L9otxh) | [OLh05f3xD5](https://open.spotify.com/album/2iXHw9SqHI7NG1EdxM0KKU) | 2:29 |
 
-Snapshot ID: `MCwyZTQ0ZGVlYjlhZDA1MDZmYzA1YzBlMzdjN2ZmYTM4YzJhOGU4ZDU1`
+Snapshot ID: `MTcxMjI4NjA2MCwwMDAwMDAwMGJhNDcwMGRlYWQ3YmE3NDZmNDVjYjlmMzFiMDZjNWJm`

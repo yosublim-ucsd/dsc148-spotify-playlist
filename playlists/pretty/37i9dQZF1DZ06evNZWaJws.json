@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 298160,
+  "description": "This Is Los Tucanes De Tijuana. Los temas esenciales, todos en una lista.",
+  "num_followers": 298271,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGE2ZDhjN2U1MjdiNjNlODM1YWQ3NjY1Y2MzNzIxMjRiZTc4ZWU3",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMGM2OWE4YjhlZGNjYTg5NGE5NmJhZTE3NWE5Yjk4MTM2",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Primera Plana",
-        "url": "https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 162840,
-      "name": "Mis Tres Viejas",
-      "url": "https://open.spotify.com/track/1yxJIFPhP2EqnQ6oWJKbmP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tucanes De Oro ... Secuestro De Amor",
         "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 174160,
       "name": "El Tucanazo",
       "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Primera Plana",
+        "url": "https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 162840,
+      "name": "Mis Tres Viejas",
+      "url": "https://open.spotify.com/track/1yxJIFPhP2EqnQ6oWJKbmP"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El \u00c1rbol",
-        "url": "https://open.spotify.com/album/0D8ccoDH3ExN728wDRsRNT"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "El Jefe De La Sierra",
-      "url": "https://open.spotify.com/track/6UuXzEW2GBwcJefoXTYztu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos De Primera Plana",
         "url": "https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 173386,
       "name": "El Pesado",
       "url": "https://open.spotify.com/track/1INJtwan6KATEWHapjTtHZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El \u00c1rbol",
+        "url": "https://open.spotify.com/album/0D8ccoDH3ExN728wDRsRNT"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "El Jefe De La Sierra",
+      "url": "https://open.spotify.com/track/6UuXzEW2GBwcJefoXTYztu"
     },
     {
       "added_at": null,

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO4aluxi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO4aluxi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO4aluxi)
 
-### [This Is Amy Grant](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4aluxi)
+### [This is Amy Grant](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4aluxi)
 
-> This is Amy Grant\. The essential tracks, all in one playlist.
+> This is Amy Grant\. Lagu\-lagu utama, semuanya dalam satu playlist.
 
 66 songs - 4 hr 16 min
 

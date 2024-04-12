@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Clau
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,822 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,837 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 46 | [Deixa Acender](https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Deixa Acender](https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8) | 2:35 |
 | 47 | [Pede Pra Eu Ficar \(Listen To Your Heart\)](https://open.spotify.com/track/597FnKApiz3TfkE8MB1wom) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Pede Pra Eu Ficar \(Listen To Your Heart\)](https://open.spotify.com/album/4d44mgau5zT5kYTcIvbHoj) | 3:12 |
 | 48 | [Te Procurei](https://open.spotify.com/track/2RZzQJKn6byIPL1ldj8nca) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [Te Procurei](https://open.spotify.com/album/4OOoEFmG410X2Ww1YyX9IN) | 2:41 |
-| 49 | [Sad Baile](https://open.spotify.com/track/2ef1I6bGG8K0AHQaqGKiVA) | [Julio Secchin](https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs) | [Sad Baile](https://open.spotify.com/album/6e3rY7cZkRB0E9adrrLx9w) | 2:50 |
+| 49 | [Deixe\-me Ir](https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Deixe\-me Ir](https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw) | 3:39 |
 | 50 | [Cupido Querido](https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Um Pouco de Mim](https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv) | 3:18 |
-| 51 | [Deixe\-me Ir](https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Deixe\-me Ir](https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw) | 3:39 |
+| 51 | [Sad Baile](https://open.spotify.com/track/2ef1I6bGG8K0AHQaqGKiVA) | [Julio Secchin](https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs) | [Sad Baile](https://open.spotify.com/album/6e3rY7cZkRB0E9adrrLx9w) | 2:50 |
 | 52 | [Arder de Amor \(Sol\)](https://open.spotify.com/track/5e0fW6tGj8vFlwRdW3isaW) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [COSMOS](https://open.spotify.com/album/6e9wu0uLU3dIBYz7GOh8Dv) | 4:14 |
 | 53 | [Nem Sei Fingir](https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Nem Sei Fingir](https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh) | 2:56 |
 | 54 | [Dejavú](https://open.spotify.com/track/5dPKKScSdOpIQuUHVFU7HG) | [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Groove](https://open.spotify.com/album/77TVmhsrBT7AVvlqEajZrt) | 2:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 79 | [Afropaty](https://open.spotify.com/track/3MtyP815SMmI3bMeLnxDWB) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw) | [Afropaty](https://open.spotify.com/album/5fOaa75x89O1eBzazgjGu7) | 2:22 |
 | 80 | [Casi Casi](https://open.spotify.com/track/7n15qubhDdwZjrySpHO1ma) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation: A Favela Love Story](https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL) | 2:13 |
 
-Snapshot ID: `MCw5NmY1NmM4OTNmZTQ0ZDcxMDA2NzFiZjc0NzM2OTRiNTJjNjY1NTJk`
+Snapshot ID: `MTcxMTY4MTIwMCwwMDAwMDAwMGU4NDcwZjNjNDg4ZWMzMjJlMTNiM2ZkMjJmZTViOWI1`

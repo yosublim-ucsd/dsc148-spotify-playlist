@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 28618,
+  "2024-04-12": 28627,
   "date_first_scraped": "2022-09-09",
   "description": "La playlist del jazz italiano, passato e presente. Cover: 72-HOUR POST-FIGHT",
   "name": "Jazz Italia",
@@ -1599,7 +1599,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 653973,
       "name": "Certi angoli segreti",
       "url": "https://open.spotify.com/track/0TgOi4joOrp0spXM754Z8X"
@@ -1875,6 +1875,28 @@
       "duration_ms": 248240,
       "name": "Come un ritratto",
       "url": "https://open.spotify.com/track/1xD323f4XEBlW1lfOeKtts"
+    },
+    {
+      "album": {
+        "name": "Crops and Sports",
+        "url": "https://open.spotify.com/album/0uafazXJfz4NA3p3APqC95"
+      },
+      "artists": [
+        {
+          "name": "Giulio Stermieri Yabai",
+          "url": "https://open.spotify.com/artist/7Etm1LfVxuxFit5vU2bFU3"
+        },
+        {
+          "name": "Giulio Stermieri",
+          "url": "https://open.spotify.com/artist/3JNA0rWIF3SoVj75lyVVHs"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277762,
+      "name": "Concept creep",
+      "url": "https://open.spotify.com/track/62Fp0TjYrCq5rfSx9wO9F2"
     },
     {
       "album": {
@@ -3985,6 +4007,32 @@
       "duration_ms": 174906,
       "name": "I've Got My Love to Keep Me Warm",
       "url": "https://open.spotify.com/track/4swVkhYwnmA0ls8UWzz5VU"
+    },
+    {
+      "album": {
+        "name": "Duo Sutera Novali",
+        "url": "https://open.spotify.com/album/7Cfh5ENawPaHpVanpIDKXP"
+      },
+      "artists": [
+        {
+          "name": "Virginia Sutera",
+          "url": "https://open.spotify.com/artist/6EGrdzowoRrYlQuMNxrUlZ"
+        },
+        {
+          "name": "Ermanno Novali",
+          "url": "https://open.spotify.com/artist/33exkLRkg2blr3s1Dnx8vI"
+        },
+        {
+          "name": "Duo Sutera Novali",
+          "url": "https://open.spotify.com/artist/725SmAeUweQRKTKRNy2gLf"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 526294,
+      "name": "II",
+      "url": "https://open.spotify.com/track/6veuRSx5SaUKShYBILOf8H"
     },
     {
       "album": {
@@ -8891,7 +8939,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 312752,
       "name": "The Rite of Strings",
       "url": "https://open.spotify.com/track/3A4MpJPyfqNeO7Wm4y1NNP"

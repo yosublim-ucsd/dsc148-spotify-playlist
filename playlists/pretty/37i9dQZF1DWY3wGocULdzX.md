@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 
 > ¡Qué rico el mambo! Cover: Machito
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,253 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,282 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 11 | [Rico Vacilon](https://open.spotify.com/track/22vnfqgJeAKZmVhhK6tXnk) | [Machito Orchestra](https://open.spotify.com/artist/38FHSGePCxtSwgzzInXhVe) | [Vacation At The Concord](https://open.spotify.com/album/7thOtRH5Z0D9WVyWs8LhWJ) | 2:44 |
 | 12 | [El Manicero](https://open.spotify.com/track/4A0iCzLqX0bmDuDq1YAT59) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [La Historia del Mambo, Vol\. 2](https://open.spotify.com/album/6fJdrjyuTWOeZboh03i01n) | 2:39 |
 | 13 | [Mambo Gozon](https://open.spotify.com/track/0hk1gSyn3wKgdxqF6qaKUZ) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Hoy y Ayer](https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG) | 2:48 |
-| 14 | [Papa Loves Mambo](https://open.spotify.com/track/5A4gzphhD7SyZZhQeda8Vv) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Perry Como's Greatest Hits](https://open.spotify.com/album/1Xn52rnZPmftC6oPyNOTfv) | 2:41 |
-| 15 | [Mambo Manila](https://open.spotify.com/track/0gyejcE44IsekC8hL6aylF) | [Tito Rodriguez & His Orchestra](https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN) | [Mambo Madness](https://open.spotify.com/album/37adSaGjRerybXzNjcry13) | 3:10 |
+| 14 | [Mambo Manila](https://open.spotify.com/track/0gyejcE44IsekC8hL6aylF) | [Tito Rodriguez & His Orchestra](https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN) | [Mambo Madness](https://open.spotify.com/album/37adSaGjRerybXzNjcry13) | 3:10 |
+| 15 | [Papa Loves Mambo](https://open.spotify.com/track/5A4gzphhD7SyZZhQeda8Vv) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Perry Como's Greatest Hits](https://open.spotify.com/album/1Xn52rnZPmftC6oPyNOTfv) | 2:41 |
 | 16 | [Que Rico El Mambo](https://open.spotify.com/track/4ucHP0s9uWaloTQ5HbVyiy) | [Mambo](https://open.spotify.com/artist/3QQyOPRmd24X1Q4ZbYCrQN) | [Mambo](https://open.spotify.com/album/5KAeqB0YySMuy7F7VXVjQo) | 4:40 |
 | 17 | [Asia Minor](https://open.spotify.com/track/1ZU7un2BX6J98BibBv8cmO) | [Machito & His Orchestra](https://open.spotify.com/artist/14IhDLK3FnairSloyYjw9h) | [Asia Minor Cha Cha Cha](https://open.spotify.com/album/0OelWTAicp39Y93KJBWJA2) | 3:01 |
 | 18 | [Mambo Jambo](https://open.spotify.com/track/5RZ0Y8ae2DuIBPRNjVGkch) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Mambo No 5](https://open.spotify.com/album/1uTfiWvskpE7pQ7on5qnWi) | 3:15 |
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 20 | [Mambo Infierno](https://open.spotify.com/track/37IPOyonJjOLmOlns8RXhx) | [Machito & His Afro Cubans](https://open.spotify.com/artist/48uvJVs3amPDYGr4EZoRg9) | [Tremendo Cumban](https://open.spotify.com/album/14u4OthZTF7D0z40hy7OmK) | 2:51 |
 | 21 | [Hong Kong Mambo](https://open.spotify.com/track/1QLC5yG0vyDMXsShhpsGsX) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 3:45 |
 | 22 | [El Cayuco](https://open.spotify.com/track/3j05qtcQlRIVF0a2DOoO68) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 2:35 |
-| 23 | [Patricia](https://open.spotify.com/track/2bwhOdCOLgQ8v6xStAqnju) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Coleccion Original](https://open.spotify.com/album/1hu7GjmtnChBUBDLZjb2Mb) | 2:20 |
-| 24 | [Bochinchosa](https://open.spotify.com/track/7L4eODuSL77fkoVioQD0Mo) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Estamos Haciendo Algo Bien!](https://open.spotify.com/album/6qbLn5WNxrKGzzYQENyUmX) | 3:23 |
-| 25 | [La Toalla](https://open.spotify.com/track/7H6Hu1KiXJGh2HnTIkJywv) | [Tito Rodriguez & His Orchestra](https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN) | [Tito, Tito, Tito](https://open.spotify.com/album/18vrXXXmrzZ5os8lqLYn2k) | 2:51 |
-| 26 | [Yo No Soy Guapo](https://open.spotify.com/track/5xg8xey3cg0LvsY72ssgeI) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Solito](https://open.spotify.com/album/6AY69nRRUOsqIoQauepZM2) | 5:07 |
-| 27 | [Separarla También](https://open.spotify.com/track/2uUimJq18JcrZjgkuvLuMa) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn) | [A Little Bit Of Everything](https://open.spotify.com/album/49CPTtkajDw9XAcUafNgrY) | 2:35 |
+| 23 | [La Toalla](https://open.spotify.com/track/7H6Hu1KiXJGh2HnTIkJywv) | [Tito Rodriguez & His Orchestra](https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN) | [Tito, Tito, Tito](https://open.spotify.com/album/18vrXXXmrzZ5os8lqLYn2k) | 2:51 |
+| 24 | [Patricia](https://open.spotify.com/track/2bwhOdCOLgQ8v6xStAqnju) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Coleccion Original](https://open.spotify.com/album/1hu7GjmtnChBUBDLZjb2Mb) | 2:20 |
+| 25 | [Bochinchosa](https://open.spotify.com/track/7L4eODuSL77fkoVioQD0Mo) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Estamos Haciendo Algo Bien!](https://open.spotify.com/album/6qbLn5WNxrKGzzYQENyUmX) | 3:23 |
+| 26 | [Separarla También](https://open.spotify.com/track/2uUimJq18JcrZjgkuvLuMa) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn) | [A Little Bit Of Everything](https://open.spotify.com/album/49CPTtkajDw9XAcUafNgrY) | 2:35 |
+| 27 | [Yo No Soy Guapo](https://open.spotify.com/track/5xg8xey3cg0LvsY72ssgeI) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Solito](https://open.spotify.com/album/6AY69nRRUOsqIoQauepZM2) | 5:07 |
 | 28 | [La Guarachera](https://open.spotify.com/track/7kWdf24d03AheJu4KF4mo3) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Cuba y Puerto Rico](https://open.spotify.com/album/1P7Ucst33FwWbnoCj0TlNw) | 2:44 |
 | 29 | [Sasauma \- Mambo](https://open.spotify.com/track/0gxKSoP8PGv1Xwis1J2EWO) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Orquesta Sabor De Cuba](https://open.spotify.com/artist/59ZNpioUB3Erkn4cZy1eGO) | [El Manisero](https://open.spotify.com/album/35GjYQu1NvqoJz1uXbtddK) | 2:49 |
 | 30 | [Mambo](https://open.spotify.com/track/5EHfeFLbEWeYeNDzTyFby2) | [Cachao](https://open.spotify.com/artist/1Qa5p9ajnRIvq7bfsdtzqQ) | [Cuba Salsa Sabrosa Vol\. 2](https://open.spotify.com/album/4TRIu8j6ea1pfnPMzbrHjT) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 49 | [Si Si No No](https://open.spotify.com/track/0u7PjYa0zIkQSor0a3gFgJ) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Mi Amigo, Machito](https://open.spotify.com/album/2lKq4rYdg8Byf3O7EkiZap) | 3:16 |
 | 50 | [No Cuentes Conmigo](https://open.spotify.com/track/55mhyCZbjoVCelyCmwR3du) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Tito Rodriguez..\. The Early Years](https://open.spotify.com/album/4k1RqHzMQgsODHYkMJHAMY) | 3:03 |
 
-Snapshot ID: `MCxhMDI5YWVjYTQ0M2U5OGVmOTg0ZDQ1MDUyMGJkYmE5NWU0MThlNDhm`
+Snapshot ID: `MTY4NjgzNjA3MywwMDAwMDAwMDEzMzI5ODEzYjgwY2Y5YzkyZDc3MTQzMDJjNTE0N2U1`

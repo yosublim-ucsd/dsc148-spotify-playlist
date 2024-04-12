@@ -1,7 +1,7 @@
 {
-  "2024-04-11": 158852,
+  "2024-04-12": 158911,
   "date_first_scraped": "2022-01-02",
-  "description": "Most exciting artists from the Indian Indie scene. Cover: Swastik The Band",
+  "description": "Most exciting artists from the Indian Indie scene. Cover: RANJ x Clifr",
   "name": "RADAR India",
   "tracks": [
     {
@@ -581,6 +581,24 @@
       "duration_ms": 240927,
       "name": "Barse",
       "url": "https://open.spotify.com/track/6wV51vPTYtewZNGDpHcwWi"
+    },
+    {
+      "album": {
+        "name": "Barse More Naina",
+        "url": "https://open.spotify.com/album/0xVOTxx8rhWsD25L6sw6jg"
+      },
+      "artists": [
+        {
+          "name": "KhoslaRaghu",
+          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Barse More Naina",
+      "url": "https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON"
     },
     {
       "album": {
@@ -1477,7 +1495,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 271304,
       "name": "Ek Pal",
       "url": "https://open.spotify.com/track/4YmuwxEfzF5bXTuwg3sYbE"
@@ -4348,6 +4366,32 @@
     },
     {
       "album": {
+        "name": "S.O.T.I. (Strangers On The Internet)",
+        "url": "https://open.spotify.com/album/6TMdWV3qpSH8irxIpDhKUk"
+      },
+      "artists": [
+        {
+          "name": "Clifr",
+          "url": "https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14"
+        },
+        {
+          "name": "RANJ",
+          "url": "https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H"
+        },
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166346,
+      "name": "S.O.T.I. (Strangers On The Internet)",
+      "url": "https://open.spotify.com/track/06sNozukABz39ZsUtJuCj5"
+    },
+    {
+      "album": {
         "name": "Saacha Sahib",
         "url": "https://open.spotify.com/album/4OuOdarOPimks7xemmkcPI"
       },
@@ -4555,7 +4599,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 266985,
       "name": "Sajna",
       "url": "https://open.spotify.com/track/1DdS3bAkQtLdapb5hiSN9S"

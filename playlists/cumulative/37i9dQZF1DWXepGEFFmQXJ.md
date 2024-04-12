@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Beyonce
 
-600 songs - 1 day 8 hr 57 min
+602 songs - 1 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Between the Fires](https://open.spotify.com/track/2enb0yKz8gR3Rg0tdmd3Ed) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [Between the Fires](https://open.spotify.com/album/5OloTAlReoQpAfKbMgWIYd) | 4:55 | 2024-04-05 |  |
 | [Between You & Me](https://open.spotify.com/track/6Caou05cO2GvexExMTuUFK) | [Melanie Dyer](https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL), [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Between You & Me](https://open.spotify.com/album/3nnAeeHSrzKpAs2foSrChm) | 2:32 | 2022-09-08 | 2023-03-25 |
 | [Between You & Me \(feat\. Ashley Cooke\)](https://open.spotify.com/track/2OqlfzJ5w5NHkcjXJm5997) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH), [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Between You & Me \(feat\. Ashley Cooke\)](https://open.spotify.com/album/5sSVCvQnB0WkzXH3X8HpGe) | 2:49 | 2021-12-30 | 2022-04-01 |
-| [Bigger Mistakes](https://open.spotify.com/track/1pmBuw9a3r467tlzVZj0P4) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Bigger Mistakes](https://open.spotify.com/album/2uVwuhiaZ87g3vubWsYODw) | 2:59 | 2023-12-19 |  |
+| [Bigger Mistakes](https://open.spotify.com/track/1pmBuw9a3r467tlzVZj0P4) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Bigger Mistakes](https://open.spotify.com/album/2uVwuhiaZ87g3vubWsYODw) | 2:59 | 2023-12-19 | 2024-04-12 |
 | [Bitter Winds](https://open.spotify.com/track/4X9UTklC74F5hnlVjrPbnN) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Bitter Winds](https://open.spotify.com/album/3IMFjhO4GoOADq0tFXhvGg) | 4:21 | 2024-02-01 |  |
 | [Black Powder](https://open.spotify.com/track/6grkDYOC3z47Zi4w02SVsz) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Luke Grimes](https://open.spotify.com/album/3z24fpMlBap60LQ1Or1Gq2) | 1:56 | 2024-03-07 | 2024-04-05 |
 | [Blessed & Free](https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Blessed & Free](https://open.spotify.com/album/055uuuPMs7soYjnONo02QV) | 3:18 | 2021-12-30 | 2022-06-10 |
@@ -270,7 +270,7 @@
 | [If I Were Rock & Roll](https://open.spotify.com/track/7GMXESVLghURYtnMXl7Ngn) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [If I Were Rock & Roll](https://open.spotify.com/album/5th0dWTiQ0WkGINantPzEC) | 3:14 | 2022-01-21 | 2022-06-03 |
 | [If You Were Mine](https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [If You Were Mine](https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ) | 3:39 | 2023-06-08 | 2023-11-10 |
 | [II MOST WANTED](https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:28 | 2024-04-05 |  |
-| [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 | 2023-08-03 |  |
+| [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 | 2023-08-03 | 2024-04-12 |
 | [Interlude \(Full Length\)](https://open.spotify.com/track/7dSg4FtT2opE2O7O0bYcL2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:19 | 2023-08-10 | 2023-09-22 |
 | [is he happy](https://open.spotify.com/track/39fTem4R2w8w6Dsq89qwBa) | [Natalie Pearson](https://open.spotify.com/artist/5kDX9AsxeSUnU71dLYNesa) | [is he happy](https://open.spotify.com/album/1j6fhm9TBqz3bNgWFSezPW) | 3:46 | 2023-08-17 | 2023-09-08 |
 | [It Matters To Her](https://open.spotify.com/track/4aSRUXfKuBbmje0eXNukuL) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Same Truck](https://open.spotify.com/album/0R9QjGSDl6EX4yWu3Rr1eU) | 2:51 | 2022-12-15 | 2023-06-09 |
@@ -479,6 +479,7 @@
 | [Stereotype](https://open.spotify.com/track/6N4iblHDsHG4jOdgjohRV5) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype](https://open.spotify.com/album/4rl9XdFEi5hIagPjROoA55) | 3:42 | 2022-03-31 | 2022-07-15 |
 | [Stick Around](https://open.spotify.com/track/4KJmdT3lIvG64yEIAo9mIP) | [Matt Cornell](https://open.spotify.com/artist/01eCwGI76wbxMepuNTetLg) | [Stick Around](https://open.spotify.com/album/4g49f0BWOlCOjs6E7HMk41) | 3:23 | 2022-10-27 | 2023-02-24 |
 | [Still The One](https://open.spotify.com/track/6drVWzBYAceXUCAtdl1Fnu) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Still The One](https://open.spotify.com/album/3tQSwavTtrMTGebddI8Fqw) | 2:38 | 2021-12-30 | 2022-05-06 |
+| [Stomping Ground](https://open.spotify.com/track/0AQ1K437FArZ9LZL1JrLfU) | [Hayley Jensen](https://open.spotify.com/artist/2pYmedjA9VyTosPNO3OaTi) | [Stomping Ground](https://open.spotify.com/album/0QRwBjj8ODumBxKRcOCoS0) | 2:39 | 2024-04-12 |  |
 | [Straight and Narrow](https://open.spotify.com/track/30fbAXFjj9feoB56NbLFN0) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/38SBM2jhA27kEq2SrgfS89) | 3:19 | 2023-11-23 | 2023-12-08 |
 | [Straight and Narrow](https://open.spotify.com/track/3fonAuTvuI5KMcmnueLAPq) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 3:19 | 2023-10-19 | 2023-12-20 |
 | [Straight and Narrow](https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/0floBXCzvTvVMR3gXWZBav) | 3:19 | 2023-04-20 | 2023-10-21 |
@@ -598,6 +599,7 @@
 | [World for you](https://open.spotify.com/track/7mh1J0I8JHW5Yd9TQhswXq) | [Jaydin Shingleton](https://open.spotify.com/artist/0PSypnaOKMdTRBKhJm9nUu) | [World for you](https://open.spotify.com/album/5496kpZN9j9oNvOiwX2MGk) | 3:59 | 2023-09-14 | 2023-11-10 |
 | [World on Fire](https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:09 | 2023-06-29 | 2024-02-23 |
 | [WORTH ITS WEIGHT IN GOLD](https://open.spotify.com/track/2cOZ6OUPWIlM0Iu5XfLE8i) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [WORTH ITS WEIGHT IN GOLD](https://open.spotify.com/album/0gHoE5r8YIQJ4Bz2LExtjN) | 3:48 | 2023-09-07 | 2024-02-23 |
+| [Would If I Could \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0RNSabq5rdLoXc2Gjwjk1f) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/2NwE6uGGwiaT5gyBbAszd5) | 3:22 | 2024-04-12 |  |
 | [Y'all Life](https://open.spotify.com/track/1KHCFA1Wb1MYQi4WQIYqrm) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Y'all Life](https://open.spotify.com/album/50v40WMdEdqVFy9stzuW3y) | 3:12 | 2022-07-18 | 2023-04-21 |
 | [Y'all Means All \- from Season 6 of Queer Eye](https://open.spotify.com/track/0gWFFtKm8PaAJdpkajFlD1) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Y'all Means All \(from Season 6 of Queer Eye\)](https://open.spotify.com/album/5erJBPynDfaVs7es8K1kJ9) | 2:36 | 2021-12-30 | 2022-07-08 |
 | [Yesterday](https://open.spotify.com/track/0NZ2GGIdndN8mP0m4pi5Kx) | [Nick Nash](https://open.spotify.com/artist/03evdtQP9vcuqdDU6hOluN) | [Yesterday](https://open.spotify.com/album/4z7UevIUyQfGsIyzMhJ3Bl) | 2:18 | 2024-03-07 |  |

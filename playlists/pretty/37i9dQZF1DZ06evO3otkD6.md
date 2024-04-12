@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 
 ### [This Is Belinda](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3otkD6)
 
-> This is Belinda\. The essential tracks, all in one playlist.
+> This Is Belinda\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,062 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,090 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 28 | [Luz](https://open.spotify.com/track/5ogsMocz0VBYwmdpKDJl70) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ), [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh), [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P), [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Diego Boneta](https://open.spotify.com/artist/1Pu2OFhNGOTakxDgxoIXiv), [Ana Victoria](https://open.spotify.com/artist/1Xc3X1FuRXrzFZ1C5BuCy5), [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Edwin Luna](https://open.spotify.com/artist/10tyI6ROBsJJ6lBi3m5iph), [Emir Pabón & Grupo Cañaveral](https://open.spotify.com/artist/0rZXQ9C4qhqlaEU1Hq2yZk), [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w), [Iskander](https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p), [Atl Garza](https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg), [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Marian y Mariel](https://open.spotify.com/artist/2eoaAiXb399cRLwCZ1aL3Z), [Ruby Escobar](https://open.spotify.com/artist/4B1lw3JlqW7qt5WPgzpIhB), [Carla Mauri](https://open.spotify.com/artist/2hY4VfJgrFytYv3vClZ9rA), [LemonGrass](https://open.spotify.com/artist/0988g1pgIlWAKBVf3DQ7db) | [México Se Pinta de Luz \(Only for Streaming\)](https://open.spotify.com/album/5LEwTDRCpE1egWxc2NZOAP) | 3:38 |
 | 29 | [Boba Niña Nice \- Teenage Superstar](https://open.spotify.com/track/7oIXQNqGfaijrHJdyW52J1) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:00 |
 | 30 | [Sal De Mi Piel](https://open.spotify.com/track/1COpsT2iGXmVp9TiI8poft) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Carpe Diem](https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ) | 3:26 |
-| 31 | [Constantemente Mía](https://open.spotify.com/track/5UdcpI2rTqFz0xmATiXMXg) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Más Que Amor](https://open.spotify.com/album/3QaqLzZFTHXfIREgiHM4FX) | 4:05 |
-| 32 | [Sueño de Ti](https://open.spotify.com/track/0lLygnowX78lFphF2235qe) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [MLKMN](https://open.spotify.com/artist/7rIVXlBjb6tSrRC27vkzmz) | [Prisma](https://open.spotify.com/album/7FVRWDkCucNcU8NNUit5xv) | 4:20 |
+| 31 | [Sueño de Ti](https://open.spotify.com/track/0lLygnowX78lFphF2235qe) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [MLKMN](https://open.spotify.com/artist/7rIVXlBjb6tSrRC27vkzmz) | [Prisma](https://open.spotify.com/album/7FVRWDkCucNcU8NNUit5xv) | 4:20 |
+| 32 | [Constantemente Mía](https://open.spotify.com/track/5UdcpI2rTqFz0xmATiXMXg) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Más Que Amor](https://open.spotify.com/album/3QaqLzZFTHXfIREgiHM4FX) | 4:05 |
 | 33 | [Amigas Cheetahs](https://open.spotify.com/track/2vC1qUcTJlWO9JQfcaOk9b) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [The Cheetah Girls 2](https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG) | 4:06 |
 | 34 | [Lolita](https://open.spotify.com/track/5FVWs30Ce5zqcsVDfwfrJP) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Carpe Diem](https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ) | 3:26 |
 | 35 | [Te Sigo Amando](https://open.spotify.com/track/5QmjF6TMAAym2u3hb8o1ym) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Los Dúo 2](https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 49 | [I Love You..\. Te Quiero](https://open.spotify.com/track/7FFFRavnUPwKhidY259LMD) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Catarsis](https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg) | 3:36 |
 | 50 | [Utopia](https://open.spotify.com/track/1D2RM65NrWgwGOFLidtJTg) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 3:00 |
 
-Snapshot ID: `MCw1ZTNjMGMxNTE5NDc0Y2Y3Y2M0ZDIzODcxMDZjNTY3YWE1NjcxNzVk`
+Snapshot ID: `MTcxMjcwNzIwMCwwMDAwMDAwMDliYzFlOWVlMzI3YWY1MzQxMWRjYTBkYzMyM2RlZmIw`

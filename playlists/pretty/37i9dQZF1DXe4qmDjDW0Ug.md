@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 
 > 국내를 강타 했던 R&B곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,506 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,508 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 49 | [Glass](https://open.spotify.com/track/5rXek3NJpCQfJxOjaKrj6j) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [Miss Ripley OST](https://open.spotify.com/album/1jD2g58pVcEUe1TYzSjgi5) | 4:01 |
 | 50 | [Hug Me](https://open.spotify.com/track/7J28iQgZUf4sCfGKRFUazO) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Crush on You](https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY) | 3:42 |
 
-Snapshot ID: `MCxkYTFkOTc2MGJlYThhMzllYjk2YTMzMzgwMWE5OWZhNzFjMDE0Nzg2`
+Snapshot ID: `MTcxMjI2MTM2MCwwMDAwMDAwMDRhZTY5NGRkNzViOGRhM2M5YjIwYzFjY2UzM2Q4NTcz`

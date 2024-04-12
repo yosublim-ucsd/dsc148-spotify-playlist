@@ -2,9 +2,9 @@
 
 ### [Krautrock](https://open.spotify.com/playlist/37i9dQZF1DWT9KDEHFNVYD)
 
-> Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations\. NEU! on cover.
+> Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations\. CAN on cover.
 
-364 songs - 1 day 10 hr 13 min
+365 songs - 1 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [Out There](https://open.spotify.com/track/2289HHKbvNgNPobou0Dexl) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 4:54 | 2024-02-23 |  |
 | [Outer Accelerator](https://open.spotify.com/track/1sTQe7ejS8AFBN1KuFcSGf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Mars Audiac Quintet](https://open.spotify.com/album/6cgYdiQvB0FTVwe3io7LWN) | 5:21 | 2021-07-30 | 2022-07-29 |
 | [Panic In The Isles Of Splendor](https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 | 2023-01-12 |  |
-| [Pass The Hatchet, I Think I'm Goodkind](https://open.spotify.com/track/2Sz8LPsM6ltd9sb34H6Oz8) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Am Not Afraid Of You And I Will Beat Your Ass](https://open.spotify.com/album/7dU9MbmRJaTX7JJzAd5bqL) | 10:46 | 2021-07-30 |  |
+| [Pass The Hatchet, I Think I'm Goodkind](https://open.spotify.com/track/2Sz8LPsM6ltd9sb34H6Oz8) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Am Not Afraid Of You And I Will Beat Your Ass](https://open.spotify.com/album/7dU9MbmRJaTX7JJzAd5bqL) | 10:46 | 2021-07-30 | 2024-04-12 |
 | [Pendulum](https://open.spotify.com/track/1zQ9HyzqFr7xpNeUszTfUf) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Haha Sound](https://open.spotify.com/album/3AUkbuxvj1fH2jkbWI2gzn) | 4:21 | 2021-07-30 | 2023-02-02 |
 | [Pendulum](https://open.spotify.com/track/6hbP2Xs5W0SVvepjLWnTeL) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Haha Sound](https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP) | 4:21 | 2021-07-30 |  |
 | [Phase Modulation Shuffle \(Edit\)](https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [Phase Modulation Shuffle \(Edit\)](https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF) | 3:39 | 2021-07-30 |  |
@@ -317,6 +317,7 @@
 | [Tamagnocchi](https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Autoditacker](https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl) | 5:33 | 2023-02-17 | 2023-03-18 |
 | [Tangerine](https://open.spotify.com/track/05Dyd2KfjELJ6LMPcaXTlU) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 2:53 | 2021-07-30 |  |
 | [Tangerine](https://open.spotify.com/track/58Jr3maV9Kv94R8F3imczl) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Tangerine](https://open.spotify.com/album/2eazd6scouDAol8kgQUJRn) | 2:55 | 2021-07-30 | 2022-07-29 |
+| [The Land Before Timeland](https://open.spotify.com/track/4fBzcidYDAiZ6Dh6pKbkiK) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Laminated Denim](https://open.spotify.com/album/5f0IPVaiRNK0knLx8UbqIq) | 15:00 | 2024-04-11 |  |
 | [The Light That Will Cease To Fail](https://open.spotify.com/track/0P9XN1acf0KdYBfzc7ymTz) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Super 45](https://open.spotify.com/album/0F5hFgbTqzIOTT8O88e98L) | 3:24 | 2021-07-30 | 2022-08-10 |
 | [The Light That Will Cease To Fail](https://open.spotify.com/track/5vIBuWzTPATMxCljQ6eEE7) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Little Pieces Of Stereolab \(A Switched On Sampler\)](https://open.spotify.com/album/1UP2H3LAUb6y1GO19PES8F) | 3:24 | 2021-07-30 |  |
 | [The Perfect Crime](https://open.spotify.com/track/7v2SOuHmuUzyFOemw8hqNB) | [The Stroppies](https://open.spotify.com/artist/6r5Oeuk1Jrn6TxkwcZVXYY) | [The Perfect Crime](https://open.spotify.com/album/3tKXSYiAIZcamtY0TvRsKs) | 4:40 | 2022-03-11 | 2023-01-26 |

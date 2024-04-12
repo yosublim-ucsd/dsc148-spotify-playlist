@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Todos pro alto, cada um com o seu\. Foto: Gapes
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,901 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,924 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 31 | [O Último Romântico Online \(feat\. Pedro Lotto & Wey\)](https://open.spotify.com/track/4yzSTxcOIaCbEdtM4KwJ1W) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [O Último Romântico Online](https://open.spotify.com/album/5J2k1X6ezNvPGwchhujAA4) | 3:50 |
 | 32 | [Última Noite \(Papatracks\#11\)](https://open.spotify.com/track/361vXl5D3gNeO9SHQRnpxK) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Última Noite \(Papatracks\#11\)](https://open.spotify.com/album/0EcAY4yJ4yVIvA0RwVKOFm) | 2:58 |
 | 33 | [Nova Tendência](https://open.spotify.com/track/16JMkJpg4WJXR1dTPhLkbf) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [DJ Kaio Mix](https://open.spotify.com/artist/74gBEMW9nABFurusi73PkB) | [Nova Tendência](https://open.spotify.com/album/62cPWetHGQFI0rMsmZV8dS) | 3:46 |
-| 34 | [Uma Parte](https://open.spotify.com/track/4E5dWXDRbWw5HVYUTZe3XD) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG) | [Uma Parte](https://open.spotify.com/album/1OqPYPqJRuG1V6vbWkAs2a) | 2:05 |
-| 35 | [Copo de Bebida](https://open.spotify.com/track/19bPpmsrRlG5BJASqaqevf) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Amor e Ódio](https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt) | 2:46 |
+| 34 | [Copo de Bebida](https://open.spotify.com/track/19bPpmsrRlG5BJASqaqevf) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Amor e Ódio](https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt) | 2:46 |
+| 35 | [Uma Parte](https://open.spotify.com/track/4E5dWXDRbWw5HVYUTZe3XD) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG) | [Uma Parte](https://open.spotify.com/album/1OqPYPqJRuG1V6vbWkAs2a) | 2:05 |
 | 36 | [Falar de Amor](https://open.spotify.com/track/6jkqFX0JprURdUqSkWmUgK) | [Oldilla](https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [MC Vine7](https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP) | [Falar de Amor](https://open.spotify.com/album/1ElTN1TXGkOXTlO6ZKrWk3) | 3:51 |
 | 37 | [Então Fala](https://open.spotify.com/track/1OPbTsylCpBg0GtrJkKzVs) | [Naul](https://open.spotify.com/artist/1cgvca5ZA1r3sB0cUyY4sM) | [Então Fala](https://open.spotify.com/album/09y2EY8F8K2TL0vw9aW6B1) | 2:09 |
 | 38 | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt) | 2:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 49 | [Underground](https://open.spotify.com/track/2n5g9O2QtsxaiePpJML2hb) | [Parazin.50](https://open.spotify.com/artist/0DJht4z4mSjRXxXUiRGzzg), [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew) | [Underground](https://open.spotify.com/album/315T250DjzgKmjhmkEOlEO) | 2:19 |
 | 50 | [Bandida](https://open.spotify.com/track/1GsOoDPsPpXhW1oJ2nPwNg) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m) | [Medo É Só Ilusão](https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu) | 2:15 |
 
-Snapshot ID: `MCxhNmE0MWEyMDMwNzFjYTM2NjlkODNkNjczOTE2YTZmNDM0NTQzY2Q4`
+Snapshot ID: `MTcxMjI4NjA2MCwwMDAwMDAwMGZiYWY1YzI0YjU1N2QzN2U4NWQzNGM0Mjg1M2JjODA0`

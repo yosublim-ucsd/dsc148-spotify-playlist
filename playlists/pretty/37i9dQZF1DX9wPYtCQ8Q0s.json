@@ -1,12 +1,12 @@
 {
   "description": "A batida certa para o seu treino",
-  "num_followers": 338308,
+  "num_followers": 338289,
   "original_name": "Treino Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGFiNjQxZjM5MzliNTQ0YjUxN2Y2Yzc1NTNjZDVmMzBmYjI3OTlm",
+  "snapshot_id": "MTcxMjE1MzQ4NywwMDAwMDAwMDVlMzE0MzVkNTA5OTJhYTgzNjcyYzFhZWZlNTkyYTU1",
   "tracks": [
     {
       "added_at": "2024-04-03 14:11:27",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-04-03 14:11:27",
       "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
+    },
+    {
+      "added_at": "2024-04-03 14:11:27",
+      "album": {
         "name": "Dying to Live",
         "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 228759,
       "name": "ZEZE (feat. Travis Scott & Offset)",
       "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
-    },
-    {
-      "added_at": "2024-04-03 14:11:27",
-      "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "POWER",
-      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
     },
     {
       "added_at": "2024-04-03 14:11:27",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-04-03 14:11:27",
       "album": {
-        "name": "J CHRIST",
-        "url": "https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 153766,
-      "name": "J CHRIST",
-      "url": "https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE"
-    },
-    {
-      "added_at": "2024-04-03 14:11:27",
-      "album": {
         "name": "Meridian & Special",
         "url": "https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 255160,
       "name": "Meridian",
       "url": "https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5"
+    },
+    {
+      "added_at": "2024-04-03 14:11:27",
+      "album": {
+        "name": "J CHRIST",
+        "url": "https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 153766,
+      "name": "J CHRIST",
+      "url": "https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE"
     },
     {
       "added_at": "2024-04-03 14:11:27",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2024-04-03 14:11:27",
       "album": {
-        "name": "Luca Brasi 2: Gangsta Grillz",
-        "url": "https://open.spotify.com/album/4if4IsX36odNlcZF2kqgt3"
-      },
-      "artists": [
-        {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
-        },
-        {
-          "name": "August Alsina",
-          "url": "https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM"
-        }
-      ],
-      "duration_ms": 209707,
-      "name": "I Don't Get Tired (#IDGT) (feat. August Alsina)",
-      "url": "https://open.spotify.com/track/6HMHgBHdLBQ0QYIaOp2gse"
-    },
-    {
-      "added_at": "2024-04-03 14:11:27",
-      "album": {
         "name": "Turks",
         "url": "https://open.spotify.com/album/2nfOFXxNyf61geA17cW6e6"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 161377,
       "name": "Turks (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/0lSZh5W0wDeurkGzLYY6hf"
+    },
+    {
+      "added_at": "2024-04-03 14:11:27",
+      "album": {
+        "name": "Luca Brasi 2: Gangsta Grillz",
+        "url": "https://open.spotify.com/album/4if4IsX36odNlcZF2kqgt3"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        },
+        {
+          "name": "August Alsina",
+          "url": "https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM"
+        }
+      ],
+      "duration_ms": 209707,
+      "name": "I Don't Get Tired (#IDGT) (feat. August Alsina)",
+      "url": "https://open.spotify.com/track/6HMHgBHdLBQ0QYIaOp2gse"
     },
     {
       "added_at": "2024-04-03 14:11:27",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2024-04-03 14:11:27",
       "album": {
-        "name": "The New Toronto 3",
-        "url": "https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf"
-      },
-      "artists": [
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 174848,
-      "name": "Stupid Again",
-      "url": "https://open.spotify.com/track/1fPnUpoXCpD2NDI4vPVeLw"
-    },
-    {
-      "added_at": "2024-04-03 14:11:27",
-      "album": {
         "name": "Para Todos os Garotos que j\u00e1 Mamei",
         "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 177230,
       "name": "Karma",
       "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
+    },
+    {
+      "added_at": "2024-04-03 14:11:27",
+      "album": {
+        "name": "The New Toronto 3",
+        "url": "https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 174848,
+      "name": "Stupid Again",
+      "url": "https://open.spotify.com/track/1fPnUpoXCpD2NDI4vPVeLw"
     },
     {
       "added_at": "2024-04-03 14:11:27",

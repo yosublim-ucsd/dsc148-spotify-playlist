@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-382 songs - 19 hr 42 min
+383 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Hot Topic](https://open.spotify.com/track/3MpNAvXaU9awyBXnVTJi5O) | [A\-Star](https://open.spotify.com/artist/1fPa3fXJDNiSCfF9U8uvaT), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [Hot Topic](https://open.spotify.com/album/3naCf1TqximOxSi71EyBMc) | 3:09 | 2024-02-16 | 2024-04-04 |
 | [Hypertension](https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Hypertension / Things I Need](https://open.spotify.com/album/0m1x1G5kxXmN4cvqF75A7q) | 3:17 | 2022-08-12 | 2023-04-21 |
 | [I Dey Miss You](https://open.spotify.com/track/1xkPZeHHr9PNsTiAMrKhhS) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Imanse](https://open.spotify.com/artist/5MbLPA7oAYe6zI6C3DUeA4) | [I Dey Miss You](https://open.spotify.com/album/501TU0Fueu8U9HyxdhmXUZ) | 3:07 | 2021-09-10 | 2022-07-29 |
+| [I Do](https://open.spotify.com/track/589PbDb2eFRKoBJrQR5PU5) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan) | [I Do](https://open.spotify.com/album/5KmcBDiB8nLz4vixCKdAeG) | 3:09 | 2024-04-12 |  |
 | [I Don't Like You](https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [I Don’t Like You](https://open.spotify.com/album/4iXhsJijt5SxkXknZJHP8t) | 2:31 | 2023-03-30 | 2023-04-15 |
 | [I Feel Nice](https://open.spotify.com/track/7a8JvM5yHxu3ED2SBQYBJB) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Group Chat](https://open.spotify.com/artist/2bUFkuoX9s0HaQwNLhRCqA), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [I Feel Nice](https://open.spotify.com/album/4tKPkjN78B0HmlmQLXnGqk) | 2:40 | 2022-11-18 | 2022-12-03 |
 | [I Like Girls](https://open.spotify.com/track/4AJoojPC3el2UWboIKnDDk) | [Chinko Ekun](https://open.spotify.com/artist/5jfQBS0O6dR6axaz0BGMgs) | [I Like Girls](https://open.spotify.com/album/2UzLjMX7iff7P6KcbL9Ez3) | 2:37 | 2023-03-17 | 2023-04-15 |
@@ -276,7 +277,7 @@
 | [Operation Sweep](https://open.spotify.com/track/2exuZNzNYl96pncjTYokOd) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Operation Sweep](https://open.spotify.com/album/5Z27393Vx6iqkl1dG6mXyq) | 2:35 | 2023-08-10 | 2023-09-28 |
 | [Otilo \(Izz Gone\)](https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Otilo \(Izz Gone\)](https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5) | 2:42 | 2022-09-30 | 2024-03-15 |
 | [palazzo](https://open.spotify.com/track/3FZL5wn7jwqbQbCwyuqsuu) | [Rodi0](https://open.spotify.com/artist/3oo0pZAB5OrgM3Fh3tIFo5) | [palazzo](https://open.spotify.com/album/36cDnYodbE7wMVKnwNoSOB) | 3:06 | 2022-05-12 | 2022-09-28 |
-| [PALAZZO](https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [PALAZZO](https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf) | 3:06 | 2022-05-12 |  |
+| [PALAZZO](https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [PALAZZO](https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf) | 3:06 | 2022-05-12 | 2024-04-12 |
 | [Para](https://open.spotify.com/track/63oup3T49OzdnDqxS3Xbzb) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Para](https://open.spotify.com/album/2iU5X3vUdNMcAOXYqMC5OE) | 3:00 | 2022-08-12 | 2022-12-13 |
 | [PARIWO](https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [PARIWO](https://open.spotify.com/album/0Jkvu3rltjFQC0khKkivk8) | 2:00 | 2023-09-29 | 2023-12-11 |
 | [Party](https://open.spotify.com/track/0RdO7NC6LgugflNKRmNeAn) | [A\-swxg](https://open.spotify.com/artist/4WLrRRtBJv9WV3A5KVClPg), [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Party](https://open.spotify.com/album/2nUeJg5EVfIFZBqZkGYjhB) | 2:25 | 2022-06-30 | 2022-08-22 |

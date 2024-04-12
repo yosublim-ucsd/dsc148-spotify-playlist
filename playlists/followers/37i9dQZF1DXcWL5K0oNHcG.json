@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 213756,
+  "2024-04-12": 214002,
   "date_first_scraped": "2022-01-26",
   "description": "Fresh jazz by independent artists every Wednesday. Cover: CHERISE. Artwork: Joy Yamusangie.",
   "name": "Fresh Finds Jazz",
@@ -233,6 +233,24 @@
       "duration_ms": 382135,
       "name": "158 and Riverside (feat. Sam Ryder & Joe Dart)",
       "url": "https://open.spotify.com/track/7lhTJRLaVSPILWhaWDgYrm"
+    },
+    {
+      "album": {
+        "name": "176",
+        "url": "https://open.spotify.com/album/0ClUEdCEjqzgRUP5Q1xbW2"
+      },
+      "artists": [
+        {
+          "name": "O.",
+          "url": "https://open.spotify.com/artist/0R2UqQKBdSADXMN2Gx5CrB"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211630,
+      "name": "176",
+      "url": "https://open.spotify.com/track/5fGadEkoXstOnj4HzB8dqS"
     },
     {
       "album": {
@@ -3309,6 +3327,40 @@
       "duration_ms": 313352,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/5Y8ELHqOFWADfUjJyFo28b"
+    },
+    {
+      "album": {
+        "name": "Outside World 3",
+        "url": "https://open.spotify.com/album/2oLh1HmqMMqeSX42cffHcS"
+      },
+      "artists": [
+        {
+          "name": "Outside World",
+          "url": "https://open.spotify.com/artist/5xWSapntbvFDBkJ2y37CKf"
+        },
+        {
+          "name": "Henry Solomon",
+          "url": "https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR"
+        },
+        {
+          "name": "Logan Kane",
+          "url": "https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ"
+        },
+        {
+          "name": "Paul Cornish",
+          "url": "https://open.spotify.com/artist/5Q0eMcdJs94WKKEz6DS1Zk"
+        },
+        {
+          "name": "Roy McCurdy",
+          "url": "https://open.spotify.com/artist/5jx7iddojZGfrIqTTDzkDO"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496597,
+      "name": "Breathing Wish",
+      "url": "https://open.spotify.com/track/2lv5U8pIgC9JlnlzEiXDDZ"
     },
     {
       "album": {
@@ -7331,6 +7383,28 @@
       "duration_ms": 337262,
       "name": "Ellipse",
       "url": "https://open.spotify.com/track/3UO9EwH2rdEDyLcnyBh6Y6"
+    },
+    {
+      "album": {
+        "name": "Elyne Road",
+        "url": "https://open.spotify.com/album/0vd22mWrC3rcAnlY9Pvy9L"
+      },
+      "artists": [
+        {
+          "name": "Suedejazz Collective",
+          "url": "https://open.spotify.com/artist/05R1pyq7FjaRrAvJ6Ocenc"
+        },
+        {
+          "name": "LEYLAH",
+          "url": "https://open.spotify.com/artist/5XDUjNWvmp7UKGz7GQt5la"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Elyne Road",
+      "url": "https://open.spotify.com/track/4BaXtyWayfOjvGRZQn1wJe"
     },
     {
       "album": {
@@ -20077,6 +20151,24 @@
       "duration_ms": 276936,
       "name": "Rose",
       "url": "https://open.spotify.com/track/1BflIWTXXe6czchPwMvXPZ"
+    },
+    {
+      "album": {
+        "name": "RoseGold",
+        "url": "https://open.spotify.com/album/6Ane8pLlHEehPVZWe26z4N"
+      },
+      "artists": [
+        {
+          "name": "Cooks But We're Chefs",
+          "url": "https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296000,
+      "name": "RoseGold",
+      "url": "https://open.spotify.com/track/3HwPz3OzoXWOEA1yiAIMZo"
     },
     {
       "album": {

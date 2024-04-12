@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: Faouzia
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,118 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,123 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 45 | [won't make it](https://open.spotify.com/track/5fm2hA6xErpIpankZuyokX) | [amaka.](https://open.spotify.com/artist/3DpIpjmo3sLKbrHWjcjNk3) | [won't make it](https://open.spotify.com/album/7eZAxnerRWqAo5OxhWHRw2) | 3:20 |
 | 46 | [One Drink at a Time](https://open.spotify.com/track/7FhL2olVe7ddfcle92XTYe) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [One Drink at a Time](https://open.spotify.com/album/1jRfid8WhTJjVcTUCam1Ip) | 3:21 |
 | 47 | [Wasn't You](https://open.spotify.com/track/6C9naZkBQvNUz6dinWWjKu) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Wasn't You](https://open.spotify.com/album/6Qq1pD6lXIlosDCZS78tqB) | 3:03 |
-| 48 | [could've been](https://open.spotify.com/track/24SvABnwS15OMaEm1PuUYH) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [could've been](https://open.spotify.com/album/3uId5HMCuBeTFFweJiRC3J) | 3:45 |
+| 48 | [could've been](https://open.spotify.com/track/2An6BIYHNcHFIkHCyzejyL) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [could've been](https://open.spotify.com/album/2Tf5xR0TQiiTT3yHRqP37Z) | 3:45 |
 | 49 | [September](https://open.spotify.com/track/73jHkcoSbf556OsPGEXFBt) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [September](https://open.spotify.com/album/41F2DESVwqEVl500Gdwt5L) | 2:40 |
 | 50 | [Phénomène](https://open.spotify.com/track/7AW4NNK2Grc7ye9fQ1RzPl) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Phénomène](https://open.spotify.com/album/4KzeOIBTl2rYERKVDHPPJD) | 3:18 |
 
-Snapshot ID: `MCwzMWJhNWZmYjRjYzRjNzI3YzFiMTlhNzZkOWYyNjZmZjA3NDBmZDBh`
+Snapshot ID: `MTcxMjMyNTY0MiwwMDAwMDAwMDVjMjJkOTdlMTIzOTgyYjgwODZjMDg5Mjg5Njk3NzJh`

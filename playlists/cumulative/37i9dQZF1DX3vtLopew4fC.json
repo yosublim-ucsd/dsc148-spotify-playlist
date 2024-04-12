@@ -4240,10 +4240,28 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 225397,
       "name": "could've been",
       "url": "https://open.spotify.com/track/24SvABnwS15OMaEm1PuUYH"
+    },
+    {
+      "album": {
+        "name": "could've been",
+        "url": "https://open.spotify.com/album/2Tf5xR0TQiiTT3yHRqP37Z"
+      },
+      "artists": [
+        {
+          "name": "NIA NADURATA",
+          "url": "https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225397,
+      "name": "could've been",
+      "url": "https://open.spotify.com/track/2An6BIYHNcHFIkHCyzejyL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 
 > This is how we do it, This is our style.<br/>Cover: Sidhu Moose Wala
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,738 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,968 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 | 22 | [Still Rollin](https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 |
 | 23 | [8 ASLE](https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:41 |
 | 24 | [Desi Hood](https://open.spotify.com/track/501r9pxOB0z1ksbhC4hNxs) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Cheetah](https://open.spotify.com/artist/0UssK1rMiTP251lIwkpHwr) | [Walk in Victory](https://open.spotify.com/album/0v9SQICVKLVgLkAS6n6yDS) | 2:26 |
-| 25 | [No Regrets](https://open.spotify.com/track/2aAM91sTMQ81KdwYLXPiwM) | [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY) | [No Regrets](https://open.spotify.com/album/6KRRQoVmR0BMZn90t4i0m4) | 2:35 |
+| 25 | [No Regrets](https://open.spotify.com/track/2aAM91sTMQ81KdwYLXPiwM) | [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Lazyeye](https://open.spotify.com/artist/2EYUCVTwCcAqNnmCPCAAoQ) | [No Regrets](https://open.spotify.com/album/6KRRQoVmR0BMZn90t4i0m4) | 2:35 |
 | 26 | [Champion's Anthem](https://open.spotify.com/track/3Hm8hD195kNn3FujGljVEW) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 3:24 |
 | 27 | [Levels](https://open.spotify.com/track/60YICjIPdL7LDBcCMK0tAk) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Levels](https://open.spotify.com/album/3UhoziCnYqcgxFpzYSx233) | 3:48 |
 | 28 | [Cheques](https://open.spotify.com/track/4eBvRhTJ2AcxCsbfTUjoRp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 3:03 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 | 74 | [Foreigns](https://open.spotify.com/track/4Smex33L5fSJQlLOUzkDk3) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Money Musik](https://open.spotify.com/artist/0Y5Wgx4aNU8Jm4T9OxI22o) | [Not by Chance](https://open.spotify.com/album/3Msv5MSxcayA4sbQpQhXzu) | 2:06 |
 | 75 | [These Days \(feat\. Bohemia\)](https://open.spotify.com/track/2zQE8TE5BQDJA11ggnope9) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:29 |
 
-Snapshot ID: `MCw2MjA1OTFiMTFlM2Y1ODFkMGU4YTFlZDc0OTJmYzA2N2RiOGJkNGYy`
+Snapshot ID: `MTcxMjc0OTE1MSwwMDAwMDAwMGE4ZjMzNGViY2E5OWI1YjllZDliMjI1MzQ0ZGI0YTll`

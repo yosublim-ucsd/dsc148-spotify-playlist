@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 135988,
+  "num_followers": 135995,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjZlNTc0NjU2MTQxMTJkY2ExYTBiN2I5M2Q3MTg4MzYwYzVkYThj",
+  "snapshot_id": "MTcwNjc5MjQ4NiwwMDAwMDAwMGUzOTM3NWY3M2U2MDAxYjdiYmJjNGVhY2Y1NmE4NTJm",
   "tracks": [
     {
       "added_at": "2024-02-01 13:01:25",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "MACHINE",
-        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 197018,
-      "name": "MACHINE",
-      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
         "name": "Love Is Real",
         "url": "https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X"
       },
@@ -855,22 +839,18 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Sisyphus",
-        "url": "https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp"
+        "name": "MACHINE",
+        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
       },
       "artists": [
         {
-          "name": "Golden Features",
-          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
-        },
-        {
-          "name": "Rromarin",
-          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
         }
       ],
-      "duration_ms": 206250,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/35va3avWAmS4HMKANASOEp"
+      "duration_ms": 197018,
+      "name": "MACHINE",
+      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -887,6 +867,26 @@
       "duration_ms": 160638,
       "name": "We Don't Ever Stop",
       "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "Sisyphus",
+        "url": "https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp"
+      },
+      "artists": [
+        {
+          "name": "Golden Features",
+          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
+        },
+        {
+          "name": "Rromarin",
+          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/35va3avWAmS4HMKANASOEp"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -1143,22 +1143,22 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Ooooh",
-        "url": "https://open.spotify.com/album/5id8C8riCTNiNFDZrJjLQY"
+        "name": "Sunny Day",
+        "url": "https://open.spotify.com/album/0ZcsTyc5wSv7VsQGJSjXAa"
       },
       "artists": [
         {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+          "name": "Niicap",
+          "url": "https://open.spotify.com/artist/7CyI6goJm3xgAzz8RbYDmW"
         },
         {
-          "name": "WILL K",
-          "url": "https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn"
+          "name": "Benji Lewis",
+          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
         }
       ],
-      "duration_ms": 202017,
-      "name": "OoooH",
-      "url": "https://open.spotify.com/track/72Z64iIx0MC78T7FJ8L0IR"
+      "duration_ms": 128100,
+      "name": "Sunny Day",
+      "url": "https://open.spotify.com/track/15OCXMVSaf6sT6PVsBtgHT"
     }
   ],
   "unique_name": "Sunday Sessions",

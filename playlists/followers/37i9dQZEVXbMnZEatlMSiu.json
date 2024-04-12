@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 213667,
+  "2024-04-12": 213704,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Taiwan.",
   "name": "Top 50 - Taiwan",
@@ -9021,7 +9021,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 245108,
       "name": "Who Doesn\u2019t Wanna",
       "url": "https://open.spotify.com/track/3IkFdpysX1QSvdc46gbq7g"
@@ -11023,6 +11023,24 @@
       "duration_ms": 270760,
       "name": "\u552f\u4e00 (\u4e09\u7acb/\u53f0\u8996\u6232\u5287\u300a\u6200\u611b\u662f\u79d1\u5b78\u300b\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/19fp9nI0tq0lcBl7XoCHAb"
+    },
+    {
+      "album": {
+        "name": "\u5584\u826f\u7684\u6211\u5011 (\u5f71\u96c6\u300a\u4e0d\u5920\u5584\u826f\u7684\u6211\u5011\u300b\u7247\u5c3e\u66f2)",
+        "url": "https://open.spotify.com/album/1RRhiFuUxwxYhOHKbOzHIi"
+      },
+      "artists": [
+        {
+          "name": "Tanya Chua",
+          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235764,
+      "name": "\u5584\u826f\u7684\u6211\u5011 (\u5f71\u96c6\u300a\u4e0d\u5920\u5584\u826f\u7684\u6211\u5011\u300b\u7247\u5c3e\u66f2)",
+      "url": "https://open.spotify.com/track/1OxW5HUdYBZVCuiPGUPXhb"
     },
     {
       "album": {

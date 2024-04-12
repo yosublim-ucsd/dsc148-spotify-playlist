@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-577 songs - 1 day 10 hr 5 min
+578 songs - 1 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [El Secreto](https://open.spotify.com/track/5cc6jp1oBj9mbAlMPz0pnt) | [Esperando La Grúa](https://open.spotify.com/artist/4wznWYOdlNNFkZ0mls0sVJ) | [El Secreto](https://open.spotify.com/album/2yBEt88ALDk02kDC5ryC3Z) | 2:54 | 2024-02-09 | 2024-03-22 |
 | [El Sol de Enero](https://open.spotify.com/track/1JFRDOc6v7KVrUNglnopVJ) | [Martes 13](https://open.spotify.com/artist/4yQad4h1S2VKZbiEYlnFKy) | [El Sol de Enero](https://open.spotify.com/album/1LHMrdu5ExbRfwv5t5Xj1H) | 2:48 | 2022-06-03 | 2022-07-28 |
 | [El Temporal](https://open.spotify.com/track/1mVzNqCSubmZy9zPhLsTBK) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [El Temporal](https://open.spotify.com/album/36HAadshT1W1mJRkitpAt9) | 3:54 | 2022-06-03 | 2022-07-29 |
+| [El Tesoro](https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 4:31 | 2024-04-11 |  |
 | [El Tiempo](https://open.spotify.com/track/6vUWrdWq0oCNuSVuvkWSO0) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [El Tiempo](https://open.spotify.com/album/4x58tGZD6fe6qKQiQPacK7) | 3:56 | 2023-12-07 |  |
 | [El Toxi](https://open.spotify.com/track/0yVokwrSDaNuLhDGIYPDtP) | [Muñecas](https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8) | [Cuatro Pasos del Flechazo a la Derrota](https://open.spotify.com/album/79CKQjJbcF4TpczTAChmoQ) | 3:39 | 2022-07-15 | 2022-11-22 |
 | [El verano](https://open.spotify.com/track/37fjzTuEuHnwmsZFTOFQEo) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [El Verano](https://open.spotify.com/album/2d5Aw2Cfe1s7MdJbPgw0w2) | 5:20 | 2023-09-15 | 2024-03-16 |
@@ -579,7 +580,7 @@
 | [Yod](https://open.spotify.com/track/40TKm4cF9jKYsfcxvjCIzI) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Yod](https://open.spotify.com/album/2fvvSqI6g6L5rW8uwncGVj) | 3:41 | 2022-07-01 | 2022-07-24 |
 | [Yod](https://open.spotify.com/track/6XTZFGXabuOw71RMOgtao3) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Yod](https://open.spotify.com/album/2HhVFAfXWf6eZeOU8R75jg) | 3:41 | 2023-10-26 | 2024-03-01 |
 | [Zona de Fumadores](https://open.spotify.com/track/3cHpV6qi0i8ql2gSivsv6f) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Zona de Fumadores](https://open.spotify.com/album/46cYcC9YUPIEe1CpuSi5CM) | 1:31 | 2023-04-21 | 2023-10-27 |
-| [¿Para Qué?](https://open.spotify.com/track/6sLMcDjjJYW1r78cxQT2hg) | [Alem](https://open.spotify.com/artist/4Y4iQxPJ1BV03LEkW3vrTS) | [¿Para Qué?](https://open.spotify.com/album/6KaDzlbouoNjT5ukVF7MRA) | 2:58 | 2024-02-09 |  |
+| [¿Para Qué?](https://open.spotify.com/track/6sLMcDjjJYW1r78cxQT2hg) | [Alem](https://open.spotify.com/artist/4Y4iQxPJ1BV03LEkW3vrTS) | [¿Para Qué?](https://open.spotify.com/album/6KaDzlbouoNjT5ukVF7MRA) | 2:58 | 2024-02-09 | 2024-04-12 |
 | [¿Qué Clase de Ciudad Es Esta?](https://open.spotify.com/track/4ONVAUcV7CaxzNjaW0oq5m) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp), [Mora Sánchez Viamonte](https://open.spotify.com/artist/1l9x6IMkgfguzM1fFP9IXt), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Gracias Por Nada](https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte) | 3:45 | 2022-06-03 | 2024-03-01 |
 | [¿Todas las Guitarras?](https://open.spotify.com/track/1eJAPC8sQFugPucAA91zeq) | [Formica](https://open.spotify.com/artist/2DMEr3Upo24FzFIk3dVk17) | [¿Todas las Guitarras?](https://open.spotify.com/album/1qpK9ltZ9aFhPfgwjwV64l) | 3:27 | 2022-07-15 | 2022-07-24 |
 | [Árboles y Pasarelas](https://open.spotify.com/track/6WpZRLPsYPddfQ2trrdyOD) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Árboles y Pasarelas](https://open.spotify.com/album/42v671Ws24mgeGvj298gQB) | 5:35 | 2023-03-03 | 2023-03-16 |

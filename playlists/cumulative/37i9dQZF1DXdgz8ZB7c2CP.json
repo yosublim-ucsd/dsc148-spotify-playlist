@@ -1101,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "beggin' u 2",
+        "url": "https://open.spotify.com/album/6XVxghf2IpjjCW05hdnUQc"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232827,
+      "name": "beggin' u 2",
+      "url": "https://open.spotify.com/track/1CBUhnEqPSZqVzZ76mRb1Q"
+    },
+    {
+      "album": {
         "name": "Bel Mercy (goddard. Remix)",
         "url": "https://open.spotify.com/album/4PDZHfm6pQB6KB67UowiaU"
       },
@@ -1908,6 +1926,24 @@
       "duration_ms": 96004,
       "name": "catalyst",
       "url": "https://open.spotify.com/track/40La981foZ1iPvfqfhgu7Y"
+    },
+    {
+      "album": {
+        "name": "Catastrophe",
+        "url": "https://open.spotify.com/album/2GYBDC76X4FFH4zP2gTqZL"
+      },
+      "artists": [
+        {
+          "name": "Aliiias",
+          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220157,
+      "name": "Catastrophe",
+      "url": "https://open.spotify.com/track/3oLZiWvHJqrH648J0NK3LL"
     },
     {
       "album": {
@@ -3365,6 +3401,24 @@
     },
     {
       "album": {
+        "name": "Dream / Last Day On Earth",
+        "url": "https://open.spotify.com/album/0IYG39hpQ9aeK5ycRnbuW8"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195484,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/7fk4gASnt2lIZUGD8TDKRe"
+    },
+    {
+      "album": {
         "name": "Dream You Better",
         "url": "https://open.spotify.com/album/6SfPzaGnGXjjKRcZenPQw1"
       },
@@ -4092,7 +4146,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 247741,
       "name": "EYES",
       "url": "https://open.spotify.com/track/5VcDR60KUX1RQhBhNvGsvT"
@@ -4198,7 +4252,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 189517,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/3VvQKhWigoAD5pfM6zul48"
@@ -5122,7 +5176,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 209341,
       "name": "Glow In The Dark",
       "url": "https://open.spotify.com/track/43QTqbEuSMnofYrZ1fuNwi"
@@ -5852,7 +5906,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 153913,
       "name": "Holoban",
       "url": "https://open.spotify.com/track/0hjJoQN4xIsUQr5tJU6mTM"
@@ -6844,6 +6898,32 @@
       "duration_ms": 174620,
       "name": "It's Our Destiny - Nitepunk Remix",
       "url": "https://open.spotify.com/track/4Az8fdFVrwfCzQ4XweZTC1"
+    },
+    {
+      "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Duoteque",
+          "url": "https://open.spotify.com/artist/1fDV6gCETmlkCUugBxq59g"
+        },
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327508,
+      "name": "ItsNotREEAALLLLLLLL",
+      "url": "https://open.spotify.com/track/397GpgLAJnwQDBwIJ8ko1t"
     },
     {
       "album": {
@@ -10182,7 +10262,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 180668,
       "name": "RUN INTO MY ARMS",
       "url": "https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV"
@@ -11600,6 +11680,36 @@
       "duration_ms": 235692,
       "name": "Stallions",
       "url": "https://open.spotify.com/track/7Mgpc7PoSvWV73jhfpmxoE"
+    },
+    {
+      "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/18ukr7C3yQ9Oz0S4XKBSzI"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        },
+        {
+          "name": "CARLIE",
+          "url": "https://open.spotify.com/artist/2g5tWYb6LAvSeCV4NBGgpE"
+        },
+        {
+          "name": "Kiss the Moon",
+          "url": "https://open.spotify.com/artist/3tmqjDm81wXPk0tDWjo33k"
+        },
+        {
+          "name": "Stutters",
+          "url": "https://open.spotify.com/artist/13rLgeUlHjpISeNrFEb4Tx"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300677,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/3LFxQUYxND86brbqUeJM8c"
     },
     {
       "album": {

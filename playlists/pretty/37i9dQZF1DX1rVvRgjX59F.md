@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rVvRgjX59F.md) - [plain]
 
 ### [90s Rock Anthems](https://open.spotify.com/playlist/37i9dQZF1DX1rVvRgjX59F)
 
-> These songs rocked the 90s\. Cover: Nirvana
+> These songs rocked the 90s\. Cover: The Offspring
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,480,211 likes - 101 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,480,621 likes - 101 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rVvRgjX59F.md) - [plain]
 | 100 | [Sunburn](https://open.spotify.com/track/5wq8wceQvaFlOZovDtfr0j) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 3:53 |
 | 101 | [If Only](https://open.spotify.com/track/60wTHSJ0PxxwZDiSLiFaQX) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Queens of the Stone Age](https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp) | 3:22 |
 
-Snapshot ID: `MCwyMTUxNjZjOTM4YTcwZmNhMGJkMjZhYzEyMjA2Mzg4MmI1YTM3M2Y4`
+Snapshot ID: `MTcwNTU2ODYyMywwMDAwMDAwMDg1NWNlNTVlM2UyMDczYTIzNWVhOGE0YWFkNDQ1ZWVl`

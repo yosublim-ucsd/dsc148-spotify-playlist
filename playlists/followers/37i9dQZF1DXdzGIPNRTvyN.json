@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 264361,
+  "2024-04-12": 264849,
   "date_first_scraped": "2023-02-09",
   "description": "Wander into the magical mix of music, water, birds, and calmness. ",
   "name": "Dreamy Forest Music",
@@ -1915,7 +1915,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 178482,
       "name": "Justice",
       "url": "https://open.spotify.com/track/5TSyKEnThZBxS8n6T3O6yh"
@@ -3319,7 +3319,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 188725,
       "name": "River on Strings",
       "url": "https://open.spotify.com/track/4KPxKVV0wKUbEi2D08RStc"

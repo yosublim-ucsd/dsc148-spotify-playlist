@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Molly Irvine</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-100 songs - 5 hr 12 min
+102 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 | 2024-01-29 |  |
 | [Bring on the Rain](https://open.spotify.com/track/6MfzUY9AQHe3PBSnB1Xg0O) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Bring on the Rain](https://open.spotify.com/album/7rIeLvwWsNfIUzwWPO1wlX) | 3:12 | 2024-01-29 |  |
 | [Can't Get Enough](https://open.spotify.com/track/3f8d8noW0QkAD63iCeEsQX) | [Fynn](https://open.spotify.com/artist/4xuvLbpdu8lDCLSnpZY45m), [Mari Cray](https://open.spotify.com/artist/5rKugNAtUbbN9vULgSBkp0) | [Can't Get Enough](https://open.spotify.com/album/0tlhRvdTPX6VEtERwuxuIE) | 3:02 | 2024-01-29 |  |
+| [Closure](https://open.spotify.com/track/3LsmdnI5ZhcrAmsecZwnq9) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Closure](https://open.spotify.com/album/2RodNtKtjIRZr8R0qkRm3A) | 2:13 | 2024-04-11 |  |
 | [Cloud No9 \- Montmartre Remix](https://open.spotify.com/track/0xYDcgc6HWVKkIumcDPzaV) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:41 | 2024-01-29 |  |
 | [Comfortable](https://open.spotify.com/track/4h7ZS66TqqTnQcNn9DDZkx) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 3:56 | 2024-01-29 |  |
 | [Craving](https://open.spotify.com/track/6th4NiYoMnPQce0q2ZJ715) | [Marna](https://open.spotify.com/artist/2VObBS64brjRveVIwEfYJ9) | [Craving](https://open.spotify.com/album/6uif0HkT4JGJK13LJmyNNd) | 3:44 | 2024-01-29 |  |
@@ -66,6 +67,7 @@
 | [Modern Melancholia](https://open.spotify.com/track/2pt2yUMaj7mggKCSJ3Ttei) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6vkr8DGARtN8y3nsKRBu4E) | 4:13 | 2024-01-29 |  |
 | [Never Came Back](https://open.spotify.com/track/0F0d7kqzkL3liLZghYAhRY) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi) | [Never Came Back](https://open.spotify.com/album/7lYnNiYEwLi9XZyaNz2axi) | 3:14 | 2024-01-29 |  |
 | [Nowhere](https://open.spotify.com/track/3fDPr16Vfg42BPuxjI1xY4) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:04 | 2024-01-29 |  |
+| [Oasis](https://open.spotify.com/track/5gFMmlneOGAKlGYEKQIFEX) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Oasis](https://open.spotify.com/album/6xOinKBhlnTjIdMRCJgg4I) | 2:43 | 2024-04-11 |  |
 | [Old Stones](https://open.spotify.com/track/0DGiMbEuDh8EsSTMr7VWUa) | [Perttu](https://open.spotify.com/artist/1letzwegdFBTvoyJFSu8zK) | [Old Stones](https://open.spotify.com/album/30tEteM0v75u91EYSe7Oza) | 3:09 | 2024-01-29 |  |
 | [On the Weekend](https://open.spotify.com/track/381RY9KEvhEZi88XDDvi0d) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 4:01 | 2024-01-29 |  |
 | [On the Weekend \- Phantoms Remix](https://open.spotify.com/track/0yfUO4Z7ERcVIoCisyHeiX) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6), [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:47 | 2024-01-29 |  |

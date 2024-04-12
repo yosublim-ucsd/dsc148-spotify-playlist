@@ -237,6 +237,28 @@
     },
     {
       "album": {
+        "name": "Good As Gone",
+        "url": "https://open.spotify.com/album/6xyZUAYOK1HYK9Wb1LV1BB"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        },
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187341,
+      "name": "Good As Gone",
+      "url": "https://open.spotify.com/track/5y3WVqKQS4IVUMAP32vIy5"
+    },
+    {
+      "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d"
       },

@@ -4,7 +4,7 @@
 
 > Vintage easy listening from the fifties...
 
-268 songs - 11 hr 46 min
+269 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [I Almost Lost My Mind](https://open.spotify.com/track/7bJpjO7r5gMsHx1oepanuS) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Pat Boone's Greatest Hits \(Reissue\)](https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ) | 2:38 | 2020-07-08 | 2023-09-24 |
 | [I Believe](https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Frankie Laine's Greatest Hits](https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD) | 2:10 | 2020-07-08 |  |
 | [I Get So Lonely \(When I Dream About You\)](https://open.spotify.com/track/1LvJvqApB38VYkZDoFfhxC) | [The Four Knights](https://open.spotify.com/artist/7wzsyXOEYmwxPXCcposy74) | [Oh Baby! Best Of Volume 1 1951\-1954](https://open.spotify.com/album/5oB98W4XDmCRohkPNYozF2) | 2:07 | 2020-07-08 | 2022-11-13 |
+| [I Love You Baby \- Remastered](https://open.spotify.com/track/6dDAGy0hPGTtpCfWSV6XLP) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Paul Anka Sings His Big 15 \(Remastered\)](https://open.spotify.com/album/4avsZn38cgMEmxmGdpb4lp) | 2:10 | 2023-10-17 |  |
 | [I Need You Now \- 2001 Remastered](https://open.spotify.com/track/0gxpt81ZzaX0x72k1NOojB) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Greatest Hits](https://open.spotify.com/album/5W8G2sRRXvYTuuFu4Jinmc) | 2:29 | 2020-07-08 | 2022-11-13 |
 | [I'll Come When You Call](https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Ruby Murray \- Greatest Hits](https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO) | 2:36 | 2020-07-08 | 2022-07-28 |
 | [I'll Take You Home Again, Kathleen](https://open.spotify.com/track/3rfvssyMQbY28825P2sztA) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [The Very Best Of Slim Whitman](https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl) | 2:57 | 2020-07-08 | 2022-11-13 |
@@ -165,7 +166,7 @@
 | [My September Love](https://open.spotify.com/track/3VIhcEJvk3BPuLDcml0AsH) | [David Whitfield](https://open.spotify.com/artist/4Hy8wleeYbPThe35iMWjMH) | [Presenting David Whitfield](https://open.spotify.com/album/0f1UFMh8xG1adHBonh7vuu) | 2:46 | 2020-07-08 | 2022-11-13 |
 | [My September Love](https://open.spotify.com/track/5KEzRoLSjGanLHT0Pu39S0) | [David Whitfield](https://open.spotify.com/artist/4Hy8wleeYbPThe35iMWjMH), [Roland Shaw And His Orchestra](https://open.spotify.com/artist/62iRboFRt3fBndcWdXMyL2) | [True 50's love](https://open.spotify.com/album/1bYAKB9rFvAJNwR7XDyN5Y) | 2:44 | 2020-07-08 | 2022-07-29 |
 | [My Special Angel](https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [Call The Midwife](https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3) | 2:45 | 2020-07-08 | 2022-07-29 |
-| [My Special Angel](https://open.spotify.com/track/3NaKs6Dv0bPR3626ZnQ1Fx) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [The Welsh Tenor](https://open.spotify.com/album/6JGE30arieUuj9yMlmWGxU) | 2:46 | 2020-07-08 |  |
+| [My Special Angel](https://open.spotify.com/track/3NaKs6Dv0bPR3626ZnQ1Fx) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [The Welsh Tenor](https://open.spotify.com/album/6JGE30arieUuj9yMlmWGxU) | 2:46 | 2020-07-08 | 2024-04-12 |
 | [No One But You](https://open.spotify.com/track/4MjPbzry4T4JjJsNaNIe58) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [The Best Of](https://open.spotify.com/album/5Iv3gyBXFrdiXzrV7zHmdq) | 3:07 | 2020-07-08 | 2022-07-28 |
 | [No One but You](https://open.spotify.com/track/1EryH4ZJhQxhq2OZFv1MwQ) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Billy Eckstine Sings](https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC) | 3:09 | 2020-07-08 | 2023-12-15 |
 | [No Other Love](https://open.spotify.com/track/57gWaXJvGcxNKKpHLSCxKv) | [Ronnie Hilton](https://open.spotify.com/artist/3EdBvBQhLB43ayLxB3gf6M) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 3:07 | 2020-07-08 | 2022-07-25 |

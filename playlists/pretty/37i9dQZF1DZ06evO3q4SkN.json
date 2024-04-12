@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODY4Y2IxNzE5OGJhNDNiNTlhYWY0MDViZTJkZDU5MjVjYTBkYWQy",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDVlMzZmZGUxZTQ3MjY0ZDA1MzFiNjIwZDlkZDg5ODc4",
   "tracks": [
     {
       "added_at": null,
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 68306,
-      "name": "Mad Because You Are Leaving",
-      "url": "https://open.spotify.com/track/5to0lOyg0gqupUiQLLXgV9"
+      "duration_ms": 55666,
+      "name": "The Legend of Parapata",
+      "url": "https://open.spotify.com/track/569vYZTpACpMVlirXmfo4U"
     },
     {
       "added_at": null,
@@ -128,9 +128,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 55666,
-      "name": "The Legend of Parapata",
-      "url": "https://open.spotify.com/track/569vYZTpACpMVlirXmfo4U"
+      "duration_ms": 68306,
+      "name": "Mad Because You Are Leaving",
+      "url": "https://open.spotify.com/track/5to0lOyg0gqupUiQLLXgV9"
     },
     {
       "added_at": null,
@@ -460,57 +460,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 65306,
-      "name": "No Such Thing as Magic",
-      "url": "https://open.spotify.com/track/07oBBXUsZcP6r3nUNiAVmJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Mother (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 108600,
-      "name": "She's Mine",
-      "url": "https://open.spotify.com/track/4fV0XLAcaK9Z5QQpsRP6eM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 84650,
-      "name": "Arriving to Ginny's Farm",
-      "url": "https://open.spotify.com/track/638Nk6e23crFjluIBPWIk1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Little (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 76453,
-      "name": "April Wears Cheetah",
-      "url": "https://open.spotify.com/track/09pfICGonkBl6TXhbglryk"
+      "duration_ms": 71879,
+      "name": "Jordan's Glasses",
+      "url": "https://open.spotify.com/track/22vHybImOkTEYMVo1BJOp2"
     },
     {
       "added_at": null,
@@ -556,9 +508,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 64986,
-      "name": "Toughen Up Jordan",
-      "url": "https://open.spotify.com/track/1BwHJRlwTES1XqLYUm42gf"
+      "duration_ms": 65306,
+      "name": "No Such Thing as Magic",
+      "url": "https://open.spotify.com/track/07oBBXUsZcP6r3nUNiAVmJ"
     },
     {
       "added_at": null,
@@ -579,6 +531,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 84650,
+      "name": "Arriving to Ginny's Farm",
+      "url": "https://open.spotify.com/track/638Nk6e23crFjluIBPWIk1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 76453,
+      "name": "April Wears Cheetah",
+      "url": "https://open.spotify.com/track/09pfICGonkBl6TXhbglryk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Mother (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
       },
@@ -588,9 +572,25 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 99986,
-      "name": "Adrian's Zone",
-      "url": "https://open.spotify.com/track/0tsUUplFxwJud6sis2zcH5"
+      "duration_ms": 108600,
+      "name": "She's Mine",
+      "url": "https://open.spotify.com/track/4fV0XLAcaK9Z5QQpsRP6eM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Mother (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 134586,
+      "name": "Into The Headlights",
+      "url": "https://open.spotify.com/track/53zR9IVRrlnLBHx8Me3col"
     }
   ],
   "unique_name": "This Is Germaine Franco",

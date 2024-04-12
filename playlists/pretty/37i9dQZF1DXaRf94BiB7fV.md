@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover: Palak Mohan, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,918 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,934 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Haseen Zindagi](https://open.spotify.com/track/0SJRKLymM7ElckDuzZyMq9) | [Arham Fulfagar](https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E) | [Haseen Zindagi](https://open.spotify.com/album/6QMhD0MzyqQgaYPXEsnGBB) | 2:39 |
 | 100 | [Unke Rangon Mein](https://open.spotify.com/track/33k5PdmBBBvjFrYFnTqrzF) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Unke Rangon Mein](https://open.spotify.com/album/7k4mVu7UlNacFUSHcDZkpa) | 2:52 |
 
-Snapshot ID: `MCxjODNhNGQ0NDJjZmY3YzAwZTVhN2NkMDhhZWViZjFjZmQzZThhNmFk`
+Snapshot ID: `MTcxMjczMDI3OSwwMDAwMDAwMGEzOGU4YzNiZGM5YjhmMGQ5ODY3ODRmN2NkMzdmZGMx`

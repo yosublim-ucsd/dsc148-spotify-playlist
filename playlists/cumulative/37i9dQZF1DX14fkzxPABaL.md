@@ -4,7 +4,7 @@
 
 > La música que te acompaña en el amor\. Foto: Benjamín Amadeo & Soledad
 
-207 songs - 11 hr 25 min
+208 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Me Entrego](https://open.spotify.com/track/2lft7FPs5Js1tYbwZ99wvc) | [Juan Solo](https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Me Entrego](https://open.spotify.com/album/2jhUW0bDLjyfORs3KGiuS4) | 3:27 | 2022-01-14 |  |
 | [Me Siento Vivo](https://open.spotify.com/track/0uXCMVywxTkzSL2PU8JZx7) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Me Siento Vivo](https://open.spotify.com/album/6ApKdCJZ8OeDoBDLHhvFkD) | 3:42 | 2023-10-05 |  |
 | [Miedito o Qué? \(feat\. KAROL G\)](https://open.spotify.com/track/7MoZgM6AsQaZw14WnKopuy) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Miedito o Qué? \(feat\. KAROL G\)](https://open.spotify.com/album/6TRoxZTx8HtZ2B3U7c1jVC) | 3:29 | 2022-01-14 | 2022-07-16 |
+| [Mil preguntas](https://open.spotify.com/track/78Kl2Yvf2XXEDXGFNXfYIr) | [Marina Reche](https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw) | [Mil preguntas](https://open.spotify.com/album/68TdQaRchrJqDmOO1rizlq) | 3:19 | 2024-04-11 |  |
 | [Muero](https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Muero](https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz) | 3:37 | 2022-05-06 |  |
 | [Muy lejos de mi](https://open.spotify.com/track/2Im5YevActjkNb19FgcGkE) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI) | [Muy lejos de mi](https://open.spotify.com/album/6MaeCEK3zDlWHrhrOb3zUd) | 3:15 | 2022-10-07 |  |
 | [Más De Lo Que Aposté](https://open.spotify.com/track/00QBHaaP4KUcjlmxWriMbC) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Más De Lo Que Aposté](https://open.spotify.com/album/4DAiwXZWP397meKmAG7xaS) | 3:25 | 2022-01-14 | 2022-01-22 |
@@ -161,7 +162,7 @@
 | [Qué Pena](https://open.spotify.com/track/7C4VynskxHgu4EvyudDZCC) | [Joshua Dietrich](https://open.spotify.com/artist/4vPrmLDojtC3tm1jXb4XfM), [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Qué Pena](https://open.spotify.com/album/5cyrC29CWasWVxGmSENhnj) | 3:46 | 2022-01-14 | 2022-08-03 |
 | [Quédate](https://open.spotify.com/track/4qaZgDX8Yp9iwboMUZaQgu) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Quédate](https://open.spotify.com/album/711RfL6UNIcE0yoFGJTRSO) | 3:15 | 2022-01-21 | 2023-05-13 |
 | [Ramo De Flores](https://open.spotify.com/track/3C4HM8kntx7fwUEYdAMKPP) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI) | [Ramo De Flores](https://open.spotify.com/album/4IzQFp690PikKWoDL4xRt6) | 3:13 | 2022-01-14 | 2023-01-19 |
-| [Refugio](https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Refugio](https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn) | 3:13 | 2022-04-01 |  |
+| [Refugio](https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Refugio](https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn) | 3:13 | 2022-04-01 | 2024-04-12 |
 | [Sagitario](https://open.spotify.com/track/0M8VrzJXhKpzuvXdVdfPlT) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Sagitario](https://open.spotify.com/album/53Q3hajYqzob6vYGPays8E) | 3:21 | 2023-09-01 |  |
 | [Salir Con Vida](https://open.spotify.com/track/5OX1JvE7gTkOd1DSzlrtFw) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Salir Con Vida](https://open.spotify.com/album/3mwKjQSJdQTY0ZdakLi0Vp) | 2:56 | 2022-10-28 |  |
 | [Santiago](https://open.spotify.com/track/7erP3zGsGtBhhCN8OWPXoC) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Santiago](https://open.spotify.com/album/5kpdmaT9zISP1HUPdSXYoF) | 3:19 | 2024-01-19 |  |

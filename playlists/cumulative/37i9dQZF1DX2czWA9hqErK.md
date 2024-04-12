@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-646 songs - 1 day 12 hr 7 min
+648 songs - 1 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Honeymoon Suite](https://open.spotify.com/track/1EOZIGxpA8NAYAoFd2V8OW) | [Lees](https://open.spotify.com/artist/4xb5O8bO4LzyDuQWRE8C73) | [Honeymoon Suite](https://open.spotify.com/album/7MkA8uIJPWcheBcTliOus9) | 3:50 | 2022-03-25 | 2022-07-08 |
 | [Hopeless Romantic](https://open.spotify.com/track/22VPpAWB7qzV8L9rgza11j) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hopeless Romantic](https://open.spotify.com/album/0sKJKrBhK5gYDdN39fLYb2) | 3:01 | 2021-12-16 | 2022-08-03 |
 | [Hopeless Romantics](https://open.spotify.com/track/0zn5Sa8fRjpUo7XXUaNRTB) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Hopeless Romantics](https://open.spotify.com/album/4caqBOEvibGE77J3LaRrzK) | 2:59 | 2021-12-16 | 2022-02-22 |
+| [House](https://open.spotify.com/track/4DM1J2NHPGlIfdepXMFbK9) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [House](https://open.spotify.com/album/6D6kw82gz48fycksFloqS5) | 3:10 | 2024-04-05 |  |
 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 | 2023-08-01 |  |
 | [How Could You](https://open.spotify.com/track/7wB9sL81rFRGhRt6msZ9CV) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 3:07 | 2023-04-28 |  |
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2022-10-21 |  |
@@ -298,7 +299,8 @@
 | [In My Room](https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB) | 2:57 | 2022-12-02 | 2023-02-01 |
 | [In My Room](https://open.spotify.com/track/7CiDwKE62N6ey3LyG6s7xc) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/3WmjP2w94BdrRraDmCHosq) | 2:57 | 2023-01-20 | 2023-07-19 |
 | [In My Room](https://open.spotify.com/track/2JSXFft5Hga2HoyHG6pK87) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:13 | 2023-10-17 | 2023-11-08 |
-| [In The Light](https://open.spotify.com/track/0DkZi0It78PGI6Nn7toKwR) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [American Romance](https://open.spotify.com/album/5YXocog13Ei8qItXxiQxsX) | 3:15 | 2024-02-09 |  |
+| [In The Cards](https://open.spotify.com/track/5oEoCJsMs5fsPgOKuwdFmE) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [In The Cards](https://open.spotify.com/album/5e3ZkbTHw3BtPoVI9VYXTS) | 3:00 | 2024-04-05 |  |
+| [In The Light](https://open.spotify.com/track/0DkZi0It78PGI6Nn7toKwR) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [American Romance](https://open.spotify.com/album/5YXocog13Ei8qItXxiQxsX) | 3:15 | 2024-02-09 | 2024-04-12 |
 | [Innocence and Sadness](https://open.spotify.com/track/1nJatkqxWH7TQwBrP39yNd) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 4:12 | 2022-10-21 | 2023-06-20 |
 | [Innocence and Sadness](https://open.spotify.com/track/1oZqKv594G6ojGvDhEFsDw) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 4:12 | 2022-10-21 | 2022-11-24 |
 | [Innocence and Sadness](https://open.spotify.com/track/3UvLwVk149N2YDwTzpGM2b) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 4:12 | 2023-06-16 | 2024-03-29 |
@@ -355,7 +357,7 @@
 | [Long Shot](https://open.spotify.com/track/4DSNXNrBKv2rMo30c5DyTh) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5), [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Long Shot](https://open.spotify.com/album/0jSxGspgNSr6D1o839Brhl) | 3:24 | 2024-01-19 | 2024-03-14 |
 | [Long Way Down](https://open.spotify.com/track/1iur4z7GfEuZjjo9MvKKkA) | [Aeris Roves](https://open.spotify.com/artist/1O5IeYqvtwnWzlNq3Ux3jd) | [Long Way Down](https://open.spotify.com/album/4X09PwMzYSOzXDdujxODBq) | 3:58 | 2022-01-17 | 2022-10-17 |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2023-08-25 |  |
-| [lose it all](https://open.spotify.com/track/1mBtrVS6hLeqcVecvpAqBJ) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [lose it all](https://open.spotify.com/album/1zxsgM6wXvm801tK3ue3aF) | 3:25 | 2022-10-21 |  |
+| [lose it all](https://open.spotify.com/track/1mBtrVS6hLeqcVecvpAqBJ) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [lose it all](https://open.spotify.com/album/1zxsgM6wXvm801tK3ue3aF) | 3:25 | 2022-10-21 | 2024-04-12 |
 | [Lose You](https://open.spotify.com/track/59CN7mcm07irUS6YSEUobE) | [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Lose You](https://open.spotify.com/album/4obqEeispd4zybuIeLzUYN) | 4:06 | 2022-04-04 | 2022-04-21 |
 | [Lost](https://open.spotify.com/track/6esRu8l7HtCswRM3jJIc4o) | [Amy Lou](https://open.spotify.com/artist/4KnMZwRN4McMK2SZCf8Mba) | [Lost](https://open.spotify.com/album/23ouvikJufzRSeScx0rIuO) | 3:40 | 2022-04-04 | 2022-07-20 |
 | [Lost](https://open.spotify.com/track/0D9FOgEG9uZm8EsE5q2Y6F) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Lost](https://open.spotify.com/album/14ecs1rWP4SrH5rT8sU6Ox) | 3:34 | 2021-12-16 | 2022-01-17 |

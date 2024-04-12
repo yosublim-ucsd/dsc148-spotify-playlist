@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAm0NxvFu7q.md) - [plain]
 
 > recent trending tracks in rock/alt/metal/punk \| Cover: Deftones
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,168 likes - 41 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,313 likes - 41 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAm0NxvFu7q.md) - [plain]
 | 40 | [You Get Me So High](https://open.spotify.com/track/7zwn1eykZtZ5LODrf7c0tS) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 2:33 |
 | 41 | [Race](https://open.spotify.com/track/50gchdAhBUnVOLqQRyKE9L) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/42bSpkr89bdrwMMNuEZlDJ) | 3:43 |
 
-Snapshot ID: `MCw4NDRjMjA2Y2ZjZTM3MzhiMTA0MDBhZGEyYzc1ZTI4YmExZDI1MmFj`
+Snapshot ID: `MTcxMjY4ODM5NywwMDAwMDAwMDFjOWZhZDE3MDc3YjA4YTg4OWRkZDU3ODZkYTZjNjhi`

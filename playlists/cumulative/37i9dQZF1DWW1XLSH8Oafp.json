@@ -682,7 +682,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 179090,
       "name": "agony",
       "url": "https://open.spotify.com/track/6KzU3opKYx4dTqnhkSUG2U"
@@ -5097,6 +5097,28 @@
     },
     {
       "album": {
+        "name": "Flames",
+        "url": "https://open.spotify.com/album/4bQJJIaczwyYz37yq6JeLm"
+      },
+      "artists": [
+        {
+          "name": "Geo22",
+          "url": "https://open.spotify.com/artist/1BF2tnFiO15m9Y1s0ph0gr"
+        },
+        {
+          "name": "Elphi",
+          "url": "https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170609,
+      "name": "Flames",
+      "url": "https://open.spotify.com/track/5o4vu5oH3VyseGyfMI00PU"
+    },
+    {
+      "album": {
         "name": "A Thousand Things I Could Tell You",
         "url": "https://open.spotify.com/album/3IreEWEWvL99tFkoCUT2zy"
       },
@@ -7327,6 +7349,28 @@
     },
     {
       "album": {
+        "name": "i like the way you kiss me (remixes)",
+        "url": "https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137986,
+      "name": "i like the way you kiss me - southstar remix",
+      "url": "https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2"
+    },
+    {
+      "album": {
         "name": "I Like U Looking At Me",
         "url": "https://open.spotify.com/album/6DVi6pH3O6hMN13HLa10PV"
       },
@@ -8670,7 +8714,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 200244,
       "name": "let you go",
       "url": "https://open.spotify.com/track/2S7gtwp6NctXZqA413ZZBh"
@@ -9200,7 +9244,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 134790,
       "name": "lovergirl",
       "url": "https://open.spotify.com/track/48VPIoaHKU3gKHAVW2WMp8"
@@ -9382,6 +9426,24 @@
       "duration_ms": 232325,
       "name": "MAiNFRAME FAiLURE",
       "url": "https://open.spotify.com/track/1fnukZ8a3AZb7cdD5XttqO"
+    },
+    {
+      "album": {
+        "name": "make it clear",
+        "url": "https://open.spotify.com/album/5qrIWuoQfVTLfvo1sY7pRk"
+      },
+      "artists": [
+        {
+          "name": "lyraaa",
+          "url": "https://open.spotify.com/artist/5eBH1zMMh3LOhfiiMGZJob"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294708,
+      "name": "make it clear",
+      "url": "https://open.spotify.com/track/4jaYIfAHyuwrOvuKLiUMuZ"
     },
     {
       "album": {
@@ -10796,7 +10858,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 177230,
       "name": "one heart baby",
       "url": "https://open.spotify.com/track/1zE0h13gK1JpzyoH1VLkkr"
@@ -12656,7 +12718,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 294048,
       "name": "Searchin4Somethin - Original Mix",
       "url": "https://open.spotify.com/track/5fMrcJzGQ4oYq4wcGIvkXP"
@@ -13500,6 +13562,36 @@
       "duration_ms": 230500,
       "name": "Starburst",
       "url": "https://open.spotify.com/track/0C8StPiacteY4ft7OGOt5G"
+    },
+    {
+      "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/18ukr7C3yQ9Oz0S4XKBSzI"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        },
+        {
+          "name": "CARLIE",
+          "url": "https://open.spotify.com/artist/2g5tWYb6LAvSeCV4NBGgpE"
+        },
+        {
+          "name": "Kiss the Moon",
+          "url": "https://open.spotify.com/artist/3tmqjDm81wXPk0tDWjo33k"
+        },
+        {
+          "name": "Stutters",
+          "url": "https://open.spotify.com/artist/13rLgeUlHjpISeNrFEb4Tx"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300677,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/3LFxQUYxND86brbqUeJM8c"
     },
     {
       "album": {
@@ -16382,6 +16474,24 @@
       "duration_ms": 189960,
       "name": "words",
       "url": "https://open.spotify.com/track/0MjMYoSWmtVYAhv1Uj3zQO"
+    },
+    {
+      "album": {
+        "name": "work it",
+        "url": "https://open.spotify.com/album/6lXWlW7l7n5s9mq5qTRsDa"
+      },
+      "artists": [
+        {
+          "name": "sim0ne",
+          "url": "https://open.spotify.com/artist/68sBUNLfzCGR5n2nImhFCV"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178114,
+      "name": "work it",
+      "url": "https://open.spotify.com/track/7LnMEbOeZAjALRcZY24RmH"
     },
     {
       "album": {

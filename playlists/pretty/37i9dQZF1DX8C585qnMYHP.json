@@ -1,12 +1,12 @@
 {
   "description": "The best new music by Experimental independent artists and labels. @ (at) on cover. Artwork by Thami Nabil",
-  "num_followers": 157188,
+  "num_followers": 157250,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDc4YThlOTIxYWFiMzgzM2JmMGMwNzJlNDliYWU5YzlmYjYwYTIw",
+  "snapshot_id": "MTcxMjE1NzcwNSwwMDAwMDAwMDYyM2YxNDVhNzkwZWJmM2U4NzFmM2U5NDdkMWM5ODhl",
   "tracks": [
     {
       "added_at": "2024-04-03 15:21:45",
@@ -465,22 +465,6 @@
       "url": "https://open.spotify.com/track/0UCAZcLhQS9MuzbzGCbTnG"
     },
     {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Ignore",
-        "url": "https://open.spotify.com/album/2rAaBEPv2cTqzkPGUuMY3E"
-      },
-      "artists": [
-        {
-          "name": "Stemlines",
-          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
-        }
-      ],
-      "duration_ms": 188889,
-      "name": "Ignore",
-      "url": "https://open.spotify.com/track/5WlZMqOIDB4O1y4kONHMOa"
-    },
-    {
       "added_at": "2024-01-24 03:58:32",
       "album": {
         "name": "Ki moun ou ye",
@@ -495,6 +479,22 @@
       "duration_ms": 320409,
       "name": "Ki moun ou ye",
       "url": "https://open.spotify.com/track/3Jc6bQSnKDUY1NaBdDsU9u"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Ignore",
+        "url": "https://open.spotify.com/album/2rAaBEPv2cTqzkPGUuMY3E"
+      },
+      "artists": [
+        {
+          "name": "Stemlines",
+          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
+        }
+      ],
+      "duration_ms": 188889,
+      "name": "Ignore",
+      "url": "https://open.spotify.com/track/5WlZMqOIDB4O1y4kONHMOa"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -529,6 +529,22 @@
       "url": "https://open.spotify.com/track/7FtjGAVTS5eIJWNpNQ5jaT"
     },
     {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Zionic Mud",
+        "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
+      },
+      "artists": [
+        {
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+        }
+      ],
+      "duration_ms": 321782,
+      "name": "Zionic Mud",
+      "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
+    },
+    {
       "added_at": "2024-01-24 03:58:32",
       "album": {
         "name": "A time to love, a time to die",
@@ -559,22 +575,6 @@
       "duration_ms": 312770,
       "name": "LA",
       "url": "https://open.spotify.com/track/2VTONdm0lAmxbCNDcuRrBV"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Zionic Mud",
-        "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
-      },
-      "artists": [
-        {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
-        }
-      ],
-      "duration_ms": 321782,
-      "name": "Zionic Mud",
-      "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
     },
     {
       "added_at": "2023-09-15 05:54:20",
@@ -1017,6 +1017,22 @@
       "url": "https://open.spotify.com/track/6VmBlMV17gP8S8RllHickT"
     },
     {
+      "added_at": "2024-01-10 04:24:05",
+      "album": {
+        "name": "Awhile",
+        "url": "https://open.spotify.com/album/5pHsEtZB1XNvHf4bq6Sd1a"
+      },
+      "artists": [
+        {
+          "name": "oso leone",
+          "url": "https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi"
+        }
+      ],
+      "duration_ms": 177814,
+      "name": "Awhile",
+      "url": "https://open.spotify.com/track/6gfuq5As90qxKATdrCeC8J"
+    },
+    {
       "added_at": "2024-01-24 03:58:32",
       "album": {
         "name": "something that lasts",
@@ -1041,22 +1057,6 @@
       "url": "https://open.spotify.com/track/5HkMf5rorBI0pELgPbKmf9"
     },
     {
-      "added_at": "2024-01-10 04:24:05",
-      "album": {
-        "name": "Awhile",
-        "url": "https://open.spotify.com/album/5pHsEtZB1XNvHf4bq6Sd1a"
-      },
-      "artists": [
-        {
-          "name": "oso leone",
-          "url": "https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi"
-        }
-      ],
-      "duration_ms": 177814,
-      "name": "Awhile",
-      "url": "https://open.spotify.com/track/6gfuq5As90qxKATdrCeC8J"
-    },
-    {
       "added_at": "2023-11-29 12:17:00",
       "album": {
         "name": "Ground Groove",
@@ -1071,38 +1071,6 @@
       "duration_ms": 126030,
       "name": "Heart Shimmer",
       "url": "https://open.spotify.com/track/0FrvlXmxPAw4IieVlrUXWb"
-    },
-    {
-      "added_at": "2024-03-13 03:47:45",
-      "album": {
-        "name": "Sleepless",
-        "url": "https://open.spotify.com/album/10zkZJRQmq7wM1g9jD3Vni"
-      },
-      "artists": [
-        {
-          "name": "Sui Zhen",
-          "url": "https://open.spotify.com/artist/0I9hbMpu2a9FPWTSLkwuG5"
-        }
-      ],
-      "duration_ms": 781460,
-      "name": "Sleepless",
-      "url": "https://open.spotify.com/track/29OG197vwFviugdT0mxW3L"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Us, In Between The Blinded",
-        "url": "https://open.spotify.com/album/7ELe8nQQmrAL484iZPrOGT"
-      },
-      "artists": [
-        {
-          "name": "Unblinded Society",
-          "url": "https://open.spotify.com/artist/67ChYxCfp5Wz2CEazh7Xcp"
-        }
-      ],
-      "duration_ms": 157646,
-      "name": "Virtual Forrest",
-      "url": "https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4"
     },
     {
       "added_at": "2024-03-13 03:47:45",
@@ -1123,6 +1091,38 @@
       "duration_ms": 382224,
       "name": "moon",
       "url": "https://open.spotify.com/track/53efsv7kZof3mTNGTiuJ8F"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Us, In Between The Blinded",
+        "url": "https://open.spotify.com/album/7ELe8nQQmrAL484iZPrOGT"
+      },
+      "artists": [
+        {
+          "name": "Unblinded Society",
+          "url": "https://open.spotify.com/artist/67ChYxCfp5Wz2CEazh7Xcp"
+        }
+      ],
+      "duration_ms": 157646,
+      "name": "Virtual Forrest",
+      "url": "https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4"
+    },
+    {
+      "added_at": "2024-03-13 03:47:45",
+      "album": {
+        "name": "Sleepless",
+        "url": "https://open.spotify.com/album/10zkZJRQmq7wM1g9jD3Vni"
+      },
+      "artists": [
+        {
+          "name": "Sui Zhen",
+          "url": "https://open.spotify.com/artist/0I9hbMpu2a9FPWTSLkwuG5"
+        }
+      ],
+      "duration_ms": 781460,
+      "name": "Sleepless",
+      "url": "https://open.spotify.com/track/29OG197vwFviugdT0mxW3L"
     },
     {
       "added_at": "2023-08-16 06:00:00",
@@ -1157,22 +1157,6 @@
       "url": "https://open.spotify.com/track/4HFsG0QhOBTaGymFSVE0bg"
     },
     {
-      "added_at": "2024-01-24 03:58:32",
-      "album": {
-        "name": "Night Plotters",
-        "url": "https://open.spotify.com/album/6T3lR1agu4rTwJPXZ9mDKj"
-      },
-      "artists": [
-        {
-          "name": "SabaSaba",
-          "url": "https://open.spotify.com/artist/2z7dUCdzDEX1RhOwrxtlyV"
-        }
-      ],
-      "duration_ms": 194901,
-      "name": "Night Plotters",
-      "url": "https://open.spotify.com/track/0F2wG8xPitaD0mw6KC6O1W"
-    },
-    {
       "added_at": "2023-11-29 12:17:00",
       "album": {
         "name": "Nowhere",
@@ -1187,6 +1171,22 @@
       "duration_ms": 229602,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/1BardFdFDKjEjeKTq4wzid"
+    },
+    {
+      "added_at": "2024-01-24 03:58:32",
+      "album": {
+        "name": "Night Plotters",
+        "url": "https://open.spotify.com/album/6T3lR1agu4rTwJPXZ9mDKj"
+      },
+      "artists": [
+        {
+          "name": "SabaSaba",
+          "url": "https://open.spotify.com/artist/2z7dUCdzDEX1RhOwrxtlyV"
+        }
+      ],
+      "duration_ms": 194901,
+      "name": "Night Plotters",
+      "url": "https://open.spotify.com/track/0F2wG8xPitaD0mw6KC6O1W"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-03-06 06:00:00",
       "album": {
+        "name": "Scorpion Deathlock",
+        "url": "https://open.spotify.com/album/1t5hEdGsyJsZaYqeeuq8fF"
+      },
+      "artists": [
+        {
+          "name": "The Golden Age of Wrestling",
+          "url": "https://open.spotify.com/artist/1oWYlDyBHWNG3jeilUrDwp"
+        }
+      ],
+      "duration_ms": 173226,
+      "name": "Ferrari Rocher",
+      "url": "https://open.spotify.com/track/7KFHq7A8fDPv3vzGDWJ7Tf"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
         "name": "REINTERPRETED WORKS VOL.2",
         "url": "https://open.spotify.com/album/2cLuEbtQHTTVs5PSKvX6vv"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 140000,
       "name": "Kick Off - Cwondo Remix",
       "url": "https://open.spotify.com/track/63RgD8yCcqNOdch68VVX35"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Scorpion Deathlock",
-        "url": "https://open.spotify.com/album/1t5hEdGsyJsZaYqeeuq8fF"
-      },
-      "artists": [
-        {
-          "name": "The Golden Age of Wrestling",
-          "url": "https://open.spotify.com/artist/1oWYlDyBHWNG3jeilUrDwp"
-        }
-      ],
-      "duration_ms": 173226,
-      "name": "Ferrari Rocher",
-      "url": "https://open.spotify.com/track/7KFHq7A8fDPv3vzGDWJ7Tf"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1393,22 +1393,6 @@
       "url": "https://open.spotify.com/track/4mknLyEc2cUmxYTQbpwlYl"
     },
     {
-      "added_at": "2024-01-10 04:07:01",
-      "album": {
-        "name": "QUANTA 1:11",
-        "url": "https://open.spotify.com/album/4jyP4GfDaIoOK6Go2r7Cjr"
-      },
-      "artists": [
-        {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
-        }
-      ],
-      "duration_ms": 396071,
-      "name": "EVER",
-      "url": "https://open.spotify.com/track/7aCzefzfqsKNC8umZyJ85g"
-    },
-    {
       "added_at": "2023-07-19 01:03:01",
       "album": {
         "name": "RPG",
@@ -1423,6 +1407,22 @@
       "duration_ms": 205000,
       "name": "Real World",
       "url": "https://open.spotify.com/track/6OQoynBENCLciCInK8T3YH"
+    },
+    {
+      "added_at": "2024-01-10 04:07:01",
+      "album": {
+        "name": "QUANTA 1:11",
+        "url": "https://open.spotify.com/album/4jyP4GfDaIoOK6Go2r7Cjr"
+      },
+      "artists": [
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        }
+      ],
+      "duration_ms": 396071,
+      "name": "EVER",
+      "url": "https://open.spotify.com/track/7aCzefzfqsKNC8umZyJ85g"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1475,38 +1475,6 @@
     {
       "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "Formation",
-        "url": "https://open.spotify.com/album/0mBFdbbK7gtvOEdjDPwEQJ"
-      },
-      "artists": [
-        {
-          "name": "Nima Khaste",
-          "url": "https://open.spotify.com/artist/0GvP52tylCJYzBWArBXRZh"
-        }
-      ],
-      "duration_ms": 275555,
-      "name": "S1 T3",
-      "url": "https://open.spotify.com/track/1GHj5JkSdgDiKpVwsrDymz"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "the REAL",
-        "url": "https://open.spotify.com/album/7tFgoX5GpCYo4EsApcsGsB"
-      },
-      "artists": [
-        {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
-        }
-      ],
-      "duration_ms": 258293,
-      "name": "the REAL",
-      "url": "https://open.spotify.com/track/0dLylgjJzquDJ8Q3urbUZy"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
         "name": "\u3042\u306a\u305f\u306e\u9aa8\u304c\u3001\u30aa\u30d1\u30fc\u30eb\u306b\u304b\u308f\u308b\u9803",
         "url": "https://open.spotify.com/album/4tYdfajjjVCRxPWGZSnSOY"
       },
@@ -1531,6 +1499,22 @@
       "duration_ms": 224022,
       "name": "\u80ce\u76e4 (feat. Salyu, Magn\u00fas J\u00f3hann, Siggi String Quartet)",
       "url": "https://open.spotify.com/track/3T42zYzfImtTxNdep9QS06"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Formation",
+        "url": "https://open.spotify.com/album/0mBFdbbK7gtvOEdjDPwEQJ"
+      },
+      "artists": [
+        {
+          "name": "Nima Khaste",
+          "url": "https://open.spotify.com/artist/0GvP52tylCJYzBWArBXRZh"
+        }
+      ],
+      "duration_ms": 275555,
+      "name": "S1 T3",
+      "url": "https://open.spotify.com/track/1GHj5JkSdgDiKpVwsrDymz"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1585,6 +1569,22 @@
       "url": "https://open.spotify.com/track/7vgV6b2LYHPhBPD9IlQ2Pg"
     },
     {
+      "added_at": "2024-01-10 20:04:58",
+      "album": {
+        "name": "Anthem For Those Who Know",
+        "url": "https://open.spotify.com/album/0eON9IRmxIU8J3v87CdQ9p"
+      },
+      "artists": [
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "Anthem For Those Who Know",
+      "url": "https://open.spotify.com/track/71HYnMJ8rRgrEthkmam32o"
+    },
+    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "EXHALATION Vol.2 - The Lifecycle of Software Objects",
@@ -1625,22 +1625,6 @@
       "url": "https://open.spotify.com/track/1qIbIW1dPNEIB8enJh9QwD"
     },
     {
-      "added_at": "2024-01-10 20:04:58",
-      "album": {
-        "name": "Anthem For Those Who Know",
-        "url": "https://open.spotify.com/album/0eON9IRmxIU8J3v87CdQ9p"
-      },
-      "artists": [
-        {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "Anthem For Those Who Know",
-      "url": "https://open.spotify.com/track/71HYnMJ8rRgrEthkmam32o"
-    },
-    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "THE WOMB",
@@ -1655,6 +1639,22 @@
       "duration_ms": 324000,
       "name": "WALKING UP THE STAIRS",
       "url": "https://open.spotify.com/track/18GY5oS2eZBHm5wokBnBMX"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Breath",
+        "url": "https://open.spotify.com/album/4mYM1umH8IeMQjjwlWmQc4"
+      },
+      "artists": [
+        {
+          "name": "Ciel",
+          "url": "https://open.spotify.com/artist/1Rv2Pete1cFEKlDYk0hjWl"
+        }
+      ],
+      "duration_ms": 342146,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/6GNDrXNj0AZWu3SwN2GOVj"
     },
     {
       "added_at": "2024-03-13 03:47:45",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "Breath",
-        "url": "https://open.spotify.com/album/4mYM1umH8IeMQjjwlWmQc4"
-      },
-      "artists": [
-        {
-          "name": "Ciel",
-          "url": "https://open.spotify.com/artist/1Rv2Pete1cFEKlDYk0hjWl"
-        }
-      ],
-      "duration_ms": 342146,
-      "name": "Breath",
-      "url": "https://open.spotify.com/track/6GNDrXNj0AZWu3SwN2GOVj"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
         "name": "Raw to the Core",
         "url": "https://open.spotify.com/album/1iQK89XNluwPJz55GixQfJ"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 263003,
       "name": "Raw to the Core",
       "url": "https://open.spotify.com/track/2zqKvgwvJYO91mkGbcB7kh"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "the REAL",
+        "url": "https://open.spotify.com/album/7tFgoX5GpCYo4EsApcsGsB"
+      },
+      "artists": [
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        }
+      ],
+      "duration_ms": 258293,
+      "name": "the REAL",
+      "url": "https://open.spotify.com/track/0dLylgjJzquDJ8Q3urbUZy"
     },
     {
       "added_at": "2024-01-10 04:07:01",

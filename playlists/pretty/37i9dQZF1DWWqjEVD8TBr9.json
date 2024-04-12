@@ -1,13 +1,29 @@
 {
   "description": "Stray Kids everywhere all around the world. You make Stray Kids STAY. ",
-  "num_followers": 1248008,
+  "num_followers": 1248431,
   "original_name": "This Is Stray Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWRhMjg3MmIzYzk5MDYwZjQyYTExZDg1OTAwN2E3MWIxZjZhZGMx",
+  "snapshot_id": "MTcxMjg0NzYwMCwwMDAwMDAwMGI1YzQ3OTFmODQ5NmJlNWFiMjdkZTlmYTMxOGNmZWE3",
   "tracks": [
+    {
+      "added_at": "2024-04-11 15:00:00",
+      "album": {
+        "name": "WHY?",
+        "url": "https://open.spotify.com/album/5mZvfyIv3rZ3ZCah58u6k2"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "WHY?",
+      "url": "https://open.spotify.com/track/2NeJBfbWgs19WiBXAUPpBq"
+    },
     {
       "added_at": "2024-04-09 09:19:43",
       "album": {

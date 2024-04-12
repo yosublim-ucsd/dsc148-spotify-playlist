@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 111851,
+  "2024-04-12": 111897,
   "date_first_scraped": "2022-05-30",
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u306b\u3057\u306a",
   "name": "Women's Voice",
@@ -1357,7 +1357,7 @@
     {
       "album": {
         "name": "All I Want",
-        "url": "https://open.spotify.com/album/7ysjlOh32VVzSAw2cz6Nd9"
+        "url": "https://open.spotify.com/album/1NQTU7jAxrNyjfaz5FnVmb"
       },
       "artists": [
         {
@@ -1372,6 +1372,28 @@
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 165766,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/13HbQYILUGzRIMiNQvDGAi"
+    },
+    {
+      "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/7ysjlOh32VVzSAw2cz6Nd9"
+      },
+      "artists": [
+        {
+          "name": "cross-dominance",
+          "url": "https://open.spotify.com/artist/6uCy22wWyFB4Rvc2CRIaSP"
+        },
+        {
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-11",
       "duration_ms": 165766,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/4Orqkop48cAINAFYzbKVqk"
@@ -5209,7 +5231,7 @@
     {
       "album": {
         "name": "DAHLIA",
-        "url": "https://open.spotify.com/album/1Q4R5DzqSg2l56pYtAX1YZ"
+        "url": "https://open.spotify.com/album/4Itd2O9DllnDpV2PwPMRnS"
       },
       "artists": [
         {
@@ -5220,6 +5242,24 @@
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 247499,
+      "name": "DAHLIA",
+      "url": "https://open.spotify.com/track/0oSZeBfKUJHCNVAPYWmahO"
+    },
+    {
+      "album": {
+        "name": "DAHLIA",
+        "url": "https://open.spotify.com/album/1Q4R5DzqSg2l56pYtAX1YZ"
+      },
+      "artists": [
+        {
+          "name": "Kaela Kimura",
+          "url": "https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-11",
       "duration_ms": 247499,
       "name": "DAHLIA",
       "url": "https://open.spotify.com/track/7jCdY39MOAv2XWMNQ21ZlI"
@@ -8249,6 +8289,24 @@
       "duration_ms": 188328,
       "name": "Got me good",
       "url": "https://open.spotify.com/track/44xd2zjbW1fxnG4359Owpt"
+    },
+    {
+      "album": {
+        "name": "Gradation",
+        "url": "https://open.spotify.com/album/3AZ1GNaatyjbIIk9C16YZ2"
+      },
+      "artists": [
+        {
+          "name": "RUNG HYANG",
+          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251470,
+      "name": "Gradation",
+      "url": "https://open.spotify.com/track/665EKSrPu40nRXBknG93as"
     },
     {
       "album": {
@@ -13080,6 +13138,24 @@
     },
     {
       "album": {
+        "name": "Memoirs and Fingertips",
+        "url": "https://open.spotify.com/album/0Y7PIYEeIWHkMXbnYTilSE"
+      },
+      "artists": [
+        {
+          "name": "Kana Hanazawa",
+          "url": "https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191100,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/0VfxA2yWjmK0T49YavVsIC"
+    },
+    {
+      "album": {
         "name": "\u8ffd\u61b6\u3068\u6307\u5148",
         "url": "https://open.spotify.com/album/3nQcUeeRnVEPJUVFHaW1YD"
       },
@@ -13091,7 +13167,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 191100,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/4SUy8Ao3ohB87xbVEDqgxm"
@@ -14962,6 +15038,24 @@
     },
     {
       "album": {
+        "name": "Nakanaori no Atowa",
+        "url": "https://open.spotify.com/album/5kT6Uu2SQMocazEmSwmbn9"
+      },
+      "artists": [
+        {
+          "name": "\u9580\u8107\u66f4\u7d17",
+          "url": "https://open.spotify.com/artist/0smdS7QS5s0qwhfrXkZaSX"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115144,
+      "name": "Nakanaori no Atowa",
+      "url": "https://open.spotify.com/track/2YmkScLaLH1A9Pfzu1RAO4"
+    },
+    {
+      "album": {
         "name": "Studio Ghibli Tribute Album \"Ghibli o Utau\"",
         "url": "https://open.spotify.com/album/0iso79mD0QNlcE4gbwVJJA"
       },
@@ -16563,10 +16657,32 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 233885,
       "name": "Our Time",
       "url": "https://open.spotify.com/track/1JLz6L8P7EayGsSBJTon6s"
+    },
+    {
+      "album": {
+        "name": "Our Time",
+        "url": "https://open.spotify.com/album/6UiLUih1AcHTKkSoJLWHBf"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u4e45\u9593\u307f\u306a\u307f",
+          "url": "https://open.spotify.com/artist/11JzP3uIq9q4DoYrudx0Pt"
+        },
+        {
+          "name": "miwa",
+          "url": "https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233885,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/476cR5lLecUjQ6bgtlE8TM"
     },
     {
       "album": {
@@ -18243,10 +18359,32 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 219994,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/20taJ46r9l2wf3czHTgzLD"
+    },
+    {
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/7tCOJJn1ZTX8UQd3J5zsrq"
+      },
+      "artists": [
+        {
+          "name": "EMI MARIA",
+          "url": "https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8"
+        },
+        {
+          "name": "JASMINE",
+          "url": "https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219994,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/3tcKxyNdNVv1wHzn8pXEDI"
     },
     {
       "album": {
@@ -22377,6 +22515,24 @@
       "duration_ms": 251200,
       "name": "TENGOKU",
       "url": "https://open.spotify.com/track/1mU4zfQJTNJJJU90baNDfD"
+    },
+    {
+      "album": {
+        "name": "Tenshi ga Itayo",
+        "url": "https://open.spotify.com/album/464rRAZWRpCgXqEI7RzZTy"
+      },
+      "artists": [
+        {
+          "name": "Daoko",
+          "url": "https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195782,
+      "name": "Tenshi ga Itayo",
+      "url": "https://open.spotify.com/track/6InZEY1x8a6emCY8euFR4k"
     },
     {
       "album": {
@@ -26551,8 +26707,8 @@
       },
       "artists": [
         {
-          "name": "\u3055\u3068\u3046\u3002",
-          "url": "https://open.spotify.com/artist/7qEgPo1JX5LghqxBlvO1kU"
+          "name": "Sato",
+          "url": "https://open.spotify.com/artist/42olGDHZaEPtRmxwEZPY31"
         }
       ],
       "date_added": "2024-04-09",
@@ -30563,7 +30719,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 251470,
       "name": "\u30b0\u30e9\u30c7\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/1L0lCD2lqcV9u4CYV0qTrj"
@@ -34693,7 +34849,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 115144,
       "name": "\u4ef2\u76f4\u308a\u306e\u3042\u3068\u306f",
       "url": "https://open.spotify.com/track/7adegfO1ubz1HZae429EPT"
@@ -37071,7 +37227,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 195782,
       "name": "\u5929\u4f7f\u304c\u3044\u305f\u3088",
       "url": "https://open.spotify.com/track/4FqS6bgzMOqha71vtUKpU1"

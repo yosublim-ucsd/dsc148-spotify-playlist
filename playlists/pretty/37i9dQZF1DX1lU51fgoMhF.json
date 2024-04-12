@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 197263,
+  "num_followers": 197380,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWY2MmUxMWUwOTdlYjIxOGE0ZTcwZGQxMDhlY2Q0MzBjNDlmYjg2",
+  "snapshot_id": "MTY5NDY4NzI3OSwwMDAwMDAwMGIyYzFkNWUzODBkMmMyNTU0OGZlM2Y5MWQ0ZWQxMGNh",
   "tracks": [
     {
       "added_at": "2023-09-14 10:27:59",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "Offset",
-        "url": "https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        }
-      ],
-      "duration_ms": 212136,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/6DIW7GJbuGZdHolRcPWprP"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 161167,
       "name": "Bet You Wanna (feat. Cardi B)",
       "url": "https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "Offset",
+        "url": "https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 212136,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/6DIW7GJbuGZdHolRcPWprP"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "Love Never Dies",
-        "url": "https://open.spotify.com/album/0r8x30PzZEBtxJsLpwHHwL"
-      },
-      "artists": [
-        {
-          "name": "THE NEW SIX",
-          "url": "https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ"
-        }
-      ],
-      "duration_ms": 185311,
-      "name": "Love or Die",
-      "url": "https://open.spotify.com/track/5JDfcFU6lCYU7jQJ8dDo8v"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "Bare&Rare, Pt. 1",
         "url": "https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 186906,
       "name": "Sparkling",
       "url": "https://open.spotify.com/track/6TzU11huC8Hz4FVEsvCeE7"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "Love Never Dies",
+        "url": "https://open.spotify.com/album/0r8x30PzZEBtxJsLpwHHwL"
+      },
+      "artists": [
+        {
+          "name": "THE NEW SIX",
+          "url": "https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ"
+        }
+      ],
+      "duration_ms": 185311,
+      "name": "Love or Die",
+      "url": "https://open.spotify.com/track/5JDfcFU6lCYU7jQJ8dDo8v"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3myL1yEMNbzCosXULCjhAO"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        },
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "duration_ms": 189720,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/606Cy8x4IPNlYjKYd88pEr"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
         "name": "The Road : Keep on Going - The 11th Album Vol.1",
         "url": "https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp"
       },
@@ -1515,22 +1535,6 @@
       "duration_ms": 199213,
       "name": "Mango",
       "url": "https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
-        "name": "MOONLIGHT",
-        "url": "https://open.spotify.com/album/0ymC3LS9iRfz8GntIXHuch"
-      },
-      "artists": [
-        {
-          "name": "HENRY",
-          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
-        }
-      ],
-      "duration_ms": 161826,
-      "name": "MOONLIGHT",
-      "url": "https://open.spotify.com/track/2T23r4De9TGsNRF4u7tU8p"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1551,22 +1555,18 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3myL1yEMNbzCosXULCjhAO"
+        "name": "MOONLIGHT",
+        "url": "https://open.spotify.com/album/0ymC3LS9iRfz8GntIXHuch"
       },
       "artists": [
         {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        },
-        {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+          "name": "HENRY",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
         }
       ],
-      "duration_ms": 189720,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/606Cy8x4IPNlYjKYd88pEr"
+      "duration_ms": 161826,
+      "name": "MOONLIGHT",
+      "url": "https://open.spotify.com/track/2T23r4De9TGsNRF4u7tU8p"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "The Blowing",
-        "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
+        "name": "SELF",
+        "url": "https://open.spotify.com/album/7gx8kFPhTKuAIWfUS8i72Z"
       },
       "artists": [
         {
-          "name": "HIGHLIGHT",
-          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
         }
       ],
-      "duration_ms": 218253,
-      "name": "NOT THE END",
-      "url": "https://open.spotify.com/track/3VSA53dOtVkhwyJ0nsAnRt"
+      "duration_ms": 187480,
+      "name": "D N D",
+      "url": "https://open.spotify.com/track/1XrPkH2rQYgVMJeIMdUbRU"
     }
   ],
   "unique_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",

@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 10295,
+  "num_followers": 10308,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzYxMDNlNDUwMGYwMzg1MDUyMDQ3ZTBmOTFiODNhZmUwY2M2Nzlm",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMGEyNDg0NjAwM2MyMTdlNWJkNzM3YzY3YmYyMzYyYjAz",
   "tracks": [
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AREA BOYZ",
-        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 249213,
-      "name": "LONELY (feat. Sarkodie)",
-      "url": "https://open.spotify.com/track/1z29fkHyKrvZDglpyptvq3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grind Day (Remix) [feat. Sarkodie & Medikal]",
         "url": "https://open.spotify.com/album/0OgcD1QZoeHTbxzFvBLFez"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 242860,
       "name": "Grind Day (Remix) [feat. Sarkodie & Medikal]",
       "url": "https://open.spotify.com/track/1fzWiGhmYO15nxapbpKHbm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AREA BOYZ",
+        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 249213,
+      "name": "LONELY (feat. Sarkodie)",
+      "url": "https://open.spotify.com/track/1z29fkHyKrvZDglpyptvq3"
     },
     {
       "added_at": null,
@@ -923,6 +923,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/0uG6zMQnNUmVvI20N4lr1S"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/2EWgz1dixRunlenKM26QVo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homicide",
         "url": "https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 183477,
       "name": "Homicide",
       "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Try Me",
-        "url": "https://open.spotify.com/album/0uG6zMQnNUmVvI20N4lr1S"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/2EWgz1dixRunlenKM26QVo"
     },
     {
       "added_at": null,

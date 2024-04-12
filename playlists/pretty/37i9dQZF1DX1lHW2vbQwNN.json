@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2000s. Cover: Drake",
-  "num_followers": 190146,
+  "num_followers": 190359,
   "original_name": "I Love My 2000s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmRkYTcyMDFmNTc0ZjU3MzUxODhiZjVhOTdiOTY5MDQ3MzYwYWU2",
+  "snapshot_id": "MTcxMjM0Njc3MSwwMDAwMDAwMGQzNGU4ZTY1ZjI4Yzg4NTVlOTQ1NWI3Nzc1OTVkODM1",
   "tracks": [
     {
       "added_at": "2024-04-05 19:52:51",
@@ -983,26 +983,6 @@
     {
       "added_at": "2024-04-05 19:52:51",
       "album": {
-        "name": "Let's Get It: Thug Motivation 101",
-        "url": "https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN"
-      },
-      "artists": [
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 280013,
-      "name": "Soul Survivor",
-      "url": "https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14"
-    },
-    {
-      "added_at": "2024-04-05 19:52:51",
-      "album": {
         "name": "Thug Matrimony: Married to the Streets",
         "url": "https://open.spotify.com/album/2Ve8rF1LYTRGl3ZAI2z2YT"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 222200,
       "name": "Let's Go (feat. Twista & Lil' Jon)",
       "url": "https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs"
+    },
+    {
+      "added_at": "2024-04-05 19:52:51",
+      "album": {
+        "name": "Let's Get It: Thug Motivation 101",
+        "url": "https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN"
+      },
+      "artists": [
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 280013,
+      "name": "Soul Survivor",
+      "url": "https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14"
     },
     {
       "added_at": "2024-04-05 19:52:51",
@@ -1351,22 +1351,26 @@
     {
       "added_at": "2024-04-05 19:52:51",
       "album": {
-        "name": "The Real Testament",
-        "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
+        "name": "Detroit Deli (A Taste Of Detroit)",
+        "url": "https://open.spotify.com/album/2mpzeA7pHNIDAPii4EEKsB"
       },
       "artists": [
         {
-          "name": "Plies",
-          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
         },
         {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 255413,
-      "name": "Shawty (feat. T Pain)",
-      "url": "https://open.spotify.com/track/0mYoKqA23wUUj7BTEgNzjg"
+      "duration_ms": 225400,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/7sZCAHP2duHwr5M5K7lHsb"
     },
     {
       "added_at": "2024-04-05 19:52:51",
@@ -1391,26 +1395,22 @@
     {
       "added_at": "2024-04-05 19:52:51",
       "album": {
-        "name": "Detroit Deli (A Taste Of Detroit)",
-        "url": "https://open.spotify.com/album/2mpzeA7pHNIDAPii4EEKsB"
+        "name": "The Real Testament",
+        "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
       },
       "artists": [
         {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+          "name": "Plies",
+          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
         },
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         }
       ],
-      "duration_ms": 225400,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/7sZCAHP2duHwr5M5K7lHsb"
+      "duration_ms": 255413,
+      "name": "Shawty (feat. T Pain)",
+      "url": "https://open.spotify.com/track/0mYoKqA23wUUj7BTEgNzjg"
     },
     {
       "added_at": "2024-04-05 19:52:51",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2024-04-05 19:52:51",
       "album": {
-        "name": "Definition of Real",
-        "url": "https://open.spotify.com/album/4XYeXtHzp0x7wzgUyasKBA"
-      },
-      "artists": [
-        {
-          "name": "Plies",
-          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "Bust It Baby, Pt. 2 (feat. Ne-Yo)",
-      "url": "https://open.spotify.com/track/0exb0K7vsjf5bXWLJJhAuF"
-    },
-    {
-      "added_at": "2024-04-05 19:52:51",
-      "album": {
         "name": "Lupe Fiasco's Food & Liquor",
         "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
       },
@@ -1527,6 +1507,26 @@
     {
       "added_at": "2024-04-05 19:52:51",
       "album": {
+        "name": "...And Then There Was X",
+        "url": "https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        {
+          "name": "Sisqo",
+          "url": "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
+        }
+      ],
+      "duration_ms": 253040,
+      "name": "What These Bitches Want",
+      "url": "https://open.spotify.com/track/57kdeoYzgGaKzRWj4XM1u8"
+    },
+    {
+      "added_at": "2024-04-05 19:52:51",
+      "album": {
         "name": "Word Of Mouf",
         "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
       },
@@ -1547,22 +1547,22 @@
     {
       "added_at": "2024-04-05 19:52:51",
       "album": {
-        "name": "...And Then There Was X",
-        "url": "https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH"
+        "name": "Definition of Real",
+        "url": "https://open.spotify.com/album/4XYeXtHzp0x7wzgUyasKBA"
       },
       "artists": [
         {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+          "name": "Plies",
+          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
         },
         {
-          "name": "Sisqo",
-          "url": "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 253040,
-      "name": "What These Bitches Want",
-      "url": "https://open.spotify.com/track/57kdeoYzgGaKzRWj4XM1u8"
+      "duration_ms": 240760,
+      "name": "Bust It Baby, Pt. 2 (feat. Ne-Yo)",
+      "url": "https://open.spotify.com/track/0exb0K7vsjf5bXWLJJhAuF"
     },
     {
       "added_at": "2024-04-05 19:52:51",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2024-04-05 19:52:51",
       "album": {
+        "name": "A Gangster And A Gentleman",
+        "url": "https://open.spotify.com/album/4LmiDfIReR290PQm026KNF"
+      },
+      "artists": [
+        {
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/7cFpB4ozcSwXuhqjvNbrbP"
+    },
+    {
+      "added_at": "2024-04-05 19:52:51",
+      "album": {
         "name": "Me, Myself & I",
         "url": "https://open.spotify.com/album/7L3ybS1mQpWwAiZm4FuNwn"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 247413,
       "name": "Make It Rain",
       "url": "https://open.spotify.com/track/4JPCdSaqs9dJd7RatFSHww"
-    },
-    {
-      "added_at": "2024-04-05 19:52:51",
-      "album": {
-        "name": "A Gangster And A Gentleman",
-        "url": "https://open.spotify.com/album/4LmiDfIReR290PQm026KNF"
-      },
-      "artists": [
-        {
-          "name": "Styles P",
-          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/7cFpB4ozcSwXuhqjvNbrbP"
     },
     {
       "added_at": "2024-04-05 19:52:51",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2024-04-05 19:52:51",
       "album": {
+        "name": "Tha Carter II",
+        "url": "https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 303666,
+      "name": "Hustler Musik",
+      "url": "https://open.spotify.com/track/2334WaCjswLcRIRgTTPWaZ"
+    },
+    {
+      "added_at": "2024-04-05 19:52:51",
+      "album": {
         "name": "Still Hot In Herre",
         "url": "https://open.spotify.com/album/4FyzqUSV3OqNvh0bjF2qaZ"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 271160,
       "name": "Grillz",
       "url": "https://open.spotify.com/track/0l7DPAKQVayEz9FXC9di2e"
-    },
-    {
-      "added_at": "2024-04-05 19:52:51",
-      "album": {
-        "name": "Tha Carter II",
-        "url": "https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 303666,
-      "name": "Hustler Musik",
-      "url": "https://open.spotify.com/track/2334WaCjswLcRIRgTTPWaZ"
     },
     {
       "added_at": "2024-04-05 19:52:51",

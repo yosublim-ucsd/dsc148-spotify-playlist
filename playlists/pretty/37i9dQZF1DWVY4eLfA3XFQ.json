@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Joshwa. 50% techno, 50% house",
-  "num_followers": 615688,
+  "num_followers": 615833,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDUyOTU5YzE4YTJjNTY0OWU3NzQ5YTU0YjVmMGEzOThkYmZhNzU1",
+  "snapshot_id": "MTcxMjI5MDAzMSwwMDAwMDAwMDQzNzIxZjYyZDM4Yjg1ZDNkY2YyZjk0ZWZkZDRmMzQz",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1021,22 +1021,6 @@
       "url": "https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Fine Night",
-        "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        }
-      ],
-      "duration_ms": 161723,
-      "name": "Fine Night",
-      "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
-    },
-    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Ratata",
@@ -1051,6 +1035,22 @@
       "duration_ms": 148446,
       "name": "Ratata",
       "url": "https://open.spotify.com/track/3uN27f0O5xfPmEtw1JoroP"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Fine Night",
+        "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 161723,
+      "name": "Fine Night",
+      "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1353,22 +1353,6 @@
       "url": "https://open.spotify.com/track/3IrAZTFMsy9ZPj5LurJ8vi"
     },
     {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "You Know It",
-        "url": "https://open.spotify.com/album/1pQyujwr8WMM8nXV21a5tY"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        }
-      ],
-      "duration_ms": 235680,
-      "name": "You Know It",
-      "url": "https://open.spotify.com/track/64Kw68jjKqqYK5hQrCkrVT"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Burnin'",
@@ -1409,6 +1393,22 @@
       "url": "https://open.spotify.com/track/5roFM0I1K6um2yIYL6kGq2"
     },
     {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "You Know It",
+        "url": "https://open.spotify.com/album/1pQyujwr8WMM8nXV21a5tY"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 235680,
+      "name": "You Know It",
+      "url": "https://open.spotify.com/track/64Kw68jjKqqYK5hQrCkrVT"
+    },
+    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "Levitate",
@@ -1447,6 +1447,22 @@
       "duration_ms": 134880,
       "name": "Lady (Hear Me Tonight)",
       "url": "https://open.spotify.com/track/0Jag248wCds9vbWJkIorce"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 192187,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1555,22 +1571,6 @@
       "duration_ms": 195473,
       "name": "Let's Go Dancing - Matroda Remix",
       "url": "https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Vogue",
-        "url": "https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 192187,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1685,20 +1685,24 @@
       "url": "https://open.spotify.com/track/3VrFR7A8qVKHmECL5tNIlf"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "One Of A Kind",
-        "url": "https://open.spotify.com/album/2xpSf5fa0lJ04r8Ya6g1J0"
+        "name": "Vente",
+        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
       },
       "artists": [
         {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        },
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
         }
       ],
-      "duration_ms": 138725,
-      "name": "One Of A Kind",
-      "url": "https://open.spotify.com/track/0GL2DIZoRorbVbsRejFCaW"
+      "duration_ms": 182891,
+      "name": "Vente",
+      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1729,24 +1733,20 @@
       "url": "https://open.spotify.com/track/5qQ9Hemq7CpsrDRnAgToVI"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
+      "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Vente",
-        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
+        "name": "One Of A Kind",
+        "url": "https://open.spotify.com/album/2xpSf5fa0lJ04r8Ya6g1J0"
       },
       "artists": [
         {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        },
-        {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
         }
       ],
-      "duration_ms": 182891,
-      "name": "Vente",
-      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
+      "duration_ms": 138725,
+      "name": "One Of A Kind",
+      "url": "https://open.spotify.com/track/0GL2DIZoRorbVbsRejFCaW"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1773,22 +1773,6 @@
       "url": "https://open.spotify.com/track/2SCkpXTuQOvXySjlz9O1JH"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "No Guest List",
-        "url": "https://open.spotify.com/album/6ca7Pb96E9hZh8QFCANfHs"
-      },
-      "artists": [
-        {
-          "name": "San Pacho",
-          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
-        }
-      ],
-      "duration_ms": 158906,
-      "name": "No Guest List",
-      "url": "https://open.spotify.com/track/3LKg0CXVZx5ToWLLK7ugHE"
-    },
-    {
       "added_at": "2024-01-19 05:00:00",
       "album": {
         "name": "Cruel Intentions",
@@ -1813,24 +1797,20 @@
       "url": "https://open.spotify.com/track/6UF4Bj3prR1bNu8IW8zpzh"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Keep It Real",
-        "url": "https://open.spotify.com/album/0T0Ti0o3aczJWmGY5xMh0w"
+        "name": "No Guest List",
+        "url": "https://open.spotify.com/album/6ca7Pb96E9hZh8QFCANfHs"
       },
       "artists": [
         {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        },
-        {
-          "name": "ARIA",
-          "url": "https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm"
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
         }
       ],
-      "duration_ms": 142322,
-      "name": "Keep It Real",
-      "url": "https://open.spotify.com/track/6knUSEy7DCqqUbFoUIqffY"
+      "duration_ms": 158906,
+      "name": "No Guest List",
+      "url": "https://open.spotify.com/track/3LKg0CXVZx5ToWLLK7ugHE"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1851,6 +1831,26 @@
       "duration_ms": 171968,
       "name": "Don't Wanna Fall",
       "url": "https://open.spotify.com/track/2h9uC8vTvEdUHLNHJ06Eqb"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Keep It Real",
+        "url": "https://open.spotify.com/album/0T0Ti0o3aczJWmGY5xMh0w"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        },
+        {
+          "name": "ARIA",
+          "url": "https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm"
+        }
+      ],
+      "duration_ms": 142322,
+      "name": "Keep It Real",
+      "url": "https://open.spotify.com/track/6knUSEy7DCqqUbFoUIqffY"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2229,6 +2229,26 @@
       "url": "https://open.spotify.com/track/5ZScfMuHGy2Z8Ryc3B0pXo"
     },
     {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Our Lovely City (Hands Up For Detroit)",
+        "url": "https://open.spotify.com/album/2DQm8665ssFFa5EZBI6NQx"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Matthew Dear",
+          "url": "https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto"
+        }
+      ],
+      "duration_ms": 129373,
+      "name": "Our Lovely City (Hands Up For Detroit)",
+      "url": "https://open.spotify.com/track/318Mwtl8JQAZuul9GCHJyD"
+    },
+    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Nikes On",
@@ -2253,24 +2273,20 @@
       "url": "https://open.spotify.com/track/0atyEX8Oo2UzFjsLmqN18m"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Our Lovely City (Hands Up For Detroit)",
-        "url": "https://open.spotify.com/album/2DQm8665ssFFa5EZBI6NQx"
+        "name": "Shimmy Shake",
+        "url": "https://open.spotify.com/album/5jveu2wYXFqubWHzsb5bG0"
       },
       "artists": [
         {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "Matthew Dear",
-          "url": "https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         }
       ],
-      "duration_ms": 129373,
-      "name": "Our Lovely City (Hands Up For Detroit)",
-      "url": "https://open.spotify.com/track/318Mwtl8JQAZuul9GCHJyD"
+      "duration_ms": 152195,
+      "name": "Shimmy Shake",
+      "url": "https://open.spotify.com/track/7w0JYXCfmjrnb8hhppxhMK"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2305,20 +2321,24 @@
       "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
+      "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Shimmy Shake",
-        "url": "https://open.spotify.com/album/5jveu2wYXFqubWHzsb5bG0"
+        "name": "Snare Thing",
+        "url": "https://open.spotify.com/album/1H7iXcc0qwvM6T9Lo1ogLV"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
         }
       ],
-      "duration_ms": 152195,
-      "name": "Shimmy Shake",
-      "url": "https://open.spotify.com/track/7w0JYXCfmjrnb8hhppxhMK"
+      "duration_ms": 180952,
+      "name": "Snare Thing",
+      "url": "https://open.spotify.com/track/6uIY9dQQQQmuxZheorszyW"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -2379,26 +2399,6 @@
       "duration_ms": 121874,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/6CzeYbEfvZb76PlsOVgGxR"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Snare Thing",
-        "url": "https://open.spotify.com/album/1H7iXcc0qwvM6T9Lo1ogLV"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
-        }
-      ],
-      "duration_ms": 180952,
-      "name": "Snare Thing",
-      "url": "https://open.spotify.com/track/6uIY9dQQQQmuxZheorszyW"
     }
   ],
   "unique_name": "Tech House Operator",

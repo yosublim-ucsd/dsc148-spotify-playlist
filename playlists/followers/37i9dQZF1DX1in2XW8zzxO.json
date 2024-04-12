@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 66309,
+  "2024-04-12": 66377,
   "date_first_scraped": "2022-09-22",
   "description": "Amapiano tracks to fuel your beast mode!",
   "name": "Beast Mode Amapiano",
@@ -1576,6 +1576,32 @@
     },
     {
       "album": {
+        "name": "Hakuna Matata",
+        "url": "https://open.spotify.com/album/1gD8BWuBeT5Wf5QOBN3g5L"
+      },
+      "artists": [
+        {
+          "name": "Ice Beats Slide",
+          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
+        },
+        {
+          "name": "Sbuda Maleather",
+          "url": "https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq"
+        },
+        {
+          "name": "2woBunnies",
+          "url": "https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327416,
+      "name": "JAGERMEISTER",
+      "url": "https://open.spotify.com/track/3S9FC9B3GExBXy2eIFq1tT"
+    },
+    {
+      "album": {
         "name": "JAGERMEISTER",
         "url": "https://open.spotify.com/album/5Tk2uNjYtHL9V0uEhSQAYx"
       },
@@ -1625,32 +1651,6 @@
       "duration_ms": 327416,
       "name": "JAGERMEISTER",
       "url": "https://open.spotify.com/track/67iNlrjPKMiqrpY5mTne2u"
-    },
-    {
-      "album": {
-        "name": "Hakuna Matata",
-        "url": "https://open.spotify.com/album/1gD8BWuBeT5Wf5QOBN3g5L"
-      },
-      "artists": [
-        {
-          "name": "Ice Beats Slide",
-          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
-        },
-        {
-          "name": "Sbuda Maleather",
-          "url": "https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq"
-        },
-        {
-          "name": "2woBunnies",
-          "url": "https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML"
-        }
-      ],
-      "date_added": "2024-03-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 327416,
-      "name": "JAGERMEISTER (feat. 2woBunnies)",
-      "url": "https://open.spotify.com/track/3S9FC9B3GExBXy2eIFq1tT"
     },
     {
       "album": {
@@ -2601,8 +2601,12 @@
       },
       "artists": [
         {
-          "name": "Teraphonique & DNZL444",
-          "url": "https://open.spotify.com/artist/1CCbWy2ncjMEyrbXausjKF"
+          "name": "TeraphoniQue",
+          "url": "https://open.spotify.com/artist/04oIjchSi05edEVbMQr64m"
+        },
+        {
+          "name": "DNZL444",
+          "url": "https://open.spotify.com/artist/1aBBAzFrklsARDCrA7Qpe9"
         }
       ],
       "date_added": "2024-03-15",

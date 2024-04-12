@@ -1,12 +1,12 @@
 {
   "description": "Latin tunes to get your beast mode on!",
-  "num_followers": 191841,
+  "num_followers": 192036,
   "original_name": "Beast Mode Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDM5MzYwMjQ3YmQ3N2E0MzNlODBhNTZhYjg5MjZjMTZmMDQ4MGRi",
+  "snapshot_id": "MTcxMDcxNzQ5NywwMDAwMDAwMDUyMjdjOWY1YWIzMmNlZDg4MmQ1OWNkMTYxY2VlNGUw",
   "tracks": [
     {
       "added_at": "2024-03-17 23:18:17",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 213061,
-      "name": "Efecto",
-      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
         "name": "Platonicos",
         "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 219048,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 213061,
+      "name": "Efecto",
+      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "VVS Switch",
-        "url": "https://open.spotify.com/album/7EEtDPmhHgyY5aNq62IaGg"
-      },
-      "artists": [
-        {
-          "name": "Pressure 9X19",
-          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
-        }
-      ],
-      "duration_ms": 168178,
-      "name": "VVS Switch",
-      "url": "https://open.spotify.com/track/3pEP9sPglz2hVxA8BUsB7S"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
         "name": "Si La Mami",
         "url": "https://open.spotify.com/album/79uKrGBtEMy9IhnbH3sM5c"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 176326,
       "name": "Si La Mami",
       "url": "https://open.spotify.com/track/3HEsgWS7O1kpNkNMwRA3Kg"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
+        "name": "VVS Switch",
+        "url": "https://open.spotify.com/album/7EEtDPmhHgyY5aNq62IaGg"
+      },
+      "artists": [
+        {
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
+        }
+      ],
+      "duration_ms": 168178,
+      "name": "VVS Switch",
+      "url": "https://open.spotify.com/track/3pEP9sPglz2hVxA8BUsB7S"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "Tacos Gucci",
-        "url": "https://open.spotify.com/album/2eKNfDT5uYZ3bB2ATYedD5"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Tacos Gucci",
-      "url": "https://open.spotify.com/track/1f9j6LO5166GQoE0CMA5tq"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
         "name": "Mamasota",
         "url": "https://open.spotify.com/album/4QVQv92wU7pvi5zTOStXel"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 216424,
       "name": "Mamasota",
       "url": "https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
+        "name": "Tacos Gucci",
+        "url": "https://open.spotify.com/album/2eKNfDT5uYZ3bB2ATYedD5"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Tacos Gucci",
+      "url": "https://open.spotify.com/track/1f9j6LO5166GQoE0CMA5tq"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf"
+      },
+      "artists": [
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "CRUSH",
+      "url": "https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
         "name": "LOS MARCIANOS Vol.1: Dei V Version",
         "url": "https://open.spotify.com/album/6G0d1PrCPMXe80Hjyq4D2a"
       },
@@ -1463,26 +1483,6 @@
       "duration_ms": 156640,
       "name": "PERREO LENTO",
       "url": "https://open.spotify.com/track/5WoC5tREb1zyxfmLu3RyQ7"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
-        "name": "CRUSH",
-        "url": "https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf"
-      },
-      "artists": [
-        {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "CRUSH",
-      "url": "https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
+        "name": "VVS",
+        "url": "https://open.spotify.com/album/2elH16RB2XdMs5wpP6dedX"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 164822,
+      "name": "VVS",
+      "url": "https://open.spotify.com/track/1yNa5Sd2tijUuR3hJJ8uvk"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
         "name": "Triple S",
         "url": "https://open.spotify.com/album/2Vum7fnobCUz4Ac6TsZyt4"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 192746,
       "name": "Triple S",
       "url": "https://open.spotify.com/track/57lPefSIAt3ghkfnYFj1B7"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
-        "name": "VVS",
-        "url": "https://open.spotify.com/album/2elH16RB2XdMs5wpP6dedX"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 164822,
-      "name": "VVS",
-      "url": "https://open.spotify.com/track/1yNa5Sd2tijUuR3hJJ8uvk"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "Single",
-        "url": "https://open.spotify.com/album/1lfjZUYySyfNnrpntQHVYW"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Single",
-      "url": "https://open.spotify.com/track/7cBSPzz0kNgc1ghLddrDxZ"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
         "name": "Yankee 150",
         "url": "https://open.spotify.com/album/6ufsNn6vIdR75yr6uYZW9F"
       },
@@ -1683,6 +1667,38 @@
       "duration_ms": 242667,
       "name": "Yankee 150",
       "url": "https://open.spotify.com/track/28BSTgZH1ckI8Xfy8LXaRz"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
+        "name": "R\u00c1PIDO",
+        "url": "https://open.spotify.com/album/2D5urBuawvNIrKdxO0X1pe"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "R\u00c1PIDO",
+      "url": "https://open.spotify.com/track/6peVAUzSxDlTigQw5T99O5"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
+        "name": "Single",
+        "url": "https://open.spotify.com/album/1lfjZUYySyfNnrpntQHVYW"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Single",
+      "url": "https://open.spotify.com/track/7cBSPzz0kNgc1ghLddrDxZ"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1715,22 +1731,6 @@
       "duration_ms": 201084,
       "name": "Chup\u00f3n",
       "url": "https://open.spotify.com/track/3lev2QW3nUHNuxrVstVEGj"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
-        "name": "R\u00c1PIDO",
-        "url": "https://open.spotify.com/album/2D5urBuawvNIrKdxO0X1pe"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "R\u00c1PIDO",
-      "url": "https://open.spotify.com/track/6peVAUzSxDlTigQw5T99O5"
     },
     {
       "added_at": "2024-03-17 23:18:17",
@@ -1955,6 +1955,34 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
+        "name": "GODIVA",
+        "url": "https://open.spotify.com/album/7vc6473A7yNq5PtNh6Zor9"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 219358,
+      "name": "GODIVA",
+      "url": "https://open.spotify.com/track/3DY25d8SrkLEI6Xugzf6tT"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
         "name": "Espantan (Remix)",
         "url": "https://open.spotify.com/album/0JRUGOfvqo7A2l6NYPnjY5"
       },
@@ -2011,34 +2039,6 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
-        "name": "GODIVA",
-        "url": "https://open.spotify.com/album/7vc6473A7yNq5PtNh6Zor9"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 219358,
-      "name": "GODIVA",
-      "url": "https://open.spotify.com/track/3DY25d8SrkLEI6Xugzf6tT"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
         "name": "Ni\u00f1a Bonita",
         "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
       },
@@ -2091,6 +2091,26 @@
     {
       "added_at": "2024-03-17 23:18:17",
       "album": {
+        "name": "K.D.P. (feat. YOVNGCHIMI)",
+        "url": "https://open.spotify.com/album/42oHMOi2kO849JmYhf9vSl"
+      },
+      "artists": [
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 250700,
+      "name": "K.D.P. (feat. YOVNGCHIMI)",
+      "url": "https://open.spotify.com/track/6woLMre9nBApTlIobN5Py5"
+    },
+    {
+      "added_at": "2024-03-17 23:18:17",
+      "album": {
         "name": "Reggaeto\u00f1erito",
         "url": "https://open.spotify.com/album/50V7j3NTDPwAkdTRFbjfJ9"
       },
@@ -2111,26 +2131,6 @@
       "duration_ms": 187200,
       "name": "Dale Bogueto",
       "url": "https://open.spotify.com/track/57pTW0VdhvcQUYKtHby8MD"
-    },
-    {
-      "added_at": "2024-03-17 23:18:17",
-      "album": {
-        "name": "K.D.P. (feat. YOVNGCHIMI)",
-        "url": "https://open.spotify.com/album/42oHMOi2kO849JmYhf9vSl"
-      },
-      "artists": [
-        {
-          "name": "CDobleta",
-          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 250700,
-      "name": "K.D.P. (feat. YOVNGCHIMI)",
-      "url": "https://open.spotify.com/track/6woLMre9nBApTlIobN5Py5"
     },
     {
       "added_at": "2024-03-17 23:18:17",

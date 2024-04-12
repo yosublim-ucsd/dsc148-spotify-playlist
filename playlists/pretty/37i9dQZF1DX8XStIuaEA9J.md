@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: なとり
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,457 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,545 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 59 | [escaper](https://open.spotify.com/track/2Mm4RrOBvZe7tWEeWk4R6i) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [escaper](https://open.spotify.com/album/1N6dcviDSU9kWkqHOizc1Z) | 3:19 |
 | 60 | [Kyoutou feat\. RYOKI from BE:FIRST](https://open.spotify.com/track/2IdPiAdM5pUmUMtzS1UBnJ) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa), [RYOKI](https://open.spotify.com/artist/5wTRBlhKerluU2z9KGtdFm) | [Kyoutou feat\. RYOKI from BE:FIRST](https://open.spotify.com/album/5xZRKhx7mmHb6SwlY2uPwh) | 2:56 |
 
-Snapshot ID: `MCxkMGIzMzYyNTc0NzFjMDFlNGQwYjQyNWU3NWRlN2ViMGE3NGM3NGM2`
+Snapshot ID: `MTcxMjY3NDgwMCwwMDAwMDAwMGQ1NTQ4ODY3N2Q4NWQ1OGU3NmQ1ODE1NWRhZjY0Y2Y2`

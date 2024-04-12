@@ -4,7 +4,7 @@
 
 > Piano instrumental para ajudar sua concentração na hora de ler e estudar.
 
-122 songs - 5 hr 10 min
+123 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Lofoten](https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lofoten](https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD) | 2:41 | 2024-01-09 |  |
 | [Lugn](https://open.spotify.com/track/1ClMqo1ZdAfFu5QMgF7hPB) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lugn](https://open.spotify.com/album/32Di3Yyg05ysztLJV02oYh) | 2:18 | 2024-01-09 | 2024-03-20 |
 | [Luminous](https://open.spotify.com/track/08vlEPtp1Pxz4IJWsZnMJR) | [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Luminous](https://open.spotify.com/album/1hWA2NOx6oYqSDAyiEIn3q) | 3:24 | 2024-01-09 | 2024-01-17 |
-| [Melancholy](https://open.spotify.com/track/0nE4j0wkGn5ijBPguBbZau) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Melancholy](https://open.spotify.com/album/7rrwtqNk6EUU4nVsCof0M3) | 3:34 | 2024-01-09 |  |
+| [Melancholy](https://open.spotify.com/track/0nE4j0wkGn5ijBPguBbZau) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Melancholy](https://open.spotify.com/album/7rrwtqNk6EUU4nVsCof0M3) | 3:34 | 2024-01-09 | 2024-04-12 |
 | [Metanoia](https://open.spotify.com/track/5fRCo9FZmnE92j7BnY3Win) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Metanoia](https://open.spotify.com/album/1CiQYlksvhi8cgPaFno6kl) | 2:21 | 2024-01-09 |  |
 | [Minor Fable](https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Minor Fable](https://open.spotify.com/album/4yq1sWpFO7LgofgmmPEEVC) | 2:01 | 2024-03-15 |  |
 | [Morning Dance](https://open.spotify.com/track/1HNWHlc0OfRnCCeoLAwKzJ) | [Don Sisley](https://open.spotify.com/artist/7uIga0e3GsnHK7VO4IqHq3) | [Morning Dance](https://open.spotify.com/album/3DD7atkh8NCnmAkRff4Qlt) | 2:25 | 2024-01-09 |  |
@@ -81,6 +81,7 @@
 | [Open Wings To Fly](https://open.spotify.com/track/4cYaNAmm0gtwTVAZKmANUF) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Open Wings To Fly](https://open.spotify.com/album/5Jv2ENPuHQZ2d5Eq8w6FIF) | 2:18 | 2024-01-09 |  |
 | [Other Side of The Moon](https://open.spotify.com/track/1qrvZZeUyb4a5knmgTM9v1) | [Valérie Valérie](https://open.spotify.com/artist/5anUigfub4hjAuAgrZHS25) | [Other Side of The Moon](https://open.spotify.com/album/1pGyYoSDbFxJ2r91ZQiLqb) | 2:08 | 2024-03-15 |  |
 | [Peaceful Rebellion](https://open.spotify.com/track/55as6jfARR6xn5g0ZxChCA) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Peaceful Rebellion](https://open.spotify.com/album/57Pg8ejZM8WiXzduIW1SXI) | 2:19 | 2024-01-09 |  |
+| [Perfect Timing](https://open.spotify.com/track/6LUP8h81Gl3GzEMU7OaWxZ) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Perfect Timing](https://open.spotify.com/album/3IsqmVQFD31pAnxaKjmT4i) | 2:40 | 2024-04-09 |  |
 | [Pneuma](https://open.spotify.com/track/66AEotuooy840dzHKyW9Ks) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Pneuma](https://open.spotify.com/album/264KiTwubNhJtDZByhbqKI) | 2:21 | 2024-01-09 |  |
 | [Prati](https://open.spotify.com/track/7rXBrWGuXfc64IG5gD7Kee) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Prati](https://open.spotify.com/album/0Z9iN9qKmgZe3c5RemXZBU) | 2:25 | 2024-02-27 |  |
 | [Pyramidale](https://open.spotify.com/track/2ECCRffnbDdRXwbkfBPTzP) | [Alicia Première](https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX) | [Pyramidale](https://open.spotify.com/album/2ZXnb9NFeJnwzW0wQ4jY8A) | 2:56 | 2024-01-09 |  |

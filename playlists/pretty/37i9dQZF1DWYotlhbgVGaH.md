@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 
 > It’s a swing thing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,766 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,777 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 49 | [Sausage Rock](https://open.spotify.com/track/3SDLfXpRsjCJ84xJiwnxmE) | [Four Charms](https://open.spotify.com/artist/3SQLfVTpkQNXKRueLBRDcs) | [Flatland Boogie](https://open.spotify.com/album/08kJRfomfkYlgjnlPSr5aE) | 2:28 |
 | 50 | [Do The Pup](https://open.spotify.com/track/3A7lDcfRJu8Hv9c1U5DZG4) | [Steve Lucky & The Rhumba Bums](https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS) | [Come Out Swingin'](https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g) | 4:10 |
 
-Snapshot ID: `MCw2MWJmNDU5MzAwMzNjNDg5ZTY2M2Q2NWY4MDFkNzNjMzk5MGM4ZDk4`
+Snapshot ID: `MTY5ODM3OTI2MCwwMDAwMDAwMDZjZDhkN2RhYzAwNWE1NzI2MTcyYzc0NjViMGE0MTc4`

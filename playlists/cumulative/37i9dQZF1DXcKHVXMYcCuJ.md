@@ -4,7 +4,7 @@
 
 > Gotta catch 'em all.
 
-384 songs - 1 day 0 hr 6 min
+385 songs - 1 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [17 Years](https://open.spotify.com/track/0CMEuj4U1A5hvZWhVwwEOR) | [Muskets](https://open.spotify.com/artist/16S7RJmaP2kw8xpYFvRIQH) | [Chew](https://open.spotify.com/album/572ZIrqiAkorfgaZQ0Y78e) | 3:03 | 2021-12-15 | 2022-07-29 |
 | [57](https://open.spotify.com/track/3ywDupHAH1dCdL5J6UZmWX) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Blackened Sky](https://open.spotify.com/album/3gZ42Qs2uth6ZayrsV6LyW) | 3:21 | 2022-11-02 |  |
 | [9 Volter](https://open.spotify.com/track/4K2Yn301eqRDarK6qpImmt) | [Colour Of Fire](https://open.spotify.com/artist/5ej8t8W7sivheDVZ9RtrAN) | [Pearl Necklace](https://open.spotify.com/album/5Yr4hHvdsDJ7lUjDT0QfMf) | 2:47 | 2022-01-28 | 2022-07-28 |
-| [A Modern Way of Letting Go](https://open.spotify.com/track/1fplcK4BIi4k5hzp2DJ0kt) | [Idlewild](https://open.spotify.com/artist/1xdB9gS1NrKEYgZUEfoqIw) | [The Remote Part](https://open.spotify.com/album/7zsB506W3ZKxNpjy8iIf8q) | 2:23 | 2021-12-15 |  |
+| [A Modern Way of Letting Go](https://open.spotify.com/track/1fplcK4BIi4k5hzp2DJ0kt) | [Idlewild](https://open.spotify.com/artist/1xdB9gS1NrKEYgZUEfoqIw) | [The Remote Part](https://open.spotify.com/album/7zsB506W3ZKxNpjy8iIf8q) | 2:23 | 2021-12-15 | 2024-04-12 |
 | [Abuse Me](https://open.spotify.com/track/6lgsxp4M1RmnkivCqp6kPa) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:59 | 2023-02-27 |  |
 | [Afterthought](https://open.spotify.com/track/2rXsixFU3OcaBDl2tqEZj9) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Dear Seattle](https://open.spotify.com/album/34Ir94UYwf78pBgdEtk6AL) | 4:20 | 2021-12-15 | 2023-11-23 |
 | [Airplane](https://open.spotify.com/track/246PWkuEwTNahzwBXyvrsr) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Airplane](https://open.spotify.com/album/7GNLSiqm0a7XIAsbORgOJW) | 3:25 | 2022-04-15 | 2022-07-29 |
@@ -95,6 +95,7 @@
 | [Driving Nowhere](https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 4:19 | 2021-12-15 | 2024-01-19 |
 | [Drugs](https://open.spotify.com/track/7Mh6yMRAIXYHKa7o19k6X6) | [Ammonia](https://open.spotify.com/artist/1yaf2CGmvYuUIyrsL0GZOV) | [Mint 400](https://open.spotify.com/album/4A8BiSkjO2PvMBZAXHiSby) | 3:27 | 2021-12-15 | 2024-01-19 |
 | [Ease](https://open.spotify.com/track/0i5zjtoRR0U2715BEgUsdS) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Whirr & Nothing \(Split Version\)](https://open.spotify.com/album/2wi2jzTXYzL8ospHR52IVo) | 3:26 | 2023-03-29 | 2024-04-10 |
+| [Ease](https://open.spotify.com/track/4gOGOvsQkmUCRYCWQYY3mP) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Whirr & Nothing](https://open.spotify.com/album/6pDNWot4SaDPtMLerJ3AFZ) | 3:26 | 2024-03-25 |  |
 | [Empty Eyes](https://open.spotify.com/track/3Ct9bSfkgmX7MSMI6ZsqAf) | [Dead History](https://open.spotify.com/artist/719fbHkBe8sRhnokHm56Py) | [Dead History](https://open.spotify.com/album/3WdZpSVjNj5dnVKHDWqwux) | 3:43 | 2021-12-15 | 2022-07-29 |
 | [Encore](https://open.spotify.com/track/4LdImt7hg85uPpUOPKlLAy) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balance](https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r) | 2:45 | 2021-12-15 |  |
 | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 | 2023-02-27 |  |

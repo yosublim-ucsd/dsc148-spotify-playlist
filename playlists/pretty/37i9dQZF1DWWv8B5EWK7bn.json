@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 180460,
+  "num_followers": 180504,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjY5M2NmYzE1ZThlYTNjNmE4NWI5YmFlOTJmNDcyNDJhNzdiMGYx",
+  "snapshot_id": "MTcxMTA2NTYyMCwwMDAwMDAwMGZiMTUwZWM1M2E0ODk1OGI3MDM5ZmU0YzliNTYyOGMx",
   "tracks": [
     {
       "added_at": "2024-03-20 19:29:48",
@@ -293,6 +293,22 @@
       "url": "https://open.spotify.com/track/3MFYMNksTfegCcZ1c9SlaX"
     },
     {
+      "added_at": "2023-11-23 03:03:12",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1bIkaKwrNbpDzFKVgqp8IU"
+      },
+      "artists": [
+        {
+          "name": "\u00c4TNA",
+          "url": "https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX"
+        }
+      ],
+      "duration_ms": 232750,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4ZhRddutIAnleTnvqir5LM"
+    },
+    {
       "added_at": "2022-02-04 15:20:01",
       "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
@@ -311,22 +327,6 @@
       "duration_ms": 171342,
       "name": "Log In Your Fire",
       "url": "https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN"
-    },
-    {
-      "added_at": "2023-11-23 03:03:12",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/1bIkaKwrNbpDzFKVgqp8IU"
-      },
-      "artists": [
-        {
-          "name": "\u00c4TNA",
-          "url": "https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX"
-        }
-      ],
-      "duration_ms": 232750,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/4ZhRddutIAnleTnvqir5LM"
     },
     {
       "added_at": "2022-01-14 00:51:04",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/3g5v5S6Adv3gqPpKuli6Q5"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "void beats/invocation trex",
-        "url": "https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g"
-      },
-      "artists": [
-        {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
-        }
-      ],
-      "duration_ms": 233903,
-      "name": "melody in high feedback tones",
-      "url": "https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF"
-    },
-    {
       "added_at": "2023-12-20 04:44:18",
       "album": {
         "name": "Agitprop Alterna",
@@ -759,6 +743,22 @@
       "duration_ms": 314059,
       "name": "Up and Up",
       "url": "https://open.spotify.com/track/5DICKyBTFX6rzXTRrZH6iz"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "void beats/invocation trex",
+        "url": "https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 233903,
+      "name": "melody in high feedback tones",
+      "url": "https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -841,6 +841,22 @@
       "url": "https://open.spotify.com/track/1RLMR4pVuuHEzn8mOe1U2s"
     },
     {
+      "added_at": "2023-08-24 03:26:17",
+      "album": {
+        "name": "RPG",
+        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
+      },
+      "artists": [
+        {
+          "name": "Me Lost Me",
+          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
+        }
+      ],
+      "duration_ms": 227120,
+      "name": "Heat!",
+      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
+    },
+    {
       "added_at": "2023-10-27 23:56:32",
       "album": {
         "name": "There is only love and fear",
@@ -859,38 +875,6 @@
       "duration_ms": 290026,
       "name": "Dawn blessings",
       "url": "https://open.spotify.com/track/0Qxgm4flEqA09NPyvMaM12"
-    },
-    {
-      "added_at": "2023-08-24 03:26:17",
-      "album": {
-        "name": "RPG",
-        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
-      },
-      "artists": [
-        {
-          "name": "Me Lost Me",
-          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
-        }
-      ],
-      "duration_ms": 227120,
-      "name": "Heat!",
-      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
-    },
-    {
-      "added_at": "2023-12-20 03:20:48",
-      "album": {
-        "name": "Thumbtack",
-        "url": "https://open.spotify.com/album/2K0ahxdNDQsVhCxkr9hDVg"
-      },
-      "artists": [
-        {
-          "name": "Hamond",
-          "url": "https://open.spotify.com/artist/2UnmGif8M5Hb5doxZIIDKR"
-        }
-      ],
-      "duration_ms": 130399,
-      "name": "Thumbtack",
-      "url": "https://open.spotify.com/track/67WuAkWNUHZqV8FOgDrz7R"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -923,6 +907,22 @@
       "duration_ms": 159093,
       "name": "Open the Gates",
       "url": "https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu"
+    },
+    {
+      "added_at": "2023-12-20 03:20:48",
+      "album": {
+        "name": "Thumbtack",
+        "url": "https://open.spotify.com/album/2K0ahxdNDQsVhCxkr9hDVg"
+      },
+      "artists": [
+        {
+          "name": "Hamond",
+          "url": "https://open.spotify.com/artist/2UnmGif8M5Hb5doxZIIDKR"
+        }
+      ],
+      "duration_ms": 130399,
+      "name": "Thumbtack",
+      "url": "https://open.spotify.com/track/67WuAkWNUHZqV8FOgDrz7R"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -993,6 +993,22 @@
       "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
     },
     {
+      "added_at": "2023-10-25 14:03:48",
+      "album": {
+        "name": "Snapdragon",
+        "url": "https://open.spotify.com/album/2MyGNZFL8YJ1tAvN6gryt8"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "duration_ms": 192283,
+      "name": "Snapdragon",
+      "url": "https://open.spotify.com/track/6FbfVLa5lUIJfwW9xPSB1I"
+    },
+    {
       "added_at": "2022-09-29 00:57:24",
       "album": {
         "name": "Meditations on Crime",
@@ -1017,38 +1033,6 @@
       "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
     },
     {
-      "added_at": "2023-10-25 14:03:48",
-      "album": {
-        "name": "Snapdragon",
-        "url": "https://open.spotify.com/album/2MyGNZFL8YJ1tAvN6gryt8"
-      },
-      "artists": [
-        {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
-        }
-      ],
-      "duration_ms": 192283,
-      "name": "Snapdragon",
-      "url": "https://open.spotify.com/track/6FbfVLa5lUIJfwW9xPSB1I"
-    },
-    {
-      "added_at": "2024-01-30 05:23:45",
-      "album": {
-        "name": "Fix Me",
-        "url": "https://open.spotify.com/album/5PFGLj8Y6EoBePtUmWMAuI"
-      },
-      "artists": [
-        {
-          "name": "Mary Jane Dunphe",
-          "url": "https://open.spotify.com/artist/3nHn9XdKWpfNmG7JWm1ous"
-        }
-      ],
-      "duration_ms": 241644,
-      "name": "Fix Me",
-      "url": "https://open.spotify.com/track/350Zs0oV6JzBYOg2ZpVpwy"
-    },
-    {
       "added_at": "2023-01-20 04:21:17",
       "album": {
         "name": "MERCY",
@@ -1067,6 +1051,22 @@
       "duration_ms": 420080,
       "name": "MERCY",
       "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
+    },
+    {
+      "added_at": "2024-01-30 05:23:45",
+      "album": {
+        "name": "Fix Me",
+        "url": "https://open.spotify.com/album/5PFGLj8Y6EoBePtUmWMAuI"
+      },
+      "artists": [
+        {
+          "name": "Mary Jane Dunphe",
+          "url": "https://open.spotify.com/artist/3nHn9XdKWpfNmG7JWm1ous"
+        }
+      ],
+      "duration_ms": 241644,
+      "name": "Fix Me",
+      "url": "https://open.spotify.com/track/350Zs0oV6JzBYOg2ZpVpwy"
     },
     {
       "added_at": "2022-11-17 22:51:20",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
+        "name": "Robber",
+        "url": "https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 320524,
+      "name": "Robber",
+      "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
         "name": "Rivers That You Cannot See",
         "url": "https://open.spotify.com/album/35iioCINJwSsujHf6csIMy"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 280404,
       "name": "Aplomb",
       "url": "https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Robber",
-        "url": "https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 320524,
-      "name": "Robber",
-      "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
     },
     {
       "added_at": "2024-01-03 18:45:56",
@@ -1201,22 +1201,6 @@
       "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Jacqueline",
-        "url": "https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU"
-      },
-      "artists": [
-        {
-          "name": "Jackie Lynn",
-          "url": "https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV"
-        }
-      ],
-      "duration_ms": 324022,
-      "name": "Dream St.",
-      "url": "https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t"
-    },
-    {
       "added_at": "2023-09-25 01:38:39",
       "album": {
         "name": "The Path",
@@ -1231,6 +1215,22 @@
       "duration_ms": 262560,
       "name": "The Path",
       "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Jacqueline",
+        "url": "https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU"
+      },
+      "artists": [
+        {
+          "name": "Jackie Lynn",
+          "url": "https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV"
+        }
+      ],
+      "duration_ms": 324022,
+      "name": "Dream St.",
+      "url": "https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1281,22 +1281,6 @@
       "url": "https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr"
     },
     {
-      "added_at": "2024-01-03 18:37:44",
-      "album": {
-        "name": "Dog's Life",
-        "url": "https://open.spotify.com/album/5gYTOwpIA1xyeS4olKWPPX"
-      },
-      "artists": [
-        {
-          "name": "plantoid",
-          "url": "https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd"
-        }
-      ],
-      "duration_ms": 237702,
-      "name": "Dog's Life",
-      "url": "https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "High January",
@@ -1317,6 +1301,22 @@
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
+      "added_at": "2024-01-03 18:37:44",
+      "album": {
+        "name": "Dog's Life",
+        "url": "https://open.spotify.com/album/5gYTOwpIA1xyeS4olKWPPX"
+      },
+      "artists": [
+        {
+          "name": "plantoid",
+          "url": "https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd"
+        }
+      ],
+      "duration_ms": 237702,
+      "name": "Dog's Life",
+      "url": "https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY"
+    },
+    {
       "added_at": "2023-06-05 20:56:02",
       "album": {
         "name": "Crispy Moon",
@@ -1331,6 +1331,22 @@
       "duration_ms": 363346,
       "name": "Makkuroi Mizu",
       "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
+    },
+    {
+      "added_at": "2023-01-03 23:48:36",
+      "album": {
+        "name": "Where To Put The Pain",
+        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
+      },
+      "artists": [
+        {
+          "name": "Alice Boman",
+          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
+        }
+      ],
+      "duration_ms": 234693,
+      "name": "Where To Put The Pain",
+      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
     },
     {
       "added_at": "2024-01-23 00:56:54",
@@ -1379,22 +1395,6 @@
       "duration_ms": 252557,
       "name": "Cholericly Yours",
       "url": "https://open.spotify.com/track/38AYuyUvmoEk4ww4XSVTNI"
-    },
-    {
-      "added_at": "2023-01-03 23:48:36",
-      "album": {
-        "name": "Where To Put The Pain",
-        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
-      },
-      "artists": [
-        {
-          "name": "Alice Boman",
-          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
-        }
-      ],
-      "duration_ms": 234693,
-      "name": "Where To Put The Pain",
-      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
     },
     {
       "added_at": "2023-08-08 03:45:10",
@@ -1525,22 +1525,6 @@
       "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
     },
     {
-      "added_at": "2022-01-21 20:15:30",
-      "album": {
-        "name": "Songs For Vienna",
-        "url": "https://open.spotify.com/album/5j4EVgx8biIphy8M4InK0a"
-      },
-      "artists": [
-        {
-          "name": "Cid Rim",
-          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
-        }
-      ],
-      "duration_ms": 188873,
-      "name": "Feedback Loop",
-      "url": "https://open.spotify.com/track/5LFjp7uFga0wfF7lOSSYYg"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "The Apple Drop",
@@ -1555,6 +1539,22 @@
       "duration_ms": 316413,
       "name": "Big Appetite",
       "url": "https://open.spotify.com/track/7Jvh5sZpSvxs8qLw5bUIsM"
+    },
+    {
+      "added_at": "2022-01-21 20:15:30",
+      "album": {
+        "name": "Songs For Vienna",
+        "url": "https://open.spotify.com/album/5j4EVgx8biIphy8M4InK0a"
+      },
+      "artists": [
+        {
+          "name": "Cid Rim",
+          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
+        }
+      ],
+      "duration_ms": 188873,
+      "name": "Feedback Loop",
+      "url": "https://open.spotify.com/track/5LFjp7uFga0wfF7lOSSYYg"
     },
     {
       "added_at": "2023-03-24 15:38:14",
@@ -1605,22 +1605,6 @@
       "url": "https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy"
     },
     {
-      "added_at": "2023-12-22 16:06:56",
-      "album": {
-        "name": "Nodos",
-        "url": "https://open.spotify.com/album/6Ja5JJOhoIkI7hf0r5pNlf"
-      },
-      "artists": [
-        {
-          "name": "Radiotr\u00f3nica",
-          "url": "https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN"
-        }
-      ],
-      "duration_ms": 220093,
-      "name": "Nodos",
-      "url": "https://open.spotify.com/track/5NxaaeCOluia2b0t6Kmkwf"
-    },
-    {
       "added_at": "2021-10-15 03:46:13",
       "album": {
         "name": "Vines",
@@ -1637,6 +1621,22 @@
       "url": "https://open.spotify.com/track/72SzjydU6s6oVsj2Ml1YV3"
     },
     {
+      "added_at": "2023-12-22 16:06:56",
+      "album": {
+        "name": "Nodos",
+        "url": "https://open.spotify.com/album/6Ja5JJOhoIkI7hf0r5pNlf"
+      },
+      "artists": [
+        {
+          "name": "Radiotr\u00f3nica",
+          "url": "https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN"
+        }
+      ],
+      "duration_ms": 220093,
+      "name": "Nodos",
+      "url": "https://open.spotify.com/track/5NxaaeCOluia2b0t6Kmkwf"
+    },
+    {
       "added_at": "2022-08-31 04:56:45",
       "album": {
         "name": "Sunset Dreams",
@@ -1651,6 +1651,22 @@
       "duration_ms": 215831,
       "name": "Don't Tell Me I'm Wrong",
       "url": "https://open.spotify.com/track/4NUBJ6FdoxJWGaLD5IAw5p"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "The Apple Drop",
+        "url": "https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ"
+      },
+      "artists": [
+        {
+          "name": "Liars",
+          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
+        }
+      ],
+      "duration_ms": 274626,
+      "name": "Sekwar",
+      "url": "https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd"
     },
     {
       "added_at": "2022-08-25 19:38:46",
@@ -1671,22 +1687,6 @@
       "duration_ms": 380973,
       "name": "A Liberdade \u00e9 Cara",
       "url": "https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "The Apple Drop",
-        "url": "https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ"
-      },
-      "artists": [
-        {
-          "name": "Liars",
-          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
-        }
-      ],
-      "duration_ms": 274626,
-      "name": "Sekwar",
-      "url": "https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd"
     },
     {
       "added_at": "2022-02-09 04:03:27",

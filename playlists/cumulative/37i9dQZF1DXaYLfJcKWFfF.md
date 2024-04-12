@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Baaba J
 
-198 songs - 11 hr 49 min
+199 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,13 +168,14 @@
 | [Sunset In Batumi](https://open.spotify.com/track/1Dm4dJVaraUcG5HaHVAKdU) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh), [Admeta String Quartet](https://open.spotify.com/artist/3zGI2zcyF1HEThYWHNHxzy) | [Soaring Wild Lands](https://open.spotify.com/album/71QcV4UVTjh0FBLehkuDKF) | 5:27 | 2022-02-11 | 2023-03-18 |
 | [Sunshine](https://open.spotify.com/track/5ApfOFw9J5DZ2XLKQFL8Hm) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Sunshine](https://open.spotify.com/album/4OdvBnXcegSXUJmw3Vewhl) | 2:51 | 2024-03-22 |  |
 | [Taking Things For Granted](https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Taking Things For Granted](https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN) | 3:36 | 2023-04-20 | 2023-09-22 |
-| [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 | 2023-04-20 |  |
+| [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 | 2023-04-20 | 2024-04-12 |
 | [THE VALLEY](https://open.spotify.com/track/0FUCIaGATJiBUgOrdgOpQf) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [THE VALLEY](https://open.spotify.com/album/1wXWu2bowTw4dXmSnhzHgn) | 2:07 | 2023-02-03 | 2023-03-31 |
 | [There, There, Woman](https://open.spotify.com/track/7huX4BF0SJRvf8mJmUyzFW) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [The World Is Spinning And Everyone's Dizzy](https://open.spotify.com/album/6t4K55o91hQHeihNNNJHFl) | 2:52 | 2023-06-08 | 2023-09-15 |
 | [Theysaid.](https://open.spotify.com/track/1jU9gOcHzL2FncEgneJQYD) | [Brum3h](https://open.spotify.com/artist/5kseDibp36pgGjEoOFsRFk), [Array.](https://open.spotify.com/artist/35Hb6TrgbjftU0vO14t7qF) | [Typewrit3R Vol\. 1](https://open.spotify.com/album/1s8TtslAPUXrruNLtH9Sv4) | 3:02 | 2023-09-09 | 2023-10-13 |
 | [Thunder in My Arms](https://open.spotify.com/track/3dMnczBALL9yTRKhyaeO5t) | [Lindsey Abudei](https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg) | [Kaleidoscope](https://open.spotify.com/album/5pkp8cb9oudRk0Fmdjjdve) | 2:51 | 2023-02-10 | 2023-05-05 |
 | [Thunderstorm In Surulere \- A COLORS SHOW](https://open.spotify.com/track/2kJsAjvUCXdsq4NKU27eOj) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Thunderstorm In Surulere \- A COLORS SHOW](https://open.spotify.com/album/2upZ5fvsaWPT2LHb7d9IJJ) | 3:02 | 2022-01-27 | 2022-11-26 |
 | [Tiger](https://open.spotify.com/track/5YkCm6xWVVDOujVNkjK8Vg) | [Alisha Popat](https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn) | [Tiger](https://open.spotify.com/album/5LWDDwfXxb0ggIKeElCiF1) | 2:26 | 2023-06-02 | 2023-06-09 |
+| [Tiger](https://open.spotify.com/track/6L74DRgwAPCMU5j0GRdYCZ) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Tiger](https://open.spotify.com/album/3kY0THIOcoEoQtVa0hgfaE) | 3:40 | 2024-04-12 |  |
 | [Time Heals](https://open.spotify.com/track/3X3xMPof9266qz7NvMnEXp) | [DOTTi The Deity](https://open.spotify.com/artist/1APmyJUpl7Z2JeJ2M7iMsR) | [For You Knew Me](https://open.spotify.com/album/5YW4m8EgJWTX2c4cHXAPq8) | 3:44 | 2023-05-11 | 2023-06-23 |
 | [Tinko Tinko \(Don't Play Me for a Fool\)](https://open.spotify.com/track/6f8pOnEswFwiU4FTcZicV6) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Tinko Tinko \(Don't Play Me For a Fool\)](https://open.spotify.com/album/2Dav0MhZTRuj13ZPSBYmtX) | 3:07 | 2022-03-31 | 2024-02-02 |
 | [Titi Dor](https://open.spotify.com/track/1pxGR2ebLpKBC2bS35aYdA) | [ELi A Free](https://open.spotify.com/artist/6OO7XtWXbXexb35OPRtTsE) | [Titi Dor](https://open.spotify.com/album/0d36iSQ4Z8SYTIPI9wEGAG) | 5:38 | 2021-12-09 | 2023-06-09 |

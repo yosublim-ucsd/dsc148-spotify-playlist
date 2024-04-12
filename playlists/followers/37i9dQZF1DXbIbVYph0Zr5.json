@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 637988,
+  "2024-04-12": 638195,
   "date_first_scraped": "2022-01-02",
   "description": "The perfect soundtrack recipe for a backyard barbecue!",
   "name": "Country Cookout",
@@ -3479,7 +3479,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 198208,
       "name": "Somebody Like That",
       "url": "https://open.spotify.com/track/4K7wet87HnlWKi0CXWvg1i"
@@ -3519,7 +3519,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 169586,
       "name": "Somethin' Bad (with Carrie Underwood) - Duet with Carrie Underwood [Album]",
       "url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2"

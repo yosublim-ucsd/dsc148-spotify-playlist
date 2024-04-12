@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 12388,
+  "2024-04-12": 12388,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Austria.",
   "name": "Viral 50 - Austria",
@@ -1665,7 +1665,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 123428,
       "name": "Faster n Harder",
       "url": "https://open.spotify.com/track/499mGaGmtP9U1MPGVeUOIV"
@@ -1917,7 +1917,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "F\u00fcr immer Fr\u00fchling",
       "url": "https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc"
@@ -4852,6 +4852,24 @@
     },
     {
       "album": {
+        "name": "Sommer",
+        "url": "https://open.spotify.com/album/3EX1v4zkD0cjMLgZuKjzzJ"
+      },
+      "artists": [
+        {
+          "name": "Anda Morts",
+          "url": "https://open.spotify.com/artist/4I2FyJP0zs6IPgasQVwG7r"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173026,
+      "name": "Sommer",
+      "url": "https://open.spotify.com/track/0HuEswFp8jHbDaiNn0jV4f"
+    },
+    {
+      "album": {
         "name": "SOS Verhackertbrot",
         "url": "https://open.spotify.com/album/5Qjx3Na7DRiqpyS3aY8R7y"
       },
@@ -5089,7 +5107,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 174375,
       "name": "TAKA",
       "url": "https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWYwZTZmZTU5ZWE1MGZjZDQyNTM0N2RhOTljNWM3ODM5NWFiODUz",
+  "snapshot_id": "MTcwMTM3NjIzMSwwMDAwMDAwMDdiYTY5YTQ5NGI2NTVmOTZhMGZlNTUyMjI1Mzg0Nzk4",
   "tracks": [
     {
       "added_at": "2023-11-30 20:30:31",
@@ -759,8 +759,8 @@
     {
       "added_at": "2023-11-30 20:30:31",
       "album": {
-        "name": "Al Llegar La Navidad",
-        "url": "https://open.spotify.com/album/584YXvUefVtSBELCB7pDML"
+        "name": "Voy A Pedirle A Santa Claus",
+        "url": "https://open.spotify.com/album/7cA56I7kD0crUz40sGPqtW"
       },
       "artists": [
         {
@@ -768,15 +768,15 @@
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 139722,
-      "name": "Al Llegar La Navidad",
-      "url": "https://open.spotify.com/track/4qe40waYkAOOZmW1XOpugn"
+      "duration_ms": 157042,
+      "name": "Voy A Pedirle A Santa Claus",
+      "url": "https://open.spotify.com/track/1HKXIQ2GtrOPfSoUz0e0Jk"
     },
     {
       "added_at": "2023-11-30 20:30:31",
       "album": {
-        "name": "En Esta Navidad",
-        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
+        "name": "Tristes Navidades",
+        "url": "https://open.spotify.com/album/0eHkoehUngElAFuWvDzKVc"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 250015,
-      "name": "En Esta Navidad",
-      "url": "https://open.spotify.com/track/2ZT2xtqP0co0XrHNCrFmtD"
+      "duration_ms": 239547,
+      "name": "Tristes Navidades",
+      "url": "https://open.spotify.com/track/0HloBd2QQWB51uOp4Y52WN"
     },
     {
       "added_at": "2023-11-30 20:30:31",
@@ -855,8 +855,8 @@
     {
       "added_at": "2023-11-30 20:30:31",
       "album": {
-        "name": "Voy A Pedirle A Santa Claus",
-        "url": "https://open.spotify.com/album/7cA56I7kD0crUz40sGPqtW"
+        "name": "Al Llegar La Navidad",
+        "url": "https://open.spotify.com/album/584YXvUefVtSBELCB7pDML"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 157042,
-      "name": "Voy A Pedirle A Santa Claus",
-      "url": "https://open.spotify.com/track/1HKXIQ2GtrOPfSoUz0e0Jk"
+      "duration_ms": 139722,
+      "name": "Al Llegar La Navidad",
+      "url": "https://open.spotify.com/track/4qe40waYkAOOZmW1XOpugn"
     },
     {
       "added_at": "2023-11-30 20:30:31",
@@ -939,8 +939,8 @@
     {
       "added_at": "2023-11-30 20:30:31",
       "album": {
-        "name": "Tristes Navidades",
-        "url": "https://open.spotify.com/album/0eHkoehUngElAFuWvDzKVc"
+        "name": "En Esta Navidad",
+        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
       },
       "artists": [
         {
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 239547,
-      "name": "Tristes Navidades",
-      "url": "https://open.spotify.com/track/0HloBd2QQWB51uOp4Y52WN"
+      "duration_ms": 250015,
+      "name": "En Esta Navidad",
+      "url": "https://open.spotify.com/track/2ZT2xtqP0co0XrHNCrFmtD"
     },
     {
       "added_at": "2023-11-30 20:30:31",

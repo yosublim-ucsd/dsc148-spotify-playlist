@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 130059,
+  "2024-04-12": 130101,
   "date_first_scraped": "2022-05-13",
   "description": "A selection of the finest Hip-Hop tracks from the illest Arab Rappers. Cover: Shabjdeed & Al Nather",
   "name": "Arab Hip-Hop",
@@ -2946,6 +2946,24 @@
     },
     {
       "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q"
+      },
+      "artists": [
+        {
+          "name": "Soulja",
+          "url": "https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137443,
+      "name": "Jabra Vu",
+      "url": "https://open.spotify.com/track/4lWFersonZ1v1QwwIi7ohZ"
+    },
+    {
+      "album": {
         "name": "Jack",
         "url": "https://open.spotify.com/album/6iNgrxZ8DvQOXxTaW17Ly1"
       },
@@ -4772,6 +4790,24 @@
     },
     {
       "album": {
+        "name": "PAGHIIIIIIIIIIZ",
+        "url": "https://open.spotify.com/album/3MADWJj5uRlmXYzHpZMQ9X"
+      },
+      "artists": [
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142585,
+      "name": "PAGHIIIIIIIIIIZ",
+      "url": "https://open.spotify.com/track/6I1Nu4OyIr7xnja8tAOBGf"
+    },
+    {
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/3m0HTUkwIf64MyLbCfi3dR"
       },
@@ -5099,7 +5135,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 195500,
       "name": "Rawq Elmanga",
       "url": "https://open.spotify.com/track/2hB2WISY87CjgjY3YNaJpt"
@@ -5219,7 +5255,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 113857,
       "name": "Ronaldo",
       "url": "https://open.spotify.com/track/4VFOroA9oZTguLwg7dKDLL"
@@ -6467,7 +6503,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 183809,
       "name": "Unique",
       "url": "https://open.spotify.com/track/4SIEgCDS7h90gFP5MEU4ai"
@@ -7951,6 +7987,28 @@
       "duration_ms": 164863,
       "name": "\u0646\u0648\u0631 \u0648 \u0638\u0644\u0645\u0629",
       "url": "https://open.spotify.com/track/7Ch8thcNJEUIPZX607DNtu"
+    },
+    {
+      "album": {
+        "name": "\u0647\u062c\u0645\u0629 \u0645\u0631\u062a\u062f\u0629",
+        "url": "https://open.spotify.com/album/3jnX7VGsqap7ywQ7tGHCUr"
+      },
+      "artists": [
+        {
+          "name": "Dafencii",
+          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
+        },
+        {
+          "name": "Soulja",
+          "url": "https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169041,
+      "name": "\u0647\u062c\u0645\u0629 \u0645\u0631\u062a\u062f\u0629",
+      "url": "https://open.spotify.com/track/1EvuN2Orgy4wmNw4I5YwVS"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 22621,
+  "num_followers": 22628,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODkwYTdkNTFjYWVmMDYzMmY3YzZmMzY1OGMxM2U3OTM2MTFlZmJk",
+  "snapshot_id": "MTcxMjI2MTcxNywwMDAwMDAwMDA0Yzg0NDY0NWY0OTQ1N2ZlZmJmZTA0OWZiZWIwOTc1",
   "tracks": [
     {
       "added_at": "2024-04-04 20:15:17",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
+        "name": "Sherlock - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "duration_ms": 239186,
+      "name": "Sherlock (Clue + Note)",
+      "url": "https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 216786,
       "name": "All I Wanna Do (K) (Feat. Hoody & Loco)",
       "url": "https://open.spotify.com/track/2FWquqPNxte8iqZ3ATQG0p"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
-        "name": "Sherlock - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ"
-      },
-      "artists": [
-        {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
-        }
-      ],
-      "duration_ms": 239186,
-      "name": "Sherlock (Clue + Note)",
-      "url": "https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "Another Miss Oh, Pt. 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 272847,
-      "name": "If It Is You",
-      "url": "https://open.spotify.com/track/5i6gHFXg4aLK5xvc2jJJC5"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
         "name": "AH YEAH",
         "url": "https://open.spotify.com/album/54r8xseUAz0c9ORidjAKmZ"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 189882,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/6BKOhvRPY54uvfqWwg7MKi"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
+        "name": "Another Miss Oh, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 272847,
+      "name": "If It Is You",
+      "url": "https://open.spotify.com/track/5i6gHFXg4aLK5xvc2jJJC5"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "My Love From the Star Part 7",
-        "url": "https://open.spotify.com/album/76Ke9tCgKmlQTG2Nb810O0"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 243323,
-      "name": "Every moment of you",
-      "url": "https://open.spotify.com/track/2tY05I4MCH2eKnWTITUspC"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
         "name": "Odd - The 4th Album",
         "url": "https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 190821,
       "name": "View",
       "url": "https://open.spotify.com/track/46E1ic6n099e76t5J1TbHn"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
+        "name": "My Love From the Star Part 7",
+        "url": "https://open.spotify.com/album/76Ke9tCgKmlQTG2Nb810O0"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 243323,
+      "name": "Every moment of you",
+      "url": "https://open.spotify.com/track/2tY05I4MCH2eKnWTITUspC"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "Mama - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
-      },
-      "artists": [
-        {
-          "name": "EXO-K",
-          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
-        }
-      ],
-      "duration_ms": 270452,
-      "name": "MAMA",
-      "url": "https://open.spotify.com/track/1EvB6tE5CHluLZaWm3r0bT"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
         "name": "My Last Love OST Part.4",
         "url": "https://open.spotify.com/album/58CBwM98Y356zD5AVGZkZG"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "Invitation",
-        "url": "https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd"
+        "name": "Mama - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
       },
       "artists": [
         {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+          "name": "EXO-K",
+          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
         }
       ],
-      "duration_ms": 233813,
-      "name": "\ubcf4\uc5ec\uc904\uac8c",
-      "url": "https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ"
+      "duration_ms": 270452,
+      "name": "MAMA",
+      "url": "https://open.spotify.com/track/1EvB6tE5CHluLZaWm3r0bT"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -1091,6 +1075,22 @@
       "duration_ms": 206706,
       "name": "Why So Lonely",
       "url": "https://open.spotify.com/track/2FBNkgK3GbF2tVWxKNFRjX"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
+        "name": "Invitation",
+        "url": "https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "\ubcf4\uc5ec\uc904\uac8c",
+      "url": "https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -1599,26 +1599,18 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "BERMUDA TRIANGLE",
-        "url": "https://open.spotify.com/album/7BUHltdya9h5Qv0qI2xvhX"
+        "name": "\uc798\ubabb\ud588\uc5b4",
+        "url": "https://open.spotify.com/album/1uo769ES4151A4n9tu9uly"
       },
       "artists": [
         {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+          "name": "2AM",
+          "url": "https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos"
         }
       ],
-      "duration_ms": 207026,
-      "name": "BERMUDA TRIANGLE",
-      "url": "https://open.spotify.com/track/0hRVm06wtH5HsmPetg1W9t"
+      "duration_ms": 195906,
+      "name": "\uc8fd\uc5b4\ub3c4 \ubabb \ubcf4\ub0b4",
+      "url": "https://open.spotify.com/track/0QqKvFZeDz117QeOJiZqpl"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -1639,18 +1631,26 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "\uc798\ubabb\ud588\uc5b4",
-        "url": "https://open.spotify.com/album/1uo769ES4151A4n9tu9uly"
+        "name": "BERMUDA TRIANGLE",
+        "url": "https://open.spotify.com/album/7BUHltdya9h5Qv0qI2xvhX"
       },
       "artists": [
         {
-          "name": "2AM",
-          "url": "https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos"
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
         }
       ],
-      "duration_ms": 195906,
-      "name": "\uc8fd\uc5b4\ub3c4 \ubabb \ubcf4\ub0b4",
-      "url": "https://open.spotify.com/track/0QqKvFZeDz117QeOJiZqpl"
+      "duration_ms": 207026,
+      "name": "BERMUDA TRIANGLE",
+      "url": "https://open.spotify.com/track/0hRVm06wtH5HsmPetg1W9t"
     }
   ],
   "unique_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",

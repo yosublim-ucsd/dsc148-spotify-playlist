@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 51133,
+  "2024-04-12": 51182,
   "date_first_scraped": "2024-04-08",
   "description": "Les sons les plus frais du Rap Tunisien sont ici. Cover : Samara",
   "name": "RapTounsi",
@@ -231,7 +231,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 238153,
       "name": "Classe S",
       "url": "https://open.spotify.com/track/1iva2ug5cxsrWL1WrmpwrK"
@@ -929,6 +929,24 @@
       "duration_ms": 207138,
       "name": "Wahda x2",
       "url": "https://open.spotify.com/track/5vZXSl3qJro0cieaZ0xFYt"
+    },
+    {
+      "album": {
+        "name": "Wasitkom",
+        "url": "https://open.spotify.com/album/6pAdQjbshmsr3YTzVGebVz"
+      },
+      "artists": [
+        {
+          "name": "Samara",
+          "url": "https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357209,
+      "name": "Wasitkom",
+      "url": "https://open.spotify.com/track/3cRvl8WM9Rqn4J92Ud3tSa"
     },
     {
       "album": {

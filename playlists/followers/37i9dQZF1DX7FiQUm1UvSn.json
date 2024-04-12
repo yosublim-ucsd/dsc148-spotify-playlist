@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 104551,
+  "2024-04-12": 104607,
   "date_first_scraped": "2023-02-15",
   "description": "The best soundtrack to relax and stretch your body before or after training!",
   "name": "Stretching",
@@ -647,10 +647,28 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 243453,
       "name": "Cool",
       "url": "https://open.spotify.com/track/0B6Gf49UuiyYiKM3cCdfzW"
+    },
+    {
+      "album": {
+        "name": "Cool",
+        "url": "https://open.spotify.com/album/4R5WjtyRwOjs0iNi2pD0MZ"
+      },
+      "artists": [
+        {
+          "name": "Bo Armstrong",
+          "url": "https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243453,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/6lF7TSRbGXhSQhGWQyvBaX"
     },
     {
       "album": {

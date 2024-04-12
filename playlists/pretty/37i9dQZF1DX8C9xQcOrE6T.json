@@ -1,12 +1,12 @@
 {
   "description": "All your favorite Disney hits, including songs from Wish.",
-  "num_followers": 5318064,
+  "num_followers": 5318843,
   "original_name": "Disney Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTg4OTdkODM1MjA1ZGI2YTVjMmVhZWNkZTQ5MGM2MTc5YjExYzlh",
+  "snapshot_id": "MTcxMjg4NTUxMCwwMDAwMDAwMGUzZGE0ZGEzMWI3MDRjMjM5MjMzNjQ4YTE5NDkyZmUy",
   "tracks": [
     {
       "added_at": "2024-01-08 22:56:36",
@@ -187,6 +187,30 @@
       "duration_ms": 216120,
       "name": "We Don't Talk About Bruno",
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
+    },
+    {
+      "added_at": "2024-04-12 01:31:50",
+      "album": {
+        "name": "Wish (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao"
+      },
+      "artists": [
+        {
+          "name": "Chris Pine",
+          "url": "https://open.spotify.com/artist/5ueYs7bR3niiOeZdOSge5e"
+        },
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 198920,
+      "name": "At All Costs",
+      "url": "https://open.spotify.com/track/1233MOKLpbc9qjNN31vpl4"
     },
     {
       "added_at": "2024-01-08 22:56:36",
@@ -383,6 +407,30 @@
       "duration_ms": 194160,
       "name": "This Is The Thanks I Get?! - From \"Wish\"",
       "url": "https://open.spotify.com/track/5jzCoRQd6YsKNWy4S3SUsx"
+    },
+    {
+      "added_at": "2024-04-12 01:31:50",
+      "album": {
+        "name": "Wish (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao"
+      },
+      "artists": [
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        },
+        {
+          "name": "Wish - Cast",
+          "url": "https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 165173,
+      "name": "This Wish (Reprise)",
+      "url": "https://open.spotify.com/track/468xdCSM8P7WST9MV67RrB"
     },
     {
       "added_at": "2024-01-08 22:56:36",

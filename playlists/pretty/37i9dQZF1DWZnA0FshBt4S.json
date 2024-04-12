@@ -1,12 +1,12 @@
 {
   "description": "The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk",
-  "num_followers": 106478,
+  "num_followers": 106527,
   "original_name": "Youth Group Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2QzZjk4Y2FmNmZmNTUwYTZmZWQyMjRjYTQxNjdmZTQ4YTJhMWQ5",
+  "snapshot_id": "MTY4NjkxOTUzOCwwMDAwMDAwMDEzZDM1ODEwODNiNmM5ZWRhZWYzZTgxNjY5NjRjNjM0",
   "tracks": [
     {
       "added_at": "2023-02-01 04:53:20",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
+        "name": "Access:d - Live Worship In The Key Of D",
+        "url": "https://open.spotify.com/album/78xZy7Krg7f5kDiWh8QuBF"
+      },
+      "artists": [
+        {
+          "name": "Delirious?",
+          "url": "https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF"
+        }
+      ],
+      "duration_ms": 259924,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/2CgWrGgBty31yIRLNTLxKq"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
         "name": "Larue",
         "url": "https://open.spotify.com/album/2lXKV7Rs6akfjT4bfugIly"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 237266,
       "name": "Thicker",
       "url": "https://open.spotify.com/track/5xYOwMkV5NGUYz2lfhR4se"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
-        "name": "Access:d - Live Worship In The Key Of D",
-        "url": "https://open.spotify.com/album/78xZy7Krg7f5kDiWh8QuBF"
-      },
-      "artists": [
-        {
-          "name": "Delirious?",
-          "url": "https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF"
-        }
-      ],
-      "duration_ms": 259924,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/2CgWrGgBty31yIRLNTLxKq"
     },
     {
       "added_at": "2023-02-01 04:53:20",

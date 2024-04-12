@@ -4,7 +4,7 @@
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-219 songs - 13 hr 32 min
+220 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Red Right Hand \- 2011 Remastered Version](https://open.spotify.com/track/0TiYwuMsemJ0Q9JLWxTjSx) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Lovely Creatures \- The Best of Nick Cave and The Bad Seeds \(1984\-2014\) \[Deluxe Edition\]](https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf) | 6:10 | 2022-06-06 | 2022-11-13 |
 | [Red Right Hand \- 2011 Remastered Version](https://open.spotify.com/track/0qHeP8zt2WWef7EWCs1ECj) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In \(2011 Remastered Version\)](https://open.spotify.com/album/0Ewp4PEIzkcAyrC463a5xF) | 6:10 | 2022-06-06 | 2023-11-04 |
 | [Ribbon](https://open.spotify.com/track/5bR0R96OeLHG8mVS1SRh6I) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Ribbon](https://open.spotify.com/album/4PWmQ9k3FPJKHuOQB2PJ6A) | 3:36 | 2021-08-16 | 2022-07-28 |
-| [Ribbon](https://open.spotify.com/track/6CD7BVEDI5WpYVwAs30Opk) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Ribbon](https://open.spotify.com/album/0BcwJa98MGRTBiHpmNqEHl) | 3:36 | 2022-06-06 |  |
+| [Ribbon](https://open.spotify.com/track/6CD7BVEDI5WpYVwAs30Opk) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Ribbon](https://open.spotify.com/album/0BcwJa98MGRTBiHpmNqEHl) | 3:36 | 2022-06-06 | 2024-04-12 |
 | [Rosie](https://open.spotify.com/track/07JyD08sM6AbyV4b15AExB) | [Bruce Peninsula](https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe) | [Small Town Murder Songs \- Original Soundtrack](https://open.spotify.com/album/0OLNuLgxVRr9EZk98NcfeZ) | 3:12 | 2021-08-16 | 2022-07-29 |
 | [Run On](https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz) | [Jamie Bower](https://open.spotify.com/artist/7GIZ7nZRCs6XrIsXL2UZO1), [King Sugar](https://open.spotify.com/artist/4bh1NXuxdUD1TV3w3M75aP) | [Run On](https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk) | 3:32 | 2022-07-11 |  |
 | [Saint Elizabeth](https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 3:59 | 2022-06-06 |  |
@@ -198,6 +198,7 @@
 | [Stuck In The South](https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Beyond The Bloodhounds](https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8) | 3:07 | 2022-06-06 | 2023-06-18 |
 | [Sun to Sun](https://open.spotify.com/track/0ocOl2Z35YlNbPRRMEgpd2) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Sorrow Bound](https://open.spotify.com/album/0myjOWBNRcumLchBSeZCDj) | 2:04 | 2021-08-16 | 2022-07-29 |
 | [Sweet Breath](https://open.spotify.com/track/0j6DlCKhJgJNmwIUoTvgAr) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [Fern Girl and Ice Man](https://open.spotify.com/album/3FX9ygnFTCdOIOgCmC4wVt) | 3:03 | 2021-08-16 | 2022-07-29 |
+| [Sweet Breath](https://open.spotify.com/track/3KhytjuhiOfB4XQcPeAGR1) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [Fern Girl and Ice Man](https://open.spotify.com/album/7A9Nai9GMwQhgvBwtuexAo) | 3:03 | 2024-02-16 |  |
 | [The Angry River \(feat\. Father John Misty and S.I\. Istwa\) \[Theme From the HBO Series True Detective\]](https://open.spotify.com/track/3tEL74JlN4OT9YPoNx5eRI) | [The Hat](https://open.spotify.com/artist/0UiSKMMZHzAvON7xNNeTnh), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT), [S.I\. Istwa](https://open.spotify.com/artist/23DkZl7xuseePWZqXE1qUr) | [The Angry River \(feat\. Father John Misty and S.I\. Istwa\) \[Theme From the HBO Series True Detective\]](https://open.spotify.com/album/795JPmab0nbSSraMlxBHF0) | 2:55 | 2022-06-06 |  |
 | [The Angry River \(feat\. Father John Misty and S.I\. Istwa\) \[Theme From the HBO® Series True Detective\]](https://open.spotify.com/track/1gZmLcA6IqI4YGhKIfFO8E) | [The Hat](https://open.spotify.com/artist/0UiSKMMZHzAvON7xNNeTnh), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT), [S.I\. Istwa](https://open.spotify.com/artist/23DkZl7xuseePWZqXE1qUr) | [The Angry River \(feat\. Father John Misty and S.I\. Istwa\) \[From the HBO® Series True Detective\]](https://open.spotify.com/album/5bCMuYl8KZARE7qDtwM4EN) | 2:55 | 2021-08-16 | 2022-07-29 |
 | [The Beast](https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [The Dark](https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v) | 3:00 | 2021-08-16 |  |

@@ -368,10 +368,28 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 113548,
       "name": "Omae Wa Mou",
       "url": "https://open.spotify.com/track/1pewjJW8CyqdnrdFoXXO0B"
+    },
+    {
+      "album": {
+        "name": "Omae Wa Mou",
+        "url": "https://open.spotify.com/album/32pkaIIjtHTzIS9Snl7eEp"
+      },
+      "artists": [
+        {
+          "name": "deadman \u6b7b\u4eba",
+          "url": "https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113548,
+      "name": "Omae Wa Mou",
+      "url": "https://open.spotify.com/track/3czTBcZWn9VP9sKrnLXi8D"
     },
     {
       "album": {

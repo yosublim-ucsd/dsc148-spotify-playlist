@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Duquesa
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,192 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,223 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 75 | [Set Ajc 2](https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [Set Ajc 2](https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm) | 4:25 |
 | 76 | [Nega Doce](https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Nega Doce](https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ) | 2:16 |
 
-Snapshot ID: `MCw4MDUyNzIzYzU3ODYwZmU0OGNhYTJjODJiZjc5MmIyY2QyM2EyN2My`
+Snapshot ID: `MTcxMjMxNDU2OSwwMDAwMDAwMGYwOTk0MDlhYzlhNjlhYzExNmJmODQxYWIxOGFjMmRk`

@@ -4,7 +4,7 @@
 
 > This is our playground! 🪩
 
-393 songs - 1 day 11 hr 21 min
+394 songs - 1 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Revision](https://open.spotify.com/track/6Sx4f9KKwMl2YRguEqiL0A) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Revision](https://open.spotify.com/album/5zfHOeT9bFwQQm8H95crzB) | 7:13 | 2023-01-13 | 2023-05-04 |
 | [Rhythm \(Of The Night\)](https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Rhythm \(Of The Night\)](https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW) | 3:21 | 2022-11-14 |  |
 | [Riddm \- DJ ÆDIDIAS Remix](https://open.spotify.com/track/6AlWtGphjy0VWq2mpOEWqe) | [No\_4mat](https://open.spotify.com/artist/0KWgRtUbQXSiICkWp7g213), [Mantis Hands](https://open.spotify.com/artist/1iqF9deWyPSHS48JzVFUk4), [DJ ÆDIDIAS](https://open.spotify.com/artist/0w6ZceEXUiil9lGTzZRAAZ) | [Riddm \(DJ ÆDIDIAS Remix\)](https://open.spotify.com/album/0PXrQobfWuMfNFP460wJso) | 4:07 | 2022-04-15 | 2022-04-21 |
+| [Rider](https://open.spotify.com/track/4r0HVrlaSAFx4usOEXEf2G) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Rider](https://open.spotify.com/album/49R5umJQYx9Gk02aamMFsv) | 3:49 | 2024-04-11 |  |
 | [RIDERS ON THE STORM](https://open.spotify.com/track/6X9FcXuVtEUMaZrgcXING2) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [RIDERS ON THE STORM](https://open.spotify.com/album/1NW9uJa0pdHCzueCxOFUQS) | 5:10 | 2023-08-30 |  |
 | [Rise Of The 2nd Sun](https://open.spotify.com/track/12cknKcAEanf3PlwPOYvg5) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rise Of The 2nd Sun](https://open.spotify.com/album/2vcdcwvURyhYMkh8P0wfJT) | 7:05 | 2023-04-07 |  |
 | [Rituals](https://open.spotify.com/track/4AgbFfaJGqz7vBCpmapJQO) | [Steand](https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI), [Andy Kulter](https://open.spotify.com/artist/2wHIfsNcNgN0dKxYa2XOF6) | [Rituals](https://open.spotify.com/album/6aPY8GoHHfEUv1aVMMf58J) | 5:57 | 2023-01-13 | 2023-02-04 |
@@ -312,7 +313,7 @@
 | [Save The Rave](https://open.spotify.com/track/0F98k4uhiiQhyCMKojTkFB) | [Lexy & K\-Paul](https://open.spotify.com/artist/5Jpy5UevFNksfrxNyE7tcE) | [Save The Rave](https://open.spotify.com/album/3lejIMtfZWGjcSGSBroPrY) | 6:07 | 2022-05-20 | 2022-06-22 |
 | [Serendipity](https://open.spotify.com/track/6qw42FVO2fhF0C8EetLU09) | [Mila Journée](https://open.spotify.com/artist/3CnCN1QeftBXVbsXWmmNyB) | [Serendipity](https://open.spotify.com/album/6ddinwnruM1OHC70UzZxiQ) | 6:08 | 2022-11-15 | 2022-11-26 |
 | [Set My Mind Free](https://open.spotify.com/track/6YG9ny9p9PmMjIyJ0B1pVw) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Set My Mind Free](https://open.spotify.com/album/3ecx2vhbNcocjrQ0M74TnO) | 3:00 | 2022-10-07 |  |
-| [She Could!](https://open.spotify.com/track/1twqQpzBuaDtwfAU7CXH9d) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo) | [She Could!](https://open.spotify.com/album/1lrDC0vFrAASm3z1K3iTW5) | 7:04 | 2022-11-14 |  |
+| [She Could!](https://open.spotify.com/track/1twqQpzBuaDtwfAU7CXH9d) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo) | [She Could!](https://open.spotify.com/album/1lrDC0vFrAASm3z1K3iTW5) | 7:04 | 2022-11-14 | 2024-04-12 |
 | [Shelter](https://open.spotify.com/track/2scX5RdL0wByroF3sCBzDX) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Belonging](https://open.spotify.com/album/3HOoATRaFgwq2VsAaWvmbh) | 4:14 | 2024-02-08 |  |
 | [Shinsetsu](https://open.spotify.com/track/54H6bHNXRVxBuLmZADtRkV) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Shinsetsu](https://open.spotify.com/album/6UqkzKbzEYtSYUtcA0Z2ED) | 8:03 | 2022-04-15 | 2022-07-29 |
 | [Si Soy Fuego](https://open.spotify.com/track/6oa8rEFHMIrYpHh3AmsaMa) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Si Soy Fuego](https://open.spotify.com/album/4kqAFegAsBLlAr9mWWOqOE) | 5:20 | 2022-04-15 | 2024-01-23 |

@@ -1,12 +1,12 @@
 {
   "description": "A little alt, folk, and indie rock sprinkled into this delicious melting pot. Cover: Hozier",
-  "num_followers": 468369,
+  "num_followers": 468387,
   "original_name": "Rockin' Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Nzk1MTExZDA1NjNjMjcwNjZlZmU0MjgxZDQyYTBlOTdhMTZmOWQz",
+  "snapshot_id": "MTcxMjMzMzUxMiwwMDAwMDAwMGNkZTk0ODExZmY3YzkwODQzNDJhMGU4OWVmMzliZGFj",
   "tracks": [
     {
       "added_at": "2024-04-05 16:11:52",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-04-05 16:11:52",
       "album": {
-        "name": "Lord of the Flies & Birds & Bees",
-        "url": "https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj"
-      },
-      "artists": [
-        {
-          "name": "TALK",
-          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
-        }
-      ],
-      "duration_ms": 213753,
-      "name": "Run Away to Mars",
-      "url": "https://open.spotify.com/track/5ssnt7GzfLILpZkNQ0oU3U"
-    },
-    {
-      "added_at": "2024-04-05 16:11:52",
-      "album": {
         "name": "So Sick Of Dreaming",
         "url": "https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 232080,
       "name": "So Sick Of Dreaming",
       "url": "https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh"
+    },
+    {
+      "added_at": "2024-04-05 16:11:52",
+      "album": {
+        "name": "Lord of the Flies & Birds & Bees",
+        "url": "https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "duration_ms": 213753,
+      "name": "Run Away to Mars",
+      "url": "https://open.spotify.com/track/5ssnt7GzfLILpZkNQ0oU3U"
     },
     {
       "added_at": "2024-04-05 16:11:52",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-04-05 16:11:52",
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 280130,
-      "name": "King",
-      "url": "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK"
-    },
-    {
-      "added_at": "2024-04-05 16:11:52",
-      "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 183466,
       "name": "Leader of the Pack",
       "url": "https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu"
+    },
+    {
+      "added_at": "2024-04-05 16:11:52",
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 280130,
+      "name": "King",
+      "url": "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK"
     },
     {
       "added_at": "2024-04-05 16:11:52",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-04-05 16:11:52",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
-    },
-    {
-      "added_at": "2024-04-05 16:11:52",
-      "album": {
         "name": "Just Like A Movie",
         "url": "https://open.spotify.com/album/5kEqBFvXUsZMTGS8F8U60y"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 198034,
       "name": "Just Like A Movie",
       "url": "https://open.spotify.com/track/2BTch3q4AJMKfgRPUXrK1E"
+    },
+    {
+      "added_at": "2024-04-05 16:11:52",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
     },
     {
       "added_at": "2024-04-05 16:11:52",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-04-05 16:11:52",
       "album": {
+        "name": "Sometimes, Forever",
+        "url": "https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 250053,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/5gG1tBzjqPWXTevct5kaLX"
+    },
+    {
+      "added_at": "2024-04-05 16:11:52",
+      "album": {
         "name": "The Love Still Held Me Near",
         "url": "https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym"
       },
@@ -1003,18 +1019,18 @@
     {
       "added_at": "2024-04-05 16:11:52",
       "album": {
-        "name": "Sometimes, Forever",
-        "url": "https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn"
+        "name": "Mood Swings",
+        "url": "https://open.spotify.com/album/7sVfGWfXF2C97KvHHw3Voa"
       },
       "artists": [
         {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
         }
       ],
-      "duration_ms": 250053,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/5gG1tBzjqPWXTevct5kaLX"
+      "duration_ms": 263933,
+      "name": "Delilah",
+      "url": "https://open.spotify.com/track/7v4FF3DWuUfRecyXWCgoQY"
     },
     {
       "added_at": "2024-04-05 16:11:52",
@@ -1083,6 +1099,22 @@
     {
       "added_at": "2024-04-05 16:11:52",
       "album": {
+        "name": "Council Skies",
+        "url": "https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f"
+      },
+      "artists": [
+        {
+          "name": "Noel Gallagher's High Flying Birds",
+          "url": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L"
+        }
+      ],
+      "duration_ms": 233164,
+      "name": "Easy Now",
+      "url": "https://open.spotify.com/track/3i3LMvWC04mFEdiFJfqPfH"
+    },
+    {
+      "added_at": "2024-04-05 16:11:52",
+      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -1099,18 +1131,18 @@
     {
       "added_at": "2024-04-05 16:11:52",
       "album": {
-        "name": "Council Skies",
-        "url": "https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f"
+        "name": "The Cannonballers",
+        "url": "https://open.spotify.com/album/12T59Aqwe8DMlcmZrOHpQW"
       },
       "artists": [
         {
-          "name": "Noel Gallagher's High Flying Birds",
-          "url": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L"
+          "name": "Colony House",
+          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
         }
       ],
-      "duration_ms": 233164,
-      "name": "Easy Now",
-      "url": "https://open.spotify.com/track/3i3LMvWC04mFEdiFJfqPfH"
+      "duration_ms": 172000,
+      "name": "Cannonballers",
+      "url": "https://open.spotify.com/track/2f0uekb8fxtGo8eRGFVM2B"
     },
     {
       "added_at": "2024-04-05 16:11:52",
@@ -1147,38 +1179,6 @@
     {
       "added_at": "2024-04-05 16:11:52",
       "album": {
-        "name": "The Cannonballers",
-        "url": "https://open.spotify.com/album/12T59Aqwe8DMlcmZrOHpQW"
-      },
-      "artists": [
-        {
-          "name": "Colony House",
-          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Cannonballers",
-      "url": "https://open.spotify.com/track/2f0uekb8fxtGo8eRGFVM2B"
-    },
-    {
-      "added_at": "2024-04-05 16:11:52",
-      "album": {
-        "name": "Mood Swings",
-        "url": "https://open.spotify.com/album/7sVfGWfXF2C97KvHHw3Voa"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "Delilah",
-      "url": "https://open.spotify.com/track/7v4FF3DWuUfRecyXWCgoQY"
-    },
-    {
-      "added_at": "2024-04-05 16:11:52",
-      "album": {
         "name": "Psychos",
         "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
       },
@@ -1191,22 +1191,6 @@
       "duration_ms": 185120,
       "name": "Psychos",
       "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
-    },
-    {
-      "added_at": "2024-04-05 16:11:52",
-      "album": {
-        "name": "Cousin",
-        "url": "https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "Evicted",
-      "url": "https://open.spotify.com/track/2VxHh66fLYCJgKVOs56AY5"
     },
     {
       "added_at": "2024-04-05 16:11:52",
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2024-04-05 16:11:52",
       "album": {
+        "name": "Cousin",
+        "url": "https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "Evicted",
+      "url": "https://open.spotify.com/track/2VxHh66fLYCJgKVOs56AY5"
+    },
+    {
+      "added_at": "2024-04-05 16:11:52",
+      "album": {
         "name": "Virginia (Wind In The Night)",
         "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
       },
@@ -1239,22 +1239,6 @@
       "duration_ms": 205293,
       "name": "Virginia (Wind In The Night)",
       "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
-    },
-    {
-      "added_at": "2024-04-05 16:11:52",
-      "album": {
-        "name": "Oregon / Harvard",
-        "url": "https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 198413,
-      "name": "Oregon",
-      "url": "https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13"
     },
     {
       "added_at": "2024-04-05 16:11:52",
@@ -1307,22 +1291,6 @@
     {
       "added_at": "2024-04-05 16:11:52",
       "album": {
-        "name": "Household Name",
-        "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
-      },
-      "artists": [
-        {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
-        }
-      ],
-      "duration_ms": 238360,
-      "name": "Speeding 72",
-      "url": "https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0"
-    },
-    {
-      "added_at": "2024-04-05 16:11:52",
-      "album": {
         "name": "Back to Moon Beach",
         "url": "https://open.spotify.com/album/34ZmHgTZ7OcRCsrTqbHpSQ"
       },
@@ -1339,18 +1307,34 @@
     {
       "added_at": "2024-04-05 16:11:52",
       "album": {
-        "name": "Weathervanes",
-        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
+        "name": "Oregon / Harvard",
+        "url": "https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I"
       },
       "artists": [
         {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
         }
       ],
-      "duration_ms": 237703,
-      "name": "When We Were Close",
-      "url": "https://open.spotify.com/track/4QsXlCYFMNpVUzSR9UwWup"
+      "duration_ms": 198413,
+      "name": "Oregon",
+      "url": "https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13"
+    },
+    {
+      "added_at": "2024-04-05 16:11:52",
+      "album": {
+        "name": "Household Name",
+        "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 238360,
+      "name": "Speeding 72",
+      "url": "https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0"
     },
     {
       "added_at": "2024-04-05 16:11:52",
@@ -1367,6 +1351,22 @@
       "duration_ms": 256336,
       "name": "Empty Nest",
       "url": "https://open.spotify.com/track/47t8l6TmVhY1QZBveAEcWR"
+    },
+    {
+      "added_at": "2024-04-05 16:11:52",
+      "album": {
+        "name": "Weathervanes",
+        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 237703,
+      "name": "When We Were Close",
+      "url": "https://open.spotify.com/track/4QsXlCYFMNpVUzSR9UwWup"
     },
     {
       "added_at": "2024-04-05 16:11:52",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-04-05 16:11:52",
       "album": {
+        "name": "I Am The Lightning",
+        "url": "https://open.spotify.com/album/3YOjMrvWQbrTk9TodyU24C"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "I Am The Lightning",
+      "url": "https://open.spotify.com/track/0Sm3zpAqwYVIMULTJIZSGx"
+    },
+    {
+      "added_at": "2024-04-05 16:11:52",
+      "album": {
         "name": "Long Way",
         "url": "https://open.spotify.com/album/138D9C9ojnHr0p8zPTELvd"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 164245,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5"
-    },
-    {
-      "added_at": "2024-04-05 16:11:52",
-      "album": {
-        "name": "I Am The Lightning",
-        "url": "https://open.spotify.com/album/3YOjMrvWQbrTk9TodyU24C"
-      },
-      "artists": [
-        {
-          "name": "Des Rocs",
-          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "I Am The Lightning",
-      "url": "https://open.spotify.com/track/0Sm3zpAqwYVIMULTJIZSGx"
     },
     {
       "added_at": "2024-04-05 16:11:52",

@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 148668,
+  "num_followers": 148719,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjUzNzUzOTllNmVkZDZkZDU0N2QyMTBiOWEzMmZiZDcxMmQwMDAw",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMGFlZjBiZDE3YTk2ZTZkOGU0NGVmNTE2ZGE4ODQ1YWE4",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 219586,
-      "name": "Pride and Joy",
-      "url": "https://open.spotify.com/track/1a2iF9XymafjRk56q7oCxo"
+      "duration_ms": 166960,
+      "name": "Mary Had a Little Lamb",
+      "url": "https://open.spotify.com/track/0nFZ2HQRnIxiwraCm2X6Uq"
     },
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 166960,
-      "name": "Mary Had a Little Lamb",
-      "url": "https://open.spotify.com/track/0nFZ2HQRnIxiwraCm2X6Uq"
+      "duration_ms": 141933,
+      "name": "Love Struck Baby",
+      "url": "https://open.spotify.com/track/5MVMARaMoclifNmBtPu0dD"
     },
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 141933,
-      "name": "Love Struck Baby",
-      "url": "https://open.spotify.com/track/5MVMARaMoclifNmBtPu0dD"
+      "duration_ms": 320906,
+      "name": "Texas Flood",
+      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
     },
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 320906,
-      "name": "Texas Flood",
-      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
+      "duration_ms": 297373,
+      "name": "Lenny",
+      "url": "https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Texas Flood (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 297373,
-      "name": "Lenny",
-      "url": "https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Stevie Ray Vaughan And Double Trouble",
         "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 187533,
       "name": "Look at Little Sister",
       "url": "https://open.spotify.com/track/5He3kbhG04jAioqHVEytHq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 279400,
+      "name": "Rude Mood",
+      "url": "https://open.spotify.com/track/03NejRMxYMMCFo2Ylsia6l"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Texas Flood (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 279400,
-      "name": "Rude Mood",
-      "url": "https://open.spotify.com/track/03NejRMxYMMCFo2Ylsia6l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soul to Soul",
         "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 237133,
       "name": "Change It",
       "url": "https://open.spotify.com/track/5u00iJsWV7xj5NTGAaMBQt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 223586,
+      "name": "I'm Cryin'",
+      "url": "https://open.spotify.com/track/1oLVPN07o3aAgKAVWjhRRn"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul to Soul",
-        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 167773,
-      "name": "Lookin' out the Window",
-      "url": "https://open.spotify.com/track/221wgBBRPtKIBgpjGvMWUD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Stevie Ray Vaughan And Double Trouble",
         "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 280826,
       "name": "Superstition - Live",
       "url": "https://open.spotify.com/track/4OaTSHT0NYViNOgjpIAXpv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soul to Soul",
+        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 167773,
+      "name": "Lookin' out the Window",
+      "url": "https://open.spotify.com/track/221wgBBRPtKIBgpjGvMWUD"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Alive",
-        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 277306,
-      "name": "Willie The Wimp - Live",
-      "url": "https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Session",
         "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 359266,
       "name": "Pride And Joy",
       "url": "https://open.spotify.com/track/5LNkpie03tsGvZgFxc2R0P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live Alive",
+        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 277306,
+      "name": "Willie The Wimp - Live",
+      "url": "https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 247200,
-      "name": "Give Me Back My Wig",
-      "url": "https://open.spotify.com/track/61DnwvyCzQXWLK29HVfgJO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sky Is Crying",
         "url": "https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 144600,
       "name": "Wham",
       "url": "https://open.spotify.com/track/42DFAOfH92om07FwNqX2Ye"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "Give Me Back My Wig",
+      "url": "https://open.spotify.com/track/61DnwvyCzQXWLK29HVfgJO"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Deal: Greatest Hits Volume 1",
-        "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 270360,
-      "name": "Come On, Pt. III",
-      "url": "https://open.spotify.com/track/0t4Ef0Z7BGIRtwoK8S8299"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sky Is Crying",
         "url": "https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 348160,
       "name": "May I Have a Talk with You",
       "url": "https://open.spotify.com/track/01CIueRxPGWmkQjjzT70wi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Real Deal: Greatest Hits Volume 1",
+        "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 270360,
+      "name": "Come On, Pt. III",
+      "url": "https://open.spotify.com/track/0t4Ef0Z7BGIRtwoK8S8299"
     },
     {
       "added_at": null,

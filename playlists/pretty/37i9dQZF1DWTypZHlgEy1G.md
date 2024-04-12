@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 ### [Standards de la Chanson Française](https://open.spotify.com/playlist/37i9dQZF1DWTypZHlgEy1G)
 
-> Le patrimoine de la chanson française\. Photo : Georges Brassens
+> Le patrimoine de la chanson française\. Photo : Charles Aznavour
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,152 likes - 85 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,151 likes - 85 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 36 | [Laissons entrer le soleil](https://open.spotify.com/track/1jRoXThsV21LQeNdT3tcUn) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Inédits 1968\-1998](https://open.spotify.com/album/1MlpnvY0WaNqf3fzEoklGj) | 3:44 |
 | 37 | [Capri c'est fini](https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H) | [Hervé Vilard](https://open.spotify.com/artist/1HkC0LOaynhYSGcNklyIcd) | [Capri C'Est Fini](https://open.spotify.com/album/6ZsIMeATSXlD60nK0kADB7) | 3:37 |
 | 38 | [Lady Lay](https://open.spotify.com/track/2jd6aKjjhH5hu2mZedooNo) | [Pierre Groscolas](https://open.spotify.com/artist/3RAqlLiVsYkndio9mey84r) | [Les Années 70s](https://open.spotify.com/album/2S8XE58z1NUwQY2WLnMzqh) | 2:59 |
-| 39 | [Poupée de cire, poupée de son](https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Hits chanson française](https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna) | 2:33 |
-| 40 | [Amoureux de ma femme](https://open.spotify.com/track/3PiB9JW5oXOLl0vgayks7W) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [Amoureux de ma femme](https://open.spotify.com/album/7J4ADzAFtmjdImTv9IbUgi) | 2:43 |
+| 39 | [Amoureux de ma femme](https://open.spotify.com/track/3PiB9JW5oXOLl0vgayks7W) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [Amoureux de ma femme](https://open.spotify.com/album/7J4ADzAFtmjdImTv9IbUgi) | 2:43 |
+| 40 | [Poupée de cire, poupée de son](https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Hits chanson française](https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna) | 2:33 |
 | 41 | [À bicyclette](https://open.spotify.com/track/5px3ShFMjwhidOFVVc0Z4R) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [La Bicyclette](https://open.spotify.com/album/2DS4hsoeFgvqhzsCJ0tmbj) | 2:42 |
 | 42 | [La chanson de Prévert](https://open.spotify.com/track/0Y04xGwKImCqVSFZQI5All) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [L'étonnant Serge Gainsbourg \(N°3\)](https://open.spotify.com/album/5sMMhisGphUYvtb9jmdydj) | 3:02 |
 | 43 | [La mer \- Remasterisé en 2017](https://open.spotify.com/track/1n29R9nsoyeFbUuvmnmw1y) | [Charles Trenet](https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ) | [1943 \- 1948 \(Remasterisé en 2017\)](https://open.spotify.com/album/2vo9j3dgK07xfGodOH11gZ) | 3:21 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 84 | [Les amoureux des bancs publics](https://open.spotify.com/track/3sySoSz1tI6IDt7qDkecnQ) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Les Copains D'Abord](https://open.spotify.com/album/4lQ45mAu5gYotfGJrgDuJn) | 3:00 |
 | 85 | [Les roses blanches](https://open.spotify.com/track/7ydTfhNqTm76kd23L0RJrQ) | [Berthe Sylva](https://open.spotify.com/artist/0vR8oYjqxHpaUbZucd95a0) | [Chante](https://open.spotify.com/album/1g18yXxYwQ1N660N5HFJpt) | 3:26 |
 
-Snapshot ID: `MCw1NTc3NWFhOTM0YjQ5YWQzYjRjZjYxOTQyNTY2ZmY0NWE3NjQ0MGVk`
+Snapshot ID: `MTcxMTEzNjI2NywwMDAwMDAwMDkyYTRmMzg3Y2ZlYWIyMjE2YzIxNTNjNGU0ODY2NTdk`

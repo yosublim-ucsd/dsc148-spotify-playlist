@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1551934,
+  "num_followers": 1552088,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGQwN2Q0NTViZjNlMjkxN2E5ZGMwMjI0OTAxMTU3ZTFkOTc4OTky",
+  "snapshot_id": "MTcxMjI4OTY2MCwwMDAwMDAwMDA5ODI4M2RjMWFmZGVhYjM2NjJlNDMzMGRhMDgxYTcz",
   "tracks": [
     {
       "added_at": "2024-04-05 04:01:00",
@@ -475,6 +475,26 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Nothing Ever Changes",
+        "url": "https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        }
+      ],
+      "duration_ms": 226048,
+      "name": "Nothing Ever Changes",
+      "url": "https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Something To Hold On To (feat. Clementine Douglas)",
         "url": "https://open.spotify.com/album/4GwlK3OyqMu3KZ2Yrj6sRI"
       },
@@ -499,22 +519,18 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Nothing Ever Changes",
-        "url": "https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4"
+        "name": "Light",
+        "url": "https://open.spotify.com/album/7yO4wdgapBR9bhMDF6j9WW"
       },
       "artists": [
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+          "name": "MashBit",
+          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
         }
       ],
-      "duration_ms": 226048,
-      "name": "Nothing Ever Changes",
-      "url": "https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI"
+      "duration_ms": 169528,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -535,22 +551,6 @@
       "duration_ms": 195483,
       "name": "U&ME",
       "url": "https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/7yO4wdgapBR9bhMDF6j9WW"
-      },
-      "artists": [
-        {
-          "name": "MashBit",
-          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
-        }
-      ],
-      "duration_ms": 169528,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -591,26 +591,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Lost In The Rhythm",
-        "url": "https://open.spotify.com/album/67XD05ZxwlpGcUanJTeFJq"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        }
-      ],
-      "duration_ms": 170880,
-      "name": "Lost In The Rhythm",
-      "url": "https://open.spotify.com/track/5o06Ga8GxzI35T7AHCeARL"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Blur",
         "url": "https://open.spotify.com/album/4t4GnmNhwlpHCDWshyg1Xr"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 178849,
       "name": "Blur",
       "url": "https://open.spotify.com/track/73iwLiAtgpNMu5DeRD7Jph"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Lost In The Rhythm",
+        "url": "https://open.spotify.com/album/67XD05ZxwlpGcUanJTeFJq"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "Lost In The Rhythm",
+      "url": "https://open.spotify.com/track/5o06Ga8GxzI35T7AHCeARL"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -883,26 +883,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Over Again",
-        "url": "https://open.spotify.com/album/3yvIAGFouolgRJTItuv3br"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
-        }
-      ],
-      "duration_ms": 159458,
-      "name": "Over Again",
-      "url": "https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Through the Void",
         "url": "https://open.spotify.com/album/4QKRjD08xSGtdGXzJEh0x7"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 177560,
       "name": "Through the Void",
       "url": "https://open.spotify.com/track/0F5z4xuXIpwks2KNI6DUFk"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Over Again",
+        "url": "https://open.spotify.com/album/3yvIAGFouolgRJTItuv3br"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        }
+      ],
+      "duration_ms": 159458,
+      "name": "Over Again",
+      "url": "https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1047,6 +1047,30 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Genesys II",
+        "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        },
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 244130,
+      "name": "Consciousness - Eric Prydz Remix",
+      "url": "https://open.spotify.com/track/1pM05FAgX2lLp3NwpMY2vs"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "All That Matters (Artbat Remix)",
         "url": "https://open.spotify.com/album/5BRqAXbsa6oxnnLQIiDHai"
       },
@@ -1123,30 +1147,6 @@
       "duration_ms": 213333,
       "name": "Friend Of Mine",
       "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Genesys II",
-        "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Chris Avantgarde",
-          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
-        },
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 244130,
-      "name": "Consciousness - Eric Prydz Remix",
-      "url": "https://open.spotify.com/track/1pM05FAgX2lLp3NwpMY2vs"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1407,6 +1407,30 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Forget",
+        "url": "https://open.spotify.com/album/78pEteivhGT2HxTFWmjM2S"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        },
+        {
+          "name": "ALSO ASTIR",
+          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
+        }
+      ],
+      "duration_ms": 258545,
+      "name": "Forget",
+      "url": "https://open.spotify.com/track/2q18AKTf10vS8iTSg5sQ2r"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "I Need You (Adriatique Remix)",
         "url": "https://open.spotify.com/album/5xoWT0xsoV2jQ5wFvLUEfN"
       },
@@ -1423,26 +1447,6 @@
       "duration_ms": 291304,
       "name": "I Need You - Adriatique Remix",
       "url": "https://open.spotify.com/track/4RfOBweHWhbKwFDqIsuxdY"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Radiant",
-        "url": "https://open.spotify.com/album/3XkKoyeXwOBTvFmfBL2cVI"
-      },
-      "artists": [
-        {
-          "name": "Dyzen",
-          "url": "https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl"
-        },
-        {
-          "name": "Sideral",
-          "url": "https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b"
-        }
-      ],
-      "duration_ms": 452682,
-      "name": "Dialogue",
-      "url": "https://open.spotify.com/track/52jhw6Sfp5ED2ilnikRyhP"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1471,6 +1475,26 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Radiant",
+        "url": "https://open.spotify.com/album/3XkKoyeXwOBTvFmfBL2cVI"
+      },
+      "artists": [
+        {
+          "name": "Dyzen",
+          "url": "https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl"
+        },
+        {
+          "name": "Sideral",
+          "url": "https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b"
+        }
+      ],
+      "duration_ms": 452682,
+      "name": "Dialogue",
+      "url": "https://open.spotify.com/track/52jhw6Sfp5ED2ilnikRyhP"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Gate / Masterplan",
         "url": "https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI"
       },
@@ -1487,26 +1511,6 @@
       "duration_ms": 343764,
       "name": "Gate",
       "url": "https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "The Morning After",
-        "url": "https://open.spotify.com/album/1IEMLZHGq4ksUfeTSj2FXq"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        },
-        {
-          "name": "Paul Thomas",
-          "url": "https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8"
-        }
-      ],
-      "duration_ms": 213870,
-      "name": "The Morning After",
-      "url": "https://open.spotify.com/track/5XZwq5GzhyjjlMwtou1fWb"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1531,6 +1535,26 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "The Morning After",
+        "url": "https://open.spotify.com/album/1IEMLZHGq4ksUfeTSj2FXq"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        },
+        {
+          "name": "Paul Thomas",
+          "url": "https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8"
+        }
+      ],
+      "duration_ms": 213870,
+      "name": "The Morning After",
+      "url": "https://open.spotify.com/track/5XZwq5GzhyjjlMwtou1fWb"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Rapture (with Robert Falcon)",
         "url": "https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB"
       },
@@ -1551,26 +1575,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78"
-      },
-      "artists": [
-        {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
-        },
-        {
-          "name": "XIRA",
-          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Coming Home (feat. John Martin)",
         "url": "https://open.spotify.com/album/0e6QKn14Qh0qmpZMRuUvm1"
       },
@@ -1587,6 +1591,26 @@
       "duration_ms": 212812,
       "name": "Coming Home (feat. John Martin)",
       "url": "https://open.spotify.com/track/2ReortySZeaeI0CUWiIh8v"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78"
+      },
+      "artists": [
+        {
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1647,30 +1671,6 @@
       "duration_ms": 199692,
       "name": "Chains (feat. Daya)",
       "url": "https://open.spotify.com/track/7FDbfuQ1VjSuFmFl5KFcyo"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Forget",
-        "url": "https://open.spotify.com/album/78pEteivhGT2HxTFWmjM2S"
-      },
-      "artists": [
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "AVIRA",
-          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
-        },
-        {
-          "name": "ALSO ASTIR",
-          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
-        }
-      ],
-      "duration_ms": 258545,
-      "name": "Forget",
-      "url": "https://open.spotify.com/track/2q18AKTf10vS8iTSg5sQ2r"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "REDUX 006",
-        "url": "https://open.spotify.com/album/4urA6v3u3Of4y0snurlHmE"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 255238,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/4DHMD8JzIBOoAXAqHOl3qd"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "The Return (Edit)",
         "url": "https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 232380,
       "name": "The Return - Edit",
       "url": "https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "REDUX 006",
+        "url": "https://open.spotify.com/album/4urA6v3u3Of4y0snurlHmE"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 255238,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/4DHMD8JzIBOoAXAqHOl3qd"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1931,26 +1931,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Into Dust",
-        "url": "https://open.spotify.com/album/7ITggXxODRWOO3vhHM1EOA"
-      },
-      "artists": [
-        {
-          "name": "AN21",
-          "url": "https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn"
-        },
-        {
-          "name": "Ali Bakgor",
-          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Into Dust",
-      "url": "https://open.spotify.com/track/3Yosq67GSBqGVkPm3O3Iul"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Need To Feel Loved (Cristoph Remix)",
         "url": "https://open.spotify.com/album/68VTCayg2z4pmDf9XjtExN"
       },
@@ -1971,6 +1951,26 @@
       "duration_ms": 466560,
       "name": "Need To Feel Loved - Cristoph Remix",
       "url": "https://open.spotify.com/track/6jJmzpQaOJmcay1UG4CYm0"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Into Dust",
+        "url": "https://open.spotify.com/album/7ITggXxODRWOO3vhHM1EOA"
+      },
+      "artists": [
+        {
+          "name": "AN21",
+          "url": "https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn"
+        },
+        {
+          "name": "Ali Bakgor",
+          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
+        }
+      ],
+      "duration_ms": 196905,
+      "name": "Into Dust",
+      "url": "https://open.spotify.com/track/3Yosq67GSBqGVkPm3O3Iul"
     },
     {
       "added_at": "2024-04-05 04:01:00",

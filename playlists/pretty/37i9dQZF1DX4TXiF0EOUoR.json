@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 181869,
+  "num_followers": 182024,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDYyYWQzNjIxODFlZmM3M2RlYmZiMDI4Njk5MDMzOTI3MDI3MGE1",
+  "snapshot_id": "MTcxMDg3ODUwNCwwMDAwMDAwMGE5ZTZlMzg4MWIxMWJkODlkZTNkOWQ5OTRiMDk2MTk0",
   "tracks": [
     {
       "added_at": "2024-03-19 20:01:44",
@@ -497,24 +497,8 @@
         }
       ],
       "duration_ms": 168600,
-      "name": "Orden\u0303ando la Vaca",
+      "name": "Orde\u00f1ando la Vaca",
       "url": "https://open.spotify.com/track/0zfzPt18qFfK0FV6L4AYYB"
-    },
-    {
-      "added_at": "2024-03-19 20:01:44",
-      "album": {
-        "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
-        "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense de Acero",
-          "url": "https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe"
-        }
-      ],
-      "duration_ms": 135146,
-      "name": "El Sauce y la Palma",
-      "url": "https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -531,6 +515,22 @@
       "duration_ms": 120240,
       "name": "La Cuichi",
       "url": "https://open.spotify.com/track/5MJWoHFH5pOemxZuObv42p"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
+        "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense de Acero",
+          "url": "https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe"
+        }
+      ],
+      "duration_ms": 135146,
+      "name": "El Sauce y la Palma",
+      "url": "https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Decimo Aniversario",
-        "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/0webdnEw8ZfPGn4gQpN1g0"
       },
       "artists": [
         {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
         }
       ],
-      "duration_ms": 199813,
-      "name": "El Muchacho Alegre",
-      "url": "https://open.spotify.com/track/5R9M8yBGVGs3VpkBWXAyll"
+      "duration_ms": 228502,
+      "name": "Los Viejitos",
+      "url": "https://open.spotify.com/track/57wRXy4jEeTVQvXCl4j2oq"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Underground",
-        "url": "https://open.spotify.com/album/0webdnEw8ZfPGn4gQpN1g0"
+        "name": "Decimo Aniversario",
+        "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
       },
       "artists": [
         {
-          "name": "La Zenda Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 228502,
-      "name": "Los Viejitos",
-      "url": "https://open.spotify.com/track/57wRXy4jEeTVQvXCl4j2oq"
+      "duration_ms": 199813,
+      "name": "El Muchacho Alegre",
+      "url": "https://open.spotify.com/track/5R9M8yBGVGs3VpkBWXAyll"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj"
-      },
-      "artists": [
-        {
-          "name": "Banda Zirahuen",
-          "url": "https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7"
-        }
-      ],
-      "duration_ms": 289691,
-      "name": "El Toro Pinto",
-      "url": "https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB"
-    },
-    {
-      "added_at": "2024-03-19 20:01:44",
-      "album": {
         "name": "Mujer Interesada",
         "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 160011,
       "name": "Mujer Interesada",
       "url": "https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj"
+      },
+      "artists": [
+        {
+          "name": "Banda Zirahuen",
+          "url": "https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7"
+        }
+      ],
+      "duration_ms": 289691,
+      "name": "El Toro Pinto",
+      "url": "https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Y de Aqu\u00ed Pal Real - La Herencia del Rey",
-        "url": "https://open.spotify.com/album/0FbblTEqO5rSjJshBoIyRR"
-      },
-      "artists": [
-        {
-          "name": "Banda Cruz De La Candelaria",
-          "url": "https://open.spotify.com/artist/0YzzMBA0jYCOSQojb3AtYr"
-        }
-      ],
-      "duration_ms": 274064,
-      "name": "Popurr\u00ed: B\u00e9same Morenita / La Loba del Mal / Las Guilotas",
-      "url": "https://open.spotify.com/track/2zgC1cNMpGtiiCMAiX3AxV"
-    },
-    {
-      "added_at": "2024-03-19 20:01:44",
-      "album": {
         "name": "Que Chulo Es el Jaripeo",
         "url": "https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 211426,
       "name": "El Toro Requeson",
       "url": "https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Y de Aqu\u00ed Pal Real - La Herencia del Rey",
+        "url": "https://open.spotify.com/album/0FbblTEqO5rSjJshBoIyRR"
+      },
+      "artists": [
+        {
+          "name": "Banda Cruz De La Candelaria",
+          "url": "https://open.spotify.com/artist/0YzzMBA0jYCOSQojb3AtYr"
+        }
+      ],
+      "duration_ms": 274064,
+      "name": "Popurr\u00ed: B\u00e9same Morenita / La Loba del Mal / Las Guilotas",
+      "url": "https://open.spotify.com/track/2zgC1cNMpGtiiCMAiX3AxV"
     },
     {
       "added_at": "2024-03-19 20:01:44",

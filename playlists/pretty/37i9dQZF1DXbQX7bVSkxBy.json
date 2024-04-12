@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC?si=Ov9F1KTFTY6jpv7w92oxLA>Omojo</a>",
-  "num_followers": 25602,
+  "num_followers": 25697,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTg5NjUyZTU2OThlMjU3YTVhMjk0ODA5NDEyODc1N2FkMjIwZDUz",
+  "snapshot_id": "MTcxMjg4MDA2MCwwMDAwMDAwMDNlYTIzNmRjYmFhMTI2Y2E2MGU2ODgwMWU0ZDBhZGI5",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-12-29 00:01:00",
       "album": {
-        "name": "Heaven Changes Everything",
-        "url": "https://open.spotify.com/album/2siQQnBK2IRSYMbjgdfvji"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "Heaven Changes Everything",
-      "url": "https://open.spotify.com/track/09K7v6EnuoR2TmjAEKUD71"
-    },
-    {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
         "name": "Running Home",
         "url": "https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 222106,
       "name": "Running Home",
       "url": "https://open.spotify.com/track/3x3rh9ZI4rLvjyCg1MMZNu"
+    },
+    {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
+        "name": "Heaven Changes Everything",
+        "url": "https://open.spotify.com/album/2siQQnBK2IRSYMbjgdfvji"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Heaven Changes Everything",
+      "url": "https://open.spotify.com/track/09K7v6EnuoR2TmjAEKUD71"
     },
     {
       "added_at": "2023-12-29 00:01:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-12-29 00:01:00",
       "album": {
+        "name": "REBEL (The Beginning)",
+        "url": "https://open.spotify.com/album/4LtOQGwRoodFaM7wNpqIe5"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/7qKq3YnzxmYfYipYQxzLe4"
+    },
+    {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
         "name": "Take Me to the River (I Will Swim)",
         "url": "https://open.spotify.com/album/1iVcfyEbebsg5wQZpxkljD"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 176104,
       "name": "Take Me to the River (I Will Swim)",
       "url": "https://open.spotify.com/track/4yaalj9cPc9FCVi0SXkBuV"
-    },
-    {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
-        "name": "REBEL (The Beginning)",
-        "url": "https://open.spotify.com/album/4LtOQGwRoodFaM7wNpqIe5"
-      },
-      "artists": [
-        {
-          "name": "Anne Wilson",
-          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/7qKq3YnzxmYfYipYQxzLe4"
     },
     {
       "added_at": "2023-12-29 00:01:00",
@@ -509,22 +509,6 @@
       "url": "https://open.spotify.com/track/1nBs6CyPsd9THOxqsuLt0M"
     },
     {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
-        "name": "EIGHT",
-        "url": "https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 292261,
-      "name": "Bless God",
-      "url": "https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk"
-    },
-    {
       "added_at": "2024-03-01 00:01:00",
       "album": {
         "name": "Find Me Here (Blessings Find Me)",
@@ -539,6 +523,22 @@
       "duration_ms": 126315,
       "name": "Find Me Here (Blessings Find Me)",
       "url": "https://open.spotify.com/track/6lrhr9KAExOwMopLB7WBgV"
+    },
+    {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
+        "name": "EIGHT",
+        "url": "https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 292261,
+      "name": "Bless God",
+      "url": "https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-12-29 00:01:00",
       "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 230931,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP"
+    },
+    {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
         "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 282000,
       "name": "Twenty-Four (Tyler Joseph from Twenty One Pilots Version)",
       "url": "https://open.spotify.com/track/3KhUUinfojt0DbzvXwfxW8"
-    },
-    {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
-        "name": "Lauren Daigle",
-        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 230931,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP"
     },
     {
       "added_at": "2023-12-29 00:01:00",

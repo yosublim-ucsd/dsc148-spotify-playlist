@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tYhX2.md) - [plain]
 
 ### [This Is Miel San Marcos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4tYhX2)
 
-> This is Miel San Marcos\. The essential tracks, all in one playlist.
+> This Is Miel San Marcos\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,535 likes - 51 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,560 likes - 51 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tYhX2.md) - [plain]
 | 36 | [Coritos Con Flow](https://open.spotify.com/track/5Pj0EMhepLLhfMxrdMoC58) | [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Coritos Con Flow](https://open.spotify.com/album/5oaSETuSNMaOCrmFZbnvGf) | 4:36 |
 | 37 | [Música del Cielo](https://open.spotify.com/track/3AEy6WuEVCftiWdm6cX91m) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 4:06 |
 | 38 | [Glorificate](https://open.spotify.com/track/5IgyeqmhQwYvaztSsPH71W) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Tu Habitación](https://open.spotify.com/album/3EOkmxLamBPxPJLeGPXaNd) | 2:05 |
-| 39 | [Medley Evangelio \(En Vivo\)](https://open.spotify.com/track/1GcVAXo149p2bCZLR2EyOG) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj), [Luis Morales Jr.](https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh) | [EVANGELIO \(En Vivo\)](https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd) | 12:02 |
-| 40 | [Canto Danzo Salto](https://open.spotify.com/track/5FXALCzOPuLhX07GRnrooO) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 2](https://open.spotify.com/album/1CU1BMSJsVpXeKag7rAORh) | 4:34 |
+| 39 | [Canto Danzo Salto](https://open.spotify.com/track/5FXALCzOPuLhX07GRnrooO) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 2](https://open.spotify.com/album/1CU1BMSJsVpXeKag7rAORh) | 4:34 |
+| 40 | [Medley Evangelio \(En Vivo\)](https://open.spotify.com/track/1GcVAXo149p2bCZLR2EyOG) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj), [Luis Morales Jr.](https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh) | [EVANGELIO \(En Vivo\)](https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd) | 12:02 |
 | 41 | [Hay Libertad](https://open.spotify.com/track/1xnB5yt12jxLQgvebvPfVd) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 1:38 |
 | 42 | [Yo Iré](https://open.spotify.com/track/6AaawfHLnIerBSX3TuTRid) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Dios En Casa](https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn) | 3:48 |
 | 43 | [Dios Es Más Grande](https://open.spotify.com/track/61nCXpmkNR2c196EaZhYgx) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Dios Es Más Grande](https://open.spotify.com/album/76T2IpejzH8cRehny18FeY) | 8:25 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tYhX2.md) - [plain]
 | 50 | [Dios No Está Muerto](https://open.spotify.com/track/0XBYD82idDJOtcv4wXCzr5) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Dios No Está Muerto](https://open.spotify.com/album/1IZIdFfVL4pqxBHVE6QonJ) | 4:15 |
 | 51 | [No Hay Otro Amor Igual](https://open.spotify.com/track/4RS0596gvwyECO2TaEEfW3) | [Susy Gonzalez](https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG), [Sayra Morales](https://open.spotify.com/artist/0LCFwNcRyvZoiBaOELjsWk), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [No Hay Otro Amor Igual](https://open.spotify.com/album/5FJL6TqFuiIuhbRzvy0QRe) | 6:15 |
 
-Snapshot ID: `MCw0ZmMzOWIxNzY2ZGI1N2UwMWQ5YjNmYjFjYzM1YWNhMzcxNTVjMDll`
+Snapshot ID: `MTcxMjcwNzIwMCwwMDAwMDAwMDlhOTQzMjA4YTNhZDg3YTUwYmRlNzJhOTM2YWQ4MjRm`

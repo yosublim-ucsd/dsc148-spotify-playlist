@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-266 songs - 12 hr 8 min
+267 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Lie To Me](https://open.spotify.com/track/7Bue9Cua1VRTbepCvZ6dDt) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Lie To Me](https://open.spotify.com/album/0C94AoPznTS76AyeS7IhZ3) | 2:29 | 2024-04-05 |  |
 | [Lie To Me](https://open.spotify.com/track/7LqgpHvLdvIYSokiShzmnR) | [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy), [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16), [Robertson](https://open.spotify.com/artist/0RCvK1v4c4eoyieCb41Ums) | [Lie To Me](https://open.spotify.com/album/09cvPNWXtdkvOlGzQuxlDL) | 2:28 | 2024-02-09 |  |
 | [Lie To Me \(feat\. KIDDO\)](https://open.spotify.com/track/3J09uhKXKITm0roetB1cL0) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Lie To Me \(feat\. KIDDO\)](https://open.spotify.com/album/3G8b5QeeM4r9YwsPy6UahO) | 2:37 | 2024-02-23 | 2024-03-30 |
+| [Lies](https://open.spotify.com/track/0HQlSIRkxAlXzJFReCyNad) | [GONE](https://open.spotify.com/artist/4pKLG10xJBXQ5SWhBmcT8J) | [Lies](https://open.spotify.com/album/6qvMgwJETqEU4QyY1buRUU) | 3:26 | 2024-04-11 |  |
 | [light on](https://open.spotify.com/track/6L0ofQJUzCgcKGojFR4xl1) | [Altero](https://open.spotify.com/artist/4Yc8Z66BiZxpRDFu2xcs5D), [Megggi](https://open.spotify.com/artist/2aJSeysNzFHO6Y5pMrIK3O) | [light on](https://open.spotify.com/album/5HO1TtZm5RlnnjyzwmamB0) | 3:05 | 2024-02-02 | 2024-03-16 |
 | [Lighthouse \- Andrelli Remix](https://open.spotify.com/track/04CttTezSnv71USiiG9mIo) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ), [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [Lighthouse \(Andrelli Remix\)](https://open.spotify.com/album/4ywy3ahNM8FMH99Ueuf9ZA) | 3:38 | 2023-12-28 |  |
 | [Little Hollywood](https://open.spotify.com/track/3tKZrYDtkte1E68aNozR75) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Sticker on My Suitcase](https://open.spotify.com/album/6qCYObNjXCIDrW3MBXTWLy) | 3:03 | 2022-07-13 |  |

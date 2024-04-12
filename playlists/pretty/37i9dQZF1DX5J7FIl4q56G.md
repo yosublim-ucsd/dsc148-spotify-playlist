@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: ERRA
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,342 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,425 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 49 | [A Thousand And One Nights](https://open.spotify.com/track/7uobUroo7ILntz7btYCYEd) | [Letallis](https://open.spotify.com/artist/71jhbcJpI5iRMKJWzvwQ4E) | [A Thousand And One Nights](https://open.spotify.com/album/3lVOfuNaQPZm8WE8xp6g23) | 5:09 |
 | 50 | [Stingrays](https://open.spotify.com/track/3K1YJagpe0qpIO4tG8Rzyy) | [Gallamesh](https://open.spotify.com/artist/5nhUfUVXvd3Pjd9OkKBcEV) | [Stingrays](https://open.spotify.com/album/7pgARXyCtOIUJPkZ9TtDfW) | 3:26 |
 
-Snapshot ID: `MCwyZDhlY2JjNGY3OWI0YjdmMDdkZjVhZmExNTk1NWI0MGMxNWQyZDMw`
+Snapshot ID: `MTcxMjI4OTYwMCwwMDAwMDAwMGU5NjU3OGNmYWI1NzNiNWQ1Yzk4NTAyNDhjNGM5ODVh`

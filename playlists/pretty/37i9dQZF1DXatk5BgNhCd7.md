@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Los Auténticos Decadentes & Tomo Como Rey.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,673 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,686 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 79 | [Quisiera decirte / El viaje / Cómo te hago entender / No voy a cambiar \- 14 años en vivo](https://open.spotify.com/track/21ceHwYIZiasw9WZgHthZY) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Quisiera decirte / El viaje / Cómo te hago entender / No voy a cambiar \(14 años en vivo\)](https://open.spotify.com/album/7ueYJ8FAiLJXqFJ1AzPIrY) | 9:35 |
 | 80 | [Contacto Zero](https://open.spotify.com/track/1O99eZTPmhimiphpnM5MQO) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia), [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Contacto Zero](https://open.spotify.com/album/6jeSBLgBNxK8pqMPVEJgw0) | 3:43 |
 
-Snapshot ID: `MCw1NTdiZmU4Y2Q3MTdlOGY1ZDY5Mjk1MzE5ZDBhNTA1YTQ3NGIxNzk0`
+Snapshot ID: `MTcxMjMxNzk1OCwwMDAwMDAwMDFmNDA3NmJhNWExMTU5YjRjMGJjZDFhMTEwYTRiM2Nm`

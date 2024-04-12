@@ -2,7 +2,7 @@
 
 ### [Street Energy ](https://open.spotify.com/playlist/37i9dQZF1DX1GHMwBE32Ob)
 
-> From the trenches\. Through the streets.<br/>Cover: Spyro
+> From the trenches\. Through the streets.<br/>Cover: Shallipopi
 
 225 songs - 10 hr 24 min
 

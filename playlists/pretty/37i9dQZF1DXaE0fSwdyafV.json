@@ -1,12 +1,12 @@
 {
   "description": "It's the witching hours. ",
-  "num_followers": 133730,
+  "num_followers": 133717,
   "original_name": "Protect Your Energy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODI5OTFhZjY3MzgzYjViMzhjNDY1Y2FlMGI5ZjlhOWZhNWQyMWNk",
+  "snapshot_id": "MTcxMTExOTg5NiwwMDAwMDAwMDY3NTM3OWVjY2MzNjZiODQ0OThjM2YzYjZiZWJlMDEw",
   "tracks": [
     {
       "added_at": "2024-03-22 15:04:56",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-03-22 15:04:56",
       "album": {
+        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
+        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 247147,
+      "name": "Season Of The Witch",
+      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
+    },
+    {
+      "added_at": "2024-03-22 15:04:56",
+      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 269413,
       "name": "Woman",
       "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
-    },
-    {
-      "added_at": "2024-03-22 15:04:56",
-      "album": {
-        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
-        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 247147,
-      "name": "Season Of The Witch",
-      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
     },
     {
       "added_at": "2024-03-22 15:04:56",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-03-22 15:04:56",
       "album": {
-        "name": "Z",
-        "url": "https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 243744,
-      "name": "Sweet November",
-      "url": "https://open.spotify.com/track/7swGurTfZlwx7mTOE8PpIc"
-    },
-    {
-      "added_at": "2024-03-22 15:04:56",
-      "album": {
         "name": "ZABA",
         "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 254640,
       "name": "Toes",
       "url": "https://open.spotify.com/track/754wVXWrtf1X3ZHQOFFsnR"
+    },
+    {
+      "added_at": "2024-03-22 15:04:56",
+      "album": {
+        "name": "Z",
+        "url": "https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 243744,
+      "name": "Sweet November",
+      "url": "https://open.spotify.com/track/7swGurTfZlwx7mTOE8PpIc"
     },
     {
       "added_at": "2024-03-22 15:04:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: Jalen Ngonda
 
-[Spotify](https://open.spotify.com/user/spotify) - 806,131 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 806,275 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 20 | [Angela](https://open.spotify.com/track/1RlwflrljoxcNGoRPjeeUT) | [Shabazz Palaces](https://open.spotify.com/artist/6C403AR4y6PjN0xNNGh42m), [Stas THEE Boss](https://open.spotify.com/artist/569JHM0BuZlot1yXODxhUV), [Irene Barber](https://open.spotify.com/artist/4SMPHImE8ShQJ55mJ01LoW) | [Exotic Birds of Prey](https://open.spotify.com/album/3PqRZV34l1ePPXXAHYOQYi) | 3:01 |
 | 21 | [Rain or Shine](https://open.spotify.com/track/0KZMDd8QdrCFhvjFGkFJ8g) | [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S) | [Rain or Shine](https://open.spotify.com/album/71gVK58A9d93mx4Mlf9Tq8) | 3:44 |
 | 22 | [One Night Stand](https://open.spotify.com/track/2CDGP4sWDuaYkRB8C48dJA) | [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM) | [One Night Stand](https://open.spotify.com/album/3S2wJtXUAyA87jlBVxJMN4) | 4:16 |
-| 23 | [Imaan](https://open.spotify.com/track/1ydE5C1KehuCQI8EM3qXrQ) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Imaan](https://open.spotify.com/album/671HQwwWo7sivjgFb4Qf1P) | 3:34 |
+| 23 | [Imaan](https://open.spotify.com/track/5xvYNmS5yLJr5Z18P25DYR) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Imaan](https://open.spotify.com/album/4365MmEKX6ImuvRiWtqagj) | 3:34 |
 | 24 | [Learning](https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Learning](https://open.spotify.com/album/2w11Pxtx3QBbVRPKstvPFL) | 4:43 |
 | 25 | [me and all my niggas](https://open.spotify.com/track/1V5LZEDXnCctyA2G4NNjsg) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [me and all my niggas](https://open.spotify.com/album/41k4Tf1ig86lbYzIK710T0) | 1:54 |
 | 26 | [Peach Optimo](https://open.spotify.com/track/3RNLKLJyNYLh9t6ojhxN7B) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Peach Optimo](https://open.spotify.com/album/3Thk2OpOq4xLIg3Qmetarj) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [Looping](https://open.spotify.com/track/4HwuBZ2IqMpGpPyvmoB9b4) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:13 |
 | 100 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
 
-Snapshot ID: `MCxhZDRmZWU1YWNjYzM2MGVkYmM2ZTczNGI0ZjRkN2I0MDJhYTIxOTk5`
+Snapshot ID: `MTcxMjI4OTYwMCwwMDAwMDAwMDJiOWEzM2Q1Mjg2Zjk0Yjc3ZmM2ZjIwMWZkMWVkNjFm`

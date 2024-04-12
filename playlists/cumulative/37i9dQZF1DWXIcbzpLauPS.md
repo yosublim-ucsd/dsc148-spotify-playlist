@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: The Ghost Inside
 
-881 songs - 2 day 6 hr 56 min
+882 songs - 2 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,8 @@
 | [Essence](https://open.spotify.com/track/5ycHtWHxS0LJ1hOXEYGu4C) | [Drown in Sulphur](https://open.spotify.com/artist/4FFseinIReANTJHY36gSwI) | [Essence](https://open.spotify.com/album/68UG9A5KTjekGEkMlSB2IN) | 4:01 | 2022-07-13 | 2022-07-21 |
 | [Eternal Kingdoms, Pt\. 1](https://open.spotify.com/track/0ieUAXNchbeeMZMMxM2Slu) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Call of the Void](https://open.spotify.com/album/1wmQtsU7BQxYk9xKSicyFM) | 3:57 | 2022-07-13 | 2022-07-15 |
 | [Everything but Faith](https://open.spotify.com/track/4ADgspuZLhlsiAijC9oDAR) | [Colorblind](https://open.spotify.com/artist/3kSDOw6bEMSStOjqLR2kVX) | [Colorblind EP](https://open.spotify.com/album/29M640Q87avBIyyLC1rWlT) | 3:42 | 2022-12-10 | 2023-07-15 |
-| [Everything You Wanted](https://open.spotify.com/track/3BrT8IC9flGHw78gzPLifE) | [If Not For Me](https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd) | [Everything You Wanted](https://open.spotify.com/album/7mrWYcglvi7cBGgebyJCY7) | 3:31 | 2024-02-09 |  |
+| [Everything You Wanted](https://open.spotify.com/track/2U6Q6k3BlUpKpds9i6YEsQ) | [If Not For Me](https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd) | [Everything You Wanted](https://open.spotify.com/album/7DEuDoDGatpED4PItRAXD8) | 3:31 | 2024-03-08 |  |
+| [Everything You Wanted](https://open.spotify.com/track/3BrT8IC9flGHw78gzPLifE) | [If Not For Me](https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd) | [Everything You Wanted](https://open.spotify.com/album/7mrWYcglvi7cBGgebyJCY7) | 3:31 | 2024-02-09 | 2024-04-12 |
 | [Exiled](https://open.spotify.com/track/3nf8onNmC1LSOWISZIusa6) | [FRCTRD](https://open.spotify.com/artist/7z9n8Q0icbgvXqx1RWoGrd) | [Exiled](https://open.spotify.com/album/4KPBLz4aGh3g8edhS1gVBq) | 4:22 | 2022-07-13 | 2022-07-23 |
 | [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 | 2022-07-13 | 2022-07-18 |
 | [Exit, Exist](https://open.spotify.com/track/4qHgKQGInYni9Ml3l3RO0u) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Exit, Exist](https://open.spotify.com/album/0ZW4okAGcfZ6fKOBE5Fp6T) | 3:54 | 2022-07-13 | 2022-07-22 |

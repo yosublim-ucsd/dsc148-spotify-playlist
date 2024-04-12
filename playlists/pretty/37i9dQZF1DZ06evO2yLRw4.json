@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 35432,
+  "num_followers": 35435,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjM5ZDVkYWUzMWU5OTE0NDc4NmRlMzQyNGI5YTRmNDk3N2M3NjA4",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMGZkMzczMmRlMjJhOGRmNTRlNjU3OWMwNzI5NGFlMDJj",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Angel Miners & The Lightning Riders",
+        "url": "https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 230586,
+      "name": "Lightning Riders",
+      "url": "https://open.spotify.com/track/4tUtj8DxT0XGpVw2rFRGjg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Groove Continental: Side A",
         "url": "https://open.spotify.com/album/4f4Mgrjdn7P6SoSLV6SWHI"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 174320,
       "name": "Disco Body Parts (feat. AWOLNATION)",
       "url": "https://open.spotify.com/track/4W0PnZs6I5KLx3lbPUwnI2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Angel Miners & The Lightning Riders",
-        "url": "https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 230586,
-      "name": "Lightning Riders",
-      "url": "https://open.spotify.com/track/4tUtj8DxT0XGpVw2rFRGjg"
     },
     {
       "added_at": null,
@@ -499,26 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BRAINDEAD",
-        "url": "https://open.spotify.com/album/0ljZRCAuKCLVEhqfnw6Ygv"
-      },
-      "artists": [
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        },
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 215849,
-      "name": "flagpole sitta",
-      "url": "https://open.spotify.com/track/2IIeiY0ZtqrJLnKZxuLGf1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Angel Miners & The Lightning Riders",
         "url": "https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 222266,
       "name": "Mayday!!! Fiesta Fever",
       "url": "https://open.spotify.com/track/5gpy4Oseu0soMumuSJi7B6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BRAINDEAD",
+        "url": "https://open.spotify.com/album/0ljZRCAuKCLVEhqfnw6Ygv"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        },
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 215849,
+      "name": "flagpole sitta",
+      "url": "https://open.spotify.com/track/2IIeiY0ZtqrJLnKZxuLGf1"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Angel Miners & The Lightning Riders",
+        "url": "https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "California Halo Blue",
+      "url": "https://open.spotify.com/track/3mC4kKsdyjzVGpISqAnWnW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Radical",
         "url": "https://open.spotify.com/album/4dmNxI5y02V5SPiZVz7orw"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 215000,
       "name": "Radical",
       "url": "https://open.spotify.com/track/6BkIqU10KlYpllNSP7VjST"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Angel Miners & The Lightning Riders",
-        "url": "https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "California Halo Blue",
-      "url": "https://open.spotify.com/track/3mC4kKsdyjzVGpISqAnWnW"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "MF",
-      "url": "https://open.spotify.com/track/6LvMKoA7E62Z2DHJI65koP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Angel Miners & The Lightning Riders",
         "url": "https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 288080,
       "name": "Slam (Angel Miners)",
       "url": "https://open.spotify.com/track/3KdzzDeRqASjUuRkvft7Db"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "MF",
+      "url": "https://open.spotify.com/track/6LvMKoA7E62Z2DHJI65koP"
     },
     {
       "added_at": null,

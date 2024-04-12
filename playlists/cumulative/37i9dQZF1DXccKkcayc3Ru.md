@@ -4,7 +4,7 @@
 
 > 実写映画「<a href="https://gaga.ne.jp/buzzynoise\_movie/">バジーノイズ</a>」5月3日公開！作者 むつき潤による選曲のオフィシャル・プレイリストが到着。/ The official playlist selected by Mutsuki Jun.
 
-30 songs - 2 hr 5 min
+31 songs - 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Native Dancer](https://open.spotify.com/track/3wr3GLLHcgsQseC6f5KSV5) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx) | [D.A.N.](https://open.spotify.com/album/48BTQAAjPa3bOZOL9QZrms) | 5:58 | 2024-04-01 |  |
 | [Night Flight](https://open.spotify.com/track/39YZ1EwwNaMqblHgADpfM5) | [Multidimensional Control Mechanism YODAKA](https://open.spotify.com/artist/2QzSCrLHW000QqZshAnNWV) | [Night Flight](https://open.spotify.com/album/0udVdJFqOQjfUYimXyPyxd) | 4:00 | 2024-04-07 |  |
 | [Night Time](https://open.spotify.com/track/6kwhwM4bjrFxnPT0wlbb6b) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Days With Uncertainty](https://open.spotify.com/album/0p4J9aL2rG5uBKLRO8HkPM) | 3:59 | 2024-04-01 |  |
+| [Q](https://open.spotify.com/track/2gUZMWbJCCVsJFxPbQFFDN) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Q](https://open.spotify.com/album/5PDrKfXanutCbajW1uu5jO) | 4:24 | 2024-04-11 |  |
 | [reiji no machi](https://open.spotify.com/track/5hMGyNKCPjI0VFjS0YoozL) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [イノウエワラビ](https://open.spotify.com/artist/5DhlHgEyxSctLdzRoo5T44) | [Night Flow](https://open.spotify.com/album/6BUtooxe1o0S9rSLZbmZ24) | 4:09 | 2024-04-01 |  |
 | [Rondo](https://open.spotify.com/track/4El6KySj1S0mkEc0FA5lZC) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [20,Stop it.](https://open.spotify.com/album/7xrqq730qyI2KI8wZIhtU3) | 2:21 | 2024-04-01 |  |
 | [Showtime](https://open.spotify.com/track/5oRsF5BicGgALJBYYnAIq6) | [DATS](https://open.spotify.com/artist/7o1cIignks0pUFY0Pe87oz) | [School](https://open.spotify.com/album/2rAxqAo85FUQwKKLotnqJw) | 4:16 | 2024-04-01 |  |

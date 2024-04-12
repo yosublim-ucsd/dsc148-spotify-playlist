@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,901 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,894 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 32 | [Rocking Around the Christmas Tree \- Gabry Ponte Edit](https://open.spotify.com/track/1HVB3hiWGjoU9k8VBzCSGz) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Home Alone \(On the Night Before Christmas\)](https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ) | 2:38 |
 | 33 | [Last Christmas \- YAMAS Edit](https://open.spotify.com/track/30CO4b3Z9zmbqyguI0nn1a) | [Max Fail](https://open.spotify.com/artist/6fyLFM7G6aSFpZ1BUUDCLf), [YAMAS](https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY) | [Last Christmas \(YAMAS Edit\)](https://open.spotify.com/album/0NAnNrWeRjfT7kMaB9QbLE) | 2:22 |
 | 34 | [Wonderful Dream \(Holidays Are Coming\)](https://open.spotify.com/track/6NcTdDmYsOPE8opSKJF5en) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [Emmie Lee](https://open.spotify.com/artist/4fFlpk8hS56rPSExrMiiLW) | [Home Alone \(On the Night Before Christmas\)](https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ) | 2:53 |
-| 35 | [Rudolph the Red Nosed Reindeer](https://open.spotify.com/track/21LeppXMaq97x4IBvoIhzA) | [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx), [Wolfpack](https://open.spotify.com/artist/74ycentHh1YZrW5x4PLnox), [Polina Grace](https://open.spotify.com/artist/1NHTQwuk3e6uBGMd4V74ug) | [Home Alone \(On the Night Before Christmas\)](https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ) | 2:33 |
-| 36 | [Jingle Bells \- Bass](https://open.spotify.com/track/2ceTja5QWOyt4qMLAcyW0h) | [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [LOL \(International version\)](https://open.spotify.com/album/4cHjA2C6N5h5rIKQYojMLU) | 2:45 |
+| 35 | [Jingle Bells \- Bass](https://open.spotify.com/track/2ceTja5QWOyt4qMLAcyW0h) | [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [LOL \(International version\)](https://open.spotify.com/album/4cHjA2C6N5h5rIKQYojMLU) | 2:45 |
+| 36 | [Rudolph the Red Nosed Reindeer](https://open.spotify.com/track/21LeppXMaq97x4IBvoIhzA) | [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx), [Wolfpack](https://open.spotify.com/artist/74ycentHh1YZrW5x4PLnox), [Polina Grace](https://open.spotify.com/artist/1NHTQwuk3e6uBGMd4V74ug) | [Home Alone \(On the Night Before Christmas\)](https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ) | 2:33 |
 | 37 | [All I Want for Christmas is You](https://open.spotify.com/track/0wARzmaJ58L4Fldo2J8Dpy) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Home Alone \(On the Night Before Christmas\)](https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ) | 2:52 |
 | 38 | [Christmas With You](https://open.spotify.com/track/6CYRNlf9WHdKeuOFNZWTzO) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [Tom Faber](https://open.spotify.com/artist/3fJXOOFs3qd12qPgcZvzFJ), [JAIKO](https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT) | [Christmas With You](https://open.spotify.com/album/35w6FkcyNuQ3wtMG1sJhNX) | 2:27 |
 | 39 | [Somewhere In My Memory \(Home Alone Theme\)](https://open.spotify.com/track/5myPiuaHzvdFCIp8wO6NTQ) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w) | [Home Alone \(On the Night Before Christmas\)](https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ) | 3:13 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 59 | [Angels we have Heard](https://open.spotify.com/track/36kN6zMizaH3nfp5dzQYZZ) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Kaskade Christmas Volume 2](https://open.spotify.com/album/1ad4N7iaoiJtwXZDEX085v) | 3:11 |
 | 60 | [Battle \- Cause & Affect Jingle Bells Remix](https://open.spotify.com/track/4WZ8F1vkdu0H0Ve98rv0gO) | [Riddim Commission](https://open.spotify.com/artist/6VEfh7l6OPJYzIO8vRsqo9), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Cause & Affect](https://open.spotify.com/artist/6rrfw2MwiwpIMnA8pWj1UQ) | [Battle \(Cause & Affect Jingle Bells Remix\)](https://open.spotify.com/album/4OQwvPvXZFW1G2RINQFkZ1) | 2:37 |
 
-Snapshot ID: `MCw0NjlhZWYxOTI1NzY1NzNkYzM1Yzg4NmExMmQyMDhkOGY2NzhjY2M5`
+Snapshot ID: `MTcwMzIyMTIwMCwwMDAwMDAwMGZiZjFiNmNlZjExMGIxMmM0NjQ5NmExZTc3M2IzNDY4`

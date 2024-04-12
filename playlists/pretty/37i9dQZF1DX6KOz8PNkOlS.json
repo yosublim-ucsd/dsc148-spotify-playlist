@@ -1,12 +1,12 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 450168,
+  "num_followers": 450370,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmQ1NTZiMDZjY2VlMTQ4MjJkNTQwY2U2YjkwOGYyZDNlYmM4OTEx",
+  "snapshot_id": "MTcwODk4MzQ4NCwwMDAwMDAwMGVkNzY5NmI1OTJmMDNlZjY0NTQ2YzQ5ODc1Nzk0MWIz",
   "tracks": [
     {
       "added_at": "2023-09-25 02:25:33",
@@ -577,22 +577,6 @@
       "url": "https://open.spotify.com/track/3v7IwjkgOvcdoT0Odgrwzc"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Any Shape You Take",
-        "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 256664,
-      "name": "Hold U",
-      "url": "https://open.spotify.com/track/3LXWz3LTASiVb63HWc7Wa7"
-    },
-    {
       "added_at": "2023-06-02 02:31:02",
       "album": {
         "name": "You Knew",
@@ -611,6 +595,22 @@
       "duration_ms": 271112,
       "name": "CooCool",
       "url": "https://open.spotify.com/track/77v3whD60OC0g4RePlHDhT"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Any Shape You Take",
+        "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 256664,
+      "name": "Hold U",
+      "url": "https://open.spotify.com/track/3LXWz3LTASiVb63HWc7Wa7"
     },
     {
       "added_at": "2023-04-05 03:06:38",
@@ -885,20 +885,20 @@
       "url": "https://open.spotify.com/track/3DU0kVyL8d8DgINz9qBxPQ"
     },
     {
-      "added_at": "2022-12-07 04:54:47",
+      "added_at": "2023-04-05 03:20:02",
       "album": {
-        "name": "Eat You Alive",
-        "url": "https://open.spotify.com/album/4kQXEvj4Q6FLfgmkGgBwPf"
+        "name": "For Granted",
+        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
       },
       "artists": [
         {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Eat You Alive",
-      "url": "https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX"
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -915,22 +915,6 @@
       "duration_ms": 197524,
       "name": "Green Eyes",
       "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
-    },
-    {
-      "added_at": "2023-04-05 03:20:02",
-      "album": {
-        "name": "For Granted",
-        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "For Granted",
-      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
     },
     {
       "added_at": "2022-09-09 13:33:50",
@@ -951,22 +935,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Where Do You Go",
-        "url": "https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "Where Do You Go",
-      "url": "https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Aliso",
         "url": "https://open.spotify.com/album/6SElxQHTuL8pbuQLubKI2U"
       },
@@ -979,6 +947,38 @@
       "duration_ms": 224253,
       "name": "If It Goes",
       "url": "https://open.spotify.com/track/023PoiOdHqjTz2KE5yvPMO"
+    },
+    {
+      "added_at": "2022-12-07 04:54:47",
+      "album": {
+        "name": "Eat You Alive",
+        "url": "https://open.spotify.com/album/4kQXEvj4Q6FLfgmkGgBwPf"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Eat You Alive",
+      "url": "https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Where Do You Go",
+        "url": "https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 237493,
+      "name": "Where Do You Go",
+      "url": "https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1"
     },
     {
       "added_at": "2021-10-28 19:01:32",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 228694,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/0aGWSE3g81t44RSjqfqr7o"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
         "name": "((( 2 )))",
         "url": "https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 133377,
       "name": "Bayou",
       "url": "https://open.spotify.com/track/0CC0kKfkPSIgokD882T9I5"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 228694,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/0aGWSE3g81t44RSjqfqr7o"
     },
     {
       "added_at": "2023-03-30 03:13:10",
@@ -1281,22 +1281,6 @@
       "url": "https://open.spotify.com/track/6GbOyB2RTcyFFp2EryEaPp"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "the masquerade",
-        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "blame game",
-      "url": "https://open.spotify.com/track/2eLi0ovGHZPjI99IpuHVWf"
-    },
-    {
       "added_at": "2023-01-04 01:09:50",
       "album": {
         "name": "20 Years Dope Noir - Oranje Album",
@@ -1319,6 +1303,22 @@
       "duration_ms": 185250,
       "name": "The Moon Above",
       "url": "https://open.spotify.com/track/0LSWKdrsuw8V2IQ3MsoOrF"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "the masquerade",
+        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "blame game",
+      "url": "https://open.spotify.com/track/2eLi0ovGHZPjI99IpuHVWf"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1377,26 +1377,6 @@
       "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
     },
     {
-      "added_at": "2023-10-10 01:29:29",
-      "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        },
-        {
-          "name": "Duncan Bellamy",
-          "url": "https://open.spotify.com/artist/6d5nBcIHQltdskVV1X67jQ"
-        }
-      ],
-      "duration_ms": 258120,
-      "name": "Thin Line",
-      "url": "https://open.spotify.com/track/1Vv16VYpddnreBUtCFy0AE"
-    },
-    {
       "added_at": "2022-04-18 03:39:12",
       "album": {
         "name": "State of Mine",
@@ -1427,6 +1407,26 @@
       "duration_ms": 200480,
       "name": "Coming to Get You Nowhere",
       "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
+    },
+    {
+      "added_at": "2023-10-10 01:29:29",
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "Duncan Bellamy",
+          "url": "https://open.spotify.com/artist/6d5nBcIHQltdskVV1X67jQ"
+        }
+      ],
+      "duration_ms": 258120,
+      "name": "Thin Line",
+      "url": "https://open.spotify.com/track/1Vv16VYpddnreBUtCFy0AE"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1553,22 +1553,6 @@
       "url": "https://open.spotify.com/track/7M02C2rl10InLDWaopNJcO"
     },
     {
-      "added_at": "2023-06-02 01:19:32",
-      "album": {
-        "name": "Giver Taker",
-        "url": "https://open.spotify.com/album/5UWRaW0ui40kohTv4PyBEc"
-      },
-      "artists": [
-        {
-          "name": "Anjimile",
-          "url": "https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp"
-        }
-      ],
-      "duration_ms": 164613,
-      "name": "Baby No More",
-      "url": "https://open.spotify.com/track/50YFf2wxdUPioeqahWKCl1"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Modern World",
@@ -1583,6 +1567,22 @@
       "duration_ms": 282453,
       "name": "Sweet Lie",
       "url": "https://open.spotify.com/track/47AS3xyNXDjP5SrgpG3cmL"
+    },
+    {
+      "added_at": "2023-06-02 01:19:32",
+      "album": {
+        "name": "Giver Taker",
+        "url": "https://open.spotify.com/album/5UWRaW0ui40kohTv4PyBEc"
+      },
+      "artists": [
+        {
+          "name": "Anjimile",
+          "url": "https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp"
+        }
+      ],
+      "duration_ms": 164613,
+      "name": "Baby No More",
+      "url": "https://open.spotify.com/track/50YFf2wxdUPioeqahWKCl1"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1633,6 +1633,22 @@
       "url": "https://open.spotify.com/track/38N4yGHfwByW1BjKBp6FMk"
     },
     {
+      "added_at": "2023-05-31 21:00:26",
+      "album": {
+        "name": "BEAUTIFUL",
+        "url": "https://open.spotify.com/album/2cTswe7OpYEeefFd2yLwZu"
+      },
+      "artists": [
+        {
+          "name": "Pecas",
+          "url": "https://open.spotify.com/artist/6EWKuUzmkUekywt78dM2oU"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "BEAUTIFUL",
+      "url": "https://open.spotify.com/track/1OvVUJCil4YjMH1iSSxbrj"
+    },
+    {
       "added_at": "2022-04-08 19:23:51",
       "album": {
         "name": "Home for Now",
@@ -1667,22 +1683,6 @@
       "duration_ms": 228786,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/3p3ETWclqLR2MHPS2JaLTK"
-    },
-    {
-      "added_at": "2023-05-31 21:00:26",
-      "album": {
-        "name": "BEAUTIFUL",
-        "url": "https://open.spotify.com/album/2cTswe7OpYEeefFd2yLwZu"
-      },
-      "artists": [
-        {
-          "name": "Pecas",
-          "url": "https://open.spotify.com/artist/6EWKuUzmkUekywt78dM2oU"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "BEAUTIFUL",
-      "url": "https://open.spotify.com/track/1OvVUJCil4YjMH1iSSxbrj"
     },
     {
       "added_at": "2021-10-15 03:01:31",

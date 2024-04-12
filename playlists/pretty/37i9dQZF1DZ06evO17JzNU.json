@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 21546,
+  "description": "This Is Los Gemelos De Sinaloa. Los temas esenciales, todos en una lista.",
+  "num_followers": 21549,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjMyNmFhZTFmM2Q2MTJlYjFlOTM5NTNiMDkwNDlkMDJjOGJmYmQw",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDNhNDMzYTkzYzNhM2M1NWFmOTdmNTc5MWUyZTBkNzY5",
   "tracks": [
     {
       "added_at": null,
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bulgari",
+        "url": "https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 164115,
+      "name": "Bulgari",
+      "url": "https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Me Quedan Viendo Raro",
         "url": "https://open.spotify.com/album/0QvRkRdnUEL2reNTuDzzoR"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 197000,
       "name": "Se Me Quedan Viendo Raro",
       "url": "https://open.spotify.com/track/3QidmATponJrOJIcDkCtWT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bulgari",
-        "url": "https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 164115,
-      "name": "Bulgari",
-      "url": "https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj"
     },
     {
       "added_at": null,
@@ -879,8 +879,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adolorido (Vol 1)",
-        "url": "https://open.spotify.com/album/7jxXwVsm7JTuG9j5mClYkO"
+        "name": "Me Toco Ayudar",
+        "url": "https://open.spotify.com/album/4J2wxfPh7nJaBpJhwo3pjg"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 241812,
-      "name": "Sue\u00f1a",
-      "url": "https://open.spotify.com/track/0RykY6cKA0rnJtYrbSR61H"
+      "duration_ms": 195119,
+      "name": "Me Toco Ayudar",
+      "url": "https://open.spotify.com/track/2iwiqbWUHg85OzQMEa2UfY"
     }
   ],
   "unique_name": "This Is Los Gemelos De Sinaloa",

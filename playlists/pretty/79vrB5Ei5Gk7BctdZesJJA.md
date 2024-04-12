@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 
 > Official Roadrunner Records Playlist \- This weeks DEADNOISE.FM playlist is  curated by the LIHC band Stand Still
 
-[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,779 likes - 226 songs - 10 hr 21 min
+[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,778 likes - 226 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

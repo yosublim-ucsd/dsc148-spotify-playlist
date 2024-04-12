@@ -4,7 +4,7 @@
 
 > Les hits zouk du moment\. Photo :  Mik L x Nesly
 
-108 songs - 5 hr 45 min
+109 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Coup de Vent](https://open.spotify.com/track/7EjDwEYLXG7p4LskwoWdjJ) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9), [Young Chang MC](https://open.spotify.com/artist/0Y4XPAlixU89K3Z6oRziZ1) | [Siwo](https://open.spotify.com/album/0xpfEtfYK8t7p4fAkMqxsb) | 2:49 | 2024-03-28 |  |
 | [Dangereuse](https://open.spotify.com/track/6ECdldILAeIdILsuvX6C8D) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [Dangereuse](https://open.spotify.com/album/74gssChBg7pHuz31u2LayX) | 2:58 | 2024-02-29 |  |
 | [Dimension \- Radio edit](https://open.spotify.com/track/7FR3FUSLOLHtN8RjFs6kQY) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Dimension](https://open.spotify.com/album/67C9O2mvhwm5IzinjXT3ns) | 3:38 | 2023-09-28 | 2023-12-08 |
-| [Dis\-moi](https://open.spotify.com/track/4NxvcmdBmR04g4nsfrhMsO) | [Kueena](https://open.spotify.com/artist/2N8ozOg61bquXNTapBfdm7), [Nayane](https://open.spotify.com/artist/2fphOBIhmkJp2O5Gqxlj4t) | [Dis\-moi](https://open.spotify.com/album/77QQGSVPna5U1nwnARigxr) | 3:28 | 2024-01-25 |  |
+| [Dis\-moi](https://open.spotify.com/track/4NxvcmdBmR04g4nsfrhMsO) | [Kueena](https://open.spotify.com/artist/2N8ozOg61bquXNTapBfdm7), [Nayane](https://open.spotify.com/artist/2fphOBIhmkJp2O5Gqxlj4t) | [Dis\-moi](https://open.spotify.com/album/77QQGSVPna5U1nwnARigxr) | 3:28 | 2024-01-25 | 2024-04-12 |
 | [Distance](https://open.spotify.com/track/7nsSPDkAfMev9eH1vjcknr) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Oniro](https://open.spotify.com/album/4aUmWbfmvQRvY5dq7Kwol8) | 3:13 | 2023-09-28 | 2023-10-20 |
 | [Doucement](https://open.spotify.com/track/2488TlZqyBhCGguo7Vuufm) | [Kailyn](https://open.spotify.com/artist/4xErERAoqrxnCgLiSz4uV4), [Rohane](https://open.spotify.com/artist/4sOYdAl0sCehEnO9T1BqS4) | [Doucement](https://open.spotify.com/album/4COlUkMnr9hAg2AoveGDId) | 4:01 | 2024-01-25 |  |
 | [Doudou](https://open.spotify.com/track/4jxoCg2Jl4GLqafbR57DOe) | [Manise](https://open.spotify.com/artist/7lmDLnNHkUvxWJCpqDtdf9) | [Doudou](https://open.spotify.com/album/2ZoUm0yBjaLMlmBCD3VDGc) | 2:42 | 2023-10-05 | 2023-12-22 |
@@ -94,6 +94,7 @@
 | [Sorry](https://open.spotify.com/track/0rzy01OJW2dioLxXZKAyjY) | [DJ Eladji](https://open.spotify.com/artist/0n417By3ZUnFwtll0nx0kV), [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK) | [Sorry](https://open.spotify.com/album/4kzvsd7djGQxiyqv8uK3MG) | 3:12 | 2024-02-08 |  |
 | [Stop](https://open.spotify.com/track/2eYCmlVnHxy838TI9LKE05) | [Colette GAZE](https://open.spotify.com/artist/2rRmWyQHBvAMVd1O4q9Q6U) | [Stop](https://open.spotify.com/album/1V7JUIgcybhG8s3SRzpD4V) | 3:14 | 2023-10-05 | 2023-11-24 |
 | [STOP CA](https://open.spotify.com/track/2juogVxiOaHQhKColeLdw0) | [Naya Subtil](https://open.spotify.com/artist/4VPAcrsBL7hbHYw3teVnyC) | [STOP CA](https://open.spotify.com/album/5eafYCtCmWYZNrpgRr3Y96) | 4:33 | 2023-12-21 | 2024-01-12 |
+| [Succomber](https://open.spotify.com/track/6e0mrjKeAMZQoaEz5W7z0z) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC), [Magical Nrick](https://open.spotify.com/artist/57C1xJXu10Mi0X3toUb8Ig) | [Succomber](https://open.spotify.com/album/1UXhTaV1jujtX4kbwyEbMs) | 4:07 | 2024-04-11 |  |
 | [Sé Vou](https://open.spotify.com/track/7t2jOVBu8OMm567iQBVdO6) | [Elowdy.C](https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt) | [Sé Vou](https://open.spotify.com/album/08wZlqOMwOQsAzkrkfYQmy) | 2:49 | 2023-12-21 | 2024-01-12 |
 | [TASTY](https://open.spotify.com/track/0CUXSCaRvwcShFXPLEtz7F) | [Varaine Ben](https://open.spotify.com/artist/6dP1hrA6zbtVabsfbjiTL8) | [TASTY](https://open.spotify.com/album/1RWI2svnFLEMglOFZEsBKD) | 3:28 | 2024-03-14 |  |
 | [TBS](https://open.spotify.com/track/4VTnmwiWKUFOkKiftm0iRj) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52) | [TBS](https://open.spotify.com/album/3W6B7yuVTXLp5aiQz6MOfZ) | 2:26 | 2024-02-22 | 2024-03-15 |

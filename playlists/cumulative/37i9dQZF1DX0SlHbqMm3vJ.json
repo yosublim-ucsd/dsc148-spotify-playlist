@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Magixx",
+  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Kemuel",
   "name": "Ginger Me",
   "tracks": [
     {
@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 167423,
       "name": "Blood Tonic",
       "url": "https://open.spotify.com/track/5JiTgli1D3CpDsFpDFDgyJ"
@@ -2510,7 +2510,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 155744,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/64z7t6bK8JLmmxZGshF2FO"
@@ -3518,6 +3518,24 @@
       "duration_ms": 156022,
       "name": "Fiya",
       "url": "https://open.spotify.com/track/1Qv0mZ7vP0fCYqKQgPYOfu"
+    },
+    {
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/1NX6VIh1TwDjzXOUc1pyPB"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129576,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/2c79pT6zVLY2FFHgcRtmD9"
     },
     {
       "album": {
@@ -5260,6 +5278,24 @@
       "duration_ms": 154000,
       "name": "JJC",
       "url": "https://open.spotify.com/track/4IcQbIh8U4DtXEy5KWKcAu"
+    },
+    {
+      "album": {
+        "name": "Jolie",
+        "url": "https://open.spotify.com/album/181bermR5Tqlsp90dHgvdP"
+      },
+      "artists": [
+        {
+          "name": "BiQo",
+          "url": "https://open.spotify.com/artist/7ANB4Bn0ymGL0meB4VhR6y"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "Jolie",
+      "url": "https://open.spotify.com/track/2BqNhy0Fc6VZk6TfQu5DDY"
     },
     {
       "album": {
@@ -7097,6 +7133,24 @@
     },
     {
       "album": {
+        "name": "No Worries",
+        "url": "https://open.spotify.com/album/7BaYGyvQegrKi73TX10Mhu"
+      },
+      "artists": [
+        {
+          "name": "Moelogo",
+          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/4VqmxWZGBRnWk810ttwDtT"
+    },
+    {
+      "album": {
         "name": "Nobody Else",
         "url": "https://open.spotify.com/album/67K6eADrJhLqy8r6sH2sUN"
       },
@@ -8176,7 +8230,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 165600,
       "name": "PRAY",
       "url": "https://open.spotify.com/track/4elqMh9ojfxBzk77bCZHcy"

@@ -1,12 +1,12 @@
 {
   "description": "t\u00edrate un paso y saca los prohibidos",
-  "num_followers": 74216,
+  "num_followers": 74261,
   "original_name": "los pasos prohibidos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2EzZWY4ZTM1MTI2YmJiNjYwZDhjMTZkNzIwOTIwMGY4OTJjYTI4",
+  "snapshot_id": "MTY5MjAyODA4NywwMDAwMDAwMGEzNGZmNjk2MzY4Yjg5YTE2NmQxZWNjOGI1YTAyZTYy",
   "tracks": [
     {
       "added_at": "2023-08-14 15:48:07",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-08-14 15:48:07",
       "album": {
-        "name": "Pa\u2019 la Selecci\u00f3n",
-        "url": "https://open.spotify.com/album/3S3QVRXr0QxDc6bg5w4DbN"
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
       },
       "artists": [
         {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
         }
       ],
-      "duration_ms": 186735,
-      "name": "Pa\u2019 la Selecci\u00f3n",
-      "url": "https://open.spotify.com/track/4J1vAbtAhMdsdpO1sKU3EO"
+      "duration_ms": 178050,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
     },
     {
       "added_at": "2023-08-14 15:48:07",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-08-14 15:48:07",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
+        "name": "Pa\u2019 la Selecci\u00f3n",
+        "url": "https://open.spotify.com/album/3S3QVRXr0QxDc6bg5w4DbN"
       },
       "artists": [
         {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
         }
       ],
-      "duration_ms": 178050,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
+      "duration_ms": 186735,
+      "name": "Pa\u2019 la Selecci\u00f3n",
+      "url": "https://open.spotify.com/track/4J1vAbtAhMdsdpO1sKU3EO"
     },
     {
       "added_at": "2023-08-14 15:48:07",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-08-14 15:48:07",
       "album": {
-        "name": "Los Due\u00f1os del Swing",
-        "url": "https://open.spotify.com/album/6ZQf6jgUi4K33aCD04SAYw"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 260600,
-      "name": "La Due\u00f1a del Swing",
-      "url": "https://open.spotify.com/track/4ZF74uJy2XGgVx8TUeYjZ8"
-    },
-    {
-      "added_at": "2023-08-14 15:48:07",
-      "album": {
         "name": "No Me Llames Mas",
         "url": "https://open.spotify.com/album/1kGauj7au3yzXtrajKOnjd"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 267415,
       "name": "No Me Llames Mas",
       "url": "https://open.spotify.com/track/73NQ9fWD3g74wsUh5LTdfF"
+    },
+    {
+      "added_at": "2023-08-14 15:48:07",
+      "album": {
+        "name": "Los Due\u00f1os del Swing",
+        "url": "https://open.spotify.com/album/6ZQf6jgUi4K33aCD04SAYw"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 260600,
+      "name": "La Due\u00f1a del Swing",
+      "url": "https://open.spotify.com/track/4ZF74uJy2XGgVx8TUeYjZ8"
     },
     {
       "added_at": "2023-08-14 15:48:07",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-08-14 15:48:07",
       "album": {
+        "name": "Pegao",
+        "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 160733,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
+    },
+    {
+      "added_at": "2023-08-14 15:48:07",
+      "album": {
         "name": "Ya Fue",
         "url": "https://open.spotify.com/album/7HP4D9IXODFyFuJcOfJmDa"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 193636,
       "name": "Ya Fue",
       "url": "https://open.spotify.com/track/61mCcE6UJZyxKESDCPvrim"
-    },
-    {
-      "added_at": "2023-08-14 15:48:07",
-      "album": {
-        "name": "Pegao",
-        "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 160733,
-      "name": "Pegao",
-      "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
     },
     {
       "added_at": "2023-08-14 15:48:07",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-08-14 15:48:07",
       "album": {
-        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
-        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
-      },
-      "artists": [
-        {
-          "name": "Banda Blanca",
-          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
-        }
-      ],
-      "duration_ms": 293906,
-      "name": "Sopa de Caracol",
-      "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
-    },
-    {
-      "added_at": "2023-08-14 15:48:07",
-      "album": {
         "name": "De Parranda Lives Vol. 5",
         "url": "https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 252888,
       "name": "Te Vez Buena - En Vivo",
       "url": "https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn"
+    },
+    {
+      "added_at": "2023-08-14 15:48:07",
+      "album": {
+        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
+        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
+      },
+      "artists": [
+        {
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+        }
+      ],
+      "duration_ms": 293906,
+      "name": "Sopa de Caracol",
+      "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
     },
     {
       "added_at": "2023-08-14 15:48:07",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-08-14 15:48:07",
       "album": {
-        "name": "El Angel Del Amor",
-        "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
-      },
-      "artists": [
-        {
-          "name": "Los Tepoz",
-          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
-        }
-      ],
-      "duration_ms": 281861,
-      "name": "Te Vas Con El O Te Vas Conmigo",
-      "url": "https://open.spotify.com/track/1dPss1wm3YbdRMuYinPrqq"
-    },
-    {
-      "added_at": "2023-08-14 15:48:07",
-      "album": {
         "name": "Cumbia Lorana Wepa Sonido Pirata",
         "url": "https://open.spotify.com/album/7JQKsSHzMunfkJTIm5mSNq"
       },
@@ -1003,22 +987,6 @@
       "duration_ms": 200293,
       "name": "Cumbia Lorana Wepa Sonido Pirata",
       "url": "https://open.spotify.com/track/1MlrJvn4XU6itpl3R9pcrY"
-    },
-    {
-      "added_at": "2023-08-14 15:48:07",
-      "album": {
-        "name": "Me Declaro Culpable",
-        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
-      },
-      "artists": [
-        {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "Bailan Rochas y Chetas",
-      "url": "https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ"
     },
     {
       "added_at": "2023-08-14 15:48:07",
@@ -1039,6 +1007,22 @@
       "duration_ms": 312737,
       "name": "Messirve mix 5",
       "url": "https://open.spotify.com/track/5piFBPcOsr6OWbBvNjJRuF"
+    },
+    {
+      "added_at": "2023-08-14 15:48:07",
+      "album": {
+        "name": "Me Declaro Culpable",
+        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
+      },
+      "artists": [
+        {
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "Bailan Rochas y Chetas",
+      "url": "https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ"
     },
     {
       "added_at": "2023-08-14 15:48:07",
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2023-08-14 15:48:07",
       "album": {
+        "name": "Las Compuse Para Ti",
+        "url": "https://open.spotify.com/album/0Jdt8JXPRa2iu5DL356US6"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "La Mushasha Shula",
+      "url": "https://open.spotify.com/track/7lew5Jg3zonvV0sV3pJ3hD"
+    },
+    {
+      "added_at": "2023-08-14 15:48:07",
+      "album": {
         "name": "Hoy Volvi a Verte (Remix)",
         "url": "https://open.spotify.com/album/7yE1sC8CgEAbE6FMHG2la0"
       },
@@ -1231,22 +1231,6 @@
       "duration_ms": 162461,
       "name": "Hoy Volvi a Verte - Remix",
       "url": "https://open.spotify.com/track/0KvtuCa8aGD8SR39aLLLj5"
-    },
-    {
-      "added_at": "2023-08-14 15:48:07",
-      "album": {
-        "name": "Las Compuse Para Ti",
-        "url": "https://open.spotify.com/album/0Jdt8JXPRa2iu5DL356US6"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "La Mushasha Shula",
-      "url": "https://open.spotify.com/track/7lew5Jg3zonvV0sV3pJ3hD"
     },
     {
       "added_at": "2023-08-14 15:48:07",
@@ -1295,6 +1279,22 @@
       "duration_ms": 298373,
       "name": "Mi Mujer Me Gobierna",
       "url": "https://open.spotify.com/track/6O5K9nWwxg5gTijmedgWdc"
+    },
+    {
+      "added_at": "2023-08-14 15:48:07",
+      "album": {
+        "name": "Best Of The Best",
+        "url": "https://open.spotify.com/album/6FHozfvoQ11QmsvbulUNlo"
+      },
+      "artists": [
+        {
+          "name": "Oro Solido",
+          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
+        }
+      ],
+      "duration_ms": 289506,
+      "name": "El Baile del Beeper - Version Mexico",
+      "url": "https://open.spotify.com/track/3LPRCFmqXUilyKIOT0EYDN"
     }
   ],
   "unique_name": "los pasos prohibidos",

@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-224 songs - 13 hr 41 min
+225 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Dding Ddong 띵똥](https://open.spotify.com/track/5MhaGNv86SKKEi0VcLzyHa) | [Adult Child](https://open.spotify.com/artist/3Mkyj27HpE3rIMDoYfRFCl) | [The 3rd Full Album 'Todak Todak' The 3rd Full Album '토닥토닥'](https://open.spotify.com/album/6Ch8yUEj27zS31qWjlm7SJ) | 5:53 | 2022-07-04 | 2022-07-07 |
 | [ddu ddu ddu](https://open.spotify.com/track/6WfW2xPw3X5FiJPQWkaXoN) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:32 | 2022-06-20 |  |
 | [Decaffeine](https://open.spotify.com/track/3Y2ghMWFEqlzQZNyraFcil) | [EB](https://open.spotify.com/artist/5dTfHslH6PS97tNNgDwYaC) | [Decaffeine](https://open.spotify.com/album/6CmwNQe0CYq30ek11Wy1jK) | 3:03 | 2022-06-20 | 2022-06-25 |
-| [Deep in the night, you and me](https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Deep in the night, you and me](https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ) | 2:47 | 2022-06-20 |  |
+| [Deep in the night, you and me](https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Deep in the night, you and me](https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ) | 2:47 | 2022-06-20 | 2024-04-12 |
 | [Delete](https://open.spotify.com/track/48a0s6zGIkfbSBrt3k9uVC) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Delete](https://open.spotify.com/album/7taYu0eectJZcGNYXIF6R9) | 4:09 | 2022-07-13 | 2022-09-06 |
 | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래 \(feat\. BIG Naughty\)](https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래](https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa) | 3:29 | 2022-07-08 | 2023-01-23 |
 | [Distance \(Feat\. I.M of MONSTA X\)](https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:11 | 2022-07-04 |  |
@@ -108,6 +108,7 @@
 | [Love is alone](https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:22 | 2022-07-22 | 2022-08-14 |
 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-12 |  |
 | [Love me like you do](https://open.spotify.com/track/3bBhhf0aalrrfvUbOb3nrH) | [yukon](https://open.spotify.com/artist/5xhOn3cPLp1ZUQsQE54LoA) | [my Imperfections](https://open.spotify.com/album/5yjieZorv88zV3tBkfBPsx) | 3:28 | 2023-07-17 | 2023-07-28 |
+| [Magnolia](https://open.spotify.com/track/5I9T77pGZ9rikjJ9f8Cdrt) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [Magnolia](https://open.spotify.com/album/0rTwhxZVCiYqRkckGvUlvw) | 2:51 | 2024-04-09 |  |
 | [Magnolia](https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [Magnolia](https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7) | 2:51 | 2022-06-20 | 2024-04-02 |
 | [Maze in the Mirror](https://open.spotify.com/track/12I69qHomlIZflYA1G2MAp) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) | 3:46 | 2022-07-22 |  |
 | [Maze in the Mirror](https://open.spotify.com/track/2tYA2hPbaJqshY73q15wJz) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/2fL64wNyyZ4BwwRImYeora) | 3:46 | 2022-06-20 | 2022-07-28 |

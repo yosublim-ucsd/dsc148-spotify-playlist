@@ -2,7 +2,7 @@
 
 ### [70s Rock Anthems](https://open.spotify.com/playlist/37i9dQZF1DWWwzidNQX6jx)
 
-> The songs rocked the 70s
+> These songs rocked the 70s.
 
 172 songs - 12 hr 56 min
 

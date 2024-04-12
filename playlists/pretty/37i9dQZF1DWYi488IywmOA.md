@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYi488IywmOA.md) - [plain]
 
 > Blues favorites from 2023\. Cover: Joe Bonamassa \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,889 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,890 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYi488IywmOA.md) - [plain]
 | 66 | [Runaway Train](https://open.spotify.com/track/0p0F9JbSXgllWzOAIeje7Y) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Runaway Train](https://open.spotify.com/album/6TylTdm2xJghIX9o9sBp1Y) | 4:15 |
 | 67 | [When Love Comes In](https://open.spotify.com/track/3GSNgcN4DnYTIYqL7GzIZT) | [Jonathan Butler](https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Ubuntu](https://open.spotify.com/album/4LXDvWeh10zukOZS0Dl8Bz) | 4:14 |
 | 68 | [The Love That Once Lingered \(feat\. Lady Blackbird\)](https://open.spotify.com/track/5oCPBjkyJBP8FODIGXMTHH) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0), [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Heavy Hymnal](https://open.spotify.com/album/4R6uI1hHGcUTKrOWdXrg4t) | 3:54 |
-| 69 | [Undertow](https://open.spotify.com/track/0EbZNGeKLzAqYuYuNOCack) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep and the Dirty](https://open.spotify.com/album/67KkHhNmrpt1NkoiRW1cXc) | 3:22 |
+| 69 | [Undertow](https://open.spotify.com/track/0RfKd24loJM7TM9rv5GdQk) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep And The Dirty](https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4) | 3:22 |
 | 70 | [Outrun](https://open.spotify.com/track/42Xl2G8iLEOaoBU6A3ezI3) | [WEARETHEGOOD](https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw), [Lynnea](https://open.spotify.com/artist/7f06QWoFAvtpEuho7NEDLN) | [Scores & Melodies Vol\. 1](https://open.spotify.com/album/6gwvqyqV3SLMlfNLU5bymG) | 3:15 |
 | 71 | [Rise](https://open.spotify.com/track/34PJD8wnaZoBORxGnsOmwu) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [Rise](https://open.spotify.com/album/1DPfF5V0qhOJXWlmUjCdL5) | 2:52 |
 | 72 | [Burn](https://open.spotify.com/track/2LDcXG53amA6UDn9sUkzQZ) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3), [Sari Schorr](https://open.spotify.com/artist/65EcwCjlQu3XbQEbSqYBGl) | [Burn](https://open.spotify.com/album/4gHKX42TgeTtJ0ichg2C4O) | 4:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYi488IywmOA.md) - [plain]
 | 74 | [Y.A.T.O \(You Ain't The One\)](https://open.spotify.com/track/0JXuO3IvoHqhVYvIWyRlNT) | [Malina Moye](https://open.spotify.com/artist/3fPngdGRZMBzFFBf3ql2XK) | [Dirty](https://open.spotify.com/album/7k94nlPDqq4R5tIq1KuWKP) | 3:38 |
 | 75 | [No Lovin’](https://open.spotify.com/track/6ET7xDSbmaRGJrx1FQlJpv) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Tell Everybody! \(21st Century Juke Joint Blues From Easy Eye Sound\)](https://open.spotify.com/album/3GTVE7nzIEmerPTDJwpdbD) | 4:17 |
 
-Snapshot ID: `MCw1MGZiNzdiYTEzNTNiMTViYWVjZWQ3YTBmODYxNmFlMzY1NTZkZTJh`
+Snapshot ID: `MTcwMTI2MDIyMCwwMDAwMDAwMDg5ZGQ5OGY4ZTA5ZjA0YTJjOTM2ZWI3ZGIzYmFiMDgx`

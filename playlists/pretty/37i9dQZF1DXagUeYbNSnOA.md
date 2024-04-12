@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Pink Pablo performing at Fresh Finds Chicago March 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,252 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,268 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 26 | [Guayaba](https://open.spotify.com/track/6dlenBkeYmaJyEwmJTANbQ) | [Alex O'aiza](https://open.spotify.com/artist/1uXqUMtQBxXM5IMvvz1LyT) | [Guayaba](https://open.spotify.com/album/50yHsAam5b6aOl5rTY1aCG) | 3:26 |
 | 27 | [Volverme Amar](https://open.spotify.com/track/0ik9ayovWhJWxhwXPtaGUc) | [Henao](https://open.spotify.com/artist/2tAOr6Bu4b1JDQjRZcMdML) | [Volverme Amar](https://open.spotify.com/album/20mCBhOBx82QuOJ2BsHfgp) | 2:10 |
 | 28 | [Luz En Mi Oscuridad](https://open.spotify.com/track/70IL7i6d8xfWm1cvUrJmHp) | [Rodrigo Solo](https://open.spotify.com/artist/2XSPl1pclaAddjCxZTOhZT) | [Luz En Mi Oscuridad](https://open.spotify.com/album/5weRbTbbJzq83A88TX4EW4) | 2:25 |
-| 29 | [Bahía](https://open.spotify.com/track/5Jd9tVeF2TOspZIJsXAqah) | [Bachata Mexican Combo](https://open.spotify.com/artist/0CdBLcZNj9LFyBc0aJOqIb) | [Bahía](https://open.spotify.com/album/5Y00zKgbmu3PFPlxZOggrK) | 3:35 |
+| 29 | [Bahía](https://open.spotify.com/track/5Jd9tVeF2TOspZIJsXAqah) | [Bachata Mexican Combo](https://open.spotify.com/artist/0CdBLcZNj9LFyBc0aJOqIb), [alessa de lara](https://open.spotify.com/artist/1v6ADBBD7QnwAiEmp4KOnc) | [Bahía](https://open.spotify.com/album/5Y00zKgbmu3PFPlxZOggrK) | 3:35 |
 | 30 | [Náufrago](https://open.spotify.com/track/16FMSKyIPMDEUFCYPrTOum) | [Menino Bulle](https://open.spotify.com/artist/6zxXwaIhTcmOKktiZn3CjK) | [Náufrago](https://open.spotify.com/album/01SK39ZUEWvWxlRG4ye45e) | 4:12 |
 | 31 | [TORMENTA](https://open.spotify.com/track/7tecT1JCzpQmJyODHr30FM) | [kor!](https://open.spotify.com/artist/1I20nipdKCbAY4mrnI78xK), [Carboney](https://open.spotify.com/artist/6ISLQqUwH58zfV93dKbhg0), [Korem](https://open.spotify.com/artist/7cDEE7w3wLh1Ft3AVksXqS) | [TORMENTA](https://open.spotify.com/album/23ho4gFe4t5yqpVUqpKim5) | 2:57 |
 | 32 | [CICATRICES](https://open.spotify.com/track/6Sh6jPnYKWEUR4e9mCbMH9) | [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0), [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu), [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf) | [CICATRICES](https://open.spotify.com/album/40jhpk6wiMqbkZXkm2PnST) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Agua por el rio](https://open.spotify.com/track/2QDI5YME101OVywAT0w2Ih) | [CES](https://open.spotify.com/artist/6MmkcMB76RqX4B4mdhkTQE), [omarverso](https://open.spotify.com/artist/4VNxOXL24ht0hPmJMUXrWw), [Delusion Bay](https://open.spotify.com/artist/0rQX6hHB09a9yf7tBLPXzz) | [Agua por el rio](https://open.spotify.com/album/1s7B0xIqHde9HzYNdOLfio) | 3:08 |
 | 50 | [aguardiente](https://open.spotify.com/track/45Es57L177QwhVZ06hwvCd) | [Miranda del Sol](https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7) | [aguardiente](https://open.spotify.com/album/3TIihrZYBfGRrfsEcGz6Ch) | 2:51 |
 
-Snapshot ID: `MCxmMDM4ZDk4MmE2MjlmMTIxOTI4NmY0NTFjZTlkZmFjYjliOGI0Yzg4`
+Snapshot ID: `MTcxMjcyMTYwMCwwMDAwMDAwMGVlNDMwMjVkN2NmZWYwN2UzYjBkYmQyNDVmYTA5MDc5`

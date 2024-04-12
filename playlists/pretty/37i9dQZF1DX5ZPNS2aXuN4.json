@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the music of Bartok, Hungary's greatest composer.",
-  "num_followers": 20007,
+  "num_followers": 20019,
   "original_name": "This Is Bart\u00f3k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWY1YzZhNzMxYWZhZGRiNWFlY2YyNzg2ODVjYmRkYzZmYWVkMzg2",
+  "snapshot_id": "MTY4NjgzNTgzMiwwMDAwMDAwMDYwZTg1ZTZlYmZlNjdlZGNhZjI3OTBmMDQ3MmE1NzZi",
   "tracks": [
     {
       "added_at": "2022-07-01 04:02:00",
@@ -511,6 +511,34 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "Bartok, E\u00f6tv\u00f6s, Ligeti",
+        "url": "https://open.spotify.com/album/3TWUktoDymo3inYpD6yNpS"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Patricia Kopatchinskaja",
+          "url": "https://open.spotify.com/artist/14Lewm6NkTHl5PGUzbFudC"
+        },
+        {
+          "name": "Peter E\u00f6tv\u00f6s",
+          "url": "https://open.spotify.com/artist/3pYJ8R30XjH8PutGI42wtL"
+        },
+        {
+          "name": "Frankfurt Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XoXD9qLXeOBK6CtR2bbZQ"
+        }
+      ],
+      "duration_ms": 601866,
+      "name": "Violin Concerto No. 2, Sz. 112: II. Andante tranquillo",
+      "url": "https://open.spotify.com/track/6yVbBDI2gPqKnSJDb6UbD3"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "Bart\u00f3k",
         "url": "https://open.spotify.com/album/3H1H5H49IB1Xw8z6qX8lmt"
       },
@@ -555,34 +583,6 @@
       "duration_ms": 161466,
       "name": "Mikrokosmos: 7 Pieces for 2 Pianos, 4 Hands, BB 120: No. 7. Ostinato: Vivacissimo (arr. of Vol. 6, No. 146)",
       "url": "https://open.spotify.com/track/6nQEtXqLyiug0wZwvT38pj"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Bartok, E\u00f6tv\u00f6s, Ligeti",
-        "url": "https://open.spotify.com/album/3TWUktoDymo3inYpD6yNpS"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Patricia Kopatchinskaja",
-          "url": "https://open.spotify.com/artist/14Lewm6NkTHl5PGUzbFudC"
-        },
-        {
-          "name": "Peter E\u00f6tv\u00f6s",
-          "url": "https://open.spotify.com/artist/3pYJ8R30XjH8PutGI42wtL"
-        },
-        {
-          "name": "Frankfurt Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1XoXD9qLXeOBK6CtR2bbZQ"
-        }
-      ],
-      "duration_ms": 601866,
-      "name": "Violin Concerto No. 2, Sz. 112: II. Andante tranquillo",
-      "url": "https://open.spotify.com/track/6yVbBDI2gPqKnSJDb6UbD3"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -739,6 +739,26 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "Bartok: Complete String Quartets",
+        "url": "https://open.spotify.com/album/44LynWVVBkG9EyTo05c5IX"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Heath Quartet",
+          "url": "https://open.spotify.com/artist/5MvZXG0LIbhA4XPss20Hvc"
+        }
+      ],
+      "duration_ms": 546920,
+      "name": "String Quartet No. 1, Sz. 40: I. Lento",
+      "url": "https://open.spotify.com/track/3sCKSszvRtvCbIOCGVgXAY"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "On Two Pianos",
         "url": "https://open.spotify.com/album/5ehHpfDnVZ8bva7wv9zVky"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 49893,
       "name": "Seven Pieces from Mikrokosmos: no.135 Perpetuum mobile - Live",
       "url": "https://open.spotify.com/track/64M1y2P7VuxfBEeoj55aaF"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Bartok: Complete String Quartets",
-        "url": "https://open.spotify.com/album/44LynWVVBkG9EyTo05c5IX"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Heath Quartet",
-          "url": "https://open.spotify.com/artist/5MvZXG0LIbhA4XPss20Hvc"
-        }
-      ],
-      "duration_ms": 546920,
-      "name": "String Quartet No. 1, Sz. 40: I. Lento",
-      "url": "https://open.spotify.com/track/3sCKSszvRtvCbIOCGVgXAY"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1279,30 +1279,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bartok: 5 Songs / Hungarian Folksongs",
-        "url": "https://open.spotify.com/album/6YmwcQKBGg6puz6vSTcmuk"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Julia Hamari",
-          "url": "https://open.spotify.com/artist/4H3kRAUrqpZSAUUXtWm8jt"
-        },
-        {
-          "name": "Ilona Prunyi",
-          "url": "https://open.spotify.com/artist/4YwG4hDeSXGqjuzxQ5oWvZ"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "5 Dal (5 Songs), BB 71: No. 2. Nyar: Szomjasan vagyva (Summer: Lying and Longing)",
-      "url": "https://open.spotify.com/track/1Pv0QKjixOJM0SWBqSzFnp"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Bart\u00f3k: 44 Violin Duos",
         "url": "https://open.spotify.com/album/5Q7FzPEcV0ZTXlprkNEBZd"
       },
@@ -1323,6 +1299,30 @@
       "duration_ms": 50133,
       "name": "Forgat\u00f3s",
       "url": "https://open.spotify.com/track/0kEhYk7x9tux02gC86vGSZ"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Bartok: 5 Songs / Hungarian Folksongs",
+        "url": "https://open.spotify.com/album/6YmwcQKBGg6puz6vSTcmuk"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Julia Hamari",
+          "url": "https://open.spotify.com/artist/4H3kRAUrqpZSAUUXtWm8jt"
+        },
+        {
+          "name": "Ilona Prunyi",
+          "url": "https://open.spotify.com/artist/4YwG4hDeSXGqjuzxQ5oWvZ"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "5 Dal (5 Songs), BB 71: No. 2. Nyar: Szomjasan vagyva (Summer: Lying and Longing)",
+      "url": "https://open.spotify.com/track/1Pv0QKjixOJM0SWBqSzFnp"
     },
     {
       "added_at": "2022-07-01 04:02:00",

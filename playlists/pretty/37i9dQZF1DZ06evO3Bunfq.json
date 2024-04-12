@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 102587,
+  "num_followers": 102651,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTYxY2Y4OTE2NzBjYWM5NTZiZDcyNmIxMTA2MmEwZmI3NTRhMDI2",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMGJmOTU3M2FjNmZiZDYxYmNhMGZiYWEyZDUwMTMzMjUz",
   "tracks": [
     {
       "added_at": null,
@@ -868,13 +868,17 @@
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         },
         {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
         }
       ],
-      "duration_ms": 175208,
-      "name": "Seguimos Controlando",
-      "url": "https://open.spotify.com/track/3E1WD6DTUTgIn5Tfpgg6Zz"
+      "duration_ms": 269714,
+      "name": "Polvo Blanco",
+      "url": "https://open.spotify.com/track/0pLOQYM1WMrlNtQedapWTM"
     },
     {
       "added_at": null,
@@ -956,17 +960,13 @@
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         },
         {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        },
-        {
-          "name": "Tiro Loko",
-          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
         }
       ],
-      "duration_ms": 269714,
-      "name": "Polvo Blanco",
-      "url": "https://open.spotify.com/track/0pLOQYM1WMrlNtQedapWTM"
+      "duration_ms": 175208,
+      "name": "Seguimos Controlando",
+      "url": "https://open.spotify.com/track/3E1WD6DTUTgIn5Tfpgg6Zz"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Ser\u00e9 la gata bajo la lluvia... \ud83d\ude3f",
-  "num_followers": 84514,
+  "num_followers": 84574,
   "original_name": "viendo llover desde la ventana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTA5NWFmNGFkZGQ1ODdiNTU1ZTQ5YTI1MDVjNjFmMDNjOWRhOWM5",
+  "snapshot_id": "MTcwNjE5ODE1MCwwMDAwMDAwMDU2NGI5ZTFhODRlN2Q4MDQwOWJhNWIwMGIzMmVhMWYw",
   "tracks": [
     {
       "added_at": "2024-01-25 15:55:50",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-01-25 15:55:50",
       "album": {
-        "name": "Stop",
-        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 238160,
-      "name": "T\u00fa de Qu\u00e9 Vas",
-      "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
-    },
-    {
-      "added_at": "2024-01-25 15:55:50",
-      "album": {
         "name": "\"Heroes\" (2017 Remaster)",
         "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 371413,
       "name": "Heroes - 2017 Remaster",
       "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
+    },
+    {
+      "added_at": "2024-01-25 15:55:50",
+      "album": {
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 238160,
+      "name": "T\u00fa de Qu\u00e9 Vas",
+      "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
     },
     {
       "added_at": "2024-01-25 15:55:50",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-01-25 15:55:50",
       "album": {
-        "name": "Lo Hice, Te Dej\u00e9",
-        "url": "https://open.spotify.com/album/6iH2QdPCGdGbq1qEXgI8KN"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 186730,
-      "name": "Lo Hice, Te Dej\u00e9",
-      "url": "https://open.spotify.com/track/5HT7sdhkOCFVegIoMOL7yj"
-    },
-    {
-      "added_at": "2024-01-25 15:55:50",
-      "album": {
         "name": "By My Own",
         "url": "https://open.spotify.com/album/45A5aSPBspEdUdYgWDW0B4"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 220000,
       "name": "By My Own",
       "url": "https://open.spotify.com/track/1XiptdPHH8raaPDU3gdrWW"
+    },
+    {
+      "added_at": "2024-01-25 15:55:50",
+      "album": {
+        "name": "Lo Hice, Te Dej\u00e9",
+        "url": "https://open.spotify.com/album/6iH2QdPCGdGbq1qEXgI8KN"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 186730,
+      "name": "Lo Hice, Te Dej\u00e9",
+      "url": "https://open.spotify.com/track/5HT7sdhkOCFVegIoMOL7yj"
     },
     {
       "added_at": "2024-01-25 15:55:50",

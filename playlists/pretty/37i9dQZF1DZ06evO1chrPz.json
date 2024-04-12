@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 196849,
+  "num_followers": 196883,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjI1MDY4ZGY0ZTlmMWMwOTJhMTRkMjQzZWJhMDIwOGM5Y2UzOWQx",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMGM3MjU1OTA4MDcyZTczYjFkOTI5OGZhZDM3ODYxYmUw",
   "tracks": [
     {
       "added_at": null,
@@ -199,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace, Vol. II",
-        "url": "https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 316666,
-      "name": "Rescue",
-      "url": "https://open.spotify.com/track/0rbCIePwNYXpvD451ihkVO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 297293,
       "name": "Peace",
       "url": "https://open.spotify.com/track/2Gpk1rtu5wVUCMQH86kErs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace, Vol. II",
+        "url": "https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 316666,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/0rbCIePwNYXpvD451ihkVO"
     },
     {
       "added_at": null,
@@ -279,26 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simple",
-        "url": "https://open.spotify.com/album/6Loc2VbViFUgIe6EYa6z4Q"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Emmy Rose",
-          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
-        }
-      ],
-      "duration_ms": 293377,
-      "name": "Tend",
-      "url": "https://open.spotify.com/track/21OxPURFtFrTwWGq9aJCju"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 376093,
       "name": "Dancing on the Waves",
       "url": "https://open.spotify.com/track/2soQW3y7DwZIPH4fS5av1W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simple",
+        "url": "https://open.spotify.com/album/6Loc2VbViFUgIe6EYa6z4Q"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Emmy Rose",
+          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
+        }
+      ],
+      "duration_ms": 293377,
+      "name": "Tend",
+      "url": "https://open.spotify.com/track/21OxPURFtFrTwWGq9aJCju"
     },
     {
       "added_at": null,
@@ -363,26 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace, Vol. II",
-        "url": "https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 261519,
-      "name": "You're Gonna Be Ok",
-      "url": "https://open.spotify.com/track/35sVDinWrh5nYjpzPXe4qz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 303053,
       "name": "Surrounded (Fight My Battles)",
       "url": "https://open.spotify.com/track/0HtWxjydJ3pEwT5nHJxxZ1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace, Vol. II",
+        "url": "https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 261519,
+      "name": "You're Gonna Be Ok",
+      "url": "https://open.spotify.com/track/35sVDinWrh5nYjpzPXe4qz"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Words: Genesis",
-        "url": "https://open.spotify.com/album/0CLCgSt8wDFmoDpLLN09X2"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 201186,
-      "name": "Tremble",
-      "url": "https://open.spotify.com/track/4cMLthbMtEEghWm4C6jkfO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 414173,
       "name": "The Blessing",
       "url": "https://open.spotify.com/track/5cebPQVq4mdFykugzU2LfU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Without Words: Genesis",
+        "url": "https://open.spotify.com/album/0CLCgSt8wDFmoDpLLN09X2"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 201186,
+      "name": "Tremble",
+      "url": "https://open.spotify.com/track/4cMLthbMtEEghWm4C6jkfO"
     },
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Make Me Brave (Live)",
-        "url": "https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        }
-      ],
-      "duration_ms": 366160,
-      "name": "You Make Me Brave - Live",
-      "url": "https://open.spotify.com/track/14I9CpiA1CMTdLga8SKAjJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 341173,
       "name": "Reckless Love",
       "url": "https://open.spotify.com/track/2uKwH2Wc0vtVXrRieOMxlu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Make Me Brave (Live)",
+        "url": "https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "duration_ms": 366160,
+      "name": "You Make Me Brave - Live",
+      "url": "https://open.spotify.com/track/14I9CpiA1CMTdLga8SKAjJ"
     },
     {
       "added_at": null,
@@ -595,6 +595,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        }
+      ],
+      "duration_ms": 319546,
+      "name": "By the Grace of God",
+      "url": "https://open.spotify.com/track/2NLGDqOvvIU1ZNzAFHeVcO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Moments: Wait (Live)",
         "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 442158,
       "name": "When You Walk Into The Room (Spontaneous) [Live]",
       "url": "https://open.spotify.com/track/0ICuhxx8bdbS1cYRdk5T7t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
-        }
-      ],
-      "duration_ms": 319546,
-      "name": "By the Grace of God",
-      "url": "https://open.spotify.com/track/2NLGDqOvvIU1ZNzAFHeVcO"
     },
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Up Here",
-        "url": "https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Zahriya Zachary",
-          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
-        }
-      ],
-      "duration_ms": 294280,
-      "name": "Surrounded By Holy",
-      "url": "https://open.spotify.com/track/3Gx2IFzYlAhaGpBMASAA0U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homecoming (Live)",
         "url": "https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 468274,
       "name": "Homecoming - Live",
       "url": "https://open.spotify.com/track/18Kt9lI9qQK5hUHtaIPOP2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Up Here",
+        "url": "https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        }
+      ],
+      "duration_ms": 294280,
+      "name": "Surrounded By Holy",
+      "url": "https://open.spotify.com/track/3Gx2IFzYlAhaGpBMASAA0U"
     },
     {
       "added_at": null,
@@ -907,8 +907,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Up Here",
-        "url": "https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03"
+        "name": "Be Lifted High",
+        "url": "https://open.spotify.com/album/4AfsCUxKAgdmrQGsL88rzC"
       },
       "artists": [
         {
@@ -916,17 +916,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Hannah McClure",
-          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
         }
       ],
-      "duration_ms": 281893,
-      "name": "Precious Blood",
-      "url": "https://open.spotify.com/track/4EjoSOfFN7HQVzwl5txinM"
+      "duration_ms": 452520,
+      "name": "God I Look to You",
+      "url": "https://open.spotify.com/track/5VMPBdWTXlBkTOinoxfhHI"
     },
     {
       "added_at": null,
@@ -955,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Lifted High",
-        "url": "https://open.spotify.com/album/4AfsCUxKAgdmrQGsL88rzC"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 452520,
-      "name": "God I Look to You",
-      "url": "https://open.spotify.com/track/5VMPBdWTXlBkTOinoxfhHI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moments: Wait (Live)",
         "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
       },
@@ -991,6 +967,30 @@
       "duration_ms": 759555,
       "name": "Forever YHWH/Worthy Of It All (Spontaneous) [Live]",
       "url": "https://open.spotify.com/track/4xm3qwFnmrAasxzmFVBOUY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Up Here",
+        "url": "https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "duration_ms": 281893,
+      "name": "Precious Blood",
+      "url": "https://open.spotify.com/track/4EjoSOfFN7HQVzwl5txinM"
     },
     {
       "added_at": null,
@@ -1035,8 +1035,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Up Here",
-        "url": "https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03"
+        "name": "Moments: Wait (Live)",
+        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
       },
       "artists": [
         {
@@ -1044,13 +1044,17 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+          "name": "Peter Mattis",
+          "url": "https://open.spotify.com/artist/0msEBjWEqERNOm1Vi3QFsC"
+        },
+        {
+          "name": "Sarah Sperber",
+          "url": "https://open.spotify.com/artist/0sA77vgBi4A9x9TJBPhdEn"
         }
       ],
-      "duration_ms": 318120,
-      "name": "Beauty",
-      "url": "https://open.spotify.com/track/7IKax3Xr0hNeWj3jqlQtCl"
+      "duration_ms": 354526,
+      "name": "Alpha And Omega (Live)",
+      "url": "https://open.spotify.com/track/3ftk8bFLnW9czTMYV47TP6"
     }
   ],
   "unique_name": "This Is Bethel Music",

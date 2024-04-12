@@ -745,6 +745,24 @@
     },
     {
       "album": {
+        "name": "The Cheek",
+        "url": "https://open.spotify.com/album/5SAzA8MByL6mk6nJAhHEtJ"
+      },
+      "artists": [
+        {
+          "name": "ace of demons",
+          "url": "https://open.spotify.com/artist/4LDEeahUD24Ju5cXPs7VGG"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220545,
+      "name": "Cheek",
+      "url": "https://open.spotify.com/track/6WA8HxyPZzlYaY5xPE2LeL"
+    },
+    {
+      "album": {
         "name": "Close Your Eyes EP",
         "url": "https://open.spotify.com/album/6hHi4OlpNnto3GNoLQyUG9"
       },
@@ -756,7 +774,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 301080,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/1Hll6B9gqsOFi2Bln02laD"
@@ -1054,7 +1072,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 230137,
       "name": "Devotion - Show Me Love 2023 Techno Mix - Radio Edit",
       "url": "https://open.spotify.com/track/5CgfZ4a0Ja2m8BoHfLqvJ0"
@@ -1484,6 +1502,24 @@
       "duration_ms": 126400,
       "name": "f0rbiidden l0ve$tory",
       "url": "https://open.spotify.com/track/4LIKefM5MAyRNuMg0fZkCo"
+    },
+    {
+      "album": {
+        "name": "Fade To Black",
+        "url": "https://open.spotify.com/album/6s1r8ihM8cjm5HNAZ6DNTx"
+      },
+      "artists": [
+        {
+          "name": "KARVA",
+          "url": "https://open.spotify.com/artist/01IuZ5qGBbM7vc6IglCSLM"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301562,
+      "name": "Fade To Black",
+      "url": "https://open.spotify.com/track/0eVRRA5XgykBqjIwhYzxQ2"
     },
     {
       "album": {
@@ -2022,6 +2058,32 @@
       "duration_ms": 283936,
       "name": "I Like",
       "url": "https://open.spotify.com/track/42g6zqu6JHQk9FthUcCZZd"
+    },
+    {
+      "album": {
+        "name": "i like the way you kiss me (remixes)",
+        "url": "https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        },
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199083,
+      "name": "i like the way you kiss me - Marlon Hoffstadt aka DJ Daddy Trance remix",
+      "url": "https://open.spotify.com/track/2AljG7lFywSjjLBVMOhm7s"
     },
     {
       "album": {
@@ -2832,7 +2894,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 155121,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/681iK2vB0RCr4m7TX5hcn6"

@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 1774185,
+  "2024-04-12": 1774256,
   "date_first_scraped": "2021-12-28",
   "description": "Your daily update of the most viral tracks right now - Global.",
   "name": "Viral 50 - Global",
@@ -8118,6 +8118,24 @@
     },
     {
       "album": {
+        "name": "A Cara das Vaquejadas 3.0",
+        "url": "https://open.spotify.com/album/3LqVn74biJ7PU2vFeZTAFh"
+      },
+      "artists": [
+        {
+          "name": "Thullio Milion\u00e1rio",
+          "url": "https://open.spotify.com/artist/7wfMF7uhijiZuT7QuXySP7"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133360,
+      "name": "Casca de Bala",
+      "url": "https://open.spotify.com/track/5mJcnekfy4DEpAZ6uAHM7Y"
+    },
+    {
+      "album": {
         "name": "Casi Amor De Verano",
         "url": "https://open.spotify.com/album/1wiaYWxg54mycc3A5cGRI0"
       },
@@ -14865,7 +14883,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 123428,
       "name": "Faster n Harder",
       "url": "https://open.spotify.com/track/499mGaGmtP9U1MPGVeUOIV"
@@ -15709,7 +15727,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -24235,7 +24253,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 189387,
       "name": "Leaving the Lot",
       "url": "https://open.spotify.com/track/3xkE58bmARROCzDtqaJ3jT"
@@ -39925,7 +39943,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 107076,
       "name": "SLAY!",
       "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
@@ -43931,6 +43949,28 @@
       "duration_ms": 199845,
       "name": "The Songcord",
       "url": "https://open.spotify.com/track/43uFqqDlSL5YhKcPnzJi4b"
+    },
+    {
+      "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
     },
     {
       "album": {

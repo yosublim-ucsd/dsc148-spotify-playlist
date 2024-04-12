@@ -344,7 +344,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 396628,
       "name": "Aza",
       "url": "https://open.spotify.com/track/724SgZZZHJ43mun3cVDprx"
@@ -2118,7 +2118,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 267655,
       "name": "Heat of the Moon - Phairo's Lunar Eclipse Mix",
       "url": "https://open.spotify.com/track/1q7MXzLGZK2DqVNIF66VFh"
@@ -2987,6 +2987,24 @@
     },
     {
       "album": {
+        "name": "Lychees",
+        "url": "https://open.spotify.com/album/1IqGw4kxdQGBQZtKZvovjF"
+      },
+      "artists": [
+        {
+          "name": "25 Places",
+          "url": "https://open.spotify.com/artist/2HzPIOCKMoZReg1bH2kZLb"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315432,
+      "name": "Lychees",
+      "url": "https://open.spotify.com/track/2qQlW5HQsdwr8qlYhK4Lyn"
+    },
+    {
+      "album": {
         "name": "Machali",
         "url": "https://open.spotify.com/album/04g6jEQ8uBbyizG5nSRtUj"
       },
@@ -3296,7 +3314,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 438750,
       "name": "Motown Swagger",
       "url": "https://open.spotify.com/track/4wT8rqDlZPLfIN34TSibdd"
@@ -3336,6 +3354,24 @@
       "duration_ms": 455370,
       "name": "Mr Umbawa",
       "url": "https://open.spotify.com/track/54zanEkA6SBFcl1xJVGrXz"
+    },
+    {
+      "album": {
+        "name": "Must Be Deep",
+        "url": "https://open.spotify.com/album/6NvIv5dwgd5CQcCUNMz238"
+      },
+      "artists": [
+        {
+          "name": "Demarkus Lewis",
+          "url": "https://open.spotify.com/artist/68fzfWiT3Mlyy93zT2mnyl"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353280,
+      "name": "Must Be Deep",
+      "url": "https://open.spotify.com/track/7GJYxTXdyiK3Et9S4d1A5a"
     },
     {
       "album": {
@@ -3788,7 +3824,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 434580,
       "name": "Poppy",
       "url": "https://open.spotify.com/track/3uXlmol1b1oL04D5GFBjR7"
@@ -4516,6 +4552,24 @@
       "duration_ms": 366809,
       "name": "Spiritual Basslines - Club Mix",
       "url": "https://open.spotify.com/track/57lT6Wi7X9OyASYUSpyOOz"
+    },
+    {
+      "album": {
+        "name": "Star Chaser",
+        "url": "https://open.spotify.com/album/5Aqqs8gO2cNyH4rRaR2raj"
+      },
+      "artists": [
+        {
+          "name": "Turbojazz",
+          "url": "https://open.spotify.com/artist/2T6qQFm2LfdVTSTTBTwPBB"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 558204,
+      "name": "Star Chaser",
+      "url": "https://open.spotify.com/track/4cCQk4HE5BO4x3a6VmdwQ9"
     },
     {
       "album": {
@@ -5292,6 +5346,24 @@
       "duration_ms": 526416,
       "name": "Time To Smoke",
       "url": "https://open.spotify.com/track/685lvGCiR57tNoIZSZHyNX"
+    },
+    {
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/3F6ZQ9eXR2if2Fmp8HChiu"
+      },
+      "artists": [
+        {
+          "name": "Mike Millrain",
+          "url": "https://open.spotify.com/artist/1wdNZRnvGKgYDjFSMWRO1R"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Together - Radio Edit",
+      "url": "https://open.spotify.com/track/44r6UXHLTUYZeyKTTtU6cE"
     },
     {
       "album": {

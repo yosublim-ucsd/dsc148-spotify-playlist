@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 
 > Winners — past and present — from the 96th annual event celebrating Hollywood's brightest stars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,082 likes - 51 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,067 likes - 51 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 40 | [Things Have Changed \- Single Version](https://open.spotify.com/track/5KOi77ameCimkAdw0DMNoy) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Side Tracks](https://open.spotify.com/album/6hQZ17lLlz3upoUPX9nBDY) | 5:07 |
 | 41 | [You Must Love Me](https://open.spotify.com/track/78JPL7uIfs6Imm57r1QETk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Evita: The Complete Motion Picture Music Soundtrack](https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286) | 2:50 |
 | 42 | [The Shape Of Water](https://open.spotify.com/track/2VzJH2QeNO1PiZwXZMvx7g) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The Shape Of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/058fiqH1NYYmur8cicws4l) | 3:42 |
-| 43 | [The Weary Kind \(Theme from Crazy Heart\)](https://open.spotify.com/track/4RNWtg4RBgomLc5evNQCsi) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Crazy Heart: Original Motion Picture Soundtrack \(Deluxe Edition\)](https://open.spotify.com/album/37dvCriHpMVzbmJGmNqLGz) | 4:18 |
-| 44 | [E.T.: Flying Theme](https://open.spotify.com/track/3lK9mpcQfPLMn2GhiOGSTG) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [John Williams: At the Movies](https://open.spotify.com/album/3BRxBWpUZ9yerHGn1nY1Mr) | 3:45 |
+| 43 | [E.T.: Flying Theme](https://open.spotify.com/track/3lK9mpcQfPLMn2GhiOGSTG) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [John Williams: At the Movies](https://open.spotify.com/album/3BRxBWpUZ9yerHGn1nY1Mr) | 3:45 |
+| 44 | [The Weary Kind \(Theme from Crazy Heart\)](https://open.spotify.com/track/4RNWtg4RBgomLc5evNQCsi) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Crazy Heart: Original Motion Picture Soundtrack \(Deluxe Edition\)](https://open.spotify.com/album/37dvCriHpMVzbmJGmNqLGz) | 4:18 |
 | 45 | [West Side Story: Act I: Prologue](https://open.spotify.com/track/68CJ6EJXhbmUOwkOk74w6N) | [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn), [West Side Story Orchestra](https://open.spotify.com/artist/2y0ch4gqc0z7SMWsjHWL5F), [Johnny Green](https://open.spotify.com/artist/0mzeuEu2tXNjhVNc1sKVWI) | [West Side Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1kA4RO70idrEQkOX3zlRfa) | 6:36 |
 | 46 | [Moon River \- Remastered](https://open.spotify.com/track/0gljCof9FFOHKvxznqNR23) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Breakfast at Tiffany's](https://open.spotify.com/album/4nuBqxUv9Ln9ySkHEUBca5) | 2:41 |
 | 47 | [I Need To Wake Up](https://open.spotify.com/track/7mOfeDExZHCImmcmGYrv3T) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [Greatest Hits: The Road Less Traveled](https://open.spotify.com/album/4KkOtgBFxbOPBshZYEzt0P) | 3:33 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 50 | [Father Comes Home](https://open.spotify.com/track/4BopLkm0TFvregWWVI1Qtl) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Little Women \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE) | 3:18 |
 | 51 | [Sooner or Later](https://open.spotify.com/track/0QLuoNpyzXMcCLfVtFScE2) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I'm Breathless](https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED) | 3:20 |
 
-Snapshot ID: `MCxmNTZlOWQyZGY4NGJkNjZhZjk3Zjc4YThkMDQxOWM0MTY5NWZlODgx`
+Snapshot ID: `MTcxMDE4MzU0NiwwMDAwMDAwMDgwN2NmYTczZjViN2I5NmQ4YTE4M2M2NzBhM2ZmNDFh`

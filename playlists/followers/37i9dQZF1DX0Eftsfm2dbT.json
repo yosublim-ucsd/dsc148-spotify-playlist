@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 133462,
+  "2024-04-12": 133520,
   "date_first_scraped": "2023-09-23",
   "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: LEX & LANA",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
@@ -5504,6 +5504,24 @@
     },
     {
       "album": {
+        "name": "HYAKKIYAKO",
+        "url": "https://open.spotify.com/album/0m9SCyoEvBNKfY7SMxO6si"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Young Vision",
+          "url": "https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229665,
+      "name": "HYAKKIYAKO",
+      "url": "https://open.spotify.com/track/48EErLKgvtuB1rQh7P5q41"
+    },
+    {
+      "album": {
         "name": "LOYALTY",
         "url": "https://open.spotify.com/album/5uG6tQHwmirEfkBqiRvqYM"
       },
@@ -10301,7 +10319,7 @@
     {
       "album": {
         "name": "SHOTS!!!",
-        "url": "https://open.spotify.com/album/55vLyKDIQTNe6Cwh9UDxmn"
+        "url": "https://open.spotify.com/album/6IJ3DBXt8fwP2BmfUrnjxq"
       },
       "artists": [
         {
@@ -10324,6 +10342,36 @@
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 255040,
+      "name": "SHOTS!!!",
+      "url": "https://open.spotify.com/track/63zshUJDQXTp2T8i5hyLKB"
+    },
+    {
+      "album": {
+        "name": "SHOTS!!!",
+        "url": "https://open.spotify.com/album/55vLyKDIQTNe6Cwh9UDxmn"
+      },
+      "artists": [
+        {
+          "name": "DJ Hazime",
+          "url": "https://open.spotify.com/artist/5OTMloJew4RhmaLHAFyItP"
+        },
+        {
+          "name": "Carz",
+          "url": "https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn"
+        },
+        {
+          "name": "018",
+          "url": "https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN"
+        },
+        {
+          "name": "kiddy",
+          "url": "https://open.spotify.com/artist/48MOj0FSIyfQdOJvTYDFFR"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-11",
       "duration_ms": 255040,
       "name": "SHOTS!!!",
       "url": "https://open.spotify.com/track/7sx4N2vdMRZ5QnO0srvmSS"
@@ -10912,7 +10960,7 @@
     },
     {
       "album": {
-        "name": "Team Tomodachi (Remix)",
+        "name": "Team Tomodachi (Dirty Kansai Remix)",
         "url": "https://open.spotify.com/album/03GtNIvFYHk7ltVGMC3Mkh"
       },
       "artists": [
@@ -10933,8 +10981,42 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 218613,
-      "name": "Team Tomodachi - Remix",
+      "name": "Team Tomodachi - Dirty Kansai Remix",
       "url": "https://open.spotify.com/track/1TBtAioi82LToAaojj9ruU"
+    },
+    {
+      "album": {
+        "name": "Team Tomodachi (Tokai Remix)",
+        "url": "https://open.spotify.com/album/5Xk6LCAzqYQY4WMyv4bfv9"
+      },
+      "artists": [
+        {
+          "name": "Yuki Chiba",
+          "url": "https://open.spotify.com/artist/6zOzMb66GICS4gVDtd1yvR"
+        },
+        {
+          "name": "SOCKS",
+          "url": "https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw"
+        },
+        {
+          "name": "\u00a5ellow Bucks",
+          "url": "https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH"
+        },
+        {
+          "name": "MaRI",
+          "url": "https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi"
+        },
+        {
+          "name": "DJ RYOW",
+          "url": "https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165808,
+      "name": "Team Tomodachi - Tokai Remix",
+      "url": "https://open.spotify.com/track/1JMN2uoAK1XVe1ZveJxIFo"
     },
     {
       "album": {
@@ -13129,7 +13211,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 165808,
       "name": "\u30c1\u30fc\u30e0\u53cb\u9054 - \u6771\u6d77 Remix",
       "url": "https://open.spotify.com/track/4IvowW1NWTpXKUGSCZwW0K"
@@ -13581,7 +13663,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 229665,
       "name": "\u767e\u9b3c\u591c\u884c",
       "url": "https://open.spotify.com/track/3aq2WFMHb3zM9Ltjt59YxG"

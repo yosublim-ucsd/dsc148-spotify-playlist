@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 2000. \n\n",
-  "num_followers": 228693,
+  "num_followers": 228850,
   "original_name": "Rock en Espa\u00f1ol: Los 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWRkNWM1ZjcyOTkyODg3ZjZhYWJiZjdlZmNiZmExZjUxZDE2Mjc2",
+  "snapshot_id": "MTcxMDI2NTg5MCwwMDAwMDAwMDQ3MjZlYTg0ZDQ4NDQ0ZDIxZTZkZWIxMzMxODVmZjI5",
   "tracks": [
     {
       "added_at": "2024-03-12 17:51:30",
@@ -107,18 +107,18 @@
     {
       "added_at": "2024-03-12 17:51:30",
       "album": {
-        "name": "Amantes Sunt Amentes",
-        "url": "https://open.spotify.com/album/1IPg7NZ0YLxARNx5Qs4936"
+        "name": "Stereo Hits",
+        "url": "https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as"
       },
       "artists": [
         {
-          "name": "PXNDX",
-          "url": "https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj"
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
         }
       ],
-      "duration_ms": 207786,
-      "name": "Los Malaventurados No Lloran",
-      "url": "https://open.spotify.com/track/66PRDvzBHhbcdbc4T4mrZY"
+      "duration_ms": 219533,
+      "name": "Ni T\u00fa Ni Nadie",
+      "url": "https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC"
     },
     {
       "added_at": "2024-03-12 17:51:30",
@@ -139,18 +139,18 @@
     {
       "added_at": "2024-03-12 17:51:30",
       "album": {
-        "name": "Stereo Hits",
-        "url": "https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as"
+        "name": "Amantes Sunt Amentes",
+        "url": "https://open.spotify.com/album/1IPg7NZ0YLxARNx5Qs4936"
       },
       "artists": [
         {
-          "name": "M\u0153nia",
-          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+          "name": "PXNDX",
+          "url": "https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj"
         }
       ],
-      "duration_ms": 219533,
-      "name": "Ni T\u00fa Ni Nadie",
-      "url": "https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC"
+      "duration_ms": 207786,
+      "name": "Los Malaventurados No Lloran",
+      "url": "https://open.spotify.com/track/66PRDvzBHhbcdbc4T4mrZY"
     },
     {
       "added_at": "2024-03-12 17:51:30",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-03-12 17:51:30",
       "album": {
-        "name": "A la Izquierda de la Tierra",
-        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 255506,
-      "name": "La Dosis Perfecta",
-      "url": "https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq"
-    },
-    {
-      "added_at": "2024-03-12 17:51:30",
-      "album": {
         "name": "Lo Que And\u00e1bamos Buscando (Special Para CEV)",
         "url": "https://open.spotify.com/album/5v3tEjfsPvLN3aDawSSx7h"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 231800,
       "name": "Sabor a Chocolate",
       "url": "https://open.spotify.com/track/29OzJTIOTjCgR7fLyEXY7u"
+    },
+    {
+      "added_at": "2024-03-12 17:51:30",
+      "album": {
+        "name": "A la Izquierda de la Tierra",
+        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 255506,
+      "name": "La Dosis Perfecta",
+      "url": "https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq"
     },
     {
       "added_at": "2024-03-12 17:51:30",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-03-12 17:51:30",
       "album": {
+        "name": "Elefante",
+        "url": "https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U"
+      },
+      "artists": [
+        {
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+        }
+      ],
+      "duration_ms": 244760,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/2AW8HXB5U4QA0ZmApbRM0B"
+    },
+    {
+      "added_at": "2024-03-12 17:51:30",
+      "album": {
         "name": "Dance And Dense Denso",
         "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 235560,
       "name": "Te quiero igual",
       "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
-    },
-    {
-      "added_at": "2024-03-12 17:51:30",
-      "album": {
-        "name": "Elefante",
-        "url": "https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U"
-      },
-      "artists": [
-        {
-          "name": "Elefante",
-          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
-        }
-      ],
-      "duration_ms": 244760,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/2AW8HXB5U4QA0ZmApbRM0B"
     },
     {
       "added_at": "2024-03-12 17:51:30",

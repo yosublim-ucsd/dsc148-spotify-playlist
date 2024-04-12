@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 163734,
+  "num_followers": 163859,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWNhMjM0ZWZmZjNiYWQ2MzVmNDU2YWY0YWFjNDY3NDdiY2Y1ZDQx",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDlhNmIzYWU0ZjJkYTlhNDY1OWI3NmQ0YzVhOGNkMDYx",
   "tracks": [
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Estilo Fino",
+        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 186625,
+      "name": "16 Toneladas",
+      "url": "https://open.spotify.com/track/3992fLSRgc9uJmoeAjDP2Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soledad",
         "url": "https://open.spotify.com/album/7qjCJhOgyBd9bVyksyDH1z"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 265945,
       "name": "Sirenas Lloran",
       "url": "https://open.spotify.com/track/5t2ct5VNHfUxIXXBmW7Xl9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Estilo Fino",
-        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
-      },
-      "artists": [
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 186625,
-      "name": "16 Toneladas",
-      "url": "https://open.spotify.com/track/3992fLSRgc9uJmoeAjDP2Q"
     },
     {
       "added_at": null,

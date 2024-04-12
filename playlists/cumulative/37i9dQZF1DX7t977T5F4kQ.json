@@ -192,7 +192,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 179554,
       "name": "911",
       "url": "https://open.spotify.com/track/1x5m60fSVOEewLpSqb3P70"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 173014,
       "name": "Abyss",
       "url": "https://open.spotify.com/track/1c3Uvil5DpA6FfFPIi4914"
@@ -878,6 +878,28 @@
       "duration_ms": 192000,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI"
+    },
+    {
+      "album": {
+        "name": "Bad People Do Good",
+        "url": "https://open.spotify.com/album/0kSIpqgG1STLxXLI8ylOYs"
+      },
+      "artists": [
+        {
+          "name": "Kweku Darlington",
+          "url": "https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW"
+        },
+        {
+          "name": "Amerado",
+          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183817,
+      "name": "Bad People Do Good",
+      "url": "https://open.spotify.com/track/3iVoZUSWgCPHvCKT3u3vck"
     },
     {
       "album": {
@@ -1936,6 +1958,24 @@
       "duration_ms": 191556,
       "name": "Efie Nsem - Kwahu",
       "url": "https://open.spotify.com/track/5Dx57lE6nNVjLBmO8Iny1I"
+    },
+    {
+      "album": {
+        "name": "Emergency",
+        "url": "https://open.spotify.com/album/3Uu89vadulcqJ5KpxzCoYG"
+      },
+      "artists": [
+        {
+          "name": "Adina Thembi",
+          "url": "https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/3nojKiewSlqnSE8Np292ER"
     },
     {
       "album": {
@@ -3746,7 +3786,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 199755,
       "name": "Medaase",
       "url": "https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w"
@@ -6616,6 +6656,28 @@
       "duration_ms": 216911,
       "name": "Walk & Move",
       "url": "https://open.spotify.com/track/7MMmZ6Ja9JmKyFSKZhziPh"
+    },
+    {
+      "album": {
+        "name": "Whats Up",
+        "url": "https://open.spotify.com/album/7JUmIEYeCXGkbCkaU6OJWn"
+      },
+      "artists": [
+        {
+          "name": "KWEKU PEE",
+          "url": "https://open.spotify.com/artist/1moWgmfzDrNtohnVWhZOmO"
+        },
+        {
+          "name": "Herman Suede",
+          "url": "https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165720,
+      "name": "Whats Up",
+      "url": "https://open.spotify.com/track/5RlU3YgPw5lVgSBdyKwXtC"
     },
     {
       "album": {

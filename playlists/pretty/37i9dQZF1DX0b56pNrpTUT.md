@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Eve Fairley\-Chickwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,575 likes - 36 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,586 likes - 36 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 | 35 | [Don’t Wanna Break Your Heart!](https://open.spotify.com/track/6HZKDxgzfZIps3eipoLfhP) | [Toni Sancho](https://open.spotify.com/artist/4SpaShKE14x1P5jTruqwIK) | [Don’t Wanna Break Your Heart!](https://open.spotify.com/album/0KRDOSgIu2CVDe8BPr8oMQ) | 4:32 |
 | 36 | [Patience](https://open.spotify.com/track/2G6GODY8ZSa7vtzlzPNt9o) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Patience](https://open.spotify.com/album/14plmyqkoSBmJoPHNJvCRH) | 3:04 |
 
-Snapshot ID: `MCwyNmY1MzcyNTEzYThhZDQ0MDA0M2VkODFlMGQwZDhmNmU4YjkwYjVm`
+Snapshot ID: `MTY4OTcwNDAzMSwwMDAwMDAwMDUyYzhjN2RjZDg0NDhjZTNmOTJkYTAwZGM1YzJmNzI1`

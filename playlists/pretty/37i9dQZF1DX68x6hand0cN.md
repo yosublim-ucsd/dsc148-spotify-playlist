@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 
 > Take another hit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,892 likes - 81 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,936 likes - 81 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 | 80 | [Ghir Ntiya](https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Ghir Ntiya](https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm) | 3:34 |
 | 81 | [Ku Je Ti \(feat\. Ricky Rich & Dafina Zeqiri\)](https://open.spotify.com/track/0xVDkht7T97HkFCXmiCQLT) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Dafina Zeqiri](https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ) | [Ku Je Ti \(feat\. Ricky Rich & Dafina Zeqiri\)](https://open.spotify.com/album/5A9aJ7wIhbEXQcJuE91YKQ) | 3:14 |
 
-Snapshot ID: `MCw1MjIxMTIyNTU1ZmZlZWU4Y2U1ZDAyZjQwZDE2MTQyMjgxMzU1NmFj`
+Snapshot ID: `MTcxMjc4MjU5OSwwMDAwMDAwMDNmNDlmMzQ2MTM3NDlhOTZhOTNmNGQxZWIzZmYzNjFj`

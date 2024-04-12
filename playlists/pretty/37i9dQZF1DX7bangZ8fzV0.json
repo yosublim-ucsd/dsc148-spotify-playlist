@@ -1,13 +1,29 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v?si=45a30asnSZC1qXPlyoy12w\">Brendan Peyper</a>  ",
-  "num_followers": 99511,
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7?si=ZIGZb1C1Q8-8ny22j7ylmA\">Riaan Benad\u00e9</a>  ",
+  "num_followers": 99584,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzA5ODhmMDllNDhmZmUxMzk4YzhlOWU0OTY5NmRiYmJhOGQyZjYx",
+  "snapshot_id": "MTcxMjg3MjgwMCwwMDAwMDAwMDIzMTA3OWE5OGE3YWZiMWQ4NDQxZjcwOGVlZmI0MzJh",
   "tracks": [
+    {
+      "added_at": "2024-03-28 22:00:00",
+      "album": {
+        "name": "Stoom",
+        "url": "https://open.spotify.com/album/1CSsLrp52azvnNC5mMiuFe"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "duration_ms": 178669,
+      "name": "Stoom",
+      "url": "https://open.spotify.com/track/1mCw2uig3k3B1qGBJ1Hpn2"
+    },
     {
       "added_at": "2024-04-04 22:00:00",
       "album": {
@@ -73,22 +89,6 @@
       "url": "https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd"
     },
     {
-      "added_at": "2024-03-28 22:00:00",
-      "album": {
-        "name": "Stoom",
-        "url": "https://open.spotify.com/album/1CSsLrp52azvnNC5mMiuFe"
-      },
-      "artists": [
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 178669,
-      "name": "Stoom",
-      "url": "https://open.spotify.com/track/1mCw2uig3k3B1qGBJ1Hpn2"
-    },
-    {
       "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Helemal",
@@ -103,22 +103,6 @@
       "duration_ms": 227999,
       "name": "Helemal",
       "url": "https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Soen Soos Wat Jy Dans",
-        "url": "https://open.spotify.com/album/2td5HHRkCc3bcSvN9YO3IB"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 215217,
-      "name": "Soen Soos Wat Jy Dans",
-      "url": "https://open.spotify.com/track/4yCS6Pqvpg9EaLQcvOPz40"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -139,8 +123,8 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Moegdans",
-        "url": "https://open.spotify.com/album/2PZIORUBXjaeRTuepRjTvq"
+        "name": "Soen Soos Wat Jy Dans",
+        "url": "https://open.spotify.com/album/2td5HHRkCc3bcSvN9YO3IB"
       },
       "artists": [
         {
@@ -148,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
         }
       ],
-      "duration_ms": 201777,
-      "name": "Moegdans",
-      "url": "https://open.spotify.com/track/4NoHaRFPShno0CHDtele4b"
+      "duration_ms": 215217,
+      "name": "Soen Soos Wat Jy Dans",
+      "url": "https://open.spotify.com/track/4yCS6Pqvpg9EaLQcvOPz40"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -239,8 +223,8 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
+        "name": "Moegdans",
+        "url": "https://open.spotify.com/album/2PZIORUBXjaeRTuepRjTvq"
       },
       "artists": [
         {
@@ -248,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
         }
       ],
-      "duration_ms": 191303,
-      "name": "Toer Om Die Vloer",
-      "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
+      "duration_ms": 201777,
+      "name": "Moegdans",
+      "url": "https://open.spotify.com/track/4NoHaRFPShno0CHDtele4b"
     },
     {
       "added_at": "2024-03-07 22:00:00",
@@ -301,6 +285,38 @@
       "url": "https://open.spotify.com/track/6K6L2DgKgeREDJ8c0HxLZI"
     },
     {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Hy Jy Jy",
+        "url": "https://open.spotify.com/album/036REkipFi8J0yHsuMQ8Aj"
+      },
+      "artists": [
+        {
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+        }
+      ],
+      "duration_ms": 197937,
+      "name": "Hy Jy Jy",
+      "url": "https://open.spotify.com/track/6XFuQdgV9LU2ss1jcF6Ogg"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 191303,
+      "name": "Toer Om Die Vloer",
+      "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
+    },
+    {
       "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Impulsief",
@@ -317,20 +333,20 @@
       "url": "https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO"
     },
     {
-      "added_at": "2024-03-21 22:00:00",
+      "added_at": "2024-02-29 22:00:00",
       "album": {
-        "name": "Hanrie Visagie",
-        "url": "https://open.spotify.com/album/6EBJSVUfHtsBvtUHgzgThc"
+        "name": "Diepseeduiker 17",
+        "url": "https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz"
       },
       "artists": [
         {
-          "name": "Werner Van Der Hoven",
-          "url": "https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2"
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
         }
       ],
-      "duration_ms": 158115,
-      "name": "Hanrie Visagie",
-      "url": "https://open.spotify.com/track/5XzRG1HP6iVtI9hfyInhRN"
+      "duration_ms": 165149,
+      "name": "Diepseeduiker 17",
+      "url": "https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -347,22 +363,6 @@
       "duration_ms": 174254,
       "name": "Laatnag Gedagtes",
       "url": "https://open.spotify.com/track/3ACYgEkC2uFq5FY6GRM46r"
-    },
-    {
-      "added_at": "2024-02-29 22:00:00",
-      "album": {
-        "name": "Diepseeduiker 17",
-        "url": "https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz"
-      },
-      "artists": [
-        {
-          "name": "Die Piesangskille",
-          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
-        }
-      ],
-      "duration_ms": 165149,
-      "name": "Diepseeduiker 17",
-      "url": "https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -395,22 +395,6 @@
       "duration_ms": 230080,
       "name": "Koue Kole",
       "url": "https://open.spotify.com/track/0WepYdVNcGEfAXN5DKzSo3"
-    },
-    {
-      "added_at": "2024-03-14 21:52:39",
-      "album": {
-        "name": "Verlore Seun",
-        "url": "https://open.spotify.com/album/1UlKXQZv6hCIyfVbhAca5W"
-      },
-      "artists": [
-        {
-          "name": "Bobby Van Jaarsveld",
-          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
-        }
-      ],
-      "duration_ms": 203834,
-      "name": "Verlore Seun",
-      "url": "https://open.spotify.com/track/14FXSq2GesUVBYb9A7BPaI"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -645,6 +629,22 @@
       "url": "https://open.spotify.com/track/5M4Vqy5cw969eZ0MF1J8Je"
     },
     {
+      "added_at": "2024-03-14 21:52:39",
+      "album": {
+        "name": "Verlore Seun",
+        "url": "https://open.spotify.com/album/1UlKXQZv6hCIyfVbhAca5W"
+      },
+      "artists": [
+        {
+          "name": "Bobby Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
+        }
+      ],
+      "duration_ms": 203834,
+      "name": "Verlore Seun",
+      "url": "https://open.spotify.com/track/14FXSq2GesUVBYb9A7BPaI"
+    },
+    {
       "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Tekkies Brand",
@@ -675,6 +675,22 @@
       "duration_ms": 165173,
       "name": "Vuur En Vlam",
       "url": "https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla"
+    },
+    {
+      "added_at": "2024-03-21 22:00:00",
+      "album": {
+        "name": "Hanrie Visagie",
+        "url": "https://open.spotify.com/album/6EBJSVUfHtsBvtUHgzgThc"
+      },
+      "artists": [
+        {
+          "name": "Werner Van Der Hoven",
+          "url": "https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2"
+        }
+      ],
+      "duration_ms": 158115,
+      "name": "Hanrie Visagie",
+      "url": "https://open.spotify.com/track/5XzRG1HP6iVtI9hfyInhRN"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -1031,22 +1047,6 @@
       "duration_ms": 187370,
       "name": "Johnnie Blou",
       "url": "https://open.spotify.com/track/4zFtUFGQ7NG6iEM2K5Oca4"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Nee of Ja",
-        "url": "https://open.spotify.com/album/1ISXpP9dS92U0oqGCWjVjb"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Nee of Ja",
-      "url": "https://open.spotify.com/track/6R80KkMcEbBasMSQGFBiHB"
     },
     {
       "added_at": "2024-02-15 22:00:00",

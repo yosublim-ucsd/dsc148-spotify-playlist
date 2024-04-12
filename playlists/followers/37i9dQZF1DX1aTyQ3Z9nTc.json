@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 134051,
+  "2024-04-12": 134092,
   "date_first_scraped": "2022-01-10",
   "description": "That bouncy, groovy, dancey sound.",
   "name": "Choice Edit",
@@ -389,6 +389,28 @@
       "duration_ms": 183870,
       "name": "According To You",
       "url": "https://open.spotify.com/track/7393MRjmgrJgTuOybJWFB6"
+    },
+    {
+      "album": {
+        "name": "Aint Mine",
+        "url": "https://open.spotify.com/album/5d0DWeqL8vlJAM6dIIRP46"
+      },
+      "artists": [
+        {
+          "name": "Journey Montana",
+          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
+        },
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156014,
+      "name": "Aint Mine",
+      "url": "https://open.spotify.com/track/52hK9zEXqx2Fvxz8X4nWxb"
     },
     {
       "album": {
@@ -1311,7 +1333,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 220411,
       "name": "Boundaries - DRAMA Remix",
       "url": "https://open.spotify.com/track/7olP7S3e0XDQ08eisCHVgp"

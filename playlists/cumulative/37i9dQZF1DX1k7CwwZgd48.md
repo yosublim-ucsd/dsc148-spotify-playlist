@@ -2,7 +2,7 @@
 
 ### [Los Que Mandan Presents: Best Música Mexicana Songs of 2023](https://open.spotify.com/playlist/37i9dQZF1DX1k7CwwZgd48)
 
-> Los Que Mandan Presents: Best Música Mexicana Songs of 2023<br/>Our editors' picks for the best Música Mexicana songs of the year! \#SpotifyWrapped Cover: Peso Pluma
+> Our editors' picks for the best Música Mexicana songs of the year! \#SpotifyWrapped Cover: Eslabon Armado
 
 108 songs - 5 hr 35 min
 

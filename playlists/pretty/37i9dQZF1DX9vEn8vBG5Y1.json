@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2000s. Cover: Kelly Clarkson.",
-  "num_followers": 180631,
+  "num_followers": 180725,
   "original_name": "00s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTBiNzhiMmEwZTYyZTE0YWM1YmUyMjQ4YjJmMmM5NzFlNzkyZjhk",
+  "snapshot_id": "MTY4NjgzNTI4OCwwMDAwMDAwMGY1OWY5ZDIxODhjNDM2NTVjZTI4ODgxZjg3NTEyNjYz",
   "tracks": [
     {
       "added_at": "2023-01-18 21:26:30",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 153466,
-      "name": "Good Riddance (Time of Your Life)",
-      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Stadium Arcadium",
         "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 334666,
       "name": "Snow (Hey Oh)",
       "url": "https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 153466,
+      "name": "Good Riddance (Time of Your Life)",
+      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 223066,
-      "name": "I'm with You",
-      "url": "https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Rock n Roll Jesus",
         "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 297586,
       "name": "All Summer Long",
       "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 223066,
+      "name": "I'm with You",
+      "url": "https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "More Than You Think You Are",
-        "url": "https://open.spotify.com/album/7fv4OVYUiixcwCGDRwvcH8"
-      },
-      "artists": [
-        {
-          "name": "Matchbox Twenty",
-          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
-        }
-      ],
-      "duration_ms": 228706,
-      "name": "Unwell",
-      "url": "https://open.spotify.com/track/6Bm6qUCSatPAqkQllFL7oA"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "All the Right Reasons",
         "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 258920,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "More Than You Think You Are",
+        "url": "https://open.spotify.com/album/7fv4OVYUiixcwCGDRwvcH8"
+      },
+      "artists": [
+        {
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+        }
+      ],
+      "duration_ms": 228706,
+      "name": "Unwell",
+      "url": "https://open.spotify.com/track/6Bm6qUCSatPAqkQllFL7oA"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "The Spirit Room",
-        "url": "https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi"
-      },
-      "artists": [
-        {
-          "name": "Michelle Branch",
-          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/1u0l8zWpQeMYStFkc2mLD7"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Under The Iron Sea",
         "url": "https://open.spotify.com/album/02Ird1pnGUdA6ruy87cxVa"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 240386,
       "name": "Nothing In My Way",
       "url": "https://open.spotify.com/track/7falOwHJ9MjskdcNehIh79"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "The Spirit Room",
+        "url": "https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi"
+      },
+      "artists": [
+        {
+          "name": "Michelle Branch",
+          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/1u0l8zWpQeMYStFkc2mLD7"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Hopes And Fears",
-        "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Everybody's Changing",
-      "url": "https://open.spotify.com/track/5hkdfA87RZvNaxl6XiveOA"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Shaman",
         "url": "https://open.spotify.com/album/5kkPOwoE9ItngbGIF6m3A4"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 183400,
       "name": "I'm A Believer - Radio Edit",
       "url": "https://open.spotify.com/track/1RC5Mb0VhnlhnMlFDnrvE0"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Hopes And Fears",
+        "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "Everybody's Changing",
+      "url": "https://open.spotify.com/track/5hkdfA87RZvNaxl6XiveOA"
     },
     {
       "added_at": "2023-01-18 21:26:30",

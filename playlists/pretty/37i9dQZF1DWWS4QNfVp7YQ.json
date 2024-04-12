@@ -1,12 +1,12 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 73849,
+  "num_followers": 73889,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTU2ODYzNzQ5ZWU2YWQxZjc4MDJlNzFkNjM5NmY1NDIxNjA2M2Mx",
+  "snapshot_id": "MTcwOTg3NzYwMCwwMDAwMDAwMGIwNGU1ZjY5NGU0YWY2MTQzMzVmMzcyYjkxYmJlZTMz",
   "tracks": [
     {
       "added_at": "2024-03-08 06:00:00",
@@ -315,22 +315,18 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "Dame",
-        "url": "https://open.spotify.com/album/0GaNnazTQVyVWnFvcXktgJ"
+        "name": "La Culebritica",
+        "url": "https://open.spotify.com/album/4QdDnd3evfl3o5pGKc7k3S"
       },
       "artists": [
         {
-          "name": "Freebot",
-          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
-        },
-        {
-          "name": "Aneth",
-          "url": "https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7"
+          "name": "Tribal Guarachero",
+          "url": "https://open.spotify.com/artist/5joTsOB4J8FAS2srUZrwCt"
         }
       ],
-      "duration_ms": 156401,
-      "name": "Dame",
-      "url": "https://open.spotify.com/track/05Wv728G7m1xkaOZKMPs0N"
+      "duration_ms": 220212,
+      "name": "La Culebritica",
+      "url": "https://open.spotify.com/track/35sjMmzqvrsfus9qmHFUqq"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -351,18 +347,22 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "La Culebritica",
-        "url": "https://open.spotify.com/album/4QdDnd3evfl3o5pGKc7k3S"
+        "name": "Dame",
+        "url": "https://open.spotify.com/album/0GaNnazTQVyVWnFvcXktgJ"
       },
       "artists": [
         {
-          "name": "Tribal Guarachero",
-          "url": "https://open.spotify.com/artist/5joTsOB4J8FAS2srUZrwCt"
+          "name": "Freebot",
+          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
+        },
+        {
+          "name": "Aneth",
+          "url": "https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7"
         }
       ],
-      "duration_ms": 220212,
-      "name": "La Culebritica",
-      "url": "https://open.spotify.com/track/35sjMmzqvrsfus9qmHFUqq"
+      "duration_ms": 156401,
+      "name": "Dame",
+      "url": "https://open.spotify.com/track/05Wv728G7m1xkaOZKMPs0N"
     },
     {
       "added_at": "2024-03-08 06:00:00",

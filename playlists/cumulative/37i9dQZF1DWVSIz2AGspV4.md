@@ -2,9 +2,9 @@
 
 ### [عراقي جديد](https://open.spotify.com/playlist/37i9dQZF1DWVSIz2AGspV4)
 
-> أحدث الاغاني العراقية\. غلاف: مصطفى العبدالله و احمد البشير
+> أحدث الاغاني العراقية\. غلاف: اصيل حميم
 
-278 songs - 16 hr 13 min
+279 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Mno Enta](https://open.spotify.com/track/2GBYI4P8SvdjcEfUELPzpd) | [Bassam Mahdi](https://open.spotify.com/artist/3n6hTwcg7nmNCmHl1sHeCO) | [Mno Enta](https://open.spotify.com/album/0ICKOpQg0VdEDQnZSHA07c) | 4:09 | 2022-07-07 | 2022-11-13 |
 | [Mo Haram](https://open.spotify.com/track/5YXgPh7kJbqqmB7q9hWnwJ) | [Mohanad Al Marsoomi](https://open.spotify.com/artist/1slDivlRCooYvl3me2fg2H) | [Mo Haram](https://open.spotify.com/album/5LGAkpDdSpu82l62dCs8mZ) | 2:57 | 2023-06-26 | 2023-06-29 |
 | [Mo Wafi \- مو وفي](https://open.spotify.com/track/3eetE1j3t8zX4XFPV0lmPD) | [Ali Jassim](https://open.spotify.com/artist/0sQhYPLQcT2qUZ5KV25WSe), [Hamza Al Muhmdawi](https://open.spotify.com/artist/2UgjvFvfz7rQ5Vmu3HeEN5), [Ali Riyadh](https://open.spotify.com/artist/35pMeblJsAHj7ZzQrw4aX9) | [Mo Wafi \(مو وفي\)](https://open.spotify.com/album/2LJBbAAvWPt4ai0H2Cuf9r) | 3:44 | 2022-02-09 | 2022-06-07 |
+| [Moushtaqa](https://open.spotify.com/track/4FpyysKYlKXHrG65ZmaK39) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Moushtaqa](https://open.spotify.com/album/3GZ6qeNYqCh7mLEUbDxz9f) | 4:23 | 2024-04-11 |  |
 | [My Angel](https://open.spotify.com/track/49cz53NuIM51grKU3vzfw6) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [My Angel](https://open.spotify.com/album/6vDsUpYNxKGDcMDRUzLZpF) | 3:47 | 2022-07-01 | 2023-01-19 |
 | [Nar](https://open.spotify.com/track/1KFRIHZppFpLIQXhyVjniO) | [Hamza Al Mahmdawi](https://open.spotify.com/artist/4fClSImakiSPnfxOa4NOiW) | [Nar](https://open.spotify.com/album/2Ls4sAGfO30G9Tuhsu3HKI) | 4:28 | 2022-06-08 | 2023-02-01 |
 | [Nareen](https://open.spotify.com/track/3pBjDopdAqXsLGdnUxkbzC) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S) | [Nareen](https://open.spotify.com/album/7IHpkI6UerJGlcLK0uII5e) | 3:32 | 2022-03-18 | 2022-07-20 |

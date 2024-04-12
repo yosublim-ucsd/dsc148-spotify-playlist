@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: RAMPAGE from EXILE TRIBE
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,402 likes - 49 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,404 likes - 49 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 48 | [CRUISIN'](https://open.spotify.com/track/4eYkFk3D1GCvk6sFTCpEq7) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [CRUISIN'](https://open.spotify.com/album/0BNzYtcvaEw8oD8SKp5OF8) | 3:25 |
 | 49 | [WISH \- Japanese Ver.](https://open.spotify.com/track/5na7IiFow1qNGtLhhBAaSI) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISH](https://open.spotify.com/album/0BY5GFkY77dWu3AjengDay) | 3:05 |
 
-Snapshot ID: `MCw4MTAxMzJiN2FjZTBiZmUwMWUyOGQ3MTliNTM1OTg1OGI2YmRiOGQ2`
+Snapshot ID: `MTcxMjY3NDg1OCwwMDAwMDAwMDZiZjMzZDNkMjkyZjA0ZDM0YjE4YjI2YThiOWMyODdi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > as gigantes da internê
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,422,796 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,423,021 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 49 | [Love Gostosinho \- Ao Vivo](https://open.spotify.com/track/2BlFIe0712LBUtTHxbqjme) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [O Fantástico Mundo De Nattan \(Ao Vivo\)](https://open.spotify.com/album/3MsdSA7cGEb95F2IMQUGGJ) | 2:43 |
 | 50 | [Vem Morenin](https://open.spotify.com/track/0j4YUzROiF5YFR8kkrysFx) | [Neno No beat](https://open.spotify.com/artist/6wPdYcqH47pTiPqsN7SImJ), [MC Rica](https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u) | [Vem Morenin](https://open.spotify.com/album/5xPNbtDedrWFO60aZpsBfK) | 2:39 |
 
-Snapshot ID: `MCw1YzQ0ZTIzMmU1NWI2ZDc5ODEwOGFhYWFlMmE3MjRiMjU3MzliNjEy`
+Snapshot ID: `MTcxMTQ3NTI4NSwwMDAwMDAwMGM2MzIzNjE4NTViNWRlZTEyYWRkY2NjMWExMjEyNmIz`

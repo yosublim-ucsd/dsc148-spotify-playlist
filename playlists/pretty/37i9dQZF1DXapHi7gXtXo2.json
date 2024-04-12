@@ -1,12 +1,12 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 85067,
+  "num_followers": 85099,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmNmNjM1MDc0MWVkOGMwOTRhMzVhN2YxOWE5YWRhMzg3NTQyNGEx",
+  "snapshot_id": "MTcxMjMzNzY5OCwwMDAwMDAwMGE1MjNlNDljNGJkMTMyOWU0OTk5MmY1ODE3NDBmOWYw",
   "tracks": [
     {
       "added_at": "2024-04-05 17:21:38",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-04-05 17:21:38",
       "album": {
+        "name": "Si Quieres",
+        "url": "https://open.spotify.com/album/4elppYh2Ev29JTfiTa4NEl"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        }
+      ],
+      "duration_ms": 167044,
+      "name": "Si Quieres",
+      "url": "https://open.spotify.com/track/4eus2M68qtL8u8MWHHaxGG"
+    },
+    {
+      "added_at": "2024-04-05 17:21:38",
+      "album": {
         "name": "Liit",
         "url": "https://open.spotify.com/album/1bSOutlOEi6xlqpLQC4Mss"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 237526,
       "name": "Acapulco",
       "url": "https://open.spotify.com/track/3FvQlLlke7bl8phCe1LJgy"
-    },
-    {
-      "added_at": "2024-04-05 17:21:38",
-      "album": {
-        "name": "Si Quieres",
-        "url": "https://open.spotify.com/album/4elppYh2Ev29JTfiTa4NEl"
-      },
-      "artists": [
-        {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
-        }
-      ],
-      "duration_ms": 167044,
-      "name": "Si Quieres",
-      "url": "https://open.spotify.com/track/4eus2M68qtL8u8MWHHaxGG"
     },
     {
       "added_at": "2024-04-05 17:21:38",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-04-05 17:21:38",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1p57rF4jF9evU5rrmpzSaG"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 202405,
-      "name": "Pana",
-      "url": "https://open.spotify.com/track/3y8hTrsyarUNzZhgZlwG84"
-    },
-    {
-      "added_at": "2024-04-05 17:21:38",
-      "album": {
         "name": "LOTO",
         "url": "https://open.spotify.com/album/69ejRbPjsusOcKQm6ZwsSg"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 166493,
       "name": "LOTO",
       "url": "https://open.spotify.com/track/01c2emv4rHsA4KZ5gBTLhv"
+    },
+    {
+      "added_at": "2024-04-05 17:21:38",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1p57rF4jF9evU5rrmpzSaG"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 202405,
+      "name": "Pana",
+      "url": "https://open.spotify.com/track/3y8hTrsyarUNzZhgZlwG84"
     },
     {
       "added_at": "2024-04-05 17:21:38",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-04-05 17:21:38",
       "album": {
+        "name": "Tarde o Temprano",
+        "url": "https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 213127,
+      "name": "Tarde o Temprano",
+      "url": "https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde"
+    },
+    {
+      "added_at": "2024-04-05 17:21:38",
+      "album": {
         "name": "Mismo Amor",
         "url": "https://open.spotify.com/album/47TJKNoGstQmn8cITL9AQv"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 229943,
       "name": "Mar\u00eda",
       "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
-    },
-    {
-      "added_at": "2024-04-05 17:21:38",
-      "album": {
-        "name": "Tarde o Temprano",
-        "url": "https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 213127,
-      "name": "Tarde o Temprano",
-      "url": "https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde"
     },
     {
       "added_at": "2024-04-05 17:21:38",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-04-05 17:21:38",
       "album": {
+        "name": "PEL\u00cdCULA",
+        "url": "https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 193206,
+      "name": "PEL\u00cdCULA",
+      "url": "https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2"
+    },
+    {
+      "added_at": "2024-04-05 17:21:38",
+      "album": {
         "name": "Musikita del Cielo",
         "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
       },
@@ -615,26 +631,6 @@
     {
       "added_at": "2024-04-05 17:21:38",
       "album": {
-        "name": "Mar",
-        "url": "https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 238253,
-      "name": "Mar",
-      "url": "https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm"
-    },
-    {
-      "added_at": "2024-04-05 17:21:38",
-      "album": {
         "name": "Chica Acuario",
         "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
       },
@@ -655,18 +651,22 @@
     {
       "added_at": "2024-04-05 17:21:38",
       "album": {
-        "name": "PEL\u00cdCULA",
-        "url": "https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L"
+        "name": "Mar",
+        "url": "https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2"
       },
       "artists": [
         {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
         }
       ],
-      "duration_ms": 193206,
-      "name": "PEL\u00cdCULA",
-      "url": "https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2"
+      "duration_ms": 238253,
+      "name": "Mar",
+      "url": "https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm"
     },
     {
       "added_at": "2024-04-05 17:21:38",
@@ -743,18 +743,22 @@
     {
       "added_at": "2024-04-05 17:21:38",
       "album": {
-        "name": "Algo Tiene Que Cambiar",
-        "url": "https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi"
+        "name": "Todo Estaba Bien",
+        "url": "https://open.spotify.com/album/7KPVPMG8NmmqMsuPlQDl8P"
       },
       "artists": [
         {
-          "name": "Alan Sutton y las criaturitas de la ansiedad",
-          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 265473,
-      "name": "M\u00e1s Sencillo",
-      "url": "https://open.spotify.com/track/7K5x3ONjTT1uJCR431ElKF"
+      "duration_ms": 188222,
+      "name": "Todo Estaba Bien",
+      "url": "https://open.spotify.com/track/72m6x9D3NCMs2MsE4wHMIC"
     },
     {
       "added_at": "2024-04-05 17:21:38",
@@ -779,22 +783,18 @@
     {
       "added_at": "2024-04-05 17:21:38",
       "album": {
-        "name": "Todo Estaba Bien",
-        "url": "https://open.spotify.com/album/7KPVPMG8NmmqMsuPlQDl8P"
+        "name": "Algo Tiene Que Cambiar",
+        "url": "https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi"
       },
       "artists": [
         {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        },
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
         }
       ],
-      "duration_ms": 188222,
-      "name": "Todo Estaba Bien",
-      "url": "https://open.spotify.com/track/72m6x9D3NCMs2MsE4wHMIC"
+      "duration_ms": 265473,
+      "name": "M\u00e1s Sencillo",
+      "url": "https://open.spotify.com/track/7K5x3ONjTT1uJCR431ElKF"
     },
     {
       "added_at": "2024-04-05 17:21:38",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-04-05 17:21:38",
       "album": {
-        "name": "yen3",
-        "url": "https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy"
-      },
-      "artists": [
-        {
-          "name": "lisandro skar",
-          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
-        }
-      ],
-      "duration_ms": 186625,
-      "name": "yen3",
-      "url": "https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV"
-    },
-    {
-      "added_at": "2024-04-05 17:21:38",
-      "album": {
         "name": "Lo que fuera",
         "url": "https://open.spotify.com/album/77YloBOjF7a1x3WEqsk9Ia"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 177019,
       "name": "Lo que fuera",
       "url": "https://open.spotify.com/track/2vGH3bb9tWJjJYaBAtFnVr"
+    },
+    {
+      "added_at": "2024-04-05 17:21:38",
+      "album": {
+        "name": "yen3",
+        "url": "https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "duration_ms": 186625,
+      "name": "yen3",
+      "url": "https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV"
     },
     {
       "added_at": "2024-04-05 17:21:38",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-04-05 17:21:38",
       "album": {
-        "name": "TEMPLO KOMODO",
-        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
-      },
-      "artists": [
-        {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
-        }
-      ],
-      "duration_ms": 310216,
-      "name": "Nariz Con Ra\u00edz",
-      "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
-    },
-    {
-      "added_at": "2024-04-05 17:21:38",
-      "album": {
         "name": "Viernes",
         "url": "https://open.spotify.com/album/7xgun8d6qqSI66tIUQEZR0"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2024-04-05 17:21:38",
       "album": {
-        "name": "La Negaci\u00f3n",
-        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
+        "name": "TEMPLO KOMODO",
+        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
       },
       "artists": [
         {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
         }
       ],
-      "duration_ms": 177818,
-      "name": "Lindos Problemas",
-      "url": "https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ"
+      "duration_ms": 310216,
+      "name": "Nariz Con Ra\u00edz",
+      "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
     },
     {
       "added_at": "2024-04-05 17:21:38",
@@ -1363,6 +1347,22 @@
       "duration_ms": 212574,
       "name": "Aparato",
       "url": "https://open.spotify.com/track/4wl4H1WNxfxJveag7dGkQU"
+    },
+    {
+      "added_at": "2024-04-05 17:21:38",
+      "album": {
+        "name": "La Negaci\u00f3n",
+        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "Lindos Problemas",
+      "url": "https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ"
     },
     {
       "added_at": "2024-04-05 17:21:38",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2024-04-05 17:21:38",
       "album": {
-        "name": "Estamos Bajo el Agua",
-        "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
-      },
-      "artists": [
-        {
-          "name": "Agus Vivo",
-          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
-        },
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 151619,
-      "name": "Estamos Bajo el Agua",
-      "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
-    },
-    {
-      "added_at": "2024-04-05 17:21:38",
-      "album": {
         "name": "Historia de un Amor",
         "url": "https://open.spotify.com/album/7GNyEER5rbwEVpAWeep70c"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 165000,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/1ummXcPcrn21a5OFOjHlpT"
+    },
+    {
+      "added_at": "2024-04-05 17:21:38",
+      "album": {
+        "name": "Estamos Bajo el Agua",
+        "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
+      },
+      "artists": [
+        {
+          "name": "Agus Vivo",
+          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
+        },
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 151619,
+      "name": "Estamos Bajo el Agua",
+      "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
     },
     {
       "added_at": "2024-04-05 17:21:38",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-04-05 17:21:38",
       "album": {
-        "name": "Helado de Mango",
-        "url": "https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efa Valdez",
-          "url": "https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA"
-        }
-      ],
-      "duration_ms": 208434,
-      "name": "Helado de Mango",
-      "url": "https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59"
-    },
-    {
-      "added_at": "2024-04-05 17:21:38",
-      "album": {
         "name": "GUARACHA",
         "url": "https://open.spotify.com/album/2tpbzolBdNXm5WVM1RQRxy"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 157688,
       "name": "GUARACHA",
       "url": "https://open.spotify.com/track/4tuROO3SXDAlA7bbKXB0Vm"
+    },
+    {
+      "added_at": "2024-04-05 17:21:38",
+      "album": {
+        "name": "Helado de Mango",
+        "url": "https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efa Valdez",
+          "url": "https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA"
+        }
+      ],
+      "duration_ms": 208434,
+      "name": "Helado de Mango",
+      "url": "https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59"
     },
     {
       "added_at": "2024-04-05 17:21:38",
@@ -1755,22 +1755,18 @@
     {
       "added_at": "2024-04-05 17:21:38",
       "album": {
-        "name": "PAHPAHPAH",
-        "url": "https://open.spotify.com/album/0C7eIjtDYbcjz516g1urTt"
+        "name": "El Mundo Siempre Estuvo Dividido en Dos",
+        "url": "https://open.spotify.com/album/4DwDKGqyR2hp8roLeNrhYh"
       },
       "artists": [
         {
-          "name": "Juan Lopez",
-          "url": "https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT"
-        },
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
         }
       ],
-      "duration_ms": 131874,
-      "name": "PAHPAHPAH",
-      "url": "https://open.spotify.com/track/5xyKGLSdx4OKiPzT9cXQef"
+      "duration_ms": 125156,
+      "name": "El Mundo Siempre Estuvo Dividido en Dos",
+      "url": "https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88"
     }
   ],
   "unique_name": "Radio Indie",

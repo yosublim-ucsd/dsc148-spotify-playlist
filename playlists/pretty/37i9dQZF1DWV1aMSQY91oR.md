@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: GloRilla & Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,816 likes - 49 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,828 likes - 49 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [PRESSURE](https://open.spotify.com/track/47M8dvlkQQcSV7IbjvK31V) | [TARiiiQ](https://open.spotify.com/artist/2ALwFi4e5UaTvVMddicA4g) | [PRESSURE](https://open.spotify.com/album/2T1Fegtgpa1rrve60p4s1Y) | 3:28 |
 | 49 | [My Glock](https://open.spotify.com/track/1Qfrm1Qw6wWnDMkv9Ve64Z) | [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41) | [Face Card](https://open.spotify.com/album/7wd7uodPU33oHysEKjjhrh) | 1:45 |
 
-Snapshot ID: `MCwzODAwZjA3NmZjMDg0ZmE4ZGRlNjRlNDNmZjY1NjY4MGZkODY3Yzc4`
+Snapshot ID: `MTcxMjMyNTc2MiwwMDAwMDAwMGRkMDYxMmMxOWU2ZmQ4NjY4ZTc5ZmY1NzhmYjNlODJm`

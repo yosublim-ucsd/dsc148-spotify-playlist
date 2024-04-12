@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: X Ambassadors
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,182 likes - 150 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,255 likes - 150 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 85 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
 | 86 | [funeral](https://open.spotify.com/track/51jglJSZSF5lIK0akIf8kq) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [hiding mountains in the palm of my hand](https://open.spotify.com/album/6bmz99IOVuf9EuaISHm20Z) | 3:32 |
 | 87 | [Highway Queen](https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Highway Queen](https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv) | 3:32 |
-| 88 | [Imaan](https://open.spotify.com/track/1ydE5C1KehuCQI8EM3qXrQ) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Imaan](https://open.spotify.com/album/671HQwwWo7sivjgFb4Qf1P) | 3:34 |
+| 88 | [Imaan](https://open.spotify.com/track/5xvYNmS5yLJr5Z18P25DYR) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Imaan](https://open.spotify.com/album/4365MmEKX6ImuvRiWtqagj) | 3:34 |
 | 89 | [In Bloom](https://open.spotify.com/track/2TNhDjD4wb5XFO2Z7FFWve) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [In Bloom](https://open.spotify.com/album/1p2mOtXzL6GZV5NMuap85T) | 3:13 |
 | 90 | [Paradise](https://open.spotify.com/track/3pBncKks8ZvP64uXIPms7Q) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Visions](https://open.spotify.com/album/59Gsd0DGxyhKyuHkhCV4Hq) | 3:25 |
 | 91 | [Over the Finish Line](https://open.spotify.com/track/7bZWjIAYnl3cu6zEbK5szF) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Over the Finish Line](https://open.spotify.com/album/4Y26zaC3fTZ2U7lxv4KkxA) | 4:15 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Tender](https://open.spotify.com/track/0q7NYBwAYdAELOSwnyzFoO) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Tender](https://open.spotify.com/album/7kFPWvFvhsBWzfc6Q3ZFUf) | 5:06 |
 | 150 | [Birdseye](https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Birdseye](https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7) | 2:31 |
 
-Snapshot ID: `MCwwODcwZWE0NGI0NzY4MzM0MjNjYTlmMDhlZTI1ZWZjNGNmNDNkNWRk`
+Snapshot ID: `MTcxMjI4OTYwMCwwMDAwMDAwMGY5NTEzMzA0OTcwZmVlMmE5ODhmNTY4ODNhNWFhOTk1`

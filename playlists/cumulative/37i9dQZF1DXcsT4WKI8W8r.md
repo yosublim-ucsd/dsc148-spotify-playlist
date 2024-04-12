@@ -4,7 +4,7 @@
 
 > A playlist to get you through your whole workday.
 
-419 songs - 23 hr 53 min
+420 songs - 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 | 2021-04-30 |  |
 | [Alone \- Remastered](https://open.spotify.com/track/0h17TpfCKbbib1J37Qgj7r) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Greatest Hits 1985\-1995](https://open.spotify.com/album/5bOhnWhieBJGivUovmtob5) | 3:39 | 2021-04-30 | 2023-12-14 |
 | [Amen](https://open.spotify.com/track/4NxrAZwdMG9pThRYql6MfF) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Amen](https://open.spotify.com/album/31SPurHzla1Hs0x1zu6Dz4) | 2:59 | 2021-04-30 | 2022-07-29 |
-| [Ammunition](https://open.spotify.com/track/16gu3zjAEer6t6c8qxaltf) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:42 | 2024-03-18 |  |
+| [Ammunition](https://open.spotify.com/track/16gu3zjAEer6t6c8qxaltf) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:42 | 2024-03-18 | 2024-04-12 |
 | [Angels](https://open.spotify.com/track/1M2nd8jNUkkwrc1dgBPTJz) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Life Thru A Lens](https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN) | 4:25 | 2021-04-30 |  |
 | [Another Day in Paradise \- 2016 Remaster](https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(Deluxe Edition\)](https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8) | 5:22 | 2021-04-30 |  |
 | [as long as you care](https://open.spotify.com/track/0GQqQ7dA7B4mcEktSZaOUp) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [as long as you care](https://open.spotify.com/album/4Fa7UBvAT9kuEMOAq2gbHm) | 3:13 | 2021-04-30 | 2022-07-29 |
@@ -340,6 +340,7 @@
 | [Son of a Preacher Man](https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Girl's in Love with You](https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5) | 3:19 | 2021-04-30 | 2022-11-13 |
 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 | 2021-04-30 |  |
 | [spark](https://open.spotify.com/track/3S8ltNG88j9u6JHGa0b7um) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [Spark](https://open.spotify.com/album/3lEcbe0Mua4mPnYcaPt3Nl) | 3:25 | 2021-04-30 | 2022-07-29 |
+| [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:42 | 2024-04-05 |  |
 | [Stand By Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 | 2021-04-30 |  |
 | [Stay The Way I Left You \(feat\. Dahl\)](https://open.spotify.com/track/4Eyid2OjeyXZ2fQ8eELXMi) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq), [Dahl](https://open.spotify.com/artist/2v9KnUyRW5IW6dWZtptQdU) | [Late Teens / Early Twenties… Stay The Way I Left You](https://open.spotify.com/album/0dhxCW84HD7542YTTuxSce) | 2:12 | 2021-04-30 | 2022-07-29 |
 | [Stay Young](https://open.spotify.com/track/5Zhm8qMnDwXR3soSSurN8T) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Tessa](https://open.spotify.com/artist/1mlram0F0Bgzf47j6wpYd8) | [Stay Young](https://open.spotify.com/album/0CDyYekVPlSSlyji3cg2sn) | 2:37 | 2021-04-30 | 2023-01-25 |

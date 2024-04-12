@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 188036,
+  "num_followers": 188029,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTRlNDJjNzAxYjVkMzA5Y2FiYmFhZmEwMjJkODE2Nzc4YTQxMDU0",
+  "snapshot_id": "MTcwMjAxMjk1OSwwMDAwMDAwMGZiYWQyZTJlOTQ0ZWQ0Nzc0NjVkYTFjYzk0NjNkYTI3",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -245,22 +245,6 @@
       "url": "https://open.spotify.com/track/6IM1eCKlyY660wLgjDRIZC"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Give Love At Christmas",
-        "url": "https://open.spotify.com/album/40nc0tA9KcJHexXijyqHSP"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 365720,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/2mtm0aF6c7Yd66sFaE3ipu"
-    },
-    {
       "added_at": "2022-11-25 20:23:30",
       "album": {
         "name": "The Best Of/20th Century Masters: The Christmas Collection",
@@ -279,6 +263,22 @@
       "duration_ms": 251133,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/5jFiyUs5R6kHuKbAs0ZU2s"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Give Love At Christmas",
+        "url": "https://open.spotify.com/album/40nc0tA9KcJHexXijyqHSP"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 365720,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/2mtm0aF6c7Yd66sFaE3ipu"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -477,22 +477,6 @@
       "url": "https://open.spotify.com/track/5e0ZoBIiEcB883wyjRDD8g"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 182360,
-      "name": "Someday at Christmas",
-      "url": "https://open.spotify.com/track/5AyhhhhfsFPfcWCtTDVKvV"
-    },
-    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Christmas With Brandy",
@@ -507,6 +491,22 @@
       "duration_ms": 181720,
       "name": "Somebody's Waiting",
       "url": "https://open.spotify.com/track/7MeJ8GQz5nUxjrai6tEf3J"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 182360,
+      "name": "Someday at Christmas",
+      "url": "https://open.spotify.com/track/5AyhhhhfsFPfcWCtTDVKvV"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -605,22 +605,6 @@
       "url": "https://open.spotify.com/track/73NEyO0Hx5WumrR7TYQWxu"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "Ashanti's Christmas",
-        "url": "https://open.spotify.com/album/2cCgsczHC4dG2TSSPSxzL5"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 244720,
-      "name": "Christmas Time Again",
-      "url": "https://open.spotify.com/track/0xBnJDbPobgPwj7SUKfNbS"
-    },
-    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "Joyful, Joyful",
@@ -639,6 +623,22 @@
       "duration_ms": 234466,
       "name": "Joyful, Joyful",
       "url": "https://open.spotify.com/track/671bbzZZlT7tjVUR8CQ5p8"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Ashanti's Christmas",
+        "url": "https://open.spotify.com/album/2cCgsczHC4dG2TSSPSxzL5"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 244720,
+      "name": "Christmas Time Again",
+      "url": "https://open.spotify.com/track/0xBnJDbPobgPwj7SUKfNbS"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-11-25 20:23:30",
       "album": {
-        "name": "A Special Christmas",
-        "url": "https://open.spotify.com/album/2TEbtyEoKR7pwouo6q2ppC"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Give Love On Christmas Day",
-      "url": "https://open.spotify.com/track/43nFa4io3pDfeWEc1NBPel"
-    },
-    {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
         "name": "To: You (a holiday joint)",
         "url": "https://open.spotify.com/album/5PdpBmiQ5z0u706zZeQ3Df"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 192455,
       "name": "To: You",
       "url": "https://open.spotify.com/track/49cvMCuOr2xeSG3SWLl43x"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "A Special Christmas",
+        "url": "https://open.spotify.com/album/2TEbtyEoKR7pwouo6q2ppC"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Give Love On Christmas Day",
+      "url": "https://open.spotify.com/track/43nFa4io3pDfeWEc1NBPel"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Christmas After Midnight",
-        "url": "https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2"
-      },
-      "artists": [
-        {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
-        }
-      ],
-      "duration_ms": 263920,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "Someday At Christmas",
         "url": "https://open.spotify.com/album/7pj8nZ704eu9wQroJJadSq"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 203434,
       "name": "Someday At Christmas",
       "url": "https://open.spotify.com/track/0omLPJ3WKOOSCVmHYgMJKZ"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Christmas After Midnight",
+        "url": "https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        }
+      ],
+      "duration_ms": 263920,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp"
     },
     {
       "added_at": "2021-12-15 17:30:29",

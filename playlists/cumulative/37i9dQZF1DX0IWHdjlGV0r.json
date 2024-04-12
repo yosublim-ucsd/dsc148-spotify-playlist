@@ -2623,6 +2623,28 @@
     },
     {
       "album": {
+        "name": "Piccolo principe",
+        "url": "https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Dystopic",
+          "url": "https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171005,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/5JhvP5zFShla9LBIjEh6uO"
+    },
+    {
+      "album": {
         "name": "Bravo Ragazzo (Royal Edition)",
         "url": "https://open.spotify.com/album/0LHWAAN1t9MHgpkPjdXrkW"
       },

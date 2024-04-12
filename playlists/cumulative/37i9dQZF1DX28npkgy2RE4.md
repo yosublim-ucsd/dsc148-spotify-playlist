@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Helado Negro
 
-451 songs - 1 day 3 hr 41 min
+452 songs - 1 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Dried Up River](https://open.spotify.com/track/7bNvUAHtAVDee8w6SS6r0S) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light \(Deluxe Edition\)](https://open.spotify.com/album/4BZtOxZRZVRVf5ufHPlXy3) | 3:51 | 2021-11-12 |  |
 | [Dublin, Texas](https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Dublin, Texas](https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW) | 4:29 | 2021-11-12 | 2023-06-04 |
 | [Easter](https://open.spotify.com/track/3RVEgPy3rP7r3ntHS53QoD) | [Walter Martin](https://open.spotify.com/artist/1HvCWUrKX1xKeT3yQXjPeI) | [The Bear](https://open.spotify.com/album/7JFqZayp0NfN4yOmyCg6Zs) | 4:10 | 2022-04-01 | 2022-07-27 |
-| [eight hours](https://open.spotify.com/track/0EUVAn6PdL49jH8B51c2mv) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [the sum of the in\-between](https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ) | 2:47 | 2023-10-27 |  |
+| [eight hours](https://open.spotify.com/track/0EUVAn6PdL49jH8B51c2mv) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [the sum of the in\-between](https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ) | 2:47 | 2023-10-27 | 2024-04-12 |
 | [eight hours](https://open.spotify.com/track/5cn3Zlb938iYc28dY5s3vm) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [eight hours](https://open.spotify.com/album/6J6Dcgg1yNyqE8BjM78lg0) | 2:47 | 2021-11-12 | 2022-07-23 |
 | [El Mirador](https://open.spotify.com/track/4e5XjSkzKcGH13tXCMenrt) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [El Mirador](https://open.spotify.com/album/0GYUzPcQE3XA2BdpYrNetm) | 3:38 | 2022-02-11 | 2022-07-29 |
 | [Every Day's A Lesson In Humility](https://open.spotify.com/track/0rUHnNylp4QiqLOx3hL2EY) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL), [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [To Love](https://open.spotify.com/album/2FK4yXQGrYTLS1DjKavwoe) | 3:36 | 2023-06-16 |  |
@@ -307,6 +307,7 @@
 | [Out Of My Mind](https://open.spotify.com/track/3ZTZiH8eOtaUPrEW4KxtOB) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Out Of My Mind](https://open.spotify.com/album/1nhqhp0kxaKZvVLECcyH9X) | 4:41 | 2023-09-15 |  |
 | [pak it in](https://open.spotify.com/track/2CBrwFbrNnzvikGZXq5j9l) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [pak it in // mama](https://open.spotify.com/album/7fbNuLkq7MOLzrajDNymJp) | 4:43 | 2021-11-12 | 2022-11-13 |
 | [Paul Newman Daytona Rolex](https://open.spotify.com/track/4pAjn6PcQp81T2BKOzPOtn) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/5DjZqk7gJGrQBCeTKnBViy) | 3:21 | 2021-11-12 | 2024-03-30 |
+| [Paul Newman Daytona Rolex](https://open.spotify.com/track/5v2IiO8EeI5kyKxRwflTRx) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/78UXXQ2WhEdl3586dCV2ZT) | 3:21 | 2024-03-01 |  |
 | [Perfect Wife](https://open.spotify.com/track/4sUkaBPPpnBKnmBfrgAyv1) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Perfect Wife](https://open.spotify.com/album/0DZfn5TUMGAGKKjkDFJDzz) | 3:38 | 2021-11-12 | 2022-07-29 |
 | [Picture Window](https://open.spotify.com/track/5sRVuINnM37MVfUFS2zOfJ) | [Kristine Leschper](https://open.spotify.com/artist/5j3howIfVr9Jm0AqHNapwf) | [Picture Window](https://open.spotify.com/album/0dVDYgYT8YK6WM69hgheeF) | 4:42 | 2022-01-21 |  |
 | [Pictures of You](https://open.spotify.com/track/04Ol1Crx7wXvJUR5d72SlG) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Pictures of You](https://open.spotify.com/album/4VykpJKWx1lQ0b4r9cRCTP) | 3:09 | 2022-10-14 | 2023-05-01 |

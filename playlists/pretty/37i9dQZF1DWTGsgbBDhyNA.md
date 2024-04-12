@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTGsgbBDhyNA.md) - [plain]
 
 > Playlist oficial del podcast <a href="spotify:show:1MAoOdM2Xx9TayWrXQ2MCj"> Momentos Chingones</a> donde tendrás las noticias más frescas y los hits del momento de la Música Mexicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,298 likes - 30 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,341 likes - 30 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTGsgbBDhyNA.md) - [plain]
 | 29 | [Según Quién](https://open.spotify.com/track/6fNCrsrdIcgVd2aZZ0nnz4) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Según Quién](https://open.spotify.com/album/5Fqjf9AmZPobGPRuyO2fJf) | 2:22 |
 | 30 | [La Suma](https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Lupe Borbon y su Blindaje 7](https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl) | [La Suma](https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR) | 3:18 |
 
-Snapshot ID: `MCxmNjI5YTY4OWU0OTI3YTI1NmQzYTlmN2Q4OTQyN2IyYmFlODE2YjE0`
+Snapshot ID: `MTcxMjU5NjIxMywwMDAwMDAwMGYyY2I5ZTMwY2MzMGYwNGU2Yzk4ZGIzM2JmMGM2ZDcy`

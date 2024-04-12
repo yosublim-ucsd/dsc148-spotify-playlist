@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 29313,
+  "2024-04-12": 29346,
   "date_first_scraped": "2023-09-29",
   "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : Arma Jackson",
   "name": "le miel",
@@ -1273,6 +1273,24 @@
     {
       "album": {
         "name": "Monsieur Saudade",
+        "url": "https://open.spotify.com/album/1amJT80lbG7zPvoVcpw05B"
+      },
+      "artists": [
+        {
+          "name": "Abou Tall",
+          "url": "https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235440,
+      "name": "MAISON MARGIELA",
+      "url": "https://open.spotify.com/track/1MggOUzXdsy6jhrhuWvuiD"
+    },
+    {
+      "album": {
+        "name": "Monsieur Saudade",
         "url": "https://open.spotify.com/album/2utwqz4VmZWi2rTKhRP3HV"
       },
       "artists": [
@@ -1283,7 +1301,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 235440,
       "name": "MAISON MARGIELA",
       "url": "https://open.spotify.com/track/31apVS91MZ1rj1gZ7DpBBB"

@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-292 songs - 12 hr 49 min
+293 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Save Me](https://open.spotify.com/track/3WuCtioRgRisEqZLS6hyy2) | [Dūne](https://open.spotify.com/artist/5TtvkENnGTgiOTO8gTbTmo) | [Save Me](https://open.spotify.com/album/5F6XZV6i7gTz4RuPNKGJ2N) | 2:14 | 2023-10-30 |  |
 | [Save Tonight](https://open.spotify.com/track/2Jq6SVGQB0aIeTbIe9w1xT) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Save Tonight](https://open.spotify.com/album/1DoruW6kOIvECsIWt1Z3sr) | 2:25 | 2023-11-03 |  |
 | [Sensitive](https://open.spotify.com/track/78cQPtw2d185IBI3RTZw2P) | [Nexeri](https://open.spotify.com/artist/2ekaInISzbZNipWYe5y7IU), [Methner](https://open.spotify.com/artist/1KVh2mDowk5csLQLpG4sln), [She Is Jules](https://open.spotify.com/artist/4XZ25UyxKA59Pi3d8WV379) | [Sensitive](https://open.spotify.com/album/51hx5I3XNA3LQe2v9K0FJC) | 2:16 | 2024-03-17 |  |
+| [Sexual Healing](https://open.spotify.com/track/3RkNuyK96gKNvDIguhxOZ0) | [Amaranth Skies](https://open.spotify.com/artist/6v1yanGkwUBUbk6G3dgNOq), [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti), [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Sexual Healing](https://open.spotify.com/album/4ulLlEhk6401ke3RZ9ZhmH) | 2:50 | 2024-04-11 |  |
 | [She Will Be Loved](https://open.spotify.com/track/2F4V3d3ap1O76Tcy8hHsD4) | [Cookie Crumble](https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V) | [She Will Be Loved](https://open.spotify.com/album/7rHdR1abEbUBmORT4exyEM) | 2:33 | 2023-09-30 | 2024-02-03 |
 | [Shed a Light](https://open.spotify.com/track/44LqyKjcDhVzDCeIax42kK) | [Pablo Leo](https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9) | [Shed a Light](https://open.spotify.com/album/4jIHplWhvamZl6Lj4HzqZn) | 3:30 | 2023-12-04 | 2024-02-12 |
 | [Shine Like Gold](https://open.spotify.com/track/7LhsKfFMbEkLwZGAefMTmI) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Shine Like Gold](https://open.spotify.com/album/2K2sWjACV0v1Wc0iF9A2rn) | 2:24 | 2023-09-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0VvfiaR7l5xBzEjCLygDOM.md) - [plain]
 
 > 
 
-[Noah](https://open.spotify.com/user/k4ywenjsouypjg1tkpbu4lt0w) - 5 likes - 43 songs - 2 hr 29 min
+[Noah](https://open.spotify.com/user/k4ywenjsouypjg1tkpbu4lt0w) - 5 likes - 44 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,5 +51,6 @@ pretty - [cumulative](/playlists/cumulative/0VvfiaR7l5xBzEjCLygDOM.md) - [plain]
 | 41 | [Let The Bad Times Roll](https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:18 |
 | 42 | [Hitchin' a Ride](https://open.spotify.com/track/6WlmA3HPHuNIR2mxI8LkZF) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:51 |
 | 43 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 |
+| 44 | [Ruby Soho](https://open.spotify.com/track/0vfhk1lH3zYesFN1x7vV46) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 2:37 |
 
-Snapshot ID: `MTIzLDZjNjc2MDUyMWRhMGM5ZDkxZjdlOTM4ODcyMzg3NTA4YTJmMmVmNWM=`
+Snapshot ID: `MTI0LDRmODFlNDljN2Y4NjQ1YjIxM2ZkODIzNTc5MzdhYmJiYTk5ZmNhYTM=`

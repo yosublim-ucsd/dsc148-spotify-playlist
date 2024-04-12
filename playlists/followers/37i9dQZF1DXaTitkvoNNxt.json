@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 1426548,
+  "2024-04-12": 1426503,
   "date_first_scraped": "2022-06-02",
   "description": "Songs from the last decade that will make you sing and dance all summer long!",
   "name": "Summer Hits of the 10s",
@@ -791,7 +791,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 209438,
       "name": "Dance Monkey",
       "url": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
@@ -2775,7 +2775,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 210626,
       "name": "Starships",
       "url": "https://open.spotify.com/track/1oHNvJVbFkexQc0BpQp7Y4"

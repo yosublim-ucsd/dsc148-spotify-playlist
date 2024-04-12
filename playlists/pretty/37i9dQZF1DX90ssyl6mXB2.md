@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,397 likes - 81 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,276 likes - 81 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 | 80 | [sink or swim](https://open.spotify.com/track/7cSzfId9hyN4CjdFKKKojm) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [sink or swim](https://open.spotify.com/album/5dk6DPvWnVfKNBhJQBXcsx) | 3:12 |
 | 81 | [Trust](https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Lost](https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r) | 2:38 |
 
-Snapshot ID: `MCxlYmEwM2FiMTFkZDEzZDZmZmQ0OTkwNWI0MmI2MDkyYjc4ZDRkMGE0`
+Snapshot ID: `MTcxMjI4OTYwMCwwMDAwMDAwMDZiMDkyMDQ4Y2RjMDQ1ODFhNjU0NGE0MTM1Mzc2MmRm`

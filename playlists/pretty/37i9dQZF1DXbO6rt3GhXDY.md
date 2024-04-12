@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbO6rt3GhXDY.md) - [plain]
 
 > You know em, you love em, these are indie pop hits\.  Cover: Good Neighbours
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,340 likes - 109 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,744 likes - 109 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbO6rt3GhXDY.md) - [plain]
 | 108 | [When U Loved Me](https://open.spotify.com/track/7pADtei8K3suMQlLBxR4iw) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [When U Loved Me](https://open.spotify.com/album/6ob1fJyKwsUIIoyjz8PL0w) | 3:11 |
 | 109 | [Chinese New Year](https://open.spotify.com/track/0SIAFU49FFHwR3QnT5Jx0k) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Chinese New Year](https://open.spotify.com/album/4x41gTsgkdYoEZvBPPeVhi) | 2:40 |
 
-Snapshot ID: `MCxjZTRkYTc2MmExNWMzMmNjZjZkOTdlZDg4YWY5MmQ3OTU2ZWQzNGNk`
+Snapshot ID: `MTcxMjc3MjkwMCwwMDAwMDAwMDQzNDUyNDhhYmM3M2Q2NjdhYmM5NzJhOGFhNjhkY2Ji`

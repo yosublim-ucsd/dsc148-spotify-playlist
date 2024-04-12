@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,902 likes - 104 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,916 likes - 104 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 81 | [Passed Tense](https://open.spotify.com/track/2uUAW6qgya8keByF9mh3ui) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Passed Tense](https://open.spotify.com/album/5lbiP1DLW9DrB5BB3dH3x9) | 4:01 |
 | 82 | [FUN](https://open.spotify.com/track/6Knk2SiTXcSFiVCzXmdev7) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [FUN](https://open.spotify.com/album/1aWAKOolNI0fGss2fcYHjR) | 2:31 |
 | 83 | [DC Rot](https://open.spotify.com/track/5emrpSNSDbKe6HotCObSFp) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [DC Rot](https://open.spotify.com/album/5Zw9BHZt7DpvjHpG1xYFOR) | 4:02 |
-| 84 | [Beep](https://open.spotify.com/track/3X5LrD9Gsv9eeJAaUW76WY) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Beep](https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ) | 2:00 |
-| 85 | [M.I.A.](https://open.spotify.com/track/0TYNJMOUjuW2JrnxF8SSkR) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [M.I.A](https://open.spotify.com/album/0xKMieAM4MSkfFJkw1nRYq) | 3:10 |
+| 84 | [M.I.A.](https://open.spotify.com/track/0TYNJMOUjuW2JrnxF8SSkR) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [M.I.A](https://open.spotify.com/album/0xKMieAM4MSkfFJkw1nRYq) | 3:10 |
+| 85 | [Beep](https://open.spotify.com/track/3X5LrD9Gsv9eeJAaUW76WY) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Beep](https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ) | 2:00 |
 | 86 | [Kisé](https://open.spotify.com/track/29lLqXN6gPZv4Ol92YmkRn) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Kisé](https://open.spotify.com/album/2TR6TpIejD4LrZQW7476c1) | 2:10 |
 | 87 | [Dreamer](https://open.spotify.com/track/0IPYNDq06pcjd2lybZKNPo) | [LODATO](https://open.spotify.com/artist/2uLjsXkHNJaxZTwVkDZktv), [Janice Robinson](https://open.spotify.com/artist/6BXTl7YkINlCQkkzE9hvCd) | [Dreamer](https://open.spotify.com/album/04ib8lMhGT6avUwxcT2CDE) | 2:52 |
 | 88 | [Hardware](https://open.spotify.com/track/79pWgbXGSFEFOx2TGufW1b) | [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ), [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3) | [Hardware](https://open.spotify.com/album/4934ZfzaB5aofYYJHdxwaX) | 3:49 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 103 | [Green Light \(feat\. Kate Wild\) \- Moksi Remix](https://open.spotify.com/track/0CCbpCeGnyoYxzczLw19wQ) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [Green Light \(feat\. Kate Wild\) \[Moksi Remix\]](https://open.spotify.com/album/4Mxc0za7jRSrvLRVV5ZsLD) | 3:10 |
 | 104 | [Leader Of The Pack](https://open.spotify.com/track/1e33JEiunjKdNTVxISYpb6) | [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op), [Ruckspin](https://open.spotify.com/artist/4xVxQGaT49dkkLwlcayoXg) | [Leader Of The Pack](https://open.spotify.com/album/6U2V6suDmD5MxMnUYgSxP4) | 3:39 |
 
-Snapshot ID: `MCw3ODU1YzE2OTRmMTYzNzk0Mjk1MjZiNGIwMzU4ZWJlNjVjMzZmYTcw`
+Snapshot ID: `MTY4NjkyMDI1MiwwMDAwMDAwMDVmNDlhOGU1YjRlZDFkZjI3OWI4YmRhMjc1MDdiZmEy`

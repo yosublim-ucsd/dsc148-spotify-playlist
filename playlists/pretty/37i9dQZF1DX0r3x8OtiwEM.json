@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 937237,
+  "num_followers": 937404,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzNlOWVkNDMzOGIyNTI0OGQ1NzcyNTU3OGRmZDYzZjIxYWMzZjVi",
+  "snapshot_id": "MTcwMTExMDAwNiwwMDAwMDAwMDQ1YjZkYTZhMTgwNGVlYjEwNDllODc2MGE1OTVmMDMx",
   "tracks": [
     {
       "added_at": "2023-11-27 18:33:25",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
+        "name": "Designer Love",
+        "url": "https://open.spotify.com/album/6OK84B4MX87uzZ7umm25f3"
+      },
+      "artists": [
+        {
+          "name": "MARIA Die RUHE",
+          "url": "https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ"
+        }
+      ],
+      "duration_ms": 260786,
+      "name": "Designer Love - Short Version",
+      "url": "https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6"
+    },
+    {
+      "added_at": "2023-11-27 18:33:25",
+      "album": {
         "name": "Kaleidoscope Colours",
         "url": "https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 255466,
       "name": "Kaleidoscope Colours",
       "url": "https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz"
-    },
-    {
-      "added_at": "2023-11-27 18:33:25",
-      "album": {
-        "name": "Designer Love",
-        "url": "https://open.spotify.com/album/6OK84B4MX87uzZ7umm25f3"
-      },
-      "artists": [
-        {
-          "name": "MARIA Die RUHE",
-          "url": "https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ"
-        }
-      ],
-      "duration_ms": 260786,
-      "name": "Designer Love - Short Version",
-      "url": "https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6"
     },
     {
       "added_at": "2023-11-27 18:33:25",
@@ -1051,18 +1051,22 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
-        "name": "Backseat Tape",
-        "url": "https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf"
+        "name": "Bloom In The Cold",
+        "url": "https://open.spotify.com/album/02OyJh302Y5RUnrI1GqeKX"
       },
       "artists": [
         {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+          "name": "KIDS\u00d8",
+          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
+        },
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
         }
       ],
-      "duration_ms": 184040,
-      "name": "I Don't Need You",
-      "url": "https://open.spotify.com/track/0grLyO9HmxtestrFZrFJfU"
+      "duration_ms": 263575,
+      "name": "Bloom In The Cold",
+      "url": "https://open.spotify.com/track/3VH1pgtGlayAWg2s19IDed"
     },
     {
       "added_at": "2023-11-27 18:33:25",
@@ -1087,22 +1091,18 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
-        "name": "Bloom In The Cold",
-        "url": "https://open.spotify.com/album/02OyJh302Y5RUnrI1GqeKX"
+        "name": "Backseat Tape",
+        "url": "https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf"
       },
       "artists": [
         {
-          "name": "KIDS\u00d8",
-          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
-        },
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
         }
       ],
-      "duration_ms": 263575,
-      "name": "Bloom In The Cold",
-      "url": "https://open.spotify.com/track/3VH1pgtGlayAWg2s19IDed"
+      "duration_ms": 184040,
+      "name": "I Don't Need You",
+      "url": "https://open.spotify.com/track/0grLyO9HmxtestrFZrFJfU"
     }
   ],
   "unique_name": "Lowkey Tech",

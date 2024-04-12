@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 1196189,
+  "2024-04-12": 1196292,
   "date_first_scraped": "2021-12-21",
   "description": "Strictly for the streets. Cover: Future & Metro Boomin",
   "name": "Out The Mud",
@@ -17313,10 +17313,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 144313,
       "name": "Play Me Outside",
       "url": "https://open.spotify.com/track/24zyiPWL052SKsWaCoFLvU"
+    },
+    {
+      "album": {
+        "name": "Chosen One",
+        "url": "https://open.spotify.com/album/3uxDpA36a597lDDgUTqIpr"
+      },
+      "artists": [
+        {
+          "name": "Spinabenz",
+          "url": "https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144313,
+      "name": "Play Me Outside",
+      "url": "https://open.spotify.com/track/2GhclJCdhPF3X8Ex9Su0pA"
     },
     {
       "album": {

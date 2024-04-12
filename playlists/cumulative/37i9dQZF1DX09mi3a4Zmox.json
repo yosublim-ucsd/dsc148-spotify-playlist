@@ -95,6 +95,28 @@
     },
     {
       "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/3hq6g14B0rYvxzpmGZJIWn"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        },
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232350,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/7pVitP3DTRfjOaL1xhuDFl"
+    },
+    {
+      "album": {
         "name": "Sigo Siendo Yo",
         "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
       },
@@ -268,7 +290,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 225428,
       "name": "As\u00ed Te Ped\u00ed",
       "url": "https://open.spotify.com/track/79Le7RyHdaPC1eEZBpFm4x"

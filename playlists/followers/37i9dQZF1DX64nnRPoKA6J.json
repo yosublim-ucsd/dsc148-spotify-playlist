@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 169630,
+  "2024-04-12": 169658,
   "date_first_scraped": "2021-12-28",
   "description": "Feel on top of the world with these uplifting anthems of the 90s",
   "name": "Good Feeling 90s",
@@ -687,6 +687,24 @@
       "duration_ms": 269093,
       "name": "Can't Stop This Thing We Started",
       "url": "https://open.spotify.com/track/4e80zUwo7YuhNHs9OokSG0"
+    },
+    {
+      "album": {
+        "name": "Celebrity Skin",
+        "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
+      },
+      "artists": [
+        {
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "Celebrity Skin",
+      "url": "https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ"
     },
     {
       "album": {
@@ -1531,7 +1549,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 239960,
       "name": "I Love You Always Forever",
       "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"

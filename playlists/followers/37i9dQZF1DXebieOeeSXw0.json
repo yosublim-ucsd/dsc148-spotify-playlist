@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 13649,
+  "2024-04-12": 13657,
   "date_first_scraped": "2023-05-16",
   "description": "The amazing sounds of the tropics.",
   "name": "Tropicana",
@@ -3895,7 +3895,7 @@
     {
       "album": {
         "name": "Los Trapitos al Agua",
-        "url": "https://open.spotify.com/album/7CwbUzZX90EMQubtrwxn8X"
+        "url": "https://open.spotify.com/album/76jDSZyI21nZFUcEK0FrHN"
       },
       "artists": [
         {
@@ -3906,6 +3906,24 @@
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 244728,
+      "name": "Los Trapitos al Agua",
+      "url": "https://open.spotify.com/track/7v5ZLaD5qY9IbNcFOapmi0"
+    },
+    {
+      "album": {
+        "name": "Los Trapitos al Agua",
+        "url": "https://open.spotify.com/album/7CwbUzZX90EMQubtrwxn8X"
+      },
+      "artists": [
+        {
+          "name": "Mr Black El Presidente",
+          "url": "https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-11",
       "duration_ms": 247693,
       "name": "Los Trapitos al Agua",
       "url": "https://open.spotify.com/track/5uY067t7HIaEfCmhgRaA7m"

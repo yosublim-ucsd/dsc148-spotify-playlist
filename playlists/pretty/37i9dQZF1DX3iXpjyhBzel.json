@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Lukas Agustinho, Gabriela Rocha",
-  "num_followers": 1047777,
+  "num_followers": 1048180,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWZkNTZjNWIwNzU5MDU1NzY1MTdmYjIzM2I2MTBmMmNlY2Q5MGU0",
+  "snapshot_id": "MTcxMTEyOTk4NywwMDAwMDAwMDQyZWY3MzI5YmE1N2RlNzlmOTE4YTJiMTQ5NGZhNGNm",
   "tracks": [
     {
       "added_at": "2024-03-22 17:53:07",
@@ -123,22 +123,18 @@
     {
       "added_at": "2024-03-22 17:53:07",
       "album": {
-        "name": "Minha Calmaria",
-        "url": "https://open.spotify.com/album/7yEu4W8HFWye8SXWakWNeJ"
+        "name": "Como Ser\u00e1 O Amanh\u00e3",
+        "url": "https://open.spotify.com/album/78U8cKx6Jl6K94h0QFbV8B"
       },
       "artists": [
         {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        },
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+          "name": "Igor Roque",
+          "url": "https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8"
         }
       ],
-      "duration_ms": 219240,
-      "name": "Minha Calmaria",
-      "url": "https://open.spotify.com/track/6ljL3K3Poa4le6P52a6bbJ"
+      "duration_ms": 109541,
+      "name": "Como Ser\u00e1 O Amanh\u00e3",
+      "url": "https://open.spotify.com/track/7cKf9UHzecwKD3hBRSGvTj"
     },
     {
       "added_at": "2024-03-22 17:53:07",
@@ -179,18 +175,22 @@
     {
       "added_at": "2024-03-22 17:53:07",
       "album": {
-        "name": "Como Ser\u00e1 O Amanh\u00e3",
-        "url": "https://open.spotify.com/album/78U8cKx6Jl6K94h0QFbV8B"
+        "name": "Minha Calmaria",
+        "url": "https://open.spotify.com/album/7yEu4W8HFWye8SXWakWNeJ"
       },
       "artists": [
         {
-          "name": "Igor Roque",
-          "url": "https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8"
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        },
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
         }
       ],
-      "duration_ms": 109541,
-      "name": "Como Ser\u00e1 O Amanh\u00e3",
-      "url": "https://open.spotify.com/track/7cKf9UHzecwKD3hBRSGvTj"
+      "duration_ms": 219240,
+      "name": "Minha Calmaria",
+      "url": "https://open.spotify.com/track/6ljL3K3Poa4le6P52a6bbJ"
     },
     {
       "added_at": "2024-03-22 17:53:07",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-03-22 17:53:07",
       "album": {
-        "name": "Voc\u00ea Nasceu Pra Dar Certo",
-        "url": "https://open.spotify.com/album/0yW9gXrE07qjNVwIVTWFww"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 256060,
-      "name": "Voc\u00ea Nasceu Pra Dar Certo",
-      "url": "https://open.spotify.com/track/21oPwXcfY81BrGhrr105os"
-    },
-    {
-      "added_at": "2024-03-22 17:53:07",
-      "album": {
         "name": "Minha Ess\u00eancia",
         "url": "https://open.spotify.com/album/3UgzGMBPgRGe7GY2mdQKOQ"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 273547,
       "name": "Minha Ess\u00eancia",
       "url": "https://open.spotify.com/track/78LeIXA2DNk2FsgXko16kE"
+    },
+    {
+      "added_at": "2024-03-22 17:53:07",
+      "album": {
+        "name": "Voc\u00ea Nasceu Pra Dar Certo",
+        "url": "https://open.spotify.com/album/0yW9gXrE07qjNVwIVTWFww"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 256060,
+      "name": "Voc\u00ea Nasceu Pra Dar Certo",
+      "url": "https://open.spotify.com/track/21oPwXcfY81BrGhrr105os"
     },
     {
       "added_at": "2024-03-22 17:53:07",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-03-22 17:53:07",
       "album": {
-        "name": "Quero Voltar Pra Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4"
-      },
-      "artists": [
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 365080,
-      "name": "Quero Voltar Pra Casa - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3"
-    },
-    {
-      "added_at": "2024-03-22 17:53:07",
-      "album": {
         "name": "Inflama (Ao Vivo)",
         "url": "https://open.spotify.com/album/46BFASV2bY4obTjFmStnh8"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 411976,
       "name": "Inflama - Ao Vivo",
       "url": "https://open.spotify.com/track/5FrSW8HWQjFWV6XADtwPLN"
+    },
+    {
+      "added_at": "2024-03-22 17:53:07",
+      "album": {
+        "name": "Quero Voltar Pra Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 365080,
+      "name": "Quero Voltar Pra Casa - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3"
     },
     {
       "added_at": "2024-03-22 17:53:07",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-03-22 17:53:07",
       "album": {
-        "name": "Gabriel Guedes (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4BrsoV9CkEuZsHN0LssDZs"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 204700,
-      "name": "Todos Os Meus Dias - Ao Vivo",
-      "url": "https://open.spotify.com/track/6x5Q9YWT21xuqYU4odl6XA"
-    },
-    {
-      "added_at": "2024-03-22 17:53:07",
-      "album": {
         "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
         "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 328753,
       "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
       "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
+    },
+    {
+      "added_at": "2024-03-22 17:53:07",
+      "album": {
+        "name": "Gabriel Guedes (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4BrsoV9CkEuZsHN0LssDZs"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 204700,
+      "name": "Todos Os Meus Dias - Ao Vivo",
+      "url": "https://open.spotify.com/track/6x5Q9YWT21xuqYU4odl6XA"
     },
     {
       "added_at": "2024-03-22 17:53:07",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-03-22 17:53:07",
       "album": {
+        "name": "Tudo por Causa de um Grande Amor",
+        "url": "https://open.spotify.com/album/7Cf3DMZZ741h4SqMvQSoN4"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "duration_ms": 171394,
+      "name": "Isaias 53",
+      "url": "https://open.spotify.com/track/1Ar5adUxUwxmwkW7LgNOd4"
+    },
+    {
+      "added_at": "2024-03-22 17:53:07",
+      "album": {
         "name": "Aviva-nos (Ao Vivo)",
         "url": "https://open.spotify.com/album/0WvYxMgrxjbcpSlLexrjRT"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 362502,
       "name": "Aviva-nos (Ao Vivo)",
       "url": "https://open.spotify.com/track/03mpdr8HJfKqihrPDl9F14"
-    },
-    {
-      "added_at": "2024-03-22 17:53:07",
-      "album": {
-        "name": "Tudo por Causa de um Grande Amor",
-        "url": "https://open.spotify.com/album/7Cf3DMZZ741h4SqMvQSoN4"
-      },
-      "artists": [
-        {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
-        }
-      ],
-      "duration_ms": 171394,
-      "name": "Isaias 53",
-      "url": "https://open.spotify.com/track/1Ar5adUxUwxmwkW7LgNOd4"
     },
     {
       "added_at": "2024-03-22 17:53:07",

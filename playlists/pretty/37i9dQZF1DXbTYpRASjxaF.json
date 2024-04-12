@@ -1,12 +1,12 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Gapes",
-  "num_followers": 129901,
+  "num_followers": 129924,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmE0MWEyMDMwNzFjYTM2NjlkODNkNjczOTE2YTZmNDM0NTQzY2Q4",
+  "snapshot_id": "MTcxMjI4NjA2MCwwMDAwMDAwMGZiYWY1YzI0YjU1N2QzN2U4NWQzNGM0Mjg1M2JjODA0",
   "tracks": [
     {
       "added_at": "2024-04-05 03:01:00",
@@ -979,26 +979,6 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "Uma Parte",
-        "url": "https://open.spotify.com/album/1OqPYPqJRuG1V6vbWkAs2a"
-      },
-      "artists": [
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "Thiago Sub",
-          "url": "https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG"
-        }
-      ],
-      "duration_ms": 125714,
-      "name": "Uma Parte",
-      "url": "https://open.spotify.com/track/4E5dWXDRbWw5HVYUTZe3XD"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
         "name": "Amor e \u00d3dio",
         "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 166736,
       "name": "Copo de Bebida",
       "url": "https://open.spotify.com/track/19bPpmsrRlG5BJASqaqevf"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "Uma Parte",
+        "url": "https://open.spotify.com/album/1OqPYPqJRuG1V6vbWkAs2a"
+      },
+      "artists": [
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Thiago Sub",
+          "url": "https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG"
+        }
+      ],
+      "duration_ms": 125714,
+      "name": "Uma Parte",
+      "url": "https://open.spotify.com/track/4E5dWXDRbWw5HVYUTZe3XD"
     },
     {
       "added_at": "2024-04-05 03:01:00",

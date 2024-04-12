@@ -1,12 +1,12 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 67727,
+  "num_followers": 67736,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWFjYzJlZmQ1YjQ1OGEzMTA1MmNjNGVhNzQ0ODI2ZTdjZjFlOWY4",
+  "snapshot_id": "MTcxMjU0NDgzNywwMDAwMDAwMDE4ZGQ5OGRkYjE5OWIyZjcxZDU4ZTEwZDhlNzViNjZl",
   "tracks": [
     {
       "added_at": "2024-04-08 02:53:57",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-04-08 02:53:57",
       "album": {
-        "name": "Although",
-        "url": "https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw"
-      },
-      "artists": [
-        {
-          "name": "Jane Avril",
-          "url": "https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap"
-        }
-      ],
-      "duration_ms": 180635,
-      "name": "Although",
-      "url": "https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn"
-    },
-    {
-      "added_at": "2024-04-08 02:53:57",
-      "album": {
         "name": "Piano Hits Chill",
         "url": "https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 230000,
       "name": "Say You Wont Let Go",
       "url": "https://open.spotify.com/track/4eyOZVDzYlVslh6POZ9AVP"
+    },
+    {
+      "added_at": "2024-04-08 02:53:57",
+      "album": {
+        "name": "Although",
+        "url": "https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw"
+      },
+      "artists": [
+        {
+          "name": "Jane Avril",
+          "url": "https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap"
+        }
+      ],
+      "duration_ms": 180635,
+      "name": "Although",
+      "url": "https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn"
     },
     {
       "added_at": "2024-04-08 02:53:57",
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-04-08 02:53:57",
       "album": {
-        "name": "Isla De Flores",
-        "url": "https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh"
+        "name": "The Fountain OST",
+        "url": "https://open.spotify.com/album/7q18n1Pnq7mx6satptDoJ3"
       },
       "artists": [
         {
-          "name": "Berlioz",
-          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
+          "name": "Clint Mansell",
+          "url": "https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU"
         }
       ],
-      "duration_ms": 159124,
-      "name": "Isla De Flores",
-      "url": "https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b"
+      "duration_ms": 301733,
+      "name": "Together We Will Live Forever",
+      "url": "https://open.spotify.com/track/2pr6us08iPNzIex5q6fMvI"
     },
     {
       "added_at": "2024-04-08 02:53:57",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-04-08 02:53:57",
       "album": {
-        "name": "The Fountain OST",
-        "url": "https://open.spotify.com/album/7q18n1Pnq7mx6satptDoJ3"
+        "name": "Isla De Flores",
+        "url": "https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh"
       },
       "artists": [
         {
-          "name": "Clint Mansell",
-          "url": "https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU"
+          "name": "Berlioz",
+          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
         }
       ],
-      "duration_ms": 301733,
-      "name": "Together We Will Live Forever",
-      "url": "https://open.spotify.com/track/2pr6us08iPNzIex5q6fMvI"
+      "duration_ms": 159124,
+      "name": "Isla De Flores",
+      "url": "https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b"
     },
     {
       "added_at": "2024-04-08 02:53:57",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-04-08 02:53:57",
       "album": {
-        "name": "Dolce Far Niente",
-        "url": "https://open.spotify.com/album/09UDHpQS7ti6T14R8i742n"
-      },
-      "artists": [
-        {
-          "name": "Heddwch",
-          "url": "https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Dolce Far Niente",
-      "url": "https://open.spotify.com/track/3FoNBTNv03Soj4XDk6FJqH"
-    },
-    {
-      "added_at": "2024-04-08 02:53:57",
-      "album": {
         "name": "First Sunrise",
         "url": "https://open.spotify.com/album/31TimKFNBjRjS4oLnzfect"
       },
@@ -995,18 +979,18 @@
     {
       "added_at": "2024-04-08 02:53:57",
       "album": {
-        "name": "Happy Thoughts",
-        "url": "https://open.spotify.com/album/2T4ORsMoDr8YnScTnCTXpq"
+        "name": "Dolce Far Niente",
+        "url": "https://open.spotify.com/album/09UDHpQS7ti6T14R8i742n"
       },
       "artists": [
         {
-          "name": "Hashim Reese",
-          "url": "https://open.spotify.com/artist/42gsXbwEvpqFJ1CrRJkv1h"
+          "name": "Heddwch",
+          "url": "https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i"
         }
       ],
-      "duration_ms": 108750,
-      "name": "Happy Thoughts",
-      "url": "https://open.spotify.com/track/21gT5zrKjqTXo3nvvZW10U"
+      "duration_ms": 132000,
+      "name": "Dolce Far Niente",
+      "url": "https://open.spotify.com/track/3FoNBTNv03Soj4XDk6FJqH"
     },
     {
       "added_at": "2024-04-08 02:53:57",
@@ -1023,6 +1007,22 @@
       "duration_ms": 124864,
       "name": "Moving Silence",
       "url": "https://open.spotify.com/track/1hk4wGfZMRqmfUzaPtQQL9"
+    },
+    {
+      "added_at": "2024-04-08 02:53:57",
+      "album": {
+        "name": "Happy Thoughts",
+        "url": "https://open.spotify.com/album/2T4ORsMoDr8YnScTnCTXpq"
+      },
+      "artists": [
+        {
+          "name": "Hashim Reese",
+          "url": "https://open.spotify.com/artist/42gsXbwEvpqFJ1CrRJkv1h"
+        }
+      ],
+      "duration_ms": 108750,
+      "name": "Happy Thoughts",
+      "url": "https://open.spotify.com/track/21gT5zrKjqTXo3nvvZW10U"
     },
     {
       "added_at": "2024-04-08 02:53:57",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-04-08 02:53:57",
       "album": {
-        "name": "Stella's lullaby",
-        "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
-      },
-      "artists": [
-        {
-          "name": "Wendy Salisbury",
-          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
-        }
-      ],
-      "duration_ms": 145874,
-      "name": "Stella's lullaby",
-      "url": "https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4"
-    },
-    {
-      "added_at": "2024-04-08 02:53:57",
-      "album": {
         "name": "Fall Pieces",
         "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 238277,
       "name": "Over The Rainbow",
       "url": "https://open.spotify.com/track/2Wvwr16E4O51JeNSs5K5Dp"
+    },
+    {
+      "added_at": "2024-04-08 02:53:57",
+      "album": {
+        "name": "Stella's lullaby",
+        "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
+      },
+      "artists": [
+        {
+          "name": "Wendy Salisbury",
+          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
+        }
+      ],
+      "duration_ms": 145874,
+      "name": "Stella's lullaby",
+      "url": "https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4"
     },
     {
       "added_at": "2024-04-08 02:53:57",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-04-08 02:53:57",
       "album": {
+        "name": "Avenues",
+        "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
+      },
+      "artists": [
+        {
+          "name": "Seth Fernsby",
+          "url": "https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX"
+        }
+      ],
+      "duration_ms": 139663,
+      "name": "Avenues",
+      "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
+    },
+    {
+      "added_at": "2024-04-08 02:53:57",
+      "album": {
         "name": "Amorzinho (Piano Version)",
         "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 228038,
       "name": "Peace Within",
       "url": "https://open.spotify.com/track/1Wfu5TKZ6B6B7rkpIEmrUE"
-    },
-    {
-      "added_at": "2024-04-08 02:53:57",
-      "album": {
-        "name": "Avenues",
-        "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
-      },
-      "artists": [
-        {
-          "name": "Seth Fernsby",
-          "url": "https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX"
-        }
-      ],
-      "duration_ms": 139663,
-      "name": "Avenues",
-      "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
     },
     {
       "added_at": "2024-04-08 02:53:57",
@@ -1416,22 +1416,6 @@
       "added_at": "2024-04-08 02:53:57",
       "album": {
         "name": "Home",
-        "url": "https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr"
-      },
-      "artists": [
-        {
-          "name": "Serenity for Sleep",
-          "url": "https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV"
-        }
-      ],
-      "duration_ms": 282824,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
-    },
-    {
-      "added_at": "2024-04-08 02:53:57",
-      "album": {
-        "name": "Home",
         "url": "https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk"
       },
       "artists": [
@@ -1443,6 +1427,22 @@
       "duration_ms": 172522,
       "name": "Feathers",
       "url": "https://open.spotify.com/track/2yK3LNJFi8xUn3re8NnhYR"
+    },
+    {
+      "added_at": "2024-04-08 02:53:57",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr"
+      },
+      "artists": [
+        {
+          "name": "Serenity for Sleep",
+          "url": "https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV"
+        }
+      ],
+      "duration_ms": 282824,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
     },
     {
       "added_at": "2024-04-08 02:53:57",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-04-08 02:53:57",
       "album": {
-        "name": "Amorous Rebound",
-        "url": "https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE"
-      },
-      "artists": [
-        {
-          "name": "Sumsar",
-          "url": "https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW"
-        }
-      ],
-      "duration_ms": 109440,
-      "name": "Amorous Rebound",
-      "url": "https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI"
-    },
-    {
-      "added_at": "2024-04-08 02:53:57",
-      "album": {
         "name": "Murray's Moon",
         "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
       },
@@ -1539,6 +1523,38 @@
       "duration_ms": 127000,
       "name": "Murray's Moon",
       "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
+    },
+    {
+      "added_at": "2024-04-08 02:53:57",
+      "album": {
+        "name": "La Vie",
+        "url": "https://open.spotify.com/album/7xmt9O9FKI2sLhQuA3ON2o"
+      },
+      "artists": [
+        {
+          "name": "Amandine Moulin",
+          "url": "https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j"
+        }
+      ],
+      "duration_ms": 109228,
+      "name": "La Vie",
+      "url": "https://open.spotify.com/track/7yGdwiZ84hot8b9PqRtOzV"
+    },
+    {
+      "added_at": "2024-04-08 02:53:57",
+      "album": {
+        "name": "Amorous Rebound",
+        "url": "https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE"
+      },
+      "artists": [
+        {
+          "name": "Sumsar",
+          "url": "https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW"
+        }
+      ],
+      "duration_ms": 109440,
+      "name": "Amorous Rebound",
+      "url": "https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI"
     },
     {
       "added_at": "2024-04-08 02:53:57",
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2024-04-08 02:53:57",
       "album": {
-        "name": "La Vie",
-        "url": "https://open.spotify.com/album/7xmt9O9FKI2sLhQuA3ON2o"
-      },
-      "artists": [
-        {
-          "name": "Amandine Moulin",
-          "url": "https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j"
-        }
-      ],
-      "duration_ms": 109228,
-      "name": "La Vie",
-      "url": "https://open.spotify.com/track/7yGdwiZ84hot8b9PqRtOzV"
-    },
-    {
-      "added_at": "2024-04-08 02:53:57",
-      "album": {
         "name": "Another Year of Disaster",
         "url": "https://open.spotify.com/album/58DOLz3FgFoOmZixPc5Ju6"
       },
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-04-08 02:53:57",
       "album": {
-        "name": "Swear on this Life",
-        "url": "https://open.spotify.com/album/4Zt9oIxlh6r3INxyBzY5Fw"
-      },
-      "artists": [
-        {
-          "name": "Fabienne Willis",
-          "url": "https://open.spotify.com/artist/3Dk9sa2fJD0euXyvbJwYY9"
-        }
-      ],
-      "duration_ms": 132773,
-      "name": "Swear on this Life",
-      "url": "https://open.spotify.com/track/1BPrChYcVUL7S6mEdPxFux"
-    },
-    {
-      "added_at": "2024-04-08 02:53:57",
-      "album": {
         "name": "I See the Light - From \"Tangled\"",
         "url": "https://open.spotify.com/album/5dcUAPK0jMufmUiKT5oJW0"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 200812,
       "name": "I See the Light - From \"Tangled\"",
       "url": "https://open.spotify.com/track/5aKL7u6Xo3oonSggaHlr7K"
+    },
+    {
+      "added_at": "2024-04-08 02:53:57",
+      "album": {
+        "name": "Swear on this Life",
+        "url": "https://open.spotify.com/album/4Zt9oIxlh6r3INxyBzY5Fw"
+      },
+      "artists": [
+        {
+          "name": "Fabienne Willis",
+          "url": "https://open.spotify.com/artist/3Dk9sa2fJD0euXyvbJwYY9"
+        }
+      ],
+      "duration_ms": 132773,
+      "name": "Swear on this Life",
+      "url": "https://open.spotify.com/track/1BPrChYcVUL7S6mEdPxFux"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

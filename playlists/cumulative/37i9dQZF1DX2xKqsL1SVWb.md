@@ -4,7 +4,7 @@
 
 > Folk tan dulce como la miel\. Walter Esaú en portada.
 
-171 songs - 9 hr 46 min
+172 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,9 +70,10 @@
 | [Hierbas](https://open.spotify.com/track/5sero0jyQpKivJPdul9dl9) | [Amapola](https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5) | [Hierbas Para la Tristeza](https://open.spotify.com/album/5ImwTLryEGcXAZ5XTKu7kK) | 2:46 | 2023-03-30 |  |
 | [Hoy Es Hoy](https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Hoy Es Hoy](https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF) | 2:54 | 2022-04-20 | 2023-10-21 |
 | [Hoy Sé](https://open.spotify.com/track/13I1jQnQIjXpvmfZJnzTvK) | [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5) | [Hoy Sé](https://open.spotify.com/album/03jiqFdgoqblV1SnfkxOAe) | 3:29 | 2024-04-05 |  |
-| [Hubo Algo \- Versión Acústica](https://open.spotify.com/track/02GG5euwvDieKZXXAG2pYJ) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [The Anchor Song](https://open.spotify.com/album/0hSPcdiX7kedJv63czzmXW) | 4:03 | 2023-12-08 |  |
+| [Hubo Algo \- Versión Acústica](https://open.spotify.com/track/02GG5euwvDieKZXXAG2pYJ) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [The Anchor Song](https://open.spotify.com/album/0hSPcdiX7kedJv63czzmXW) | 4:03 | 2023-12-08 | 2024-04-12 |
 | [Hubo Algo \- Versión Acústica](https://open.spotify.com/track/3ngupj75V4xLzVJSRriMvs) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Hubo Algo \(Versión Acústica\)](https://open.spotify.com/album/2sh23pcshKXgTqq9QzFxaI) | 4:03 | 2023-10-21 | 2023-12-13 |
 | [Hubo Algo \- Versión Acústica](https://open.spotify.com/track/3zwzYlSIniTBm3e6P6RC18) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Tabú](https://open.spotify.com/album/0vtS3RtK84fPO6U5GV59L5) | 4:03 | 2023-12-08 | 2024-03-18 |
+| [Hubo Algo \- Versión Acústica](https://open.spotify.com/track/7vAAJI56AbHvnx1AEdmQPO) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Versiones Para El Tiempo Y La Distancia, Vol\. 2](https://open.spotify.com/album/3nuFz3EVPwX5eyUYKezjIS) | 4:03 | 2023-12-08 |  |
 | [Infeliz](https://open.spotify.com/track/1HfkiyazS6licNey0lz01N) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 3:19 | 2022-04-20 | 2023-05-23 |
 | [Jugaste y Sufrí](https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 4:35 | 2022-04-20 | 2023-05-23 |
 | [Juntos](https://open.spotify.com/track/6DnmHa24M6jVBisjhyHcIs) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [HSN](https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam) | 2:40 | 2023-04-01 |  |

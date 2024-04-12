@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 15853,
+  "num_followers": 15876,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTQwZDI2ZTA3ZDVmMDg3ZjUxZmY2YWE0NWNkMTUxNTg4NGEyNmVj",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDAwZDM5OTgyNGI0MjZlYzY1OGQ3ZTY3MzMzOTlhNmJj",
   "tracks": [
     {
       "added_at": null,
@@ -959,22 +959,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cherry (Remix)",
-        "url": "https://open.spotify.com/album/1ojIoYoDIciIGMgaSEs2Rr"
+        "name": "Nasty (feat. Rubi Rose)",
+        "url": "https://open.spotify.com/album/5OxBZ1tt0FpQZU7VdfBbVy"
       },
       "artists": [
         {
-          "name": "Almondmilkhunni",
-          "url": "https://open.spotify.com/artist/778bhPsYwr6sAELsBBX8MC"
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
         },
         {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Rubi Rose",
+          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
         }
       ],
-      "duration_ms": 132851,
-      "name": "Cherry - Remix",
-      "url": "https://open.spotify.com/track/1QsxMw8pGrJ9juETzspO3g"
+      "duration_ms": 185132,
+      "name": "Nasty (feat. Rubi Rose)",
+      "url": "https://open.spotify.com/track/7JJ6QHjNgmFOAYaEv36IXE"
     }
   ],
   "unique_name": "This Is Flo Milli",

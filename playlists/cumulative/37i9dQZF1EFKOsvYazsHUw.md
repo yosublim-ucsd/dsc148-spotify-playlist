@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4uT4afwoFqf5HupqMjErXX">Chiiild</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-111 songs - 6 hr 9 min
+112 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Sunday Morning](https://open.spotify.com/track/7qzcdcS65oCivPNXxvOT1o) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U) | 3:12 | 2023-06-11 |  |
 | [Sundays](https://open.spotify.com/track/2yj8xbWxfrW8azD7VDQBER) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 3:09 | 2022-11-11 |  |
 | [Surfing The Silver Linings](https://open.spotify.com/track/5RELX9YYBSsghPXagQuBd1) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 3:09 | 2024-04-02 |  |
-| [Sweet Talker](https://open.spotify.com/track/3FPnPRfQgFWW9YFAwweuDp) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Sweet Talker](https://open.spotify.com/album/6PNYy8L5NHXXEtbNnA1gQv) | 3:42 | 2022-11-11 |  |
+| [Sweet Talker](https://open.spotify.com/track/69AoGCrqDo2Ycj3Wm27NxM) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Sweet Talker \(Deluxe Version\)](https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb) | 3:42 | 2024-04-11 |  |
+| [Sweet Talker](https://open.spotify.com/track/3FPnPRfQgFWW9YFAwweuDp) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Sweet Talker](https://open.spotify.com/album/6PNYy8L5NHXXEtbNnA1gQv) | 3:42 | 2022-11-11 | 2024-04-12 |
 | [Tell The World](https://open.spotify.com/track/4T5ZHiswsAfcnISctw4uTW) | [Jesse Labelle](https://open.spotify.com/artist/5xLdSGejmdil911M6q1HdU) | [Two](https://open.spotify.com/album/0d4qbYdDgwYRrFlSeOFLXR) | 3:22 | 2022-11-11 |  |
 | [The Best Ain't Happened Yet](https://open.spotify.com/track/3EPeF9pQC1fypfCrgUPUmj) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:46 | 2022-11-11 |  |
 | [thinkin bout me \- from Grown\-ish](https://open.spotify.com/track/4CWp4i4SwWmBV3KOfs6Wdb) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [thinkin bout me \(from Grown\-ish\)](https://open.spotify.com/album/5NRBqL0ZxMfgg50YpAjz1b) | 3:19 | 2022-11-11 |  |

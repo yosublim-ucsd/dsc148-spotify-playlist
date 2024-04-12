@@ -1,12 +1,12 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Babas\u00f3nicos en portada. ",
-  "num_followers": 1007159,
+  "num_followers": 1009018,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmY0MTdlNmY4YTZiODA2MDkwODU4MjUxZGJiZjRlYTc2MDJhNjE1",
+  "snapshot_id": "MTcxMjg4MjM0MiwwMDAwMDAwMDk1MjY5MmIyNGNkMzBjY2U5ZWZjYjQyYTQyNzVlNzg0",
   "tracks": [
     {
       "added_at": "2024-04-05 06:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf"
-      },
-      "artists": [
-        {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
-        }
-      ],
-      "duration_ms": 177786,
-      "name": "Florecita Rockera",
-      "url": "https://open.spotify.com/track/7dg3Q2HXM5tlaV5B5KXhTr"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
         "name": "Restaurant",
         "url": "https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 209040,
       "name": "Siento Que...",
       "url": "https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "duration_ms": 177786,
+      "name": "Florecita Rockera",
+      "url": "https://open.spotify.com/track/7dg3Q2HXM5tlaV5B5KXhTr"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
-        "name": "Desde Cero",
-        "url": "https://open.spotify.com/album/7dbBLrH3VJ3zrKHkL6vtUa"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Complicado Y Aturdido",
-      "url": "https://open.spotify.com/track/7g57YDkjFrNecn0sbXN3GI"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
         "name": "Donde los Ponys Pastan",
         "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 322013,
       "name": "Espiral",
       "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
+        "name": "Desde Cero",
+        "url": "https://open.spotify.com/album/7dbBLrH3VJ3zrKHkL6vtUa"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Complicado Y Aturdido",
+      "url": "https://open.spotify.com/track/7g57YDkjFrNecn0sbXN3GI"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
-        "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
-        "url": "https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT"
-      },
-      "artists": [
-        {
-          "name": "Travelers All Stars",
-          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
-        }
-      ],
-      "duration_ms": 170083,
-      "name": "Don\u00b4t Give Up",
-      "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
         "name": "Sweet & Sour - Hot & Spicy",
         "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 253840,
       "name": "Tenochtitl\u00e1n",
       "url": "https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
+        "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
+        "url": "https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT"
+      },
+      "artists": [
+        {
+          "name": "Travelers All Stars",
+          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
+        }
+      ],
+      "duration_ms": 170083,
+      "name": "Don\u00b4t Give Up",
+      "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
     },
     {
       "added_at": "2024-04-05 06:00:00",

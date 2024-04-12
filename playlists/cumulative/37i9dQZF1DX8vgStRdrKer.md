@@ -2,7 +2,7 @@
 
 ### [Redeemed](https://open.spotify.com/playlist/37i9dQZF1DX8vgStRdrKer)
 
-> This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:   <a href="https://open.spotify.com/artist/3A3j7JESpmqIZQNz4C7GRn?si=s0FACvsIRauTYAVMvwe3Vw">KIMAH</a>
+> This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:   <a href="https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4?si=Ehfcig4qQSOPvtSWy8E2uw">EJ Newton</a>
 
 149 songs - 12 hr 26 min
 
@@ -26,7 +26,7 @@
 | [BBTNTL](https://open.spotify.com/track/2oJktKr5udS1gtY8egIBPx) | [Xammie](https://open.spotify.com/artist/6Zc3JsghzKESNYD9CfAvqG) | [BBTNTL](https://open.spotify.com/album/1zdAcSx1879EaMTUB6j317) | 2:49 | 2024-02-16 |  |
 | [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 | 2024-01-26 |  |
 | [Blessed Year](https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Vin Mokay](https://open.spotify.com/artist/4H3x6M1mNufxM9SANBPTqz) | [Blessed Year](https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW) | 3:04 | 2024-01-26 |  |
-| [Bobby](https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Bobby](https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz) | 2:48 | 2024-03-08 | 2024-04-11 |
+| [Bobby](https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Bobby](https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz) | 2:48 | 2024-03-08 |  |
 | [Brighter Days](https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:28 | 2023-09-15 | 2024-03-16 |
 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 | 2023-09-29 | 2024-03-16 |
 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 | 2023-12-01 | 2024-02-09 |
@@ -136,7 +136,7 @@
 | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/album/7HC504lxOG8uk59wMhlbGQ) | 3:50 | 2024-02-09 |  |
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2023-09-15 | 2024-03-16 |
 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 | 2023-09-15 | 2024-03-16 |
-| [Unconditional Love \(feat\. Niiella\)](https://open.spotify.com/track/59SyXvjKYAQeafSnnwcwIL) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Niiella](https://open.spotify.com/artist/4JFdML5CyGhCBXziW98nou) | [Unconditional Love \(feat\. Niiella\)](https://open.spotify.com/album/5AhUfsYA3kwKSEWt8kMvVM) | 3:46 | 2023-12-08 |  |
+| [Unconditional Love \(feat\. Niiella\)](https://open.spotify.com/track/59SyXvjKYAQeafSnnwcwIL) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Niiella](https://open.spotify.com/artist/4JFdML5CyGhCBXziW98nou) | [Unconditional Love \(feat\. Niiella\)](https://open.spotify.com/album/5AhUfsYA3kwKSEWt8kMvVM) | 3:46 | 2023-12-08 | 2024-04-12 |
 | [UnguThixo Onomusa \(Live\)](https://open.spotify.com/track/12SS9xcUrNBWWiMIGCGRNQ) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0yq9apfBkBDmT9I74n0ABX) | 6:15 | 2023-11-24 | 2023-11-30 |
 | [UnguThixo Onomusa \(Live\)](https://open.spotify.com/track/1CKjWM9UvF5aemROunyZLi) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0tT13vFUWnAGZNp0BZu0n3) | 6:15 | 2023-11-24 | 2023-12-20 |
 | [Unusual \- Live At Cedarwoods of Sandton, 2023](https://open.spotify.com/track/2wEDJMF9LhhhHPKqnbsfW5) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Unusual \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/07HmJ29ItAdV707SqVoc6D) | 6:23 | 2024-03-15 |  |

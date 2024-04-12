@@ -1,12 +1,12 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Lori McKenna",
-  "num_followers": 205842,
+  "num_followers": 205903,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGNjNmRiOThjZjUxYjM3NmQ4N2RkYjJiMTZjZDViMTBjNzk0NTE3",
+  "snapshot_id": "MTY5MTcyNjQwMCwwMDAwMDAwMDU2NWY2MTk1ZWVjMTQ0ZTdlMmYxM2E2NDU2YjM0NTQz",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Sweet Baby James (2019 Remaster)",
-        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 203613,
-      "name": "Fire and Rain - 2019 Remaster",
-      "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Traveller",
         "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 222413,
       "name": "Traveller",
       "url": "https://open.spotify.com/track/178OI1A3qjROeFeh8lmNwW"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Sweet Baby James (2019 Remaster)",
+        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 203613,
+      "name": "Fire and Rain - 2019 Remaster",
+      "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "My Favorite Picture Of You",
-        "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
-      },
-      "artists": [
-        {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "My Favorite Picture Of You",
-      "url": "https://open.spotify.com/track/1duzyYYCocGD2JSdCWITS6"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Terraplane",
         "url": "https://open.spotify.com/album/3JPaRHvPKF0iu7L9bTjJy4"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 247306,
       "name": "You\u2019re the Best Lover That I Ever Had",
       "url": "https://open.spotify.com/track/6zvGluRPhlmtPsK8nPtgCK"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "My Favorite Picture Of You",
+        "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
+      },
+      "artists": [
+        {
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "My Favorite Picture Of You",
+      "url": "https://open.spotify.com/track/1duzyYYCocGD2JSdCWITS6"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "The Medicine Man",
+        "url": "https://open.spotify.com/album/4lSXxyaYcDLGpCcF3d21Ii"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        },
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "duration_ms": 218360,
+      "name": "The Medicine Man [Feat. Old Crow Medicine Show]",
+      "url": "https://open.spotify.com/track/1SlXBA2DcPeBN9beZ9u4QX"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
@@ -1475,22 +1495,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "The Medicine Man",
-        "url": "https://open.spotify.com/album/4lSXxyaYcDLGpCcF3d21Ii"
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72"
       },
       "artists": [
         {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        },
-        {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+          "name": "Allison Moorer",
+          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
         }
       ],
-      "duration_ms": 218360,
-      "name": "The Medicine Man [Feat. Old Crow Medicine Show]",
-      "url": "https://open.spotify.com/track/1SlXBA2DcPeBN9beZ9u4QX"
+      "duration_ms": 219108,
+      "name": "The Rock and the Hill",
+      "url": "https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1515,18 +1531,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72"
+        "name": "I'm A Song",
+        "url": "https://open.spotify.com/album/7xiBD9ioPWaRgSZzxz5ht1"
       },
       "artists": [
         {
-          "name": "Allison Moorer",
-          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
+          "name": "Jim Lauderdale",
+          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
         }
       ],
-      "duration_ms": 219108,
-      "name": "The Rock and the Hill",
-      "url": "https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH"
+      "duration_ms": 129077,
+      "name": "Let's Have A Good Thing Together",
+      "url": "https://open.spotify.com/track/0DUwtslFAFipEYffWCRTI9"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1543,22 +1559,6 @@
       "duration_ms": 227826,
       "name": "Night Still Comes",
       "url": "https://open.spotify.com/track/0l5TOyEd5RswsWnqOaOX0X"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "I'm A Song",
-        "url": "https://open.spotify.com/album/7xiBD9ioPWaRgSZzxz5ht1"
-      },
-      "artists": [
-        {
-          "name": "Jim Lauderdale",
-          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
-        }
-      ],
-      "duration_ms": 129077,
-      "name": "Let's Have A Good Thing Together",
-      "url": "https://open.spotify.com/track/0DUwtslFAFipEYffWCRTI9"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Black Roses",
+        "url": "https://open.spotify.com/album/1iC9LrnPFTIBmXuAd6xRcA"
+      },
+      "artists": [
+        {
+          "name": "Jim Lauderdale",
+          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
+        }
+      ],
+      "duration_ms": 176653,
+      "name": "No Later than Soon",
+      "url": "https://open.spotify.com/track/3CC7V91xd02Z5xW8QBZBsj"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Our Year",
         "url": "https://open.spotify.com/album/4czX5gzvl0sypiWj6yZM7c"
       },
@@ -1703,22 +1719,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Black Roses",
-        "url": "https://open.spotify.com/album/1iC9LrnPFTIBmXuAd6xRcA"
-      },
-      "artists": [
-        {
-          "name": "Jim Lauderdale",
-          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
-        }
-      ],
-      "duration_ms": 176653,
-      "name": "No Later than Soon",
-      "url": "https://open.spotify.com/track/3CC7V91xd02Z5xW8QBZBsj"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Shine a Light: Field Recordings from the Great American Railroad",
         "url": "https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz"
       },
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Folk Singer Vol. 1",
-        "url": "https://open.spotify.com/album/6OjyU4DWN0AIgLeSSV1rrq"
-      },
-      "artists": [
-        {
-          "name": "Willie Watson",
-          "url": "https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq"
-        }
-      ],
-      "duration_ms": 215406,
-      "name": "Keep It Clean",
-      "url": "https://open.spotify.com/track/60M98E0CkJgJUApaHdgEaO"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Patty Griffin",
         "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 284030,
       "name": "Where I Come From",
       "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Folk Singer Vol. 1",
+        "url": "https://open.spotify.com/album/6OjyU4DWN0AIgLeSSV1rrq"
+      },
+      "artists": [
+        {
+          "name": "Willie Watson",
+          "url": "https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq"
+        }
+      ],
+      "duration_ms": 215406,
+      "name": "Keep It Clean",
+      "url": "https://open.spotify.com/track/60M98E0CkJgJUApaHdgEaO"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Give the People What They Want",
-        "url": "https://open.spotify.com/album/3f8j4GaxidCnaDhlD72V0O"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "Stranger to My Happiness",
-      "url": "https://open.spotify.com/track/1ajv5XuWMbe35X13ACtyv9"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "God's Problem Child",
         "url": "https://open.spotify.com/album/1wzKjL078JEEv3weMFOGa7"
       },
@@ -1819,6 +1803,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Give the People What They Want",
+        "url": "https://open.spotify.com/album/3f8j4GaxidCnaDhlD72V0O"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "Stranger to My Happiness",
+      "url": "https://open.spotify.com/track/1ajv5XuWMbe35X13ACtyv9"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Rifles and Rosary Beads",
         "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
       },
@@ -1828,9 +1828,9 @@
           "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
         }
       ],
-      "duration_ms": 158834,
-      "name": "Got Your Six",
-      "url": "https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k"
+      "duration_ms": 170480,
+      "name": "Brothers",
+      "url": "https://open.spotify.com/track/6dRdARjCg2Jng4huHZKsP9"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1972,9 +1972,25 @@
           "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
         }
       ],
-      "duration_ms": 170480,
-      "name": "Brothers",
-      "url": "https://open.spotify.com/track/6dRdARjCg2Jng4huHZKsP9"
+      "duration_ms": 158834,
+      "name": "Got Your Six",
+      "url": "https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/5UeWaLSzyg0dpeCdQyx9u0"
+      },
+      "artists": [
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Brushy Mountain Conjugal Trailer",
+      "url": "https://open.spotify.com/track/1qHro6dwCdlg9XPhNvWrLe"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1999,18 +2015,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/5UeWaLSzyg0dpeCdQyx9u0"
+        "name": "Most Messed Up",
+        "url": "https://open.spotify.com/album/3Q2bmJIVStexUZ6mQUyItq"
       },
       "artists": [
         {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+          "name": "Old 97's",
+          "url": "https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF"
         }
       ],
-      "duration_ms": 230106,
-      "name": "Brushy Mountain Conjugal Trailer",
-      "url": "https://open.spotify.com/track/1qHro6dwCdlg9XPhNvWrLe"
+      "duration_ms": 352546,
+      "name": "Longer Than You've Been Alive",
+      "url": "https://open.spotify.com/track/072fkWOIzYbLLNMRwW7RTI"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2031,22 +2047,6 @@
       "duration_ms": 175400,
       "name": "Detour (feat. Emmylou Harris)",
       "url": "https://open.spotify.com/track/0vxmBkeL8EuDpJvIb2dhRJ"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Most Messed Up",
-        "url": "https://open.spotify.com/album/3Q2bmJIVStexUZ6mQUyItq"
-      },
-      "artists": [
-        {
-          "name": "Old 97's",
-          "url": "https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF"
-        }
-      ],
-      "duration_ms": 352546,
-      "name": "Longer Than You've Been Alive",
-      "url": "https://open.spotify.com/track/072fkWOIzYbLLNMRwW7RTI"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2587,22 +2587,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Mockingbird",
-        "url": "https://open.spotify.com/album/3pOyPju6tohsVyMsnkyyQ2"
-      },
-      "artists": [
-        {
-          "name": "Gibson Brothers",
-          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
-        }
-      ],
-      "duration_ms": 165884,
-      "name": "Sweet Lucinda",
-      "url": "https://open.spotify.com/track/6EMOrIVN27rTNUYn7z15OG"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Wynonna & The Big Noise",
         "url": "https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA"
       },
@@ -2623,18 +2607,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Into The Purple Valley",
-        "url": "https://open.spotify.com/album/0bPPam9K2Pyuxr8T9WH1Vk"
+        "name": "Mockingbird",
+        "url": "https://open.spotify.com/album/3pOyPju6tohsVyMsnkyyQ2"
       },
       "artists": [
         {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+          "name": "Gibson Brothers",
+          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
         }
       ],
-      "duration_ms": 236266,
-      "name": "Taxes on the Farmer Feeds Us All",
-      "url": "https://open.spotify.com/track/4ZslsM9CYd5SpqlSGODAEq"
+      "duration_ms": 165884,
+      "name": "Sweet Lucinda",
+      "url": "https://open.spotify.com/track/6EMOrIVN27rTNUYn7z15OG"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2655,18 +2639,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Invisible Hour",
-        "url": "https://open.spotify.com/album/39RUJggKYbPF85mppr8jJy"
+        "name": "Into The Purple Valley",
+        "url": "https://open.spotify.com/album/0bPPam9K2Pyuxr8T9WH1Vk"
       },
       "artists": [
         {
-          "name": "Joe Henry",
-          "url": "https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r"
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
         }
       ],
-      "duration_ms": 331013,
-      "name": "Grave Angels",
-      "url": "https://open.spotify.com/track/1tOe4416Cr15amXc5rqpal"
+      "duration_ms": 236266,
+      "name": "Taxes on the Farmer Feeds Us All",
+      "url": "https://open.spotify.com/track/4ZslsM9CYd5SpqlSGODAEq"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2683,6 +2667,22 @@
       "duration_ms": 215570,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/3h3OQ1X6pe0Z78j37RsPF9"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Invisible Hour",
+        "url": "https://open.spotify.com/album/39RUJggKYbPF85mppr8jJy"
+      },
+      "artists": [
+        {
+          "name": "Joe Henry",
+          "url": "https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r"
+        }
+      ],
+      "duration_ms": 331013,
+      "name": "Grave Angels",
+      "url": "https://open.spotify.com/track/1tOe4416Cr15amXc5rqpal"
     },
     {
       "added_at": "2023-08-11 04:00:00",

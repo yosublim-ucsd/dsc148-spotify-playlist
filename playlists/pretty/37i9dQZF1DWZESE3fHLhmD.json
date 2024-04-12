@@ -1,12 +1,12 @@
 {
   "description": "Endlich Fr\u00fchling!",
-  "num_followers": 1292188,
+  "num_followers": 1292333,
   "original_name": "Fr\u00fchlingsgef\u00fchle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWU0YmIwMmUyOTA3Mjc3M2ZmMDZjY2I3NmJjYzg3NjRhZGVmYjlj",
+  "snapshot_id": "MTcxMjI5NTM4NCwwMDAwMDAwMGE0MTdlMzU5YzkyNTIwZmQwY2JiZmEzZTI1ZmNiNmY0",
   "tracks": [
     {
       "added_at": "2024-04-05 05:36:24",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-04-05 05:36:24",
       "album": {
-        "name": "Selfish",
-        "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 229331,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
-    },
-    {
-      "added_at": "2024-04-05 05:36:24",
-      "album": {
         "name": "Flicker (Deluxe)",
         "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 232852,
       "name": "This Town",
       "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
+    },
+    {
+      "added_at": "2024-04-05 05:36:24",
+      "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 229331,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
     },
     {
       "added_at": "2024-04-05 05:36:24",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-04-05 05:36:24",
       "album": {
+        "name": "i used to think i could fly",
+        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 207120,
+      "name": "she's all i wanna be",
+      "url": "https://open.spotify.com/track/7l9IqDtVWJurTvkQHq1BGh"
+    },
+    {
+      "added_at": "2024-04-05 05:36:24",
+      "album": {
         "name": "eternal sunshine (slightly deluxe)",
         "url": "https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 163381,
       "name": "supernatural (with Troye Sivan)",
       "url": "https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp"
-    },
-    {
-      "added_at": "2024-04-05 05:36:24",
-      "album": {
-        "name": "i used to think i could fly",
-        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 207120,
-      "name": "she's all i wanna be",
-      "url": "https://open.spotify.com/track/7l9IqDtVWJurTvkQHq1BGh"
     },
     {
       "added_at": "2024-04-05 05:36:24",
@@ -1091,22 +1091,18 @@
     {
       "added_at": "2024-04-05 05:36:24",
       "album": {
-        "name": "Don't Let Me Down (feat. JVKE)",
-        "url": "https://open.spotify.com/album/2m3RAFfpFPttHJIMBZKKCo"
+        "name": "Spite",
+        "url": "https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51"
       },
       "artists": [
         {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 168742,
-      "name": "Don't Let Me Down (feat. JVKE)",
-      "url": "https://open.spotify.com/track/046QZ0ociluzd0yjpY1tY4"
+      "duration_ms": 162205,
+      "name": "Spite",
+      "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"
     },
     {
       "added_at": "2024-04-05 05:36:24",
@@ -1127,6 +1123,26 @@
     {
       "added_at": "2024-04-05 05:36:24",
       "album": {
+        "name": "Don't Let Me Down (feat. JVKE)",
+        "url": "https://open.spotify.com/album/2m3RAFfpFPttHJIMBZKKCo"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 168742,
+      "name": "Don't Let Me Down (feat. JVKE)",
+      "url": "https://open.spotify.com/track/046QZ0ociluzd0yjpY1tY4"
+    },
+    {
+      "added_at": "2024-04-05 05:36:24",
+      "album": {
         "name": "people pleaser / sleep at night",
         "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
       },
@@ -1139,6 +1155,22 @@
       "duration_ms": 146654,
       "name": "people pleaser",
       "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
+    },
+    {
+      "added_at": "2024-04-05 05:36:24",
+      "album": {
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
     },
     {
       "added_at": "2024-04-05 05:36:24",
@@ -1179,22 +1211,6 @@
     {
       "added_at": "2024-04-05 05:36:24",
       "album": {
-        "name": "Blame Brett",
-        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 176005,
-      "name": "Blame Brett",
-      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
-    },
-    {
-      "added_at": "2024-04-05 05:36:24",
-      "album": {
         "name": "Gr\u00fcne Augen l\u00fcgen nicht",
         "url": "https://open.spotify.com/album/3abp46f8f2mmo86iem7Hkf"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 200533,
       "name": "What a Feeling",
       "url": "https://open.spotify.com/track/0iSWAT0EL8TwmzcgBjKMh6"
-    },
-    {
-      "added_at": "2024-04-05 05:36:24",
-      "album": {
-        "name": "Spite",
-        "url": "https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 162205,
-      "name": "Spite",
-      "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"
     },
     {
       "added_at": "2024-04-05 05:36:24",

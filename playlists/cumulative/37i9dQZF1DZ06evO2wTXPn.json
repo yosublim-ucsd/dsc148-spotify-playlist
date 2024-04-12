@@ -1081,6 +1081,24 @@
     },
     {
       "album": {
+        "name": "Quiero",
+        "url": "https://open.spotify.com/album/69RB9Dn2ljGX8u92XV4Dap"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204320,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/2MX8KwSwCNyJtVTVYfSFNX"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Suerte",
         "url": "https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6"
       },

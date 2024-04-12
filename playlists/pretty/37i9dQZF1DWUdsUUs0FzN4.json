@@ -1,12 +1,12 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Bellakath en portada ",
-  "num_followers": 18591,
+  "num_followers": 18603,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzczYzdhMjUyMDg5Mjk2NWFiNGY1NTA5YzI4ZTZhZTQ2NmJkMDNk",
+  "snapshot_id": "MTcxMTk4ODY4MCwwMDAwMDAwMDlhMjI5NTAxZWQxMzMzMmEzYmNkNWYyODYzNzU4MmE2",
   "tracks": [
     {
       "added_at": "2024-04-01 16:24:40",
@@ -303,26 +303,6 @@
     {
       "added_at": "2024-04-01 16:24:40",
       "album": {
-        "name": "ID",
-        "url": "https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 235525,
-      "name": "ID",
-      "url": "https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187"
-    },
-    {
-      "added_at": "2024-04-01 16:24:40",
-      "album": {
         "name": "Labios Mordidos (with KAROL G)",
         "url": "https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 195373,
       "name": "Labios Mordidos (with KAROL G)",
       "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
+    },
+    {
+      "added_at": "2024-04-01 16:24:40",
+      "album": {
+        "name": "ID",
+        "url": "https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 235525,
+      "name": "ID",
+      "url": "https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187"
     },
     {
       "added_at": "2024-04-01 16:24:40",
@@ -495,30 +495,6 @@
     {
       "added_at": "2024-04-01 16:24:40",
       "album": {
-        "name": "Mu\u00f1ekita (with El Alfa & JT)",
-        "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 219642,
-      "name": "Mu\u00f1ekita (with El Alfa & JT)",
-      "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
-    },
-    {
-      "added_at": "2024-04-01 16:24:40",
-      "album": {
         "name": "Y Yo Me Le Pego",
         "url": "https://open.spotify.com/album/6iCJj6kFxBEoswtbzxxlBu"
       },
@@ -539,6 +515,30 @@
       "duration_ms": 172806,
       "name": "Y Yo Me Le Pego",
       "url": "https://open.spotify.com/track/4PpktF1wMyXtNgADgcdgqT"
+    },
+    {
+      "added_at": "2024-04-01 16:24:40",
+      "album": {
+        "name": "Mu\u00f1ekita (with El Alfa & JT)",
+        "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 219642,
+      "name": "Mu\u00f1ekita (with El Alfa & JT)",
+      "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
     },
     {
       "added_at": "2024-04-01 16:24:40",
@@ -643,6 +643,26 @@
     {
       "added_at": "2024-04-01 16:24:40",
       "album": {
+        "name": "MAMI CHAKALOSA",
+        "url": "https://open.spotify.com/album/7qNA059vQm84DreXknnuHr"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        }
+      ],
+      "duration_ms": 136843,
+      "name": "MAMI CHAKALOSA",
+      "url": "https://open.spotify.com/track/4fCyHWNFN6fOrPyoqVqezw"
+    },
+    {
+      "added_at": "2024-04-01 16:24:40",
+      "album": {
         "name": "\u00d1ero Session 3",
         "url": "https://open.spotify.com/album/1FKZ9HEFRmELWUtyaWcHWA"
       },
@@ -683,26 +703,6 @@
     {
       "added_at": "2024-04-01 16:24:40",
       "album": {
-        "name": "Booty Booty",
-        "url": "https://open.spotify.com/album/3qF3IgcIPMurpqXASo9F0E"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 150155,
-      "name": "Booty Booty",
-      "url": "https://open.spotify.com/track/5A8lUMKGNV5QWvneOkWWYc"
-    },
-    {
-      "added_at": "2024-04-01 16:24:40",
-      "album": {
         "name": "Rebote",
         "url": "https://open.spotify.com/album/7x4VUK9g8a8q0rdkxke8WF"
       },
@@ -723,22 +723,22 @@
     {
       "added_at": "2024-04-01 16:24:40",
       "album": {
-        "name": "MAMI CHAKALOSA",
-        "url": "https://open.spotify.com/album/7qNA059vQm84DreXknnuHr"
+        "name": "Booty Booty",
+        "url": "https://open.spotify.com/album/3qF3IgcIPMurpqXASo9F0E"
       },
       "artists": [
         {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         },
         {
-          "name": "Yeyo",
-          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 136843,
-      "name": "MAMI CHAKALOSA",
-      "url": "https://open.spotify.com/track/4fCyHWNFN6fOrPyoqVqezw"
+      "duration_ms": 150155,
+      "name": "Booty Booty",
+      "url": "https://open.spotify.com/track/5A8lUMKGNV5QWvneOkWWYc"
     },
     {
       "added_at": "2024-04-01 16:24:40",
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2024-04-01 16:24:40",
       "album": {
+        "name": "Mu\u00e9vete",
+        "url": "https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Divergentes Inc.",
+          "url": "https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI"
+        }
+      ],
+      "duration_ms": 211542,
+      "name": "Mu\u00e9vete",
+      "url": "https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU"
+    },
+    {
+      "added_at": "2024-04-01 16:24:40",
+      "album": {
         "name": "Perreo Sayayin",
         "url": "https://open.spotify.com/album/1qrH5OQu539WRe9dRVTyeX"
       },
@@ -1355,26 +1375,6 @@
       "duration_ms": 110412,
       "name": "Perreo Sayayin",
       "url": "https://open.spotify.com/track/70UWCayDDTHobS9NbRrvMA"
-    },
-    {
-      "added_at": "2024-04-01 16:24:40",
-      "album": {
-        "name": "Mu\u00e9vete",
-        "url": "https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Divergentes Inc.",
-          "url": "https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI"
-        }
-      ],
-      "duration_ms": 211542,
-      "name": "Mu\u00e9vete",
-      "url": "https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU"
     },
     {
       "added_at": "2024-04-01 16:24:40",
@@ -1439,6 +1439,26 @@
       "duration_ms": 151370,
       "name": "Nobajoniconpasta",
       "url": "https://open.spotify.com/track/0iipHsVxTAx6kFqPTrfjLr"
+    },
+    {
+      "added_at": "2024-04-01 16:24:40",
+      "album": {
+        "name": "\u00d1ero Session 8",
+        "url": "https://open.spotify.com/album/0lBWP5l7mhQ4afnp8RVZ2C"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Jossie A",
+          "url": "https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5"
+        }
+      ],
+      "duration_ms": 144468,
+      "name": "\u00d1ero Session 8",
+      "url": "https://open.spotify.com/track/4K4d0aCB2G7oULFGnR8UYv"
     },
     {
       "added_at": "2024-04-01 16:24:40",
@@ -1587,8 +1607,8 @@
     {
       "added_at": "2024-04-01 16:24:40",
       "album": {
-        "name": "\u00d1ero Session 8",
-        "url": "https://open.spotify.com/album/0lBWP5l7mhQ4afnp8RVZ2C"
+        "name": "\u00d1ero Session 7",
+        "url": "https://open.spotify.com/album/0kXgMtDQPGRvXY91yOOLZB"
       },
       "artists": [
         {
@@ -1596,13 +1616,13 @@
           "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
         },
         {
-          "name": "Jossie A",
-          "url": "https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5"
+          "name": "Los Menores",
+          "url": "https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal"
         }
       ],
-      "duration_ms": 144468,
-      "name": "\u00d1ero Session 8",
-      "url": "https://open.spotify.com/track/4K4d0aCB2G7oULFGnR8UYv"
+      "duration_ms": 183012,
+      "name": "\u00d1ero Session 7",
+      "url": "https://open.spotify.com/track/1tDpUBaXfL5mLqL4pHCxMu"
     },
     {
       "added_at": "2024-04-01 16:24:40",
@@ -1759,26 +1779,6 @@
     {
       "added_at": "2024-04-01 16:24:40",
       "album": {
-        "name": "\u00d1ero Session 7",
-        "url": "https://open.spotify.com/album/0kXgMtDQPGRvXY91yOOLZB"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Los Menores",
-          "url": "https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal"
-        }
-      ],
-      "duration_ms": 183012,
-      "name": "\u00d1ero Session 7",
-      "url": "https://open.spotify.com/track/1tDpUBaXfL5mLqL4pHCxMu"
-    },
-    {
-      "added_at": "2024-04-01 16:24:40",
-      "album": {
         "name": "Cumbiaton Total",
         "url": "https://open.spotify.com/album/4BlAGrb8qPYX1TuaInheT4"
       },
@@ -1803,6 +1803,26 @@
     {
       "added_at": "2024-04-01 16:24:40",
       "album": {
+        "name": "Buz\u00f3n de Voz",
+        "url": "https://open.spotify.com/album/4BkaOPT7FUQj23tVW5AE3T"
+      },
+      "artists": [
+        {
+          "name": "Mad Fuentes",
+          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
+        },
+        {
+          "name": "DJ Pedro Fuentes",
+          "url": "https://open.spotify.com/artist/6Ez7LiWGLxUAl9Gso9zEDs"
+        }
+      ],
+      "duration_ms": 164223,
+      "name": "R\u00f3mpelo",
+      "url": "https://open.spotify.com/track/2DTKvhMEE6pTJAKu3uv6Ks"
+    },
+    {
+      "added_at": "2024-04-01 16:24:40",
+      "album": {
         "name": "AJUAAA",
         "url": "https://open.spotify.com/album/13ZWrnebRAxaUxdgAjSx37"
       },
@@ -1823,26 +1843,6 @@
       "duration_ms": 177551,
       "name": "AJUAAA",
       "url": "https://open.spotify.com/track/4GxgZ3h4FRnIOLd5gbFZKC"
-    },
-    {
-      "added_at": "2024-04-01 16:24:40",
-      "album": {
-        "name": "Buz\u00f3n de Voz",
-        "url": "https://open.spotify.com/album/4BkaOPT7FUQj23tVW5AE3T"
-      },
-      "artists": [
-        {
-          "name": "Mad Fuentes",
-          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
-        },
-        {
-          "name": "DJ Pedro Fuentes",
-          "url": "https://open.spotify.com/artist/6Ez7LiWGLxUAl9Gso9zEDs"
-        }
-      ],
-      "duration_ms": 164223,
-      "name": "R\u00f3mpelo",
-      "url": "https://open.spotify.com/track/2DTKvhMEE6pTJAKu3uv6Ks"
     },
     {
       "added_at": "2024-04-01 16:24:40",
@@ -2003,26 +2003,6 @@
     {
       "added_at": "2024-04-01 16:24:40",
       "album": {
-        "name": "SUELTA SOLTERA",
-        "url": "https://open.spotify.com/album/5AAZooAUX4mK4pyFoyMTGd"
-      },
-      "artists": [
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        },
-        {
-          "name": "Aqua VS",
-          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "SUELTA SOLTERA",
-      "url": "https://open.spotify.com/track/1CkmF0SMrATEAusAqm77v0"
-    },
-    {
-      "added_at": "2024-04-01 16:24:40",
-      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/3weU1MeL7x9TRfWrPSIyFN"
       },
@@ -2043,6 +2023,26 @@
       "duration_ms": 194884,
       "name": "Bandolera",
       "url": "https://open.spotify.com/track/1IMS40acXF1BpJ7LRoHhQY"
+    },
+    {
+      "added_at": "2024-04-01 16:24:40",
+      "album": {
+        "name": "SUELTA SOLTERA",
+        "url": "https://open.spotify.com/album/5AAZooAUX4mK4pyFoyMTGd"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "SUELTA SOLTERA",
+      "url": "https://open.spotify.com/track/1CkmF0SMrATEAusAqm77v0"
     },
     {
       "added_at": "2024-04-01 16:24:40",
@@ -2071,26 +2071,6 @@
     {
       "added_at": "2024-04-01 16:24:40",
       "album": {
-        "name": "L-GANTE | Mission 19",
-        "url": "https://open.spotify.com/album/5moYjalNC0bbzVArARZog3"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 170568,
-      "name": "L-GANTE | Mission 19",
-      "url": "https://open.spotify.com/track/0DI87pDl42R0tPsCrR1rYd"
-    },
-    {
-      "added_at": "2024-04-01 16:24:40",
-      "album": {
         "name": "Lopa Lopa",
         "url": "https://open.spotify.com/album/3sZWtxmRdPNyd15r7XyoI8"
       },
@@ -2115,58 +2095,22 @@
     {
       "added_at": "2024-04-01 16:24:40",
       "album": {
-        "name": "3ple X (Radio Edit)",
-        "url": "https://open.spotify.com/album/1Ah1jnwVoENBApJqSargQd"
+        "name": "L-GANTE | Mission 19",
+        "url": "https://open.spotify.com/album/5moYjalNC0bbzVArARZog3"
       },
       "artists": [
         {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
         },
         {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
         }
       ],
-      "duration_ms": 211084,
-      "name": "3ple X - Radio Edit",
-      "url": "https://open.spotify.com/track/2lDi1sm9zSkmBwkuLUjZND"
-    },
-    {
-      "added_at": "2024-04-01 16:24:40",
-      "album": {
-        "name": "A Mover Ese Booty",
-        "url": "https://open.spotify.com/album/2VHXKpkQNthOvzq6TVEq3A"
-      },
-      "artists": [
-        {
-          "name": "Pablito Mix",
-          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
-        },
-        {
-          "name": "Nyel",
-          "url": "https://open.spotify.com/artist/5kwCLUDUVzT4sQinTSJ2a5"
-        }
-      ],
-      "duration_ms": 157347,
-      "name": "A Mover Ese Booty",
-      "url": "https://open.spotify.com/track/04SjhfpIKuLzsxCUYY838j"
-    },
-    {
-      "added_at": "2024-04-01 16:24:40",
-      "album": {
-        "name": "Ubi",
-        "url": "https://open.spotify.com/album/1T7eoAJmQkDVxPWYQuyEUM"
-      },
-      "artists": [
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        }
-      ],
-      "duration_ms": 186487,
-      "name": "Ubi",
-      "url": "https://open.spotify.com/track/0FwCxicKn0FYSDZ8c9gVG1"
+      "duration_ms": 170568,
+      "name": "L-GANTE | Mission 19",
+      "url": "https://open.spotify.com/track/0DI87pDl42R0tPsCrR1rYd"
     },
     {
       "added_at": "2024-04-01 16:24:40",
@@ -2195,6 +2139,46 @@
     {
       "added_at": "2024-04-01 16:24:40",
       "album": {
+        "name": "A Mover Ese Booty",
+        "url": "https://open.spotify.com/album/2VHXKpkQNthOvzq6TVEq3A"
+      },
+      "artists": [
+        {
+          "name": "Pablito Mix",
+          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
+        },
+        {
+          "name": "Nyel",
+          "url": "https://open.spotify.com/artist/5kwCLUDUVzT4sQinTSJ2a5"
+        }
+      ],
+      "duration_ms": 157347,
+      "name": "A Mover Ese Booty",
+      "url": "https://open.spotify.com/track/04SjhfpIKuLzsxCUYY838j"
+    },
+    {
+      "added_at": "2024-04-01 16:24:40",
+      "album": {
+        "name": "3ple X (Radio Edit)",
+        "url": "https://open.spotify.com/album/1Ah1jnwVoENBApJqSargQd"
+      },
+      "artists": [
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "duration_ms": 211084,
+      "name": "3ple X - Radio Edit",
+      "url": "https://open.spotify.com/track/2lDi1sm9zSkmBwkuLUjZND"
+    },
+    {
+      "added_at": "2024-04-01 16:24:40",
+      "album": {
         "name": "El Que Resuelve",
         "url": "https://open.spotify.com/album/1PMRGdRKgG9nRwlX8XfasE"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 188862,
       "name": "El Que Resuelve",
       "url": "https://open.spotify.com/track/56Br9FPB36z1qf8gnu2Zib"
+    },
+    {
+      "added_at": "2024-04-01 16:24:40",
+      "album": {
+        "name": "Ubi",
+        "url": "https://open.spotify.com/album/1T7eoAJmQkDVxPWYQuyEUM"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        }
+      ],
+      "duration_ms": 186487,
+      "name": "Ubi",
+      "url": "https://open.spotify.com/track/0FwCxicKn0FYSDZ8c9gVG1"
     }
   ],
   "unique_name": "CHAKAL\u00d3N ",

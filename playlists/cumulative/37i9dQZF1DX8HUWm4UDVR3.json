@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Johnny Jane",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Charlotte Cardin",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -326,6 +326,24 @@
       "duration_ms": 160648,
       "name": "bbtumadores",
       "url": "https://open.spotify.com/track/5yqoaf3rsnWWeWhYWVQP17"
+    },
+    {
+      "album": {
+        "name": "Attitude(s)",
+        "url": "https://open.spotify.com/album/5dK5JOfILFFyqqPUzBuS58"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196706,
+      "name": "Bbye",
+      "url": "https://open.spotify.com/track/0huj0MRkufIVv1b3naAjav"
     },
     {
       "album": {
@@ -916,7 +934,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 191293,
       "name": "Essence Ivresse",
       "url": "https://open.spotify.com/track/6m5bb0HGuIJMAvnDnh7EGm"
@@ -1425,6 +1443,28 @@
     },
     {
       "album": {
+        "name": "La vie est longue",
+        "url": "https://open.spotify.com/album/1N83q5bGAu09JywfzvlYi3"
+      },
+      "artists": [
+        {
+          "name": "Juicy Cola",
+          "url": "https://open.spotify.com/artist/6u9m2Ocxutj8gv7UJdwiWJ"
+        },
+        {
+          "name": "Orilia",
+          "url": "https://open.spotify.com/artist/5NerLamEpJvx6k2iquvXHK"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157113,
+      "name": "La vie est longue",
+      "url": "https://open.spotify.com/track/2McsyeHX5S2SyUFfb73J5Z"
+    },
+    {
+      "album": {
         "name": "Langue de P***",
         "url": "https://open.spotify.com/album/4CiDivdp3Wgi3isf1Soywy"
       },
@@ -1606,7 +1646,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 223386,
       "name": "Les silences",
       "url": "https://open.spotify.com/track/7ohHHewIJczp32oPYHl6wv"

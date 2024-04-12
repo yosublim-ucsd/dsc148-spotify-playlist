@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : DTF",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : AAMO",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -172,6 +172,28 @@
       "duration_ms": 169250,
       "name": "1jour",
       "url": "https://open.spotify.com/track/36rmAqEXbOlUGhUCrq61vb"
+    },
+    {
+      "album": {
+        "name": "\u00c9TERNEL SECOND",
+        "url": "https://open.spotify.com/album/72qSwqyIdk7ZNtksWQvowj"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/2kyVYRUwlrrJobeoqGoVvy"
+        },
+        {
+          "name": "CAPU$H",
+          "url": "https://open.spotify.com/artist/45OjNQ1shjnnjtjteryVxq"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "2ECOND",
+      "url": "https://open.spotify.com/track/2t6hlxN2lH505pPRrKNeFW"
     },
     {
       "album": {
@@ -1582,7 +1604,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 124092,
       "name": "CYCLOPE",
       "url": "https://open.spotify.com/track/7xFKQU5QkRuVCxIoWseuMv"
@@ -2501,6 +2523,24 @@
     },
     {
       "album": {
+        "name": "Go Mode",
+        "url": "https://open.spotify.com/album/3GekvJk4hGZw39M27jUcCc"
+      },
+      "artists": [
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224782,
+      "name": "Go Mode",
+      "url": "https://open.spotify.com/track/7MX9uRrHcyORpE2JXJpfUa"
+    },
+    {
+      "album": {
         "name": "AHBON MIXTAPE",
         "url": "https://open.spotify.com/album/5s5MPCy39ktuAFfewT2xSk"
       },
@@ -3200,6 +3240,24 @@
       "duration_ms": 208629,
       "name": "JAUNE CR\u00c9MEUX",
       "url": "https://open.spotify.com/track/5MZ7AYuPDyjSYRWdSu7N1l"
+    },
+    {
+      "album": {
+        "name": "HYPERION",
+        "url": "https://open.spotify.com/album/6FspfLkCe1TDl1IIocgXmV"
+      },
+      "artists": [
+        {
+          "name": "Lycos",
+          "url": "https://open.spotify.com/artist/6nxnoznWVrq1HXBbjl2cz3"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168857,
+      "name": "Je les m\u00e9prise tous",
+      "url": "https://open.spotify.com/track/79f0vcZmbrTu04Q0baYnau"
     },
     {
       "album": {
@@ -4430,7 +4488,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 210256,
       "name": "nebula",
       "url": "https://open.spotify.com/track/4dWQt09nlBLh34No9tNA5o"
@@ -5984,7 +6042,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 166315,
       "name": "Si demain je t'aime",
       "url": "https://open.spotify.com/track/6v7vxXFrKUFhDSFDlryU8D"
@@ -6462,6 +6520,24 @@
       "duration_ms": 185142,
       "name": "TH\u00c9RAPIE",
       "url": "https://open.spotify.com/track/410PptAEZCpF56YJBxgDIQ"
+    },
+    {
+      "album": {
+        "name": "TOUJOURS+",
+        "url": "https://open.spotify.com/album/7Idj3ciTMQ4ESCmMAVTwkH"
+      },
+      "artists": [
+        {
+          "name": "Coyote Jo Bastard",
+          "url": "https://open.spotify.com/artist/3nDLTOGw0WwwddP3tq5561"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141008,
+      "name": "TOUJOURS+",
+      "url": "https://open.spotify.com/track/4IB8JqXWpQXKRryrRDmtWc"
     },
     {
       "album": {
@@ -6946,7 +7022,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 168040,
       "name": "\u00c9motion",
       "url": "https://open.spotify.com/track/5hFImCo7K3URs5Gn9kj7QU"

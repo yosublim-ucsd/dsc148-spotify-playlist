@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: HODARI, Urias",
-  "num_followers": 167762,
+  "num_followers": 167791,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGQ5YTJkOTcwZWQ5MWE4YWJmMTZlYjBmNDVkY2ViNjBjMjQyY2Uz",
+  "snapshot_id": "MTcxMjI4NjA2MCwwMDAwMDAwMGRiMzZlMjJmOWIyNDY1OWVlODhiZWFhNWQ4ZTBhMDg4",
   "tracks": [
     {
       "added_at": "2024-04-05 03:01:00",
@@ -243,26 +243,6 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "Por Isso Me Liga",
-        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
-      },
-      "artists": [
-        {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 219168,
-      "name": "Por Isso Me Liga",
-      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
         "name": "SEM BARULHO",
         "url": "https://open.spotify.com/album/3Db57HHFgo2338LhJoP7dh"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 162711,
       "name": "SEM BARULHO",
       "url": "https://open.spotify.com/track/3YYKdDw8ah4kVF5zRxDO0M"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "Por Isso Me Liga",
+        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 219168,
+      "name": "Por Isso Me Liga",
+      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -323,26 +323,6 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "1001 Roteiros",
-        "url": "https://open.spotify.com/album/7BML7mAZR24Tle4tpZtCvm"
-      },
-      "artists": [
-        {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
-        },
-        {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
-        }
-      ],
-      "duration_ms": 161024,
-      "name": "1001 Roteiros",
-      "url": "https://open.spotify.com/track/6yMVMThd3yOGcJMEc0vGgZ"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
         "name": "Amar D\u00f3i",
         "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
       },
@@ -359,6 +339,46 @@
       "duration_ms": 168063,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "Mil\u00e3o",
+        "url": "https://open.spotify.com/album/710Y3Si18m6WkKMtNrzgMl"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        },
+        {
+          "name": "Matheusinho",
+          "url": "https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX"
+        }
+      ],
+      "duration_ms": 199972,
+      "name": "Mil\u00e3o",
+      "url": "https://open.spotify.com/track/4x4Fp6OGsLjIu2T0rZt6d5"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "1001 Roteiros",
+        "url": "https://open.spotify.com/album/7BML7mAZR24Tle4tpZtCvm"
+      },
+      "artists": [
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        },
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+        }
+      ],
+      "duration_ms": 161024,
+      "name": "1001 Roteiros",
+      "url": "https://open.spotify.com/track/6yMVMThd3yOGcJMEc0vGgZ"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -411,26 +431,6 @@
       "duration_ms": 181224,
       "name": "Victoria's Secrets",
       "url": "https://open.spotify.com/track/0wip0vMqXUZptWl8s386yR"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "Mil\u00e3o",
-        "url": "https://open.spotify.com/album/710Y3Si18m6WkKMtNrzgMl"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        },
-        {
-          "name": "Matheusinho",
-          "url": "https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX"
-        }
-      ],
-      "duration_ms": 199972,
-      "name": "Mil\u00e3o",
-      "url": "https://open.spotify.com/track/4x4Fp6OGsLjIu2T0rZt6d5"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -579,6 +579,30 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
+        "name": "Teu Sinal",
+        "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
+      },
+      "artists": [
+        {
+          "name": "Nathy Veras",
+          "url": "https://open.spotify.com/artist/3zt8fOqNT5MJuHewiE482i"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        },
+        {
+          "name": "Bubblegun Studios",
+          "url": "https://open.spotify.com/artist/4vqazZms8Y4wPQM6rbtOGx"
+        }
+      ],
+      "duration_ms": 189230,
+      "name": "Teu Sinal",
+      "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
         "name": "Eterno Esquema",
         "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
       },
@@ -619,30 +643,6 @@
       "duration_ms": 180000,
       "name": "Rec\u00edproco",
       "url": "https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "Teu Sinal",
-        "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
-      },
-      "artists": [
-        {
-          "name": "Nathy Veras",
-          "url": "https://open.spotify.com/artist/3zt8fOqNT5MJuHewiE482i"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        },
-        {
-          "name": "Bubblegun Studios",
-          "url": "https://open.spotify.com/artist/4vqazZms8Y4wPQM6rbtOGx"
-        }
-      ],
-      "duration_ms": 189230,
-      "name": "Teu Sinal",
-      "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "Lunar",
-        "url": "https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf"
-      },
-      "artists": [
-        {
-          "name": "Conc\u00ea",
-          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
-        }
-      ],
-      "duration_ms": 115306,
-      "name": "A Nossa Brisa",
-      "url": "https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
         "name": "Quem Vai Fazer Voc\u00ea Feliz?",
         "url": "https://open.spotify.com/album/4PJDIaZRbnsolFvvJJ78TB"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 250032,
       "name": "Quem Vai Fazer Voc\u00ea Feliz?",
       "url": "https://open.spotify.com/track/1tE34sFD7UkGqTHzUDwhN6"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf"
+      },
+      "artists": [
+        {
+          "name": "Conc\u00ea",
+          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
+        }
+      ],
+      "duration_ms": 115306,
+      "name": "A Nossa Brisa",
+      "url": "https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "Uma Chance Pra Ficar Tudo bem",
-        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
-      },
-      "artists": [
-        {
-          "name": "Crod",
-          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
-        }
-      ],
-      "duration_ms": 154290,
-      "name": "Uma Chance",
-      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
         "name": "Troco",
         "url": "https://open.spotify.com/album/3P5HL7EhZK7047gZXxWGW5"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "Estou Aqui",
-        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
+        "name": "Uma Chance Pra Ficar Tudo bem",
+        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
       },
       "artists": [
         {
-          "name": "INAHUGO",
-          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
+          "name": "Crod",
+          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
         }
       ],
-      "duration_ms": 227234,
-      "name": "Del\u00edrio",
-      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
+      "duration_ms": 154290,
+      "name": "Uma Chance",
+      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1123,26 +1107,42 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "\u00cdn.ti.mo",
-        "url": "https://open.spotify.com/album/1H39nmz1c0ai9HaEhJWaGU"
+        "name": "Estou Aqui",
+        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
       },
       "artists": [
         {
-          "name": "Aysha Lima",
-          "url": "https://open.spotify.com/artist/2PIknYaeoCcwkNQ8leGQ7U"
-        },
-        {
-          "name": "Andr\u00e9 Miquelotti",
-          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
-        },
-        {
-          "name": "DG Prod",
-          "url": "https://open.spotify.com/artist/5yRNIQrZSfIpSKXjDQ1qif"
+          "name": "INAHUGO",
+          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
         }
       ],
-      "duration_ms": 187954,
-      "name": "PFP (para fazer pretinhos)",
-      "url": "https://open.spotify.com/track/29T145ELh9ZkHSJusrhilh"
+      "duration_ms": 227234,
+      "name": "Del\u00edrio",
+      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "GUAPA",
+        "url": "https://open.spotify.com/album/3VLLaHdj4pobnOxrWFcsdO"
+      },
+      "artists": [
+        {
+          "name": "Matheus Queiroz",
+          "url": "https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Douglas Moda",
+          "url": "https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK"
+        }
+      ],
+      "duration_ms": 139270,
+      "name": "GUAPA",
+      "url": "https://open.spotify.com/track/5eERv0kAdLr608xgqawoHm"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1171,26 +1171,26 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "GUAPA",
-        "url": "https://open.spotify.com/album/3VLLaHdj4pobnOxrWFcsdO"
+        "name": "\u00cdn.ti.mo",
+        "url": "https://open.spotify.com/album/1H39nmz1c0ai9HaEhJWaGU"
       },
       "artists": [
         {
-          "name": "Matheus Queiroz",
-          "url": "https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7"
+          "name": "Aysha Lima",
+          "url": "https://open.spotify.com/artist/2PIknYaeoCcwkNQ8leGQ7U"
         },
         {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+          "name": "Andr\u00e9 Miquelotti",
+          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
         },
         {
-          "name": "Douglas Moda",
-          "url": "https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK"
+          "name": "DG Prod",
+          "url": "https://open.spotify.com/artist/5yRNIQrZSfIpSKXjDQ1qif"
         }
       ],
-      "duration_ms": 139270,
-      "name": "GUAPA",
-      "url": "https://open.spotify.com/track/5eERv0kAdLr608xgqawoHm"
+      "duration_ms": 187954,
+      "name": "PFP (para fazer pretinhos)",
+      "url": "https://open.spotify.com/track/29T145ELh9ZkHSJusrhilh"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "30\u00baC",
-        "url": "https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE"
-      },
-      "artists": [
-        {
-          "name": "2:22",
-          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
-        },
-        {
-          "name": "Amanda Magno",
-          "url": "https://open.spotify.com/artist/3oJrSk88w8dtDFRKjcMH0R"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "PORTAIS",
-      "url": "https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
         "name": "Novela",
         "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
       },
@@ -1271,22 +1251,22 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "Sobrenome",
-        "url": "https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7"
+        "name": "30\u00baC",
+        "url": "https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE"
       },
       "artists": [
         {
-          "name": "Dagrace",
-          "url": "https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT"
+          "name": "2:22",
+          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
         },
         {
-          "name": "Dodoin",
-          "url": "https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1"
+          "name": "Amanda Magno",
+          "url": "https://open.spotify.com/artist/3oJrSk88w8dtDFRKjcMH0R"
         }
       ],
-      "duration_ms": 134476,
-      "name": "Sobrenome",
-      "url": "https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW"
+      "duration_ms": 160000,
+      "name": "PORTAIS",
+      "url": "https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -1327,6 +1307,26 @@
       "duration_ms": 212000,
       "name": "Imaturos",
       "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "Sobrenome",
+        "url": "https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7"
+      },
+      "artists": [
+        {
+          "name": "Dagrace",
+          "url": "https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT"
+        },
+        {
+          "name": "Dodoin",
+          "url": "https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1"
+        }
+      ],
+      "duration_ms": 134476,
+      "name": "Sobrenome",
+      "url": "https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW"
     },
     {
       "added_at": "2024-04-05 03:01:00",

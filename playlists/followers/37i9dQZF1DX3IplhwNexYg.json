@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 114653,
+  "2024-04-12": 114654,
   "date_first_scraped": "2022-01-02",
   "description": "The best in current indie rock. Cover: Sl\u00f8tface",
   "name": "pulp",
@@ -3179,10 +3179,28 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 227506,
       "name": "Gen-X Cops",
       "url": "https://open.spotify.com/track/0UqpCnZlv5X2IJf9OOR5fh"
+    },
+    {
+      "album": {
+        "name": "Only God Was Above Us",
+        "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227506,
+      "name": "Gen-X Cops",
+      "url": "https://open.spotify.com/track/7EBmnpMsikHSmwOoCnAKrd"
     },
     {
       "album": {
@@ -6935,7 +6953,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 168063,
       "name": "R&B",
       "url": "https://open.spotify.com/track/6yRsDLeo8qszcOS2u11ZDn"
@@ -8639,7 +8657,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 238653,
       "name": "the angel of 8th ave.",
       "url": "https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru"

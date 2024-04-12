@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Imagine Dragons along with the hottest alternative songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,738 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,878 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 74 | [Impressively Average](https://open.spotify.com/track/1sL6n9kMtrlAvPokQKlZGP) | [Brigitte Calls Me Baby](https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN) | [Impressively Average](https://open.spotify.com/album/0I60bBbjgow9th1gEfPKxv) | 3:18 |
 | 75 | [What About The Children](https://open.spotify.com/track/4bGTNdEbmrDlvqYJKRKJxR) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [JPEG RAW](https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV) | 4:39 |
 
-Snapshot ID: `MCxjNDIwMWJhYjY0YzRhNzc2YWJkMmEyYWUwN2M3Y2E3MjM4YmU0NTYy`
+Snapshot ID: `MTcxMjI4OTYwMCwwMDAwMDAwMDk1NmYzNDRmMTg2ZDcyZDY5NDk1ZGQyOTQ4YTgwMzk0`

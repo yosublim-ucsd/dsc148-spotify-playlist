@@ -958,7 +958,7 @@
     {
       "album": {
         "name": "If your tired heart is aching...",
-        "url": "https://open.spotify.com/album/2CIWOiav9CO8CgVXfwOatC"
+        "url": "https://open.spotify.com/album/616QEysuNBQ1mcmidQ5Xn5"
       },
       "artists": [
         {
@@ -969,6 +969,24 @@
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 178786,
+      "name": "Collecting Dust",
+      "url": "https://open.spotify.com/track/0bYLqd9ashVL8sJolj025Q"
+    },
+    {
+      "album": {
+        "name": "If your tired heart is aching...",
+        "url": "https://open.spotify.com/album/2CIWOiav9CO8CgVXfwOatC"
+      },
+      "artists": [
+        {
+          "name": "Bo Armstrong",
+          "url": "https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-12",
       "duration_ms": 178786,
       "name": "Collecting Dust",
       "url": "https://open.spotify.com/track/7L3f431pANoi2Mq9RP4hHD"

@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 15825,
+  "num_followers": 15845,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWE0MzA5OTUyNzkwNmRmYWYwMGQ4ZmMyNzA2NTc2ZTlhZTk1M2Ni",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDcxMzM1MDM0MzY3YzA4MTI2MWYzODZhNThlNzE1M2U0",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 110826,
+      "name": "Get Loud",
+      "url": "https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dennis Daughter",
         "url": "https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 199746,
       "name": "Don't Get Me Started (feat. Coi Leray & Nija)",
       "url": "https://open.spotify.com/track/5AmuyYZBlIbC9PuFM9hmso"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 110826,
-      "name": "Get Loud",
-      "url": "https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi"
     },
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mixed Emotions",
-        "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
-      },
-      "artists": [
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 195464,
-      "name": "Hate Me (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COI",
         "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 196373,
       "name": "Man's World (with James Brown)",
       "url": "https://open.spotify.com/track/235C6mYJSyfN74X8s92900"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mixed Emotions",
+        "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 195464,
+      "name": "Hate Me (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V"
     },
     {
       "added_at": null,
@@ -611,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything BoZ (feat. Coi Leray) [Slowed Down]",
-        "url": "https://open.spotify.com/album/4wT8Av6zot8E7bb9vtWnre"
-      },
-      "artists": [
-        {
-          "name": "10X",
-          "url": "https://open.spotify.com/artist/4Dm8GgbaqWzgnZeZrxAW0R"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 231470,
-      "name": "Everything BoZ (feat. Coi Leray) - Slowed Down",
-      "url": "https://open.spotify.com/track/1vRuHOpX8lpEnnaYjVJl6r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COI",
         "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 150413,
       "name": "No Angels (with Lola Brooke)",
       "url": "https://open.spotify.com/track/41s7nEKyANNfGaxRyMyFGI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything BoZ (feat. Coi Leray) [Slowed Down]",
+        "url": "https://open.spotify.com/album/4wT8Av6zot8E7bb9vtWnre"
+      },
+      "artists": [
+        {
+          "name": "10X",
+          "url": "https://open.spotify.com/artist/4Dm8GgbaqWzgnZeZrxAW0R"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 231470,
+      "name": "Everything BoZ (feat. Coi Leray) - Slowed Down",
+      "url": "https://open.spotify.com/track/1vRuHOpX8lpEnnaYjVJl6r"
     },
     {
       "added_at": null,
@@ -971,22 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 97866,
-      "name": "Isabel Marant",
-      "url": "https://open.spotify.com/track/7Mb66KGl6xxptERMMeMAoj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fortune Favors the Bold",
         "url": "https://open.spotify.com/album/6TMDH24QJCPTjUnRuXvEY0"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 152186,
       "name": "Sex So Good (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/40mQXYRIZl7c8Of0mfnRBC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 97866,
+      "name": "Isabel Marant",
+      "url": "https://open.spotify.com/track/7Mb66KGl6xxptERMMeMAoj"
     }
   ],
   "unique_name": "This Is Coi Leray",

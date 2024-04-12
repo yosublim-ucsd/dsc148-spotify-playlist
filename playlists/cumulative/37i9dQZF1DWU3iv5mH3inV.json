@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "El Dembow que est\u00e1 subiendo en RD. Foto: Yaisel LM",
+  "description": "El Dembow que est\u00e1 subiendo en RD. Foto: Bulin 47",
   "name": "Rep\u00fablica Dembow",
   "tracks": [
     {
@@ -4763,6 +4763,28 @@
     },
     {
       "album": {
+        "name": "La Cocolita",
+        "url": "https://open.spotify.com/album/2iYNizyKv4DOgEtmTyCpgb"
+      },
+      "artists": [
+        {
+          "name": "Mestizo Is Back",
+          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
+        },
+        {
+          "name": "Keila",
+          "url": "https://open.spotify.com/artist/6b7BKSpMuReJlss9x6XYtg"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132480,
+      "name": "La Cocolita",
+      "url": "https://open.spotify.com/track/7F5PZ4KnpcNbKDnthUM646"
+    },
+    {
+      "album": {
         "name": "Desacatao",
         "url": "https://open.spotify.com/album/68MjsIj25Rbk2DLSneBafM"
       },
@@ -5044,7 +5066,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 142687,
       "name": "La Nota",
       "url": "https://open.spotify.com/track/206LMFOOS67922M9KOj0ac"
@@ -6203,6 +6225,24 @@
     },
     {
       "album": {
+        "name": "Me Arregle (El loco)",
+        "url": "https://open.spotify.com/album/3s231XSay5ko3W5psvQhrW"
+      },
+      "artists": [
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169660,
+      "name": "Me Arregle - El loco",
+      "url": "https://open.spotify.com/track/1bIpH9PBr9OBI3Ek6RtuNl"
+    },
+    {
+      "album": {
         "name": "Me Desacate & Prendi",
         "url": "https://open.spotify.com/album/2tat3WQKWA5Wb7ZcUsGSEr"
       },
@@ -6426,6 +6466,28 @@
       "duration_ms": 228571,
       "name": "melacomo",
       "url": "https://open.spotify.com/track/6FUiZ86ucz8sn45kLfK2wD"
+    },
+    {
+      "album": {
+        "name": "Melaza Za",
+        "url": "https://open.spotify.com/album/4oO9gDoMmjPSJieoby4VfI"
+      },
+      "artists": [
+        {
+          "name": "Young Pilot",
+          "url": "https://open.spotify.com/artist/5h80M7wM08FV695GDm49W9"
+        },
+        {
+          "name": "Imperio Record",
+          "url": "https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122110,
+      "name": "Melaza Za",
+      "url": "https://open.spotify.com/track/7n6bLjt8QQA90fdXuFYgnQ"
     },
     {
       "album": {
@@ -7630,7 +7692,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 149041,
       "name": "PAPI CHULO",
       "url": "https://open.spotify.com/track/3NkL1NXmq8OwklrdcekTAG"
@@ -9722,7 +9784,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 122561,
       "name": "SUBA",
       "url": "https://open.spotify.com/track/2RwIdubGWW8OIwDPgfEDuh"
@@ -10502,7 +10564,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 119531,
       "name": "Te Lo Coji",
       "url": "https://open.spotify.com/track/0LWSYzhOlajXSaAhNXmwtg"
@@ -10890,6 +10952,32 @@
       "duration_ms": 101496,
       "name": "Tiguere DK - 2X1",
       "url": "https://open.spotify.com/track/43j4OLE5Evo8qZZCr0Mker"
+    },
+    {
+      "album": {
+        "name": "Tiki Tiki (Dembow)",
+        "url": "https://open.spotify.com/album/2F09feJo8ns7KfGMS1Bguy"
+      },
+      "artists": [
+        {
+          "name": "Chocoleyrol",
+          "url": "https://open.spotify.com/artist/2kF83E9c7WmW5XdqwUrJd2"
+        },
+        {
+          "name": "Jhayseven",
+          "url": "https://open.spotify.com/artist/2G3bLEKN244jKnfbVUTzdd"
+        },
+        {
+          "name": "Yeral El De Lo Palo",
+          "url": "https://open.spotify.com/artist/0gNBwt2gBwViwnZKRYoPJb"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117475,
+      "name": "Tiki Tiki",
+      "url": "https://open.spotify.com/track/3GXImr51MZx1OorAaVFvsc"
     },
     {
       "album": {

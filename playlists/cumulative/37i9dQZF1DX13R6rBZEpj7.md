@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-252 songs - 15 hr 28 min
+253 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [IMMACULATE SKANK](https://open.spotify.com/track/678ey4hhnfoCIRYbQ9dTwc) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [IMMACULATE SKANK](https://open.spotify.com/album/6559VpMe0iH33RoMMwHrdm) | 3:42 | 2024-03-01 |  |
 | [In My Head](https://open.spotify.com/track/2yWYceNVmSmTc4XK4GQAsZ) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [In My Head](https://open.spotify.com/album/3x0BpjZvx3VzldV7uEdvU5) | 3:29 | 2022-04-22 | 2022-07-21 |
 | [In The Rave](https://open.spotify.com/track/4pTk5KSXzF68SMACQ1fCyR) | [A.2.Z](https://open.spotify.com/artist/4DdL680AJQUH0N9KcewTdQ), [2 Below](https://open.spotify.com/artist/7wponEQgf3A7sgrV6cbSk7) | [In The Rave](https://open.spotify.com/album/65ZW9lhYTBzcqJdHc4q2aB) | 3:16 | 2022-04-15 | 2022-07-24 |
-| [Inside](https://open.spotify.com/track/5Yux6ipN64rjAdUrs5kqGI) | [Slick Don](https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k) | [Inside](https://open.spotify.com/album/41v5RTP7DI3PGECp9i7ZBa) | 4:12 | 2023-01-24 |  |
+| [Inside](https://open.spotify.com/track/5Yux6ipN64rjAdUrs5kqGI) | [Slick Don](https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k) | [Inside](https://open.spotify.com/album/41v5RTP7DI3PGECp9i7ZBa) | 4:12 | 2023-01-24 | 2024-04-12 |
 | [Inside](https://open.spotify.com/track/6y83sAg5Mx81YSzKSUw36j) | [Slick Don](https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k) | [Inside](https://open.spotify.com/album/4JvQ6sH4NsLqABE1qG6dy6) | 4:12 | 2022-04-15 | 2023-02-03 |
 | [It's Just This Thing](https://open.spotify.com/track/1PzMiuvUMQRKfxxNsPAjZR) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [Feel So Free Mixtape](https://open.spotify.com/album/4dHbS7oUzTsbkc0SPRhTWB) | 3:39 | 2022-11-26 | 2023-12-22 |
 | [It's Your Time](https://open.spotify.com/track/3Q6T8sRZWec7A4U48jL9Wa) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd), [Jamie Boy Bassline](https://open.spotify.com/artist/0PQWIA1vcMBaOSBXnFgpLj) | [It's Your Time](https://open.spotify.com/album/4ZRW6aNvq4ec59GX7U5jTt) | 3:06 | 2023-01-24 | 2023-12-22 |
@@ -188,6 +188,7 @@
 | [Overrated](https://open.spotify.com/track/6VWDavwPns4qyPimkdBxP5) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Overrated](https://open.spotify.com/album/7MoY9ZvnB9hyIU1TGGSp0g) | 3:47 | 2023-08-24 |  |
 | [P.S 2023 \(Bassline Remix\)](https://open.spotify.com/track/1rdmcGRNmD7qfNb2Q9Gcxt) | [Burgaboy](https://open.spotify.com/artist/2RqbEOyM1cly9xDaFqyVda), [Lauren Mason](https://open.spotify.com/artist/7n1EMEGr2LjgICpbN6ZiTh) | [P.S Remix \(2023\)](https://open.spotify.com/album/5UhGiK7k9bYxxFofNMdVft) | 3:24 | 2024-03-01 |  |
 | [Party Right](https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Party Right / Snake Charmer](https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx) | 3:36 | 2022-07-14 |  |
+| [Party Starter \(feat\. Slick Don\)](https://open.spotify.com/track/0zclfRkV2b65rgHJyL80sf) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry), [Slick Don](https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k) | [Seshame Street EP](https://open.spotify.com/album/2Jg5nvzzGeKzulWY9vC3u6) | 3:01 | 2024-04-05 |  |
 | [Perfect Crime](https://open.spotify.com/track/3F4LO2MlLyZ5oAJjpsw89J) | [Spence](https://open.spotify.com/artist/12QXpIHNMNQzZaCfBTVx0L), [S\-70](https://open.spotify.com/artist/2ADNw1kE3nu2uXTtEodACQ) | [Perfect Crime](https://open.spotify.com/album/6SKhGRv1ihw34UnldrZIbV) | 3:30 | 2022-04-15 | 2023-03-10 |
 | [Phantasm](https://open.spotify.com/track/7veVv9LcaAbt6DVeHVmjgY) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Phantasm](https://open.spotify.com/album/0MeCw3SMfshfeTF2OG85gx) | 4:29 | 2024-02-02 |  |
 | [Phone Line Crew](https://open.spotify.com/track/7e6FQw24bmpOrpaniB5MjC) | [Royal\-T](https://open.spotify.com/artist/0Eob3oXbs3eny5yHhM2QeW) | [Phone Line Crew](https://open.spotify.com/album/1JWbHpm5BXZe08CZUL2DBe) | 3:31 | 2022-04-15 | 2022-07-18 |

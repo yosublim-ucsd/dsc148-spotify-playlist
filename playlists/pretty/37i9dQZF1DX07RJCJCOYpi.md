@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: Rayben
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,652,246 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,652,223 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 69 | [Pretty](https://open.spotify.com/track/443yevePndkhSsyk14tBIu) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Pensión](https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM) | [Pretty](https://open.spotify.com/album/3eXpLdzG1MDgKVq6Hg7HE4) | 2:43 |
 | 70 | [El Ritmo \(La Noche\)](https://open.spotify.com/track/1csgApWERAFNh0h2EUFnIz) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [El Ritmo \(La Noche\)](https://open.spotify.com/album/6Sdi8BIyvZq3v86vgNRC0w) | 4:15 |
 
-Snapshot ID: `MCxmNDNjMWI3ZDU1YzIwOTRlMDI3NjlkYTE4YzI2NjU3NTU3NGRkNmI4`
+Snapshot ID: `MTcxMjI5MTc2OCwwMDAwMDAwMDUxYmYyYjY4YmZmNGZiOTJmNjUxNmMwNzM3M2EyYzBl`

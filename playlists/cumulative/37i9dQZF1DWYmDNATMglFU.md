@@ -2,9 +2,9 @@
 
 ### [The Locker](https://open.spotify.com/playlist/37i9dQZF1DWYmDNATMglFU)
 
-> it's a generation ⛓ ft\. LØLØ
+> it's a generation ⛓ ft\. jxdn
 
-756 songs - 1 day 13 hr 45 min
+759 songs - 1 day 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [All My Untalented Friends \(Ooo La La\)](https://open.spotify.com/track/7avmVy8bgy6x804Ni0ltb6) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [All My Untalented Friends \(Ooo La La\)](https://open.spotify.com/album/6cGgu7Yl0lYQZIaP530mkp) | 2:52 | 2023-07-13 | 2023-09-22 |
 | [All The Small Things](https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:47 | 2021-12-31 | 2022-01-08 |
 | [All the Things I Hate About You](https://open.spotify.com/track/2HbuhhxdEVbqdaJlLxOCfW) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [All the Things I Hate About You](https://open.spotify.com/album/5BHOsQ5SYyLezRwfYN1non) | 3:15 | 2022-07-29 | 2023-06-09 |
-| [Alpha Beta Sigma](https://open.spotify.com/track/5XVK6Qn09ECprvV7EFBrvb) | [CHERYM](https://open.spotify.com/artist/5HeMRsU1AunQINeEVHFdx5) | [Alpha Beta Sigma](https://open.spotify.com/album/3yCzLLEDZHiLzRIIj8qUA5) | 3:05 | 2024-02-02 |  |
+| [Alpha Beta Sigma](https://open.spotify.com/track/5XVK6Qn09ECprvV7EFBrvb) | [CHERYM](https://open.spotify.com/artist/5HeMRsU1AunQINeEVHFdx5) | [Alpha Beta Sigma](https://open.spotify.com/album/3yCzLLEDZHiLzRIIj8qUA5) | 3:05 | 2024-02-02 | 2024-04-12 |
 | [Alright](https://open.spotify.com/track/6ZBr8E9XczoqgMRXyXUe6b) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Alright](https://open.spotify.com/album/2xawjrCCEKSTSxOg6VkPe9) | 3:22 | 2023-05-25 | 2023-09-15 |
 | [alright \(feat\. The Kid LAROI\)](https://open.spotify.com/track/1uQ5oCjZvQsMZaBFAdkSuF) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [EKKSTACY](https://open.spotify.com/album/5kBHoINYa2WwRaOK3vA7LC) | 2:09 | 2024-01-19 |  |
 | [Alter Ego](https://open.spotify.com/track/1miBcqjGpcoTBcdjnFjJrG) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Alter Ego](https://open.spotify.com/album/0vC6K5RFvqdE2CSpYZQXIz) | 2:20 | 2022-07-14 | 2022-09-23 |
@@ -276,6 +276,7 @@
 | [Glimmer](https://open.spotify.com/track/7JTaDwKJ44levpruU6FZTP) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/6AvWDbrgKLZB5d5oJBVFw1) | 3:08 | 2024-03-15 |  |
 | [God give me a car](https://open.spotify.com/track/1uea73mwQFrPWDNbPSmswm) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [God give me a car](https://open.spotify.com/album/6Zh5VI9LAR8hzMQK3qdHST) | 2:56 | 2023-06-15 | 2023-12-08 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2022-03-08 | 2022-03-09 |
+| [Greener](https://open.spotify.com/track/3XlMdG6jijNmW6NHsRUztE) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Greener](https://open.spotify.com/album/4AFI5zpN06NhzwmRJ8bczT) | 2:55 | 2024-04-12 |  |
 | [Groundhog Day](https://open.spotify.com/track/2ko8dvhLWtjJLpVRP0MsSy) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Groundhog Day](https://open.spotify.com/album/2ex4Ft73QrAjK7oFwwejjH) | 1:50 | 2023-02-24 | 2023-04-14 |
 | [GROWING UP ON THE INTERNET](https://open.spotify.com/track/18qLKmBYHFZpJdqdOVCeoM) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [GROWING UP ON THE INTERNET](https://open.spotify.com/album/6EIeFIxDn5mM9Z2AEYfh9t) | 3:19 | 2023-09-01 | 2024-03-01 |
 | [hair out](https://open.spotify.com/track/0lRlsjGhgUDCjJzz3RjwNb) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [hair out](https://open.spotify.com/album/2mkGeTROsTphs5nrVRYJ82) | 2:40 | 2022-03-04 | 2022-07-29 |
@@ -494,7 +495,7 @@
 | [ONE NATION UNDERDOGS](https://open.spotify.com/track/0rlcL9H8ZJUEDQ3N0tmTZf) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 1: the blueprint](https://open.spotify.com/album/0otIBMv5zMV7ikDvfWCD3r) | 3:32 | 2023-05-25 | 2024-02-09 |
 | [ONLY FANS](https://open.spotify.com/track/3k3hPsyEiJovWqmwwQ3nR9) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [3](https://open.spotify.com/album/10LJ6xc4AmjUcXOSKwkFfn) | 1:36 | 2023-03-30 | 2023-06-02 |
 | [ONLY FANS](https://open.spotify.com/track/799apJE8jCPHt96YotvOfI) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [3](https://open.spotify.com/album/1Etoiql9stygnFngHYH0a3) | 1:36 | 2023-03-24 | 2023-04-07 |
-| [Only This Could Happen To Me](https://open.spotify.com/track/4tkNRCnN7TGV1ukMfIXuaU) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Karaoke Sellouts](https://open.spotify.com/album/6HinBdxcvcnRmm4QKvDP1d) | 3:24 | 2023-11-24 |  |
+| [Only This Could Happen To Me](https://open.spotify.com/track/4tkNRCnN7TGV1ukMfIXuaU) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Karaoke Sellouts](https://open.spotify.com/album/6HinBdxcvcnRmm4QKvDP1d) | 3:24 | 2023-11-24 | 2024-04-12 |
 | [Outlook](https://open.spotify.com/track/0CrmP1WCDoi6nWm0Bn49cy) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Outlook](https://open.spotify.com/album/1cNp3BCSszUndzImSMZw07) | 3:51 | 2023-04-20 | 2023-05-26 |
 | [OVER YOUR DEAD BODY](https://open.spotify.com/track/33SO5use9IdF2g0lrcSj3l) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [A Call To The Void](https://open.spotify.com/album/3zhyT62LXkBpycohrjER5s) | 3:45 | 2023-08-24 |  |
 | [Overcompensate \(edit\)](https://open.spotify.com/track/7kcApwUclbIw9B6MuVmqPc) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Overcompensate](https://open.spotify.com/album/5ZSqGFLuXUJUlIObSkN0Bz) | 3:10 | 2024-03-01 |  |
@@ -641,6 +642,7 @@
 | [Tear in My Heart](https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:08 | 2022-03-31 | 2022-08-05 |
 | [Teenage Dirtbag](https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd) | 4:01 | 2022-08-27 | 2022-12-09 |
 | [Teenage Runaways](https://open.spotify.com/track/2XnXc7VrwyQzy5ddfKe5Qo) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Teenage Runaways](https://open.spotify.com/album/58FSurGGBFmANZssX5QhEw) | 2:59 | 2022-05-19 | 2022-08-05 |
+| [TEETH \(feat\. Diggy Graves\)](https://open.spotify.com/track/1IsOdvUcz8eoN1qgoNP1sC) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ), [Diggy Graves](https://open.spotify.com/artist/1TpOqFPZPxxeuLHL3oSl2t) | [TEETH \(feat\. Diggy Graves\)](https://open.spotify.com/album/3kyhds57Cj6kSPZhqJ1w4I) | 2:29 | 2024-04-12 |  |
 | [Tell Her I Said Hi](https://open.spotify.com/track/3ihsadGcabEZtqdyRShuKs) | [Caroline Romano](https://open.spotify.com/artist/1MgbE6bu4MzbVLfAesPRol) | [Tell Her I Said Hi](https://open.spotify.com/album/7Ktntaw67JA1kcqC6XkwKl) | 3:31 | 2023-12-08 |  |
 | [TELL ME THAT YOU’RE OKAY](https://open.spotify.com/track/0UjJ89GHYTykKaNUi55zvH) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [TELL ME THAT YOU’RE OKAY](https://open.spotify.com/album/41d02ZUTdg1D67AAFZ8UuI) | 3:04 | 2022-04-14 | 2022-07-29 |
 | [TELL ME THAT YOU’RE OKAY](https://open.spotify.com/track/1sHJXrHy6zDP6V2gwJVZyk) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [MY BRAIN AFTER THERAPY](https://open.spotify.com/album/7seqztJ0fn7NCs4YD7cCag) | 3:04 | 2022-07-21 | 2023-01-27 |
@@ -735,7 +737,7 @@
 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 | 2024-03-15 |  |
 | [What's Up?](https://open.spotify.com/track/46BV2Stvj9yJGw8gHAwHAU) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Graduating Life](https://open.spotify.com/album/7G2sRHP0Xd28Dx4OKjBkqg) | 2:21 | 2022-08-27 | 2022-11-18 |
 | [When I Had Hope, I Had It All](https://open.spotify.com/track/1Fw8VCVNNmbwJAR76dlCrS) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Nothing Lasts Forever](https://open.spotify.com/album/41wEFMhRkY1JagcOzqlDvI) | 3:52 | 2024-03-15 |  |
-| [When The Devil Speaks…](https://open.spotify.com/track/2FKnNu9PmgcUSXXBgR2phR) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [When The Devil Speaks…](https://open.spotify.com/album/3sQh8PifUrBSJCg0x5YZLG) | 3:02 | 2023-12-08 |  |
+| [When The Devil Speaks…](https://open.spotify.com/track/2FKnNu9PmgcUSXXBgR2phR) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [When The Devil Speaks…](https://open.spotify.com/album/3sQh8PifUrBSJCg0x5YZLG) | 3:02 | 2023-12-08 | 2024-04-12 |
 | [WHEN THE MUSIC STOPS](https://open.spotify.com/track/49T4ZaBd8G932neUPU9AWB) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHEN THE MUSIC STOPS](https://open.spotify.com/album/2PFcE83bDCmLKylmIRB90J) | 3:13 | 2024-02-09 |  |
 | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A) | 5:00 | 2024-01-26 |  |
 | [Wires Crossed](https://open.spotify.com/track/09ptkV4dUhzP9mAZP0QjvI) | [Cowboy Mugshot](https://open.spotify.com/artist/5thsoHnpZYZq587Po0NgUI) | [Wires Crossed](https://open.spotify.com/album/2xfITxrVpJ2huuzLOoGccV) | 2:46 | 2022-08-27 | 2022-09-30 |
@@ -749,6 +751,7 @@
 | [Would You Come To My Funeral](https://open.spotify.com/track/5EXsCJyxIM8Mv1KruQgsq9) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Would You Come To My Funeral](https://open.spotify.com/album/44DQfthWsCBD3K5wCTDjq9) | 4:32 | 2023-09-22 | 2023-11-17 |
 | [WTF Do I Know](https://open.spotify.com/track/37PJvlIfYWqEX6fgjHlnTf) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:51 | 2022-03-08 | 2022-03-09 |
 | [WW3](https://open.spotify.com/track/7cL0pp1OpgcAUQfS2CsQ23) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k), [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [WW3](https://open.spotify.com/album/27Q8KrXPXir8nSlqZfMB7h) | 2:32 | 2022-02-11 | 2022-07-22 |
+| [Yellow \- Spotify Singles](https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Yellow \- Spotify Singles](https://open.spotify.com/album/6lzLiRiEqZHySJVfbv86i0) | 4:29 | 2024-04-12 |  |
 | [Yoke](https://open.spotify.com/track/6AUifRe9r44yBbsF2SeuqK) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE) | [The Rot That Grows Inside My Chest](https://open.spotify.com/album/6Y0Gh7nGWrVw1CfA4fDWIV) | 2:34 | 2023-10-13 |  |
 | [You](https://open.spotify.com/track/66oW04yMlOStt2Pag2ImVV) | [LAYNE](https://open.spotify.com/artist/2rRf5V0hAZgB3yLGTE3T69) | [You](https://open.spotify.com/album/3vBTP8eXrLpj4zUzCghnnB) | 2:38 | 2022-03-18 | 2022-04-01 |
 | [You and I](https://open.spotify.com/track/4xJWfVNC52PSK5ObyOKQsw) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [White Noise \(Deluxe Version\)](https://open.spotify.com/album/7za8qVGR3wUEJ01pLFcnPB) | 4:30 | 2022-10-20 | 2022-11-01 |

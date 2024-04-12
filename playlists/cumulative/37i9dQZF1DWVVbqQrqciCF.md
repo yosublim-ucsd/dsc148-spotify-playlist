@@ -4,12 +4,13 @@
 
 > コンポーザーのAyase、ボーカルのikuraからなる「小説を音楽にするユニット」、YOASOBIの楽曲をひとつのプレイリストに。
 
-57 songs - 4 hr 25 min
+62 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adventure](https://open.spotify.com/track/69O0RdcJkH7eimOTXw41L7) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Adventure](https://open.spotify.com/album/4h9tiuZQB6hXz68dzZED6g) | 3:20 | 2024-02-15 |  |
 | [Biri\-Biri](https://open.spotify.com/track/3X9N36jB8FtTkzTCkIFi4u) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Biri\-Biri](https://open.spotify.com/album/1hxB0L2PCz5d5jQl2s39Sz) | 3:07 | 2023-11-17 |  |
+| [Biri\-Biri \- English Version](https://open.spotify.com/track/1oZ8KYg3WAt9PtBQkWhWBr) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Biri\-Biri](https://open.spotify.com/album/1hxB0L2PCz5d5jQl2s39Sz) | 3:07 | 2024-04-11 |  |
 | [Blue](https://open.spotify.com/track/3eGKvQ0eYpyl28lMo8ZT93) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Blue](https://open.spotify.com/album/142pAHbasPxFPBKbS5wsb3) | 4:08 | 2022-11-17 |  |
 | [Comet](https://open.spotify.com/track/7LrT6Lpn0hOQ58pbBP6D2M) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE](https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R) | 3:33 | 2022-11-17 |  |
 | [Encore](https://open.spotify.com/track/0O0RP8iesLTKxhlEY4MKX6) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE](https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R) | 4:30 | 2022-11-17 |  |
@@ -24,10 +25,14 @@
 | [Into The Night](https://open.spotify.com/track/0JyJVPi4IBCgj2wTRKb0yN) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Into the Night](https://open.spotify.com/album/6MZSQuewUgYmyFGvN5S0rz) | 4:22 | 2022-11-17 |  |
 | [Just a Little Step](https://open.spotify.com/track/3UCbRuJbsnEZeGLXefqeow) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 3:39 | 2022-11-17 |  |
 | [Love Letter](https://open.spotify.com/track/325iR7dCw6hNekr48puGdG) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 3:30 | 2022-11-17 |  |
+| [Loving You](https://open.spotify.com/track/7nN7TkxDGH8DeXs2Vy67nv) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 3:37 | 2024-04-11 |  |
+| [manimani](https://open.spotify.com/track/0JXxrmM7bHmpwHczGTjCUm) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 4:16 | 2024-04-11 |  |
+| [Mister](https://open.spotify.com/track/6sHinRfFGZcxeTTdCvxgCG) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 3:04 | 2024-04-11 |  |
 | [Monster](https://open.spotify.com/track/7M9lc2hHXKQobbHQ31Yg2v) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Monster](https://open.spotify.com/album/3GUW4WpvJPXgzsOW1hVifv) | 3:25 | 2022-11-17 |  |
 | [RGB](https://open.spotify.com/track/55O5PJor96At64xOQSWnkc) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [RGB](https://open.spotify.com/album/1lFZcTOrL1ZukflkJg9zX2) | 3:42 | 2022-11-17 |  |
 | [Romance](https://open.spotify.com/track/0dSPApaBoWn6SA4GKWq9QK) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 2](https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd) | 2:46 | 2022-11-17 |  |
 | [Romance](https://open.spotify.com/track/6Kh3obD8LG4yeXxQDhr6Vr) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 2:46 | 2022-11-17 |  |
+| [Seventeen](https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 3:19 | 2024-04-11 |  |
 | [The Blessing](https://open.spotify.com/track/4KFvsGchCp4c7zphBlPxz3) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 3:12 | 2022-11-17 |  |
 | [The Brave](https://open.spotify.com/track/2C0zR1j4Xd5JVSrMABMFSG) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [The Brave](https://open.spotify.com/album/1LIrHjmcINgiNpzx1NvbhB) | 3:14 | 2023-11-23 |  |
 | [The Swallow \(feat\. Midories\)](https://open.spotify.com/track/6oexafIxFkZaEEcfJCsx4y) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [midories](https://open.spotify.com/artist/71hoL3Rlmuptv4h4g2bJxU) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 3:37 | 2022-11-17 |  |

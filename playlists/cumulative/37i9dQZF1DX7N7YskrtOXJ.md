@@ -4,7 +4,7 @@
 
 > La fiesta se enciende con cumbia.
 
-178 songs - 10 hr 51 min
+179 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bebe Dame / Pobre Corazón](https://open.spotify.com/track/3tggXkSVsQG4yEIfP3obT0) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Bebe Dame / Pobre Corazón](https://open.spotify.com/album/1SMWZi4LNX3jILzjA9jvmQ) | 4:28 | 2023-08-25 |  |
 | [Bombón Asesino](https://open.spotify.com/track/1L1OiIKida2TyKsb310EAg) | [Combo Ginebra](https://open.spotify.com/artist/2L5b3yHGpn7RQi4wd3vcU2) | [Cumbias de Sangre y Oro](https://open.spotify.com/album/1pxG4hB9LuTke7H7GnrBtm) | 4:06 | 2023-08-25 | 2024-02-28 |
 | [Boquita De Caramelo](https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ) | [Los Vikings 5](https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7) | [Iconos Kitsch](https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME) | 3:29 | 2024-02-27 | 2024-04-02 |
+| [Borrachito](https://open.spotify.com/track/7yAV45QuPVvzPfQob431qP) | [Organización X](https://open.spotify.com/artist/4LlbFyAhhOYvtbluyFiiyq) | [Borrachito](https://open.spotify.com/album/6eONEPTIHy682tfjvkgRUI) | 2:40 | 2024-03-29 |  |
 | [Borracho y Loco](https://open.spotify.com/track/48ZmRcUdWGJrzn1xfMEHup) | [El Bloque 8](https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9) | [Amor y Caos](https://open.spotify.com/album/4dxLAaULsk0CzzHbkM5sqX) | 3:14 | 2023-08-25 | 2024-02-28 |
 | [Báilalo](https://open.spotify.com/track/6alTFoL40Dus2VxxlDDuIP) | [Garras de Amor](https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a) | [Garras de Amor](https://open.spotify.com/album/6NYscBO59Jo5Y5aRYno3cZ) | 3:49 | 2024-02-27 |  |
 | [Callejero](https://open.spotify.com/track/2ZzEsTTMNNVZ7x5mQ7O1xE) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [Afrorumba Chilenera](https://open.spotify.com/album/334OZeCYbDhSwj5mP9DD03) | 3:29 | 2023-08-25 | 2024-02-28 |
@@ -110,7 +111,7 @@
 | [No Quiero Dormir](https://open.spotify.com/track/7f7xS49CafNLc5nInF6Lyb) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Inmenso](https://open.spotify.com/album/2roYPReN5FJxE0iGXpkD21) | 3:34 | 2024-02-27 |  |
 | [No Te Creas Tan Importante \- En Vivo](https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [No Te Creas Tan Importante \(En Vivo\)](https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s) | 3:59 | 2023-08-25 |  |
 | [No te lo puedo creer](https://open.spotify.com/track/2mtlU0zHtox2WJPMdfZzyr) | [La Rosa](https://open.spotify.com/artist/2ygN6IDI4WyTRlIk2czz6i) | [La Pasión Florece](https://open.spotify.com/album/3ajxuhibornCsqd160ASSU) | 3:48 | 2023-08-25 |  |
-| [No Te Marches](https://open.spotify.com/track/2p6NdfaJywYmZOfGsQvzXQ) | [Potencia](https://open.spotify.com/artist/26SwMaLuxWolyBYLyjG8NQ) | [Destruye](https://open.spotify.com/album/696bj0AMsu8y5wED4IJCVC) | 3:08 | 2024-02-27 |  |
+| [No Te Marches](https://open.spotify.com/track/2p6NdfaJywYmZOfGsQvzXQ) | [Potencia](https://open.spotify.com/artist/26SwMaLuxWolyBYLyjG8NQ) | [Destruye](https://open.spotify.com/album/696bj0AMsu8y5wED4IJCVC) | 3:08 | 2024-02-27 | 2024-04-12 |
 | [No te vi más](https://open.spotify.com/track/3b5urxTG2NZVjoHdFWxtsk) | [La Rosa](https://open.spotify.com/artist/2ygN6IDI4WyTRlIk2czz6i) | [Perfume De Cumbia](https://open.spotify.com/album/0NQV1IrZHzey6XqYs3Iyie) | 2:57 | 2024-02-27 |  |
 | [No Tomo Más](https://open.spotify.com/track/2bNO2GXxVXQUmdEc3ldjly) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Prohibido](https://open.spotify.com/album/2yK1FtavuzNVvyNy6PbsnM) | 4:24 | 2023-08-25 | 2023-09-09 |
 | [Nunca](https://open.spotify.com/track/41KXHfwXP2gaovUW1Tvcue) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Nunca](https://open.spotify.com/album/7p0oT5v3N8KZSYbvikcZMd) | 3:13 | 2023-11-25 | 2024-02-28 |
@@ -125,7 +126,7 @@
 | [Pibe Cantina](https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Cumbia Villera](https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd) | 3:38 | 2024-02-27 |  |
 | [Pobre Corazón \- En Vivo](https://open.spotify.com/track/1AX4aybSRyXHWrjg27wTFE) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Pobre Corazón \(En Vivo\)](https://open.spotify.com/album/7kNdveFXAKstJ8iNMrwq4Z) | 3:18 | 2023-08-25 |  |
 | [Porque te amo](https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor](https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06) | 3:53 | 2023-08-25 |  |
-| [Porque Te Quiero](https://open.spotify.com/track/6cvUP6WuCTW9urJC8EXnoH) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c), [Alegrìa](https://open.spotify.com/artist/0SWWoCXkmvMfBDggBoOjmV) | [El Legado](https://open.spotify.com/album/44hZw1qLhOalSHhS6iVIZH) | 1:17 | 2024-02-27 |  |
+| [Porque Te Quiero](https://open.spotify.com/track/6cvUP6WuCTW9urJC8EXnoH) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c), [Alegrìa](https://open.spotify.com/artist/0SWWoCXkmvMfBDggBoOjmV) | [El Legado](https://open.spotify.com/album/44hZw1qLhOalSHhS6iVIZH) | 1:17 | 2024-02-27 | 2024-04-12 |
 | [Prisionera](https://open.spotify.com/track/1aQsmA0kB65bp19qG8WfxD) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [15Añero](https://open.spotify.com/album/5n9sH3qpY2tYoe8mJ5UvDk) | 3:13 | 2024-02-27 |  |
 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 | 2024-02-27 |  |
 | [Que Calor](https://open.spotify.com/track/5okavJ731DnmenoazNvinG) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [¿Qué No Vale Nada?](https://open.spotify.com/album/0dFEatxbKVO8fTRu8wghac) | 4:04 | 2023-08-25 | 2024-02-28 |
@@ -175,7 +176,7 @@
 | [Volvemos a Caer \(Sesión Cajón del Maipo\)](https://open.spotify.com/track/4P8DwlDIgkv5J5SafRn4Ni) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [Gonzalo Yañez](https://open.spotify.com/artist/0IbRsXxQF51TMsTaVNfeqA) | [Sesión Cajón del Maipo \(En Vivo\)](https://open.spotify.com/album/3GezkvFcPKrSdRrRbtk9Ry) | 3:18 | 2023-08-25 | 2024-02-28 |
 | [Vámonos Pal Baile](https://open.spotify.com/track/3Tj3dni2m2aIz6N7L2dugU) | [Sonora 5 Estrellas](https://open.spotify.com/artist/0oGbFTtR8UqMpgDFLpFKc1) | [Vámonos Pal Baile](https://open.spotify.com/album/2GrjFpyyM2d1cUFOXGSNvO) | 2:33 | 2023-08-25 | 2024-02-28 |
 | [Y Dime](https://open.spotify.com/track/5be0AiqAcjVqapIqvVeP38) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:15 | 2023-08-25 |  |
-| [Y Me Bebí Tu Recuerdo](https://open.spotify.com/track/2yEbq1d68QtkwkGFfDpMbr) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 4:06 | 2024-02-27 | 2024-04-10 |
+| [Y Me Bebí Tu Recuerdo](https://open.spotify.com/track/2yEbq1d68QtkwkGFfDpMbr) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 4:06 | 2024-02-27 |  |
 | [Ya llegó el sabor](https://open.spotify.com/track/5BG9WgcEpgdC8dLZIA8CTj) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor](https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06) | 3:37 | 2023-08-25 |  |
 | [Ya No Vuelvas \(Versión Cuarteto\)](https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Ya No Vuelvas \(Versión Cuarteto\)](https://open.spotify.com/album/2Tuphpb4jfXRwFYTxGXCSs) | 3:24 | 2023-08-25 |  |
 | [Ya Te Olvide](https://open.spotify.com/track/5pGrxPhRB7Y8dushD7HGOi) | [Luis Lambis](https://open.spotify.com/artist/6ouwZ3vbVnP5WIwEMurzJ5) | [Fiesta a la Colombiana](https://open.spotify.com/album/0qo1x937c8OKKBaoA7LCMg) | 3:44 | 2023-08-25 | 2023-09-27 |

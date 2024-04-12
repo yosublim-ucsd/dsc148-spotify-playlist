@@ -1,12 +1,12 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 97810,
+  "num_followers": 97893,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzBiNzExNjU4MWE3MjQ4ZTFjYzdhODhkNzI1M2Y1MTliODVkMTFi",
+  "snapshot_id": "MTcxMDkzNzkxNCwwMDAwMDAwMDkzNWE1MTc3ZDBhNmQxODBjOGEzYTQxMjEyN2RkZmQx",
   "tracks": [
     {
       "added_at": "2024-03-20 12:31:54",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "Eastern Sounds (Remastered 2023)",
-        "url": "https://open.spotify.com/album/7Dd9kbH46vk4fIA9esp3rf"
-      },
-      "artists": [
-        {
-          "name": "Yusef Lateef",
-          "url": "https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq"
-        }
-      ],
-      "duration_ms": 297356,
-      "name": "Don't Blame Me - Remastered 2023",
-      "url": "https://open.spotify.com/track/47qMNoveAg2Ek9LtURD3mt"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
         "name": "A Love Supreme",
         "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 437840,
       "name": "A Love Supreme, Pt. II - Resolution",
       "url": "https://open.spotify.com/track/7unF2ARDGldwWxZWCmlwDM"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
+        "name": "Eastern Sounds (Remastered 2023)",
+        "url": "https://open.spotify.com/album/7Dd9kbH46vk4fIA9esp3rf"
+      },
+      "artists": [
+        {
+          "name": "Yusef Lateef",
+          "url": "https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq"
+        }
+      ],
+      "duration_ms": 297356,
+      "name": "Don't Blame Me - Remastered 2023",
+      "url": "https://open.spotify.com/track/47qMNoveAg2Ek9LtURD3mt"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "Nearness Of You: The Ballad Book",
-        "url": "https://open.spotify.com/album/51XWcgZLxZSpBCcrsI8YFY"
-      },
-      "artists": [
-        {
-          "name": "Michael Brecker",
-          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
-        }
-      ],
-      "duration_ms": 383626,
-      "name": "Midnight Mood",
-      "url": "https://open.spotify.com/track/1PMdnh8JihyvccTeC16XwB"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 266706,
       "name": "I Remember You",
       "url": "https://open.spotify.com/track/5eMz1VtT2zNtsyh1bDgDhb"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
+        "name": "Nearness Of You: The Ballad Book",
+        "url": "https://open.spotify.com/album/51XWcgZLxZSpBCcrsI8YFY"
+      },
+      "artists": [
+        {
+          "name": "Michael Brecker",
+          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
+        }
+      ],
+      "duration_ms": 383626,
+      "name": "Midnight Mood",
+      "url": "https://open.spotify.com/track/1PMdnh8JihyvccTeC16XwB"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
+        "name": "Page One",
+        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 361773,
+      "name": "Recorda Me",
+      "url": "https://open.spotify.com/track/3KUSSxjujFcEGhnsm0qeDo"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
         "name": "Blowing In From Chicago",
         "url": "https://open.spotify.com/album/3vkVhAKhudQjsjLchc8RU6"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 356746,
       "name": "Bo-Fill - Rudy Van Gelder 24Bit Mastering",
       "url": "https://open.spotify.com/track/1VXvuU6StB2FGbiqixiwN5"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
-        "name": "Page One",
-        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 361773,
-      "name": "Recorda Me",
-      "url": "https://open.spotify.com/track/3KUSSxjujFcEGhnsm0qeDo"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "Wailing With Lou",
-        "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 380240,
-      "name": "Old Folks",
-      "url": "https://open.spotify.com/track/6M55CSNeF4H7y0uEdf2TNH"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
         "name": "Art Pepper + Eleven: Modern Jazz Classics",
         "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 210533,
       "name": "Walkin' Shoes",
       "url": "https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
+        "name": "Wailing With Lou",
+        "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 380240,
+      "name": "Old Folks",
+      "url": "https://open.spotify.com/track/6M55CSNeF4H7y0uEdf2TNH"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "Wrapped Tight",
-        "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Wrapped Tight",
-      "url": "https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
         "name": "The Magnificent Charlie Parker",
         "url": "https://open.spotify.com/album/3fA0ldo788no64soavIbL3"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 162805,
       "name": "Au Privave - Take 3 Master",
       "url": "https://open.spotify.com/track/6bwRCPiP5Y4Y9RhdTOzTGD"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
+        "name": "Wrapped Tight",
+        "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Wrapped Tight",
+      "url": "https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "Presenting The Gerry Mulligan Sextet",
-        "url": "https://open.spotify.com/album/52A8U2TeGb5u9NeXNSTs4Y"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 323373,
-      "name": "Everything Happens To Me",
-      "url": "https://open.spotify.com/track/2m8vNmDGz5GCGLxJfWIsJI"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
         "name": "Everybody Knows",
         "url": "https://open.spotify.com/album/6kKpF48UR3DWYHLwbfvZ3C"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 184280,
       "name": "A Flower Is A Lovesome Thing",
       "url": "https://open.spotify.com/track/3dblN4E9Dy4cum70D0Fy2L"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
+        "name": "Presenting The Gerry Mulligan Sextet",
+        "url": "https://open.spotify.com/album/52A8U2TeGb5u9NeXNSTs4Y"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 323373,
+      "name": "Everything Happens To Me",
+      "url": "https://open.spotify.com/track/2m8vNmDGz5GCGLxJfWIsJI"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "Art Pepper + Eleven: Modern Jazz Classics",
-        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 192493,
-      "name": "Opus De Funk",
-      "url": "https://open.spotify.com/track/3tj4JjIIW5gaQ6yi6Qmr9j"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 285666,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/1Ju8QHOsXPehuL2pCPjXA0"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
+        "name": "Art Pepper + Eleven: Modern Jazz Classics",
+        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 192493,
+      "name": "Opus De Funk",
+      "url": "https://open.spotify.com/track/3tj4JjIIW5gaQ6yi6Qmr9j"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "You'd Be So Nice To Come Home To",
-      "url": "https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
         "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
         "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 355546,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "You'd Be So Nice To Come Home To",
+      "url": "https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
+        "name": "Fuchsia Swing Song",
+        "url": "https://open.spotify.com/album/0tsowrhCb9ezNEbhG7Xy0W"
+      },
+      "artists": [
+        {
+          "name": "Sam Rivers",
+          "url": "https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5"
+        }
+      ],
+      "duration_ms": 372306,
+      "name": "Beatrice",
+      "url": "https://open.spotify.com/track/3s5v1r9kSE0mbLUu3mAagm"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
         "name": "The Bad Plus Joshua Redman",
         "url": "https://open.spotify.com/album/2tzJagRYnAeB9j65wJx2j3"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 412613,
       "name": "As This Moment Slips Away",
       "url": "https://open.spotify.com/track/5CcAkJMkqpx7vwyYq1CQQd"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
-        "name": "Fuchsia Swing Song",
-        "url": "https://open.spotify.com/album/0tsowrhCb9ezNEbhG7Xy0W"
-      },
-      "artists": [
-        {
-          "name": "Sam Rivers",
-          "url": "https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5"
-        }
-      ],
-      "duration_ms": 372306,
-      "name": "Beatrice",
-      "url": "https://open.spotify.com/track/3s5v1r9kSE0mbLUu3mAagm"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
-      },
-      "artists": [
-        {
-          "name": "Warne Marsh",
-          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Quintessence - Remastered",
-      "url": "https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
         "name": "The Blues And The Abstract Truth",
         "url": "https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 383400,
       "name": "Yearnin'",
       "url": "https://open.spotify.com/track/4L102q3UPh5dyJDUeuPVjY"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
+      },
+      "artists": [
+        {
+          "name": "Warne Marsh",
+          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Quintessence - Remastered",
+      "url": "https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "Further Definitions",
-        "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
-      },
-      "artists": [
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 320346,
-      "name": "Blue Star",
-      "url": "https://open.spotify.com/track/7KmeTGyGCdwcJFuA6rAEi9"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
         "name": "Page One",
         "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 548960,
       "name": "La Mesha",
       "url": "https://open.spotify.com/track/44g1MkUneM54KqxLyfWSr9"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
+        "name": "Further Definitions",
+        "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
+      },
+      "artists": [
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 320346,
+      "name": "Blue Star",
+      "url": "https://open.spotify.com/track/7KmeTGyGCdwcJFuA6rAEi9"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 340173,
-      "name": "You've Come Home",
-      "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
         "name": "Stan Getz Quartets (Remastered)",
         "url": "https://open.spotify.com/album/0pBFxXRqZcCeOg8LLB50jg"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 173360,
       "name": "Too Marvelous For Words",
       "url": "https://open.spotify.com/track/33cor5tMENC0WEuiL3d8FH"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 340173,
+      "name": "You've Come Home",
+      "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
-        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 336680,
-      "name": "Chicago Calling - Remastered 2006/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7v9gdHQr7giAb3pTI6x805"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
         "name": "A Stranger In Town",
         "url": "https://open.spotify.com/album/7bzD7vIdt5nxTEJe8F6Y2k"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 582133,
       "name": "The Song Is You",
       "url": "https://open.spotify.com/track/2BDZCdN2zLYjfbZ3WdqZBC"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
+        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
+        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "duration_ms": 336680,
+      "name": "Chicago Calling - Remastered 2006/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7v9gdHQr7giAb3pTI6x805"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -1975,18 +1975,18 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "Analog Man",
-        "url": "https://open.spotify.com/album/1CO7OMJS4alGJG1gKOnKlP"
+        "name": "Tex Book Tenor (Remastered)",
+        "url": "https://open.spotify.com/album/0hmnZqB7XUdFhOXqW7Ivgl"
       },
       "artists": [
         {
-          "name": "Ernie Watts",
-          "url": "https://open.spotify.com/artist/2savq7Id5eDV0DVsoug0wH"
+          "name": "Booker Ervin",
+          "url": "https://open.spotify.com/artist/3ZppcUE7tHnE6SzUR4ipSy"
         }
       ],
-      "duration_ms": 605013,
-      "name": "Joshua",
-      "url": "https://open.spotify.com/track/1F8VmUxEtg73rrugqyMUqU"
+      "duration_ms": 458560,
+      "name": "Den Tex - 2005 Remastered",
+      "url": "https://open.spotify.com/track/3HPiRAD1iqEdjCWk4MrrFy"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -2007,18 +2007,18 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "Tex Book Tenor (Remastered)",
-        "url": "https://open.spotify.com/album/0hmnZqB7XUdFhOXqW7Ivgl"
+        "name": "Analog Man",
+        "url": "https://open.spotify.com/album/1CO7OMJS4alGJG1gKOnKlP"
       },
       "artists": [
         {
-          "name": "Booker Ervin",
-          "url": "https://open.spotify.com/artist/3ZppcUE7tHnE6SzUR4ipSy"
+          "name": "Ernie Watts",
+          "url": "https://open.spotify.com/artist/2savq7Id5eDV0DVsoug0wH"
         }
       ],
-      "duration_ms": 458560,
-      "name": "Den Tex - 2005 Remastered",
-      "url": "https://open.spotify.com/track/3HPiRAD1iqEdjCWk4MrrFy"
+      "duration_ms": 605013,
+      "name": "Joshua",
+      "url": "https://open.spotify.com/track/1F8VmUxEtg73rrugqyMUqU"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "Moving In",
-        "url": "https://open.spotify.com/album/6ApnelkoRtJZEQjyORY77D"
-      },
-      "artists": [
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        }
-      ],
-      "duration_ms": 463640,
-      "name": "The Forest",
-      "url": "https://open.spotify.com/track/5IxPx8zwI30weoTTaNu2vk"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
       },
@@ -2251,18 +2235,18 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "Quartets",
-        "url": "https://open.spotify.com/album/13sMOpWaJbtf0qNLzBN2Yk"
+        "name": "Moving In",
+        "url": "https://open.spotify.com/album/6ApnelkoRtJZEQjyORY77D"
       },
       "artists": [
         {
-          "name": "Charles Lloyd",
-          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
         }
       ],
-      "duration_ms": 444840,
-      "name": "Haghia Sophia",
-      "url": "https://open.spotify.com/track/3koWLVebFC6KtgEQ5ZMOgd"
+      "duration_ms": 463640,
+      "name": "The Forest",
+      "url": "https://open.spotify.com/track/5IxPx8zwI30weoTTaNu2vk"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -2279,6 +2263,22 @@
       "duration_ms": 223960,
       "name": "A Side Order of Hijiki",
       "url": "https://open.spotify.com/track/2ZdIftmBJqA88uoE8H1wZq"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
+        "name": "Quartets",
+        "url": "https://open.spotify.com/album/13sMOpWaJbtf0qNLzBN2Yk"
+      },
+      "artists": [
+        {
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+        }
+      ],
+      "duration_ms": 444840,
+      "name": "Haghia Sophia",
+      "url": "https://open.spotify.com/track/3koWLVebFC6KtgEQ5ZMOgd"
     },
     {
       "added_at": "2024-03-20 12:31:54",
@@ -2331,54 +2331,6 @@
     {
       "added_at": "2024-03-20 12:31:54",
       "album": {
-        "name": "Contemporary Jazz",
-        "url": "https://open.spotify.com/album/3NiRWYhEKaA3Keiqw8A9SJ"
-      },
-      "artists": [
-        {
-          "name": "Branford Marsalis Quartet",
-          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
-        }
-      ],
-      "duration_ms": 962320,
-      "name": "Elysium",
-      "url": "https://open.spotify.com/track/0ypNrOIuiIpusrTVLdtRPc"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
-        "name": "The Sirens",
-        "url": "https://open.spotify.com/album/23gMMqGims4UxU7Q9fzUDK"
-      },
-      "artists": [
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        }
-      ],
-      "duration_ms": 504266,
-      "name": "Kalypso",
-      "url": "https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 497906,
-      "name": "Vertigo - Remastered",
-      "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
-    },
-    {
-      "added_at": "2024-03-20 12:31:54",
-      "album": {
         "name": "Triptykon",
         "url": "https://open.spotify.com/album/2YHM6e7Qd12cQwHvFnrBfb"
       },
@@ -2399,6 +2351,54 @@
       "duration_ms": 447600,
       "name": "J.E.V.",
       "url": "https://open.spotify.com/track/4o16N2cUPKqIzDikfo79Eg"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 497906,
+      "name": "Vertigo - Remastered",
+      "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
+        "name": "The Sirens",
+        "url": "https://open.spotify.com/album/23gMMqGims4UxU7Q9fzUDK"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 504266,
+      "name": "Kalypso",
+      "url": "https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ"
+    },
+    {
+      "added_at": "2024-03-20 12:31:54",
+      "album": {
+        "name": "Contemporary Jazz",
+        "url": "https://open.spotify.com/album/3NiRWYhEKaA3Keiqw8A9SJ"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis Quartet",
+          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
+        }
+      ],
+      "duration_ms": 962320,
+      "name": "Elysium",
+      "url": "https://open.spotify.com/track/0ypNrOIuiIpusrTVLdtRPc"
     },
     {
       "added_at": "2024-03-20 12:31:54",

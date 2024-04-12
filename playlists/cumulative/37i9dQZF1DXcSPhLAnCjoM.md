@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> Joseph Kamel & Julien Doré au top des 50 hits de variété française du moment.
+> Vernis Rouge au top des 50 hits de variété française du moment.
 
-123 songs - 6 hr 25 min
+124 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Stigmate \- Radio Edit](https://open.spotify.com/track/1CCglTzgQP2UCQtRwkpHOc) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Stigmate \(Radio Edit\)](https://open.spotify.com/album/7qVz48nAVwSdEje5MUTqTf) | 2:25 | 2024-01-25 | 2024-02-09 |
 | [Ta peine](https://open.spotify.com/track/0qp0G8VtnYHmLnbCu6lUUQ) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Ta peine](https://open.spotify.com/album/2vN2COSOLbR6pMi4Et7k7R) | 2:44 | 2024-02-29 |  |
 | [Tara](https://open.spotify.com/track/4DokPvEWGHqqFIi4uWnYyh) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Comme je suis](https://open.spotify.com/album/50MyaLvIiDzLntnyJoihFW) | 2:32 | 2024-01-18 |  |
-| [Tout ce que l'on dit mais qu'on ne fait pas](https://open.spotify.com/track/3RKi6R7lFvPjLgIkdCGLiU) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Vivre](https://open.spotify.com/album/59u95OSY4puzu4a5Jmymfl) | 3:20 | 2024-03-14 |  |
+| [Tout ce que l'on dit \(Mais qu'on ne fait pas\) \- Edit](https://open.spotify.com/track/0hsCfpvzUowipx8KQcsWuu) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Vivre](https://open.spotify.com/album/5wFGo80kX0WaAkn4sGocyb) | 3:04 | 2024-04-11 |  |
+| [Tout ce que l'on dit mais qu'on ne fait pas](https://open.spotify.com/track/3RKi6R7lFvPjLgIkdCGLiU) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Vivre](https://open.spotify.com/album/59u95OSY4puzu4a5Jmymfl) | 3:20 | 2024-03-14 | 2024-04-12 |
 | [Vivre](https://open.spotify.com/track/7lnokq12Q0MzqcrA6GN62q) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Vivre](https://open.spotify.com/album/6jDC7d54esC2NZaTtvEOcR) | 2:26 | 2023-09-28 | 2024-02-16 |
 | [Vivre](https://open.spotify.com/track/2Vtq22cAI0Q6VuzYYsvLHV) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Vivre](https://open.spotify.com/album/3UsNSZZNOMGY1tav0ncHzW) | 3:56 | 2024-01-04 | 2024-01-26 |
 | [XS](https://open.spotify.com/track/08Jrszz3ir62gPhy9wfU4i) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [XS](https://open.spotify.com/album/52JamK8WdjuILo8uhev83g) | 2:36 | 2023-09-28 | 2024-02-02 |

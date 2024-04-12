@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-212 songs - 19 hr 3 min
+213 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,8 @@
 | [Soul](https://open.spotify.com/track/5RJHpBHM1gBJYrB9YlFnNG) | [Pomella](https://open.spotify.com/artist/1solOdc0xZiJ2nDl6vbH9v) | [Soul](https://open.spotify.com/album/1orZtgQNW26jOxSDSsZ9jK) | 2:55 | 2022-07-11 | 2022-11-19 |
 | [Soul](https://open.spotify.com/track/5W8tsQTQMH1aY0Bk8Pb2cA) | [Pomella](https://open.spotify.com/artist/1solOdc0xZiJ2nDl6vbH9v) | [Soul](https://open.spotify.com/album/4MejpAJMshnWw5kewZrKoh) | 2:56 | 2022-12-22 | 2023-03-31 |
 | [String Theory](https://open.spotify.com/track/50mVZbBcr6rYdt45OEPYlN) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [String Theory](https://open.spotify.com/album/64nnxFO6ZeVn19b7fGqOgN) | 4:21 | 2022-07-05 | 2022-11-26 |
-| [Sweat](https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx) | [Sweat](https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU) | 2:12 | 2024-01-26 |  |
+| [Sweat](https://open.spotify.com/track/5SzPoxOGAl1mGWsT36KLcC) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx) | [Sweat](https://open.spotify.com/album/4d36v0DicdIJlQPPmE6vXP) | 2:12 | 2024-03-20 |  |
+| [Sweat](https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx) | [Sweat](https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU) | 2:12 | 2024-01-26 | 2024-04-12 |
 | [Switch Play](https://open.spotify.com/track/095b9aJegbMOGNFHFAUGEC) | [D72](https://open.spotify.com/artist/6LwMT7S1AQrvSORZshZ9gt) | [Switch Play](https://open.spotify.com/album/6UVsb3uNatjZclVfNF90OG) | 3:34 | 2022-07-05 | 2022-08-11 |
 | [Synergy \- Nonameleft Remix](https://open.spotify.com/track/3fPucR04bxFLQgD8qHl8Pq) | [Flanko](https://open.spotify.com/artist/45g5ClZMjUBX1qwQBSs843), [NoNameLeft](https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT) | [Synergy](https://open.spotify.com/album/15PPWV7GO8IGjqrKHDW1dS) | 6:50 | 2022-07-11 | 2022-07-13 |
 | [Take You Higher](https://open.spotify.com/track/1UdP4gLeahMZAqZyoNnDBN) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci) | [Take You Higher](https://open.spotify.com/album/5A7VgzMdiSsy3GFIhwGwLA) | 3:34 | 2023-10-13 | 2023-11-17 |

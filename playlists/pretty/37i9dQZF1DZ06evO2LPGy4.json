@@ -1,12 +1,12 @@
 {
-  "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 424598,
+  "description": "This Is Gerardo Ortiz. Los temas esenciales, todos en una lista.",
+  "num_followers": 424665,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjdhNmU3Mzk3MzE2ZTcyN2Y2ZTIxZDNmYjg4YTFlYzUzZmUwN2My",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMGVlMWE0M2I4MjlkMDVkZWY4MTExYmM2OTdhYzQ5ZmYw",
   "tracks": [
     {
       "added_at": null,
@@ -279,26 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haciendo Magia",
-        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 156597,
-      "name": "Pasado Pisado",
-      "url": "https://open.spotify.com/track/1AdTZFQgPAOc5DlO86ww0x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Andamos Recio",
         "url": "https://open.spotify.com/album/5OU2nDge99Voto4N4Vl6yS"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 152200,
       "name": "Andamos Recio",
       "url": "https://open.spotify.com/track/4x02u1dxnmoeR4GHOAmuXG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Haciendo Magia",
+        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 156597,
+      "name": "Pasado Pisado",
+      "url": "https://open.spotify.com/track/1AdTZFQgPAOc5DlO86ww0x"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Primer Ministro",
+        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 114120,
+      "name": "El Primer Ministro",
+      "url": "https://open.spotify.com/track/33fgAYNJAmbNoT76SLiOL1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 180137,
       "name": "En el Pedir Est\u00e1 el Dar",
       "url": "https://open.spotify.com/track/6TwhEVtDU2LZFnkwEPrqed"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Primer Ministro",
-        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 114120,
-      "name": "El Primer Ministro",
-      "url": "https://open.spotify.com/track/33fgAYNJAmbNoT76SLiOL1"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Archivos de Mi Vida",
+        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Archivos de Mi Vida",
+      "url": "https://open.spotify.com/track/3Gq82NBEBkmd8l3OKiGJX7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Pelo Chino",
         "url": "https://open.spotify.com/album/4lbTVQ0Lntlp4uoIQEX9v7"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 180324,
       "name": "El Pelo Chino",
       "url": "https://open.spotify.com/track/5aEB9XqxVvaYZMtjVL9n9q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Archivos de Mi Vida",
-      "url": "https://open.spotify.com/track/3Gq82NBEBkmd8l3OKiGJX7"
     },
     {
       "added_at": null,
@@ -859,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Morir y Existir En Vivo",
+        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 164866,
+      "name": "14 Guerras (En Vivo)",
+      "url": "https://open.spotify.com/track/6FMBC8EazlnY5qias6mItl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 128520,
       "name": "Fuiste M\u00eda",
       "url": "https://open.spotify.com/track/2NiABj6NgG9T9p7Yzckd7D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morir y Existir En Vivo",
-        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 164866,
-      "name": "14 Guerras (En Vivo)",
-      "url": "https://open.spotify.com/track/6FMBC8EazlnY5qias6mItl"
     }
   ],
   "unique_name": "This Is Gerardo Ortiz",

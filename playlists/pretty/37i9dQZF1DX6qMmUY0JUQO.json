@@ -1,12 +1,12 @@
 {
   "description": "From House & Techno to the spheres of Pop. This playlist features legendary tracks that have been produced on a TR-909 drum machine. Cover: Jeff Mills",
-  "num_followers": 139968,
+  "num_followers": 140046,
   "original_name": "909 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDViYTgzNzcwMGFiNjU4ZDQ0ZjA1ODg0MTBhOTg2YmNlNWYxYWY4",
+  "snapshot_id": "MTY4NjgzNDk4OSwwMDAwMDAwMDNkYjAyNzkyZDZjZGQzNDNlN2NkZGFhMDJkNjhjYzc2",
   "tracks": [
     {
       "added_at": "2022-09-08 17:19:57",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-09-08 17:19:57",
       "album": {
-        "name": "Homework",
-        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 328680,
-      "name": "Da Funk",
-      "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
-    },
-    {
-      "added_at": "2022-09-08 17:19:57",
-      "album": {
         "name": "Conscience",
         "url": "https://open.spotify.com/album/1KFxJU4UBv1RWwrrwbn9xY"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 301466,
       "name": "Sweet Harmony",
       "url": "https://open.spotify.com/track/5lSOVaPDk7x9Ey6c9DqGZx"
+    },
+    {
+      "added_at": "2022-09-08 17:19:57",
+      "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 328680,
+      "name": "Da Funk",
+      "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
     },
     {
       "added_at": "2022-09-08 17:19:57",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-09-08 17:19:57",
       "album": {
-        "name": "SIGHT SOUND AND SPACE",
-        "url": "https://open.spotify.com/album/1FfGSThzZxeULHDWvkZZHb"
-      },
-      "artists": [
-        {
-          "name": "Jeff Mills",
-          "url": "https://open.spotify.com/artist/2eIDAcLKnWc4D350YyzvgS"
-        }
-      ],
-      "duration_ms": 285413,
-      "name": "The Bells",
-      "url": "https://open.spotify.com/track/0ISxyAhfop0MoMeAUw72RN"
-    },
-    {
-      "added_at": "2022-09-08 17:19:57",
-      "album": {
         "name": "Champs Elys\u00e9es",
         "url": "https://open.spotify.com/album/62DMpTTW3o6sYaNVYxtq2B"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 350813,
       "name": "I Feel for You",
       "url": "https://open.spotify.com/track/7opq9mMuTcHUXTY3EO3hym"
+    },
+    {
+      "added_at": "2022-09-08 17:19:57",
+      "album": {
+        "name": "SIGHT SOUND AND SPACE",
+        "url": "https://open.spotify.com/album/1FfGSThzZxeULHDWvkZZHb"
+      },
+      "artists": [
+        {
+          "name": "Jeff Mills",
+          "url": "https://open.spotify.com/artist/2eIDAcLKnWc4D350YyzvgS"
+        }
+      ],
+      "duration_ms": 285413,
+      "name": "The Bells",
+      "url": "https://open.spotify.com/track/0ISxyAhfop0MoMeAUw72RN"
     },
     {
       "added_at": "2022-09-08 17:19:57",

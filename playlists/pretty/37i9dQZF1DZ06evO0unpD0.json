@@ -1,12 +1,12 @@
 {
   "description": "This is Salif Keita. The essential tracks, all in one playlist.",
-  "num_followers": 11291,
+  "num_followers": 11293,
   "original_name": "This Is Salif Keita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTcxOGZhMDgyYjBhZTMzZjI5OTMzOGE0YWE1Njk2MjFiNzZmZGIy",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDMyMDYyYWZhZWFlMzFkY2UyZGQwOWU4NjFiYzhlMzZk",
   "tracks": [
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ali",
-        "url": "https://open.spotify.com/album/6vg8mzMg5Re5aRIKi4YrIo"
+        "name": "Folon",
+        "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 311666,
-      "name": "Tomorrow (Sadio)",
-      "url": "https://open.spotify.com/track/5IbLPMxWuRQWTmbEdV018a"
+      "duration_ms": 394306,
+      "name": "Tekere",
+      "url": "https://open.spotify.com/track/6DFxJ5NncVCnUnEaRRRWjh"
     },
     {
       "added_at": null,
@@ -359,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folon",
-        "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
+        "name": "Ali",
+        "url": "https://open.spotify.com/album/6vg8mzMg5Re5aRIKi4YrIo"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 394306,
-      "name": "Tekere",
-      "url": "https://open.spotify.com/track/6DFxJ5NncVCnUnEaRRRWjh"
+      "duration_ms": 311666,
+      "name": "Tomorrow (Sadio)",
+      "url": "https://open.spotify.com/track/5IbLPMxWuRQWTmbEdV018a"
     },
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 419186,
-      "name": "Papa",
-      "url": "https://open.spotify.com/track/7FJETIwlHuxinqGBaufsYz"
+      "duration_ms": 328080,
+      "name": "San Ka Na",
+      "url": "https://open.spotify.com/track/2Oqz0gR5F14zI7zA1ZKEDz"
     },
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moffou",
+        "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 418186,
+      "name": "Katolon",
+      "url": "https://open.spotify.com/track/4L5rI5vn2xtBXvEtb3EfdU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amen",
         "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
       },
@@ -544,25 +560,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 328080,
-      "name": "San Ka Na",
-      "url": "https://open.spotify.com/track/2Oqz0gR5F14zI7zA1ZKEDz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moffou",
-        "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 418186,
-      "name": "Katolon",
-      "url": "https://open.spotify.com/track/4L5rI5vn2xtBXvEtb3EfdU"
+      "duration_ms": 419186,
+      "name": "Papa",
+      "url": "https://open.spotify.com/track/7FJETIwlHuxinqGBaufsYz"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
       "duration_ms": 373973,
       "name": "Yambo",
       "url": "https://open.spotify.com/track/25fS72Gn3j78nfYOKLcrQk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soro",
+        "url": "https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 289333,
+      "name": "Sina (Soumbouya)",
+      "url": "https://open.spotify.com/track/1IStLKRx3MsSSzngw6SwkE"
     },
     {
       "added_at": null,
@@ -635,6 +651,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Mansa Of Mali ... A Retrospective",
+        "url": "https://open.spotify.com/album/29ERIEUf3msDNaYcJ9Wk3a"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 302840,
+      "name": "Djembe",
+      "url": "https://open.spotify.com/track/30102u9oWhTedLkAY26isZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 330240,
+      "name": "Tono",
+      "url": "https://open.spotify.com/track/6i3SKf6JxZoByA6anVcIhC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Diff\u00e9rence",
+        "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 235160,
+      "name": "Ekolo D'Amour",
+      "url": "https://open.spotify.com/track/51PaIl9erUqMhbgsTrlYnp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mother Nature",
         "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
       },
@@ -659,70 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 330240,
-      "name": "Tono",
-      "url": "https://open.spotify.com/track/6i3SKf6JxZoByA6anVcIhC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Mansa Of Mali ... A Retrospective",
-        "url": "https://open.spotify.com/album/29ERIEUf3msDNaYcJ9Wk3a"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 302840,
-      "name": "Djembe",
-      "url": "https://open.spotify.com/track/30102u9oWhTedLkAY26isZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moffou",
-        "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 362786,
-      "name": "Koukou",
-      "url": "https://open.spotify.com/track/3yFNmyHGgHf6dFTGNawJqP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Diff\u00e9rence",
-        "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 235160,
-      "name": "Ekolo D'Amour",
-      "url": "https://open.spotify.com/track/51PaIl9erUqMhbgsTrlYnp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bamako",
         "url": "https://open.spotify.com/album/5h1nuuzwo2Usr6BTF5HMdw"
       },
@@ -739,26 +739,6 @@
       "duration_ms": 306666,
       "name": "Masibambaneni",
       "url": "https://open.spotify.com/track/1pX94ATR4DVBR9viWZAaTP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wakafrika",
-        "url": "https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        },
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 354000,
-      "name": "Emma (feat. Salif Keita)",
-      "url": "https://open.spotify.com/track/1ltlkrZ2qV3JlCbdXNUa3N"
     },
     {
       "added_at": null,
@@ -795,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wakafrika",
+        "url": "https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 354000,
+      "name": "Emma (feat. Salif Keita)",
+      "url": "https://open.spotify.com/track/1ltlkrZ2qV3JlCbdXNUa3N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La gouache",
         "url": "https://open.spotify.com/album/6BdRY8R7yMvzWMSJ3qFHw0"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 242177,
       "name": "Des humains (feat. Salif Keita)",
       "url": "https://open.spotify.com/track/1qam3RPfPkugXYYTT1h0nU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moffou",
+        "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 362786,
+      "name": "Koukou",
+      "url": "https://open.spotify.com/track/3yFNmyHGgHf6dFTGNawJqP"
     },
     {
       "added_at": null,
@@ -843,22 +859,6 @@
       "duration_ms": 365040,
       "name": "Waraya",
       "url": "https://open.spotify.com/track/6PUJcLbzL08u4anhZGarRu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Diff\u00e9rence",
-        "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 254880,
-      "name": "Dj\u00e9l\u00e9",
-      "url": "https://open.spotify.com/track/3kxd8G6lLHwy3gtBYGXrXi"
     }
   ],
   "unique_name": "This Is Salif Keita",

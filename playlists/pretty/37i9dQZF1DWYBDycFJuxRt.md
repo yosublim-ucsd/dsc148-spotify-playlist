@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 宇多田ヒカル \*👉 <a href="https://spice.eplus.jp/articles/327879?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,157 likes - 77 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,335 likes - 77 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 76 | [踊れマリア](https://open.spotify.com/track/0gb9xS9Jk8v6LqXuWuMiD9) | [がらり](https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp) | [踊れマリア](https://open.spotify.com/album/5U35UnAiFHYs0cMPI1bgl2) | 3:54 |
 | 77 | [ギルティ](https://open.spotify.com/track/5cL0Al86ELe3z3KukGjofq) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [ギルティ](https://open.spotify.com/album/0FDGiDBinoBjgu15ni4dVh) | 4:00 |
 
-Snapshot ID: `MCw2ZDQwMzVlMjkzZTZiZWQ3NjFjNzU4OWFlMjQ4NmM2MzljYjA3MmU1`
+Snapshot ID: `MTcxMjc1NDAwMCwwMDAwMDAwMDEwNjRiM2Q3OTE4MjE3Y2Y1OGQ2NmFkNWQ5ZWRjYmYx`

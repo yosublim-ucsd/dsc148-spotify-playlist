@@ -4801,6 +4801,32 @@
     },
     {
       "album": {
+        "name": "Sexual Healing",
+        "url": "https://open.spotify.com/album/4ulLlEhk6401ke3RZ9ZhmH"
+      },
+      "artists": [
+        {
+          "name": "Amaranth Skies",
+          "url": "https://open.spotify.com/artist/6v1yanGkwUBUbk6G3dgNOq"
+        },
+        {
+          "name": "Yann Muller",
+          "url": "https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti"
+        },
+        {
+          "name": "Victoria Voss",
+          "url": "https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "Sexual Healing",
+      "url": "https://open.spotify.com/track/3RkNuyK96gKNvDIguhxOZ0"
+    },
+    {
+      "album": {
         "name": "She Will Be Loved",
         "url": "https://open.spotify.com/album/7rHdR1abEbUBmORT4exyEM"
       },

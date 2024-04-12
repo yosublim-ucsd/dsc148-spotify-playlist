@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 12798,
+  "2024-04-12": 12800,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Bolivia.",
   "name": "Viral 50 - Bolivia",
@@ -255,6 +255,24 @@
       "duration_ms": 231338,
       "name": "act ii: date @ 8 (feat. Drake) - remix",
       "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
+    },
+    {
+      "album": {
+        "name": "Mi \u00fanico Amor",
+        "url": "https://open.spotify.com/album/4aXT2RxtR3x8IC43ZORXWd"
+      },
+      "artists": [
+        {
+          "name": "Mu\u00f1equita Milly",
+          "url": "https://open.spotify.com/artist/0Eqa4cyFV5LPl6xfSz5DtS"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365583,
+      "name": "Ahora Sufre",
+      "url": "https://open.spotify.com/track/5yyig9sXF0ZNAApIusdwqd"
     },
     {
       "album": {
@@ -2017,7 +2035,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 166536,
       "name": "HOLA PERDIDA",
       "url": "https://open.spotify.com/track/7JKptWv4YXmievid0HajID"
@@ -2539,7 +2557,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -5375,7 +5393,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "WYA",
       "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"

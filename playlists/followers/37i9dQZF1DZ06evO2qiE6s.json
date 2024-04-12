@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 115605,
+  "2024-04-12": 115620,
   "date_first_scraped": "2023-12-27",
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
   "name": "This Is Dean Martin",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 145320,
       "name": "(Remember Me) I'm the One Who Loves You",
       "url": "https://open.spotify.com/track/1q2RbUwPCCvO97Mx0VygiX"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 184453,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/1ccv4yQDq8ouWV3fhwlVIX"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 140440,
       "name": "Cha Cha Cha D'Amour (Melodie D'Amour)",
       "url": "https://open.spotify.com/track/5vfgDZt7VwNCof5lltwwZk"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 127293,
       "name": "Come Running Back",
       "url": "https://open.spotify.com/track/3EQM6RIkUZ3nVI8mTVwIvY"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 164546,
       "name": "Everybody Loves Somebody",
       "url": "https://open.spotify.com/track/5I9sHwLDX28tLtzVgKLtpr"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 136493,
       "name": "Good Mornin' Life",
       "url": "https://open.spotify.com/track/3AnTfM2O5kUtlZfZ5O3hyB"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 145346,
       "name": "I Can't Believe That You're In Love With Me - Remastered/1998",
       "url": "https://open.spotify.com/track/6mcDe5GXUZn6eF7mC5l3Hg"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 182106,
       "name": "I Have But One Heart ('O Marenariello) - Remastered 1998",
       "url": "https://open.spotify.com/track/0Um5yRo7dOIKpIQpGKT4mW"
@@ -951,7 +951,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 145173,
       "name": "Innamorata",
       "url": "https://open.spotify.com/track/0xeqhLx9L3QzXIAaxMRUiX"
@@ -969,7 +969,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 140333,
       "name": "It Looks Like Love",
       "url": "https://open.spotify.com/track/08QMFKQ4jbwh6N6ZuEHdEg"
@@ -1041,7 +1041,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 166680,
       "name": "Just Say I Love Her (Dicitencello Vuie) - Remastered 1998",
       "url": "https://open.spotify.com/track/4ntnTJJg7ZmlB2lAFvWkDR"
@@ -1113,7 +1113,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 145266,
       "name": "Let Me Love You Tonight",
       "url": "https://open.spotify.com/track/08MGDBwkSopRdXxr5BjeiO"
@@ -1193,7 +1193,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 142506,
       "name": "Mambo Italiano",
       "url": "https://open.spotify.com/track/7DuqCAxfOEKBfQgrnWfHrh"
@@ -1283,7 +1283,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 168466,
       "name": "My Rifle, My Pony And Me",
       "url": "https://open.spotify.com/track/4c0rDKMex24OXtjREhW7qd"
@@ -1557,7 +1557,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 181426,
       "name": "Rio Bravo - 1994 Remaster",
       "url": "https://open.spotify.com/track/5E0zvQknrvTFrmPnrwIoCl"
@@ -1683,7 +1683,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 141480,
       "name": "Someday - Remastered/1998",
       "url": "https://open.spotify.com/track/09ImTvqnzd1ukBjcn9iDcP"
@@ -1701,7 +1701,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 134253,
       "name": "Somewhere There's a Someone",
       "url": "https://open.spotify.com/track/6o6SjSnjl1uFjvAMDhmZ3H"
@@ -1773,7 +1773,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 159360,
       "name": "Take Me In Your Arms (Torna A Surriento) - Remastered 1998",
       "url": "https://open.spotify.com/track/2hwkWcWEY664YUk6EEFccq"
@@ -1892,6 +1892,24 @@
     },
     {
       "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 5 (1954)",
+        "url": "https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176866,
+      "name": "The Naughty Lady Of Shady Lane",
+      "url": "https://open.spotify.com/track/4i6YRfiLsCW30cPAbwMV40"
+    },
+    {
+      "album": {
         "name": "Reprise Rarities (Vol. 5)",
         "url": "https://open.spotify.com/album/5zQAZL3ru5PqHCEddrnSX2"
       },
@@ -1947,7 +1965,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 168093,
       "name": "There's No Tomorrow - Remastered 1998",
       "url": "https://open.spotify.com/track/5W3LUZBuSAMS0jnVaPsiaA"
@@ -1965,7 +1983,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 157706,
       "name": "Things",
       "url": "https://open.spotify.com/track/3Dxuooqtp5zcpIEdJCDJBN"
@@ -2001,7 +2019,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 141840,
       "name": "Tik-A-Tee, Tik-A-Tay",
       "url": "https://open.spotify.com/track/1d7nWD7CdtUGuYKHXCIZ4j"
@@ -2095,7 +2113,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 146360,
       "name": "Vieni Su (Say You Love Me, Too) - Remastered 1998",
       "url": "https://open.spotify.com/track/0jH9nmgFuW8Ga7ewfYQgwX"
@@ -2117,6 +2135,24 @@
       "duration_ms": 181626,
       "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
       "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
+    },
+    {
+      "album": {
+        "name": "Masterpieces: Timeless Songs, Vol. I",
+        "url": "https://open.spotify.com/album/53SlDo23ac8NzxV1RZHWbU"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158981,
+      "name": "Walkin' After Midnight",
+      "url": "https://open.spotify.com/track/7JO9xzT0jFR7rvDRvw5jMb"
     },
     {
       "album": {
@@ -2193,7 +2229,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 183560,
       "name": "When You're Smiling (The Whole World Smiles With You) - Digitally Remastered 97",
       "url": "https://open.spotify.com/track/11tOuFtY7njtSzA5wr07xp"
@@ -2265,7 +2301,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 186466,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/0VrTy4ScuMoVxp26rLgHpd"
@@ -2301,7 +2337,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 166533,
       "name": "You're Breaking My Heart (Mattinata) - Remastered 1998",
       "url": "https://open.spotify.com/track/42SbfN8JAc60JXbRGQ4y32"
@@ -2319,7 +2355,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 133933,
       "name": "You're Nobody 'Til Somebody Loves You - Remastered/1997",
       "url": "https://open.spotify.com/track/4WUcNkpoNSKoe5MUuyzrfC"

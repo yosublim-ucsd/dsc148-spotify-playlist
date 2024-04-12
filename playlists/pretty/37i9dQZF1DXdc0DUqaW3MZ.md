@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,738 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,828 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 61 | [FYO](https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [FYO](https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1) | 2:44 |
 | 62 | [We Are](https://open.spotify.com/track/1duCNrSCe2xVNYAT5H7G76) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ) | [We Are](https://open.spotify.com/album/5d272VxHzFg8In4h3OzbGQ) | 4:15 |
 | 63 | [Heart\-Shaped Box](https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Heart\-Shaped Box](https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz) | 2:49 |
-| 64 | [UTHANDO](https://open.spotify.com/track/0jKtJJYzgAsfBrAEb02lPh) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH), [Shazmicsoul](https://open.spotify.com/artist/1J4VWFnc4Abj57kr4qI9wg), [Dr Thulz](https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4), [Mashudu](https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R), [Leandra.Vert](https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l) | [Click Bait](https://open.spotify.com/album/0dvAgkKcoVFHDYAYFViWm1) | 5:31 |
-| 65 | [Feel It](https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [Milaa](https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB) | [Feel It](https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS) | 3:34 |
-| 66 | [Sunrise Sunfall \- Edit](https://open.spotify.com/track/191lXO61Bz5ncHsxCJksUW) | [NATE08](https://open.spotify.com/artist/2Ozq8aYmGgLiGdbpsW6KSl), [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Sunrise Sunfall \(Edit\)](https://open.spotify.com/album/2dxUn6hVWWdHXvidEdJ7R6) | 3:13 |
+| 64 | [Feel It](https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [Milaa](https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB) | [Feel It](https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS) | 3:34 |
+| 65 | [Sunrise Sunfall \- Edit](https://open.spotify.com/track/191lXO61Bz5ncHsxCJksUW) | [NATE08](https://open.spotify.com/artist/2Ozq8aYmGgLiGdbpsW6KSl), [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Sunrise Sunfall \(Edit\)](https://open.spotify.com/album/2dxUn6hVWWdHXvidEdJ7R6) | 3:13 |
+| 66 | [UTHANDO](https://open.spotify.com/track/0jKtJJYzgAsfBrAEb02lPh) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH), [Shazmicsoul](https://open.spotify.com/artist/1J4VWFnc4Abj57kr4qI9wg), [Dr Thulz](https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4), [Mashudu](https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R), [Leandra.Vert](https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l) | [Click Bait](https://open.spotify.com/album/0dvAgkKcoVFHDYAYFViWm1) | 5:31 |
 | 67 | [Unrequited Love](https://open.spotify.com/track/55odIfJy7sm2HkHf3n9Gha) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:14 |
 | 68 | [OUR LOVE \(80'S\)](https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O) | [YOURS](https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7) | [OUR LOVE \(80'S\)](https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX) | 2:59 |
 | 69 | [Moving](https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 5:15 |
 | 70 | [You Could Be](https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [You Could Be](https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI) | 3:38 |
 
-Snapshot ID: `MCxmOTFkNGUxMGExZTdjNzkwNDg0OGNjNDczYzAzMDVlNDI3YjAzZTRk`
+Snapshot ID: `MTcxMjI0NDE2MiwwMDAwMDAwMDlmOTk0OTBlOTRkYzFmMzYyOGE4MmJhNGMyZWU4NTJl`

@@ -4,7 +4,7 @@
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-162 songs - 11 hr 35 min
+164 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Baby](https://open.spotify.com/track/1goTiiRtaNdwiGOsSIgBA4) | [DakhaBrakha](https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5) | [Light](https://open.spotify.com/album/3ZtpOPSQuN6hOtAlyBJqFT) | 7:23 | 2022-09-15 |  |
 | [Badi Sabah Olmadan](https://open.spotify.com/track/69HsibWosA5K8UhyhPZ92t) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8) | 4:43 | 2022-03-11 | 2023-08-15 |
 | [Bear Creek](https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Livelong Day](https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC) | 5:31 | 2023-11-23 |  |
-| [Bia Bia](https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb) | [Liraz](https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk) | [Zan](https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77) | 3:36 | 2021-10-20 |  |
+| [Bia Bia](https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb) | [Liraz](https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk) | [Zan](https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77) | 3:36 | 2021-10-20 | 2024-04-12 |
 | [Binboğa](https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39) | [Yalnayak](https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu) | [Binboğa](https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9) | 4:02 | 2022-03-04 | 2023-12-06 |
 | [Break Away](https://open.spotify.com/track/38qUvMP0z6Xn7aPrvpurit) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [Escape Plan](https://open.spotify.com/album/1rbwWcHllLmjWUjODSKV4Y) | 3:06 | 2022-04-17 |  |
 | [Buleríâ del aire acondiçionao \(feat\. Miguelito García\) \- Versión Maxi](https://open.spotify.com/track/0yV9em29PuD1roFpthc0aQ) | [Califato ¾](https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK), [Miguelito García](https://open.spotify.com/artist/0hGbfFHeG8GY5idG4PO31p) | [Puerta de la Cânne](https://open.spotify.com/album/175V3sGHAJLIB0sDXAQK6C) | 4:40 | 2021-10-20 |  |
@@ -42,7 +42,7 @@
 | [Cler Achel](https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Aman Iman: Water Is Life](https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0) | 4:27 | 2021-10-20 |  |
 | [Dance of Maria](https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC) | [Elias Rahbani](https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS) | [Mosaic of the Orient](https://open.spotify.com/album/35V308120K0txY7JUMoN6M) | 2:47 | 2021-10-20 |  |
 | [Dejate Llevar](https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dejate Llevar](https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg) | 5:01 | 2024-03-05 |  |
-| [Deli Deli](https://open.spotify.com/track/2cghTeF3VBx6aDDrFZO3si) | [Şatellites](https://open.spotify.com/artist/5i2aeGMxTOr8ox7IIqJoxi) | [Big Baglama](https://open.spotify.com/album/0VOhk1oTgTNnmHkjPFq1uL) | 3:03 | 2021-10-20 |  |
+| [Deli Deli](https://open.spotify.com/track/2cghTeF3VBx6aDDrFZO3si) | [Şatellites](https://open.spotify.com/artist/5i2aeGMxTOr8ox7IIqJoxi) | [Big Baglama](https://open.spotify.com/album/0VOhk1oTgTNnmHkjPFq1uL) | 3:03 | 2021-10-20 | 2024-04-12 |
 | [Descending To Nowhere](https://open.spotify.com/track/6NtkWVLdArIlZAwxpWH2tF) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [In Between Thoughts...A New World](https://open.spotify.com/album/1el8dp6jP1HbmqRDBVMmj3) | 3:29 | 2023-02-23 |  |
 | [Dividual Individual](https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z) | 5:00 | 2023-06-05 | 2024-01-09 |
 | [Dois Palitos Fofinhos](https://open.spotify.com/track/6S8AJxUdc95lI4CNiVdKMu) | [C+C=Maxigross](https://open.spotify.com/artist/4xD2DfxKGL6E8URwy6Sf37) | [Dois Palitos Fofinhos](https://open.spotify.com/album/20HJ1KS55VbcT6tomohpxq) | 2:47 | 2024-01-03 |  |
@@ -79,6 +79,7 @@
 | [Lam Phu Thai \# 1](https://open.spotify.com/track/6dsZAzOrP9af5rmzGl9Tlr) | [Khun Narin](https://open.spotify.com/artist/63zawOgIPFW8J6QTTJiRX1) | [Khun Narin's Electric Phin Band](https://open.spotify.com/album/5jScyP5lgOyDuXwi720t2S) | 5:57 | 2023-02-10 | 2024-01-04 |
 | [Lluvia](https://open.spotify.com/track/2QKIcgKfCpmVkfpMeqq5Rg) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln) | [Lluvia](https://open.spotify.com/album/1paKQg7gOp16XexZyAjNvE) | 2:53 | 2021-10-20 | 2024-01-12 |
 | [Love Buzz](https://open.spotify.com/track/3SihtP7OfilcWv91B3T78i) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Love Buzz](https://open.spotify.com/album/5ZzgY4zglWsJAL1U4tkuiC) | 4:22 | 2023-09-25 | 2024-01-19 |
+| [Mahal](https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT) | 3:21 | 2024-04-11 |  |
 | [Makkuroi Mizu](https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z) | 6:03 | 2023-06-05 | 2023-10-10 |
 | [Mambu Ma Miondo](https://open.spotify.com/track/65mRq2v09izLLDenAdS1vg) | [Franco](https://open.spotify.com/artist/4LfIeBRMY0ej1yImkWFqwx), [TPOK Jazz](https://open.spotify.com/artist/26oIizmJ4rFTYV3DLA0NdS) | [1972 / 1973 / 1974](https://open.spotify.com/album/6TfbYc7N7gpJRIJLhJyltN) | 4:56 | 2024-01-05 |  |
 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 | 2023-03-31 | 2024-01-04 |
@@ -153,6 +154,7 @@
 | [Under No Nation \- Radio Edit](https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Under No Nation \(Radio Edit\)](https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm) | 3:04 | 2022-08-31 |  |
 | [Up and Away](https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:11 | 2022-04-22 |  |
 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ) | 3:58 | 2023-07-19 | 2024-01-15 |
+| [Vallahi Yok](https://open.spotify.com/track/22TIuZCNYKuuXmkA4rIY0V) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Vallahi Yok / Kirik Cam](https://open.spotify.com/album/5vItyofUlifKHKLabwy3hC) | 4:37 | 2024-04-11 |  |
 | [W Boru Kalinka](https://open.spotify.com/track/1qW9yHYYXwPXCw58qjLqJN) | [Warsaw Village Band](https://open.spotify.com/artist/2TQwsunAFHqQuIGG4kegie) | [Wykorzenienie](https://open.spotify.com/album/1NGak9Mv3q20g05HXik7fq) | 3:29 | 2021-10-20 | 2023-11-21 |
 | [Wee Rosebud](https://open.spotify.com/track/4UZmFxgOxdrbgJyskDm3AS) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [Wee Rosebud](https://open.spotify.com/album/52NR1QlvraGMvlG7d6OVdD) | 4:21 | 2024-01-11 |  |
 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Weird Fishes/ Arpeggi](https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1) | 5:25 | 2022-07-28 | 2024-03-13 |

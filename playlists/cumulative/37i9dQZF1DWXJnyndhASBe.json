@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Popkillery 2024 rozdane! Pos\u0142uchaj najwi\u0119kszych zwyci\u0119zc\u00f3w oraz najwa\u017cniejszych rapowych kawa\u0142k\u00f3w w tej chwili. Cover: bambi, \u0141ona, Oki, Szpaku",
+  "description": "Najwi\u0119ksze rapowych kawa\u0142ki w tej chwili. Cover: Oki",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 292902,
       "name": "120 WERS\u00d3W \u017bEBY ZAJE*A\u0106 CO WASZE",
       "url": "https://open.spotify.com/track/1VqT8aWuxRigiZILLcSlEM"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 144335,
       "name": "5 INFLUENCEREK",
       "url": "https://open.spotify.com/track/1pTsC1EwqfBmf8Ab9yVRoK"
@@ -996,7 +996,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 181132,
       "name": "CA$H READY",
       "url": "https://open.spotify.com/track/5Pe5dS3oyCKTKMJvNga73L"
@@ -2075,6 +2075,24 @@
     },
     {
       "album": {
+        "name": "Gasolina",
+        "url": "https://open.spotify.com/album/582GeWO86vD4RNBmu8WjUa"
+      },
+      "artists": [
+        {
+          "name": "ReTo",
+          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153636,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/4XupoqYkrUSAixBgvcTad8"
+    },
+    {
+      "album": {
         "name": "GDZIE JEST STARY MISZEL?",
         "url": "https://open.spotify.com/album/7IFZchl539KQwRyE17rLaR"
       },
@@ -2148,7 +2166,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 201000,
       "name": "GOR\u0104CY TEMAT",
       "url": "https://open.spotify.com/track/22YgJW7ZF52GE9CUB4aS1R"
@@ -2570,7 +2588,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 174000,
       "name": "Jak \u017cy\u0107 w WWA?",
       "url": "https://open.spotify.com/track/5MnvdapEzYt5yWfpQHbhcL"
@@ -2636,7 +2654,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 145984,
       "name": "JEREMY SOCHAN",
       "url": "https://open.spotify.com/track/2WBejVahXeC1gjCXVOlgbq"
@@ -2922,7 +2940,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 261293,
       "name": "KOCYK",
       "url": "https://open.spotify.com/track/14F0eGV9bXZYwSPuyKTTlP"
@@ -3242,7 +3260,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 208939,
       "name": "Makarena Freestyle",
       "url": "https://open.spotify.com/track/6Vzl09EVLdB1MTZdDwm2Zd"
@@ -3284,7 +3302,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 189295,
       "name": "Malibu Barbie",
       "url": "https://open.spotify.com/track/09bXpqLbPGZum6I4lDcnMX"
@@ -3428,7 +3446,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 181000,
       "name": "Ma\u0142y Ksi\u0105\u017c\u0119",
       "url": "https://open.spotify.com/track/5ngOu7hZUAGnk0FTDPzBob"
@@ -3494,7 +3512,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 134025,
       "name": "MILLIE WALKY",
       "url": "https://open.spotify.com/track/3mzugJrKyhJNzZKS0RgWBg"
@@ -3664,6 +3682,36 @@
       "duration_ms": 154135,
       "name": "MOJA NATURA",
       "url": "https://open.spotify.com/track/0giDu2we8VeEyBeDHNrGMi"
+    },
+    {
+      "album": {
+        "name": "Mroczna Komnata",
+        "url": "https://open.spotify.com/album/6dchetja9KZVQmEgHSxN6A"
+      },
+      "artists": [
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        },
+        {
+          "name": "Zeamsone",
+          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
+        },
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        },
+        {
+          "name": "Waima",
+          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190408,
+      "name": "Mroczna Komnata",
+      "url": "https://open.spotify.com/track/1KawCXZXR288yGeQbEgYL4"
     },
     {
       "album": {
@@ -4048,7 +4096,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 121139,
       "name": "nie jestem romantyczny",
       "url": "https://open.spotify.com/track/3kUY4HIXepmVlxJ4vZGjlA"
@@ -4298,10 +4346,36 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 147969,
       "name": "O W\u0141OS",
       "url": "https://open.spotify.com/track/4JdfdZZyqU24NRkPSZKm7t"
+    },
+    {
+      "album": {
+        "name": "Offwhite",
+        "url": "https://open.spotify.com/album/3FhUHjFhhWguRwjfoq68x1"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "Pedro",
+          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
+        },
+        {
+          "name": "DKanee",
+          "url": "https://open.spotify.com/artist/4ixbLtejEaAWMmgOxKKew6"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142784,
+      "name": "Offwhite",
+      "url": "https://open.spotify.com/track/75rO8VUFuUUsuLmpf1p6rk"
     },
     {
       "album": {
@@ -5497,6 +5571,32 @@
     },
     {
       "album": {
+        "name": "Spadaj\u0105ca gwiazda",
+        "url": "https://open.spotify.com/album/1Z9jd1P2XB1KhZRx1nFGRh"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "Pedro",
+          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
+        },
+        {
+          "name": "DKanee",
+          "url": "https://open.spotify.com/artist/4ixbLtejEaAWMmgOxKKew6"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Spadaj\u0105ca gwiazda",
+      "url": "https://open.spotify.com/track/2nN0xNZJv4JcTE3coGPVhA"
+    },
+    {
+      "album": {
         "name": "Stan",
         "url": "https://open.spotify.com/album/4lSPL8p1PEevYs9RMgvqD0"
       },
@@ -5542,6 +5642,28 @@
       "duration_ms": 128571,
       "name": "Start",
       "url": "https://open.spotify.com/track/6KDupfSJDH75bwFnkVYn6O"
+    },
+    {
+      "album": {
+        "name": "START",
+        "url": "https://open.spotify.com/album/6NLixoucrJzGcaWVyha43E"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "FRNKIE",
+          "url": "https://open.spotify.com/artist/6gVw7sj444868peBFpH0O4"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114374,
+      "name": "START",
+      "url": "https://open.spotify.com/track/4Pgv4GtlLKf8QwBu9Kb4Gm"
     },
     {
       "album": {
@@ -5600,7 +5722,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 149317,
       "name": "Szpilki",
       "url": "https://open.spotify.com/track/1L6p039zHMzcDiv8onVJ1p"
@@ -6016,7 +6138,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 198772,
       "name": "UZUMAKI FORMA OSTATECZNA",
       "url": "https://open.spotify.com/track/6zrAkmtbohurOiCKgWNBdO"
@@ -6241,6 +6363,24 @@
     },
     {
       "album": {
+        "name": "WODA SODOWA",
+        "url": "https://open.spotify.com/album/2u0sFR6DO8TAyNSJSMiStV"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "WODA SODOWA",
+      "url": "https://open.spotify.com/track/4cbr5VQHWMqvlMTPSa7da4"
+    },
+    {
+      "album": {
         "name": "WSZYSTKO GUCCI",
         "url": "https://open.spotify.com/album/4aDAPi37Xt9uSAMmpCdzPw"
       },
@@ -6444,7 +6584,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 168000,
       "name": "ZAZA",
       "url": "https://open.spotify.com/track/5rNZXe9DZfysmY00COgDTW"

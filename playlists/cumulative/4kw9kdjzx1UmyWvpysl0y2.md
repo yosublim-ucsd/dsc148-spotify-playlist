@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-701 songs - 1 day 16 hr 30 min
+702 songs - 1 day 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Do It All Again](https://open.spotify.com/track/6BwPstqf4RoRMbDidFWNxE) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Do It All Again](https://open.spotify.com/album/1WIy38HHVBg8KG3hVkCE2V) | 2:17 | 2022-02-11 | 2022-04-23 |
 | [do my own thing](https://open.spotify.com/track/1CfvEQYk2EB4dh1qtkQ1CG) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [do my own thing](https://open.spotify.com/album/4eUxdYUG7eRZ8agcu1o6QC) | 3:42 | 2023-02-10 | 2023-05-02 |
 | [Do Not Resist](https://open.spotify.com/track/4xvvHMshkQgGoDBCVXTSIa) | [Rebel Scum](https://open.spotify.com/artist/59aaYbMLU4xeqKrwJSY4tE) | [Do Not Resist](https://open.spotify.com/album/475crrYDMvhgxXYp91ffTa) | 3:32 | 2023-09-18 | 2024-01-11 |
+| [DO OR DIE](https://open.spotify.com/track/6nrDB1y3mQwgi1tHWJdr9X) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [PROP](https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp) | [DO OR DIE](https://open.spotify.com/album/3lgSlwvaCVzghqJQ1pR45n) | 2:44 | 2024-04-11 |  |
 | [Don't Let Me Down](https://open.spotify.com/track/07YWBlyteDawyBWwKZGWmN) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Don't Let Me Down](https://open.spotify.com/album/7EqjRqiP6PJHOoypQfTQH6) | 3:00 | 2023-04-03 | 2023-06-27 |
 | [Don't Need You](https://open.spotify.com/track/3DyQ8iVs0kfsgbugsPQfT8) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Don't Need You](https://open.spotify.com/album/6IVig4iThZNVK8Fz7xtRTz) | 3:27 | 2022-02-08 | 2022-04-19 |
 | [Don't Speak](https://open.spotify.com/track/5lJOKxpA7Lbms3sJmrlYYg) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Don't Speak](https://open.spotify.com/album/5oKMHgS24Ikp9APo5xi1lr) | 4:00 | 2024-04-01 |  |
@@ -686,7 +687,7 @@
 | [Whale Song](https://open.spotify.com/track/13gdVLikvhINVLSwsf9jvN) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Whale Song](https://open.spotify.com/album/6sFCARtfQExa8NYcIBx9IG) | 4:11 | 2021-11-19 | 2022-02-18 |
 | [Wheel Of Life](https://open.spotify.com/track/2ZZVvGeE3M8dfRBUy7khPH) | [IPeiqi](https://open.spotify.com/artist/62ttTweDvqEfd60TMZaUzc) | [Wheel Of Life](https://open.spotify.com/album/4vHjXmcYrtyS3TsJvsspuR) | 3:50 | 2022-01-19 | 2022-03-26 |
 | [When The Sun Goes Down](https://open.spotify.com/track/6FH2pCTCx5HkevdqH1P20D) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [When The Sun Goes Down](https://open.spotify.com/album/2u43o2x6oU5twBqN0DiNqI) | 3:48 | 2022-05-18 | 2022-07-29 |
-| [Where Does The Light Go](https://open.spotify.com/track/1ISIClvWD9oMrOL5BLBoal) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Holochrome](https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ) | [Where Does The Light Go](https://open.spotify.com/album/10fHBAh5NqGghBoiBGTiz3) | 3:42 | 2024-01-23 |  |
+| [Where Does The Light Go](https://open.spotify.com/track/1ISIClvWD9oMrOL5BLBoal) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Holochrome](https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ) | [Where Does The Light Go](https://open.spotify.com/album/10fHBAh5NqGghBoiBGTiz3) | 3:42 | 2024-01-23 | 2024-04-12 |
 | [Wherever You Go](https://open.spotify.com/track/3azfPD8DGtZRjcYNjPA8HR) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Wherever You Go](https://open.spotify.com/album/0keuvwVV0uuUmaMZX9C6o6) | 4:27 | 2023-07-17 | 2023-12-14 |
 | [White Lie](https://open.spotify.com/track/05W5WSaPyW5GCiNY5gOuyH) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [White Lie](https://open.spotify.com/album/6g3FQBSHayd37yO3a77AIH) | 3:18 | 2023-11-16 | 2024-02-29 |
 | [who we are](https://open.spotify.com/track/6oYZHydjksy35AkbxIu3eZ) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [destination heartbreak pt\. 1](https://open.spotify.com/album/2ZYx16Jx0qzuMfBbZPojrA) | 2:45 | 2022-11-19 | 2022-11-22 |

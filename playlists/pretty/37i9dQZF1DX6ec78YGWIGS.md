@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: TINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,902 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,063 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 99 | [NAVI](https://open.spotify.com/track/0ax5zJXD0Vq0XpeiIc8rJc) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [NAVI](https://open.spotify.com/album/7GFmnERl0J8pNu0IMQ2Fwi) | 2:15 |
 | 100 | [Pasatiempo](https://open.spotify.com/track/0ZRswNoAS92a45NQjypAxL) | [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Pasatiempo](https://open.spotify.com/album/79S3lGLNc5komX3DBpmleq) | 3:17 |
 
-Snapshot ID: `MCw5ZTNmYzIxNDc3NzVlYTg4OTJiNzdkM2YyYjE5ZDgyYzEzN2E1Y2Nk`
+Snapshot ID: `MTcxMjc2NzEwNywwMDAwMDAwMGMyMzRjMzQzNzg0OTM1MGQ5NDUyZTZlNzA4YzE5MjMx`

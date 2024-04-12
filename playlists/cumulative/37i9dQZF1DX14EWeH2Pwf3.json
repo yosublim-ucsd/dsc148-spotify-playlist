@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Rhove",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Baby Gang, BLANCO, Marracash",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -433,6 +433,24 @@
     },
     {
       "album": {
+        "name": "ADDERALL",
+        "url": "https://open.spotify.com/album/72kD6unk8C2Fw2T7KDFfiA"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165004,
+      "name": "ADDERALL",
+      "url": "https://open.spotify.com/track/1IDBlTUa4Ts0mHW6N481JQ"
+    },
+    {
+      "album": {
         "name": "Adrenalina",
         "url": "https://open.spotify.com/album/5cXeDgXDMcSMb3tH6EnCaB"
       },
@@ -452,6 +470,32 @@
       "duration_ms": 180000,
       "name": "Adrenalina",
       "url": "https://open.spotify.com/track/44r0DNbRcHU8KyM1K2AJ0y"
+    },
+    {
+      "album": {
+        "name": "Adrenalina (feat. BLANCO, Marracash)",
+        "url": "https://open.spotify.com/album/6aWHd2y7YNkH8GgKAZUkGC"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Adrenalina (feat. BLANCO, Marracash)",
+      "url": "https://open.spotify.com/track/5jbvKJAsPdwfRocC4GD0tv"
     },
     {
       "album": {
@@ -1722,7 +1766,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 187201,
       "name": "BRUTTI PENSIERI (feat. thasup)",
       "url": "https://open.spotify.com/track/1rUo83mfLivTSRzTmu7Neg"
@@ -6148,7 +6192,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 88789,
       "name": "Mama",
       "url": "https://open.spotify.com/track/47ZrDDpxXKsC1UCoTzFux7"

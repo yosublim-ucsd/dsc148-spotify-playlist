@@ -637,6 +637,28 @@
     },
     {
       "album": {
+        "name": "BAD-DUA",
+        "url": "https://open.spotify.com/album/2aYGdxPtJjhU1hjquTWPw4"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        },
+        {
+          "name": "YAS the Underdog",
+          "url": "https://open.spotify.com/artist/3gBTnOJvbcIKiDJPylSlcZ"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256551,
+      "name": "BAD-DUA",
+      "url": "https://open.spotify.com/track/1tdfzRdcrv2SlEfmGXev8N"
+    },
+    {
+      "album": {
         "name": "Limitless",
         "url": "https://open.spotify.com/album/3pf6uLZdrxvd7W75J443Dw"
       },
@@ -1664,7 +1686,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 128360,
       "name": "Defender",
       "url": "https://open.spotify.com/track/0YKVC87H962oWFWD3Zb9iZ"
@@ -2272,7 +2294,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 186428,
       "name": "Foes To Fans",
       "url": "https://open.spotify.com/track/18CZdFGVEwYp2LYv0HcNCQ"
@@ -2881,6 +2903,28 @@
     },
     {
       "album": {
+        "name": "Hockiyan",
+        "url": "https://open.spotify.com/album/7yvR42jkZ8CuVnPFI76ek2"
+      },
+      "artists": [
+        {
+          "name": "Bunny Johal",
+          "url": "https://open.spotify.com/artist/0jdnMCU1yJPwoIErT6a4OS"
+        },
+        {
+          "name": "Real Sach",
+          "url": "https://open.spotify.com/artist/3SaiIyh09WpsbDlMFPz3ix"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162758,
+      "name": "Hockiyan",
+      "url": "https://open.spotify.com/track/6zgLThpDg8A5LrxacTMm1E"
+    },
+    {
+      "album": {
         "name": "Awara",
         "url": "https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF"
       },
@@ -3030,7 +3074,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 117272,
       "name": "Identity",
       "url": "https://open.spotify.com/track/4DMVfbVKN4dJAm7wdNUXlK"
@@ -3785,6 +3829,28 @@
     },
     {
       "album": {
+        "name": "Khutti",
+        "url": "https://open.spotify.com/album/0ISqysl9naGSplhk71vv4Z"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132771,
+      "name": "Khutti",
+      "url": "https://open.spotify.com/track/3Jd1yxcUQLdfBJcsxFtYzj"
+    },
+    {
+      "album": {
         "name": "KILLSHOT",
         "url": "https://open.spotify.com/album/51xLM3es2JQBxvbeRcKDEs"
       },
@@ -3892,7 +3958,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 247826,
       "name": "Laadla",
       "url": "https://open.spotify.com/track/5mGAQXwHbwdknsmupmSvrI"
@@ -4218,6 +4284,28 @@
       "duration_ms": 190434,
       "name": "Mandeer",
       "url": "https://open.spotify.com/track/2nxQsbR0Cqy4MPI6vftwyX"
+    },
+    {
+      "album": {
+        "name": "Manifest",
+        "url": "https://open.spotify.com/album/11PJMOJkvhx55dOpJQRUV8"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148198,
+      "name": "Manifest",
+      "url": "https://open.spotify.com/track/2DmNIqrR70dUtcs4ljNl6a"
     },
     {
       "album": {
@@ -4564,7 +4652,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 152967,
       "name": "Naa Lai Ke",
       "url": "https://open.spotify.com/track/3vXHs1USJvUYpFsuxZGTiS"
@@ -4802,7 +4890,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 158526,
       "name": "Never Ending",
       "url": "https://open.spotify.com/track/3QWwHA9yV64KMcUUggOofL"
@@ -5054,6 +5142,24 @@
       "duration_ms": 144675,
       "name": "NOW",
       "url": "https://open.spotify.com/track/1E6UgMP4e9mod52TJDpmdz"
+    },
+    {
+      "album": {
+        "name": "Nowadays",
+        "url": "https://open.spotify.com/album/79KRr86XxvGkfHHiW3bdDd"
+      },
+      "artists": [
+        {
+          "name": "Khan Bhaini",
+          "url": "https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206506,
+      "name": "Nowadays",
+      "url": "https://open.spotify.com/track/1wQMbE9V6MgcAhEak7ZaUe"
     },
     {
       "album": {
@@ -5735,6 +5841,28 @@
     },
     {
       "album": {
+        "name": "Shehzaada",
+        "url": "https://open.spotify.com/album/0jClMwcSRCzW2CpZMl0uUs"
+      },
+      "artists": [
+        {
+          "name": "Bohemia",
+          "url": "https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP"
+        },
+        {
+          "name": "Prod Naaz",
+          "url": "https://open.spotify.com/artist/1HcJz1rKMFoVcz7kTHVOm3"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175133,
+      "name": "Shehzaada",
+      "url": "https://open.spotify.com/track/67FzTBM17XHL8cDHMxxnom"
+    },
+    {
+      "album": {
         "name": "Sher Jatt",
         "url": "https://open.spotify.com/album/4wKOpjJooFss9cVWYTnvnM"
       },
@@ -5949,6 +6077,28 @@
     },
     {
       "album": {
+        "name": "SMUG",
+        "url": "https://open.spotify.com/album/5ac6DEBrNXE9pLuEReu3NB"
+      },
+      "artists": [
+        {
+          "name": "Ranjit Bawa",
+          "url": "https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn"
+        },
+        {
+          "name": "Black Virus",
+          "url": "https://open.spotify.com/artist/5nFLw1upxlYaXQhpaC4tEB"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142276,
+      "name": "SMUG",
+      "url": "https://open.spotify.com/track/1awR01QDVioULC3wnSSMYS"
+    },
+    {
+      "album": {
         "name": "Snack",
         "url": "https://open.spotify.com/album/38uXiZjaet6rj7xZN1ptzT"
       },
@@ -6078,7 +6228,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 133340,
       "name": "Star Roof",
       "url": "https://open.spotify.com/track/0bIyjIVtFUwkAZgbfETrGI"

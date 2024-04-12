@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 11583,
+  "2024-04-12": 11617,
   "date_first_scraped": "2023-12-19",
   "description": "Potras, rancherxs y la \ud83e\uddc0",
   "name": "Sombrerudx y nimoderrimo   ",
@@ -191,7 +191,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 174162,
       "name": "Beb\u00e9, Perd\u00f3n",
       "url": "https://open.spotify.com/track/1Sds5tH8O2nCndMuicutXj"
@@ -1389,7 +1389,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 187720,
       "name": "Nos Gan\u00f3 El Amor",
       "url": "https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L"
@@ -1559,6 +1559,28 @@
       "duration_ms": 177040,
       "name": "Piensa En M\u00ed",
       "url": "https://open.spotify.com/track/1xKP7GVLY33i5jmx1bB1Kk"
+    },
+    {
+      "album": {
+        "name": "PLYBOY",
+        "url": "https://open.spotify.com/album/606n0J7rUfs0x3ZUF4IjGK"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192658,
+      "name": "PLYBOY",
+      "url": "https://open.spotify.com/track/6a7o80X7LrPCkkaNUmy74o"
     },
     {
       "album": {
@@ -1935,6 +1957,24 @@
       "duration_ms": 187400,
       "name": "Te Aprovechas",
       "url": "https://open.spotify.com/track/2gwPSweI4iehGyEkDYYxzF"
+    },
+    {
+      "album": {
+        "name": "Me Brinqu\u00e9 La Fila",
+        "url": "https://open.spotify.com/album/32wxGBycvjlXpakneIrTSQ"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158222,
+      "name": "Te Caigo En 10",
+      "url": "https://open.spotify.com/track/6gOIcZMJGJmfky9YnLHiRZ"
     },
     {
       "album": {

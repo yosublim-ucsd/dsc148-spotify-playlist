@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 
 > Where it all started\. Cover: Nas
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,682 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,775 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 49 | [Definition](https://open.spotify.com/track/4C7Ss9bTPOWJMh3rarF1mN) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 3:26 |
 | 50 | [Magic Stick](https://open.spotify.com/track/0aULRU35N9kTj6O1xMULRR) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [La Bella Mafia](https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE) | 5:59 |
 
-Snapshot ID: `MCxlZjEyNDk4MzcyM2NkZjI3YjJkMjc4MDkyYWU1OWU4OWM1ZWJiMjJj`
+Snapshot ID: `MTcxMjI3OTc4NCwwMDAwMDAwMGNiM2QzNjhmYmI3NjNkZGVjZWZjZWE4MWVlZmFiMzcy`

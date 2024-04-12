@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 1,251 songs - 2 day 21 hr 22 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,252 songs - 2 day 21 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1259,5 +1259,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1249 | [Veo Veo](https://open.spotify.com/track/13FraYFP1CPx0c726P5cF3) | [Beats by Luca](https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs), [Noiseflow](https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3) | [Veo Veo](https://open.spotify.com/album/0dheXvm7uUV6KW3CgmeDFW) | 2:46 |
 | 1250 | [Take A Ride](https://open.spotify.com/track/7EHbXDGgmMRIqQsZiMKKTv) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [Take A Ride](https://open.spotify.com/album/0GaU783CD7TVU4pZHX2y2w) | 2:46 |
 | 1251 | [Can't Get You Outta My Head](https://open.spotify.com/track/7dWTrhDYI7wdE2kc8deHOf) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [Can't Get You Outta My Head](https://open.spotify.com/album/5T1QnJXPIQ97h3tXNcdLLJ) | 2:36 |
+| 1252 | [Spit In My Mouth](https://open.spotify.com/track/2OHgJaxMquD8S6MKLJ4QNq) | [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4), [Dr Donk](https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu) | [Spit In My Mouth](https://open.spotify.com/album/1m9UkPkelQzhA2NMvtqWWL) | 2:31 |
 
-Snapshot ID: `MTI5NCwxMmEwNzgyYjdmOTg3M2JlZDIzYWUwYWE4ZWYzYzg2M2ZkNmY2MzFk`
+Snapshot ID: `MTI5NSw1YzYzNzg1MGZiODM2NjJlOTI5YzgzNzE4ZTQ4YThkMDRiNmZlMzQx`

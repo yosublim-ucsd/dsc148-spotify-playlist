@@ -1,12 +1,12 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 210850,
+  "num_followers": 210931,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2FmNWIyZjQ1MmVjNmUzMjc5ZmY0MjU4YTMzMjhlN2M5NmE5Nzk3",
+  "snapshot_id": "MTY4NjkxOTYxNywwMDAwMDAwMGUwYmRjZGVmYjk4NGJkNTMzODFlYWZlYmRiOWI2Y2Rj",
   "tracks": [
     {
       "added_at": "2023-03-10 18:44:18",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Chulas Fronteras & Del Mero Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1oy5u4Jx010Bl15qSpVbsc"
-      },
-      "artists": [
-        {
-          "name": "Little Joe & La Familia",
-          "url": "https://open.spotify.com/artist/59NWRwGcObmk2sukU5uqmN"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Las Nubes",
-      "url": "https://open.spotify.com/track/5x6z28U8d6qYXR4cqU8zN9"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "Tejano Mix",
         "url": "https://open.spotify.com/album/0puxxMHv59vd5G047pqTrg"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 284120,
       "name": "Tejano Mix - Radio Edit",
       "url": "https://open.spotify.com/track/3XZw0d0smJsYJcgFJAsI5O"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "Chulas Fronteras & Del Mero Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1oy5u4Jx010Bl15qSpVbsc"
+      },
+      "artists": [
+        {
+          "name": "Little Joe & La Familia",
+          "url": "https://open.spotify.com/artist/59NWRwGcObmk2sukU5uqmN"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Las Nubes",
+      "url": "https://open.spotify.com/track/5x6z28U8d6qYXR4cqU8zN9"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 184920,
-      "name": "La Rosa",
-      "url": "https://open.spotify.com/track/0HiDvAV1NFSt1rLXvrTO49"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "Lo Mejor De\u2026",
         "url": "https://open.spotify.com/album/2M4sLkOugMuMYosMaM0X6f"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 167040,
       "name": "Si Una Vez",
       "url": "https://open.spotify.com/track/6XFduBZIOMyOV8sCcHuYzb"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 184920,
+      "name": "La Rosa",
+      "url": "https://open.spotify.com/track/0HiDvAV1NFSt1rLXvrTO49"
     },
     {
       "added_at": "2023-03-10 18:44:18",

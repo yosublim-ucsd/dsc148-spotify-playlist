@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 190542,
+  "num_followers": 190577,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTkzYjk3Mjk2ODliNmRmYmI1NzJlN2Q4MzZjMzc3ZWEzMDI0ZDhl",
+  "snapshot_id": "MTcxMDIwNDQ3OSwwMDAwMDAwMDUwZDU2NjhmMjE1YWZlNGRiMTNiZTAyZTIxMTc2N2U2",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Escribo Rap Con R De Revolucion",
+        "url": "https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7"
+      },
+      "artists": [
+        {
+          "name": "Portavoz",
+          "url": "https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg"
+        }
+      ],
+      "duration_ms": 268467,
+      "name": "Al Pueblo Le Asusta La Revolucio\u0301n",
+      "url": "https://open.spotify.com/track/582Lfqa9mSQO8bXtZImRYl"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Mujeres",
         "url": "https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 215579,
       "name": "Mujeres",
       "url": "https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Escribo Rap Con R De Revolucion",
-        "url": "https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7"
-      },
-      "artists": [
-        {
-          "name": "Portavoz",
-          "url": "https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg"
-        }
-      ],
-      "duration_ms": 268467,
-      "name": "Al Pueblo Le Asusta La Revolucio\u0301n",
-      "url": "https://open.spotify.com/track/582Lfqa9mSQO8bXtZImRYl"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Autogestion y Resistencia",
-        "url": "https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR"
-      },
-      "artists": [
-        {
-          "name": "Audry Funk",
-          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Sororidad",
-      "url": "https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Funkybar\u00edtico Hed\u00f3nico Fant\u00e1stico",
         "url": "https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 240716,
       "name": "El Mundo Que Nos Toc\u00f3 Vivir",
       "url": "https://open.spotify.com/track/1KEi9GBOe3bXTj1WGM282v"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Autogestion y Resistencia",
+        "url": "https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR"
+      },
+      "artists": [
+        {
+          "name": "Audry Funk",
+          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Sororidad",
+      "url": "https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "que lo que",
-        "url": "https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 124448,
-      "name": "que lo que",
-      "url": "https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Dime Qu\u00e9 Pasa",
         "url": "https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 110308,
       "name": "Matar al Presidente",
       "url": "https://open.spotify.com/track/6HA0cETjAdZVme1VZvA5pf"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "que lo que",
+        "url": "https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 124448,
+      "name": "que lo que",
+      "url": "https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Almadura",
+        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 195810,
+      "name": "Odio",
+      "url": "https://open.spotify.com/track/7ss9oVoeAgsvNPhn5DyeQh"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Su Madre Patria",
         "url": "https://open.spotify.com/album/3BlhpwuACPUsR8xSLO8DwW"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 136000,
       "name": "Su Madre Patria",
       "url": "https://open.spotify.com/track/644qoF650m6xvB8PHPSz1q"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Almadura",
-        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 195810,
-      "name": "Odio",
-      "url": "https://open.spotify.com/track/7ss9oVoeAgsvNPhn5DyeQh"
     }
   ],
   "unique_name": "Himnos de Resistencia Latinoamericana",

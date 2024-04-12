@@ -1,12 +1,12 @@
 {
-  "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 88710,
+  "description": "This Is El de La Guitarra. Los temas esenciales, todos en una lista.",
+  "num_followers": 88727,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWZhYTdjOTkxMzljNTE0Yjc0ZDcyZWEyNzkzYjc0Y2EwMjM1Zjhk",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDE3MTIwOWYwNWRjOThiOWM4NDA0NTlmNGM1MWVlNTJi",
   "tracks": [
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loco Malandro",
-        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        },
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 161693,
-      "name": "Loco Malandro",
-      "url": "https://open.spotify.com/track/0idKybdhXgh5O94UhJCufA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Dicen Rana y Brinco",
         "url": "https://open.spotify.com/album/3ecvio5Id4s2NCOHMWKFbf"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 188790,
       "name": "Me Dicen Rana y Brinco",
       "url": "https://open.spotify.com/track/3VJHjovNyzkOw4CUdXOp6Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loco Malandro",
+        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 161693,
+      "name": "Loco Malandro",
+      "url": "https://open.spotify.com/track/0idKybdhXgh5O94UhJCufA"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ramon Buchon",
-        "url": "https://open.spotify.com/album/2DAnJcXYCfkBv4NBfmbdIL"
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 239620,
-      "name": "Ramon Buchon",
-      "url": "https://open.spotify.com/track/5s1e25d3neq4zcZa1ndvJJ"
+      "duration_ms": 186261,
+      "name": "Se Oyen Recio Los Disparos",
+      "url": "https://open.spotify.com/track/6qqICh8gOle9spzdSru35F"
     },
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Va Por Todos",
-        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 186261,
-      "name": "Se Oyen Recio Los Disparos",
-      "url": "https://open.spotify.com/track/6qqICh8gOle9spzdSru35F"
+      "duration_ms": 196500,
+      "name": "Miran La Apariencia",
+      "url": "https://open.spotify.com/track/3FhARguQQiWEunemrkl3Yh"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
-        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+        "name": "Ramon Buchon",
+        "url": "https://open.spotify.com/album/2DAnJcXYCfkBv4NBfmbdIL"
       },
       "artists": [
         {
@@ -608,25 +608,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 196500,
-      "name": "Miran La Apariencia",
-      "url": "https://open.spotify.com/track/3FhARguQQiWEunemrkl3Yh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Prometido Es Deuda (Vol.3)",
-        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Que Me Va Mal",
-      "url": "https://open.spotify.com/track/0fvu7lFdHrY4JTENYgSeoK"
+      "duration_ms": 239620,
+      "name": "Ramon Buchon",
+      "url": "https://open.spotify.com/track/5s1e25d3neq4zcZa1ndvJJ"
     },
     {
       "added_at": null,
@@ -643,6 +627,22 @@
       "duration_ms": 206861,
       "name": "Vida De Locura",
       "url": "https://open.spotify.com/track/72kmnOvZvpNfsIsbGQ6FGH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Prometido Es Deuda (Vol.3)",
+        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Que Me Va Mal",
+      "url": "https://open.spotify.com/track/0fvu7lFdHrY4JTENYgSeoK"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Prometido Es Deuda (Vol.3)",
-        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 225226,
-      "name": "Ya Lo Decid\u00ed",
-      "url": "https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Prometido Es Deuda Vol.2",
         "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 153289,
       "name": "JJ Es La Clave",
       "url": "https://open.spotify.com/track/1g6LesEZ6Ai99arHJv6hBr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Prometido Es Deuda (Vol.3)",
+        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 225226,
+      "name": "Ya Lo Decid\u00ed",
+      "url": "https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Instinto",
-        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 147999,
-      "name": "Fino El Porteson",
-      "url": "https://open.spotify.com/track/6QqbWrnaAFOKI9jv0nbAkf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Mismo Morro",
         "url": "https://open.spotify.com/album/159mfKivxJG6O33wzaMVCI"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 140122,
       "name": "El Mismo Morro",
       "url": "https://open.spotify.com/track/2LJC71XUvul0dUcGy41neC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 147999,
+      "name": "Fino El Porteson",
+      "url": "https://open.spotify.com/track/6QqbWrnaAFOKI9jv0nbAkf"
     },
     {
       "added_at": null,

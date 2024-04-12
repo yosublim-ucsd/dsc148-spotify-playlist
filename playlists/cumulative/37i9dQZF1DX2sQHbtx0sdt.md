@@ -2,7 +2,7 @@
 
 ### [Global Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DX2sQHbtx0sdt)
 
-> New and trending hip\-hop from around the world\. Cover: j\-hope
+> New and trending hip\-hop from around the world\. Cover: Jul
 
 344 songs - 17 hr 9 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Recuerda los \u00e9xitos ochenteros que sonaron en la radio mexicana.",
-  "num_followers": 934657,
+  "num_followers": 934798,
   "original_name": "Los 80 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjcxN2UwZDZjMzAwMjgzYjBhYzM0ZWQ2ZmFiZWIwODk0MjU4ZWI5",
+  "snapshot_id": "MTY4NjgzNjczNCwwMDAwMDAwMDk2MzkzMTBhNzQxNjcyY2U2MWEwZGFhM2VkZjI4NjNk",
   "tracks": [
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Rocio Durcal Canta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/21Ju1SwSaCZHkWtZh1dEyX"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 180333,
-      "name": "Fue un Placer Conocerte",
-      "url": "https://open.spotify.com/track/21mG4EMCJcsA04nzV2MHbn"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 197000,
       "name": "Atado a un Sentimiento",
       "url": "https://open.spotify.com/track/3saHmHGSuye9ysBOlv3Pkx"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Rocio Durcal Canta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/21Ju1SwSaCZHkWtZh1dEyX"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 180333,
+      "name": "Fue un Placer Conocerte",
+      "url": "https://open.spotify.com/track/21mG4EMCJcsA04nzV2MHbn"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/0fflnp0SMGlehNqu07AczV"
-      },
-      "artists": [
-        {
-          "name": "Rostros Ocultos",
-          "url": "https://open.spotify.com/artist/4sgBOSpSKtU749d6DGH5Ib"
-        }
-      ],
-      "duration_ms": 158253,
-      "name": "El Final",
-      "url": "https://open.spotify.com/track/39ELDQVDsgBmo5gbTuru9U"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/1m9I3KWRnaqOTGqptc1gT2"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 266013,
       "name": "Yo No Nac\u00ed para Amar",
       "url": "https://open.spotify.com/track/5x45XdMQ6rgqIUVadroUvS"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/0fflnp0SMGlehNqu07AczV"
+      },
+      "artists": [
+        {
+          "name": "Rostros Ocultos",
+          "url": "https://open.spotify.com/artist/4sgBOSpSKtU749d6DGH5Ib"
+        }
+      ],
+      "duration_ms": 158253,
+      "name": "El Final",
+      "url": "https://open.spotify.com/track/39ELDQVDsgBmo5gbTuru9U"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Al Norte Del Sur",
-        "url": "https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 309973,
-      "name": "Louis",
-      "url": "https://open.spotify.com/track/4yK3AVfdhq9SqCzuLJwYOW"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "El Angel Del Rock Vol. 2",
         "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
       },
@@ -1399,6 +1383,22 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
+        "name": "Al Norte Del Sur",
+        "url": "https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 309973,
+      "name": "Louis",
+      "url": "https://open.spotify.com/track/4yK3AVfdhq9SqCzuLJwYOW"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
         "name": "El Sonido Vol. 1",
         "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
       },
@@ -1411,6 +1411,22 @@
       "duration_ms": 262973,
       "name": "Mi Buen Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5rH8LM84M3eG0ZtzkkYMLD"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Cosas De Enamorados",
+        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 199280,
+      "name": "No Me Vuelvo a Enamorar",
+      "url": "https://open.spotify.com/track/2su8ABoDsXbAXMIqLUgjnK"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1443,22 +1459,6 @@
       "duration_ms": 224318,
       "name": "Tu Mu\u00f1eca",
       "url": "https://open.spotify.com/track/4jiZpcv4YwVDw46wnMHwsy"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
-        "name": "Cosas De Enamorados",
-        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 199280,
-      "name": "No Me Vuelvo a Enamorar",
-      "url": "https://open.spotify.com/track/2su8ABoDsXbAXMIqLUgjnK"
     },
     {
       "added_at": "2020-06-24 19:34:30",

@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 838563,
+  "num_followers": 839147,
   "original_name": "Energy Booster: Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmE4NDAwYjgxZjhmOTVjOTZkNjVjODhjZWUwZGUyNzExNjk1YmVh",
+  "snapshot_id": "MTcwMjU4MzUwNiwwMDAwMDAwMDU3NzU0ZDkxYWQxNDU2M2UwZjY5Y2FiNzJlYjI2ZTVh",
   "tracks": [
     {
       "added_at": "2023-12-14 19:51:46",
@@ -591,6 +591,26 @@
     {
       "added_at": "2023-12-14 19:51:46",
       "album": {
+        "name": "Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix)",
+        "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "duration_ms": 214912,
+      "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
+      "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
+    },
+    {
+      "added_at": "2023-12-14 19:51:46",
+      "album": {
         "name": "REACT",
         "url": "https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 201145,
       "name": "REACT",
       "url": "https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"
-    },
-    {
-      "added_at": "2023-12-14 19:51:46",
-      "album": {
-        "name": "Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix)",
-        "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
-        }
-      ],
-      "duration_ms": 214912,
-      "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
-      "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
     },
     {
       "added_at": "2023-12-14 19:51:46",
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-12-14 19:51:46",
       "album": {
-        "name": "Wake Me Up In Paris",
-        "url": "https://open.spotify.com/album/6TiAOruZ9SPA5FLsD7ACsN"
-      },
-      "artists": [
-        {
-          "name": "Anthony Keyrouz",
-          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
-        },
-        {
-          "name": "Paradigm",
-          "url": "https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ"
-        }
-      ],
-      "duration_ms": 136946,
-      "name": "Wake Me Up In Paris",
-      "url": "https://open.spotify.com/track/4dq7XLDmFHNwc1yqL339qT"
-    },
-    {
-      "added_at": "2023-12-14 19:51:46",
-      "album": {
         "name": "All By Myself",
         "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 171747,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
+    },
+    {
+      "added_at": "2023-12-14 19:51:46",
+      "album": {
+        "name": "Wake Me Up In Paris",
+        "url": "https://open.spotify.com/album/6TiAOruZ9SPA5FLsD7ACsN"
+      },
+      "artists": [
+        {
+          "name": "Anthony Keyrouz",
+          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
+        },
+        {
+          "name": "Paradigm",
+          "url": "https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ"
+        }
+      ],
+      "duration_ms": 136946,
+      "name": "Wake Me Up In Paris",
+      "url": "https://open.spotify.com/track/4dq7XLDmFHNwc1yqL339qT"
     },
     {
       "added_at": "2023-12-14 19:51:46",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2023-12-14 19:51:46",
       "album": {
+        "name": "Work With My Love",
+        "url": "https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 150483,
+      "name": "Work With My Love",
+      "url": "https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw"
+    },
+    {
+      "added_at": "2023-12-14 19:51:46",
+      "album": {
         "name": "I Could Be The One [Avicii vs Nicky Romero]",
         "url": "https://open.spotify.com/album/0sOrbRnJcNod63r49kmGVb"
       },
@@ -1123,26 +1143,6 @@
     {
       "added_at": "2023-12-14 19:51:46",
       "album": {
-        "name": "Work With My Love",
-        "url": "https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 150483,
-      "name": "Work With My Love",
-      "url": "https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw"
-    },
-    {
-      "added_at": "2023-12-14 19:51:46",
-      "album": {
         "name": "Nevada",
         "url": "https://open.spotify.com/album/35waq1Bkgy11OjZNGuk9Gj"
       },
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-12-14 19:51:46",
       "album": {
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        }
+      ],
+      "duration_ms": 161801,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
+    },
+    {
+      "added_at": "2023-12-14 19:51:46",
+      "album": {
         "name": "Rise Up (feat. Vamero)",
         "url": "https://open.spotify.com/album/4DsxykS9CPTnJPeoWXkRV8"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 182000,
       "name": "Rise Up (feat. Vamero)",
       "url": "https://open.spotify.com/track/46lyJh9GYmWsHez3EsvmAx"
-    },
-    {
-      "added_at": "2023-12-14 19:51:46",
-      "album": {
-        "name": "Maria Maria",
-        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
-      },
-      "artists": [
-        {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
-        }
-      ],
-      "duration_ms": 161801,
-      "name": "Maria Maria",
-      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
     },
     {
       "added_at": "2023-12-14 19:51:46",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2023-12-14 19:51:46",
       "album": {
-        "name": "Hallucination",
-        "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 174794,
-      "name": "Hallucination",
-      "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
-    },
-    {
-      "added_at": "2023-12-14 19:51:46",
-      "album": {
         "name": "Desire (Gryffin Remix)",
         "url": "https://open.spotify.com/album/2EaUj2cxVeL2DhATcN9xcL"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 268840,
       "name": "Desire - Gryffin Remix",
       "url": "https://open.spotify.com/track/6ctWstoouxCcvuTsd4cHNS"
+    },
+    {
+      "added_at": "2023-12-14 19:51:46",
+      "album": {
+        "name": "Hallucination",
+        "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 174794,
+      "name": "Hallucination",
+      "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
     },
     {
       "added_at": "2023-12-14 19:51:46",
@@ -1867,6 +1867,26 @@
     {
       "added_at": "2023-12-14 19:51:46",
       "album": {
+        "name": "Love Again (feat. Alida)",
+        "url": "https://open.spotify.com/album/5S8QFORgv9orFYCqSVSjzq"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        }
+      ],
+      "duration_ms": 147401,
+      "name": "Love Again (feat. Alida)",
+      "url": "https://open.spotify.com/track/63bWXWGcWnRQvdS8bJWdkB"
+    },
+    {
+      "added_at": "2023-12-14 19:51:46",
+      "album": {
         "name": "Great Spirit",
         "url": "https://open.spotify.com/album/3d18JaxDfbuCD8AyoG07Yt"
       },
@@ -1935,26 +1955,6 @@
       "duration_ms": 169466,
       "name": "All Day And Night",
       "url": "https://open.spotify.com/track/5naYe7rLMZcLfO1DKg48MK"
-    },
-    {
-      "added_at": "2023-12-14 19:51:46",
-      "album": {
-        "name": "Love Again (feat. Alida)",
-        "url": "https://open.spotify.com/album/5S8QFORgv9orFYCqSVSjzq"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Alida",
-          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
-        }
-      ],
-      "duration_ms": 147401,
-      "name": "Love Again (feat. Alida)",
-      "url": "https://open.spotify.com/track/63bWXWGcWnRQvdS8bJWdkB"
     },
     {
       "added_at": "2023-12-14 19:51:46",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2023-12-14 19:51:46",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/4IU5ADOJ9DnVa9clXVhrEE"
-      },
-      "artists": [
-        {
-          "name": "Gaullin",
-          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
-        }
-      ],
-      "duration_ms": 173066,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/0A5gdlrpAuQqZ2iFgnqBFW"
-    },
-    {
-      "added_at": "2023-12-14 19:51:46",
-      "album": {
         "name": "Say It Right (ILURO Remix)",
         "url": "https://open.spotify.com/album/6ZEaJiDo55GwRWxtkbG00a"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 133724,
       "name": "Say It Right - ILURO Remix",
       "url": "https://open.spotify.com/track/5ofHoV0ywhsZUOArK1Oa1h"
+    },
+    {
+      "added_at": "2023-12-14 19:51:46",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/4IU5ADOJ9DnVa9clXVhrEE"
+      },
+      "artists": [
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        }
+      ],
+      "duration_ms": 173066,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0A5gdlrpAuQqZ2iFgnqBFW"
     },
     {
       "added_at": "2023-12-14 19:51:46",
@@ -2507,26 +2507,6 @@
     {
       "added_at": "2023-12-14 19:51:46",
       "album": {
-        "name": "Sunglasses At Night",
-        "url": "https://open.spotify.com/album/4hLi7mKyVQ3tL20otPQpk1"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Sunglasses At Night",
-      "url": "https://open.spotify.com/track/6eoY6XnhGFr3HInyECJdbx"
-    },
-    {
-      "added_at": "2023-12-14 19:51:46",
-      "album": {
         "name": "Places",
         "url": "https://open.spotify.com/album/7jTFTS9Tt190soRQDUuLRD"
       },
@@ -2543,6 +2523,26 @@
       "duration_ms": 202745,
       "name": "Places",
       "url": "https://open.spotify.com/track/4QcDkuGQx9824a6X9BZF4e"
+    },
+    {
+      "added_at": "2023-12-14 19:51:46",
+      "album": {
+        "name": "Sunglasses At Night",
+        "url": "https://open.spotify.com/album/4hLi7mKyVQ3tL20otPQpk1"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Sunglasses At Night",
+      "url": "https://open.spotify.com/track/6eoY6XnhGFr3HInyECJdbx"
     },
     {
       "added_at": "2023-12-14 19:51:46",
@@ -2599,22 +2599,6 @@
     {
       "added_at": "2023-12-14 19:51:46",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/1PvEp0qeU6o2rm0i2qUC2N"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        }
-      ],
-      "duration_ms": 188640,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/6y1UtRcHQU07aUs3oxZ8Yn"
-    },
-    {
-      "added_at": "2023-12-14 19:51:46",
-      "album": {
         "name": "After Midnight (feat. Xoro)",
         "url": "https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I"
       },
@@ -2639,6 +2623,42 @@
     {
       "added_at": "2023-12-14 19:51:46",
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/1PvEp0qeU6o2rm0i2qUC2N"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 188640,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/6y1UtRcHQU07aUs3oxZ8Yn"
+    },
+    {
+      "added_at": "2023-12-14 19:51:46",
+      "album": {
+        "name": "All Stars",
+        "url": "https://open.spotify.com/album/0QmyqQAPTLxNCs6qya9CSa"
+      },
+      "artists": [
+        {
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
+        {
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "All Stars",
+      "url": "https://open.spotify.com/track/26haJjtanhamtf25RXH0MO"
+    },
+    {
+      "added_at": "2023-12-14 19:51:46",
+      "album": {
         "name": "I'm Blue (Club Mixes)",
         "url": "https://open.spotify.com/album/785itgCjNtYOiRpu1SIDoo"
       },
@@ -2651,6 +2671,22 @@
       "duration_ms": 150000,
       "name": "I'm Blue - Club Mix",
       "url": "https://open.spotify.com/track/0P5lXk4fg0682IgDyK7GFM"
+    },
+    {
+      "added_at": "2023-12-14 19:51:46",
+      "album": {
+        "name": "Pink",
+        "url": "https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 170706,
+      "name": "Smash My Heart",
+      "url": "https://open.spotify.com/track/4f9iU6U8XBqlzZyoEHirXS"
     },
     {
       "added_at": "2023-12-14 19:51:46",
@@ -2679,42 +2715,6 @@
       "duration_ms": 226161,
       "name": "Azukita (Steve Aoki, Daddy Yankee, Play-N-Skillz & Elvis Crespo) (feat. Elvis Crespo)",
       "url": "https://open.spotify.com/track/5e45GhSF18JYoLpaq2F48h"
-    },
-    {
-      "added_at": "2023-12-14 19:51:46",
-      "album": {
-        "name": "Pink",
-        "url": "https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 170706,
-      "name": "Smash My Heart",
-      "url": "https://open.spotify.com/track/4f9iU6U8XBqlzZyoEHirXS"
-    },
-    {
-      "added_at": "2023-12-14 19:51:46",
-      "album": {
-        "name": "All Stars",
-        "url": "https://open.spotify.com/album/0QmyqQAPTLxNCs6qya9CSa"
-      },
-      "artists": [
-        {
-          "name": "Martin Solveig",
-          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
-        },
-        {
-          "name": "ALMA",
-          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "All Stars",
-      "url": "https://open.spotify.com/track/26haJjtanhamtf25RXH0MO"
     },
     {
       "added_at": "2023-12-14 19:51:46",
@@ -2771,22 +2771,22 @@
     {
       "added_at": "2023-12-14 19:51:46",
       "album": {
-        "name": "Would You Ever",
-        "url": "https://open.spotify.com/album/2czvZrAe1DWj6uc4iOqtJX"
+        "name": "Get Up (Rattle) [feat. Far East Movement]",
+        "url": "https://open.spotify.com/album/1qnQH3SVJ19CIO16VW2tes"
       },
       "artists": [
         {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
         },
         {
-          "name": "Poo Bear",
-          "url": "https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX"
+          "name": "Far East Movement",
+          "url": "https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq"
         }
       ],
-      "duration_ms": 234285,
-      "name": "Would You Ever",
-      "url": "https://open.spotify.com/track/57p8CBvPOxrvyCbn6ttl5r"
+      "duration_ms": 166932,
+      "name": "Get Up (Rattle) [feat. Far East Movement] - Vocal Edit",
+      "url": "https://open.spotify.com/track/3bu6Gu2lzm9VEoab1za8BM"
     },
     {
       "added_at": "2023-12-14 19:51:46",
@@ -2815,22 +2815,22 @@
     {
       "added_at": "2023-12-14 19:51:46",
       "album": {
-        "name": "Get Up (Rattle) [feat. Far East Movement]",
-        "url": "https://open.spotify.com/album/1qnQH3SVJ19CIO16VW2tes"
+        "name": "Would You Ever",
+        "url": "https://open.spotify.com/album/2czvZrAe1DWj6uc4iOqtJX"
       },
       "artists": [
         {
-          "name": "Bingo Players",
-          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         },
         {
-          "name": "Far East Movement",
-          "url": "https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq"
+          "name": "Poo Bear",
+          "url": "https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX"
         }
       ],
-      "duration_ms": 166932,
-      "name": "Get Up (Rattle) [feat. Far East Movement] - Vocal Edit",
-      "url": "https://open.spotify.com/track/3bu6Gu2lzm9VEoab1za8BM"
+      "duration_ms": 234285,
+      "name": "Would You Ever",
+      "url": "https://open.spotify.com/track/57p8CBvPOxrvyCbn6ttl5r"
     },
     {
       "added_at": "2023-12-14 19:51:46",
@@ -2971,26 +2971,6 @@
     {
       "added_at": "2023-12-14 19:51:46",
       "album": {
-        "name": "Blood, Sweat & 3 Years",
-        "url": "https://open.spotify.com/album/1TgJXcoFJ7BN0NiViN7wtx"
-      },
-      "artists": [
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 206320,
-      "name": "Take Me Home (feat. Bebe Rexha)",
-      "url": "https://open.spotify.com/track/2zMXH5k5NZy1Nw460bLvRh"
-    },
-    {
-      "added_at": "2023-12-14 19:51:46",
-      "album": {
         "name": "Rave Superstar",
         "url": "https://open.spotify.com/album/1qXEVMoSphad9CrO7Zwdsi"
       },
@@ -3011,6 +2991,26 @@
       "duration_ms": 159993,
       "name": "Rave Superstar",
       "url": "https://open.spotify.com/track/26dZqv39K4kE2kFXAI5dH5"
+    },
+    {
+      "added_at": "2023-12-14 19:51:46",
+      "album": {
+        "name": "Blood, Sweat & 3 Years",
+        "url": "https://open.spotify.com/album/1TgJXcoFJ7BN0NiViN7wtx"
+      },
+      "artists": [
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 206320,
+      "name": "Take Me Home (feat. Bebe Rexha)",
+      "url": "https://open.spotify.com/track/2zMXH5k5NZy1Nw460bLvRh"
     },
     {
       "added_at": "2023-12-14 19:51:46",

@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 285503,
+  "2024-04-12": 285580,
   "date_first_scraped": "2022-03-01",
   "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:1q6xQXmuTccwh7gBR7ToUN\">Common Hymnal</a>",
   "name": "Fresh Gospel",
@@ -6543,6 +6543,10 @@
         {
           "name": "Mississippi Mass Choir",
           "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
+        },
+        {
+          "name": "Paul Porter",
+          "url": "https://open.spotify.com/artist/35qCI10NSI2BwsLDq3MFeK"
         }
       ],
       "date_added": "2024-03-29",

@@ -1,12 +1,12 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 148985,
+  "num_followers": 149044,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmUzMzRmYjM5MmE5OTk1NDU1MzNiMjE3YjhhYjBhODA1Y2VmN2Y3",
+  "snapshot_id": "MTY5MzU4NjU2NSwwMDAwMDAwMDZmNzk2YmE2N2YxNGZmODE4OGU0OTlmYWVmNGQwNTlj",
   "tracks": [
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "HU HU HU",
-        "url": "https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 393453,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/04BizsqpIiqNQALwvaPr5a"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Bengala",
         "url": "https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 259253,
       "name": "Carretera",
       "url": "https://open.spotify.com/track/7spTrcPpTSfBfuJnZxlrK3"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "HU HU HU",
+        "url": "https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 393453,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/04BizsqpIiqNQALwvaPr5a"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Historias De Un Cowboy",
-        "url": "https://open.spotify.com/album/3heymgUjbF6Z9o8CGKC8Kg"
+        "name": "S\u00faper Tigre",
+        "url": "https://open.spotify.com/album/6j4jrKSq0iYQ2uhjZGYDs3"
       },
       "artists": [
         {
-          "name": "Los Marty",
-          "url": "https://open.spotify.com/artist/5seqHZItOVyRw65m6CgiNx"
+          "name": "S\u00faper Tigre",
+          "url": "https://open.spotify.com/artist/2k7XXrxlqG3H27BueuiQW3"
         }
       ],
-      "duration_ms": 166504,
-      "name": "Miente",
-      "url": "https://open.spotify.com/track/6EN1O6MTvo7QdSivuDy7pR"
+      "duration_ms": 206673,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/14dxDAiZ1YMfT0s0urR5Zh"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "S\u00faper Tigre",
-        "url": "https://open.spotify.com/album/6j4jrKSq0iYQ2uhjZGYDs3"
+        "name": "Historias De Un Cowboy",
+        "url": "https://open.spotify.com/album/3heymgUjbF6Z9o8CGKC8Kg"
       },
       "artists": [
         {
-          "name": "S\u00faper Tigre",
-          "url": "https://open.spotify.com/artist/2k7XXrxlqG3H27BueuiQW3"
+          "name": "Los Marty",
+          "url": "https://open.spotify.com/artist/5seqHZItOVyRw65m6CgiNx"
         }
       ],
-      "duration_ms": 206673,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/14dxDAiZ1YMfT0s0urR5Zh"
+      "duration_ms": 166504,
+      "name": "Miente",
+      "url": "https://open.spotify.com/track/6EN1O6MTvo7QdSivuDy7pR"
     },
     {
       "added_at": "2023-09-01 16:42:45",

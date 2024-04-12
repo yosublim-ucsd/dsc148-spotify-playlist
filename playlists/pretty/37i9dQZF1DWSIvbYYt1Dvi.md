@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > bivolt xis e o maestro do canão é \(smp será\) AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,208,138 likes - 49 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,208,117 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 48 | [Nuvem Negra](https://open.spotify.com/track/1QTRxtnPMeuw9cFU6nFucO) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89) | [Nuvem Negra](https://open.spotify.com/album/5lNwerLY6IY3nJMFkIYoOd) | 2:41 |
 | 49 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 |
 
-Snapshot ID: `MCxjZTI4ZjJhM2M0OTE3NGEyNDkxMTZjZjVmNWFjZDI4MDRkMDk1MjMw`
+Snapshot ID: `MTcxMjc3MDk2OSwwMDAwMDAwMGY1MmRiZTVkZmNmZWIwZTdiMDRkMTZjNWRmNTgyNzVi`

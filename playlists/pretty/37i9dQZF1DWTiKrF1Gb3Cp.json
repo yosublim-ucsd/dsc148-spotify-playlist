@@ -1,12 +1,12 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 200640,
+  "num_followers": 200760,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmJhOTAwMjVjMjk2YTNiYmYxMzgzNWZlN2Y1MjBhMTdjMGQ2M2Ex",
+  "snapshot_id": "MTcxMjc3OTIwNCwwMDAwMDAwMDRkNTUzMDYyODQxNWIzN2IyMzdhZDdkYjY4Nzc5YjVl",
   "tracks": [
     {
       "added_at": "2024-04-10 20:00:04",
@@ -243,6 +243,26 @@
     {
       "added_at": "2024-04-10 20:00:04",
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 235061,
+      "name": "Pixelados",
+      "url": "https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai"
+    },
+    {
+      "added_at": "2024-04-10 20:00:04",
+      "album": {
         "name": "NO SON KLLE",
         "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
       },
@@ -263,26 +283,6 @@
       "duration_ms": 223586,
       "name": "NO SON KLLE",
       "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
-    },
-    {
-      "added_at": "2024-04-10 20:00:04",
-      "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV",
-        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 235061,
-      "name": "Pixelados",
-      "url": "https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai"
     },
     {
       "added_at": "2024-04-10 20:00:04",
@@ -427,6 +427,26 @@
     {
       "added_at": "2024-04-10 20:00:04",
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 183797,
+      "name": "El Menos Visto",
+      "url": "https://open.spotify.com/track/6iC4fHzpEwug1iNFnNfhOy"
+    },
+    {
+      "added_at": "2024-04-10 20:00:04",
+      "album": {
         "name": "Necesidad",
         "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 188074,
       "name": "Pacas De Billetes",
       "url": "https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1"
-    },
-    {
-      "added_at": "2024-04-10 20:00:04",
-      "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 183797,
-      "name": "El Menos Visto",
-      "url": "https://open.spotify.com/track/6iC4fHzpEwug1iNFnNfhOy"
     },
     {
       "added_at": "2024-04-10 20:00:04",
@@ -935,30 +935,6 @@
     {
       "added_at": "2024-04-10 20:00:04",
       "album": {
-        "name": "DDD (Don Dimadon)",
-        "url": "https://open.spotify.com/album/57rh0geFIqYsrhh7qq9VGe"
-      },
-      "artists": [
-        {
-          "name": "TUNDER",
-          "url": "https://open.spotify.com/artist/6GMxW7EAQQjvk00uTF8pzZ"
-        },
-        {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
-        },
-        {
-          "name": "Beto Sierra",
-          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
-        }
-      ],
-      "duration_ms": 185281,
-      "name": "DDD (Don Dimadon)",
-      "url": "https://open.spotify.com/track/4RD4bv5iG8233iA3VMgPcF"
-    },
-    {
-      "added_at": "2024-04-10 20:00:04",
-      "album": {
         "name": "Disfrutando El Proceso",
         "url": "https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa"
       },
@@ -1003,6 +979,30 @@
     {
       "added_at": "2024-04-10 20:00:04",
       "album": {
+        "name": "DDD (Don Dimadon)",
+        "url": "https://open.spotify.com/album/57rh0geFIqYsrhh7qq9VGe"
+      },
+      "artists": [
+        {
+          "name": "TUNDER",
+          "url": "https://open.spotify.com/artist/6GMxW7EAQQjvk00uTF8pzZ"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        },
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        }
+      ],
+      "duration_ms": 185281,
+      "name": "DDD (Don Dimadon)",
+      "url": "https://open.spotify.com/track/4RD4bv5iG8233iA3VMgPcF"
+    },
+    {
+      "added_at": "2024-04-10 20:00:04",
+      "album": {
         "name": "Clasificacion C Vol.1",
         "url": "https://open.spotify.com/album/6vPMTvNEFkY9V7nxFgxjHZ"
       },
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2024-04-10 20:00:04",
       "album": {
-        "name": "77",
-        "url": "https://open.spotify.com/album/7J0iDOtfo7qkB5sMNc8vbq"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 215745,
-      "name": "77",
-      "url": "https://open.spotify.com/track/7y2KhPccpkgRSMa3GDXjQq"
-    },
-    {
-      "added_at": "2024-04-10 20:00:04",
-      "album": {
         "name": "100% Mayo",
         "url": "https://open.spotify.com/album/6uB76hLNZkRHJ7YSkHmRKV"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 214655,
       "name": "100% Mayo",
       "url": "https://open.spotify.com/track/66xebj3Jw2Y6qzuvxnE6QD"
+    },
+    {
+      "added_at": "2024-04-10 20:00:04",
+      "album": {
+        "name": "77",
+        "url": "https://open.spotify.com/album/7J0iDOtfo7qkB5sMNc8vbq"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 215745,
+      "name": "77",
+      "url": "https://open.spotify.com/track/7y2KhPccpkgRSMa3GDXjQq"
     },
     {
       "added_at": "2024-04-10 20:00:04",
@@ -1279,30 +1279,6 @@
     {
       "added_at": "2024-04-10 20:00:04",
       "album": {
-        "name": "LA BESTIA",
-        "url": "https://open.spotify.com/album/5gvZo5yLEy0tyPGJLsDzoS"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        },
-        {
-          "name": "Rafael Amaya",
-          "url": "https://open.spotify.com/artist/4bforrvhv0YFDP83UQBbU8"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "LA BESTIA",
-      "url": "https://open.spotify.com/track/58TiBzSkA8e4ex4crrFwg2"
-    },
-    {
-      "added_at": "2024-04-10 20:00:04",
-      "album": {
         "name": "Liga Malandra 2",
         "url": "https://open.spotify.com/album/46phNOwy2WSnRWYvOBzjTZ"
       },
@@ -1343,8 +1319,32 @@
     {
       "added_at": "2024-04-10 20:00:04",
       "album": {
-        "name": "Feria en el Sobre",
-        "url": "https://open.spotify.com/album/23Mm9RJhQPOToWrGdcAmRc"
+        "name": "LA BESTIA",
+        "url": "https://open.spotify.com/album/5gvZo5yLEy0tyPGJLsDzoS"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Rafael Amaya",
+          "url": "https://open.spotify.com/artist/4bforrvhv0YFDP83UQBbU8"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "LA BESTIA",
+      "url": "https://open.spotify.com/track/58TiBzSkA8e4ex4crrFwg2"
+    },
+    {
+      "added_at": "2024-04-10 20:00:04",
+      "album": {
+        "name": "El Vicio y la Fama",
+        "url": "https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI"
       },
       "artists": [
         {
@@ -1352,17 +1352,13 @@
           "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 194100,
-      "name": "Feria en el Sobre",
-      "url": "https://open.spotify.com/track/5npAbr2v6wRL75IHWp2Noi"
+      "duration_ms": 229610,
+      "name": "El Catr\u00edn",
+      "url": "https://open.spotify.com/track/1N9fhsSQ5uiiFJWiEPpK6R"
     },
     {
       "added_at": "2024-04-10 20:00:04",
@@ -1403,18 +1399,22 @@
     {
       "added_at": "2024-04-10 20:00:04",
       "album": {
-        "name": "Viaje Sin Equipaje",
-        "url": "https://open.spotify.com/album/1hMgjMW8QVjaonxMQvyeVw"
+        "name": "Ahora Preguntan",
+        "url": "https://open.spotify.com/album/0otZ6JXJ84JYCXbjAQh8lK"
       },
       "artists": [
         {
-          "name": "Mr. Yosie Locote",
-          "url": "https://open.spotify.com/artist/0Dek2t04zGDa5wisG7oYrR"
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
-      "duration_ms": 255843,
-      "name": "Entrada Sin Salida",
-      "url": "https://open.spotify.com/track/41ODYgrsIOEW21A3RqB5ZK"
+      "duration_ms": 188368,
+      "name": "Ahora Preguntan",
+      "url": "https://open.spotify.com/track/4h4aLuUdPJQehnMCGyefCu"
     },
     {
       "added_at": "2024-04-10 20:00:04",
@@ -1439,22 +1439,18 @@
     {
       "added_at": "2024-04-10 20:00:04",
       "album": {
-        "name": "Ahora Preguntan",
-        "url": "https://open.spotify.com/album/0otZ6JXJ84JYCXbjAQh8lK"
+        "name": "Viaje Sin Equipaje",
+        "url": "https://open.spotify.com/album/1hMgjMW8QVjaonxMQvyeVw"
       },
       "artists": [
         {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Mr. Yosie Locote",
+          "url": "https://open.spotify.com/artist/0Dek2t04zGDa5wisG7oYrR"
         }
       ],
-      "duration_ms": 188368,
-      "name": "Ahora Preguntan",
-      "url": "https://open.spotify.com/track/4h4aLuUdPJQehnMCGyefCu"
+      "duration_ms": 255843,
+      "name": "Entrada Sin Salida",
+      "url": "https://open.spotify.com/track/41ODYgrsIOEW21A3RqB5ZK"
     },
     {
       "added_at": "2024-04-10 20:00:04",
@@ -1503,24 +1499,32 @@
     {
       "added_at": "2024-04-10 20:00:04",
       "album": {
-        "name": "Ni Miedo Ni Piedad",
-        "url": "https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg"
+        "name": "La Misi\u00f3n (Episodio 4)",
+        "url": "https://open.spotify.com/album/5TzgFVuMKUDiyYPtMiX66e"
       },
       "artists": [
         {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
         }
       ],
-      "duration_ms": 278181,
-      "name": "Ni Miedo Ni Piedad",
-      "url": "https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8"
+      "duration_ms": 293325,
+      "name": "La Misi\u00f3n (Episodio 4)",
+      "url": "https://open.spotify.com/track/3TAzpSBGCZvFe3XuHevWoW"
     },
     {
       "added_at": "2024-04-10 20:00:04",
       "album": {
-        "name": "El Vicio y la Fama",
-        "url": "https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI"
+        "name": "Feria en el Sobre",
+        "url": "https://open.spotify.com/album/23Mm9RJhQPOToWrGdcAmRc"
       },
       "artists": [
         {
@@ -1528,13 +1532,17 @@
           "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         },
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 229610,
-      "name": "El Catr\u00edn",
-      "url": "https://open.spotify.com/track/1N9fhsSQ5uiiFJWiEPpK6R"
+      "duration_ms": 194100,
+      "name": "Feria en el Sobre",
+      "url": "https://open.spotify.com/track/5npAbr2v6wRL75IHWp2Noi"
     },
     {
       "added_at": "2024-04-10 20:00:04",
@@ -1559,26 +1567,18 @@
     {
       "added_at": "2024-04-10 20:00:04",
       "album": {
-        "name": "La Misi\u00f3n (Episodio 4)",
-        "url": "https://open.spotify.com/album/5TzgFVuMKUDiyYPtMiX66e"
+        "name": "Ni Miedo Ni Piedad",
+        "url": "https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg"
       },
       "artists": [
         {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Tiro Loko",
-          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
         }
       ],
-      "duration_ms": 293325,
-      "name": "La Misi\u00f3n (Episodio 4)",
-      "url": "https://open.spotify.com/track/3TAzpSBGCZvFe3XuHevWoW"
+      "duration_ms": 278181,
+      "name": "Ni Miedo Ni Piedad",
+      "url": "https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8"
     },
     {
       "added_at": "2024-04-10 20:00:04",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-04-10 20:00:04",
       "album": {
-        "name": "El Ranchero",
-        "url": "https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 235728,
-      "name": "El Ranchero",
-      "url": "https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz"
-    },
-    {
-      "added_at": "2024-04-10 20:00:04",
-      "album": {
         "name": "En el Espacio",
         "url": "https://open.spotify.com/album/63DPGQHAUt7Uv9e1pn9APj"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 295345,
       "name": "En El Espacio",
       "url": "https://open.spotify.com/track/2m04Nl3l3Q5u3XfosRDQ6p"
+    },
+    {
+      "added_at": "2024-04-10 20:00:04",
+      "album": {
+        "name": "El Ranchero",
+        "url": "https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 235728,
+      "name": "El Ranchero",
+      "url": "https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz"
     },
     {
       "added_at": "2024-04-10 20:00:04",
@@ -1783,18 +1783,18 @@
     {
       "added_at": "2024-04-10 20:00:04",
       "album": {
-        "name": "Directo Hasta Arriba",
-        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
+        "name": "Qui\u00e9n?",
+        "url": "https://open.spotify.com/album/0cmu883YDLBaMS0H9LY7Dy"
       },
       "artists": [
         {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
         }
       ],
-      "duration_ms": 212666,
-      "name": "Estilo Malandro",
-      "url": "https://open.spotify.com/track/5wLF7rGxYDi8qy4ch1IKGh"
+      "duration_ms": 226560,
+      "name": "Qui\u00e9n?",
+      "url": "https://open.spotify.com/track/5hqitjTCDMgyZFgED53rkk"
     },
     {
       "added_at": "2024-04-10 20:00:04",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-04-10 20:00:04",
       "album": {
-        "name": "Qui\u00e9n?",
-        "url": "https://open.spotify.com/album/0cmu883YDLBaMS0H9LY7Dy"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Qui\u00e9n?",
-      "url": "https://open.spotify.com/track/5hqitjTCDMgyZFgED53rkk"
-    },
-    {
-      "added_at": "2024-04-10 20:00:04",
-      "album": {
         "name": "Cementerio De Raperos",
         "url": "https://open.spotify.com/album/1YsMsdZg7RB9eYHhW8fi3h"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 238210,
       "name": "Corren Con Suerte",
       "url": "https://open.spotify.com/track/68q0aAYzOkB3q3ahb11cYx"
+    },
+    {
+      "added_at": "2024-04-10 20:00:04",
+      "album": {
+        "name": "Directo Hasta Arriba",
+        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "Estilo Malandro",
+      "url": "https://open.spotify.com/track/5wLF7rGxYDi8qy4ch1IKGh"
     },
     {
       "added_at": "2024-04-10 20:00:04",

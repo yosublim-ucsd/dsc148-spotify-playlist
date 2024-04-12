@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 20087,
+  "2024-04-12": 20086,
   "date_first_scraped": "2023-03-26",
   "description": "Temukan musisi kesayanganmu dari berbagai penjuru Jawa Barat. Cover: Rossa",
   "name": "Suara Dari Jawa Barat",
@@ -79,6 +79,24 @@
     {
       "album": {
         "name": "Konspirasi Alam Semesta",
+        "url": "https://open.spotify.com/album/4ZK9i5BirBr33IfrKTGDRh"
+      },
+      "artists": [
+        {
+          "name": "Fiersa Besari",
+          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289526,
+      "name": "Bandung",
+      "url": "https://open.spotify.com/track/0P5a0hRxqDgUMWdWjNyhur"
+    },
+    {
+      "album": {
+        "name": "Konspirasi Alam Semesta",
         "url": "https://open.spotify.com/album/6ej8qsrXEhtkhYYKUoTa4h"
       },
       "artists": [
@@ -89,7 +107,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 289526,
       "name": "Bandung",
       "url": "https://open.spotify.com/track/1zScTLvtnTOO3HmtieB6i1"

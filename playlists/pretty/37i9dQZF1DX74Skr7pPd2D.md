@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,542 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,552 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 43 | [Reverend Green](https://open.spotify.com/track/58u2WAEAtgOeWSTeTRAPIW) | [Jeff Lorber](https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN) | [The Very Best Of Jeff Lorber](https://open.spotify.com/album/1Dja6xdLXw5w6EjvEdKLDg) | 4:22 |
 | 44 | [Las Vegas Tango](https://open.spotify.com/track/1IEbtXrHgN37lTQi9Byx6g) | [Gil Evans](https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ) | [The Individualism Of Gil Evans](https://open.spotify.com/album/3dmkH0MnFScU9uB1naCAms) | 6:35 |
 | 45 | [Stella By Starlight](https://open.spotify.com/track/1ndQYlSm6jKKAKlQS8vwmd) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Conversations With Myself](https://open.spotify.com/album/0ywH1xIEZYFlvO3cSQbNbv) | 4:50 |
-| 46 | [Nice Work If You Can Get It](https://open.spotify.com/track/0CslMMe56XfdYTTdl0WxVU) | [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs), [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Buddy And Sweets](https://open.spotify.com/album/2vkrql6FPjZeTADB3om0kc) | 4:04 |
+| 46 | [A Simple Tune](https://open.spotify.com/track/7yYPygAHXo8HlJjqFJHxjb) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Ellis In Wonderland](https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP) | 4:11 |
 | 47 | [Four On Six](https://open.spotify.com/track/5QdyYHg2QnrPC1lOiRkZBC) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ), [Wynton Kelly Trio](https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr) | [Smokin' At The Half Note \(Expanded Edition\)](https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy) | 6:42 |
-| 48 | [A Simple Tune](https://open.spotify.com/track/7yYPygAHXo8HlJjqFJHxjb) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Ellis In Wonderland](https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP) | 4:11 |
+| 48 | [Nice Work If You Can Get It](https://open.spotify.com/track/0CslMMe56XfdYTTdl0WxVU) | [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs), [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Buddy And Sweets](https://open.spotify.com/album/2vkrql6FPjZeTADB3om0kc) | 4:04 |
 | 49 | [All Of Me](https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 7:37 |
 | 50 | [Miss Fine](https://open.spotify.com/track/5BlMIbEVcF8JUJ49pRtYKQ) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Argo, Verve And Impulse Big Band Studio Sessions](https://open.spotify.com/album/55ECoXlUS7fIjkCrAfniS7) | 4:11 |
 | 51 | [Stompin' At The Savoy](https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [A Generation Ago Today](https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf) | 6:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 99 | [I Could Write A Book \- Live At Bradshaw's Great American Music Hall, San Francisco/1979](https://open.spotify.com/track/2MdYSm0alrxtQ6jRFjtoSC) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [The Audience With Betty Carter \(Live\)](https://open.spotify.com/album/19sY1QgcDOQLe8MpHOfYTx) | 3:41 |
 | 100 | [Close Your Eyes](https://open.spotify.com/track/3RlSNWZozZWOjSLvyjAd3l) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 2:39 |
 
-Snapshot ID: `MCxhYjE2NDk3MTEzMjU0ZDg1MWFmYTkwMWY5ZTQ2ZmIxMDdiOGIxNWRm`
+Snapshot ID: `MTY4NjkxODEwMywwMDAwMDAwMGUxYTk2ZmFjMGRhOWUxMTcyOTFlMDdjY2I4YmU5NmEy`

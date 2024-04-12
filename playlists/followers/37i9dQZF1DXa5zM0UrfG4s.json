@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 108461,
+  "2024-04-12": 108484,
   "date_first_scraped": "2021-12-28",
   "description": "b\u00f8gdebangers du kan spelle i kjerra! ",
   "name": "Livet p\u00e5 B\u00f8gda!",
@@ -353,7 +353,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 180826,
       "name": "Alt du vil ha",
       "url": "https://open.spotify.com/track/0gSJWzYKV9mjwO0pBs5ZXB"
@@ -2121,7 +2121,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 266293,
       "name": "Fjellrypa",
       "url": "https://open.spotify.com/track/6QuPjdfyg00PzmuyHu3NHd"

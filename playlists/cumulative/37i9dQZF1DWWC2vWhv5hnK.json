@@ -145,6 +145,24 @@
     },
     {
       "album": {
+        "name": "Nobody (from Kaiju No. 8)",
+        "url": "https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153626,
+      "name": "Nobody - from Kaiju No. 8",
+      "url": "https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip"
+    },
+    {
+      "album": {
         "name": "the underrated youth",
         "url": "https://open.spotify.com/album/0kGTcfwQC5nlsubgxUXdwP"
       },
@@ -214,6 +232,24 @@
       "duration_ms": 143264,
       "name": "RUNAWAY",
       "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
+    },
+    {
+      "album": {
+        "name": "Ryan Tedder(OneRepublic)\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30fb\u30e1\u30c3\u30bb\u30fc\u30b8\uff01",
+        "url": "https://open.spotify.com/album/5dd1oUPabvbqzPPyqFqbuv"
+      },
+      "artists": [
+        {
+          "name": "\u602a\u73638\u53f7",
+          "url": "https://open.spotify.com/artist/1QvSxr0HMAEsQP7yeClNDX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 13113,
+      "name": "Ryan Tedder(OneRepublic)\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30fb\u30e1\u30c3\u30bb\u30fc\u30b8\uff01",
+      "url": "https://open.spotify.com/track/5xFTVs5QV8rPDvk0moL4Dm"
     },
     {
       "album": {

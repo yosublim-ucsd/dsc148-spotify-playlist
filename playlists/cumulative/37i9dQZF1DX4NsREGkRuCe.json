@@ -637,6 +637,24 @@
     },
     {
       "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/6McSBRkkD9JPgGgqYzWPlz"
+      },
+      "artists": [
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/3D9bfMv1mFaYZngz2kFmOn"
+    },
+    {
+      "album": {
         "name": "Seductive",
         "url": "https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5"
       },
@@ -908,6 +926,24 @@
       "duration_ms": 148517,
       "name": "ART",
       "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
+    },
+    {
+      "album": {
+        "name": "Shakespopi",
+        "url": "https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160375,
+      "name": "ASAP",
+      "url": "https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk"
     },
     {
       "album": {
@@ -1346,6 +1382,24 @@
       "duration_ms": 144065,
       "name": "Baddest Boy - Remix",
       "url": "https://open.spotify.com/track/4lDghGd035xrzGp6Yec2j1"
+    },
+    {
+      "album": {
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/75c5cm8y5Fzb6aTZM3MOpN"
     },
     {
       "album": {
@@ -1843,6 +1897,32 @@
     },
     {
       "album": {
+        "name": "Blow My Cover",
+        "url": "https://open.spotify.com/album/050KMVbrfE1FfgzKv2bdYs"
+      },
+      "artists": [
+        {
+          "name": "Global Neil ENT",
+          "url": "https://open.spotify.com/artist/4FytKf4mpfsTSRdqCldLmQ"
+        },
+        {
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+        },
+        {
+          "name": "Prettyboy D-O",
+          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126344,
+      "name": "Blow My Cover",
+      "url": "https://open.spotify.com/track/2vQQibREgJ2bST3KqzSQdt"
+    },
+    {
+      "album": {
         "name": "bo card (things i need)",
         "url": "https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY"
       },
@@ -1934,7 +2014,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 150622,
       "name": "Born Fi Dis",
       "url": "https://open.spotify.com/track/4jL2U9V8qa4aQH4IHQ6hTv"
@@ -2312,7 +2392,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 189701,
       "name": "Celine Dion",
       "url": "https://open.spotify.com/track/4ktaaCJqhdNwD7tKdbD6iv"
@@ -2814,7 +2894,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 178775,
       "name": "Dalilah II",
       "url": "https://open.spotify.com/track/3pU5thrIWedorXzDa3gOjb"
@@ -3030,7 +3110,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 155121,
       "name": "Dey Your Dey",
       "url": "https://open.spotify.com/track/4X1Ae3Y9MEURgckWfrsrI9"
@@ -3220,7 +3300,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 155044,
       "name": "Do I",
       "url": "https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD"
@@ -3613,6 +3693,28 @@
     },
     {
       "album": {
+        "name": "Ekelebe (feat. ODUMODUBLVCK)",
+        "url": "https://open.spotify.com/album/19N0mCaeYf3EhJcRGlRGYw"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222222,
+      "name": "Ekelebe (feat. ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/0hhOltFiPTK40diKYu2mU2"
+    },
+    {
+      "album": {
         "name": "Electricity",
         "url": "https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We"
       },
@@ -3894,7 +3996,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 202605,
       "name": "Ex Convict",
       "url": "https://open.spotify.com/track/5O7fTE396BVFRTkQv5ENSo"
@@ -4260,6 +4362,24 @@
       "duration_ms": 194400,
       "name": "FIREGUN (feat. Fireboy DML)",
       "url": "https://open.spotify.com/track/5UautcyJDjHxwnejNAkfg9"
+    },
+    {
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/1NX6VIh1TwDjzXOUc1pyPB"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129576,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/2c79pT6zVLY2FFHgcRtmD9"
     },
     {
       "album": {
@@ -5314,6 +5434,28 @@
       "duration_ms": 165866,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/2qSw2Sykal2ECGgAPxEz9t"
+    },
+    {
+      "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/5KmcBDiB8nLz4vixCKdAeG"
+      },
+      "artists": [
+        {
+          "name": "Goya Menor",
+          "url": "https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX"
+        },
+        {
+          "name": "Magnito",
+          "url": "https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189662,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/589PbDb2eFRKoBJrQR5PU5"
     },
     {
       "album": {
@@ -6706,7 +6848,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 213710,
       "name": "Lowkey!",
       "url": "https://open.spotify.com/track/5GEJ9JlbSlPleQU3yb2P5y"
@@ -8315,6 +8457,28 @@
     },
     {
       "album": {
+        "name": "Ojoro",
+        "url": "https://open.spotify.com/album/0UHRV0HSKEzP2WjGH5UzLy"
+      },
+      "artists": [
+        {
+          "name": "Dumomi the Jig",
+          "url": "https://open.spotify.com/artist/7x9N8hOjQ8W2sRNNswCthw"
+        },
+        {
+          "name": "Alpha P",
+          "url": "https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190693,
+      "name": "Ojoro",
+      "url": "https://open.spotify.com/track/0lgQY2EW1ev4UuXVvATP8i"
+    },
+    {
+      "album": {
         "name": "Afro Pop, Vol. 1",
         "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
       },
@@ -9160,7 +9324,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 133565,
       "name": "Pepe",
       "url": "https://open.spotify.com/track/1F6j0Av7r5UfFNJlSt5hAk"
@@ -9658,7 +9822,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 161462,
       "name": "Puff & Pass",
       "url": "https://open.spotify.com/track/6WUdooO1NS5LZadjGNwY5U"
@@ -10240,6 +10404,28 @@
       "duration_ms": 252986,
       "name": "SETE REMIX (feat. Young Stunna, Diamond Platnumz & Oxlade)",
       "url": "https://open.spotify.com/track/5YF4Kg3ksqyNqzbXDvR8mp"
+    },
+    {
+      "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/2IFdqPlm98pTA57pt9iTdU"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160280,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/6Jllvxl97ni5T2bW3zEDGi"
     },
     {
       "album": {
@@ -12090,7 +12276,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 195426,
       "name": "What's Poppin",
       "url": "https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj"

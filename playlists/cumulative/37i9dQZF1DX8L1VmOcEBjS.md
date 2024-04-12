@@ -2,7 +2,7 @@
 
 ### [Viva Latino Presents: Best Latin Songs of 2023](https://open.spotify.com/playlist/37i9dQZF1DX8L1VmOcEBjS)
 
-> Our editors' picks for the best Latin songs of the year! \#SpotifyWrapped Cover: Bad Bunny
+> Our editors' picks for the best Latin songs of the year! \#SpotifyWrapped Cover: Peso Pluma
 
 110 songs - 5 hr 54 min
 

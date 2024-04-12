@@ -4,7 +4,7 @@
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: NCT 127\)
 
-203 songs - 11 hr 54 min
+204 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Christmas in July](https://open.spotify.com/track/1XbMklm5bn9DRpRyvePwow) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [Christmas in July](https://open.spotify.com/album/0euAPwcmvqbw78ptNqYxN2) | 3:59 | 2021-12-21 | 2023-12-17 |
 | [Christmas Love](https://open.spotify.com/track/07RqTH1eogXDP6lvfkpTgr) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Christmas Love](https://open.spotify.com/album/7iTnFSQCuTl8j5XenUsOu3) | 3:12 | 2024-01-05 |  |
 | [Christmas Love](https://open.spotify.com/track/1bSqmWIWw4AHevbOXBtBwm) | [Kim Tae Woo](https://open.spotify.com/artist/5OFQZvle7HH55LvauNmUIi) | [KIM TAE WOO with Friends](https://open.spotify.com/album/0fj62kxyGEzyB1xYVNvaef) | 3:04 | 2021-12-21 | 2022-12-13 |
+| [christmas recipe \(feat\. 16\)](https://open.spotify.com/track/16rKQI5eOg9v47XOoA7beq) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [16](https://open.spotify.com/artist/0OTgDNfl2p58FhCuhFuMcF) | [christmas recipe](https://open.spotify.com/album/7IPcwUqtcrmpwVE7dKgdYF) | 2:54 | 2024-01-08 |  |
 | [Christmas Rose \(feat\. LEEBADA\)](https://open.spotify.com/track/4afAaodCYQK0rAW3tTvl8s) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS), [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Christmas Rose](https://open.spotify.com/album/2vWcgcfBxlPZIU9rYqob9o) | 3:43 | 2021-12-21 |  |
 | [Christmas Time](https://open.spotify.com/track/0vDKTkWeDQETxVlr23XkkC) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t), [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [BOYFRIEND](https://open.spotify.com/artist/2Pw8E6zZoeuksVWtyZPnzd), [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD), [YOO SEUNGWOO](https://open.spotify.com/artist/6pR1ySndn2rTiCX0izqJU9), [BrotherSu](https://open.spotify.com/artist/3fmAXFX05DFTaTkreemfxB), [MIND U](https://open.spotify.com/artist/4qV3XiR4FiExupNDZ4HeYN), [DUETTO](https://open.spotify.com/artist/6PvXDvysAc002NKTISIYBV), [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [STARSHIP PLANET 2018](https://open.spotify.com/album/6UPvFQ3Lhi5x6W7vCq0Zaq) | 4:01 | 2021-12-21 |  |
 | [Christmas Time](https://open.spotify.com/track/3ctivX3Mw4AbJe7CVMXCAh) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Christmas Time](https://open.spotify.com/album/2iiAglDTCM1gUDjdPwpXFA) | 3:50 | 2023-12-27 |  |
@@ -169,7 +170,7 @@
 | [This Christmas](https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv) | [Jyp Nation](https://open.spotify.com/artist/422bFDqxTIZF6HrsneK0xO) | [This Christmas \- Single](https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ) | 3:47 | 2021-12-21 |  |
 | [This Christmas](https://open.spotify.com/track/6eAMa0e7WCbjM7ivbAhvkq) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [This Christmas – Winter is Coming](https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx) | 4:27 | 2021-12-21 |  |
 | [This Is Your Winter Song](https://open.spotify.com/track/5y7C6vS8d8IjAKZkeTrMRT) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [This Is Your Winter Song](https://open.spotify.com/album/5WWvltjF8gA414aWghDCsy) | 2:44 | 2022-11-23 | 2024-03-07 |
-| [Today and other days \(Feat\. Eily\)](https://open.spotify.com/track/1Uc7vmjgE27iyynA85WW4c) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Eily](https://open.spotify.com/artist/5z23iI1nouNyp7f7HtK005) | [cozy christmas](https://open.spotify.com/album/4aEBSXATsQgKGfnquzq4vo) | 2:03 | 2024-01-08 |  |
+| [Today and other days \(Feat\. Eily\)](https://open.spotify.com/track/1Uc7vmjgE27iyynA85WW4c) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Eily](https://open.spotify.com/artist/5z23iI1nouNyp7f7HtK005) | [cozy christmas](https://open.spotify.com/album/4aEBSXATsQgKGfnquzq4vo) | 2:03 | 2024-01-08 | 2024-04-12 |
 | [Today and other days \(Feat\. Eily\)](https://open.spotify.com/track/6sBImae6DAAo4vRbHLSgtH) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Eily](https://open.spotify.com/artist/5z23iI1nouNyp7f7HtK005) | [cozy christmas](https://open.spotify.com/album/4gWvzWguilrxXcvU7M9fLH) | 2:03 | 2021-12-21 | 2023-11-07 |
 | [Together Forever!](https://open.spotify.com/track/2n3AfIeXctZeS36akV2mau) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [Together Forever!](https://open.spotify.com/album/3KgPkSxdx8Mj85lkS5l08u) | 4:20 | 2023-01-10 |  |
 | [Warm wishes on christmas](https://open.spotify.com/track/0w5rkWapNdWfyCbXT8j3cS) | [Beer](https://open.spotify.com/artist/4LAx3JeKnwmbA97OOf4MS2) | [home party](https://open.spotify.com/album/4e3LtVVogcBvfdiaKHIPv0) | 1:46 | 2022-12-09 | 2023-11-24 |

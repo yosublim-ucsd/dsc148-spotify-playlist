@@ -4,7 +4,7 @@
 
 > Sing\-along with your favorite songs from Disney Junior shows including new music from SuperKitties!  Watch SuperKitties on Disney Junior, Disney Channel, and Disney+.
 
-201 songs - 5 hr 9 min
+203 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/58uXn37TC1iZuRuEV9FWiT) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Me & Mickey](https://open.spotify.com/album/0nQdS5tHGoSQzv0qdWdgMd) | 1:40 | 2023-03-01 |  |
 | [Her Name Is Keia](https://open.spotify.com/track/55ffAqdRtmKsm8msJhNTmn) | ["Puppy Dog Pals" Cast](https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63) | [Disney Junior Music: Puppy Dog Pals \- Pup\-tastic Party](https://open.spotify.com/album/3veVX6rvkJ01H7UcpyOIp7) | 1:07 | 2022-03-18 |  |
 | [Here Comes the Lion Guard](https://open.spotify.com/track/00JwpdGOIcUwFsDKfQCciK) | [Beau Black](https://open.spotify.com/artist/1awJjjL5ucGBcu48LZCeco) | [The Lion Guard \(Music from the TV Series\)](https://open.spotify.com/album/1gcdxovxYoZ9xJtIT72FF0) | 2:28 | 2022-03-18 |  |
+| [Home in My Heart](https://open.spotify.com/track/2Ts9sDlYOfDDlnwstan8AT) | [SuperKitties \- Cast](https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: SuperKitties Su\-Purr Charged](https://open.spotify.com/album/3maWWI3K5sZu9UW8yMKNaB) | 1:34 | 2024-04-12 |  |
 | [Hot Dog! \- From "Mickey Mouse Clubhouse"](https://open.spotify.com/track/7HbVnCiUwE9Web7ZL9xHbv) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music Dance Party! The Album](https://open.spotify.com/album/4kq1XGnRO3PJMirraOUHvK) | 2:28 | 2022-03-18 |  |
 | [Hot Dog! Dance Break 2019 \- From "Mickey Mouse Mixed\-Up Adventures"](https://open.spotify.com/track/3496wR3HlANisZ2PnCSW7r) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Hot Dog! Dance Break 2019 \(From “Mickey Mouse Mixed\-Up Adventures”\)](https://open.spotify.com/album/0uPKxPvPWaKl5NvXwETJFA) | 1:23 | 2022-03-18 |  |
 | [I Brush My Teeth](https://open.spotify.com/track/21CcXAr0c0aXyq7wFRhw6t) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Ready for Preschool Vol\. 2](https://open.spotify.com/album/5pGWhGWIzd5AjlLDk6ZJuZ) | 1:25 | 2022-03-18 |  |
@@ -204,6 +205,7 @@
 | [Wiggle Giggle](https://open.spotify.com/track/5uIPNktgd0nNqAnYIcaqWE) | [Mickey Mouse Funhouse \- Cast](https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS) | [Disney Junior Music: Mickey Mouse Funhouse Vol\. 1](https://open.spotify.com/album/4WAOBwmnOk4t3aZ7a4z7ZX) | 1:43 | 2022-03-18 |  |
 | [Wind in My Hair \- From "Tangled: Before Ever After"](https://open.spotify.com/track/7xRIPGewMZdh63k3p6YTQi) | [Rapunzel](https://open.spotify.com/artist/03VzZ67Mxp1ePKvCAMl6VS) | [Wind in My Hair \(From "Tangled: Before Ever After"\)](https://open.spotify.com/album/7oHt9z1qdgmw5oNHidfTRI) | 2:34 | 2022-03-18 |  |
 | [Yo Ho Mateys Away](https://open.spotify.com/track/2wiO723A7G2gTx3txcWR7p) | [The Never Land Pirate Band](https://open.spotify.com/artist/2JxertY1LUXK6awYCSf7SM) | [Jake And The Never Land Pirates](https://open.spotify.com/album/6AiPOzsx3NiOfeFvBivBYM) | 0:42 | 2022-03-18 |  |
+| [You Can Do It](https://open.spotify.com/track/0k616mS4Rij2yDNACPqhxK) | [SuperKitties \- Cast](https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: SuperKitties Su\-Purr Charged](https://open.spotify.com/album/3maWWI3K5sZu9UW8yMKNaB) | 1:11 | 2024-04-12 |  |
 | [You Can't Catch Me](https://open.spotify.com/track/3Wq8JjxFtujN9zyzK0cGQL) | ["Elena Of Avalor" Cast](https://open.spotify.com/artist/0p6iNlkB41r1JtxZ3F6JMJ) | [Elena of Avalor: Disney Junior Music](https://open.spotify.com/album/2EVjCUeErLZqSWBrSAI4wb) | 1:46 | 2022-03-18 |  |
 | [You're Dancin'](https://open.spotify.com/track/0havDyAqcvk8Yvj9JRWD5G) | ["Puppy Dog Pals" Cast](https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63) | [Puppy Dog Pals: Disney Junior Music](https://open.spotify.com/album/41pIrz2rpznwJzIgQMwngk) | 1:07 | 2022-03-18 |  |
 | [You're My Best Friend](https://open.spotify.com/track/1kcItYPpQBkvFVgTGNy2Gc) | ["Puppy Dog Pals" Cast](https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63) | [Puppy Dog Pals: Disney Junior Music](https://open.spotify.com/album/41pIrz2rpznwJzIgQMwngk) | 1:00 | 2022-03-18 |  |

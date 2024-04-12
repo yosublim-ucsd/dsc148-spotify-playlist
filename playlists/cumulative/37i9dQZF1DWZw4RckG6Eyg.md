@@ -4,7 +4,7 @@
 
 > All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party
 
-211 songs - 11 hr 45 min
+212 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Don Lemon](https://open.spotify.com/track/0gZuzrQU7pLpcZf7JYqXiJ) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Don Lemon](https://open.spotify.com/album/10llpGOIEohzO6V2awCypr) | 3:41 | 2023-11-29 |  |
 | [Don't Give Up](https://open.spotify.com/track/7M3WfnNGtgWsY0h3KEpWUP) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [GIZMO](https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1) | 1:52 | 2023-11-29 |  |
 | [don't jump the gun](https://open.spotify.com/track/5A4IUiCLfZAjEME2QPgf8P) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [don't jump the gun](https://open.spotify.com/album/3GrECJ07gyegeBtv5ZMG7T) | 2:35 | 2022-11-30 | 2023-11-30 |
-| [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw) | 3:10 | 2023-11-29 |  |
+| [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw) | 3:10 | 2023-11-29 | 2024-04-12 |
 | [Down](https://open.spotify.com/track/1GaJZbQKcDKJZ4o5JrRlFw) | [Simon Russell](https://open.spotify.com/artist/7AdC6XqOdLU2UoF66FYClz) | [Art By You](https://open.spotify.com/album/0m6ojmveTN9yM8NkAsiuAe) | 3:36 | 2023-11-29 |  |
 | [Drive](https://open.spotify.com/track/2TPrI8d64MVFTOiyjqBVFu) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Drive](https://open.spotify.com/album/4kFbR4ZpknTMGS1h404I5c) | 2:57 | 2022-11-30 | 2023-11-30 |
 | [Drunk & Loud](https://open.spotify.com/track/69WiLaNQxDcf4yjAWcDruZ) | [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [Drunk & Loud](https://open.spotify.com/album/5v9ShaPCZn1arjR9BmkUNy) | 1:54 | 2023-11-29 |  |
@@ -216,6 +216,7 @@
 | [Why Are You Not Scared Yet?](https://open.spotify.com/track/7lrPrS3dXaTAWsp3dtJJqg) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Why Are You Not Scared Yet?](https://open.spotify.com/album/3wbB2j0gMejNrkXvg3VVxY) | 2:34 | 2023-11-29 |  |
 | [Why Do I Keep You?](https://open.spotify.com/track/2um6ATuxaGkWk1o1LsrX66) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Why Do I Keep You?](https://open.spotify.com/album/1skkfNGs0DFmq6CWXzc5qH) | 4:00 | 2022-11-30 | 2023-11-30 |
 | [Why'd You Leave Me in the Red?](https://open.spotify.com/track/4yoG9e4BQ5nWYD738dzxEC) | [Jouska](https://open.spotify.com/artist/0uz2Ej3tDwFcK0ujnBcYjn) | [Suddenly My Mind Is Blank](https://open.spotify.com/album/4XvzxNhPgvjdO3h28A9wzb) | 3:56 | 2023-11-29 |  |
+| [WONDERLAND](https://open.spotify.com/track/4RH5H3lx8hNw1JkXMjMqx0) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I), [May Rio](https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w) | [SPEED RUN](https://open.spotify.com/album/7qngj2U22AGXVoZB6QsZ51) | 3:32 | 2023-11-29 |  |
 | [www she hot](https://open.spotify.com/track/5Lc05me0Kv47r0PTMkPqtH) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [www she hot](https://open.spotify.com/album/1gOGatI2LhhVtiMpAspFFm) | 4:14 | 2023-11-29 |  |
 | [You Have Bought Yourself A Boat \- Live](https://open.spotify.com/track/0mFAWvtCwXxKwxzJ0IiW9o) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [You Have Bought Yourself A Boat \(Live\)](https://open.spotify.com/album/07SurUcuBKJ2orUg42YyUY) | 2:47 | 2023-11-29 | 2023-12-02 |
 | [單人房](https://open.spotify.com/track/4DW3Orxd68VtREToPclLWf) | [Aldo Tasbur](https://open.spotify.com/artist/7fuouuWQZnx4cSN19IEqHn) | [單人房](https://open.spotify.com/album/1QTnF0zX5zaqwbJNM87CQs) | 3:17 | 2022-11-30 | 2023-11-30 |

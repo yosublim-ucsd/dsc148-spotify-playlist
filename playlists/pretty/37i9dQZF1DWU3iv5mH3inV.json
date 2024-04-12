@@ -1,13 +1,29 @@
 {
-  "description": "El Dembow que est\u00e1 subiendo en RD. Foto: Yaisel LM",
-  "num_followers": 103518,
+  "description": "El Dembow que est\u00e1 subiendo en RD. Foto: Bulin 47",
+  "num_followers": 103615,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjBjNGMwZDNkMzc0YWU1YzFlNjkzZjM5ZGVmOWQwZmVhNTIxMzMw",
+  "snapshot_id": "MTcxMjg2ODUyMywwMDAwMDAwMGEzMGVjODZkNGM1MDQ1MDUxYzM4OWEyNjY0MmIyZjYz",
   "tracks": [
+    {
+      "added_at": "2024-04-11 20:48:43",
+      "album": {
+        "name": "Me Arregle (El loco)",
+        "url": "https://open.spotify.com/album/3s231XSay5ko3W5psvQhrW"
+      },
+      "artists": [
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        }
+      ],
+      "duration_ms": 169660,
+      "name": "Me Arregle - El loco",
+      "url": "https://open.spotify.com/track/1bIpH9PBr9OBI3Ek6RtuNl"
+    },
     {
       "added_at": "2024-03-28 14:23:32",
       "album": {
@@ -47,6 +63,30 @@
       "duration_ms": 117120,
       "name": "Tetere",
       "url": "https://open.spotify.com/track/6EKQWjiQPniG7zwJ9Hhc4y"
+    },
+    {
+      "added_at": "2024-04-11 20:48:43",
+      "album": {
+        "name": "Tiki Tiki (Dembow)",
+        "url": "https://open.spotify.com/album/2F09feJo8ns7KfGMS1Bguy"
+      },
+      "artists": [
+        {
+          "name": "Chocoleyrol",
+          "url": "https://open.spotify.com/artist/2kF83E9c7WmW5XdqwUrJd2"
+        },
+        {
+          "name": "Jhayseven",
+          "url": "https://open.spotify.com/artist/2G3bLEKN244jKnfbVUTzdd"
+        },
+        {
+          "name": "Yeral El De Lo Palo",
+          "url": "https://open.spotify.com/artist/0gNBwt2gBwViwnZKRYoPJb"
+        }
+      ],
+      "duration_ms": 117475,
+      "name": "Tiki Tiki",
+      "url": "https://open.spotify.com/track/3GXImr51MZx1OorAaVFvsc"
     },
     {
       "added_at": "2024-02-15 15:29:53",
@@ -107,6 +147,26 @@
       "duration_ms": 124285,
       "name": "Hoy Si",
       "url": "https://open.spotify.com/track/0psfsyaZP1MNEBiTSeTM9N"
+    },
+    {
+      "added_at": "2024-04-11 20:48:43",
+      "album": {
+        "name": "La Cocolita",
+        "url": "https://open.spotify.com/album/2iYNizyKv4DOgEtmTyCpgb"
+      },
+      "artists": [
+        {
+          "name": "Mestizo Is Back",
+          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
+        },
+        {
+          "name": "Keila",
+          "url": "https://open.spotify.com/artist/6b7BKSpMuReJlss9x6XYtg"
+        }
+      ],
+      "duration_ms": 132480,
+      "name": "La Cocolita",
+      "url": "https://open.spotify.com/track/7F5PZ4KnpcNbKDnthUM646"
     },
     {
       "added_at": "2024-03-28 14:23:32",
@@ -225,26 +285,6 @@
       "url": "https://open.spotify.com/track/4cFcMa9cJ3ZfNLifHRLKHh"
     },
     {
-      "added_at": "2024-03-28 14:23:32",
-      "album": {
-        "name": "Te Lo Coji",
-        "url": "https://open.spotify.com/album/0z3qtcGWqV6muPrTZdmDZV"
-      },
-      "artists": [
-        {
-          "name": "La Perversa",
-          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
-        },
-        {
-          "name": "La Mas Doll",
-          "url": "https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK"
-        }
-      ],
-      "duration_ms": 119531,
-      "name": "Te Lo Coji",
-      "url": "https://open.spotify.com/track/0LWSYzhOlajXSaAhNXmwtg"
-    },
-    {
       "added_at": "2024-03-21 19:13:50",
       "album": {
         "name": "Pa Q Mame",
@@ -319,6 +359,26 @@
       "duration_ms": 126275,
       "name": "Tomala",
       "url": "https://open.spotify.com/track/0ZM8t0KJ30VcLv8KIs0v0m"
+    },
+    {
+      "added_at": "2024-04-11 20:48:43",
+      "album": {
+        "name": "Melaza Za",
+        "url": "https://open.spotify.com/album/4oO9gDoMmjPSJieoby4VfI"
+      },
+      "artists": [
+        {
+          "name": "Young Pilot",
+          "url": "https://open.spotify.com/artist/5h80M7wM08FV695GDm49W9"
+        },
+        {
+          "name": "Imperio Record",
+          "url": "https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3"
+        }
+      ],
+      "duration_ms": 122110,
+      "name": "Melaza Za",
+      "url": "https://open.spotify.com/track/7n6bLjt8QQA90fdXuFYgnQ"
     },
     {
       "added_at": "2024-04-04 22:49:14",
@@ -401,22 +461,6 @@
       "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
     },
     {
-      "added_at": "2024-04-04 21:52:59",
-      "album": {
-        "name": "SUBA",
-        "url": "https://open.spotify.com/album/7LwQYMT4Ha5MbYvruOlwmG"
-      },
-      "artists": [
-        {
-          "name": "Spazo Domingo",
-          "url": "https://open.spotify.com/artist/5EFJjchOppveVwlUeto4mr"
-        }
-      ],
-      "duration_ms": 122561,
-      "name": "SUBA",
-      "url": "https://open.spotify.com/track/2RwIdubGWW8OIwDPgfEDuh"
-    },
-    {
       "added_at": "2024-02-01 23:53:43",
       "album": {
         "name": "Shupamelo",
@@ -459,26 +503,6 @@
       "duration_ms": 161694,
       "name": "Pila De Bobo",
       "url": "https://open.spotify.com/track/0KZQRoxKu06bzjvO9Mjy8V"
-    },
-    {
-      "added_at": "2024-03-21 19:13:50",
-      "album": {
-        "name": "La Nota",
-        "url": "https://open.spotify.com/album/6i88wbsy24JndN0cLRwsRT"
-      },
-      "artists": [
-        {
-          "name": "Bulin 47",
-          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
-        },
-        {
-          "name": "Jm Bless",
-          "url": "https://open.spotify.com/artist/78nM3om8CaBQYCvOAMOdfT"
-        }
-      ],
-      "duration_ms": 142687,
-      "name": "La Nota",
-      "url": "https://open.spotify.com/track/206LMFOOS67922M9KOj0ac"
     },
     {
       "added_at": "2023-12-22 05:09:41",
@@ -915,30 +939,6 @@
       "duration_ms": 177015,
       "name": "GLOCK CREMA",
       "url": "https://open.spotify.com/track/3dXETJk47wnCwP4Sc43mLP"
-    },
-    {
-      "added_at": "2024-03-21 19:13:50",
-      "album": {
-        "name": "Papi Chulo",
-        "url": "https://open.spotify.com/album/73NL3nDazInhZlZVscrl5f"
-      },
-      "artists": [
-        {
-          "name": "El Futuro Fuera De Orbita",
-          "url": "https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk"
-        },
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        },
-        {
-          "name": "elgaboaraya",
-          "url": "https://open.spotify.com/artist/4Sdq3EMi1CR3AEvQuNnSBE"
-        }
-      ],
-      "duration_ms": 149041,
-      "name": "PAPI CHULO",
-      "url": "https://open.spotify.com/track/3NkL1NXmq8OwklrdcekTAG"
     },
     {
       "added_at": "2024-01-18 21:46:59",

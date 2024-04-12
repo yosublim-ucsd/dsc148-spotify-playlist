@@ -1,12 +1,12 @@
 {
   "description": "Son j\u00f3venes, guerreras y cool. Foto: Kirnbauer, Joaquina Mertz, Mar\u00eda Centeno & Noa Sainz.",
-  "num_followers": 144460,
+  "num_followers": 144476,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjU3MTRmYWJmNTQ4YzYzZWE3ODhkZDBmNGI1YWQ3ZWJiZDcwNzNl",
+  "snapshot_id": "MTcxMTExNjQ0NCwwMDAwMDAwMDg2MzY2YzkyNGYyNWZjMGQ5NmQzNmE0YWM0YjNjMmQ0",
   "tracks": [
     {
       "added_at": "2024-03-22 14:07:24",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
+        "name": "M\u00e1s Que Amigas",
+        "url": "https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 161571,
+      "name": "M\u00e1s Que Amigas",
+      "url": "https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
         "name": "Estamos Bajo el Agua",
         "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 151619,
       "name": "Estamos Bajo el Agua",
       "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
-        "name": "M\u00e1s Que Amigas",
-        "url": "https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 161571,
-      "name": "M\u00e1s Que Amigas",
-      "url": "https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
-        "name": "100PRE",
-        "url": "https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS"
-      },
-      "artists": [
-        {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
-        }
-      ],
-      "duration_ms": 205511,
-      "name": "100PRE",
-      "url": "https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
         "name": "Por qu\u00e9 te quiero tanto?",
         "url": "https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 231109,
       "name": "Por qu\u00e9 te quiero tanto?",
       "url": "https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
+        "name": "100PRE",
+        "url": "https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        }
+      ],
+      "duration_ms": 205511,
+      "name": "100PRE",
+      "url": "https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
-        "name": "Entremundos",
-        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
-      },
-      "artists": [
-        {
-          "name": "Cristina Valentina",
-          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
-        }
-      ],
-      "duration_ms": 205911,
-      "name": "Entremundos",
-      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
         "name": "Mito",
         "url": "https://open.spotify.com/album/6ELoILaST1j1C4UNFZO2vW"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 234478,
       "name": "Mito",
       "url": "https://open.spotify.com/track/0yN1zA3OSihsVrAwymehwX"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
+        "name": "Entremundos",
+        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
+      },
+      "artists": [
+        {
+          "name": "Cristina Valentina",
+          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
+        }
+      ],
+      "duration_ms": 205911,
+      "name": "Entremundos",
+      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
+        "name": "Las converse",
+        "url": "https://open.spotify.com/album/6igVxgZ2a2jX2nBQ1JHQnU"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 177904,
+      "name": "Las converse",
+      "url": "https://open.spotify.com/track/3jnVYRB2mkTOinBWeLGEea"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
         "name": "Pensamientos",
         "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 156771,
       "name": "Cero",
       "url": "https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
-        "name": "Las converse",
-        "url": "https://open.spotify.com/album/6igVxgZ2a2jX2nBQ1JHQnU"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 177904,
-      "name": "Las converse",
-      "url": "https://open.spotify.com/track/3jnVYRB2mkTOinBWeLGEea"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
-        "name": "Lo Que Siento",
-        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
-      },
-      "artists": [
-        {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
-        }
-      ],
-      "duration_ms": 199672,
-      "name": "El After",
-      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
         "name": "COLAPSO",
         "url": "https://open.spotify.com/album/4UrcOU4UD09yWAFH6JPZDo"
       },
@@ -839,18 +823,18 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
-        "name": "Lonely Fans",
-        "url": "https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P"
+        "name": "Lo Que Siento",
+        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
       },
       "artists": [
         {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
         }
       ],
-      "duration_ms": 211186,
-      "name": "D\u00cdAS COMO HOY",
-      "url": "https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N"
+      "duration_ms": 199672,
+      "name": "El After",
+      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -867,6 +851,22 @@
       "duration_ms": 156000,
       "name": "He comprado \u2741",
       "url": "https://open.spotify.com/track/4gHEWRY8kkg6XuDOiiydgG"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
+        "name": "Lonely Fans",
+        "url": "https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P"
+      },
+      "artists": [
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        }
+      ],
+      "duration_ms": 211186,
+      "name": "D\u00cdAS COMO HOY",
+      "url": "https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
+        "name": "Dwele",
+        "url": "https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Dwele",
+      "url": "https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
         "name": "Todo Va A Cambiar",
         "url": "https://open.spotify.com/album/4ppb3HXvxraldZiawREjAg"
       },
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
-        "name": "Dwele",
-        "url": "https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz"
+        "name": "Muy tarde",
+        "url": "https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X"
       },
       "artists": [
         {
-          "name": "Chita",
-          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
         }
       ],
-      "duration_ms": 192800,
-      "name": "Dwele",
-      "url": "https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG"
+      "duration_ms": 195157,
+      "name": "Muy tarde",
+      "url": "https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -1143,22 +1159,6 @@
       "duration_ms": 265043,
       "name": "Llorando Por Ti (Banda Sonora Original \"Todo Lo Otro\")",
       "url": "https://open.spotify.com/track/2zsSYgjdUGMT5u1TlIlr85"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
-        "name": "Muy tarde",
-        "url": "https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X"
-      },
-      "artists": [
-        {
-          "name": "INE",
-          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
-        }
-      ],
-      "duration_ms": 195157,
-      "name": "Muy tarde",
-      "url": "https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
+        "name": "Suspiros",
+        "url": "https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg"
+      },
+      "artists": [
+        {
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+        }
+      ],
+      "duration_ms": 155744,
+      "name": "Suspiros",
+      "url": "https://open.spotify.com/track/1CejnNpFZ8TSYrIZxEOzgu"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
         "name": "Detonaci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx"
       },
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
-        "name": "Suspiros",
-        "url": "https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg"
+        "name": "AZ\u00daCAR",
+        "url": "https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG"
       },
       "artists": [
         {
-          "name": "Valeria Jasso",
-          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+          "name": "Milena Warthon",
+          "url": "https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd"
         }
       ],
-      "duration_ms": 155744,
-      "name": "Suspiros",
-      "url": "https://open.spotify.com/track/1CejnNpFZ8TSYrIZxEOzgu"
+      "duration_ms": 205398,
+      "name": "AZ\u00daCAR",
+      "url": "https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -1263,22 +1279,6 @@
       "duration_ms": 213675,
       "name": "Harakiri",
       "url": "https://open.spotify.com/track/5AMKp7VIitj1mzjbmz6OaR"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
-        "name": "AZ\u00daCAR",
-        "url": "https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG"
-      },
-      "artists": [
-        {
-          "name": "Milena Warthon",
-          "url": "https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd"
-        }
-      ],
-      "duration_ms": 205398,
-      "name": "AZ\u00daCAR",
-      "url": "https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
-        "name": "Como Bailan los Dem\u00e1s",
-        "url": "https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        }
-      ],
-      "duration_ms": 243951,
-      "name": "El Im\u00e1n",
-      "url": "https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
         "name": "Running Up That Hill - Spotify Singles",
         "url": "https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 220005,
       "name": "Running Up That Hill - Spotify Singles",
       "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
+        "name": "Como Bailan los Dem\u00e1s",
+        "url": "https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "duration_ms": 243951,
+      "name": "El Im\u00e1n",
+      "url": "https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP"
     },
     {
       "added_at": "2024-03-22 14:07:24",

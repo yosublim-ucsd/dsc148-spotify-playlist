@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: jigitz performing at Fresh Finds Chicago March 2024\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,455 likes - 90 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,546 likes - 90 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 89 | [Damn](https://open.spotify.com/track/21kbZmZrxqzIltEbmE9D2l) | [Fredy Lane](https://open.spotify.com/artist/4eqF8svFUIhgdkR7bSlQ6M) | [Damn](https://open.spotify.com/album/6bW42i9i3EfNz3iO5WNyUH) | 2:35 |
 | 90 | [Fate](https://open.spotify.com/track/68g8XQCURAg8Dt6D10l2jN) | [Pepé](https://open.spotify.com/artist/5Z4OIeXWXn0UMTPe8JL0Cx) | [Fate](https://open.spotify.com/album/3bTyREPmR7bsYurXyLuxyu) | 3:49 |
 
-Snapshot ID: `MCwyY2JjM2E2OGVjMzVkZDBlNDgwOTVkZTAwNjIzNjcxZjRkNDhjMmNh`
+Snapshot ID: `MTcxMjc3Mzg0OCwwMDAwMDAwMDFkYjk2YWQ4YWRlNzg5N2E5NTg5NzAwMThlZTE0MGIx`

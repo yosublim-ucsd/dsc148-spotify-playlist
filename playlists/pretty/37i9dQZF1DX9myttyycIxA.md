@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Bnny
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,979 likes - 105 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,969 likes - 105 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 7 | [75 Germany](https://open.spotify.com/track/1fr1nFXBfIuxJZJ0YiAu5n) | [Superfan](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [75 Germany](https://open.spotify.com/album/3B49bNN3jruMA1e8X8P0l6) | 2:43 |
 | 8 | [Icy Windy Sky](https://open.spotify.com/track/66U7274Oapr417BNqeQLoS) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Twice Around The Sun](https://open.spotify.com/album/3wzMjiyIQ2zDv3suwSHxpp) | 6:48 |
 | 9 | [marble arch](https://open.spotify.com/track/3gIC7qzRoxiDpYo0ymjZS0) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [marble arch](https://open.spotify.com/album/2aWNuYIUpxgS5ybXek6d0a) | 4:56 |
-| 10 | [Soak it In](https://open.spotify.com/track/4bkj4j64FkMlf6nvobCVOJ) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Mundane Pleasure](https://open.spotify.com/album/3NeuhQcs23QELh77ERy0fm) | 2:23 |
+| 10 | [Soak it In](https://open.spotify.com/track/6FYpOljm1nFjvbyLh0l1QX) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Mundane Pleasure](https://open.spotify.com/album/3dt5c3PWLzdNQmwWTu99qz) | 2:23 |
 | 11 | [Who You Are](https://open.spotify.com/track/1aDt9pruckWVn6lllJtVgc) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [Lighthouse](https://open.spotify.com/album/386OkomCq7KFjusVqI1E78) | 3:17 |
 | 12 | [Honey](https://open.spotify.com/track/133l3HlaTfwwVagRZfSbbF) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Honey](https://open.spotify.com/album/4RLQovCB3cnnrVxGAGdpaO) | 2:28 |
 | 13 | [How Far](https://open.spotify.com/track/1YQvEi4W6aecoTS5fosMj8) | [A Country Western](https://open.spotify.com/artist/0JyEWuZBMpLOezjt2DDt8M), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Life on the Lawn](https://open.spotify.com/album/257zpJKGcC32si5BIYzbHV) | 2:27 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 104 | [Theatre](https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Theatre](https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv) | 2:59 |
 | 105 | [Tin Man](https://open.spotify.com/track/5W6KtuTeceMUqu7zW4JNdi) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 2:11 |
 
-Snapshot ID: `MCw3YTY5ODI4Yzk4M2FjNThlY2FkMjk4YjYwOTM2MDZkZjNjZDVkZmQy`
+Snapshot ID: `MTcxMjI4OTYwMCwwMDAwMDAwMDRhZmEyNDgzZTcyYzY3NmM1MmQzYTY3YTJjZmNkMjFi`

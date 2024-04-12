@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Endlich Frühling mit allen Songs für längere Tage!
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,047 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,066 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 3 | [Ich lieb den Frühling](https://open.spotify.com/track/3UvFfxNQFGEa1jIOVWuyrf) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Oster\- und Frühlingslieder](https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi) | 1:57 |
 | 4 | [Druck](https://open.spotify.com/track/6lq2ScYLYvIwQwTGEYjFW2) | [Jenniffer Kae](https://open.spotify.com/artist/7s12cq7LvagVKZN1MWHHNw) | [Encanto \(Deutscher Original Film\-Soundtrack\)](https://open.spotify.com/album/0WexjM0UZvvk3AjWK7S8RI) | 3:22 |
 | 5 | [Ein Vogel wollte Hochzeit machen \- 1](https://open.spotify.com/track/2d65dwrlD1s9dP7BZ1CkLR) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Vogelhochzeit \(Das Original in der Urfassung\)](https://open.spotify.com/album/01JrN7TzqiE7Vs1JNJ3Mkl) | 1:47 |
-| 6 | [Das kleine Kaninchen](https://open.spotify.com/track/7pcgrkYOwcGbCF6Ej2Cfyg) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Tierische Kinderlieder zum Mitsingen und Mitmachen](https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz) | 2:46 |
-| 7 | [Das tanzende Alpaka \(Alpaka Song\)](https://open.spotify.com/track/6HA0YUji2p8YD9VZ4jnd3z) | [Der singende Bauernhof](https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo), [Otti Stubs](https://open.spotify.com/artist/6lHHUYCm8z6Ufox7tb54mB) | [Willkommen auf dem singenden Bauernhof](https://open.spotify.com/album/7GG2q94m8WC2EHoQVo84dD) | 2:10 |
+| 6 | [Das tanzende Alpaka \(Alpaka Song\)](https://open.spotify.com/track/6HA0YUji2p8YD9VZ4jnd3z) | [Der singende Bauernhof](https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo), [Otti Stubs](https://open.spotify.com/artist/6lHHUYCm8z6Ufox7tb54mB) | [Willkommen auf dem singenden Bauernhof](https://open.spotify.com/album/7GG2q94m8WC2EHoQVo84dD) | 2:10 |
+| 7 | [Das kleine Kaninchen](https://open.spotify.com/track/7pcgrkYOwcGbCF6Ej2Cfyg) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Tierische Kinderlieder zum Mitsingen und Mitmachen](https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz) | 2:46 |
 | 8 | [Häschen hüpf](https://open.spotify.com/track/3nBg8DJv1zuUpZAlNpRdhn) | [Deine Freunde](https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng) | [Heile Welt](https://open.spotify.com/album/390vUKguCbQcJIHaDcmLWc) | 3:14 |
 | 9 | [Jetzt fängt das schöne Frühjahr an](https://open.spotify.com/track/3lBlo2fMGuYMva0jYxKeJS) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Oster\- und Frühlingslieder](https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi) | 0:56 |
 | 10 | [Guck mal diese Biene da Summ Summ](https://open.spotify.com/track/1o3K9QknRizPdPhVktzmhM) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Video Mixe](https://open.spotify.com/album/0BdNoLS8Z42JjfbkOCQVPW) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 49 | [So bunt ist die Frühlingszeit](https://open.spotify.com/track/5Qs3nCYcAUspTCUtFQdQ1n) | [Martin Göth](https://open.spotify.com/artist/2g7GFRZ0bemzPVBilVKE9i) | [Der Frühling ist da \- 25 kunterbunte Kinderlieder im Frühling](https://open.spotify.com/album/2WENgDsxACiO4z5jg9AuVK) | 1:47 |
 | 50 | [Die Biene maja](https://open.spotify.com/track/37Ya452sNHfucQVaKPM522) | [Karel Gott](https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM) | [Karel](https://open.spotify.com/album/4W2UDtKNsB7iGwKVFIDERR) | 2:39 |
 
-Snapshot ID: `MCxiOWU4NWEyODljZWZmYWFkZTI0MzRmYmQ0YzdkOWY3ZDg3ZjQ1Yjhh`
+Snapshot ID: `MTcxMjA0Mzc2OCwwMDAwMDAwMDk3NWJjMWM4OWM4YmU2MTdjOTk1ZTc5MzUxYWQxMjY0`

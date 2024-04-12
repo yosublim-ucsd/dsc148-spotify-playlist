@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,511 likes - 40 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,543 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [Smoke On the Highway](https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 4:13 |
 | 40 | [Wish I Never Felt](https://open.spotify.com/track/5Rhs0uawH5KuifdWtphGN2) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Through the Smoke](https://open.spotify.com/album/5rQ9bj7fCon5qGgve7QmzL) | 3:16 |
 
-Snapshot ID: `MCxkZDMxOTAzYmMxNTU3NmFhMzJjYWNiM2YxYzU1NDQ2YTU1NDY3NDY2`
+Snapshot ID: `MTcxMjYxMDUwMCwwMDAwMDAwMDA4YTc0NWQwYjNkODg2N2UyM2U0MjAyYTVmYzg0NjBl`

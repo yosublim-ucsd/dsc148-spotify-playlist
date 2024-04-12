@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 110636,
+  "num_followers": 110662,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzA5ZWYwMGYzMTlhYmMyYzU0YTBkYWJjMzNkMmU4M2M5Yjg0NDRj",
+  "snapshot_id": "MTcxMTA1NDIyMSwwMDAwMDAwMDAwOWMxYWYzYjFiMDhkZWRhOWU5YTAyNjgzOTRmNzc5",
   "tracks": [
     {
       "added_at": "2024-03-21 20:50:21",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-03-21 20:50:21",
       "album": {
-        "name": "Divididos en V\u00e9lez - Agradecer y Seguir",
-        "url": "https://open.spotify.com/album/2TrRaAq10CSLmQV03lmQQy"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 368743,
-      "name": "Paisano de Hurlingham",
-      "url": "https://open.spotify.com/track/2UOJsDtVLCdSbwbhd2qSl3"
-    },
-    {
-      "added_at": "2024-03-21 20:50:21",
-      "album": {
         "name": "Salud! Los Perez Garcia en Vivo",
         "url": "https://open.spotify.com/album/7Ix5ulHLNIeVYw8ggqPUD6"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 299176,
       "name": "Los A\u00f1os Que Vivimos en Peligro (En Vivo)",
       "url": "https://open.spotify.com/track/3UetPSQ5yRz2dFTV5EuJkY"
+    },
+    {
+      "added_at": "2024-03-21 20:50:21",
+      "album": {
+        "name": "Divididos en V\u00e9lez - Agradecer y Seguir",
+        "url": "https://open.spotify.com/album/2TrRaAq10CSLmQV03lmQQy"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 368743,
+      "name": "Paisano de Hurlingham",
+      "url": "https://open.spotify.com/track/2UOJsDtVLCdSbwbhd2qSl3"
     },
     {
       "added_at": "2024-03-21 20:50:21",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-03-21 20:50:21",
       "album": {
-        "name": "Provincia Emergente Estadio Unico de La Plata (En Vivo)",
-        "url": "https://open.spotify.com/album/2VPSdVQuuSNyYPIgzxruqi"
-      },
-      "artists": [
-        {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        }
-      ],
-      "duration_ms": 334320,
-      "name": "Avanti Morocha (En Vivo Provincia Emergente)",
-      "url": "https://open.spotify.com/track/7KEi5XL40fRcqyq9aUcDX6"
-    },
-    {
-      "added_at": "2024-03-21 20:50:21",
-      "album": {
         "name": "Fantasmas Pel\u00e9andole al Viento",
         "url": "https://open.spotify.com/album/7MRwDeZfPnfMEkeTV1DqIx"
       },
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2024-03-21 20:50:21",
       "album": {
-        "name": "Solito Vas (En Vivo Movistar Arena)",
-        "url": "https://open.spotify.com/album/38QI6JmQeHniZDcnB0EyIf"
+        "name": "Provincia Emergente Estadio Unico de La Plata (En Vivo)",
+        "url": "https://open.spotify.com/album/2VPSdVQuuSNyYPIgzxruqi"
       },
       "artists": [
         {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
         }
       ],
-      "duration_ms": 234571,
-      "name": "Solito Vas - En Vivo Movistar Arena",
-      "url": "https://open.spotify.com/track/1AhVRKhqE0ScBSehPHmMWL"
+      "duration_ms": 334320,
+      "name": "Avanti Morocha (En Vivo Provincia Emergente)",
+      "url": "https://open.spotify.com/track/7KEi5XL40fRcqyq9aUcDX6"
     },
     {
       "added_at": "2024-03-21 20:50:21",
@@ -1063,6 +1047,22 @@
       "duration_ms": 244222,
       "name": "Todo Eso Que Nos Queda - En Vivo en el Gran Rex",
       "url": "https://open.spotify.com/track/37S1A1oGrwCs0R2K5fU9Ht"
+    },
+    {
+      "added_at": "2024-03-21 20:50:21",
+      "album": {
+        "name": "Solito Vas (En Vivo Movistar Arena)",
+        "url": "https://open.spotify.com/album/38QI6JmQeHniZDcnB0EyIf"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 234571,
+      "name": "Solito Vas - En Vivo Movistar Arena",
+      "url": "https://open.spotify.com/track/1AhVRKhqE0ScBSehPHmMWL"
     },
     {
       "added_at": "2024-03-21 20:50:21",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-03-21 20:50:21",
       "album": {
-        "name": "M\u00fasica del Alma (En Vivo)",
-        "url": "https://open.spotify.com/album/0cMlhfS9ybqoQf8o463m5X"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 251296,
-      "name": "M\u00fasica Del Alma - En Vivo",
-      "url": "https://open.spotify.com/track/5lN4LRhNSCnYtfj8R8Guce"
-    },
-    {
-      "added_at": "2024-03-21 20:50:21",
-      "album": {
         "name": "Todavia No Puedo Olvidarte (En Vivo)",
         "url": "https://open.spotify.com/album/5I7AvLn3SQ6HF14rf2MGVh"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 246023,
       "name": "Todav\u00eda No Puedo Olvidarte - En Vivo",
       "url": "https://open.spotify.com/track/5gDt7Z2AY4Ft0qZVZ51X6y"
+    },
+    {
+      "added_at": "2024-03-21 20:50:21",
+      "album": {
+        "name": "M\u00fasica del Alma (En Vivo)",
+        "url": "https://open.spotify.com/album/0cMlhfS9ybqoQf8o463m5X"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 251296,
+      "name": "M\u00fasica Del Alma - En Vivo",
+      "url": "https://open.spotify.com/track/5lN4LRhNSCnYtfj8R8Guce"
     },
     {
       "added_at": "2024-03-21 20:50:21",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-03-21 20:50:21",
       "album": {
-        "name": "Vivo X la 25",
-        "url": "https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2"
-      },
-      "artists": [
-        {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
-        }
-      ],
-      "duration_ms": 262866,
-      "name": "Solo Voy - En Vivo",
-      "url": "https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6"
-    },
-    {
-      "added_at": "2024-03-21 20:50:21",
-      "album": {
         "name": "De No Olvidar (En Vivo)",
         "url": "https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 159653,
       "name": "De No Olvidar - En Vivo",
       "url": "https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0"
+    },
+    {
+      "added_at": "2024-03-21 20:50:21",
+      "album": {
+        "name": "Vivo X la 25",
+        "url": "https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2"
+      },
+      "artists": [
+        {
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+        }
+      ],
+      "duration_ms": 262866,
+      "name": "Solo Voy - En Vivo",
+      "url": "https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6"
     },
     {
       "added_at": "2024-03-21 20:50:21",

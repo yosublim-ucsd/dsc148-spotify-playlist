@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 
 ### [This Is Chalino Sanchez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4qNX20)
 
-> This is Chalino Sanchez\. The essential tracks, all in one playlist.
+> This Is Chalino Sanchez\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,491 likes - 47 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,562 likes - 47 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 | 46 | [Las Uvas](https://open.spotify.com/track/0yKP2J1zimhQ6VfWnEvCCF) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Puros Éxitos de Colección!](https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3) | 3:10 |
 | 47 | [La Ametralladora](https://open.spotify.com/track/6HU6CPW530Rx4mQJShfviL) | [Saul Viera El Gavilancillo](https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69), [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Los Mejores Duetos del Año](https://open.spotify.com/album/7terMn7qIuU20lfQidPPQY) | 2:36 |
 
-Snapshot ID: `MCwyNWQxYmU1ZDJlZDgxMTZjOGUxNmUwMDQ2OTk2ZDBlM2Y4OTg2OTcw`
+Snapshot ID: `MTcxMjcwNzIwMCwwMDAwMDAwMDk1YWM3ZjcwODhlNjE1NTYwN2IyMjEwZmY5NjBmYTZl`

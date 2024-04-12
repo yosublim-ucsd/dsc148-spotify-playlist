@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,456 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,494 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 38 | [Anxiety](https://open.spotify.com/track/716wcEhWeq3N1Id3L9mp6f) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 3:38 |
 | 39 | [Fallout](https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h) | 3:14 |
 | 40 | [Crank That \(Soulja Boy\) \[Travis Barker Remix\]](https://open.spotify.com/track/5WeiB5JDBy6T5QQxtj09zb) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Crank That \(Soulja Boy\) \[Travis Barker Remix\]](https://open.spotify.com/album/69DoMDa1QmUvCAoMElNI33) | 4:07 |
-| 41 | [Let's Roll](https://open.spotify.com/track/61Qah5aEk9024AEaXCgXtN) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Radioactive \(Explicit Version\)](https://open.spotify.com/album/3AGMorE666prvzWaHGddKo) | 3:54 |
-| 42 | [Nobody's Listening](https://open.spotify.com/track/6O8Fqxnk5OlOivJHklfkPZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL) | 2:58 |
+| 41 | [Nobody's Listening](https://open.spotify.com/track/6O8Fqxnk5OlOivJHklfkPZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL) | 2:58 |
+| 42 | [Let's Roll](https://open.spotify.com/track/61Qah5aEk9024AEaXCgXtN) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Radioactive \(Explicit Version\)](https://open.spotify.com/album/3AGMorE666prvzWaHGddKo) | 3:54 |
 | 43 | [Ready To Go](https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Ready To Go](https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur) | 6:01 |
 | 44 | [Sunrise Trailer Park](https://open.spotify.com/track/0QoF2FmE6FtmxRneMb6Z7Y) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Crooked Teeth](https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf) | 3:47 |
 | 45 | [Game On \(feat\. Good Charlotte\) \- From "Pixels \- The Movie"](https://open.spotify.com/track/2qUTxCqJW2Irez1eYZcGNx) | [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Game On \(feat\. Good Charlotte\) \[from "Pixels \- The Movie"\]](https://open.spotify.com/album/45qTcdlqFuZfj25pnYxeVL) | 3:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 59 | [Fuck Dying](https://open.spotify.com/track/2Qq2O47kcBU3FksKmDSiPn) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [War & Peace Vol\. 1 \(The War Disc\)](https://open.spotify.com/album/3WZoJdkb9NSvZqkUShSKv4) | 4:03 |
 | 60 | [King of Rock](https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [King Of Rock \(Expanded Edition\)](https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6) | 5:14 |
 
-Snapshot ID: `MCwxYmNkZGNiNDBiMTcyYzEwYzk1ZDgwY2JhZjk3NTNmZTNkMTU2ZjZl`
+Snapshot ID: `MTcxMjMyMzg1NywwMDAwMDAwMGEwYWY3MjM0NjRlMDBmMDk2MTkwYmE1MGQxM2JjNmVm`

@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 152270,
+  "num_followers": 152313,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzRkYTc3MGIwM2ZlNGJlNTY0MGVlYzg0ZmViNTY2Njk4Nzg0NzM0",
+  "snapshot_id": "MTcxMDE1MTMxOSwwMDAwMDAwMDY3YjQ1NzY0MTJkYmU2OTE0ODBkMzYyYjg5MjFkNzlk",
   "tracks": [
     {
       "added_at": "2024-03-11 10:01:59",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Un air de rien",
-        "url": "https://open.spotify.com/album/54Vo3EOEPuq4ERdzyIU4cE"
-      },
-      "artists": [
-        {
-          "name": "Trois Caf\u00e9s Gourmands",
-          "url": "https://open.spotify.com/artist/4wngxtsP87ozrQh05D90dO"
-        }
-      ],
-      "duration_ms": 192989,
-      "name": "\u00c0 nos souvenirs",
-      "url": "https://open.spotify.com/track/3LgrzjwX7RVTtAX9Ai12Qm"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "Fr\u00e9ro Delavega",
         "url": "https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 178986,
       "name": "Le chant des sir\u00e8nes",
       "url": "https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "Un air de rien",
+        "url": "https://open.spotify.com/album/54Vo3EOEPuq4ERdzyIU4cE"
+      },
+      "artists": [
+        {
+          "name": "Trois Caf\u00e9s Gourmands",
+          "url": "https://open.spotify.com/artist/4wngxtsP87ozrQh05D90dO"
+        }
+      ],
+      "duration_ms": 192989,
+      "name": "\u00c0 nos souvenirs",
+      "url": "https://open.spotify.com/track/3LgrzjwX7RVTtAX9Ai12Qm"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Mon paradis",
-        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
-      },
-      "artists": [
-        {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Belle demoiselle",
-      "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "Un jour, je",
         "url": "https://open.spotify.com/album/6behht7b5iDD8CRpTWMWrI"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 165557,
       "name": "Un jour je marierai un ange",
       "url": "https://open.spotify.com/track/5EWPzyWm0b9McPS5Qyaijp"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "Mon paradis",
+        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Belle demoiselle",
+      "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "L'attrape-r\u00eaves",
-        "url": "https://open.spotify.com/album/5gKqyN7Gths4NJi0mtf3pI"
-      },
-      "artists": [
-        {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
-        }
-      ],
-      "duration_ms": 250480,
-      "name": "Il est o\u00f9 le bonheur",
-      "url": "https://open.spotify.com/track/1TM73fujNDKSpigPLfxCZm"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "C\u0153ur",
         "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
+        "name": "L'attrape-r\u00eaves",
+        "url": "https://open.spotify.com/album/5gKqyN7Gths4NJi0mtf3pI"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        }
+      ],
+      "duration_ms": 250480,
+      "name": "Il est o\u00f9 le bonheur",
+      "url": "https://open.spotify.com/track/1TM73fujNDKSpigPLfxCZm"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
         "name": "Sur La Route De Memphis",
         "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
-        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 184077,
-      "name": "Nue",
-      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "La vitesse",
         "url": "https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 198973,
       "name": "Mon c\u0153ur",
       "url": "https://open.spotify.com/track/2uuHjWY6yqEkTZMftzTCzL"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
+        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 184077,
+      "name": "Nue",
+      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Palais d'argile",
-        "url": "https://open.spotify.com/album/5CeSn89NE60Az4dCtkqfWi"
-      },
-      "artists": [
-        {
-          "name": "Feu! Chatterton",
-          "url": "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
-        }
-      ],
-      "duration_ms": 214464,
-      "name": "Monde Nouveau",
-      "url": "https://open.spotify.com/track/0s5gtv1tHwd89TdRYpzfDd"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "Je sais pas si \u00e7a va",
         "url": "https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X"
       },
@@ -915,6 +899,22 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
+        "name": "Palais d'argile",
+        "url": "https://open.spotify.com/album/5CeSn89NE60Az4dCtkqfWi"
+      },
+      "artists": [
+        {
+          "name": "Feu! Chatterton",
+          "url": "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
+        }
+      ],
+      "duration_ms": 214464,
+      "name": "Monde Nouveau",
+      "url": "https://open.spotify.com/track/0s5gtv1tHwd89TdRYpzfDd"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
         "name": "Mauvais r\u00eave",
         "url": "https://open.spotify.com/album/5blMLwINO84ZJntrW0CTNh"
       },
@@ -927,26 +927,6 @@
       "duration_ms": 239546,
       "name": "Mauvais r\u00eave",
       "url": "https://open.spotify.com/track/6IZWTHVNit0ajtXwAWDGO9"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
-        "name": "La R\u00e9alit\u00e9",
-        "url": "https://open.spotify.com/album/6WY9BkvpRyeA5FYwpYrVp9"
-      },
-      "artists": [
-        {
-          "name": "Rapha\u00ebl",
-          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
-        },
-        {
-          "name": "Jean-Louis Aubert",
-          "url": "https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs"
-        }
-      ],
-      "duration_ms": 232440,
-      "name": "Sur la route",
-      "url": "https://open.spotify.com/track/5NFbXrKAou3S8Jg0heGyW8"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -1011,6 +991,26 @@
       "duration_ms": 215813,
       "name": "Les voisines",
       "url": "https://open.spotify.com/track/3moelwvWkm8rliDyjywgA1"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "La R\u00e9alit\u00e9",
+        "url": "https://open.spotify.com/album/6WY9BkvpRyeA5FYwpYrVp9"
+      },
+      "artists": [
+        {
+          "name": "Rapha\u00ebl",
+          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
+        },
+        {
+          "name": "Jean-Louis Aubert",
+          "url": "https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs"
+        }
+      ],
+      "duration_ms": 232440,
+      "name": "Sur la route",
+      "url": "https://open.spotify.com/track/5NFbXrKAou3S8Jg0heGyW8"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
+        "name": "\u00e0 2 \u00e0 3",
+        "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 201138,
+      "name": "Call on me - feat. Ed Sheeran",
+      "url": "https://open.spotify.com/track/2Hn8kSDjl8qAJ0BVgFYcnp"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
         "name": "La femme id\u00e9ale",
         "url": "https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne"
       },
@@ -1191,26 +1211,6 @@
       "duration_ms": 171213,
       "name": "La femme chocolat",
       "url": "https://open.spotify.com/track/5M93fqN6b9HNmfQGmXlqdu"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
-        "name": "\u00e0 2 \u00e0 3",
-        "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
-      },
-      "artists": [
-        {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 201138,
-      "name": "Call on me - feat. Ed Sheeran",
-      "url": "https://open.spotify.com/track/2Hn8kSDjl8qAJ0BVgFYcnp"
     },
     {
       "added_at": "2024-03-11 10:01:59",

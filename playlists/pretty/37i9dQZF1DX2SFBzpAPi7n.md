@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Rolling Quartz\(롤링쿼츠\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,383 likes - 70 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,519 likes - 70 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 69 | [Paragliding](https://open.spotify.com/track/57XdCKf3Pv6n8qUuYe8W6p) | [Electriceels](https://open.spotify.com/artist/0srGDil29MFy5x8asXqmfK) | [Paragliding](https://open.spotify.com/album/6YFoJLOuWOrdPqpeOehcX3) | 4:01 |
 | 70 | [The Last Flower](https://open.spotify.com/track/2R4szKHlna6ZcCcA3jXLfv) | [AIRI KANNA](https://open.spotify.com/artist/5RKYutk9PvyLwOXqIk191K) | [The Last Flower](https://open.spotify.com/album/20Q9uuWH4JFdMfXNpH2ZMh) | 4:06 |
 
-Snapshot ID: `MCw3YzIwNTc1ODE5MmY5YjNlZjI5YmI2YmM5OGQwMWYxMjAwNDU5MGYw`
+Snapshot ID: `MTcxMjY1NTg4NSwwMDAwMDAwMDgxMmJhNGMzMGRkZTM5YWZmMzA3YTE3NDBiZjQzYjU5`

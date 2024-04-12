@@ -2,9 +2,9 @@
 
 ### [Ginger Me](https://open.spotify.com/playlist/37i9dQZF1DX0SlHbqMm3vJ)
 
-> A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Magixx
+> A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Kemuel
 
-555 songs - 1 day 3 hr 41 min
+558 songs - 1 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Big Girl](https://open.spotify.com/track/7yc9njgF9QagMcIHg0qJ0a) | [Seyi Shay](https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K) | [Big Girl](https://open.spotify.com/album/4xNgVlvmGjoNZNjKUDEs90) | 2:57 | 2021-12-09 | 2022-03-01 |
 | [Billz](https://open.spotify.com/track/0oro9g7M96WJt3FqtHnKIl) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N) | [Billz](https://open.spotify.com/album/0BostJ4GjRSiYX0KHkcXd0) | 2:32 | 2022-05-05 | 2022-06-08 |
 | [Blessed \(feat\. Damian Marley\)](https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:22 | 2021-10-14 | 2023-09-15 |
-| [Blood Tonic](https://open.spotify.com/track/5JiTgli1D3CpDsFpDFDgyJ) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Blood Tonic](https://open.spotify.com/album/7kIoxsjk34Il4LwfY89E4A) | 2:47 | 2024-03-08 |  |
+| [Blood Tonic](https://open.spotify.com/track/5JiTgli1D3CpDsFpDFDgyJ) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Blood Tonic](https://open.spotify.com/album/7kIoxsjk34Il4LwfY89E4A) | 2:47 | 2024-03-08 | 2024-04-12 |
 | [Blue Jeans](https://open.spotify.com/track/2SBbSARJnTMcW6fVkYUd14) | [Kkeda](https://open.spotify.com/artist/0seIm2Vmyh7V7oqRX2uZtC) | [Blue Jeans](https://open.spotify.com/album/06vQ9ZXJ9579UjivbiOSmU) | 3:21 | 2022-03-03 | 2022-10-10 |
 | [Blues](https://open.spotify.com/track/6uoyzoymKumUx2oQwHvVd6) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [Kold Szn](https://open.spotify.com/album/5wpQuIHSrmQR5OkFSuDf9D) | 3:01 | 2022-12-09 | 2023-01-28 |
 | [bo card \(things i need\)](https://open.spotify.com/track/0saSQscIxmbaT9i29o6ygY) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [bo card \(things i need\)](https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY) | 2:59 | 2023-03-10 | 2023-05-12 |
@@ -131,7 +131,7 @@
 | [Damages](https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:49 | 2021-10-14 | 2023-09-15 |
 | [Danger](https://open.spotify.com/track/7aeIvptSeWBdtuPyyjM3wM) | [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Danger](https://open.spotify.com/album/2mDEg7Kh7jjaypZ5WxBxNo) | 2:37 | 2022-03-18 | 2022-03-23 |
 | [Dangerous Love](https://open.spotify.com/track/5JayOLFuofunaBCIjissQL) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Dangerous Love](https://open.spotify.com/album/6lmmpu8veGXucQJbX3gxJf) | 3:14 | 2021-10-14 | 2022-07-28 |
-| [Dawn](https://open.spotify.com/track/64z7t6bK8JLmmxZGshF2FO) | [Bagetti](https://open.spotify.com/artist/2z6qcjNpGfdX3wWPgZc7M1) | [New Dawn](https://open.spotify.com/album/13vHvBHGz2SNtnyLRStyHm) | 2:35 | 2024-03-15 |  |
+| [Dawn](https://open.spotify.com/track/64z7t6bK8JLmmxZGshF2FO) | [Bagetti](https://open.spotify.com/artist/2z6qcjNpGfdX3wWPgZc7M1) | [New Dawn](https://open.spotify.com/album/13vHvBHGz2SNtnyLRStyHm) | 2:35 | 2024-03-15 | 2024-04-12 |
 | [December](https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [December](https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX) | 2:35 | 2024-04-05 |  |
 | [Dey Your Dey](https://open.spotify.com/track/4X1Ae3Y9MEURgckWfrsrI9) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Dey Your Dey](https://open.spotify.com/album/2wo9Bti2902VdGyKANzIhq) | 2:35 | 2024-02-02 |  |
 | [Diamonds](https://open.spotify.com/track/1StSSel4njUYWXWNKh5awZ) | [Ninety](https://open.spotify.com/artist/221i8CC98rJBZAaMM9sGLK) | [Diamonds](https://open.spotify.com/album/7d8MZQCtoa7n69LzOzPtQl) | 2:57 | 2022-04-14 | 2022-07-12 |
@@ -182,6 +182,7 @@
 | [Fine Wine \(ft\. Amaarae\)](https://open.spotify.com/track/3WfgYlFwZMt0Gszdj6TsQo) | [Kelechief](https://open.spotify.com/artist/5RYLLsBCVrGJtU2RrlXrOR), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fine Wine \(ft\. Amaarae\)](https://open.spotify.com/album/6BIs3FxdoJXjJFVAbPWR61) | 3:06 | 2022-12-09 | 2023-01-28 |
 | [Fire 4 Fire](https://open.spotify.com/track/6i2abtBneioUeBlLVg3ncx) | [Remy Baggins](https://open.spotify.com/artist/6Pj7ddulM4dzUOGR3sERaX), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [Fire 4 Fire](https://open.spotify.com/album/1Fg8NCAgPwr6HsZSVarUX9) | 3:10 | 2023-08-24 | 2024-02-03 |
 | [Fiya](https://open.spotify.com/track/1Qv0mZ7vP0fCYqKQgPYOfu) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If), [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [Fiya](https://open.spotify.com/album/3gSm6lwlNq35MnMVKMSukW) | 2:36 | 2021-10-14 | 2022-02-28 |
+| [FOCUS](https://open.spotify.com/track/2c79pT6zVLY2FFHgcRtmD9) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Clouds](https://open.spotify.com/album/1NX6VIh1TwDjzXOUc1pyPB) | 2:09 | 2024-04-12 |  |
 | [Folake](https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Folake](https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i) | 2:48 | 2023-02-10 | 2023-09-15 |
 | [Folake](https://open.spotify.com/track/611y0fYELYaLtjiMKbxO4N) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Bodija / Folake](https://open.spotify.com/album/727mYtqwlNLWyE95SaEEzF) | 2:35 | 2024-03-29 |  |
 | [Follow You](https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5), [chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Follow You](https://open.spotify.com/album/5nf9tUvabTiuSMxGg93SF4) | 3:11 | 2021-10-14 | 2022-03-25 |
@@ -267,6 +268,7 @@
 | [Jejely](https://open.spotify.com/track/5x7NKpGAobN005jS36GnH1) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Jejely](https://open.spotify.com/album/3iMfiM40oxLibQGnttPGMO) | 3:01 | 2023-04-14 | 2023-11-10 |
 | [Jigga \(feat\. Khaid\)](https://open.spotify.com/track/2M3mZOLJc4rnosgHWbJhCE) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jigga \(feat\. Khaid\)](https://open.spotify.com/album/3OSxByQbloa6nXxRwaUBW1) | 2:19 | 2024-03-15 |  |
 | [JJC](https://open.spotify.com/track/4IcQbIh8U4DtXEy5KWKcAu) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [JJC](https://open.spotify.com/album/6Ba8adcxt440I92gC7ld28) | 2:34 | 2024-02-16 | 2024-03-17 |
+| [Jolie](https://open.spotify.com/track/2BqNhy0Fc6VZk6TfQu5DDY) | [BiQo](https://open.spotify.com/artist/7ANB4Bn0ymGL0meB4VhR6y) | [Jolie](https://open.spotify.com/album/181bermR5Tqlsp90dHgvdP) | 2:45 | 2024-04-12 |  |
 | [Jonzing Boy](https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Jonzing Boy](https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP) | 3:05 | 2023-05-11 | 2023-09-29 |
 | [Journey Back Home](https://open.spotify.com/track/3YoHYLrPxsEyOPtnzZso0n) | [Bankulli](https://open.spotify.com/artist/5vaAZTnLCHp0garbEDlorS), [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Journey Back Home](https://open.spotify.com/album/2Had8Ig2siiYE7PYVYv4iS) | 3:44 | 2021-11-25 | 2022-02-18 |
 | [Juju pt\. 2 \- A COLORS SHOW](https://open.spotify.com/track/1x9jw0pdfbtYXRrdgYCc8O) | [Bryann](https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19) | [Juju pt\. 2 \- A COLORS SHOW](https://open.spotify.com/album/5ZKCrQepwUk3p4w0TqdeyI) | 3:16 | 2022-07-28 | 2023-01-01 |
@@ -358,6 +360,7 @@
 | [No Social Media](https://open.spotify.com/track/7y19c3IPuvKBmagKbBYO5Z) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [No Social Media](https://open.spotify.com/album/0qpkCgtTEX0fSM8QQio0Ng) | 3:24 | 2024-03-08 | 2024-03-16 |
 | [No Stress](https://open.spotify.com/track/1rXzcrYcx3NKABg3WeCJ6R) | [BemiSoul](https://open.spotify.com/artist/3plhRccR9ys3hl9ctCPRn8) | [No Stress](https://open.spotify.com/album/7BxNfBhoI2rlXYJeoAjlyx) | 3:06 | 2022-02-10 | 2022-02-17 |
 | [No Woman No Cry](https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 3:33 | 2022-07-28 | 2022-09-24 |
+| [No Worries](https://open.spotify.com/track/4VqmxWZGBRnWk810ttwDtT) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [No Worries](https://open.spotify.com/album/7BaYGyvQegrKi73TX10Mhu) | 2:21 | 2024-04-12 |  |
 | [Nobody Else](https://open.spotify.com/track/2dt5k4ChcpKmCi2KPyuxpK) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Nobody Else](https://open.spotify.com/album/67K6eADrJhLqy8r6sH2sUN) | 2:48 | 2022-02-17 | 2022-07-18 |
 | [Normally](https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 3:24 | 2023-05-19 | 2023-10-27 |
 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 | 2023-12-08 |  |
@@ -410,7 +413,7 @@
 | [POLO](https://open.spotify.com/track/3hO7VuXuBbDHOTFTY5g6L5) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [POLO](https://open.spotify.com/album/4P1mq78i4HKC7ytF3dIl2B) | 2:26 | 2024-03-01 |  |
 | [Pour Me a Drink](https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Brother's Keeper](https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX) | 2:48 | 2022-08-25 | 2023-04-13 |
 | [PRACTICE](https://open.spotify.com/track/0P1T4HQzeG598FX3UVFtxs) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [BillyDray](https://open.spotify.com/artist/059ZQRZt9SXMbrzJcyxM5k) | [PRACTICE](https://open.spotify.com/album/4X9lqbIDMJ2AQB9kF2rlYY) | 2:22 | 2023-12-01 | 2023-12-08 |
-| [PRAY](https://open.spotify.com/track/4elqMh9ojfxBzk77bCZHcy) | [Aramide](https://open.spotify.com/artist/3MnR60ldjXYo42lHIZEPvo) | [PRAY](https://open.spotify.com/album/43zdGbhiT6Rx2rV2ZkALxB) | 2:45 | 2024-03-15 |  |
+| [PRAY](https://open.spotify.com/track/4elqMh9ojfxBzk77bCZHcy) | [Aramide](https://open.spotify.com/artist/3MnR60ldjXYo42lHIZEPvo) | [PRAY](https://open.spotify.com/album/43zdGbhiT6Rx2rV2ZkALxB) | 2:45 | 2024-03-15 | 2024-04-12 |
 | [PRESS](https://open.spotify.com/track/4oOHLldeSQn3WVwcyrN4zm) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 3:43 | 2022-03-11 | 2022-03-25 |
 | [PrEttY Like](https://open.spotify.com/track/2lgeehwv2ThyBEQ8kHKFCn) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [PrEttY Like](https://open.spotify.com/album/0eYfLrBMobCVn4ZCaGV1GA) | 2:46 | 2023-04-27 | 2024-02-23 |
 | [Pure Addiction](https://open.spotify.com/track/5oZcubd8fQ1hL0z9aZ2mXz) | [C Natty](https://open.spotify.com/artist/0g4GWaSMj5jwBHltATPXzX) | [Pure Addiction](https://open.spotify.com/album/5nwzBIrwY5wftCq6jLKr6j) | 3:15 | 2022-04-07 | 2022-04-21 |

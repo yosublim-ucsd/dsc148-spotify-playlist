@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Petit",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Aka 7even",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -114,6 +114,24 @@
       "duration_ms": 167162,
       "name": "5 MINUTI",
       "url": "https://open.spotify.com/track/35KwZkxsrcJiDJlloj4oHZ"
+    },
+    {
+      "album": {
+        "name": "9000 KM",
+        "url": "https://open.spotify.com/album/1aB8x8m7r9h2kETprJQJWL"
+      },
+      "artists": [
+        {
+          "name": "Uale",
+          "url": "https://open.spotify.com/artist/65DfdXpvkdrTY49gfs3LAC"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147586,
+      "name": "9000 KM",
+      "url": "https://open.spotify.com/track/3K0W8Y4UWjDPTRkNbfmsbe"
     },
     {
       "album": {
@@ -598,7 +616,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 189494,
       "name": "AUTODISTRUTTIVO",
       "url": "https://open.spotify.com/track/3ZcpVnBJguv1WVeMG44i2M"
@@ -976,6 +994,24 @@
       "duration_ms": 175200,
       "name": "Cambiami La Vita",
       "url": "https://open.spotify.com/track/0PnPBuAw3Vm1TsZiHqkKb0"
+    },
+    {
+      "album": {
+        "name": "CAMILLA",
+        "url": "https://open.spotify.com/album/4WpCQAr30YolcLGQN6zHqA"
+      },
+      "artists": [
+        {
+          "name": "Tancredi",
+          "url": "https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149117,
+      "name": "CAMILLA",
+      "url": "https://open.spotify.com/track/44QM4Y4EC2EuDjNrCFdvCh"
     },
     {
       "album": {
@@ -4240,7 +4276,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 115851,
       "name": "NON SO SE TU . viverci",
       "url": "https://open.spotify.com/track/7DquaifQJeQ42uxFwRnLfZ"
@@ -4388,6 +4424,24 @@
       "duration_ms": 144988,
       "name": "Notte a Roma",
       "url": "https://open.spotify.com/track/6tBJ8wWOkxEcYFT3selR9r"
+    },
+    {
+      "album": {
+        "name": "Notte Fonda",
+        "url": "https://open.spotify.com/album/5yaW6sXoUdLpL9VBOdvjs2"
+      },
+      "artists": [
+        {
+          "name": "Aka 7even",
+          "url": "https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170001,
+      "name": "Notte Fonda",
+      "url": "https://open.spotify.com/track/6cGrb2jhfQnrsVl1gRDG87"
     },
     {
       "album": {
@@ -6964,7 +7018,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 113850,
       "name": "Voglio Innamorarmi",
       "url": "https://open.spotify.com/track/2phwwQDC5KyglBMPxO8eof"

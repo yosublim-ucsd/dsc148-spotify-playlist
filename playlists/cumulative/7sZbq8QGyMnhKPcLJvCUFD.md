@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-526 songs - 1 day 2 hr 56 min
+527 songs - 1 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Blame It On Me](https://open.spotify.com/track/4v7GciNsOxRYSgkEsaFjn7) | [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Blame It On Me](https://open.spotify.com/album/7iJ9URmWTk2Yy6DG941ZY5) | 2:53 | 2022-09-01 | 2023-04-28 |
 | [Blame Me](https://open.spotify.com/track/2ZFDfojISSd5xzO6FSmMo6) | [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0), [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn) | [Playing with Fire](https://open.spotify.com/album/19wkkvKkqO1SY9M3jYD8Nl) | 3:30 | 2023-07-07 | 2023-08-10 |
 | [Blank](https://open.spotify.com/track/7ucAyhKPjKsLrP14q4mcyo) | [Disfigure](https://open.spotify.com/artist/6qS98hCc0GWwq1AShPNl2w) | [Blank](https://open.spotify.com/album/6ASew3RZGJJ5igghbU9lX2) | 3:28 | 2023-08-08 | 2023-12-14 |
+| [Blessing](https://open.spotify.com/track/4ZNbrLGrcWwDFryS8II4fH) | [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj) | [Blessing](https://open.spotify.com/album/2RzcFHJ7FJcRf6LghDL3Kn) | 3:07 | 2024-04-11 |  |
 | [Blind Heart](https://open.spotify.com/track/13JoRkSnyap5xLLgJOZ6Dg) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [ETikka](https://open.spotify.com/artist/1t7Nxks2dmfdKs8glkgDqt) | [Blind Heart](https://open.spotify.com/album/4NL1J5S9Eucz3GEY0Tr9o1) | 2:25 | 2022-09-28 | 2023-04-28 |
 | [Bloodpressure](https://open.spotify.com/track/5RzDuOcYIKS4HiBoso8MJB) | [Rogers & Dean](https://open.spotify.com/artist/1y2QNK5amkPuPSbqhrWQru), [Amvis](https://open.spotify.com/artist/5Z8apqv6IO2IVBNDRTwgED) | [Bloodpressure](https://open.spotify.com/album/6E9DuYd6nqtww0XbR5L4AM) | 3:28 | 2022-10-14 | 2023-04-28 |
 | [Bonfire](https://open.spotify.com/track/3yjKGtGhLesxTVJ9HaRa1i) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Bonfire](https://open.spotify.com/album/1ZRJhmMnwd7PZh3WJ0xOrl) | 2:27 | 2022-12-22 | 2023-04-28 |

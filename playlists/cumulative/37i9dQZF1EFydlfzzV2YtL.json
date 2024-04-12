@@ -16,10 +16,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 169573,
       "name": "Aftertaste",
       "url": "https://open.spotify.com/track/3ilt7lMNflb49pEDpcZPAa"
+    },
+    {
+      "album": {
+        "name": "Handwritten (Deluxe)",
+        "url": "https://open.spotify.com/album/3Qv3N62b2EXxvMLwFURoFj"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169573,
+      "name": "Aftertaste",
+      "url": "https://open.spotify.com/track/4ttHLN02u8SI9OyWWsIux9"
     },
     {
       "album": {
@@ -34,10 +52,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 180520,
       "name": "Ain't Been Done",
       "url": "https://open.spotify.com/track/1IMZyhLFc85550Lq7v2XWq"
+    },
+    {
+      "album": {
+        "name": "Sweet Talker",
+        "url": "https://open.spotify.com/album/1UTtCPjmaqzOD1StDaJGFX"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180520,
+      "name": "Ain't Been Done",
+      "url": "https://open.spotify.com/track/6rYXJEg4Ux6niQzGthcKSe"
     },
     {
       "album": {
@@ -56,10 +92,32 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 194146,
       "name": "Air",
       "url": "https://open.spotify.com/track/4d3ZlYR3rBh27OyL0MI0Jf"
+    },
+    {
+      "album": {
+        "name": "Handwritten (Deluxe)",
+        "url": "https://open.spotify.com/album/3Qv3N62b2EXxvMLwFURoFj"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194146,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/67aneoAANmyjkoLT784opR"
     },
     {
       "album": {
@@ -1441,6 +1499,24 @@
     },
     {
       "album": {
+        "name": "Sweet Talker (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220653,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/4PYiIgzcp4o5pEYji1xY9q"
+    },
+    {
+      "album": {
         "name": "Sweet Talker",
         "url": "https://open.spotify.com/album/6PNYy8L5NHXXEtbNnA1gQv"
       },
@@ -1452,7 +1528,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 220653,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/5NwgcuLPcg8GW9KF015pPi"
@@ -2503,6 +2579,24 @@
     },
     {
       "album": {
+        "name": "Handwritten (Deluxe)",
+        "url": "https://open.spotify.com/album/3Qv3N62b2EXxvMLwFURoFj"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190773,
+      "name": "Strings",
+      "url": "https://open.spotify.com/track/0mpoTyTHBE41RIc89l7QOM"
+    },
+    {
+      "album": {
         "name": "Handwritten",
         "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
       },
@@ -2514,7 +2608,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 190773,
       "name": "Strings",
       "url": "https://open.spotify.com/track/6eAnWf8yT7GLnUvaT0oyKN"

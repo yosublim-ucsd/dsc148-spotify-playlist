@@ -1,12 +1,12 @@
 {
   "description": "S\u00fabete a la troca \u2764\ufe0f",
-  "num_followers": 57355,
+  "num_followers": 57369,
   "original_name": "La Mamalona Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTZhZjFjMmIxZDNlM2FiYjM3NDhlNTEyNjQwMzQ2NTc4ZWMxMzcy",
+  "snapshot_id": "MTcwOTMzMDQyNCwwMDAwMDAwMGY5ZWIzMmJiNzgxYThkNGUyNDBlN2FiYjU4MTk5MmVi",
   "tracks": [
     {
       "added_at": "2024-03-01 22:00:24",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-03-01 22:00:24",
       "album": {
+        "name": "Adue\u00f1arme",
+        "url": "https://open.spotify.com/album/1gaP3AXTMB6E5svNhFP7tF"
+      },
+      "artists": [
+        {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "duration_ms": 183762,
+      "name": "Adue\u00f1arme",
+      "url": "https://open.spotify.com/track/4zneNpRMfRSdhsFTZbYZLN"
+    },
+    {
+      "added_at": "2024-03-01 22:00:24",
+      "album": {
         "name": "No Quiero Perderte",
         "url": "https://open.spotify.com/album/6N1YHlNxKfAyB2llfHDYIH"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 159530,
       "name": "No Quiero Perderte",
       "url": "https://open.spotify.com/track/00bc7aBgwI1wD3zEwrcH4h"
-    },
-    {
-      "added_at": "2024-03-01 22:00:24",
-      "album": {
-        "name": "Adue\u00f1arme",
-        "url": "https://open.spotify.com/album/1gaP3AXTMB6E5svNhFP7tF"
-      },
-      "artists": [
-        {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        }
-      ],
-      "duration_ms": 183762,
-      "name": "Adue\u00f1arme",
-      "url": "https://open.spotify.com/track/4zneNpRMfRSdhsFTZbYZLN"
     },
     {
       "added_at": "2024-03-01 22:00:24",
@@ -855,18 +855,22 @@
     {
       "added_at": "2024-03-01 22:00:24",
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
+        "name": "Haciendo Magia",
+        "url": "https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 167370,
-      "name": "Pideme la Luna",
-      "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
+      "duration_ms": 155818,
+      "name": "Y Sigues Siendo T\u00fa",
+      "url": "https://open.spotify.com/track/74rsDogaPfxMdSMHAiWL3l"
     },
     {
       "added_at": "2024-03-01 22:00:24",
@@ -887,22 +891,18 @@
     {
       "added_at": "2024-03-01 22:00:24",
       "album": {
-        "name": "Haciendo Magia",
-        "url": "https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5"
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 155818,
-      "name": "Y Sigues Siendo T\u00fa",
-      "url": "https://open.spotify.com/track/74rsDogaPfxMdSMHAiWL3l"
+      "duration_ms": 167370,
+      "name": "Pideme la Luna",
+      "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
     },
     {
       "added_at": "2024-03-01 22:00:24",

@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Corazon Serrano, Axel",
-  "num_followers": 113027,
+  "num_followers": 113055,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGFlYzdkNTRhMWJmOGY3OTMwNDRjYjRkM2YwNWZjOThkNzdmMzI4",
+  "snapshot_id": "MTcwODA1OTU0MCwwMDAwMDAwMGZlNTZhODFmYWE1NTFmNGJlZjNmNTFjYzE2ZTczMDhj",
   "tracks": [
     {
       "added_at": "2024-02-16 04:59:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-02-16 04:59:00",
       "album": {
+        "name": "Directo al Coraz\u00f3n, Vol. 18",
+        "url": "https://open.spotify.com/album/7CbNmgY2t9MP2G86u0CnAm"
+      },
+      "artists": [
+        {
+          "name": "Agua Marina",
+          "url": "https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ"
+        }
+      ],
+      "duration_ms": 213669,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/0VkhsIr5avrOdOdc2BE34M"
+    },
+    {
+      "added_at": "2024-02-16 04:59:00",
+      "album": {
         "name": "Me extra\u00f1ar\u00e1s",
         "url": "https://open.spotify.com/album/3mLRImJ2z7aqjyyfkXCS0O"
       },
@@ -699,22 +715,6 @@
     {
       "added_at": "2024-02-16 04:59:00",
       "album": {
-        "name": "Mejor Que Nunca...Sola Hay Una...!",
-        "url": "https://open.spotify.com/album/3LCqM5Qtqi4sVHAQjmaTlF"
-      },
-      "artists": [
-        {
-          "name": "Agua Bella",
-          "url": "https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy"
-        }
-      ],
-      "duration_ms": 243533,
-      "name": "Voy a Buscarme un Amor",
-      "url": "https://open.spotify.com/track/0IGpE4M5z9RXaaRl0Jde8h"
-    },
-    {
-      "added_at": "2024-02-16 04:59:00",
-      "album": {
         "name": "Necesito un Amor",
         "url": "https://open.spotify.com/album/6sQMUFiJsBhRcR6ut1zqG1"
       },
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-02-16 04:59:00",
       "album": {
-        "name": "Directo al Coraz\u00f3n, Vol. 18",
-        "url": "https://open.spotify.com/album/7CbNmgY2t9MP2G86u0CnAm"
+        "name": "Mejor Que Nunca...Sola Hay Una...!",
+        "url": "https://open.spotify.com/album/3LCqM5Qtqi4sVHAQjmaTlF"
       },
       "artists": [
         {
-          "name": "Agua Marina",
-          "url": "https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ"
+          "name": "Agua Bella",
+          "url": "https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy"
         }
       ],
-      "duration_ms": 213669,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/0VkhsIr5avrOdOdc2BE34M"
+      "duration_ms": 243533,
+      "name": "Voy a Buscarme un Amor",
+      "url": "https://open.spotify.com/track/0IGpE4M5z9RXaaRl0Jde8h"
     },
     {
       "added_at": "2024-02-16 04:59:00",

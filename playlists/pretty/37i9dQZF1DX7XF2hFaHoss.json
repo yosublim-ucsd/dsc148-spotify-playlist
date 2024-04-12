@@ -1,12 +1,12 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Aoife O\u2019Donovan",
-  "num_followers": 151750,
+  "num_followers": 151744,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDQzZDdkMGExYTcxYzUyNzJkNDlhNzU2N2RiODA0N2Q3Y2I3YzEy",
+  "snapshot_id": "MTcwOTg3NDAwMCwwMDAwMDAwMDNlZjc2OGQzOWU2YWZhNDY3OGUwNDY2YmE1ZmU3MmI2",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -299,22 +299,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Notes from the Archive: Recordings 2011-2016",
-        "url": "https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb"
+        "name": "Thirties",
+        "url": "https://open.spotify.com/album/4ITAxjdVfgevnS8SA4liGZ"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        },
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
         }
       ],
-      "duration_ms": 382613,
-      "name": "New Song",
-      "url": "https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b"
+      "duration_ms": 192160,
+      "name": "Sorry Now",
+      "url": "https://open.spotify.com/track/2I0t9apRfrVbkxr8Fym2yf"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -423,18 +419,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Thirties",
-        "url": "https://open.spotify.com/album/4ITAxjdVfgevnS8SA4liGZ"
+        "name": "Notes from the Archive: Recordings 2011-2016",
+        "url": "https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb"
       },
       "artists": [
         {
-          "name": "Jill Andrews",
-          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        },
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
         }
       ],
-      "duration_ms": 192160,
-      "name": "Sorry Now",
-      "url": "https://open.spotify.com/track/2I0t9apRfrVbkxr8Fym2yf"
+      "duration_ms": 382613,
+      "name": "New Song",
+      "url": "https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Fisherman's Woman",
-        "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
-      },
-      "artists": [
-        {
-          "name": "Emil\u00edana Torrini",
-          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
-        }
-      ],
-      "duration_ms": 184533,
-      "name": "Sunny Road",
-      "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Nothing's Gonna Happen (Demo)",
         "url": "https://open.spotify.com/album/77IaIITv6d4uIskRJnIu5U"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 236450,
       "name": "Nothing's Gonna Happen (Demo)",
       "url": "https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Fisherman's Woman",
+        "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
+      },
+      "artists": [
+        {
+          "name": "Emil\u00edana Torrini",
+          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Sunny Road",
+      "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Keeping The Light On",
-        "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 223628,
-      "name": "Keeping The Light On",
-      "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "The Closest Thing to Home",
         "url": "https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 241240,
       "name": "Great Divide",
       "url": "https://open.spotify.com/track/5zuelgle0Aqxyc9EooIPVl"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Keeping The Light On",
+        "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 223628,
+      "name": "Keeping The Light On",
+      "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Wanted You to Know",
-        "url": "https://open.spotify.com/album/1lgJadT4fW7KnNRKHfAymy"
-      },
-      "artists": [
-        {
-          "name": "Emily James",
-          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "that'd be alright",
-      "url": "https://open.spotify.com/track/3rm4a3WFvyx71gXPGXsrsd"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "On Hold",
         "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Songs to Break Up To (Acoustic)",
-        "url": "https://open.spotify.com/album/0sXJ4r2XZwc0hzDXJsjsuw"
+        "name": "Wanted You to Know",
+        "url": "https://open.spotify.com/album/1lgJadT4fW7KnNRKHfAymy"
       },
       "artists": [
         {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+          "name": "Emily James",
+          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
         }
       ],
-      "duration_ms": 200072,
-      "name": "Left Off - Acoustic",
-      "url": "https://open.spotify.com/track/5Ev04kROb2YoEVP4QYOHuh"
+      "duration_ms": 178440,
+      "name": "that'd be alright",
+      "url": "https://open.spotify.com/track/3rm4a3WFvyx71gXPGXsrsd"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1403,6 +1387,22 @@
       "duration_ms": 231408,
       "name": "Aeroplane",
       "url": "https://open.spotify.com/track/2kipERgqD2j3zw9B4l9J6a"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Songs to Break Up To (Acoustic)",
+        "url": "https://open.spotify.com/album/0sXJ4r2XZwc0hzDXJsjsuw"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 200072,
+      "name": "Left Off - Acoustic",
+      "url": "https://open.spotify.com/track/5Ev04kROb2YoEVP4QYOHuh"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "the sum of the in-between",
-        "url": "https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ"
-      },
-      "artists": [
-        {
-          "name": "Maria Kelly",
-          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
-        }
-      ],
-      "duration_ms": 167426,
-      "name": "eight hours",
-      "url": "https://open.spotify.com/track/0EUVAn6PdL49jH8B51c2mv"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "While I Was Asleep",
         "url": "https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 238546,
       "name": "Rolling On",
       "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "the sum of the in-between",
+        "url": "https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ"
+      },
+      "artists": [
+        {
+          "name": "Maria Kelly",
+          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
+        }
+      ],
+      "duration_ms": 167426,
+      "name": "eight hours",
+      "url": "https://open.spotify.com/track/0EUVAn6PdL49jH8B51c2mv"
     },
     {
       "added_at": "2024-03-08 05:00:00",

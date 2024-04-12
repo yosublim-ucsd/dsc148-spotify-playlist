@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Twenty One Pilots",
-  "num_followers": 676046,
+  "num_followers": 676041,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTdlZGNmM2Q0Yzc1ODBiYjUxYzQ1YWI4MDU1YWM2Y2Y0ZmZmNjJj",
+  "snapshot_id": "MTcxMTY4MTI2MCwwMDAwMDAwMDIzMjhiNTJiODA1MDMzYTMzNGE3ZjlkOWVhY2JmYzQz",
   "tracks": [
     {
       "added_at": "2024-03-29 03:01:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Welcome To My House",
-        "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 190611,
-      "name": "By The Time You're Reading This",
-      "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Hotel Kalifornia",
         "url": "https://open.spotify.com/album/7dbiEbvBNNt9S4tjV3hIgj"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 173931,
       "name": "City of the Dead",
       "url": "https://open.spotify.com/track/5bqnhwnHxcisxM8x7GLl3B"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Welcome To My House",
+        "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 190611,
+      "name": "By The Time You're Reading This",
+      "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "CRAWLER",
-        "url": "https://open.spotify.com/album/27ygqCfb4dXQ3jyXnC58FU"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 260519,
-      "name": "Crawl!",
-      "url": "https://open.spotify.com/track/2zHbgdtai9PfsWnIIN8qzR"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "The Better Me",
         "url": "https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 195236,
       "name": "The Better Me",
       "url": "https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "CRAWLER",
+        "url": "https://open.spotify.com/album/27ygqCfb4dXQ3jyXnC58FU"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 260519,
+      "name": "Crawl!",
+      "url": "https://open.spotify.com/track/2zHbgdtai9PfsWnIIN8qzR"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
+        "name": "Hotel Kalifornia (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2QmovINf6cQMuNTTZYNBWi"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "duration_ms": 215643,
+      "name": "Salvation",
+      "url": "https://open.spotify.com/track/7lLjB1RVkIG3CangYngvtJ"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
         "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
         "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 248511,
       "name": "Poor Boy a Long Way From Home",
       "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
-        "name": "Hotel Kalifornia (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2QmovINf6cQMuNTTZYNBWi"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        }
-      ],
-      "duration_ms": 215643,
-      "name": "Salvation",
-      "url": "https://open.spotify.com/track/7lLjB1RVkIG3CangYngvtJ"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "My Condition",
-        "url": "https://open.spotify.com/album/6HCfBgib3AXge1a1gDwcLH"
-      },
-      "artists": [
-        {
-          "name": "Dead Poet Society",
-          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
-        }
-      ],
-      "duration_ms": 207670,
-      "name": "My Condition",
-      "url": "https://open.spotify.com/track/3dwG0z9bOORf9W1NWj2eFQ"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Walk The Sky",
         "url": "https://open.spotify.com/album/3CDDZa8pfzfxfDdtm7g84B"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 182526,
       "name": "High on Me",
       "url": "https://open.spotify.com/track/4foH9ND72k3puEzoiHb1z8"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "My Condition",
+        "url": "https://open.spotify.com/album/6HCfBgib3AXge1a1gDwcLH"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "duration_ms": 207670,
+      "name": "My Condition",
+      "url": "https://open.spotify.com/track/3dwG0z9bOORf9W1NWj2eFQ"
     },
     {
       "added_at": "2024-03-29 03:01:00",

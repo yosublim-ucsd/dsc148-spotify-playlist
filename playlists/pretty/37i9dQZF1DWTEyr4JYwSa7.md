@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,984 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,977 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 73 | [Voilà le Père Noël Boogie](https://open.spotify.com/track/3u2cX2OGfAmLVT5UI2TqD5) | [Gregory Charles](https://open.spotify.com/artist/5oZRVKPoEK2rVLYDv3ohoi) | [Voilà le Père Noël Boogie](https://open.spotify.com/album/3PBEWDjry4JccomCBvAO1S) | 3:11 |
 | 74 | [O Holy Night](https://open.spotify.com/track/0dKBg0sPcfOFXFxSs23Xz5) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [O Holy Night](https://open.spotify.com/album/0x8AUQKZdcAbY693C4SM79) | 3:14 |
 | 75 | [Blame It On The Mistletoe](https://open.spotify.com/track/110lWlsa8fJXgrrwGgg0f1) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Blame It On The Mistletoe](https://open.spotify.com/album/3MuX8Afd4KC0kGIBOstzxs) | 3:05 |
-| 76 | [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/0P8cvxv29JhKScuB3mw8x0) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Holidays](https://open.spotify.com/album/6VsWnIcWBZECia7pKtiuFK) | 1:44 |
-| 77 | [Another Year Has Gone By](https://open.spotify.com/track/014An8mZt6hTR6bsN9fo2u) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 3:24 |
+| 76 | [Another Year Has Gone By](https://open.spotify.com/track/014An8mZt6hTR6bsN9fo2u) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 3:24 |
+| 77 | [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/0P8cvxv29JhKScuB3mw8x0) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Holidays](https://open.spotify.com/album/6VsWnIcWBZECia7pKtiuFK) | 1:44 |
 | 78 | [River](https://open.spotify.com/track/3yLCQ4GRSFlg3GmwlYQlzX) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Wintersong](https://open.spotify.com/album/66TijPOdbkKqENLhOuDUhJ) | 4:02 |
 | 79 | [Bons baisers de Fort\-De\-France \(Joyeux Noël\)](https://open.spotify.com/track/1sCsEjP36ukcVtdoK8LHZv) | [La Compagnie Créole](https://open.spotify.com/artist/4GFqys2YA5hdCl4P2pdX3h) | [Le bal masqué](https://open.spotify.com/album/2Uy1V5kBLMGuSKHchgsS5w) | 3:12 |
 | 80 | [The Christmas Song](https://open.spotify.com/track/73Hn7c2f0IzvcxmpqswGFa) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 99 | [L'enfant au tambour](https://open.spotify.com/track/4jtna43xiyQKSghOBwh0l8) | [Johanne Blouin](https://open.spotify.com/artist/1f8PCpHKhzkLb2y7wnijjd) | [Sainte Nuit](https://open.spotify.com/album/3DCGt7eg6TFrAa5tVf9zja) | 2:54 |
 | 100 | [Le sentier de neige](https://open.spotify.com/track/3nfMEWUbuSL5hpWidpkqaP) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Le sentier de neige](https://open.spotify.com/album/6XbUryKvYK2FhYxGmUbCvT) | 3:58 |
 
-Snapshot ID: `MCw0ODdkNzkxZjJiYjJkMTZkMGYyMjA5YzE4YmNjNjE3ZWVkMDFhMTA0`
+Snapshot ID: `MTcwMjY5Njk5NiwwMDAwMDAwMDZlZTFjN2JlYmE4Njk4MzU5ZDYwYTQ0ODRiNDk4ZTZl`

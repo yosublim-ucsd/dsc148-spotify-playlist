@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 
 > morrxs chidos haciendo música chida\. Pau Laggies en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,578 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,586 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 | 50 | [Moradiva](https://open.spotify.com/track/4BTVAYvVZUwNDSrB2s1Pj8) | [FRNCE](https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f) | [Moradiva](https://open.spotify.com/album/0w72lmf6YBUWcZSJ42imIv) | 3:12 |
 | 51 | [Red Pill](https://open.spotify.com/track/6b5OFBqSktYZftqw33jkAH) | [Jass Reyes](https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF) | [Red Pill](https://open.spotify.com/album/27coIALm5CqtoSdZ7lel7m) | 2:58 |
 
-Snapshot ID: `MCxmMjU0MzkxZjE3MTk3MWU0ZGNmNGRhYjc4NmU1NGJmOTE3MGRlMjg3`
+Snapshot ID: `MTcxMjMzMTEzNywwMDAwMDAwMDE5OTEzYzBkODU3YjU2ZTFkOTYxYWQ2ZDBkYmQ2M2Fk`

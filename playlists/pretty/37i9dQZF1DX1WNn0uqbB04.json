@@ -1,12 +1,12 @@
 {
   "description": "El Tango est\u00e1 m\u00e1s vivo que nunca. Disfrut\u00e1 los cl\u00e1sicos en <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV\">Tangos y Milongas</a>",
-  "num_followers": 87385,
+  "num_followers": 87393,
   "original_name": "Neo Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2UyYTg0ODAxMDg0ZWYwMzE0NDVjOWE4Y2I5MzE5YzNmNTI2YjMx",
+  "snapshot_id": "MTcwMDc5NDgwMCwwMDAwMDAwMGJhNDM5ZDg1MjFmZWI4M2EwNjIxOThiODA4NzlkYWE4",
   "tracks": [
     {
       "added_at": "2023-11-24 03:00:00",
@@ -147,22 +147,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Veinte Veinte",
-        "url": "https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG"
+        "name": "Electro Dub Tango",
+        "url": "https://open.spotify.com/album/7hQ3XsiHgR5NFNF3MHHvBQ"
       },
       "artists": [
         {
-          "name": "BIFE",
-          "url": "https://open.spotify.com/artist/1UmyLRbgkEd90qEvMECEzk"
-        },
-        {
-          "name": "Noelia Sinkunas",
-          "url": "https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF"
+          "name": "Electro Dub Tango",
+          "url": "https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x"
         }
       ],
-      "duration_ms": 73557,
-      "name": "Farras",
-      "url": "https://open.spotify.com/track/0vukCYhpBdyFxAyjLPFNhq"
+      "duration_ms": 246000,
+      "name": "Mundo Bizarro",
+      "url": "https://open.spotify.com/track/7aqrgVAnsQ6PJD2kBo7JFb"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -219,18 +215,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Electro Dub Tango",
-        "url": "https://open.spotify.com/album/7hQ3XsiHgR5NFNF3MHHvBQ"
+        "name": "Veinte Veinte",
+        "url": "https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG"
       },
       "artists": [
         {
-          "name": "Electro Dub Tango",
-          "url": "https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x"
+          "name": "BIFE",
+          "url": "https://open.spotify.com/artist/1UmyLRbgkEd90qEvMECEzk"
+        },
+        {
+          "name": "Noelia Sinkunas",
+          "url": "https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF"
         }
       ],
-      "duration_ms": 246000,
-      "name": "Mundo Bizarro",
-      "url": "https://open.spotify.com/track/7aqrgVAnsQ6PJD2kBo7JFb"
+      "duration_ms": 73557,
+      "name": "Farras",
+      "url": "https://open.spotify.com/track/0vukCYhpBdyFxAyjLPFNhq"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -467,18 +467,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Vivo en Otros Aires",
-        "url": "https://open.spotify.com/album/17Ww9QMOZszSmfguKkUKWZ"
+        "name": "Bajofondo Tango Club Presenta A Supervielle",
+        "url": "https://open.spotify.com/album/6USPX5kkLVt8bXHw4DS0rl"
       },
       "artists": [
         {
-          "name": "Otros Aires",
-          "url": "https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h"
+          "name": "Luciano Supervielle",
+          "url": "https://open.spotify.com/artist/0cVBzbJ1qk2pergJG8jbSC"
         }
       ],
-      "duration_ms": 233306,
-      "name": "Milonga Sentimental",
-      "url": "https://open.spotify.com/track/0VwavJHr7O1yHBwQ7VtJVr"
+      "duration_ms": 152880,
+      "name": "Leonel, El Feo",
+      "url": "https://open.spotify.com/track/4E7p53RpMQES1VTspmXEmE"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -515,18 +515,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Bajofondo Tango Club Presenta A Supervielle",
-        "url": "https://open.spotify.com/album/6USPX5kkLVt8bXHw4DS0rl"
+        "name": "Vivo en Otros Aires",
+        "url": "https://open.spotify.com/album/17Ww9QMOZszSmfguKkUKWZ"
       },
       "artists": [
         {
-          "name": "Luciano Supervielle",
-          "url": "https://open.spotify.com/artist/0cVBzbJ1qk2pergJG8jbSC"
+          "name": "Otros Aires",
+          "url": "https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h"
         }
       ],
-      "duration_ms": 152880,
-      "name": "Leonel, El Feo",
-      "url": "https://open.spotify.com/track/4E7p53RpMQES1VTspmXEmE"
+      "duration_ms": 233306,
+      "name": "Milonga Sentimental",
+      "url": "https://open.spotify.com/track/0VwavJHr7O1yHBwQ7VtJVr"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -603,6 +603,26 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "Carabelas Nada",
+        "url": "https://open.spotify.com/album/6i37stRS1hsLchPh8qpBtz"
+      },
+      "artists": [
+        {
+          "name": "Tanghetto",
+          "url": "https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC"
+        },
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 283266,
+      "name": "Carabelas Nada",
+      "url": "https://open.spotify.com/track/6vgPBFsZOOjrlVPLlamQHj"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "Revoluci\u00f3n Beat",
         "url": "https://open.spotify.com/album/0SkTNP6iRKY7vI5K1ruEvK"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 234150,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/4w8FqwBHd21GiNZyoNremD"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "Carabelas Nada",
-        "url": "https://open.spotify.com/album/6i37stRS1hsLchPh8qpBtz"
-      },
-      "artists": [
-        {
-          "name": "Tanghetto",
-          "url": "https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC"
-        },
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 283266,
-      "name": "Carabelas Nada",
-      "url": "https://open.spotify.com/track/6vgPBFsZOOjrlVPLlamQHj"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -987,26 +987,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Libertango (En Vivo en el Luna Park)",
-        "url": "https://open.spotify.com/album/16ncE46moDunwP7X7P7xRH"
+        "name": "Fueye Mood",
+        "url": "https://open.spotify.com/album/7vrPwQQk9tgwirJXpa8uia"
       },
       "artists": [
         {
-          "name": "La Milonga Electrica",
-          "url": "https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6"
-        },
-        {
-          "name": "Godoy",
-          "url": "https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR"
-        },
-        {
-          "name": "Sebasti\u00e1n Barbui",
-          "url": "https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh"
+          "name": "Supertangox",
+          "url": "https://open.spotify.com/artist/0hSsQFYJ0B5MMpjpg9rwKC"
         }
       ],
-      "duration_ms": 206374,
-      "name": "Libertango - En Vivo en Luna Park",
-      "url": "https://open.spotify.com/track/7JK4ZND7Gvd3smWaX5eU3t"
+      "duration_ms": 231670,
+      "name": "Fueye Mood",
+      "url": "https://open.spotify.com/track/7o405CF3y3a0s5nDPQYAlE"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1027,18 +1019,26 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Fueye Mood",
-        "url": "https://open.spotify.com/album/7vrPwQQk9tgwirJXpa8uia"
+        "name": "Libertango (En Vivo en el Luna Park)",
+        "url": "https://open.spotify.com/album/16ncE46moDunwP7X7P7xRH"
       },
       "artists": [
         {
-          "name": "Supertangox",
-          "url": "https://open.spotify.com/artist/0hSsQFYJ0B5MMpjpg9rwKC"
+          "name": "La Milonga Electrica",
+          "url": "https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6"
+        },
+        {
+          "name": "Godoy",
+          "url": "https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR"
+        },
+        {
+          "name": "Sebasti\u00e1n Barbui",
+          "url": "https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh"
         }
       ],
-      "duration_ms": 231670,
-      "name": "Fueye Mood",
-      "url": "https://open.spotify.com/track/7o405CF3y3a0s5nDPQYAlE"
+      "duration_ms": 206374,
+      "name": "Libertango - En Vivo en Luna Park",
+      "url": "https://open.spotify.com/track/7JK4ZND7Gvd3smWaX5eU3t"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "Tanguera",
+        "url": "https://open.spotify.com/album/1u2zR173xUYZkfK6S4JudX"
+      },
+      "artists": [
+        {
+          "name": "Diego Schissi Quinteto",
+          "url": "https://open.spotify.com/artist/4ot8iEVkzB5p3K18cnGRdZ"
+        }
+      ],
+      "duration_ms": 254440,
+      "name": "Tanguera",
+      "url": "https://open.spotify.com/track/2Bas5NJDcCXgJE3W48hbgV"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "El Nuevo Rumbo",
         "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 272033,
       "name": "Viaje Sin Luna",
       "url": "https://open.spotify.com/track/1LEU5VOD3tUQabsMTPBY19"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "Tanguera",
-        "url": "https://open.spotify.com/album/1u2zR173xUYZkfK6S4JudX"
-      },
-      "artists": [
-        {
-          "name": "Diego Schissi Quinteto",
-          "url": "https://open.spotify.com/artist/4ot8iEVkzB5p3K18cnGRdZ"
-        }
-      ],
-      "duration_ms": 254440,
-      "name": "Tanguera",
-      "url": "https://open.spotify.com/track/2Bas5NJDcCXgJE3W48hbgV"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1239,18 +1239,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Porque Canto Asi",
-        "url": "https://open.spotify.com/album/0DVKuygci9kepNkgBfVXmP"
+        "name": "Sebastian Barbui",
+        "url": "https://open.spotify.com/album/28XcARHQ3YiuaAZkGDPidC"
       },
       "artists": [
         {
-          "name": "La Milonga Electrica",
-          "url": "https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6"
+          "name": "Sebasti\u00e1n Barbui",
+          "url": "https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh"
+        },
+        {
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
         }
       ],
-      "duration_ms": 134272,
-      "name": "Porque Canto Asi",
-      "url": "https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw"
+      "duration_ms": 202866,
+      "name": "El Dia Que Me Quieras",
+      "url": "https://open.spotify.com/track/76QoEfEGQKIVnYsQufETfK"
     }
   ],
   "unique_name": "Neo Tango",

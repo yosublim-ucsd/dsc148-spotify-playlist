@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2x9Uy8yoJIWxOslfC3vYCq">Wondagurl</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,918 likes - 58 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,919 likes - 58 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 | 39 | [Made A Way](https://open.spotify.com/track/5zdL7AdFUQJ4oRkUOdzhY4) | [FaZe Kaysan](https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Made A Way](https://open.spotify.com/album/1buZ09kj1vKLQg2SDBQwiC) | 3:15 |
 | 40 | [Hear No Evil \(feat\. Future\)](https://open.spotify.com/track/3dDdYVWY1wWlcpKoZZLyMy) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [EDNA](https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU) | 4:23 |
 | 41 | [Ready Set Go \(feat\. 03 Greedo & XXXTENTACION\)](https://open.spotify.com/track/5Iz8Iz5jdWwW95JusFxGrC) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [MISUNDERSTOOD](https://open.spotify.com/album/6UGajHeNjVlZN2I9LJhT2l) | 3:01 |
-| 42 | [Lady In Yellow](https://open.spotify.com/track/0EnAawF5uCdpjt3Tp44nXl) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Teenage Emotions](https://open.spotify.com/album/6upTR3RFKR7K20OnHRXDkL) | 3:38 |
-| 43 | [Bout Mine](https://open.spotify.com/track/4gqrnAtKytouenQdFRW14x) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 2:27 |
+| 42 | [Bout Mine](https://open.spotify.com/track/4gqrnAtKytouenQdFRW14x) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 2:27 |
+| 43 | [Lady In Yellow](https://open.spotify.com/track/0EnAawF5uCdpjt3Tp44nXl) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Teenage Emotions](https://open.spotify.com/album/6upTR3RFKR7K20OnHRXDkL) | 3:38 |
 | 44 | [One Mo' Gen](https://open.spotify.com/track/7pwAOy7WJBeSBPbH9lXvI8) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 3:25 |
 | 45 | [Never Let Up](https://open.spotify.com/track/7yxxOZGMVcYJqUfeDqjEo7) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Surrender Your Soul](https://open.spotify.com/album/4lJR5ozGbDnCvikes1Veck) | 2:30 |
 | 46 | [Antares](https://open.spotify.com/track/3NTQws0JI0usmAUXHD8Gia) | [Kris Wu](https://open.spotify.com/artist/2lbUjuMzHkT4qIECvk2f3L) | [Antares](https://open.spotify.com/album/6w5zZMxmvsqAED65Lx42lS) | 3:06 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 | 57 | [• VVS](https://open.spotify.com/track/0M5ycnOCm3yZMPGwb9y68t) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [KTOE](https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L) | [Fleurever](https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH) | 2:52 |
 | 58 | [Afro Blue](https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Afro Blue](https://open.spotify.com/album/6FrOVQv6pmNkJB6dE5RKqV) | 3:51 |
 
-Snapshot ID: `Mjg1NDY2OTAsMDAwMDAwMDA2YWNjMGY5ZDgyMDY2MTljNWRkNTgxZWZmY2Q1NDlkNA==`
+Snapshot ID: `Mjg1NDgxNDAsMDAwMDAwMDA1MTU2MDYyYmIxNTY0YzhjYjY5MjllN2UwNmViMDk1Zg==`

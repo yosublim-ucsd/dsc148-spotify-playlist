@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTYxMDMwMDA5YzZjNDA0M2ZiNzUyYzA4YWQ5MzUzZmM5NTAwNjVj",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDllYjIwNjY1Y2JjOGRiNTFiN2Y2MWE0Nzk3ODZhOGVm",
   "tracks": [
     {
       "added_at": null,
@@ -899,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoodie SZN",
-        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 193575,
-      "name": "Pull Up (feat. NAV)",
-      "url": "https://open.spotify.com/track/76vviJBqmRdMMb9u9npgfj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Painless 2 (with NAV feat. Lil Durk)",
         "url": "https://open.spotify.com/album/7rKi5SdKXxVSLIc0B9z0wK"
       },
@@ -943,22 +923,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Demons Protected By Angels",
-        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 193575,
+      "name": "Pull Up (feat. NAV)",
+      "url": "https://open.spotify.com/track/76vviJBqmRdMMb9u9npgfj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Habits (Deluxe)",
+        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
       },
       "artists": [
         {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 139469,
-      "name": "Playa (with Gunna)",
-      "url": "https://open.spotify.com/track/4KH2xxnlvlE1koTS6OZSD8"
+      "duration_ms": 186680,
+      "name": "Taking Chances",
+      "url": "https://open.spotify.com/track/0iVWDZhL04DiKgbI1mbC40"
     },
     {
       "added_at": null,
@@ -979,18 +975,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Habits (Deluxe)",
-        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
+        "name": "Demons Protected By Angels",
+        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
       },
       "artists": [
         {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 186680,
-      "name": "Taking Chances",
-      "url": "https://open.spotify.com/track/0iVWDZhL04DiKgbI1mbC40"
+      "duration_ms": 139469,
+      "name": "Playa (with Gunna)",
+      "url": "https://open.spotify.com/track/4KH2xxnlvlE1koTS6OZSD8"
     },
     {
       "added_at": null,

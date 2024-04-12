@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > songs that we love <3 medium build on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,318 likes - 104 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,354 likes - 104 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 103 | [all in good Time,](https://open.spotify.com/track/1b61dvikZLHwdnGWKSIUJJ) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [all in good Time,](https://open.spotify.com/album/7MhrNDo9kcpjAK2MLJTWWh) | 5:01 |
 | 104 | [Summer](https://open.spotify.com/track/3qbWCni1577NA2kQdQHHKR) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO) | [Whiplash](https://open.spotify.com/album/7JcEn5RIPlyhPNUtbht9mc) | 3:56 |
 
-Snapshot ID: `MCxiMjM4MzA1ZmFkZjIwMzIwZjZjYzQ1YTllNDk2OTdkYzRiZmVhMWNj`
+Snapshot ID: `MTcxMjI4OTYwMCwwMDAwMDAwMDQwNGVlMTNhNjVjZTczYzJlZGIzYzk1NGU1NGQzZmEz`

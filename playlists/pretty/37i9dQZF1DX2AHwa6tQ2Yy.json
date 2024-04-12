@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 47209,
+  "num_followers": 47222,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzJlOWM0ODYwZmE2ZTkxMDM1OThiMDg5ZTAyMmNiN2E5Y2FlY2M4",
+  "snapshot_id": "MTcxMDQ0ODgzNSwwMDAwMDAwMGNlZjA2MDRkMDkwYmRlN2QyMDA5OWYzOTRiMmRkMWY5",
   "tracks": [
     {
       "added_at": "2024-03-14 20:40:35",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 218253,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Jaime (Reimagined)",
         "url": "https://open.spotify.com/album/4WF6ivKo1khvBsGHJODucP"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 218400,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/25Olcsu6q4zxwASmTuUA8R"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 218253,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "chasing the bus",
-        "url": "https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 188550,
-      "name": "chasing the bus",
-      "url": "https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "L.A.B IV",
         "url": "https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 183160,
       "name": "Finding Peace",
       "url": "https://open.spotify.com/track/61OqwQ7gNNg5hdoN0yhGBG"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "chasing the bus",
+        "url": "https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 188550,
+      "name": "chasing the bus",
+      "url": "https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "New Ways",
-        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 409866,
-      "name": "Transatlantic Flight",
-      "url": "https://open.spotify.com/track/0UMBDzlMhyz3N1hd8mBemt"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Better With You",
         "url": "https://open.spotify.com/album/6hNFfriiHoZFXIVx4UJ82v"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 137046,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/6eXNp3TwJsu67AEpWkU38O"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "New Ways",
+        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 409866,
+      "name": "Transatlantic Flight",
+      "url": "https://open.spotify.com/track/0UMBDzlMhyz3N1hd8mBemt"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "Tomorrow's Gonna Come",
+        "url": "https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        }
+      ],
+      "duration_ms": 230920,
+      "name": "Falling in Love Again",
+      "url": "https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "No One But You",
         "url": "https://open.spotify.com/album/4DlUVB5ZqzYYB11YoHonsR"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 213404,
       "name": "No One But You",
       "url": "https://open.spotify.com/track/7LSypGB8lN2LbdizzUzzgL"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "Tomorrow's Gonna Come",
-        "url": "https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0"
-      },
-      "artists": [
-        {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        }
-      ],
-      "duration_ms": 230920,
-      "name": "Falling in Love Again",
-      "url": "https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Alone Together (feat. Keyon Harrold)",
-        "url": "https://open.spotify.com/album/0k3H2zaKbA51uJtMR6JymR"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        },
-        {
-          "name": "Keyon Harrold",
-          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
-        }
-      ],
-      "duration_ms": 270386,
-      "name": "Alone Together (feat. Keyon Harrold)",
-      "url": "https://open.spotify.com/track/72fGgm5dQxnnagjMh364Q2"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Good Thing (Deluxe)",
         "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 261773,
       "name": "I'm Leaving",
       "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Alone Together (feat. Keyon Harrold)",
+        "url": "https://open.spotify.com/album/0k3H2zaKbA51uJtMR6JymR"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        }
+      ],
+      "duration_ms": 270386,
+      "name": "Alone Together (feat. Keyon Harrold)",
+      "url": "https://open.spotify.com/track/72fGgm5dQxnnagjMh364Q2"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Til My Song Is Done",
-        "url": "https://open.spotify.com/album/6CmtgWsHIyzLaY6HOH7u4X"
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
       },
       "artists": [
         {
-          "name": "Emma Donovan",
-          "url": "https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 274600,
-      "name": "Til My Song is Done",
-      "url": "https://open.spotify.com/track/6gC01enBKZMxtuJQiVi0eG"
+      "duration_ms": 157152,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/71KtVFmu7lY2AsKgdG1cZl"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1195,22 +1195,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Most Wanted (Deluxe)",
-        "url": "https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt"
+        "name": "Til My Song Is Done",
+        "url": "https://open.spotify.com/album/6CmtgWsHIyzLaY6HOH7u4X"
       },
       "artists": [
         {
-          "name": "Jean Deaux",
-          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+          "name": "Emma Donovan",
+          "url": "https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs"
         }
       ],
-      "duration_ms": 221538,
-      "name": "Ease Up",
-      "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
+      "duration_ms": 274600,
+      "name": "Til My Song is Done",
+      "url": "https://open.spotify.com/track/6gC01enBKZMxtuJQiVi0eG"
     }
   ],
   "unique_name": "Soulful",

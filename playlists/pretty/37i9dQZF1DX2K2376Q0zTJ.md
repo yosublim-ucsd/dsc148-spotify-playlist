@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。今月のアンバサダー: Furui RIho
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,235 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,247 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [Old Clothes](https://open.spotify.com/track/6EnoT8pI9QwEpFP5OkuTV4) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [Old Clothes](https://open.spotify.com/album/1MvNkSzLScMEdmqJQelvfC) | 3:39 |
 | 50 | [I Just Wanna Say](https://open.spotify.com/track/1f526AAo6mlEF6JJpYCrYx) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh) | [Bloom](https://open.spotify.com/album/7q37XpOyHaEbmsmGJpFrCi) | 3:22 |
 
-Snapshot ID: `MCxlNTNiYjMzNzAyZmFmZDJhMjhmOTQzMTc0YzcyYWJhMzI0YjdmOWM1`
+Snapshot ID: `MTcxMjA3MDAwMCwwMDAwMDAwMDMzOTk5NDhiOWNiNDNlMWQzYTFiNzlkNjEwZDQzYWVl`

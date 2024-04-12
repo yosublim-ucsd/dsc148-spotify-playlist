@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 131613,
+  "2024-04-12": 131626,
   "date_first_scraped": "2022-06-02",
   "description": "\u00a1Lleva el folclore de M\u00e9xico a donde sea!",
   "name": "Tradici\u00f3n Mexicana",
@@ -1877,10 +1877,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 181560,
       "name": "La Marcha De Zacatecas",
       "url": "https://open.spotify.com/track/2CNm9DuATGZtLcb7R9dxfi"
+    },
+    {
+      "album": {
+        "name": "Polkas Mexicanas",
+        "url": "https://open.spotify.com/album/5j0i6Sbxay5XktMAd3cE92"
+      },
+      "artists": [
+        {
+          "name": "Mariachi M\u00e9xico de Pepe Villa",
+          "url": "https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181578,
+      "name": "La Marcha De Zacatecas",
+      "url": "https://open.spotify.com/track/0Dlq6fg5KQgEyDzDxUfeUz"
     },
     {
       "album": {

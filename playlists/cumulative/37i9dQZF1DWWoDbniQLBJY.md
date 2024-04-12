@@ -4,7 +4,7 @@
 
 > Aquí viven las canciones acústicas\. Cover: Maria Becerra
 
-200 songs - 11 hr 53 min
+201 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Desorden](https://open.spotify.com/track/3vEK8aeuI9hC8yLbqm0L1n) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Desorden](https://open.spotify.com/album/1HZq5pIum2fq1cU6CeiCYs) | 3:26 | 2023-10-20 |  |
 | [Despacito \- Acoustic](https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC) | [Despacito \(Acoustic\)](https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB) | 3:38 | 2021-12-16 |  |
 | [Destino \- Acústico](https://open.spotify.com/track/1UUAtmVInu4DNChh5HYiHk) | [Jxta Martin](https://open.spotify.com/artist/689Xz3YbAUBmCsDYUxLu7P) | [En Acústico](https://open.spotify.com/album/6SIva4NYVKvJoJVfExZYDk) | 3:27 | 2023-04-04 |  |
+| [Dimos Tanto](https://open.spotify.com/track/797rLEGNwiTPnkpd1itDC9) | [El Toed](https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh) | [Dimos Tanto](https://open.spotify.com/album/1j3xpnB1UQmJgUTLtaVwEo) | 3:09 | 2024-04-05 |  |
 | [Donde Estás \- Live from Spotify Green Screen](https://open.spotify.com/track/6qSx2AFL9pqYPoUrbKyeY5) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Donde Estás \- Live from Spotify Green Screen](https://open.spotify.com/album/7ldQ6NFWnHHiuxsbNYZWbS) | 3:12 | 2024-01-11 |  |
 | [Downtown \- Acoustic Version](https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke) | [Mechi Pieretti](https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33) | [Downtown \(Acoustic Version\)](https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ) | 3:24 | 2021-12-16 |  |
 | [Dulce Amargo](https://open.spotify.com/track/6KcpZ7jPd0Rf58em3JNpeK) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:27 | 2021-12-16 | 2022-11-13 |
@@ -193,7 +194,7 @@
 | [Tus Ojitos](https://open.spotify.com/track/0zoxIUnCEpCXayf35r17gd) | [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V) | [Tus Ojitos](https://open.spotify.com/album/4uBMJOCvn3j1Q2spx5Suoc) | 4:15 | 2021-12-16 |  |
 | [Tusa](https://open.spotify.com/track/2KhQWu0rUU6zGu53c6nkVs) | [Las Alas](https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar) | [Tusa](https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc) | 2:33 | 2021-12-16 |  |
 | [Tú Con Él](https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Canciones del Alma](https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi) | 3:25 | 2021-12-16 | 2023-11-29 |
-| [Un Cariñito \- Versión Acústica](https://open.spotify.com/track/6yafaQ3bGzRgC6Rr2gRGxt) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Un Cariñito \(Versión Acústica\)](https://open.spotify.com/album/74fF7h1oaKiGaUQBVvScwu) | 3:30 | 2024-03-22 |  |
+| [Un Cariñito \- Versión Acústica](https://open.spotify.com/track/6yafaQ3bGzRgC6Rr2gRGxt) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Un Cariñito \(Versión Acústica\)](https://open.spotify.com/album/74fF7h1oaKiGaUQBVvScwu) | 3:30 | 2024-03-22 | 2024-04-12 |
 | [Un Vuelo A La \(feat\. Jessie Reyez\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3Kx1Go2GXVwQk1fozPJ1BQ) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Spotify Singles](https://open.spotify.com/album/3U8ndUx2DNmhKPUjqtJuek) | 3:24 | 2021-12-16 | 2023-08-31 |
 | [una luz](https://open.spotify.com/track/0zd0kuNdqeLgxuFm5SLYxH) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Verano, por siempre](https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc) | 2:56 | 2022-06-07 |  |
 | [una luz](https://open.spotify.com/track/6ClMwDfFUcwOPqiB6iNjCv) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [una luz](https://open.spotify.com/album/1EzqXEMydfsoBH9pJ0WnT2) | 2:56 | 2021-12-16 | 2022-07-29 |

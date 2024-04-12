@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Future & Metro Boomin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,196,189 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,196,292 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [WAKE EM UP](https://open.spotify.com/track/5b9eyzFhqDrxDjySPlGCo7) | [Big Moochie Grape](https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa) | [WAKE EM UP](https://open.spotify.com/album/4qjoG39v1vDKKZegKiMntm) | 2:43 |
 | 100 | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy) | 3:50 |
 
-Snapshot ID: `MCxiZmM4M2UyYzhiMGI0ZjEzMThmM2MxYTNjMmNhMDQxMGEzMWZiZmRj`
+Snapshot ID: `MTcxMjI4OTYwMCwwMDAwMDAwMGU5MzA0ZTc3MDlkODFjNDgzYjZhYjc4MGNjYjdhOGNh`

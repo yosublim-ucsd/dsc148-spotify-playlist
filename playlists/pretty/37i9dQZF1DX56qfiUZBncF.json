@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 377398,
+  "num_followers": 377425,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTk4MzUwZWVlZWVmMTk2ZTYzNDk4YjE3OTJhM2QzN2E1MGQ3Zjc1",
+  "snapshot_id": "MTcxMjA4MzMyNywwMDAwMDAwMGYyZjQwNGU4YmRjMWRiOWQ3OGUyNTc4NWVmMzY2NDMx",
   "tracks": [
     {
       "added_at": "2024-04-02 18:42:07",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
-        "name": "RELAXER",
-        "url": "https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 206026,
-      "name": "In Cold Blood",
-      "url": "https://open.spotify.com/track/0jeJR3LdrC2QJNviq7wjzp"
-    },
-    {
-      "added_at": "2024-04-02 18:42:07",
-      "album": {
         "name": "False Art",
         "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 183454,
       "name": "False Art",
       "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
+    },
+    {
+      "added_at": "2024-04-02 18:42:07",
+      "album": {
+        "name": "RELAXER",
+        "url": "https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 206026,
+      "name": "In Cold Blood",
+      "url": "https://open.spotify.com/track/0jeJR3LdrC2QJNviq7wjzp"
     },
     {
       "added_at": "2024-04-02 18:42:07",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
-        "name": "Far From Here",
-        "url": "https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 260338,
-      "name": "Edge of the Dark",
-      "url": "https://open.spotify.com/track/4RE36XFP3a20pBSV9GdMAE"
-    },
-    {
-      "added_at": "2024-04-02 18:42:07",
-      "album": {
         "name": "Roses & Revolutions",
         "url": "https://open.spotify.com/album/4OfwTpLOdw2arj9V8rN1zi"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 187466,
       "name": "The Pines",
       "url": "https://open.spotify.com/track/78YCcccbjHCFBFnboEBtpg"
+    },
+    {
+      "added_at": "2024-04-02 18:42:07",
+      "album": {
+        "name": "Far From Here",
+        "url": "https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 260338,
+      "name": "Edge of the Dark",
+      "url": "https://open.spotify.com/track/4RE36XFP3a20pBSV9GdMAE"
     },
     {
       "added_at": "2024-04-02 18:42:07",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
-        "name": "Julia (deep diving)",
-        "url": "https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 274500,
-      "name": "Julia (deep diving)",
-      "url": "https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa"
-    },
-    {
-      "added_at": "2024-04-02 18:42:07",
-      "album": {
         "name": "Concrete",
         "url": "https://open.spotify.com/album/4ZdyRUMRbY9plmxLjQtkF1"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 152051,
       "name": "Concrete",
       "url": "https://open.spotify.com/track/7HGwpUzbvszA3q7pnokHkY"
+    },
+    {
+      "added_at": "2024-04-02 18:42:07",
+      "album": {
+        "name": "Julia (deep diving)",
+        "url": "https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 274500,
+      "name": "Julia (deep diving)",
+      "url": "https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa"
     },
     {
       "added_at": "2024-04-02 18:42:07",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
-        "name": "Naive",
-        "url": "https://open.spotify.com/album/5e4XZZ2tTPPtBAKMTZnILI"
-      },
-      "artists": [
-        {
-          "name": "RKCB",
-          "url": "https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc"
-        }
-      ],
-      "duration_ms": 213250,
-      "name": "Naive",
-      "url": "https://open.spotify.com/track/2jPQpbzZd90opXN0cBOspe"
-    },
-    {
-      "added_at": "2024-04-02 18:42:07",
-      "album": {
         "name": "Frail State Of Mind",
         "url": "https://open.spotify.com/album/1KAWoDpnecuSNHijVTrWxn"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 234811,
       "name": "Frail State Of Mind",
       "url": "https://open.spotify.com/track/2i1CnSeLjppv41BTuc7qhY"
+    },
+    {
+      "added_at": "2024-04-02 18:42:07",
+      "album": {
+        "name": "Naive",
+        "url": "https://open.spotify.com/album/5e4XZZ2tTPPtBAKMTZnILI"
+      },
+      "artists": [
+        {
+          "name": "RKCB",
+          "url": "https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc"
+        }
+      ],
+      "duration_ms": 213250,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/2jPQpbzZd90opXN0cBOspe"
     },
     {
       "added_at": "2024-04-02 18:42:07",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
+        "name": "For The Very Last Time",
+        "url": "https://open.spotify.com/album/6kJB5oD7RKL6eJFtMWmNTn"
+      },
+      "artists": [
+        {
+          "name": "Glassio",
+          "url": "https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN"
+        }
+      ],
+      "duration_ms": 219788,
+      "name": "A Million Doubts",
+      "url": "https://open.spotify.com/track/2EK8rXsXlVz4ZYFscfhxHG"
+    },
+    {
+      "added_at": "2024-04-02 18:42:07",
+      "album": {
         "name": "Gold (Flume Rework)",
         "url": "https://open.spotify.com/album/0c6k1Sx08mOgZ1ZmnyqG9T"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 267231,
       "name": "Gold - Flume Rework",
       "url": "https://open.spotify.com/track/6iIDeCpn9TQB7yns5zwkc6"
-    },
-    {
-      "added_at": "2024-04-02 18:42:07",
-      "album": {
-        "name": "For The Very Last Time",
-        "url": "https://open.spotify.com/album/6kJB5oD7RKL6eJFtMWmNTn"
-      },
-      "artists": [
-        {
-          "name": "Glassio",
-          "url": "https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN"
-        }
-      ],
-      "duration_ms": 219788,
-      "name": "A Million Doubts",
-      "url": "https://open.spotify.com/track/2EK8rXsXlVz4ZYFscfhxHG"
     },
     {
       "added_at": "2024-04-02 18:42:07",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
-        "name": "This World",
-        "url": "https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK"
-      },
-      "artists": [
-        {
-          "name": "Astral Weeks",
-          "url": "https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3"
-        }
-      ],
-      "duration_ms": 232613,
-      "name": "This World",
-      "url": "https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE"
-    },
-    {
-      "added_at": "2024-04-02 18:42:07",
-      "album": {
         "name": "Fallss",
         "url": "https://open.spotify.com/album/3HRkXiL4cUfZCV7AGp01Vr"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 240108,
       "name": "Fallss",
       "url": "https://open.spotify.com/track/4dnCJWVYhPfeNefWrIlYaX"
+    },
+    {
+      "added_at": "2024-04-02 18:42:07",
+      "album": {
+        "name": "This World",
+        "url": "https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK"
+      },
+      "artists": [
+        {
+          "name": "Astral Weeks",
+          "url": "https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3"
+        }
+      ],
+      "duration_ms": 232613,
+      "name": "This World",
+      "url": "https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE"
     },
     {
       "added_at": "2024-04-02 18:42:07",
@@ -1627,22 +1627,22 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
-        "name": "The Color of Nothing",
-        "url": "https://open.spotify.com/album/3T1U4lbkboCmPLvXf8iPLF"
+        "name": "WONDER (reimagined)",
+        "url": "https://open.spotify.com/album/7tnVzkSZO9tTv9EGhxQ5d8"
       },
       "artists": [
         {
-          "name": "ford.",
-          "url": "https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18"
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
         },
         {
-          "name": "Ayelle",
-          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
         }
       ],
-      "duration_ms": 203504,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2AWmbsux3PUazslAJ1L0ML"
+      "duration_ms": 255976,
+      "name": "WONDER - PVRIS Remix",
+      "url": "https://open.spotify.com/track/45Lipcl84LsBSjNu9HLvd7"
     },
     {
       "added_at": "2024-04-02 18:42:07",
@@ -1667,22 +1667,22 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
-        "name": "WONDER (reimagined)",
-        "url": "https://open.spotify.com/album/7tnVzkSZO9tTv9EGhxQ5d8"
+        "name": "The Color of Nothing",
+        "url": "https://open.spotify.com/album/3T1U4lbkboCmPLvXf8iPLF"
       },
       "artists": [
         {
-          "name": "morgxn",
-          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+          "name": "ford.",
+          "url": "https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18"
         },
         {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+          "name": "Ayelle",
+          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
         }
       ],
-      "duration_ms": 255976,
-      "name": "WONDER - PVRIS Remix",
-      "url": "https://open.spotify.com/track/45Lipcl84LsBSjNu9HLvd7"
+      "duration_ms": 203504,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2AWmbsux3PUazslAJ1L0ML"
     },
     {
       "added_at": "2024-04-02 18:42:07",

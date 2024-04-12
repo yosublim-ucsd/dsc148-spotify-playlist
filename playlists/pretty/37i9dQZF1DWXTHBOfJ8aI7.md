@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTHBOfJ8aI7.md) - [plain]
 
 ### [Légendes du Rock](https://open.spotify.com/playlist/37i9dQZF1DWXTHBOfJ8aI7)
 
-> Les plus grands classiques du rock\. Photo : Guns N' Roses
+> Les plus grands classiques du rock\. Photo : The Rolling Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,132 likes - 80 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,206 likes - 80 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTHBOfJ8aI7.md) - [plain]
 | 79 | [Alive](https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:40 |
 | 80 | [Stairway to Heaven \- Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 8:02 |
 
-Snapshot ID: `MCwyMjA4NjZlMGE5NzBkMzU5NDcyN2E4YjFkMTU0OTg1ZDM1NTg5Zjg4`
+Snapshot ID: `MTY4NjkxOTU4MywwMDAwMDAwMDBkM2IwMWQ5NjNlNzdmMzhkM2Q5NGZkNWY0NmYxMDY5`

@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 120510,
+  "2024-04-12": 120572,
   "date_first_scraped": "2023-02-14",
   "description": "Bringing out the best of latest love tracks\nCover : The Family Star",
   "name": "Latest Romance Telugu",
@@ -1635,7 +1635,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 224130,
       "name": "Kalallo (From \"Virupaksha\")",
       "url": "https://open.spotify.com/track/4K21tbyME0wnR0jqGgLkyq"
@@ -2479,10 +2479,36 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 242526,
       "name": "Na Roja Nuvve (From \"Kushi\")",
       "url": "https://open.spotify.com/track/7s2yiftmEe1c5Q1wqIPsqr"
+    },
+    {
+      "album": {
+        "name": "Sarangadhariya",
+        "url": "https://open.spotify.com/album/3rIKcHBmJTs02i2QojGlhL"
+      },
+      "artists": [
+        {
+          "name": "M Ebenezer Paul",
+          "url": "https://open.spotify.com/artist/2DjVsZLpFGQ5QNs2fnqFOm"
+        },
+        {
+          "name": "P V N S Rohit",
+          "url": "https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ"
+        },
+        {
+          "name": "Kadali",
+          "url": "https://open.spotify.com/artist/5xmlr03MWTYQSflITsHmpk"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230841,
+      "name": "Naa Kannule",
+      "url": "https://open.spotify.com/track/02H9XxhFsKsxBbAijt2jna"
     },
     {
       "album": {
@@ -3154,6 +3180,36 @@
     },
     {
       "album": {
+        "name": "Prasanna Vadanam",
+        "url": "https://open.spotify.com/album/2tCZIGkcqMzOk32g977MJn"
+      },
+      "artists": [
+        {
+          "name": "Vijai Bulganin",
+          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
+        },
+        {
+          "name": "Shakthisree Gopalan",
+          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+        },
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259799,
+      "name": "Ninna Monna Naalona",
+      "url": "https://open.spotify.com/track/1O0vCBEdmMjIxwgC5mE5sz"
+    },
+    {
+      "album": {
         "name": "Ninne Thaladanne (From \"The Life Of Muthu\")",
         "url": "https://open.spotify.com/album/1AoDAAYvx43fGsk6P195jz"
       },
@@ -3697,7 +3753,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 266400,
       "name": "Oopirey - From \"Takkar\"",
       "url": "https://open.spotify.com/track/5iFefoZQF5C0VoFmOJY4Go"
@@ -3815,6 +3871,28 @@
       "duration_ms": 237000,
       "name": "Pilla Padesaave",
       "url": "https://open.spotify.com/track/4veuanALTmuopcDBoYsoLI"
+    },
+    {
+      "album": {
+        "name": "Poolamme Pilla (From \"HanuMan\") [Telugu]",
+        "url": "https://open.spotify.com/album/0BV1m2cWIBUmFpO3DhkvJN"
+      },
+      "artists": [
+        {
+          "name": "GowraHari",
+          "url": "https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267682,
+      "name": "Poolamme Pilla (From \"HanuMan\") [Telugu]",
+      "url": "https://open.spotify.com/track/4ooaLueG56Bsq44TUNRgAn"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u306b\u3057\u306a",
-  "num_followers": 111851,
+  "num_followers": 111897,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDUzNGNlZjE5YmU4ODE4OWNkODFmNTc0YmFlZmFlN2NiMzM3MDQx",
+  "snapshot_id": "MTcxMjY3NDgwMCwwMDAwMDAwMGRmZjIzZDM5MDllMjVlYWY4MDBhNzMxYmY4N2M4NTE1",
   "tracks": [
     {
       "added_at": "2024-04-09 15:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-04-09 15:00:00",
       "album": {
-        "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e",
-        "url": "https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 299255,
-      "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e",
-      "url": "https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N"
-    },
-    {
-      "added_at": "2024-04-09 15:00:00",
-      "album": {
         "name": "\u8cb4\u65b9\u306e\u5074\u306b\u3002",
         "url": "https://open.spotify.com/album/4l2NmkiWx4EKEfZ1d4QXSM"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 242321,
       "name": "\u8cb4\u65b9\u306e\u5074\u306b\u3002",
       "url": "https://open.spotify.com/track/6TTAZeyRDN03BHlhQ9Lq6L"
+    },
+    {
+      "added_at": "2024-04-09 15:00:00",
+      "album": {
+        "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e",
+        "url": "https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 299255,
+      "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e",
+      "url": "https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N"
     },
     {
       "added_at": "2024-04-09 15:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-04-09 15:00:00",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/5ItabiqjFEYWwMFL1jBfve"
-      },
-      "artists": [
-        {
-          "name": "NiziU",
-          "url": "https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ"
-        }
-      ],
-      "duration_ms": 207160,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4j3ZYby4xNDuqfHb3Crm4k"
-    },
-    {
-      "added_at": "2024-04-09 15:00:00",
-      "album": {
         "name": "L7 Blues",
         "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 141974,
       "name": "L7 Blues",
       "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
+    },
+    {
+      "added_at": "2024-04-09 15:00:00",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5ItabiqjFEYWwMFL1jBfve"
+      },
+      "artists": [
+        {
+          "name": "NiziU",
+          "url": "https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ"
+        }
+      ],
+      "duration_ms": 207160,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4j3ZYby4xNDuqfHb3Crm4k"
     },
     {
       "added_at": "2024-04-09 15:00:00",
@@ -1395,6 +1395,30 @@
       "duration_ms": 199333,
       "name": "The Flame of Love",
       "url": "https://open.spotify.com/track/0uNmOW9ock1EUkbBzjTk0L"
+    },
+    {
+      "added_at": "2024-04-09 15:00:00",
+      "album": {
+        "name": "\u6625\u7d1b\u3044",
+        "url": "https://open.spotify.com/album/3KMRnceSDKE2YTO92fCq8b"
+      },
+      "artists": [
+        {
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "Ayuni D",
+          "url": "https://open.spotify.com/artist/73IyP7qAS0gk2yz1D25nzh"
+        },
+        {
+          "name": "\u30cb\u30c8\u3002",
+          "url": "https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE"
+        }
+      ],
+      "duration_ms": 192700,
+      "name": "\u6625\u7d1b\u3044",
+      "url": "https://open.spotify.com/track/64YVoI1cPawlsjmnSXgxAH"
     },
     {
       "added_at": "2024-04-09 15:00:00",
@@ -1503,30 +1527,6 @@
       "duration_ms": 213000,
       "name": "\u30aa\u30fc\u30eb\u30ca\u30a4\u30c8\u30ec\u30c7\u30a3\u30aa",
       "url": "https://open.spotify.com/track/7cojiKLtAxeBttS2zDPsYd"
-    },
-    {
-      "added_at": "2024-04-09 15:00:00",
-      "album": {
-        "name": "\u6625\u7d1b\u3044",
-        "url": "https://open.spotify.com/album/3KMRnceSDKE2YTO92fCq8b"
-      },
-      "artists": [
-        {
-          "name": "MAISONdes",
-          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
-        },
-        {
-          "name": "Ayuni D",
-          "url": "https://open.spotify.com/artist/73IyP7qAS0gk2yz1D25nzh"
-        },
-        {
-          "name": "\u30cb\u30c8\u3002",
-          "url": "https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE"
-        }
-      ],
-      "duration_ms": 192700,
-      "name": "\u6625\u7d1b\u3044",
-      "url": "https://open.spotify.com/track/64YVoI1cPawlsjmnSXgxAH"
     },
     {
       "added_at": "2024-04-09 15:00:00",

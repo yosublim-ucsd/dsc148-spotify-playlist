@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 
 > Get into the Eid spirit with this uplifting Eid songs collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,750 likes - 32 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,987 likes - 32 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 | 15 | [El 3asal](https://open.spotify.com/track/5ecSRvEKkYarFYgyFgKak8) | [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [El 3asal](https://open.spotify.com/album/3TE0kPmcSenKkNKyfTLLWS) | 3:00 |
 | 16 | [3 ساعات متواصله](https://open.spotify.com/track/3QIV4kh9CzPOnjdqTU3boL) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [3 ساعات متواصله](https://open.spotify.com/album/6D0QUBe255j5ThQQPEbXYv) | 3:11 |
 | 17 | [هرمون السعادة \- من فيلم تاج](https://open.spotify.com/track/5PTcKJsd0jFJtSf5GhE6IF) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [هرمون السعادة](https://open.spotify.com/album/2TjoHRwrTEce1SJZBkZFXn) | 2:47 |
-| 18 | [Al Atawla From \(Al Atawla Series\)](https://open.spotify.com/track/6ywE6U01lFmLFpacfY5xeN) | [Cedars Art Production](https://open.spotify.com/artist/7jw8KTb0yMsbtWiEhfGCF1) | [Al Atawla From \(Al Atawla Series\)](https://open.spotify.com/album/42ZIaXHQP9ue18FuhnwwFL) | 3:33 |
-| 19 | [El Aid Farha](https://open.spotify.com/track/5yxyWoggDlBpifR2DfypC5) | [Safaa Abu El Saod](https://open.spotify.com/artist/1GFCDy4U5mu7Uv39llPL0U) | [El Aid Farha](https://open.spotify.com/album/2eRXLokn0P5UvA9ilaruSD) | 3:35 |
+| 18 | [El Aid Farha](https://open.spotify.com/track/5yxyWoggDlBpifR2DfypC5) | [Safaa Abu El Saod](https://open.spotify.com/artist/1GFCDy4U5mu7Uv39llPL0U) | [El Aid Farha](https://open.spotify.com/album/2eRXLokn0P5UvA9ilaruSD) | 3:35 |
+| 19 | [Ya Leilet El Eid](https://open.spotify.com/track/4jFZQhbP8ZDm5eZMdYCPdp) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [Umm Kulthum 21 \- Aghany Film Dananer](https://open.spotify.com/album/2Dci4y4GeSEKWSC9bv1dPi) | 4:55 |
 | 20 | [قلبي يا محتاس](https://open.spotify.com/track/7qkS1nBnIiGsjTqLtolIC2) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [قلبي يا محتاس](https://open.spotify.com/album/3yh8NV9Z79jNGQRZjtE596) | 2:54 |
-| 21 | [Ya Leilet El Eid](https://open.spotify.com/track/4jFZQhbP8ZDm5eZMdYCPdp) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [Umm Kulthum 21 \- Aghany Film Dananer](https://open.spotify.com/album/2Dci4y4GeSEKWSC9bv1dPi) | 4:55 |
+| 21 | [Al Atawla From \(Al Atawla Series\)](https://open.spotify.com/track/6ywE6U01lFmLFpacfY5xeN) | [Cedars Art Production](https://open.spotify.com/artist/7jw8KTb0yMsbtWiEhfGCF1) | [Al Atawla From \(Al Atawla Series\)](https://open.spotify.com/album/42ZIaXHQP9ue18FuhnwwFL) | 3:33 |
 | 22 | [بابا جه](https://open.spotify.com/track/4eFl2NwlXKqP117RFSGmqI) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ahmed Wahid](https://open.spotify.com/artist/6dmeENLe1uYPwlRncez1qJ), [Lavinia Nader](https://open.spotify.com/artist/45yMxZ7PMLp4lCcq2rl6CH) | [بابا جه](https://open.spotify.com/album/0GufQQdl0rb9MoWUV8aGsn) | 2:18 |
 | 23 | [لذاذة \- من مسلسل بابا جه](https://open.spotify.com/track/03Kv0B3BKyM2Ik2RNYsb2d) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [لذاذة \(من مسلسل بابا جه\)](https://open.spotify.com/album/2v0WlxhOficmnLhwRjlNVf) | 2:53 |
 | 24 | [Nadl Wa Ayouta](https://open.spotify.com/track/3bAXyTXlTRVQb6phnvqoLe) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Nadl Wa Ayouta](https://open.spotify.com/album/5m9EAV3iDupQ90jeGYRQRM) | 2:36 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 | 28 | [صباح العيد](https://open.spotify.com/track/5xACYeEFIdoB8K1in6iTeg) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [صباح العيد](https://open.spotify.com/album/4srluIRBROtYIfaWCzcEH6) | 5:42 |
 | 29 | [Al Eid Gaa](https://open.spotify.com/track/2MjIicyL4V6KB1IqnJiQlj) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Al Eid Gaa](https://open.spotify.com/album/6tBj3VQ01bZvoneHa9i3z9) | 1:49 |
 | 30 | [Eid Bala Qyoud](https://open.spotify.com/track/4wpTGJzGX2NMSo5xiojbmY) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U), [Hamad Alkhazina](https://open.spotify.com/artist/3p0nJ84LCAtFxqIg2zdAcE) | [Eid Bala Qyoud](https://open.spotify.com/album/2XucnWpj84VDUWf1hEGrK8) | 2:39 |
-| 31 | [الليله عيد](https://open.spotify.com/track/1zT7oSKe1kSNaBfMECfw6H) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [الليله عيد](https://open.spotify.com/album/33PqsLe5vDO5hK19lcGNHj) | 3:59 |
-| 32 | [Shahr 7](https://open.spotify.com/track/5W38ngA8pVHq5AnsyWNVM5) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Shahr 7](https://open.spotify.com/album/2Bhcqu0QL5QSr6RmtIffsv) | 6:06 |
+| 31 | [Shahr 7](https://open.spotify.com/track/5W38ngA8pVHq5AnsyWNVM5) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Shahr 7](https://open.spotify.com/album/2Bhcqu0QL5QSr6RmtIffsv) | 6:06 |
+| 32 | [الليله عيد](https://open.spotify.com/track/1zT7oSKe1kSNaBfMECfw6H) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [الليله عيد](https://open.spotify.com/album/33PqsLe5vDO5hK19lcGNHj) | 3:59 |
 
-Snapshot ID: `MCxlZjhmZjE5MDMxOTZmMGRlODUxMDc2MDRlZmYxY2I3YjdjM2M5YmFh`
+Snapshot ID: `MTcxMjc0OTI3MSwwMDAwMDAwMDJiMTEwMDIzYmNkNjE5Y2Q1YmY3ODI4MmFiZTI2Mjk4`

@@ -5071,6 +5071,24 @@
     },
     {
       "album": {
+        "name": "Chopper City In The Ghetto",
+        "url": "https://open.spotify.com/album/71UI6dxPwSUiJUH4DM226k"
+      },
+      "artists": [
+        {
+          "name": "B.G.",
+          "url": "https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312960,
+      "name": "Bling Bling",
+      "url": "https://open.spotify.com/track/5q186AzhWeOEoFnApajHgR"
+    },
+    {
+      "album": {
         "name": "Blood Moon (feat. Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/4VubFdZQLlos3I0LbB3qgt"
       },

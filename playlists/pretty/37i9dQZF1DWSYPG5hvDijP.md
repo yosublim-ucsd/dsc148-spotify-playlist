@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > New Hip Hop from India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,335 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,397 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 2 | [Joota Japani](https://open.spotify.com/track/7lzPCtx5j2JRFhbsGpbzQ7) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e), [Shankar Jaikishan](https://open.spotify.com/artist/1Ss4YdByiwTuR5Fh9e89sc) | [Joota Japani](https://open.spotify.com/album/1GCClFFYn65g9WH1XXUWDK) | 2:35 |
 | 3 | [Like A Snake](https://open.spotify.com/track/1pCyNu4mgeZP0qqHNMTjWJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 3:01 |
 | 4 | [Doon](https://open.spotify.com/track/6nthwAxdXDMU0LczZ5FUFd) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Doon](https://open.spotify.com/album/0SoxFtfAbIOHktfwT5NPSC) | 2:26 |
-| 5 | [For Real](https://open.spotify.com/track/2GvtAi39hRhjIw0GB4hOp7) | [Yunan](https://open.spotify.com/artist/6gIUB3nYX67IbwUi2bcrUJ) | [For Real](https://open.spotify.com/album/1eFFJ93JNkCSx1jOMX8aMm) | 2:46 |
+| 5 | [For Real](https://open.spotify.com/track/2GvtAi39hRhjIw0GB4hOp7) | [Yunan](https://open.spotify.com/artist/6gIUB3nYX67IbwUi2bcrUJ), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [For Real](https://open.spotify.com/album/1eFFJ93JNkCSx1jOMX8aMm) | 2:46 |
 | 6 | [G\-Yaan](https://open.spotify.com/track/3wGz2eHyWekq06k6LdqYiG) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 2:22 |
 | 7 | [Thehra](https://open.spotify.com/track/5OwAx0hZV7rNGYRR7ILQvh) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx) | [Thehra](https://open.spotify.com/album/511wcTtnR6shsUf6CFiwOd) | 2:22 |
 | 8 | [pSycho](https://open.spotify.com/track/5JVfdbggz95I2rliWMdCMv) | [Simba Sing](https://open.spotify.com/artist/7Dn0LHcvgOdA2lcsHwmWcj), [Ekagar](https://open.spotify.com/artist/26uFPRiAonevSJLP7vMh4v) | [pSycho](https://open.spotify.com/album/67x8dYeDhe63U3TuAf7em1) | 2:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 74 | [Boyfriend](https://open.spotify.com/track/79L4Ilf14zlMlwosjVWWyG) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Bluish Music](https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6) | [Boyfriend](https://open.spotify.com/album/5iygFlfiQ410htPcHY6w0S) | 5:30 |
 | 75 | [KULFA\-KAR\-MA](https://open.spotify.com/track/4RnHapKw9jDMaND7srX9Se) | [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o) | [KULFA\-KAR\-MA](https://open.spotify.com/album/0f53UzOwYgA5YC7KkoEJ7D) | 4:00 |
 
-Snapshot ID: `MCw1MTJmOTdiNGNmODkxYTNiNmE1NzVmZDBmMTc2MWViMGQ1ZTA3MDgz`
+Snapshot ID: `MTcxMjY0OTMwNCwwMDAwMDAwMDU4OTk4OWFhMWQyYTNjMWMxNmJlMDZlZDRmZTg2ODE4`

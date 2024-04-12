@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Aquariano Nato e os funks mais 🔑 do Brasil\. Foto: MC Saci
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,297,466 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,298,644 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [Galopeira](https://open.spotify.com/track/1YTzCKxoOSZOqcNh6wa15I) | [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU), [DJ DEIVÃO](https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk), [DJ Gouveia](https://open.spotify.com/artist/4tjtE10Cy3hoYiDdPhoVem) | [Galopeira](https://open.spotify.com/album/6ESu4TNB38eET9Rh4XHk5n) | 2:57 |
 | 50 | [Pagodeiro](https://open.spotify.com/track/3smtwkthoDwPYDtxS3UrIk) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF) | [Pagodeiro](https://open.spotify.com/album/2SMhhX9Z0TUVdpON3nyrBR) | 7:38 |
 
-Snapshot ID: `MCxmMzA0NmM4N2EwYTcyZmU5YTQxYmIxNmFmYmE2MWJjOGE5MGY1NGIy`
+Snapshot ID: `MTcxMjc2Nzc5MSwwMDAwMDAwMDkyZGEyOGI2OTZmNTQzYjQzODJhZDFlNzExNzBlNWJl`

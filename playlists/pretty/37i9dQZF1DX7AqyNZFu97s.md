@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: es.cher\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,990 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,005 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 99 | [What Sundays Are For](https://open.spotify.com/track/3dAPf3Cs9jaoDmcCrVr6PO) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [What Sundays Are For](https://open.spotify.com/album/7qJPzAhLFJMMKCx34msYf5) | 2:52 |
 | 100 | [PULL UP](https://open.spotify.com/track/6vwY6ev6e0OLMbRyMlFYLK) | [Amethyst Girlz](https://open.spotify.com/artist/2msQsbh7IP17i78NgEG59V) | [PULL UP](https://open.spotify.com/album/4DEwPUmKOzugJOKqPDQcCV) | 3:03 |
 
-Snapshot ID: `MCxkMWE4OWVlZjk1MWQwYzIwNTk5ZTM4ZmNjNjU4M2RhZjRjYWRjMjA4`
+Snapshot ID: `MTcxMjcwMzYwMCwwMDAwMDAwMDA2YTgzNDZkNjIxMjhjZjA4M2RmM2I3NmY2ZjFjYjM5`

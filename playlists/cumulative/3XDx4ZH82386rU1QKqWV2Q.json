@@ -665,6 +665,32 @@
     },
     {
       "album": {
+        "name": "Back to the Future Past",
+        "url": "https://open.spotify.com/album/2jO0JSob7gD52BBptVDzyp"
+      },
+      "artists": [
+        {
+          "name": "BlackSaiph",
+          "url": "https://open.spotify.com/artist/5lD79Lk9bsPeUyg9URl0s9"
+        },
+        {
+          "name": "Guantanamo Bae",
+          "url": "https://open.spotify.com/artist/0G0RBNB2IT4AhCIMQ8qnos"
+        },
+        {
+          "name": "This Saturday",
+          "url": "https://open.spotify.com/artist/02xaQQuvJsMy510ovUomPP"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192052,
+      "name": "Back to the Future Past",
+      "url": "https://open.spotify.com/track/7m1Kdayk77cmtwBWxydWpH"
+    },
+    {
+      "album": {
         "name": "Bad Choices",
         "url": "https://open.spotify.com/album/06lzphd0buFyApdQvf5W6h"
       },
@@ -1874,7 +1900,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 223947,
       "name": "CTRL",
       "url": "https://open.spotify.com/track/4IFWcMiUVbJuH2tPgKLiqz"
@@ -2242,7 +2268,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 160118,
       "name": "DEMON TIME - Slowed Version",
       "url": "https://open.spotify.com/track/6jK5js9AUuu9E0QmJ2J2Uq"
@@ -3843,6 +3869,24 @@
     },
     {
       "album": {
+        "name": "Graveyard Shift",
+        "url": "https://open.spotify.com/album/1lxwba0YBp1w4dLXRlWPOB"
+      },
+      "artists": [
+        {
+          "name": "NIK P",
+          "url": "https://open.spotify.com/artist/2o874yOIwfz6MuDQMYYCCS"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318139,
+      "name": "Graveyard Shift",
+      "url": "https://open.spotify.com/track/3u0PESn0CxRhmpXeIpHj6c"
+    },
+    {
+      "album": {
         "name": "Ground Shake",
         "url": "https://open.spotify.com/album/5r9SjZplmTVbtlx5rKtqD4"
       },
@@ -4044,7 +4088,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 221192,
       "name": "hauntedhouse",
       "url": "https://open.spotify.com/track/3sRhFCchNG4mkaguzBziS4"
@@ -4142,6 +4186,32 @@
       "duration_ms": 230788,
       "name": "HellHarvest",
       "url": "https://open.spotify.com/track/69bcp5TAVUdO7jDBEVWwUn"
+    },
+    {
+      "album": {
+        "name": "Helli Chocha",
+        "url": "https://open.spotify.com/album/3dR3Pp56Os6v925KxIUPRC"
+      },
+      "artists": [
+        {
+          "name": "SxR L\u00dcC\u00cfF\u00cbR",
+          "url": "https://open.spotify.com/artist/12tdmDKLMZ3UFP4MSRDGdL"
+        },
+        {
+          "name": "armchair prophet",
+          "url": "https://open.spotify.com/artist/0zW2fS2TYN1Jhmwy5iK7pg"
+        },
+        {
+          "name": "HA\u0142\u0142\u00d8WMANE",
+          "url": "https://open.spotify.com/artist/1PHuqtGb7RbEJLOOdMjInP"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198457,
+      "name": "Helli Chocha",
+      "url": "https://open.spotify.com/track/6emYmwoXZIVZ3CkKWSPIW6"
     },
     {
       "album": {
@@ -4488,6 +4558,32 @@
       "duration_ms": 129729,
       "name": "How It Goes",
       "url": "https://open.spotify.com/track/6ztUQKIOgoW2OJcJB5cApI"
+    },
+    {
+      "album": {
+        "name": "HYDRA",
+        "url": "https://open.spotify.com/album/5HUymylj2kOhZIr9NQMSvq"
+      },
+      "artists": [
+        {
+          "name": "Sam Astaroth",
+          "url": "https://open.spotify.com/artist/1o0GRQIAWoqj1XL3xLbO1Q"
+        },
+        {
+          "name": "Adams Avenue",
+          "url": "https://open.spotify.com/artist/3iymN1MFJWZivLBZmoUExY"
+        },
+        {
+          "name": "Lil Tytan",
+          "url": "https://open.spotify.com/artist/6xPylMjsDB2ZlarNnsSmev"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "HYDRA",
+      "url": "https://open.spotify.com/track/2VTZrMo6fBUdMnfsCgSCo5"
     },
     {
       "album": {
@@ -5148,7 +5244,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 110774,
       "name": "KRUSH ALERT",
       "url": "https://open.spotify.com/track/0judPVBRMBl8dqxm2C4Ogi"
@@ -5498,7 +5594,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 122517,
       "name": "Living Life, In The Night",
       "url": "https://open.spotify.com/track/6ChnGkBwnq2HUJD24YhMhW"
@@ -6708,7 +6804,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 151257,
       "name": "NO MAN - Remix",
       "url": "https://open.spotify.com/track/6Mvr0DEqSrJBe73pbRh8ry"
@@ -8228,10 +8324,32 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 93333,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/3SXPmgr5HhNxbsFtjLT4EG"
+    },
+    {
+      "album": {
+        "name": "Satisfaction - Push Push Push",
+        "url": "https://open.spotify.com/album/4K8uGK3wWeVBYqjSNkWyTn"
+      },
+      "artists": [
+        {
+          "name": "PXSEIDON",
+          "url": "https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw"
+        },
+        {
+          "name": "sepulcher.",
+          "url": "https://open.spotify.com/artist/0ORxJY41Q29QB1poLCgUzC"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93375,
+      "name": "Satisfaction - Push Push Push",
+      "url": "https://open.spotify.com/track/0Xg5RTrZabrcHUFtLInwvX"
     },
     {
       "album": {
@@ -9544,6 +9662,24 @@
       "duration_ms": 102954,
       "name": "THATSWHATSHESAID",
       "url": "https://open.spotify.com/track/6oBXsOCWhdHGC3A7D0oFqL"
+    },
+    {
+      "album": {
+        "name": "Lost Bones",
+        "url": "https://open.spotify.com/album/5LS0ppb0lUu4YqBzlmO4xq"
+      },
+      "artists": [
+        {
+          "name": "Skeleton Queen",
+          "url": "https://open.spotify.com/artist/1jr3dJ61TbSpCqcmvCkuN4"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241810,
+      "name": "The Grudge",
+      "url": "https://open.spotify.com/track/3ehE2z8kNLZHv5JhjGIoAI"
     },
     {
       "album": {

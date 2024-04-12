@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 18933,
+  "2024-04-12": 18932,
   "date_first_scraped": "2022-10-03",
   "description": "Beautiful instrumental music to keep you in the flow as you code or study. An ideal playlist for programming during stressful times --- | program | programmer | software | software engineer | computer science | concentrate | concentration | focusing |",
   "name": "CODING FOCUS",
@@ -2027,6 +2027,24 @@
       "duration_ms": 77224,
       "name": "At Rest",
       "url": "https://open.spotify.com/track/2YDwZOowqUbF9i5JmkRCo7"
+    },
+    {
+      "album": {
+        "name": "Atlantic (Ambient Piano Version)",
+        "url": "https://open.spotify.com/album/7LsGdSrrAncmsoYqIOZQbh"
+      },
+      "artists": [
+        {
+          "name": "Eternal Spring",
+          "url": "https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "Atlantic - Ambient Piano Version",
+      "url": "https://open.spotify.com/track/2BXjdfdmtUYht4EG09aRFP"
     },
     {
       "album": {
@@ -31443,6 +31461,24 @@
       "duration_ms": 61426,
       "name": "Your Smiling Eyes Reimagined",
       "url": "https://open.spotify.com/track/4z1vPGrK8yHYqCe0vjTrZR"
+    },
+    {
+      "album": {
+        "name": "Yours (Ambient Piano Version)",
+        "url": "https://open.spotify.com/album/5FsAodURxudo1znYbSHYQt"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60729,
+      "name": "Yours - Ambient Piano Version",
+      "url": "https://open.spotify.com/track/5loJhfn5IZ0FKSgEtSPyKO"
     },
     {
       "album": {

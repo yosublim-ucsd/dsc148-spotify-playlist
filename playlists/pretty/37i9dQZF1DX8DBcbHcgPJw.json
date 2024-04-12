@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Flor Alvarez & Dj Tao.",
-  "num_followers": 1191773,
+  "num_followers": 1191827,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTE5NjZkNjY2NjZkODZhYjg5MGMxYmQ1NmFkODM2ZDIzZjY0NjVl",
+  "snapshot_id": "MTcxMjM0NDUwNCwwMDAwMDAwMGNlNDUyNmM3YjQ4MTViMTQ1MWQyYWM1NjQxYTZkM2Jj",
   "tracks": [
     {
       "added_at": "2024-04-05 19:14:39",
@@ -151,26 +151,6 @@
     {
       "added_at": "2024-04-05 19:14:39",
       "album": {
-        "name": "Besos con Fernet",
-        "url": "https://open.spotify.com/album/1lfhuCJZVMmGQswHM5nW2g"
-      },
-      "artists": [
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        },
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 147375,
-      "name": "Besos con Fernet",
-      "url": "https://open.spotify.com/track/1gAPIjqunPXRA4y1kYZi0q"
-    },
-    {
-      "added_at": "2024-04-05 19:14:39",
-      "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
       },
@@ -187,18 +167,22 @@
     {
       "added_at": "2024-04-05 19:14:39",
       "album": {
-        "name": "Ni Una Ni Dos",
-        "url": "https://open.spotify.com/album/2BrbrEMfRYAMmNPprw4Jey"
+        "name": "Besos con Fernet",
+        "url": "https://open.spotify.com/album/1lfhuCJZVMmGQswHM5nW2g"
       },
       "artists": [
         {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
         }
       ],
-      "duration_ms": 158535,
-      "name": "Ni Una Ni Dos",
-      "url": "https://open.spotify.com/track/0H9WU0OIXPpbOVgzzOanXb"
+      "duration_ms": 147375,
+      "name": "Besos con Fernet",
+      "url": "https://open.spotify.com/track/1gAPIjqunPXRA4y1kYZi0q"
     },
     {
       "added_at": "2024-04-05 19:14:39",
@@ -227,6 +211,22 @@
     {
       "added_at": "2024-04-05 19:14:39",
       "album": {
+        "name": "Ni Una Ni Dos",
+        "url": "https://open.spotify.com/album/2BrbrEMfRYAMmNPprw4Jey"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "duration_ms": 158535,
+      "name": "Ni Una Ni Dos",
+      "url": "https://open.spotify.com/track/0H9WU0OIXPpbOVgzzOanXb"
+    },
+    {
+      "added_at": "2024-04-05 19:14:39",
+      "album": {
         "name": "Mi\u00e9nteme",
         "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
       },
@@ -243,6 +243,30 @@
       "duration_ms": 165275,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
+    },
+    {
+      "added_at": "2024-04-05 19:14:39",
+      "album": {
+        "name": "L\u00e1grimas | CROSSOVER #4",
+        "url": "https://open.spotify.com/album/30aaqAqle120bcBU5IDkgr"
+      },
+      "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "duration_ms": 167419,
+      "name": "L\u00e1grimas | CROSSOVER #4",
+      "url": "https://open.spotify.com/track/1lSayCmr2lS6ndxELoabIG"
     },
     {
       "added_at": "2024-04-05 19:14:39",
@@ -271,30 +295,6 @@
       "duration_ms": 252347,
       "name": "ATORRANTE - con Los Palmeras",
       "url": "https://open.spotify.com/track/3ezO8gfskSWM3rk0GTfhFl"
-    },
-    {
-      "added_at": "2024-04-05 19:14:39",
-      "album": {
-        "name": "L\u00e1grimas | CROSSOVER #4",
-        "url": "https://open.spotify.com/album/30aaqAqle120bcBU5IDkgr"
-      },
-      "artists": [
-        {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        }
-      ],
-      "duration_ms": 167419,
-      "name": "L\u00e1grimas | CROSSOVER #4",
-      "url": "https://open.spotify.com/track/1lSayCmr2lS6ndxELoabIG"
     },
     {
       "added_at": "2024-04-05 19:14:39",
@@ -647,6 +647,26 @@
     {
       "added_at": "2024-04-05 19:14:39",
       "album": {
+        "name": "No Te Contaron Mal",
+        "url": "https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl"
+      },
+      "artists": [
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        },
+        {
+          "name": "Kekelandia",
+          "url": "https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy"
+        }
+      ],
+      "duration_ms": 176864,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA"
+    },
+    {
+      "added_at": "2024-04-05 19:14:39",
+      "album": {
         "name": "Quiero Verte Bailar (Remix)",
         "url": "https://open.spotify.com/album/0d9cn4nyuAuFrl1aUqYqhe"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 197142,
       "name": "Quiero Verte Bailar (Remix)",
       "url": "https://open.spotify.com/track/3Ln8SNwGSNMMmvjx2W982s"
-    },
-    {
-      "added_at": "2024-04-05 19:14:39",
-      "album": {
-        "name": "No Te Contaron Mal",
-        "url": "https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl"
-      },
-      "artists": [
-        {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        },
-        {
-          "name": "Kekelandia",
-          "url": "https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy"
-        }
-      ],
-      "duration_ms": 176864,
-      "name": "No Te Contaron Mal",
-      "url": "https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA"
     },
     {
       "added_at": "2024-04-05 19:14:39",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2024-04-05 19:14:39",
       "album": {
-        "name": "POR QU\u00c9 LLORAS?",
-        "url": "https://open.spotify.com/album/0ieBrw81xJrvEU0WPenN7s"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 153876,
-      "name": "POR QU\u00c9 LLORAS?",
-      "url": "https://open.spotify.com/track/0zY9gEaGRD9aIG0qZwgEDp"
-    },
-    {
-      "added_at": "2024-04-05 19:14:39",
-      "album": {
         "name": "Sin mirar Atr\u00e1s",
         "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 190813,
       "name": "Carnavalintro",
       "url": "https://open.spotify.com/track/6XxIFsqBxiUct0UK7deoJ0"
+    },
+    {
+      "added_at": "2024-04-05 19:14:39",
+      "album": {
+        "name": "POR QU\u00c9 LLORAS?",
+        "url": "https://open.spotify.com/album/0ieBrw81xJrvEU0WPenN7s"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "duration_ms": 153876,
+      "name": "POR QU\u00c9 LLORAS?",
+      "url": "https://open.spotify.com/track/0zY9gEaGRD9aIG0qZwgEDp"
     },
     {
       "added_at": "2024-04-05 19:14:39",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2024-04-05 19:14:39",
       "album": {
-        "name": "NO FUIMOS",
-        "url": "https://open.spotify.com/album/6vvHDYSxaLuhOZUMAU4xIf"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 136853,
-      "name": "NO FUIMOS",
-      "url": "https://open.spotify.com/track/717KavpEoZakUVizYk70TU"
-    },
-    {
-      "added_at": "2024-04-05 19:14:39",
-      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 201804,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/0kS31L4yk4ZpSCvvwyZ6T3"
+    },
+    {
+      "added_at": "2024-04-05 19:14:39",
+      "album": {
+        "name": "NO FUIMOS",
+        "url": "https://open.spotify.com/album/6vvHDYSxaLuhOZUMAU4xIf"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 136853,
+      "name": "NO FUIMOS",
+      "url": "https://open.spotify.com/track/717KavpEoZakUVizYk70TU"
     },
     {
       "added_at": "2024-04-05 19:14:39",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-04-05 19:14:39",
       "album": {
+        "name": "Universo Paralelo",
+        "url": "https://open.spotify.com/album/7yzR06l7GbsbtIoRKqqCwP"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 156325,
+      "name": "Universo Paralelo",
+      "url": "https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul"
+    },
+    {
+      "added_at": "2024-04-05 19:14:39",
+      "album": {
         "name": "Solo Necesito (Remix)",
         "url": "https://open.spotify.com/album/5N8bY7Srp0mSwd4PpB3HVm"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 163876,
       "name": "Solo Necesito - Remix",
       "url": "https://open.spotify.com/track/6W8NN9RJUnqmXaEXM5dgBb"
-    },
-    {
-      "added_at": "2024-04-05 19:14:39",
-      "album": {
-        "name": "Universo Paralelo",
-        "url": "https://open.spotify.com/album/7yzR06l7GbsbtIoRKqqCwP"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 156325,
-      "name": "Universo Paralelo",
-      "url": "https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul"
     },
     {
       "added_at": "2024-04-05 19:14:39",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2024-04-05 19:14:39",
       "album": {
-        "name": "Hipnotizados",
-        "url": "https://open.spotify.com/album/0vucmhfLxNOc87TDZydaI7"
-      },
-      "artists": [
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        },
-        {
-          "name": "La China",
-          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
-        }
-      ],
-      "duration_ms": 142840,
-      "name": "Hipnotizados",
-      "url": "https://open.spotify.com/track/2t88IEEgCkZr9OQHOrOr3j"
-    },
-    {
-      "added_at": "2024-04-05 19:14:39",
-      "album": {
         "name": "Lo Mejor del Amor",
         "url": "https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 167600,
       "name": "Lo Mejor del Amor",
       "url": "https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz"
+    },
+    {
+      "added_at": "2024-04-05 19:14:39",
+      "album": {
+        "name": "Hipnotizados",
+        "url": "https://open.spotify.com/album/0vucmhfLxNOc87TDZydaI7"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "La China",
+          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
+        }
+      ],
+      "duration_ms": 142840,
+      "name": "Hipnotizados",
+      "url": "https://open.spotify.com/track/2t88IEEgCkZr9OQHOrOr3j"
     },
     {
       "added_at": "2024-04-05 19:14:39",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2024-04-05 19:14:39",
       "album": {
-        "name": "Cachorro",
-        "url": "https://open.spotify.com/album/3kSWysuWqvXUbjkZoCkmPZ"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 175909,
-      "name": "Cachorro",
-      "url": "https://open.spotify.com/track/6MIQXJ8FIrmfUNE661f7Ph"
-    },
-    {
-      "added_at": "2024-04-05 19:14:39",
-      "album": {
         "name": "De 100 a 0",
         "url": "https://open.spotify.com/album/6gw3DJu5DZWgAega1XthDP"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 192705,
       "name": "De 100 a 0",
       "url": "https://open.spotify.com/track/1RKBRNLdt9nNri2wraNAzn"
+    },
+    {
+      "added_at": "2024-04-05 19:14:39",
+      "album": {
+        "name": "Cachorro",
+        "url": "https://open.spotify.com/album/3kSWysuWqvXUbjkZoCkmPZ"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 175909,
+      "name": "Cachorro",
+      "url": "https://open.spotify.com/track/6MIQXJ8FIrmfUNE661f7Ph"
     },
     {
       "added_at": "2024-04-05 19:14:39",

@@ -1,12 +1,12 @@
 {
   "description": "a high-quality alternative blend ft. Marcus King",
-  "num_followers": 103877,
+  "num_followers": 103900,
   "original_name": "Grade A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWMxMmNmN2FlNTUzNzYxMTAwZmMxYjliNmI4ZjBkMzAwNzFhNDkw",
+  "snapshot_id": "MTcxMjI4OTYwMCwwMDAwMDAwMGY3NmI0YjQ0NjI3NDhmNjRlZTI1NzIwYTExNjgwNmQw",
   "tracks": [
     {
       "added_at": "2024-04-05 04:00:00",
@@ -239,6 +239,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Scared To Start",
-        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 159636,
-      "name": "Scared To Start",
-      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Only God Was Above Us",
+        "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 249560,
+      "name": "Capricorn",
+      "url": "https://open.spotify.com/track/4oAGV7IADPWfkpk6aGQqZt"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Atomic City",
         "url": "https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 195086,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Only God Was Above Us",
-        "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 249560,
-      "name": "Capricorn",
-      "url": "https://open.spotify.com/track/4oAGV7IADPWfkpk6aGQqZt"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -699,26 +699,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Movie Of The Week",
-        "url": "https://open.spotify.com/album/73LowHfDrVcX165ZnPcRzU"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 192901,
-      "name": "Ready Or Not (feat. Sierra Ferrell)",
-      "url": "https://open.spotify.com/track/2W4KoKD91Sncc5HNZ00ilQ"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Tigers Blood",
         "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 273026,
       "name": "Right Back to It",
       "url": "https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Movie Of The Week",
+        "url": "https://open.spotify.com/album/73LowHfDrVcX165ZnPcRzU"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 192901,
+      "name": "Ready Or Not (feat. Sierra Ferrell)",
+      "url": "https://open.spotify.com/track/2W4KoKD91Sncc5HNZ00ilQ"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "No Strings",
-        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "No Strings",
-      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "$10 Cowboy",
         "url": "https://open.spotify.com/album/0wuHhJqV63y0KGQ2nNod2S"
       },
@@ -907,18 +891,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Good Together",
-        "url": "https://open.spotify.com/album/0h5oGdKMLQchyJljb7Q0Qk"
+        "name": "No Strings",
+        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
       },
       "artists": [
         {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 201045,
-      "name": "Good Together",
-      "url": "https://open.spotify.com/track/1WhKc5DGuabpiPgZ9c375T"
+      "duration_ms": 213080,
+      "name": "No Strings",
+      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -935,6 +919,22 @@
       "duration_ms": 137404,
       "name": "hotline",
       "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Good Together",
+        "url": "https://open.spotify.com/album/0h5oGdKMLQchyJljb7Q0Qk"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 201045,
+      "name": "Good Together",
+      "url": "https://open.spotify.com/track/1WhKc5DGuabpiPgZ9c375T"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 158568,
+      "name": "dopamine",
+      "url": "https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "The Past Is Still Alive",
         "url": "https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE"
       },
@@ -1007,18 +1023,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "dopamine",
-        "url": "https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx"
+        "name": "Vampire Empire / Born For Loving You",
+        "url": "https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf"
       },
       "artists": [
         {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 158568,
-      "name": "dopamine",
-      "url": "https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv"
+      "duration_ms": 214073,
+      "name": "Born For Loving You",
+      "url": "https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1039,22 +1055,6 @@
       "duration_ms": 193000,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/2TNhDjD4wb5XFO2Z7FFWve"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Vampire Empire / Born For Loving You",
-        "url": "https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 214073,
-      "name": "Born For Loving You",
-      "url": "https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1263,22 +1263,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Burial Ground",
-        "url": "https://open.spotify.com/album/5jodqSew9785i4tEIRLase"
+        "name": "Big Love",
+        "url": "https://open.spotify.com/album/4fgwPlwnatn7LfaMiziOJh"
       },
       "artists": [
         {
-          "name": "The Decemberists",
-          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
-        },
-        {
-          "name": "James Mercer",
-          "url": "https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd"
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
         }
       ],
-      "duration_ms": 244773,
-      "name": "Burial Ground",
-      "url": "https://open.spotify.com/track/1Xzyo31tkXB53PaRnPziLR"
+      "duration_ms": 177733,
+      "name": "Big Love",
+      "url": "https://open.spotify.com/track/5TlQaUReZtviIA3AWrAazB"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1299,18 +1295,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Big Love",
-        "url": "https://open.spotify.com/album/4fgwPlwnatn7LfaMiziOJh"
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/5jodqSew9785i4tEIRLase"
       },
       "artists": [
         {
-          "name": "Camera Obscura",
-          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+          "name": "The Decemberists",
+          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
+        },
+        {
+          "name": "James Mercer",
+          "url": "https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd"
         }
       ],
-      "duration_ms": 177733,
-      "name": "Big Love",
-      "url": "https://open.spotify.com/track/5TlQaUReZtviIA3AWrAazB"
+      "duration_ms": 244773,
+      "name": "Burial Ground",
+      "url": "https://open.spotify.com/track/1Xzyo31tkXB53PaRnPziLR"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1395,34 +1395,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Cutting Thru The Country",
-        "url": "https://open.spotify.com/album/4OWv5Arr45FudqMP7zSUZf"
+        "name": "Yard",
+        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
       },
       "artists": [
         {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
         }
       ],
-      "duration_ms": 204276,
-      "name": "Cutting Thru The Country",
-      "url": "https://open.spotify.com/track/09eN4wtRH0cAAHQHAbOjvQ"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 200546,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD"
+      "duration_ms": 155733,
+      "name": "Doubt",
+      "url": "https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 200546,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Be Yourself (feat. The War and Treaty)",
         "url": "https://open.spotify.com/album/0quN4o0L4LkoGu0hKedFgO"
       },
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Yard",
-        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
+        "name": "Cutting Thru The Country",
+        "url": "https://open.spotify.com/album/4OWv5Arr45FudqMP7zSUZf"
       },
       "artists": [
         {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
         }
       ],
-      "duration_ms": 155733,
-      "name": "Doubt",
-      "url": "https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS"
+      "duration_ms": 204276,
+      "name": "Cutting Thru The Country",
+      "url": "https://open.spotify.com/track/09eN4wtRH0cAAHQHAbOjvQ"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Impossible House",
-        "url": "https://open.spotify.com/album/09VXDO9xysL9cjYqrYfC7L"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 275614,
-      "name": "Impossible House",
-      "url": "https://open.spotify.com/track/2ADRkMvfIrX8ZJq49SaK8g"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "More Than a Love Song",
         "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
       },
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Impossible House",
+        "url": "https://open.spotify.com/album/09VXDO9xysL9cjYqrYfC7L"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 275614,
+      "name": "Impossible House",
+      "url": "https://open.spotify.com/track/2ADRkMvfIrX8ZJq49SaK8g"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Impressively Average",
         "url": "https://open.spotify.com/album/0I60bBbjgow9th1gEfPKxv"
       },
@@ -1623,6 +1623,22 @@
       "duration_ms": 198761,
       "name": "Impressively Average",
       "url": "https://open.spotify.com/track/1sL6n9kMtrlAvPokQKlZGP"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "County Line",
+        "url": "https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Rearview",
+      "url": "https://open.spotify.com/track/62WbDgGyCki73Ec2Reuvze"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1679,6 +1695,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Revelator",
+        "url": "https://open.spotify.com/album/1Vjsf4qWhQhRH3VBPEQs0d"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 293290,
+      "name": "Revelator",
+      "url": "https://open.spotify.com/track/4akOHAXlPBcIjImF1N7KDi"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/3xGVAgbCAxl2c40vRVRjoe"
       },
@@ -1727,22 +1759,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Revelator",
-        "url": "https://open.spotify.com/album/1Vjsf4qWhQhRH3VBPEQs0d"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 293290,
-      "name": "Revelator",
-      "url": "https://open.spotify.com/track/4akOHAXlPBcIjImF1N7KDi"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "The Moon Is In The Wrong Place",
         "url": "https://open.spotify.com/album/7j6jvLu3thEqRKkALqxXhf"
       },
@@ -1775,22 +1791,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "White Lies, White Jesus And You",
-        "url": "https://open.spotify.com/album/4PxGWmuTtzAxkPCzmWQ5Al"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 264926,
-      "name": "White Lies, White Jesus And You",
-      "url": "https://open.spotify.com/track/6gWgHGxCrROeP19EzkD7rs"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Wasteland",
         "url": "https://open.spotify.com/album/4JcEWdNgAifwRcjqLpTY5o"
       },
@@ -1807,18 +1807,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "County Line",
-        "url": "https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv"
+        "name": "White Lies, White Jesus And You",
+        "url": "https://open.spotify.com/album/4PxGWmuTtzAxkPCzmWQ5Al"
       },
       "artists": [
         {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
         }
       ],
-      "duration_ms": 231724,
-      "name": "Rearview",
-      "url": "https://open.spotify.com/track/62WbDgGyCki73Ec2Reuvze"
+      "duration_ms": 264926,
+      "name": "White Lies, White Jesus And You",
+      "url": "https://open.spotify.com/track/6gWgHGxCrROeP19EzkD7rs"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/52sZ3HakMMdOXPt8A2ZLM8"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 197465,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/7mfTeRK4k18u5IZ9Th4CrH"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Love You Anyway",
         "url": "https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG"
       },
@@ -1931,22 +1947,6 @@
       "duration_ms": 180046,
       "name": "Someday, Someday",
       "url": "https://open.spotify.com/track/7zbiEEPPkZjyLQpwJnes5h"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "All My Friends",
-        "url": "https://open.spotify.com/album/52sZ3HakMMdOXPt8A2ZLM8"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 197465,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/7mfTeRK4k18u5IZ9Th4CrH"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Water / Connecticut",
-        "url": "https://open.spotify.com/album/7F3RyQmyBUigiC2J5l1VYD"
-      },
-      "artists": [
-        {
-          "name": "Lo Moon",
-          "url": "https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg"
-        }
-      ],
-      "duration_ms": 182454,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/4LsuLatQ1SJinsHn7292wH"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Pull the Rope",
         "url": "https://open.spotify.com/album/3Xc6YhaNwQ8CxdSGrpw80l"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 209360,
       "name": "Pull the Rope",
       "url": "https://open.spotify.com/track/7CfIoH458ApkgA24pHNsED"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Water / Connecticut",
+        "url": "https://open.spotify.com/album/7F3RyQmyBUigiC2J5l1VYD"
+      },
+      "artists": [
+        {
+          "name": "Lo Moon",
+          "url": "https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg"
+        }
+      ],
+      "duration_ms": 182454,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/4LsuLatQ1SJinsHn7292wH"
     },
     {
       "added_at": "2024-04-05 04:00:00",

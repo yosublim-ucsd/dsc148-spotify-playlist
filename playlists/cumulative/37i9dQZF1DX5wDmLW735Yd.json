@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Emily Makis\n",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Nia Archives\n",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 177291,
       "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
       "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 194000,
       "name": "Blinded By The Lights 23",
       "url": "https://open.spotify.com/track/7qSeLqSb07k8qtL8LfMokD"
@@ -1797,6 +1797,24 @@
     },
     {
       "album": {
+        "name": "Bricks Don't Roll EP",
+        "url": "https://open.spotify.com/album/0SbH0tpWimrsP1q4mJLEIS"
+      },
+      "artists": [
+        {
+          "name": "DJ Hazard",
+          "url": "https://open.spotify.com/artist/04rhebO91K6xoiXE0XuDkh"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253882,
+      "name": "Bricks Don't Roll",
+      "url": "https://open.spotify.com/track/1SBs5cEBLhTugiSHko2qx4"
+    },
+    {
+      "album": {
         "name": "Speed Of Light",
         "url": "https://open.spotify.com/album/64AsM1vclRLFeNKlSPnGsA"
       },
@@ -1974,6 +1992,24 @@
       "duration_ms": 146206,
       "name": "Can't Have U",
       "url": "https://open.spotify.com/track/242x5qU3IyC275YDC7iGGz"
+    },
+    {
+      "album": {
+        "name": "Cards On The Table",
+        "url": "https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176913,
+      "name": "Cards On The Table",
+      "url": "https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4"
     },
     {
       "album": {
@@ -2172,7 +2208,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 189655,
       "name": "Chase The Sun",
       "url": "https://open.spotify.com/track/7kE5SGVpogBX5VXiTgYiRg"
@@ -3140,7 +3176,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 164914,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE"
@@ -3450,6 +3486,28 @@
       "duration_ms": 202271,
       "name": "Drown",
       "url": "https://open.spotify.com/track/4oJ0MwLNZEqRvwgwEfsl0a"
+    },
+    {
+      "album": {
+        "name": "Drowning Mind",
+        "url": "https://open.spotify.com/album/6VOQfMjCoccGRvn5eP0gSw"
+      },
+      "artists": [
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        },
+        {
+          "name": "Billy Lockett",
+          "url": "https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Drowning Mind",
+      "url": "https://open.spotify.com/track/2FD8e8lJgul2phNSMlOHDM"
     },
     {
       "album": {
@@ -4623,6 +4681,24 @@
     },
     {
       "album": {
+        "name": "Galvanize",
+        "url": "https://open.spotify.com/album/3u2AACBpssZuJtCYW3MvhE"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205671,
+      "name": "Galvanize",
+      "url": "https://open.spotify.com/track/1do4bX9hOYyP53We3hzC9g"
+    },
+    {
+      "album": {
         "name": "Baddest EP",
         "url": "https://open.spotify.com/album/0EoJHdVcLsP6LS7UR5JM6z"
       },
@@ -4864,6 +4940,28 @@
       "duration_ms": 189342,
       "name": "Going Out To The Ravers (feat. Everyone You Know)",
       "url": "https://open.spotify.com/track/0vOWeFm0mBgfMT4xYymzhr"
+    },
+    {
+      "album": {
+        "name": "Going Up (feat. Ayah Marar)",
+        "url": "https://open.spotify.com/album/6vcjatAEHBwaELy4icb09Z"
+      },
+      "artists": [
+        {
+          "name": "Mandidextrous",
+          "url": "https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp"
+        },
+        {
+          "name": "Ayah Marar",
+          "url": "https://open.spotify.com/artist/4xQ2BGOBUXgjxO2PAhrIyS"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244114,
+      "name": "Going Up (feat. Ayah Marar)",
+      "url": "https://open.spotify.com/track/5p28zZ4BeefFX1IJ7IEERK"
     },
     {
       "album": {
@@ -6782,7 +6880,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 160498,
       "name": "Let U Know (feat. Charlotte Plank)",
       "url": "https://open.spotify.com/track/37KhWdLDRC4UMR8jxvVBdW"
@@ -8358,7 +8456,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 147149,
       "name": "Need Ya (I Don't Wanna)",
       "url": "https://open.spotify.com/track/7wc0wpRkVCVtF84g4YbCpH"
@@ -9533,6 +9631,28 @@
     },
     {
       "album": {
+        "name": "Playing With Fire (feat. Zac Pajak)",
+        "url": "https://open.spotify.com/album/7bwSwhkCntzOANc3MVtv4K"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Zac Pajak",
+          "url": "https://open.spotify.com/artist/4RBVQ7fflz36JCOAMyxu8R"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Playing With Fire (feat. Zac Pajak)",
+      "url": "https://open.spotify.com/track/1kosMJUV7U5Ci2BKPdbeJ4"
+    },
+    {
+      "album": {
         "name": "Poison (Potential Badboy Remix)",
         "url": "https://open.spotify.com/album/3y412ik8DPKnGkwTO9uOzk"
       },
@@ -9728,6 +9848,28 @@
       "duration_ms": 158500,
       "name": "Rage",
       "url": "https://open.spotify.com/track/4pDMigVe00CtmHeqSD0Yvy"
+    },
+    {
+      "album": {
+        "name": "Raggamuffin",
+        "url": "https://open.spotify.com/album/3Y071HqrUq3wln4GW0i7sX"
+      },
+      "artists": [
+        {
+          "name": "Ed Solo",
+          "url": "https://open.spotify.com/artist/7jnJgk7LLLdpPhXrOOZXCa"
+        },
+        {
+          "name": "GU:STUFF",
+          "url": "https://open.spotify.com/artist/4LxndbBHPg0Da15ZjB74ZR"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Raggamuffin",
+      "url": "https://open.spotify.com/track/2BgaXr2yrSxwhMqNhsGiDf"
     },
     {
       "album": {
@@ -10020,7 +10162,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 216551,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi"
@@ -10376,6 +10518,28 @@
       "duration_ms": 230334,
       "name": "Rude Girl",
       "url": "https://open.spotify.com/track/6mBHV3DGl88Gi9UPZm5J14"
+    },
+    {
+      "album": {
+        "name": "Run (Part 2)",
+        "url": "https://open.spotify.com/album/5OtPOcB7CqVhiXujPZuNuK"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        },
+        {
+          "name": "Sofia",
+          "url": "https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149142,
+      "name": "Run (Part 2)",
+      "url": "https://open.spotify.com/track/4fHA7LND4vwqDmTGeJ4pw2"
     },
     {
       "album": {
@@ -11975,6 +12139,28 @@
     },
     {
       "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/5BvRuLqGxYWgLmSyBBeC5D"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "Nu La",
+          "url": "https://open.spotify.com/artist/59ppBuokR1G7kl20djHD8N"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189257,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/0LDcW1jwOpYCqdDZbS1J6Y"
+    },
+    {
+      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/3iGmrmTZUeaaEJagHz567Z"
       },
@@ -12676,7 +12862,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 206896,
       "name": "Too Shy",
       "url": "https://open.spotify.com/track/0rA0pNjUoFrnVfrRdl6eQN"
@@ -13140,7 +13326,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 150344,
       "name": "Vino Bandit",
       "url": "https://open.spotify.com/track/00c6JYguKlfq5yOlLoITlH"

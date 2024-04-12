@@ -4,7 +4,7 @@
 
 > 
 
-294 songs - 13 hr 57 min
+295 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Gravöl](https://open.spotify.com/track/01AKl5g1N4xZvJ23NSxCuZ) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Sex Politik & Fåglar](https://open.spotify.com/album/2M63nUb95NAqYou8reFFwo) | 3:06 | 2021-12-14 | 2023-04-30 |
 | [Gravöl](https://open.spotify.com/track/3FHqXZWwfSRnUCleK2U0eI) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Sex Politik & Fåglar](https://open.spotify.com/album/32VvPLYDMKpWrko4eTSA9k) | 3:06 | 2023-05-04 |  |
 | [Gravöl](https://open.spotify.com/track/7MpxKmGzenyey44GR0aUpf) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Sex Politik & Fåglar](https://open.spotify.com/album/0VL3W04CrMBCsBH92C1M66) | 3:06 | 2021-12-14 | 2022-07-29 |
+| [Hatar dig ändå](https://open.spotify.com/track/1LEIcs4cZtLJ32MbiC1owp) | [Krigsstigen](https://open.spotify.com/artist/5ZF0a9S7KDBjgr5BUZDVHC) | [Hatar dig ändå](https://open.spotify.com/album/6wz5C9g5rdVI0fSnhTvnVK) | 2:39 | 2024-04-11 |  |
 | [Hela hatet stormar](https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI), [Loke Nyberg](https://open.spotify.com/artist/1SovpimyX6noSdwHMymCIA) | [För Sverige](https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS) | 3:25 | 2021-12-14 |  |
 | [Herrarna I Sandlådan](https://open.spotify.com/track/0TMfcKnvRgT4n9Xi9VZq2o) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken i tiden](https://open.spotify.com/album/41KuCx8jBaZ4jzsFZRonvO) | 4:10 | 2021-12-14 | 2022-07-29 |
 | [Herrarna I Sandlådan](https://open.spotify.com/track/4LMQqcT7PChwUucFyhyWtY) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken I Tiden](https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd) | 4:10 | 2021-12-14 |  |
@@ -116,7 +117,7 @@
 | [Håll höjd](https://open.spotify.com/track/0HvIpVm3SxEYMi7F02sfNK) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Som en dålig film](https://open.spotify.com/album/3EHdMsEKuqUtvAhProY9Hc) | 5:08 | 2021-12-14 |  |
 | [I Din Sol](https://open.spotify.com/track/5gihLvviOhCQSs80u4tRiF) | [Död Mark](https://open.spotify.com/artist/36ufPZjygPOubok9wycfl9) | [Död Mark 4Evigt](https://open.spotify.com/album/70XKEcF9OgL0YE3icy72ft) | 1:49 | 2023-09-14 |  |
 | [Idrottslärarn e sträng!](https://open.spotify.com/track/2mNxYWVvBvNUkVT4AlhzQ8) | [Jönzzonligan](https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S) | [Rösta på idioter](https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6) | 2:08 | 2021-12-14 | 2022-07-22 |
-| [Ingen äger mig](https://open.spotify.com/track/5dmO8OXn6YkF5r1bCZDPIT) | [Vidro](https://open.spotify.com/artist/2PvllJTBKE17fG2ltGAGL8) | [Vidro / Cankro \(Brasil Tour\)](https://open.spotify.com/album/08tdwukMxzhjRCFr7owfBw) | 1:17 | 2021-12-14 |  |
+| [Ingen äger mig](https://open.spotify.com/track/5dmO8OXn6YkF5r1bCZDPIT) | [Vidro](https://open.spotify.com/artist/2PvllJTBKE17fG2ltGAGL8) | [Vidro / Cankro \(Brasil Tour\)](https://open.spotify.com/album/08tdwukMxzhjRCFr7owfBw) | 1:17 | 2021-12-14 | 2024-04-12 |
 | [Jag Går Upp Och Håller Käften](https://open.spotify.com/track/0CyGNDM8ulsItXRJyi0iPI) | [Coca Carola](https://open.spotify.com/artist/3SZ1ctTCbqXxdQ8atMJpVh) | [Feber](https://open.spotify.com/album/1VlxCiN1DYTqwG4o1OTiGr) | 3:27 | 2021-12-14 | 2022-07-29 |
 | [Jag Går Upp Och Håller Käften](https://open.spotify.com/track/0aozr0Hc6LefOhDj818RDI) | [Coca Carola](https://open.spotify.com/artist/3SZ1ctTCbqXxdQ8atMJpVh) | [Feber](https://open.spotify.com/album/0zgmxxpsQDiLBcWLKTZMld) | 3:27 | 2023-04-13 |  |
 | [Jag Går Upp Och Håller Käften](https://open.spotify.com/track/4wBImoo0wHN7nuqcFp2M8j) | [Coca Carola](https://open.spotify.com/artist/3SZ1ctTCbqXxdQ8atMJpVh) | [Feber](https://open.spotify.com/album/3BQYGmHHjOxOGKgFJfWzay) | 3:27 | 2021-12-14 | 2023-04-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 39 likes - 767 songs - 2 day 12 hr 4 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 39 likes - 777 songs - 2 day 12 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -775,5 +775,15 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 765 | [Sharazan](https://open.spotify.com/track/3QykjIsOz7tAH4G1OrRDT7) | [Al Bano And Romina Power](https://open.spotify.com/artist/1c0wBsDBu0NqpvxBqjYjZS) | [Felicità](https://open.spotify.com/album/6rYKh2EVXdWs5Pe8MugvSM) | 4:24 |
 | 766 | [Mano Dayak](https://open.spotify.com/track/75rfPRAYaXRbHSSXHsUyQk) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Aman Iman](https://open.spotify.com/album/5H1S9LkOFl1t9yaJFVVAek) | 5:43 |
 | 767 | [Sweet Dole](https://open.spotify.com/track/6R2XalnX5HjwhIhMSkxLM4) | [André Marie Tala](https://open.spotify.com/artist/7zoESCAeVJ8h0e1k62snyS) | [Beach Diggin', Vol\. 5](https://open.spotify.com/album/02vc1cQFePDzOSzt2YeFhh) | 4:36 |
+| 768 | [¡gózame Ya!](https://open.spotify.com/track/2g0RhOnTiLgdJJMc49Vk1X) | [Susana Estrada](https://open.spotify.com/artist/0IHPWJzhVjexoCd97SJfjU) | [Amor y Libertad](https://open.spotify.com/album/3aROTW8MWTPwjxQafsAydr) | 2:52 |
+| 769 | [Gentes e Coisas da Bahía \- Remasterizado](https://open.spotify.com/track/7FUMWDwiJGs2Qo1HLE1bQa) | [Jayme Marques](https://open.spotify.com/artist/35jsvUlsZ3Oc0YJZcCB6pB) | [Stop \(Remasterizado\)](https://open.spotify.com/album/6bnzQkwt2p8F2HcLBRuehQ) | 3:12 |
+| 770 | [Cadê Tereza](https://open.spotify.com/track/6c2SW9sCr4iabx4jHBAxwd) | [Os Originais Do Samba](https://open.spotify.com/artist/4gKqxjR0MkEKjqvO3Ctvpg) | [É De Lei](https://open.spotify.com/album/4TOa1FeJUAT0RxHPupIjLd) | 4:39 |
+| 771 | [Toda Mañana](https://open.spotify.com/track/1RftMF4HeR1z6LnxKA3MCb) | [Gretchen](https://open.spotify.com/artist/5l16yCOBayxKJwDKRZ8n0T) | [Gretchen](https://open.spotify.com/album/35iHPVZZkxdMZYYceaXj1f) | 4:29 |
+| 772 | [Sputla](https://open.spotify.com/track/1YIkwhcOW1Z0606rqiQgRI) | [Teaspoon Ndelu](https://open.spotify.com/artist/4bTL8Crz6YNEGHMO1QiCcY) | [Ke Kopa Madulo](https://open.spotify.com/album/1TNAgVusw6jRLFmbJuO97C) | 7:03 |
+| 773 | [Woody's Blue](https://open.spotify.com/track/4paWz4k4HFXrdnmxm1ECYw) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Future](https://open.spotify.com/album/1Fv6H1R3c0qlujTi74i9p9) | 5:04 |
+| 774 | [Sienteme \- 2005 Remaster](https://open.spotify.com/track/6Y7ZPBpYUPjMh6BBeq5DBA) | [Alan Sorrenti](https://open.spotify.com/artist/7sCYC6bDTexE400qiLy4oq) | [Sienteme, It's Time To Land \(2005 Remaster\)](https://open.spotify.com/album/3C5LtfW0xLd3rs6xq1Z6TM) | 3:35 |
+| 775 | [Napoli Visionaria](https://open.spotify.com/track/0H0XrzteLyHBQCh9UMkMDr) | [Bassolino](https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx) | [Città Futura](https://open.spotify.com/album/57VVdwvhb2E3hOp21U6Isw) | 4:52 |
+| 776 | [Vivo Sarai \(Staying Alive\)](https://open.spotify.com/track/60M9lkPZ9pKzbyUWtbGqUz) | [Eva Eva Eva](https://open.spotify.com/artist/6EQNQjeMslKvAI1NvxB7qw) | [Disco Dance 70\-80](https://open.spotify.com/album/10Qyu68tpvcI2fhhAaTnf3) | 4:02 |
+| 777 | [All You Want Is More](https://open.spotify.com/track/0o7d1jmkZlwWGwsKQAhlLI) | [Sheila Chandra](https://open.spotify.com/artist/7eYoqLpLD211aYrxb64AzN) | [Out On My Own](https://open.spotify.com/album/5QsrculEaYllEV6y7UGfWb) | 4:18 |
 
-Snapshot ID: `ODYwLDhmYjhlNjJhZGJkOGI0M2JhNTRkZjkxZTMxOGQ4YmJlMDllZGIwZWI=`
+Snapshot ID: `ODcwLGJkNjAyZTk2YWJhZGQ5ZGJjZTFjZmY3YWQzNzA4OTk1MmViMTMxYmQ=`

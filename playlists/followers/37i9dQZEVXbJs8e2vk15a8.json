@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 70855,
+  "2024-04-12": 70852,
   "date_first_scraped": "2022-04-16",
   "description": "Your daily update of the most viral tracks right now - Chile.",
   "name": "Viral 50 - Chile",
@@ -10559,7 +10559,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 98181,
       "name": "Ella Me Pide",
       "url": "https://open.spotify.com/track/6RJ3Xrbvz6yeqkh4OzWgIo"
@@ -12681,7 +12681,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 150047,
       "name": "From the Start",
       "url": "https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr"
@@ -20222,6 +20222,24 @@
     },
     {
       "album": {
+        "name": "Me Lo Merezco",
+        "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172125,
+      "name": "Me Lo Merezco",
+      "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -26355,7 +26373,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 178163,
       "name": "Pe\u00f1alolen Cuna de Ladrones",
       "url": "https://open.spotify.com/track/0ex09B5au6UHlujRSjAolE"

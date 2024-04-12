@@ -4,7 +4,7 @@
 
 > A blend of new songs and artists in the soul space\. Cover: MRCY
 
-403 songs - 1 day 0 hr 1 min
+406 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [here with me](https://open.spotify.com/track/2PkdcWgKmHUrnNMtLqfK5T) | [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT), [DVNA](https://open.spotify.com/artist/6yADvjIe1epS2B0tUJcfu1) | [here with me](https://open.spotify.com/album/6P0UNRtyeamCXhEraz2Tfa) | 3:41 | 2021-12-16 | 2022-04-29 |
 | [Hey Papi \- Edit](https://open.spotify.com/track/7E0yobaZYmUDnk646JD0XT) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Hey Papi](https://open.spotify.com/album/7vESA3Bg1fOvgHfAHUBZ8o) | 2:38 | 2023-04-26 | 2023-07-08 |
 | [High & Dry](https://open.spotify.com/track/3euV86x39viux87PuKhgMq) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [High & Dry](https://open.spotify.com/album/4NZ8TvWas89czIE5aGxUGw) | 2:38 | 2021-12-16 | 2022-01-26 |
+| [Higher Levels](https://open.spotify.com/track/2dBZk3EXFu4uUJidPzoT1H) | [Blanka](https://open.spotify.com/artist/5ApOEJzMyQ05McnLtwoTRi), [Sara Lugo](https://open.spotify.com/artist/3DQQA7JVJvdcdcKArfwitT), [Dan Amozig](https://open.spotify.com/artist/1cS3HtoL7qTOOLQrIc349t) | [Higher Levels](https://open.spotify.com/album/5vxQJCFU3sXmObdLB2o1uA) | 3:29 | 2024-04-11 |  |
 | [Higher Self](https://open.spotify.com/track/2KcaOSZlR03H41Nhmg2QyH) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Higher Self](https://open.spotify.com/album/1MQEYp0fugw64pyAodgnxe) | 4:01 | 2023-12-08 |  |
 | [Hills](https://open.spotify.com/track/2PCdovP3wSlSS73NOtopJI) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Hills](https://open.spotify.com/album/6vbnNu3cvLpiYLNxDnQYi0) | 3:01 | 2021-12-16 | 2023-02-18 |
 | [Hold On](https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Hold On](https://open.spotify.com/album/3WWfApLKg76DOgntZABET6) | 3:23 | 2021-12-16 | 2022-07-07 |
@@ -207,6 +208,7 @@
 | [Lost & Found](https://open.spotify.com/track/5e28Opuxq5CZ9AkcJUFVos) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Lost & Found](https://open.spotify.com/album/76CdMSgIfOG6BfFsz97z5X) | 3:46 | 2022-07-28 | 2022-10-15 |
 | [Lost Me](https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:00 | 2022-06-30 | 2022-12-03 |
 | [LOST YOU](https://open.spotify.com/track/0Gmjaje0sMUwD5mIHlhlfs) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [LOST YOU](https://open.spotify.com/album/3DMw1U0phfSBMkmO6pI5eF) | 2:57 | 2021-12-16 | 2022-05-20 |
+| [Love Is That Space](https://open.spotify.com/track/3kx9tSMW5WfgiUf8tdTv8e) | [Cellz](https://open.spotify.com/artist/5BFEr8AvjXPRGzf1hZyel3), [POLY POLY](https://open.spotify.com/artist/4MdhWtwr2EGHOn80cSM380) | [Love Is That Space](https://open.spotify.com/album/6hbj733uaSXWinzZaFBLQy) | 3:16 | 2024-04-11 |  |
 | [Love Island](https://open.spotify.com/track/2kiBow1qzFxXlCutSslC2R) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Love Island](https://open.spotify.com/album/3R1JtNGHhtszF5n6wMxswQ) | 2:23 | 2023-03-02 | 2023-09-29 |
 | [Love Island](https://open.spotify.com/track/0FlBpw3OpaZur0hceVBj46) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Love Island](https://open.spotify.com/album/3Nu7ZdvKfsohdpjvf3swO4) | 2:23 | 2023-09-14 | 2023-11-28 |
 | [Love Island](https://open.spotify.com/track/3IDs0pS01xXpNJD1kpi8JS) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Fantasy](https://open.spotify.com/album/6vse3DrFzUQ9HRv3xYlNVd) | 2:23 | 2023-11-16 |  |
@@ -305,6 +307,7 @@
 | [sin tu fuego](https://open.spotify.com/track/0Kwclo1cdzghNqwyKpHX2a) | [Mia Zeta](https://open.spotify.com/artist/3yYiftL3pMw7AyTLfsitUH), [Chiara Parravicini](https://open.spotify.com/artist/7CAbOypVuQA9Rk7359TMas) | [Hasta en los sueños...](https://open.spotify.com/album/2XROkO1mV6lmieLcEovpwL) | 4:18 | 2022-08-25 | 2023-10-12 |
 | [sing about love](https://open.spotify.com/track/5B3vp0n7EJch6ExLlyfLdl) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [sing about love](https://open.spotify.com/album/0ZH61KMwJcevDmzFkxVXoz) | 3:34 | 2021-12-16 | 2022-01-14 |
 | [single af](https://open.spotify.com/track/3LcFNj04sHJson5SIrRPAe) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [single af](https://open.spotify.com/album/0NVib4XqpW1Yx4nOtbCDyh) | 3:06 | 2021-12-16 | 2022-05-20 |
+| [Slow Down](https://open.spotify.com/track/4uti0PZJXWZheQCwzn381X) | [Ruben Young](https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF), [Kaylan Arnold](https://open.spotify.com/artist/30Umdbc6mDkhyrfyPw2quC) | [Slow Down](https://open.spotify.com/album/7qMA7vSCMWaAeyDRIO2JOM) | 2:58 | 2024-04-11 |  |
 | [So Cool](https://open.spotify.com/track/44aip3NiojpXMaSOTyZ1UO) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [So Cool](https://open.spotify.com/album/0WTexgyWemY3YVYS3VE8Qk) | 1:51 | 2022-02-10 | 2023-02-18 |
 | [So Stunning](https://open.spotify.com/track/5axNMiJku4d44cqJfmxlDg) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner](https://open.spotify.com/album/25svhynQhTgN0uUjHAdDth) | 3:02 | 2023-04-26 | 2023-10-12 |
 | [So Stunning](https://open.spotify.com/track/6Wn04V6Hc1znC1CyMMj1z1) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner](https://open.spotify.com/album/1RpUrBuml8USoJNuUAbVrH) | 3:02 | 2023-03-02 | 2023-06-24 |

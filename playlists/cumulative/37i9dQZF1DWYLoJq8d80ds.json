@@ -853,6 +853,32 @@
     },
     {
       "album": {
+        "name": "Eterno Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6gJiMu8AMgn0ydw4WDDefD"
+      },
+      "artists": [
+        {
+          "name": "Destino San Javier",
+          "url": "https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW"
+        },
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        },
+        {
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248474,
+      "name": "Eterno Amor (En Vivo)",
+      "url": "https://open.spotify.com/track/2uSn8VGgamdhCKDqdasxHQ"
+    },
+    {
+      "album": {
         "name": "Festivalero",
         "url": "https://open.spotify.com/album/0A4WmGsLF5CXiQcvpsisBR"
       },
@@ -930,7 +956,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 186296,
       "name": "Hay Amores que Matan",
       "url": "https://open.spotify.com/track/1GFf0SJRyglqz9NmkWmI9c"

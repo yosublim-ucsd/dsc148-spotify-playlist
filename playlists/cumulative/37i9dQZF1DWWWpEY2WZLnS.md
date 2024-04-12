@@ -4,7 +4,7 @@
 
 > Los éxitos del Dembow\. Portada: Jey One
 
-346 songs - 17 hr 7 min
+347 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Gogo Dance](https://open.spotify.com/track/0NewxJTiqOlMVKaaTgLlMY) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [SABIDURIA](https://open.spotify.com/album/6paK8J7C7IJSK643aahwkc) | 2:53 | 2023-05-26 |  |
 | [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 | 2022-04-20 | 2023-06-28 |
 | [Gugle](https://open.spotify.com/track/2Nf1D46vyEZYNbuCx0Y4iD) | [Dj Adoni](https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC) | [Gugle](https://open.spotify.com/album/3hxmWwG0G3IXdjbi2AyHEH) | 3:14 | 2023-05-26 | 2023-09-30 |
+| [HAY LUPITA](https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/1gGvVUNqBHKn1ct3FX5EVM) | 1:45 | 2024-04-11 |  |
 | [Hay Que Bueno](https://open.spotify.com/track/6xHkSGuXlxyDeqnlYe5Ryv) | [KD One](https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4) | [Hay Que Bueno](https://open.spotify.com/album/2XsS228bjAL5sNbqMaO3qn) | 2:40 | 2021-11-19 | 2022-03-18 |
 | [Hay Santo](https://open.spotify.com/track/1MUJMUO1dywCGUsYYOUFnH) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Jonatan Burlon](https://open.spotify.com/artist/5sN3XgD2jMfG1qd96CcyqM) | [Hay Santo](https://open.spotify.com/album/2jlvqgwdqIpqpuYGv1JdJ2) | 3:27 | 2023-02-09 | 2024-02-02 |
 | [Hazlo Tu](https://open.spotify.com/track/5c9xVLOxMsK5geqdtMIhgf) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4) | [Hazlo Tu](https://open.spotify.com/album/11D7KwrMNFrJcjGKeHC2dH) | 2:49 | 2023-05-26 | 2023-09-22 |
@@ -332,7 +333,7 @@
 | [Tuwi Tuwi](https://open.spotify.com/track/4JfRDEkkMYiLp76wepG9Vw) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Tuwi Tuwi](https://open.spotify.com/album/2TLl92KX0u6TNGtcMGD4EY) | 2:15 | 2024-01-04 |  |
 | [Ubicacion y Foto](https://open.spotify.com/track/04NOkdNPJx9l134EmPEC8a) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu) | [Ubicacion y Foto](https://open.spotify.com/album/5oi02uruQUZdOgAYbiMiQ8) | 2:03 | 2023-05-26 | 2023-12-14 |
 | [Un Chin](https://open.spotify.com/track/0QFoUwvgLa81F9yFZh6ZWI) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Un Chin](https://open.spotify.com/album/4G0utAp4MeAOWrgJPkMXrz) | 2:25 | 2023-02-09 | 2023-08-04 |
-| [Un Malo y Medio](https://open.spotify.com/track/00nY6dEt6R0zGDTFt7FlBO) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah), [La Demente](https://open.spotify.com/artist/7C56RAv2RXvLeRc8r9Yz7o) | [Un Malo y Medio](https://open.spotify.com/album/224agsHVN6UcIBDwkg1p3f) | 1:51 | 2022-06-23 |  |
+| [Un Malo y Medio](https://open.spotify.com/track/00nY6dEt6R0zGDTFt7FlBO) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah), [La Demente](https://open.spotify.com/artist/7C56RAv2RXvLeRc8r9Yz7o) | [Un Malo y Medio](https://open.spotify.com/album/224agsHVN6UcIBDwkg1p3f) | 1:51 | 2022-06-23 | 2024-04-12 |
 | [Un Selfie Con 3 Millones](https://open.spotify.com/track/4Buu9Uu1wcv3aqXvrn3igC) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [SAGITARIO](https://open.spotify.com/album/10mdLipMzwfbpgJMu69Ln4) | 3:10 | 2023-02-09 | 2023-03-11 |
 | [UN VOLAO](https://open.spotify.com/track/1QBrDmUZ28brJz8vdvxzxI) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [UN VOLAO](https://open.spotify.com/album/2CCXpPq2goAscTXwNXgev8) | 1:39 | 2024-02-08 |  |
 | [Un Yile](https://open.spotify.com/track/6i6kLZybJjh2ht2nCwDOJB) | [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4), [La Mas Doll](https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq) | [Un Yile](https://open.spotify.com/album/6JT9quDG2rsLz0jFFr132J) | 2:24 | 2023-05-26 | 2023-06-09 |

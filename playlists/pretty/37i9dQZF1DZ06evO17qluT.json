@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 46917,
+  "num_followers": 47037,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDk4ODdhODNjZGRiNGQ5ZGU4MThiNTI1OWVkN2M5ZWQzYmY2MDk0",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDkwODFiYjNhNGViYmNlNzM0NjNkMzMxYjg0OGU2MTQy",
   "tracks": [
     {
       "added_at": null,
@@ -611,6 +611,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "L\u00f3gos",
+        "url": "https://open.spotify.com/album/0I2XCn1H6GV8griOfvPZeR"
+      },
+      "artists": [
+        {
+          "name": "Nill",
+          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "CrimeNow",
+          "url": "https://open.spotify.com/artist/7DYmVajG3YuftFMOdBps1g"
+        }
+      ],
+      "duration_ms": 230831,
+      "name": "Regras da Loja",
+      "url": "https://open.spotify.com/track/5myCkctRcnAwm01DRPMDOn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VER\u00c3O CRIMINOSO",
         "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
       },
@@ -635,30 +659,6 @@
       "duration_ms": 221621,
       "name": "3 DA MADRUGA",
       "url": "https://open.spotify.com/track/6ippDdJ3ys868MznfOHiRI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L\u00f3gos",
-        "url": "https://open.spotify.com/album/0I2XCn1H6GV8griOfvPZeR"
-      },
-      "artists": [
-        {
-          "name": "Nill",
-          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "CrimeNow",
-          "url": "https://open.spotify.com/artist/7DYmVajG3YuftFMOdBps1g"
-        }
-      ],
-      "duration_ms": 230831,
-      "name": "Regras da Loja",
-      "url": "https://open.spotify.com/track/5myCkctRcnAwm01DRPMDOn"
     },
     {
       "added_at": null,
@@ -739,6 +739,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cidade do Pecado",
+        "url": "https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        }
+      ],
+      "duration_ms": 211338,
+      "name": "Cidade do Pecado",
+      "url": "https://open.spotify.com/track/2hJmCyeQEnatMz5U4hZYpH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VER\u00c3O CRIMINOSO",
         "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 208640,
       "name": "SOY JEFE",
       "url": "https://open.spotify.com/track/0R6kmc1bAJjj5uKFhXasix"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cidade do Pecado",
-        "url": "https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        }
-      ],
-      "duration_ms": 211338,
-      "name": "Cidade do Pecado",
-      "url": "https://open.spotify.com/track/2hJmCyeQEnatMz5U4hZYpH"
     },
     {
       "added_at": null,
@@ -835,34 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VER\u00c3O CRIMINOSO",
-        "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Gigantes",
-          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
-        }
-      ],
-      "duration_ms": 172820,
-      "name": "ESPECIALISTA",
-      "url": "https://open.spotify.com/track/2ZIOwWa5HiQWTzOagFGdao"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gigantes",
         "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
       },
@@ -887,6 +859,34 @@
       "duration_ms": 249813,
       "name": "Vivos",
       "url": "https://open.spotify.com/track/10jI01n8w6g41qiIMAcAkb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VER\u00c3O CRIMINOSO",
+        "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Gigantes",
+          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
+        }
+      ],
+      "duration_ms": 172820,
+      "name": "ESPECIALISTA",
+      "url": "https://open.spotify.com/track/2ZIOwWa5HiQWTzOagFGdao"
     },
     {
       "added_at": null,
@@ -943,6 +943,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 294314,
+      "name": "Tit\u00e3s",
+      "url": "https://open.spotify.com/track/3yMjo7k4tTly5iyYcvQM3S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VER\u00c3O CRIMINOSO",
         "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 192004,
       "name": "REAL NIGGA",
       "url": "https://open.spotify.com/track/6cL2kYwllJ29fyvrGMKWxE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 294314,
-      "name": "Tit\u00e3s",
-      "url": "https://open.spotify.com/track/3yMjo7k4tTly5iyYcvQM3S"
     },
     {
       "added_at": null,
@@ -1051,6 +1051,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 251668,
+      "name": "Julius",
+      "url": "https://open.spotify.com/track/525iKRpCJuNRyA5OTUNzla"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lance Criminoso (feat. BK)",
         "url": "https://open.spotify.com/album/6JTwZgvuat1vaYfTAVn6Cy"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 234098,
       "name": "Lance Criminoso (feat. BK)",
       "url": "https://open.spotify.com/track/2jZJ5d0KCiTP6de1NjyHPl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 251668,
-      "name": "Julius",
-      "url": "https://open.spotify.com/track/525iKRpCJuNRyA5OTUNzla"
     },
     {
       "added_at": null,
@@ -1147,6 +1147,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        }
+      ],
+      "duration_ms": 232096,
+      "name": "Gigantes",
+      "url": "https://open.spotify.com/track/6HCOXcDsQnUjQl5FQJvMvL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poetas no Topo 1",
         "url": "https://open.spotify.com/album/2TXsGcsDKimJKtcJ01Yy4y"
       },
@@ -1187,26 +1207,6 @@
       "duration_ms": 398478,
       "name": "Poetas no Topo 1",
       "url": "https://open.spotify.com/track/0buQLT5lhSRs7wtunIeK8v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        }
-      ],
-      "duration_ms": 232096,
-      "name": "Gigantes",
-      "url": "https://open.spotify.com/track/6HCOXcDsQnUjQl5FQJvMvL"
     },
     {
       "added_at": null,

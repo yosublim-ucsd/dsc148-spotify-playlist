@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 127111,
+  "2024-04-12": 127184,
   "date_first_scraped": "2021-12-28",
   "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627\ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0631\u0627\u0645\u064a \u0635\u0628\u0631\u064a\n",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
@@ -1682,6 +1682,28 @@
     },
     {
       "album": {
+        "name": "Awlad Misk",
+        "url": "https://open.spotify.com/album/6sCIOOppSkOmDxpwZkpPkT"
+      },
+      "artists": [
+        {
+          "name": "Muslim",
+          "url": "https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD"
+        },
+        {
+          "name": "3enba",
+          "url": "https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158993,
+      "name": "Awlad Misk",
+      "url": "https://open.spotify.com/track/5gkVGDhKUVOugX4EtdKAMy"
+    },
+    {
+      "album": {
         "name": "Aysha w Mabsouta",
         "url": "https://open.spotify.com/album/4RcJd2zIAn78Bqqj7wVoHZ"
       },
@@ -3093,6 +3115,28 @@
       "duration_ms": 200275,
       "name": "Ekhtary",
       "url": "https://open.spotify.com/track/2V3E17nHsmFLpuV3aswZKn"
+    },
+    {
+      "album": {
+        "name": "El 7owar",
+        "url": "https://open.spotify.com/album/1VZKRmqQOEbapnvyKK8MBF"
+      },
+      "artists": [
+        {
+          "name": "Twyxx",
+          "url": "https://open.spotify.com/artist/49tL54lw3BSK1DD2OfaffG"
+        },
+        {
+          "name": "Hany El Dakkak",
+          "url": "https://open.spotify.com/artist/3lkpsAecG5PLOzsanTmfvo"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214967,
+      "name": "El 7owar",
+      "url": "https://open.spotify.com/track/4A05M0xEifCqrrCqRRxB8N"
     },
     {
       "album": {
@@ -6899,7 +6943,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 167874,
       "name": "Leh Heya From El System Movie",
       "url": "https://open.spotify.com/track/2ymAcojnsUN9b4uMU3uV64"
@@ -8705,7 +8749,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 156338,
       "name": "Nefsy Nefdal (feat. Fady Haroun)",
       "url": "https://open.spotify.com/track/4Up00T6I0bitpPlOMaF4dx"
@@ -10591,7 +10635,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 149000,
       "name": "Tezkar",
       "url": "https://open.spotify.com/track/4gPwewTZrchGBBsozOIlfb"
@@ -14042,6 +14086,24 @@
     },
     {
       "album": {
+        "name": "\u062e\u0644\u064a\u0646\u064a \u0623\u0634\u0648\u0641\u0643",
+        "url": "https://open.spotify.com/album/3xjnY2ScY6agVQ0jBXIp7e"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192750,
+      "name": "\u062e\u0644\u064a\u0646\u064a \u0623\u0634\u0648\u0641\u0643",
+      "url": "https://open.spotify.com/track/5wFGQw4SWEtId68rnnE7An"
+    },
+    {
+      "album": {
         "name": "\u062e\u0644\u064a\u0646\u064a \u0634\u0648\u064a\u0629 \u0645\u0639\u0627\u0643",
         "url": "https://open.spotify.com/album/7CltOkKejw4x6BoD3aWOZc"
       },
@@ -15380,6 +15442,32 @@
     },
     {
       "album": {
+        "name": "\u0643\u062a\u0627\u0643\u064a\u062a",
+        "url": "https://open.spotify.com/album/7ClhEA7NvStla8CQiHB6nN"
+      },
+      "artists": [
+        {
+          "name": "Abd El Basset Hamouda",
+          "url": "https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw"
+        },
+        {
+          "name": "Hoda Bondok",
+          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
+        },
+        {
+          "name": "G. Oka",
+          "url": "https://open.spotify.com/artist/6EZ1sLlOJzgFJzfWUnF0Py"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166422,
+      "name": "\u0643\u062a\u0627\u0643\u064a\u062a",
+      "url": "https://open.spotify.com/track/3jteVEmOXFUyWJ651mhgyc"
+    },
+    {
+      "album": {
         "name": "\u0643\u062f\u0647 \u0643\u062f\u0647 \u0628\u0627\u064a\u0638\u0647",
         "url": "https://open.spotify.com/album/78eJSdtqKHJJdYKhPCm6Wn"
       },
@@ -16655,7 +16743,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 231651,
       "name": "\u0648\u0644\u0627 \u064a\u0647\u0645\u0643",
       "url": "https://open.spotify.com/track/1dwGantu2uucmi2Ht4HzB5"

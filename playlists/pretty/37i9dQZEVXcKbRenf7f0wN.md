@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcKbRenf7f0wN.md) - [plain]
 | 29 | [Bloodletting \(The Vampire Song\)](https://open.spotify.com/track/5fFg6pNYG5EgXzuEmDSx91) | [Concrete Blonde](https://open.spotify.com/artist/2ICSjfBpos9PxMhGhX25N2) | [Bloodletting](https://open.spotify.com/album/0Qny7PmxUlBMrw4xdeiHaU) | 6:05 |
 | 30 | [Lovesong](https://open.spotify.com/track/4seT68ahatRnkpnlkADLWy) | [Snake River Conspiracy](https://open.spotify.com/artist/4D9z4fup1x9lkmrPTOWw8A) | [Sonic Jihad](https://open.spotify.com/album/393lg8s4V5bOSXosvsNANq) | 3:55 |
 
-Snapshot ID: `MCwwMDAwMDAwMDgyZDczMDUwNDA2M2NiNzk5YTg3NWU4OTdhYzY1MzYw`
+Snapshot ID: `MCwwMDAwMDAwMDY0YzM5NTE0NWZiODk4MzE4NGY0YjA0MDMyZGUyNGZh`

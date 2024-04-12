@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from Blondshell & Bully
 
-1,439 songs - 3 day 7 hr 15 min
+1,440 songs - 3 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1134,7 +1134,8 @@
 | [Snowbank Blues](https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 3:17 | 2022-10-28 | 2023-04-01 |
 | [So Clear](https://open.spotify.com/track/0kB4VZXmw5eNpz1gE6R5BB) | [Josh Gilligan](https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899), [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Go Around](https://open.spotify.com/album/59n5hJUTjae754GA75MRMx) | 2:38 | 2021-06-25 | 2022-04-21 |
 | [So Grown Up](https://open.spotify.com/track/6GUdaisS4CFhiuBqaoCygz) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [So Grown Up](https://open.spotify.com/album/7xgUCfCUkPGJzraY6hQwDf) | 3:35 | 2021-10-08 | 2022-04-08 |
-| [Soak it In](https://open.spotify.com/track/4bkj4j64FkMlf6nvobCVOJ) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Mundane Pleasure](https://open.spotify.com/album/3NeuhQcs23QELh77ERy0fm) | 2:23 | 2024-03-29 |  |
+| [Soak it In](https://open.spotify.com/track/4bkj4j64FkMlf6nvobCVOJ) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Mundane Pleasure](https://open.spotify.com/album/3NeuhQcs23QELh77ERy0fm) | 2:23 | 2024-03-29 | 2024-04-12 |
+| [Soak it In](https://open.spotify.com/track/6FYpOljm1nFjvbyLh0l1QX) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Mundane Pleasure](https://open.spotify.com/album/3dt5c3PWLzdNQmwWTu99qz) | 2:23 | 2024-03-29 |  |
 | [Soak Up The Sun](https://open.spotify.com/track/1siBPIRWS5dlMlnCGVWOkI) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Soak Up The Sun](https://open.spotify.com/album/6SraX0SRjbk7IAQ3bYdlbD) | 5:04 | 2023-07-28 | 2023-08-26 |
 | [Sober Up](https://open.spotify.com/track/3UnMcZ7ewqsJgCcuT7hQhu) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca \(Deluxe\)](https://open.spotify.com/album/7K1rLdxIp1SappJzswQAbU) | 3:38 | 2021-06-11 | 2022-04-19 |
 | [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 | 2023-03-03 | 2023-04-22 |

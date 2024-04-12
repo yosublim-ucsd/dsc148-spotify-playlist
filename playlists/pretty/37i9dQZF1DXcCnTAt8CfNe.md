@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 
 > Soothe your mind with gentle instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,947 likes - 206 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,032 likes - 206 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -215,4 +215,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 205 | [Harmonious](https://open.spotify.com/track/0w1kQy9x8W7yA299gFLhLn) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Harmonious](https://open.spotify.com/album/5ag8H1bxJUJbGBHb1IXu8T) | 3:56 |
 | 206 | [Zhenya](https://open.spotify.com/track/09z4NnaPxtbPsMoKHDaoIy) | [LOVIS](https://open.spotify.com/artist/5BH5JQNu5i1vwN5bX4iDGE) | [Zhenya](https://open.spotify.com/album/3uNqo97i4YJVzvo9r25Smo) | 3:22 |
 
-Snapshot ID: `MCwwYTlkMDBmZDJlMzE1OWU2MzgyODFiYTgyM2Y2MDE2YWEwYTUxZGQ1`
+Snapshot ID: `MTcxMjI2ODQ0OCwwMDAwMDAwMDc0NzY1YmI0YTk0NzFjZDRlZTM1MmYwNTEyNzg5ZmY1`

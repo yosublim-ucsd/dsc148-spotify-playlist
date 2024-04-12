@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 ### [GQOM Power House](https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg)
 
-> It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy?si=kZqsSRa1TZeEyUsnO2bRPQ">Omagoqa</a>
+> It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/7JenaF646lANuwlTFZzH0X?si=WW6zRJFFRNqvy9Xs4y0xiA">Kyotic</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,587 likes - 55 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,646 likes - 55 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 | 54 | [Frequency 99](https://open.spotify.com/track/1aSaZw4Kq4rn19t5ddeTxP) | [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe), [Dj Ctha\_Somgubha](https://open.spotify.com/artist/2ymyyA2v6dgJvxEopzs2PG) | [15k App](https://open.spotify.com/album/05dX6qT68NJi1b1IAdhrSm) | 6:11 |
 | 55 | [Imali](https://open.spotify.com/track/4u0RKHQuHzEiXySDbRYy1B) | [Mr Thela](https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle), [Nobantu Vilakazi](https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q) | [Imali](https://open.spotify.com/album/1QTu1sPc5EYFeufpGVVfnc) | 5:34 |
 
-Snapshot ID: `MCwwNWM1YjU0NDAyNjRlMmZlMDVhYWQ4OWZkZWI1OGVkZmUxOTk5ZWE0`
+Snapshot ID: `MTcxMjg3NjQwMCwwMDAwMDAwMGNkN2IzZTNmM2YyZDU2ZmYzYjVmMTllMjlmYTFlNTdk`

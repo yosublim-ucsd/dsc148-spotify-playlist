@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 173760,
+  "num_followers": 173850,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWY4ZmNiM2M2NzlhOGI2NDAxNDRjM2Q2ZTU0YWExYzA1YWZhNjc0",
+  "snapshot_id": "MTY5NjUxMTkwNiwwMDAwMDAwMDA3Y2M5N2Y0NGM2ZjhkODNmZDAxOGY3ZDBhOWIzNDBh",
   "tracks": [
     {
       "added_at": "2023-10-05 13:18:26",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Everything I Need",
+        "url": "https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy"
+      },
+      "artists": [
+        {
+          "name": "Aynsley Lister",
+          "url": "https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU"
+        }
+      ],
+      "duration_ms": 420386,
+      "name": "Need Her So Bad",
+      "url": "https://open.spotify.com/track/1Msf1vU7lpnbqUDxj6HpnW"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "The Essential Magic Sam: The Cobra and Chief Recordings 1957-1961",
         "url": "https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv"
       },
@@ -331,6 +347,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 215026,
+      "name": "Little Red Rooster",
+      "url": "https://open.spotify.com/track/3Gq3uFAdJltar4ddwboPby"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "You Can't Lose What You Ain't Never Had",
         "url": "https://open.spotify.com/album/3Jqjl8E2mtMf0IlrxuriRQ"
       },
@@ -351,22 +383,6 @@
       "duration_ms": 433360,
       "name": "How Unlucky Can One Man Be",
       "url": "https://open.spotify.com/track/5MULjaj5Xzjd2pyvUK8rRM"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 215026,
-      "name": "Little Red Rooster",
-      "url": "https://open.spotify.com/track/3Gq3uFAdJltar4ddwboPby"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -423,22 +439,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Freedom Flight",
-        "url": "https://open.spotify.com/album/7suTZDEkiDpzkouw300noM"
-      },
-      "artists": [
-        {
-          "name": "Shuggie Otis",
-          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
-        }
-      ],
-      "duration_ms": 428680,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/510i2lQvSKIgFXVrq2Dg5Y"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Paris Blues",
         "url": "https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT"
       },
@@ -451,6 +451,22 @@
       "duration_ms": 353585,
       "name": "Paris Blues",
       "url": "https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Freedom Flight",
+        "url": "https://open.spotify.com/album/7suTZDEkiDpzkouw300noM"
+      },
+      "artists": [
+        {
+          "name": "Shuggie Otis",
+          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+        }
+      ],
+      "duration_ms": 428680,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/510i2lQvSKIgFXVrq2Dg5Y"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -695,22 +711,6 @@
       "duration_ms": 312600,
       "name": "Mississippi - Version 2",
       "url": "https://open.spotify.com/track/6JWHNd8QMxTvojYkmZtKGI"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "Everything I Need",
-        "url": "https://open.spotify.com/album/457tPPHTx0QG2ZsP7y1pfK"
-      },
-      "artists": [
-        {
-          "name": "Aynsley Lister",
-          "url": "https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU"
-        }
-      ],
-      "duration_ms": 420386,
-      "name": "Need Her so Bad",
-      "url": "https://open.spotify.com/track/2fizsCfngbjfArn0y8MlfJ"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "From The Heart Of A Woman",
+        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 257093,
+      "name": "Thanks, But No Thanks",
+      "url": "https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "Willie's Blues",
         "url": "https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 354573,
       "name": "Go Easy",
       "url": "https://open.spotify.com/track/3owiWE0J2144puM4MB1lxK"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "From The Heart Of A Woman",
-        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 257093,
-      "name": "Thanks, But No Thanks",
-      "url": "https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "The Best Of Freddie King: The Shelter Years",
-        "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 240466,
-      "name": "Reconsider Baby - Remastered",
-      "url": "https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Crackdown",
         "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 211819,
       "name": "Easy On The Eyes",
       "url": "https://open.spotify.com/track/4mEITOF0rKhIZr3rBJuwk0"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "The Best Of Freddie King: The Shelter Years",
+        "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 240466,
+      "name": "Reconsider Baby - Remastered",
+      "url": "https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Andrew Brown",
-          "url": "https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR"
-        }
-      ],
-      "duration_ms": 301440,
-      "name": "I Got News For You",
-      "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Mississippi Son",
         "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 186493,
       "name": "Drifting From Town To Town",
       "url": "https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Andrew Brown",
+          "url": "https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR"
+        }
+      ],
+      "duration_ms": 301440,
+      "name": "I Got News For You",
+      "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1463,38 +1463,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Outdated Emotion",
-        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
-      },
-      "artists": [
-        {
-          "name": "Delbert McClinton",
-          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
-        }
-      ],
-      "duration_ms": 146397,
-      "name": "Connecticut Blues",
-      "url": "https://open.spotify.com/track/3iQxKD67vxkRxUWHEXqGRg"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "Outta' Season",
-        "url": "https://open.spotify.com/album/3oKjmBZzVdDLTQWI7vf5Jg"
-      },
-      "artists": [
-        {
-          "name": "Ike & Tina Turner",
-          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
-        }
-      ],
-      "duration_ms": 202627,
-      "name": "Five Long Years",
-      "url": "https://open.spotify.com/track/5joO3RcUHeTMjasJrjVa9a"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Try It...You Might Like It: GA-20 Does Hound Dog Taylor",
         "url": "https://open.spotify.com/album/4d9H4axCobgD9iuMsP3XCj"
       },
@@ -1507,6 +1475,22 @@
       "duration_ms": 275853,
       "name": "Sitting At Home Alone",
       "url": "https://open.spotify.com/track/3y5yJbyAJcCSWJmUF7Fi8d"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Outdated Emotion",
+        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
+      },
+      "artists": [
+        {
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
+        }
+      ],
+      "duration_ms": 146397,
+      "name": "Connecticut Blues",
+      "url": "https://open.spotify.com/track/3iQxKD67vxkRxUWHEXqGRg"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1527,18 +1511,18 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Horrifying Deatheating Bloodspider",
-        "url": "https://open.spotify.com/album/2AofxKR1xww94PPlpswmNs"
+        "name": "Outta' Season",
+        "url": "https://open.spotify.com/album/3oKjmBZzVdDLTQWI7vf5Jg"
       },
       "artists": [
         {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+          "name": "Ike & Tina Turner",
+          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
         }
       ],
-      "duration_ms": 168253,
-      "name": "Lovedog",
-      "url": "https://open.spotify.com/track/3Qh6bO9w0zGKXLWej6Mu2O"
+      "duration_ms": 202627,
+      "name": "Five Long Years",
+      "url": "https://open.spotify.com/track/5joO3RcUHeTMjasJrjVa9a"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1555,6 +1539,22 @@
       "duration_ms": 188697,
       "name": "Laundromat Blues - Mono Mix",
       "url": "https://open.spotify.com/track/272P3DN547Z4CNFNdLV4SD"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Horrifying Deatheating Bloodspider",
+        "url": "https://open.spotify.com/album/2AofxKR1xww94PPlpswmNs"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "duration_ms": 168253,
+      "name": "Lovedog",
+      "url": "https://open.spotify.com/track/3Qh6bO9w0zGKXLWej6Mu2O"
     },
     {
       "added_at": "2023-10-05 13:18:26",

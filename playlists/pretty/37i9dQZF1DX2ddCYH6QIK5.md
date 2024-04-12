@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Leonard Wellington, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,747 likes - 78 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,751 likes - 78 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 77 | [Cruisen](https://open.spotify.com/track/75wcLZXc1mHsGcDABxuIFv) | [Felix Herbst](https://open.spotify.com/artist/5FjvjkbSAOddYcOeOvZh2d) | [Cruisen](https://open.spotify.com/album/456CPopRAisSeK6XfI4fy0) | 3:04 |
 | 78 | [OCEANS MISSING YOU](https://open.spotify.com/track/3LpukLeiwm9d0Mo4eCZLCG) | [Cosmo Lautaro](https://open.spotify.com/artist/1KkOEEp4YjvWIWH7NjOu2M) | [OCEANS MISSING YOU](https://open.spotify.com/album/5Go28xHvXbgD6zaWAVmkni) | 4:03 |
 
-Snapshot ID: `MCwwMDUyMWRmOGM3OTEzNTMxZjM1Mjc4YmRhYjUyYmZkZjA2OTkwOGVk`
+Snapshot ID: `MTcxMjc1ODQxMSwwMDAwMDAwMDIyOWFlNGQwZjEyODhhYTU5YzVhNDU1ZjRlNTdjYjcz`

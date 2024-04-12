@@ -1,12 +1,12 @@
 {
   "description": "This is Aerosmith. The essential tracks, all in one playlist.",
-  "num_followers": 679345,
+  "num_followers": 679468,
   "original_name": "This Is Aerosmith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWI5ZjJjODk1M2RjODE5NmM5M2E4NWEwM2IxMjBiZjU1ZDk4ODRi",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDhkYzEyZGFhYmY5MGRiN2EyYWJiZjBhYTg0NjhkMDU0",
   "tracks": [
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rocks",
-        "url": "https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP"
+        "name": "Night In The Ruts",
+        "url": "https://open.spotify.com/album/2ksXsCYl9lqPQKEESlbPPK"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 252115,
-      "name": "Sick As A Dog",
-      "url": "https://open.spotify.com/track/3HiIGUTiUaEpdagPy3MWUk"
+      "duration_ms": 244842,
+      "name": "Remember (Walking In The Sand)",
+      "url": "https://open.spotify.com/track/4X0ATVwJsosL3PUvsEeAAs"
     }
   ],
   "unique_name": "This Is Aerosmith",

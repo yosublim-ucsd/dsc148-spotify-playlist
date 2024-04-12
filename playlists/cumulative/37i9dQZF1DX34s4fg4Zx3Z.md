@@ -4,7 +4,7 @@
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Tuấn Võ
 
-1,577 songs - 3 day 20 hr 19 min
+1,578 songs - 3 day 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,7 +375,7 @@
 | [Cưng Muốn Xỉu](https://open.spotify.com/track/63iDlj5V45NuYf4dkPXGx6) | [VAnh](https://open.spotify.com/artist/4QC9UUJeYEo4wnbTvuOHLo), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Cưng Muốn Xỉu](https://open.spotify.com/album/4dB3pveDqpFncjtU3XNTzd) | 0:30 | 2023-10-25 | 2023-11-10 |
 | [Cảm Giác](https://open.spotify.com/track/6rwZG0j0Kj3E9ZRjkNggrj) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ) | [Cảm Giác](https://open.spotify.com/album/3VNqaZJGEHrbcB7Q0aZkyS) | 3:39 | 2023-01-18 | 2024-03-23 |
 | [Cảm Giác Lạ \(feat\. Tài Smile\)](https://open.spotify.com/track/4okdW9XpuHlQW6YWt1rCp7) | [Zoky](https://open.spotify.com/artist/2NwcaFBDo5q8yedM6HZe38), [Tài Smile](https://open.spotify.com/artist/7l7JnnrdPYWBSFDfXuce4T) | [Cảm Giác Lạ \(feat\. Tài Smile\)](https://open.spotify.com/album/7ES5gcJGdbs9moHJiWVZLS) | 3:32 | 2022-02-18 | 2022-02-25 |
-| [Cầm Mic Lên Tay](https://open.spotify.com/track/3VteJOkPZ1W8aw40F7yJnB) | [JOY](https://open.spotify.com/artist/4IT4W71YfPlec2Ycz87Q84) | [Cầm Mic Lên Tay](https://open.spotify.com/album/4I4IQNvaJbtvMXgfzovLaB) | 3:48 | 2024-03-28 |  |
+| [Cầm Mic Lên Tay](https://open.spotify.com/track/3VteJOkPZ1W8aw40F7yJnB) | [JOY](https://open.spotify.com/artist/4IT4W71YfPlec2Ycz87Q84) | [Cầm Mic Lên Tay](https://open.spotify.com/album/4I4IQNvaJbtvMXgfzovLaB) | 3:48 | 2024-03-28 | 2024-04-12 |
 | [Cậu Bé Mộng Mơ](https://open.spotify.com/track/1wEwCi4H573BUthmo0LSSw) | [Clow](https://open.spotify.com/artist/340QB5yIg8bZoi4uJyTB30) | [Cậu Bé Mộng Mơ](https://open.spotify.com/album/4q4VXjN8H0AAINJCmBXkJP) | 3:22 | 2023-06-01 | 2023-06-14 |
 | [Cắn Môi Thay I Love You](https://open.spotify.com/track/6vwDtSsjqy8XSFa9y4Ev8U) | [Sticker T](https://open.spotify.com/artist/2nphMN7WKdJkNwiUYi4tvX) | [LOVE BUT CAN'T TOUCH YOUR FINGERS](https://open.spotify.com/album/6vd3OE1DOVarKP0R8Y3fbw) | 2:31 | 2023-05-16 | 2023-07-18 |
 | [Cố Nhân](https://open.spotify.com/track/3fUayLf8MtjUMVqIpHEcQu) | [Bác Sĩ Mập Hồng](https://open.spotify.com/artist/6lxuuRNFzWsvUfKTcGnMCc) | [Cố Nhân](https://open.spotify.com/album/7FvmYXbMPQ0seJB7fKCBLj) | 3:57 | 2023-08-01 | 2023-12-30 |
@@ -854,6 +854,7 @@
 | [Mắt Mơ Màng](https://open.spotify.com/track/6xPI3LGKGCCjZnuQsFRWh3) | [Leo.1](https://open.spotify.com/artist/22Mtl6ngzJFggCu9WuXsLp) | [Mắt Mơ Màng](https://open.spotify.com/album/7zJj1BjYB7FkEaXArzx145) | 3:00 | 2023-12-28 | 2024-03-01 |
 | [Mắt Nhắm Môi Chạm Môi](https://open.spotify.com/track/1mbwFqd06Hr0bYKg4Q8pHT) | [Bình Lee](https://open.spotify.com/artist/2fws14OlBIRWL3CPLeVFH9) | [Mắt Nhắm Môi Chạm Môi](https://open.spotify.com/album/7blZFu1nAtOyteOykqTAqa) | 2:48 | 2022-05-15 | 2022-05-17 |
 | [Mặt Mộc](https://open.spotify.com/track/3dvkpe9FEekxxgaQtxOHQI) | [Phạm Nguyên Ngọc](https://open.spotify.com/artist/2Xlia1jlI7JDki4Xa42uyK), [VAnh](https://open.spotify.com/artist/4QC9UUJeYEo4wnbTvuOHLo), [Ân Nhi](https://open.spotify.com/artist/7zwJ09FAPbh7EJYvwEAqDD), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Mặt Mộc](https://open.spotify.com/album/5Af8YESOWf6nK6BcLh3hkA) | 3:34 | 2022-08-11 | 2023-01-06 |
+| [Mặt Nạ Của Em](https://open.spotify.com/track/24mpIf2LSG0lYTyMeru8VG) | [ICM](https://open.spotify.com/artist/6kuERXgoQuYGDs0onogMvZ), [Thoại Nghi](https://open.spotify.com/artist/0RKO9apqLv21yxEPU8v3NT) | [Mặt Nạ Của Em](https://open.spotify.com/album/07YryEuGUR29qGnoJIKAMj) | 3:06 | 2024-04-11 |  |
 | [Mộng Tình Phai](https://open.spotify.com/track/1DLr4bYFRv5Ct4PBQWzWAp) | [Phát Hồ](https://open.spotify.com/artist/1Y6nNqZKrsUSLnG5jwXVJv) | [Mộng Tình Phai](https://open.spotify.com/album/4EUj7mhiObOOxMLxjuVtB5) | 4:03 | 2023-04-07 | 2023-04-14 |
 | [Một Bài Hát Cho Anh](https://open.spotify.com/track/4w3RO9wrlL7xGqZCoAt4Oh) | [Trường Anh](https://open.spotify.com/artist/43EaFqebBqXuX8XBScWVkg), [Mia Tran](https://open.spotify.com/artist/7Me0lNSh4B58YMJB966W06) | [Một Bài Hát Cho Anh](https://open.spotify.com/album/2bIGQ7vO4tqkvLJlEwHGxf) | 4:45 | 2022-05-27 | 2022-07-15 |
 | [Một Bước Lên Mây](https://open.spotify.com/track/08BC9KTqnaNtFwZj1BTXPp) | [Trần Huyền Diệp](https://open.spotify.com/artist/3zvzgWoHqBx9qz3n4Bvi9F), [Shenlongz](https://open.spotify.com/artist/2XrvO36l8AT6Ua7F86uUxd) | [Một Bước Lên Mây](https://open.spotify.com/album/3InDXEKOqmTBoItNgwZmbZ) | 2:51 | 2023-05-01 | 2023-05-17 |

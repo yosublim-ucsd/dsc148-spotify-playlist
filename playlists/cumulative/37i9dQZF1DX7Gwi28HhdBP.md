@@ -2,9 +2,9 @@
 
 ### [شعبي مصري](https://open.spotify.com/playlist/37i9dQZF1DX7Gwi28HhdBP)
 
-> أفضل الأغاني الشعبية من قلب مصر! غلاف:<a href="https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52?si=v7EAopWETMqME3LXKcLsdw">  مصطفى حجاج </a>
+> أفضل الأغاني الشعبية من قلب مصر! غلاف:<a href="https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM?si=BAGxzWLhTSGNNpZ3FoAIug">  رضا البحراوي </a>
 
-253 songs - 18 hr 39 min
+255 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Allah Yesamhak](https://open.spotify.com/track/1lgiikqSik6rMhFp115ilC) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Allah Yesamhak](https://open.spotify.com/album/7AUjIpQmu8YfU9635Db5Rp) | 4:51 | 2021-12-16 | 2022-07-29 |
 | [Am Ya Sayyad](https://open.spotify.com/track/2sOg3LnhEYvlEw55TYmif8) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Hareea](https://open.spotify.com/album/2tRSG1MIGCH9vgHxfaJxs9) | 4:33 | 2022-07-14 | 2023-02-08 |
 | [Am Ya Sayyad](https://open.spotify.com/track/3q1TWyi5VzCqemyfEyC24Q) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Am Ya Sayyad](https://open.spotify.com/album/1rYMhT7sqQg3ZsgQysjoou) | 4:33 | 2021-12-16 | 2022-07-29 |
-| [Ammal Tqoul Ana W Ana \(Ana El Hadota\)](https://open.spotify.com/track/7CSHoZLRbZNdWXgDfjNTF1) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Ammal Tqoul Ana W Ana \(Ana El Hadota\)](https://open.spotify.com/album/0IP0IYOCbbIeelfyFfBRWl) | 3:22 | 2023-12-21 |  |
+| [Ammal Tqoul Ana W Ana \(Ana El Hadota\)](https://open.spotify.com/track/7CSHoZLRbZNdWXgDfjNTF1) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Ammal Tqoul Ana W Ana \(Ana El Hadota\)](https://open.spotify.com/album/0IP0IYOCbbIeelfyFfBRWl) | 3:22 | 2023-12-21 | 2024-04-12 |
 | [Ana Aini Menek](https://open.spotify.com/track/1he9pFOz2a761Iv5wFWJhN) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Dar El Zaman](https://open.spotify.com/album/7JS8HfLlM0lgoQdrxz5lgs) | 4:55 | 2022-07-14 | 2023-05-12 |
 | [Ana Einy Menak](https://open.spotify.com/track/5D1wyjBjlQUoGpTavblAlT) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Dar El Zaman](https://open.spotify.com/album/2GzE90DcGrBHcj7EjQps0w) | 4:55 | 2021-12-16 | 2022-07-27 |
 | [Ana El Donia](https://open.spotify.com/track/4kuvuv1J57AcF8H8yZIAl1) | [Bosy](https://open.spotify.com/artist/3wREoMa2oI5qs6NsmQcsKb) | [Ana El Donia](https://open.spotify.com/album/6Hm8ASZAiQae1R3WsMCofc) | 4:24 | 2021-12-16 | 2023-09-02 |
@@ -98,7 +98,7 @@
 | [Hayfout Alek](https://open.spotify.com/track/7hRVdE7Ta0wNiYHIySnUOZ) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Hayfout Alek](https://open.spotify.com/album/6SQj9WllIr9VpJdx4umi6u) | 4:12 | 2021-12-16 | 2023-11-24 |
 | [Hob Meen](https://open.spotify.com/track/5pz9YaGFn6iV84WC8Xo4Jw) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Hob Meen](https://open.spotify.com/album/5e5OLpxaXSoDHsRTDjdUZw) | 3:41 | 2022-07-01 | 2023-03-30 |
 | [Hob Meen](https://open.spotify.com/track/7gu14Vuorsw57sz5tHeG57) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Ya Bay](https://open.spotify.com/album/0p4kpGpxg5vjnvMX7ndZGp) | 3:41 | 2023-02-16 | 2023-09-02 |
-| [Ka3by 3aly](https://open.spotify.com/track/5tTt5pPpFdOpD5Gt7NoeXq) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Ka3by 3aly](https://open.spotify.com/album/7CYpwnb7rCR0f7qFug771Y) | 3:25 | 2023-06-15 |  |
+| [Ka3by 3aly](https://open.spotify.com/track/5tTt5pPpFdOpD5Gt7NoeXq) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Ka3by 3aly](https://open.spotify.com/album/7CYpwnb7rCR0f7qFug771Y) | 3:25 | 2023-06-15 | 2024-04-12 |
 | [Kan Men Nesak](https://open.spotify.com/track/4SHJ4l3zvzk6dVq4KumFuI) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Mahmoud Ellithy's Songs](https://open.spotify.com/album/4pCg7FV1hI503OwG7YSMyK) | 4:57 | 2021-12-16 | 2022-07-28 |
 | [Ketab Hayaty](https://open.spotify.com/track/4SlWoiEKOBzolCg2CP2Alx) | [Hassan El Asmar](https://open.spotify.com/artist/2V9eL6H3ZeeLRKYud48vax) | [Mesh Hasebak](https://open.spotify.com/album/5VZqJeaS9npyDjJrGdkPnV) | 5:48 | 2021-12-16 |  |
 | [Kol Youm](https://open.spotify.com/track/3iWRuqeYt3ezyPOSdVo9Hz) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Kol Youm](https://open.spotify.com/album/425JKkR2C6PwmFgeriOlwm) | 3:25 | 2021-12-16 |  |
@@ -116,6 +116,7 @@
 | [Mesaytara](https://open.spotify.com/track/0m9PqpTXUZl1ZFWIdciLXS) | [Hanin Al Kassir](https://open.spotify.com/artist/1V6625kc5Sv1ImXI1iltW2) | [Mesaytara](https://open.spotify.com/album/7qeGAJr2N5GL0MGzlaipIK) | 2:50 | 2021-12-16 | 2023-04-01 |
 | [Mesaytara](https://open.spotify.com/track/4E5kAvLvcq2N3BE8qAcSkL) | [Hanin Al Kassir](https://open.spotify.com/artist/1V6625kc5Sv1ImXI1iltW2) | [Mesaytara](https://open.spotify.com/album/7KkImA31LU2wBR8kAFaoBz) | 2:50 | 2023-02-16 | 2023-06-23 |
 | [Mganenany](https://open.spotify.com/track/4BdczslzGIu6MPYQzkCa2X) | [Hassan El Kholaey](https://open.spotify.com/artist/66cgnb4zHHH8LKIF2Ukyv0) | [Mganenany](https://open.spotify.com/album/43CnQIq5C5ToUNDwrwNlVt) | 4:39 | 2021-12-16 | 2023-05-12 |
+| [Nas Khasisa](https://open.spotify.com/track/4Sjb9HcCQKqvt079Mi9PRD) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Nas Khasisa](https://open.spotify.com/album/3IX8ZyWax1OABq7c6FG3kt) | 3:51 | 2024-04-11 |  |
 | [Oul Allah](https://open.spotify.com/track/2bJQO2SegQFc8fOpFhizlc) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Oul Allah](https://open.spotify.com/album/5sOCIhikdDVOPNrVBibxcF) | 3:25 | 2022-07-14 | 2022-12-21 |
 | [Ramo Tobty](https://open.spotify.com/track/1fMfO3xpg1OGfmNBXow57n) | [Mostafa Shawky](https://open.spotify.com/artist/69HsaYqqbiG8d3LxNdlvM7) | [Ramo Tobty](https://open.spotify.com/album/0CKqgpYnHAetUCjrn74BvQ) | 2:41 | 2023-06-22 | 2023-07-12 |
 | [Resala](https://open.spotify.com/track/522j2fXo5LMHuEMTw67aaF) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Resala](https://open.spotify.com/album/72j6bXgAo4YFlgNM376Ukn) | 4:08 | 2021-12-16 | 2022-07-29 |
@@ -128,7 +129,7 @@
 | [Segara Bonny](https://open.spotify.com/track/6akfrRhAakyPUzmc2YtbIq) | [Mahmoud El Hoseny](https://open.spotify.com/artist/52WZ9XbIIFLTKzL4PWAqBa) | [Segara Bonny](https://open.spotify.com/album/35Rcv9EjpOi3bQ6h91b08N) | 6:47 | 2021-12-30 | 2023-07-12 |
 | [Shecolata](https://open.spotify.com/track/2fd6l0ZnzcoxAkA8e8URtS) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Shecolata](https://open.spotify.com/album/36hOxzWm2uNQzLZrkLMidl) | 2:41 | 2021-12-16 | 2022-07-29 |
 | [Shed Helak](https://open.spotify.com/track/3t8njPwPoFpOHKe4Lja4qp) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Shed Helak](https://open.spotify.com/album/3z0FBFJFUUyxlcVYUaBcGC) | 2:13 | 2022-11-24 | 2023-05-13 |
-| [Shyaf Nafsk](https://open.spotify.com/track/3a7QA108PHmYTGzaQvorSg) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Shyaf Nafsk](https://open.spotify.com/album/79KTwmLoafLHSbn37XOQKd) | 3:56 | 2024-02-29 |  |
+| [Shyaf Nafsk](https://open.spotify.com/track/3a7QA108PHmYTGzaQvorSg) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Shyaf Nafsk](https://open.spotify.com/album/79KTwmLoafLHSbn37XOQKd) | 3:56 | 2024-02-29 | 2024-04-12 |
 | [Sohab Fashosh](https://open.spotify.com/track/6est6D0K9z0XDcrLYNWF7k) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Sohab Fashosh](https://open.spotify.com/album/45MjD1llZDYUhlcVEw5Yw4) | 3:36 | 2021-12-16 | 2022-12-21 |
 | [Taalan Aleina](https://open.spotify.com/track/0bIdj84kcikKQMjltR9Hbc) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Taalan Aleina](https://open.spotify.com/album/4qNBlXf4jgPTD9xLpx3EuG) | 4:02 | 2021-12-16 | 2022-07-29 |
 | [Tal2a](https://open.spotify.com/track/3h8gRGUJMqHH5YLodXPTgW) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Tal2a](https://open.spotify.com/album/3XxYC8L0nLwcgbtT5GYAB2) | 3:51 | 2021-12-16 |  |
@@ -152,6 +153,7 @@
 | [Yoom El Ghorba](https://open.spotify.com/track/2oXlQeY8OSZcbPSaIzL1rC) | [Hamdy Batshan](https://open.spotify.com/artist/7lRa9SS2F03TMvpRbT44cX), [Ahmed Hamama](https://open.spotify.com/artist/6tBsU69wBs1rLXpHtX1NB1) | [Yoom El Ghorba](https://open.spotify.com/album/6efDLOYNt1jx38q1WBfVef) | 3:20 | 2024-03-29 |  |
 | [Zahma](https://open.spotify.com/track/6hahb2CyhzOxgqKVBRbmjw) | [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5) | [Zahma](https://open.spotify.com/album/57ufRngDYryV07UJnTxPpR) | 9:27 | 2021-12-16 | 2023-05-12 |
 | [Zelzal](https://open.spotify.com/track/0NIPlnoBzm52xIDkdkHX5M) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Zelzal](https://open.spotify.com/album/3T7Yt8u7VfO1E6wlsoJCpy) | 4:18 | 2021-12-16 | 2023-05-13 |
+| [آخرة طريقى دا إيه ؟ \- من مسلسل كوبرا](https://open.spotify.com/track/4k3ygO9jqERGUnHB5UnOtG) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [آخرة طريقى دا إيه ؟ \(من مسلسل كوبرا\)](https://open.spotify.com/album/3Qgdwj8TYUrv0ksxVsn6KN) | 2:29 | 2024-04-11 |  |
 | [أبويا قالي زمان](https://open.spotify.com/track/4VuheYb2mYov1QsFM5eIxi) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52), [رضا البحراوي](https://open.spotify.com/artist/4VGgaeJRefrtn1Ymrn0zRg) | [أبويا قالي زمان](https://open.spotify.com/album/7igxcRyRLCuujN4JfJsNlx) | 3:46 | 2022-07-14 |  |
 | [أبويا قالي زمان](https://open.spotify.com/track/6MdDjqdi61JRdW7ZhmsZIp) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52), [رضا البحراوي](https://open.spotify.com/artist/4VGgaeJRefrtn1Ymrn0zRg) | [أبويا قالي زمان](https://open.spotify.com/album/59iv1aUX6P1xLgzBlJfJcg) | 3:46 | 2021-12-16 | 2022-07-28 |
 | [أخوك يشرف بلد \- من فيلم حمص وحلاوة](https://open.spotify.com/track/6WcQ9rUbuDhFGAr7vYzlIJ) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [أخوك يشرف بلد \(من فيلم حمص وحلاوة\)](https://open.spotify.com/album/4XFxQG7aF7Z0zALVa3Ee0P) | 6:02 | 2023-12-14 | 2023-12-30 |

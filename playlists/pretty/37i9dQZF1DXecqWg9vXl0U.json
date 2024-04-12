@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring ke onda. Joaquina Mertz en portada.",
-  "num_followers": 48691,
+  "num_followers": 48706,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2FiMzE0ZTk1ZTBmOWQ5YTcwZmVmN2I5OGI3MzcxMTU3ZjY3YzUw",
+  "snapshot_id": "MTcxMjMzMDcxNSwwMDAwMDAwMGJlMmY5YmI1ODQ1NDE2NjdlNWVlZTE4NjM2NDE5NDA2",
   "tracks": [
     {
       "added_at": "2024-04-05 15:25:15",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
+        "name": "la danza de las brujas",
+        "url": "https://open.spotify.com/album/5G9dSXTq6rvS4J5DSyRtS1"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "duration_ms": 255978,
+      "name": "la danza de las brujas",
+      "url": "https://open.spotify.com/track/0WVwnORcbVnUvE0ZenLa1i"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
         "name": "Es Mi Fiesta Y Si Quiero Hago Un EP",
         "url": "https://open.spotify.com/album/1eDAIIm6ZE4FzNSjirEtkt"
       },
@@ -943,6 +959,22 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
+        "name": "A Veces",
+        "url": "https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ"
+      },
+      "artists": [
+        {
+          "name": "MOSBI",
+          "url": "https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef"
+        }
+      ],
+      "duration_ms": 239965,
+      "name": "A Veces",
+      "url": "https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
         "name": "Prendas Nuevas",
         "url": "https://open.spotify.com/album/0dRuyWtNthFiwfM054JJ10"
       },
@@ -959,38 +991,6 @@
       "duration_ms": 157714,
       "name": "Prendas Nuevas",
       "url": "https://open.spotify.com/track/39e0dif18KfsiW3XI7CLlN"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
-        "name": "la danza de las brujas",
-        "url": "https://open.spotify.com/album/5G9dSXTq6rvS4J5DSyRtS1"
-      },
-      "artists": [
-        {
-          "name": "te vi en un planetario",
-          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
-        }
-      ],
-      "duration_ms": 255978,
-      "name": "la danza de las brujas",
-      "url": "https://open.spotify.com/track/0WVwnORcbVnUvE0ZenLa1i"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
-        "name": "A Veces",
-        "url": "https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ"
-      },
-      "artists": [
-        {
-          "name": "MOSBI",
-          "url": "https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef"
-        }
-      ],
-      "duration_ms": 239965,
-      "name": "A Veces",
-      "url": "https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V"
     },
     {
       "added_at": "2023-09-26 17:16:04",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-09-26 17:16:04",
       "album": {
-        "name": "VCR",
-        "url": "https://open.spotify.com/album/0EXmhh4KMPZ47A9nS6iIyb"
-      },
-      "artists": [
-        {
-          "name": "Atomic Rose",
-          "url": "https://open.spotify.com/artist/5FA4L7WoQmYt2OzskRBaoI"
-        }
-      ],
-      "duration_ms": 215974,
-      "name": "VCR",
-      "url": "https://open.spotify.com/track/0NUjrv78ONAHIfL4GKkxE5"
-    },
-    {
-      "added_at": "2023-09-26 17:16:04",
-      "album": {
         "name": "Pens\u00e1ndote",
         "url": "https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 147300,
       "name": "Pens\u00e1ndote",
       "url": "https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX"
+    },
+    {
+      "added_at": "2023-09-26 17:16:04",
+      "album": {
+        "name": "VCR",
+        "url": "https://open.spotify.com/album/0EXmhh4KMPZ47A9nS6iIyb"
+      },
+      "artists": [
+        {
+          "name": "Atomic Rose",
+          "url": "https://open.spotify.com/artist/5FA4L7WoQmYt2OzskRBaoI"
+        }
+      ],
+      "duration_ms": 215974,
+      "name": "VCR",
+      "url": "https://open.spotify.com/track/0NUjrv78ONAHIfL4GKkxE5"
     }
   ],
   "unique_name": "\u2728 dreamy \u2728",

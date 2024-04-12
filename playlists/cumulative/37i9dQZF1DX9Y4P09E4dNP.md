@@ -2,9 +2,9 @@
 
 ### [Hip\-Life Hits](https://open.spotify.com/playlist/37i9dQZF1DX9Y4P09E4dNP)
 
-> The big Hip\-Life hits rn\. Cover: King Promise
+> The big Hip\-Life hits rn\. Cover: Mr Drew
 
-174 songs - 12 hr 17 min
+176 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Abrantee](https://open.spotify.com/track/4cZvoz7mHBLAc42FBVya0i) | [Okomfour Kwadee](https://open.spotify.com/artist/4ELqSlk9d15aZFqVzXfSjm) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:01 | 2020-02-20 | 2022-07-29 |
 | [Abrantee](https://open.spotify.com/track/2DnXj8yPJYcLhjPM4kHD4q) | [Okomfour Kwadee](https://open.spotify.com/artist/4ELqSlk9d15aZFqVzXfSjm) | [Abro Ne Bayie](https://open.spotify.com/album/5sxiyctzYIonIhjbXsOzh0) | 5:01 | 2020-02-20 | 2024-03-05 |
 | [Abuskeleke](https://open.spotify.com/track/2iywIMWIJIEH5kCKpP9Zdf) | [Sidney](https://open.spotify.com/artist/50HoBlg3tXmqwF0w4cZVmD) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:24 | 2020-02-20 | 2022-03-18 |
+| [Adom](https://open.spotify.com/track/7riYHpL21B6InKKSmpZwBz) | [KRYMI](https://open.spotify.com/artist/34wXzU4pMFOuQejyLtMWjO) | [Adom](https://open.spotify.com/album/7MoGcLsJi4tM5Ik6Re2WSE) | 3:44 | 2024-04-12 |  |
 | [Ahomka Wo Mu](https://open.spotify.com/track/4s5OFaXyadqE9uTaNYTKQw) | [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4), [Tic Tac,Frank Mensah,2\-Tee,Lil Kryz,Abortion](https://open.spotify.com/artist/373YE3CDdFni3txqURZTch) | [Ahomka Womu](https://open.spotify.com/album/0ZLnF0wKad2yVZl2EjOnpG) | 5:27 | 2020-02-20 | 2024-03-05 |
 | [Ahomka Womu](https://open.spotify.com/track/64QtNm7SM1TwKZ3iINW6Be) | [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:30 | 2020-02-20 | 2022-07-28 |
 | [Aketesia](https://open.spotify.com/track/6D4DkmGGCliXAlqsZVgRkA) | [Kontihene](https://open.spotify.com/artist/0uKjsrSxXWqfWF2mFyehs7) | [Nyankonton](https://open.spotify.com/album/3Nu5sSuQWQX7QcZ80GD7vc) | 5:11 | 2020-02-20 | 2024-03-05 |
@@ -121,7 +122,7 @@
 | [Odo Fitaa](https://open.spotify.com/track/2f41EXoInEGcnHUg78ka6u) | [4x4](https://open.spotify.com/artist/15YwTNQbCiTuFOK62K7Wgu) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:45 | 2020-02-20 | 2022-07-29 |
 | [Odo Fitaa](https://open.spotify.com/track/77qXIS8MoYj6AYraubuqlI) | [4x4](https://open.spotify.com/artist/15YwTNQbCiTuFOK62K7Wgu), [Jay Q](https://open.spotify.com/artist/0K69W66TFOOelRh31Xsqvi) | [Jama & Hiplife King](https://open.spotify.com/album/424YWer18KllyHifFrNYSq) | 5:40 | 2020-02-20 | 2024-03-05 |
 | [Ofie Nipa](https://open.spotify.com/track/5NahRnfX0SvMD1axzzVQsk) | [Okomfour Kwadee](https://open.spotify.com/artist/4ELqSlk9d15aZFqVzXfSjm) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:38 | 2020-02-20 | 2022-03-18 |
-| [OH NO](https://open.spotify.com/track/2VhFflRmXimh8NNpD9jFgR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [OH NO](https://open.spotify.com/album/0s7eJWEUJSSiO2963hcQRd) | 2:33 | 2024-03-04 |  |
+| [OH NO](https://open.spotify.com/track/2VhFflRmXimh8NNpD9jFgR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [OH NO](https://open.spotify.com/album/0s7eJWEUJSSiO2963hcQRd) | 2:33 | 2024-03-04 | 2024-04-12 |
 | [Ohemaa](https://open.spotify.com/track/1u2K82uk2yeeWhYUieIa5b) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ), [Lord Paper](https://open.spotify.com/artist/0PYZYiwCRGI69v56iyfzgb) | [Ohemaa](https://open.spotify.com/album/6GSPOyYbPYTkR74gQMPus0) | 3:33 | 2023-02-10 | 2023-06-27 |
 | [Only You](https://open.spotify.com/track/6cYUGGEDcAouyCx8LJk8SG) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Only You](https://open.spotify.com/album/5zj0HDCApqZ7ZSVwJxzD7T) | 2:54 | 2024-03-04 |  |
 | [Oofeets](https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [Oofeets](https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y) | 3:46 | 2024-03-04 |  |
@@ -145,8 +146,9 @@
 | [SIMMER DOWN](https://open.spotify.com/track/58PIq4XvTG4bR3IJbE6yX5) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Take Care of Yourself Blacko](https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg) | 2:58 | 2024-03-04 |  |
 | [Single](https://open.spotify.com/track/3T70nVbfPr7o6l6Pae1p47) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:47 | 2024-03-04 |  |
 | [Slay Queen](https://open.spotify.com/track/58hvxoqFo5vDqR5NmvORsh) | [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf) | [Slay Queen](https://open.spotify.com/album/5K2X26PtyTCUZmmfzIaZI2) | 3:34 | 2024-03-29 |  |
+| [Sneaky](https://open.spotify.com/track/6m71O5AaaMUJoqbIGfnILk) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Sneaky](https://open.spotify.com/album/4AaZnGqzpA2o47uXxrHt0o) | 2:46 | 2024-04-12 |  |
 | [Sober \(Soo Bad\)](https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Sober \(Soo Bad\)](https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU) | 3:40 | 2024-03-29 |  |
-| [Soja](https://open.spotify.com/track/0rkpKiWmsAs2VApWKJQRuY) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 3:01 | 2024-03-04 |  |
+| [Soja](https://open.spotify.com/track/0rkpKiWmsAs2VApWKJQRuY) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 3:01 | 2024-03-04 | 2024-04-12 |
 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 | 2024-03-04 |  |
 | [Sradenam](https://open.spotify.com/track/4FjJYmgk0KGQNrOfSR1cqM) | [Castro](https://open.spotify.com/artist/5hACxwOyI5SiMCONu6KS4L) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 6:20 | 2020-02-20 | 2022-07-28 |
 | [Sradenam](https://open.spotify.com/track/4u2XhLgP9zISNfkhhKNOKC) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e) | [Sradenam](https://open.spotify.com/album/4OrVucfAwfKvIdCL6U8Qlj) | 6:20 | 2020-02-20 | 2024-03-05 |

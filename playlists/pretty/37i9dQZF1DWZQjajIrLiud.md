@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQjajIrLiud.md) - [plain]
 
 > Songs to enjoy while cooking.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,895 likes - 40 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,900 likes - 40 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQjajIrLiud.md) - [plain]
 | 39 | [حفرة \(مع أبيوسف\)](https://open.spotify.com/track/0PALOEtgrC1qil1iTjiFYZ) | [Hala](https://open.spotify.com/artist/30cNtjePd99qoDYYbjHG4k), [أبيوسف](https://open.spotify.com/artist/32nrhle1blySznEmk9OxMG) | [قلبي فين](https://open.spotify.com/album/5hkMZttd8VOaYjT9tKqzls) | 3:35 |
 | 40 | [Shofy 7aly](https://open.spotify.com/track/72tpH2QKc9DKSoP6VGzg14) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Shofy 7aly](https://open.spotify.com/album/0tp51eWdqHRg5xlW9QUFfO) | 3:32 |
 
-Snapshot ID: `MCxmNmM0NzVlZmNmNjJmMGZjNDgwOGM3YmY4MTdkYjliZmVhMWRjYTJl`
+Snapshot ID: `MTcwNTQ4MzU0MSwwMDAwMDAwMDg2YTYyM2RmMGUxMmRhNjE1ZDY3YTJhMTRjOTlkMmI4`

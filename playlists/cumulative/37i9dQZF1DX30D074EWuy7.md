@@ -2,7 +2,7 @@
 
 ### [Jazz Italia](https://open.spotify.com/playlist/37i9dQZF1DX30D074EWuy7)
 
-> La playlist del jazz italiano, passato e presente\. Cover: 72\-HOUR POST\-FIGHT
+> La playlist del jazz italiano, passato e presente\. Cover: Paolo Fresu
 
 467 songs - 1 day 11 hr 16 min
 

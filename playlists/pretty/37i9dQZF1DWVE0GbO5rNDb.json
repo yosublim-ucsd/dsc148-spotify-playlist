@@ -1,12 +1,12 @@
 {
   "description": "Hit dance per l'estate 2024, anche in primavera \ud83d\udc40",
-  "num_followers": 102898,
+  "num_followers": 102922,
   "original_name": "Estate Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWRjODllNmY5NWM3MDMxZjM3MDc4OTQ4YzcyODY5N2FlODFlYmVi",
+  "snapshot_id": "MTcxMjMwNzI0MiwwMDAwMDAwMDRkYzgwYTlmMmY0Mjk5OTZiZmY5YmNkZGEzNTM0YjU4",
   "tracks": [
     {
       "added_at": "2024-04-05 08:54:02",
@@ -419,26 +419,6 @@
     {
       "added_at": "2024-04-05 08:54:02",
       "album": {
-        "name": "Head & Heart (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 166028,
-      "name": "Head & Heart (feat. MNEK)",
-      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
-    },
-    {
-      "added_at": "2024-04-05 08:54:02",
-      "album": {
         "name": "Rock My Body (with INNA & Sash!)",
         "url": "https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 137419,
       "name": "Rock My Body",
       "url": "https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU"
+    },
+    {
+      "added_at": "2024-04-05 08:54:02",
+      "album": {
+        "name": "Head & Heart (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 166028,
+      "name": "Head & Heart (feat. MNEK)",
+      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
     },
     {
       "added_at": "2024-04-05 08:54:02",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-04-05 08:54:02",
       "album": {
+        "name": "Won't Forget You",
+        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "duration_ms": 230945,
+      "name": "Won't Forget You (Edit)",
+      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
+    },
+    {
+      "added_at": "2024-04-05 08:54:02",
+      "album": {
         "name": "Marea (we\u2019ve lost dancing)",
         "url": "https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 285375,
       "name": "Marea (we\u2019ve lost dancing)",
       "url": "https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR"
-    },
-    {
-      "added_at": "2024-04-05 08:54:02",
-      "album": {
-        "name": "Won't Forget You",
-        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 230945,
-      "name": "Won't Forget You (Edit)",
-      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
     },
     {
       "added_at": "2024-04-05 08:54:02",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-04-05 08:54:02",
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 193018,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf"
+    },
+    {
+      "added_at": "2024-04-05 08:54:02",
+      "album": {
         "name": "Better (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 182462,
       "name": "Better (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna"
-    },
-    {
-      "added_at": "2024-04-05 08:54:02",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 193018,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf"
     },
     {
       "added_at": "2024-04-05 08:54:02",
@@ -1539,6 +1539,26 @@
     {
       "added_at": "2024-04-05 08:54:02",
       "album": {
+        "name": "Drive ft. KIDDO",
+        "url": "https://open.spotify.com/album/10qvBn2MB8C4qGdj2aSymU"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        }
+      ],
+      "duration_ms": 139725,
+      "name": "Drive ft. KIDDO",
+      "url": "https://open.spotify.com/track/0fxSVlXdxb5aCzbVyGvx0D"
+    },
+    {
+      "added_at": "2024-04-05 08:54:02",
+      "album": {
         "name": "Pink",
         "url": "https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL"
       },
@@ -1615,22 +1635,22 @@
     {
       "added_at": "2024-04-05 08:54:02",
       "album": {
-        "name": "Drive ft. KIDDO",
-        "url": "https://open.spotify.com/album/10qvBn2MB8C4qGdj2aSymU"
+        "name": "ONE",
+        "url": "https://open.spotify.com/album/5Z7s0szSd5N5sMh1Zyq81Y"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "MIKOLAS",
+          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
         },
         {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+          "name": "Mark Neve",
+          "url": "https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH"
         }
       ],
-      "duration_ms": 139725,
-      "name": "Drive ft. KIDDO",
-      "url": "https://open.spotify.com/track/0fxSVlXdxb5aCzbVyGvx0D"
+      "duration_ms": 141027,
+      "name": "DELILAH",
+      "url": "https://open.spotify.com/track/1dGjNaPbx96cRZ22BBGcAU"
     },
     {
       "added_at": "2024-04-05 08:54:02",
@@ -1651,26 +1671,6 @@
       "duration_ms": 159840,
       "name": "Hit 'Em Up Style (Oops!)",
       "url": "https://open.spotify.com/track/6s2vYgLML3ClOtlJhYyYKR"
-    },
-    {
-      "added_at": "2024-04-05 08:54:02",
-      "album": {
-        "name": "ONE",
-        "url": "https://open.spotify.com/album/5Z7s0szSd5N5sMh1Zyq81Y"
-      },
-      "artists": [
-        {
-          "name": "MIKOLAS",
-          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
-        },
-        {
-          "name": "Mark Neve",
-          "url": "https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH"
-        }
-      ],
-      "duration_ms": 141027,
-      "name": "DELILAH",
-      "url": "https://open.spotify.com/track/1dGjNaPbx96cRZ22BBGcAU"
     },
     {
       "added_at": "2024-04-05 08:54:02",

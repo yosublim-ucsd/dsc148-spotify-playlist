@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,447 songs - 3 day 3 hr 17 min
+1,448 songs - 3 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,7 +636,7 @@
 | [Ibiza Stories](https://open.spotify.com/track/4YU0biJZXmOT2dWLyiTt5O) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Ibiza Stories](https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP) | 3:41 | 2022-01-29 | 2022-02-13 |
 | [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:20 | 2023-10-07 | 2023-10-22 |
 | [Iedereen Laag](https://open.spotify.com/track/294r1XW4SvpgjwYonUE7WT) | [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Iedereen Laag](https://open.spotify.com/album/5Yq7amyflQn5UoV4lGxaX5) | 2:29 | 2022-05-10 | 2022-05-15 |
-| [II MOST WANTED](https://open.spotify.com/track/6zuPQl2RVqQ4y5nAH61CFC) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [COWBOY CARTER](https://open.spotify.com/album/2m1enA3YrMLVvR3q0MqLpL) | 3:28 | 2024-03-30 |  |
+| [II MOST WANTED](https://open.spotify.com/track/6zuPQl2RVqQ4y5nAH61CFC) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [COWBOY CARTER](https://open.spotify.com/album/2m1enA3YrMLVvR3q0MqLpL) | 3:28 | 2024-03-30 | 2024-04-12 |
 | [IJskoud](https://open.spotify.com/track/6l9p0MB8Hzf9kdaoogyvT2) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [LIJPE](https://open.spotify.com/album/3eULQQ3G5JagLpMYx5VHCH) | 3:34 | 2022-12-03 | 2022-12-10 |
 | [Ik Ben Kachel](https://open.spotify.com/track/0rEuuYpZ2yWU6ppTJpe9wT) | [OBZ](https://open.spotify.com/artist/7pfmlAOn0pAPxoReDorkxA) | [Ik Ben Kachel](https://open.spotify.com/album/3ygyqKtepTq08YA0SGPAgr) | 3:27 | 2022-06-26 | 2022-07-06 |
 | [Ik Ga Zwemmen](https://open.spotify.com/track/6u5qi5Va5afHWJ18fHjJyi) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Ik Ga Zwemmen](https://open.spotify.com/album/3EjQWN7jICXAxg5iL0ob7j) | 2:59 | 2021-08-02 | 2022-07-05 |
@@ -998,6 +998,7 @@
 | [Paranoia](https://open.spotify.com/track/38ycAp1o4xHeWpjFfuP9VG) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Paranoia](https://open.spotify.com/album/4y54ZrfYqpAlR8xLHucC5b) | 3:10 | 2021-08-22 | 2021-09-13 |
 | [Parasol](https://open.spotify.com/track/2l9xth8jNSwVipbobNZV4e) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Grote Versnelling](https://open.spotify.com/album/6U2JgdmQQ7QWQgGOksaRof) | 2:52 | 2021-09-19 | 2021-09-20 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2021-08-15 |
+| [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-04-11 |  |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-01-12 | 2023-10-08 |
 | [People \(feat\. Cian Ducrot\)](https://open.spotify.com/track/0SCOKZU2gpsrvLa4T1VStt) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [People \(Remixes\)](https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G) | 3:04 | 2023-05-14 | 2023-09-10 |
 | [Pepas](https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 4:47 | 2021-10-03 | 2022-06-21 |

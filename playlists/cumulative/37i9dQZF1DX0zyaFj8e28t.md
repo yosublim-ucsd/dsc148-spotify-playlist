@@ -2,7 +2,7 @@
 
 ### [Hits Français 80](https://open.spotify.com/playlist/37i9dQZF1DX0zyaFj8e28t)
 
-> Les plus grands tubes français des années 80\. Photo : Jean\-Jacques Goldman
+> Les plus grands tubes français des années 80\. Photo : France Gall
 
 54 songs - 3 hr 48 min
 

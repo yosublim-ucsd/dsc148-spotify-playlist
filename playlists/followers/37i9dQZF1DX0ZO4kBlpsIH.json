@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 309704,
+  "2024-04-12": 309923,
   "date_first_scraped": "2022-05-01",
   "description": "A taste of French caf\u00e9 culture; the charming sounds of the Parisian streets.",
   "name": "Caf\u00e9 de Paris",
@@ -2687,6 +2687,24 @@
       "duration_ms": 123186,
       "name": "Petite Chanson de l'amour",
       "url": "https://open.spotify.com/track/03CoelVFp9OYFb9MXZjkDd"
+    },
+    {
+      "album": {
+        "name": "Petite Fleur",
+        "url": "https://open.spotify.com/album/4pqTRwa2Yscsk07QH7gCTA"
+      },
+      "artists": [
+        {
+          "name": "Trio Musette",
+          "url": "https://open.spotify.com/artist/2ePIFH8jgBe6Cqe2uc8s6A"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Petite Fleur",
+      "url": "https://open.spotify.com/track/6KbZgjkegPtz3KSQTGqK9o"
     },
     {
       "album": {

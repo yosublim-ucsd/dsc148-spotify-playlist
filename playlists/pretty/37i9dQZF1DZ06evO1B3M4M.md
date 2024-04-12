@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 
 > This is James Newton Howard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,262 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,268 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 | 21 | [Vespertilio](https://open.spotify.com/track/5s1vSkSpX2N9VqMkt0uWls) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Batman Begins \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5djDvf7OozECsKzEB04uYg) | 2:52 |
 | 22 | [Healing Katniss](https://open.spotify.com/track/6ks7BlSGVDpvg8aizTOil2) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Original Motion Picture Score](https://open.spotify.com/album/5tF7RSw6Zke0WY4fPf6LR9) | 3:04 |
 | 23 | [I'm Expecting Someone](https://open.spotify.com/track/41ckIX2CdahZo5iqQvO1Qo) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Secrets of Dumbledore \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0wmxJxhdGo9awyHiM1jRtP) | 2:14 |
-| 24 | [Aurora in Faerieland](https://open.spotify.com/track/3G4oEYQPiRQE5O4ahs7OC8) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Maleficent \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NCaxImo95pQKUonZwKtRA) | 4:41 |
+| 24 | [Solomon Vandy](https://open.spotify.com/track/2bx0bDhlf5i70c2NYjtahs) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Blood Diamond \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YwDj8TchnUvnxekoIcQ0X) | 2:11 |
 | 25 | [Corynorhinus](https://open.spotify.com/track/0hzNG6ZAzoYvgNA50TMzOw) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Batman Begins \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5djDvf7OozECsKzEB04uYg) | 5:04 |
-| 26 | [Solomon Vandy](https://open.spotify.com/track/2bx0bDhlf5i70c2NYjtahs) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Blood Diamond \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YwDj8TchnUvnxekoIcQ0X) | 2:11 |
+| 26 | [Aurora in Faerieland](https://open.spotify.com/track/3G4oEYQPiRQE5O4ahs7OC8) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Maleficent \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NCaxImo95pQKUonZwKtRA) | 4:41 |
 | 27 | [Leta's Theme \- Solo Piano](https://open.spotify.com/track/35bsGWSmSTeaTHK4iy8roD) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Crimes Of Grindelwald \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF) | 2:04 |
 | 28 | [The Village: Morning](https://open.spotify.com/track/6fv5zOzFVGSJBF2N8NCgG2) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Hilary Hahn](https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Night After Night \(Music from the Movies of M\. Night Shyamalan\)](https://open.spotify.com/album/6bZ512Kffdbv911Mbxi1ui) | 4:38 |
 | 29 | [Rue's Farewell](https://open.spotify.com/track/2kAwInoNljoVi4SsYCnFeo) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Original Motion Picture Score](https://open.spotify.com/album/6PH1qpo8wXTJnhZHnQi8YT) | 4:59 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 | 47 | [Running on Raindrops](https://open.spotify.com/track/39Ji2TlTj6OWZBHKIyN6yp) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Raya and the Last Dragon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0) | 2:11 |
 | 48 | [Fantastic Beasts Theme \- Solo Piano](https://open.spotify.com/track/18b656dcOv1olz14Xj5EZi) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Crimes Of Grindelwald \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF) | 1:37 |
 | 49 | [Introduce a Little Anarchy](https://open.spotify.com/track/2LfWRXYCr1jM3RkEDOY8Dj) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Dark Knight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX) | 3:41 |
-| 50 | [Race To Resting Rock \- Score](https://open.spotify.com/track/1mHH9Fl8Bt3VJHp0ELcp91) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Village](https://open.spotify.com/album/1nbaQ8V8yECyjxej3rPF7G) | 1:16 |
+| 50 | [Maple Glazed Donut](https://open.spotify.com/track/5eTLTRb0rOuCOVulfHBALq) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Roman J\. Israel, Esq\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5lTpJffQUPSCm0VLiWHI8b) | 3:03 |
 
-Snapshot ID: `MCw2MTljZWRkZjE2NDJiOTVhMzVlOTA1NWFhNWQyNjI4ODAyNzc0Zjll`
+Snapshot ID: `MTcxMjcwNzIwMCwwMDAwMDAwMGJiZGYxMTg0MTI0YjU5MzllZmM0MDU0NzNkOWZhODU3`

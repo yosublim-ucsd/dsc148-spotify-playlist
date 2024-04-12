@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-156 songs - 8 hr 45 min
+157 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [Spicey \- Original](https://open.spotify.com/track/4V8WSDvLpCtcmeXn5ZZLCd) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Spicey \(Original\)](https://open.spotify.com/album/25RnjGOl1DrXiXDlG6axld) | 2:31 | 2023-08-11 | 2023-08-21 |
 | [SUBMARINE](https://open.spotify.com/track/2ajKYSNnU7l89EJV8job8k) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [SUBMARINE](https://open.spotify.com/album/3t3RRbPtY3llgrDrI8ceLC) | 3:23 | 2024-01-26 | 2024-04-01 |
 | [Sunglasses At Night](https://open.spotify.com/track/6eoY6XnhGFr3HInyECJdbx) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Sunglasses At Night](https://open.spotify.com/album/4hLi7mKyVQ3tL20otPQpk1) | 2:50 | 2023-11-17 |  |
-| [Sweat](https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx) | [Sweat](https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU) | 2:12 | 2023-10-06 |  |
+| [Sweat](https://open.spotify.com/track/5SzPoxOGAl1mGWsT36KLcC) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx) | [Sweat](https://open.spotify.com/album/4d36v0DicdIJlQPPmE6vXP) | 2:12 | 2024-04-05 |  |
+| [Sweat](https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx) | [Sweat](https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU) | 2:12 | 2023-10-06 | 2024-04-12 |
 | [Tarantella](https://open.spotify.com/track/4pBuhoBxgwBpkkOhfT6p6N) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [KEL](https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05) | [Tarantella](https://open.spotify.com/album/0nxNoLQWFwsRqTfLh7R0sq) | 2:25 | 2024-03-29 |  |
 | [Tattoo](https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [KAJAK](https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt) | [Tattoo](https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8) | 3:12 | 2023-09-22 |  |
 | [Techno Sound](https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy) | [Techno Sound](https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5) | 3:09 | 2023-08-25 | 2024-03-17 |

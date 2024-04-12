@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Kerchak au top de la première playlist de rap français !
+> PLK au top de la première playlist de rap français !
 
-243 songs - 12 hr 29 min
+244 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [AZNVR \- une minute de musique](https://open.spotify.com/track/5bt380zWDlGAd3NmhOeZ3H) | [Luv Resval](https://open.spotify.com/artist/5l8WyvJ50fdSghK2ySNq1y) | [AZNVR \(une minute de musique\)](https://open.spotify.com/album/0CwImsCyjRO0p2kVE60MQq) | 3:59 | 2023-01-12 | 2023-04-07 |
 | [Aïcha](https://open.spotify.com/track/3Z2lGD8m63wJ93bQ7BJrPT) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Aïcha](https://open.spotify.com/album/0oae25t19eKc6zm5oEvaOL) | 3:26 | 2023-12-28 |  |
 | [BALLE DANS LE COEUR](https://open.spotify.com/track/42koItqq5r5ZoXj8TTt36D) | [Ikaz Boi](https://open.spotify.com/artist/1h0vYLWMAElSWYCjm6RBpe), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BRUT4L](https://open.spotify.com/album/7FOTaCV4JRGvOazWA0dcfC) | 2:40 | 2023-10-05 |  |
+| [barcelona92](https://open.spotify.com/track/0ex0EZnrO2mMPIkYp3ewZX) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [SAUDADE](https://open.spotify.com/album/5ORwfRIZBQiJ1dQ2cQDIFO) | 2:52 | 2024-04-11 |  |
 | [Beretta](https://open.spotify.com/track/3K1H0IDdVpvwEbKicv0vfk) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [COCO JOJO](https://open.spotify.com/album/5xaYQgs6VOTxlfGlhKmy7a) | 3:36 | 2022-05-19 | 2022-11-11 |
 | [Big Meech](https://open.spotify.com/track/66OTw5q1Ut9KqdFgzMRrhp) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Big Meech](https://open.spotify.com/album/04XeEmlFNHjXX2UU9s9RHz) | 3:40 | 2022-01-06 | 2022-07-29 |
 | [Bitume](https://open.spotify.com/track/6Bz3XzPurBj5poPqSHXHZB) | [L2B Gang](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [94 bois, Vol\. 2](https://open.spotify.com/album/6WELqgG0dapTfZXNUnOHKC) | 3:12 | 2022-03-17 | 2022-11-04 |
@@ -63,7 +64,7 @@
 | [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 3:12 | 2023-03-23 | 2023-06-23 |
 | [Cramé](https://open.spotify.com/track/3Db0wui02C3y86PfDJg5aC) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Cramé](https://open.spotify.com/album/6XqY3jSiJKGAT6rEQ96eYA) | 3:05 | 2022-01-06 | 2022-01-14 |
 | [Daddy chocolat](https://open.spotify.com/track/4IbDTrLxImTJfZePAX2nKB) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Cartel : volume 1](https://open.spotify.com/album/3wro1GpN4PVPZIeg7ykUFk) | 3:11 | 2022-01-06 | 2022-03-11 |
-| [Dans le noir](https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [TRAP$TAR 3](https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5) | 2:40 | 2023-11-02 |  |
+| [Dans le noir](https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [TRAP$TAR 3](https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5) | 2:40 | 2023-11-02 | 2024-04-12 |
 | [Dans le Réseau](https://open.spotify.com/track/6D5R8LKkeTmQveLoUKrK0D) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Dans le Réseau](https://open.spotify.com/album/4V2hxSDKR1ftk7AUybMAQG) | 2:24 | 2022-01-06 | 2022-09-30 |
 | [Dans un verre](https://open.spotify.com/track/4Cfp58HxOboMxAQ6x4vyVY) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Dans un verre](https://open.spotify.com/album/53JwVPrlNp7qpFlC5iT2x8) | 2:57 | 2024-02-29 |  |
 | [De bon matin](https://open.spotify.com/track/3EwsJXInOSrHZqSRW2UceI) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [De bon matin](https://open.spotify.com/album/372hc8zOtZ3o0oAX544SxU) | 3:03 | 2022-01-06 | 2022-02-25 |

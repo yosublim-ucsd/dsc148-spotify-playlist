@@ -4,7 +4,7 @@
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-228 songs - 13 hr 27 min
+229 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Jazmín de Luna](https://open.spotify.com/track/3ia4suHJXrpiNqP3KUCc3t) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Por Siempre....](https://open.spotify.com/album/1o4WtYSLqFy93QykeBwx7T) | 3:05 | 2023-06-22 | 2023-09-15 |
 | [Juan de la Calle](https://open.spotify.com/track/0FEY980G19GmeiVBK2AYzA) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Juan de la Calle](https://open.spotify.com/album/6HRTNRUeBVVntGVR5e6Amf) | 3:12 | 2021-07-23 | 2022-07-29 |
 | [Juan de la Calle](https://open.spotify.com/track/5IX9B2J3JzHw3xyzCk266i) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Juan de la Calle](https://open.spotify.com/album/5iyWMUhjSEU7av1IYKLJ1a) | 3:12 | 2022-02-21 | 2024-02-09 |
-| [Juancito Carnaval](https://open.spotify.com/track/7JPRCdl8DaS85xs1B0p4RW) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Juancito Carnaval](https://open.spotify.com/album/08eFM7C6sToLKcMy81rVNl) | 2:59 | 2024-03-07 |  |
+| [Juancito Carnaval](https://open.spotify.com/track/7JPRCdl8DaS85xs1B0p4RW) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Juancito Carnaval](https://open.spotify.com/album/08eFM7C6sToLKcMy81rVNl) | 2:59 | 2024-03-07 | 2024-04-12 |
 | [Km\. 11](https://open.spotify.com/track/7gISQrzfd4ZRXK0QQ7qTWN) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Chamame](https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz) | 2:51 | 2021-07-23 |  |
 | [La atardecida](https://open.spotify.com/track/2c1dbVTj8UhMammcH5rb2O) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Inolvidable \- Jorge Cafrune \-](https://open.spotify.com/album/5j1Vzvielu5xKSpS56qSJ5) | 3:51 | 2021-07-23 | 2023-05-10 |
 | [La Cautiva](https://open.spotify.com/track/3CoSoKjB1jTBDUl4nbZfGB) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Jorge Cafrune\-Los Elegidos](https://open.spotify.com/album/40jHMGBc83ukE2rXbRUlIX) | 3:54 | 2021-07-23 | 2022-07-29 |
@@ -160,6 +160,7 @@
 | [Lloraré](https://open.spotify.com/track/3URJ8j0Z8yAXTigCzhvYrV) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [22 Grandes Exitos](https://open.spotify.com/album/4VcoE025pFB2BLm9fhgg6T) | 3:10 | 2021-07-23 | 2022-07-27 |
 | [Los Ejes de Mi Carreta](https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [Viajes Por El Mundo](https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw) | 2:52 | 2022-02-21 |  |
 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 | 2023-08-17 |  |
+| [Los que nunca se han tomado un vino](https://open.spotify.com/track/5XwTKXAGRqGS1qjXQVE6bE) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Los que nunca se han tomado un vino](https://open.spotify.com/album/3aRVBWmYPh2bVmR0bNmLv1) | 2:02 | 2024-04-11 |  |
 | [Lucero Cantor](https://open.spotify.com/track/5Rr0MwgF3sDqch1brtSunL) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Los Copla](https://open.spotify.com/album/67f8qJ03gPtnrQFeMnIa0k) | 3:14 | 2021-07-23 | 2022-07-03 |
 | [Luna Cautiva](https://open.spotify.com/track/3SutPPyD0uGNBjGuRlkcKq) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [Éxitos Sin Fronteras](https://open.spotify.com/album/3hOcoCrLGJOwy1imKwFSt9) | 3:50 | 2021-07-23 | 2022-07-29 |
 | [Luna Cautiva](https://open.spotify.com/track/6RLy54zWiCxdbobwzSwBNq) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [Éxitos Sin Fronteras](https://open.spotify.com/album/3SGF45hToDUlV5Gvurtmp7) | 3:50 | 2022-02-21 |  |

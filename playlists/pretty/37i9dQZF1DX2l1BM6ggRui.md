@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 
 > 듣고만 있어도 행복한 노래들과 더더욱 행복하세요 ;\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,533 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,536 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 53 | [FREE SMILE](https://open.spotify.com/track/1TEv7OolmCRlF8TuZiNczt) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5), [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [Seoul Check\-in OST Part 10](https://open.spotify.com/album/7oCrCB3pOE6zMjHLqnr1r9) | 3:21 |
 | 54 | [He Loves Me \(With Windy\)](https://open.spotify.com/track/5zcqzLiXvZc68HAPJaE8LL) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [He Loves Me \(With Windy\)](https://open.spotify.com/album/56WFA9DY6elZw9uPt2xGcL) | 3:59 |
 | 55 | [Sing\-a\-song](https://open.spotify.com/track/3kUa4w9ydwOReSjFAi7c8y) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 2:50 |
-| 56 | [연애상담인듯](https://open.spotify.com/track/7oFRqf8y5li3YcZbESYvK7) | [Herz Analog](https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw) | [어서오세요 여름밤](https://open.spotify.com/album/0GB6OFRgrSKlAXu8GcUbQx) | 3:02 |
-| 57 | [SKIP \(Feat\. Wonstein\)](https://open.spotify.com/track/1RMu8HCu8CgsKxweS14mdK) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 2:51 |
+| 56 | [SKIP \(Feat\. Wonstein\)](https://open.spotify.com/track/1RMu8HCu8CgsKxweS14mdK) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 2:51 |
+| 57 | [연애상담인듯](https://open.spotify.com/track/7oFRqf8y5li3YcZbESYvK7) | [Herz Analog](https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw) | [어서오세요 여름밤](https://open.spotify.com/album/0GB6OFRgrSKlAXu8GcUbQx) | 3:02 |
 | 58 | [Hero](https://open.spotify.com/track/47UgaY4CRz8PyzJ6KtBm82) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Hero](https://open.spotify.com/album/2qeoNeByTFBqLT4meBSDBM) | 2:30 |
 | 59 | [Dreaming](https://open.spotify.com/track/6krdrtQ0fDRwQ2AGNfcoxl) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love Story \(4 Season Project 季\) \- The 4th Mini Album](https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy) | 4:05 |
 | 60 | [flowerain](https://open.spotify.com/track/1p0cy7P5OdzZtVJOzhjfSF) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [flowerain](https://open.spotify.com/album/00h8cmaMZFSyKkPAJ4uvTJ) | 2:57 |
 
-Snapshot ID: `MCwyYmVhZTQ4MTlmMGQ5ZWFiZDcxMzE5NTM4MWI0Mzg3YTUyNDRmNzY2`
+Snapshot ID: `MTcxMTUxODcwNCwwMDAwMDAwMGM2ZThlNTgxZmNmMDM0OTZjNDIyY2RiNjhhMzM1ZmQx`

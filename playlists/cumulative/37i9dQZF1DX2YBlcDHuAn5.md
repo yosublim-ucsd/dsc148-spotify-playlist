@@ -4,12 +4,12 @@
 
 > De mooiste muziek: Americana \| Country
 
-126 songs - 7 hr 37 min
+128 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All The Good Times](https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:36 | 2023-02-23 |  |
-| [Anybody Else But Me](https://open.spotify.com/track/6bO44ywoBjbe2XeI1lgTm5) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl) | [Anybody Else But Me](https://open.spotify.com/album/4rWkiDyXhDqN2Lm1Zg08sv) | 3:31 | 2024-03-07 |  |
+| [Anybody Else But Me](https://open.spotify.com/track/6bO44ywoBjbe2XeI1lgTm5) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl) | [Anybody Else But Me](https://open.spotify.com/album/4rWkiDyXhDqN2Lm1Zg08sv) | 3:31 | 2024-03-07 | 2024-04-12 |
 | [Aphrodite](https://open.spotify.com/track/6noeTONJnM5NukhaQYsqDQ) | [Donna Blue](https://open.spotify.com/artist/2p3WhDRwfMseVi8f04ODpd) | [Aphrodite](https://open.spotify.com/album/4Z9VwS2ksXpFBdn5pSxfoQ) | 3:18 | 2024-02-01 |  |
 | [Babe I'm Gonna Leave You \- Extended Version](https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Babe I'm Gonna Leave You \(Extended Version\)](https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL) | 4:54 | 2023-02-23 |  |
 | [Ballad Of Easy Rider](https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Ballad Of Easy Rider](https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS) | 2:05 | 2023-02-23 |  |
@@ -50,7 +50,7 @@
 | [Gold Dust Woman](https://open.spotify.com/track/1FH9iCgUtZXnwodYzahivh) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Gold Dust Woman](https://open.spotify.com/album/1jvxRIDR1nCdEw13R9Pv0S) | 3:00 | 2023-12-01 |  |
 | [Gonna Shine](https://open.spotify.com/track/5DmCE0x0NldbgmjClh3qRW) | [The Georgia Thunderbolts](https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d) | [Gonna Shine](https://open.spotify.com/album/56d6RiEgQQBFlkuEx6lmAi) | 4:01 | 2023-09-14 | 2024-03-13 |
 | [Gravel Road](https://open.spotify.com/track/078aq6YFLnlMAK6yqst82A) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Wandering Soul](https://open.spotify.com/album/6OPr5drQs4sdE8IgAK4vEv) | 2:32 | 2023-06-01 | 2023-11-02 |
-| [Harmony From Dissonance](https://open.spotify.com/track/4YVG7WaFjdLHIiy5dByavP) | [Timo de Jong](https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x) | [Harmony From Dissonance](https://open.spotify.com/album/5KHzBUPSOLXAxBJ8GuOBvI) | 3:25 | 2024-03-07 |  |
+| [Harmony From Dissonance](https://open.spotify.com/track/4YVG7WaFjdLHIiy5dByavP) | [Timo de Jong](https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x) | [Harmony From Dissonance](https://open.spotify.com/album/5KHzBUPSOLXAxBJ8GuOBvI) | 3:25 | 2024-03-07 | 2024-04-12 |
 | [Hear My Dear](https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: I\. Crescent](https://open.spotify.com/album/7tiugISIhitNyFnMRQBhIq) | 5:34 | 2023-02-23 |  |
 | [Heat of the Moment](https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [A Heightened Sense of Everything](https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng) | 3:28 | 2023-08-29 | 2024-04-10 |
 | [High Heels](https://open.spotify.com/track/4M3uKxjhfTLfQidMDgEEgC) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Country Coming Down](https://open.spotify.com/album/3hYtvhC4TBoNfoWgtioNMR) | 3:22 | 2023-02-23 | 2023-04-28 |
@@ -72,6 +72,7 @@
 | [Know Your Demons](https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Know Your Demons](https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8) | 3:26 | 2023-02-23 | 2024-03-13 |
 | [Life's More Beautiful Than Hard](https://open.spotify.com/track/5SsFZdvxDeNAN4QV45aSYS) | [Sylvia Aimee](https://open.spotify.com/artist/1RDuJ4WLsdSCAuft8dwt5P), [Amber Kamminga](https://open.spotify.com/artist/2KGHUlIdPqK6lHBqaKCGYY), [Angie Flare](https://open.spotify.com/artist/1n3PqShxg0oEVPxJUToico), [Kimmy June](https://open.spotify.com/artist/1sKzVtXJLtrK6BGTKVJzGK) | [Identity](https://open.spotify.com/album/20lrrvbJIj9p8hlWXNpqdA) | 2:52 | 2023-06-29 | 2023-08-18 |
 | [Lightyears Better](https://open.spotify.com/track/3TfJc3C3n9ML0dXoz7oHcm) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Lightyears Better](https://open.spotify.com/album/4OTldoFsD7VQuV5g1EZPgd) | 3:04 | 2023-02-23 | 2023-06-16 |
+| [Little Miss Blue Eyes](https://open.spotify.com/track/13eAihSwYg2klEZYutJVxO) | [Voltage](https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1) | [Fortunes & Willows](https://open.spotify.com/album/12ycpUr0zVCaDesITqsq0x) | 4:04 | 2024-04-11 |  |
 | [Lola with the Light Eyes](https://open.spotify.com/track/05eGBCOwS0vA4c2TBVRiJ0) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [The Epic Tale of the Stranded Man](https://open.spotify.com/album/1BfrHxEQliuMZYzetI8TGH) | 3:32 | 2023-02-23 |  |
 | [Loose Future](https://open.spotify.com/track/1f7mKDuWfkhMXOnRcdI8Vz) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Loose Future](https://open.spotify.com/album/25dWaNwrPBrS1UAXUBZOVh) | 3:28 | 2023-02-23 | 2023-05-07 |
 | [Lost & Found](https://open.spotify.com/track/1Mk22y2ZqHMijN57LfOi5U) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Lost & Found](https://open.spotify.com/album/3yF8GCeZkevUHuMSDOBQcV) | 2:38 | 2023-02-23 | 2023-06-13 |
@@ -84,6 +85,7 @@
 | [My Love Is On The Run](https://open.spotify.com/track/1HUPYoXCbnhQnwsKbZBwzQ) | [Damiën Van Elburg](https://open.spotify.com/artist/5AfiMBS3lNh5qbmqpTgMmO) | [Peace of Mind](https://open.spotify.com/album/6npPpBrnnwLpUJwbFULGjs) | 3:21 | 2023-05-11 | 2023-06-16 |
 | [Nighttime Walk](https://open.spotify.com/track/4xWwLMuE6SfoqvtWpSgoyO) | [Mercy John](https://open.spotify.com/artist/1zJU6SWc4fzECllRZbixhJ) | [Nighttime Walk](https://open.spotify.com/album/6B3IT89Ihbf3s3SPkLlz48) | 5:36 | 2023-10-05 | 2024-01-05 |
 | [Once Upon A Town](https://open.spotify.com/track/32qnA2AzhYiz9QfSMVvgo3) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Once Upon A Town](https://open.spotify.com/album/5uPvRkqZrTkRvIufbRFvt4) | 2:59 | 2023-03-30 | 2023-05-12 |
+| [One Deep River](https://open.spotify.com/track/3Ruhf6RwJbrCmP4LcLw0lZ) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [One Deep River](https://open.spotify.com/album/1VD0dpNJZjdQ0lelA5JTHv) | 4:17 | 2024-04-11 |  |
 | [One More Night](https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [One More Night](https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt) | 3:46 | 2023-02-23 |  |
 | [Only Love](https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz) | [Elephant](https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW) | [Big Thing](https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU) | 3:35 | 2023-02-23 |  |
 | [Our House](https://open.spotify.com/track/220vD8Jgn9wK5WfRSpiQkn) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [Our House](https://open.spotify.com/album/2pj3bBwQIhqACfusXx6aHf) | 3:20 | 2023-06-22 | 2023-07-07 |

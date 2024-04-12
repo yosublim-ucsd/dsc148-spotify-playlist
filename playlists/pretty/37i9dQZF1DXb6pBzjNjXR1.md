@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech that was born in South Africa, as it travels the world's dancefloors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,644 likes - 55 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,692 likes - 55 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 54 | [Inde Lendlela](https://open.spotify.com/track/0TWr1HfWDoqZ4zPiBySwxM) | [Stones & Bones](https://open.spotify.com/artist/5dBe8LtEp62lNMgDOFx7l4), [Bukeka](https://open.spotify.com/artist/3pHdLWNBGYLGZLMB8cuFOV), [LuckyKeyz](https://open.spotify.com/artist/6xPpWHSxCdWbkrOWn45d2Y) | [The 12 Year Saga](https://open.spotify.com/album/3xloxYskgtTZmtIpBDNjH5) | 5:56 |
 | 55 | [Pull Up](https://open.spotify.com/track/7iUnYB0ThwV97aQrl5EU8i) | [Blaq Tronic](https://open.spotify.com/artist/0lGgzJtArR31Du72Ph1YHw) | [Pull Up](https://open.spotify.com/album/1XWuhb4aSKQJiTyWXXjM0G) | 7:40 |
 
-Snapshot ID: `MCwyNWE4MzJkN2I3MTUxNzllZTQxYTY3OGNiZTg5MjMwYWM0ZDMzZWZj`
+Snapshot ID: `MTcxMDQ4Mjc3NCwwMDAwMDAwMGUyNWFiNTY0MmZlYzhhMTcyNDdjOGVhYmU4NWQ3MWU3`

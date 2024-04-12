@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: The Boy, Rudies Flacko
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,824 likes - 76 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,848 likes - 76 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 36 | [Tic Tac](https://open.spotify.com/track/3rlHmQ0Esl4d1utdUrBM8z) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Dj Aladin GDB](https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ) | [Tic Tac](https://open.spotify.com/album/0RzJlPj22xSVHh7kILUSaN) | 1:50 |
 | 37 | [Melhor Fase](https://open.spotify.com/track/42Z3uVgffyIFBiOdVu2voe) | [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty), [Mozin](https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Caíque](https://open.spotify.com/artist/47M3rIswjgdqWCiCZc4Wx1), [Mindu](https://open.spotify.com/artist/3shZdnoMWegcOdZUPuMXhB), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e) | [Melhor Fase](https://open.spotify.com/album/09IxFPwXgz24Wdzr2wdJny) | 2:52 |
 | 38 | [Doce Amargo](https://open.spotify.com/track/3PYfYGJdwe38j4DGAbFoxM) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Doce Amargo](https://open.spotify.com/album/2B3DGafThiTbaRa1S9FXqG) | 2:17 |
-| 39 | [Fantástico](https://open.spotify.com/track/4dvka1VID5nh8iBQSFYP58) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Lastra](https://open.spotify.com/artist/129dSsTOV93qJq9ANvrDu9) | [O Fantástico Mundo de Ganni](https://open.spotify.com/album/538I6tmaZtHvRMQDpaNLIC) | 3:00 |
+| 39 | [Fantástico](https://open.spotify.com/track/4dvka1VID5nh8iBQSFYP58) | [Young Ganni](https://open.spotify.com/artist/1Hm3uKt8JXy3dnxIFfJUog), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD) | [O Fantástico Mundo de Ganni](https://open.spotify.com/album/538I6tmaZtHvRMQDpaNLIC) | 3:00 |
 | 40 | [Dia de Festa](https://open.spotify.com/track/3JreeXNKTZjBkJ2wAyg2xU) | [Brennuz](https://open.spotify.com/artist/3bJRxCD4x2F0x32XFGo9CH), [Mikezin](https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q), [Acredita Gang](https://open.spotify.com/artist/45qYk2lNlmF5h8xD6GPgSa), [Alva](https://open.spotify.com/artist/3h5yiq2bi79gyIVwgAWR9n), [Sagal](https://open.spotify.com/artist/017wb8L9kiLHOkmZRyrlyg), [Blakbone](https://open.spotify.com/artist/5pmOKG8qbFf3zvOXiRiN1L) | [Dia de Festa](https://open.spotify.com/album/5W2gVsWccBhXFLGmySJ3d9) | 3:31 |
 | 41 | [Big Size](https://open.spotify.com/track/1ofEBhOFouAs5nr8QqxU7V) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [SUSHIBOY011](https://open.spotify.com/artist/2zVeDfVtEfoveXYVb2sg4G) | [Big Size](https://open.spotify.com/album/2FLT5kECZf19OeC2AcGhxz) | 2:03 |
 | 42 | [Ouro Rose](https://open.spotify.com/track/0pv0nTMDBFR2QNH393zp6A) | [Font](https://open.spotify.com/artist/2VxhcBCTUs11LYhPpA62S1), [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw) | [Ouro Rose](https://open.spotify.com/album/2DtE00Rbwp2UC6IiNAdJIt) | 3:02 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 75 | [Novo Lema](https://open.spotify.com/track/33tt369xksWowFUwuBCAg3) | [NexoAnexo](https://open.spotify.com/artist/1RemuQyqsvKZEzjkOrOag6), [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn), [Thiérre](https://open.spotify.com/artist/5xeNZMWjN6taeu28YaQ7FE) | [Novo Lema](https://open.spotify.com/album/0iRYoCvYogsvqvbzJVuFX2) | 3:48 |
 | 76 | [Mlk Resumo](https://open.spotify.com/track/3SaXeqyOnYADTKNwNiqSkG) | [Paião](https://open.spotify.com/artist/59w7Io8azAdYXQp6fQjOvJ), [Ryan.4l](https://open.spotify.com/artist/6J4XzStfOx8YQGkd5xYIYU), [prodmelo!](https://open.spotify.com/artist/2g6DsXyUDFSxE6ld7WzAFZ) | [Mlk Resumo](https://open.spotify.com/album/5aiq7KpjSGrNGUiOV3iyI0) | 2:14 |
 
-Snapshot ID: `MCxhOWZkZWE0Yjg3MDkwNzdmNzE2MzhlMzViZGU3NWU1MjliYzgyNDg4`
+Snapshot ID: `MTcxMjMxNDQ5MCwwMDAwMDAwMDY0MDkxYzg2MTZjMTllMTFiYjA2YTBlNzk2ZjMyNTZl`

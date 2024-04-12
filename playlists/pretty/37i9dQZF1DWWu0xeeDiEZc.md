@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 
 > Get your kids singing along with this fun playlist! They're sure to know these kid\-friendly classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,281 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,344 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 | 34 | [Who Took The Cookie?](https://open.spotify.com/track/3PpuDg0ZVPviHuljT3R087) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Do You Like Broccoli Ice Cream? & More Kids Songs](https://open.spotify.com/album/1VypRh8WKSwIjDCkHuiQah) | 1:58 |
 | 35 | [This Old Man](https://open.spotify.com/track/0mXkCgqq5Vv86c4lW8Ec1H) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 5: Rhyme Around the Rosy](https://open.spotify.com/album/0sF3OFdtFfxv1RYyaYk0aL) | 2:15 |
 | 36 | [Fruit Salad](https://open.spotify.com/track/05VFDrNnvtKHn9GwCQrsSZ) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Yummy Yummy](https://open.spotify.com/album/6APUHxy54plCcHLqrtI5sO) | 2:28 |
-| 37 | [Shortnin Bread](https://open.spotify.com/track/0brcPEEXtaXOD9jPZs639u) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n), [Fysah Thomas](https://open.spotify.com/artist/5rCquw5nHKi2hyekBM9uLm) | [Here I Am!](https://open.spotify.com/album/5rjEdo4OAe1uOuH6jvX4bN) | 1:47 |
-| 38 | [Frère Jacques](https://open.spotify.com/track/5MMkLHLXPwJnBlxVLYpDvy) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Favourite Things: Songs and Nursery Rhymes from Play School](https://open.spotify.com/album/3iTEYok7snY0DL5XjQB8xs) | 1:12 |
+| 37 | [Frère Jacques](https://open.spotify.com/track/5MMkLHLXPwJnBlxVLYpDvy) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Favourite Things: Songs and Nursery Rhymes from Play School](https://open.spotify.com/album/3iTEYok7snY0DL5XjQB8xs) | 1:12 |
+| 38 | [Shortnin Bread](https://open.spotify.com/track/0brcPEEXtaXOD9jPZs639u) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n), [Fysah Thomas](https://open.spotify.com/artist/5rCquw5nHKi2hyekBM9uLm) | [Here I Am!](https://open.spotify.com/album/5rjEdo4OAe1uOuH6jvX4bN) | 1:47 |
 | 39 | [Boom Chicka Boom](https://open.spotify.com/track/3wwjGWZLyBv4SJwYxc9KZy) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Toddler Action Learning Songs](https://open.spotify.com/album/5MTRkg3C6Sk2am4AbN3h3F) | 2:34 |
 | 40 | [The More We Get Together](https://open.spotify.com/track/0AVLdFhZInmvfFt4ilSY91) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Happy, Happy, Happy!](https://open.spotify.com/album/1OB7Vix9Iv9RwB25cHbXTE) | 1:44 |
 | 41 | [Bingo \- Sing with Me](https://open.spotify.com/track/04hHP1xdT8asIym1MuIIq5) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Learn Your ABCs! Letter Songs and Phonics for Children with LittleBabyBum](https://open.spotify.com/album/1eE8Rnlz8CuBXJ5EwwbFXm) | 1:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 | 49 | [Looby Loo \- Toddler Version](https://open.spotify.com/track/17ae6ayN7KxVK78VXXRwAT) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Toddler Party](https://open.spotify.com/album/3hbh5avYBFVOQ3y3gCHL21) | 2:03 |
 | 50 | [Miss Mary Mack](https://open.spotify.com/track/6n8vAY5flz0VChNl2evwEc) | [Ella Jenkins](https://open.spotify.com/artist/2AdaJlzNcOpdrvMSBN92Wp) | [You'll Sing a Song and I'll Sing a Song](https://open.spotify.com/album/65VNMkYGsMwLrYE8kP9NYf) | 2:01 |
 
-Snapshot ID: `MCw4NmJiYzhhN2YwNTBhNjM5Mzc4YTI3Yjc3M2NkYmU2M2YzOWE2MzU0`
+Snapshot ID: `MTcwNzgzOTE3MSwwMDAwMDAwMDEyNWI5M2YyZjYzZjI5YTFlNDIzZTFjYTE1MGViZjYx`

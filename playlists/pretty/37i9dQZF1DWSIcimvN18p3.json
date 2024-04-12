@@ -1,12 +1,12 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Hurray For The Riff Raff",
-  "num_followers": 284973,
+  "num_followers": 284997,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2Y5MmQ2Yzc3ZWE4YzdmNzkwMDNjZTc3ZTM2MDE4YzBlY2JiYTY2",
+  "snapshot_id": "MTcxMjE3MDUzMCwwMDAwMDAwMGE2MGYwOTEyNGY3OTcxZGYwNmZhZGQ4ZDgyZmJkNjEx",
   "tracks": [
     {
       "added_at": "2024-03-08 05:01:00",
@@ -351,18 +351,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Wouldn't Come Back",
-        "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
+        "name": "Projections",
+        "url": "https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS"
       },
       "artists": [
         {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+          "name": "Tomberlin",
+          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
         }
       ],
-      "duration_ms": 219533,
-      "name": "Wouldn't Come Back",
-      "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
+      "duration_ms": 149422,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -399,18 +399,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Projections",
-        "url": "https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS"
+        "name": "Wouldn't Come Back",
+        "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
       },
       "artists": [
         {
-          "name": "Tomberlin",
-          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
         }
       ],
-      "duration_ms": 149422,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY"
+      "duration_ms": 219533,
+      "name": "Wouldn't Come Back",
+      "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Dollar Bill Bar",
-        "url": "https://open.spotify.com/album/1ODhUIkZ35LOCKQ65sWc47"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 209176,
-      "name": "Dollar Bill Bar",
-      "url": "https://open.spotify.com/track/3yYD3H6AdEdSqXrgxgktOU"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "The Lion's Roar",
         "url": "https://open.spotify.com/album/2ClpsMzeeVVoevHkK2N1vs"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "Dollar Bill Bar",
+        "url": "https://open.spotify.com/album/1ODhUIkZ35LOCKQ65sWc47"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 209176,
+      "name": "Dollar Bill Bar",
+      "url": "https://open.spotify.com/track/3yYD3H6AdEdSqXrgxgktOU"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "Outside Child",
         "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
       },
@@ -687,6 +687,22 @@
       "duration_ms": 295546,
       "name": "Nightflyer",
       "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Cowboy Gangster Politician",
+        "url": "https://open.spotify.com/album/1hFke1fKAFoByRhKiS9RtL"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Cowboy Gangster Politician",
+      "url": "https://open.spotify.com/track/2SeDdNjPvN3uwkolnG2ODi"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -767,18 +783,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Cowboy Gangster Politician",
-        "url": "https://open.spotify.com/album/1hFke1fKAFoByRhKiS9RtL"
+        "name": "At Swim",
+        "url": "https://open.spotify.com/album/6msVb320Ve4PYFCjo0uuDf"
       },
       "artists": [
         {
-          "name": "Goldie Boutilier",
-          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Cowboy Gangster Politician",
-      "url": "https://open.spotify.com/track/2SeDdNjPvN3uwkolnG2ODi"
+      "duration_ms": 179826,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/0HFqPzJYCZgQYuqNX0HDJm"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -795,22 +811,6 @@
       "duration_ms": 216128,
       "name": "I Could Drive You Crazy",
       "url": "https://open.spotify.com/track/41FgxEQPfzOWhyzb3vSmKi"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "At Swim",
-        "url": "https://open.spotify.com/album/6msVb320Ve4PYFCjo0uuDf"
-      },
-      "artists": [
-        {
-          "name": "Lisa Hannigan",
-          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
-        }
-      ],
-      "duration_ms": 179826,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/0HFqPzJYCZgQYuqNX0HDJm"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "Fox Confessor Brings The Flood (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ"
+      },
+      "artists": [
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        }
+      ],
+      "duration_ms": 316506,
+      "name": "Star Witness",
+      "url": "https://open.spotify.com/track/17fWdcSAhLc6559youmLap"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 192666,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/2MgfxFG6RBfW4ivhwFtYoi"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Fox Confessor Brings The Flood (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ"
-      },
-      "artists": [
-        {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
-        }
-      ],
-      "duration_ms": 316506,
-      "name": "Star Witness",
-      "url": "https://open.spotify.com/track/17fWdcSAhLc6559youmLap"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Cusp",
-        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
-      },
-      "artists": [
-        {
-          "name": "Alela Diane",
-          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
-        }
-      ],
-      "duration_ms": 191813,
-      "name": "\u00c9migr\u00e9",
-      "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Black Is the Color",
         "url": "https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 138440,
       "name": "Bobby Reid",
       "url": "https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Cusp",
+        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
+      },
+      "artists": [
+        {
+          "name": "Alela Diane",
+          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "\u00c9migr\u00e9",
+      "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Weird Faith",
-        "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
+        "name": "Different Kinds of Light",
+        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
       },
       "artists": [
         {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
         }
       ],
-      "duration_ms": 246946,
-      "name": "For Months Now",
-      "url": "https://open.spotify.com/track/3Qoru0cFoXjTAgUAi9zinE"
+      "duration_ms": 142818,
+      "name": "Headstart",
+      "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Different Kinds of Light",
-        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
+        "name": "Weird Faith",
+        "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
       },
       "artists": [
         {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
         }
       ],
-      "duration_ms": 142818,
-      "name": "Headstart",
-      "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
+      "duration_ms": 246946,
+      "name": "For Months Now",
+      "url": "https://open.spotify.com/track/3Qoru0cFoXjTAgUAi9zinE"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "The Ballad of Sally Anne",
-        "url": "https://open.spotify.com/album/3uc7lb3lx1Ww2XRPBnAJkh"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        }
-      ],
-      "duration_ms": 238440,
-      "name": "The Ballad of Sally Anne",
-      "url": "https://open.spotify.com/track/2kozuAaT0clm71FtU5bThw"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Off Off On",
         "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 226466,
       "name": "Old Gods",
       "url": "https://open.spotify.com/track/75CnQWeQ1V4tFSnes66c8H"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "The Ballad of Sally Anne",
+        "url": "https://open.spotify.com/album/3uc7lb3lx1Ww2XRPBnAJkh"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "duration_ms": 238440,
+      "name": "The Ballad of Sally Anne",
+      "url": "https://open.spotify.com/track/2kozuAaT0clm71FtU5bThw"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "Freedom Highway",
+        "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "duration_ms": 256560,
+      "name": "At the Purchaser's Option",
+      "url": "https://open.spotify.com/track/5RmAtT0VaKttU0Eybo6ZWA"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "First Time Feeling",
         "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
       },
@@ -1927,42 +1943,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Hello Stranger (feat. S.G. Goodman)",
-        "url": "https://open.spotify.com/album/5jzDJVklyWHXCAkSYWuMsc"
-      },
-      "artists": [
-        {
-          "name": "Kelsey Waldon",
-          "url": "https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1"
-        },
-        {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
-        }
-      ],
-      "duration_ms": 226533,
-      "name": "Hello Stranger (feat. S.G. Goodman)",
-      "url": "https://open.spotify.com/track/1gWd9YGWMxVoEH9pSVCBon"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Freedom Highway",
-        "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        }
-      ],
-      "duration_ms": 256560,
-      "name": "At the Purchaser's Option",
-      "url": "https://open.spotify.com/track/5RmAtT0VaKttU0Eybo6ZWA"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
       },
@@ -1991,6 +1971,26 @@
       "duration_ms": 128634,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/0nuTldtCp9eCHWkdriK7DV"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Hello Stranger (feat. S.G. Goodman)",
+        "url": "https://open.spotify.com/album/5jzDJVklyWHXCAkSYWuMsc"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Waldon",
+          "url": "https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1"
+        },
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "duration_ms": 226533,
+      "name": "Hello Stranger (feat. S.G. Goodman)",
+      "url": "https://open.spotify.com/track/1gWd9YGWMxVoEH9pSVCBon"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2503,22 +2503,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Little May",
-        "url": "https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S"
-      },
-      "artists": [
-        {
-          "name": "Little May",
-          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
-        }
-      ],
-      "duration_ms": 195735,
-      "name": "Boardwalks",
-      "url": "https://open.spotify.com/track/7sTdeM1DsL2V5caPFfcrDO"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Violet Light",
         "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
       },
@@ -2531,6 +2515,22 @@
       "duration_ms": 173077,
       "name": "How Bad I Wanna Live",
       "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Little May",
+        "url": "https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S"
+      },
+      "artists": [
+        {
+          "name": "Little May",
+          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
+        }
+      ],
+      "duration_ms": 195735,
+      "name": "Boardwalks",
+      "url": "https://open.spotify.com/track/7sTdeM1DsL2V5caPFfcrDO"
     }
   ],
   "unique_name": "Women of Folk",

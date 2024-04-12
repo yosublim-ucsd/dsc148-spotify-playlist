@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Ivan Cornejo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,312 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 830,787 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [Amor Perdido](https://open.spotify.com/track/0uMODzvm9Pdz9YVrVhWIBe) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Amor Perdido](https://open.spotify.com/album/0wkmxDVy1AGPQojmbx8Qb1) | 3:20 |
 | 50 | [Perdon Mi Amor](https://open.spotify.com/track/41YKdTzwqHlBiR244FTccB) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Perdon Mi Amor](https://open.spotify.com/album/6JPNa1R21McyMnP6rjtpks) | 2:38 |
 
-Snapshot ID: `MCxhMGQyMzY0ODZhZTYzMzJiNWVmN2NmNDIwNzNjNWNiNDQ4NTcwOGI2`
+Snapshot ID: `MTcxMjI4OTYwMCwwMDAwMDAwMDg1ODkxODIwNWY4YzNiNzdmN2M0OGFhZGEwZDgzNWE2`

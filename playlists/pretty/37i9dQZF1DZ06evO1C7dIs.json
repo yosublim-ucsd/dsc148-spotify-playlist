@@ -1,12 +1,12 @@
 {
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
-  "num_followers": 242630,
+  "num_followers": 242671,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTFhZTU2ZGI5NWMzMDYzNjI0OGMwMmUzZmVmMDViYjI1MjNhOWVl",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDNjMWY4YmE2ZDBhN2Y1YWFkMDY1NDM1MDEyMDkyYjBi",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wishmaster",
-        "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
+        "name": "HUMAN. :II: NATURE.",
+        "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 238973,
-      "name": "The Kinslayer",
-      "url": "https://open.spotify.com/track/7JrKMhfBOMr78l3KbCAF1q"
+      "duration_ms": 236764,
+      "name": "Tribal",
+      "url": "https://open.spotify.com/track/5tN4bKhtt6klkkB0GVt9i1"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HUMAN. :II: NATURE.",
-        "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 236764,
-      "name": "Tribal",
-      "url": "https://open.spotify.com/track/5tN4bKhtt6klkkB0GVt9i1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wishmaster",
         "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
       },
@@ -532,9 +516,25 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 237466,
-      "name": "Deep Silent Complete",
-      "url": "https://open.spotify.com/track/3Fba4XIaDBLFfKrOcsBjsY"
+      "duration_ms": 238973,
+      "name": "The Kinslayer",
+      "url": "https://open.spotify.com/track/7JrKMhfBOMr78l3KbCAF1q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HUMAN. :II: NATURE.",
+        "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 318305,
+      "name": "Pan",
+      "url": "https://open.spotify.com/track/1XcTT3XqNalzJMamAiIqOW"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HUMAN. :II: NATURE.",
-        "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
+        "name": "Wishmaster",
+        "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 318305,
-      "name": "Pan",
-      "url": "https://open.spotify.com/track/1XcTT3XqNalzJMamAiIqOW"
+      "duration_ms": 237466,
+      "name": "Deep Silent Complete",
+      "url": "https://open.spotify.com/track/3Fba4XIaDBLFfKrOcsBjsY"
     },
     {
       "added_at": null,

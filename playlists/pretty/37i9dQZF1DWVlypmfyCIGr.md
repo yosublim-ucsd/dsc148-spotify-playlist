@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Empty old City
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,204 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,221 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [旅のゆくえ](https://open.spotify.com/track/7kOzUAVtgt0zovCULJ7oSv) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [旅のゆくえ](https://open.spotify.com/album/79FxBaskvhHUSmrYJsNid1) | 3:34 |
 | 80 | [夢の、終わりの、そのあとで](https://open.spotify.com/track/4imeWjvdbVsUeULefLpEbQ) | [壊れかけのテープレコーダーズ](https://open.spotify.com/artist/3gEw0yolvefXA523tJwFyu) | [楽園から遠く離れて](https://open.spotify.com/album/6yaxgMIDVH9CYbNcxZT6HL) | 7:53 |
 
-Snapshot ID: `MCxhMzQxMTRkOWFhNTQ4OTE5ZTcwOTkwZTI5ZTg4OTI2YTU1YTliZjAz`
+Snapshot ID: `MTcxMjYxMzkzMiwwMDAwMDAwMDE1NTA4NjhkOWIxZjViMTA2NTU3ODA2NGVmZDk4MmI2`

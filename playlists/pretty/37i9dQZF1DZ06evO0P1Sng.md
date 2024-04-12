@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 
 > This is Azzy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,878 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,880 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 | 44 | [Tifanny](https://open.spotify.com/track/7rSH0RAJ3IkeiXfwqEZERJ) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Tlust](https://open.spotify.com/artist/6M1ffwjNDqXAkqpppHukl6) | [Tifanny](https://open.spotify.com/album/7ARaUBO3YmdZ91wDdSn643) | 2:40 |
 | 45 | [Patroa](https://open.spotify.com/track/1Uw33plA0I6BzsjBb9AI3f) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Patroa](https://open.spotify.com/album/2ojij9qTa6YUIqrAxukcwL) | 3:01 |
 | 46 | [Segue o Baile](https://open.spotify.com/track/5vrT66H94IfI3DNaNqNUJk) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Hora do Show](https://open.spotify.com/album/2A5UWu3yNNrnfbAfICNnV2) | 3:40 |
-| 47 | [00:30](https://open.spotify.com/track/3Bx3qSUR9sknD4ATISqAGD) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Mano Não Toca na Lace](https://open.spotify.com/album/0yz6edkbA6yhoNd3BXU8BE) | 3:25 |
+| 47 | [Mete Ficha](https://open.spotify.com/track/5RpEk0ucLSn4TlaFZ0TxuE) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [tharealjuggboy](https://open.spotify.com/artist/0xazmrsqv7px8U921RehiR), [Lc da 100](https://open.spotify.com/artist/5NfKZ5L3TL1V22Xw5KJD25), [Drow Beats](https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt) | [Mete Ficha](https://open.spotify.com/album/1GdQdCeWKMV8uKxxcFWf8L) | 2:19 |
 | 48 | [Robocop](https://open.spotify.com/track/121AXIy1L6fxNKIGq6BKx3) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Rímel](https://open.spotify.com/album/2cqZQOpwquo3lu1aZXRkTQ) | 1:44 |
-| 49 | [Perfumes e Balão](https://open.spotify.com/track/5TvI5IBlGIdNA3uvqIV60q) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [L30](https://open.spotify.com/artist/1BxVqY0zR8ymT4bLg6abA3) | [LOVEZY](https://open.spotify.com/album/2H0cMONtIiEgY0Mycmvmvp) | 2:52 |
-| 50 | [Mete Ficha](https://open.spotify.com/track/5RpEk0ucLSn4TlaFZ0TxuE) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [tharealjuggboy](https://open.spotify.com/artist/0xazmrsqv7px8U921RehiR), [Lc da 100](https://open.spotify.com/artist/5NfKZ5L3TL1V22Xw5KJD25), [Drow Beats](https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt) | [Mete Ficha](https://open.spotify.com/album/1GdQdCeWKMV8uKxxcFWf8L) | 2:19 |
+| 49 | [00:30](https://open.spotify.com/track/3Bx3qSUR9sknD4ATISqAGD) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Mano Não Toca na Lace](https://open.spotify.com/album/0yz6edkbA6yhoNd3BXU8BE) | 3:25 |
+| 50 | [Perfumes e Balão](https://open.spotify.com/track/5TvI5IBlGIdNA3uvqIV60q) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [L30](https://open.spotify.com/artist/1BxVqY0zR8ymT4bLg6abA3) | [LOVEZY](https://open.spotify.com/album/2H0cMONtIiEgY0Mycmvmvp) | 2:52 |
 
-Snapshot ID: `MCwwNmIxZGRhNWEwZWJlNDI5YTU2YjNhM2M5YzNmMzgyNjMyZmIwNGIx`
+Snapshot ID: `MTcxMjcwNzIwMCwwMDAwMDAwMDBhZDIyZDFiNjY5ZjM1M2NmNzZhZTdjNjU4NTY2N2Zj`

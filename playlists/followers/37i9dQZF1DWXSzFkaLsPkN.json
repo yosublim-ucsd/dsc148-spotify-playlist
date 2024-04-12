@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 118041,
+  "2024-04-12": 118059,
   "date_first_scraped": "2023-05-19",
   "description": "Hindi hai, Indie hai! Cover- W.i.S.H",
   "name": "hIndies",
@@ -213,6 +213,24 @@
       "duration_ms": 156107,
       "name": "Badra Bahara",
       "url": "https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed"
+    },
+    {
+      "album": {
+        "name": "Barse More Naina",
+        "url": "https://open.spotify.com/album/0xVOTxx8rhWsD25L6sw6jg"
+      },
+      "artists": [
+        {
+          "name": "KhoslaRaghu",
+          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Barse More Naina",
+      "url": "https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON"
     },
     {
       "album": {
@@ -1127,7 +1145,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 131578,
       "name": "Jaane Hi Do",
       "url": "https://open.spotify.com/track/1YrRmCUVEWBoPZs36lu9aY"
@@ -2325,7 +2343,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 161333,
       "name": "Nadiya Bairi Bhayi",
       "url": "https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc"
@@ -3457,6 +3475,24 @@
       "duration_ms": 250124,
       "name": "Tum Jaise Ho",
       "url": "https://open.spotify.com/track/7ofq7AcSmMCB2fKpj1iDoo"
+    },
+    {
+      "album": {
+        "name": "Tumhare Aane Se",
+        "url": "https://open.spotify.com/album/16yGYO6gq927bubQ3fw2X8"
+      },
+      "artists": [
+        {
+          "name": "Ashu Shukla",
+          "url": "https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208888,
+      "name": "Tumhare Aane Se",
+      "url": "https://open.spotify.com/track/5YVHAfMNjVPbRg6ZPsOcQw"
     },
     {
       "album": {

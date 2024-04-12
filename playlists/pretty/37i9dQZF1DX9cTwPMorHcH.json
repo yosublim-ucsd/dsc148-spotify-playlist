@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 85366,
+  "num_followers": 85404,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTc2ZDg4ZDExNGRhNDcyMWIzMjljYmI0Mzk3MDYyZjJkMTc2YzFk",
+  "snapshot_id": "MTY4NjgzNDgyNywwMDAwMDAwMDQ4MzlkMWUxYzcyNzBkNGRmMmMzZmZhODVlYjAxODJk",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -449,22 +449,6 @@
       "url": "https://open.spotify.com/track/2YJgM8lj4u5YEZRSHSfL60"
     },
     {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "In Step",
-        "url": "https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 143226,
-      "name": "The House Is Rockin'",
-      "url": "https://open.spotify.com/track/4BYmnYGNVBVm2JHVxFNMXj"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Brighter Days",
@@ -479,6 +463,22 @@
       "duration_ms": 183240,
       "name": "Simple Man",
       "url": "https://open.spotify.com/track/3bNM6obnxsPd9hbJlsrQhL"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "In Step",
+        "url": "https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 143226,
+      "name": "The House Is Rockin'",
+      "url": "https://open.spotify.com/track/4BYmnYGNVBVm2JHVxFNMXj"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -807,6 +807,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Blues Breakers",
+        "url": "https://open.spotify.com/album/3W45Tazulh4zb48uL1RV8H"
+      },
+      "artists": [
+        {
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        }
+      ],
+      "duration_ms": 216200,
+      "name": "All Your Love",
+      "url": "https://open.spotify.com/track/1tPZlhOHo1GOZRrJR3hGOx"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Kingfish",
         "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 516533,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Blues Breakers",
-        "url": "https://open.spotify.com/album/3W45Tazulh4zb48uL1RV8H"
-      },
-      "artists": [
-        {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
-        }
-      ],
-      "duration_ms": 216200,
-      "name": "All Your Love",
-      "url": "https://open.spotify.com/track/1tPZlhOHo1GOZRrJR3hGOx"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Genuine Houserocking Music",
-        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "Ain't Got Nobody",
-      "url": "https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Bloomfield-A Retrospective",
         "url": "https://open.spotify.com/album/5ZkaY6CcFUidEuWc41o9b2"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 414960,
       "name": "Albert's Shuffle",
       "url": "https://open.spotify.com/track/1ekio2Gk6WycLArAUJZfxM"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Genuine Houserocking Music",
+        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+        }
+      ],
+      "duration_ms": 210493,
+      "name": "Ain't Got Nobody",
+      "url": "https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1625,20 +1625,20 @@
       "url": "https://open.spotify.com/track/0PUWmPna5P0hKtSwXWin9o"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
+      "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "The Pleasure's All Mine: The Complete Blues, Ballads and Favorites Sessions",
-        "url": "https://open.spotify.com/album/1inwZe8lEy9j9uhJaTRcbE"
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/2SWcIu27vvZHPxEHU3FDck"
       },
       "artists": [
         {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
         }
       ],
-      "duration_ms": 223533,
-      "name": "The Pleasure's All Mine",
-      "url": "https://open.spotify.com/track/2x4Ag6Npxj78rsp849NDN7"
+      "duration_ms": 202826,
+      "name": "Hard Case",
+      "url": "https://open.spotify.com/track/4jKUZXZuhKH2YI277OnFol"
     }
   ],
   "unique_name": "Blues Drive",

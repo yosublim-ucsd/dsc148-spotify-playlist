@@ -4,7 +4,7 @@
 
 > Relax with this mix of peaceful, ambient, indie music.
 
-251 songs - 16 hr 45 min
+252 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Homegrown](https://open.spotify.com/track/574uSIfe7tTBLCFjN38vij) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/70ZgNr9ZbfPqaOn0gfA50A) | 4:02 | 2023-09-29 |  |
 | [Homegrown](https://open.spotify.com/track/6LGoGD6GV9BadApTSaUqcv) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/5kFNVejPETepNP6mrsoeox) | 4:02 | 2018-11-26 | 2023-10-16 |
 | [Husks And Shells](https://open.spotify.com/track/05PxNZJfr9OTpCo2JjH0xe) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Unmap](https://open.spotify.com/album/03RN67Pc5FEWgZnqKgncS6) | 3:43 | 2018-11-26 | 2022-07-29 |
-| [Husks And Shells](https://open.spotify.com/track/0jeDGNGMULFL1xE6ImBhVQ) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Unmap](https://open.spotify.com/album/4Man19eOZ8DBymTPSbSuF3) | 3:43 | 2018-11-26 |  |
+| [Husks And Shells](https://open.spotify.com/track/0jeDGNGMULFL1xE6ImBhVQ) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Unmap](https://open.spotify.com/album/4Man19eOZ8DBymTPSbSuF3) | 3:43 | 2018-11-26 | 2024-04-12 |
 | [I Can Be One](https://open.spotify.com/track/75TQCpwabFoY8UvnLPJuD1) | [Luke Rathborne](https://open.spotify.com/artist/0XfDKxRuVIlgnFx0GHj4h6) | [I Can Be One](https://open.spotify.com/album/0apBNMstBZab1nZOy0GAdo) | 3:57 | 2018-11-26 | 2022-07-29 |
 | [I Fell in Love](https://open.spotify.com/track/39hJ5R7L6AvL4DyApOPRmH) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Xenia Rubinos](https://open.spotify.com/artist/17UUkxLWmRP5P47W5kwVVb) | [I Fell In Love](https://open.spotify.com/album/4rT4HtEqudtBqg1tqa25Vw) | 4:20 | 2020-10-15 | 2023-06-14 |
 | [I Fell In Love](https://open.spotify.com/track/51y9N9jm8ykm0UrpaJ6J3s) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Xenia Rubinos](https://open.spotify.com/artist/17UUkxLWmRP5P47W5kwVVb) | [I Fell In Love](https://open.spotify.com/album/7tNjHSLioVJsgily2nkn7z) | 4:20 | 2020-10-15 | 2022-07-29 |
@@ -199,6 +199,7 @@
 | [St\. Marie](https://open.spotify.com/track/4YUIJXxriyGEzbEeRnPjJn) | [High Highs](https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4) | [St\. Marie](https://open.spotify.com/album/58Fruc4TccCK1aM2ZuKmWl) | 2:29 | 2018-11-26 | 2023-05-20 |
 | [St.Marie](https://open.spotify.com/track/2SmPtJR4MG7k9H4IhXOyiI) | [High Highs](https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4) | [St.Marie](https://open.spotify.com/album/49ZxsMev6T1HY6tOE1PT2a) | 2:29 | 2018-11-26 | 2022-07-29 |
 | [Statue Of A Woman](https://open.spotify.com/track/6b68aviQQgq22JuK2CDno6) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 1:57 | 2023-06-13 |  |
+| [Stay](https://open.spotify.com/track/2Ux24Mdegm7ZP6dfOm6cFc) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [Better in the Shade](https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG) | 4:08 | 2023-09-29 |  |
 | [Sticky Leaves](https://open.spotify.com/track/0GOEs6J9NmgFMR03fE0hdQ) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Sticky Leaves](https://open.spotify.com/album/0GR9yvp6nh1ifG3MnWsUp9) | 3:52 | 2018-11-26 | 2022-07-29 |
 | [Sticky Leaves](https://open.spotify.com/track/4qlIIxYpHFE4z4IncQrn2N) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Paris 12](https://open.spotify.com/album/2pWwQGSsGVaYiPEf5GS57D) | 3:52 | 2018-11-26 | 2022-11-13 |
 | [Strange Darling](https://open.spotify.com/track/3pGTGFLKTGFOLArMq3H9jE) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Strange Darling](https://open.spotify.com/album/6JvrwcEWOwBDRR9MgqD35Z) | 3:42 | 2018-11-26 | 2022-07-29 |

@@ -416,7 +416,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 222489,
       "name": "Ammunition",
       "url": "https://open.spotify.com/track/16gu3zjAEer6t6c8qxaltf"
@@ -6282,6 +6282,24 @@
       "duration_ms": 205320,
       "name": "spark",
       "url": "https://open.spotify.com/track/3S8ltNG88j9u6JHGa0b7um"
+    },
+    {
+      "album": {
+        "name": "Spite",
+        "url": "https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162205,
+      "name": "Spite",
+      "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"
     },
     {
       "album": {

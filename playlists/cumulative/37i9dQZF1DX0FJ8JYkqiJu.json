@@ -175,6 +175,32 @@
     },
     {
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/2pXo4k3f6Za6rFrpF7B5sI"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Chrome Sparks",
+          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
+        },
+        {
+          "name": "IS U IS U",
+          "url": "https://open.spotify.com/artist/6zH8urr3XDDM0rZpLRtxRX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178746,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/3fA1ftCkI0rwc2fz09ae29"
+    },
+    {
+      "album": {
         "name": "All I've Ever Known",
         "url": "https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK"
       },
@@ -270,6 +296,24 @@
       "duration_ms": 208290,
       "name": "Amman",
       "url": "https://open.spotify.com/track/3s4NMBRGagFwRZm4e58o4r"
+    },
+    {
+      "album": {
+        "name": "Angeles / Build A Man",
+        "url": "https://open.spotify.com/album/0AGElbWY5WV66ygbTy2aQr"
+      },
+      "artists": [
+        {
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123142,
+      "name": "Angeles",
+      "url": "https://open.spotify.com/track/0QNLboKNg60M1PmEBFoY6k"
     },
     {
       "album": {
@@ -372,7 +416,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 281253,
       "name": "Back In Love",
       "url": "https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl"
@@ -1026,7 +1070,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 244878,
       "name": "Fade Into Black",
       "url": "https://open.spotify.com/track/6iLmRyoQ1y7zVkWzmXL4nt"
@@ -1088,7 +1132,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 197739,
       "name": "Falling",
       "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
@@ -1208,10 +1252,32 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 269249,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
+    },
+    {
+      "album": {
+        "name": "Glad I Found You",
+        "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211191,
+      "name": "Glad I Found You",
+      "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
     },
     {
       "album": {
@@ -1372,7 +1438,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 251694,
       "name": "Healing",
       "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
@@ -1466,6 +1532,28 @@
       "duration_ms": 197150,
       "name": "High Tide",
       "url": "https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ"
+    },
+    {
+      "album": {
+        "name": "Higher Ground (feat. Roosevelt)",
+        "url": "https://open.spotify.com/album/7cOtzEm2d848DVGKfrgSip"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273275,
+      "name": "Higher Ground (feat. Roosevelt)",
+      "url": "https://open.spotify.com/track/6exgQSGBxYo8WzRSw10JJD"
     },
     {
       "album": {
@@ -1580,6 +1668,24 @@
       "duration_ms": 213507,
       "name": "Home",
       "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262827,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
     },
     {
       "album": {
@@ -1722,7 +1828,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 168888,
       "name": "Inhale / Exhale (with Sabrina Claudio)",
       "url": "https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu"
@@ -2086,6 +2192,24 @@
       "duration_ms": 243263,
       "name": "Loved",
       "url": "https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68"
+    },
+    {
+      "album": {
+        "name": "Luminary",
+        "url": "https://open.spotify.com/album/1Rp6be6Sf31WO6tNZY3eR9"
+      },
+      "artists": [
+        {
+          "name": "Joel Sunny",
+          "url": "https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Luminary",
+      "url": "https://open.spotify.com/track/66pWxtaxTV8CxcGOvivZeT"
     },
     {
       "album": {
@@ -2867,6 +2991,28 @@
     },
     {
       "album": {
+        "name": "Shine Love In",
+        "url": "https://open.spotify.com/album/5cITFIW9CxttK24F0wyWXn"
+      },
+      "artists": [
+        {
+          "name": "Jai Piccone",
+          "url": "https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC"
+        },
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189293,
+      "name": "Shine Love In",
+      "url": "https://open.spotify.com/track/6oX2fvFiYdxpVXhvUiUPX0"
+    },
+    {
+      "album": {
         "name": "Sirena Deep",
         "url": "https://open.spotify.com/album/4AllwUNpRrTbuujwhOvpAl"
       },
@@ -3013,6 +3159,24 @@
     },
     {
       "album": {
+        "name": "Storm",
+        "url": "https://open.spotify.com/album/6f4QRj8KKRJ2WXmQ3x3IUG"
+      },
+      "artists": [
+        {
+          "name": "Tora",
+          "url": "https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219333,
+      "name": "Storm",
+      "url": "https://open.spotify.com/track/6ji7sYr2tniw0ZeBFlZHUD"
+    },
+    {
+      "album": {
         "name": "Straight Up Relaxin' (feat. Cosmo's Midnight)",
         "url": "https://open.spotify.com/album/2sJDqAwhkjC0FWC51EGOGd"
       },
@@ -3046,7 +3210,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 126869,
       "name": "Sunset With You",
       "url": "https://open.spotify.com/track/0nL6CQenIqkfhXuANgWiCw"
@@ -3186,7 +3350,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 226146,
       "name": "Tides",
       "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"

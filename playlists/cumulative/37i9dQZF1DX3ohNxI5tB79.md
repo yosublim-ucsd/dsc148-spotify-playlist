@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-219 songs - 14 hr 14 min
+223 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,8 @@
 | [Come on with the Good Thing](https://open.spotify.com/track/2oy3lFLrv7iO7XqhvEpBLB) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Music for Robots](https://open.spotify.com/album/63Op2LSvKkLkbKxTIUkwwc) | 5:19 | 2021-12-13 | 2022-05-18 |
 | [Comparison Is A Thief Of Joy](https://open.spotify.com/track/1DlyIPZpwuVT7TZvt96Lgd) | [Fruit Distro Collective](https://open.spotify.com/artist/0vPnsaDFU6zMeXLjRIAPLf) | [Some Kind Of Wisdom](https://open.spotify.com/album/6uAMiLgcbEzp5gGfPuO419) | 2:56 | 2023-10-19 | 2024-02-24 |
 | [Comparison Is A Thief Of Joy](https://open.spotify.com/track/4K1e3kZiNClQgmzqxQrTIE) | [Fruit Distro Collective](https://open.spotify.com/artist/0vPnsaDFU6zMeXLjRIAPLf) | [Comparison Is A Thief Of Joy](https://open.spotify.com/album/0Q4r0UjqH1oZhhQaB1gVE8) | 2:56 | 2022-12-02 | 2023-10-25 |
+| [Crazy](https://open.spotify.com/track/1KxO3MDB1mNUm4AHvxeRPF) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Crazy](https://open.spotify.com/album/2IUqvXtUJG23ozaIffSr28) | 3:15 | 2024-04-11 |  |
+| [Dancin Like a Fool](https://open.spotify.com/track/4wI11xnaKJAayVFBTHd6LM) | [Souldrippin](https://open.spotify.com/artist/1b0D9jgh2pJtPsKjU1gyS5), [Darius Dante](https://open.spotify.com/artist/1QCRuNTOqoXVN7F39fWxz5), [Hari Loco](https://open.spotify.com/artist/3nPiCfsgxJlJAkdPPVG2hQ) | [Dancin Like a Fool](https://open.spotify.com/album/6MY3TcKo5VPo3ANxeuVM6G) | 3:04 | 2024-04-11 |  |
 | [Diamonds in the rough](https://open.spotify.com/track/0DltlSIHRJQR74DKrk9dvB) | [Nathan Badu](https://open.spotify.com/artist/3IjtugjO4uMXKRiNDmyAWY) | [Diamonds in the rough](https://open.spotify.com/album/2KSmHJMcHT22zT4qbXj5nz) | 3:36 | 2023-10-19 |  |
 | [Do You Really](https://open.spotify.com/track/4vt4JoGfQ1QaDeHXKxTpUI) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Do You Really](https://open.spotify.com/album/176nPDYntjkybucUj1VlJt) | 3:30 | 2021-12-13 | 2022-10-01 |
 | [Do You?](https://open.spotify.com/track/1wMVd1DxRhwdVtAugMbP2i) | [GaryOAKland](https://open.spotify.com/artist/3ugRqsUUkY3Dxc35llDO07), [Lee Brave](https://open.spotify.com/artist/6RogTcrhOPLlVZaV34LCyp) | [Do You?](https://open.spotify.com/album/6xmjPWzfj0yPFa90CqDaDB) | 3:12 | 2021-12-13 |  |
@@ -95,6 +97,7 @@
 | [Inside You](https://open.spotify.com/track/0fEcztdrrEaiBpEVkfggd2) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [Heritage \(Reissue\)](https://open.spotify.com/album/2BtLI4D4seuSwWDaAu8L9z) | 4:52 | 2021-12-13 | 2023-10-04 |
 | [Island Letter](https://open.spotify.com/track/2sTqZHdxovxCVa0w6qfDws) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Inspiration Information/ Wings Of Love](https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S) | 4:43 | 2024-03-07 |  |
 | [Jusqu'ici tout va bien](https://open.spotify.com/track/4Enwbl0M7hXUU9gYf6l928) | [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Jusqu'ici tout va bien](https://open.spotify.com/album/2KoENXX9CeFjHTuwsV7AUT) | 3:26 | 2021-12-13 |  |
+| [Keep Your Head Up](https://open.spotify.com/track/2kHVK2I4FpaI48ZRAlmNTc) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Keep Your Head Up](https://open.spotify.com/album/71P3ASFixQCXfE4S7XYYFb) | 2:59 | 2024-04-11 |  |
 | [Kickback](https://open.spotify.com/track/0zgDfVY84eFIzgTvK9KutN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6) | 2:51 | 2022-10-10 | 2024-02-24 |
 | [Kickback](https://open.spotify.com/track/5MZQIjtghyFc4sMVUzD7MD) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd) | 2:51 | 2021-12-13 | 2022-10-13 |
 | [LIA](https://open.spotify.com/track/4igMWltZhzr97iuC8YwJPk) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [LIA](https://open.spotify.com/album/0Om8IQImnBm0g7SGKMfn3m) | 3:38 | 2021-12-13 | 2022-07-29 |
@@ -107,6 +110,7 @@
 | [Love Falls Down](https://open.spotify.com/track/4K9i7f2Wi3Fx0N5DhMxbIH) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Love Falls Down](https://open.spotify.com/album/3FQbYHvVYJg6zX76gvUwDG) | 5:15 | 2022-07-05 | 2022-10-31 |
 | [Love Falls Down](https://open.spotify.com/track/5X5XhvErlZwcy9Mj0O2aVV) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Love Falls Down](https://open.spotify.com/album/08WEyVCx9yGsm8as4jbyOZ) | 5:15 | 2021-12-13 | 2022-07-29 |
 | [Love Is Back](https://open.spotify.com/track/2xAffWASC4yddor8wW037Z) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Love Is Back](https://open.spotify.com/album/5SzPWTx8cNuBeIpuo21bPk) | 4:16 | 2022-04-28 |  |
+| [Love the Mystery \- Radio Edit](https://open.spotify.com/track/2Pz0KXAVTupriGxk9rT42n) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Love the Mystery](https://open.spotify.com/album/3rHgk8sOOo0Kh5bX0Oqjs5) | 3:44 | 2024-04-11 |  |
 | [Make a Change](https://open.spotify.com/track/1EKAEKLKc9hi6x8bjgTT9T) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/0CzFk2RSGJjhXLEGhk6K1E) | 3:29 | 2021-12-13 | 2022-07-29 |
 | [Make a Change](https://open.spotify.com/track/4mIp8DZXXX1CCsRQi9x98L) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 3:29 | 2022-07-05 | 2024-02-19 |
 | [Make a Change](https://open.spotify.com/track/66TjJJq67nkHkwkfabSqX5) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Durand Jones & The Indications](https://open.spotify.com/album/3JGHzHtOvRb5ye7YBmmDme) | 3:29 | 2023-12-01 | 2024-02-24 |
@@ -209,7 +213,7 @@
 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 | 2022-03-10 |  |
 | [Whisper My Name](https://open.spotify.com/track/1qc5dn8Ou7plbR0SxH1pzD) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Whisper My Name](https://open.spotify.com/album/6ELf7lXd7luKkRCDjZ9wzg) | 4:00 | 2022-04-28 | 2022-08-13 |
 | [Whisper My Name](https://open.spotify.com/track/0dTye9Nu4yiVfmIlyI8PEE) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Adi Oasis](https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ) | 4:01 | 2022-07-05 |  |
-| [Wild Animals](https://open.spotify.com/track/4JiLpvvnPiQtsf4izF1SQ5) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 3:35 | 2023-02-17 |  |
+| [Wild Animals](https://open.spotify.com/track/4JiLpvvnPiQtsf4izF1SQ5) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 3:35 | 2023-02-17 | 2024-04-12 |
 | [Wild Animals](https://open.spotify.com/track/3tr8E4dFE9VIuWbIiwiePE) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Wild Animals](https://open.spotify.com/album/5PNDwa8JmKV8m43Y41HD4m) | 3:38 | 2022-12-02 | 2023-02-19 |
 | [Wish The Love Never Died](https://open.spotify.com/track/19Yyk8JtxvHKI4byINCi5J) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Actually, I Can.](https://open.spotify.com/album/0L0JffGJcm2ybbDcd6BJmO) | 3:01 | 2022-10-30 | 2024-01-29 |
 | [Wish The Love Never Died](https://open.spotify.com/track/3eoN5fDD9Dq0dsZ29l51Sf) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Wish The Love Never Died](https://open.spotify.com/album/0jE5Jhr77m6Gq4myLVgC1l) | 3:01 | 2022-10-30 | 2022-11-14 |

@@ -4,7 +4,7 @@
 
 > iykyk
 
-1,338 songs - 3 day 0 hr 1 min
+1,339 songs - 3 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,6 +494,7 @@
 | [Hey Daddy \(Daddy's Home\)](https://open.spotify.com/track/030OCtLMrljNhp8OWHBWW3) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 3:44 | 2024-02-18 |  |
 | [Hey, Mickey!](https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei) | 1:55 | 2023-01-15 | 2023-07-01 |
 | [Heyy](https://open.spotify.com/track/6w2laMOxRE0yUsbq4bVLiZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Heyy](https://open.spotify.com/album/3oBEWrK0AXOXa8ADodU0ue) | 3:12 | 2022-10-31 | 2022-11-16 |
+| [Hide Away](https://open.spotify.com/track/61i3HxSlZI6EQnVdYeofyo) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Daya](https://open.spotify.com/album/5dhk9EtHHquuzSXdxFBLcT) | 3:11 | 2024-04-11 |  |
 | [High](https://open.spotify.com/track/2LseyBkPJv7r7wCt2yMEgX) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:16 | 2023-01-17 | 2023-01-20 |
 | [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 | 2023-11-28 | 2024-03-09 |
 | [High Enough \- Slowed](https://open.spotify.com/track/5JXOF1rt31rT07luk5wFE6) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Slowed Radio](https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k) | [High Enough \(Slowed\)](https://open.spotify.com/album/22fEFCYPXjbw5hguumN7lR) | 3:21 | 2021-12-03 | 2022-09-17 |
@@ -605,7 +606,7 @@
 | [It's Corn](https://open.spotify.com/track/58WiMFVLbAfmS7k4T0qKtG) | [Tariq](https://open.spotify.com/artist/2knWnzQWhtUg9J3zVsEYm8), [The Gregory Brothers](https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew), [Recess Therapy](https://open.spotify.com/artist/0WSxLJRrB4L65JhNxIajE2) | [It's Corn](https://open.spotify.com/album/6UA672BEiCeihRReCCnlPb) | 2:47 | 2022-08-29 | 2022-10-26 |
 | [It's Getting Hot](https://open.spotify.com/track/4lMyi03aRk8nPBLLGyqAVz) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [It's Getting Hot](https://open.spotify.com/album/5c96P3dSu3UIgrGhIaE7RO) | 2:14 | 2023-08-03 | 2023-10-18 |
 | [it's ok!](https://open.spotify.com/track/65QnKbugRDVJK6MBdwkKBo) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [it’s ok!](https://open.spotify.com/album/4w7M4EslHGIRR3etqWniTX) | 3:05 | 2022-07-22 | 2022-08-05 |
-| [I’d Rather Overdose](https://open.spotify.com/track/17UNijHcIMuz5ik2UKeCjK) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF), [Z](https://open.spotify.com/artist/0e04X89GPDO1SJQZHZYsij) | [I’d Rather Overdose](https://open.spotify.com/album/11ZfrqRpeCnGBAbJ8e50kH) | 3:55 | 2024-01-25 |  |
+| [I’d Rather Overdose](https://open.spotify.com/track/17UNijHcIMuz5ik2UKeCjK) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF), [Z](https://open.spotify.com/artist/0e04X89GPDO1SJQZHZYsij) | [I’d Rather Overdose](https://open.spotify.com/album/11ZfrqRpeCnGBAbJ8e50kH) | 3:55 | 2024-01-25 | 2024-04-12 |
 | [I’m Just Ken \(From Barbie The Album\)](https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue) | [I’m Just Ken \(From Barbie The Album\)](https://open.spotify.com/album/6OvDrWqXGbPBTyovcFmQO5) | 3:42 | 2023-07-24 | 2023-10-08 |
 | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 | 2022-02-28 | 2022-05-04 |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-05-04 | 2022-07-18 |

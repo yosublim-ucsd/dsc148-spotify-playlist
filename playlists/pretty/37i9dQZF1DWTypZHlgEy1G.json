@@ -1,12 +1,12 @@
 {
-  "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : Georges Brassens",
-  "num_followers": 536152,
+  "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : Charles Aznavour",
+  "num_followers": 536151,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTc3NWFhOTM0YjQ5YWQzYjRjZjYxOTQyNTY2ZmY0NWE3NjQ0MGVk",
+  "snapshot_id": "MTcxMTEzNjI2NywwMDAwMDAwMDkyYTRmMzg3Y2ZlYWIyMjE2YzIxNTNjNGU0ODY2NTdk",
   "tracks": [
     {
       "added_at": "2023-10-19 14:26:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-10-19 14:26:00",
       "album": {
-        "name": "Hits chanson fran\u00e7aise",
-        "url": "https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna"
-      },
-      "artists": [
-        {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
-        }
-      ],
-      "duration_ms": 153346,
-      "name": "Poup\u00e9e de cire, poup\u00e9e de son",
-      "url": "https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH"
-    },
-    {
-      "added_at": "2023-10-19 14:26:00",
-      "album": {
         "name": "Amoureux de ma femme",
         "url": "https://open.spotify.com/album/7J4ADzAFtmjdImTv9IbUgi"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 163306,
       "name": "Amoureux de ma femme",
       "url": "https://open.spotify.com/track/3PiB9JW5oXOLl0vgayks7W"
+    },
+    {
+      "added_at": "2023-10-19 14:26:00",
+      "album": {
+        "name": "Hits chanson fran\u00e7aise",
+        "url": "https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 153346,
+      "name": "Poup\u00e9e de cire, poup\u00e9e de son",
+      "url": "https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH"
     },
     {
       "added_at": "2023-10-19 14:26:00",

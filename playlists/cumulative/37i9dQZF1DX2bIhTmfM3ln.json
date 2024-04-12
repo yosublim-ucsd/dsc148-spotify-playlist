@@ -284,7 +284,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 175187,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/34oVCWxvzVR1sJNbCEMoEC"
@@ -1331,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "Bucket List",
+      "url": "https://open.spotify.com/track/7fnH0BHcOanXLbaPOFW5AA"
+    },
+    {
+      "album": {
         "name": "Omo Charlie Champagne Vol.1",
         "url": "https://open.spotify.com/album/2c8Mf9ScYdKrb9foJiNaGe"
       },
@@ -1350,6 +1368,32 @@
       "duration_ms": 218017,
       "name": "By You",
       "url": "https://open.spotify.com/track/2Bv0cdN1Bnf1wnXytWyqJd"
+    },
+    {
+      "album": {
+        "name": "Del Beast",
+        "url": "https://open.spotify.com/album/2orK7VUcUbUgzFtt0WItUq"
+      },
+      "artists": [
+        {
+          "name": "Del B",
+          "url": "https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t"
+        },
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135653,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/2t1f9HDMwlhP8Zs0yks1Ic"
     },
     {
       "album": {
@@ -2386,7 +2430,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 127067,
       "name": "Duffel Bag",
       "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
@@ -7102,7 +7146,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 220833,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/2o7yOQTog50uh8TI0b34fz"

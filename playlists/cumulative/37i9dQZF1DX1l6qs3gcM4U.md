@@ -2,9 +2,9 @@
 
 ### [Dancing Kizomba](https://open.spotify.com/playlist/37i9dQZF1DX1l6qs3gcM4U)
 
-> Fall in love with the sensual sounds of Kizomba! Cover: Black Spygo, C4 Pedro & Bruna Amado.
+> Fall in love with the sensual sounds of Kizomba! Cover: Gerilson Insrael
 
-358 songs - 21 hr 22 min
+359 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Comment vivre sans toi](https://open.spotify.com/track/0B2qVNmH4ngg1SpNH2zHzk) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Comment vivre sans toi](https://open.spotify.com/album/78MJrZeQPFSxILprjOulwB) | 3:26 | 2021-12-10 | 2022-07-22 |
 | [Como Antes](https://open.spotify.com/track/0dAZ5dCofHy6rquqU6YG29) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2) | [Como Antes](https://open.spotify.com/album/5Ja0yJ2hIVxWq5lOtGQ6Ih) | 3:44 | 2022-03-25 |  |
 | [Control](https://open.spotify.com/track/3WQxc2F2C57eqs57YJgEcZ) | [Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [Black Vision](https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ) | [Control](https://open.spotify.com/album/6xxYj7XEsGGquc3DSbUf7L) | 3:27 | 2023-09-21 |  |
-| [Corno](https://open.spotify.com/track/1siCdFLHxIxRguAO1Q7NND) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Esperado](https://open.spotify.com/album/53WRpFhBqEq4McKmLeURPr) | 3:30 | 2023-08-31 |  |
+| [Corno](https://open.spotify.com/track/1siCdFLHxIxRguAO1Q7NND) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Esperado](https://open.spotify.com/album/53WRpFhBqEq4McKmLeURPr) | 3:30 | 2023-08-31 | 2024-04-12 |
 | [Corno](https://open.spotify.com/track/35wFDFtEwQesgr9ppW9s57) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Corno](https://open.spotify.com/album/301VhYBzUrqt9del8BwzD7) | 3:30 | 2022-02-14 | 2022-07-27 |
 | [Corno](https://open.spotify.com/track/65YDzoTd19yrff1ThXfmOW) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Corno](https://open.spotify.com/album/5wIj5r7RnXbgpY86w5NIRZ) | 3:30 | 2022-07-22 | 2023-07-18 |
 | [Could've Been \- Kizomba](https://open.spotify.com/track/1F1EJj1aVtbeI0y0hcFtRh) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Could've Been \(Kizomba\)](https://open.spotify.com/album/6qIdA3p9mLWsRO9OQvKlgj) | 4:30 | 2021-12-10 | 2022-04-15 |
@@ -110,6 +110,7 @@
 | [Esquece o Mundo](https://open.spotify.com/track/32QMS3ZbvlDhC9pFRMEytM) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Esquece o Mundo](https://open.spotify.com/album/3LXZA1WxdjcsjOffOWhLQM) | 4:06 | 2021-12-10 | 2022-09-30 |
 | [Essa Mboa](https://open.spotify.com/track/30GRqeKxTuZQ1JEeCvHJKY) | [Adi Cudz](https://open.spotify.com/artist/1BdYccRPWnSKT7Hk8cZP3d), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Essa Mboa](https://open.spotify.com/album/2GFBG8FcKn02CztbiQJk8P) | 3:59 | 2021-12-10 | 2022-07-21 |
 | [Estragar o que Está Bom](https://open.spotify.com/track/0TeztqSxQL0OdnYR3XQV1R) | [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ) | [Estragar o que Está Bom](https://open.spotify.com/album/0pbURzL14oQNK9djUqAciy) | 3:00 | 2021-12-10 | 2022-04-07 |
+| [Etnias](https://open.spotify.com/track/1yQ3ZpnTm0vwueEjUvJUc4) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Etnias](https://open.spotify.com/album/25Z5ZFAV77qYw5pVdNk7Ba) | 2:54 | 2024-04-11 |  |
 | [Eu Faço Tudo](https://open.spotify.com/track/0kERTymm6JXyMgKGMXCygE) | [Yola Araújo](https://open.spotify.com/artist/4jYj5iBLdhRzXvEC1f0XGm) | [Em Nome do Amor](https://open.spotify.com/album/2Xkxqky3CgYgxSU0a0S1Kb) | 4:43 | 2021-12-10 | 2022-07-25 |
 | [Eu me Sinto](https://open.spotify.com/track/2QZd7ryXPS1hK7x6ZrbBAj) | [The Nitrox](https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj) | [Eu me Sinto](https://open.spotify.com/album/58e6nEDJe7Ow3zKjX2h7Gj) | 2:57 | 2022-03-11 | 2022-04-06 |
 | [Eu Não Quero](https://open.spotify.com/track/43h581RDwKXwMF34V5K1yb) | [Da Silva](https://open.spotify.com/artist/0VbLf7VNOS7UfPfxRGF02E) | [Eu Não Quero](https://open.spotify.com/album/3L8BfFdhsbbj7wsDx27rs3) | 3:19 | 2022-03-25 | 2022-04-19 |

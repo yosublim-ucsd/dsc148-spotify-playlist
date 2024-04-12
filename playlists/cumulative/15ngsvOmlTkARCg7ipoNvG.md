@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,746 songs - 1 day 12 hr 11 min
+1,747 songs - 1 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1133,6 +1133,7 @@
 | [Peace Is the Only Way](https://open.spotify.com/track/0vJCt2jnOAwSUm5XeEf7PW) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Aura](https://open.spotify.com/album/0FVU6l8yPL1RaowRNaGux0) | 1:37 | 2022-01-20 |  |
 | [Peace on the Water](https://open.spotify.com/track/0SqbAQ3G3BTnOWEurcBDno) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Grateful Hearts](https://open.spotify.com/album/1zFFBWzfLyAI2hesLvb6gV) | 1:32 | 2022-01-20 | 2024-01-30 |
 | [Peaceful And Calm](https://open.spotify.com/track/1Rm9wbsq6n8ysupu43ll5p) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Remembering](https://open.spotify.com/album/5qmhssquVh9HVjWh1Y5lA3) | 1:12 | 2022-01-12 |  |
+| [Peaceful Days](https://open.spotify.com/track/7iWUvaDKVbb83ZLSEztfR4) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Peaceful Days](https://open.spotify.com/album/6KRgVOirgic0ceFIS9ZVrl) | 1:00 | 2024-04-11 |  |
 | [Peaceful Light](https://open.spotify.com/track/3oZUX6sOmsGU7SyDy6EpWP) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Spring Reflections](https://open.spotify.com/album/4eY1601yvpJts5SRxdIR3V) | 1:01 | 2023-05-23 |  |
 | [Peaceful Moments](https://open.spotify.com/track/2wSVdxETIakJGpMx8co7PP) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Peaceful Moments](https://open.spotify.com/album/68UoGqyFrVntLGBozUGBlf) | 1:00 | 2024-04-04 |  |
 | [Peaceful Morning \- Ambient Version](https://open.spotify.com/track/2LO3qrKtIjSfoGOsHBwIyQ) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Peaceful Morning \(Ambient Version\)](https://open.spotify.com/album/5bGRwuCS30i29AdgYjTZ3b) | 1:01 | 2022-12-30 |  |

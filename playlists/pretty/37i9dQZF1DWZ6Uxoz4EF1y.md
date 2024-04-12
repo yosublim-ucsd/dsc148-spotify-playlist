@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,382 likes - 100 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,511 likes - 100 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 79 | [Glorioso Eres Tú](https://open.spotify.com/track/25A92qcO6w5ERUwKqt4UwC) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Esto Es Jesus Culture](https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY) | 4:24 |
 | 80 | [Merecedor de Alabanza](https://open.spotify.com/track/6x8I8rtoNFAvj70zdvtCQi) | [Alex Rodriguez](https://open.spotify.com/artist/0xcJ6S4UGlO2NVwOU4mhxa) | [Sin Fronteras](https://open.spotify.com/album/51PR5dCBvEsCNcjXofx2VT) | 5:27 |
 | 81 | [Fija Tus Ojos En Cristo](https://open.spotify.com/track/0h8xH56h5XD7BeHPWYqDC4) | [Majo Solís](https://open.spotify.com/artist/1gofTzaOSte0KzDoubTJhS) | [Colección Acústica I](https://open.spotify.com/album/02jkCYZGrqvDsMFPnsY2JS) | 4:42 |
-| 82 | [Jesús](https://open.spotify.com/track/5epQs3E7iHTteEvvxghYNg) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 4:53 |
-| 83 | [Sé Entronado \(Live\)](https://open.spotify.com/track/6RjPeSyTInfDrkfOdKHUXa) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Hunter G K Thompson](https://open.spotify.com/artist/3GGJS8pn81Kc9HnJ6flXEo) | [Bethel Music en Español](https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1) | 7:45 |
+| 82 | [Sé Entronado \(Live\)](https://open.spotify.com/track/6RjPeSyTInfDrkfOdKHUXa) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Hunter G K Thompson](https://open.spotify.com/artist/3GGJS8pn81Kc9HnJ6flXEo) | [Bethel Music en Español](https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1) | 7:45 |
+| 83 | [Jesús](https://open.spotify.com/track/5epQs3E7iHTteEvvxghYNg) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 4:53 |
 | 84 | [No Temas](https://open.spotify.com/track/1WJjXVxrprcrrixUt7kJoC) | [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw), [Marcos Yaroide](https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ) | [No Temas](https://open.spotify.com/album/5gayNP2PRbA9gq5foXJeBM) | 4:03 |
 | 85 | [Mi Jesús](https://open.spotify.com/track/2w84WTatORJJTPLFqeTIlO) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Mi Jesús](https://open.spotify.com/album/7ac4ykr2GHuMYc29l6QzHx) | 4:20 |
 | 86 | [Cristo Yo Creo en Ti](https://open.spotify.com/track/5Z2l6WlbgKLAdZBMDQTwNc) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [ORO](https://open.spotify.com/album/7m7fDq7zg6DuHnGXSwJwSx) | 5:20 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 93 | [Hasta el Final](https://open.spotify.com/track/3ey3xjwqJ39M1foKnz4pbN) | [Estación Cero](https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI) | [Nunca para de Llover](https://open.spotify.com/album/6lkqhYy0U9U53vpPhjvpKk) | 3:42 |
 | 94 | [Mateo 17](https://open.spotify.com/track/6phOeAec12tnILyQPwNmej) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Marcos Yaroide](https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ) | [Yo Navegaré](https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH) | 6:25 |
 | 95 | [Gracias](https://open.spotify.com/track/3DegJt9Nl9iqk9Z8hwt1Eq) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Gracias](https://open.spotify.com/album/6fo1XymhMMxx90DkdF5uYd) | 6:33 |
-| 96 | [Nada Guardaste](https://open.spotify.com/track/5tI6ogwTmRC4M9xR9PF8QS) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV) | [Nada Guardaste](https://open.spotify.com/album/2ijSFbYgcekIrCJLcpsHrd) | 3:39 |
-| 97 | [El Justo Vivirá Por Fe](https://open.spotify.com/track/3sLzXACmqioXU47UjfL5c2) | [Adoración La IBI](https://open.spotify.com/artist/6qValgleME8pv861DLzupQ) | [El Justo Vivirá Por Fe](https://open.spotify.com/album/434bFVfYutpT3PknlXQudX) | 5:09 |
-| 98 | [Nos Levantaremos](https://open.spotify.com/track/2bWTrJ83AEekPcsBQb8X2x) | [Banda Horizonte](https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ) | [No Hay Otro Dios](https://open.spotify.com/album/1WidkdQtLb7DpF8e8HXeXm) | 5:20 |
-| 99 | [Tengo Sed de Ti](https://open.spotify.com/track/5Nk0ShheLjX4aKMZgRsd8y) | [Celines](https://open.spotify.com/artist/7scGS3XtZtyCB5kXESpINl) | [Tengo Sed de Ti](https://open.spotify.com/album/5zAbXo2ZOulzunX8MOl4Eh) | 5:02 |
+| 96 | [El Justo Vivirá Por Fe](https://open.spotify.com/track/3sLzXACmqioXU47UjfL5c2) | [Adoración La IBI](https://open.spotify.com/artist/6qValgleME8pv861DLzupQ) | [El Justo Vivirá Por Fe](https://open.spotify.com/album/434bFVfYutpT3PknlXQudX) | 5:09 |
+| 97 | [Nada Guardaste](https://open.spotify.com/track/5tI6ogwTmRC4M9xR9PF8QS) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV) | [Nada Guardaste](https://open.spotify.com/album/2ijSFbYgcekIrCJLcpsHrd) | 3:39 |
+| 98 | [Tengo Sed de Ti](https://open.spotify.com/track/5Nk0ShheLjX4aKMZgRsd8y) | [Celines](https://open.spotify.com/artist/7scGS3XtZtyCB5kXESpINl) | [Tengo Sed de Ti](https://open.spotify.com/album/5zAbXo2ZOulzunX8MOl4Eh) | 5:02 |
+| 99 | [Nos Levantaremos](https://open.spotify.com/track/2bWTrJ83AEekPcsBQb8X2x) | [Banda Horizonte](https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ) | [No Hay Otro Dios](https://open.spotify.com/album/1WidkdQtLb7DpF8e8HXeXm) | 5:20 |
 | 100 | [Jesus Te Amamos \(Live\)](https://open.spotify.com/track/7JdGpxb7HAnDHKCdimfQRs) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz) | [Bethel Music en Español](https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1) | 5:16 |
 
-Snapshot ID: `MCw4MTRiOTllYmU3YmU5NWFmZDNhZmY0MWQwM2E1ZGUyYzk1Mjk2NTJi`
+Snapshot ID: `MTcxMDkzNDIzMiwwMDAwMDAwMGZjMDBiMzJmZjMwMWJlMjBmZWZhN2Y5NWZhYWIxNzcx`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Today's biggest Dance hits! Cover: Charli XCX",
+  "description": "Today's biggest Dance hits! Cover: Peggy Gou",
   "name": "Dance Generation",
   "tracks": [
     {
@@ -452,10 +452,36 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 184852,
       "name": "Alibi (feat. Rudimental)",
       "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
+    },
+    {
+      "album": {
+        "name": "Alibi (feat. Rudimental) [The Other Girl Version]",
+        "url": "https://open.spotify.com/album/75bEjPHQvYKs10nNjHpTeR"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        },
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184851,
+      "name": "Alibi (feat. Rudimental) - The Other Girl Version",
+      "url": "https://open.spotify.com/track/7JnN2GeisFVdQjghlVbWQD"
     },
     {
       "album": {
@@ -1351,6 +1377,32 @@
     },
     {
       "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "BERWYN",
+          "url": "https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR"
+        },
+        {
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123607,
+      "name": "BerwynGesaffNeighbours",
+      "url": "https://open.spotify.com/track/21f4TjwWXbnqg8d5R6oq8Y"
+    },
+    {
+      "album": {
         "name": "Best Thing",
         "url": "https://open.spotify.com/album/2iM4du2HvU2hmHzdn7s0Ys"
       },
@@ -1944,7 +1996,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 148200,
       "name": "Care About Us (feat. Ebenezer)",
       "url": "https://open.spotify.com/track/7rztNRexBl8QEdtKB6Cr91"
@@ -2532,7 +2584,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 191040,
       "name": "Could I Be",
       "url": "https://open.spotify.com/track/3ecY0y8i4XOeuFglFZKmtE"
@@ -3557,6 +3609,24 @@
     },
     {
       "album": {
+        "name": "EAT THE BASS",
+        "url": "https://open.spotify.com/album/0BAJwAHBOc08RczC0TMb7l"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "EAT THE BASS",
+      "url": "https://open.spotify.com/track/1ViErUfDfWkXPXTsjj3kyh"
+    },
+    {
+      "album": {
         "name": "Eat Your Man (with Nelly Furtado)",
         "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
       },
@@ -4041,6 +4111,28 @@
     },
     {
       "album": {
+        "name": "Feeling Good",
+        "url": "https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk"
+      },
+      "artists": [
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203307,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP"
+    },
+    {
+      "album": {
         "name": "Every Cloud - Silver Linings",
         "url": "https://open.spotify.com/album/6OU7EFtbj258KWnSd0SJFo"
       },
@@ -4500,7 +4592,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 177187,
       "name": "Give It To Me",
       "url": "https://open.spotify.com/track/5gGxQDVMsSDk3GZv9wONQX"
@@ -4558,6 +4650,28 @@
       "duration_ms": 169000,
       "name": "Giving Me",
       "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "album": {
+        "name": "Glad I Found You",
+        "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211191,
+      "name": "Glad I Found You",
+      "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
     },
     {
       "album": {
@@ -5637,6 +5751,24 @@
     },
     {
       "album": {
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/3YuASjHrUIKD6mkV3Fg3RN"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226664,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/5DKvLR4yZ3YGmHacJinskC"
+    },
+    {
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/5HuxKnAxeiLBNPApCxEGja"
       },
@@ -6434,7 +6566,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 165789,
       "name": "Lovely Day - Austin Millz Remix",
       "url": "https://open.spotify.com/track/3BLqGwshCSzSLNZ2N9mGvy"
@@ -6530,7 +6662,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 157398,
       "name": "Lowkey (LDN Drift) [feat. Takura]",
       "url": "https://open.spotify.com/track/308JcmNsqtkEZaAkcZrCT2"
@@ -7747,6 +7879,28 @@
     },
     {
       "album": {
+        "name": "Not Exactly (Reb\u016bke Remix)",
+        "url": "https://open.spotify.com/album/3tuUxwV6i6hXlluIhz0ZCI"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Not Exactly - Reb\u016bke Remix",
+      "url": "https://open.spotify.com/track/0toCiiWUNHiWsfbshXY0TC"
+    },
+    {
+      "album": {
         "name": "Not Fair",
         "url": "https://open.spotify.com/album/5PObKgSkHWD1mRNOJWr1cZ"
       },
@@ -7934,7 +8088,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 164451,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/7cR4WZEjKT9PU2heOK8cnx"
@@ -8076,6 +8230,28 @@
       "duration_ms": 254836,
       "name": "Overdrive - Edit",
       "url": "https://open.spotify.com/track/6XmGXRgcSdCGG2u5gSmAJ9"
+    },
+    {
+      "album": {
+        "name": "Pachamama",
+        "url": "https://open.spotify.com/album/4pyp9BJdIT2rqRiavNpiWL"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145116,
+      "name": "Pachamama",
+      "url": "https://open.spotify.com/track/3lFNDaob5QhwE9oo7J0uNT"
     },
     {
       "album": {
@@ -8850,6 +9026,24 @@
       "duration_ms": 155146,
       "name": "Riverside MF",
       "url": "https://open.spotify.com/track/3ptLW4fzupzNrzbO7Hneam"
+    },
+    {
+      "album": {
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355879,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH"
     },
     {
       "album": {
@@ -9806,7 +10000,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 295927,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/4PsfmkcIgrhfn9hhxI8jp3"
@@ -10930,7 +11124,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 150962,
       "name": "The Way It Is",
       "url": "https://open.spotify.com/track/22sFNLCbk7LJ2gWKANf6Ue"
@@ -11146,7 +11340,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 313043,
       "name": "Touch - Motez Remix",
       "url": "https://open.spotify.com/track/2K3Z6LLoOyjS9iCli8CcZN"
@@ -11172,6 +11366,28 @@
       "duration_ms": 168642,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/0ZEI0seiT4dTdaeAG0Elpm"
+    },
+    {
+      "album": {
+        "name": "Toys",
+        "url": "https://open.spotify.com/album/1fbMRUAFSSUb3my9yo78cN"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Rafael",
+          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260194,
+      "name": "Toys",
+      "url": "https://open.spotify.com/track/4kvlc8CUlIxiqZP3Z2TSUG"
     },
     {
       "album": {
@@ -11906,6 +12122,28 @@
       "duration_ms": 215639,
       "name": "Whole Again",
       "url": "https://open.spotify.com/track/5ONxjmVfSLPSRDI4mgRnLy"
+    },
+    {
+      "album": {
+        "name": "Whole Lotta Drugs / Over The Edge",
+        "url": "https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208550,
+      "name": "Whole Lotta Drugs",
+      "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"
     },
     {
       "album": {

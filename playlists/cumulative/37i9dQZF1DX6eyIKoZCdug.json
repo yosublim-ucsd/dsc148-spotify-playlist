@@ -317,6 +317,28 @@
     },
     {
       "album": {
+        "name": "Aw\u00e9",
+        "url": "https://open.spotify.com/album/5OaO6KwuGtUoItEhuknOZj"
+      },
+      "artists": [
+        {
+          "name": "Kronan",
+          "url": "https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr"
+        },
+        {
+          "name": "Kaleta",
+          "url": "https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170669,
+      "name": "Aw\u00e9",
+      "url": "https://open.spotify.com/track/004rnp3iKWM3kCknbaqIIT"
+    },
+    {
+      "album": {
         "name": "Lemon & Herb presents Mi\u010di: The Sound Of Light",
         "url": "https://open.spotify.com/album/7n9cIaFh9rUFDj2r2Kxaxr"
       },
@@ -985,6 +1007,28 @@
     },
     {
       "album": {
+        "name": "Gorilla EP",
+        "url": "https://open.spotify.com/album/32tJ3ZvTh6ivoohE42aYTA"
+      },
+      "artists": [
+        {
+          "name": "RAYZIR",
+          "url": "https://open.spotify.com/artist/0SyO8xciHr7YgddHXRVJLQ"
+        },
+        {
+          "name": "Philou Louzolo",
+          "url": "https://open.spotify.com/artist/4zCYbkxFSNb6T2D2vFSg6C"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "Gorilla - Radio Edit",
+      "url": "https://open.spotify.com/track/07RX3FwnpN61suArirCyx2"
+    },
+    {
+      "album": {
         "name": "HAYII",
         "url": "https://open.spotify.com/album/73IrTAOufu4VMnQqcKw1za"
       },
@@ -1000,7 +1044,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 459661,
       "name": "HAYII",
       "url": "https://open.spotify.com/track/3NdtOKVyuOO5GwhU7Ts4iI"
@@ -1022,7 +1066,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 459658,
       "name": "HAYII (La Alegria) (feat. Yasmin Levy)",
       "url": "https://open.spotify.com/track/6rz9Rpygk7yTlFnk253Sfy"
@@ -1628,6 +1672,32 @@
       "duration_ms": 365264,
       "name": "Joyboy",
       "url": "https://open.spotify.com/track/1VCXAxVzjO70UohuZ0rrQ3"
+    },
+    {
+      "album": {
+        "name": "Kabe",
+        "url": "https://open.spotify.com/album/4qNEPCKNBzuvJuo7MjqUuh"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "Nomis (FR)",
+          "url": "https://open.spotify.com/artist/41uPRwE5e0yJSYUpb4LR6V"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Kabe",
+      "url": "https://open.spotify.com/track/7Kid813yq5ev5IZ6cyjqXe"
     },
     {
       "album": {
@@ -3079,6 +3149,44 @@
     },
     {
       "album": {
+        "name": "Thandaza",
+        "url": "https://open.spotify.com/album/6EJu5rECOfBSeHfVM3g6pm"
+      },
+      "artists": [
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Alan Dixon",
+          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Arabic Piano",
+          "url": "https://open.spotify.com/artist/0Na64T53YX2qe1XG97JyCO"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361810,
+      "name": "Thandaza",
+      "url": "https://open.spotify.com/track/4x6jx7AeSyE7PlQTdCjIJs"
+    },
+    {
+      "album": {
         "name": "The Cure & The Cause (Atmos Blaq Remix)",
         "url": "https://open.spotify.com/album/1KCpufTAncrsZE9pPMGafl"
       },
@@ -3102,6 +3210,28 @@
       "duration_ms": 250020,
       "name": "The Cure & The Cause - Atmos Blaq Remix",
       "url": "https://open.spotify.com/track/0ohdPNEvFGQNaMpeAx7VnL"
+    },
+    {
+      "album": {
+        "name": "The Journey (Edit)",
+        "url": "https://open.spotify.com/album/4s4mCAojGUMP7n4pZLcPnf"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tait",
+          "url": "https://open.spotify.com/artist/417zU4I2H7xk64PUhedjyT"
+        },
+        {
+          "name": "Boskasie",
+          "url": "https://open.spotify.com/artist/4LJguuHWFSdxmO3KgbQaeq"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250406,
+      "name": "The Journey - Edit",
+      "url": "https://open.spotify.com/track/5YQI5dLNJfPmKCO2bncGF0"
     },
     {
       "album": {
@@ -3194,6 +3324,28 @@
       "duration_ms": 407820,
       "name": "Tobetsa Remake (feat. Focalistic, Daliwonga & ShaunMusiq & Ftears)",
       "url": "https://open.spotify.com/track/5ZDw1sqZQDlC5aV7ir6kkN"
+    },
+    {
+      "album": {
+        "name": "Too Many (Denz The Human Remix)",
+        "url": "https://open.spotify.com/album/520T7sTMVrRWvxmuyK3g3U"
+      },
+      "artists": [
+        {
+          "name": "Mx Blouse",
+          "url": "https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE"
+        },
+        {
+          "name": "Denz the Human",
+          "url": "https://open.spotify.com/artist/6ZqkyZQ6oIwE1v26U0T2b6"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Too Many (Denz The Human Remix)",
+      "url": "https://open.spotify.com/track/0g1IKjuqqtZV20BIvRyrwi"
     },
     {
       "album": {

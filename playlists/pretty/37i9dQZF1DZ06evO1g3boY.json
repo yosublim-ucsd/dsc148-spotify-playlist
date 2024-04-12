@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 168203,
+  "num_followers": 168226,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWE3ZjE5YTdhODY1MjA3ODc3ZDE1NzVkNmRjMmVmZWZjNTNiZjdj",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMGQ3YzQzMWEwYWU3MWQwZTk2MzE4NTBjZTYzYjEwYWE0",
   "tracks": [
     {
       "added_at": null,
@@ -1119,26 +1119,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock In Rio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
+        "name": "Criolo E Emicida Ao Vivo (Live)",
+        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
       },
       "artists": [
         {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        },
-        {
-          "name": "Cidade Negra",
-          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
         },
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Rodrigo Campos",
+          "url": "https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ"
         }
       ],
-      "duration_ms": 246320,
-      "name": "Oi Compadre - Ao Vivo",
-      "url": "https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR"
+      "duration_ms": 240373,
+      "name": "Linha De Frente - Live",
+      "url": "https://open.spotify.com/track/6KzAGApzyPBttDCH9rKUNv"
     }
   ],
   "unique_name": "This Is Emicida",

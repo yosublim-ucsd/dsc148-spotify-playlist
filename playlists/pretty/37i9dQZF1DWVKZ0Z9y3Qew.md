@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 
 > Pacific Northwest music breaking waves\.  Cover: <a href="spotify:artist:7KWbU8vlvkICzAOXsiRLal">Lazā</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,902 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,910 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 23 | [Real Assist](https://open.spotify.com/track/7Gq4DAXGCHSMdo24Zks2Ty) | [Gifted Gab](https://open.spotify.com/artist/0qSaAqfR0p0oPm7Mv9Q1XT), [Swisher Sleep](https://open.spotify.com/artist/2JIH9d1YrpfiMuxm7ianqx) | [G\-Body Music](https://open.spotify.com/album/5r6WHiZ2gFN8Ea5tjNAztU) | 3:09 |
 | 24 | [SPEEDBOAT](https://open.spotify.com/track/3NgIiSuGSFAGh05YLeOvVX) | [Zay Wonder](https://open.spotify.com/artist/70cjBubd83Tl2ZbAElgC1s) | [U Don't Know the Half \(EP\)](https://open.spotify.com/album/0PXuMCM85YlxAHj6P7NjQo) | 2:16 |
 | 25 | [ZIPLOC](https://open.spotify.com/track/25oe4eIAe8AxVQGWOwZumM) | [TAWPO](https://open.spotify.com/artist/5HhN5ix2yQPPqKDLNooasK), [Post Office Studios](https://open.spotify.com/artist/64py5RUR0B7uA2AQdimLLd), [Yung Wolf](https://open.spotify.com/artist/27gPbWnoWp4klWhkPVOA9H) | [PBOTY 3](https://open.spotify.com/album/5wqubny7TdpqL9xznDE4Sy) | 1:48 |
-| 26 | [DANCE!](https://open.spotify.com/track/0cbxwTsdtp9pFYxR69yHY5) | [Max Marz](https://open.spotify.com/artist/4fKDnAyOiVw2oKUD82Cqjb) | [B4 P.D\. : A Collection Of Unmastered Songs Before Planet Destroy](https://open.spotify.com/album/2w862fBIHzhj9BaTzAFPsy) | 1:28 |
+| 26 | [DANCE](https://open.spotify.com/track/1ZMc0Ods8SPgG1uCSyj5QA) | [Max Marz](https://open.spotify.com/artist/4fKDnAyOiVw2oKUD82Cqjb) | [DANCE / WINGZ](https://open.spotify.com/album/0JdGPFsHq4v1mJTLVO3XHw) | 1:28 |
 | 27 | [POPS & MOMMA](https://open.spotify.com/track/2sr9eeHfDJpHVpCh4VDWeu) | [Topp](https://open.spotify.com/artist/16Wz3yaNyWBIcsVaOMTa60) | [LIFES CRAZY](https://open.spotify.com/album/7wOHEeDHMF0U7ZHxv1nUKT) | 4:09 |
 | 28 | [WOODS](https://open.spotify.com/track/0GQqe8llD8ys6SNe1njiwX) | [Campana](https://open.spotify.com/artist/2364ipmlSnhR9dgygYHkqu), [Kembe X](https://open.spotify.com/artist/4uc4iep3LqgSj8qN4kp7qD) | [WOODS](https://open.spotify.com/album/646J0smazQYDxMnFGibDW0) | 2:44 |
 | 29 | [POP SH!T](https://open.spotify.com/track/10ozGte62NZDbxzuH3dEAs) | [Vic Daggs II](https://open.spotify.com/artist/6Fh5JRspT3p9uz8nXeGpjt), [Budo](https://open.spotify.com/artist/4OGqq1ay5l8z1sFK8sMlOR) | [VOID](https://open.spotify.com/album/61skPt6aedzq8GEwsVqmai) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 49 | [BREAK IT DOWN](https://open.spotify.com/track/5rMrTqFph0Bmf7et7YP04a) | [NËSTRÄ](https://open.spotify.com/artist/5ABikugX8BV6gZiF23y2br) | [BREAK IT DOWN](https://open.spotify.com/album/5ccWTc0SG848ofEyPe9P45) | 2:15 |
 | 50 | [I'm So Done](https://open.spotify.com/track/65sVRIIv04YmZOtm0IaPS7) | [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3), [Keys Open Doors](https://open.spotify.com/artist/17VWSnuIuvdgNkBgIBC0jp) | [Where Do Birds Go At Night?](https://open.spotify.com/album/0fKIjGmb4QOxRDK1hR0d5n) | 2:57 |
 
-Snapshot ID: `MCw4MTk3ODkxNWFkZDExZTUwNzg5M2EzMjRiNDM0OWRiYjRkN2NhOWY1`
+Snapshot ID: `MTcwMjY2Njg4NywwMDAwMDAwMDk2MTMyYTNhOWE1OTlhMTZhMzMxOWQ2OGJiYWNhOTAw`

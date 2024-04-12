@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Soundtrack your life with our ever evolving 'Moments' playlist that updates for all major holidays and events! Listen now for all the essential House Party Bangers for this Spring Break  <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a>
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 112,189 likes - 60 songs - 3 hr 13 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 112,187 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

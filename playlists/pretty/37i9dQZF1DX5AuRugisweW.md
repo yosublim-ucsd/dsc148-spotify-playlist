@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AuRugisweW.md) - [plain]
 
 > Songs of the crossroads and "that old evil spirit"—from Robert Johnson to John Mayer, from early blues to new Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,541 likes - 61 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,547 likes - 61 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AuRugisweW.md) - [plain]
 | 41 | [Say No to the Devil](https://open.spotify.com/track/0aYS1D1hSqQXinxawgOHLy) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [If I Had My Way: Early Home Recordings](https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7) | 3:20 |
 | 42 | [Old Devil Moon](https://open.spotify.com/track/4Wz4prIbO0DgoVPpMINaHs) | [Mickey Baker](https://open.spotify.com/artist/2PnyEnxPA8H95IhFEBu5u7) | [The Wildest Guitar](https://open.spotify.com/album/14nCld5W2PoK9Bevapchzv) | 2:47 |
 | 43 | [Devil Is Watching You](https://open.spotify.com/track/3lYAUsrVWuMvRtsCOBQopO) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Lightnin' Strikes](https://open.spotify.com/album/6oDBeR51HgSslV8tUlhPQV) | 4:00 |
-| 44 | [Let's Have Some Fun](https://open.spotify.com/track/3tgNmSy9B0XZLTwH5NZ36T) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Black Wind Howlin'](https://open.spotify.com/album/1FI8XKJnQQeETxuJwP4ZCO) | 4:27 |
+| 44 | [Let's Have Some Fun](https://open.spotify.com/track/4krvAl6zfhfDfWL1KdvQAa) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Black Wind Howlin'](https://open.spotify.com/album/7iVYk6SKIzwsUf11kxoNS6) | 4:27 |
 | 45 | [Blue Devil Blues](https://open.spotify.com/track/1HS0i3XljvlJwBbZ2iRi1F) | [Texas Alexander](https://open.spotify.com/artist/1JzB486qiKybcJOnSMkOyf) | [Texas Alexander Vol\. 2 \(1928\-1930\)](https://open.spotify.com/album/1ThZe8yKqEJe5LNKI6Z1sE) | 3:23 |
 | 46 | [Shoot The Devil](https://open.spotify.com/track/2Od65pY63Wszxh9KgGdJsk) | [David Jacobs\-Strain](https://open.spotify.com/artist/7KXqvbvlCJn6OAxsOru4wu) | [Ocean Or A Teardrop](https://open.spotify.com/album/6kDhcbz8oBrftXQENBXHjX) | 4:18 |
 | 47 | [Crossroads \- 2008 Remaster](https://open.spotify.com/track/6mGy6bzPJ6hrgPnVJZCEd4) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Crossroads \(Original Sountrack\)](https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE) | 4:24 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AuRugisweW.md) - [plain]
 | 60 | [Crossroads](https://open.spotify.com/track/4rxamav7i2lJexbuAxcvfe) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Crossroads](https://open.spotify.com/album/7xlc8VKmPqZJ9m1Dphm6O5) | 4:11 |
 | 61 | [Lady Weeping At The Crossroads](https://open.spotify.com/track/2fHeCbp3pCJbd3g5wQF636) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [No Promises](https://open.spotify.com/album/1GOhEzYqUHO4ROrrupcVVH) | 3:37 |
 
-Snapshot ID: `MCwzNzM3ZjUzNjRjZmZiMzVlYTlmNWYyYjY5MjBjNTAyYmFkMmQzOGM0`
+Snapshot ID: `MTY4OTMwNzIwMCwwMDAwMDAwMGRhMmQ4MjljOWEzMGEyNjFhNzMzNzk4ZDYxMjQzYzA2`

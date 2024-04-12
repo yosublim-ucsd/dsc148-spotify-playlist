@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-1,551 songs - 3 day 13 hr 2 min
+1,552 songs - 3 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2022-09-30 | 2023-01-03 |
 | [GASOLINE](https://open.spotify.com/track/5jWcNM7uHhsAj9yuypurdP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 3:41 | 2023-01-21 | 2023-01-26 |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-17 |
+| [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-04-11 |  |
 | [GERU DIENU](https://open.spotify.com/track/65Rj0wlvcYOlL7LSSDedZ4) | [Proflame](https://open.spotify.com/artist/08hlS00IaeGBaRSZtxuwUq) | [GERU DIENU](https://open.spotify.com/album/4yaeYPMm1oiG3WKqxmOit5) | 1:53 | 2024-04-04 | 2024-04-06 |
 | [Getting Older](https://open.spotify.com/track/4HOryCnbme0zBnF8LWij3f) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:04 | 2021-08-01 | 2021-08-06 |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2022-04-05 | 2022-04-30 |
@@ -1247,7 +1248,7 @@
 | [sr xoxo](https://open.spotify.com/track/3vJFK0BEoiTCF6AuAabrBi) | [dj nevykele](https://open.spotify.com/artist/6tGEkrJVnC6SCjEbNhikSg) | [OŽKA](https://open.spotify.com/album/0NRRBv2yjlSUgjhKdkyTc5) | 2:11 | 2023-06-06 | 2023-06-11 |
 | [Stabiliau](https://open.spotify.com/track/17bZxSmRjn2HF3EX4jHcob) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5) | [Stabiliau](https://open.spotify.com/album/3GN2Q6CgVYMel7VeNk3VTn) | 2:38 | 2021-04-04 | 2021-05-13 |
 | [Stadionai](https://open.spotify.com/track/2JtsIAfAu4PFyjlk17Hg3M) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu), [Rokas](https://open.spotify.com/artist/17IHT4KW6k85SHKiSAssQt) | [Stadionai](https://open.spotify.com/album/0mvlCZJYaEuJOjI3MsiJ4n) | 3:14 | 2022-06-12 |  |
-| [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-04 |  |
+| [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-04 | 2024-04-12 |
 | [Standing Next to You \- Sped Up \- Remix](https://open.spotify.com/track/0paWX66K9n7sYR9AkKkyzB) | [Beat Record](https://open.spotify.com/artist/0WwKxmZjmKUp9y0Jg1LWk1) | [Top 10 Global \- Sped Up \(Remix\)](https://open.spotify.com/album/2HImbyFZK0mf4GK0tIrMhO) | 3:31 | 2024-03-01 | 2024-03-03 |
 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 | 2022-09-24 | 2022-10-23 |
 | [Starboy](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:50 | 2022-12-02 | 2024-01-14 |

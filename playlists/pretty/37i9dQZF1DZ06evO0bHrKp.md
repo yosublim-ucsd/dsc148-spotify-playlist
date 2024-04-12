@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 
 ### [This Is Sum 41](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0bHrKp)
 
-> This is Sum 41\. The essential tracks, all in one playlist.
+> This Is Sum 41\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,470 likes - 47 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,517 likes - 47 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 | 46 | [Pain For Pleasure](https://open.spotify.com/track/4VtSO2QcHikRASfuNi7JOM) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 1:43 |
 | 47 | [Breaking The Chain](https://open.spotify.com/track/6pFBYVdgexmt3zLLJUhhvy) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [13 Voices](https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb) | 4:03 |
 
-Snapshot ID: `MCwyOWNmOTJjMDU0Yjk1MTJlZjJmMzVlNmU2ZjI5NDExZjgxOTVjNjUw`
+Snapshot ID: `MTcxMjcwNzIwMCwwMDAwMDAwMGM3NWE1NDMwYTUwMzg5ODY0ZGEzNThjMjJhZDhlNDNk`

@@ -1,12 +1,12 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 647355,
+  "num_followers": 647399,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODc5OTczYmM5YzUxNzk5NmM1ZGIwNGJhZjY3ZmE4ZmZiOTg0NGE5",
+  "snapshot_id": "MTY4NjkxOTcwNCwwMDAwMDAwMDNjZjgxZjEwNjcyNmRhOTRlNWYyNTlkYWNjMWYwYTJl",
   "tracks": [
     {
       "added_at": "2023-02-24 17:40:22",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 157673,
-      "name": "TRELLAS",
-      "url": "https://open.spotify.com/track/09WAnxdBuebQopKhJT3oZS"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
         "name": "Delusi\u00f3n",
         "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 207333,
       "name": "Honey, No Est\u00e1s",
       "url": "https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 157673,
+      "name": "TRELLAS",
+      "url": "https://open.spotify.com/track/09WAnxdBuebQopKhJT3oZS"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Dueles Tan Bien",
-        "url": "https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq"
+        "name": "Mundo De Dos",
+        "url": "https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi"
       },
       "artists": [
         {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Dueles Tan Bien",
-      "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
+      "duration_ms": 168125,
+      "name": "So\u00f1ar Contigo",
+      "url": "https://open.spotify.com/track/0E6DZBx42XXXIE1v1iP9O3"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -567,18 +567,18 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Mundo De Dos",
-        "url": "https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi"
+        "name": "Dueles Tan Bien",
+        "url": "https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq"
       },
       "artists": [
         {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 168125,
-      "name": "So\u00f1ar Contigo",
-      "url": "https://open.spotify.com/track/0E6DZBx42XXXIE1v1iP9O3"
+      "duration_ms": 174000,
+      "name": "Dueles Tan Bien",
+      "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
+        "name": "Bot\u00e1nica",
+        "url": "https://open.spotify.com/album/7CJUClevHJax0MGYdpXwPc"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "309",
+      "url": "https://open.spotify.com/track/0q37bjxhRwzjtZynlU9ZsI"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
         "name": "Por Ti Me Quedo en San Luis",
         "url": "https://open.spotify.com/album/0x5bCPWH8u9eQTLByY7LNq"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Bot\u00e1nica",
-        "url": "https://open.spotify.com/album/7CJUClevHJax0MGYdpXwPc"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "309",
-      "url": "https://open.spotify.com/track/0q37bjxhRwzjtZynlU9ZsI"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
         "name": "Mi Despedida",
         "url": "https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 196064,
       "name": "Mi Despedida",
       "url": "https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
-        "name": "Sin Final Feliz",
-        "url": "https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH"
-      },
-      "artists": [
-        {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
-        }
-      ],
-      "duration_ms": 171978,
-      "name": "Vino Tinto",
-      "url": "https://open.spotify.com/track/5ONAA8z6SvFBniu8zXz1Ax"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -811,6 +795,22 @@
       "duration_ms": 192250,
       "name": "Ponte en Mi Lugar",
       "url": "https://open.spotify.com/track/55iIqtFbxy8mJEZC08B1wl"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "Sin Final Feliz",
+        "url": "https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "duration_ms": 171978,
+      "name": "Vino Tinto",
+      "url": "https://open.spotify.com/track/5ONAA8z6SvFBniu8zXz1Ax"
     },
     {
       "added_at": "2023-02-24 17:40:22",

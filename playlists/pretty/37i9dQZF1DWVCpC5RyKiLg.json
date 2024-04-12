@@ -1,12 +1,12 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 720000,
+  "num_followers": 720092,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDdlNzA2ZTdlZjA3ODJhYTkyNzBhYzg3YmUzZjY1ZWRlYWQ0MGRk",
+  "snapshot_id": "MTcwMDE5MDA2MCwwMDAwMDAwMDZjZjJmMDZmOTJlNTVkZGUxM2JlNTk3NTdkYzBkOWM5",
   "tracks": [
     {
       "added_at": "2023-11-17 03:01:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "Na Praia 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 208930,
+      "name": "Nessas Horas - Ao Vivo",
+      "url": "https://open.spotify.com/track/1MnUXXQEuzlJFNF5xMH1XQ"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "Sobrenome (Ao Vivo)",
         "url": "https://open.spotify.com/album/5mxkr7VInEvT2afoTjiQVB"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 192253,
       "name": "Sobrenome - Ao vivo",
       "url": "https://open.spotify.com/track/3gYvOU6MJGBS2WNyDTW7Ui"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Na Praia 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 208930,
-      "name": "Nessas Horas - Ao Vivo",
-      "url": "https://open.spotify.com/track/1MnUXXQEuzlJFNF5xMH1XQ"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "De Volta pro Amanh\u00e3",
-        "url": "https://open.spotify.com/album/6rJfOUFtfOAzFve2Qp2Ei5"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Dependente",
-      "url": "https://open.spotify.com/track/2xOa2qPj8kDnlj8Nr1D07s"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "TunTunTun (Spotify Singles)",
         "url": "https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 186501,
       "name": "TunTunTun - Spotify Singles",
       "url": "https://open.spotify.com/track/664sTugsU30HsYEwGfmv0C"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "De Volta pro Amanh\u00e3",
+        "url": "https://open.spotify.com/album/6rJfOUFtfOAzFve2Qp2Ei5"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Dependente",
+      "url": "https://open.spotify.com/track/2xOa2qPj8kDnlj8Nr1D07s"
     },
     {
       "added_at": "2023-11-17 03:01:00",

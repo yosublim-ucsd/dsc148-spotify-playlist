@@ -1,33 +1,13 @@
 {
-  "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 107348,
+  "description": "This Is Grupo Arriesgado. Los temas esenciales, todos en una lista.",
+  "num_followers": 107363,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmQxNmRmOTk5ZmNhNDczMGEzZjYzNzQ3MzRhODRhYjFiOTRjZjZh",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDBjNDdmZjlkMjY0ZTcxOGNjNjA4NGY3YzI0MTM1NTJj",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Haciendo Magia",
-        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 155818,
-      "name": "Y Sigues Siendo T\u00fa",
-      "url": "https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 208680,
       "name": "Belico El Asunto (En Vivo)",
       "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Haciendo Magia",
+        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 155818,
+      "name": "Y Sigues Siendo T\u00fa",
+      "url": "https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75"
     },
     {
       "added_at": null,
@@ -271,22 +271,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Belicones (En vivo)",
-        "url": "https://open.spotify.com/album/0lroHqTkfmsxY3OYhRWZda"
+        "name": "Ya No Puedo Con Esto",
+        "url": "https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX"
       },
       "artists": [
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
         }
       ],
-      "duration_ms": 150200,
-      "name": "Bien Belicones (En vivo)",
-      "url": "https://open.spotify.com/track/6PAUJwzFJgtL6eFZzcg6Ne"
+      "duration_ms": 149951,
+      "name": "Ya No Puedo Con Esto",
+      "url": "https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS"
     },
     {
       "added_at": null,
@@ -307,6 +303,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bien Belicones (En vivo)",
+        "url": "https://open.spotify.com/album/0lroHqTkfmsxY3OYhRWZda"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 150200,
+      "name": "Bien Belicones (En vivo)",
+      "url": "https://open.spotify.com/track/6PAUJwzFJgtL6eFZzcg6Ne"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jalando La Bandona (En Vivo)",
         "url": "https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 129500,
       "name": "Levantando Polvadera (En vivo)",
       "url": "https://open.spotify.com/track/63z6pfIFHMXPUvZCuXOL9W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya No Puedo Con Esto",
-        "url": "https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 149951,
-      "name": "Ya No Puedo Con Esto",
-      "url": "https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS"
     },
     {
       "added_at": null,
@@ -427,26 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta La Caja Cuesta",
-        "url": "https://open.spotify.com/album/6lXe0TGUsy16Z4zEKqp1aD"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 173760,
-      "name": "Hasta La Caja Cuesta",
-      "url": "https://open.spotify.com/track/05NeYNxTvQe2Wl9xbaTUWc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Matitas Verdes (En Vivo)",
         "url": "https://open.spotify.com/album/6dFaDaCDQqEKfdcELahkAt"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 216604,
       "name": "La Ley del Mayo",
       "url": "https://open.spotify.com/track/4JgF8vGk0Vp3rBOHWBMjW7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta La Caja Cuesta",
+        "url": "https://open.spotify.com/album/6lXe0TGUsy16Z4zEKqp1aD"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 173760,
+      "name": "Hasta La Caja Cuesta",
+      "url": "https://open.spotify.com/track/05NeYNxTvQe2Wl9xbaTUWc"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy El Alucin Remix",
-        "url": "https://open.spotify.com/album/5TTfRmCIRqGfopCFS38EK6"
-      },
-      "artists": [
-        {
-          "name": "El Compa JD",
-          "url": "https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 125225,
-      "name": "Soy El Alucin Remix",
-      "url": "https://open.spotify.com/track/2TLkItiSWsEoJqb3ROSzKn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Mollete (En Vivo)",
         "url": "https://open.spotify.com/album/6NHKYhMdtDI52ztF4mkeBA"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 125400,
       "name": "El Mollete (En Vivo)",
       "url": "https://open.spotify.com/track/0rpdG6Pg0AjxHiIzwnvUMq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy El Alucin Remix",
+        "url": "https://open.spotify.com/album/5TTfRmCIRqGfopCFS38EK6"
+      },
+      "artists": [
+        {
+          "name": "El Compa JD",
+          "url": "https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 125225,
+      "name": "Soy El Alucin Remix",
+      "url": "https://open.spotify.com/track/2TLkItiSWsEoJqb3ROSzKn"
     },
     {
       "added_at": null,

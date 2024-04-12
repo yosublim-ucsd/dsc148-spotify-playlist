@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,732 likes - 51 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,777 likes - 51 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 50 | [Legende](https://open.spotify.com/track/7xhmtGvVqulcdUcsaauS15) | [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Legende](https://open.spotify.com/album/5Fxc5sWsRgEJ66jIkRBYYg) | 3:12 |
 | 51 | [Nwa Baby](https://open.spotify.com/track/5LQ4gy76WKL3yH7eClwM5m) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Nwa Baby](https://open.spotify.com/album/2ginnTdwjq3y0c5aYhUvzn) | 3:42 |
 
-Snapshot ID: `MCxhNmNhYzVhM2E0MzZmMDA2MTRjZTgzNGQyZjQyMDAzYTZhYTczMjUz`
+Snapshot ID: `MTcxMjcwNzIwMCwwMDAwMDAwMGYxNjZmOGUyODBmMjQ2MmM0NGFlOTA5ZTcyNTljY2Q0`

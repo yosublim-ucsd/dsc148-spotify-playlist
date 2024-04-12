@@ -4,7 +4,7 @@
 
 > Listen to the hottest songs from LGBTQIA+ artists\. Cover: Chico Blanco
 
-1,140 songs - 2 day 13 hr 47 min
+1,141 songs - 2 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -994,9 +994,10 @@
 | [Thief](https://open.spotify.com/track/5BzkZPufqKMVZ1i7aEBDU9) | [Kendall Morgan](https://open.spotify.com/artist/31T99HEreO5nDrKT4H84Gl) | [Thief](https://open.spotify.com/album/3bFnVkPy1031SWdspEkiJw) | 3:53 | 2021-12-24 | 2022-01-14 |
 | [things change](https://open.spotify.com/track/6Syl25qHaep867UNxfCuzU) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [things change](https://open.spotify.com/album/4J1Vphf3QQ1P8gQmmcusNB) | 3:00 | 2024-01-10 | 2024-03-13 |
 | [Thinking Of Her](https://open.spotify.com/track/4Xfi3MOi2UMx0vJAePqr2A) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Thinking Of Her](https://open.spotify.com/album/7FbH0Gs0LAx17e3fA7T3Bo) | 3:27 | 2022-08-26 | 2022-09-17 |
-| [This Hell](https://open.spotify.com/track/5v63JeEv0SUiceygk3N7P4) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl \(Bonus Edition\)](https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb) | 3:56 | 2024-04-09 |  |
+| [This Hell](https://open.spotify.com/track/5v63JeEv0SUiceygk3N7P4) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl \(Bonus Edition\)](https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb) | 3:56 | 2024-04-09 | 2024-04-12 |
 | [This Hell](https://open.spotify.com/track/6A6yKpsgFr4gIKd7gsfHhm) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [This Hell](https://open.spotify.com/album/0U4egSSjgOOcAO7Qmj189E) | 3:56 | 2022-05-20 | 2022-12-01 |
 | [This Hell](https://open.spotify.com/track/7aHmvUghK3XCEqNRbUeAn4) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:56 | 2022-11-30 | 2024-01-11 |
+| [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6) | 3:56 | 2024-04-11 |  |
 | [This is it](https://open.spotify.com/track/3tdYo0JgbKmBdVRG9VOriO) | [Wils](https://open.spotify.com/artist/4CVZoZcpNbLBtmK2IddbWn) | [This is it](https://open.spotify.com/album/6bmIvFMAVsiFeDfrEriTUE) | 3:56 | 2023-04-13 | 2023-05-10 |
 | [This Was My House \(feat\. Niki Haris, Donna De Lory & Initial Talk\)](https://open.spotify.com/track/5iKCRVO0ymLpsDB5gpwMpD) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [Initial Talk](https://open.spotify.com/artist/0YQmcNgfnoqxBMJ8dcw3Eh), [Niki Haris](https://open.spotify.com/artist/6AKDBd8dDnM715jeUivRm1), [Donna De Lory](https://open.spotify.com/artist/14K72NEwk2RVuXTsqcBZNA) | [Fun City](https://open.spotify.com/album/2sxw4rC5lerPPb5gDbOwWm) | 3:21 | 2022-01-21 | 2022-04-16 |
 | [Throw Up When I See Your Face](https://open.spotify.com/track/0ekxDJsWszWXZq2R3BXzUB) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Throw Up When I See Your Face](https://open.spotify.com/album/00Q3J1ya3dDlApLcaaczR1) | 2:44 | 2022-04-29 | 2022-07-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with Kittie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,948 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,078 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 49 | [Kill Me](https://open.spotify.com/track/2KtmPuGbIHDGMZN16x9LG9) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Kill Me](https://open.spotify.com/album/0gyB2i9eqGckT6G3hGPeOf) | 1:48 |
 | 50 | [Zero](https://open.spotify.com/track/2jtRquHacdjMoGhnuUG0i4) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [A Digital Nowhere](https://open.spotify.com/album/36QgSEVbr6YcCNM8naxWev) | 3:29 |
 
-Snapshot ID: `MCw4MzVjZWMxYmYwYTgxOGRmZGY0MTQyMjBmZTU4ZjYwZWJkZjg2Yjdm`
+Snapshot ID: `MTcxMjI4OTY2MCwwMDAwMDAwMDk5Y2NlMjI0MmU0YjIyNmQwODdmMDBhNTBhOGRkMzMz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels, featuring the performing artists of Fresh Finds Live in Chicago\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,191,635 likes - 110 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,191,706 likes - 110 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 109 | [are you there tonight?](https://open.spotify.com/track/2UHmiHEZ0Gwx2tqqMdpFUQ) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [are you there tonight?](https://open.spotify.com/album/3aF38Kh2VROKvQDfyx98s7) | 3:06 |
 | 110 | [Heard You Said Goodbye](https://open.spotify.com/track/6183gLi8IL5KiCZsvQgAtU) | [Mike Parker](https://open.spotify.com/artist/3hzCzAwJH36Ia5R5MIaW8m) | [Heard You Said Goodbye](https://open.spotify.com/album/10Nw2Tftp7OMx7Au5cCFCU) | 2:50 |
 
-Snapshot ID: `MCw3ZDUzNGIwNjc2MGViOWQ4NzEwMTcyNmViN2Q1MDY0ZDk5ZDI5NzNj`
+Snapshot ID: `MTcxMjc2NjQxNywwMDAwMDAwMGVhYzM2ZTU1M2MwZTU1NDFlMjY4ZGE2ZWJmODEzMmYz`

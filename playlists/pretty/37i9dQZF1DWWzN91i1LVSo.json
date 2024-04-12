@@ -1,12 +1,12 @@
 {
   "description": "a fresh & mellow mix from some of today's best singer-songwriters. Cover: Bre Kennedy",
-  "num_followers": 124142,
+  "num_followers": 124143,
   "original_name": "Chill Singer-Songwriter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmUwMzdjNmQ4OGRkM2U3NjU1YWE4YWEwZjQzMDA2OTI3ZDg0YmEy",
+  "snapshot_id": "MTcxMTY4NDgwMCwwMDAwMDAwMGM3YzlkNGUwM2Q2YmJmMjg2OGVjZGQ2YmNmODVjZWJh",
   "tracks": [
     {
       "added_at": "2024-02-23 16:54:41",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "The Buccaneers: Season 1 (Apple TV+ Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 252850,
-      "name": "Cedar",
-      "url": "https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "James Bay Spotify Session 2015",
         "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 236786,
       "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
       "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "The Buccaneers: Season 1 (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 252850,
+      "name": "Cedar",
+      "url": "https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
+        "name": "Hurts Like Hell",
+        "url": "https://open.spotify.com/album/2u7qCdSsazhl9PXlXPCQ5k"
+      },
+      "artists": [
+        {
+          "name": "Lily Fitts",
+          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Hurts Like Hell",
+      "url": "https://open.spotify.com/track/6UkIfamz0vrnlCpWlAfs1T"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
         "name": "Learning",
         "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 206440,
       "name": "Thousand (feat. Lisa Hannigan)",
       "url": "https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
-        "name": "Hurts Like Hell",
-        "url": "https://open.spotify.com/album/2u7qCdSsazhl9PXlXPCQ5k"
-      },
-      "artists": [
-        {
-          "name": "Lily Fitts",
-          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Hurts Like Hell",
-      "url": "https://open.spotify.com/track/6UkIfamz0vrnlCpWlAfs1T"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -883,26 +883,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "People Don't Change",
-        "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
-      },
-      "artists": [
-        {
-          "name": "PJ Harding",
-          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
-        },
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "The Worst Of You",
-      "url": "https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "Too Much To Ask (Acoustic)",
         "url": "https://open.spotify.com/album/54VaqAx59YDqRsoBh4l5Up"
       },
@@ -935,6 +915,26 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
+        "name": "People Don't Change",
+        "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
+      },
+      "artists": [
+        {
+          "name": "PJ Harding",
+          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "The Worst Of You",
+      "url": "https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
         "name": "Guitar",
         "url": "https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc"
       },
@@ -947,22 +947,6 @@
       "duration_ms": 182000,
       "name": "Guitar",
       "url": "https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
-        "name": "Breathe Again",
-        "url": "https://open.spotify.com/album/0bQLjL7bRNORU4aLV11jGy"
-      },
-      "artists": [
-        {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
-        }
-      ],
-      "duration_ms": 200603,
-      "name": "Breathe Again",
-      "url": "https://open.spotify.com/track/0qW8j0n0ep5iXXRZ0n7iiI"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -983,6 +967,22 @@
       "duration_ms": 183454,
       "name": "False Art",
       "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "Breathe Again",
+        "url": "https://open.spotify.com/album/0bQLjL7bRNORU4aLV11jGy"
+      },
+      "artists": [
+        {
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+        }
+      ],
+      "duration_ms": 200603,
+      "name": "Breathe Again",
+      "url": "https://open.spotify.com/track/0qW8j0n0ep5iXXRZ0n7iiI"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
+        "name": "willow",
+        "url": "https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 212119,
+      "name": "willow",
+      "url": "https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
         "name": "loml",
         "url": "https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 201908,
       "name": "loml",
       "url": "https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
-        "name": "willow",
-        "url": "https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 212119,
-      "name": "willow",
-      "url": "https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Not Nearly Dark",
-        "url": "https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB"
-      },
-      "artists": [
-        {
-          "name": "Ciaran Lavery",
-          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
-        }
-      ],
-      "duration_ms": 251960,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "these words are all for you too",
         "url": "https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M"
       },
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
+        "name": "Not Nearly Dark",
+        "url": "https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB"
+      },
+      "artists": [
+        {
+          "name": "Ciaran Lavery",
+          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
+        }
+      ],
+      "duration_ms": 251960,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
         "name": "isaac gracie (extended edition)",
         "url": "https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD"
       },
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Can't See Straight (Acoustic)",
-        "url": "https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj"
-      },
-      "artists": [
-        {
-          "name": "Jamie Lawson",
-          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
-        }
-      ],
-      "duration_ms": 188057,
-      "name": "Can't See Straight - Acoustic",
-      "url": "https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "last one standing",
         "url": "https://open.spotify.com/album/6Z9jGoHDJ1Uaw5PXK35AoV"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 150537,
       "name": "crutches",
       "url": "https://open.spotify.com/track/2uYrwng9hHkJzUSfA2DyEq"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "Can't See Straight (Acoustic)",
+        "url": "https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lawson",
+          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
+        }
+      ],
+      "duration_ms": 188057,
+      "name": "Can't See Straight - Acoustic",
+      "url": "https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Over the Moon",
-        "url": "https://open.spotify.com/album/3mYz8u9eL7mRUoyKSN2Oef"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 256980,
-      "name": "Over the Moon",
-      "url": "https://open.spotify.com/track/2JFSlL1Xsy2j7T5HdRCxpp"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "Hideaway",
         "url": "https://open.spotify.com/album/6AQJsRagE26OAfMcqNoo11"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 154124,
       "name": "Perfect Stranger",
       "url": "https://open.spotify.com/track/0aX5kjSlup9iqZbf1chTr3"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "Over the Moon",
+        "url": "https://open.spotify.com/album/3mYz8u9eL7mRUoyKSN2Oef"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 256980,
+      "name": "Over the Moon",
+      "url": "https://open.spotify.com/track/2JFSlL1Xsy2j7T5HdRCxpp"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Made Up My Mind",
-        "url": "https://open.spotify.com/album/0xlLPP99IxXSaXw2idaUaI"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        },
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 170858,
-      "name": "Made Up My Mind",
-      "url": "https://open.spotify.com/track/0wgzf6u880hriqztlcfhPX"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "IOWA",
         "url": "https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46"
       },
@@ -1631,18 +1611,22 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "At Swim",
-        "url": "https://open.spotify.com/album/6msVb320Ve4PYFCjo0uuDf"
+        "name": "Made Up My Mind",
+        "url": "https://open.spotify.com/album/0xlLPP99IxXSaXw2idaUaI"
       },
       "artists": [
         {
-          "name": "Lisa Hannigan",
-          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        },
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
         }
       ],
-      "duration_ms": 218960,
-      "name": "Snow",
-      "url": "https://open.spotify.com/track/2mI7H9gV0viQJWtf8j48jS"
+      "duration_ms": 170858,
+      "name": "Made Up My Mind",
+      "url": "https://open.spotify.com/track/0wgzf6u880hriqztlcfhPX"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1659,6 +1643,22 @@
       "duration_ms": 183209,
       "name": "Change of Mind - Acoustic",
       "url": "https://open.spotify.com/track/4yBAsLe5P3cEWOFmIeUaRb"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "At Swim",
+        "url": "https://open.spotify.com/album/6msVb320Ve4PYFCjo0uuDf"
+      },
+      "artists": [
+        {
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+        }
+      ],
+      "duration_ms": 218960,
+      "name": "Snow",
+      "url": "https://open.spotify.com/track/2mI7H9gV0viQJWtf8j48jS"
     },
     {
       "added_at": "2024-02-23 16:54:41",

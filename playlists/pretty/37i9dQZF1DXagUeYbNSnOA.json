@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Cover: Pink Pablo performing at Fresh Finds Chicago March 2024.",
-  "num_followers": 176252,
+  "num_followers": 176268,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDM4ZDk4MmE2MjlmMTIxOTI4NmY0NTFjZTlkZmFjYjliOGI0Yzg4",
+  "snapshot_id": "MTcxMjcyMTYwMCwwMDAwMDAwMGVlNDMwMjVkN2NmZWYwN2UzYjBkYmQyNDVmYTA5MDc5",
   "tracks": [
     {
       "added_at": "2024-04-10 04:00:00",
@@ -486,6 +486,10 @@
         {
           "name": "Bachata Mexican Combo",
           "url": "https://open.spotify.com/artist/0CdBLcZNj9LFyBc0aJOqIb"
+        },
+        {
+          "name": "alessa de lara",
+          "url": "https://open.spotify.com/artist/1v6ADBBD7QnwAiEmp4KOnc"
         }
       ],
       "duration_ms": 215211,

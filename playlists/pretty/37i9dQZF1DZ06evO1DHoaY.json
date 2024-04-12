@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2009885,
+  "num_followers": 2010171,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzRjMDBlNmI3OWY5ZmNlMjA4ZDc2NTM2OWFjMjVmMTc5ZjEwNzJj",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDAzYWJhZTE3YzQxZjdlYTI4YWNjMDNiOTI0ZTkwMzMx",
   "tracks": [
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Iron Lion Zion",
-        "url": "https://open.spotify.com/album/06O9GpgtDESYZkUfhKpFcK"
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 202432,
-      "name": "Iron Lion Zion - 7\" Mix",
-      "url": "https://open.spotify.com/track/5iRPNyWioH9Km8gi58As4V"
+      "duration_ms": 271023,
+      "name": "Coming In From The Cold",
+      "url": "https://open.spotify.com/track/6lmLUNd7mcyYqKcg6EIAOu"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
+        "name": "Iron Lion Zion",
+        "url": "https://open.spotify.com/album/06O9GpgtDESYZkUfhKpFcK"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 271023,
-      "name": "Coming In From The Cold",
-      "url": "https://open.spotify.com/track/6lmLUNd7mcyYqKcg6EIAOu"
+      "duration_ms": 202432,
+      "name": "Iron Lion Zion - 7\" Mix",
+      "url": "https://open.spotify.com/track/5iRPNyWioH9Km8gi58As4V"
     },
     {
       "added_at": null,

@@ -648,7 +648,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 141550,
       "name": "Burning Up",
       "url": "https://open.spotify.com/track/4DbHVRP9SmDDgAVOsyd3dK"
@@ -5496,6 +5496,32 @@
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+    },
+    {
+      "album": {
+        "name": "Troublemaker",
+        "url": "https://open.spotify.com/album/4kKRhjQWeLNHbxlUDNg3H2"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        },
+        {
+          "name": "Paradigm",
+          "url": "https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135113,
+      "name": "Troublemaker",
+      "url": "https://open.spotify.com/track/7JuEmC1e1OFNiFRHevPW4n"
     },
     {
       "album": {

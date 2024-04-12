@@ -2,7 +2,7 @@
 
 ### [Balec !](https://open.spotify.com/playlist/37i9dQZF1DWXEtW1CELnqL)
 
-> Laissez\-moi plonger, je suis médecin.
+> On sait jamais, sur un malentendu ça peut marcher.
 
 122 songs - 7 hr 3 min
 

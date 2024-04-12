@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 47402,
+  "2024-04-12": 47412,
   "date_first_scraped": "2023-03-19",
   "description": "\u8a71\u984c\u306e\u30ed\u30c3\u30af\u30d2\u30c3\u30c8\u3092Volume\u4e0a\u3052\u3066\u7206\u97f3\u3067\u3002Cover: Vampire Weekend",
   "name": "Rock The World",
@@ -653,10 +653,28 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 303659,
       "name": "A Vineyard for the North",
       "url": "https://open.spotify.com/track/3xZAvU8o7EDJzFKBy9mvlg"
+    },
+    {
+      "album": {
+        "name": "Where\u2019s My Utopia?",
+        "url": "https://open.spotify.com/album/34UIFF2mDOl7JN0QdmMjPg"
+      },
+      "artists": [
+        {
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303659,
+      "name": "A Vineyard for the North",
+      "url": "https://open.spotify.com/track/5hBUhTczqTowWOpRLU7mZg"
     },
     {
       "album": {
@@ -3917,7 +3935,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 249560,
       "name": "Capricorn",
       "url": "https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM"
@@ -6261,7 +6279,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Emergency Contact",
       "url": "https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO"

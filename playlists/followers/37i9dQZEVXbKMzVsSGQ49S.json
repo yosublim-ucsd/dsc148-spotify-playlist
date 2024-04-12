@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 41802,
+  "2024-04-12": 41806,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Iceland.",
   "name": "Top 50 - Iceland",
@@ -4253,7 +4253,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 111458,
       "name": "BURN",
       "url": "https://open.spotify.com/track/04CyMEHliadfQWMUJb1w99"
@@ -6899,7 +6899,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 140062,
       "name": "DISTORTED PERSONA - ODECORE REMIX",
       "url": "https://open.spotify.com/track/6p7afVYWebbVBJGcOwhLIb"
@@ -15146,6 +15146,24 @@
     },
     {
       "album": {
+        "name": "When Therapy Fails",
+        "url": "https://open.spotify.com/album/4Np49VKPWcDHsa9HEgYTRL"
+      },
+      "artists": [
+        {
+          "name": "Pam Ross",
+          "url": "https://open.spotify.com/artist/3MP65JrJg7ydwg4AK2J6l4"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204937,
+      "name": "In Your Smile",
+      "url": "https://open.spotify.com/track/28xXeX4pHP3fdF5ltPgKtQ"
+    },
+    {
+      "album": {
         "name": "Never Gone",
         "url": "https://open.spotify.com/album/1Wz9PANLXjaOskUv575hRV"
       },
@@ -20270,6 +20288,24 @@
     },
     {
       "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/5ixDOLYzpK9cWDohWhVPtZ"
+      },
+      "artists": [
+        {
+          "name": "Bill Abernathy",
+          "url": "https://open.spotify.com/artist/4Ke1nMGKuxX1mqzhNYCBwD"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293716,
+      "name": "More",
+      "url": "https://open.spotify.com/track/0vKvH0KLE43SZng4x5E51b"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -24061,7 +24097,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 263040,
       "name": "Praise Jah In The Moonlight",
       "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
@@ -29681,7 +29717,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 121573,
       "name": "S\u00cdMINN DAU\u00d0UR",
       "url": "https://open.spotify.com/track/4LGJCDzFqkPFwVfeJgzhlc"

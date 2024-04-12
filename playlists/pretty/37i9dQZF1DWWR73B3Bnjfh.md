@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,115 likes - 75 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,342 likes - 75 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 49 | [Black Coffee](https://open.spotify.com/track/6zoe2w8ubQOTM7XFGU2tUE) | [Duke Pearson](https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44) | [Profile](https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG) | 4:31 |
 | 50 | [Chelsea Bridge](https://open.spotify.com/track/6X1TBqc2CG7HEHsNFOlazB) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Gerry Mulligan Meets Ben Webster](https://open.spotify.com/album/0kFQ4gfEAniyQ2E169YMXE) | 7:22 |
 | 51 | [Ernie's Tune](https://open.spotify.com/track/0vJsWMcRo37FLq9QGzY2yV) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Ballads](https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K) | 4:16 |
-| 52 | [Why Are We Afraid?](https://open.spotify.com/track/3yRb1s9m2BcKr0m5ktUDTQ) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Gettin' Together!](https://open.spotify.com/album/4eF6FIxcBLOMOLEl3w4QQT) | 3:38 |
-| 53 | [Goodbye](https://open.spotify.com/track/6w7WXCEaDvfM5FdRoi1j5k) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Know What I Mean?](https://open.spotify.com/album/439SsuO2Esw1G67Xuw1HPS) | 6:13 |
+| 52 | [Goodbye](https://open.spotify.com/track/6w7WXCEaDvfM5FdRoi1j5k) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Know What I Mean?](https://open.spotify.com/album/439SsuO2Esw1G67Xuw1HPS) | 6:13 |
+| 53 | [Why Are We Afraid?](https://open.spotify.com/track/3yRb1s9m2BcKr0m5ktUDTQ) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Gettin' Together!](https://open.spotify.com/album/4eF6FIxcBLOMOLEl3w4QQT) | 3:38 |
 | 54 | [I Had The Craziest Dream](https://open.spotify.com/track/61InMIqyvcBO4HGMaARf7O) | [Dizzy Reece](https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR) | [Blues In Trinity](https://open.spotify.com/album/5LUiDFf6MTHLMtnNRHfrHy) | 3:05 |
 | 55 | [Ballad](https://open.spotify.com/track/4CAbhcY8lUNbzYCWufMn7s) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX) | 5:46 |
 | 56 | [Stella By Starlight](https://open.spotify.com/track/7JQlMm9c0pkOeowoMCeCTG) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Turning Point](https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT) | 4:52 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 69 | [Blues In The Night](https://open.spotify.com/track/1C18d0LOvih7hKZPypQZFj) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Blues In The Night](https://open.spotify.com/album/5nk9X6TfebDzuEdy59w817) | 5:55 |
 | 70 | [House Of Jade \- Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster](https://open.spotify.com/track/5tIDZCixAvskZRL867Ewh5) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [JuJu](https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq) | 6:53 |
 | 71 | [Body And Soul](https://open.spotify.com/track/1N3h6F9BjQRPzBn4YrGXRo) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Paul Desmond Quartet](https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc) | [Gerry Mulligan \- Paul Desmond Quartet / Blues In Time](https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv) | 9:38 |
-| 72 | [Night Flower \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/02rDg3xZg4crus7U6VjCOm) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Free Form \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/490Ui9cZvDXuv9bRf5mdB4) | 6:48 |
+| 72 | [I've Grown Accustomed To Your Face \- Rudy Van Gelder Remaster](https://open.spotify.com/track/2Ss7eZJNHWyyLaCGdp6tac) | [Sonny Rollins Quintet](https://open.spotify.com/artist/5dJDadRqAmqc06tD2KRSDO) | [Plays For Bird \(RVG Remaster\)](https://open.spotify.com/album/3DYmLyJmnC9Rk3xFzQsd8C) | 4:51 |
 | 73 | [Dam That Dream](https://open.spotify.com/track/1BBIJBrOV8Lzl48C9GZ4rX) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Poppin'](https://open.spotify.com/album/0fGG4NXcCWzTcpYGrcyCtc) | 6:10 |
-| 74 | [I've Grown Accustomed To Your Face \- Rudy Van Gelder Remaster](https://open.spotify.com/track/2Ss7eZJNHWyyLaCGdp6tac) | [Sonny Rollins Quintet](https://open.spotify.com/artist/5dJDadRqAmqc06tD2KRSDO) | [Plays For Bird \(RVG Remaster\)](https://open.spotify.com/album/3DYmLyJmnC9Rk3xFzQsd8C) | 4:51 |
+| 74 | [Night Flower \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/02rDg3xZg4crus7U6VjCOm) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Free Form \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/490Ui9cZvDXuv9bRf5mdB4) | 6:48 |
 | 75 | [Round Midnight](https://open.spotify.com/track/0f8yEumFr2Wvzq0rIDiVxy) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt), [Al Foster](https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6), [Rufus Reid](https://open.spotify.com/artist/7mcseJPsc7KCQrITzrOrWg) | [The Standard Joe](https://open.spotify.com/album/3sVNad4AWMQvwIpAa8dUzK) | 8:50 |
 
-Snapshot ID: `MCwzMTE2NjlkNDBiOWNkODhhNDNlODU3NDhiOGE3YThmMjVjZDM5ZGJh`
+Snapshot ID: `MTcxMDkzNTI5NiwwMDAwMDAwMDRmOTA0OTBjNzM3ZWFkYWYxZjI5MmI1NjY4ZjkxYjkw`

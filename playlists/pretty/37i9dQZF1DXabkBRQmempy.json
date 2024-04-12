@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 90. \n\n",
-  "num_followers": 310549,
+  "num_followers": 310841,
   "original_name": "Rock en Espa\u00f1ol: Los 90",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGU0YWNmY2E2OWU3YmQ0NmNkYjU1YTMwNzY4OGM1YThkZmZjNzYy",
+  "snapshot_id": "MTcxMDI2NjI0MywwMDAwMDAwMGViZDBiNWUxZWYxNjRlYjRkN2U0YjE5ZjhhOTgwOTJj",
   "tracks": [
     {
       "added_at": "2024-03-12 17:57:23",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-03-12 17:57:23",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi"
-      },
-      "artists": [
-        {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
-        }
-      ],
-      "duration_ms": 194573,
-      "name": "El Duelo",
-      "url": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
-    },
-    {
-      "added_at": "2024-03-12 17:57:23",
-      "album": {
         "name": "La Flaca",
         "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 288053,
       "name": "El lado oscuro",
       "url": "https://open.spotify.com/track/3AR1c3Dssq51WlGGkuYJNj"
+    },
+    {
+      "added_at": "2024-03-12 17:57:23",
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi"
+      },
+      "artists": [
+        {
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+        }
+      ],
+      "duration_ms": 194573,
+      "name": "El Duelo",
+      "url": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
     },
     {
       "added_at": "2024-03-12 17:57:23",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-03-12 17:57:23",
       "album": {
-        "name": "Avalancha",
-        "url": "https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68"
+        "name": "Amor Amarillo",
+        "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
       },
       "artists": [
         {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 327426,
-      "name": "La chispa adecuada (Bendecida 3)",
-      "url": "https://open.spotify.com/track/4vkSJSyPddHwL7v3l1cuRf"
+      "duration_ms": 224093,
+      "name": "Te Llevo para Que Me Lleves",
+      "url": "https://open.spotify.com/track/5rGphVLnbPdyBQ5X3rjb2X"
     }
   ],
   "unique_name": "Rock en Espa\u00f1ol: Los 90",

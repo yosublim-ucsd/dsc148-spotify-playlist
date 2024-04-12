@@ -1,12 +1,12 @@
 {
-  "description": "This is Binomio de Oro de Am\u00e9rica. The essential tracks, all in one playlist.",
-  "num_followers": 55596,
+  "description": "This is Binomio de Oro de Am\u00e9rica. Track-track unggulan, semuanya dalam satu playlist.",
+  "num_followers": 55611,
   "original_name": "This Is Binomio de Oro de Am\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmM4YTA3ZDM2MzFlMDMyZWFjNjJmNDZkYjViNjc0MzNkYWQ1MmNj",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMGM5YWIyMjc0YzkwNGRmOWIyOGM2NGZiMzFiMTZiY2Fi",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6IJ6INX6TF29ZLLCXLpfbD"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 246546,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/235RP8gmp1yl5wWvp9oLh7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dif\u00edcil De Igualar",
         "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 292333,
       "name": "Dejate Atrapar",
       "url": "https://open.spotify.com/track/55FtrIkYrKHAhQsCzPdn3e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6IJ6INX6TF29ZLLCXLpfbD"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 246546,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/235RP8gmp1yl5wWvp9oLh7"
     },
     {
       "added_at": null,

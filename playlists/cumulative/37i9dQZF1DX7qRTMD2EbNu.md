@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover:  Yaw Tog
 
-476 songs - 23 hr 59 min
+478 songs - 1 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Dear God](https://open.spotify.com/track/65sRw5TmCvJoRgQUIXpTi1) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9) | [Dear God](https://open.spotify.com/album/2hZgUrtqHaR4p5NOgtvrMi) | 3:07 | 2023-09-14 | 2023-11-17 |
 | [Dede](https://open.spotify.com/track/4MnPFO4h4YCOr80WUDDJL8) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Dede](https://open.spotify.com/album/6VaBuDWyQkt4mVZ9bzcPyV) | 2:58 | 2023-09-29 | 2023-10-13 |
 | [Dem Deh Try](https://open.spotify.com/track/2DSFcgpJYAHUREdK5fgc9b) | [Paq](https://open.spotify.com/artist/0XYSXxykpPb4xmTjvc2yY4), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Dem Deh Try](https://open.spotify.com/album/16hOVq7kncTdjePoCYbB70) | 2:37 | 2023-05-19 | 2023-06-03 |
+| [Devil Is A Liar](https://open.spotify.com/track/302oPZ6nOfNKNjwTqNBfMl) | [Captain Planet 4x4](https://open.spotify.com/artist/1XyrWXcnwl4owrbd9KI0qW) | [Devil Is A Liar](https://open.spotify.com/album/7nzlgwUWKkCslt4ZZkfPLA) | 2:14 | 2024-04-12 |  |
 | [Digits \- Remix](https://open.spotify.com/track/5Bnp61rdlcjT26aQ7fCBsG) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Digits \(Remix\)](https://open.spotify.com/album/1lAUxhieMI4j2gjhOAq1OT) | 3:26 | 2022-06-24 | 2023-09-29 |
 | [Dime Piece](https://open.spotify.com/track/6bgjMZChZYKtzs8XphG5it) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Brudda Nay](https://open.spotify.com/artist/3NMrMxQ07cD29ZJfgwolzV) | [Dime Piece](https://open.spotify.com/album/2EkyJfTgda1FKQUdSl7Y1Y) | 3:41 | 2023-02-16 | 2023-04-21 |
 | [Dislike](https://open.spotify.com/track/7l6Iv5c4vdFMp73pSIsfbm) | [Nkay](https://open.spotify.com/artist/1PQcG2ep2nohJCMyRFyWlv) | [Dislike](https://open.spotify.com/album/2QUXvRU7U54RNcO1edL16Y) | 1:36 | 2023-03-30 | 2023-04-15 |
@@ -256,6 +257,7 @@
 | [Live From 233](https://open.spotify.com/track/1mxaeq1bLsbLAYfxd8hDAf) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not The Tape, Sorry 4 The Wait II](https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8) | 2:44 | 2022-06-24 | 2024-01-26 |
 | [LONELY \(feat\. Sarkodie\)](https://open.spotify.com/track/1z29fkHyKrvZDglpyptvq3) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 4:09 | 2023-10-20 | 2024-01-05 |
 | [LONELY ROAD](https://open.spotify.com/track/5P7d1cYRk786etl1Jbwpk5) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [XlimKid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [PAIN IN GLORY](https://open.spotify.com/album/5mQyfbXSujRUaxTaQBZw4T) | 3:00 | 2023-11-29 |  |
+| [Loose](https://open.spotify.com/track/1hJKi2j5lmV2mWyujPVPeq) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [Loose](https://open.spotify.com/album/3eEsuZJLWrAhALwBOSdoju) | 1:45 | 2024-04-12 |  |
 | [Lost n found](https://open.spotify.com/track/6bZwlXO5h0FZXui1d76tHg) | [Qaido](https://open.spotify.com/artist/2FGrbqxqWqP3NsWM7CwYrz) | [Lost n found](https://open.spotify.com/album/2ha5ESH35aTlUTJineYYGH) | 2:56 | 2023-09-21 | 2023-09-29 |
 | [LUV THY BROTHER AS THY SELF](https://open.spotify.com/track/42HJiaqkS0jPlljIEcmWWK) | [Kwelit](https://open.spotify.com/artist/3H0hY5Y8gwHixRK5QoQ0wZ) | [PA!N](https://open.spotify.com/album/3YDUPN44CCjxug4rNQop9b) | 1:58 | 2023-12-01 | 2023-12-08 |
 | [Maa Abena](https://open.spotify.com/track/7Alc1j3oN8n0JEkMvhMlWd) | [Yaa Pono](https://open.spotify.com/artist/1oqHoNJGPx78BetdO5jMFs) | [Maa Abena](https://open.spotify.com/album/0aNSr4eh4w9w0MZXIdiNi7) | 2:48 | 2022-10-13 | 2022-11-16 |

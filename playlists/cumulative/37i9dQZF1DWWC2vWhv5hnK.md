@@ -4,7 +4,7 @@
 
 > Check out an exclusive voice message + related artist's tracks before the anime release date\. いよいよ4月13日放送。限定ボイスや作品世界を彩るアーティストたちの名曲を聴いて気分を高めよう！©防衛隊第３部隊 ©松本直也／集英社
 
-23 songs - 58 min 50 sec
+25 songs - 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,10 +14,12 @@
 | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV) | 3:24 | 2024-03-13 |  |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2024-03-13 |  |
 | [Morse Code](https://open.spotify.com/track/67Pg038GgSB8UdmZBMCc4i) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [Sakura To](https://open.spotify.com/artist/4b76KvWNvoqzg1v7sTmRYZ), [Kazumasa Ohya](https://open.spotify.com/artist/5JYNKJqGWfK25se9K7b1qV), [Ensemble FOVE](https://open.spotify.com/artist/6q6FKLC39VIDZXz2vX2ZOZ) | [Do Re Mi](https://open.spotify.com/album/20VJ2dp5xAafV9XqBAnCMc) | 1:07 | 2024-03-13 |  |
+| [Nobody \- from Kaiju No\. 8](https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Nobody \(from Kaiju No\. 8\)](https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf) | 2:33 | 2024-04-11 |  |
 | [parents](https://open.spotify.com/track/68rVGSTnCiFOET9k5Vd8Se) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [the underrated youth](https://open.spotify.com/album/0kGTcfwQC5nlsubgxUXdwP) | 2:51 | 2024-03-13 |  |
 | [Prologue](https://open.spotify.com/track/1GOXyTWbWscI6f3ePdWa2W) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [Kaiju No\. 8 \(Music from the Original TV Series\) \-Pre Release\-](https://open.spotify.com/album/6BVYfacGIwCxVea0sdBWtc) | 1:06 | 2024-04-04 |  |
 | [Run](https://open.spotify.com/track/6KL88T4Ma4ABXqzgUoEwkd) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:48 | 2024-03-13 |  |
 | [RUNAWAY](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe) | 2:23 | 2024-03-13 |  |
+| [Ryan Tedder\(OneRepublic\)からのスペシャル・メッセージ！](https://open.spotify.com/track/5xFTVs5QV8rPDvk0moL4Dm) | [怪獣8号](https://open.spotify.com/artist/1QvSxr0HMAEsQP7yeClNDX) | [Ryan Tedder\(OneRepublic\)からのスペシャル・メッセージ！](https://open.spotify.com/album/5dd1oUPabvbqzPPyqFqbuv) | 0:13 | 2024-04-11 |  |
 | [Scorching the Facade](https://open.spotify.com/track/37kK5OaohLmZEz4Vm6gsVN) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 3:44 | 2024-03-13 |  |
 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2024-03-13 |  |
 | [The Funeral](https://open.spotify.com/track/5Sq61mGiOGW0GxgnFNR1MF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [YUNGBLUD](https://open.spotify.com/album/3Hthv2JVzYaWq0TyElU5lF) | 3:30 | 2024-03-13 |  |

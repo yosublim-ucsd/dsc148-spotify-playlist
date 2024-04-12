@@ -1,12 +1,12 @@
 {
-  "description": "This is \u9b3c\u982d\u660e\u91cc. The essential tracks, all in one playlist.",
+  "description": "This is Akari Kito. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
   "num_followers": 2165,
-  "original_name": "This Is \u9b3c\u982d\u660e\u91cc",
+  "original_name": "This Is Akari Kito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmI5OTlhNTEzNzY4ZmJjZGIwNjRhOGM5ODE0NzY5NmYwNGE5YmI5",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDg4NzE5OTU2MDU0ZDUwMGQxMmJmMzllYzc0YWJmZjcw",
   "tracks": [
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Michikusa",
-        "url": "https://open.spotify.com/album/4lHjeSfvndzpJcpUQBPYRS"
+        "name": "\u9b3c\u982d\u660e\u91cc 1st LIVE TOUR\u300cColorful Closet\u300dStream Selection",
+        "url": "https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 277986,
-      "name": "Haremachinote",
-      "url": "https://open.spotify.com/track/7Dqkjap4ckvMiDYoPnO0aU"
+      "duration_ms": 206253,
+      "name": "Swinging Heart Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
+      "url": "https://open.spotify.com/track/2RjE7zHY0etIifDYKVOGyL"
     },
     {
       "added_at": null,
@@ -532,22 +532,6 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 206253,
-      "name": "Swinging Heart Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
-      "url": "https://open.spotify.com/track/2RjE7zHY0etIifDYKVOGyL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u9b3c\u982d\u660e\u91cc 1st LIVE TOUR\u300cColorful Closet\u300dStream Selection",
-        "url": "https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
       "duration_ms": 258252,
       "name": "23\u6642\u306e\u6625\u96f7\u5c11\u5973 Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
       "url": "https://open.spotify.com/track/6UlS8qU6OyXMHI7LkiwyhR"
@@ -569,6 +553,6 @@
       "url": "https://open.spotify.com/track/7lGqrHJq4niQ5F2GLqNYlE"
     }
   ],
-  "unique_name": "This Is \u9b3c\u982d\u660e\u91cc",
+  "unique_name": "This Is Akari Kito",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3r997y"
 }

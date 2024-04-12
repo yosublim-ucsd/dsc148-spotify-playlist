@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v?si=45a30asnSZC1qXPlyoy12w">Brendan Peyper</a>
+> Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7?si=ZIGZb1C1Q8\-8ny22j7ylmA">Riaan Benadé</a>
 
-201 songs - 11 hr 13 min
+202 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Hey Jy](https://open.spotify.com/track/0xjkqCaJ1EbdcFUz9rnoCI) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Hey Jy](https://open.spotify.com/album/3c1a2CHREGxoqHBU8ml7nC) | 3:20 | 2023-08-03 | 2023-11-03 |
 | [Hey Sonneblom](https://open.spotify.com/track/4vyQOF8wGtDV6eHsOqWaCG) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Hey Sonneblom](https://open.spotify.com/album/4aYcdeTwgsJB1jjV8MON1e) | 3:30 | 2022-08-02 |  |
 | [Hier Gaat Ons Alweer](https://open.spotify.com/track/1zkDzC92Zb1KUSTa2Rumqv) | [Pieter Koen](https://open.spotify.com/artist/42MoeGwwUSE0x4u9PHvSif) | [Hier Gaat Ons Alweer](https://open.spotify.com/album/2mpRZxyifeulCZI1lmBBT3) | 3:14 | 2022-10-06 | 2022-11-04 |
+| [Hy Jy Jy](https://open.spotify.com/track/6XFuQdgV9LU2ss1jcF6Ogg) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Hy Jy Jy](https://open.spotify.com/album/036REkipFi8J0yHsuMQ8Aj) | 3:17 | 2024-04-11 |  |
 | [Hy's 'n Lekker Ou](https://open.spotify.com/track/0ZCQRMdGD0GsxDWr2nmUJO) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Braaf](https://open.spotify.com/album/4cR81psmOmW9QnENYZveCd) | 3:16 | 2023-05-04 | 2023-06-16 |
 | [Impulsief](https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Impulsief](https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L) | 3:03 | 2022-11-24 |  |
 | [Inge 2](https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Almal Gly](https://open.spotify.com/album/4VpAvLR65DT7sUdlS3KgiX) | 3:41 | 2023-08-17 |  |
@@ -132,7 +133,7 @@
 | [My Nannas](https://open.spotify.com/track/7AiWpdNAuQtauRiZLRTiin) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [My Nannas](https://open.spotify.com/album/5aHgjmoL4dh4xbDgzl6rHc) | 3:17 | 2022-10-13 |  |
 | [My Persoon](https://open.spotify.com/track/72X1334S3ENO1j1RnTvtzc) | [Die Campbells](https://open.spotify.com/artist/1GfnUbIqwTuETN5vXE1Y4H), [Cordelia](https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN) | [My Persoon](https://open.spotify.com/album/0x2D2KYd5jIzeffnnRgynF) | 3:32 | 2022-11-24 | 2022-12-24 |
 | [My Volgende Fout](https://open.spotify.com/track/1kHQzqhGImGF9kPlgq7Yzh) | [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj), [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [My Volgende Fout](https://open.spotify.com/album/1FUttDOfsKL1aZw7fcsqAc) | 3:33 | 2021-11-08 | 2024-01-26 |
-| [Nee of Ja](https://open.spotify.com/track/6R80KkMcEbBasMSQGFBiHB) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Nee of Ja](https://open.spotify.com/album/1ISXpP9dS92U0oqGCWjVjb) | 3:19 | 2023-02-23 |  |
+| [Nee of Ja](https://open.spotify.com/track/6R80KkMcEbBasMSQGFBiHB) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Nee of Ja](https://open.spotify.com/album/1ISXpP9dS92U0oqGCWjVjb) | 3:19 | 2023-02-23 | 2024-04-12 |
 | [Neem My Op Vlerke \- SENSASIE Remix](https://open.spotify.com/track/5d759QCP2C5N2jsFYb79HO) | [Anneli Van Rooyen](https://open.spotify.com/artist/6a7yFEdaUPfs8WpUQI4zfK), [SENSASIE](https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14) | [Neem My Op Vlerke \(SENSASIE Remix\)](https://open.spotify.com/album/0FFaZbNOjCRU9oJLWfcAPW) | 3:22 | 2024-01-25 |  |
 | [Nes Ons Kan](https://open.spotify.com/track/552ct0DgK65AjtFjXwnakh) | [Corné Louw](https://open.spotify.com/artist/3dna8d6MSlgBgIbtjD9MgJ) | [Nes Ons Kan](https://open.spotify.com/album/0HqO7AZMzelaMrtdKCNhOB) | 3:44 | 2022-10-13 | 2022-10-21 |
 | [Net Een Keer](https://open.spotify.com/track/71tkxqyBp1FnQYMI9R2NQY) | [Samantha Leonard](https://open.spotify.com/artist/0t70FT0xcfRAuHAM8C9Tgw) | [Net Een Keer](https://open.spotify.com/album/1NPoFcEaJg6MkRsHVPeN0M) | 2:53 | 2022-10-28 | 2023-05-19 |

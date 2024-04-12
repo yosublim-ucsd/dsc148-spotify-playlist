@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 76806,
+  "num_followers": 76821,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGEwMmIxYThhN2FlMDliZDg4Y2I5ZjhiYjkyZjgzYWE2YWRlMzEx",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDc3ODJkZDYwZDQ5YzQxYzE4Yzg5NWFkOTY4MDIwM2Fh",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What The Dead Men Say",
-        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
+        "name": "Shogun (Special Edition)",
+        "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 269220,
-      "name": "The Defiant",
-      "url": "https://open.spotify.com/track/1OsDIdCx9t0khbY88vFpLN"
+      "duration_ms": 354133,
+      "name": "Throes of Perdition",
+      "url": "https://open.spotify.com/track/5IC15BbbaRv6FmseUG0mTu"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shogun (Special Edition)",
-        "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 354133,
-      "name": "Throes of Perdition",
-      "url": "https://open.spotify.com/track/5IC15BbbaRv6FmseUG0mTu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What The Dead Men Say",
         "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
       },
@@ -420,9 +404,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 228926,
-      "name": "Bleed Into Me",
-      "url": "https://open.spotify.com/track/63AK4XR008a8GevrN4Ei5m"
+      "duration_ms": 269220,
+      "name": "The Defiant",
+      "url": "https://open.spotify.com/track/1OsDIdCx9t0khbY88vFpLN"
     },
     {
       "added_at": null,
@@ -475,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shogun (Special Edition)",
-        "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
+        "name": "What The Dead Men Say",
+        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
       },
       "artists": [
         {
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 387400,
-      "name": "Kirisute Gomen",
-      "url": "https://open.spotify.com/track/5oELEE5XmqWw9gIFsb878g"
+      "duration_ms": 228926,
+      "name": "Bleed Into Me",
+      "url": "https://open.spotify.com/track/63AK4XR008a8GevrN4Ei5m"
     },
     {
       "added_at": null,
@@ -523,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shogun (Special Edition)",
+        "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 387400,
+      "name": "Kirisute Gomen",
+      "url": "https://open.spotify.com/track/5oELEE5XmqWw9gIFsb878g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Waves (Special Edition)",
         "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
       },
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sin and the Sentence",
-        "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 289840,
-      "name": "Other Worlds",
-      "url": "https://open.spotify.com/track/1a2S3UQ4riSjBJUmuxBGo0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The Court Of The Dragon",
         "url": "https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 431688,
       "name": "The Shadow Of The Abattoir",
       "url": "https://open.spotify.com/track/6PMrbTi4HbEpmf0B1o9APz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sin and the Sentence",
+        "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 289840,
+      "name": "Other Worlds",
+      "url": "https://open.spotify.com/track/1a2S3UQ4riSjBJUmuxBGo0"
     },
     {
       "added_at": null,

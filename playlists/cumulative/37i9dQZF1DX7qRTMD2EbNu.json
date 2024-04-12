@@ -2357,6 +2357,24 @@
     },
     {
       "album": {
+        "name": "Devil Is A Liar",
+        "url": "https://open.spotify.com/album/7nzlgwUWKkCslt4ZZkfPLA"
+      },
+      "artists": [
+        {
+          "name": "Captain Planet 4x4",
+          "url": "https://open.spotify.com/artist/1XyrWXcnwl4owrbd9KI0qW"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134288,
+      "name": "Devil Is A Liar",
+      "url": "https://open.spotify.com/track/302oPZ6nOfNKNjwTqNBfMl"
+    },
+    {
+      "album": {
         "name": "Digits (Remix)",
         "url": "https://open.spotify.com/album/1lAUxhieMI4j2gjhOAq1OT"
       },
@@ -5334,6 +5352,24 @@
       "duration_ms": 180937,
       "name": "LONELY ROAD",
       "url": "https://open.spotify.com/track/5P7d1cYRk786etl1Jbwpk5"
+    },
+    {
+      "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/3eEsuZJLWrAhALwBOSdoju"
+      },
+      "artists": [
+        {
+          "name": "Rjz",
+          "url": "https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105740,
+      "name": "Loose",
+      "url": "https://open.spotify.com/track/1hJKi2j5lmV2mWyujPVPeq"
     },
     {
       "album": {

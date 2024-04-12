@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "AfterLife (Deluxe)",
+        "url": "https://open.spotify.com/album/3nEUhPvFBnLSi30EZy931a"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202894,
+      "name": "Blood And Tar",
+      "url": "https://open.spotify.com/track/0u4GNHMmANV4S7WnnE8RH7"
+    },
+    {
+      "album": {
         "name": "And Justice for None",
         "url": "https://open.spotify.com/album/1hMjINqA3UZ1ITb47wizsC"
       },

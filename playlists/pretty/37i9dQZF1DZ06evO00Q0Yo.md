@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 
 > This is Flo Milli\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,853 likes - 51 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,876 likes - 51 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 48 | [Sexy \(Remix\) \- feat\. Flo Milli](https://open.spotify.com/track/2UchverhvMczB8NoXrNWwU) | [JoeVille](https://open.spotify.com/artist/6Rf6w9LrInrRvLTh0sEzVW), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Sexy \(Remix\) \[feat\. Flo Milli\]](https://open.spotify.com/album/4S1It1aTTWaMPblmRNy3DX) | 3:48 |
 | 49 | [Take It Up \- Remix](https://open.spotify.com/track/0HpuGk2nD5BBw7QE7NnsMx) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Take It Up Remix](https://open.spotify.com/album/5nAc94a7Z9NbtzcEk88H1n) | 2:25 |
 | 50 | [Ice Baby](https://open.spotify.com/track/54c4fajLogCgJkKiKztEa2) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ice Baby](https://open.spotify.com/album/47fUhEmt7Ew393CEPo7VhK) | 2:49 |
-| 51 | [Cherry \- Remix](https://open.spotify.com/track/1QsxMw8pGrJ9juETzspO3g) | [Almondmilkhunni](https://open.spotify.com/artist/778bhPsYwr6sAELsBBX8MC), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Cherry \(Remix\)](https://open.spotify.com/album/1ojIoYoDIciIGMgaSEs2Rr) | 2:12 |
+| 51 | [Nasty \(feat\. Rubi Rose\)](https://open.spotify.com/track/7JJ6QHjNgmFOAYaEv36IXE) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Nasty \(feat\. Rubi Rose\)](https://open.spotify.com/album/5OxBZ1tt0FpQZU7VdfBbVy) | 3:05 |
 
-Snapshot ID: `MCxjNTQwZDI2ZTA3ZDVmMDg3ZjUxZmY2YWE0NWNkMTUxNTg4NGEyNmVj`
+Snapshot ID: `MTcxMjcwNzIwMCwwMDAwMDAwMDAwZDM5OTgyNGI0MjZlYzY1OGQ3ZTY3MzMzOTlhNmJj`

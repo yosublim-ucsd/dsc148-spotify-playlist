@@ -2,7 +2,7 @@
 
 ### [GQOM Power House](https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg)
 
-> It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy?si=kZqsSRa1TZeEyUsnO2bRPQ">Omagoqa</a>
+> It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/7JenaF646lANuwlTFZzH0X?si=WW6zRJFFRNqvy9Xs4y0xiA">Kyotic</a>
 
 178 songs - 16 hr 0 min
 

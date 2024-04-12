@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,879 likes - 80 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,887 likes - 80 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 77 | [La Fuerza](https://open.spotify.com/track/2MNnYejvulFGxM9yoLt89j) | [Ensamble Folklórico Digital](https://open.spotify.com/artist/42AgikIswL8YgTNkWoqIiI), [Villa Diamante](https://open.spotify.com/artist/3teTanCAHVFtUilgdGrfaD), [Lauphan](https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I), [Bienvenidos a la Computadora](https://open.spotify.com/artist/1viypXNNWz9XslwCH1Hzz4), [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH), [Cehache Respira](https://open.spotify.com/artist/7oKFnoNXS5mgfZ8ERqF23l) | [La Fuerza](https://open.spotify.com/album/5BOYpCrtxsqlMVGqD0x39R) | 4:27 |
 | 78 | [Unión de los Amantes](https://open.spotify.com/track/2woooyH6Zq3XFRVSWEZMW6) | [Soema Montenegro](https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Camino a la Templanza](https://open.spotify.com/album/6sFos3tp45tLjHLHtgsOww) | 4:23 |
 | 79 | [Movimiento](https://open.spotify.com/track/7MNrYniRIAvrpGfsBk2uFE) | [Lauphan](https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I) | [Qué Canchero \(New Sounds of Argentina\)](https://open.spotify.com/album/4IrnlEEygAbGfgUNvsJ48h) | 4:02 |
-| 80 | [Mi Cultura La Copla](https://open.spotify.com/track/0llb0HHVdnALQxHQnRT7Mp) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Mi Cultura La Copla](https://open.spotify.com/album/1v7igOTMyTvR31EdQWpcsu) | 2:33 |
+| 80 | [Tierra Natal \- Barzo Remix](https://open.spotify.com/track/61rdpohhquc8kcD1VBZSY0) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [Tierra Natal \(Barzo Remix\)](https://open.spotify.com/album/33JGt2tM21JG75Sf0dzpmI) | 3:19 |
 
-Snapshot ID: `MCwzZThiZGY2MGZlMTBiMGFlNWVlZjllMDkzNGYzYTEwOWQ5MjExNGVl`
+Snapshot ID: `MTcxMTY4MTIwMCwwMDAwMDAwMDlkMTI3ZTEzMDJlNWNmNDljYjI3NzRkMjM1ZWI5OWY2`

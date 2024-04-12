@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-470 songs - 1 day 9 hr 27 min
+471 songs - 1 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [feel you](https://open.spotify.com/track/2ZS6zsrVD0FT0D5HbDpky3) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [leah julia](https://open.spotify.com/artist/2anFRwD3jRc3N8iTNaz41D) | [feel you](https://open.spotify.com/album/5N2ZWLzgmo9IhGOuQeq1ou) | 1:58 | 2023-10-23 |  |
 | [Feeling It](https://open.spotify.com/track/3h45GAnateHR2KnCiZYOQA) | [Maximum Love](https://open.spotify.com/artist/6iDI0sHLIeFIkZk6BKJBVQ) | [Feeling It](https://open.spotify.com/album/0A2F4dtZP2YcS85ZBIrXVp) | 3:20 | 2022-12-01 | 2023-07-01 |
 | [Fever](https://open.spotify.com/track/0SoAEe3qrUmjh9YRX4FFbO) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb), [BRESDEN](https://open.spotify.com/artist/0djds6pkICcQcfaxmK3cSj) | [Fever](https://open.spotify.com/album/0sTuNWvCX4Wn5zDiflJ7Qz) | 4:16 | 2022-02-04 | 2022-06-14 |
-| [Finding You](https://open.spotify.com/track/0ZNL5oPxubdojnsNSlfnpP) | [Borena](https://open.spotify.com/artist/4Q25hXKDxZ3rOeB6UygFEQ), [Hidden Tigress](https://open.spotify.com/artist/53ZEdEG4hThZtzjhfQRHEu) | [Finding You](https://open.spotify.com/album/0eMBOMgBh1QE748SFS0ZGE) | 3:21 | 2023-11-27 |  |
+| [Finding You](https://open.spotify.com/track/0ZNL5oPxubdojnsNSlfnpP) | [Borena](https://open.spotify.com/artist/4Q25hXKDxZ3rOeB6UygFEQ), [Hidden Tigress](https://open.spotify.com/artist/53ZEdEG4hThZtzjhfQRHEu) | [Finding You](https://open.spotify.com/album/0eMBOMgBh1QE748SFS0ZGE) | 3:21 | 2023-11-27 | 2024-04-12 |
 | [Fire](https://open.spotify.com/track/2S1pXtETDouy0erB6fKQ3E) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Among Wolves](https://open.spotify.com/album/1mhuy869BxmT6A2gVXr35i) | 2:10 | 2023-06-30 |  |
 | [Fire](https://open.spotify.com/track/3XPDYyo2I9dIa2uhgcZhgn) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Fire](https://open.spotify.com/album/1MkCO0adu22r0yPTkhzwjM) | 2:10 | 2022-08-12 | 2022-10-18 |
 | [Fire](https://open.spotify.com/track/6Uy4OXL04NfdM0DxM1m5Ww) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Fire](https://open.spotify.com/album/2aCUF9UpKcXuWleXjgasXW) | 2:10 | 2022-11-11 | 2023-07-10 |
@@ -477,6 +477,7 @@
 | [Years and Elements](https://open.spotify.com/track/7sLQ99cOLqGQ63xKIKPhz2) | [Plone](https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41) | [Puzzlewood](https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq) | 2:30 | 2022-02-04 | 2022-10-15 |
 | [Восход](https://open.spotify.com/track/6bHALIZwaxHrITYEKDstjm) | [Луч](https://open.spotify.com/artist/49T1P1FQTiwitma7DgToRZ) | [Энергия](https://open.spotify.com/album/1yTToe2FoBck49HofSM0HN) | 4:08 | 2022-06-17 | 2022-06-30 |
 | [На Тонком Льду](https://open.spotify.com/track/0dcVVJF37Z16WWJRnkAbyg) | [АУРА](https://open.spotify.com/artist/4kAxNttLx88sQ48x4qaEDn) | [Я Мы Слова](https://open.spotify.com/album/5FglSUS4BFBENpI1Hn7Wce) | 4:16 | 2022-04-01 | 2022-04-19 |
+| [Навстречу ветру](https://open.spotify.com/track/6q3DoBmtW3fV8FXwz6TeSn) | [Луч](https://open.spotify.com/artist/49T1P1FQTiwitma7DgToRZ) | [Навстречу Ветру](https://open.spotify.com/album/06bV1es0o3jgzdmpbA4RND) | 3:15 | 2023-11-27 |  |
 | [Погоня](https://open.spotify.com/track/2AvDaqxSlxeXFb0kSWnVOs) | [Луч](https://open.spotify.com/artist/49T1P1FQTiwitma7DgToRZ) | [Погоня](https://open.spotify.com/album/55l1WoJzMpquZIX4FWY6Yv) | 3:02 | 2022-04-01 |  |
 
 \*This playlist was first scraped on 2022-01-17. Prior content cannot be recovered.

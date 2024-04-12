@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:4c6lhwoOrmgNWvl0GxHlW1">Tedashii</a>
 
-995 songs - 2 day 1 hr 0 min
+996 songs - 2 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Bless God](https://open.spotify.com/track/1g8tR1awNj30526ul1vdp5) | [Ruslan](https://open.spotify.com/artist/2GEXrCflKZ5S5ZHBM4LNcV) | [Love What You Do](https://open.spotify.com/album/4JeXKwggFxLU9TaOZJSvfG) | 2:59 | 2021-12-11 | 2022-03-17 |
 | [Bless Me](https://open.spotify.com/track/0WMYu6uFAfj9FBcKD2N5BF) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [Fission](https://open.spotify.com/album/0o0XNg5iRRUBd1LSArLMvr) | 3:34 | 2022-07-17 | 2022-07-22 |
 | [Blessed](https://open.spotify.com/track/7nIcSHlvM81ek3T4CmnyPM) | [JStu](https://open.spotify.com/artist/1XPqOoA9Vz9PbFELTX7gHh), [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Summer's Back](https://open.spotify.com/album/3dXWmQO0fM5Gj9S8sv4YjW) | 2:27 | 2021-12-11 | 2022-01-19 |
+| [BLESSED](https://open.spotify.com/track/51I93kSJksxIWnjO2S47II) | [LLC Flame](https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4), [Caleb Golden](https://open.spotify.com/artist/3VFD6xeoJaM85N4gGfK3ma) | [BLESSED](https://open.spotify.com/album/3BePNExIOm54F4e5h40r86) | 2:39 | 2024-04-05 |  |
 | [Blessed & Chosen](https://open.spotify.com/track/01g28jkreyZot6Op7rJZmc) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [Blessed & Chosen](https://open.spotify.com/album/65tsbNXRYqocOsabXEtpqe) | 2:00 | 2023-12-15 | 2024-02-10 |
 | [Blessed Mode](https://open.spotify.com/track/7JPlYKKFQ6iKWAxsFZF3IS) | [Kel Mitchell](https://open.spotify.com/artist/1OnPFoy7Udp0M5R6xjfCcR), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [Blessed Mode](https://open.spotify.com/album/15x3jykJeOXdE43DommQlB) | 3:03 | 2022-03-12 | 2022-08-07 |
 | [Blessed Up](https://open.spotify.com/track/17XoLUQLHu3r7dwbrUkxnT) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Blessed Up](https://open.spotify.com/album/5DcrBNLfArtbJ8MOaz4ejc) | 3:01 | 2021-12-11 | 2022-01-23 |
@@ -885,7 +886,7 @@
 | [Too Easy \(feat\. Parris Chariz & Jon Keith\)](https://open.spotify.com/track/6Zn4QgUQz6btDonLQwhHta) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [Too Easy \(feat\. Parris Chariz & Jon Keith\)](https://open.spotify.com/album/41CUu6uafLU74cZtNwHERv) | 3:36 | 2022-02-04 | 2022-04-29 |
 | [Too Far In Love](https://open.spotify.com/track/5jJitdFoXDG4NOE1EKOPzi) | [Tmmrw](https://open.spotify.com/artist/4yrVT3iI0uEPzTvGBKEiRf) | [Too Far In Love](https://open.spotify.com/album/71o4kxfGdcSLGBy9l01j9B) | 2:49 | 2021-12-11 | 2022-01-17 |
 | [Too In \(with Kay Sade\)](https://open.spotify.com/track/2LDrzFPomdLVZ4OzJVBQZj) | [Dru Bex](https://open.spotify.com/artist/11hR4oPRwSDzaUMTPzYuoe), [Kay Sade](https://open.spotify.com/artist/4PkhCFbcHgGFYHEspjPkq3) | [Sindy Versus Victoria](https://open.spotify.com/album/1T9mQCtrWNKqGTALO09BRf) | 4:00 | 2021-12-11 | 2022-04-27 |
-| [Too Much](https://open.spotify.com/track/5ZpNrG5qK5ve7uNHMx1IG8) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Too Much](https://open.spotify.com/album/0prltCaGMX57gAkUIUAzIA) | 2:06 | 2024-02-23 |  |
+| [Too Much](https://open.spotify.com/track/5ZpNrG5qK5ve7uNHMx1IG8) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Too Much](https://open.spotify.com/album/0prltCaGMX57gAkUIUAzIA) | 2:06 | 2024-02-23 | 2024-04-12 |
 | [Top Up \(S1 EP1 \- Konola\)](https://open.spotify.com/track/3ApvUzX3QI5LoD6xwjyqeC) | [Aligned Vision](https://open.spotify.com/artist/1sYCFMXOAq4TOtbtqb2JwF), [Konola](https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t) | [Top Up \(S1 EP1 \- Konola\)](https://open.spotify.com/album/3g6SsgeILrsxtSwStesQhs) | 4:57 | 2022-02-04 | 2022-02-27 |
 | [Tough Love](https://open.spotify.com/track/63N6oeVUu4RehqpPutwwcC) | [MvkeyyJ](https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB) | [Durag Tech](https://open.spotify.com/album/3t8yOw7akcDVXMa5LCRQaY) | 2:20 | 2023-12-15 | 2024-02-10 |
 | [Toxic](https://open.spotify.com/track/6Yqc30NRfmI9cRwIuHcRo0) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [Toxic](https://open.spotify.com/album/3woPyxl6KdRO8YmbaWbHcn) | 2:46 | 2022-02-04 | 2022-04-25 |

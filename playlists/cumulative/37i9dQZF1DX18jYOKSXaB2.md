@@ -4,7 +4,7 @@
 
 > consider this an RSVP to littest wedding parties
 
-103 songs - 5 hr 23 min
+104 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,11 +25,12 @@
 | [Bad and Boujee](https://open.spotify.com/track/6yxeRfVFePZ9poNaEwaQL3) | [Murphy Mccarthy](https://open.spotify.com/artist/3PkbUErriBaMqrzyy6783I), [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [Jaywillz](https://open.spotify.com/artist/6OYJV1xYFAu5vysIxfq4Pg) | [Bad and Boujee](https://open.spotify.com/album/2tY2hWhHDRbWE4pAXMhulM) | 3:35 | 2023-12-08 | 2024-03-01 |
 | [Beautiful](https://open.spotify.com/track/3Jbbpijvtlt7q8BQxdo7Aa) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Beautiful](https://open.spotify.com/album/3awn4URVbx6A9yzwevCbSo) | 3:08 | 2023-06-22 | 2023-11-03 |
 | [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 | 2023-04-14 |  |
+| [Bucket List](https://open.spotify.com/track/7fnH0BHcOanXLbaPOFW5AA) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Jiggy Forever](https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp) | 2:41 | 2024-04-12 |  |
 | [Butterfly](https://open.spotify.com/track/2Oi5nmXp7PaxZdtx9oWc98) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [Butterfly](https://open.spotify.com/album/3M8CZLQqMNipOWzNe9DBFp) | 2:38 | 2023-11-03 | 2024-02-03 |
 | [Can't Let You Go \(feat\. King Promise\)](https://open.spotify.com/track/60HGKB4wbcZhClLTYIjzNw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:43 | 2022-02-11 |  |
 | [Carry Am Go](https://open.spotify.com/track/56QegwkRucsEi48LrPhfUc) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Love Testament](https://open.spotify.com/album/6tRqd597i8RSQ6odzWhpje) | 2:36 | 2024-02-23 |  |
 | [Case](https://open.spotify.com/track/5HqngsF3BE19077Ilnw7N5) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Case](https://open.spotify.com/album/3vhhduoyZmze3Av47M9OvM) | 3:22 | 2022-02-11 |  |
-| [CCTV](https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [As Promised](https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX) | 4:13 | 2022-02-11 |  |
+| [CCTV](https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [As Promised](https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX) | 4:13 | 2022-02-11 | 2024-04-12 |
 | [Colors \(My Baby\)](https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Colors \(My Baby\) / Loyal](https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B) | 2:44 | 2023-03-24 |  |
 | [Come and See My Moda](https://open.spotify.com/track/3nhUUcq9YDF5FgMlaZ6jCv) | [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Come and See My Moda](https://open.spotify.com/album/36ayAOmHgXYzJEKhXVwZcu) | 3:40 | 2024-02-02 | 2024-03-15 |
 | [Come and See My Moda \(feat\. Yemi Alade\)](https://open.spotify.com/track/5W4iLxBJknbKAjNAUSH2L5) | [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Come and See My Moda \(feat\. Yemi Alade\)](https://open.spotify.com/album/6SHyTplp5zoiYCtmCjCSSi) | 3:40 | 2022-02-11 | 2024-02-04 |

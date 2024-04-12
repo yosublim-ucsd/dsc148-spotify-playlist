@@ -9480,7 +9480,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 291034,
       "name": "Terminal",
       "url": "https://open.spotify.com/track/0tOvdClBu7Wf34Y9UqYPUn"
@@ -10192,6 +10192,24 @@
       "duration_ms": 298000,
       "name": "The Watcher",
       "url": "https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw"
+    },
+    {
+      "album": {
+        "name": "LOSE YOU",
+        "url": "https://open.spotify.com/album/5Ea5eYWllMcGeEVrePDs34"
+      },
+      "artists": [
+        {
+          "name": "The Veer Union",
+          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226329,
+      "name": "The World I Wanted - Vol.1",
+      "url": "https://open.spotify.com/track/1gtu7qxYNN48tQkscmcuug"
     },
     {
       "album": {

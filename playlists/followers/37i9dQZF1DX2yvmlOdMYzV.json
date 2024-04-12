@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 935688,
+  "2024-04-12": 935752,
   "date_first_scraped": "2021-12-30",
   "description": "Indie soul that's highkey fire ",
   "name": "Lowkey",
@@ -4692,6 +4692,28 @@
     },
     {
       "album": {
+        "name": "HERE THEY COME",
+        "url": "https://open.spotify.com/album/6F7eC5DNJNyX0wsy3Ll7IR"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139750,
+      "name": "HERE THEY COME",
+      "url": "https://open.spotify.com/track/5H5eCRqsbOq8BlXgqjXJbu"
+    },
+    {
+      "album": {
         "name": "Here To Stay",
         "url": "https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA"
       },
@@ -7409,7 +7431,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 195041,
       "name": "MAGIC!",
       "url": "https://open.spotify.com/track/03bFDCogqEAeXsiNdTBY1D"

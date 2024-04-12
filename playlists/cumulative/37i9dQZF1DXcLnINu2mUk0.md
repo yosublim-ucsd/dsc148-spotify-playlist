@@ -2,9 +2,9 @@
 
 ### [Seda](https://open.spotify.com/playlist/37i9dQZF1DXcLnINu2mUk0)
 
-> Chill rap e R&B: É um mood suave e envolvente\. Foto: Rony Fuego e Loony Johnson.
+> Chill rap e R&B: É um mood suave e envolvente\. Foto: Salah, Timor YSF, MC Zaquin
 
-583 songs - 1 day 7 hr 9 min
+584 songs - 1 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Coração de Prata](https://open.spotify.com/track/3kX8pwkuFxnCmzZAxP5VeR) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Coração de Prata](https://open.spotify.com/album/2dSNU471jKPFqhF2cmvey7) | 2:56 | 2023-01-06 | 2023-01-19 |
 | [Coração Dormente](https://open.spotify.com/track/2huId19fBOPEzLbcIFok7a) | [Calalo](https://open.spotify.com/artist/6Ou70gVIleVNUiJV3uKZjs) | [Coração Dormente](https://open.spotify.com/album/0BCWwL9UBCjQcqj2BoLp7m) | 2:59 | 2023-05-11 | 2023-06-02 |
 | [CorDaPele](https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [CorDaPele](https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA) | 2:58 | 2023-10-05 |  |
-| [Cores](https://open.spotify.com/track/4dbrAqUbdbzDXHYr9rZTSr) | [CHEWIE](https://open.spotify.com/artist/5BLBxwhH9IhY42OAnGrIIR) | [louCura](https://open.spotify.com/album/6F22sVVv1nFGeQUEbndBev) | 3:26 | 2024-03-15 |  |
+| [Cores](https://open.spotify.com/track/4dbrAqUbdbzDXHYr9rZTSr) | [CHEWIE](https://open.spotify.com/artist/5BLBxwhH9IhY42OAnGrIIR) | [louCura](https://open.spotify.com/album/6F22sVVv1nFGeQUEbndBev) | 3:26 | 2024-03-15 | 2024-04-12 |
 | [Corre](https://open.spotify.com/track/3B0kyiBOoB8DEwnuYnlk3y) | [Osémio Boémio](https://open.spotify.com/artist/1ESj85JsWWKJuWrYo1eJfx), [R7ALNESS](https://open.spotify.com/artist/5e2E68RwtTs37jHS3mZ885) | [Corre](https://open.spotify.com/album/7ea5899z7Ij1HuoNO5r5Sq) | 3:05 | 2024-01-12 | 2024-02-16 |
 | [Crime Scene](https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Crime Scene](https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7) | 2:58 | 2023-06-15 | 2023-09-15 |
 | [Culpa Do Álcool](https://open.spotify.com/track/1GAy3MLjR2Nlhdr1Z4iQb0) | [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Culpa Do Álcool](https://open.spotify.com/album/0vnNwTitOdyUljMkE1qUPW) | 2:13 | 2023-04-13 | 2023-05-26 |
@@ -195,6 +195,7 @@
 | [Eu Ela & o Facebook](https://open.spotify.com/track/7kba44tTPcgX4LOrJRNvCT) | [Hidrah O Donno](https://open.spotify.com/artist/1LUkGzq1z3AGByPwLNfXzR) | [R&B Clock](https://open.spotify.com/album/0DoXmg9jYjuPmhbj9Ortvy) | 3:02 | 2023-07-27 | 2023-08-04 |
 | [Eu Sei](https://open.spotify.com/track/3BLnlQwb0h9EVzDWI9WFpm) | [Fugitivo AH](https://open.spotify.com/artist/3VAnoZNiMY5AHI8EBW9DEo) | [Eu Sei](https://open.spotify.com/album/3PlnVKoDX4HdryOK9e5uWu) | 2:27 | 2023-11-17 | 2023-11-23 |
 | [EU SEI](https://open.spotify.com/track/7BN2gjCwesbpg6fk2AgRvB) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [EU SEI](https://open.spotify.com/album/7Ks72VKkVAbJqTbvz8VwVa) | 3:43 | 2023-04-13 | 2023-06-30 |
+| [Eu Sei \#6](https://open.spotify.com/track/14iGjeiHaM9xTqjNYqANNL) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO), [MC Zaquin](https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4) | [Eu Sei \#6](https://open.spotify.com/album/7zxYPMBvLHPqSbpMQsl7V1) | 2:45 | 2024-04-11 |  |
 | [Everyday](https://open.spotify.com/track/5dqky2uELRcvjcMYbEP5TW) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Everyday](https://open.spotify.com/album/2p9CnUqvAVGHFe9eU2KyWW) | 3:22 | 2023-05-26 | 2023-06-16 |
 | [Fada](https://open.spotify.com/track/6edj5SqkUWNCmwCjhcBCj0) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [tripsyhell](https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB), [vano1337](https://open.spotify.com/artist/0TBtIg6LfQ7ScMO7txwIci) | [Eurotape](https://open.spotify.com/album/2azkUPSyLVWwW9fnf4z5a6) | 2:56 | 2023-05-11 | 2023-06-02 |
 | [FALA COMIGO](https://open.spotify.com/track/1CMsg2cYPcStv9wTfIyN0a) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n), [Codie](https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm) | [FALA COMIGO](https://open.spotify.com/album/0aOByZwykAkHd5NYgsy2ct) | 2:44 | 2023-05-26 | 2023-06-16 |

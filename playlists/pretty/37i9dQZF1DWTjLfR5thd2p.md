@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 
 > A cool breeze, a clear sky, and calming piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,825 likes - 278 songs - 12 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,858 likes - 278 songs - 12 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -287,4 +287,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 | 277 | [wandering bird](https://open.spotify.com/track/2bVLBwc3GD5lu9EKJIIGNR) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [yellow fields & wandering bird](https://open.spotify.com/album/4fBLDgZ2H67fMlnN2evmp2) | 2:35 |
 | 278 | [Another Life](https://open.spotify.com/track/44jnGxgCSoyxygFmpyCiPy) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Another Life](https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD) | 2:19 |
 
-Snapshot ID: `MCxmZWQ1OGFmMmY1MWFlNjcwMzQ5MTU1MWVmZDhmZTA3OGUzZmM0MjY5`
+Snapshot ID: `MTcxMjY3MTkzNiwwMDAwMDAwMGQ2NGUyYTJjYjc3ZWQ2NGU4MDI5OTVhODk4MWY0ODQ3`

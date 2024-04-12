@@ -1,12 +1,12 @@
 {
   "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 71347,
+  "num_followers": 71354,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTc5ZmQ5M2NjZjI4NzlhYTNiOGY2OGY4NzdlYWU1M2ExMjAwYmVk",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDhiMGJiMWMxNmVhNDNlODdmOWM5MTljM2VmZDg4ODM5",
   "tracks": [
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 259227,
-      "name": "Deus Est\u00e1 me Construindo",
-      "url": "https://open.spotify.com/track/43HJMNRjdq4XHHlWvsWNHd"
+      "duration_ms": 284026,
+      "name": "Santo (Holy)",
+      "url": "https://open.spotify.com/track/4l90mbIMuolQaY84Y07Y2G"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 284026,
-      "name": "Santo (Holy)",
-      "url": "https://open.spotify.com/track/4l90mbIMuolQaY84Y07Y2G"
+      "duration_ms": 259227,
+      "name": "Deus Est\u00e1 me Construindo",
+      "url": "https://open.spotify.com/track/43HJMNRjdq4XHHlWvsWNHd"
     },
     {
       "added_at": null,
@@ -767,34 +767,6 @@
       "duration_ms": 376720,
       "name": "Pastor",
       "url": "https://open.spotify.com/track/6U0GQYI8fxh5T6dgKnx5hv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3gSlwMZxzxqPSDi5vjohCS"
-      },
-      "artists": [
-        {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
-        },
-        {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 482974,
-      "name": "Medley A Do\u00e7ura do Teu Falar - Ao Vivo",
-      "url": "https://open.spotify.com/track/2onlvZpMAwpTKTAZN47Hr4"
     },
     {
       "added_at": null,
@@ -867,6 +839,34 @@
       "duration_ms": 182508,
       "name": "Unidos Pelo Amor",
       "url": "https://open.spotify.com/track/58JbyiEMEfi9SfOAmnvyeV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3gSlwMZxzxqPSDi5vjohCS"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 482974,
+      "name": "Medley A Do\u00e7ura do Teu Falar - Ao Vivo",
+      "url": "https://open.spotify.com/track/2onlvZpMAwpTKTAZN47Hr4"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjE4YzkzZTFlY2JmMWI5YWU1NTBmMDczOWNlNDExNzg5ZTcwOGFl",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMGM0NjRkZDM1NzdjNzkwMTI5NzRlMzk4ZDk2MGM1ZmMw",
   "tracks": [
     {
       "added_at": null,
@@ -155,18 +155,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Relampagos del Norte, Ramon Ayala y Cornelio Reyna",
-        "url": "https://open.spotify.com/album/1MaRN2mekXavT4ZiLL1TQZ"
+        "name": "15 Clasicas De Leyenda",
+        "url": "https://open.spotify.com/album/1dDR0N4IbnIejNEzhm9e69"
       },
       "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        },
         {
           "name": "Los Relampagos Del Norte",
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 243435,
-      "name": "El Disgusto",
-      "url": "https://open.spotify.com/track/75ZmlqXfBESGQf6MhADFPM"
+      "duration_ms": 188040,
+      "name": "Me Cai De La Nube",
+      "url": "https://open.spotify.com/track/1CTAefqqsURDEHX8CCBMcf"
     },
     {
       "added_at": null,
@@ -227,82 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Clasicas De Leyenda",
-        "url": "https://open.spotify.com/album/1dDR0N4IbnIejNEzhm9e69"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
-        },
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 188040,
-      "name": "Me Cai De La Nube",
-      "url": "https://open.spotify.com/track/1CTAefqqsURDEHX8CCBMcf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "20 S\u00faper \u00c9xitos",
-        "url": "https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 184041,
-      "name": "Cobardemente",
-      "url": "https://open.spotify.com/track/4RZIcM350ojxE1p2FgFVmt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cornelio Reyna Con Ram\u00f3n Ayala y los Rel\u00e1mpagos del Norte",
-        "url": "https://open.spotify.com/album/3QqP4X0qTnexiRDaDSe5dS"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
-        },
-        {
-          "name": "Ram\u00f3n Ayala",
-          "url": "https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL"
-        },
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 161733,
-      "name": "Mira y Comprende",
-      "url": "https://open.spotify.com/track/2iHN9gmEZ5wpY1sDGIBh3Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Relampagos Del Norte En Vivo (Live)",
-        "url": "https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "El Coyote - Live",
-      "url": "https://open.spotify.com/track/086prN6onXRaD0TDMZnVjz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "22 Superexitos (Idolos Norte\u00f1os y Texanos)",
         "url": "https://open.spotify.com/album/4F9UMuKXMXOd6Ypw0yCiRi"
       },
@@ -352,9 +280,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 180213,
-      "name": "Amarga Navidad",
-      "url": "https://open.spotify.com/track/4kdv0wNhzDoFGPNopWLHB1"
+      "duration_ms": 161733,
+      "name": "Mira y Comprende",
+      "url": "https://open.spotify.com/track/2iHN9gmEZ5wpY1sDGIBh3Q"
     },
     {
       "added_at": null,
@@ -368,9 +296,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 243760,
-      "name": "Podiosero De Amor - Live",
-      "url": "https://open.spotify.com/track/4k6hwuu0agWO2RaMCJ94wM"
+      "duration_ms": 225840,
+      "name": "El Coyote - Live",
+      "url": "https://open.spotify.com/track/086prN6onXRaD0TDMZnVjz"
     },
     {
       "added_at": null,
@@ -400,9 +328,49 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 177818,
-      "name": "Mi Tesoro",
-      "url": "https://open.spotify.com/track/57rH2ju0NCA5K1m4GxmIfU"
+      "duration_ms": 184041,
+      "name": "Cobardemente",
+      "url": "https://open.spotify.com/track/4RZIcM350ojxE1p2FgFVmt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cornelio Reyna Con Ram\u00f3n Ayala y los Rel\u00e1mpagos del Norte",
+        "url": "https://open.spotify.com/album/3QqP4X0qTnexiRDaDSe5dS"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        },
+        {
+          "name": "Ram\u00f3n Ayala",
+          "url": "https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL"
+        },
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 180213,
+      "name": "Amarga Navidad",
+      "url": "https://open.spotify.com/track/4kdv0wNhzDoFGPNopWLHB1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Relampagos Del Norte En Vivo (Live)",
+        "url": "https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Podiosero De Amor - Live",
+      "url": "https://open.spotify.com/track/4k6hwuu0agWO2RaMCJ94wM"
     },
     {
       "added_at": null,
@@ -419,6 +387,38 @@
       "duration_ms": 137136,
       "name": "Mis 20 Novias",
       "url": "https://open.spotify.com/track/2n8kDwTy72xop89bdx6ZUf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 S\u00faper \u00c9xitos",
+        "url": "https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "Mi Tesoro",
+      "url": "https://open.spotify.com/track/57rH2ju0NCA5K1m4GxmIfU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doble 2 En 1",
+        "url": "https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 162160,
+      "name": "Hay Ojitos",
+      "url": "https://open.spotify.com/track/3f0ca0sbJefE05GrT69i1X"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
       "duration_ms": 210066,
       "name": "Ausencia",
       "url": "https://open.spotify.com/track/1SUuCE9XCSGKDNKHzf46o1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doble 2 En 1",
-        "url": "https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 162160,
-      "name": "Hay Ojitos",
-      "url": "https://open.spotify.com/track/3f0ca0sbJefE05GrT69i1X"
     },
     {
       "added_at": null,
@@ -643,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras Cantineras, Vol. 1",
-        "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 132853,
-      "name": "Ven a Decirme",
-      "url": "https://open.spotify.com/track/5JPYHivczvHw5bjav4COLC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "21 Hits, Vol. 2",
         "url": "https://open.spotify.com/album/3AEdlliIqVcw2bLioQxHDI"
       },
@@ -671,6 +639,22 @@
       "duration_ms": 164906,
       "name": "Que Bonita Chaparrita",
       "url": "https://open.spotify.com/track/1k3Mlwz2vcp8kIZnLnQQ2s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puras Cantineras, Vol. 1",
+        "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 132853,
+      "name": "Ven a Decirme",
+      "url": "https://open.spotify.com/track/5JPYHivczvHw5bjav4COLC"
     },
     {
       "added_at": null,

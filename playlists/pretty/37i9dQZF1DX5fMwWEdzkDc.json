@@ -1,12 +1,12 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 14452,
+  "num_followers": 14460,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTA1MDIyNjRlNTU2NGYzZDY3Y2I1OTI3YTEwOGU4MTA5NDgzYTFh",
+  "snapshot_id": "MTcxMjI2MTY2MiwwMDAwMDAwMDQxZGFlNGQ3Y2ViYzU4YmRmOGViYmNkMjNhMzIwNGQz",
   "tracks": [
     {
       "added_at": "2024-04-04 20:14:22",
@@ -339,6 +339,22 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
+        "name": "Difference",
+        "url": "https://open.spotify.com/album/36HKeRjDoczel62iwy3z75"
+      },
+      "artists": [
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "duration_ms": 238880,
+      "name": "I Guess I Loved You",
+      "url": "https://open.spotify.com/track/1w2hClDL1xH4FPZIipZ1FJ"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
         "name": "\ucc9c\uad6d\uc758 \uacc4\ub2e8 OST",
         "url": "https://open.spotify.com/album/5uZtiEhZmVROQk8dsiOrwq"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 208773,
       "name": "Hot Issue",
       "url": "https://open.spotify.com/track/1QqaaKVZxu9ExhYjKGgI4N"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
-        "name": "Difference",
-        "url": "https://open.spotify.com/album/36HKeRjDoczel62iwy3z75"
-      },
-      "artists": [
-        {
-          "name": "Yoon Do Hyun",
-          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
-        }
-      ],
-      "duration_ms": 238880,
-      "name": "I Guess I Loved You",
-      "url": "https://open.spotify.com/track/1w2hClDL1xH4FPZIipZ1FJ"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "U",
-        "url": "https://open.spotify.com/album/6II4FpwMXm5tQRhaXDxjo2"
-      },
-      "artists": [
-        {
-          "name": "SUPER JUNIOR",
-          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
-        }
-      ],
-      "duration_ms": 226746,
-      "name": "U",
-      "url": "https://open.spotify.com/track/7HKkudjI7pofH9oDqt3Y1T"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
         "name": "Pathos",
         "url": "https://open.spotify.com/album/42FCxz16YLTZ1nw5lVfpaR"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 331154,
       "name": "No matter where",
       "url": "https://open.spotify.com/track/7oT5JOWwxnwcZRI6NLzhWs"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/6II4FpwMXm5tQRhaXDxjo2"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "duration_ms": 226746,
+      "name": "U",
+      "url": "https://open.spotify.com/track/7HKkudjI7pofH9oDqt3Y1T"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
+        "name": "SHOO. EUGENE. SEA - The 2nd Album",
+        "url": "https://open.spotify.com/album/28tAVahvzLKAVZ6ewYUrvl"
+      },
+      "artists": [
+        {
+          "name": "S.E.S.",
+          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
+        }
+      ],
+      "duration_ms": 245773,
+      "name": "Dreams Come True",
+      "url": "https://open.spotify.com/track/6whFRgwg7je2SYzpSfansM"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
         "name": "The Ballads",
         "url": "https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac"
       },
@@ -715,18 +731,18 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "SHOO. EUGENE. SEA - The 2nd Album",
-        "url": "https://open.spotify.com/album/28tAVahvzLKAVZ6ewYUrvl"
+        "name": "SG Wanna Be\uff0b",
+        "url": "https://open.spotify.com/album/1onnVmO3ZMbELXoi7cyaPs"
       },
       "artists": [
         {
-          "name": "S.E.S.",
-          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
+          "name": "SG Wannabe",
+          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
         }
       ],
-      "duration_ms": 245773,
-      "name": "Dreams Come True",
-      "url": "https://open.spotify.com/track/6whFRgwg7je2SYzpSfansM"
+      "duration_ms": 237871,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/5nfb7IPrj9awskmLFSykWr"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -747,18 +763,18 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "SG Wanna Be\uff0b",
-        "url": "https://open.spotify.com/album/1onnVmO3ZMbELXoi7cyaPs"
+        "name": "Why Be?",
+        "url": "https://open.spotify.com/album/4S5PRo1gVG9BvRnCcdYzdS"
       },
       "artists": [
         {
-          "name": "SG Wannabe",
-          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5"
         }
       ],
-      "duration_ms": 237871,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/5nfb7IPrj9awskmLFSykWr"
+      "duration_ms": 214906,
+      "name": "A Flying Butterfly",
+      "url": "https://open.spotify.com/track/3I71PFicYG614VGl6hqcUK"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -791,22 +807,6 @@
       "duration_ms": 262562,
       "name": "\ub098\uc600\uc73c\uba74",
       "url": "https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
-        "name": "Why Be?",
-        "url": "https://open.spotify.com/album/4S5PRo1gVG9BvRnCcdYzdS"
-      },
-      "artists": [
-        {
-          "name": "YB",
-          "url": "https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5"
-        }
-      ],
-      "duration_ms": 214906,
-      "name": "A Flying Butterfly",
-      "url": "https://open.spotify.com/track/3I71PFicYG614VGl6hqcUK"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "Girls On Top",
-        "url": "https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 218653,
-      "name": "Girls On Top",
-      "url": "https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
         "name": "S.E.S. - The 1st Album",
         "url": "https://open.spotify.com/album/795tqw58HZUK0Gro9GvneZ"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 225560,
       "name": "(\u2032Cause) I\u2032m Your Girl",
       "url": "https://open.spotify.com/track/5I8mg57tDvhGGGC3x14mIZ"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
+        "name": "Girls On Top",
+        "url": "https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 218653,
+      "name": "Girls On Top",
+      "url": "https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "Atlantis Princess - The 3rd Album",
-        "url": "https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 224373,
-      "name": "Atlantis Princess",
-      "url": "https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
         "name": "I'M",
         "url": "https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 238252,
       "name": "\ub0b4\uac00 \uc800\uc9c0\ub978 \uc0ac\ub791",
       "url": "https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
+        "name": "Atlantis Princess - The 3rd Album",
+        "url": "https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 224373,
+      "name": "Atlantis Princess",
+      "url": "https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "Brown Eyed Girls BEST - Special Moments",
-        "url": "https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 203258,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/3liK5xPEDnfkRkJ91gz0Wt"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
         "name": "Buzz Effect",
         "url": "https://open.spotify.com/album/5x4zrXuHdIusSB0umnih8n"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 283960,
       "name": "\uac81\uc7c1\uc774",
       "url": "https://open.spotify.com/track/6Ef8tkhiFOOFOAeaQBFqtA"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
+        "name": "Brown Eyed Girls BEST - Special Moments",
+        "url": "https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 203258,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/3liK5xPEDnfkRkJ91gz0Wt"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
+        "name": "Stylish\u2026",
+        "url": "https://open.spotify.com/album/2uTwUONoLUhlpM6r324B2b"
+      },
+      "artists": [
+        {
+          "name": "Lee Hyori",
+          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+        }
+      ],
+      "duration_ms": 240658,
+      "name": "Hey Girl",
+      "url": "https://open.spotify.com/track/6zWL2EkbtZMcE0XcKMUxDJ"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
         "name": "Neo Classicism",
         "url": "https://open.spotify.com/album/2O7fmlpysRtW6rjIqSJsul"
       },
@@ -1619,26 +1635,6 @@
       "duration_ms": 342491,
       "name": "\ub208\uc758 \uaf43",
       "url": "https://open.spotify.com/track/6feQC1GrcSwO5WqYQqncIW"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
-        "name": "His Story",
-        "url": "https://open.spotify.com/album/4cjEWNisOR1ZcaNNQgHTBQ"
-      },
-      "artists": [
-        {
-          "name": "MC MONG",
-          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
-        },
-        {
-          "name": "Kim Tae Woo",
-          "url": "https://open.spotify.com/artist/5OFQZvle7HH55LvauNmUIi"
-        }
-      ],
-      "duration_ms": 252933,
-      "name": "I Love U? Oh Thank U (Feat. \uae40\ud0dc\uc6b0)",
-      "url": "https://open.spotify.com/track/1KGiNVIzzD0vUZUIErKZTr"
     }
   ],
   "unique_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",

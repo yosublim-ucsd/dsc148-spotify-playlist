@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 487407,
+  "2024-04-12": 487555,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - India.",
   "name": "Top 50 - India",
@@ -2963,7 +2963,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 208933,
       "name": "Chale Jaana Phir (Humko Tere Bina)",
       "url": "https://open.spotify.com/track/04ChFQZCKl2yRcvc0VR7qN"
@@ -11177,7 +11177,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 280161,
       "name": "Mast Magan (From \"2 States\")",
       "url": "https://open.spotify.com/track/4wIWWEhbdgKAxhR68eE0Ye"
@@ -11569,7 +11569,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 193355,
       "name": "Mere Sohneya (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/2IoZMG3RqiTmsy7Li3zGFg"
@@ -15833,7 +15833,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 586075,
       "name": "Shree Hanuman Chalisa",
       "url": "https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx"

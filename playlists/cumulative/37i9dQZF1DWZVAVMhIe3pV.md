@@ -4,7 +4,7 @@
 
 > Need to get your energy level up? This will help!
 
-420 songs - 1 day 2 hr 2 min
+421 songs - 1 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,8 +217,9 @@
 | [Lifelines](https://open.spotify.com/track/0ofLz0b9mmXXvDgQp7XPRd) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Lifelines](https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ) | 3:21 | 2022-03-24 | 2022-04-21 |
 | [Lifestyles of the Rich & Famous](https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc) | 3:10 | 2021-12-16 | 2024-03-06 |
 | [Lights Out](https://open.spotify.com/track/1pExLSWrXaDyDdLmznxm7u) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [Lights Out](https://open.spotify.com/album/5LrQKwzxSxCXVIFr4XJ48F) | 2:53 | 2023-09-24 | 2024-01-08 |
-| [Like A Drug](https://open.spotify.com/track/0eW2eEXedTyfGXZkuppSPh) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Black Box](https://open.spotify.com/album/6mvff3ZBKcQlXaZrTT0fs5) | 3:32 | 2024-03-05 |  |
+| [Like A Drug](https://open.spotify.com/track/0eW2eEXedTyfGXZkuppSPh) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Black Box](https://open.spotify.com/album/6mvff3ZBKcQlXaZrTT0fs5) | 3:32 | 2024-03-05 | 2024-04-12 |
 | [Lithium](https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 4:17 | 2021-12-16 | 2024-03-13 |
+| [Little Monster](https://open.spotify.com/track/3cuxZTcxBj7AL3bgSCIuWL) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG) | 3:32 | 2024-03-22 |  |
 | [Little Sister](https://open.spotify.com/track/0BqQWfhMrkpRAUCbdfdHUC) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF) | 2:54 | 2023-06-05 |  |
 | [Little Things](https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Good Charlotte](https://open.spotify.com/album/0KfIGgasOmBV70OgVTRLHs) | 3:23 | 2021-12-16 | 2023-07-24 |
 | [Lola Montez](https://open.spotify.com/track/3ear11tYbMEmNDm2lxZTqL) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies \(Deluxe Version\)](https://open.spotify.com/album/6bM5H5CIEsTtIoHcScwJWX) | 4:27 | 2021-12-16 | 2022-07-29 |

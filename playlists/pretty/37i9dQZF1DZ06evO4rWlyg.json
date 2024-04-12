@@ -1,18 +1,18 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 132479,
+  "num_followers": 132515,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTI2MThjZTRiOTkxZmZmMzgyNTY5NDFmZDIyMWNhMThmYjRmYzA4",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMGUzNGNiNjhmZmVlZDI3ZTZmODgzNzhlOThjYTM3NGFm",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Oral",
-        "url": "https://open.spotify.com/album/4JQVXceKAkVXlkCxh1CY0f"
+        "name": "Oral (Olof Dreijer Remix)",
+        "url": "https://open.spotify.com/album/19kgSkNIOpr2Uu2X2sHkkb"
       },
       "artists": [
         {
@@ -22,11 +22,15 @@
         {
           "name": "ROSAL\u00cdA",
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Olof Dreijer",
+          "url": "https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0"
         }
       ],
-      "duration_ms": 222737,
-      "name": "Oral",
-      "url": "https://open.spotify.com/track/3re91K41XNVsViNbCPumTw"
+      "duration_ms": 321800,
+      "name": "Oral - Olof Dreijer Remix",
+      "url": "https://open.spotify.com/track/1AG0zqRn0lKTXDqcnXKa1x"
     },
     {
       "added_at": null,
@@ -355,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Akoma",
-        "url": "https://open.spotify.com/album/4N8CfMDL60vLQamW30qZAE"
-      },
-      "artists": [
-        {
-          "name": "Jlin",
-          "url": "https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA"
-        },
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 246053,
-      "name": "Borealis",
-      "url": "https://open.spotify.com/track/5wOWgKdRSuqdR1UshYDw4q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homogenic",
         "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 199293,
       "name": "Pluto",
       "url": "https://open.spotify.com/track/0zgPZSkp20PSuyToQ0lZ0h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 273400,
+      "name": "Like Someone In Love",
+      "url": "https://open.spotify.com/track/2dkeRnIM7fXKBkkHvkz91v"
     },
     {
       "added_at": null,
@@ -423,18 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Debut",
-        "url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr"
+        "name": "Akoma",
+        "url": "https://open.spotify.com/album/50EueHsKbgqTVQ9Zda8ebw"
       },
       "artists": [
+        {
+          "name": "Jlin",
+          "url": "https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA"
+        },
         {
           "name": "Bj\u00f6rk",
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 201533,
-      "name": "There's More To Life Than This - Live At The Milk Bar Toilets",
-      "url": "https://open.spotify.com/track/2runFrIwOg5p2HZo1oymEL"
+      "duration_ms": 246053,
+      "name": "Borealis",
+      "url": "https://open.spotify.com/track/4J7yVcO9wMxau3NJ1s54eO"
     },
     {
       "added_at": null,
@@ -715,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mount Wittenberg Orca (Expanded Edition)",
-        "url": "https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly"
-      },
-      "artists": [
-        {
-          "name": "Dirty Projectors",
-          "url": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
-        },
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Sharing Orb",
-      "url": "https://open.spotify.com/track/1M4euFTqRYW2xTLhqYGC0C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KiCk i",
         "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
       },
@@ -751,6 +735,26 @@
       "duration_ms": 242341,
       "name": "Afterwards",
       "url": "https://open.spotify.com/track/0XZTpSctNFE0WVQQL7qWMB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mount Wittenberg Orca (Expanded Edition)",
+        "url": "https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly"
+      },
+      "artists": [
+        {
+          "name": "Dirty Projectors",
+          "url": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Sharing Orb",
+      "url": "https://open.spotify.com/track/1M4euFTqRYW2xTLhqYGC0C"
     },
     {
       "added_at": null,
@@ -791,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fossora",
+        "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 195943,
+      "name": "Sorrowful Soil",
+      "url": "https://open.spotify.com/track/1hxJTaQouJURyxUA7yxOwM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mount Wittenberg Orca (Expanded Edition)",
         "url": "https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly"
       },
@@ -807,22 +827,6 @@
       "duration_ms": 136360,
       "name": "Beautiful Mother",
       "url": "https://open.spotify.com/track/3shbvAgUyh9nhJa53JN8mB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fossora",
-        "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 195943,
-      "name": "Sorrowful Soil",
-      "url": "https://open.spotify.com/track/1hxJTaQouJURyxUA7yxOwM"
     }
   ],
   "unique_name": "This Is Bj\u00f6rk",

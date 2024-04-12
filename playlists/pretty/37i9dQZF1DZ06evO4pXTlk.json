@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTQ5ZjFkNTFhOTY2Njk4MzMyNGVhNmY0ZGYxZTcyYmNlOGZjOTc0",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMGFhMzI2Mjc4ODBkYjk2YTI4YWFmNTJmNTNhNzEyNmY1",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Complicated (feat. Heights)",
-        "url": "https://open.spotify.com/album/3b5UdO9XkyHFQLFlNaWs01"
+        "name": "Ready to Call",
+        "url": "https://open.spotify.com/album/4CMzznQBNj0AP2uDAxbbGS"
       },
       "artists": [
         {
           "name": "The XCERTS",
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        },
-        {
-          "name": "HEIGHTS",
-          "url": "https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH"
         }
       ],
-      "duration_ms": 212399,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/7w7WlXyXPuo0AuuWMSGw98"
+      "duration_ms": 219405,
+      "name": "Ready to Call",
+      "url": "https://open.spotify.com/track/5ie3gZHgWj0Tip7YxJFTn6"
     },
     {
       "added_at": null,
@@ -495,18 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ready to Call",
-        "url": "https://open.spotify.com/album/4CMzznQBNj0AP2uDAxbbGS"
+        "name": "Complicated (feat. Heights)",
+        "url": "https://open.spotify.com/album/3b5UdO9XkyHFQLFlNaWs01"
       },
       "artists": [
         {
           "name": "The XCERTS",
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        },
+        {
+          "name": "HEIGHTS",
+          "url": "https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH"
         }
       ],
-      "duration_ms": 219405,
-      "name": "Ready to Call",
-      "url": "https://open.spotify.com/track/5ie3gZHgWj0Tip7YxJFTn6"
+      "duration_ms": 212399,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/7w7WlXyXPuo0AuuWMSGw98"
     },
     {
       "added_at": null,

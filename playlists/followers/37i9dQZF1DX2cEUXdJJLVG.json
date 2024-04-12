@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 74654,
+  "2024-04-12": 74659,
   "date_first_scraped": "2022-09-15",
   "description": "Funky & groovy tunes for poolside chilling.",
   "name": "Poolside Grooves",
@@ -423,7 +423,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 209200,
       "name": "AMAZING",
       "url": "https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ"
@@ -489,6 +489,24 @@
       "duration_ms": 187658,
       "name": "Baby Who",
       "url": "https://open.spotify.com/track/2KgeYkljkGLetuA97xfU2Z"
+    },
+    {
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
       "album": {
@@ -581,7 +599,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 244710,
       "name": "Basement Party",
       "url": "https://open.spotify.com/track/6KMMZpANIfgx1oDHUy1TnI"
@@ -899,6 +917,24 @@
       "duration_ms": 163392,
       "name": "Breeze - Remix",
       "url": "https://open.spotify.com/track/2orDjs0U3dgK0anh6M7QAd"
+    },
+    {
+      "album": {
+        "name": "Burning Up",
+        "url": "https://open.spotify.com/album/0apr7K3amwjcyrTeRA2fKV"
+      },
+      "artists": [
+        {
+          "name": "Joshua Henry",
+          "url": "https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198360,
+      "name": "Burning Up",
+      "url": "https://open.spotify.com/track/1ZCtCHRB0FG0khp20Oq4hh"
     },
     {
       "album": {
@@ -1647,7 +1683,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 237368,
       "name": "EASE YOUR MIND",
       "url": "https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM"
@@ -1669,6 +1705,24 @@
       "duration_ms": 178350,
       "name": "Easy Like Before",
       "url": "https://open.spotify.com/track/4l7TlDRTwRRGdQ5tlQcf4b"
+    },
+    {
+      "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200453,
+      "name": "Echo In The Chamber",
+      "url": "https://open.spotify.com/track/4z8q6Ob38UExUmoSXfB7Ei"
     },
     {
       "album": {
@@ -1993,7 +2047,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 224842,
       "name": "Frail Moments, Same Page",
       "url": "https://open.spotify.com/track/7fbyAOxgJJUeFL9p0M2AvZ"
@@ -2589,7 +2643,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 233482,
       "name": "honest",
       "url": "https://open.spotify.com/track/1g8U8GIX2S3g3M8H2MtSpO"
@@ -3187,7 +3241,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 179504,
       "name": "Keep Your Head Up",
       "url": "https://open.spotify.com/track/2kHVK2I4FpaI48ZRAlmNTc"
@@ -5018,6 +5072,28 @@
     },
     {
       "album": {
+        "name": "Run (feat. Andreya Triana)",
+        "url": "https://open.spotify.com/album/0w7qVZZaZ2pMdEtdZY62J0"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223169,
+      "name": "Run (feat. Andreya Triana)",
+      "url": "https://open.spotify.com/track/3ke3rsu9F2vL4QVvIl9UTt"
+    },
+    {
+      "album": {
         "name": "Running Away",
         "url": "https://open.spotify.com/album/0qD1Ymect5I2EamO4HE8ZB"
       },
@@ -5940,6 +6016,28 @@
     },
     {
       "album": {
+        "name": "Sweet Talking Honeys (feat. Max Tuohy)",
+        "url": "https://open.spotify.com/album/1hso95vrFE15sn24uzWBum"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Funk",
+          "url": "https://open.spotify.com/artist/32RSzgTDqApMWHr6tLNLBF"
+        },
+        {
+          "name": "Max Tuohy",
+          "url": "https://open.spotify.com/artist/6ll2ZlFzEpHh6WKZhXatK8"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212608,
+      "name": "Sweet Talking Honeys (feat. Max Tuohy)",
+      "url": "https://open.spotify.com/track/1aa6C8kTiQCjHulkxmMTbM"
+    },
+    {
+      "album": {
         "name": "SWTH",
         "url": "https://open.spotify.com/album/5z01oX1fk4jBWIAhLkLc5Y"
       },
@@ -6233,7 +6331,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 177479,
       "name": "This Ain't Loving Without You",
       "url": "https://open.spotify.com/track/4TiPkI5PIqp0NkmlTuK48f"

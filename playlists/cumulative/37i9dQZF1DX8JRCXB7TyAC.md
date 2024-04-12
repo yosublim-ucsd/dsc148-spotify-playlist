@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs\. Cover: Ankit Baiyanpuria
 
-94 songs - 4 hr 40 min
+95 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Chore Haryane Aale](https://open.spotify.com/track/2YTKohkHJHXgRCut4Ew0HS) | [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [PINNOCIO](https://open.spotify.com/artist/6iNOTxWm3HgwNKL3MhFvzY), [Ankit Baiyanpuria](https://open.spotify.com/artist/1tYgxFs8KyYSXCfQGFsnsu) | [Chore Haryane Aale](https://open.spotify.com/album/7fd96zMwZ0cbsMCmxHyhLf) | 3:27 | 2023-10-09 |  |
 | [Convoy](https://open.spotify.com/track/70ouErfLUxUY2WQwcQI2fO) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Convoy](https://open.spotify.com/album/4ZcTQRJtPrN8azjI83NHNg) | 4:35 | 2023-10-20 |  |
 | [Dabke Na Chale](https://open.spotify.com/track/4VVqoi4F2GZg5EBnOGUAc3) | [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf) | [Dabke Na Chale](https://open.spotify.com/album/2iQNuAG6QWNQcCcJdxFzL3) | 2:14 | 2024-03-26 |  |
-| [Death Row](https://open.spotify.com/track/0Rx6TVOQ137NAN4UZF6GmT) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Death Row](https://open.spotify.com/album/7IflR8avCHPbAfp5wOpoD3) | 3:41 | 2023-11-22 |  |
+| [Death Row](https://open.spotify.com/track/0Rx6TVOQ137NAN4UZF6GmT) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Death Row](https://open.spotify.com/album/7IflR8avCHPbAfp5wOpoD3) | 3:41 | 2023-11-22 | 2024-04-12 |
+| [Death Row](https://open.spotify.com/track/4hPYkpuhzgPA233YwHDCYz) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Death Row](https://open.spotify.com/album/4DX584ppaGZQum0rD8Xmdc) | 3:41 | 2024-04-05 |  |
 | [Declare](https://open.spotify.com/track/3wiHYkijyJp1yqq4qIAQ6I) | [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf), [Komal Choudhary](https://open.spotify.com/artist/42TuhqUBzIpywk1h4QlUyT), [Biru Kataria,Fiza Choudhary](https://open.spotify.com/artist/5LS1kuFh0mMZLe7t7n75wH) | [Declare](https://open.spotify.com/album/3qIl0JOhAkbLNjoAq9qWew) | 3:17 | 2023-07-24 | 2024-02-22 |
 | [Demand](https://open.spotify.com/track/68kLwAKQKln6n1lhSYDs0g) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me), [Crush Wale Yaar](https://open.spotify.com/artist/5H3ASJionzrQzxNQQwhtsL) | [Demand](https://open.spotify.com/album/6Agz68SDZIf9eaDuiwSRIp) | 2:34 | 2023-11-22 |  |
 | [Demand](https://open.spotify.com/track/6QoYcLyjQNTOsgh9dRHFDM) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me), [Crush Wale Yaar](https://open.spotify.com/artist/5H3ASJionzrQzxNQQwhtsL) | [Demand](https://open.spotify.com/album/5HdrVdrrcFxmYPpLDgPoxU) | 2:34 | 2023-07-24 | 2023-12-17 |

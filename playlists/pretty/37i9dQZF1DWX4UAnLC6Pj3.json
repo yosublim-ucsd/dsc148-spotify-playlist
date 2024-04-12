@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Gerardo Coronel en portada.",
-  "num_followers": 1224553,
+  "num_followers": 1224706,
   "original_name": "Banda 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWMyMDQ3YTUyYTI3NTg4ZDg5MmRlZjJjNDBiZGEyNmExNzRmNmE5",
+  "snapshot_id": "MTcxMjY4MDA2OSwwMDAwMDAwMDVmMmY2NTZjNWMxMmZjMDBlYmQ4ZGViODE3Njc5OGM4",
   "tracks": [
     {
       "added_at": "2024-04-09 16:27:49",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-04-09 16:27:49",
       "album": {
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 224523,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1"
+    },
+    {
+      "added_at": "2024-04-09 16:27:49",
+      "album": {
         "name": "Solitario (En Vivo)",
         "url": "https://open.spotify.com/album/0D3idmPk07CksmgrVaEiKi"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 208966,
       "name": "Solitario - En Vivo",
       "url": "https://open.spotify.com/track/20obamXOznVCGTRUL4ZX6q"
-    },
-    {
-      "added_at": "2024-04-09 16:27:49",
-      "album": {
-        "name": "Te Felicito",
-        "url": "https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 224523,
-      "name": "Te Felicito",
-      "url": "https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1"
     },
     {
       "added_at": "2024-04-09 16:27:49",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-04-09 16:27:49",
       "album": {
+        "name": "Qu\u00e9 Onda Perdida",
+        "url": "https://open.spotify.com/album/2XIMzHRF6bkv81iGbkvcQN"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 223695,
+      "name": "Qu\u00e9 Onda Perdida",
+      "url": "https://open.spotify.com/track/3TjLFavKPwuvXk5xnxPlEk"
+    },
+    {
+      "added_at": "2024-04-09 16:27:49",
+      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV",
         "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
       },
@@ -795,22 +811,6 @@
     {
       "added_at": "2024-04-09 16:27:49",
       "album": {
-        "name": "Qu\u00e9 Onda Perdida",
-        "url": "https://open.spotify.com/album/2XIMzHRF6bkv81iGbkvcQN"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 223695,
-      "name": "Qu\u00e9 Onda Perdida",
-      "url": "https://open.spotify.com/track/3TjLFavKPwuvXk5xnxPlEk"
-    },
-    {
-      "added_at": "2024-04-09 16:27:49",
-      "album": {
         "name": "141",
         "url": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z"
       },
@@ -823,26 +823,6 @@
       "duration_ms": 175102,
       "name": "141",
       "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
-    },
-    {
-      "added_at": "2024-04-09 16:27:49",
-      "album": {
-        "name": "Bien Positivo",
-        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 139668,
-      "name": "Cuando Andaba Recio (El Cholo)",
-      "url": "https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn"
     },
     {
       "added_at": "2024-04-09 16:27:49",
@@ -863,6 +843,26 @@
       "duration_ms": 217434,
       "name": "El Profeta",
       "url": "https://open.spotify.com/track/45mpsyfgiBOCuYD49KHLZs"
+    },
+    {
+      "added_at": "2024-04-09 16:27:49",
+      "album": {
+        "name": "Bien Positivo",
+        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 139668,
+      "name": "Cuando Andaba Recio (El Cholo)",
+      "url": "https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn"
     },
     {
       "added_at": "2024-04-09 16:27:49",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-04-09 16:27:49",
       "album": {
+        "name": "Gente Corriente",
+        "url": "https://open.spotify.com/album/6pzjO8qClKr8iQ5eDqNZ84"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 133480,
+      "name": "Gente Corriente",
+      "url": "https://open.spotify.com/track/4IwuZ9TArWPahGjIdTqyJw"
+    },
+    {
+      "added_at": "2024-04-09 16:27:49",
+      "album": {
         "name": "El Cabez\u00f3n (El Papas Fritas)",
         "url": "https://open.spotify.com/album/0wpGkyUDlxKZqflYfVWIBL"
       },
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2024-04-09 16:27:49",
       "album": {
-        "name": "Gente Corriente",
-        "url": "https://open.spotify.com/album/6pzjO8qClKr8iQ5eDqNZ84"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 133480,
-      "name": "Gente Corriente",
-      "url": "https://open.spotify.com/track/4IwuZ9TArWPahGjIdTqyJw"
-    },
-    {
-      "added_at": "2024-04-09 16:27:49",
-      "album": {
         "name": "Un Tabaco (En Vivo)",
         "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
       },
@@ -1143,22 +1143,6 @@
       "duration_ms": 207625,
       "name": "Un Tabaco (En Vivo)",
       "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
-    },
-    {
-      "added_at": "2024-04-09 16:27:49",
-      "album": {
-        "name": "Ya No Estoy Solo",
-        "url": "https://open.spotify.com/album/2tPJAEl2nKqaJEd8Kgzhji"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Ya No Estoy Solo",
-      "url": "https://open.spotify.com/track/4B4G7qd9HLGGbXc4odeuE6"
     },
     {
       "added_at": "2024-04-09 16:27:49",
@@ -1191,6 +1175,22 @@
       "duration_ms": 180106,
       "name": "Prov\u00f3came",
       "url": "https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs"
+    },
+    {
+      "added_at": "2024-04-09 16:27:49",
+      "album": {
+        "name": "Ya No Estoy Solo",
+        "url": "https://open.spotify.com/album/2tPJAEl2nKqaJEd8Kgzhji"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Ya No Estoy Solo",
+      "url": "https://open.spotify.com/track/4B4G7qd9HLGGbXc4odeuE6"
     },
     {
       "added_at": "2024-04-09 16:27:49",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-04-09 16:27:49",
       "album": {
-        "name": "La Propina",
-        "url": "https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 142013,
-      "name": "La Propina",
-      "url": "https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie"
-    },
-    {
-      "added_at": "2024-04-09 16:27:49",
-      "album": {
         "name": "Brindo (Remix)",
         "url": "https://open.spotify.com/album/0O3qFMWiXTVzZcSsoaerhJ"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 182080,
       "name": "Brindo - Remix",
       "url": "https://open.spotify.com/track/5oqySFPNtOq6jYlQf5ItWE"
+    },
+    {
+      "added_at": "2024-04-09 16:27:49",
+      "album": {
+        "name": "La Propina",
+        "url": "https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 142013,
+      "name": "La Propina",
+      "url": "https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie"
     },
     {
       "added_at": "2024-04-09 16:27:49",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-04-09 16:27:49",
       "album": {
+        "name": "Porque As\u00ed Ten\u00eda Que Ser",
+        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 253053,
+      "name": "Esta Vez Soy Yo",
+      "url": "https://open.spotify.com/track/65faC3lVw7RvGuaMv82NxS"
+    },
+    {
+      "added_at": "2024-04-09 16:27:49",
+      "album": {
         "name": "M En El Radar",
         "url": "https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 140546,
       "name": "M En El Radar",
       "url": "https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw"
-    },
-    {
-      "added_at": "2024-04-09 16:27:49",
-      "album": {
-        "name": "Porque As\u00ed Ten\u00eda Que Ser",
-        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 253053,
-      "name": "Esta Vez Soy Yo",
-      "url": "https://open.spotify.com/track/65faC3lVw7RvGuaMv82NxS"
     },
     {
       "added_at": "2024-04-09 16:27:49",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-04-09 16:27:49",
       "album": {
+        "name": "Que Te Trague La Tierra",
+        "url": "https://open.spotify.com/album/0K58rVn5sbwOxIvEBECmIv"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 188266,
+      "name": "Que Te Trague La Tierra",
+      "url": "https://open.spotify.com/track/1NW4Mnhvl5NX7yxEgylV1x"
+    },
+    {
+      "added_at": "2024-04-09 16:27:49",
+      "album": {
         "name": "Te Esfumar\u00e1s",
         "url": "https://open.spotify.com/album/3mmcWVrOrsAKfcgzJ95K8v"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 152250,
       "name": "Qu\u00e9 Te Hizo Olvidarme",
       "url": "https://open.spotify.com/track/3a96vICHOEdw3rsthLW24A"
-    },
-    {
-      "added_at": "2024-04-09 16:27:49",
-      "album": {
-        "name": "Que Te Trague La Tierra",
-        "url": "https://open.spotify.com/album/0K58rVn5sbwOxIvEBECmIv"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 188266,
-      "name": "Que Te Trague La Tierra",
-      "url": "https://open.spotify.com/track/1NW4Mnhvl5NX7yxEgylV1x"
     },
     {
       "added_at": "2024-04-09 16:27:49",
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2024-04-09 16:27:49",
       "album": {
-        "name": "Por Si Me Les Adelanto",
-        "url": "https://open.spotify.com/album/2vR7nRKZYUuNks9KdDXT5p"
+        "name": "Que Les Duele",
+        "url": "https://open.spotify.com/album/4VOZVcGxUR90CxL6Ej0tzm"
       },
       "artists": [
         {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+          "name": "Banda Corona del Rey",
+          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
         }
       ],
-      "duration_ms": 157561,
-      "name": "Por Si Me Les Adelanto",
-      "url": "https://open.spotify.com/track/0r0mgYZTRNfTntGYnaLwOL"
+      "duration_ms": 141238,
+      "name": "Que Les Duele",
+      "url": "https://open.spotify.com/track/0fuVYBCwv11BJU9EYV83Pb"
     },
     {
       "added_at": "2024-04-09 16:27:49",
@@ -1775,18 +1775,18 @@
     {
       "added_at": "2024-04-09 16:27:49",
       "album": {
-        "name": "Que Les Duele",
-        "url": "https://open.spotify.com/album/4VOZVcGxUR90CxL6Ej0tzm"
+        "name": "Por Si Me Les Adelanto",
+        "url": "https://open.spotify.com/album/2vR7nRKZYUuNks9KdDXT5p"
       },
       "artists": [
         {
-          "name": "Banda Corona del Rey",
-          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
         }
       ],
-      "duration_ms": 141238,
-      "name": "Que Les Duele",
-      "url": "https://open.spotify.com/track/0fuVYBCwv11BJU9EYV83Pb"
+      "duration_ms": 157561,
+      "name": "Por Si Me Les Adelanto",
+      "url": "https://open.spotify.com/track/0r0mgYZTRNfTntGYnaLwOL"
     },
     {
       "added_at": "2024-04-09 16:27:49",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2024-04-09 16:27:49",
       "album": {
+        "name": "Una Julio 70",
+        "url": "https://open.spotify.com/album/08NwcE4UBRU3ixMdgtIpXS"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 175829,
+      "name": "Una Julio 70",
+      "url": "https://open.spotify.com/track/7GcTHCoJEBP5Yrt08AjRE8"
+    },
+    {
+      "added_at": "2024-04-09 16:27:49",
+      "album": {
         "name": "Aplaca Tus Berrinches",
         "url": "https://open.spotify.com/album/7pb7D979yuDEsK1g5tWgKj"
       },
@@ -1911,22 +1927,6 @@
       "duration_ms": 190840,
       "name": "Aplaca Tus Berrinches",
       "url": "https://open.spotify.com/track/7kr4TyjK27pe7baowiwq0y"
-    },
-    {
-      "added_at": "2024-04-09 16:27:49",
-      "album": {
-        "name": "Una Julio 70",
-        "url": "https://open.spotify.com/album/08NwcE4UBRU3ixMdgtIpXS"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 175829,
-      "name": "Una Julio 70",
-      "url": "https://open.spotify.com/track/7GcTHCoJEBP5Yrt08AjRE8"
     },
     {
       "added_at": "2024-04-09 16:27:49",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2024-04-09 16:27:49",
       "album": {
-        "name": "Es Demasiado Tarde (En Vivo)",
-        "url": "https://open.spotify.com/album/0GY2QiAZeLzHQgulUhlu7b"
-      },
-      "artists": [
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Es Demasiado Tarde (En Vivo)",
-      "url": "https://open.spotify.com/track/49p6wLTmjn42KHJw7axA3G"
-    },
-    {
-      "added_at": "2024-04-09 16:27:49",
-      "album": {
         "name": "Aqui",
         "url": "https://open.spotify.com/album/6acAPwFF5O4Ia6H67Qz5lm"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 148212,
       "name": "Aqui",
       "url": "https://open.spotify.com/track/6KujS6JWvxGDmG4tGIoxCB"
+    },
+    {
+      "added_at": "2024-04-09 16:27:49",
+      "album": {
+        "name": "Es Demasiado Tarde (En Vivo)",
+        "url": "https://open.spotify.com/album/0GY2QiAZeLzHQgulUhlu7b"
+      },
+      "artists": [
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Es Demasiado Tarde (En Vivo)",
+      "url": "https://open.spotify.com/track/49p6wLTmjn42KHJw7axA3G"
     },
     {
       "added_at": "2024-04-09 16:27:49",
@@ -2151,26 +2151,6 @@
     {
       "added_at": "2024-04-09 16:27:49",
       "album": {
-        "name": "Paso A Pasito",
-        "url": "https://open.spotify.com/album/1bTksKUfFYxE4PwDsFvJXc"
-      },
-      "artists": [
-        {
-          "name": "Max Peraza",
-          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
-        },
-        {
-          "name": "Banda Corona del Rey",
-          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
-        }
-      ],
-      "duration_ms": 141391,
-      "name": "Paso A Pasito",
-      "url": "https://open.spotify.com/track/0fzkSQDKp8ScxZWO4k2aE2"
-    },
-    {
-      "added_at": "2024-04-09 16:27:49",
-      "album": {
         "name": "La Humilde Opinion",
         "url": "https://open.spotify.com/album/4WC78n1jgUAndOXIhd5vbP"
       },
@@ -2187,6 +2167,26 @@
       "duration_ms": 163016,
       "name": "La Humilde Opinion",
       "url": "https://open.spotify.com/track/6dMgfy2TWgjlt7hoCCrbo1"
+    },
+    {
+      "added_at": "2024-04-09 16:27:49",
+      "album": {
+        "name": "Paso A Pasito",
+        "url": "https://open.spotify.com/album/1bTksKUfFYxE4PwDsFvJXc"
+      },
+      "artists": [
+        {
+          "name": "Max Peraza",
+          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
+        },
+        {
+          "name": "Banda Corona del Rey",
+          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
+        }
+      ],
+      "duration_ms": 141391,
+      "name": "Paso A Pasito",
+      "url": "https://open.spotify.com/track/0fzkSQDKp8ScxZWO4k2aE2"
     },
     {
       "added_at": "2024-04-09 16:27:49",

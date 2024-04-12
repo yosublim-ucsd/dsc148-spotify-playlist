@@ -4,7 +4,7 @@
 
 > she did her hyper\-homework
 
-2,015 songs - 3 day 19 hr 43 min
+2,016 songs - 3 day 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1698,6 +1698,7 @@
 | [strong zero gravity](https://open.spotify.com/track/701I1Uyx6gLciKwRfuhSJR) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3) | [strong zero gravity](https://open.spotify.com/album/7dv9fz7OJTyH5UpwvIkzLy) | 4:13 | 2022-12-16 | 2023-03-11 |
 | [Stuck](https://open.spotify.com/track/1jozVURzvGLTLtDU8hBCdc) | [111nightshift](https://open.spotify.com/artist/29j2O8FnYrHOx7Kh8qFOPn), [Rocco Bunko](https://open.spotify.com/artist/1AgJYm5ErkFyUErBxggU8s) | [Stuck](https://open.spotify.com/album/6m0F7t3DPEmEqhm01GVhEn) | 2:10 | 2021-04-09 | 2021-07-16 |
 | [stuck](https://open.spotify.com/track/63PBsYANeKAvmW6vMMus4Y) | [Numl6ck](https://open.spotify.com/artist/2anlj4dNUn9I1VxxmjRHRx) | [stuck](https://open.spotify.com/album/2MlZFREXdi9MdOtBfeO5nD) | 2:06 | 2021-03-06 | 2021-11-13 |
+| [Stuck](https://open.spotify.com/track/3yyJWBJ3MOrLlhtla7Cq7P) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Stuck](https://open.spotify.com/album/6Y1Wf6l68FYPbUd4WC3DnE) | 2:04 | 2024-04-11 |  |
 | [Stuck Up](https://open.spotify.com/track/2PcGdvIzl8lXTwvP1oRcC8) | [kasper gem](https://open.spotify.com/artist/2Rn8McsCwkrCtBM7NK0ltb) | [Stuck Up](https://open.spotify.com/album/6jBMS4yqI7GFKL0AHUcIgd) | 3:07 | 2020-10-13\* | 2020-12-09 |
 | [stuck with you](https://open.spotify.com/track/6h3RiwExHhQG4Ief6Mti9F) | [Joon](https://open.spotify.com/artist/50fy7gkGQi1bdvREWPV6ZP), [4cf](https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL) | [stuck with you](https://open.spotify.com/album/7xK4rA7BH7x3oFiguk3VCW) | 4:15 | 2022-04-08 | 2022-04-29 |
 | [Stupid Crazy](https://open.spotify.com/track/00odJu934oc0N1IKHu5A0c) | [Yung Skrrt](https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU) | [Crazy Turn](https://open.spotify.com/album/5PVMfvCg8boFRLOf0NOpmK) | 2:07 | 2022-07-01 | 2022-07-25 |
@@ -1752,7 +1753,7 @@
 | [Taxi](https://open.spotify.com/track/6KlkbowjQWXsef4AwSQu4c) | [Sara King](https://open.spotify.com/artist/5CRfAxYjJsDBH5wvWF2nja) | [Taxi](https://open.spotify.com/album/1R85AwV2bmMs9aPdeVbwR9) | 2:28 | 2023-07-07 | 2023-07-29 |
 | [tbh i dont like being social](https://open.spotify.com/track/2N9fiSiVyPRCqMVGQiLUVr) | [luvlxckdown](https://open.spotify.com/artist/5gchr4NRAbDOgdPcjUITGz) | [tbh i dont like being social](https://open.spotify.com/album/5cHGXf6nIqWYL3DodZlNkq) | 2:15 | 2021-01-08 | 2021-09-15 |
 | [TE MISSEO](https://open.spotify.com/track/3bi8iYbc7r3cfiAJWc4INV) | [Andrea Mir](https://open.spotify.com/artist/6i4kEOvhG0iB0JhqY2r4vf) | [ALAS Y GARRAS](https://open.spotify.com/album/1jGCunUecbzbpPS0vyJdbt) | 3:14 | 2023-11-17 | 2024-01-23 |
-| [Te pedí que me olvidaras](https://open.spotify.com/track/3DlNm2aNZUynTwHGIPba17) | [María Escarmiento](https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl), [Vau Boy](https://open.spotify.com/artist/2tx3YCpd2RHR1ZSU101zFB) | [Te pedí que me olvidaras](https://open.spotify.com/album/2Ou2enf5ZWyp5HzHHc0MPx) | 1:48 | 2024-03-04 |  |
+| [Te pedí que me olvidaras](https://open.spotify.com/track/3DlNm2aNZUynTwHGIPba17) | [María Escarmiento](https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl) | [Te pedí que me olvidaras](https://open.spotify.com/album/2Ou2enf5ZWyp5HzHHc0MPx) | 1:48 | 2024-03-04 |  |
 | [Teacup](https://open.spotify.com/track/1qYTH6kyJ2wSoL1bwppdeV) | [Cowgirl Clue](https://open.spotify.com/artist/45y43grjcZp3XvyXqfPQu4) | [Teacup](https://open.spotify.com/album/6QnuZBLx8bfoIFNiTxQ8hP) | 1:38 | 2021-11-05 | 2022-02-26 |
 | [Team](https://open.spotify.com/track/77VHb191LLkpsYJTS2cgEc) | [Mag.Lo](https://open.spotify.com/artist/4pRlsLqOBsPKbTr4aSAe2y) | [Team](https://open.spotify.com/album/37fIbYVEnEjo5PWeBCh887) | 2:06 | 2021-06-13 | 2022-01-13 |
 | [TEAM](https://open.spotify.com/track/3OQBhWbfooscxKYUvkRZKY) | [phonewifey](https://open.spotify.com/artist/3UrSRgbnWzDJsDNVFMaDP8), [Traitor](https://open.spotify.com/artist/3kUPIzOlkHEXzgxNHttj21), [teenslasher91](https://open.spotify.com/artist/6ywxqYLD8HxocCMl8Tvhau), [Melly](https://open.spotify.com/artist/0t3xTY4YDNHMgLyZqZsegX), [ERSATZ](https://open.spotify.com/artist/0rKovb5NY640mhOHTW95ql), [Kakouska](https://open.spotify.com/artist/6HwKxQHcAtT9WxrNVnDzPx) | [HARD YEAR](https://open.spotify.com/album/0vVBobMnAvgYYvjc0N2rqi) | 5:12 | 2021-01-27 | 2021-02-26 |

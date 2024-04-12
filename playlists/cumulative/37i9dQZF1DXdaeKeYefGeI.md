@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Herman van Veen
 
-151 songs - 9 hr 22 min
+152 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,12 +66,13 @@
 | [Het Regende Zon](https://open.spotify.com/track/6SDQYfdsaLlOoRRUPyv3Ix) | [Ellen Ten Damme](https://open.spotify.com/artist/3DbOvEIWluNeH6rhPuFexv) | [Het Regende Zon](https://open.spotify.com/album/7HA5p6GD27rnBOxb06MtfG) | 3:23 | 2023-02-10 | 2023-03-09 |
 | [Het Werd Zomer](https://open.spotify.com/track/7J7fNdedcP2urV48omGkHu) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Tussen Zomer En Winter \(Expanded Edition\)](https://open.spotify.com/album/6C1i4zs6YQtinLbZh9pz9u) | 4:07 | 2023-02-10 | 2023-09-15 |
 | [Hou Van Mij](https://open.spotify.com/track/0p8NKK6n6wrvgPf0AUho6h) | [Bökkers](https://open.spotify.com/artist/4r9YVlVbFPpqo0vcCaKIE6), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Hou Van Mij](https://open.spotify.com/album/4FnEHt85qGmedL41l7zErJ) | 3:13 | 2023-02-10 |  |
-| [Houten Pak](https://open.spotify.com/track/2E2Uc9dF8dlsRmM6EA51hj) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Man In Nood](https://open.spotify.com/album/4shvyUUcdrdIwd0lIlIXCU) | 3:03 | 2024-03-04 |  |
+| [Houten Pak](https://open.spotify.com/track/2E2Uc9dF8dlsRmM6EA51hj) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Man In Nood](https://open.spotify.com/album/4shvyUUcdrdIwd0lIlIXCU) | 3:03 | 2024-03-04 | 2024-04-12 |
 | [Ik Doe Het Al](https://open.spotify.com/track/5lwAw6HWkieGDGd0bkIBgu) | [Iris Penning](https://open.spotify.com/artist/44MTZ4Gl4TGilst3cCDq9G) | [Ik Doe Het Al](https://open.spotify.com/album/5cGRwq3Nb0FwdIAZxOV3as) | 2:45 | 2024-01-25 |  |
 | [Ik heb je vergeven](https://open.spotify.com/track/5eGNTkEgie3bPoQpuw07PE) | [Myra Pilar](https://open.spotify.com/artist/0XGEZus6caWFUFpPGYotPX) | [Ik heb je vergeven](https://open.spotify.com/album/0aEpho7U0oTDSQmophOKuH) | 3:32 | 2023-02-10 | 2023-04-07 |
 | [Ik Hobbel](https://open.spotify.com/track/6tpeejrVeDYkU8WhLpmWuV) | [Theun met een h](https://open.spotify.com/artist/0gPKa3T9bOhyyUkGeYcf2I) | [Ik Hobbel](https://open.spotify.com/album/4Dp6OZeo6qDXlRWm3YRPhK) | 3:02 | 2023-03-23 |  |
 | [Ik Hou Van Mij](https://open.spotify.com/track/7sXPkx4uP9nGazTEe4VpIe) | [Harrie Jekkers](https://open.spotify.com/artist/4QAsKGyhi6ngDLGntc54ql) | [Mijn Ikken](https://open.spotify.com/album/2QwzUQVn18RHdDDCeqd5jd) | 2:35 | 2023-02-10 |  |
 | [Ik Wil Niet Dat Je Liegt](https://open.spotify.com/track/5Txs0Hcm3Tr2tA5OOaGqDK) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [ParaCDmol](https://open.spotify.com/album/6h8rFFOtR2m6N8d4FKCYkW) | 3:54 | 2023-02-10 | 2024-01-26 |
+| [IK ZEG HET TE WEINIG](https://open.spotify.com/track/0CGpjldNJedaNmhW5neQPZ) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [IK ZEG HET TE WEINIG](https://open.spotify.com/album/5Ukd8XCbHko4DH8p4pnm0V) | 2:45 | 2024-04-11 |  |
 | [Ik zou iets willen zeggen](https://open.spotify.com/track/5xnKi7AA2XY0oj1t6aXljJ) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Ik zou iets willen zeggen](https://open.spotify.com/album/5QpPrVWPuqnY7EnIboBkQI) | 3:48 | 2023-02-10 | 2023-04-07 |
 | [In De Wolken](https://open.spotify.com/track/1Km2FZBYTywUP04iPfLC0Q) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS), [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [In De Wolken](https://open.spotify.com/album/2ofvL42TbMchm7UhUzy1XK) | 4:31 | 2023-11-09 | 2024-03-20 |
 | [Je leeft maar 1 keer](https://open.spotify.com/track/6Q2TJRM3fR7E6uZfhmcUvw) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Je leeft maar 1 keer](https://open.spotify.com/album/1EgjIzMkAbsoxMdaYKq5xz) | 2:54 | 2023-03-08 | 2024-01-26 |

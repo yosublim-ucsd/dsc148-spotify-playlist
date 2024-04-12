@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: BABYMONSTER
+> Future K\-Pop hits! Cover: KISS OF LIFE
 
-1,030 songs - 2 day 8 hr 31 min
+1,031 songs - 2 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -625,6 +625,7 @@
 | [No diggity](https://open.spotify.com/track/1Ovza9IYvEbdB7SctQCHIS) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [DEVIL](https://open.spotify.com/album/2vapQ5AsHtSVE970EbK9i7) | 3:31 | 2021-01-21 | 2021-03-01 |
 | [No good in good\-bye](https://open.spotify.com/track/7e1awRaixVM0YDoZZs5mC1) | [2am](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [Ballad 21 F/W](https://open.spotify.com/album/6EggMg9W6wan2o1YadUhAq) | 3:32 | 2021-11-05 | 2022-01-04 |
 | [No Love](https://open.spotify.com/track/5mMqlFlWJNAApggUOEfYDn) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [BAD LIAR \- The 4th Mini Special Album](https://open.spotify.com/album/0ExK4LxhnukLaSgbmwITmj) | 3:19 | 2020-10-13\* | 2020-11-16 |
+| [No Lowkey](https://open.spotify.com/track/6AcT7whSpUEaCncx24QFml) | [YUNGIN](https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [No Lowkey](https://open.spotify.com/album/7wiYzDeFQ3HMY1iTxKkw4E) | 2:19 | 2024-04-11 |  |
 | [NO MORE \(MA BOY\)](https://open.spotify.com/track/3wdNXGxfzd1O6VBI1hg3pi) | [SISTAR19](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) | [NO MORE \(MA BOY\)](https://open.spotify.com/album/3dmsztvqxTfUqTrsu0Z7Ke) | 2:44 | 2024-01-16 | 2024-02-27 |
 | [No More \(Prod\. Zion.T\)](https://open.spotify.com/track/6UZPTH87iJRJEPpfQ0wIZy) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [NO MORE](https://open.spotify.com/album/03V3DsgstV70JlF61ZFEQz) | 2:38 | 2020-10-13\* | 2020-11-11 |
 | [No More X](https://open.spotify.com/track/7ykZspJW8uY2Lx26zO3eBt) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [RE:ALIZE](https://open.spotify.com/album/3uHB6cLFlt4u4M6HTbSLfy) | 2:58 | 2021-11-17 | 2022-01-13 |
@@ -690,7 +691,7 @@
 | [Pity Party](https://open.spotify.com/track/3hmjSgK0gSytIf3sbCFShk) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Pity Party](https://open.spotify.com/album/2yMHiLYBnrMsdUCUL3bFkU) | 3:10 | 2022-02-07 | 2022-05-25 |
 | [PLAY](https://open.spotify.com/track/1SdLedoEjrMRu5AnvK2EYk) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [PLAY](https://open.spotify.com/album/7tzaUrzvzQGfqvzsYzSODr) | 3:19 | 2020-10-13\* | 2020-10-22 |
 | [Play](https://open.spotify.com/track/4zw0hc13H9fbzj2UpD6Rfu) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [\[REC.\]](https://open.spotify.com/album/6ofVW04Q32gN1Hxk50S9Fi) | 3:21 | 2022-01-19 | 2022-03-25 |
-| [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 | 2024-01-22 |  |
+| [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 | 2024-01-22 | 2024-04-12 |
 | [Poison](https://open.spotify.com/track/0dhBiy6lmLdyKUEJTf5Fcz) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Poison \(Crime Puzzle\)](https://open.spotify.com/album/0C7uH2bPULuV0t15yTkygg) | 2:41 | 2021-11-19 | 2022-01-13 |
 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 | 2022-01-24 | 2022-06-11 |
 | [Ponytail \(Feat\. Sik\-K\)](https://open.spotify.com/track/3H1B6KuqXvRCBNrln32Bpa) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Ponytail](https://open.spotify.com/album/1VwRHtgoE6qo1Kng6wiMg0) | 3:25 | 2023-01-03 | 2023-03-16 |
@@ -829,7 +830,7 @@
 | [STALKER](https://open.spotify.com/track/4WCg4g0lMTZxyFC19W0DHF) | [3YE](https://open.spotify.com/artist/65SWpUO42tdFbEhdfj1ryf) | [STALKER](https://open.spotify.com/album/4fzdBEYv8M4d0p6QcDSgn3) | 3:48 | 2021-04-22 | 2021-06-25 |
 | [STAR](https://open.spotify.com/track/4wdUuQQ32Pcrzln7NaZCFk) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [STAR](https://open.spotify.com/album/3vzL4zqeWqJ7stqWpX5bfD) | 4:09 | 2021-11-27 | 2022-01-04 |
 | [Starry Night \(prod\. dress\)](https://open.spotify.com/track/2skhJRyeMP1EefyjTYwQmA) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [Starry Night \(prod\. dress\)](https://open.spotify.com/album/5LveI3wQQYc6XddckFhFzN) | 3:07 | 2021-10-06 | 2021-11-05 |
-| [STAY](https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ENTITY](https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E) | 2:53 | 2024-02-15 |  |
+| [STAY](https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ENTITY](https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E) | 2:53 | 2024-02-15 | 2024-04-12 |
 | [STAY](https://open.spotify.com/track/3vBwpaajHJQaqJkE7Xsv5H) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16), [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [STAY](https://open.spotify.com/album/5GNd4MdJkmm3EoZ6DjXDMI) | 3:22 | 2021-12-24 | 2022-01-25 |
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2022-02-11 | 2022-06-03 |
 | [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 | 2022-07-13 | 2022-10-01 |

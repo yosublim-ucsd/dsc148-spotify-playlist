@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 133745,
+  "2024-04-12": 133749,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Singapore.",
   "name": "Top 50 - Singapore",
@@ -621,6 +621,24 @@
       "duration_ms": 200293,
       "name": "Ah puh",
       "url": "https://open.spotify.com/track/1IJxbEXfgiKuRx6oXMX87e"
+    },
+    {
+      "album": {
+        "name": "Alamak Raya Lagi!",
+        "url": "https://open.spotify.com/album/2Rggi2m4YvzePLbKMJg74o"
+      },
+      "artists": [
+        {
+          "name": "De Fam",
+          "url": "https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Alamak Raya Lagi!",
+      "url": "https://open.spotify.com/track/2VTLUKd4CbW14uKI973vl4"
     },
     {
       "album": {
@@ -2233,7 +2251,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 211160,
       "name": "Billionaire (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig"
@@ -6759,7 +6777,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -10335,7 +10353,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
@@ -12919,7 +12937,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 268320,
       "name": "Nothin' on You (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/59dLtGBS26x7kc0rHbaPrq"
@@ -13293,7 +13311,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/1VNWdmXSbaNrnWod10WIL0"
@@ -13319,7 +13337,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -14277,7 +14295,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 200889,
       "name": "Please Me",
       "url": "https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN"
@@ -14645,6 +14663,24 @@
       "duration_ms": 165925,
       "name": "RAPSTAR",
       "url": "https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6"
+    },
+    {
+      "album": {
+        "name": "Raya Raya Raya",
+        "url": "https://open.spotify.com/album/4tri0iQsUj5uWEeb7ye2P5"
+      },
+      "artists": [
+        {
+          "name": "DOLLA",
+          "url": "https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167200,
+      "name": "Raya Raya Raya",
+      "url": "https://open.spotify.com/track/5bu4tKnKyjBwQhLdDK7VWe"
     },
     {
       "album": {
@@ -17461,7 +17497,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 173336,
       "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM)",
       "url": "https://open.spotify.com/track/3W2kGv8CcwRl2MWQN5vxKL"
@@ -17523,6 +17559,24 @@
       "duration_ms": 231000,
       "name": "Style (Taylor's Version)",
       "url": "https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc"
+    },
+    {
+      "album": {
+        "name": "25 Lagu-Lagu Hari Raya Aidilfitri",
+        "url": "https://open.spotify.com/album/2dWkfl56rWXb67roOK0Egc"
+      },
+      "artists": [
+        {
+          "name": "Anuar & Ellina",
+          "url": "https://open.spotify.com/artist/3SDiNzzzX6i660bxil2I3M"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195146,
+      "name": "Suasana Di Hari Raya",
+      "url": "https://open.spotify.com/track/2rZIyoaIZBaWtr1954sxyO"
     },
     {
       "album": {
@@ -19109,7 +19163,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 224725,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
@@ -19851,7 +19905,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 269666,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
@@ -21915,7 +21969,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "\u5b57\u5b57\u53e5\u53e5",
       "url": "https://open.spotify.com/track/7fAdinC2UTc0Y9GiKrkTtu"

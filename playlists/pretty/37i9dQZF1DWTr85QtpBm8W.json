@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 23168,
+  "num_followers": 23206,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmUxOTUzNWMxZDdmNmRlNmZiZjRlMTEwNTUyMDgzZDIwN2MzZjBk",
+  "snapshot_id": "MTY5MTE1MzYwOCwwMDAwMDAwMDc1Y2FkNTM0MjliYzVkOTYzYzY3ZjQyNWQ0ZmM4NDcw",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Finally We Are No One",
-        "url": "https://open.spotify.com/album/2XCcnYJJQXYoWm5oc20x9k"
-      },
-      "artists": [
-        {
-          "name": "m\u00fam",
-          "url": "https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU"
-        }
-      ],
-      "duration_ms": 50133,
-      "name": "Sleep/Swim",
-      "url": "https://open.spotify.com/track/1GOcC3nJGnjTioFVUnLlmH"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Melancholia",
         "url": "https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 409066,
       "name": "Melancholia II",
       "url": "https://open.spotify.com/track/243SYVzBHECQf3paZxeHGd"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Finally We Are No One",
+        "url": "https://open.spotify.com/album/2XCcnYJJQXYoWm5oc20x9k"
+      },
+      "artists": [
+        {
+          "name": "m\u00fam",
+          "url": "https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU"
+        }
+      ],
+      "duration_ms": 50133,
+      "name": "Sleep/Swim",
+      "url": "https://open.spotify.com/track/1GOcC3nJGnjTioFVUnLlmH"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Untrue",
-        "url": "https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK"
-      },
-      "artists": [
-        {
-          "name": "Burial",
-          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
-        }
-      ],
-      "duration_ms": 126091,
-      "name": "In McDonalds",
-      "url": "https://open.spotify.com/track/7vZTj01UKQ6OuTItkQfxuy"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Grinning Cat",
         "url": "https://open.spotify.com/album/2FbuxPAPLIssaTRB0WCWAH"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 154493,
       "name": "I Imagine",
       "url": "https://open.spotify.com/track/2Rg7fFBI94HDY0QAYYInTx"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Untrue",
+        "url": "https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        }
+      ],
+      "duration_ms": 126091,
+      "name": "In McDonalds",
+      "url": "https://open.spotify.com/track/7vZTj01UKQ6OuTItkQfxuy"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -451,42 +451,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Vir\u00f0ulegu forsetar",
-        "url": "https://open.spotify.com/album/4Z1mxIr5W6e6udtQOztJK7"
+        "name": "Copia",
+        "url": "https://open.spotify.com/album/6P3NxDFmh6Ytuw7vFEwSgJ"
       },
       "artists": [
         {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
-        },
-        {
-          "name": "Gu\u00f0mundur Sigur\u00f0sson",
-          "url": "https://open.spotify.com/artist/3q7TrFzGVWfKBiUDvvuh9o"
-        },
-        {
-          "name": "H\u00f6r\u00f0ur Bragason",
-          "url": "https://open.spotify.com/artist/0whUojBZfM3kiNAY1pjHGC"
-        },
-        {
-          "name": "Sk\u00fali Sverrisson",
-          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
-        },
-        {
-          "name": "Matth\u00edas M.D. Hemstock",
-          "url": "https://open.spotify.com/artist/5zHY2mTNV5DT1WlMxGyHUz"
-        },
-        {
-          "name": "Caput Ensemble",
-          "url": "https://open.spotify.com/artist/48XBOXSqnwaCzpB1wAOaIT"
-        },
-        {
-          "name": "Gu\u00f0ni Franzson",
-          "url": "https://open.spotify.com/artist/4TZBoRGUpsHYhAmnQt5KeV"
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
         }
       ],
-      "duration_ms": 78579,
-      "name": "Part 1.2",
-      "url": "https://open.spotify.com/track/4fo5POX7jgXpz44NsElSBr"
+      "duration_ms": 198120,
+      "name": "Amreik",
+      "url": "https://open.spotify.com/track/0yqjpsNQvm0IZMtKqYVpMs"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -523,18 +499,42 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Copia",
-        "url": "https://open.spotify.com/album/6P3NxDFmh6Ytuw7vFEwSgJ"
+        "name": "Vir\u00f0ulegu forsetar",
+        "url": "https://open.spotify.com/album/4Z1mxIr5W6e6udtQOztJK7"
       },
       "artists": [
         {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        },
+        {
+          "name": "Gu\u00f0mundur Sigur\u00f0sson",
+          "url": "https://open.spotify.com/artist/3q7TrFzGVWfKBiUDvvuh9o"
+        },
+        {
+          "name": "H\u00f6r\u00f0ur Bragason",
+          "url": "https://open.spotify.com/artist/0whUojBZfM3kiNAY1pjHGC"
+        },
+        {
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+        },
+        {
+          "name": "Matth\u00edas M.D. Hemstock",
+          "url": "https://open.spotify.com/artist/5zHY2mTNV5DT1WlMxGyHUz"
+        },
+        {
+          "name": "Caput Ensemble",
+          "url": "https://open.spotify.com/artist/48XBOXSqnwaCzpB1wAOaIT"
+        },
+        {
+          "name": "Gu\u00f0ni Franzson",
+          "url": "https://open.spotify.com/artist/4TZBoRGUpsHYhAmnQt5KeV"
         }
       ],
-      "duration_ms": 198120,
-      "name": "Amreik",
-      "url": "https://open.spotify.com/track/0yqjpsNQvm0IZMtKqYVpMs"
+      "duration_ms": 78579,
+      "name": "Part 1.2",
+      "url": "https://open.spotify.com/track/4fo5POX7jgXpz44NsElSBr"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
         }
       ],
-      "duration_ms": 344560,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/5WGoSnsHY26l4WTWX0L42t"
+      "duration_ms": 273186,
+      "name": "Piano Abg",
+      "url": "https://open.spotify.com/track/65I4nN3dCf5f19mJkdArTm"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
         }
       ],
-      "duration_ms": 273186,
-      "name": "Piano Abg",
-      "url": "https://open.spotify.com/track/65I4nN3dCf5f19mJkdArTm"
+      "duration_ms": 344560,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/5WGoSnsHY26l4WTWX0L42t"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Yesterday Was Dramatic \u2013 Today Is OK",
-        "url": "https://open.spotify.com/album/1NNVjD5ZkVg6eeR62OmEs2"
-      },
-      "artists": [
-        {
-          "name": "m\u00fam",
-          "url": "https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU"
-        }
-      ],
-      "duration_ms": 391466,
-      "name": "There Is A Number Of Small Things",
-      "url": "https://open.spotify.com/track/5BTsPUjhMREI6BwJ4zIpiu"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Sings Reign Rebuilder",
         "url": "https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 102239,
       "name": "Jesus / Pop",
       "url": "https://open.spotify.com/track/2DuYIq8kK3FC4RJg21oI0N"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Yesterday Was Dramatic \u2013 Today Is OK",
+        "url": "https://open.spotify.com/album/1NNVjD5ZkVg6eeR62OmEs2"
+      },
+      "artists": [
+        {
+          "name": "m\u00fam",
+          "url": "https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU"
+        }
+      ],
+      "duration_ms": 391466,
+      "name": "There Is A Number Of Small Things",
+      "url": "https://open.spotify.com/track/5BTsPUjhMREI6BwJ4zIpiu"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Geisterfaust",
-        "url": "https://open.spotify.com/album/0UQwShqJuxPQy8Hpq6lBfC"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 486506,
-      "name": "Daumen",
-      "url": "https://open.spotify.com/track/5FflGbZ3ZhQO3TaFfDwuGz"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Riceboy Sleeps (2019 Remaster)",
         "url": "https://open.spotify.com/album/2v2oepohJrkS5kdDIJ1xLz"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 315386,
       "name": "All The Big Trees - 2019 Remaster",
       "url": "https://open.spotify.com/track/1lkcrEmMddGE1c1pcY6hdQ"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Geisterfaust",
+        "url": "https://open.spotify.com/album/0UQwShqJuxPQy8Hpq6lBfC"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 486506,
+      "name": "Daumen",
+      "url": "https://open.spotify.com/track/5FflGbZ3ZhQO3TaFfDwuGz"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Streichelfisch (Remastered)",
+        "url": "https://open.spotify.com/album/0Z6y85kr5QPTXVxNcyxJ54"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 351980,
+      "name": "Aparaquasynthe (Remastered)",
+      "url": "https://open.spotify.com/track/6OlM4VG2u07UKSdjK0kRmB"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/6WKXCjXWZlK1SmJYUXnMO3"
       },
@@ -1424,25 +1440,9 @@
           "url": "https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg"
         }
       ],
-      "duration_ms": 158080,
-      "name": "Arves\u00f8lv",
-      "url": "https://open.spotify.com/track/5ob74UHqNnAttl52Dx3bwf"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Streichelfisch (Remastered)",
-        "url": "https://open.spotify.com/album/0Z6y85kr5QPTXVxNcyxJ54"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 351980,
-      "name": "Aparaquasynthe (Remastered)",
-      "url": "https://open.spotify.com/track/6OlM4VG2u07UKSdjK0kRmB"
+      "duration_ms": 213640,
+      "name": "S\u00f8vnens Kvelertak",
+      "url": "https://open.spotify.com/track/2fdQs1MjxjwwplRMSPNTYZ"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Varde",
-        "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
-      },
-      "artists": [
-        {
-          "name": "Elegi",
-          "url": "https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "S\u00f8vnens Kvelertak",
-      "url": "https://open.spotify.com/track/2fdQs1MjxjwwplRMSPNTYZ"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Dolores",
         "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
       },
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "M\u00f8rketid",
+        "url": "https://open.spotify.com/album/0ZaEbfmPAuH2JRTGCUMiDp"
+      },
+      "artists": [
+        {
+          "name": "Netherworld",
+          "url": "https://open.spotify.com/artist/3BgGKIFP67i8kBOM3DsUSN"
+        }
+      ],
+      "duration_ms": 563720,
+      "name": "New Horizons",
+      "url": "https://open.spotify.com/track/5bUqKbPcmA88YyT07rACBp"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Second Childhood",
         "url": "https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc"
       },
@@ -1607,34 +1607,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "M\u00f8rketid",
-        "url": "https://open.spotify.com/album/0ZaEbfmPAuH2JRTGCUMiDp"
+        "name": "Varde",
+        "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
       },
       "artists": [
         {
-          "name": "Netherworld",
-          "url": "https://open.spotify.com/artist/3BgGKIFP67i8kBOM3DsUSN"
+          "name": "Elegi",
+          "url": "https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg"
         }
       ],
-      "duration_ms": 563720,
-      "name": "New Horizons",
-      "url": "https://open.spotify.com/track/5bUqKbPcmA88YyT07rACBp"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 378840,
-      "name": "Welk",
-      "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
+      "duration_ms": 158080,
+      "name": "Arves\u00f8lv",
+      "url": "https://open.spotify.com/track/5ob74UHqNnAttl52Dx3bwf"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1651,6 +1635,22 @@
       "duration_ms": 45986,
       "name": "Verdantique",
       "url": "https://open.spotify.com/track/3IlsZWpHOUfVtOdLilNysq"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 378840,
+      "name": "Welk",
+      "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
     },
     {
       "added_at": "2023-08-04 12:53:28",

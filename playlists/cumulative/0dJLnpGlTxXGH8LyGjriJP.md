@@ -4,7 +4,7 @@
 
 > 
 
-769 songs - 1 day 15 hr 21 min
+770 songs - 1 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Boom](https://open.spotify.com/track/6vQnpXl0KvwTfLpIhoOLHc) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:06 | 2022-10-25 |  |
 | [BOONDOCKS](https://open.spotify.com/track/15NKlFZLj4Mm1vsnkqrzMC) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [Trap Swagg](https://open.spotify.com/artist/3ormELwWyZtuJLM3PW5pZr) | [STUNNA 4 FILES](https://open.spotify.com/album/5NVMlDtzTwNjX9sExAlf4t) | 2:16 | 2022-10-21 |  |
 | [BOSSMAN!](https://open.spotify.com/track/6LzfLFbrFWMCbf4W8VZKzz) | [Lonestar Void](https://open.spotify.com/artist/0Tgd3dh9w9kq5gQMg3uqqV) | [Lord](https://open.spotify.com/album/1k58dbjzUwgJaaOQFubJxp) | 1:39 | 2022-09-23 |  |
+| [Both Ways](https://open.spotify.com/track/0NLCKRkvNL2Fqg0CrLgWzl) | [Ramiied](https://open.spotify.com/artist/1hM34uhDyyF7GWxrfuICvA) | [Both Ways](https://open.spotify.com/album/4YKGOXqC2mbGWlJusQ77OS) | 3:09 | 2024-04-11 |  |
 | [Bounce Back](https://open.spotify.com/track/79A2BaLkeTqE1ShSEKrSaa) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Me vs\. Myself](https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03) | 3:01 | 2022-12-09 |  |
 | [Bounce Back](https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [I Decided.](https://open.spotify.com/album/0XAIjjN5qxViVS0Y5fYkar) | 3:42 | 2023-10-28 |  |
 | [Brand New](https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Brand New](https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0) | 3:02 | 2023-12-01 |  |

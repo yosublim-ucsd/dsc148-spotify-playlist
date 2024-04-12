@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0)\u256f\ufe35 \u253b\u2501\u253b LA SAD in cover. ",
+  "description": "canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0)\u256f\ufe35 \u253b\u2501\u253b Sillyelly, GionnyScandal, AleXX iSt4r in cover",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -2373,6 +2373,28 @@
     },
     {
       "album": {
+        "name": "TILT",
+        "url": "https://open.spotify.com/album/7fbhaflR4GnmiYsVEiTqr2"
+      },
+      "artists": [
+        {
+          "name": "Bartolini",
+          "url": "https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd"
+        },
+        {
+          "name": "Lil Kvneki",
+          "url": "https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141479,
+      "name": "Bugia (feat. Lil Kvneki)",
+      "url": "https://open.spotify.com/track/6iuaBigoAAaxkEYTREs4Nu"
+    },
+    {
+      "album": {
         "name": "TRE",
         "url": "https://open.spotify.com/album/6KgWi7Dq7eGztZzC9ExYmn"
       },
@@ -4252,6 +4274,32 @@
       "duration_ms": 161917,
       "name": "deathmatch",
       "url": "https://open.spotify.com/track/6cDfk6xwxZ5GlXPjLlYcKy"
+    },
+    {
+      "album": {
+        "name": "Decisioni Sbagliate",
+        "url": "https://open.spotify.com/album/7EIZEVTzEmudusBPFRlefD"
+      },
+      "artists": [
+        {
+          "name": "Scaglia",
+          "url": "https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7"
+        },
+        {
+          "name": "\u00cbgo",
+          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
+        },
+        {
+          "name": "Moka",
+          "url": "https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169642,
+      "name": "Decisioni Sbagliate",
+      "url": "https://open.spotify.com/track/2WnSK9tpVfiGhkQtAl8I4f"
     },
     {
       "album": {
@@ -8539,6 +8587,24 @@
     },
     {
       "album": {
+        "name": "La solitudine",
+        "url": "https://open.spotify.com/album/09ZtmW6fJ0vVZ9idySkxEh"
+      },
+      "artists": [
+        {
+          "name": "Stefy Evita",
+          "url": "https://open.spotify.com/artist/4Z04kBsbXXAHT9HnboyBiz"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180922,
+      "name": "La solitudine",
+      "url": "https://open.spotify.com/track/2LXVsb2J2Vw2dfErzigk0E"
+    },
+    {
+      "album": {
         "name": "La tua laurea",
         "url": "https://open.spotify.com/album/7vdObNu7UCLkAI4eVeHtPv"
       },
@@ -10195,6 +10261,24 @@
     },
     {
       "album": {
+        "name": "morire dentro",
+        "url": "https://open.spotify.com/album/5EsdijH0rryeQx4arUKM4i"
+      },
+      "artists": [
+        {
+          "name": "3win$",
+          "url": "https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171433,
+      "name": "morire dentro",
+      "url": "https://open.spotify.com/track/7MPULGCgY6NvasBCYhQ4Rw"
+    },
+    {
+      "album": {
         "name": "MORIREI X TE",
         "url": "https://open.spotify.com/album/143QZ5WxJJlcw6xLx6zSCl"
       },
@@ -11815,6 +11899,28 @@
     },
     {
       "album": {
+        "name": "PAZZI",
+        "url": "https://open.spotify.com/album/7h21UJ5KrTtdXYWqhh88bA"
+      },
+      "artists": [
+        {
+          "name": "IN6N",
+          "url": "https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE"
+        },
+        {
+          "name": "Becko",
+          "url": "https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171938,
+      "name": "PAZZI",
+      "url": "https://open.spotify.com/track/6JTpvkizylDkub8S8SQC6e"
+    },
+    {
+      "album": {
         "name": "PEGGIO X ME",
         "url": "https://open.spotify.com/album/0Ty4csTDjqi50rfMUECSR4"
       },
@@ -12092,6 +12198,24 @@
       "duration_ms": 168000,
       "name": "PICCOLI DEMONI",
       "url": "https://open.spotify.com/track/2c5iMzKzlkybhU73rq8rJd"
+    },
+    {
+      "album": {
+        "name": "piercing all\u2019anima",
+        "url": "https://open.spotify.com/album/79xbZKj1eE16NO1xfrrkRA"
+      },
+      "artists": [
+        {
+          "name": "dolcedormire",
+          "url": "https://open.spotify.com/artist/7EO6Zql69u4pT8omeANVcP"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159677,
+      "name": "piercing all\u2019anima",
+      "url": "https://open.spotify.com/track/10P5TUZxRYHCY9C82Zn9VF"
     },
     {
       "album": {
@@ -17300,6 +17424,24 @@
       "duration_ms": 125806,
       "name": "vita deficiente",
       "url": "https://open.spotify.com/track/2GXUtI5Q2sFaoQPzMCwgz9"
+    },
+    {
+      "album": {
+        "name": "Vitamina life",
+        "url": "https://open.spotify.com/album/3kUuHtApN9MrBWeytwRtCe"
+      },
+      "artists": [
+        {
+          "name": "Tripolare",
+          "url": "https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Vitamina life",
+      "url": "https://open.spotify.com/track/2UFwuTDQMk3virqzYttqV2"
     },
     {
       "album": {

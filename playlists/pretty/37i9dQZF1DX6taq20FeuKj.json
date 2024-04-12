@@ -1,12 +1,12 @@
 {
   "description": "Get your gaming session going with this rap mix.",
-  "num_followers": 2110866,
+  "num_followers": 2110965,
   "original_name": "Power Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmNjMTg4MzBjODkwMTUxOTczNTg1ODhmZTMwNzg4MTk3NTgzZWU2",
+  "snapshot_id": "MTcwNzk0MTYzNiwwMDAwMDAwMDJiNWU5ZDA1MzhlZTg5MTkwYmI5ZDg1NGVlMDhhNzdh",
   "tracks": [
     {
       "added_at": "2024-01-11 23:06:48",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2024-01-11 23:06:48",
       "album": {
-        "name": "vendetta!",
-        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
-      },
-      "artists": [
-        {
-          "name": "MUPP",
-          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
-        },
-        {
-          "name": "Sadfriendd",
-          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
-        }
-      ],
-      "duration_ms": 107044,
-      "name": "vendetta!",
-      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
-    },
-    {
-      "added_at": "2024-01-11 23:06:48",
-      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
@@ -1163,54 +1143,22 @@
     {
       "added_at": "2024-01-11 23:06:48",
       "album": {
-        "name": "No Flockin'",
-        "url": "https://open.spotify.com/album/12YTH28wiBXQ16gvWOCMLU"
+        "name": "vendetta!",
+        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
       },
       "artists": [
         {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 165290,
-      "name": "No Flockin'",
-      "url": "https://open.spotify.com/track/34oWbFBfGEElvgO0a5c9V4"
-    },
-    {
-      "added_at": "2024-01-11 23:06:48",
-      "album": {
-        "name": "Top Shotta",
-        "url": "https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 148759,
-      "name": "Camelot",
-      "url": "https://open.spotify.com/track/44sYqNBttbXNxya33FJ3Dj"
-    },
-    {
-      "added_at": "2024-01-11 23:06:48",
-      "album": {
-        "name": "BLAME IT ON BABY",
-        "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
         },
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
         }
       ],
-      "duration_ms": 181733,
-      "name": "ROCKSTAR (feat. Roddy Ricch)",
-      "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
+      "duration_ms": 107044,
+      "name": "vendetta!",
+      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
       "added_at": "2024-01-11 23:06:48",
@@ -1235,6 +1183,74 @@
     {
       "added_at": "2024-01-11 23:06:48",
       "album": {
+        "name": "No Flockin'",
+        "url": "https://open.spotify.com/album/12YTH28wiBXQ16gvWOCMLU"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 165290,
+      "name": "No Flockin'",
+      "url": "https://open.spotify.com/track/34oWbFBfGEElvgO0a5c9V4"
+    },
+    {
+      "added_at": "2024-01-11 23:06:48",
+      "album": {
+        "name": "BLAME IT ON BABY",
+        "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "ROCKSTAR (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
+    },
+    {
+      "added_at": "2024-01-11 23:06:48",
+      "album": {
+        "name": "Top Shotta",
+        "url": "https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 148759,
+      "name": "Camelot",
+      "url": "https://open.spotify.com/track/44sYqNBttbXNxya33FJ3Dj"
+    },
+    {
+      "added_at": "2024-01-11 23:06:48",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "Rich Spirit",
+      "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
+    },
+    {
+      "added_at": "2024-01-11 23:06:48",
+      "album": {
         "name": "KHALED KHALED",
         "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 236524,
       "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
       "url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz"
-    },
-    {
-      "added_at": "2024-01-11 23:06:48",
-      "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "Rich Spirit",
-      "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
     },
     {
       "added_at": "2024-01-11 23:06:48",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-01-11 23:06:48",
       "album": {
-        "name": "THE GOAT",
-        "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 163797,
-      "name": "21",
-      "url": "https://open.spotify.com/track/3JKgcAa7r07ocVWcV8bS0H"
-    },
-    {
-      "added_at": "2024-01-11 23:06:48",
-      "album": {
         "name": "The Search",
         "url": "https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 248053,
       "name": "The Search",
       "url": "https://open.spotify.com/track/3oLe5ZILASG8vU5dxIMfLY"
+    },
+    {
+      "added_at": "2024-01-11 23:06:48",
+      "album": {
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 163797,
+      "name": "21",
+      "url": "https://open.spotify.com/track/3JKgcAa7r07ocVWcV8bS0H"
     },
     {
       "added_at": "2024-01-11 23:06:48",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-01-11 23:06:48",
       "album": {
-        "name": "LIFE'S A TRIP",
-        "url": "https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 121680,
-      "name": "Taking A Walk",
-      "url": "https://open.spotify.com/track/6vSRW8utiYAdoCfJG2v86r"
-    },
-    {
-      "added_at": "2024-01-11 23:06:48",
-      "album": {
         "name": "AT.LONG.LAST.A$AP",
         "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 126960,
       "name": "Lord Pretty Flacko Jodye 2 (LPFJ2)",
       "url": "https://open.spotify.com/track/1j6kDJttn6wbVyMaM42Nxm"
+    },
+    {
+      "added_at": "2024-01-11 23:06:48",
+      "album": {
+        "name": "LIFE'S A TRIP",
+        "url": "https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 121680,
+      "name": "Taking A Walk",
+      "url": "https://open.spotify.com/track/6vSRW8utiYAdoCfJG2v86r"
     },
     {
       "added_at": "2024-01-11 23:06:48",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-01-11 23:06:48",
       "album": {
-        "name": "i am > i was",
-        "url": "https://open.spotify.com/album/007DWn799UWvfY1wwZeENR"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 205351,
-      "name": "can't leave without it",
-      "url": "https://open.spotify.com/track/0hPLZrnDgtKxrym1BHjDhd"
-    },
-    {
-      "added_at": "2024-01-11 23:06:48",
-      "album": {
         "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
         "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 190534,
       "name": "Hello (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi"
+    },
+    {
+      "added_at": "2024-01-11 23:06:48",
+      "album": {
+        "name": "i am > i was",
+        "url": "https://open.spotify.com/album/007DWn799UWvfY1wwZeENR"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 205351,
+      "name": "can't leave without it",
+      "url": "https://open.spotify.com/track/0hPLZrnDgtKxrym1BHjDhd"
     },
     {
       "added_at": "2024-01-11 23:06:48",

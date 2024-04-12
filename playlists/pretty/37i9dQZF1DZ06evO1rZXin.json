@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 5870,
+  "num_followers": 5869,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGViOTJiZDNjNGFlYWMwYzBiODdjNTA0MjJkNmQzMWM2ODAyZjQ1",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMGIwMDY4MjY3ZTMwYjY3YmM2MGY2N2M2M2EyZGQ0MzQz",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "As\u00ed lo Quiso \u00c9l",
-      "url": "https://open.spotify.com/track/4K2NgTCeLM0KkrdZpGYAw6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meneaito",
         "url": "https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 217234,
       "name": "Meneaito",
       "url": "https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "As\u00ed lo Quiso \u00c9l",
+      "url": "https://open.spotify.com/track/4K2NgTCeLM0KkrdZpGYAw6"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 155000,
-      "name": "El Mero Mero",
-      "url": "https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0"
+      "duration_ms": 195026,
+      "name": "Dicembre Del 63",
+      "url": "https://open.spotify.com/track/4s6pbnCdQLSwBGFCF9gf2G"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 195026,
-      "name": "Dicembre Del 63",
-      "url": "https://open.spotify.com/track/4s6pbnCdQLSwBGFCF9gf2G"
+      "duration_ms": 155000,
+      "name": "El Mero Mero",
+      "url": "https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0"
     },
     {
       "added_at": null,

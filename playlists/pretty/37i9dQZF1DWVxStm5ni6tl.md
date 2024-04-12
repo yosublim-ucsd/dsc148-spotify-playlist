@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Luna Elle
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,688 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,706 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 57 | [Te Quiero](https://open.spotify.com/track/4MwlDXNMvRj2zWj6kxe2xH) | [Marcy](https://open.spotify.com/artist/3jqRdaE14uGm7bYrWviI0M) | [Te Quiero](https://open.spotify.com/album/5S22Oc9GbOlEwXJwIbtaEv) | 2:56 |
 | 58 | [Rêve le fun](https://open.spotify.com/track/2Vz21NV1mAx9dbIUJcUTEu) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [Rêve le fun](https://open.spotify.com/album/5C7d50ode6n6laOBx2w775) | 3:16 |
 | 59 | [Silhouette](https://open.spotify.com/track/3lWqtynhlHpPjOO2c6nXTT) | [LAURIE](https://open.spotify.com/artist/2VbpBXEF8MTpBrdaCATTDH) | [Enfant Terrible](https://open.spotify.com/album/4yBZN9M7nP2tieLhZoz2H3) | 2:34 |
-| 60 | [Sick As Your Secrets](https://open.spotify.com/track/1tfbXcqMhvdB2YYkpz54Np) | [Sara Sloan](https://open.spotify.com/artist/0HqD7L1K0yANRk0geft2EV) | [Sick As Your Secrets](https://open.spotify.com/album/2vPyzhvkgoNoRaub67x6Ic) | 4:03 |
+| 60 | [Sick As Your Secrets](https://open.spotify.com/track/4sCctIBX5eAGv5B2u8yTb0) | [Sara Sloan](https://open.spotify.com/artist/0HqD7L1K0yANRk0geft2EV) | [Mourning Myth](https://open.spotify.com/album/40Vt4i7A5fjg79i1QH6chF) | 4:03 |
 | 61 | [the funk, the whole funk, & NOTHING but the funk.](https://open.spotify.com/track/40g3NO7tq78iQ1FWxh5BFH) | [artistbasm](https://open.spotify.com/artist/4L9VftgkqPPV0KXjzM0SIh) | [the funk, the whole funk, & NOTHING but the funk.](https://open.spotify.com/album/3Gpifwgg3t3uyyIrlF7wAt) | 1:58 |
 | 62 | [Birdwatcher](https://open.spotify.com/track/2poBY9AIHsO7O6MjY4350M) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Birdwatcher](https://open.spotify.com/album/5jdRIHmKzjrDjvfK6Zf9rZ) | 3:12 |
 | 63 | [Karma \(Feet Cold\)](https://open.spotify.com/track/1Wq0A6P3DFG4ZXaKbV3uW2) | [Driver95](https://open.spotify.com/artist/20rkN0rw43hQXRMCvagTm1) | [Karma \(Feet Cold\)](https://open.spotify.com/album/4kex77M3Znlj3za5099jfR) | 2:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 79 | [Some Lights Need to be Dimmed](https://open.spotify.com/track/5lH25mEN5OfgaojR4qqWfs) | [Aiko Tomi](https://open.spotify.com/artist/24jBJ64cYnyWF53EKv6K9t) | [Some Lights Need to be Dimmed](https://open.spotify.com/album/0QvbsTM1fDwoMB8LCCCr7w) | 3:07 |
 | 80 | [Rust](https://open.spotify.com/track/3KJ63o5X5JwG5j5kZgGeCn) | [Cab'Ral](https://open.spotify.com/artist/2CIdibKYdqFN9ivfLFA7hj) | [Rust](https://open.spotify.com/album/4lJhDKdbxcCHfCMluyobqD) | 2:57 |
 
-Snapshot ID: `MCxlYTdhMzM1NDYxOWZhMzEwNzhjNWZiZDcyOTdlMWQ1MmE3MmFjOWY1`
+Snapshot ID: `MTcxMjcyMTYwMCwwMDAwMDAwMDFkZTA1MWMyYmJkMDM2MGFlN2I5MjU3OTRhOGQwNDU5`

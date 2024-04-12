@@ -1,9 +1,35 @@
 {
-  "2024-04-11": 1178,
+  "2024-04-12": 1178,
   "date_first_scraped": "2022-06-05",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/1OuLNm4mvRAZK11eefmj9Z\">Chris Jedi</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Chris Jedi",
   "tracks": [
+    {
+      "album": {
+        "name": "LOS MARCIANOS Vol.1: Dei V Version",
+        "url": "https://open.spotify.com/album/6G0d1PrCPMXe80Hjyq4D2a"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Gaby Music",
+          "url": "https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143426,
+      "name": "$DOLLAR$",
+      "url": "https://open.spotify.com/track/3a18ZXF0XhEUSYpxlQdmxP"
+    },
     {
       "album": {
         "name": "\u00c9pico",
@@ -761,6 +787,32 @@
       "duration_ms": 190296,
       "name": "Bandolera",
       "url": "https://open.spotify.com/track/6zw6EBrOdGTbKzC0djTOlD"
+    },
+    {
+      "album": {
+        "name": "LOS MARCIANOS Vol.1: Dei V Version",
+        "url": "https://open.spotify.com/album/6G0d1PrCPMXe80Hjyq4D2a"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Gaby Music",
+          "url": "https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152560,
+      "name": "BARBIE",
+      "url": "https://open.spotify.com/track/4qKKPKoMuVTXh5RjwUULjq"
     },
     {
       "album": {
@@ -2753,6 +2805,36 @@
       "duration_ms": 192405,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/03kmf4kXvGhalg5WSNZJck"
+    },
+    {
+      "album": {
+        "name": "LOS MARCIANOS Vol.1: Dei V Version",
+        "url": "https://open.spotify.com/album/6G0d1PrCPMXe80Hjyq4D2a"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Gaby Music",
+          "url": "https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Kendo Kaponi",
+          "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "ME VA KABRXXN",
+      "url": "https://open.spotify.com/track/09pwpFDIkZ1FrvEHdmMg6F"
     },
     {
       "album": {

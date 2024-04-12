@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 
 > A selection of relaxing, spiritual, and instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,526 likes - 40 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,523 likes - 40 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 | 19 | [Imminent Journey](https://open.spotify.com/track/6fgXqK3T2JWc4K9K43zOe4) | [Rabih Abou\-Khalil](https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT) | [Yara](https://open.spotify.com/album/23j6IQwXCryKrnxwnctIr1) | 1:21 |
 | 20 | [Roubbama](https://open.spotify.com/track/1LTQewXIUPvVXGNTekUvcT) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [Majâz](https://open.spotify.com/album/6bYVfnQq7psGFlF6qSSsTA) | 6:08 |
 | 21 | [The Land of the Sun](https://open.spotify.com/track/69hUAO39hrnOvD9vWYwteW) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [The Land of the Sun](https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre) | 3:58 |
-| 22 | [FIRAT](https://open.spotify.com/track/3vjOp0AczE2nzHxMxr8Dwj) | [ismet Demirhan](https://open.spotify.com/artist/6JmJZt2L5BFINYsz9IldUV) | [ISMET DEMIRHAN](https://open.spotify.com/album/2N3iaWdPPDxXuMukwkdlOo) | 4:47 |
-| 23 | [Hams \(Whispers\)](https://open.spotify.com/track/1ghf2UiUHpdByC8upKcQ6G) | [Mohammed Naiem](https://open.spotify.com/artist/4qINgRu65OpAt7YUgZl6dE) | [Hossam Ramzy Presents: Master of the Arabian Flute](https://open.spotify.com/album/1BeKirbevENdLNLHUy4Swf) | 5:17 |
+| 22 | [Hams \(Whispers\)](https://open.spotify.com/track/1ghf2UiUHpdByC8upKcQ6G) | [Mohammed Naiem](https://open.spotify.com/artist/4qINgRu65OpAt7YUgZl6dE) | [Hossam Ramzy Presents: Master of the Arabian Flute](https://open.spotify.com/album/1BeKirbevENdLNLHUy4Swf) | 5:17 |
+| 23 | [FIRAT](https://open.spotify.com/track/3vjOp0AczE2nzHxMxr8Dwj) | [ismet Demirhan](https://open.spotify.com/artist/6JmJZt2L5BFINYsz9IldUV) | [ISMET DEMIRHAN](https://open.spotify.com/album/2N3iaWdPPDxXuMukwkdlOo) | 4:47 |
 | 24 | [Taqsîm Maqâm Nahâwând, pt\. 2](https://open.spotify.com/track/1BmImc5JYj20LI8ImfuMVb) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [Taqâsîm \(Luth arabe, Arab Lute\)](https://open.spotify.com/album/3xTBWuj0y7B1XdVw4mGxMX) | 3:14 |
 | 25 | [Ourakjoutyoun \(Joy\) \(Lebanon\)](https://open.spotify.com/track/305gXVEe581fZ93X3qmTBo) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL) | [Music of the Middle East \- Iran, Syria, Iraq, Egypt, Turkey, Armenia, Lebanon à](https://open.spotify.com/album/7gH8Q7FboKsxqpfTbXWElF) | 2:56 |
 | 26 | [Silent Stories \- Instrumentale](https://open.spotify.com/track/01od1LpPvjDF2EogpKznKe) | [Karim Baggili](https://open.spotify.com/artist/6cpxFdmwZjoZphfYF1p3Mu), [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [Kali City](https://open.spotify.com/album/1g7Di1F9H4wCaHhhftOlo9) | 4:34 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 | 39 | [Al\-Andalus Abre Sus Puertas\. Al\-Andalus Opens Its Gates](https://open.spotify.com/track/4iQvCKLlT8DlRm7hqBPS3n) | [Naseer Shamma](https://open.spotify.com/artist/57NW7ND6Cdzrj5z8ARvUEZ), [Shabbaz Hussain](https://open.spotify.com/artist/1entpGIZiFUjcFLOMzbXUL), [Ashraf Sharif Khan](https://open.spotify.com/artist/75hY1HGxwO5zlBmXzj1UQs) | [Viaje De Las Almas\. Travelling Souls](https://open.spotify.com/album/1nEZo4Uk9UfaAnt0AvqDAb) | 6:35 |
 | 40 | [Meçhul](https://open.spotify.com/track/4btMC5zessMUb1G9JUTT6q) | [Mercan Dede](https://open.spotify.com/artist/1rwDpyhfCIGcutXf9kmLkY) | [Dünya, Vol\. 1 \(Gün Doğumu\)](https://open.spotify.com/album/2Qocr6xEdeOsTOFGzTdTw9) | 7:39 |
 
-Snapshot ID: `MCw1ZGM3YjZkYmU0N2IyMjhiMzlkYmZlYjkwOThiNWUyOGY0NTVlMjIy`
+Snapshot ID: `MTcxMDIzMjEwNSwwMDAwMDAwMGNhZjJhYmYzM2VkYzNhYWY5N2MyNTg1MGEyMWI5ZDk2`

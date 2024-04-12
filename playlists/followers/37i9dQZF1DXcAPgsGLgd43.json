@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 6144,
+  "2024-04-12": 6152,
   "date_first_scraped": "2022-05-13",
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
   "name": "Latin House",
@@ -1947,7 +1947,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 168188,
       "name": "Gringada",
       "url": "https://open.spotify.com/track/5vnQUEjtukbbnWcrnigfpT"
@@ -3879,6 +3879,28 @@
       "duration_ms": 332307,
       "name": "Tikitro",
       "url": "https://open.spotify.com/track/3PUNw4b3t5xgANXPhvOioW"
+    },
+    {
+      "album": {
+        "name": "Tocate",
+        "url": "https://open.spotify.com/album/1J69wY1wgzllb0AisNy99J"
+      },
+      "artists": [
+        {
+          "name": "Conrado",
+          "url": "https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e"
+        },
+        {
+          "name": "Cach House",
+          "url": "https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190393,
+      "name": "Tocate",
+      "url": "https://open.spotify.com/track/0hmovhJh8gx8Ito3nbPRQy"
     },
     {
       "album": {

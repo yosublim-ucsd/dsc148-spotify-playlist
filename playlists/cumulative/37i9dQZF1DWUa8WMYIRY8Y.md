@@ -2,9 +2,9 @@
 
 ### [Hot Alternative](https://open.spotify.com/playlist/37i9dQZF1DWUa8WMYIRY8Y)
 
-> Les meilleurs morceaux alternatifs du moment\. Photo : Big Special
+> Les meilleurs morceaux alternatifs du moment\. Photo : Hozier
 
-184 songs - 11 hr 17 min
+185 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [catalogue](https://open.spotify.com/track/2fjqgNiQI8SbUrfN5yn2GS) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [catalogue](https://open.spotify.com/album/4Hd9WBZhWgxKGXsH9OWYOc) | 3:14 | 2023-09-28 | 2023-12-22 |
 | [Chemical Animal](https://open.spotify.com/track/6NyWKXFYaw29rFuAIgrgpq) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Chemical Animal](https://open.spotify.com/album/4LUYV8jcT97Xoy9sI1TPs3) | 4:33 | 2024-01-25 | 2024-03-22 |
 | [Chosen to Deserve](https://open.spotify.com/track/1c2meJL1RaGILGSw9Lnj0P) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 5:32 | 2023-12-21 | 2024-03-01 |
-| [Classical](https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Classical](https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ) | 4:19 | 2024-03-14 |  |
+| [Classical](https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Classical](https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ) | 4:19 | 2024-03-14 | 2024-04-12 |
+| [Classical](https://open.spotify.com/track/4DlGLD32K7shuL8ub067DL) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:19 | 2024-04-11 |  |
 | [Cold Reactor](https://open.spotify.com/track/4HoOTJ8tM7ikMkEkoJTisX) | [Everything Everything](https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr) | [Cold Reactor](https://open.spotify.com/album/12GsikxFayV36XYx0JuMqj) | 3:51 | 2023-10-26 | 2024-02-02 |
 | [Crazy Again](https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Crazy Again](https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK) | 3:17 | 2023-11-16 |  |
 | [Cruel Hearts](https://open.spotify.com/track/0gSGOnRJahLfNiIQr8Whnv) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Is This All We Are?](https://open.spotify.com/album/3SuBazvhBr901kNpaROT09) | 3:22 | 2023-09-28 | 2023-12-08 |

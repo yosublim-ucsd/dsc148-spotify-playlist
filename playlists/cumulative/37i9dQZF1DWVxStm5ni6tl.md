@@ -4,7 +4,7 @@
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Luna Elle
 
-983 songs - 2 day 2 hr 30 min
+984 songs - 2 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -764,7 +764,8 @@
 | [SHOTGUN](https://open.spotify.com/track/6tLRAqehJMsG2v1Rg1FmWg) | [NADUH](https://open.spotify.com/artist/5voTUw1S7gRACJXVp3slwh) | [SHOTGUN](https://open.spotify.com/album/5Dxa66Fz4DmzYdC8XwEXj4) | 2:45 | 2023-09-13 | 2023-10-05 |
 | [Should We](https://open.spotify.com/track/4Y8PgWmxjAnBHNuz516yWf) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Should We](https://open.spotify.com/album/4UTy95lbfZb73MJeRwSfcA) | 2:33 | 2024-01-10 | 2024-02-01 |
 | [Show Up](https://open.spotify.com/track/3iCnZwcc8GtV2zRp7ZpFWU) | [Nicolette & The Nobodies](https://open.spotify.com/artist/7mnm3y9s2LSUt4st0SQfhA) | [Show Up](https://open.spotify.com/album/1gb9mJpQodrKSox6MM6TsJ) | 3:49 | 2024-02-22 | 2024-03-07 |
-| [Sick As Your Secrets](https://open.spotify.com/track/1tfbXcqMhvdB2YYkpz54Np) | [Sara Sloan](https://open.spotify.com/artist/0HqD7L1K0yANRk0geft2EV) | [Sick As Your Secrets](https://open.spotify.com/album/2vPyzhvkgoNoRaub67x6Ic) | 4:03 | 2024-01-10 |  |
+| [Sick As Your Secrets](https://open.spotify.com/track/1tfbXcqMhvdB2YYkpz54Np) | [Sara Sloan](https://open.spotify.com/artist/0HqD7L1K0yANRk0geft2EV) | [Sick As Your Secrets](https://open.spotify.com/album/2vPyzhvkgoNoRaub67x6Ic) | 4:03 | 2024-01-10 | 2024-04-12 |
+| [Sick As Your Secrets](https://open.spotify.com/track/4sCctIBX5eAGv5B2u8yTb0) | [Sara Sloan](https://open.spotify.com/artist/0HqD7L1K0yANRk0geft2EV) | [Mourning Myth](https://open.spotify.com/album/40Vt4i7A5fjg79i1QH6chF) | 4:03 | 2024-04-10 |  |
 | [Siempre Bailo](https://open.spotify.com/track/5VYcJhfwYFxH7sXnccx2qV) | [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R), [Maï](https://open.spotify.com/artist/7CG98Ml8WRuWTLUPIOgtww) | [Siempre Bailo](https://open.spotify.com/album/4VpDj3i5bVFYez28hyLezk) | 3:10 | 2024-04-03 |  |
 | [Signs](https://open.spotify.com/track/6aEMG8KfiyiI3WeaK6xweo) | [Rasheed Saibu](https://open.spotify.com/artist/2xQKgx2v2b528SaCFh1065) | [Signs](https://open.spotify.com/album/0P0rLfU0jDfTwEUJuzDERS) | 3:04 | 2023-07-26 | 2023-08-17 |
 | [Silhouette](https://open.spotify.com/track/3lWqtynhlHpPjOO2c6nXTT) | [LAURIE](https://open.spotify.com/artist/2VbpBXEF8MTpBrdaCATTDH) | [Enfant Terrible](https://open.spotify.com/album/4yBZN9M7nP2tieLhZoz2H3) | 2:34 | 2024-03-27 |  |

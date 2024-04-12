@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-175 songs - 19 hr 46 min
+176 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Jani Door Gaye](https://open.spotify.com/track/7vD9KCYtHBUmTubWBMch5t) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [Jani Door Gaye](https://open.spotify.com/album/63rjdSnhF0jKwQPBXE0Jvl) | 7:26 | 2023-11-17 | 2024-01-06 |
 | [Jashn E Ali](https://open.spotify.com/track/30Oz86dnzKaf37MQ5HTHpR) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908), [Salman Ali](https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF), [Vipul Mehta](https://open.spotify.com/artist/1dYfklXi4374JvN7XjNJ2a) | [Jashn E Ali](https://open.spotify.com/album/3wJfkzVGu3LxTU75DV9U8a) | 5:22 | 2022-08-02 | 2023-09-01 |
 | [Javeda Zindag](https://open.spotify.com/track/7KKgE6UHxqhuxkNV2k3AKn) | [Kshitij Tarey](https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Anwar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MTyvN8DogBzkLz8ThUKuc) | 8:22 | 2022-08-02 |  |
+| [Jogi](https://open.spotify.com/track/5pWgQV0bW2vca2jkd2iW29) | [Kashan Admani](https://open.spotify.com/artist/2MNgnCdZlDyxEfoTRQNEGE), [Mizmaar](https://open.spotify.com/artist/20Rxsyc2uoS9oBx8GvqlXB), [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk) | [Jogi](https://open.spotify.com/album/7t3sKvvxqwyuRGho1YoGIS) | 4:54 | 2024-04-11 |  |
 | [Jugni](https://open.spotify.com/track/3EsTe6DYRgr8zzRVaXT5wW) | [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj) | [Jugni](https://open.spotify.com/album/0as9dvFbBejLXfkWayPl4M) | 3:41 | 2022-08-02 |  |
 | [Kabira](https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 3:43 | 2022-10-25 | 2024-03-15 |
 | [Kalaam \- Part 1](https://open.spotify.com/track/6NCfirHVuWhQMmAzOoLzl7) | [Mehak Ali](https://open.spotify.com/artist/6XnTAfn0rCJ6hrABktaOIW) | [Saif Ul Malook](https://open.spotify.com/album/3V05xjwa9iNewopfpIO1sY) | 5:44 | 2023-03-27 | 2023-08-01 |

@@ -1,12 +1,12 @@
 {
   "description": "onde quer conhecer? fala no ouvido do PH",
-  "num_followers": 1374352,
+  "num_followers": 1374959,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzQ2Y2JhMGMyNTMzOTVkYmMzMGY1Yjg5NTQxZGQ4MDQ2YjExZWMx",
+  "snapshot_id": "MTcxMjc2NjA2MiwwMDAwMDAwMDcwNDhiMjkyMTE4NmI3MzFiOWYyN2FjOGMxMTAzM2I2",
   "tracks": [
     {
       "added_at": "2024-04-10 16:21:02",
@@ -18,6 +18,18 @@
         {
           "name": "MC PH",
           "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
         }
       ],
       "duration_ms": 168959,
@@ -555,38 +567,6 @@
     {
       "added_at": "2024-04-10 16:21:02",
       "album": {
-        "name": "O Cara Do Momento",
-        "url": "https://open.spotify.com/album/2GJl4ruFhOBOghvHKVv6wV"
-      },
-      "artists": [
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "Tenho Que Me Decidir",
-      "url": "https://open.spotify.com/track/697gwO5YoSGVAnlfREIZll"
-    },
-    {
-      "added_at": "2024-04-10 16:21:02",
-      "album": {
         "name": "Baile do Bruxo (DELUXE)",
         "url": "https://open.spotify.com/album/0S3pM5Z9LfLBU6IdYFJxiA"
       },
@@ -615,6 +595,38 @@
       "duration_ms": 121384,
       "name": "TUMB\u00c1TUM",
       "url": "https://open.spotify.com/track/24R0oyjvhV4HIFFvoK3XkP"
+    },
+    {
+      "added_at": "2024-04-10 16:21:02",
+      "album": {
+        "name": "O Cara Do Momento",
+        "url": "https://open.spotify.com/album/2GJl4ruFhOBOghvHKVv6wV"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "Tenho Que Me Decidir",
+      "url": "https://open.spotify.com/track/697gwO5YoSGVAnlfREIZll"
     },
     {
       "added_at": "2024-04-10 16:21:02",
@@ -1431,34 +1443,6 @@
     {
       "added_at": "2024-04-10 16:21:02",
       "album": {
-        "name": "O S\u00e1bio",
-        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "Ai Calica",
-      "url": "https://open.spotify.com/track/65CB461aKF5FvIuuzqUgXu"
-    },
-    {
-      "added_at": "2024-04-10 16:21:02",
-      "album": {
         "name": "Fernando de Noronha",
         "url": "https://open.spotify.com/album/1txWGY681VHHA99JdD7LcH"
       },
@@ -1511,6 +1495,34 @@
       "duration_ms": 510697,
       "name": "Fernando de Noronha",
       "url": "https://open.spotify.com/track/1jrBamLozddSX0DOjJTj31"
+    },
+    {
+      "added_at": "2024-04-10 16:21:02",
+      "album": {
+        "name": "O S\u00e1bio",
+        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Ai Calica",
+      "url": "https://open.spotify.com/track/65CB461aKF5FvIuuzqUgXu"
     },
     {
       "added_at": "2024-04-10 16:21:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE?si=wf2AU64KSOmNwXd1SbxUYg"> Casper Sage </a> performing at Fresh Finds, Chicago 2024\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,172 likes - 200 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,257 likes - 200 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 39 | [Amor Imposible](https://open.spotify.com/track/1VdjGvuVv5mM7oJDFXEE1y) | [Eva Ruiz](https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV) | [Amor Imposible](https://open.spotify.com/album/6Koe114O2cY1GcFDXKZYln) | 3:37 |
 | 40 | [Dance](https://open.spotify.com/track/7HTGNXoFTEevhUicLfifR6) | [Troy Javelona](https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho) | [Dance](https://open.spotify.com/album/1nNaV5wkVHaePx7MNRS61i) | 2:37 |
 | 41 | [Scarred for Tryin.](https://open.spotify.com/track/5kC5BdfOeJfIytZy7LEFx3) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Scarred for Tryin.](https://open.spotify.com/album/7AlzfjScA4BEiFXtya6ChF) | 3:07 |
-| 42 | [My Perspective](https://open.spotify.com/track/1tHRn6koxUE5l2Rx2ngfpZ) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Lost Poems](https://open.spotify.com/album/4AHXjbPqu5mc0lVxmN3HcA) | 2:11 |
+| 42 | [My Perspective](https://open.spotify.com/track/59QCLgFxPqAohMf2VQYqRE) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Lost Poems](https://open.spotify.com/album/30D1EvMkhVtgPqVH60RKpL) | 2:11 |
 | 43 | [Down For The Ride](https://open.spotify.com/track/4RKAmiybRcn5h2dgYA26I6) | [Quail P](https://open.spotify.com/artist/6kOrV7zImC5ky0SwYzfqA3) | [Down For The Ride](https://open.spotify.com/album/4EWNwfHRYkPgEaXQ7kTDH2) | 3:22 |
 | 44 | [Pretty Girls](https://open.spotify.com/track/5bYerZJ89RDz0BNNYa4ZO0) | [Daisha McBride](https://open.spotify.com/artist/3gTb0Vm6wFbRFVTAhDTgId) | [Pretty Girls](https://open.spotify.com/album/14bKgUedkzlpBCN1m40Yop) | 2:11 |
 | 45 | [Teenage Kinda Love](https://open.spotify.com/track/4gXjYIj0CNWCrzjUeHS3k3) | [Olivia Nelson](https://open.spotify.com/artist/4QJrAwNc5j17E5N2PxpqGj) | [Wings](https://open.spotify.com/album/4yvBDAt1TOrdW0gPYgZJ3T) | 3:42 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 199 | [Put It Down](https://open.spotify.com/track/62eaGs2P7yf3R5z14KIcNl) | [Adanna Duru](https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90), [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Put It Down](https://open.spotify.com/album/7ig0qv5ZtpaX7NPAe4nok0) | 2:45 |
 | 200 | [Dopamine](https://open.spotify.com/track/3ynnGOYFsSPb0aUmWYZ6T3) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC), [Subculture](https://open.spotify.com/artist/45CiOVzqS9wkh8pX59IOfx) | [Dopamine](https://open.spotify.com/album/37UvvLpEtCEfHZTRVK2KEn) | 3:00 |
 
-Snapshot ID: `MCxmZDkyZTk1YzEyM2E5NjViYjAwMDdhZjVmMDI4MTZmZDc5Y2EyNjI1`
+Snapshot ID: `MTcxMjc2NDgwMCwwMDAwMDAwMDNhYTNmZDA1NGIxMGExNjJhZGEzYzk4ZGQ1MmY1OTZi`

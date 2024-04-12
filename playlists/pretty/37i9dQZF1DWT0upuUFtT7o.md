@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Slow Pulp performing at Fresh Finds Chicago March, 2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,483 likes - 103 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,541 likes - 103 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 102 | [Inaka](https://open.spotify.com/track/0DRjfY5KFcuD53IcGvfawC) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Inaka](https://open.spotify.com/album/5ybEeQKYsEErgNZnxPqn4B) | 3:05 |
 | 103 | [The Brown Eyed Driver](https://open.spotify.com/track/0QQgM0bkR3myEAEE7QNOaS) | [Flora Rose](https://open.spotify.com/artist/7FA3u2tBhml3eXiOSbNwVL) | [Synthetic Flowers For A Romantic Comedy](https://open.spotify.com/album/2oGnqDKo3Z6gtTphnvAr0A) | 4:39 |
 
-Snapshot ID: `MCwyMzdmMDgwYmRkMTc1ODdhODU1NTczMzM4MTE1ZGQwNmJjOTdiY2Mx`
+Snapshot ID: `MTcxMjc4NjUxNSwwMDAwMDAwMDJmY2Y4NDIyNzBkM2U0MzQ3N2RkYTEzZDYyOGFiM2Q1`

@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 223448,
+  "num_followers": 223546,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDk4M2VkZjk3NGEwYTAyYTViN2ZiMTliMDAxMGNlNDk0MjdmZTA3",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDk1MGMxYWNmYzE0ZDE3NTc5ZmI1Y2Q5ZDRmY2ZjY2Zj",
   "tracks": [
     {
       "added_at": null,
@@ -80,9 +80,9 @@
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 124455,
-      "name": "A Dona Aranha",
-      "url": "https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A"
+      "duration_ms": 76248,
+      "name": "Campo De Morango",
+      "url": "https://open.spotify.com/track/2exu569k07hUulN9CoPnMH"
     },
     {
       "added_at": null,
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 76248,
-      "name": "Campo De Morango",
-      "url": "https://open.spotify.com/track/2exu569k07hUulN9CoPnMH"
+      "duration_ms": 124455,
+      "name": "A Dona Aranha",
+      "url": "https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A"
     },
     {
       "added_at": null,
@@ -363,18 +363,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CACHORRINHAS",
-        "url": "https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6"
+        "name": "Virado No Pagode (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3xpPbpWSWlfwfrud3JIWeE"
       },
       "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 134936,
-      "name": "CACHORRINHAS",
-      "url": "https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion"
+      "duration_ms": 180755,
+      "name": "Mem\u00f3rias - Ao Vivo",
+      "url": "https://open.spotify.com/track/3yxcCxwMAeFWelpMKHZQab"
     },
     {
       "added_at": null,
@@ -403,22 +407,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHAMA MEU NOME",
-        "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
+        "name": "CACHORRINHAS",
+        "url": "https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6"
       },
       "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 135111,
-      "name": "ATEN\u00c7\u00c3O",
-      "url": "https://open.spotify.com/track/4mBto7hyeS6yHhx8lIkn4l"
+      "duration_ms": 134936,
+      "name": "CACHORRINHAS",
+      "url": "https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion"
     },
     {
       "added_at": null,
@@ -439,22 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Virado No Pagode (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3xpPbpWSWlfwfrud3JIWeE"
+        "name": "CHAMA MEU NOME",
+        "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
       },
       "artists": [
         {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
         },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 180755,
-      "name": "Mem\u00f3rias - Ao Vivo",
-      "url": "https://open.spotify.com/track/3yxcCxwMAeFWelpMKHZQab"
+      "duration_ms": 135111,
+      "name": "ATEN\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/4mBto7hyeS6yHhx8lIkn4l"
     },
     {
       "added_at": null,

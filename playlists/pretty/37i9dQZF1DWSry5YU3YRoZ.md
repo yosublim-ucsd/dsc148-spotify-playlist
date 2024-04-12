@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,954 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,960 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,17 +35,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 25 | [Willow Tree](https://open.spotify.com/track/0qS4pPDUt33BOb276wUT0H) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Willow Tree](https://open.spotify.com/album/3Yf5uL1IDlFL4Fghq5ypIV) | 4:39 |
 | 26 | [Letter](https://open.spotify.com/track/79OAaveywANnqqwzmBKo6f) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Letter](https://open.spotify.com/album/352elMfFQTnoMOPYZxIuec) | 4:06 |
 | 27 | [Moon](https://open.spotify.com/track/3wQl1WeJe9dINbvvfexZhr) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [We need to meet now](https://open.spotify.com/album/6rQL9qDD47aKHZN392iww7) | 3:49 |
-| 28 | [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 |
-| 29 | [For A Long Time \(with Jung Yubin\)](https://open.spotify.com/track/7wUq7l86ffQyMt1zs06338) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jeong Yubin](https://open.spotify.com/artist/3hTlITCaMAJYlwQpcUv1hl) | [The End Of The Summer](https://open.spotify.com/album/3JEw0H8fWbGDGmgX0ddPpC) | 4:03 |
-| 30 | [dear heart](https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:06 |
+| 28 | [For A Long Time \(with Jung Yubin\)](https://open.spotify.com/track/7wUq7l86ffQyMt1zs06338) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jeong Yubin](https://open.spotify.com/artist/3hTlITCaMAJYlwQpcUv1hl) | [The End Of The Summer](https://open.spotify.com/album/3JEw0H8fWbGDGmgX0ddPpC) | 4:03 |
+| 29 | [dear heart](https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:06 |
+| 30 | [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 |
 | 31 | [Remind of You](https://open.spotify.com/track/3XP4CrI6jHlo2ZJ9Jpn4EX) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw) | 4:03 |
 | 32 | [I can't sleep](https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [I can't sleep](https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ) | 3:22 |
 | 33 | [In Other Words](https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 2:35 |
 | 34 | [Fine](https://open.spotify.com/track/4YNh8dtLsWVykAv0i2BG01) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Fine](https://open.spotify.com/album/15aHvAj26u3yUPTPJHr8AL) | 4:11 |
-| 35 | [But I'm Trying To Tell You How Much I Love You \(with Moonbit\)](https://open.spotify.com/track/3k8zcUpzJjDrJ5RC297q1w) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Moonbit](https://open.spotify.com/artist/5rwDc7dGKrtZg9TN1vsSPx) | [Remember](https://open.spotify.com/album/0TYEpVePmN48ssaj40OrMy) | 4:13 |
-| 36 | [여름밤](https://open.spotify.com/track/3D2XzN5RUtogeIw7f9fTCS) | [Herz Analog](https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw) | [어서오세요 여름밤](https://open.spotify.com/album/0GB6OFRgrSKlAXu8GcUbQx) | 4:19 |
-| 37 | [Answer \(stripped\)](https://open.spotify.com/track/5IpxJA8Wz0lX58IP7pyVhI) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Answer \(stripped\)](https://open.spotify.com/album/7Cz6lmKK3rCibiIYLDHeke) | 3:02 |
-| 38 | [Youth](https://open.spotify.com/track/7pdrLAo29KaqUTO3iD1O4z) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [youth](https://open.spotify.com/album/2qyRTNUHodWjs2FrP7tAYv) | 3:36 |
+| 35 | [여름밤](https://open.spotify.com/track/3D2XzN5RUtogeIw7f9fTCS) | [Herz Analog](https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw) | [어서오세요 여름밤](https://open.spotify.com/album/0GB6OFRgrSKlAXu8GcUbQx) | 4:19 |
+| 36 | [Answer \(stripped\)](https://open.spotify.com/track/5IpxJA8Wz0lX58IP7pyVhI) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Answer \(stripped\)](https://open.spotify.com/album/7Cz6lmKK3rCibiIYLDHeke) | 3:02 |
+| 37 | [Youth](https://open.spotify.com/track/7pdrLAo29KaqUTO3iD1O4z) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [youth](https://open.spotify.com/album/2qyRTNUHodWjs2FrP7tAYv) | 3:36 |
+| 38 | [But I'm Trying To Tell You How Much I Love You \(with Moonbit\)](https://open.spotify.com/track/3k8zcUpzJjDrJ5RC297q1w) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Moonbit](https://open.spotify.com/artist/5rwDc7dGKrtZg9TN1vsSPx) | [Remember](https://open.spotify.com/album/0TYEpVePmN48ssaj40OrMy) | 4:13 |
 | 39 | [Snowman](https://open.spotify.com/track/01niXSdE51tZcNUrpGEqjn) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Lonely night](https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA) | 5:25 |
 | 40 | [Glass](https://open.spotify.com/track/45xFvznhVt4u8RzHMhC8hc) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Glass](https://open.spotify.com/album/4Ek9ovRZi20qAA9Y3M6BAn) | 4:15 |
 | 41 | [Going home](https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 49 | [Hello](https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [My Beautiful Apartment \(O'PENing\) \(Original Soundtrack\)](https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms) | 3:48 |
 | 50 | [Call me now](https://open.spotify.com/track/7AfXFqHlw1HVRPobCInpsU) | [JI JIN SEOK](https://open.spotify.com/artist/5iwc2ZJnuU9g4F6JaAY6Zw) | [Call me now](https://open.spotify.com/album/31a95WflUiSabbWq0RAchF) | 3:53 |
 
-Snapshot ID: `MCwyYWU4YzM0ZGI0YzNhNjBkMTZjYjIzMzQ3OWZjMzQ2NzJlMTNkZTkx`
+Snapshot ID: `MTcwOTg4MDE1MCwwMDAwMDAwMDViY2NkM2RiZDc2MjhhM2I0MmZiZGM4MTZkOGIxY2Zm`

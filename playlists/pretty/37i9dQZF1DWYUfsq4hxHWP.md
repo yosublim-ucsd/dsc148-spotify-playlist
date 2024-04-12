@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Walker County, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,674 likes - 115 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,722 likes - 115 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 114 | [What I Can't Have](https://open.spotify.com/track/0ctWMHPJPAUAXh9nyjzuuB) | [Lexi Mackenzie](https://open.spotify.com/artist/0Vsev91scckkL4YLt0iGXn) | [What I Can't Have](https://open.spotify.com/album/7xiyRWtGjG9BQCNrE2pwbd) | 3:29 |
 | 115 | [Hate This](https://open.spotify.com/track/4Qn7rSZvWOHy0erNMuWTDg) | [Zac Hart](https://open.spotify.com/artist/5IMlHwNBRTSplBWaMMPuYb) | [Hate This](https://open.spotify.com/album/6QZZqvaAynbSUAgqumnqdc) | 3:12 |
 
-Snapshot ID: `MCwxZDU0YTgwZDdkYTYzOTRkMmI0ZDUzMzY2ZWViNGQ0Y2Y0MjdiYzYx`
+Snapshot ID: `MTcxMjc2NTIxOCwwMDAwMDAwMGQyN2E2MjI4YjVmZTBmZWIxZTI5NjIyMWI2M2UzY2Q0`

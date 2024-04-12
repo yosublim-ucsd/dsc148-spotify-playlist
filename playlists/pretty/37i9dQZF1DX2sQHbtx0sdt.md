@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 ### [Global Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DX2sQHbtx0sdt)
 
-> New and trending hip\-hop from around the world\. Cover: j\-hope
+> New and trending hip\-hop from around the world\. Cover: Jul
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,177 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,428 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 99 | [Freedom Of Speech](https://open.spotify.com/track/3WZefKhtpq0ZZABbBLYA4n) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Freedom Of Speech](https://open.spotify.com/album/2wmsAKoZTwxdjzJgLNKji8) | 2:49 |
 | 100 | [Saga](https://open.spotify.com/track/0Cnw4vb7xbbl6bkUaDcMaJ) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [AD VITAM ÆTERNAM](https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM) | 3:14 |
 
-Snapshot ID: `MCw5YzRkYWE1OWMxZTYwMDAxYmE0ODBkM2U2ZjM0ODI2ODkyNDMzMTgz`
+Snapshot ID: `MTcxMjI4OTYwMCwwMDAwMDAwMDY0ZmQwOGZjMzExNzZlNzkwMjlhMTc0MjI3YjkzYzEw`

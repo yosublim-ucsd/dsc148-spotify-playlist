@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 715050,
+  "num_followers": 715155,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGM2ZGEzMGI4YWY4ZWY0N2UyNWYzOThmZTc0OWVjMTgyNWUxZGM4",
+  "snapshot_id": "MTcxMjc3NjY0NCwwMDAwMDAwMDU1M2EyYzZmYTU3NjYwMzQxMmM0MGIwY2FmMDUzOTQx",
   "tracks": [
     {
       "added_at": "2024-04-10 19:17:24",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "How Long Do I Have to Wait for You?",
-      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "Love Survive",
         "url": "https://open.spotify.com/album/2xdoZZGPjIn7atH79XSSvS"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 168345,
       "name": "Love Survive",
       "url": "https://open.spotify.com/track/50Hylr3XgpE10oDIahc6Cm"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "How Long Do I Have to Wait for You?",
+      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "From 2 to 3",
         "url": "https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 257006,
       "name": "Give Up Baby Go",
       "url": "https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 219727,
-      "name": "The Smoke",
-      "url": "https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "11",
         "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 297717,
       "name": "Fight for Love",
       "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 219727,
+      "name": "The Smoke",
+      "url": "https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -915,18 +915,18 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Coney Island Baby",
-        "url": "https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx"
+        "name": "Juno",
+        "url": "https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR"
       },
       "artists": [
         {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 159093,
-      "name": "Charley's Girl",
-      "url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
+      "duration_ms": 171897,
+      "name": "Anthony Kiedis",
+      "url": "https://open.spotify.com/track/3xJu5hrOU9OvFQSGLQiwQS"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Juno",
-        "url": "https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR"
+        "name": "Coney Island Baby",
+        "url": "https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx"
       },
       "artists": [
         {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
         }
       ],
-      "duration_ms": 171897,
-      "name": "Anthony Kiedis",
-      "url": "https://open.spotify.com/track/3xJu5hrOU9OvFQSGLQiwQS"
+      "duration_ms": 159093,
+      "name": "Charley's Girl",
+      "url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
+        "name": "The Dandelion",
+        "url": "https://open.spotify.com/album/3fk6hBtA6FfDK79t0oWmqG"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 219884,
+      "name": "The Dandelion",
+      "url": "https://open.spotify.com/track/37nRhMFqggMLfWOpTL2vgZ"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
         "name": "Time Machine (feat. Thundercat & James Fauntleroy)",
         "url": "https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 251546,
       "name": "Time Machine (feat. Thundercat & James Fauntleroy)",
       "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
-        "name": "The Dandelion",
-        "url": "https://open.spotify.com/album/3fk6hBtA6FfDK79t0oWmqG"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 219884,
-      "name": "The Dandelion",
-      "url": "https://open.spotify.com/track/37nRhMFqggMLfWOpTL2vgZ"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 171756,
-      "name": "Sunny Afternoon",
-      "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "Wiggle Room",
         "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 147893,
       "name": "Handsome",
       "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 171756,
+      "name": "Sunny Afternoon",
+      "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Bar Mediterraneo",
-        "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 200135,
-      "name": "Praja Magia",
-      "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "The Party",
         "url": "https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 169466,
       "name": "The Party",
       "url": "https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "Bar Mediterraneo",
+        "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 200135,
+      "name": "Praja Magia",
+      "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Mine Forever",
-        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 288283,
-      "name": "Mine Forever",
-      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "Loving In Stereo",
         "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 245471,
       "name": "Feed The Fire (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/0XDA8IPloCFvf8c0ZNzRnB"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "Mine Forever",
+        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 288283,
+      "name": "Mine Forever",
+      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/4AZ9Eylw7Z7EsapL8inBsZ"
-      },
-      "artists": [
-        {
-          "name": "Neal Francis",
-          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
-        }
-      ],
-      "duration_ms": 390200,
-      "name": "Changes, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/3N1D6ofDVT7i2B9oR6aKAQ"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "You Don't Want Me",
         "url": "https://open.spotify.com/album/7yHaXgmBkt2dWA6LC6pY2e"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 265546,
       "name": "You Don\u2019t Want Me",
       "url": "https://open.spotify.com/track/6wzlFp6Xi5fo3iKZsBFI6V"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4AZ9Eylw7Z7EsapL8inBsZ"
+      },
+      "artists": [
+        {
+          "name": "Neal Francis",
+          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
+        }
+      ],
+      "duration_ms": 390200,
+      "name": "Changes, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/3N1D6ofDVT7i2B9oR6aKAQ"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
+        "name": "Base Camp",
+        "url": "https://open.spotify.com/album/1loJf0FyJdDjEFJOXogibf"
+      },
+      "artists": [
+        {
+          "name": "Hockey Dad",
+          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
+        }
+      ],
+      "duration_ms": 205107,
+      "name": "Base Camp",
+      "url": "https://open.spotify.com/track/2Dtl1PPjYLqySfkGBJKS0I"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
         "name": "Didn't I",
         "url": "https://open.spotify.com/album/1U6CE7Xb5wwTQGA6BtUHYJ"
       },
@@ -1735,18 +1751,18 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Base Camp",
-        "url": "https://open.spotify.com/album/1loJf0FyJdDjEFJOXogibf"
+        "name": "The Emitt Rhodes Recordings (1969-1973)",
+        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
       },
       "artists": [
         {
-          "name": "Hockey Dad",
-          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
+          "name": "Emitt Rhodes",
+          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
         }
       ],
-      "duration_ms": 205107,
-      "name": "Base Camp",
-      "url": "https://open.spotify.com/track/2Dtl1PPjYLqySfkGBJKS0I"
+      "duration_ms": 146680,
+      "name": "Somebody Made For Me",
+      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1771,18 +1787,18 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "The Emitt Rhodes Recordings (1969-1973)",
-        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
+        "name": "Autoflower",
+        "url": "https://open.spotify.com/album/2qqhR0nwfpeIM5TX4h3bAJ"
       },
       "artists": [
         {
-          "name": "Emitt Rhodes",
-          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
+          "name": "Jesse Woods",
+          "url": "https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei"
         }
       ],
-      "duration_ms": 146680,
-      "name": "Somebody Made For Me",
-      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
+      "duration_ms": 184983,
+      "name": "Smoke Machine",
+      "url": "https://open.spotify.com/track/0YwaIqzVJcWsFHqT7oaiVq"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1819,38 +1835,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Try and Love",
-        "url": "https://open.spotify.com/album/27xu9zZKCUm7mCoZlMkQpC"
-      },
-      "artists": [
-        {
-          "name": "Ofege",
-          "url": "https://open.spotify.com/artist/05LK9pT8ScfWNT0UbDsyqe"
-        }
-      ],
-      "duration_ms": 263338,
-      "name": "It's Not Easy",
-      "url": "https://open.spotify.com/track/1AJpZtYHY7MD21Tkcg9wlE"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
-        "name": "Autoflower",
-        "url": "https://open.spotify.com/album/2qqhR0nwfpeIM5TX4h3bAJ"
-      },
-      "artists": [
-        {
-          "name": "Jesse Woods",
-          "url": "https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei"
-        }
-      ],
-      "duration_ms": 184983,
-      "name": "Smoke Machine",
-      "url": "https://open.spotify.com/track/0YwaIqzVJcWsFHqT7oaiVq"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "Sticking With It",
         "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 205053,
       "name": "When You Lose Someone",
       "url": "https://open.spotify.com/track/42cVZAhX13JCHwrvlfqLcB"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "Try and Love",
+        "url": "https://open.spotify.com/album/27xu9zZKCUm7mCoZlMkQpC"
+      },
+      "artists": [
+        {
+          "name": "Ofege",
+          "url": "https://open.spotify.com/artist/05LK9pT8ScfWNT0UbDsyqe"
+        }
+      ],
+      "duration_ms": 263338,
+      "name": "It's Not Easy",
+      "url": "https://open.spotify.com/track/1AJpZtYHY7MD21Tkcg9wlE"
     },
     {
       "added_at": "2024-04-10 19:17:24",

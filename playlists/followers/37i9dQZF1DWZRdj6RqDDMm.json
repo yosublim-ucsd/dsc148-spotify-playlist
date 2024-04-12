@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 13779,
+  "2024-04-12": 13875,
   "date_first_scraped": "2023-10-20",
   "description": "Just wanna Praise the Lord and chill. Here is a perfect one! Cover: <a href=\"https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9?si=5o83aVOURSKr1KHKQczERA\">Marizu</a> ",
   "name": "Praise and Chill",
@@ -2953,7 +2953,7 @@
     {
       "album": {
         "name": "Man Of Galilee",
-        "url": "https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08"
+        "url": "https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv"
       },
       "artists": [
         {
@@ -2964,6 +2964,24 @@
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 257644,
+      "name": "Omemma",
+      "url": "https://open.spotify.com/track/4YfOEXttugon5YXM3TjJGz"
+    },
+    {
+      "album": {
+        "name": "Man Of Galilee",
+        "url": "https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-11",
       "duration_ms": 257645,
       "name": "Omemma",
       "url": "https://open.spotify.com/track/3t2o1njvVXz9IojLD1FTqk"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : The Family Star
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,510 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,572 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 15 | [Sittharala Sithravathi](https://open.spotify.com/track/41fwiD8lWd33niYg3yQ14D) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Aadikeshava](https://open.spotify.com/album/4LXMolmh5RAfzyjqZ2tnxZ) | 3:36 |
 | 16 | [Premisthunna](https://open.spotify.com/track/7AsXXnob7TO0xfVkjXM88Q) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [P V N S Rohit](https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ) | [Baby \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0lrHO7L4mG98S3MyERWPUs) | 6:35 |
 | 17 | [Neelaa Nannilaa](https://open.spotify.com/track/4Tp8Sl7Bul4D40vAlDvx0C) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [7:11 PM](https://open.spotify.com/album/3XgIwL4L4wOU7vSeOJqU5q) | 3:48 |
-| 18 | [Teliyadhe](https://open.spotify.com/track/62lPzNTDBg3dazXOoBm72W) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [Lipsika](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Teliyadhe](https://open.spotify.com/album/5EpiiTu3WevKoIxq3brNyt) | 4:01 |
+| 18 | [Teliyadhe](https://open.spotify.com/track/62lPzNTDBg3dazXOoBm72W) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [Lipsika Bhashyam](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Teliyadhe](https://open.spotify.com/album/5EpiiTu3WevKoIxq3brNyt) | 4:01 |
 | 19 | [Danger Pilla](https://open.spotify.com/track/4kouboIMeUzyGc1jXbUxet) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Extra \- Ordinary Man](https://open.spotify.com/album/6cjnJoGXjx3ITSuqug5xbo) | 4:26 |
 | 20 | [Gallanthe \(From "Eagle"\)](https://open.spotify.com/track/7vfbmFFmduAa4f76UxmuVx) | [Davzand](https://open.spotify.com/artist/3SWOUbJG2wbgiEagRRrwS8), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Lynn](https://open.spotify.com/artist/5eQIvJs6k9dDFErNq3Rk6d) | [Gallanthe \(From "Eagle"\)](https://open.spotify.com/album/1k0tFggyuWZwCMW51X6TCP) | 3:37 |
 | 21 | [Yedo Yedo Maaya \(From "Bhimaa"\)](https://open.spotify.com/track/2LVsSLBBcf75ORYtRcYIO9) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Kalyan Chakravarthy](https://open.spotify.com/artist/4SunIIZcXlrd6CdimZc7PO) | [Yedo Yedo Maaya \(From "Bhimaa"\)](https://open.spotify.com/album/4J1h8xIARJ6El2OREJ8hnI) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Paravasame Paravasame \(From "Narayana & Co"\)](https://open.spotify.com/track/2pRvXeJbRMgNAOVPAYTEVW) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [K\. Pranati](https://open.spotify.com/artist/61FZ2SvbuC5wJcoEWxYwOP), [Dr\. Josyabhatla](https://open.spotify.com/artist/3Td73fmcg2F9mAWwDMhwHL), [Purnachary](https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j) | [Paravasame Paravasame \(From "Narayana & Co"\)](https://open.spotify.com/album/3UFK8TuPlUxp7km8PMPDOZ) | 4:18 |
 | 50 | [Kalaya Nijama](https://open.spotify.com/track/449KstCGC8xXHe8M0MFheQ) | [Mohith Rahmanic](https://open.spotify.com/artist/2yDSpzLmRIgYdUDSmMK1X9), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Lakshmi Priyanka](https://open.spotify.com/artist/2K08CRxFYB4vypKb79x62A) | [Calling Sahasra](https://open.spotify.com/album/7z8mz9k3KufJtJ7Iep32je) | 3:40 |
 
-Snapshot ID: `MCwxN2M0MjA3N2IxM2M5NjE4MDUwMzZmZTE1NzdmYWI4YjUyNDllYzZm`
+Snapshot ID: `MTcxMjc0Mjk4NSwwMDAwMDAwMGNmZmY3M2FlMWY4MTQ2MTBlNDIxMzI1MDg0N2Y0M2Fi`

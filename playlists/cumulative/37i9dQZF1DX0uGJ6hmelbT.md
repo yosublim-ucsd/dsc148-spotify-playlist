@@ -4,7 +4,7 @@
 
 > ¡Cantos y Rondas de todos los tiempos para jugar y aprender!
 
-51 songs - 2 hr 5 min
+52 songs - 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [El Muñeco Pinpon](https://open.spotify.com/track/4E3M4FHoGjIg094PtxasLJ) | [Las Gatitas](https://open.spotify.com/artist/1oaOuEY1r5gNPPq1G9Y9eC) | [Canti Rondas, Vol\. 1](https://open.spotify.com/album/3QymSZnB3YLCsJyfHyjOCO) | 2:30 | 2023-08-18 |  |
 | [El Negro Cirilo](https://open.spotify.com/track/46oiutlf7AtZJWJLqgAzbA) | [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j) | [Los 60 Mejores Canticuentos](https://open.spotify.com/album/5LJmTVV1oWC0Qj6WJINbPg) | 1:32 | 2023-08-18 |  |
 | [El Pájaro Carpintero](https://open.spotify.com/track/5kYlUJMSJCcbIhvDsvbvrk) | [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j) | [Sólo Clásicos: Canticuentos](https://open.spotify.com/album/6frr94M5Hp6UHuMiuu2JV1) | 1:01 | 2023-08-18 |  |
-| [El Pájaro Carpintero](https://open.spotify.com/track/7kvWyWbPnXHycGDu3dhfAU) | [Voz de Bacatá](https://open.spotify.com/artist/446JUD56IIYttvkSlkKsQS), [Chongotronik](https://open.spotify.com/artist/4xd38grJxR0nKKcTiCDp35) | [El Pájaro Carpintero](https://open.spotify.com/album/5nJ1tmyz1dDfMNJDmn3wxY) | 2:50 | 2023-08-18 |  |
+| [El Pájaro Carpintero](https://open.spotify.com/track/6rC5JD15Mzm9nmNmgM6Jkt) | [Toy Cantando](https://open.spotify.com/artist/1OXm1s4r7Ow6XgyNMWm0ZW) | [Las Mejores Rondas y Canciones, Vol\. 2](https://open.spotify.com/album/4KZgpOTL2eTO82xeRpZinF) | 1:01 | 2024-04-11 |  |
+| [El Pájaro Carpintero](https://open.spotify.com/track/7kvWyWbPnXHycGDu3dhfAU) | [Voz de Bacatá](https://open.spotify.com/artist/446JUD56IIYttvkSlkKsQS), [Chongotronik](https://open.spotify.com/artist/4xd38grJxR0nKKcTiCDp35) | [El Pájaro Carpintero](https://open.spotify.com/album/5nJ1tmyz1dDfMNJDmn3wxY) | 2:50 | 2023-08-18 | 2024-04-12 |
 | [El Tesoro del Saber](https://open.spotify.com/track/1auDBnnDKtVCK1yBMehaKC) | [Burbujas](https://open.spotify.com/artist/4MKR85lfCJx9GMLpXtFaVB) | [El Tesoro del Saber](https://open.spotify.com/album/1rbudYwYrbXZ10ymoCtRr5) | 2:25 | 2023-08-18 |  |
 | [El Trencito Cañero](https://open.spotify.com/track/4dgR2NBlMs7XTEOVfFTlGK) | [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j) | [Los 60 Mejores Canticuentos](https://open.spotify.com/album/5LJmTVV1oWC0Qj6WJINbPg) | 1:37 | 2023-08-18 |  |
 | [Gallina Pintadita 1](https://open.spotify.com/track/2fjR0taKS0WePPbAn0arBB) | [Gallina Pintadita](https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq) | [Gallina Pintadita, Vol\. 1](https://open.spotify.com/album/2NOcRovINlE1ysJKFUyYXH) | 1:49 | 2023-08-18 |  |

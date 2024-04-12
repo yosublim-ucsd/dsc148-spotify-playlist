@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Gesaffelstein
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 104,713 likes - 158 songs - 8 hr 2 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 104,709 likes - 158 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 37 | [Dive \- Deluxe Mix](https://open.spotify.com/track/4iEQWcpAprfwVL0MIfWWHj) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Dive \(Deluxe Mix\)](https://open.spotify.com/album/69jsitNk82CHx1eriu1EGk) | 4:20 |
 | 38 | [Lovely Day \- Austin Millz Remix](https://open.spotify.com/track/3BLqGwshCSzSLNZ2N9mGvy) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Lovely Day \(Austin Millz Remix\)](https://open.spotify.com/album/5Unm1ObgyJx8TvjrqjWqp1) | 2:45 |
 | 39 | [How Do I Say Goodbye \(feat\. Delaney Jane\)](https://open.spotify.com/track/7EdBkc2HvH9gIlBDtiYmY1) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [How Do I Say Goodbye \(feat\. Delaney Jane\)](https://open.spotify.com/album/2BP6zvUEaHNqxyTCSUGXPZ) | 2:49 |
-| 40 | [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [Yan Wagner](https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 |
+| 40 | [Hard Dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [Yan Wagner](https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc) | [Hard Dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 |
 | 41 | [Summertime Friends \- Winter Version](https://open.spotify.com/track/4jUs1XueEiMLw0mcOQUsfv) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Live From Drew's Rental House](https://open.spotify.com/album/0EVqTCpXvcgQmvzwY14BJV) | 3:37 |
 | 42 | [With You](https://open.spotify.com/track/79uf4T9oqDNjPKd8eCKtha) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [With You](https://open.spotify.com/album/2eFptiwMZ9ecBP0EQ2A0xN) | 5:29 |
 | 43 | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0) | 2:31 |

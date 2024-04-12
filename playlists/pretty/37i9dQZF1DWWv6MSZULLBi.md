@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Jessica Pratt
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,015 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,017 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 16 | [resin](https://open.spotify.com/track/08FmfHI5l6j1twiKbPswZV) | [poolblood](https://open.spotify.com/artist/6TaXt2ECGxZ0MteLXaYsYs) | [there's\_plenty\_of\_music\_to\_go\_around.zip](https://open.spotify.com/album/0SJOVHz3PGbzZoYAHsVmKA) | 4:08 |
 | 17 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 |
 | 18 | [Crimes of the Heart](https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:04 |
-| 19 | [Imaan](https://open.spotify.com/track/1ydE5C1KehuCQI8EM3qXrQ) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Imaan](https://open.spotify.com/album/671HQwwWo7sivjgFb4Qf1P) | 3:34 |
+| 19 | [Imaan](https://open.spotify.com/track/5xvYNmS5yLJr5Z18P25DYR) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Imaan](https://open.spotify.com/album/4365MmEKX6ImuvRiWtqagj) | 3:34 |
 | 20 | [Smoke On the Highway](https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 4:13 |
 | 21 | [Kickin'](https://open.spotify.com/track/0QYtTLeHPRBBBljChyZ1IG) | [Devarrow](https://open.spotify.com/artist/6MrZj6wqVagXe1UQ8AYWgZ) | [Kickin' / In Time](https://open.spotify.com/album/7GpPn6g8ehm8jJA0FFXD5K) | 2:40 |
 | 22 | [someday i'll get it](https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY) | [Alek Olsen](https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8) | [someday i'll get it](https://open.spotify.com/album/2YXww1viuuKZPi458rdopk) | 1:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Sometimes the Darts Hit the Wall](https://open.spotify.com/track/2NOIMtgcRNmQ2n93ZbyukF) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936) | [Nothing Lasts Forever \(B\-Sides\)](https://open.spotify.com/album/3RtPgB29r2QpPfK5L6H00j) | 3:43 |
 | 100 | [What You Don’t Know](https://open.spotify.com/track/6tp9ZObhuYqZb1lNPyMXxf) | [Martin Kerr](https://open.spotify.com/artist/3Qg69CFtPUh3Uu14OfjV2t) | [What You Don't Know](https://open.spotify.com/album/1fKYAXIj2jDoT5amgBVbSc) | 2:59 |
 
-Snapshot ID: `MCw4ZDQxNmNjZWMxMGNiN2E0Mzg4NTlhY2MwYTI5NzJlYWZkMzllZTM1`
+Snapshot ID: `MTcxMjI4OTYwMCwwMDAwMDAwMGZlMWYxNzZiYTc5YjhhMWE0MTVhNThhMjAzYjQwMGRi`

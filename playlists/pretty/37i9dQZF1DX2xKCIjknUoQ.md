@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 ### [Génération Rock Français](https://open.spotify.com/playlist/37i9dQZF1DX2xKCIjknUoQ)
 
-> Le meilleur du rock français moderne\. Photo : Saez
+> Le meilleur du rock français moderne\. Photo : Skip The Use
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,874 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,908 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 49 | [1000 Moi\-même](https://open.spotify.com/track/78FoiGR1ca78sN0KeQvYvq) | [Deportivo](https://open.spotify.com/artist/7k8b9tyD9a0WEoPgidHrGK) | [Parmi Eux](https://open.spotify.com/album/4hTfu8ttvLuVzVaJ41EU4a) | 2:10 |
 | 50 | [Révolution.com](https://open.spotify.com/track/7ciDK4wg2Lmk7KaoWWYtgg) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Revolution.com](https://open.spotify.com/album/2ARdTJwLcGdw0GGhbeEfSo) | 3:27 |
 
-Snapshot ID: `MCxlZjE5YjBiZTU2OTEyZTRmYjI4MzlhZDg3MjM1NGEwZjg4MDQ4ZDY1`
+Snapshot ID: `MTY4NjkxOTI4MywwMDAwMDAwMDM5YmUzYWE3YzRiNTY3OGM3OWY2NTc5ZmZjMjgxNzg2`

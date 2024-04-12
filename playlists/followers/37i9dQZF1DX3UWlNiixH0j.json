@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 57332,
+  "2024-04-12": 57359,
   "date_first_scraped": "2023-01-14",
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: Bialystocks",
   "name": "Edge!",
@@ -2586,6 +2586,24 @@
     },
     {
       "album": {
+        "name": "Chikagoro",
+        "url": "https://open.spotify.com/album/5K5ldJPDAH5WBvU0WT7YNL"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234960,
+      "name": "Chikagoro",
+      "url": "https://open.spotify.com/track/4i3K5TI8ue5mQYFZtfVpra"
+    },
+    {
+      "album": {
         "name": "Cho-chocolate drip",
         "url": "https://open.spotify.com/album/3wDDXAgLY3IGNdHsX3imyf"
       },
@@ -3805,7 +3823,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 185370,
       "name": "Don't Look Back",
       "url": "https://open.spotify.com/track/1W6FrZS2Nr4nc2tJSr6OPm"
@@ -11263,10 +11281,28 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 172500,
       "name": "OG",
       "url": "https://open.spotify.com/track/2YAqgdWL0JSLI1csapgpIv"
+    },
+    {
+      "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/68dcRmA0w3EAOfOFq4o1gc"
+      },
+      "artists": [
+        {
+          "name": "valknee",
+          "url": "https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "OG",
+      "url": "https://open.spotify.com/track/3pM2rYEjk9z4qf4T1MBYQo"
     },
     {
       "album": {
@@ -11723,10 +11759,28 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 255766,
       "name": "part of me",
       "url": "https://open.spotify.com/track/1Rp8QaHE30XqaAnuimS09w"
+    },
+    {
+      "album": {
+        "name": "Part Of Me",
+        "url": "https://open.spotify.com/album/1TwaTtF6vBmj7sdLDwXWUa"
+      },
+      "artists": [
+        {
+          "name": "Pablo Haiku",
+          "url": "https://open.spotify.com/artist/6bjUYczHixvynXydjXfDMt"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255766,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/5zkac38WTi8DMyCHrj8ihy"
     },
     {
       "album": {
@@ -14627,7 +14681,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 196135,
       "name": "Stayaway",
       "url": "https://open.spotify.com/track/2pwIqT1szJknFgSe4v9Mlv"
@@ -14775,10 +14829,28 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 133233,
       "name": "SUGAR_HIGH_",
       "url": "https://open.spotify.com/track/1VXjsNUjtvEsjUNnkKqYQY"
+    },
+    {
+      "album": {
+        "name": "SUGAR_HIGH",
+        "url": "https://open.spotify.com/album/7o7g9oQ2iYPE5x2ZXdnQCt"
+      },
+      "artists": [
+        {
+          "name": "Bearwear",
+          "url": "https://open.spotify.com/artist/1vs4LphTDQKsiFwVnDGFKf"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133233,
+      "name": "SUGAR_HIGH_",
+      "url": "https://open.spotify.com/track/1eShPjrEHK839cHYZIoaZ0"
     },
     {
       "album": {
@@ -16669,6 +16741,24 @@
       "duration_ms": 221695,
       "name": "Try it",
       "url": "https://open.spotify.com/track/6uiJDc0yjQ9hBVIpQ0ZZw2"
+    },
+    {
+      "album": {
+        "name": "Tsumugi",
+        "url": "https://open.spotify.com/album/0vl4QXa3Bh2J7ewyvLcwJ5"
+      },
+      "artists": [
+        {
+          "name": "pony sandwich tour",
+          "url": "https://open.spotify.com/artist/3CXkek5jZjlEAjM8hCXYkp"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202752,
+      "name": "Tsumugi",
+      "url": "https://open.spotify.com/track/2pKOEVnedEo99t418k9d0H"
     },
     {
       "album": {
@@ -19401,7 +19491,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 202752,
       "name": "\u3064\u3080\u304e",
       "url": "https://open.spotify.com/track/7fTmVIFBjGyzCnLx0DybVh"
@@ -27053,7 +27143,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 234960,
       "name": "\u8fd1\u9803",
       "url": "https://open.spotify.com/track/7FBNfAjU02PvZHjpNGEgPI"

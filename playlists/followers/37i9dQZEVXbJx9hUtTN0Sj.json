@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 23062,
+  "2024-04-12": 23055,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Belgium.",
   "name": "Viral 50 - Belgium",
@@ -1337,7 +1337,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 222517,
       "name": "Curlen",
       "url": "https://open.spotify.com/track/7xNkx0yFLfKxP2awPsu63W"
@@ -2272,6 +2272,24 @@
     },
     {
       "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5kSK4LHlhuRc4qSBzeZWBI"
+      },
+      "artists": [
+        {
+          "name": "Valexus",
+          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133770,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GUJVz8cDtBePu2hd9oYZx"
+    },
+    {
+      "album": {
         "name": "H\u00c9RITAGE",
         "url": "https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn"
       },
@@ -2935,7 +2953,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 192092,
       "name": "Lekker Ding, Dit Is Je Verjaardag",
       "url": "https://open.spotify.com/track/6gnSMiZPMa0uEyn6nEfOH0"
@@ -3033,7 +3051,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 168023,
       "name": "lil' freak",
       "url": "https://open.spotify.com/track/6guIMfoWJvsCXQxNsAtWPN"
@@ -4361,7 +4379,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 157714,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/1ZbqAYqiaqA9aegBxFyWax"
@@ -4815,7 +4833,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 174375,
       "name": "TAKA",
       "url": "https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil"
@@ -5108,6 +5126,28 @@
     },
     {
       "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
+    },
+    {
+      "album": {
         "name": "The Tower",
         "url": "https://open.spotify.com/album/1tLg7dKobGBkc9O6BhjMQl"
       },
@@ -5305,6 +5345,36 @@
       "duration_ms": 178467,
       "name": "TUTA GOLD",
       "url": "https://open.spotify.com/track/371l4ekF9cDC2D5WuuabU6"
+    },
+    {
+      "album": {
+        "name": "WE DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228266,
+      "name": "Type Shit",
+      "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
     },
     {
       "album": {
@@ -5687,7 +5757,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
@@ -5713,6 +5783,32 @@
       "duration_ms": 155480,
       "name": "We Fell Apart - Slowed",
       "url": "https://open.spotify.com/track/4oExAGoqR0JWK628dYaQ2f"
+    },
+    {
+      "album": {
+        "name": "We Fell Apart",
+        "url": "https://open.spotify.com/album/2RU69PcKkn0TGqwJqFfchg"
+      },
+      "artists": [
+        {
+          "name": "overrated",
+          "url": "https://open.spotify.com/artist/5eZ9mxslGvxjRBTWbRfMfV"
+        },
+        {
+          "name": "Akucum",
+          "url": "https://open.spotify.com/artist/4iNoUF5jEZLr28VHuxHN9y"
+        },
+        {
+          "name": "dreamsoda",
+          "url": "https://open.spotify.com/artist/6PxIBIC6X6ABCIXnAgGUdc"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "We Fell Apart - Slowed",
+      "url": "https://open.spotify.com/track/2vsFAkp6P14vOjvmLdnBkb"
     },
     {
       "album": {
@@ -5745,7 +5841,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 199733,
       "name": "What's The Pressure - uit Liefde Voor Muziek",
       "url": "https://open.spotify.com/track/1dDFQ09pVUdKTE7GqM5zxL"
@@ -6097,7 +6193,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 190850,
       "name": "\u273bH+3+\u042f\u0414\u273b7luCJIo0T6...",
       "url": "https://open.spotify.com/track/4hjRjhLvBIMUUhRjb7DACd"

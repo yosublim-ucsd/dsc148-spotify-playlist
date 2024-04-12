@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: London Grammar",
+  "description": "New music off the beaten track. Cover: BLVTH, BLOODMOON",
   "name": "OFF POP",
   "tracks": [
     {
@@ -763,6 +763,24 @@
     },
     {
       "album": {
+        "name": "Angeles / Build A Man",
+        "url": "https://open.spotify.com/album/0AGElbWY5WV66ygbTy2aQr"
+      },
+      "artists": [
+        {
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123142,
+      "name": "Angeles",
+      "url": "https://open.spotify.com/track/0QNLboKNg60M1PmEBFoY6k"
+    },
+    {
+      "album": {
         "name": "Another Time Like Now",
         "url": "https://open.spotify.com/album/7hWez4eExbBF3sR11kjy3Q"
       },
@@ -1061,6 +1079,28 @@
     },
     {
       "album": {
+        "name": "Beautiful Losers (feat. Rangleklods)",
+        "url": "https://open.spotify.com/album/7nmgdcICN5MBgmNPnnikDg"
+      },
+      "artists": [
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        },
+        {
+          "name": "Rangleklods",
+          "url": "https://open.spotify.com/artist/1p2jAzBu31C2CoORbhZROz"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318145,
+      "name": "Beautiful Losers (feat. Rangleklods)",
+      "url": "https://open.spotify.com/track/4A97jBOXzQhI67TKMMJS3N"
+    },
+    {
+      "album": {
         "name": "Dance'O'Drome",
         "url": "https://open.spotify.com/album/2zdjOPQrOLi0n2DRUPLJm7"
       },
@@ -1116,6 +1156,32 @@
       "duration_ms": 262225,
       "name": "Before We Meet Again",
       "url": "https://open.spotify.com/track/1uZehIWzCcwqrlmZSBD2xC"
+    },
+    {
+      "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "BERWYN",
+          "url": "https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR"
+        },
+        {
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123607,
+      "name": "BerwynGesaffNeighbours",
+      "url": "https://open.spotify.com/track/21f4TjwWXbnqg8d5R6oq8Y"
     },
     {
       "album": {
@@ -1716,7 +1782,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 253386,
       "name": "caught up",
       "url": "https://open.spotify.com/track/18rUsFjE2GoJaO2eesZtUP"
@@ -2200,7 +2266,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 360734,
       "name": "Create-A-Dance",
       "url": "https://open.spotify.com/track/5UDaXmAjlI7d3DpYeDA4Gf"
@@ -3270,7 +3336,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 342031,
       "name": "Echoes Of The Past",
       "url": "https://open.spotify.com/track/25yFIb4x438niHV77uRU8p"
@@ -3654,6 +3720,28 @@
       "duration_ms": 209983,
       "name": "Everything",
       "url": "https://open.spotify.com/track/6vS6Lz9bQPYtYD00i6pgti"
+    },
+    {
+      "album": {
+        "name": "Everything I Want",
+        "url": "https://open.spotify.com/album/3059HpQtkWIOQ9DxaExe9N"
+      },
+      "artists": [
+        {
+          "name": "Dena",
+          "url": "https://open.spotify.com/artist/3qQ6mF4KyHTuOLcZjunAD4"
+        },
+        {
+          "name": "Lauer",
+          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240390,
+      "name": "Everything I Want",
+      "url": "https://open.spotify.com/track/5Y88uQ5oRzv3x5m7mimCO0"
     },
     {
       "album": {
@@ -5668,7 +5756,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 211090,
       "name": "I Feel Magic - Edit",
       "url": "https://open.spotify.com/track/7tlK5RtlQ89NBmSJcZLtQ2"
@@ -6064,6 +6152,28 @@
       "duration_ms": 262293,
       "name": "In Private",
       "url": "https://open.spotify.com/track/24KLjoa4KBgpn4XGWFiy5c"
+    },
+    {
+      "album": {
+        "name": "IN THE MIDDLE",
+        "url": "https://open.spotify.com/album/5PsugLu2cAXJojaTzK9Cow"
+      },
+      "artists": [
+        {
+          "name": "BLVTH",
+          "url": "https://open.spotify.com/artist/4blNBKcFhLQ0rhwAe4JQ1e"
+        },
+        {
+          "name": "BLOODMOON",
+          "url": "https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203041,
+      "name": "IN THE MIDDLE",
+      "url": "https://open.spotify.com/track/0QYoQFlGFV30Rki8sg93Ft"
     },
     {
       "album": {
@@ -6578,6 +6688,28 @@
       "duration_ms": 247499,
       "name": "Kandy",
       "url": "https://open.spotify.com/track/5TytypfM1sVy0GIX7MLUz8"
+    },
+    {
+      "album": {
+        "name": "Kandy (Tiga Remix)",
+        "url": "https://open.spotify.com/album/0Z7pJRaHDe0aRgxPKbTQW8"
+      },
+      "artists": [
+        {
+          "name": "Fever Ray",
+          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+        },
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484173,
+      "name": "Kandy - Tiga Remix",
+      "url": "https://open.spotify.com/track/12rO7uz0h7l089uhdOgOBp"
     },
     {
       "album": {
@@ -7139,6 +7271,28 @@
     },
     {
       "album": {
+        "name": "Analog Love",
+        "url": "https://open.spotify.com/album/5g9mJsxT9wg3SyBbeAPUmx"
+      },
+      "artists": [
+        {
+          "name": "Dabeull",
+          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
+        },
+        {
+          "name": "Reva DeVito",
+          "url": "https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253760,
+      "name": "Look In The Mirror",
+      "url": "https://open.spotify.com/track/6rwRf8DFQsadNxevwfUcSX"
+    },
+    {
+      "album": {
         "name": "My Guilty Pleasure",
         "url": "https://open.spotify.com/album/4U4LwmNtmfR3TpAbi4wn39"
       },
@@ -7262,7 +7416,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 214226,
       "name": "Lost And Found",
       "url": "https://open.spotify.com/track/29Ll2LiajriSkFHX3SIgK2"
@@ -7676,7 +7830,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 134960,
       "name": "Making The Beast - Edit",
       "url": "https://open.spotify.com/track/1oCbNTOmA43TArd9PVTfft"
@@ -8026,6 +8180,24 @@
       "duration_ms": 221636,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/66c9EmPAVDQpzYkuyzRx1W"
+    },
+    {
+      "album": {
+        "name": "Miss That Feeling",
+        "url": "https://open.spotify.com/album/4o0DGj9tAVX75rdwWBiuCX"
+      },
+      "artists": [
+        {
+          "name": "narou",
+          "url": "https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228693,
+      "name": "Miss That Feeling",
+      "url": "https://open.spotify.com/track/1tqubYS4xVIMbtpNclQUhi"
     },
     {
       "album": {
@@ -8382,6 +8554,24 @@
       "duration_ms": 215736,
       "name": "My Only Love",
       "url": "https://open.spotify.com/track/2tqZV9H8uOP1bPK6WRrCLO"
+    },
+    {
+      "album": {
+        "name": "When all you want to do is be the fire part of fire",
+        "url": "https://open.spotify.com/album/5WY2kfCRa7jPmqI9150cjR"
+      },
+      "artists": [
+        {
+          "name": "UTO",
+          "url": "https://open.spotify.com/artist/1qLSzTLKNBRu1byHN1eXoD"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248054,
+      "name": "Napkin",
+      "url": "https://open.spotify.com/track/6PQ7eauPtCs5PTX63rghQQ"
     },
     {
       "album": {
@@ -10270,7 +10460,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 201533,
       "name": "Saturnine",
       "url": "https://open.spotify.com/track/0czIop1Wsllu6wCktR633R"
@@ -11944,7 +12134,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 181545,
       "name": "ten",
       "url": "https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB"
@@ -13174,7 +13364,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 323503,
       "name": "Violently Patient",
       "url": "https://open.spotify.com/track/1qKdEaj6BE2RKzQj3sQE63"

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,070 songs - 6 day 11 hr 31 min
+4,071 songs - 6 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1748,7 +1748,7 @@
 | [Jonfidence](https://open.spotify.com/track/2gTpjgb1NbvPViDHJUPJov) | [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32), [3pmbeatz](https://open.spotify.com/artist/4a3EaoH3UoVXC5Kt68AeMe) | [Space Maneuvers EP](https://open.spotify.com/album/2AFzAsp7OXwL7VZASRvWDJ) | 2:49 | 2021-11-12 | 2022-06-24 |
 | [Joni \- Live](https://open.spotify.com/track/3nKwfmras6MEfT9KfqFIfP) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Zijon](https://open.spotify.com/artist/56qVy7UZpdS4QSze8e3ZXA) | [Joni / Dirty Brass](https://open.spotify.com/album/5dUjbX3FmBiNnGdzTXjYDP) | 1:51 | 2019-05-26\* | 2019-08-13 |
 | [Jordans](https://open.spotify.com/track/6vJ4Z2Hc5Bmm0sdqf9CtTR) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk), [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [Jordans](https://open.spotify.com/album/6GZT9DaFCdjvdy16esFGcA) | 2:58 | 2022-02-24 | 2022-04-22 |
-| [Joshua aime les myrtilles](https://open.spotify.com/track/2KUR6TQJ2aCQf6BNZytUoW) | [Quentin Elmi](https://open.spotify.com/artist/1rzvnLU6QzGQZFeCcsR5VE), [Valentine Morell](https://open.spotify.com/artist/3l8NLw6POkjXQps81nd7mT) | [Joshua aime les myrtilles](https://open.spotify.com/album/5EnyCX9fVaqwKnu01nznxS) | 2:11 | 2024-02-08 |  |
+| [Joshua aime les myrtilles](https://open.spotify.com/track/2KUR6TQJ2aCQf6BNZytUoW) | [Quentin Elmi](https://open.spotify.com/artist/1rzvnLU6QzGQZFeCcsR5VE), [Valentine Morell](https://open.spotify.com/artist/3l8NLw6POkjXQps81nd7mT) | [Joshua aime les myrtilles](https://open.spotify.com/album/5EnyCX9fVaqwKnu01nznxS) | 2:11 | 2024-02-08 | 2024-04-12 |
 | [Journey](https://open.spotify.com/track/0YYVvpHHqQ2eIhOvDwuaM3) | [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4) | [Journey](https://open.spotify.com/album/46DkLM24GRtWS6mw8jLVwT) | 2:03 | 2022-12-01 | 2023-06-02 |
 | [Journey](https://open.spotify.com/track/1vZUtM8CkOcfdmGJJDSDcM) | [pastels](https://open.spotify.com/artist/3FMHJYjF4SBeWszMXgWoaR) | [Out of Office](https://open.spotify.com/album/7p3u62N1aOmrTQ95VuPrYI) | 1:30 | 2021-06-05 | 2021-11-26 |
 | [Journey](https://open.spotify.com/track/4d76t4Be2X4TK8nFaY0z52) | [Ylluw](https://open.spotify.com/artist/6dJeCAbZEvbpbUZyN7OeBh) | [Journey](https://open.spotify.com/album/4Fsu8pPE83dm2kEhO86Tsr) | 1:45 | 2023-11-13 | 2023-12-02 |
@@ -3740,6 +3740,7 @@
 | [Underpass](https://open.spotify.com/track/7euMGvndEJESs3LKDJq6cm) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Underpass](https://open.spotify.com/album/3wIc5bVb7ay7nwGq7xLMa7) | 2:25 | 2019-05-26\* | 2019-06-26 |
 | [Underwater](https://open.spotify.com/track/6yQzmqQCYvAd1btls4pOhB) | [byJ.](https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws), [Karavelo](https://open.spotify.com/artist/1urkG0cqnV7Jjhdv4O9D3f) | [Underwater](https://open.spotify.com/album/0WMitQbuKiuxHQgJyEbs4m) | 2:24 | 2019-09-06 | 2020-02-18 |
 | [Underwater](https://open.spotify.com/track/3j4qKXyWN5SEh5mYp78uGq) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [Underwater](https://open.spotify.com/album/4NxVVvv47Tqye5YjJmuhE6) | 2:08 | 2021-12-07 | 2021-12-22 |
+| [Une frangipane bien cuite s'il vous plaît](https://open.spotify.com/track/5fUVQ7WoJBc8yKSvzfONRS) | [Quentin Elmi](https://open.spotify.com/artist/1rzvnLU6QzGQZFeCcsR5VE), [Valentine Morell](https://open.spotify.com/artist/3l8NLw6POkjXQps81nd7mT) | [Prise 1](https://open.spotify.com/album/79TiZKoiaZrAqiAOKAxiyZ) | 2:15 | 2024-04-11 |  |
 | [Unexpected World](https://open.spotify.com/track/63kQCkG3LYRD90O2QZbhnh) | [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O), [$MASH](https://open.spotify.com/artist/2AOBbDqMyCWp12M8ULOJdw), [Crun](https://open.spotify.com/artist/7aQFz7nMIRg5XTM1YLwEZ4) | [Unexpected World](https://open.spotify.com/album/51loInMhKTCu0j8iW3RW3u) | 1:36 | 2023-03-23 | 2023-05-19 |
 | [Unintruded](https://open.spotify.com/track/5QnPADMagigjzsBGNOIXIL) | [Wacho](https://open.spotify.com/artist/6fBCb271VXZBhTA3qhXdZU) | [Simplices](https://open.spotify.com/album/5aG0k2DdxV3robs8RhEtrd) | 3:15 | 2022-05-26 | 2022-06-17 |
 | [Unity](https://open.spotify.com/track/5pSAT98oNVHxDWfZn4jVDZ) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Unity](https://open.spotify.com/album/38pRruNPK6CWlpASV8FnPb) | 2:13 | 2022-04-07 | 2022-07-22 |

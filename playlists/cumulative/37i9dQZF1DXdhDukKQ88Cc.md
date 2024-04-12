@@ -2,9 +2,9 @@
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> ny dansk rap og andet i den vibe 🌊🌊🌊
+> ny dansk rap og andet i den vibe 🚨 <a href="spotify:artist:5LcNaarbF34TMSkVLE7YQc">Merro8</a>
 
-152 songs - 6 hr 36 min
+153 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Balancen \(feat\. Kesi\)](https://open.spotify.com/track/4sGUkfsLxIK4tZxLZt0unU) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [DK GOAT](https://open.spotify.com/album/5rwILepTiMfBTOwJCqholQ) | 2:53 | 2023-10-12 | 2024-01-19 |
 | [Barcelona](https://open.spotify.com/track/2WHlIijZW8Wg2rnzCt59fT) | [Volkan](https://open.spotify.com/artist/0bIoVDzI4BefNfAQid4nox) | [Barcelona](https://open.spotify.com/album/3gjER3vO2O3ObxPdPPWZ3h) | 2:00 | 2023-12-14 |  |
 | [BENZ](https://open.spotify.com/track/0VfA42lvkgmpCE73fFxKjE) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [BENZ](https://open.spotify.com/album/4yU3IEVdrCYGldYLiUIxqq) | 2:20 | 2024-03-07 |  |
+| [Black Ops](https://open.spotify.com/track/7J1DgyE3mGoazGOHqZ2Kh2) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Black Ops](https://open.spotify.com/album/5NjzqSjhoAgxoN3uNk3YHT) | 2:36 | 2024-04-11 |  |
 | [Boys I D Blå](https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Boys I D Blå](https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB) | 2:13 | 2023-09-21 | 2024-01-19 |
 | [Chocola](https://open.spotify.com/track/0ZtqiH3Law79itqfAzHApC) | [Sleiman](https://open.spotify.com/artist/2HTE5rhkzmNb4IiGrop13q), [AWADA](https://open.spotify.com/artist/08Mi8yWtTfL2aWlZIG135P) | [Chocola](https://open.spotify.com/album/6OEqU0UOYKlqn099nLP1oM) | 2:12 | 2023-11-10 |  |
 | [Company](https://open.spotify.com/track/6Nb9knmY0K5SXDU0IZRcGK) | [Toko](https://open.spotify.com/artist/2orDgazBVzvwOVZa0QQUvI), [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N) | [Company](https://open.spotify.com/album/0wiQ5yItDLDmfKBxPlBFhR) | 2:24 | 2023-11-10 |  |

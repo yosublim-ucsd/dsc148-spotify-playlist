@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Jane Penny
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,132 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,130 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 36 | [Some Type Of Skin](https://open.spotify.com/track/5CguvtN2MvxSmtSR23UNOd) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Some Type Of Skin](https://open.spotify.com/album/4kfH7Wzr6p646dTIulVQQS) | 3:12 |
 | 37 | [Close](https://open.spotify.com/track/1FnbRzgI5mGdh8XjXTXD9w) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Close](https://open.spotify.com/album/0VG3BsmyLoIEEUIUswHV9i) | 3:57 |
 | 38 | [Danser \- JORDANN Remix](https://open.spotify.com/track/4nHug6sphA3Xm45pdLc3Xw) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT), [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Danser \(JORDANN Remix\)](https://open.spotify.com/album/3JBw6NcJbUCPFXGHy1zAZH) | 3:30 |
-| 39 | [Imaan](https://open.spotify.com/track/1ydE5C1KehuCQI8EM3qXrQ) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Imaan](https://open.spotify.com/album/671HQwwWo7sivjgFb4Qf1P) | 3:34 |
+| 39 | [Imaan](https://open.spotify.com/track/5xvYNmS5yLJr5Z18P25DYR) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Imaan](https://open.spotify.com/album/4365MmEKX6ImuvRiWtqagj) | 3:34 |
 | 40 | [Rot My Teeth](https://open.spotify.com/track/3PGQCE4zFN6QCM1NBKHNbf) | [Sara Sloan](https://open.spotify.com/artist/0HqD7L1K0yANRk0geft2EV) | [Mourning Myth](https://open.spotify.com/album/40Vt4i7A5fjg79i1QH6chF) | 5:13 |
 | 41 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 |
 | 42 | [Cinq minutes pile](https://open.spotify.com/track/2YkqLNTAL83ALI3GgLHJvS) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Virer nos vies](https://open.spotify.com/album/4tMZrp8Xm64cRqRtWoqHQh) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Read The Room](https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 5:14 |
 | 100 | [Wish](https://open.spotify.com/track/7j7NHQpLk3HJUNKtdMcATu) | [Justice Der](https://open.spotify.com/artist/2N79L5eT2Xraec4UJsi2Fz) | [Wish](https://open.spotify.com/album/3LXIH2vyXZLYoahg7B9Zzl) | 3:26 |
 
-Snapshot ID: `MCw4N2UwN2UwZWFjODRhOGM0MThlYWZjNWI1YWE5NTBlOTY4YmQxM2Q1`
+Snapshot ID: `MTcxMjI4OTY2MCwwMDAwMDAwMDhiMjg5NzNmOTA5MTgzMDhjNWFhNmZiNWQ0NzQ1ZmI3`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49\u0e40\u0e25\u0e22! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: guncharlie",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49\u0e40\u0e25\u0e22! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: MEYOU, PUN",
   "name": "\u0e09\u0e31\u0e19\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 229565,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/3H4k0YdtIxrZVORbW57wtp"
@@ -420,7 +420,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 219878,
       "name": "\u0e0a\u0e2d\u0e1a\u0e44\u0e1b\u0e2b\u0e21\u0e14 (Way Too Cute)",
       "url": "https://open.spotify.com/track/73rLFde6eQ2Xzg4cF5ilHs"
@@ -576,6 +576,28 @@
       "duration_ms": 203225,
       "name": "\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01\u0e43\u0e08\u0e40\u0e22\u0e47\u0e19",
       "url": "https://open.spotify.com/track/6rgF7lJWhf0jR5ZEJk3cY5"
+    },
+    {
+      "album": {
+        "name": "\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e40\u0e25\u0e22",
+        "url": "https://open.spotify.com/album/07zp9Mnc758xpFKTCIyhYE"
+      },
+      "artists": [
+        {
+          "name": "RIFLE",
+          "url": "https://open.spotify.com/artist/4hIIGlitHYepgaKi1aSKHn"
+        },
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205128,
+      "name": "\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e40\u0e25\u0e22",
+      "url": "https://open.spotify.com/track/36czGZFR3xI0F38AiZ0Xdq"
     },
     {
       "album": {
@@ -920,7 +942,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 204000,
       "name": "\u0e2b\u0e22\u0e14\u0e19\u0e49\u0e33\u0e15\u0e32 (Tears)",
       "url": "https://open.spotify.com/track/0mItaHP6FLRrRO6xrWwJc1"
@@ -1032,7 +1054,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 189731,
       "name": "\u0e40\u0e17\u0e04\u0e30\u0e41\u0e19\u0e19 (CANDIDATE)",
       "url": "https://open.spotify.com/track/4UgAVgYNBahclsbXTbP3Xn"
@@ -1129,6 +1151,32 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e21\u0e23\u0e48\u0e2d\u0e19",
+        "url": "https://open.spotify.com/album/1tDF30Fp2KCtoI2Ag4GX9Y"
+      },
+      "artists": [
+        {
+          "name": "Juepak",
+          "url": "https://open.spotify.com/artist/4hyjpRJFaQcXR63Wfpjd3D"
+        },
+        {
+          "name": "\u0e08\u0e4a\u0e30 \u0e19\u0e07\u0e1c\u0e13\u0e35",
+          "url": "https://open.spotify.com/artist/2kw9oKRxdRVnymE4kd3BgE"
+        },
+        {
+          "name": "GUNNER",
+          "url": "https://open.spotify.com/artist/1JySn0pz3hvdDvWPTZf7hv"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163303,
+      "name": "\u0e40\u0e21\u0e23\u0e48\u0e2d\u0e19",
+      "url": "https://open.spotify.com/track/3KSS2LFdimgKRcs4ZamWyv"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e2a\u0e19\u0e2d\u0e15\u0e31\u0e27 (Ooh!)",
         "url": "https://open.spotify.com/album/1FaIlBwYnBhae6YUUsxrGD"
       },
@@ -1165,6 +1213,24 @@
     },
     {
       "album": {
+        "name": "\u0e41\u0e2d\u0e1a\u0e40\u0e01\u0e47\u0e1a\u0e04\u0e27\u0e32\u0e21\u0e43\u0e19\u0e43\u0e08\u0e44\u0e27\u0e49\u0e20\u0e32\u0e22\u0e43\u0e19\u0e41\u0e27\u0e48\u0e19\u0e40\u0e23\u0e22\u0e4c\u0e41\u0e1a\u0e19\u0e2a\u0e35\u0e14\u0e33 - Single",
+        "url": "https://open.spotify.com/album/59g2gOFybbppLJRcsRec7C"
+      },
+      "artists": [
+        {
+          "name": "TaitosmitH",
+          "url": "https://open.spotify.com/artist/0CR1aLS3JQTlekHgHTga60"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332459,
+      "name": "\u0e41\u0e2d\u0e1a\u0e40\u0e01\u0e47\u0e1a\u0e04\u0e27\u0e32\u0e21\u0e43\u0e19\u0e43\u0e08\u0e44\u0e27\u0e49\u0e20\u0e32\u0e22\u0e43\u0e19\u0e41\u0e27\u0e48\u0e19\u0e40\u0e23\u0e22\u0e4c\u0e41\u0e1a\u0e19\u0e2a\u0e35\u0e14\u0e33",
+      "url": "https://open.spotify.com/track/6sowsQcSP7ThATfccaEk1S"
+    },
+    {
+      "album": {
         "name": "\u0e42\u0e25\u0e01\u0e17\u0e35\u0e48\u0e41\u0e1a\u0e01\u0e44\u0e27\u0e49",
         "url": "https://open.spotify.com/album/7Kd7MwlHvyBxiwAFaqhTqJ"
       },
@@ -1198,6 +1264,28 @@
       "duration_ms": 217941,
       "name": "\u0e43\u0e01\u0e25\u0e49\u0e40\u0e01\u0e34\u0e19 (TOO CLOSE TO HANDLE)",
       "url": "https://open.spotify.com/track/401VKk3bdyumcfJH8aUCjm"
+    },
+    {
+      "album": {
+        "name": "\u0e43\u0e08\u0e1e\u0e31\u0e07",
+        "url": "https://open.spotify.com/album/5jfhFfMvJM7FaKOnc0u1J2"
+      },
+      "artists": [
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        },
+        {
+          "name": "GTK",
+          "url": "https://open.spotify.com/artist/2xe3fpDD81re4J0NN3S8LV"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301928,
+      "name": "\u0e43\u0e08\u0e1e\u0e31\u0e07",
+      "url": "https://open.spotify.com/track/30ho6wAl9w53sCtcqzHVMA"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "The best soft rock from the 1970s. Cover: Styx",
-  "num_followers": 240491,
+  "description": "The best soft rock from the 1970s. Cover: Jimmy Buffett",
+  "num_followers": 240556,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWFjZTJlMzRjMjBmMGFhNGE4ZGNkZjgzZjhlNzA3YzY1NDE3YmRk",
+  "snapshot_id": "MTY5ODk4NDAwMCwwMDAwMDAwMGZmNzNhMDQ0YmJhYzQzODcyODFhZjdmMDZjNjg1NWFi",
   "tracks": [
     {
       "added_at": "2023-03-29 17:34:27",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Moondance",
-        "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 205613,
-      "name": "Into the Mystic - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "You Don't Mess Around With Jim",
         "url": "https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 148586,
       "name": "Time in a Bottle",
       "url": "https://open.spotify.com/track/7uWFUpGuEfmxYeymkV95jn"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Moondance",
+        "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 205613,
+      "name": "Into the Mystic - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "You Don't Mess Around With Jim",
-        "url": "https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 229706,
-      "name": "Operator (That's Not the Way It Feels)",
-      "url": "https://open.spotify.com/track/4mQtXW0vrHC3oTkA1mQsb0"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Can't Buy A Thrill",
         "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
       },
@@ -287,6 +271,22 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
+        "name": "Nights Are Forever",
+        "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
+      },
+      "artists": [
+        {
+          "name": "England Dan & John Ford Coley",
+          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+        }
+      ],
+      "duration_ms": 159106,
+      "name": "I'd Really Love to See You Tonight",
+      "url": "https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
         "name": "Desperado (2013 Remaster)",
         "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
       },
@@ -303,18 +303,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Nights Are Forever",
-        "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
+        "name": "You Don't Mess Around With Jim",
+        "url": "https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9"
       },
       "artists": [
         {
-          "name": "England Dan & John Ford Coley",
-          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
         }
       ],
-      "duration_ms": 159106,
-      "name": "I'd Really Love to See You Tonight",
-      "url": "https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE"
+      "duration_ms": 229706,
+      "name": "Operator (That's Not the Way It Feels)",
+      "url": "https://open.spotify.com/track/4mQtXW0vrHC3oTkA1mQsb0"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "I Got a Name",
-        "url": "https://open.spotify.com/album/64dufEP8npd2jYoPfdzWPJ"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 154626,
-      "name": "I\u2019ll Have to Say I Love You in a Song",
-      "url": "https://open.spotify.com/track/7kWPh7dvoyJ0frnnZzxZPj"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Summer Breeze",
         "url": "https://open.spotify.com/album/16lsqxMjRUFOBo2jocsy1C"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 268866,
       "name": "You've Got a Friend - 2019 Remaster",
       "url": "https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "I Got a Name",
+        "url": "https://open.spotify.com/album/64dufEP8npd2jYoPfdzWPJ"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 154626,
+      "name": "I\u2019ll Have to Say I Love You in a Song",
+      "url": "https://open.spotify.com/track/7kWPh7dvoyJ0frnnZzxZPj"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Abandoned Luncheonette",
-        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 313373,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Gorilla (2019 Remaster)",
         "url": "https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 216386,
       "name": "How Sweet It Is (To Be Loved By You) - 2019 Remaster",
       "url": "https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Abandoned Luncheonette",
+        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 313373,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "French Kiss",
-        "url": "https://open.spotify.com/album/5YQsoNZvxTZKqsJ2Y7fQjJ"
+        "name": "Dreamboat Annie",
+        "url": "https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH"
       },
       "artists": [
         {
-          "name": "Bob Welch",
-          "url": "https://open.spotify.com/artist/0reZZVbAPxgX1Rqj6XbWj3"
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
         }
       ],
-      "duration_ms": 178693,
-      "name": "Sentimental Lady",
-      "url": "https://open.spotify.com/track/478thMMvYGris8eJPcDRoq"
+      "duration_ms": 121706,
+      "name": "Dreamboat Annie",
+      "url": "https://open.spotify.com/track/7IyuwRPPNq6gYI1vzqKsrU"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Dreamboat Annie",
-        "url": "https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH"
+        "name": "French Kiss",
+        "url": "https://open.spotify.com/album/5YQsoNZvxTZKqsJ2Y7fQjJ"
       },
       "artists": [
         {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+          "name": "Bob Welch",
+          "url": "https://open.spotify.com/artist/0reZZVbAPxgX1Rqj6XbWj3"
         }
       ],
-      "duration_ms": 121706,
-      "name": "Dreamboat Annie",
-      "url": "https://open.spotify.com/track/7IyuwRPPNq6gYI1vzqKsrU"
+      "duration_ms": 178693,
+      "name": "Sentimental Lady",
+      "url": "https://open.spotify.com/track/478thMMvYGris8eJPcDRoq"
     },
     {
       "added_at": "2023-03-29 17:34:27",

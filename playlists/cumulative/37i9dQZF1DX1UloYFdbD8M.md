@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Pina Colada Blues
 
-173 songs - 11 hr 56 min
+174 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,8 +32,8 @@
 | [Butterflies](https://open.spotify.com/track/0cCMLMjOTegmcGdoJrfnDc) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Mridul Anil](https://open.spotify.com/artist/3uVGKUu4pjlBUJdV879eb3) | [Butterflies](https://open.spotify.com/album/0YNBOj4DQ2NzoIeMi5rvKN) | 3:34 | 2024-02-14 |  |
 | [Castle In The Sky](https://open.spotify.com/track/7IXkNPrfMWjigapPfs1BoL) | [Niranjan Menon](https://open.spotify.com/artist/3U14e8ytLENdFrJLKArp7d), [Artemis Fall](https://open.spotify.com/artist/2MTUquJfZa080O7BQoDBgu), [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Castle In The Sky](https://open.spotify.com/album/4JYNyfvDS7So6b0HmnAZ2i) | 4:48 | 2023-10-19 |  |
 | [Chaaya Makkaani](https://open.spotify.com/track/7uRnNmG9t6vFGv2gdpDPEu) | [Sudeep Palanad](https://open.spotify.com/artist/5gEbn8GU8GPvl5V7nnbHF3) | [Chaaya Makkaani](https://open.spotify.com/album/3zm44UwafhPVma414Wp4cI) | 3:26 | 2023-09-09 |  |
-| [Chayapattu](https://open.spotify.com/track/4d8u6nDK0hRliTXQ8lDKdt) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/3KPax7QTCyyEFDeJWuvHXr) | 2:29 | 2023-10-06 | 2024-03-09 |
-| [Chayapattu](https://open.spotify.com/track/4y7DF2YwXJPcYpX9mFl8pW) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/1Q7ieGfKYonq3H7f6DzDnn) | 2:29 | 2022-06-23 |  |
+| [Chayapattu](https://open.spotify.com/track/4d8u6nDK0hRliTXQ8lDKdt) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/3KPax7QTCyyEFDeJWuvHXr) | 2:29 | 2023-10-06 |  |
+| [Chayapattu](https://open.spotify.com/track/4y7DF2YwXJPcYpX9mFl8pW) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/1Q7ieGfKYonq3H7f6DzDnn) | 2:29 | 2022-06-23 | 2024-04-12 |
 | [Chekele](https://open.spotify.com/track/0qQbAdaUAXz3niHgqKL6Xj) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 5:01 | 2022-11-21 |  |
 | [Chekele](https://open.spotify.com/track/0hVxx4yyDgx6kkhXEpLqeT) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Archana Mohan Iyer](https://open.spotify.com/artist/28aw8AhOzmnkmx07DqMkFX) | [Chekele](https://open.spotify.com/album/7Ma2OjPf1ZUR2cAsEVYT18) | 3:27 | 2022-07-28 | 2023-07-28 |
 | [Chekuthan](https://open.spotify.com/track/5Zoe8tHOVTMOzeapdpQeYL) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh) | [Chekuthan](https://open.spotify.com/album/0HH6caLXMV6xudGoXkFn9q) | 2:48 | 2022-12-22 |  |
@@ -128,7 +128,8 @@
 | [Palavidham](https://open.spotify.com/track/0I9fnx3ubOqy1T4IvLf4He) | [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp) | [Palavidham](https://open.spotify.com/album/7uVQSl9yYgyy7ax92Zp8lf) | 3:04 | 2023-09-05 |  |
 | [Parayathe Parayunna](https://open.spotify.com/track/0q5vrVopEWT359duzBEBPV) | [Nikhil Chandran](https://open.spotify.com/artist/5PNeVXZSF6jNVjvA9NGk9B) | [Parayathe Parayunna](https://open.spotify.com/album/6Hgtk1jJYSi8Fe3GxtzkyA) | 4:17 | 2022-06-23 | 2023-07-28 |
 | [Parudeesa](https://open.spotify.com/track/6sp4cNauunLTbcBXBTV59N) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Parudeesa](https://open.spotify.com/album/5j3jXf1zZCbqNNEsFQxTfS) | 5:24 | 2022-12-27 |  |
-| [Pilleranu](https://open.spotify.com/track/76WNVxMrseVg3NT5UQ1dcd) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/1Q7ieGfKYonq3H7f6DzDnn) | 5:35 | 2023-07-27 |  |
+| [Pilleranu](https://open.spotify.com/track/0yf1E6IHDdHb3iDeJseptM) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/3KPax7QTCyyEFDeJWuvHXr) | 5:35 | 2024-01-15 |  |
+| [Pilleranu](https://open.spotify.com/track/76WNVxMrseVg3NT5UQ1dcd) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/1Q7ieGfKYonq3H7f6DzDnn) | 5:35 | 2023-07-27 | 2024-04-12 |
 | [Pollunnunde](https://open.spotify.com/track/75yafDG35Tx47lp1NIc6l3) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Pollunnunde](https://open.spotify.com/album/45GNFY5oWRTEBT79hFRs1b) | 2:48 | 2023-05-10 | 2023-07-29 |
 | [Pooram \- From "Think Specials"](https://open.spotify.com/track/05ipt7R52WNXApEurABdOJ) | [RHYTHOM](https://open.spotify.com/artist/4TRwdVEDrdpaeYiP7iohlu) | [Pooram \(From "Think Specials"\)](https://open.spotify.com/album/0aO4EHRsIN96DOWrYxMjIS) | 3:18 | 2023-08-16 |  |
 | [Poralikal](https://open.spotify.com/track/4Yi3Z3kmaQIqG00EZ5XEyv) | [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ) | [Poralikal](https://open.spotify.com/album/0JsO6jG4H4NOHyDZ21grXa) | 2:51 | 2023-05-26 | 2023-07-28 |

@@ -7781,6 +7781,24 @@
     },
     {
       "album": {
+        "name": "Boy Bye",
+        "url": "https://open.spotify.com/album/5Z3LNuIi0IWLJCnIn4OkdG"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Boy Bye",
+      "url": "https://open.spotify.com/track/4vZqE8iZ1wYFqlmeOB72nh"
+    },
+    {
+      "album": {
         "name": "Boy's a liar",
         "url": "https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N"
       },

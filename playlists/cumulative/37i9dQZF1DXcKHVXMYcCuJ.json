@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 143760,
       "name": "A Modern Way of Letting Go",
       "url": "https://open.spotify.com/track/1fplcK4BIi4k5hzp2DJ0kt"
@@ -1576,6 +1576,24 @@
       "duration_ms": 206533,
       "name": "Ease",
       "url": "https://open.spotify.com/track/0i5zjtoRR0U2715BEgUsdS"
+    },
+    {
+      "album": {
+        "name": "Whirr & Nothing",
+        "url": "https://open.spotify.com/album/6pDNWot4SaDPtMLerJ3AFZ"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206533,
+      "name": "Ease",
+      "url": "https://open.spotify.com/track/4gOGOvsQkmUCRYCWQYY3mP"
     },
     {
       "album": {

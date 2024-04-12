@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-236 songs - 15 hr 7 min
+237 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Kvelden Lister Seg På Tå](https://open.spotify.com/track/05VWAlqAeLSMuwTED7O0Fu) | [Inger Lise Rypdal](https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH) | [Ved Sengekanten](https://open.spotify.com/album/32hQouZsr5n9bcFbqKiNbf) | 1:53 | 2022-10-20 | 2022-12-30 |
 | [Kvelden Lister Seg På Tå](https://open.spotify.com/track/3aAlj4WfClIgNtli1nBnBm) | [Inger Lise Rypdal](https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH) | [Ved Sengekanten](https://open.spotify.com/album/77LUUJWapj666rvWseXTAy) | 1:53 | 2022-01-27 | 2022-06-24 |
 | [Kyss med smak av tårer](https://open.spotify.com/track/0f7pE9aRfLoGaVEaRUUO4U) | [Finn Kalvik](https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an) | [Ingen vei hjem](https://open.spotify.com/album/7arXs3uqnOvvUBeeuhbADc) | 4:03 | 2022-03-23 | 2022-06-19 |
+| [La Boheme](https://open.spotify.com/track/3DGai1cPz4fxD1oOWw532r) | [Humle](https://open.spotify.com/artist/4Z8YvGSKlWwcKLm1Pem5X2) | [Ta meg hjem igjen](https://open.spotify.com/album/4oopUCZwZnhxgyOEdy56mr) | 3:13 | 2024-04-11 |  |
 | [La oss ta en idealist](https://open.spotify.com/track/7sW9cHKbqoR9e8eL8M5uP0) | [Doddo](https://open.spotify.com/artist/7gWtJcbCpqPRWhvtGo9n1k) | [La oss ta en idealist](https://open.spotify.com/album/5ojGw9GLoqjqfb0hLJGb45) | 4:10 | 2022-01-27 | 2022-07-25 |
 | [Lilla vackra Anna](https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg) | [Finn Kalvik](https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an) | [Kom ut kom fram](https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF) | 3:46 | 2021-12-16 | 2022-07-28 |
 | [Linns vise](https://open.spotify.com/track/6gJu24OVK2qn8lSDhJwJOm) | [Trygve Kongshavn](https://open.spotify.com/artist/5OY2ooNpDtsieQ9ZoOx7W5) | [Linns vise](https://open.spotify.com/album/3ywfU2tolFCerdZYxqAQgO) | 3:43 | 2022-02-17 | 2022-05-12 |
@@ -230,7 +231,7 @@
 | [Varmere vind i vente \- rett og slett en sommersang](https://open.spotify.com/track/0c1JadNYdOyD7jV5MUce8x) | [Lars Martin Myhre](https://open.spotify.com/artist/5pmGOqAGCrrD4Y89zUJknI), [George Berntzen](https://open.spotify.com/artist/64aM7yK1VAVsigZuBIdXMs) | [Varmere vind i vente \- rett og slett en sommersang](https://open.spotify.com/album/4ZirQpiNCCHitHMekJODdl) | 3:58 | 2021-12-16 | 2022-07-17 |
 | [Ved Rondane](https://open.spotify.com/track/3HLVO8u3OJTqkmlqpcjFyt) | [Lars Lillo\-Stenberg](https://open.spotify.com/artist/0NQ2GtKrBJ7KXkVcMUeZU4), [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Synger Grieg med Bugge](https://open.spotify.com/album/3HdAF62AQQmTxrTA7qzimL) | 3:17 | 2021-12-16 | 2022-02-05 |
 | [Ved sida av deg](https://open.spotify.com/track/1aWGezNWSnPXPvlf9ubhIT) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [Flyge fra](https://open.spotify.com/album/02AAUxgJdEzbSsucvXlsXv) | 4:36 | 2022-03-23 | 2022-06-03 |
-| [Ved Sida Av Deg](https://open.spotify.com/track/5kebMyBE7ZTMnHZh6RaoSm) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [Flyge Fra](https://open.spotify.com/album/3MB6vxKquCpTWS0qd3aEX9) | 4:36 | 2023-10-12 |  |
+| [Ved Sida Av Deg](https://open.spotify.com/track/5kebMyBE7ZTMnHZh6RaoSm) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [Flyge Fra](https://open.spotify.com/album/3MB6vxKquCpTWS0qd3aEX9) | 4:36 | 2023-10-12 | 2024-04-12 |
 | [Vegvisir](https://open.spotify.com/track/11uFxNr49ZWoEDJvupsRQx) | [Helene Bøksle](https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT), [Sindre Hotvedt](https://open.spotify.com/artist/6UzXqmZCFu0Qq5v6NbyC14) | [Vegvisir](https://open.spotify.com/album/2BrY4jpqzewSvlmVVHRsBS) | 5:14 | 2022-03-03 | 2022-04-17 |
 | [Veien \(feat\. Kapteinen\)](https://open.spotify.com/track/36Ohx2M4j4l3smfS1VNU6j) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Kapteinen](https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9) | [Veien \(feat\. Kapteinen\)](https://open.spotify.com/album/0eTSDSVIJ2qX76TwGDWWA8) | 4:09 | 2021-12-16 | 2022-07-23 |
 | [Veien tilbake](https://open.spotify.com/track/4ymTQjGfZyJm3MDzjY5GK0) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Veien tilbake](https://open.spotify.com/album/5lehci0k4DY3pMceRZfpqb) | 3:50 | 2021-12-16 | 2022-07-29 |

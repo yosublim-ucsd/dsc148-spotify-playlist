@@ -1,12 +1,12 @@
 {
   "description": "Having a bad day? We know how it feels!",
-  "num_followers": 4059192,
+  "num_followers": 4059184,
   "original_name": "Life Sucks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTI4N2U0ZGRmMTM3N2ViNDQ0MTNlZWUyNjUwMGJmOTI2YzdmODc3",
+  "snapshot_id": "MTcwODk5ODEwMywwMDAwMDAwMDUzYTRiZTEzNTgyZTdmMjM2YjZiNDM3YmM1OTdiNjJl",
   "tracks": [
     {
       "added_at": "2024-02-27 01:41:43",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "TAKE TIME",
-        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 260776,
-      "name": "Like I Want You",
-      "url": "https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
         "name": "Joanne (Deluxe)",
         "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 205280,
       "name": "Million Reasons",
       "url": "https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
+        "name": "TAKE TIME",
+        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 260776,
+      "name": "Like I Want You",
+      "url": "https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
+        "name": "No Time To Die",
+        "url": "https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 242265,
+      "name": "No Time To Die",
+      "url": "https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
         "name": "us",
         "url": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 251033,
       "name": "i hate u, i love u (feat. olivia o'brien)",
       "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
-        "name": "No Time To Die",
-        "url": "https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 242265,
-      "name": "No Time To Die",
-      "url": "https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/4w177LbRYa3z07NifGptFp"
-      },
-      "artists": [
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 230880,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
         "name": "One More Light",
         "url": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 255066,
       "name": "One More Light",
       "url": "https://open.spotify.com/track/3xXBsjrbG1xQIm1xv1cKOt"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/4w177LbRYa3z07NifGptFp"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 230880,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+        "name": "blame's on me",
+        "url": "https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 238520,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
+      "duration_ms": 138374,
+      "name": "blame's on me",
+      "url": "https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "blame's on me",
-        "url": "https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY"
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
       "artists": [
         {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 138374,
-      "name": "blame's on me",
-      "url": "https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP"
+      "duration_ms": 238520,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "B'Day Deluxe Edition",
-        "url": "https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 227853,
-      "name": "Irreplaceable",
-      "url": "https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 230288,
       "name": "Next To Me",
       "url": "https://open.spotify.com/track/31VOknKjFrEX47bZXzqcoF"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
+        "name": "B'Day Deluxe Edition",
+        "url": "https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 227853,
+      "name": "Irreplaceable",
+      "url": "https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "Mansion",
-        "url": "https://open.spotify.com/album/3Qq4kVfHPrs8xPKIYKmctl"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 270453,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/5DHQKZCOZhGNTbYBCekWx0"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 161367,
       "name": "Bigger Person",
       "url": "https://open.spotify.com/track/2Kqw2ECnErSCU9bxPSVgGx"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
+        "name": "Mansion",
+        "url": "https://open.spotify.com/album/3Qq4kVfHPrs8xPKIYKmctl"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "duration_ms": 270453,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/5DHQKZCOZhGNTbYBCekWx0"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "Blood Harmony (Deluxe)",
-        "url": "https://open.spotify.com/album/52Kcim8psSCfCJN2kktKDj"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 237979,
-      "name": "Break My Heart Again",
-      "url": "https://open.spotify.com/track/7zw6nQHTwml1mVuQDf5V6k"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
         "name": "the masquerade",
         "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 197933,
       "name": "prom dress",
       "url": "https://open.spotify.com/track/2u4XZR5A8cRPTPxBLJbAFC"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
+        "name": "Blood Harmony (Deluxe)",
+        "url": "https://open.spotify.com/album/52Kcim8psSCfCJN2kktKDj"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 237979,
+      "name": "Break My Heart Again",
+      "url": "https://open.spotify.com/track/7zw6nQHTwml1mVuQDf5V6k"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
+        "name": "Freya Ridings",
+        "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "duration_ms": 225853,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
         "name": "sex money feelings die (slowed version)",
         "url": "https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1"
       },
@@ -1951,22 +1967,6 @@
       "duration_ms": 271813,
       "name": "Beneath Your Beautiful (feat. Emeli Sand\u00e9)",
       "url": "https://open.spotify.com/track/2EcsgXlxz99UMDSPg5T8RF"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
-        "name": "Freya Ridings",
-        "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
-      },
-      "artists": [
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
-        }
-      ],
-      "duration_ms": 225853,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "Violent",
-        "url": "https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1"
-      },
-      "artists": [
-        {
-          "name": "carolesdaughter",
-          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
-        }
-      ],
-      "duration_ms": 135877,
-      "name": "Violent",
-      "url": "https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
         "name": "Nectar",
         "url": "https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 207710,
       "name": "Ew",
       "url": "https://open.spotify.com/track/1y9kw88x5zwG9Pyxu3veQ2"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
+        "name": "Violent",
+        "url": "https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1"
+      },
+      "artists": [
+        {
+          "name": "carolesdaughter",
+          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
+        }
+      ],
+      "duration_ms": 135877,
+      "name": "Violent",
+      "url": "https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "THE END OF EVERYTHING",
-        "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 144377,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/6U1iuA5QfzYRPJxvdcxqtf"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
       },
@@ -2235,6 +2219,22 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
+        "name": "THE END OF EVERYTHING",
+        "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 144377,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/6U1iuA5QfzYRPJxvdcxqtf"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
         "name": "Plans",
         "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
       },
@@ -2247,6 +2247,26 @@
       "duration_ms": 189186,
       "name": "I Will Follow You into the Dark",
       "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/1jcNHi5D96aaD0T5f1OjFY"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 163905,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -2315,42 +2335,6 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/1jcNHi5D96aaD0T5f1OjFY"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 163905,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
-        "name": "In A Perfect World (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/6KkyuDhrEhR5nJVKtv9mCf"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 158324,
       "name": "Unstable (feat. The Kid LAROI)",
       "url": "https://open.spotify.com/track/137mSruegm1u6x9NvwiagR"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
+        "name": "In A Perfect World (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 230266,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/6KkyuDhrEhR5nJVKtv9mCf"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -3027,22 +3027,6 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 214525,
-      "name": "Paper Houses",
-      "url": "https://open.spotify.com/track/1hJ6KojJObbRvjuVj8Ezya"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
         "name": "Loser",
         "url": "https://open.spotify.com/album/7qUpf1A0w5hh4Do5SLRYjP"
       },
@@ -3071,6 +3055,22 @@
       "duration_ms": 268853,
       "name": "Don't Forget About Me",
       "url": "https://open.spotify.com/track/4gVZhkcsZcwQ4mU1gEeXEO"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 214525,
+      "name": "Paper Houses",
+      "url": "https://open.spotify.com/track/1hJ6KojJObbRvjuVj8Ezya"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -3139,18 +3139,22 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "I Can't Carry This Anymore",
-        "url": "https://open.spotify.com/album/51FT0jxpcACduSG3w3NiFL"
+        "name": "when was it over? (feat. Sam Hunt)",
+        "url": "https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG"
       },
       "artists": [
         {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        },
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 200000,
-      "name": "I Can't Carry This Anymore",
-      "url": "https://open.spotify.com/track/2vzWylXWogTG11HR0frews"
+      "duration_ms": 218093,
+      "name": "when was it over? (feat. Sam Hunt)",
+      "url": "https://open.spotify.com/track/779UN3kabApm2zfqX549vf"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -3171,6 +3175,22 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
+        "name": "I Can't Carry This Anymore",
+        "url": "https://open.spotify.com/album/51FT0jxpcACduSG3w3NiFL"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "I Can't Carry This Anymore",
+      "url": "https://open.spotify.com/track/2vzWylXWogTG11HR0frews"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
         "name": "I met you when I was 18. (the playlist)",
         "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
       },
@@ -3183,26 +3203,6 @@
       "duration_ms": 229029,
       "name": "The Story Never Ends",
       "url": "https://open.spotify.com/track/2hTcD5aTYlQoTT76KofQam"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
-        "name": "when was it over? (feat. Sam Hunt)",
-        "url": "https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        },
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 218093,
-      "name": "when was it over? (feat. Sam Hunt)",
-      "url": "https://open.spotify.com/track/779UN3kabApm2zfqX549vf"
     },
     {
       "added_at": "2024-02-27 01:41:43",

@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 57947,
+  "2024-04-12": 57996,
   "date_first_scraped": "2021-12-28",
   "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0627\u063a\u0627\u0646\u064a \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629. \u063a\u0644\u0627\u0641: \u0645\u0635\u0637\u0641\u0649 \u0627\u0644\u0639\u0628\u062f\u0627\u0644\u0644\u0647 \u0648 \u0627\u062d\u0645\u062f \u0627\u0644\u0628\u0634\u064a\u0631\t",
   "name": "\u0639\u0631\u0627\u0642\u064a \u062c\u062f\u064a\u062f",
@@ -1835,7 +1835,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 203022,
       "name": "Enta",
       "url": "https://open.spotify.com/track/2OfuMF4Sl6lTYPRb4sqOAL"
@@ -3195,6 +3195,24 @@
       "duration_ms": 203885,
       "name": "Ma Khaleek Tetshamat",
       "url": "https://open.spotify.com/track/7MBUSkkQlELJVysEKeAvbI"
+    },
+    {
+      "album": {
+        "name": "Ma Matroukaa",
+        "url": "https://open.spotify.com/album/31KGaz4Fhmsr8xLFWCOyL9"
+      },
+      "artists": [
+        {
+          "name": "Saif Nabeel",
+          "url": "https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Ma Matroukaa",
+      "url": "https://open.spotify.com/track/1hx7D9TXiCGZg5LUZWZgL8"
     },
     {
       "album": {

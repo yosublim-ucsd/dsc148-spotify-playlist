@@ -2,9 +2,9 @@
 
 ### [The Sound of Formosa](https://open.spotify.com/playlist/37i9dQZF1DXbploA264Kx0)
 
-> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Howard Lee \(李浩瑋\)
+> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Andr
 
-131 songs - 7 hr 43 min
+133 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Name](https://open.spotify.com/track/0rHUXjS5ZBKq5ni1QNmhRj) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g), [Seiji Kameda](https://open.spotify.com/artist/4gxF6fznAjW2jjDzjZrOka) | [World](https://open.spotify.com/album/75pDhSjbAaNzRkCPpHDKB1) | 3:16 | 2024-02-29 | 2024-03-15 |
 | [Never Know](https://open.spotify.com/track/213vfj5F7G3K9boSZwFwPf) | [PuFFcorn](https://open.spotify.com/artist/75AWJxPcyXS5Qu2gjcbcLE), [Brogs](https://open.spotify.com/artist/0Zu5rxrWkTZlu2EcnZx7sz), [Adrian](https://open.spotify.com/artist/5CD1PlUn30ugYttLp1aQ99) | [Never Know](https://open.spotify.com/album/76BuuMSS3t9gBCZ25y5XMa) | 2:49 | 2024-01-25 | 2024-03-29 |
 | [Not4U \(A\_LIVE PASS Session\)](https://open.spotify.com/track/0BiIzoPONZILYyD4XZhkXo) | [Edelyn](https://open.spotify.com/artist/70Bc8yYTfXV3n8AtUH6xZG) | [Not4U \(A\_LIVE PASS Session\)](https://open.spotify.com/album/61lCpEzYELyoQnZ98nDQdN) | 8:27 | 2024-01-25 | 2024-02-16 |
-| [Nothing Shaped Hearts](https://open.spotify.com/track/4wEgu6sCB96TB1SSUNTFkh) | [Super Napkin](https://open.spotify.com/artist/5zqQabBzjxOyA0VkIRjPZw) | [Nothing is Diamond, Diamond is Wrong](https://open.spotify.com/album/3ny1FFWk6PQF98kodYn9WQ) | 3:48 | 2024-03-21 |  |
+| [Nothing Shaped Hearts](https://open.spotify.com/track/4wEgu6sCB96TB1SSUNTFkh) | [Super Napkin](https://open.spotify.com/artist/5zqQabBzjxOyA0VkIRjPZw) | [Nothing is Diamond, Diamond is Wrong](https://open.spotify.com/album/3ny1FFWk6PQF98kodYn9WQ) | 3:48 | 2024-03-21 | 2024-04-12 |
 | [NOVA](https://open.spotify.com/track/46olTau19rKKQLQTzYLyOh) | [wannasleep](https://open.spotify.com/artist/1Qe4VNycDbzI2unKKDtQ0x), [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [BS](https://open.spotify.com/album/2QtQLczBDz2IiCDvzPf6XV) | 3:36 | 2024-02-29 | 2024-03-15 |
 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 | 2024-02-29 | 2024-03-15 |
 | [Oh Why](https://open.spotify.com/track/6bNSDf3jZ7ThziVCbq0Mq2) | [The Fur.​](https://open.spotify.com/artist/0neVDcSdi4GMgFduUudWve) | [Serene Reminder](https://open.spotify.com/album/2TB1J2Q397wIpztQvyH5D1) | 3:36 | 2024-01-25 |  |
@@ -88,7 +88,7 @@
 | [sharp knife](https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [sharp knife](https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI) | 2:50 | 2024-01-25 |  |
 | [Side2Side \(feat\. Kris Kiss\)](https://open.spotify.com/track/4fW6SaZcLGqorpZ8iORrNt) | [Bonka](https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF), [DJ Junior \(TW\)](https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [Side2Side \(feat\. Kris Kiss\)](https://open.spotify.com/album/0XkB0bCvalhDWuiG5Cqdnr) | 1:57 | 2024-03-14 | 2024-03-29 |
 | [Sleepwalking](https://open.spotify.com/track/0JaEw62n5uyNZRT29SrkdW) | [羊駝小姐](https://open.spotify.com/artist/4BjR5qTMbBGGAmN7r1ysaA) | [Sleepwalking](https://open.spotify.com/album/4sLOmpKrjyvbPs3X1k961F) | 4:13 | 2024-03-21 |  |
-| [smoky room](https://open.spotify.com/track/7B3p5Cm9avnzwKUDAEBWnV) | [張牧喬](https://open.spotify.com/artist/3PwhR9DEOjrmcRTaPvY2LZ) | [smoky room](https://open.spotify.com/album/54qUi4zKKDG3Qs2oa0zwQa) | 1:44 | 2024-03-21 |  |
+| [smoky room](https://open.spotify.com/track/7B3p5Cm9avnzwKUDAEBWnV) | [張牧喬](https://open.spotify.com/artist/3PwhR9DEOjrmcRTaPvY2LZ) | [smoky room](https://open.spotify.com/album/54qUi4zKKDG3Qs2oa0zwQa) | 1:44 | 2024-03-21 | 2024-04-12 |
 | [Split Personality](https://open.spotify.com/track/4pPN21vwQWAvKPdV8Ek08s) | [K.I](https://open.spotify.com/artist/6fG5o0kIAg543WNXI4AkZe) | [Split Personality](https://open.spotify.com/album/3QEdZhrousPRLWQhC4MKVt) | 3:58 | 2024-02-15 | 2024-03-29 |
 | [Spring Summer Autumn \(Winter \- I Mean Us Remix](https://open.spotify.com/track/3QUmuOHWeHVExgkqT26Ogf) | [UQiYO](https://open.spotify.com/artist/46yZjVAVfu5XOYzOpBlfHW), [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [Spring Summer Autumn \(Winter \[I Mean Us Remix\]](https://open.spotify.com/album/6VF0KKzVuA69bHBjKupyXn) | 2:24 | 2024-01-25 |  |
 | [St\. Lover](https://open.spotify.com/track/46nAMfcng8oqyillYZt7u4) | [Edisong](https://open.spotify.com/artist/0RhNindPw9ZrA5KmSr6ASN), [林映唯](https://open.spotify.com/artist/0vEN77zurrawTwPgocgd91) | [St\. Lover](https://open.spotify.com/album/4A5hgurZJxNOkuJweFZTDQ) | 3:37 | 2024-01-25 |  |
@@ -97,6 +97,7 @@
 | [Tell Me](https://open.spotify.com/track/6akj6TwlmOSo4q6tmPj7Lv) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Mitsu The Beats](https://open.spotify.com/artist/17fQB1QlHkyLRJbTTP7zEz) | [9m88 Radio](https://open.spotify.com/album/0ltKqyXZYTB5RPF0KvkmPQ) | 4:06 | 2024-02-29 | 2024-03-15 |
 | [Terracotta](https://open.spotify.com/track/3yycg2Wzo2Rv3t4nTdQiq8) | [Mong Tong](https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo) | [Terracotta](https://open.spotify.com/album/5SkfmA6JHn14iV0vxtOtpb) | 2:03 | 2024-02-01 | 2024-03-15 |
 | [The Regionals: Taipei \(feat\. NICKTHEREAL, Karencici, Julia Wu, Kumachan\)](https://open.spotify.com/track/0dKUOtfSILNo9GyWx9VIjk) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK), [Kumachan](https://open.spotify.com/artist/5DdhWWd83hbrWLXIVx129X), [NICKTHEREAL](https://open.spotify.com/artist/1fHw35wWkpOw05sswFSl70) | [The Regionals: Taipei \(feat\. NICKTHEREAL, Karencici, Julia Wu, Kumachan\)](https://open.spotify.com/album/5QTKfxYNGFJGIoaNpCSF8y) | 3:34 | 2024-01-25 |  |
+| [the road of death](https://open.spotify.com/track/67HiU3Fmjk108dmyQcrNwj) | [張牧喬](https://open.spotify.com/artist/3PwhR9DEOjrmcRTaPvY2LZ) | [the road of death](https://open.spotify.com/album/0DnAPW0UzsiPm5PByMmYmw) | 2:10 | 2024-04-11 |  |
 | [The Same Title 狗血](https://open.spotify.com/track/0pXsKHPFzl8XYAXsfxFzpi) | [Majin](https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl) | [1Majin Nation](https://open.spotify.com/album/2kJYCOovUBZ0on2ig5HInZ) | 2:53 | 2024-02-29 | 2024-03-15 |
 | [The Way We Were \- Remix](https://open.spotify.com/track/4mBjUaCp1tituvl2n9azzE) | [鄒序](https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0), [Flowstrong](https://open.spotify.com/artist/3KgKUvLzPtJSiXz0WC71YH), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [The Way We Were \(Remix\)](https://open.spotify.com/album/3mZj6uUirkPHRde458W9R2) | 3:49 | 2024-01-25 | 2024-03-29 |
 | [Thinking About You](https://open.spotify.com/track/5JDoRZ0rgo9cbvSsCdFJQt) | [DEW](https://open.spotify.com/artist/0cx8Y0CHBbSVWtAufwKdhk) | [Thinking About You](https://open.spotify.com/album/4m1mEGiXCzSqOm4l7Caroe) | 3:16 | 2024-01-25 |  |
@@ -137,6 +138,7 @@
 | [自信勇敢咱的名](https://open.spotify.com/track/62ih8yFo1urUe2RsZV8uvq) | [Fire EX.](https://open.spotify.com/artist/7qBIgabdHdcr6NLujDxWAU) | [自信勇敢咱的名](https://open.spotify.com/album/2tJl19l0xjVGMPgvDTvVd7) | 4:12 | 2024-02-29 | 2024-03-15 |
 | [葉柏 PY](https://open.spotify.com/track/3GAuZzIN3c2ojn9CIOPeWl) | [CHIU PI](https://open.spotify.com/artist/2lUrSsHsfcCEL03ByHevnY) | [至繁 LE MONDE](https://open.spotify.com/album/7uUz5hxP7b8oLNLfHu8ODs) | 4:40 | 2024-01-25 |  |
 | [超級英雄 Antibiotic](https://open.spotify.com/track/0jCx4g5bqpmUoz86x1Rgm0) | [Fire EX.](https://open.spotify.com/artist/7qBIgabdHdcr6NLujDxWAU) | [超級英雄 Antibiotic](https://open.spotify.com/album/4OfhbyxPpVnACKoB42nwY7) | 3:15 | 2024-02-29 | 2024-03-15 |
+| [釋迦 \- Live Session](https://open.spotify.com/track/3Z3oabr31eKhocCaFoMiHE) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [釋迦 \(Live Session\)](https://open.spotify.com/album/73lJKnwBSY4nN072HpBD8N) | 4:31 | 2024-04-11 |  |
 | [長寧1008](https://open.spotify.com/track/5OwqDvgx6yJtOwBKFAv3jk) | [康士坦的變化球](https://open.spotify.com/artist/4fmdz90I7bCk35iK6GZ9fK) | [眠月線](https://open.spotify.com/album/7FhIYDInaZy3xZkTNVuMYO) | 5:15 | 2024-02-29 | 2024-03-15 |
 | [長途夜車](https://open.spotify.com/track/2DZLyqxPBCziw1YJOWPCjQ) | [Fire EX.](https://open.spotify.com/artist/7qBIgabdHdcr6NLujDxWAU) | [進擊下半場](https://open.spotify.com/album/2PkESw7qmj3Vc4X2R4KSPy) | 3:06 | 2024-02-29 | 2024-03-15 |
 

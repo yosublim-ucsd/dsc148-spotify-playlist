@@ -4,7 +4,7 @@
 
 > It's how you wear the mask that matters\. Music from and inspired by Spider\-Man: Into the Spider\-Verse and Spider\-Man: Across the Spider\-Verse.
 
-76 songs - 3 hr 56 min
+77 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Invincible](https://open.spotify.com/track/6VS7wKwtvL2FvTupYSWZ9e) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 3:16 | 2023-06-26 |  |
 | [Let Go](https://open.spotify.com/track/5F2AuFzEiuAQD0JVNjVJQz) | [Beau Young Prince](https://open.spotify.com/artist/5fxPQ2Mzi7apfCMPuKwmSd) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:57 | 2023-06-26 |  |
 | [Link Up \(Metro Boomin & Don Toliver, Wizkid feat\. BEAM & Toian\) \- Spider\-Verse Remix \(Spider\-Man: Across the Spider\-Verse \)](https://open.spotify.com/track/0y8Pu7x5jXgUjOIJvQIF5L) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Toian](https://open.spotify.com/artist/5sBdzqT2jx5jacEUcBn6X1) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 3:15 | 2023-06-26 |  |
+| [Make It Out Alive \- The Spider Within: A Spider\-Verse Story](https://open.spotify.com/track/7shT6hTBBFtP5zvOFOqFnr) | [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Make It Out Alive \- The Spider Within: A Spider\-Verse Story](https://open.spotify.com/album/5bPN5komz0RfntHeE07PPA) | 3:30 | 2024-04-12 |  |
 | [Memories](https://open.spotify.com/track/2CWOMDYFK4Ef3867nEhnVM) | [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 3:19 | 2023-06-26 |  |
 | [Miles Morales Returns](https://open.spotify.com/track/3Wzq5unv57NmMS0S6fj5MH) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Spider\-Man: Into the Spider\-Verse \(Original Score\)](https://open.spotify.com/album/5KP2NReDL2Bv0QLzHSvUwM) | 3:45 | 2023-06-26 |  |
 | [Miles Sketchbook](https://open.spotify.com/track/27XzkVxTM5BAoFUsOUqgEP) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Spider\-Man: Across the Spider\-Verse \(Original Score\)](https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO) | 2:01 | 2023-06-26 |  |

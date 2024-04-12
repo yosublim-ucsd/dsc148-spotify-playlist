@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,151 likes - 74 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,510 likes - 74 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 | 73 | [Humming Bird Rework](https://open.spotify.com/track/0xTeFwl9WhyJ9grMLB1X8B) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp), [mondëna quartet](https://open.spotify.com/artist/1t66cANdsYEErfgZjzplzo) | [Humming Bird Rework](https://open.spotify.com/album/3KmLGgnFa1fUfudmtrAG3m) | 3:21 |
 | 74 | [Mercure, Scene 1: La nuit](https://open.spotify.com/track/5TKvSoHEXaCyk2GKM6pC3J) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Orchestre Symphonique et Lyrique de Nancy](https://open.spotify.com/artist/0g4p5Yus79xwJKf9co2RCR), [Jerome Kaltenbach](https://open.spotify.com/artist/3jK1IVWV4t4FTXjCiobeE2) | [Satie: Parade, Gymnopédies, Mercure & Relâche](https://open.spotify.com/album/3IFCqrc4GgSrN50MqNlIpw) | 1:13 |
 
-Snapshot ID: `MCw0ZWIzNTMzZDI4MjM0ZGY0NzMwNjQ3MmVjMmE0YzIxZGM2YzJiY2M2`
+Snapshot ID: `MTcxMjMxMjg2MywwMDAwMDAwMGNmMDU2OTYzOWNkMzY5M2RmZmJhNDdhYjA1NWUyOGMz`

@@ -4,7 +4,7 @@
 
 > The biggest Japanese rock hits right now\.  Cover: SHISHAMO　日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-1,429 songs - 3 day 17 hr 33 min
+1,431 songs - 3 day 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [\#情とは](https://open.spotify.com/track/4Lf4diEdzh2jwa9TnXxxjE) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [\#情とは](https://open.spotify.com/album/6cC8UvmqdRY7BuTwsksak6) | 4:50 | 2023-02-28 | 2023-04-12 |
 | [\):阿修羅:\(](https://open.spotify.com/track/0jSHwhowInP7AgP9BkWudl) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 2:31 | 2023-11-28 | 2024-04-03 |
 | [0.1s](https://open.spotify.com/track/5o7OOyyYhECPsNY26BkUvx) | [mol\-74](https://open.spotify.com/artist/7sVShwPweG5PNLgVPdWlbx) | [0.1s](https://open.spotify.com/album/3oF28gWJBXWJfLWlj4PaGf) | 4:06 | 2023-06-27 | 2023-07-19 |
-| [01](https://open.spotify.com/track/7r6pHYnNYqxSZr8e40VF8T) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [01](https://open.spotify.com/album/7DkIDS9gWtm6PQs9P7TnBz) | 3:06 | 2023-10-10 |  |
+| [01](https://open.spotify.com/track/7r6pHYnNYqxSZr8e40VF8T) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [01](https://open.spotify.com/album/7DkIDS9gWtm6PQs9P7TnBz) | 3:06 | 2023-10-10 | 2024-04-12 |
 | [1096](https://open.spotify.com/track/7Ld2efllkAfXdSOkAqPNwu) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [1096](https://open.spotify.com/album/2Cf2vmP3ffvd5n1Qo1UFNY) | 5:45 | 2023-01-31 | 2023-03-01 |
 | [111511](https://open.spotify.com/track/5KT0dvGqAFVdlXJTZ1NWzs) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [Underlight & Aftertime](https://open.spotify.com/album/1wNakLzgelD7G7mGhqElBC) | 4:18 | 2024-03-05 | 2024-03-27 |
 | [17](https://open.spotify.com/track/1kGkbJkZTUKOpaq40DmO4X) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [17](https://open.spotify.com/album/1etb2Hta613MH9sUYvUIaj) | 2:55 | 2024-01-16 | 2024-02-14 |
@@ -991,7 +991,7 @@
 | [ナイスアイディア！](https://open.spotify.com/track/0M7rTSchHlSDzbwjA7s9eu) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ナイスアイディア！](https://open.spotify.com/album/5iHRmLOt9Qn5hgqirPBKAU) | 3:15 | 2024-03-19 |  |
 | [ナイトルーティーン \(cover\)](https://open.spotify.com/track/7uzcoT2etqeHFx9BDmi87Z) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ナイトルーティーン](https://open.spotify.com/album/2NqhmEu8cBbJatVQZRfMGT) | 3:42 | 2023-12-14 | 2024-01-10 |
 | [ナツメクル](https://open.spotify.com/track/1K1MRN7pf8EfYGZ5f5jJUi) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [ナツメクル](https://open.spotify.com/album/1RSclYVEl9nTiWomrFsYeO) | 3:15 | 2023-06-27 | 2023-06-29 |
-| [ナハトムジーク](https://open.spotify.com/track/7sditHCsoFw3nHnjFv1BHV) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ナハトムジーク](https://open.spotify.com/album/3ciQ76hHbqu2syaDi0QPti) | 4:22 | 2024-01-16 |  |
+| [ナハトムジーク](https://open.spotify.com/track/7sditHCsoFw3nHnjFv1BHV) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ナハトムジーク](https://open.spotify.com/album/3ciQ76hHbqu2syaDi0QPti) | 4:22 | 2024-01-16 | 2024-04-12 |
 | [ニタリ](https://open.spotify.com/track/0G8ErkrQkzU6usCXnly1Ge) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [ニタリ](https://open.spotify.com/album/2jKlF8Ilvqr4fAAm1mShrI) | 2:43 | 2024-01-16 | 2024-01-18 |
 | [ネイビーオレンジ\(AI VOCAL\)](https://open.spotify.com/track/4JIU603Pf3TVBB2SFBBFUi) | [UNICORN](https://open.spotify.com/artist/0z4FY376uhecutd5Adph8s) | [ええ愛のメモリ](https://open.spotify.com/album/6hHu1BjPsB91vEtYh6ZjGc) | 3:31 | 2023-10-10 | 2023-11-01 |
 | [ノックブーツ](https://open.spotify.com/track/0qgj1atPxj1ae6rG7VHS0M) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [ノックブーツ](https://open.spotify.com/album/6adm4VVFTHqIF4qmKbcpOd) | 3:11 | 2023-09-12 | 2023-12-06 |
@@ -1075,6 +1075,7 @@
 | [ユメのはじまり。](https://open.spotify.com/track/66oYFwtVhj0zSayFxcNaSj) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ユメのはじまり。](https://open.spotify.com/album/3b3WoVqAc6zcXApOjchHvj) | 4:05 | 2024-01-23 | 2024-02-21 |
 | [ユートピア](https://open.spotify.com/track/0BNRPhGI1A8MHZqyDaJEEq) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BACK](https://open.spotify.com/album/7Ej2LUL0yWgp3eHjLROaNd) | 2:39 | 2023-10-03 | 2024-01-19 |
 | [ヨーソロー](https://open.spotify.com/track/4p8zpIOdWUBAvo76pNVoIi) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [ヨーソロー](https://open.spotify.com/album/6wEFC1ktCxt68EsVT2e2cX) | 4:44 | 2023-08-01 | 2023-09-13 |
+| [ライラック](https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ライラック](https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel) | 4:48 | 2024-04-11 |  |
 | [ラストシーン](https://open.spotify.com/track/5L43elZ4LuEBDBH8KYBGb1) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [ラストシーン](https://open.spotify.com/album/2HwNyfPBEHlxYmeou5UsUs) | 4:34 | 2023-05-25 | 2023-06-30 |
 | [ラストシーン](https://open.spotify.com/track/76rwHMqKcw9v9IWBwQWItn) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [ラストシーン](https://open.spotify.com/album/1vPjwkJ6P8GWadlPrlvYY3) | 3:11 | 2023-02-14 | 2023-03-15 |
 | [ラストソング](https://open.spotify.com/track/0IOTbTpjTx1aAt7a25TGPg) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [ラストソング](https://open.spotify.com/album/7ynKhVVU90AJdf2hmWWqir) | 3:31 | 2023-07-04 | 2023-07-06 |
@@ -1387,6 +1388,7 @@
 | [論理はロンリー](https://open.spotify.com/track/5RoGgHnJ6QAClrbmjHvFdS) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [論理はロンリー](https://open.spotify.com/album/3U38JcKpHHhRfY2h7y0ESd) | 4:48 | 2024-01-09 | 2024-01-17 |
 | [谺する](https://open.spotify.com/track/6UnwxlaVawV7eqFkjhixL5) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [谺する](https://open.spotify.com/album/5rneoMxGzl8AKW3Pqxj11O) | 5:00 | 2024-01-25 | 2024-04-05 |
 | [貴方依存症](https://open.spotify.com/track/4oJn4hDoQYzvJNAGxo6u3I) | [cherie](https://open.spotify.com/artist/1nNlKcJf1h43ksIjVFKF7e) | [貴方依存症](https://open.spotify.com/album/7gWu4jfTTrzOSmyYIN5cqh) | 3:03 | 2023-12-05 | 2024-01-10 |
+| [超メモリアル](https://open.spotify.com/track/3jbFfa2rRHQKMj1rg7KowX) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [超メモリアル](https://open.spotify.com/album/3XKe2Pdxu8DgLOweg6U2xs) | 3:33 | 2024-04-11 |  |
 | [超最悪](https://open.spotify.com/track/4yxY92AAlRIlu22ZNjUaVo) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [超最悪](https://open.spotify.com/album/7g1qyIxwtT6TmuHlu5mhcK) | 2:58 | 2023-01-13 | 2023-01-25 |
 | [踊ろう命ある限り](https://open.spotify.com/track/3iODGH9tZZ7vrjXzvoQ3aE) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [踊ろう命ある限り](https://open.spotify.com/album/4VUlJEGhVA4qa5vAuH625w) | 3:42 | 2023-01-13 | 2023-01-25 |
 | [輝き](https://open.spotify.com/track/2e6nZ02qETkZALnBGG1aTl) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [輝き](https://open.spotify.com/album/7JdKAy26iMnj4xxLm87cNB) | 3:09 | 2023-05-16 | 2023-05-18 |

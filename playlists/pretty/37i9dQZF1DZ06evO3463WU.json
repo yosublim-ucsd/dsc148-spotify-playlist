@@ -1,12 +1,12 @@
 {
-  "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 142845,
+  "description": "This Is Pancho Barraza. Los temas esenciales, todos en una lista.",
+  "num_followers": 142889,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzlhYTA4ODI1MjVhZjM1MzJmZWJjNmEzYWJmZjI2Mzc5YjQ5MjMw",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDBjNDg4ZDNmMmM0YjUzYjFhZjFlYTc4YmM5OWRiMDY4",
   "tracks": [
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 193317,
+      "name": "Adi\u00f3s, Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3DeS3HVYR3hhb2WkomDsEU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Polvo Y Nada",
         "url": "https://open.spotify.com/album/0tsv50A3ZdXC5EeohYYHag"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 214505,
       "name": "Polvo Y Nada",
       "url": "https://open.spotify.com/track/3hxmYDtf38nK7MLtbdaHFj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Canciones de Amor",
-        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 193317,
-      "name": "Adi\u00f3s, Adi\u00f3s",
-      "url": "https://open.spotify.com/track/3DeS3HVYR3hhb2WkomDsEU"
     },
     {
       "added_at": null,
@@ -911,22 +911,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Va a Matarme Tu Amor",
-        "url": "https://open.spotify.com/album/1C5YP77Dh2dKDNT2B6VpSX"
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/3aTunEoRKVkwVIrAk1FIZ3"
       },
       "artists": [
+        {
+          "name": "Linea M",
+          "url": "https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3"
+        },
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         },
         {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+          "name": "Jes\u00fas Uriarte",
+          "url": "https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h"
         }
       ],
-      "duration_ms": 189440,
-      "name": "No Va a Matarme Tu Amor",
-      "url": "https://open.spotify.com/track/3awcf60XKtp6eSWcxGluyT"
+      "duration_ms": 168166,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/07YG8ICjrjgUFtQxTqerMN"
     }
   ],
   "unique_name": "This Is Pancho Barraza",

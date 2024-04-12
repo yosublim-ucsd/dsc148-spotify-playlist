@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: فهد بن فصلا
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,428 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,458 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 49 | [‎يا ابن خماش](https://open.spotify.com/track/5poJi9KfMINtm0sZ06nSoD) | [محمد آل نجم](https://open.spotify.com/artist/6XFaew6NT18YAjTawaYaTI) | [‎يا ابن خماش](https://open.spotify.com/album/74qnorGX715jcLNRMmMSds) | 4:02 |
 | 50 | [قسى قلبي](https://open.spotify.com/track/6X6BT4uBU3na7yjezP0J5W) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch), [عبدالله ال مخلص](https://open.spotify.com/artist/4JZQhxKthQ6L3uKWDPgi2o) | [قسى قلبي](https://open.spotify.com/album/0ztwgs4TvB7FgwpbYDYjG1) | 4:13 |
 
-Snapshot ID: `MCxmOGIzOTE4NzVlZTYzMWVkZDZmMDRhYzFmOGQ3YzBlNTBlMWIzNDEw`
+Snapshot ID: `MTcxMjc1NjgyNywwMDAwMDAwMDI5OTM1ZDM2OTQ0YjI4MmRiY2Q1YTVkOWZkMTU5MzBk`

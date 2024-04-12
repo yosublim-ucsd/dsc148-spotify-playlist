@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: LEX & LANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,462 likes - 83 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,520 likes - 83 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 13 | [HYAKKIYAKO](https://open.spotify.com/track/48EErLKgvtuB1rQh7P5q41) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [HYAKKIYAKO](https://open.spotify.com/album/0m9SCyoEvBNKfY7SMxO6si) | 3:49 |
 | 14 | [RANDO \- Double Clapperz Remix](https://open.spotify.com/track/7dZH1y8Ymj3OS7MOZJoEoS) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [Double Clapperz](https://open.spotify.com/artist/7tMpkHHGx888nBtdiDZ1Ql) | [Soul Quake \(Remixes, Vol\. 1\)](https://open.spotify.com/album/374C36Dszbio6pr7BwDINq) | 2:22 |
 | 15 | [Otsukaresama!!](https://open.spotify.com/track/6UzO17ksoRaskS8OQkKpv8) | [8](https://open.spotify.com/artist/2oHsgOCrUTQmTqqeOoxdVX), [KVGGLV](https://open.spotify.com/artist/5OHEsmlG3h8uYCTi08UktJ) | [Otsukaresama!!](https://open.spotify.com/album/4maKQdWDaOCy7f0TRiJvgv) | 3:12 |
-| 16 | [SHOTS!!!](https://open.spotify.com/track/63zshUJDQXTp2T8i5hyLKB) | [DJ Hazime](https://open.spotify.com/artist/5OTMloJew4RhmaLHAFyItP), [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn), [018](https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN), [kiddy](https://open.spotify.com/artist/48MOj0FSIyfQdOJvTYDFFR) | [SHOTS!!!](https://open.spotify.com/album/6IJ3DBXt8fwP2BmfUrnjxq) | 4:15 |
+| 16 | [SHOTS!!!](https://open.spotify.com/track/7sx4N2vdMRZ5QnO0srvmSS) | [DJ Hazime](https://open.spotify.com/artist/5OTMloJew4RhmaLHAFyItP), [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn), [018](https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN), [kiddy](https://open.spotify.com/artist/48MOj0FSIyfQdOJvTYDFFR) | [SHOTS!!!](https://open.spotify.com/album/55vLyKDIQTNe6Cwh9UDxmn) | 4:15 |
 | 17 | [Neon \- Fully Active Ver.](https://open.spotify.com/track/00GoNIoXYLDnm3jMGr5mKE) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [SAMI\-T](https://open.spotify.com/artist/4FUGDAUEO5GLcnFANJ25KE) | [DANCE](https://open.spotify.com/album/1A1yMVgOJlvlO8pkia9ThB) | 4:43 |
 | 18 | [ベストテン](https://open.spotify.com/track/1gRSHbFFmceJLjIeXqnBG9) | [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY) | [ベストテン](https://open.spotify.com/album/4eQR7jJBpSDyugWzuLFXzp) | 2:41 |
 | 19 | [Pain](https://open.spotify.com/track/1suIqlUJZZqiSb5Qmkjl3V) | [GADORO](https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [TAKANABE](https://open.spotify.com/album/32SouInc98EoMrCCwfvldi) | 4:20 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 82 | [Get Back](https://open.spotify.com/track/0lxWZTQh1QLGH0mKHfMcip) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Get Back](https://open.spotify.com/album/5n3LWRLAo23gemhWfTB4Mc) | 3:27 |
 | 83 | [Do u remember me](https://open.spotify.com/track/3M8hUUiLXqKkk4PCh1KZJN) | [Mall Boyz](https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [gummyboy](https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd) | [Mall Tape 2](https://open.spotify.com/album/0f5URCBlzbh7u7TuSduM6n) | 3:28 |
 
-Snapshot ID: `MCxiMDE3NzA4Y2JiOTE0MmJhNWFiNGY2MjUzYmNmNTBiYzk4NDRjZjQ2`
+Snapshot ID: `MTcxMjY3NDgwMCwwMDAwMDAwMDgwYTk5YjBjZjcwY2MwODk1ZmRjYzUwNzQzYTRhMGRh`

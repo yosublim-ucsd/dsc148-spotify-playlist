@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! ERRE TRES en portada. ",
-  "num_followers": 13588,
+  "num_followers": 13586,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2M4NmQyMWFlMzYyZjM2ZDhjOTE0ZGFmODU4NjBiZWRkOWI0NjE1",
+  "snapshot_id": "MTcxMjI5NjgwMCwwMDAwMDAwMGM2ODcxMDQxNzc5OTE2MWRjMTYxNjU0ODg2YTYwZmQ4",
   "tracks": [
     {
       "added_at": "2024-04-05 06:00:00",
@@ -335,38 +335,6 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
-        "name": "Cuentas Claras\u2026",
-        "url": "https://open.spotify.com/album/530ppwheQIoDV0lOtjJydA"
-      },
-      "artists": [
-        {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-        }
-      ],
-      "duration_ms": 237391,
-      "name": "Cuentas Claras\u2026",
-      "url": "https://open.spotify.com/track/3TP0WQJEPwcp8oHLOh1Di8"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
-        "name": "El Humito",
-        "url": "https://open.spotify.com/album/5c5k6nnUtp4W0ZkJm755yA"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "El Humito",
-      "url": "https://open.spotify.com/track/4fixXL6hrrB4yRzaPtOasF"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
         "name": "No Somos Iguales",
         "url": "https://open.spotify.com/album/6a8f7KXUjf2AWp0Mf5tKxH"
       },
@@ -387,6 +355,38 @@
       "duration_ms": 186250,
       "name": "No Somos Iguales",
       "url": "https://open.spotify.com/track/768hs3HVSrFZzBtuEw4ZBE"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
+        "name": "El Humito",
+        "url": "https://open.spotify.com/album/5c5k6nnUtp4W0ZkJm755yA"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "El Humito",
+      "url": "https://open.spotify.com/track/4fixXL6hrrB4yRzaPtOasF"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
+        "name": "Cuentas Claras\u2026",
+        "url": "https://open.spotify.com/album/530ppwheQIoDV0lOtjJydA"
+      },
+      "artists": [
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        }
+      ],
+      "duration_ms": 237391,
+      "name": "Cuentas Claras\u2026",
+      "url": "https://open.spotify.com/track/3TP0WQJEPwcp8oHLOh1Di8"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
-        "name": "Mi Vida",
-        "url": "https://open.spotify.com/album/7h9QYjMl1MdvKQSvnXj6c5"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        }
-      ],
-      "duration_ms": 117112,
-      "name": "Mi Vida",
-      "url": "https://open.spotify.com/track/55WHGRh8av3cHRMX2MuWFk"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
         "name": "No Le Da",
         "url": "https://open.spotify.com/album/11SF9gtSSELyyrWnPoWdhf"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 182160,
       "name": "No Le Da",
       "url": "https://open.spotify.com/track/1C4ib4NrEVno8VkHXDtvRY"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
+        "name": "Mi Vida",
+        "url": "https://open.spotify.com/album/7h9QYjMl1MdvKQSvnXj6c5"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "duration_ms": 117112,
+      "name": "Mi Vida",
+      "url": "https://open.spotify.com/track/55WHGRh8av3cHRMX2MuWFk"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
-        "name": "ODIOSOTORIUS",
-        "url": "https://open.spotify.com/album/1Hbgu9thBNAmynMfZf8XWK"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "ODIOSOTORIUS",
-      "url": "https://open.spotify.com/track/4P4VJcKFfMzTd3cXLkZw3V"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
         "name": "\u00bfD\u00f3nde Estar\u00e1s?",
         "url": "https://open.spotify.com/album/1HUdC5JjGda1CqfRoXzKcL"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 204631,
       "name": "\u00bfD\u00f3nde Estar\u00e1s?",
       "url": "https://open.spotify.com/track/2osyhnv7vdVGs4VyeBANZ1"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
+        "name": "ODIOSOTORIUS",
+        "url": "https://open.spotify.com/album/1Hbgu9thBNAmynMfZf8XWK"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "ODIOSOTORIUS",
+      "url": "https://open.spotify.com/track/4P4VJcKFfMzTd3cXLkZw3V"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
+        "name": "Amor de \u00d1eros",
+        "url": "https://open.spotify.com/album/1yLQGi8faWEaBa5uKMVSvU"
+      },
+      "artists": [
+        {
+          "name": "Solitario Soldado",
+          "url": "https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG"
+        }
+      ],
+      "duration_ms": 131725,
+      "name": "Amor de \u00d1eros",
+      "url": "https://open.spotify.com/track/6l2meq89gz3CPj3fRWlLv6"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
         "name": "La Mision 3",
         "url": "https://open.spotify.com/album/5gA4AFEjzYhqv1OxixVOK6"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 282598,
       "name": "La Mision 3",
       "url": "https://open.spotify.com/track/11cBc7p39GKbAzpN8izhbh"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
-        "name": "Amor de \u00d1eros",
-        "url": "https://open.spotify.com/album/1yLQGi8faWEaBa5uKMVSvU"
-      },
-      "artists": [
-        {
-          "name": "Solitario Soldado",
-          "url": "https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG"
-        }
-      ],
-      "duration_ms": 131725,
-      "name": "Amor de \u00d1eros",
-      "url": "https://open.spotify.com/track/6l2meq89gz3CPj3fRWlLv6"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -1015,6 +1015,30 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
+        "name": "Alcatraz",
+        "url": "https://open.spotify.com/album/0mZcpftskXcLvpn1JBhese"
+      },
+      "artists": [
+        {
+          "name": "AMBKOR",
+          "url": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        }
+      ],
+      "duration_ms": 219374,
+      "name": "Alcatraz",
+      "url": "https://open.spotify.com/track/76XjcqjKTyZcuAeRGP1Svr"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
         "name": "Agua Bendita",
         "url": "https://open.spotify.com/album/5E43YpkRr0eDPgiNwXzU6N"
       },
@@ -1079,30 +1103,6 @@
       "duration_ms": 167224,
       "name": "3x4",
       "url": "https://open.spotify.com/track/2m0mg2ImTyR4bKV5oW2x57"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
-        "name": "Alcatraz",
-        "url": "https://open.spotify.com/album/0mZcpftskXcLvpn1JBhese"
-      },
-      "artists": [
-        {
-          "name": "AMBKOR",
-          "url": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        }
-      ],
-      "duration_ms": 219374,
-      "name": "Alcatraz",
-      "url": "https://open.spotify.com/track/76XjcqjKTyZcuAeRGP1Svr"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -1187,6 +1187,30 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
+        "name": "Intento Tras Intento",
+        "url": "https://open.spotify.com/album/2LglQCv5q8IgsDCjEeADuZ"
+      },
+      "artists": [
+        {
+          "name": "El Muisca",
+          "url": "https://open.spotify.com/artist/4x8wZfPrrPnfariwleEnr5"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Arion",
+          "url": "https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Intento Tras Intento",
+      "url": "https://open.spotify.com/track/7L5mJIafA9H5p7HCQdpPPN"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
         "name": "Malas Decisiones",
         "url": "https://open.spotify.com/album/0vKEA8tVlS3ZAba9CWuRiJ"
       },
@@ -1215,30 +1239,6 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
-        "name": "Intento Tras Intento",
-        "url": "https://open.spotify.com/album/2LglQCv5q8IgsDCjEeADuZ"
-      },
-      "artists": [
-        {
-          "name": "El Muisca",
-          "url": "https://open.spotify.com/artist/4x8wZfPrrPnfariwleEnr5"
-        },
-        {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
-        },
-        {
-          "name": "Arion",
-          "url": "https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Intento Tras Intento",
-      "url": "https://open.spotify.com/track/7L5mJIafA9H5p7HCQdpPPN"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
         "name": "ANBU",
         "url": "https://open.spotify.com/album/5ANllXrlPvSfmcWW8oTkyw"
       },
@@ -1263,26 +1263,6 @@
       "duration_ms": 238471,
       "name": "ANBU",
       "url": "https://open.spotify.com/track/3c6RbN2q0p5ihlBdGpdOhY"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
-        "name": "Ni\u00f1os",
-        "url": "https://open.spotify.com/album/6eebAfJJZEyLxe2CS770W9"
-      },
-      "artists": [
-        {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        },
-        {
-          "name": "Xzibit",
-          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
-        }
-      ],
-      "duration_ms": 254186,
-      "name": "Ni\u00f1os",
-      "url": "https://open.spotify.com/track/3VMJCXtKX7bJMqU8PZrE7s"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -1347,6 +1327,26 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
+        "name": "Ni\u00f1os",
+        "url": "https://open.spotify.com/album/6eebAfJJZEyLxe2CS770W9"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Xzibit",
+          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        }
+      ],
+      "duration_ms": 254186,
+      "name": "Ni\u00f1os",
+      "url": "https://open.spotify.com/track/3VMJCXtKX7bJMqU8PZrE7s"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
         "name": "Entre Tiburones",
         "url": "https://open.spotify.com/album/6bYGIvQh7Q11zUivJUENSC"
       },
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
+        "name": "Home Made Mix Vol.7",
+        "url": "https://open.spotify.com/album/1hgBSeVHIMjGoJzyIJIRsX"
+      },
+      "artists": [
+        {
+          "name": "Mike Lamadrid",
+          "url": "https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C"
+        }
+      ],
+      "duration_ms": 105494,
+      "name": "Home Made Mix Vol.7",
+      "url": "https://open.spotify.com/track/4oCvop2zO6ogq1u6DqRSl4"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/6FcXPSUHNtXUaP4PY9PDg6"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 224105,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/13r9dCONzcfyRkw3IPPMnf"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
-        "name": "Home Made Mix Vol.7",
-        "url": "https://open.spotify.com/album/1hgBSeVHIMjGoJzyIJIRsX"
-      },
-      "artists": [
-        {
-          "name": "Mike Lamadrid",
-          "url": "https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C"
-        }
-      ],
-      "duration_ms": 105494,
-      "name": "Home Made Mix Vol.7",
-      "url": "https://open.spotify.com/track/4oCvop2zO6ogq1u6DqRSl4"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -1463,6 +1463,38 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
+        "name": "Tantas Veces",
+        "url": "https://open.spotify.com/album/0CYK2EbQOcDwGopjlqcPRM"
+      },
+      "artists": [
+        {
+          "name": "Sike Damodar",
+          "url": "https://open.spotify.com/artist/3w8j14IiejZYTYSHyMwemO"
+        },
+        {
+          "name": "Oblivion's Mighty Trash",
+          "url": "https://open.spotify.com/artist/3UKTWNfZH3dyR2hI1rNtUH"
+        },
+        {
+          "name": "Dj Peche",
+          "url": "https://open.spotify.com/artist/2A8QxDqnIx1tyMtCvfgm0s"
+        },
+        {
+          "name": "Barbatos Beats",
+          "url": "https://open.spotify.com/artist/7y3eSJimYcBJfVdySzewCh"
+        },
+        {
+          "name": "Diavlitx",
+          "url": "https://open.spotify.com/artist/2U1jqnxlnyZcVlezYQBb5g"
+        }
+      ],
+      "duration_ms": 149408,
+      "name": "Tantas Veces",
+      "url": "https://open.spotify.com/track/2qwioaV8uut5qa1R09Bjrj"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
         "name": "BOURDAIN",
         "url": "https://open.spotify.com/album/2QEtBF7Ulcg7TyqgttMEa4"
       },
@@ -1495,38 +1527,6 @@
       "duration_ms": 201372,
       "name": "BOURDAIN",
       "url": "https://open.spotify.com/track/6t7woVzUeTVRpXHP4Xxa4N"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
-        "name": "Tantas Veces",
-        "url": "https://open.spotify.com/album/0CYK2EbQOcDwGopjlqcPRM"
-      },
-      "artists": [
-        {
-          "name": "Sike Damodar",
-          "url": "https://open.spotify.com/artist/3w8j14IiejZYTYSHyMwemO"
-        },
-        {
-          "name": "Oblivion's Mighty Trash",
-          "url": "https://open.spotify.com/artist/3UKTWNfZH3dyR2hI1rNtUH"
-        },
-        {
-          "name": "Dj Peche",
-          "url": "https://open.spotify.com/artist/2A8QxDqnIx1tyMtCvfgm0s"
-        },
-        {
-          "name": "Barbatos Beats",
-          "url": "https://open.spotify.com/artist/7y3eSJimYcBJfVdySzewCh"
-        },
-        {
-          "name": "Diavlitx",
-          "url": "https://open.spotify.com/artist/2U1jqnxlnyZcVlezYQBb5g"
-        }
-      ],
-      "duration_ms": 149408,
-      "name": "Tantas Veces",
-      "url": "https://open.spotify.com/track/2qwioaV8uut5qa1R09Bjrj"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/4gajuf08d8JcGjWuroGCTb"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        }
-      ],
-      "duration_ms": 283909,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/3gwBWDL8qR3Vz4rUbj7RAK"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
         "name": "La Pelicula",
         "url": "https://open.spotify.com/album/1s8hOQjbODn7oVYR9z34eK"
       },
@@ -1607,18 +1591,18 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
-        "name": "Qu\u00e9mele",
-        "url": "https://open.spotify.com/album/6kIMIdFssq2DDjCAgK38sY"
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/4gajuf08d8JcGjWuroGCTb"
       },
       "artists": [
         {
-          "name": "Crudo Means Raw",
-          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
         }
       ],
-      "duration_ms": 122553,
-      "name": "Qu\u00e9mele",
-      "url": "https://open.spotify.com/track/0aPwGpjIaaZsPiUglNVAuN"
+      "duration_ms": 283909,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/3gwBWDL8qR3Vz4rUbj7RAK"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -1659,6 +1643,22 @@
       "duration_ms": 192000,
       "name": "Callejones",
       "url": "https://open.spotify.com/track/0Ri0HMOZDj0l3xlCC1wZHr"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
+        "name": "Qu\u00e9mele",
+        "url": "https://open.spotify.com/album/6kIMIdFssq2DDjCAgK38sY"
+      },
+      "artists": [
+        {
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
+        }
+      ],
+      "duration_ms": 122553,
+      "name": "Qu\u00e9mele",
+      "url": "https://open.spotify.com/track/0aPwGpjIaaZsPiUglNVAuN"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
+        "name": "DUCATI",
+        "url": "https://open.spotify.com/album/4jpRKdLZe85C7kL2wJZaf3"
+      },
+      "artists": [
+        {
+          "name": "Sipo One",
+          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
+        }
+      ],
+      "duration_ms": 156683,
+      "name": "DUCATI",
+      "url": "https://open.spotify.com/track/1u0OLzzryuk3A80sQVhevv"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
         "name": "La Gangsta",
         "url": "https://open.spotify.com/album/5LinuS1Upb1B51fuUm3v8l"
       },
@@ -1747,38 +1763,6 @@
       "duration_ms": 312703,
       "name": "La Gangsta",
       "url": "https://open.spotify.com/track/60ptar7MA911kEF6s5AEha"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
-        "name": "De La Mata",
-        "url": "https://open.spotify.com/album/1bNUKMiUZNA0r4JUVcRjz0"
-      },
-      "artists": [
-        {
-          "name": "Crudo Means Raw",
-          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "De La Mata",
-      "url": "https://open.spotify.com/track/2iF8BmUy05E9iHRgRuCak9"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
-        "name": "DUCATI",
-        "url": "https://open.spotify.com/album/4jpRKdLZe85C7kL2wJZaf3"
-      },
-      "artists": [
-        {
-          "name": "Sipo One",
-          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
-        }
-      ],
-      "duration_ms": 156683,
-      "name": "DUCATI",
-      "url": "https://open.spotify.com/track/1u0OLzzryuk3A80sQVhevv"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -1803,6 +1787,22 @@
       "duration_ms": 206000,
       "name": "Gloriax",
       "url": "https://open.spotify.com/track/7IYjpcFbkycuU16e7dXT4V"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
+        "name": "De La Mata",
+        "url": "https://open.spotify.com/album/1bNUKMiUZNA0r4JUVcRjz0"
+      },
+      "artists": [
+        {
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "De La Mata",
+      "url": "https://open.spotify.com/track/2iF8BmUy05E9iHRgRuCak9"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -1859,38 +1859,6 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
-        "name": "Arrogancia",
-        "url": "https://open.spotify.com/album/1pHzCc4E40jbyAjdqWcphR"
-      },
-      "artists": [
-        {
-          "name": "Under Side 821",
-          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
-        }
-      ],
-      "duration_ms": 333403,
-      "name": "Arrogancia",
-      "url": "https://open.spotify.com/track/0vyOD96BnDNa3MMpVmVI5k"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
-        "name": "Bendecida Y Afortunada",
-        "url": "https://open.spotify.com/album/0dY4wGJFYDPrqDE7Yq3oID"
-      },
-      "artists": [
-        {
-          "name": "Kei Linch",
-          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
-        }
-      ],
-      "duration_ms": 159836,
-      "name": "Bendecida Y Afortunada",
-      "url": "https://open.spotify.com/track/2sWhuwbONrY9CVRlGyhYQ2"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
         "name": "Flavor",
         "url": "https://open.spotify.com/album/1UpSx9vVKsQvl1VfzGtzDR"
       },
@@ -1915,6 +1883,38 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
+        "name": "Bendecida Y Afortunada",
+        "url": "https://open.spotify.com/album/0dY4wGJFYDPrqDE7Yq3oID"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        }
+      ],
+      "duration_ms": 159836,
+      "name": "Bendecida Y Afortunada",
+      "url": "https://open.spotify.com/track/2sWhuwbONrY9CVRlGyhYQ2"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
+        "name": "Arrogancia",
+        "url": "https://open.spotify.com/album/1pHzCc4E40jbyAjdqWcphR"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        }
+      ],
+      "duration_ms": 333403,
+      "name": "Arrogancia",
+      "url": "https://open.spotify.com/track/0vyOD96BnDNa3MMpVmVI5k"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
         "name": "Perdido",
         "url": "https://open.spotify.com/album/3I207OzgRnwZmAmFVlY20X"
       },
@@ -1927,26 +1927,6 @@
       "duration_ms": 242419,
       "name": "Perdido",
       "url": "https://open.spotify.com/track/4DXh3aQUOuhe98Ya2sYgUh"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
-        "name": "SUCIO",
-        "url": "https://open.spotify.com/album/79koG2MiYXk3fsceB8Oh0W"
-      },
-      "artists": [
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        },
-        {
-          "name": "Nach",
-          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
-        }
-      ],
-      "duration_ms": 261677,
-      "name": "SUCIO",
-      "url": "https://open.spotify.com/track/5BPZWT8tc9KTIbyPF4CJ98"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -2007,6 +1987,42 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
+        "name": "SUCIO",
+        "url": "https://open.spotify.com/album/79koG2MiYXk3fsceB8Oh0W"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        }
+      ],
+      "duration_ms": 261677,
+      "name": "SUCIO",
+      "url": "https://open.spotify.com/track/5BPZWT8tc9KTIbyPF4CJ98"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
+        "name": "CUBA (Buena y Mala)",
+        "url": "https://open.spotify.com/album/6mhvACsPdVYmb2rrGcwYBr"
+      },
+      "artists": [
+        {
+          "name": "Akim 88",
+          "url": "https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp"
+        }
+      ],
+      "duration_ms": 108217,
+      "name": "CUBA (Buena y Mala)",
+      "url": "https://open.spotify.com/track/0Rbq0Jn9pTS5IPGys1iUtT"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
         "name": "Oscura Ciudad",
         "url": "https://open.spotify.com/album/1dH4yvk5uHepwzYgvFoNI2"
       },
@@ -2035,42 +2051,22 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
-        "name": "CUBA (Buena y Mala)",
-        "url": "https://open.spotify.com/album/6mhvACsPdVYmb2rrGcwYBr"
+        "name": "Hija De P",
+        "url": "https://open.spotify.com/album/5ayP0qmXTKQfGUgMRXoEg9"
       },
       "artists": [
         {
-          "name": "Akim 88",
-          "url": "https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp"
-        }
-      ],
-      "duration_ms": 108217,
-      "name": "CUBA (Buena y Mala)",
-      "url": "https://open.spotify.com/track/0Rbq0Jn9pTS5IPGys1iUtT"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
-        "name": "Hip Hop Sh*t",
-        "url": "https://open.spotify.com/album/71D1qHdaXdfmGyvjX3Cr0Y"
-      },
-      "artists": [
-        {
-          "name": "Nfx",
-          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
+          "name": "La Potter",
+          "url": "https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu"
         },
         {
-          "name": "Santa Salut",
-          "url": "https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH"
-        },
-        {
-          "name": "Chicho Beats",
-          "url": "https://open.spotify.com/artist/2lSF63SRPd450Q968OQKWL"
+          "name": "D\u00edmelo Seven",
+          "url": "https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW"
         }
       ],
-      "duration_ms": 195113,
-      "name": "Hip Hop Sh*t",
-      "url": "https://open.spotify.com/track/3lQPizdfzljCNbtKfkvOMT"
+      "duration_ms": 125952,
+      "name": "Hija De P",
+      "url": "https://open.spotify.com/track/6JJOE8YrmGN7N9y9yDuEVz"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -2095,22 +2091,26 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
-        "name": "Hija De P",
-        "url": "https://open.spotify.com/album/5ayP0qmXTKQfGUgMRXoEg9"
+        "name": "Hip Hop Sh*t",
+        "url": "https://open.spotify.com/album/71D1qHdaXdfmGyvjX3Cr0Y"
       },
       "artists": [
         {
-          "name": "La Potter",
-          "url": "https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu"
+          "name": "Nfx",
+          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
         },
         {
-          "name": "D\u00edmelo Seven",
-          "url": "https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW"
+          "name": "Santa Salut",
+          "url": "https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH"
+        },
+        {
+          "name": "Chicho Beats",
+          "url": "https://open.spotify.com/artist/2lSF63SRPd450Q968OQKWL"
         }
       ],
-      "duration_ms": 125952,
-      "name": "Hija De P",
-      "url": "https://open.spotify.com/track/6JJOE8YrmGN7N9y9yDuEVz"
+      "duration_ms": 195113,
+      "name": "Hip Hop Sh*t",
+      "url": "https://open.spotify.com/track/3lQPizdfzljCNbtKfkvOMT"
     },
     {
       "added_at": "2024-04-05 06:00:00",

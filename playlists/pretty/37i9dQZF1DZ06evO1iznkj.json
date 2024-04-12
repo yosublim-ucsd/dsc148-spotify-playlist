@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 141953,
+  "num_followers": 142004,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODhlYzcwNzFlMzg4OGFkNTI2NGUzY2E4YTQwYmM4ODhiY2E0MzFk",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMGRlYmZjYjUzMjIxNzcyYzJlYWRiNDdlZmI4MmQwNDJh",
   "tracks": [
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drip or Drown 2",
-        "url": "https://open.spotify.com/album/1oUzjom2A9xtyRM1SdOAGj"
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/4rqR6LyYV1AHn1DUi6UwjY"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 151539,
-      "name": "Who You Foolin",
-      "url": "https://open.spotify.com/track/7KVPsVMOK3NL7subwJ0dZj"
+      "duration_ms": 191493,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/7yfRb4seXT7w8zVMW0dXNa"
     },
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/4rqR6LyYV1AHn1DUi6UwjY"
+        "name": "Drip or Drown 2",
+        "url": "https://open.spotify.com/album/1oUzjom2A9xtyRM1SdOAGj"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 191493,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/7yfRb4seXT7w8zVMW0dXNa"
+      "duration_ms": 151539,
+      "name": "Who You Foolin",
+      "url": "https://open.spotify.com/track/7KVPsVMOK3NL7subwJ0dZj"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Zoe Gotusso
 
-130 songs - 7 hr 44 min
+131 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,11 +55,12 @@
 | [El Viejo Comunista](https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [El Viejo Comunista](https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke) | 4:57 | 2023-08-18 |  |
 | [En Redondel \- Acústica](https://open.spotify.com/track/5ojsrMggxGkBFt7J1ECcTl) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [Polos \(Acústico\)](https://open.spotify.com/album/3gtfXh1084dgAtUyDqHeQC) | 4:31 | 2023-08-18 |  |
 | [Entre Canibales \- MTV Unplugged](https://open.spotify.com/track/060aWWmC9CrLqbhzHQifQf) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 4:54 | 2023-08-18 |  |
+| [Escorpio \- Acoustic Version](https://open.spotify.com/track/571JXQi27kn8wl87BfZgz6) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD) | [Escorpio \(Acoustic Version\)](https://open.spotify.com/album/5sU9af4bNsE96gZVXrXBjl) | 3:23 | 2024-04-11 |  |
 | [Fanky \- Live](https://open.spotify.com/track/15qhC4nfcfD0XiyrYDf9dr) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 4:27 | 2023-08-18 |  |
 | [Fin de Fiesta](https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Fin de Fiesta](https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5) | 1:41 | 2023-08-18 |  |
 | [Fin del Mundo](https://open.spotify.com/track/4s6KoIwPyCL8vXFCTCXKCw) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Fin del Mundo](https://open.spotify.com/album/1T24IS66qX4DlVj1xIhUv0) | 3:52 | 2023-08-18 |  |
 | [flashié](https://open.spotify.com/track/6zrYtyVwFddDzxY4gUBTNs) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [flashié](https://open.spotify.com/album/1UxjRYTtJFxHRMXLBXPDSP) | 2:34 | 2024-03-15 |  |
-| [Flotando \(Acústico\)](https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Flotando \(Acústico\)](https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh) | 4:16 | 2023-08-18 |  |
+| [Flotando \(Acústico\)](https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Flotando \(Acústico\)](https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh) | 4:16 | 2023-08-18 | 2024-04-12 |
 | [fue mejor // acoustic](https://open.spotify.com/track/2RjrsjKraJjQUYdCYQ30ap) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [sin miedo // acoustic](https://open.spotify.com/album/1E7wN2lvLdZmoAmIXmPtRd) | 3:09 | 2023-08-18 | 2023-10-27 |
 | [Fuji](https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Frontera / Fuji](https://open.spotify.com/album/2Nyjvin6VFdxtRJGAgQ2yr) | 4:38 | 2023-08-18 |  |
 | [Hablando a tu corazón](https://open.spotify.com/track/3KrjA5jcVd3MLAz8lJh4ay) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Hablando a tu corazón](https://open.spotify.com/album/0NzydCzEbzZVmMfzaccgKh) | 3:59 | 2024-02-02 |  |

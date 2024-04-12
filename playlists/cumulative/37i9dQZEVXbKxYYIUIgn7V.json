@@ -1916,7 +1916,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 120000,
       "name": "F\u00fcr immer Fr\u00fchling",
       "url": "https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc"
@@ -2416,7 +2416,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 103441,
       "name": "I LIKE THE WAY YOU KISS ME - TECHNO VERSION",
       "url": "https://open.spotify.com/track/21qbjqn61TFQ5BHkCkTMQk"
@@ -2692,7 +2692,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 137984,
       "name": "Julia",
       "url": "https://open.spotify.com/track/7r9NCIrR6ZRHX1jfjAASVv"
@@ -4223,6 +4223,24 @@
     },
     {
       "album": {
+        "name": "Praise Jah In The Moonlight (Live)",
+        "url": "https://open.spotify.com/album/1GhTKndy4z6y8sJoKXi1kt"
+      },
+      "artists": [
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263040,
+      "name": "Praise Jah In The Moonlight",
+      "url": "https://open.spotify.com/track/7ueuqvQkKA9k1Pys0hB5br"
+    },
+    {
+      "album": {
         "name": "Ramonda",
         "url": "https://open.spotify.com/album/0EpFshvEJwsgYIdfLrsiGe"
       },
@@ -4698,7 +4716,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 107076,
       "name": "SLAY!",
       "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
@@ -5792,6 +5810,32 @@
       "duration_ms": 155480,
       "name": "We Fell Apart - Slowed",
       "url": "https://open.spotify.com/track/4oExAGoqR0JWK628dYaQ2f"
+    },
+    {
+      "album": {
+        "name": "We Fell Apart",
+        "url": "https://open.spotify.com/album/2RU69PcKkn0TGqwJqFfchg"
+      },
+      "artists": [
+        {
+          "name": "overrated",
+          "url": "https://open.spotify.com/artist/5eZ9mxslGvxjRBTWbRfMfV"
+        },
+        {
+          "name": "Akucum",
+          "url": "https://open.spotify.com/artist/4iNoUF5jEZLr28VHuxHN9y"
+        },
+        {
+          "name": "dreamsoda",
+          "url": "https://open.spotify.com/artist/6PxIBIC6X6ABCIXnAgGUdc"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "We Fell Apart - Slowed",
+      "url": "https://open.spotify.com/track/2vsFAkp6P14vOjvmLdnBkb"
     },
     {
       "album": {

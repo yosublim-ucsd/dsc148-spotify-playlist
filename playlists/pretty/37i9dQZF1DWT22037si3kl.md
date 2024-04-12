@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > bgl é seu estilo ser original vocês já sabem\. Foto: Mc Luanna, Danzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,188 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,192 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 31 | [Não Me Para](https://open.spotify.com/track/6yFMentQMLOkh24pjQJgsQ) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Ascensão do Cisne Negro](https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ) | 3:29 |
 | 32 | [Blockkstar x TTF Freestyle!](https://open.spotify.com/track/3CqhjRnc5nRWlWiunZVZuo) | [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [Phl Notunrboy](https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr), [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS) | [Blockkstar x TTF Freestyle!](https://open.spotify.com/album/3TjoAvlwgZcGBG8gnmJ4h2) | 2:47 |
 | 33 | [Londres Freestyle](https://open.spotify.com/track/5E6J5d0GB3yowau3SYig6F) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Dos Prédios](https://open.spotify.com/album/4WTmjVL1HD0QQCiht2scSM) | 2:08 |
-| 34 | [Números da Sorte](https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [É Quem?](https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL) | 2:50 |
-| 35 | [Ela Jura Que Sabe](https://open.spotify.com/track/50ofxPTUg6VlLtNjnsRAYH) | [The Boy](https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC), [Rudies Flacko](https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o) | [Ela Jura Que Sabe](https://open.spotify.com/album/177SAUdkF3JOU5YKr7scKG) | 2:25 |
+| 34 | [Ela Jura Que Sabe](https://open.spotify.com/track/50ofxPTUg6VlLtNjnsRAYH) | [The Boy](https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC), [Rudies Flacko](https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o) | [Ela Jura Que Sabe](https://open.spotify.com/album/177SAUdkF3JOU5YKr7scKG) | 2:25 |
+| 35 | [Números da Sorte](https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [É Quem?](https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL) | 2:50 |
 | 36 | [Porsche "Ye Yo"](https://open.spotify.com/track/7jpS4vYcLObK2YtcXjgwEO) | [Jé](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI), [TrapHits](https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW) | [O Bagulho É Trap II](https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX) | 2:34 |
 | 37 | [Famigerado](https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [O Cenário Certo para o Teatro Perfeito](https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D) | 2:18 |
 | 38 | [HARD ROCK](https://open.spotify.com/track/6yoNYLJ7enbygKXF50Af72) | [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [The Boy](https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC), [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [BLOCKKSTAR](https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB) | [HARD ROCK](https://open.spotify.com/album/1joRB65inPwhP5kS3XbcZ6) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [MÍDIA](https://open.spotify.com/track/5hMMfJWPMuGfOKiFpuOorM) | [Druhh e Drehh](https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [MÍDIA](https://open.spotify.com/album/2UX0mWZIM4I258iEoefXjq) | 1:56 |
 | 50 | [Dias sem dormir](https://open.spotify.com/track/35rDOlA5PaPyboTNjIrXQ0) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Swxm](https://open.spotify.com/artist/0wjT2AitdI5hxU13J5Clo8), [Kustor](https://open.spotify.com/artist/01KhiXBvC4UaFIaTFrzgjx) | [EU VIM DE GR](https://open.spotify.com/album/2qNasWZDq8XQumAbiSuCOn) | 3:03 |
 
-Snapshot ID: `MCwxNDJmMWI4MWQ2N2M2ZmRjMDI4MTZhNzI3ZmI1MDUxOTQ0NjE0ZWU4`
+Snapshot ID: `MTcxMjI4NjA2MCwwMDAwMDAwMGNlMTkyMGQyNTRiYjQ5MTMxOTgxMmIyYTI0MDA5ZTZl`

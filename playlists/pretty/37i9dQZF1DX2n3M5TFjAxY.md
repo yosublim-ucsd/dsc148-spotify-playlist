@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 
 > Unforgettable songs from Iconic Arab women\. Cover: Umm Kulthum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,221 likes - 50 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,224 likes - 50 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 | 19 | [Set El Habayib](https://open.spotify.com/track/1O4lVF8Foazqwcrc0zFb4R) | [Fayza Ahmed](https://open.spotify.com/artist/7zwF847GE2hY5ApGSOLmBG) | [Set El Habayib](https://open.spotify.com/album/67n0MKFbk4rWkN62HOOYuP) | 6:23 |
 | 20 | [Ya Ossas](https://open.spotify.com/track/4ZF5lJA94xkfZ5FbrHnQRv) | [Julia Boutros](https://open.spotify.com/artist/1MBqKgaBet9mU8vI0hqj6c) | [Ya Kossas](https://open.spotify.com/album/1xK30JYBaMc2S395jjxebS) | 4:25 |
 | 21 | [Fakarouny](https://open.spotify.com/track/4ejiWxKQCKiv184LTpA6ym) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [Umm Kulthum 3](https://open.spotify.com/album/015VImtXnHnaJ06FjJcxfy) | 59:37 |
-| 22 | [Ya habibi taala \(Mon amour, viens vite\)](https://open.spotify.com/track/0tOQdr6q6NZFHrywSQSVJP) | [Asmahan](https://open.spotify.com/artist/2vFXOKUQ2uhI9D8vKozoK6) | [Le cœur a ses raisons \(The Voices of Maghreb 1935\-1944\)](https://open.spotify.com/album/3M7Ns6HMsPgSh71r9S6NJj) | 5:33 |
-| 23 | [Oyon El Alb Live Record](https://open.spotify.com/track/6UkneNSMIdiwUEaSVfcYVd) | [Najat Al Saghira](https://open.spotify.com/artist/00Kj91nF1l4o35fAtfDAjW) | [Oyon El Alb](https://open.spotify.com/album/3pnuPZ8nUMMLwHJSvNLrO0) | 19:44 |
+| 22 | [Oyon El Alb Live Record](https://open.spotify.com/track/6UkneNSMIdiwUEaSVfcYVd) | [Najat Al Saghira](https://open.spotify.com/artist/00Kj91nF1l4o35fAtfDAjW) | [Oyon El Alb](https://open.spotify.com/album/3pnuPZ8nUMMLwHJSvNLrO0) | 19:44 |
+| 23 | [Ya habibi taala \(Mon amour, viens vite\)](https://open.spotify.com/track/0tOQdr6q6NZFHrywSQSVJP) | [Asmahan](https://open.spotify.com/artist/2vFXOKUQ2uhI9D8vKozoK6) | [Le cœur a ses raisons \(The Voices of Maghreb 1935\-1944\)](https://open.spotify.com/album/3M7Ns6HMsPgSh71r9S6NJj) | 5:33 |
 | 24 | [Asmar](https://open.spotify.com/track/0w1UvLilct9BzMVNWH2kkm) | [Samira Tawfik](https://open.spotify.com/artist/0Kj6hBtl4FIOs9AJOB6Yd3) | [Asmar](https://open.spotify.com/album/11g6WESfbVfC5wM14lb6L4) | 5:33 |
 | 25 | [Akdeb Alek Live Record](https://open.spotify.com/track/5n47Gu3lJ2zcrQtsstaiJF) | [Warda](https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr) | [Akdeb Alek Live Record](https://open.spotify.com/album/66I8kjtmZekcPC82EDzBNE) | 55:12 |
 | 26 | [Asfour](https://open.spotify.com/track/43S1gHGrrNbM8k7X1ir5Hn) | [Aida el Ayoubi](https://open.spotify.com/artist/1SWcCkT5tDP5cNIfl3S7Yt) | [Ala Baly](https://open.spotify.com/album/3poHhpjVKN7zrzpF5TkE55) | 4:47 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 | 28 | [Wehiat Eineik](https://open.spotify.com/track/3VrcD46eXNQ1l326guhmpC) | [Shadia](https://open.spotify.com/artist/5Yoha5TJ90eyPB9xWadI06) | [Shadya](https://open.spotify.com/album/2OqsCesiiN65QdUP1zNa4v) | 4:46 |
 | 29 | [Mestaneyak](https://open.spotify.com/track/2JNaQTPcPdW0ycWhsSVQiY) | [Aziza Jalal](https://open.spotify.com/artist/1u0bf0elRZYy9vqjCNYpet) | [Mestaneyak Men Hakak Teatebny](https://open.spotify.com/album/1mZGb35WiLGv70EFtxIFLs) | 39:04 |
 | 30 | [Esaal Alaya](https://open.spotify.com/track/3w6LdvrXM4a8C4cJrBa6M9) | [Layla Mourad](https://open.spotify.com/artist/4XmfbuyoQBGIMMbDXdFZJZ) | [Laila Mourad](https://open.spotify.com/album/4kFNwqFKfPw3FGqBNcpbfc) | 6:23 |
-| 31 | [Enta hataraf](https://open.spotify.com/track/7MIVI98kAktGCbrzqmu9ax) | [Asmahan](https://open.spotify.com/artist/2vFXOKUQ2uhI9D8vKozoK6) | [Ahwa](https://open.spotify.com/album/2VT4H8YOf7xysggn0rWu6d) | 6:29 |
-| 32 | [Ashka We Meskena](https://open.spotify.com/track/5tDafbwjM0t0Mvn8Tm918m) | [Sabah](https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9) | [Sabah](https://open.spotify.com/album/5ewdGO8RViJxkGMVGx4KdP) | 6:17 |
+| 31 | [Ashka We Meskena](https://open.spotify.com/track/5tDafbwjM0t0Mvn8Tm918m) | [Sabah](https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9) | [Sabah](https://open.spotify.com/album/5ewdGO8RViJxkGMVGx4KdP) | 6:17 |
+| 32 | [Enta hataraf](https://open.spotify.com/track/7MIVI98kAktGCbrzqmu9ax) | [Asmahan](https://open.spotify.com/artist/2vFXOKUQ2uhI9D8vKozoK6) | [Ahwa](https://open.spotify.com/album/2VT4H8YOf7xysggn0rWu6d) | 6:29 |
 | 33 | [Ya Wad Ya Tkel](https://open.spotify.com/track/7A62VMXhyx1kpRwhnuk65T) | [Soad Hosny](https://open.spotify.com/artist/7Kql0QwVDPgqF2XUUedCGN) | [Soad Hosny Collection](https://open.spotify.com/album/0PA2lsmWyFF5e2bqDt8Bvv) | 7:35 |
 | 34 | [Howa El Hop Leaba](https://open.spotify.com/track/300N8LY9pglw5UpeSi658b) | [Aziza Jalal](https://open.spotify.com/artist/1u0bf0elRZYy9vqjCNYpet) | [Howa El Hop Leaba Menak We Elaek](https://open.spotify.com/album/1hBWWcKz7Rvt74k5labK74) | 33:32 |
 | 35 | [Ana Alby Dalely](https://open.spotify.com/track/3bwlnMq8hwTgIRI7abv2At) | [Layla Mourad](https://open.spotify.com/artist/4XmfbuyoQBGIMMbDXdFZJZ) | [Agmal Aghany Layla Mourad](https://open.spotify.com/album/3lRQi4vBYzvNtxoRJ5qXOw) | 5:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 | 49 | [اللي جرحني](https://open.spotify.com/track/1k4KjinUenx6UeiEJPlvYe) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [وينك حبيبي](https://open.spotify.com/album/786AHcgC01V3I2dCly0X5h) | 5:32 |
 | 50 | [Alby Ala Albak](https://open.spotify.com/track/0ErZruO9ZYYL8MeSdHc9UG) | [Rabab](https://open.spotify.com/artist/4KaSkNUbgoD4Ei3brZKP4z) | [El Hob Ban Aliah](https://open.spotify.com/album/3jHwxxyPfSmvoaxh1BnG9S) | 6:50 |
 
-Snapshot ID: `MCxlNzNlYjMyODdmZjFkYTE2MTRhMTRhMmI5Mjc0NDdhZmMxODI3NzZm`
+Snapshot ID: `MTY4NjgzNjU0NiwwMDAwMDAwMGE1N2JlMzI5ZjFiMTJhY2M5NTIwM2YxYTQyMmU3NTIy`

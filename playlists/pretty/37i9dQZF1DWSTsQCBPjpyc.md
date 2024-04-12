@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 
 > Blues meets funk\. Cover: Eric Gales
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,665 likes - 72 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,687 likes - 72 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,13 +19,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 9 | [Hope You Realize It \(Goodbye Again\)](https://open.spotify.com/track/2cMKzAbQbKwHqYQgvRvGSw) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Hope You Realize It \(Goodbye Again\)](https://open.spotify.com/album/2fHbu3R5or4jVtzvHdc9OZ) | 3:58 |
 | 10 | [Love Is a Simple Thing](https://open.spotify.com/track/3c7uIxCmV1OTcSCNwSJOaT) | [Davide Pannozzo](https://open.spotify.com/artist/22GGo3ysvMZTPCsqW2b07T) | [Love Is a Simple Thing](https://open.spotify.com/album/43IcXDQeid37UJyedcReq8) | 4:09 |
 | 11 | [When A Woman's Had Enough](https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 3:54 |
-| 12 | [Sugar Sweet](https://open.spotify.com/track/0LdKvqFAiZEI67ALyRtXTB) | [Jeff Healey](https://open.spotify.com/artist/4SsLXt0cHcVRhHzxXa8Wnx) | [Mess of Blues](https://open.spotify.com/album/4bIBOn7rd1UGlsVKh1lS7x) | 3:46 |
+| 12 | [Sugar Sweet](https://open.spotify.com/track/13cYITViVXDJ9PQv7YqJPM) | [Jeff Healey](https://open.spotify.com/artist/4SsLXt0cHcVRhHzxXa8Wnx) | [Mess Of Blues](https://open.spotify.com/album/6KopMX1sqafvcQVLtOpnw6) | 3:46 |
 | 13 | [Grits Ain't Groceries \(All Around The World\)](https://open.spotify.com/track/6SXpeLiRALz6OlaaTLGEqj) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [Rockin' The Blues](https://open.spotify.com/album/4jA0QvDt94H22KfLsEjELk) | 2:41 |
 | 14 | [Stop On By](https://open.spotify.com/track/3nqj5Fx7sbZBkTIuCoRjGN) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [All The Way](https://open.spotify.com/album/7EVdCFnjNzPlPBWI89YtGs) | 4:07 |
 | 15 | [Watch Me Move](https://open.spotify.com/track/4UPOf0qg0qY2tw6cMSF04r) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [On Tap](https://open.spotify.com/album/5SBCzYVKKttcMOu5m2FN7C) | 4:05 |
 | 16 | [She Was a Doorman](https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:03 |
-| 17 | [Night Train](https://open.spotify.com/track/5fdbVNMOamFwCPJRqO49S2) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/5c0pSc8G1C8RciCf7xHvwY) | 3:48 |
-| 18 | [Same Ole Feeling](https://open.spotify.com/track/1AE9josdXyxXELOKqnbpX1) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/5c0pSc8G1C8RciCf7xHvwY) | 4:04 |
+| 17 | [Night Train](https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 3:48 |
+| 18 | [Same Ole Feeling](https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 4:04 |
 | 19 | [Bubbles](https://open.spotify.com/track/0wt7KE5Y255f2enVmlwsu0) | [Rick Holmstrom](https://open.spotify.com/artist/35UiXUhK0DxiIColZzzQ4P) | [Bubbles](https://open.spotify.com/album/6bIs6laKPXv8uQYPRGncif) | 2:23 |
 | 20 | [Good Man, Bad Thing](https://open.spotify.com/track/4HUkd5HNHlja9YRP1UxTF1) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [I Smell Smoke](https://open.spotify.com/album/4lOPC1rp6hxeYCW4x3mqJi) | 3:55 |
 | 21 | [Givin' Up You](https://open.spotify.com/track/4LoyfqghF75QfVFx08gAIh) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [The Soul Truth](https://open.spotify.com/album/2PXMx2oAHiqmjrpnLX70dU) | 3:26 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 71 | [Heart Of St\. Paul](https://open.spotify.com/track/3XoETx3JhzcsDjXk6CLpS9) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/3CbjgETRjdUvgIJqu7qpZu) | 3:18 |
 | 72 | [Phone Booth](https://open.spotify.com/track/3uOs9LzMSrkvqKj0fWyiiP) | [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [Heavy Picks\-The Robert Cray Band Collection](https://open.spotify.com/album/4vxRqmFB4Tp4zXYV2HITXI) | 3:29 |
 
-Snapshot ID: `MCxmZGExY2ExMjM4YTc5MWZlOWNlZDZkOTRkZWUyNGNmYzI1MWU4MjJj`
+Snapshot ID: `MTcxMjI4OTY2MCwwMDAwMDAwMGExMDgwN2M0M2M2MWUzYjk3OTkzNTY3NjIzNDIyN2I2`

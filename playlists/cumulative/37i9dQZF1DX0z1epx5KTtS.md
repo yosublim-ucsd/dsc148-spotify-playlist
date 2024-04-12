@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from Paris to Abidjan\. Photo : Tam Sir
+> African dance party music from Paris to Abidjan\. Photo : Shado Chris
 
-177 songs - 10 hr 12 min
+179 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,9 +32,10 @@
 | [C'est Dieu](https://open.spotify.com/track/0lzg8WWNBXrp6IAcMNGU54) | [Confirmé Manadja](https://open.spotify.com/artist/0Ay3wxcNxGlLwwZe6KOcpY), [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [C'est Dieu](https://open.spotify.com/album/5pDcPJPOZzUkE4dPqoxHzV) | 3:22 | 2023-02-16 | 2023-06-16 |
 | [C'est dosé](https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [C'est dosé](https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5) | 3:26 | 2022-05-20 |  |
 | [C'est gâté](https://open.spotify.com/track/5lFhAaksXwDqd0SCj9pK5V) | [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [C'est gâté](https://open.spotify.com/album/0WAvLhOtVWCj7DiRtSi5MX) | 3:18 | 2022-12-08 | 2023-11-17 |
+| [C'est pour les grands](https://open.spotify.com/track/5347vjt4voHoVXB4r4PUQm) | [Lionell](https://open.spotify.com/artist/678uLiEv9CfIv59509DnZe) | [C'est pour les grands](https://open.spotify.com/album/3ZWT7ouS6rVQLC69ZUhBJc) | 3:36 | 2024-04-11 |  |
 | [C'est Tromper](https://open.spotify.com/track/3GEOxNvcfId9KbNmVfeEZW) | [Nifa Fanafoule](https://open.spotify.com/artist/7FRoAqspfkJYYYYJ8DTD5O) | [C'est Tromper](https://open.spotify.com/album/6DblPMX2zJRcsrOPwm2y8g) | 3:16 | 2022-09-01 | 2022-10-28 |
 | [C'Gater](https://open.spotify.com/track/1ghBexe1duWQLNmdqXAhKe) | [DJ LEWIS](https://open.spotify.com/artist/2Rw4zdWjWKGTh7giGhOyFb) | [C'Gater](https://open.spotify.com/album/2Gmdt7fQvIyKt2MOTq4UP6) | 3:47 | 2021-12-20 | 2022-05-06 |
-| [C'PAS L'AMOUR ON VA MANGER](https://open.spotify.com/track/0OZBVVepaXa0b9FEyw5s6B) | [Mike Alabi](https://open.spotify.com/artist/6oWQR8FVaUVuvDITh8AIwM) | [C'PAS L'AMOUR ON VA MANGER](https://open.spotify.com/album/16upc0FlSYisk6HS2zFNiQ) | 3:58 | 2023-07-27 |  |
+| [C'PAS L'AMOUR ON VA MANGER](https://open.spotify.com/track/0OZBVVepaXa0b9FEyw5s6B) | [Mike Alabi](https://open.spotify.com/artist/6oWQR8FVaUVuvDITh8AIwM) | [C'PAS L'AMOUR ON VA MANGER](https://open.spotify.com/album/16upc0FlSYisk6HS2zFNiQ) | 3:58 | 2023-07-27 | 2024-04-12 |
 | [Cabri Mort \- Remix](https://open.spotify.com/track/6oMr9YN0oodyAnR8lfiHZ2) | [Shado Chris](https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Cabri Mort \(Remix\)](https://open.spotify.com/album/2wEh88diaPfNN7VAJ0plXC) | 2:59 | 2022-05-26 | 2023-04-14 |
 | [Caléçon](https://open.spotify.com/track/02KynjfpJDJFKmNlxGMcUE) | [Ko\-C](https://open.spotify.com/artist/7BuOoNFjQ1NSpXH0NEzWjy), [Coco Argentée](https://open.spotify.com/artist/3eZbaZtJasAh4P1ptj7bOe) | [Caléçon](https://open.spotify.com/album/7krsg8jshA79Nbd3dnT7In) | 3:28 | 2021-12-20 | 2022-05-27 |
 | [Caprices de Grossesse](https://open.spotify.com/track/6BgeBCh0vWweiQOvYVVKIc) | [Rocky Gold](https://open.spotify.com/artist/0pagPxNrVGh9Qxjh7gn5t7) | [Caprices de Grossesse](https://open.spotify.com/album/20hqf8Bugd8BuK0AkHGHuG) | 4:00 | 2022-02-18 | 2022-06-10 |
@@ -68,8 +69,9 @@
 | [Dosez \(feat\. Elow'n & Didi B\)](https://open.spotify.com/track/1lpLUb3HAQnCV6ED4PsqcC) | [Revolution](https://open.spotify.com/artist/599jagD7OBej5DjDC24Ext), [Elow'n](https://open.spotify.com/artist/0Gzh0CiahP7loDQP9cn8wt), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Boîte automatique](https://open.spotify.com/album/1y44R2UA3pHtNPLTfju3Ue) | 3:55 | 2022-02-18 | 2022-09-30 |
 | [Débordement](https://open.spotify.com/track/1O5ZMazV82oegjqaXrphT5) | [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK), [Shaggy Sharoof](https://open.spotify.com/artist/2OjFYRzMa5iBpYqJfWVCYg) | [Débordement](https://open.spotify.com/album/6hWIrIYXRphvEAuUy90cpM) | 3:40 | 2022-05-26 | 2023-04-28 |
 | [E.T.T.E](https://open.spotify.com/track/7jrClCByvnAbD4WY8wFkcl) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Ovie Kan](https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd) | [Société Suspecte](https://open.spotify.com/album/5FMEWZYb4HwWLKkCfv8luM) | 2:47 | 2023-05-18 |  |
+| [Effrayer la galère](https://open.spotify.com/track/4fyRNOR6zupaunbkjrl6uL) | [Shado Chris](https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg) | [Effrayer la galère](https://open.spotify.com/album/5vSehx9owBtXVKUV2HE2KB) | 3:25 | 2024-04-11 |  |
 | [Elephant d'or](https://open.spotify.com/track/6IV4Lb4470lOo8pFrknNmN) | [Fababy](https://open.spotify.com/artist/1ufm09MhiuoHpIFkbcIZGx), [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [Éléphant d'or](https://open.spotify.com/album/2sghK6Ruux6IYqQbhNGCf1) | 2:44 | 2022-06-23 | 2022-09-02 |
-| [Elle Est D'Où](https://open.spotify.com/track/6o9FOz7FO3EMvzjUaiKxA8) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [Stamina](https://open.spotify.com/album/0Ka05Dg15vP2Sc4VbRstVo) | 2:43 | 2023-11-09 |  |
+| [Elle Est D'Où](https://open.spotify.com/track/6o9FOz7FO3EMvzjUaiKxA8) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [Stamina](https://open.spotify.com/album/0Ka05Dg15vP2Sc4VbRstVo) | 2:43 | 2023-11-09 | 2024-04-12 |
 | [En fantoya](https://open.spotify.com/track/19ZRXd0zqVCfXi92FeTcsL) | [Dj Arobase](https://open.spotify.com/artist/6EsNLPqHp3fchqRJAxFe3W), [Joochar](https://open.spotify.com/artist/56I3J6X4mUPrF7bOrLoLSP) | [En fantoya](https://open.spotify.com/album/31coKTSViPIJ9EjHlAMpl7) | 2:52 | 2023-06-15 | 2023-07-14 |
 | [En Kabato](https://open.spotify.com/track/4xE4sAEZSVa9yfT1cszxQ1) | [Black K](https://open.spotify.com/artist/17kX2iCte2ZwbtwhIF7bBq), [La Team de Poy](https://open.spotify.com/artist/1YdkFYfSU2CMKyTxmS9cDd), [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ) | [En Kabato](https://open.spotify.com/album/1MWOC8Oh4iqVv7oOhR7I8N) | 2:48 | 2024-01-11 |  |
 | [Enfant de Dieu](https://open.spotify.com/track/6vuHEKtooN9wuoGMMt3NcY) | [Ks Bloom](https://open.spotify.com/artist/0iSX5EqjPdp2xkU7fgw7bp) | [Allumez la lumière](https://open.spotify.com/album/67M8L0PH2ijmmshYMgdaui) | 3:23 | 2021-12-20 | 2023-01-13 |

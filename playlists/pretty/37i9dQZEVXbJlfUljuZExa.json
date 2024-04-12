@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Malaysia.",
-  "num_followers": 206020,
+  "num_followers": 206030,
   "original_name": "Top 50 - Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzY2MTEzNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzY2MjAwMDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
       "album": {
         "name": "25 Lagu-Lagu Hari Raya Aidilfitri",
         "url": "https://open.spotify.com/album/2dWkfl56rWXb67roOK0Egc"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2rZIyoaIZBaWtr1954sxyO"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
       "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
       "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
@@ -57,55 +57,7 @@
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
-      "album": {
-        "name": "in all of my lonely nights",
-        "url": "https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 187263,
-      "name": "drunk text",
-      "url": "https://open.spotify.com/track/6EIMUjQ7Q8Zr2VtIUik4He"
-    },
-    {
-      "added_at": "2024-04-10 09:57:30",
-      "album": {
-        "name": "Anugerah Aidilfitri",
-        "url": "https://open.spotify.com/album/0NLE24UYydjx4sddYTjnIJ"
-      },
-      "artists": [
-        {
-          "name": "Dato' Sri Siti Nurhaliza",
-          "url": "https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU"
-        }
-      ],
-      "duration_ms": 239760,
-      "name": "Sesuci Lebaran",
-      "url": "https://open.spotify.com/track/20gz9dYTVbtnDUFV2YmJC0"
-    },
-    {
-      "added_at": "2024-04-10 09:57:30",
-      "album": {
-        "name": "25 Lagu-Lagu Hari Raya Aidilfitri",
-        "url": "https://open.spotify.com/album/2dWkfl56rWXb67roOK0Egc"
-      },
-      "artists": [
-        {
-          "name": "Rahimah Rahim",
-          "url": "https://open.spotify.com/artist/7H2gOfWDAVINu72BGZctLn"
-        }
-      ],
-      "duration_ms": 211506,
-      "name": "Selamat Berhari Raya",
-      "url": "https://open.spotify.com/track/5sBz1vOUQFJrkLahGNPoUg"
-    },
-    {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
       "album": {
         "name": "Alamak Raya Lagi!",
         "url": "https://open.spotify.com/album/2Rggi2m4YvzePLbKMJg74o"
@@ -121,23 +73,7 @@
       "url": "https://open.spotify.com/track/2VTLUKd4CbW14uKI973vl4"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
       "album": {
         "name": "Ketipak Ketipung Raya",
         "url": "https://open.spotify.com/album/1rP89pooj6Y82ZCylqUzX6"
@@ -157,7 +93,71 @@
       "url": "https://open.spotify.com/track/7eaCFseO4fOljCMxLTM5ta"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
+      "album": {
+        "name": "Anugerah Aidilfitri",
+        "url": "https://open.spotify.com/album/0NLE24UYydjx4sddYTjnIJ"
+      },
+      "artists": [
+        {
+          "name": "Dato' Sri Siti Nurhaliza",
+          "url": "https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU"
+        }
+      ],
+      "duration_ms": 239760,
+      "name": "Sesuci Lebaran",
+      "url": "https://open.spotify.com/track/20gz9dYTVbtnDUFV2YmJC0"
+    },
+    {
+      "added_at": "2024-04-11 10:11:29",
+      "album": {
+        "name": "in all of my lonely nights",
+        "url": "https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 187263,
+      "name": "drunk text",
+      "url": "https://open.spotify.com/track/6EIMUjQ7Q8Zr2VtIUik4He"
+    },
+    {
+      "added_at": "2024-04-11 10:11:29",
+      "album": {
+        "name": "25 Lagu-Lagu Hari Raya Aidilfitri",
+        "url": "https://open.spotify.com/album/2dWkfl56rWXb67roOK0Egc"
+      },
+      "artists": [
+        {
+          "name": "Rahimah Rahim",
+          "url": "https://open.spotify.com/artist/7H2gOfWDAVINu72BGZctLn"
+        }
+      ],
+      "duration_ms": 211506,
+      "name": "Selamat Berhari Raya",
+      "url": "https://open.spotify.com/track/5sBz1vOUQFJrkLahGNPoUg"
+    },
+    {
+      "added_at": "2024-04-11 10:11:29",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "added_at": "2024-04-11 10:11:29",
       "album": {
         "name": "Siri Bintang Pujaan",
         "url": "https://open.spotify.com/album/0rfL1vLBBA8NrvQ5j8gJ1P"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/1hqDHz3JOIMSVxW9pXoRiV"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
       "album": {
         "name": "Jom Balik Kampung...Raya",
         "url": "https://open.spotify.com/album/4kQ5QVgapw3JwOPTAn7abd"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/6ZN42sab1v6S5jfBzOLndl"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
       "album": {
         "name": "Syawal 1424",
         "url": "https://open.spotify.com/album/2NCZTtKR9uQjsK5OIlMtpG"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/69xmMtzLEVxACrVckHBrY3"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
       "album": {
         "name": "25 Lagu-Lagu Hari Raya Aidilfitri",
         "url": "https://open.spotify.com/album/2dWkfl56rWXb67roOK0Egc"
@@ -225,39 +225,7 @@
       "url": "https://open.spotify.com/track/2dX9TQTezNvZXbFsKeoSgr"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
-      "album": {
-        "name": "Siri Bintang Pujaan",
-        "url": "https://open.spotify.com/album/0AfjcDhAZFezJUMxybpDhC"
-      },
-      "artists": [
-        {
-          "name": "Noorkumalasari",
-          "url": "https://open.spotify.com/artist/4cc8MC7czXxH1AIoOPfPgG"
-        }
-      ],
-      "duration_ms": 172400,
-      "name": "Pulang Di Hari Raya",
-      "url": "https://open.spotify.com/track/63YwwfIXQr1FQRpPZXMkEk"
-    },
-    {
-      "added_at": "2024-04-10 09:57:30",
-      "album": {
-        "name": "penjaga hati",
-        "url": "https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a"
-      },
-      "artists": [
-        {
-          "name": "Nadhif Basalamah",
-          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
-        }
-      ],
-      "duration_ms": 260346,
-      "name": "penjaga hati",
-      "url": "https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO"
-    },
-    {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
       "album": {
         "name": "Memori Hit",
         "url": "https://open.spotify.com/album/2QWPwtpk4Jd2q4DCTpWbVl"
@@ -273,55 +241,7 @@
       "url": "https://open.spotify.com/track/0OPYg3EhrbUEpMMDAdcvo8"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
-      "album": {
-        "name": "Siri Bintang Pujaan",
-        "url": "https://open.spotify.com/album/503nEIAHFbaFRXL6iLJETb"
-      },
-      "artists": [
-        {
-          "name": "Dato' DJ Dave",
-          "url": "https://open.spotify.com/artist/6C4Prk8bokz0g2UiDb5DY2"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Menjelang Hari Raya",
-      "url": "https://open.spotify.com/track/5VKesrhjbKQNfsI4NIxZCi"
-    },
-    {
-      "added_at": "2024-04-10 09:57:30",
-      "album": {
-        "name": "Salam Aidilfitri Untuk Semua",
-        "url": "https://open.spotify.com/album/5BcML59c6LOnCLF7wYw7JB"
-      },
-      "artists": [
-        {
-          "name": "Dayangku Intan",
-          "url": "https://open.spotify.com/artist/3D4uyEk5z3Ko3kwREUNsUt"
-        }
-      ],
-      "duration_ms": 207040,
-      "name": "Senandung Hari Raya Untukmu",
-      "url": "https://open.spotify.com/track/6oPIg3ql5chwh04iS9JfX9"
-    },
-    {
-      "added_at": "2024-04-10 09:57:30",
-      "album": {
-        "name": "25 Lagu-Lagu Hari Raya Aidilfitri",
-        "url": "https://open.spotify.com/album/2dWkfl56rWXb67roOK0Egc"
-      },
-      "artists": [
-        {
-          "name": "Cenderawasih",
-          "url": "https://open.spotify.com/artist/58L8OvnHTDYi9bZVRSw5DC"
-        }
-      ],
-      "duration_ms": 159053,
-      "name": "Bersama Di Hari Raya",
-      "url": "https://open.spotify.com/track/43eUXVOAVjsBQtP6mYj2SG"
-    },
-    {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
       "album": {
         "name": "BABYMONS7ER",
         "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
@@ -337,39 +257,71 @@
       "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
+      "album": {
+        "name": "Siri Bintang Pujaan",
+        "url": "https://open.spotify.com/album/0AfjcDhAZFezJUMxybpDhC"
+      },
+      "artists": [
+        {
+          "name": "Noorkumalasari",
+          "url": "https://open.spotify.com/artist/4cc8MC7czXxH1AIoOPfPgG"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Pulang Di Hari Raya",
+      "url": "https://open.spotify.com/track/63YwwfIXQr1FQRpPZXMkEk"
+    },
+    {
+      "added_at": "2024-04-11 10:11:29",
+      "album": {
+        "name": "Siri Bintang Pujaan",
+        "url": "https://open.spotify.com/album/503nEIAHFbaFRXL6iLJETb"
+      },
+      "artists": [
+        {
+          "name": "Dato' DJ Dave",
+          "url": "https://open.spotify.com/artist/6C4Prk8bokz0g2UiDb5DY2"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Menjelang Hari Raya",
+      "url": "https://open.spotify.com/track/5VKesrhjbKQNfsI4NIxZCi"
+    },
+    {
+      "added_at": "2024-04-11 10:11:29",
+      "album": {
+        "name": "25 Lagu-Lagu Hari Raya Aidilfitri",
+        "url": "https://open.spotify.com/album/2dWkfl56rWXb67roOK0Egc"
+      },
+      "artists": [
+        {
+          "name": "Cenderawasih",
+          "url": "https://open.spotify.com/artist/58L8OvnHTDYi9bZVRSw5DC"
+        }
+      ],
+      "duration_ms": 159053,
+      "name": "Bersama Di Hari Raya",
+      "url": "https://open.spotify.com/track/43eUXVOAVjsBQtP6mYj2SG"
+    },
+    {
+      "added_at": "2024-04-11 10:11:29",
       "album": {
         "name": "Salam Aidilfitri Untuk Semua",
         "url": "https://open.spotify.com/album/5BcML59c6LOnCLF7wYw7JB"
       },
       "artists": [
         {
-          "name": "Azlina Aziz",
-          "url": "https://open.spotify.com/artist/6dcMIBW9nvLYwNjigIDuS2"
+          "name": "Dayangku Intan",
+          "url": "https://open.spotify.com/artist/3D4uyEk5z3Ko3kwREUNsUt"
         }
       ],
-      "duration_ms": 273573,
-      "name": "Indahnya Beraya Di Desa",
-      "url": "https://open.spotify.com/track/1kfMvCj7gGd5zfqx5gtZPo"
+      "duration_ms": 207040,
+      "name": "Senandung Hari Raya Untukmu",
+      "url": "https://open.spotify.com/track/6oPIg3ql5chwh04iS9JfX9"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
-      "album": {
-        "name": "Siri Kenangan Abadi Volume 2 : Getaran Jiwa",
-        "url": "https://open.spotify.com/album/6cNspl6i2FowdZTx3cDncC"
-      },
-      "artists": [
-        {
-          "name": "Tan Sri P. Ramlee",
-          "url": "https://open.spotify.com/artist/7vgBEzAtjH9f1IbbqeRnwi"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Dendang Perantau",
-      "url": "https://open.spotify.com/track/4S5D7LtgiHLhoQSe4kMMIh"
-    },
-    {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
       "album": {
         "name": "Raya Raya Raya",
         "url": "https://open.spotify.com/album/4tri0iQsUj5uWEeb7ye2P5"
@@ -385,27 +337,55 @@
       "url": "https://open.spotify.com/track/5bu4tKnKyjBwQhLdDK7VWe"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
       "album": {
-        "name": "SAH",
-        "url": "https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX"
+        "name": "Salam Aidilfitri Untuk Semua",
+        "url": "https://open.spotify.com/album/5BcML59c6LOnCLF7wYw7JB"
       },
       "artists": [
         {
-          "name": "Sarah Suhairi",
-          "url": "https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh"
-        },
-        {
-          "name": "Alfie Zumi",
-          "url": "https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV"
+          "name": "Azlina Aziz",
+          "url": "https://open.spotify.com/artist/6dcMIBW9nvLYwNjigIDuS2"
         }
       ],
-      "duration_ms": 228055,
-      "name": "SAH",
-      "url": "https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc"
+      "duration_ms": 273573,
+      "name": "Indahnya Beraya Di Desa",
+      "url": "https://open.spotify.com/track/1kfMvCj7gGd5zfqx5gtZPo"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
+      "album": {
+        "name": "penjaga hati",
+        "url": "https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "duration_ms": 260346,
+      "name": "penjaga hati",
+      "url": "https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO"
+    },
+    {
+      "added_at": "2024-04-11 10:11:29",
+      "album": {
+        "name": "Siri Kenangan Abadi Volume 2 : Getaran Jiwa",
+        "url": "https://open.spotify.com/album/6cNspl6i2FowdZTx3cDncC"
+      },
+      "artists": [
+        {
+          "name": "Tan Sri P. Ramlee",
+          "url": "https://open.spotify.com/artist/7vgBEzAtjH9f1IbbqeRnwi"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Dendang Perantau",
+      "url": "https://open.spotify.com/track/4S5D7LtgiHLhoQSe4kMMIh"
+    },
+    {
+      "added_at": "2024-04-11 10:11:29",
       "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
@@ -429,39 +409,7 @@
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
-      "album": {
-        "name": "Jom Balik Kampung...Raya",
-        "url": "https://open.spotify.com/album/4kQ5QVgapw3JwOPTAn7abd"
-      },
-      "artists": [
-        {
-          "name": "Nyanyian Ramai",
-          "url": "https://open.spotify.com/artist/5GcHlX35KE7BMgZzvb78CX"
-        }
-      ],
-      "duration_ms": 288026,
-      "name": "Warna Warni Aidilfitri",
-      "url": "https://open.spotify.com/track/2NuXB2BK357vJ2yvLL7OB0"
-    },
-    {
-      "added_at": "2024-04-10 09:57:30",
-      "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/2z7Y1ZNvF5B8vq2HmrMSku"
-      },
-      "artists": [
-        {
-          "name": "Aman Shah",
-          "url": "https://open.spotify.com/artist/5Za3d8fOzNa1aYojLj6fSh"
-        }
-      ],
-      "duration_ms": 224786,
-      "name": "Kepulangan Yang Di Nanti",
-      "url": "https://open.spotify.com/track/2XIFe4OqegSIvWdyUNduXL"
-    },
-    {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
       "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
@@ -477,7 +425,7 @@
       "url": "https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
       "album": {
         "name": "Saturn",
         "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
@@ -493,7 +441,43 @@
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
+      "album": {
+        "name": "Jom Balik Kampung...Raya",
+        "url": "https://open.spotify.com/album/4kQ5QVgapw3JwOPTAn7abd"
+      },
+      "artists": [
+        {
+          "name": "Nyanyian Ramai",
+          "url": "https://open.spotify.com/artist/5GcHlX35KE7BMgZzvb78CX"
+        }
+      ],
+      "duration_ms": 288026,
+      "name": "Warna Warni Aidilfitri",
+      "url": "https://open.spotify.com/track/2NuXB2BK357vJ2yvLL7OB0"
+    },
+    {
+      "added_at": "2024-04-11 10:11:29",
+      "album": {
+        "name": "SAH",
+        "url": "https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX"
+      },
+      "artists": [
+        {
+          "name": "Sarah Suhairi",
+          "url": "https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh"
+        },
+        {
+          "name": "Alfie Zumi",
+          "url": "https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV"
+        }
+      ],
+      "duration_ms": 228055,
+      "name": "SAH",
+      "url": "https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc"
+    },
+    {
+      "added_at": "2024-04-11 10:11:29",
       "album": {
         "name": "Anugerah Aidilfitri",
         "url": "https://open.spotify.com/album/0NLE24UYydjx4sddYTjnIJ"
@@ -509,71 +493,7 @@
       "url": "https://open.spotify.com/track/1liq9fnB5siKzxqajo5hxm"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
-      "album": {
-        "name": "25 Lagu-Lagu Hari Raya Aidilfitri",
-        "url": "https://open.spotify.com/album/2dWkfl56rWXb67roOK0Egc"
-      },
-      "artists": [
-        {
-          "name": "Dato' Sudirman",
-          "url": "https://open.spotify.com/artist/1HvVjPpCzFFgIo2XrDxM2x"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Dari Jauh Kupohon Maaf",
-      "url": "https://open.spotify.com/track/6UTI3490SQ3rQdUfGXeKuc"
-    },
-    {
-      "added_at": "2024-04-10 09:57:30",
-      "album": {
-        "name": "Siri Bintang Pujaan",
-        "url": "https://open.spotify.com/album/13X19z4iIN9v0efKlOZitg"
-      },
-      "artists": [
-        {
-          "name": "Junainah",
-          "url": "https://open.spotify.com/artist/16Bu8Tl5T3n6QxlkQEmmmg"
-        }
-      ],
-      "duration_ms": 190746,
-      "name": "Suasana Riang Di Hari Raya",
-      "url": "https://open.spotify.com/track/7uvKupP8xo3uq17ObZvbZz"
-    },
-    {
-      "added_at": "2024-04-10 09:57:30",
-      "album": {
-        "name": "Jom Balik Kampung...Raya",
-        "url": "https://open.spotify.com/album/4kQ5QVgapw3JwOPTAn7abd"
-      },
-      "artists": [
-        {
-          "name": "Mamat",
-          "url": "https://open.spotify.com/artist/4Ws4Jicjsn8gsG40NALncZ"
-        }
-      ],
-      "duration_ms": 163413,
-      "name": "Ku Pohon Restu Ayah & Ibu",
-      "url": "https://open.spotify.com/track/73i60Qy5YEYab2DZZ0Xhdp"
-    },
-    {
-      "added_at": "2024-04-10 09:57:30",
-      "album": {
-        "name": "25 Lagu-Lagu Hari Raya Aidilfitri",
-        "url": "https://open.spotify.com/album/2dWkfl56rWXb67roOK0Egc"
-      },
-      "artists": [
-        {
-          "name": "Sanisah Huri",
-          "url": "https://open.spotify.com/artist/57uWnv67tvDbc2QIXt1L62"
-        }
-      ],
-      "duration_ms": 219786,
-      "name": "Aidilfitri",
-      "url": "https://open.spotify.com/track/65SXgbhFSx3ptjqi182DFb"
-    },
-    {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -589,23 +509,23 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
       "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/2z7Y1ZNvF5B8vq2HmrMSku"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Aman Shah",
+          "url": "https://open.spotify.com/artist/5Za3d8fOzNa1aYojLj6fSh"
         }
       ],
-      "duration_ms": 137773,
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+      "duration_ms": 224786,
+      "name": "Kepulangan Yang Di Nanti",
+      "url": "https://open.spotify.com/track/2XIFe4OqegSIvWdyUNduXL"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
       "album": {
         "name": "Smart (Remixes)",
         "url": "https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh"
@@ -621,55 +541,87 @@
       "url": "https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
       "album": {
         "name": "25 Lagu-Lagu Hari Raya Aidilfitri",
         "url": "https://open.spotify.com/album/2dWkfl56rWXb67roOK0Egc"
       },
       "artists": [
         {
-          "name": "Black Dog Bone",
-          "url": "https://open.spotify.com/artist/2J7Y71FYEeL9Ksv2e5sdkf"
+          "name": "Sanisah Huri",
+          "url": "https://open.spotify.com/artist/57uWnv67tvDbc2QIXt1L62"
         }
       ],
-      "duration_ms": 223226,
-      "name": "Cahaya Aidilfitri",
-      "url": "https://open.spotify.com/track/5Qau6YAMpNHcWFDT5Aqgsn"
+      "duration_ms": 219786,
+      "name": "Aidilfitri",
+      "url": "https://open.spotify.com/track/65SXgbhFSx3ptjqi182DFb"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
       "album": {
-        "name": "Sinar Pelangi",
-        "url": "https://open.spotify.com/album/5vYx34KJAnkiWJKO78NOzb"
+        "name": "25 Lagu-Lagu Hari Raya Aidilfitri",
+        "url": "https://open.spotify.com/album/2dWkfl56rWXb67roOK0Egc"
       },
       "artists": [
         {
-          "name": "Projector Band",
-          "url": "https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L"
+          "name": "Dato' Sudirman",
+          "url": "https://open.spotify.com/artist/1HvVjPpCzFFgIo2XrDxM2x"
         }
       ],
-      "duration_ms": 231769,
-      "name": "Sinar Pelangi",
-      "url": "https://open.spotify.com/track/6UMKWjSsXb7GiUyxWKAiKp"
+      "duration_ms": 225400,
+      "name": "Dari Jauh Kupohon Maaf",
+      "url": "https://open.spotify.com/track/6UTI3490SQ3rQdUfGXeKuc"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
+      "album": {
+        "name": "Jom Balik Kampung...Raya",
+        "url": "https://open.spotify.com/album/4kQ5QVgapw3JwOPTAn7abd"
+      },
+      "artists": [
+        {
+          "name": "Mamat",
+          "url": "https://open.spotify.com/artist/4Ws4Jicjsn8gsG40NALncZ"
+        }
+      ],
+      "duration_ms": 163413,
+      "name": "Ku Pohon Restu Ayah & Ibu",
+      "url": "https://open.spotify.com/track/73i60Qy5YEYab2DZZ0Xhdp"
+    },
+    {
+      "added_at": "2024-04-11 10:11:29",
+      "album": {
+        "name": "Siri Bintang Pujaan",
+        "url": "https://open.spotify.com/album/13X19z4iIN9v0efKlOZitg"
+      },
+      "artists": [
+        {
+          "name": "Junainah",
+          "url": "https://open.spotify.com/artist/16Bu8Tl5T3n6QxlkQEmmmg"
+        }
+      ],
+      "duration_ms": 190746,
+      "name": "Suasana Riang Di Hari Raya",
+      "url": "https://open.spotify.com/track/7uvKupP8xo3uq17ObZvbZz"
+    },
+    {
+      "added_at": "2024-04-11 10:11:29",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -689,55 +641,39 @@
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2024-04-11 10:11:29",
       "album": {
         "name": "25 Lagu-Lagu Hari Raya Aidilfitri",
         "url": "https://open.spotify.com/album/2dWkfl56rWXb67roOK0Egc"
       },
       "artists": [
         {
-          "name": "Datuk Ahmad Jais",
-          "url": "https://open.spotify.com/artist/5DR3x1kevrEtZGk2FSSsB7"
+          "name": "Black Dog Bone",
+          "url": "https://open.spotify.com/artist/2J7Y71FYEeL9Ksv2e5sdkf"
         }
       ],
-      "duration_ms": 152800,
-      "name": "Selamat Hari Raya",
-      "url": "https://open.spotify.com/track/1YnSFHTBdanT1BFs3m8j0i"
+      "duration_ms": 223226,
+      "name": "Cahaya Aidilfitri",
+      "url": "https://open.spotify.com/track/5Qau6YAMpNHcWFDT5Aqgsn"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
-      "album": {
-        "name": "Anugerah Aidilfitri",
-        "url": "https://open.spotify.com/album/0NLE24UYydjx4sddYTjnIJ"
-      },
-      "artists": [
-        {
-          "name": "Dato' Sri Siti Nurhaliza",
-          "url": "https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU"
-        }
-      ],
-      "duration_ms": 303733,
-      "name": "Air Mata Syawal",
-      "url": "https://open.spotify.com/track/4v1jAfui9gHygoPSs1B6Lz"
-    },
-    {
-      "added_at": "2024-04-10 09:57:30",
-      "album": {
-        "name": "Angau",
-        "url": "https://open.spotify.com/album/0ScMd2xOV2o6OC6ldq59bL"
-      },
-      "artists": [
-        {
-          "name": "Fahimi",
-          "url": "https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd"
-        }
-      ],
-      "duration_ms": 160078,
-      "name": "Angau",
-      "url": "https://open.spotify.com/track/2JVm4VDnZzIFoVjdVXOyCP"
-    },
-    {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
       "album": {
         "name": "Pejam Celik Hari Raya",
         "url": "https://open.spotify.com/album/6tFal3cOgmBb8tHPBdvVu1"
@@ -753,39 +689,55 @@
       "url": "https://open.spotify.com/track/11ZgYbFZQ16i3F3KGRLbkI"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
       "album": {
-        "name": "Merenung Bulan",
-        "url": "https://open.spotify.com/album/00hxuPhxCPWI3xVYlH5SdF"
+        "name": "25 Lagu-Lagu Hari Raya Aidilfitri",
+        "url": "https://open.spotify.com/album/2dWkfl56rWXb67roOK0Egc"
       },
       "artists": [
         {
-          "name": "Aishah",
-          "url": "https://open.spotify.com/artist/4YSKGMF40IgP6ouU5jbhnb"
+          "name": "Datuk Ahmad Jais",
+          "url": "https://open.spotify.com/artist/5DR3x1kevrEtZGk2FSSsB7"
         }
       ],
-      "duration_ms": 269266,
-      "name": "Pulanglah",
-      "url": "https://open.spotify.com/track/78MSBwceqOJ756bin6exzb"
+      "duration_ms": 152800,
+      "name": "Selamat Hari Raya",
+      "url": "https://open.spotify.com/track/1YnSFHTBdanT1BFs3m8j0i"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
       "album": {
-        "name": "Lagu Dan Perasaan",
-        "url": "https://open.spotify.com/album/5kErKuJBeHDuMwtpq47wDA"
+        "name": "Sinar Pelangi",
+        "url": "https://open.spotify.com/album/5vYx34KJAnkiWJKO78NOzb"
       },
       "artists": [
         {
-          "name": "Rafeah Buang",
-          "url": "https://open.spotify.com/artist/4NnBbi48c3iFGh39L4jELO"
+          "name": "Projector Band",
+          "url": "https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L"
         }
       ],
-      "duration_ms": 159093,
-      "name": "Bila Takbir Bergema",
-      "url": "https://open.spotify.com/track/2jIdcT0HmgwUV2nJk5qzfL"
+      "duration_ms": 231769,
+      "name": "Sinar Pelangi",
+      "url": "https://open.spotify.com/track/6UMKWjSsXb7GiUyxWKAiKp"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
+      "album": {
+        "name": "Anugerah Aidilfitri",
+        "url": "https://open.spotify.com/album/0NLE24UYydjx4sddYTjnIJ"
+      },
+      "artists": [
+        {
+          "name": "Dato' Sri Siti Nurhaliza",
+          "url": "https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU"
+        }
+      ],
+      "duration_ms": 303733,
+      "name": "Air Mata Syawal",
+      "url": "https://open.spotify.com/track/4v1jAfui9gHygoPSs1B6Lz"
+    },
+    {
+      "added_at": "2024-04-11 10:11:29",
       "album": {
         "name": "EASY",
         "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
@@ -801,36 +753,84 @@
       "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
       "album": {
-        "name": "Hasrat (OST Imaginur)",
-        "url": "https://open.spotify.com/album/3ABD4eXxckIrnVXKYRkClU"
+        "name": "Angau",
+        "url": "https://open.spotify.com/album/0ScMd2xOV2o6OC6ldq59bL"
       },
       "artists": [
         {
-          "name": "Amir Jahari",
-          "url": "https://open.spotify.com/artist/0NZxMMytnzLqPuCTb0ChGu"
+          "name": "Fahimi",
+          "url": "https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Hasrat (OST Imaginur)",
-      "url": "https://open.spotify.com/track/3Q6DYlT649Y1tgyf5We71c"
+      "duration_ms": 160078,
+      "name": "Angau",
+      "url": "https://open.spotify.com/track/2JVm4VDnZzIFoVjdVXOyCP"
     },
     {
-      "added_at": "2024-04-10 09:57:30",
+      "added_at": "2024-04-11 10:11:29",
       "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/6wBzhPqkFCMGJMJmdZ2js4"
+        "name": "Lagu Dan Perasaan",
+        "url": "https://open.spotify.com/album/5kErKuJBeHDuMwtpq47wDA"
       },
       "artists": [
         {
-          "name": "Sanisah Huri",
-          "url": "https://open.spotify.com/artist/57uWnv67tvDbc2QIXt1L62"
+          "name": "Rafeah Buang",
+          "url": "https://open.spotify.com/artist/4NnBbi48c3iFGh39L4jELO"
         }
       ],
-      "duration_ms": 209333,
-      "name": "Bersabarlah Sayang",
-      "url": "https://open.spotify.com/track/460DbFlJM33MPBPBJ31ZfD"
+      "duration_ms": 159093,
+      "name": "Bila Takbir Bergema",
+      "url": "https://open.spotify.com/track/2jIdcT0HmgwUV2nJk5qzfL"
+    },
+    {
+      "added_at": "2024-04-11 10:11:29",
+      "album": {
+        "name": "Tip Toe",
+        "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 224725,
+      "name": "Tip Toe",
+      "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
+    },
+    {
+      "added_at": "2024-04-11 10:11:29",
+      "album": {
+        "name": "Merenung Bulan",
+        "url": "https://open.spotify.com/album/00hxuPhxCPWI3xVYlH5SdF"
+      },
+      "artists": [
+        {
+          "name": "Aishah",
+          "url": "https://open.spotify.com/artist/4YSKGMF40IgP6ouU5jbhnb"
+        }
+      ],
+      "duration_ms": 269266,
+      "name": "Pulanglah",
+      "url": "https://open.spotify.com/track/78MSBwceqOJ756bin6exzb"
+    },
+    {
+      "added_at": "2024-04-11 10:11:29",
+      "album": {
+        "name": "emails i can't send",
+        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 163648,
+      "name": "Nonsense",
+      "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
     }
   ],
   "unique_name": "Top 50 - Malaysia",

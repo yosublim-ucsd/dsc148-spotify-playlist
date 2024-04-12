@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 481462,
       "name": "Adura",
       "url": "https://open.spotify.com/track/5SOPZYCcIa4eaOJvGM4bQs"
@@ -280,6 +280,28 @@
       "duration_ms": 189799,
       "name": "All Things",
       "url": "https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx"
+    },
+    {
+      "album": {
+        "name": "All Things Are Possible (Live)",
+        "url": "https://open.spotify.com/album/5zAoHldAVbalTRk851wI1S"
+      },
+      "artists": [
+        {
+          "name": "EJ Newton",
+          "url": "https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4"
+        },
+        {
+          "name": "Great Grace Music",
+          "url": "https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "All Things Are Possible (Live)",
+      "url": "https://open.spotify.com/track/4mEl4NNDrzWLXC60nVlvnM"
     },
     {
       "album": {
@@ -3786,7 +3808,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 320280,
       "name": "More",
       "url": "https://open.spotify.com/track/5q4Tz1jwVjpQLU3AJFZ0AR"
@@ -6596,6 +6618,24 @@
       "duration_ms": 309705,
       "name": "Yes, Lord!",
       "url": "https://open.spotify.com/track/6qBObB4fdVeswPpu1tJFGg"
+    },
+    {
+      "album": {
+        "name": "Yeshua (Worship Rendition)",
+        "url": "https://open.spotify.com/album/0KTOUGmGuoO81AVc4ro4EO"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216962,
+      "name": "Yeshua (Worship Rendition)",
+      "url": "https://open.spotify.com/track/6KxgjgVDbiAnRB2SZhcu0h"
     },
     {
       "album": {

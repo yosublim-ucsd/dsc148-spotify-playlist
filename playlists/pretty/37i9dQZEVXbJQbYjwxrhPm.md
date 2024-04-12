@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 168 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 40 | [Ако ти върна](https://open.spotify.com/track/4Xbk3eXJZvRLr1JpbnBtg0) | [Torino](https://open.spotify.com/artist/47WAtpqR2af9uiq2HWwWNM), [Pashata](https://open.spotify.com/artist/2YAAnLogLeNYzffelkG6lF), [Preslava](https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg) | [Ако ти върна](https://open.spotify.com/album/5DBpbfOm95GyWDbU6vcVPH) | 4:10 |
 | 41 | [Sujalqvam](https://open.spotify.com/track/2YRF4ktmyWef9SASMJaqOm) | [MBT](https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd) | [Unreleased](https://open.spotify.com/album/0EGUqke4RK9j2X5dQZcC8o) | 2:39 |
 | 42 | [Звънни ми](https://open.spotify.com/track/0dwB1Vbr7CuhOiXPAuZFkZ) | [Torino](https://open.spotify.com/artist/47WAtpqR2af9uiq2HWwWNM), [Pashata](https://open.spotify.com/artist/2YAAnLogLeNYzffelkG6lF) | [Звънни ми](https://open.spotify.com/album/4hWSpaQyXrTOZFCJGhdVTs) | 3:19 |
-| 43 | [Непослушен](https://open.spotify.com/track/7KMmaDOUgX7xg6boaunE6Q) | [Krisko](https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD), [Konstantin](https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8) | [Хамелеон](https://open.spotify.com/album/2W96UGgCMcucMFrR1Wn7gM) | 3:08 |
+| 43 | [Непослушен](https://open.spotify.com/track/7KMmaDOUgX7xg6boaunE6Q) | [Krisko](https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD), [Konstantin](https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn) | [Хамелеон](https://open.spotify.com/album/2W96UGgCMcucMFrR1Wn7gM) | 3:08 |
 | 44 | [Popular \(with Playboi Carti & Madonna\)](https://open.spotify.com/track/7GUhiAHLoVy1V8ucQuZ3CB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Highlights \(Deluxe\)](https://open.spotify.com/album/18sR8zHx4zsVJUI4bHWuPC) | 3:35 |
 | 45 | [365](https://open.spotify.com/track/4h1koe32J3Sl7KPFZkKLtQ) | [Tedi Aleksandrova](https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn), [Monkey](https://open.spotify.com/artist/3ulU1RBrSIiiKhxbeIuvpw) | [365](https://open.spotify.com/album/5jAWxbv8a4smUJxeqeHuSp) | 4:09 |
 | 46 | [How Deep Is Your Love](https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [How Deep Is Your Love](https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Breathe](https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:50 |
 | 50 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 |
 
-Snapshot ID: `NzY2MTEzNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzY2MjAwMDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

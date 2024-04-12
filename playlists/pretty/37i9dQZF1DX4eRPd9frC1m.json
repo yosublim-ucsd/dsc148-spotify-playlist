@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2593409,
+  "num_followers": 2593548,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjY5YmZjYTA4MmQyMmFhNzJlNjEyYjlkYjNmMWJmYTJlMTcwMWIy",
+  "snapshot_id": "MTcxMjM0MDA1NywwMDAwMDAwMDE2MjhkYzA0MjBjYjA5MTc2NTViNmFiMmVlZTg2YWM3",
   "tracks": [
     {
       "added_at": "2024-04-05 18:00:57",
@@ -615,8 +615,8 @@
     {
       "added_at": "2024-04-05 18:00:57",
       "album": {
-        "name": "Gassed Up",
-        "url": "https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b"
+        "name": "Ecstasy Of Soul",
+        "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
       },
       "artists": [
         {
@@ -624,17 +624,13 @@
           "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
         },
         {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
         }
       ],
-      "duration_ms": 238285,
-      "name": "Gassed Up",
-      "url": "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
+      "duration_ms": 238400,
+      "name": "Ecstasy Of Soul",
+      "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
     },
     {
       "added_at": "2024-04-05 18:00:57",
@@ -719,8 +715,8 @@
     {
       "added_at": "2024-04-05 18:00:57",
       "album": {
-        "name": "Ecstasy Of Soul",
-        "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
+        "name": "Gassed Up",
+        "url": "https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b"
       },
       "artists": [
         {
@@ -728,13 +724,17 @@
           "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
         },
         {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
         }
       ],
-      "duration_ms": 238400,
-      "name": "Ecstasy Of Soul",
-      "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
+      "duration_ms": 238285,
+      "name": "Gassed Up",
+      "url": "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
     },
     {
       "added_at": "2024-04-05 18:00:57",
@@ -819,6 +819,26 @@
     {
       "added_at": "2024-04-05 18:00:57",
       "album": {
+        "name": "PEACE LOVE & WUBZ",
+        "url": "https://open.spotify.com/album/1gK7u6Sh9RvvpjKovemrx2"
+      },
+      "artists": [
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        },
+        {
+          "name": "Cojaxx",
+          "url": "https://open.spotify.com/artist/6R7363ayBrwb16Hh3G5ONZ"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "PEACE LOVE & WUBZ",
+      "url": "https://open.spotify.com/track/0Mcts4Xh4FKZXOIy9tAjbA"
+    },
+    {
+      "added_at": "2024-04-05 18:00:57",
+      "album": {
         "name": "Thrilla",
         "url": "https://open.spotify.com/album/0huroHZfl6hAgdFdfp2dhL"
       },
@@ -843,26 +863,6 @@
     {
       "added_at": "2024-04-05 18:00:57",
       "album": {
-        "name": "PEACE LOVE & WUBZ",
-        "url": "https://open.spotify.com/album/1gK7u6Sh9RvvpjKovemrx2"
-      },
-      "artists": [
-        {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
-        },
-        {
-          "name": "Cojaxx",
-          "url": "https://open.spotify.com/artist/6R7363ayBrwb16Hh3G5ONZ"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "PEACE LOVE & WUBZ",
-      "url": "https://open.spotify.com/track/0Mcts4Xh4FKZXOIy9tAjbA"
-    },
-    {
-      "added_at": "2024-04-05 18:00:57",
-      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e"
       },
@@ -879,26 +879,6 @@
       "duration_ms": 190400,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8"
-    },
-    {
-      "added_at": "2024-04-05 18:00:57",
-      "album": {
-        "name": "Reaper (feat. JID)",
-        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Reaper (feat. JID)",
-      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
     },
     {
       "added_at": "2024-04-05 18:00:57",
@@ -923,6 +903,26 @@
       "duration_ms": 251862,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd"
+    },
+    {
+      "added_at": "2024-04-05 18:00:57",
+      "album": {
+        "name": "Reaper (feat. JID)",
+        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Reaper (feat. JID)",
+      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
     },
     {
       "added_at": "2024-04-05 18:00:57",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-04-05 18:00:57",
       "album": {
-        "name": "In The Place",
-        "url": "https://open.spotify.com/album/37l2dXxlFFKBZFi5lG3IMc"
-      },
-      "artists": [
-        {
-          "name": "Space Laces",
-          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "In The Place",
-      "url": "https://open.spotify.com/track/64VyLST8MmGb2x5ilwNm2l"
-    },
-    {
-      "added_at": "2024-04-05 18:00:57",
-      "album": {
         "name": "Do It To It (Subtronics Remix)",
         "url": "https://open.spotify.com/album/50ojeeiaz71JzrgDJfzsIw"
       },
@@ -1135,42 +1119,18 @@
     {
       "added_at": "2024-04-05 18:00:57",
       "album": {
-        "name": "HEADSH\u00d6T",
-        "url": "https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2"
+        "name": "In The Place",
+        "url": "https://open.spotify.com/album/37l2dXxlFFKBZFi5lG3IMc"
       },
       "artists": [
         {
-          "name": "8\u00d68",
-          "url": "https://open.spotify.com/artist/7rzhW5cgtn6da9Ixg8quoU"
-        },
-        {
-          "name": "Sh\u00f6ckface",
-          "url": "https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM"
-        },
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
         }
       ],
-      "duration_ms": 157036,
-      "name": "HEADSH\u00d6T",
-      "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
-    },
-    {
-      "added_at": "2024-04-05 18:00:57",
-      "album": {
-        "name": "Suffer In Silence",
-        "url": "https://open.spotify.com/album/7HS540iPPvyiOIwDbPGQGc"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        }
-      ],
-      "duration_ms": 194248,
-      "name": "Suffer In Silence",
-      "url": "https://open.spotify.com/track/6TMsLIRJQ7LkfFY3g0DGKS"
+      "duration_ms": 230400,
+      "name": "In The Place",
+      "url": "https://open.spotify.com/track/64VyLST8MmGb2x5ilwNm2l"
     },
     {
       "added_at": "2024-04-05 18:00:57",
@@ -1199,6 +1159,22 @@
     {
       "added_at": "2024-04-05 18:00:57",
       "album": {
+        "name": "Suffer In Silence",
+        "url": "https://open.spotify.com/album/7HS540iPPvyiOIwDbPGQGc"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "duration_ms": 194248,
+      "name": "Suffer In Silence",
+      "url": "https://open.spotify.com/track/6TMsLIRJQ7LkfFY3g0DGKS"
+    },
+    {
+      "added_at": "2024-04-05 18:00:57",
+      "album": {
         "name": "Apex",
         "url": "https://open.spotify.com/album/6zAoh1dmY6dDlkh9CSO5Im"
       },
@@ -1215,6 +1191,30 @@
       "duration_ms": 282834,
       "name": "Rumble",
       "url": "https://open.spotify.com/track/3XfvTelX1xYLgwgpzfd8qi"
+    },
+    {
+      "added_at": "2024-04-05 18:00:57",
+      "album": {
+        "name": "HEADSH\u00d6T",
+        "url": "https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2"
+      },
+      "artists": [
+        {
+          "name": "8\u00d68",
+          "url": "https://open.spotify.com/artist/7rzhW5cgtn6da9Ixg8quoU"
+        },
+        {
+          "name": "Sh\u00f6ckface",
+          "url": "https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM"
+        },
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 157036,
+      "name": "HEADSH\u00d6T",
+      "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
     },
     {
       "added_at": "2024-04-05 18:00:57",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-04-05 18:00:57",
       "album": {
+        "name": "Vibe Check",
+        "url": "https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "Vibe Check",
+      "url": "https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF"
+    },
+    {
+      "added_at": "2024-04-05 18:00:57",
+      "album": {
         "name": "Silo (feat. fknsyd)",
         "url": "https://open.spotify.com/album/2e6ev74vWl4wuJXuxpDjf8"
       },
@@ -1323,50 +1339,6 @@
     {
       "added_at": "2024-04-05 18:00:57",
       "album": {
-        "name": "Vibe Check",
-        "url": "https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Vibe Check",
-      "url": "https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF"
-    },
-    {
-      "added_at": "2024-04-05 18:00:57",
-      "album": {
-        "name": "DISRESPECT",
-        "url": "https://open.spotify.com/album/0RGq1ek6xmKTIbF3R5j1P3"
-      },
-      "artists": [
-        {
-          "name": "Bobby Blakdout",
-          "url": "https://open.spotify.com/artist/3U7NPXeGDm8gryPUNOd46U"
-        },
-        {
-          "name": "Hekler",
-          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
-        },
-        {
-          "name": "Gladez",
-          "url": "https://open.spotify.com/artist/1L4olAJRUMTi0OcWyFsprM"
-        },
-        {
-          "name": "Cam'ron",
-          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
-        }
-      ],
-      "duration_ms": 139034,
-      "name": "DISRESPECT",
-      "url": "https://open.spotify.com/track/7LpQXlw2o9xWBE5CuATFJk"
-    },
-    {
-      "added_at": "2024-04-05 18:00:57",
-      "album": {
         "name": "AD INFINITUM",
         "url": "https://open.spotify.com/album/1LC4nzKSrMlbsHUOY93lyS"
       },
@@ -1407,6 +1379,54 @@
       "duration_ms": 185039,
       "name": "Obsolete - Sullivan King Remix",
       "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
+    },
+    {
+      "added_at": "2024-04-05 18:00:57",
+      "album": {
+        "name": "DISRESPECT",
+        "url": "https://open.spotify.com/album/0RGq1ek6xmKTIbF3R5j1P3"
+      },
+      "artists": [
+        {
+          "name": "Bobby Blakdout",
+          "url": "https://open.spotify.com/artist/3U7NPXeGDm8gryPUNOd46U"
+        },
+        {
+          "name": "Hekler",
+          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
+        },
+        {
+          "name": "Gladez",
+          "url": "https://open.spotify.com/artist/1L4olAJRUMTi0OcWyFsprM"
+        },
+        {
+          "name": "Cam'ron",
+          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        }
+      ],
+      "duration_ms": 139034,
+      "name": "DISRESPECT",
+      "url": "https://open.spotify.com/track/7LpQXlw2o9xWBE5CuATFJk"
+    },
+    {
+      "added_at": "2024-04-05 18:00:57",
+      "album": {
+        "name": "Rainbow Brain",
+        "url": "https://open.spotify.com/album/0jbN6pCIbmO9hPXMynQ2P8"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "Jantsen",
+          "url": "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Burn Up The Floor",
+      "url": "https://open.spotify.com/track/5nz3dwffS8W2WDWRa9SgfR"
     },
     {
       "added_at": "2024-04-05 18:00:57",
@@ -1539,26 +1559,6 @@
       "duration_ms": 169714,
       "name": "Trenches",
       "url": "https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw"
-    },
-    {
-      "added_at": "2024-04-05 18:00:57",
-      "album": {
-        "name": "Rainbow Brain",
-        "url": "https://open.spotify.com/album/0jbN6pCIbmO9hPXMynQ2P8"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        },
-        {
-          "name": "Jantsen",
-          "url": "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Burn Up The Floor",
-      "url": "https://open.spotify.com/track/5nz3dwffS8W2WDWRa9SgfR"
     },
     {
       "added_at": "2024-04-05 18:00:57",

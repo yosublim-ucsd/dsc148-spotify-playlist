@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Bnny
 
-1,215 songs - 2 day 21 hr 9 min
+1,216 songs - 2 day 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -950,7 +950,8 @@
 | [So Far](https://open.spotify.com/track/6RKE2FRFq9MDYI0L1HcXG9) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8), [Huck](https://open.spotify.com/artist/6kyIFL5I0g0kWOBygAJCbu) | [So Far](https://open.spotify.com/album/1SWsuGzbGY1y0506omiR3E) | 3:14 | 2021-03-05 | 2022-04-11 |
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/2sGh1PZ7zG7Ug1kLsh8BtV) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Take It or Leave It / So Hot You're Hurting My Feelings](https://open.spotify.com/album/0cnXGba9Av81uL1K6v9pby) | 3:29 | 2022-01-28 | 2022-03-27 |
 | [So I Don't Feel Useless](https://open.spotify.com/track/0teQKafx4F7jDbBt4GgLmQ) | [Dianna Lopez](https://open.spotify.com/artist/5C7POGyWtwj98P9yaabh4T) | [So I Don't Feel Useless](https://open.spotify.com/album/7Aub4tAdoIe26XUW9EIiZi) | 3:00 | 2021-06-02 | 2022-01-08 |
-| [Soak it In](https://open.spotify.com/track/4bkj4j64FkMlf6nvobCVOJ) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Mundane Pleasure](https://open.spotify.com/album/3NeuhQcs23QELh77ERy0fm) | 2:23 | 2024-03-29 |  |
+| [Soak it In](https://open.spotify.com/track/4bkj4j64FkMlf6nvobCVOJ) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Mundane Pleasure](https://open.spotify.com/album/3NeuhQcs23QELh77ERy0fm) | 2:23 | 2024-03-29 | 2024-04-12 |
+| [Soak it In](https://open.spotify.com/track/6FYpOljm1nFjvbyLh0l1QX) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Mundane Pleasure](https://open.spotify.com/album/3dt5c3PWLzdNQmwWTu99qz) | 2:23 | 2024-03-29 |  |
 | [Soft Blood](https://open.spotify.com/track/3VzbX4GWZgEpwmZWuNW2Ik) | [Salmon Cat](https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs) | [Soft Blood](https://open.spotify.com/album/2Xzu9hEsXtsO2nw54J2ubK) | 1:40 | 2021-03-05 | 2022-04-29 |
 | [Soft Landing](https://open.spotify.com/track/62NdrxSg8YAdnnPikjZN8N) | [Ryan Gebhardt](https://open.spotify.com/artist/1GgblJXkRYNRnHUGBW9oLA) | [Soft Landing](https://open.spotify.com/album/4gxwYu9L7CNEn1RqHewXJx) | 2:53 | 2024-01-05 |  |
 | [Soft Stud](https://open.spotify.com/track/2i1jIsRpjjzaV85v1fS4Hu) | [Black Belt Eagle Scout](https://open.spotify.com/artist/1CUUXdvZE6UzwQyBUm5YVD) | [Mother of My Children](https://open.spotify.com/album/2QjUIrwCIeXwORe8R4u7tH) | 6:08 | 2021-06-02 | 2022-04-29 |

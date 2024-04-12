@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 447579,
+  "num_followers": 447595,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTE1MTNmMmE3NmRkZGQ2YWI5OTE2NGY4MzhkMGZkODFiNGQ4MjVj",
+  "snapshot_id": "MTcxMDk0NTY3NSwwMDAwMDAwMDJhMDdjZTdjMjUwODQ0NzMwOTE4NzQ1YmMxMDAxY2Y5",
   "tracks": [
     {
       "added_at": "2024-03-20 14:41:15",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-03-20 14:41:15",
       "album": {
-        "name": "clear blue atmosphere",
-        "url": "https://open.spotify.com/album/3x02MVIYzOPc6t6Mi6annZ"
-      },
-      "artists": [
-        {
-          "name": "Touristique",
-          "url": "https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2"
-        }
-      ],
-      "duration_ms": 140109,
-      "name": "clear blue atmosphere",
-      "url": "https://open.spotify.com/track/6s31znJTzvn34nJiPfBbHp"
-    },
-    {
-      "added_at": "2024-03-20 14:41:15",
-      "album": {
         "name": "curled up",
         "url": "https://open.spotify.com/album/6TosV7bDaKCr39dqtzHTz8"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 132413,
       "name": "curled up",
       "url": "https://open.spotify.com/track/1eb0KT4XSTq2Gt9C1MCqHm"
+    },
+    {
+      "added_at": "2024-03-20 14:41:15",
+      "album": {
+        "name": "clear blue atmosphere",
+        "url": "https://open.spotify.com/album/3x02MVIYzOPc6t6Mi6annZ"
+      },
+      "artists": [
+        {
+          "name": "Touristique",
+          "url": "https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2"
+        }
+      ],
+      "duration_ms": 140109,
+      "name": "clear blue atmosphere",
+      "url": "https://open.spotify.com/track/6s31znJTzvn34nJiPfBbHp"
     },
     {
       "added_at": "2024-03-20 14:41:15",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-03-20 14:41:15",
       "album": {
+        "name": "Free Trees",
+        "url": "https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z"
+      },
+      "artists": [
+        {
+          "name": "Duos On Mars",
+          "url": "https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Free Trees",
+      "url": "https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U"
+    },
+    {
+      "added_at": "2024-03-20 14:41:15",
+      "album": {
         "name": "Clockwork",
         "url": "https://open.spotify.com/album/51EKtNFncEaNE3TCUR6m5i"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 84000,
       "name": "Hold on, Pt. 2",
       "url": "https://open.spotify.com/track/5CiJgYqEopAiCRBOjMb5j0"
-    },
-    {
-      "added_at": "2024-03-20 14:41:15",
-      "album": {
-        "name": "Free Trees",
-        "url": "https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z"
-      },
-      "artists": [
-        {
-          "name": "Duos On Mars",
-          "url": "https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Free Trees",
-      "url": "https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U"
     },
     {
       "added_at": "2024-03-20 14:41:15",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-03-20 14:41:15",
       "album": {
-        "name": "Soft Life",
-        "url": "https://open.spotify.com/album/6lddJ60eyGfolq2i9Y7HTV"
-      },
-      "artists": [
-        {
-          "name": "Laflov",
-          "url": "https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH"
-        }
-      ],
-      "duration_ms": 132260,
-      "name": "Melatonin",
-      "url": "https://open.spotify.com/track/6GgEUzd0UDtcCTFh5tmuXI"
-    },
-    {
-      "added_at": "2024-03-20 14:41:15",
-      "album": {
         "name": "nobody else",
         "url": "https://open.spotify.com/album/3aHZpDjLZLWpGD9qJyFPAW"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 146666,
       "name": "cold door handles",
       "url": "https://open.spotify.com/track/6JMR13j2R0YAVReTSMzryz"
+    },
+    {
+      "added_at": "2024-03-20 14:41:15",
+      "album": {
+        "name": "Soft Life",
+        "url": "https://open.spotify.com/album/6lddJ60eyGfolq2i9Y7HTV"
+      },
+      "artists": [
+        {
+          "name": "Laflov",
+          "url": "https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH"
+        }
+      ],
+      "duration_ms": 132260,
+      "name": "Melatonin",
+      "url": "https://open.spotify.com/track/6GgEUzd0UDtcCTFh5tmuXI"
     },
     {
       "added_at": "2024-03-20 14:41:15",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-03-20 14:41:15",
       "album": {
-        "name": "sundays.",
-        "url": "https://open.spotify.com/album/5RqAijRRjT6vk53rvV3jTh"
-      },
-      "artists": [
-        {
-          "name": "mindbody&beats",
-          "url": "https://open.spotify.com/artist/09ziI4OFiSlExXt4CE3NLB"
-        }
-      ],
-      "duration_ms": 120215,
-      "name": "mangos",
-      "url": "https://open.spotify.com/track/2d2ZOEYuXYnvdW7ZA3ZyRS"
-    },
-    {
-      "added_at": "2024-03-20 14:41:15",
-      "album": {
         "name": "diary 2018",
         "url": "https://open.spotify.com/album/4G6jljdW4ExppmD5dxfGHA"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 124974,
       "name": "dreary",
       "url": "https://open.spotify.com/track/1vepEjDDLAY1bNyxupZ4Ae"
+    },
+    {
+      "added_at": "2024-03-20 14:41:15",
+      "album": {
+        "name": "sundays.",
+        "url": "https://open.spotify.com/album/5RqAijRRjT6vk53rvV3jTh"
+      },
+      "artists": [
+        {
+          "name": "mindbody&beats",
+          "url": "https://open.spotify.com/artist/09ziI4OFiSlExXt4CE3NLB"
+        }
+      ],
+      "duration_ms": 120215,
+      "name": "mangos",
+      "url": "https://open.spotify.com/track/2d2ZOEYuXYnvdW7ZA3ZyRS"
     },
     {
       "added_at": "2024-03-20 14:41:15",

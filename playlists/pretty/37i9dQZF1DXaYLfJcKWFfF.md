@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Baaba J
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,078 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,104 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 18 | [YAKOYO](https://open.spotify.com/track/4pWKbOnBx45TWBFQl3k6ck) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [YAKOYO](https://open.spotify.com/album/2HDyAE2vT8mR31fsl3eUrl) | 2:52 |
 | 19 | [SAID](https://open.spotify.com/track/57kmRD4yNmP3HTrKm56Yfd) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Pan African Rockstar](https://open.spotify.com/album/2kA7NTDqESZM0B7COf3cfh) | 3:14 |
 | 20 | [Mpenzi Wangu](https://open.spotify.com/track/46OHcOnDAzUxcfmSggZAhA) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nawekulo](https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes) | [Mpenzi Wangu](https://open.spotify.com/album/0XBbgMNrZQXyNSZTSd0llv) | 2:52 |
-| 21 | [Iyawo](https://open.spotify.com/track/1tRkWbxNCSFPeeTHPhqmlz) | [Josh Blakk](https://open.spotify.com/artist/0NbfqAkLJq6uLLCKKY3u2l) | [O.N.E](https://open.spotify.com/album/2fT7v7Hu2Mh1yDsx3JFWic) | 2:48 |
-| 22 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 |
+| 21 | [Tiger](https://open.spotify.com/track/6L74DRgwAPCMU5j0GRdYCZ) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Tiger](https://open.spotify.com/album/3kY0THIOcoEoQtVa0hgfaE) | 3:40 |
+| 22 | [Iyawo](https://open.spotify.com/track/1tRkWbxNCSFPeeTHPhqmlz) | [Josh Blakk](https://open.spotify.com/artist/0NbfqAkLJq6uLLCKKY3u2l) | [O.N.E](https://open.spotify.com/album/2fT7v7Hu2Mh1yDsx3JFWic) | 2:48 |
 | 23 | [Amahoro \(Don't Get Angry\)](https://open.spotify.com/track/05IGFVx5ibUiq4lsPwdcPn) | [Les Amazones d'Afrique](https://open.spotify.com/artist/6dHMq5KZ8ScqdzsCKGagdo), [Alvie Bitemo](https://open.spotify.com/artist/66GN1X6jfmFfcGgYh68PxO) | [Amahoro \(Don't Get Angry\)](https://open.spotify.com/album/4bLHcLCYm3WKPCoBn7om7s) | 3:40 |
 | 24 | [Crescent](https://open.spotify.com/track/419o5hR6s53S0ic5iP984q) | [Talicia](https://open.spotify.com/artist/1baOgaGLdga7kB0JcsgTUP) | [Crescent](https://open.spotify.com/album/2UqMiDdH0yhMelJ9pvvkCf) | 1:48 |
 | 25 | [Japa Japa](https://open.spotify.com/track/3LohrjLiSAKdLxta3Y7sp5) | [BANTU](https://open.spotify.com/artist/2FIlpbCgw3KsywBZzuPU1H) | [What Is Your Breaking Point?](https://open.spotify.com/album/5BNEYB2U96GLnTo2CjG9qd) | 4:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 49 | [wave \(that's me\)](https://open.spotify.com/track/26BJHjtPjFBGGvFRpr3ipa) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [GARDEN](https://open.spotify.com/album/1LkCpeHNsZ4ztzk8hsA0pe) | 3:15 |
 | 50 | [Moses](https://open.spotify.com/track/0NC9BEfvWG3hCsog3VihV8) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Boma Nime](https://open.spotify.com/artist/2tkw8FFnCrgenakG7wml4B) | [Moses](https://open.spotify.com/album/0bfbqUxGnVezR36AUwTbfq) | 2:41 |
 
-Snapshot ID: `MCw3OTBlYzBlZTY1ZWVjOWU3MDEzNDczZmZhNTBiYWU2YWJmNTI4NDVh`
+Snapshot ID: `MTcxMjg4MDA2MCwwMDAwMDAwMGZlMzE1NGRhZGRmNzA4ZjI5OWJiMDRlZGVmYTNkMDUz`

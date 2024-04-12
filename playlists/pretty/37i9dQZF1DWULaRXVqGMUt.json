@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 48454,
+  "num_followers": 48480,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZWVjYjM2Y2IwYTBjYTFlYWVhMWI5MThjMTRjNTQxZjE2NWZjYzM3",
+  "snapshot_id": "MTY5NDc3ODE3OCwwMDAwMDAwMDlmY2I3NmM3ODYwOWIwMDgzZmRmMjE2MzYxMzc0YzJh",
   "tracks": [
     {
       "added_at": "2023-09-15 11:42:58",
@@ -163,18 +163,18 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "The Essential Little Richard",
-        "url": "https://open.spotify.com/album/7tmbNQrDZHuLYKXFiEWlwf"
+        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
+        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
       },
       "artists": [
         {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+          "name": "Louis Jordan & His Tympany Five",
+          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
         }
       ],
-      "duration_ms": 138933,
-      "name": "I Got It - Remastered",
-      "url": "https://open.spotify.com/track/10AUTRYAZyhFkC0TpkZlsC"
+      "duration_ms": 161266,
+      "name": "Caldonia - Single Version",
+      "url": "https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -195,18 +195,18 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
-        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
+        "name": "The Essential Little Richard",
+        "url": "https://open.spotify.com/album/7tmbNQrDZHuLYKXFiEWlwf"
       },
       "artists": [
         {
-          "name": "Louis Jordan & His Tympany Five",
-          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
         }
       ],
-      "duration_ms": 161266,
-      "name": "Caldonia - Single Version",
-      "url": "https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig"
+      "duration_ms": 138933,
+      "name": "I Got It - Remastered",
+      "url": "https://open.spotify.com/track/10AUTRYAZyhFkC0TpkZlsC"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -739,30 +739,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/3DQtOkvFUpgfHJLYJJe19V"
-      },
-      "artists": [
-        {
-          "name": "Ella Mae Morse",
-          "url": "https://open.spotify.com/artist/0qGFARKf4pfodYjZbj5N4v"
-        },
-        {
-          "name": "Freddie Slack And His Orchestra",
-          "url": "https://open.spotify.com/artist/4sDUl3F44oqvU3YQm8HmBw"
-        },
-        {
-          "name": "Don Raye",
-          "url": "https://open.spotify.com/artist/5UpwoPrXTj5b0kLlg8Sn5X"
-        }
-      ],
-      "duration_ms": 173293,
-      "name": "The House of Blue Lights",
-      "url": "https://open.spotify.com/track/1ZMoEiIgMdAm8Hj6aS8SyA"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Plays Mac Rebennack",
         "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
       },
@@ -791,6 +767,30 @@
       "duration_ms": 151261,
       "name": "Swanee River Boogie",
       "url": "https://open.spotify.com/track/1uk0bf5Pwj68zJcpOpFDx7"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/3DQtOkvFUpgfHJLYJJe19V"
+      },
+      "artists": [
+        {
+          "name": "Ella Mae Morse",
+          "url": "https://open.spotify.com/artist/0qGFARKf4pfodYjZbj5N4v"
+        },
+        {
+          "name": "Freddie Slack And His Orchestra",
+          "url": "https://open.spotify.com/artist/4sDUl3F44oqvU3YQm8HmBw"
+        },
+        {
+          "name": "Don Raye",
+          "url": "https://open.spotify.com/artist/5UpwoPrXTj5b0kLlg8Sn5X"
+        }
+      ],
+      "duration_ms": 173293,
+      "name": "The House of Blue Lights",
+      "url": "https://open.spotify.com/track/1ZMoEiIgMdAm8Hj6aS8SyA"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Keep It Coming",
-        "url": "https://open.spotify.com/album/169PS1pKQBPMCszDnERktt"
-      },
-      "artists": [
-        {
-          "name": "Esben Just",
-          "url": "https://open.spotify.com/artist/7C0r1C3ZyzEfD4XgF2T5mZ"
-        }
-      ],
-      "duration_ms": 146346,
-      "name": "Blueberry Hill",
-      "url": "https://open.spotify.com/track/2yvKn73WluTXfEtH1OO05z"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
         "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 172973,
       "name": "Swanee River Hop",
       "url": "https://open.spotify.com/track/3gjDwnN5qoAWVm8CeKN21v"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Keep It Coming",
+        "url": "https://open.spotify.com/album/169PS1pKQBPMCszDnERktt"
+      },
+      "artists": [
+        {
+          "name": "Esben Just",
+          "url": "https://open.spotify.com/artist/7C0r1C3ZyzEfD4XgF2T5mZ"
+        }
+      ],
+      "duration_ms": 146346,
+      "name": "Blueberry Hill",
+      "url": "https://open.spotify.com/track/2yvKn73WluTXfEtH1OO05z"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Chicken Shack Boogie",
-        "url": "https://open.spotify.com/album/4NQQLUJTNkuzX8u859MTBQ"
-      },
-      "artists": [
-        {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
-        }
-      ],
-      "duration_ms": 165408,
-      "name": "Let Me Go Home, Whiskey",
-      "url": "https://open.spotify.com/track/25Ae3RvcXl3QXhkgtpGVDm"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Presenting Albert Ammons",
         "url": "https://open.spotify.com/album/7urtIAL4uMykGBc7QVQwFY"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 131099,
       "name": "Boyd's Boogie Woogie",
       "url": "https://open.spotify.com/track/0XP8phx0WyphdeX3V6NMHB"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Chicken Shack Boogie",
+        "url": "https://open.spotify.com/album/4NQQLUJTNkuzX8u859MTBQ"
+      },
+      "artists": [
+        {
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+        }
+      ],
+      "duration_ms": 165408,
+      "name": "Let Me Go Home, Whiskey",
+      "url": "https://open.spotify.com/track/25Ae3RvcXl3QXhkgtpGVDm"
     },
     {
       "added_at": "2023-09-15 11:42:58",

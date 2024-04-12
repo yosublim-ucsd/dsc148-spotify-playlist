@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: De Beren Gieren
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,842 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,847 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 49 | [Maryward](https://open.spotify.com/track/3DUcCDY04fWN1qv9OB46cN) | [Grand Picture Palace](https://open.spotify.com/artist/1nw3i2K0N8XZi916gV0E4l) | [Maryward](https://open.spotify.com/album/6ZIDG4fFZLYKLNHkqAYQt8) | 6:07 |
 | 50 | [Swirl](https://open.spotify.com/track/1vpoU4P9acenUwLyQRxkp6) | [BAM! Trio](https://open.spotify.com/artist/5eK2rWqJ23rCpv9AdWNK86) | [Swirl](https://open.spotify.com/album/5EzwgWeQe3uy5TnsnN6wDS) | 4:05 |
 
-Snapshot ID: `MCw1OWQwODFlYWE5MTJmZDlmMGRiNTFhMjk0ZGM1ZDQ5NDhjMmQzZDNj`
+Snapshot ID: `MTcxMTY2NjgwMCwwMDAwMDAwMDhiYjZhODM0MzZlM2VhZmRkMDkwMmQ5MTFkZDZlZGVj`

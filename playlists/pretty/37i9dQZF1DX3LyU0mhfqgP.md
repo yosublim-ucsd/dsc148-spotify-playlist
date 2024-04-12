@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Listen to the hottest songs from LGBTQIA+ artists\. Cover: Chico Blanco
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,084,939 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,084,878 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TODOS LOS DÍAS](https://open.spotify.com/track/2qTIRmguqQTQaeWbDdeH31) | [Chico Blanco](https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa), [GAZZI](https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK) | [TODOS LOS DÍAS](https://open.spotify.com/album/0enhgiXd8aZwycKfwxQszf) | 3:56 |
-| 2 | [This Hell](https://open.spotify.com/track/5v63JeEv0SUiceygk3N7P4) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl \(Bonus Edition\)](https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb) | 3:56 |
+| 2 | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6) | 3:56 |
 | 3 | [Dizzy](https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Dizzy](https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY) | 2:52 |
 | 4 | [Before The Party's Over](https://open.spotify.com/track/1A4pbfIyAuyZkIrRr4tK2X) | [Mustii](https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1) | [Before The Party's Over](https://open.spotify.com/album/04IXV3BmIQDVJA6LlI0BLq) | 2:59 |
 | 5 | [false gold](https://open.spotify.com/track/026wFwWe0DnvTvUAiVtiwL) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [false gold](https://open.spotify.com/album/6IReN9wvy1EKmJIETCBI9Z) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Good Time In Disguise \- ft\. Chocoholic](https://open.spotify.com/track/2opO61VvinRaGiBGpWamGv) | [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj), [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Good Time In Disguise](https://open.spotify.com/album/2rEX0BniB4v4PaRGa5bsDE) | 2:42 |
 | 50 | [do u really want to watch](https://open.spotify.com/track/7Khom2QJHwWKqsO4ug1jux) | [LIONSTORM](https://open.spotify.com/artist/2R674rphXQgJ2v2TXHydvV) | [do u really want to watch](https://open.spotify.com/album/1HGjv4VEYuVGXqP3NEINLG) | 2:43 |
 
-Snapshot ID: `MCw4NmI2M2JjNDcyODA5NDAzMjFlYjBlMzJjZTg2NDlhOGU4YzU0NjQz`
+Snapshot ID: `MTcxMjg3MjgwMCwwMDAwMDAwMDY1NzhmNWVkNzdiMDAxOTVlMTBiYWE0MzM5MDgyNjM3`

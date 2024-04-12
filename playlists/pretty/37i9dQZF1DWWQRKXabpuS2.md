@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف:حسين الجسمي
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,143 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,160 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [Ma Fagadtek](https://open.spotify.com/track/5OS9kPuLlLchB7dwab7jsv) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ma Fagadtek](https://open.spotify.com/album/1lUyJAzJODzhayn4dll1QX) | 3:59 |
 | 50 | [مصلحتك](https://open.spotify.com/track/3zNFE3WvCQmtIqQYLxBcoH) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [مصلحتك](https://open.spotify.com/album/2n0YMCPqZLwtR3Y4she3fz) | 2:41 |
 
-Snapshot ID: `MCw5MzI3NzVlNzA5MTk3ZDNjNjA5NjA4YjkwYzdhNDhmOTIyMmUyNTA0`
+Snapshot ID: `MTcxMjc1NzkwMCwwMDAwMDAwMDQzYWNkZDdhZWJhYmZmNDFlZjk3ZWQ5YWRmYjg0Mzk0`

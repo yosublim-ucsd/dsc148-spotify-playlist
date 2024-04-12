@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 ### [Beste van NL](https://open.spotify.com/playlist/37i9dQZF1DXdKMCnEhDnDL)
 
-> De beste Nederlandse hits van vroeger en nu\. Cover: FLEMMING, Zoë Tauran & Ronnie Flex
+> De beste Nederlandse hits\. Cover: FLEMMING, Zoë Tauran & Ronnie Flex
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,368 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,443 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 99 | [Alles](https://open.spotify.com/track/1Mvjog6iuetW1uXH4di2bP) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Alles](https://open.spotify.com/album/0XEjnbbUYmcdbDazbxNmvs) | 3:02 |
 | 100 | [Zo Kan Het Dus Ook](https://open.spotify.com/track/0ZDkMMdWTw9ykmmIGUVnrS) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Zo Kan Het Dus Ook](https://open.spotify.com/album/7HC6X1dkpJzDMwrrVlSHzk) | 2:34 |
 
-Snapshot ID: `MCw3NWExMDIyMjQ3MThmMjZiNTYzZWVmOTBkODdmZDJjOGQxZWY0Nzk1`
+Snapshot ID: `MTcxMjgyMjIyNywwMDAwMDAwMGJjMDE5OWM5Y2FlZmQzMGMyYTNiODc5OTYzZDBmZTg0`

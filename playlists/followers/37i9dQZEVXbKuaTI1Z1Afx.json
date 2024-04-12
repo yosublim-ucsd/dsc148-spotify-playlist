@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 366576,
+  "2024-04-12": 366568,
   "date_first_scraped": "2021-12-28",
   "description": "Your daily update of the most viral tracks right now - USA.",
   "name": "Viral 50 - USA",
@@ -4089,7 +4089,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
@@ -12630,6 +12630,24 @@
     },
     {
       "album": {
+        "name": "The Dark Side of the Moon",
+        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130427,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/1tDWVeCR9oWGX8d5J9rswk"
+    },
+    {
+      "album": {
         "name": "ecstacy",
         "url": "https://open.spotify.com/album/1xCyOqwylZT5Syi5LwHF4q"
       },
@@ -14413,7 +14431,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 123428,
       "name": "Faster n Harder",
       "url": "https://open.spotify.com/track/499mGaGmtP9U1MPGVeUOIV"
@@ -14619,7 +14637,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 219710,
       "name": "Femininomenon",
       "url": "https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS"
@@ -22062,6 +22080,28 @@
     },
     {
       "album": {
+        "name": "Insanely Illegal Cage Fight",
+        "url": "https://open.spotify.com/album/0XxgVPZdYs2GPcu3ASupBP"
+      },
+      "artists": [
+        {
+          "name": "Dal Av",
+          "url": "https://open.spotify.com/artist/1086cg4qU8kfji9Iex24Ri"
+        },
+        {
+          "name": "Jackson Rose",
+          "url": "https://open.spotify.com/artist/0P1li4GURXaPNnFwVSZzHx"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101129,
+      "name": "Insanely Illegal Cage Fight",
+      "url": "https://open.spotify.com/track/6R4NjnvN8gZFPlNFqGAVWT"
+    },
+    {
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l"
       },
@@ -25229,7 +25269,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 156813,
       "name": "Life With You",
       "url": "https://open.spotify.com/track/38QnGbDW7KgVylfma7ZWV5"
@@ -38769,7 +38809,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 170698,
       "name": "Shotput",
       "url": "https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh"
@@ -48385,7 +48425,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"

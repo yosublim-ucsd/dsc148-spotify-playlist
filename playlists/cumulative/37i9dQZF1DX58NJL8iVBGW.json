@@ -3032,7 +3032,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 216538,
       "name": "Ribbon",
       "url": "https://open.spotify.com/track/6CD7BVEDI5WpYVwAs30Opk"
@@ -3466,6 +3466,24 @@
       "duration_ms": 183986,
       "name": "Sweet Breath",
       "url": "https://open.spotify.com/track/0j6DlCKhJgJNmwIUoTvgAr"
+    },
+    {
+      "album": {
+        "name": "Fern Girl and Ice Man",
+        "url": "https://open.spotify.com/album/7A9Nai9GMwQhgvBwtuexAo"
+      },
+      "artists": [
+        {
+          "name": "The Lowest Pair",
+          "url": "https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183986,
+      "name": "Sweet Breath",
+      "url": "https://open.spotify.com/track/3KhytjuhiOfB4XQcPeAGR1"
     },
     {
       "album": {

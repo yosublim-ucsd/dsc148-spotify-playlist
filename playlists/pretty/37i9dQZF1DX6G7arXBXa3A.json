@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 397597,
+  "num_followers": 397635,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzMyMGU0YWU0MDYzNjg2MDM1NGQ3NWRhOGEwNzNhZjU3NzdjM2Vl",
+  "snapshot_id": "MTY4OTkxMjA2MCwwMDAwMDAwMDhkZjFlYTk4NjBkZjRkZjJkNDk4YmY2ZjY4MWZhNWE3",
   "tracks": [
     {
       "added_at": "2020-03-06 16:28:56",
@@ -415,6 +415,26 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
+        "name": "The World Of Nat King Cole (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1z5Ut9gopzeYwM7QsseZtP"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole Trio",
+          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
+        },
+        {
+          "name": "Stan Kenton & His Orchestra",
+          "url": "https://open.spotify.com/artist/6MHjWRkmBS7mzh7Ol2Aw0b"
+        }
+      ],
+      "duration_ms": 153973,
+      "name": "Orange Colored Sky - Remastered 2005",
+      "url": "https://open.spotify.com/track/0CEWQROXhDHxcbXlZYYdym"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
         "name": "Djangologie Vol.4 / 1937",
         "url": "https://open.spotify.com/album/46Ffy1LBhLRzUAz53jMIVI"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 166826,
       "name": "Honeysuckle Rose",
       "url": "https://open.spotify.com/track/10Hiskp06jZeXKjiYbkuj7"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "The World Of Nat King Cole (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1z5Ut9gopzeYwM7QsseZtP"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole Trio",
-          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
-        },
-        {
-          "name": "Stan Kenton & His Orchestra",
-          "url": "https://open.spotify.com/artist/6MHjWRkmBS7mzh7Ol2Aw0b"
-        }
-      ],
-      "duration_ms": 153973,
-      "name": "Orange Colored Sky - Remastered 2005",
-      "url": "https://open.spotify.com/track/0CEWQROXhDHxcbXlZYYdym"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -855,22 +855,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "1967",
-        "url": "https://open.spotify.com/album/1zfcftE8MWUffLvReEkuvK"
-      },
-      "artists": [
-        {
-          "name": "Maynard Ferguson Orchestra",
-          "url": "https://open.spotify.com/artist/5zKY2J7SS55XcV2NFb7rPD"
-        }
-      ],
-      "duration_ms": 378466,
-      "name": "Whisper Not",
-      "url": "https://open.spotify.com/track/6chc0hinq5KuAhQhML22Hv"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Presenting Thad Jones-Mel Lewis & The Jazz Orchestra",
         "url": "https://open.spotify.com/album/0GVZOTR7vm9mYlZrbKTDPh"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 348733,
       "name": "Three In One",
       "url": "https://open.spotify.com/track/5NdEAODwKFtl1ZJ0Bjyk9h"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "1967",
+        "url": "https://open.spotify.com/album/1zfcftE8MWUffLvReEkuvK"
+      },
+      "artists": [
+        {
+          "name": "Maynard Ferguson Orchestra",
+          "url": "https://open.spotify.com/artist/5zKY2J7SS55XcV2NFb7rPD"
+        }
+      ],
+      "duration_ms": 378466,
+      "name": "Whisper Not",
+      "url": "https://open.spotify.com/track/6chc0hinq5KuAhQhML22Hv"
     }
   ],
   "unique_name": "Big Band",

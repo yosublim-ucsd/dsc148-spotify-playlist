@@ -1,12 +1,12 @@
 {
   "description": "El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.",
-  "num_followers": 138515,
+  "num_followers": 138711,
   "original_name": "Cancionero Espinoza Paz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjFiM2EzZGFjNGRlZjRjYWM5YjY1MzQ4M2U1ZTQ4OGY3NTcwY2M1",
+  "snapshot_id": "MTY5NjU3MjAwMCwwMDAwMDAwMDUzZWNjNjY3YWJjYjg3YTQ5MzMzNWQ0N2Q2MWNhNjU2",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -171,6 +171,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Amor Enfermo",
+        "url": "https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 218093,
+      "name": "Mi Olvido",
+      "url": "https://open.spotify.com/track/0sfs8U4743dBlUKKxN7pye"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Como Duele Equivocarse",
         "url": "https://open.spotify.com/album/1PnZI2OsZUT1fWvl8pGyOL"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 227044,
       "name": "Como Duele Equivocarse",
       "url": "https://open.spotify.com/track/7ItDaXyhJJog7ZZJXTMOwf"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Amor Enfermo",
-        "url": "https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 218093,
-      "name": "Mi Olvido",
-      "url": "https://open.spotify.com/track/0sfs8U4743dBlUKKxN7pye"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Con Todas Las Fuerzas",
-        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 254853,
-      "name": "No Elegi Conocerte",
-      "url": "https://open.spotify.com/track/7EY91l11hOnYIytcxFgvDN"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Disfrut\u00e9 Enga\u00f1arte",
         "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 234480,
       "name": "Despu\u00e9s de Ti, \u00bfQui\u00e9n?",
       "url": "https://open.spotify.com/track/3qGkFQOEJ0w0SqnAXFeG2v"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 254853,
+      "name": "No Elegi Conocerte",
+      "url": "https://open.spotify.com/track/7EY91l11hOnYIytcxFgvDN"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 187880,
-      "name": "Me Gusta Tu Vieja",
-      "url": "https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "\u00bfQui\u00e9n Es Usted?",
         "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 168840,
       "name": "La N\u00famero 20",
       "url": "https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 187880,
+      "name": "Me Gusta Tu Vieja",
+      "url": "https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Cuando El Sol Salga Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 187760,
+      "name": "Cuando el Sol Salga Al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/421JL88eYQqTCwEmsNmmXj"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Mi Raz\u00f3n De Ser",
         "url": "https://open.spotify.com/album/3OoJLeyo9pK8V2zov6Hkgw"
       },
@@ -531,22 +547,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Cuando El Sol Salga Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 187760,
-      "name": "Cuando el Sol Salga Al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/421JL88eYQqTCwEmsNmmXj"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Para Siempre",
         "url": "https://open.spotify.com/album/1rYEKI8cDhyGCzbVkoGGPL"
       },
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Prohibido, Salud Por \u00c9l Y M\u00e1s \u00c9xitos",
-        "url": "https://open.spotify.com/album/73ibYU5GkSI4s9r7gLbtPb"
+        "name": "Necesito Due\u00f1a",
+        "url": "https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY"
       },
       "artists": [
         {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 226083,
-      "name": "Salud Por \u00c9l",
-      "url": "https://open.spotify.com/track/41Ix7ovR9I9fXcEy8hDcOj"
+      "duration_ms": 181506,
+      "name": "Necesito Due\u00f1a - Ranchera Version",
+      "url": "https://open.spotify.com/track/5nQusPyVdSNdpBJdX5uSq4"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Prohibido, Salud Por \u00c9l Y M\u00e1s \u00c9xitos",
+        "url": "https://open.spotify.com/album/73ibYU5GkSI4s9r7gLbtPb"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "duration_ms": 226083,
+      "name": "Salud Por \u00c9l",
+      "url": "https://open.spotify.com/track/41Ix7ovR9I9fXcEy8hDcOj"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Idolos De Mexico Para El Mundo",
         "url": "https://open.spotify.com/album/03QeaYk3AUCbRQFBQdXOZG"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 223333,
       "name": "Vive Y D\u00e9jame Vivir",
       "url": "https://open.spotify.com/track/77WQrnphsSnSxyQElfqvbg"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Necesito Due\u00f1a",
-        "url": "https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "Necesito Due\u00f1a - Ranchera Version",
-      "url": "https://open.spotify.com/track/5nQusPyVdSNdpBJdX5uSq4"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Thalia En Primera Fila",
-        "url": "https://open.spotify.com/album/07yVsJaLRxqakz0Fyyx7pR"
+        "name": "Recordando A El Shaka",
+        "url": "https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa"
       },
       "artists": [
         {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 249360,
-      "name": "El Pr\u00f3ximo Viernes - Live Version",
-      "url": "https://open.spotify.com/track/1uW8wYIoulhYK6qIXhakbg"
+      "duration_ms": 204346,
+      "name": "Mu\u00f1equita - Balada Version",
+      "url": "https://open.spotify.com/track/36csppf4oC76qA6vbMWDSo"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Recordando A El Shaka",
-        "url": "https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa"
+        "name": "Thalia En Primera Fila",
+        "url": "https://open.spotify.com/album/07yVsJaLRxqakz0Fyyx7pR"
       },
       "artists": [
         {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
         }
       ],
-      "duration_ms": 204346,
-      "name": "Mu\u00f1equita - Balada Version",
-      "url": "https://open.spotify.com/track/36csppf4oC76qA6vbMWDSo"
+      "duration_ms": 249360,
+      "name": "El Pr\u00f3ximo Viernes - Live Version",
+      "url": "https://open.spotify.com/track/1uW8wYIoulhYK6qIXhakbg"
     },
     {
       "added_at": "2023-10-06 06:00:00",

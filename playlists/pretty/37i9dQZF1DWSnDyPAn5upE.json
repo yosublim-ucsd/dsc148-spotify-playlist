@@ -1,12 +1,12 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 53457,
+  "num_followers": 53488,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmI4NTllZTIzY2IyMzUwNzUyOWY5NmZmMTgzZTIyMjgwOWZkNGY3",
+  "snapshot_id": "MTY5NzEzMzk1MCwwMDAwMDAwMDkwNzc5NmQ2NmY4NzIwOWZhMTVkMDdkNzBkZjMzOTMz",
   "tracks": [
     {
       "added_at": "2023-10-12 18:05:50",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "ahead",
-        "url": "https://open.spotify.com/album/2Cg3oKoQAJmDDSQ1XTwYvJ"
-      },
-      "artists": [
-        {
-          "name": "james king",
-          "url": "https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli"
-        }
-      ],
-      "duration_ms": 124500,
-      "name": "ahead",
-      "url": "https://open.spotify.com/track/2OFqPVwWQw2si7wFPLQpwO"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Untethering",
         "url": "https://open.spotify.com/album/7pQyhMhsJvmpghevCKZnhw"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 418349,
       "name": "Untethering",
       "url": "https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "ahead",
+        "url": "https://open.spotify.com/album/2Cg3oKoQAJmDDSQ1XTwYvJ"
+      },
+      "artists": [
+        {
+          "name": "james king",
+          "url": "https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli"
+        }
+      ],
+      "duration_ms": 124500,
+      "name": "ahead",
+      "url": "https://open.spotify.com/track/2OFqPVwWQw2si7wFPLQpwO"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1215,38 +1215,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Fantas Variations",
-        "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
-      },
-      "artists": [
-        {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
-        },
-        {
-          "name": "Evelyn Saylor",
-          "url": "https://open.spotify.com/artist/41T8k3OwxjwiIG8WfpU3Kr"
-        },
-        {
-          "name": "Lyra Pramuk",
-          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
-        },
-        {
-          "name": "Annie Garlid",
-          "url": "https://open.spotify.com/artist/39ePqE7lVGgRzWHoQNRz0V"
-        },
-        {
-          "name": "Stine Janvin",
-          "url": "https://open.spotify.com/artist/6klRil30SiILsNixh4xy4Q"
-        }
-      ],
-      "duration_ms": 460892,
-      "name": "Fantas Variation for Voices",
-      "url": "https://open.spotify.com/track/67bJXVcOsU3JPjmSngBkfV"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Ode to the blue",
         "url": "https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO"
       },
@@ -1283,6 +1251,38 @@
       "duration_ms": 239232,
       "name": "You Make It Look so Easy - Reverbed by Malibu",
       "url": "https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Fantas Variations",
+        "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        },
+        {
+          "name": "Evelyn Saylor",
+          "url": "https://open.spotify.com/artist/41T8k3OwxjwiIG8WfpU3Kr"
+        },
+        {
+          "name": "Lyra Pramuk",
+          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
+        },
+        {
+          "name": "Annie Garlid",
+          "url": "https://open.spotify.com/artist/39ePqE7lVGgRzWHoQNRz0V"
+        },
+        {
+          "name": "Stine Janvin",
+          "url": "https://open.spotify.com/artist/6klRil30SiILsNixh4xy4Q"
+        }
+      ],
+      "duration_ms": 460892,
+      "name": "Fantas Variation for Voices",
+      "url": "https://open.spotify.com/track/67bJXVcOsU3JPjmSngBkfV"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "After its own death / Walking in a spiral towards the house",
-        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
-      },
-      "artists": [
-        {
-          "name": "Nivhek",
-          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
-        }
-      ],
-      "duration_ms": 1001299,
-      "name": "After its own death: Side A",
-      "url": "https://open.spotify.com/track/0JJmrRoNITYVgeJfk063n3"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Shimmer in the Sky (Yoko Komatsu Rework)",
         "url": "https://open.spotify.com/album/7JvpFn4ryPxuNo8HSgKHqw"
       },
@@ -1439,22 +1423,18 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Lumino Pleco",
-        "url": "https://open.spotify.com/album/5r3nWzm8O9f3pnd0yAWSta"
+        "name": "After its own death / Walking in a spiral towards the house",
+        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
       },
       "artists": [
         {
-          "name": "Gi Gi",
-          "url": "https://open.spotify.com/artist/2X6qMx9wP4p6L7PU3kTh9r"
-        },
-        {
-          "name": "Mi Mi",
-          "url": "https://open.spotify.com/artist/1vSXToWT1gtSQhwhz0g8jX"
+          "name": "Nivhek",
+          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
         }
       ],
-      "duration_ms": 491334,
-      "name": "Montju\u00efc",
-      "url": "https://open.spotify.com/track/2kS4LEZDSABnCLo4U9yr5c"
+      "duration_ms": 1001299,
+      "name": "After its own death: Side A",
+      "url": "https://open.spotify.com/track/0JJmrRoNITYVgeJfk063n3"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1479,6 +1459,26 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "Lumino Pleco",
+        "url": "https://open.spotify.com/album/5r3nWzm8O9f3pnd0yAWSta"
+      },
+      "artists": [
+        {
+          "name": "Gi Gi",
+          "url": "https://open.spotify.com/artist/2X6qMx9wP4p6L7PU3kTh9r"
+        },
+        {
+          "name": "Mi Mi",
+          "url": "https://open.spotify.com/artist/1vSXToWT1gtSQhwhz0g8jX"
+        }
+      ],
+      "duration_ms": 491334,
+      "name": "Montju\u00efc",
+      "url": "https://open.spotify.com/track/2kS4LEZDSABnCLo4U9yr5c"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "emerged, vol. II",
         "url": "https://open.spotify.com/album/0QQdfdlFytl4zZjmBInUEb"
       },
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Forward / Wreck Dive",
-        "url": "https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN"
-      },
-      "artists": [
-        {
-          "name": "Niia",
-          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
-        }
-      ],
-      "duration_ms": 196129,
-      "name": "Forward",
-      "url": "https://open.spotify.com/track/59J12WhFRuPxJLGt3qIm0x"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Inori (William Basinski Rework)",
         "url": "https://open.spotify.com/album/2QvRUt9kt1X6JFDC1z8xK1"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 306154,
       "name": "Inori - William Basinski Rework",
       "url": "https://open.spotify.com/track/4WHgvsBS0aMtRgb2dihFYH"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Forward / Wreck Dive",
+        "url": "https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN"
+      },
+      "artists": [
+        {
+          "name": "Niia",
+          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
+        }
+      ],
+      "duration_ms": 196129,
+      "name": "Forward",
+      "url": "https://open.spotify.com/track/59J12WhFRuPxJLGt3qIm0x"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Time Is Local",
-        "url": "https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV"
-      },
-      "artists": [
-        {
-          "name": "We like We",
-          "url": "https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN"
-        },
-        {
-          "name": "Jacob Kirkegaard",
-          "url": "https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE"
-        }
-      ],
-      "duration_ms": 96450,
-      "name": "Clotho",
-      "url": "https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Our Hands Against the Dusk",
         "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
       },
@@ -1607,18 +1587,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "The Distance Between Heart And Mouth",
-        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
+        "name": "Time Is Local",
+        "url": "https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV"
       },
       "artists": [
         {
-          "name": "Elaine Howley",
-          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
+          "name": "We like We",
+          "url": "https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN"
+        },
+        {
+          "name": "Jacob Kirkegaard",
+          "url": "https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE"
         }
       ],
-      "duration_ms": 295623,
-      "name": "Silent Talk",
-      "url": "https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc"
+      "duration_ms": 96450,
+      "name": "Clotho",
+      "url": "https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1647,6 +1631,22 @@
       "duration_ms": 744162,
       "name": "Abiogenesis",
       "url": "https://open.spotify.com/track/24tiKS70CpATr6tJLk0c9Q"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "The Distance Between Heart And Mouth",
+        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
+      },
+      "artists": [
+        {
+          "name": "Elaine Howley",
+          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
+        }
+      ],
+      "duration_ms": 295623,
+      "name": "Silent Talk",
+      "url": "https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
-      },
-      "artists": [
-        {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
-        }
-      ],
-      "duration_ms": 264250,
-      "name": "Haven't Left Home 4 4 Days",
-      "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "One Day, You Will Reach The Sea (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Y1GYcORlM7pB0QFWQEjEL"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 146993,
       "name": "Prologue",
       "url": "https://open.spotify.com/track/4ZekhHXJ8lBq2moSWDAT9Y"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "7.37/2.11",
+        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
+      },
+      "artists": [
+        {
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+        }
+      ],
+      "duration_ms": 264250,
+      "name": "Haven't Left Home 4 4 Days",
+      "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
     },
     {
       "added_at": "2023-10-12 18:05:50",

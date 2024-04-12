@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits right here
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,160 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,249 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [Alive](https://open.spotify.com/track/1jPJAIlbudhvI1axBuMxSC) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Ghetto Gospel](https://open.spotify.com/album/5HMBpGcCItvsbmrjyOmePw) | 2:44 |
 | 50 | [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 |
 
-Snapshot ID: `MCxkNjk1ZmIxZWZkZmQ1MDQyY2Q4MWJlNzE0YmY5ODM2NmRhZTExMTg1`
+Snapshot ID: `MTcxMjY3Mjg2NSwwMDAwMDAwMDgzNzM1MzMzMmRmY2ZlN2UxMjJkODkyODU1NWI2NmY0`

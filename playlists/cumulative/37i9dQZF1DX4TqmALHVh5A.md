@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : Juniore
+> La scène française branchée sur courant alternatif\. Photo : Yseult
 
-149 songs - 8 hr 3 min
+150 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Cl0ckW0rk](https://open.spotify.com/track/5w8XK7wdcdsIp76zLtc3aR) | [Apple Jelly](https://open.spotify.com/artist/587AadegoSQQn1WdhSCnSZ) | [Cl0ckW0rk EP](https://open.spotify.com/album/2aMSVdnr1U8YJKdbjLqHfr) | 3:01 | 2023-10-05 | 2023-11-17 |
 | [CLAIRIÈRE](https://open.spotify.com/track/2oMkFzQlvWaJBYjJPcHiMU) | [VISCERAL](https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om) | [CLAIRIÈRE](https://open.spotify.com/album/089lVl2UqcXFCc6Xy87WCP) | 2:49 | 2024-03-28 |  |
 | [COLLÉ SERRÉ](https://open.spotify.com/track/0Oeym4SSUPJqNAH9sLUdvy) | [BRIQUE ARGENT](https://open.spotify.com/artist/6oEiRjlcIxYaZvnjlMiYLw) | [COLLÉ SERRÉ](https://open.spotify.com/album/1qRHnXgeDKChBP6iu16FQF) | 3:07 | 2023-09-28 | 2023-11-17 |
-| [Comme un idiot](https://open.spotify.com/track/5MW2D3rttNR84ivORyMvTV) | [Le trottoir](https://open.spotify.com/artist/0z6rhcwWAD4Oi2J9bLKHbD) | [Comme un idiot](https://open.spotify.com/album/2e5EbSgc1Fy800rbR1SnGm) | 3:37 | 2023-09-28 |  |
+| [Comme un idiot](https://open.spotify.com/track/5MW2D3rttNR84ivORyMvTV) | [Le trottoir](https://open.spotify.com/artist/0z6rhcwWAD4Oi2J9bLKHbD) | [Comme un idiot](https://open.spotify.com/album/2e5EbSgc1Fy800rbR1SnGm) | 3:37 | 2023-09-28 | 2024-04-12 |
 | [Conspire](https://open.spotify.com/track/5Ps5Ca2F1O7QqIo88C9WAH) | [Gwendoline](https://open.spotify.com/artist/0KeEMBn34d4rKeACHxK9AF) | [Conspire](https://open.spotify.com/album/3kuN93pe0gnDpztgTlIvX1) | 5:53 | 2023-11-30 | 2024-01-13 |
 | [COUP DE FOUDRE](https://open.spotify.com/track/0lBnsgQTZyeLnwKnQ7GIxs) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [COUP DE FOUDRE](https://open.spotify.com/album/428jPxdZh194ALGPIBaeM8) | 3:20 | 2023-09-28 | 2023-11-17 |
 | [Dannazione](https://open.spotify.com/track/3bgPcv0jVe1OSPwNe4VLzR) | [MaMaMa](https://open.spotify.com/artist/4cyoA6TEaCkcI6ue37dJpw) | [Dannazione](https://open.spotify.com/album/77MBshYT8ncsvdWfOff8uq) | 2:53 | 2024-01-26 |  |
@@ -136,6 +136,7 @@
 | [STP Apaise toi](https://open.spotify.com/track/1JDY621fH5Ufd0y9AuCg59) | [Petit Fantôme](https://open.spotify.com/artist/3MUJ4wHF8z7MSoIfp1Tt1j), [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Stave II](https://open.spotify.com/album/4IwLrhUacdpFv13CSIEnZC) | 3:12 | 2023-10-05 | 2023-10-27 |
 | [Strike](https://open.spotify.com/track/4GTA7LtqEO2b5kMT6EHfZ2) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Strike](https://open.spotify.com/album/7j2K75QimzNjpbc316cCxr) | 1:00 | 2023-10-05 | 2024-03-22 |
 | [STUPID CUNT IN THE MALL](https://open.spotify.com/track/2Up0DUfJRoRkA7ynD50Xtl) | [W!ZARD](https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd) | [STUPID CUNT IN THE MALL](https://open.spotify.com/album/4tnat0J4elDPH4C144xxxg) | 4:04 | 2024-03-21 | 2024-03-29 |
+| [SUICIDE](https://open.spotify.com/track/1Aw8rYPjcA5kE9qM9KV3Q4) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [SUICIDE](https://open.spotify.com/album/6gJtO81KttmKypH2rQN8Ve) | 3:24 | 2024-04-11 |  |
 | [Superstar](https://open.spotify.com/track/4yeQykjmOJeVxxfEoyPfiA) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [DÉSORDRES](https://open.spotify.com/album/6TGZoFUFnus52OtEXSmDEd) | 3:01 | 2023-09-28 | 2023-11-03 |
 | [Tes mains sales](https://open.spotify.com/track/0SlqPsiEli9P0SolyyaeIu) | [Ojos](https://open.spotify.com/artist/6vjLB7rWDPLOVrzt3GhdPE) | [Tes mains sales](https://open.spotify.com/album/1qHu35g9fesjTYiBQzL057) | 2:38 | 2023-09-28 | 2023-10-13 |
 | [The 360 Holes Bird](https://open.spotify.com/track/1HXda7QPN7Ku4HgHfSc1Qp) | [BLVL](https://open.spotify.com/artist/35ky25MGfnUDQehlu1hzdS) | [The 360 Holes Bird](https://open.spotify.com/album/3AKYrcj3lRLL5B6EUuJAkL) | 3:00 | 2023-11-02 | 2024-01-12 |

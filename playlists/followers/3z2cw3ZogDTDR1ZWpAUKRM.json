@@ -1,3 +1,229 @@
 {
-  "2024-04-11": 0
+  "2024-04-12": 0,
+  "date_first_scraped": "2024-04-11",
+  "description": "",
+  "name": "twelve",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ahoy!",
+        "url": "https://open.spotify.com/album/36jzIBBHAa6v02X8fE1JB8"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390453,
+      "name": "Another New World",
+      "url": "https://open.spotify.com/track/2OWfdex8Sx9e6RqUeFfUKW"
+    },
+    {
+      "album": {
+        "name": "Cate\u2019s Brother",
+        "url": "https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180589,
+      "name": "Cate\u2019s Brother",
+      "url": "https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78"
+    },
+    {
+      "album": {
+        "name": "We Go On",
+        "url": "https://open.spotify.com/album/6R41RzrVQb0K3VCkz6JVWe"
+      },
+      "artists": [
+        {
+          "name": "Swoope",
+          "url": "https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204124,
+      "name": "Chasing Ghosts",
+      "url": "https://open.spotify.com/track/5NsejBqTH83xlbKFdjScSw"
+    },
+    {
+      "album": {
+        "name": "Every Mile Mattered",
+        "url": "https://open.spotify.com/album/51HWO4nZXpw3nRosU2Nwsz"
+      },
+      "artists": [
+        {
+          "name": "Nichole Nordeman",
+          "url": "https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327640,
+      "name": "Dear Me",
+      "url": "https://open.spotify.com/track/1mBqbGYfsVJH1z2DHPNSbT"
+    },
+    {
+      "album": {
+        "name": "DEEP MAGIC",
+        "url": "https://open.spotify.com/album/6azWJbjlgtEJWpPgdi2H6g"
+      },
+      "artists": [
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231613,
+      "name": "Deep Magic",
+      "url": "https://open.spotify.com/track/3dNOUOwnIKlPnlDrQLX5Ut"
+    },
+    {
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177733,
+      "name": "Dinner with Friends",
+      "url": "https://open.spotify.com/track/1wLN48gT4YmUWs4WMgnw2n"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278611,
+      "name": "Hannah Hunt - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ"
+    },
+    {
+      "album": {
+        "name": "A Mirror Brightly",
+        "url": "https://open.spotify.com/album/1o4rcU1X9X31s6bdVPhuMJ"
+      },
+      "artists": [
+        {
+          "name": "Geographer",
+          "url": "https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260799,
+      "name": "Learn How to Lose: Act 1",
+      "url": "https://open.spotify.com/track/56rSvFCJSGDvHvbiJ7EKGg"
+    },
+    {
+      "album": {
+        "name": "Emotion (Deluxe Expanded Edition)",
+        "url": "https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251327,
+      "name": "Run Away With Me",
+      "url": "https://open.spotify.com/track/0FS7B5o3QyvOD8eWjnbLoO"
+    },
+    {
+      "album": {
+        "name": "F\u266f A\u266f \u221e",
+        "url": "https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5"
+      },
+      "artists": [
+        {
+          "name": "Godspeed You! Black Emperor",
+          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 987960,
+      "name": "The Dead Flag Blues",
+      "url": "https://open.spotify.com/track/0YzMEu5sGNX0JKr9mdBtzd"
+    },
+    {
+      "album": {
+        "name": "Purgatory",
+        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221600,
+      "name": "Universal Sound",
+      "url": "https://open.spotify.com/track/48nZLOpJOINkICPWpUuhaN"
+    },
+    {
+      "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214240,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/3z2cw3ZogDTDR1ZWpAUKRM"
 }

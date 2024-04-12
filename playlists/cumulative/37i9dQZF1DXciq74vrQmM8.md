@@ -2,13 +2,14 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. AlienBlaze
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. Lynks
 
-788 songs - 1 day 13 hr 34 min
+792 songs - 1 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(WHAT DID YOU EXPECT FROM\) SEX WITH A STRANGER](https://open.spotify.com/track/2h15hDIwg3c0ojcpob5eHI) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [\(WHAT DID YOU EXPECT FROM\) SEX WITH A STRANGER](https://open.spotify.com/album/4vLrXibV3kr91I2deh6GUp) | 3:21 | 2023-12-08 | 2024-02-23 |
+| [000memories](https://open.spotify.com/track/74pXDAWB08mft6AscgfYFZ) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [000memories](https://open.spotify.com/album/687mZ8VJg6fMZxV912KdeU) | 2:28 | 2024-04-11 |  |
 | [100 Miles an Hour](https://open.spotify.com/track/2VzvGinwatgeCYsx8oYCgl) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [100 Miles an Hour](https://open.spotify.com/album/5QvFoRrxl7HDz9GUbcU5Qi) | 3:04 | 2024-02-23 | 2024-03-22 |
 | [17250](https://open.spotify.com/track/4RRHEpkrrYa0TkTEyTPUv7) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i care so much that i dont care at all](https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC) | 2:31 | 2023-07-13 | 2023-09-22 |
 | [18+](https://open.spotify.com/track/3SqPQRaxS6A6G7rlE7lvhs) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [18+](https://open.spotify.com/album/6oveIE1VtjcawBs2UlM3Mn) | 3:13 | 2023-03-17 | 2023-09-29 |
@@ -18,6 +19,7 @@
 | [<maybe> it's my fault](https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<maybe> it's my fault](https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM) | 2:39 | 2022-06-23 | 2022-10-07 |
 | [a girl is a gun](https://open.spotify.com/track/1DizkiqT4coHh4lNMyEPtU) | [OC Saint](https://open.spotify.com/artist/1W80xMiJWGfGsymfrjCCLa) | [re:start](https://open.spotify.com/album/4mHuGNBWQFa1G7xdOsGYon) | 3:20 | 2023-08-24 | 2023-11-18 |
 | [A Track In Orbit](https://open.spotify.com/track/33byUHbCWRpbgo6sd8dVro) | [Humane The Moon](https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m) | [A Track In Orbit](https://open.spotify.com/album/6z9DSUTU2QjEX91HR0R0Te) | 2:31 | 2023-11-17 | 2024-01-19 |
+| [ABOMINATION](https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [ABOMINATION](https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr) | 3:18 | 2024-04-11 |  |
 | [ABYSS](https://open.spotify.com/track/0oyLeHwK228pw76jx2VZNQ) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [ABYSS](https://open.spotify.com/album/5tHG1GajRvMq3PoTxyijCo) | 2:31 | 2022-09-29 | 2022-10-07 |
 | [ACHOO!](https://open.spotify.com/track/5RuUuBtaiPVnACY5nTohue) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [CRITTERS](https://open.spotify.com/album/7jycItY9gSsb0WJKLXFuOL) | 1:39 | 2023-11-17 |  |
 | [AGAIN.](https://open.spotify.com/track/2knqxjt5zHq0So8l619O88) | [KDVSGOLIATH](https://open.spotify.com/artist/1fxSfIUHcYGuFkPY7kOCkQ) | [AGAIN.](https://open.spotify.com/album/0VEOmqs7veZkwAQwV88NgF) | 3:01 | 2022-06-02 | 2022-08-05 |
@@ -247,6 +249,7 @@
 | [Fighting Fate](https://open.spotify.com/track/4PNPN7lA1UMYbKtTco1JtB) | [Yung'cid](https://open.spotify.com/artist/1It5FG5hReUrQInrg7Be1Q), [Baby Doll](https://open.spotify.com/artist/4htyNjCI51sL6pterwxVCq) | [Fighting Fate](https://open.spotify.com/album/7nFQVDz1vhFcxnnr3ylX5K) | 3:09 | 2022-08-11 | 2022-08-26 |
 | [Filfy](https://open.spotify.com/track/2QeNrtujr8snbhO954HeUH) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Filfy](https://open.spotify.com/album/5fra69sNXN3Bv2URMed5Xp) | 3:06 | 2023-09-07 | 2023-10-13 |
 | [Filfy \- Tokky Horror Remix](https://open.spotify.com/track/73vppi63Im7YURIt1aqi4w) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38), [Tokky Horror](https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp) | [Filfy \(Tokky Horror Remix\)](https://open.spotify.com/album/5Ojc6abnr3eUkwIiQlMlrh) | 2:57 | 2023-12-08 | 2024-01-19 |
+| [Finally See Me](https://open.spotify.com/track/5JW3HX2c3H4FlOJERs52To) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Finally See Me](https://open.spotify.com/album/4FcEzgsKUgajnUGKnnnj3R) | 3:30 | 2024-04-11 |  |
 | [Finger](https://open.spotify.com/track/7DdB9aa1MDBtP5JgYMzVRl) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Finger](https://open.spotify.com/album/6wXWZXiqdnCgEI7NzjG9hC) | 2:33 | 2024-03-08 |  |
 | [fkdup](https://open.spotify.com/track/7uHGZ7mVm1pVsdItZQmChw) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [fkdup](https://open.spotify.com/album/6PTbJ1GmwwHuxqDcy0yAZV) | 2:11 | 2024-03-29 |  |
 | [Flawed Guy](https://open.spotify.com/track/38L0QwyBMuqWlpC4oBl4UV) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Flawed Guy](https://open.spotify.com/album/57KOzUqReaxjaZG6czVlzf) | 2:06 | 2022-09-22 | 2022-12-09 |
@@ -528,7 +531,7 @@
 | [nobody's favorite person, not even my own](https://open.spotify.com/track/0RmfWxyMmROruOHM3dmdKq) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [nobody's favorite person, not even my own](https://open.spotify.com/album/6B1sAAlnS5AeE9xKijrD9b) | 2:11 | 2023-04-13 | 2023-11-18 |
 | [Nonbinary](https://open.spotify.com/track/4lUlYGT5VvZWN3GBDIc9KT) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:19 | 2022-12-16 | 2023-01-27 |
 | [Not Yours Never Was](https://open.spotify.com/track/4bg3Y2jE3wbjcOHLWBYogo) | [AlienBlaze](https://open.spotify.com/artist/79eu73GhyfHgYTGt6lTn34) | [Not Yours Never Was](https://open.spotify.com/album/0olqiaBJPPoECCG5CCbu7s) | 2:51 | 2022-09-09 | 2023-04-14 |
-| [Nothing Hurts Like a Girl](https://open.spotify.com/track/6cgUCnMBYEkvr4pwqE7zZw) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Nothing Hurts Like a Girl](https://open.spotify.com/album/6quCOdudERgb1B4Nom2d21) | 2:33 | 2023-11-10 |  |
+| [Nothing Hurts Like a Girl](https://open.spotify.com/track/6cgUCnMBYEkvr4pwqE7zZw) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Nothing Hurts Like a Girl](https://open.spotify.com/album/6quCOdudERgb1B4Nom2d21) | 2:33 | 2023-11-10 | 2024-04-12 |
 | [Nothing Lasts Forever \(with Grimes\)](https://open.spotify.com/track/3g2JWlyUpLgwiLRsIKHM8h) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Nothing Lasts Forever \(with Grimes\)](https://open.spotify.com/album/4QBQzfxBfxVpLnAl91LB74) | 3:19 | 2023-11-10 |  |
 | [Off With Their Heads](https://open.spotify.com/track/20vvxC2w3GiRvts2slu2p0) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Off With Their Heads](https://open.spotify.com/album/4BIBmd8fwsIA7yuBPhz8dU) | 3:49 | 2022-12-16 | 2023-06-18 |
 | [Off With Their Heads](https://open.spotify.com/track/2y9eyAKx82PkxWL9ZwWfad) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Off With Their Heads](https://open.spotify.com/album/1xePnRYFD6Lvywbb5fRCU0) | 3:49 | 2023-06-15 | 2023-07-07 |
@@ -635,7 +638,7 @@
 | [silly putty](https://open.spotify.com/track/3AG923oYOUn7ESzHTkthKL) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [silly putty](https://open.spotify.com/album/4HdrJc0K45gBQQSBIkOhx1) | 2:46 | 2021-12-27 | 2022-02-04 |
 | [SILYMI](https://open.spotify.com/track/2z1tHGVkMogil6jUCbZowQ) | [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [SILYMI](https://open.spotify.com/album/6e9e4kvwl1CY0HtQ92vGbg) | 2:29 | 2024-01-26 |  |
 | [SINS](https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [SINS](https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra) | 2:57 | 2022-08-25 | 2022-10-29 |
-| [SIRENCORE](https://open.spotify.com/track/2MZyaw5TUlYexpTEw7NyK7) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [SIRENCORE](https://open.spotify.com/album/6n2tAWkRPOee0giRslcyb4) | 3:03 | 2023-10-19 |  |
+| [SIRENCORE](https://open.spotify.com/track/2MZyaw5TUlYexpTEw7NyK7) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [SIRENCORE](https://open.spotify.com/album/6n2tAWkRPOee0giRslcyb4) | 3:03 | 2023-10-19 | 2024-04-12 |
 | [Sirens](https://open.spotify.com/track/0oqY7ABQ72awkOkn7odf5X) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Sirens](https://open.spotify.com/album/3V9jj4WpTyl4N4hc5o3DO4) | 2:15 | 2023-06-01 | 2023-06-30 |
 | [Skitz](https://open.spotify.com/track/2ziUaTw3sQHI9FHCVk6ob3) | [Yinyang](https://open.spotify.com/artist/5WesO65aRpHO5Cqjg8IMvA) | [Skitz](https://open.spotify.com/album/5zyNyDGWEAw2OnIGomFxCd) | 2:58 | 2021-12-27 | 2022-02-18 |
 | [Skullflower](https://open.spotify.com/track/5yEg8DS2WhVvX3kLQo1cA9) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:21 | 2022-07-21 | 2024-03-09 |
@@ -664,6 +667,7 @@
 | [straight out the oven !](https://open.spotify.com/track/4RNFQj2OhHlaeQK6S3hKac) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [straight out the oven !](https://open.spotify.com/album/1xMSlBl1FaPiCJIZ8ppofk) | 3:04 | 2023-12-08 | 2024-01-19 |
 | [STRANGERS](https://open.spotify.com/track/2eeLM9CVHETMWIdDGtW39i) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67), [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [STRANGERS](https://open.spotify.com/album/5YiMAwQ6ecR1mDk4E9MNmF) | 3:43 | 2023-11-10 | 2024-03-29 |
 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 | 2022-07-07 | 2022-10-14 |
+| [Stuck](https://open.spotify.com/track/3yyJWBJ3MOrLlhtla7Cq7P) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Stuck](https://open.spotify.com/album/6Y1Wf6l68FYPbUd4WC3DnE) | 2:04 | 2024-04-11 |  |
 | [Sucker](https://open.spotify.com/track/18CliRAehj3KGvbQnLyt4k) | [AILSHA](https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH) | [Sucker](https://open.spotify.com/album/7mgBVNxlvVOsMQQMgaj98B) | 2:34 | 2023-01-27 | 2023-04-14 |
 | [Sugared Up](https://open.spotify.com/track/7rrW0HPdHSOlXQtzTvDxpb) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Sugared Up](https://open.spotify.com/album/7918WlTCOxkQ1kV12Ey7my) | 2:33 | 2021-12-27 | 2022-07-08 |
 | [SUICIDE](https://open.spotify.com/track/4atpzYOS3lR8a99kgp1kcC) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [SUICIDE](https://open.spotify.com/album/1vQpCZWCnmYWgF1ZVRCUFt) | 3:47 | 2021-12-27 | 2022-04-01 |
@@ -769,7 +773,7 @@
 | [WISH I AINT](https://open.spotify.com/track/5WlNM5UK3UC0v7hTJuB2xg) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [WISH I AINT](https://open.spotify.com/album/4VhOno6Ce4JwUt6sBwyXe7) | 2:13 | 2024-03-15 |  |
 | [wish i was dead](https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [wish i was dead](https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4) | 1:38 | 2022-07-28 | 2022-11-11 |
 | [WISH YOU WERE DEAD](https://open.spotify.com/track/7lcnOYhsy2RcLQGeIAN6a8) | [Lucy Deakin](https://open.spotify.com/artist/76vO0RjFam5iW8mbtVsc4h) | [WISH YOU WERE DEAD](https://open.spotify.com/album/23jnFwSYYOF49E94Nlg64M) | 2:28 | 2023-11-17 |  |
-| [WITCH](https://open.spotify.com/track/6L3L8S4nkmJl9nDE7bXnFL) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve), [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [WITCH](https://open.spotify.com/album/0zECxYD8vdnOWX6FJ7cPXJ) | 3:54 | 2023-10-13 |  |
+| [WITCH](https://open.spotify.com/track/6L3L8S4nkmJl9nDE7bXnFL) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve), [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [WITCH](https://open.spotify.com/album/0zECxYD8vdnOWX6FJ7cPXJ) | 3:54 | 2023-10-13 | 2024-04-12 |
 | [Witch Hunt](https://open.spotify.com/track/4TFXmB2WOm1G5CnVcejVQb) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C), [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [Witch Hunt](https://open.spotify.com/album/0lKuTAQI0YyQ7wUghrnX1z) | 2:39 | 2023-01-21 | 2023-08-25 |
 | [Wokeup!](https://open.spotify.com/track/65pgKsJuP0bYuqy4hiRztY) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [Wokeup!](https://open.spotify.com/album/53OYdcHlqKCw1qvzDAWTZY) | 2:49 | 2022-04-19 | 2022-04-29 |
 | [Word Vomit](https://open.spotify.com/track/579Toef3RjBEXfFMXvwkqp) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Word Vomit](https://open.spotify.com/album/7dsAqFpnshTvViLP7PTzkd) | 2:26 | 2021-12-27 | 2022-07-15 |
@@ -793,7 +797,7 @@
 | [yum yum](https://open.spotify.com/track/2SSg7q4KmjPAy3QV50X2Qe) | [Halo Boy](https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj) | [yum yum](https://open.spotify.com/album/45sBDcxCcI8MFFwHmZsNVI) | 2:50 | 2023-01-21 | 2023-09-01 |
 | [ZERO FIVE STARS](https://open.spotify.com/track/2HXLC1alUzezTMoBM0Sxkb) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [ONE](https://open.spotify.com/album/6iEbn9hlgnnd9wa7qgemhO) | 2:36 | 2021-12-27 | 2022-02-18 |
 | [ZERO FIVE STARS](https://open.spotify.com/track/7pLPs5Yph0xTeEMAA4Heff) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [ONE](https://open.spotify.com/album/5nFvLGogWjDGiJ25xBknPG) | 2:36 | 2021-12-27 | 2022-01-12 |
-| [Zig](https://open.spotify.com/track/58SM6Pb7Bi9WY7SO83bjQx) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Zig](https://open.spotify.com/album/3J353DwtMfUV3V6t9vRPCk) | 2:28 | 2023-11-10 |  |
+| [Zig](https://open.spotify.com/track/58SM6Pb7Bi9WY7SO83bjQx) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Zig](https://open.spotify.com/album/3J353DwtMfUV3V6t9vRPCk) | 2:28 | 2023-11-10 | 2024-04-12 |
 | [Червь / Worm](https://open.spotify.com/track/3QxOyYp44vD7hkoOr5oslj) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8), [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Червь / Worm](https://open.spotify.com/album/0D0aIv3n85HJFtNuuXOxUc) | 2:54 | 2022-02-04 | 2022-04-01 |
 | [Яitual](https://open.spotify.com/track/4yHYjLDcFlSEYnsmqYxIrA) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Яitual](https://open.spotify.com/album/405GUW3aweuZJxSAvYXOQX) | 1:24 | 2023-04-27 | 2023-06-30 |
 

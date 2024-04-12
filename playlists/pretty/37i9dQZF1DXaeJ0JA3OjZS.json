@@ -1,12 +1,12 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 108486,
+  "num_followers": 108711,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Mjc0ZTJjYmIyMjdmNzg0ZGIwZDE5ODYyYzMzYWZjYThlOTUyNDE1",
+  "snapshot_id": "MTcwODcwODYzNiwwMDAwMDAwMGFjZjE3OWZlNTM0NjQ5MjA1NDg0ZjllMWRlMmNjOTU1",
   "tracks": [
     {
       "added_at": "2024-02-23 17:17:16",
@@ -147,6 +147,22 @@
     {
       "added_at": "2024-02-23 17:17:16",
       "album": {
+        "name": "Hay Nubes Llorando",
+        "url": "https://open.spotify.com/album/5YufvENBLRTnojNfVRXfGW"
+      },
+      "artists": [
+        {
+          "name": "Alex Ramirez Y Su Grupo Profetas",
+          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "El Pulmon",
+      "url": "https://open.spotify.com/track/7BJAA9HmsJhMB66Sd9MLrW"
+    },
+    {
+      "added_at": "2024-02-23 17:17:16",
+      "album": {
         "name": "El Gato",
         "url": "https://open.spotify.com/album/2jUYD0B0zfMgZNNiTDpYd9"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 199462,
       "name": "El Gato",
       "url": "https://open.spotify.com/track/3SX4OVFSimNlFYu6xsbeCx"
-    },
-    {
-      "added_at": "2024-02-23 17:17:16",
-      "album": {
-        "name": "Hay Nubes Llorando",
-        "url": "https://open.spotify.com/album/5YufvENBLRTnojNfVRXfGW"
-      },
-      "artists": [
-        {
-          "name": "Alex Ramirez Y Su Grupo Profetas",
-          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "El Pulmon",
-      "url": "https://open.spotify.com/track/7BJAA9HmsJhMB66Sd9MLrW"
     },
     {
       "added_at": "2024-02-23 17:17:16",
@@ -295,18 +295,18 @@
     {
       "added_at": "2024-02-23 17:17:16",
       "album": {
-        "name": "Hay Nubes Llorando",
-        "url": "https://open.spotify.com/album/5YufvENBLRTnojNfVRXfGW"
+        "name": "Bronco Amigo",
+        "url": "https://open.spotify.com/album/08xEu0Znzc82NRFdBof3B6"
       },
       "artists": [
         {
-          "name": "Alex Ramirez Y Su Grupo Profetas",
-          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
         }
       ],
-      "duration_ms": 159582,
-      "name": "El Wareke",
-      "url": "https://open.spotify.com/track/0kW4iNEQjk2sms7fWCjnwz"
+      "duration_ms": 232760,
+      "name": "Amigo Bronco",
+      "url": "https://open.spotify.com/track/4g29cIui50ZZcFc6478yWV"
     },
     {
       "added_at": "2024-02-23 17:17:16",
@@ -327,18 +327,18 @@
     {
       "added_at": "2024-02-23 17:17:16",
       "album": {
-        "name": "Bronco Amigo",
-        "url": "https://open.spotify.com/album/08xEu0Znzc82NRFdBof3B6"
+        "name": "Hay Nubes Llorando",
+        "url": "https://open.spotify.com/album/5YufvENBLRTnojNfVRXfGW"
       },
       "artists": [
         {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+          "name": "Alex Ramirez Y Su Grupo Profetas",
+          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
         }
       ],
-      "duration_ms": 232760,
-      "name": "Amigo Bronco",
-      "url": "https://open.spotify.com/track/4g29cIui50ZZcFc6478yWV"
+      "duration_ms": 159582,
+      "name": "El Wareke",
+      "url": "https://open.spotify.com/track/0kW4iNEQjk2sms7fWCjnwz"
     },
     {
       "added_at": "2024-02-23 17:17:16",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-02-23 17:17:16",
       "album": {
-        "name": "No Ocupa La Banda Pa\u2019 Bailar Mi Cuaco",
-        "url": "https://open.spotify.com/album/2oDscjIVA5YERidGVVlzVT"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 153855,
-      "name": "No Ocupa La Banda Pa\u2019 Bailar Mi Cuaco",
-      "url": "https://open.spotify.com/track/4YHlqCBMgcSi3ZBBMGZ8Uc"
-    },
-    {
-      "added_at": "2024-02-23 17:17:16",
-      "album": {
         "name": "M\u00e1s All\u00e1 Del Sol",
         "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 183297,
       "name": "Cuando Muri\u00f3 Mi Caballo",
       "url": "https://open.spotify.com/track/151XSjgdoUP9y0Hh7axniG"
+    },
+    {
+      "added_at": "2024-02-23 17:17:16",
+      "album": {
+        "name": "No Ocupa La Banda Pa\u2019 Bailar Mi Cuaco",
+        "url": "https://open.spotify.com/album/2oDscjIVA5YERidGVVlzVT"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 153855,
+      "name": "No Ocupa La Banda Pa\u2019 Bailar Mi Cuaco",
+      "url": "https://open.spotify.com/track/4YHlqCBMgcSi3ZBBMGZ8Uc"
     },
     {
       "added_at": "2024-02-23 17:17:16",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-02-23 17:17:16",
       "album": {
-        "name": "Corridos De Caballos Famosos",
-        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "El Profeta",
-      "url": "https://open.spotify.com/track/5psSRwJyVXRmJJ4PIwf5B1"
-    },
-    {
-      "added_at": "2024-02-23 17:17:16",
-      "album": {
         "name": "Corridos de Caballos",
         "url": "https://open.spotify.com/album/5kXoqUH7dnPoWFEuHQCNgI"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 243500,
       "name": "El 2 Estados",
       "url": "https://open.spotify.com/track/42qBJPH22Hdw0e3yqPTU2q"
+    },
+    {
+      "added_at": "2024-02-23 17:17:16",
+      "album": {
+        "name": "Corridos De Caballos Famosos",
+        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "El Profeta",
+      "url": "https://open.spotify.com/track/5psSRwJyVXRmJJ4PIwf5B1"
     },
     {
       "added_at": "2024-02-23 17:17:16",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-02-23 17:17:16",
       "album": {
-        "name": "Corridos De Caballos Famosos",
-        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 162690,
-      "name": "La Leona Y El Carcomido",
-      "url": "https://open.spotify.com/track/450VR4UGmK3IfRu6RuvcmY"
-    },
-    {
-      "added_at": "2024-02-23 17:17:16",
-      "album": {
         "name": "El Quemado",
         "url": "https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i"
       },
@@ -799,6 +783,22 @@
     {
       "added_at": "2024-02-23 17:17:16",
       "album": {
+        "name": "Corridos De Caballos Famosos",
+        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 162690,
+      "name": "La Leona Y El Carcomido",
+      "url": "https://open.spotify.com/track/450VR4UGmK3IfRu6RuvcmY"
+    },
+    {
+      "added_at": "2024-02-23 17:17:16",
+      "album": {
         "name": "En Vivo Desde Mi Ranchito",
         "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
       },
@@ -815,22 +815,6 @@
       "duration_ms": 270318,
       "name": "Un Frisian Llamado El Centenario - En Vivo",
       "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
-    },
-    {
-      "added_at": "2024-02-23 17:17:16",
-      "album": {
-        "name": "Corridos De Caballos Famosos",
-        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 246360,
-      "name": "El Moro De Cumpas",
-      "url": "https://open.spotify.com/track/0aHdkEGGQNXrPyRfldFSUy"
     },
     {
       "added_at": "2024-02-23 17:17:16",
@@ -867,22 +851,6 @@
     {
       "added_at": "2024-02-23 17:17:16",
       "album": {
-        "name": "El Rey De Los Coleaderos",
-        "url": "https://open.spotify.com/album/2KhFlDzt77frAazmQOguEv"
-      },
-      "artists": [
-        {
-          "name": "El Nono y Su Banda Reina de Jerez",
-          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
-        }
-      ],
-      "duration_ms": 185880,
-      "name": "El Rey De Los Coleaderos",
-      "url": "https://open.spotify.com/track/73Y7E1RiTt1DGsaIi7BSkw"
-    },
-    {
-      "added_at": "2024-02-23 17:17:16",
-      "album": {
         "name": "Corridos de Caballos y Gallos",
         "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
       },
@@ -915,6 +883,22 @@
     {
       "added_at": "2024-02-23 17:17:16",
       "album": {
+        "name": "El Rey De Los Coleaderos",
+        "url": "https://open.spotify.com/album/2KhFlDzt77frAazmQOguEv"
+      },
+      "artists": [
+        {
+          "name": "El Nono y Su Banda Reina de Jerez",
+          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
+        }
+      ],
+      "duration_ms": 185880,
+      "name": "El Rey De Los Coleaderos",
+      "url": "https://open.spotify.com/track/73Y7E1RiTt1DGsaIi7BSkw"
+    },
+    {
+      "added_at": "2024-02-23 17:17:16",
+      "album": {
         "name": "Con el Poder del Corrido",
         "url": "https://open.spotify.com/album/1D2hxYcke3d29b1vOkf9Wr"
       },
@@ -931,22 +915,6 @@
       "duration_ms": 229750,
       "name": "El Dorado",
       "url": "https://open.spotify.com/track/5RhDoarqLwMX9ftRP3oz09"
-    },
-    {
-      "added_at": "2024-02-23 17:17:16",
-      "album": {
-        "name": "El Caballo de Mi Padre",
-        "url": "https://open.spotify.com/album/3F8eGBvmfsMQ9659Ju5uWI"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 201317,
-      "name": "El Caballo de Mi Padre",
-      "url": "https://open.spotify.com/track/34mSoUrzLEASYlAphqLdoe"
     },
     {
       "added_at": "2024-02-23 17:17:16",
@@ -971,18 +939,34 @@
     {
       "added_at": "2024-02-23 17:17:16",
       "album": {
-        "name": "Corridos de Caballos Pura Sangre",
-        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
+        "name": "Corridos De Caballos Famosos",
+        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
       },
       "artists": [
         {
-          "name": "Los Herederos De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 276760,
-      "name": "El Profeta",
-      "url": "https://open.spotify.com/track/5iPlnUCTFRRdnBmH51GZi5"
+      "duration_ms": 246360,
+      "name": "El Moro De Cumpas",
+      "url": "https://open.spotify.com/track/0aHdkEGGQNXrPyRfldFSUy"
+    },
+    {
+      "added_at": "2024-02-23 17:17:16",
+      "album": {
+        "name": "El Caballo de Mi Padre",
+        "url": "https://open.spotify.com/album/3F8eGBvmfsMQ9659Ju5uWI"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 201317,
+      "name": "El Caballo de Mi Padre",
+      "url": "https://open.spotify.com/track/34mSoUrzLEASYlAphqLdoe"
     },
     {
       "added_at": "2024-02-23 17:17:16",
@@ -1003,58 +987,6 @@
     {
       "added_at": "2024-02-23 17:17:16",
       "album": {
-        "name": "El Golden Boy",
-        "url": "https://open.spotify.com/album/0qETY0e5zbP39E29FlLLtS"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "El Golden Boy",
-      "url": "https://open.spotify.com/track/0tYlsfCH5OIHZ9okoNSHKB"
-    },
-    {
-      "added_at": "2024-02-23 17:17:16",
-      "album": {
-        "name": "El Pulm\u00f3n",
-        "url": "https://open.spotify.com/album/5elWI9k1RB0IJo1uWG1Ihu"
-      },
-      "artists": [
-        {
-          "name": "Contrafuego",
-          "url": "https://open.spotify.com/artist/4fIgrneRiDbwrGD3AE722x"
-        },
-        {
-          "name": "Alex Ramirez Y Su Grupo Profetas",
-          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
-        }
-      ],
-      "duration_ms": 212813,
-      "name": "El Pulm\u00f2n",
-      "url": "https://open.spotify.com/track/7pCq5BIgSQtbCeE4XwBHlR"
-    },
-    {
-      "added_at": "2024-02-23 17:17:16",
-      "album": {
-        "name": "Corridos Finos III",
-        "url": "https://open.spotify.com/album/7LDQI0TCxPQaEhBfQ1BGEc"
-      },
-      "artists": [
-        {
-          "name": "Oscar Solis Y Su Banda Magistral",
-          "url": "https://open.spotify.com/artist/6yB5ibqiRRRhUufTBBugu8"
-        }
-      ],
-      "duration_ms": 222020,
-      "name": "El Nuevo Comandante",
-      "url": "https://open.spotify.com/track/5DxWPiKEeNoPlRDKyQRykZ"
-    },
-    {
-      "added_at": "2024-02-23 17:17:16",
-      "album": {
         "name": "Corridos de Caballos y Gallos",
         "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
       },
@@ -1067,6 +999,38 @@
       "duration_ms": 131291,
       "name": "El Polvorete",
       "url": "https://open.spotify.com/track/1eKCq3MBykT0Z2vDn143Nt"
+    },
+    {
+      "added_at": "2024-02-23 17:17:16",
+      "album": {
+        "name": "Corridos de Caballos Pura Sangre",
+        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
+        }
+      ],
+      "duration_ms": 276760,
+      "name": "El Profeta",
+      "url": "https://open.spotify.com/track/5iPlnUCTFRRdnBmH51GZi5"
+    },
+    {
+      "added_at": "2024-02-23 17:17:16",
+      "album": {
+        "name": "El Golden Boy",
+        "url": "https://open.spotify.com/album/0qETY0e5zbP39E29FlLLtS"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "El Golden Boy",
+      "url": "https://open.spotify.com/track/0tYlsfCH5OIHZ9okoNSHKB"
     },
     {
       "added_at": "2024-02-23 17:17:16",
@@ -1091,18 +1055,38 @@
     {
       "added_at": "2024-02-23 17:17:16",
       "album": {
-        "name": "Corridos de Caballos Pura Sangre",
-        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
+        "name": "El Pulm\u00f3n",
+        "url": "https://open.spotify.com/album/5elWI9k1RB0IJo1uWG1Ihu"
       },
       "artists": [
         {
-          "name": "Los Herederos De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
+          "name": "Contrafuego",
+          "url": "https://open.spotify.com/artist/4fIgrneRiDbwrGD3AE722x"
+        },
+        {
+          "name": "Alex Ramirez Y Su Grupo Profetas",
+          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
         }
       ],
-      "duration_ms": 186720,
-      "name": "El Demonio",
-      "url": "https://open.spotify.com/track/61waA2BQrQPABpCimEJb8t"
+      "duration_ms": 212813,
+      "name": "El Pulm\u00f2n",
+      "url": "https://open.spotify.com/track/7pCq5BIgSQtbCeE4XwBHlR"
+    },
+    {
+      "added_at": "2024-02-23 17:17:16",
+      "album": {
+        "name": "Corridos de Caballos y Gallos",
+        "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 191961,
+      "name": "El Rengo del Gallo Giro",
+      "url": "https://open.spotify.com/track/1BEaN9jtTbJ17WyVH2drnC"
     },
     {
       "added_at": "2024-02-23 17:17:16",
@@ -1135,6 +1119,38 @@
       "duration_ms": 200093,
       "name": "El cantador - En vivo",
       "url": "https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr"
+    },
+    {
+      "added_at": "2024-02-23 17:17:16",
+      "album": {
+        "name": "Corridos de Caballos Pura Sangre",
+        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
+        }
+      ],
+      "duration_ms": 186720,
+      "name": "El Demonio",
+      "url": "https://open.spotify.com/track/61waA2BQrQPABpCimEJb8t"
+    },
+    {
+      "added_at": "2024-02-23 17:17:16",
+      "album": {
+        "name": "Corridos Finos III",
+        "url": "https://open.spotify.com/album/7LDQI0TCxPQaEhBfQ1BGEc"
+      },
+      "artists": [
+        {
+          "name": "Oscar Solis Y Su Banda Magistral",
+          "url": "https://open.spotify.com/artist/6yB5ibqiRRRhUufTBBugu8"
+        }
+      ],
+      "duration_ms": 222020,
+      "name": "El Nuevo Comandante",
+      "url": "https://open.spotify.com/track/5DxWPiKEeNoPlRDKyQRykZ"
     },
     {
       "added_at": "2024-02-23 17:17:16",
@@ -1175,22 +1191,6 @@
       "duration_ms": 212214,
       "name": "El Caballo Robado",
       "url": "https://open.spotify.com/track/7nbeXqsiqq8XPg7QaNDO3I"
-    },
-    {
-      "added_at": "2024-02-23 17:17:16",
-      "album": {
-        "name": "Corridos de Caballos Pura Sangre",
-        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
-      },
-      "artists": [
-        {
-          "name": "Los Herederos De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
-        }
-      ],
-      "duration_ms": 199613,
-      "name": "El Texano y el Machete",
-      "url": "https://open.spotify.com/track/5SnCAD0jeqqKKQoi7iiyHt"
     }
   ],
   "unique_name": "Corridos de Caballos",

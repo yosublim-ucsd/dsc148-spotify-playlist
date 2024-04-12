@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,180 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,208 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 47 | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/track/3PDUwo7N2IF6fOfD3dEZMH) | [Miguel Inzunza](https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb) | [Juguete De Madera](https://open.spotify.com/album/1wuudf3MeIPS0MdGvjU5YM) | 3:29 |
 | 48 | [Hacerte venir](https://open.spotify.com/track/1YguO4pcfFZseldt05E7rF) | [Amaury Pérez](https://open.spotify.com/artist/5dQbt6k1CXsAPV2H5WYDBm) | [No Lo Van a Impedir](https://open.spotify.com/album/4DLnrdFW1OClDq9OoOeYjh) | 3:28 |
 | 49 | [Guapa](https://open.spotify.com/track/6FCrZ2Eh3T0Wk45EsB3auG) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Diego Ojeda](https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl) | [Maldita Vocación](https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku) | 4:45 |
-| 50 | [Trova Azul](https://open.spotify.com/track/01lLpcMp5aLUH3BRdLoKHH) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [Trova Azul](https://open.spotify.com/album/77rRwgkqNQbzxf6t4Ffb1K) | 3:51 |
-| 51 | [Lo Mejor Que Hay en Mi Vida](https://open.spotify.com/track/0J3JDxZu1tRZgFLGjhKDo0) | [Amaury Gutiérrez](https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D) | [Entre Cuerdas](https://open.spotify.com/album/0YHCrpRNd9EehinmSb8yoN) | 4:24 |
+| 50 | [Lo Mejor Que Hay en Mi Vida](https://open.spotify.com/track/0J3JDxZu1tRZgFLGjhKDo0) | [Amaury Gutiérrez](https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D) | [Entre Cuerdas](https://open.spotify.com/album/0YHCrpRNd9EehinmSb8yoN) | 4:24 |
+| 51 | [Trova Azul](https://open.spotify.com/track/01lLpcMp5aLUH3BRdLoKHH) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [Trova Azul](https://open.spotify.com/album/77rRwgkqNQbzxf6t4Ffb1K) | 3:51 |
 | 52 | [Tan Distintos \(feat\. Edgar Oceransky\)](https://open.spotify.com/track/3unJniffgdKHCxTfUelqou) | [Carlos Carreira](https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6), [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [Quiero Cantar](https://open.spotify.com/album/5Z7soSWKI9Df92V6w4hapo) | 3:54 |
 | 53 | [Se Busca](https://open.spotify.com/track/5uXbOALhNzFFLfoJSh27Vb) | [Miguel Inzunza](https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb) | [Que Nadie Se Entere](https://open.spotify.com/album/6hVFxpqlDUBu4ZXMBBV5nZ) | 4:36 |
 | 54 | [De Alguna Manera](https://open.spotify.com/track/7MtdhnO67fNwuF7Bes1xOh) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 99 | [Viene la Cosa](https://open.spotify.com/track/6ICAdGrduZHsR9ZIfx9CCw) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Viene la Cosa](https://open.spotify.com/album/6PREdFoN9vmyzU3CpdAts3) | 3:51 |
 | 100 | [Alfonsina Y El Mar](https://open.spotify.com/track/6Q3ozAXkxLpKQy6sc8L0TY) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Ariel Ramírez](https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW), [Hector Zeoli](https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:40 |
 
-Snapshot ID: `MCw5NTEyNWMzZjMyZGQ5ZDk2NTdlZmY5MTJlOTFkMDk2Mzg5YThjNTU1`
+Snapshot ID: `MTY5MDkwMDk3NiwwMDAwMDAwMDc3MDEyYTg0ZGFmOTFiOTMyYTM4MDc0MTFkNDk1MWQ2`

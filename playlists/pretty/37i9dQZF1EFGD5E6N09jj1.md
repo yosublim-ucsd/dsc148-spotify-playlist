@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2YMfVMHfyhZ8nNwKmfbrZi">Charli XCX</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,221 likes - 156 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,222 likes - 156 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 78 | [Porsche \(feat\. MØ\)](https://open.spotify.com/track/5cAokEuetqzaLMxhtQl4h2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 3:26 |
 | 79 | [2099 \(feat\. Troye Sivan\)](https://open.spotify.com/track/2T4SAwloHxRAtpD2hgykdA) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 3:25 |
 | 80 | [911 \- Charli XCX & A\. G\. Cook Remix](https://open.spotify.com/track/4xx8LCv4tUv7PNk6g7VQmY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 4:13 |
-| 81 | [Click \(feat\. Kim Petras and Tommy Cash\)](https://open.spotify.com/track/3B0K8G7WESjdKxQvVMByR9) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 3:53 |
-| 82 | [7 years](https://open.spotify.com/track/4jQDJPgw3qkc1T2f1safdy) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [BJ Burton](https://open.spotify.com/artist/79qKFHLgvS3SEabYpohRHz) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 3:15 |
+| 81 | [7 years](https://open.spotify.com/track/4jQDJPgw3qkc1T2f1safdy) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [BJ Burton](https://open.spotify.com/artist/79qKFHLgvS3SEabYpohRHz) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 3:15 |
+| 82 | [Click \(feat\. Kim Petras and Tommy Cash\)](https://open.spotify.com/track/3B0K8G7WESjdKxQvVMByR9) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 3:53 |
 | 83 | [ILY2](https://open.spotify.com/track/1KPS1MHPrq9uPklJX8Q4XW) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:16 |
 | 84 | [Dance For Me](https://open.spotify.com/track/6LLKwcUr9C16PiTPVT5QtB) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Heavy Rules Mixtape](https://open.spotify.com/album/7MNdScEmf2wgF9bVLOyXKs) | 3:35 |
 | 85 | [No Angel](https://open.spotify.com/track/4neipBD8hA1q2g1FS9hgAC) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Focus / No Angel](https://open.spotify.com/album/7uBztHlyuZ9oSE4faTYWXX) | 3:06 |
@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 129 | [Cloud Aura \(feat\. Brooke Candy\)](https://open.spotify.com/track/2JmfHwK3QpBtSX4FCcVDFg) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [True Romance](https://open.spotify.com/album/4NUyHY8HwmpjGDdYGpiBtu) | 2:44 |
 | 130 | [Black Roses](https://open.spotify.com/track/6KHaAM65eCWE0KGZCoqfFi) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance](https://open.spotify.com/album/4NUyHY8HwmpjGDdYGpiBtu) | 3:28 |
 | 131 | [Grins](https://open.spotify.com/track/6PVMVmACGqDs2BP50tEX6s) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance](https://open.spotify.com/album/4NUyHY8HwmpjGDdYGpiBtu) | 3:52 |
-| 132 | [I, U, Us](https://open.spotify.com/track/7FmfkLiqWAUEeHACWftK7j) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [SECOND](https://open.spotify.com/album/6eT16kw4EZwX9jlHaQQ4Ww) | 2:54 |
-| 133 | [Xcxoplex \(with Charli XCX\)](https://open.spotify.com/track/1cntn3ERV911IIKeGJtgQj) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Apple vs\. 7G](https://open.spotify.com/album/2crtxJQewJqC3hQTtMJ4II) | 2:21 |
+| 132 | [Xcxoplex \(with Charli XCX\)](https://open.spotify.com/track/1cntn3ERV911IIKeGJtgQj) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Apple vs\. 7G](https://open.spotify.com/album/2crtxJQewJqC3hQTtMJ4II) | 2:21 |
+| 133 | [I, U, Us](https://open.spotify.com/track/7FmfkLiqWAUEeHACWftK7j) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [SECOND](https://open.spotify.com/album/6eT16kw4EZwX9jlHaQQ4Ww) | 2:54 |
 | 134 | [Hand in the Fire \(feat\. Charli XCX\)](https://open.spotify.com/track/5QPRuZbi5lG1xb2j8vxP4v) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hand in the Fire](https://open.spotify.com/album/68m5OyVhf41Va2TYVBkwvA) | 2:59 |
 | 135 | [You're the One](https://open.spotify.com/track/6SDL8459MUpkQ4BElyV1a4) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance](https://open.spotify.com/album/4NUyHY8HwmpjGDdYGpiBtu) | 3:15 |
 | 136 | [Hanging Around](https://open.spotify.com/track/73gFV5HHqDa4pIk13LmkZ0) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/5Ws5ktkIUJFpaIImvH3tYU) | 3:18 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 155 | [Lost in Space](https://open.spotify.com/track/6xEuFZLg0OK5b94n8ZJy25) | [Starkey](https://open.spotify.com/artist/1jSXmAYCaHoqt7C6t0VZdK), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Space Traitor, Vol\. 2](https://open.spotify.com/album/03sCimdfQYiG02SZDyAyGQ) | 4:46 |
 | 156 | [Friss meine Shorts](https://open.spotify.com/track/52sdkW14TkAL1lURxnPsgW) | [Bart](https://open.spotify.com/artist/27T8KFq2GCENrgbvjioqIb) | [The Voices of Springfield](https://open.spotify.com/album/2geQRLxx4XzNZHwGYVHVVl) | 2:40 |
 
-Snapshot ID: `Mjg1NDY2OTAsMDAwMDAwMDBhZjE1MWEwYmJjNWMxYjQ4NjJkYTlkODkyOWI0ZDhjNg==`
+Snapshot ID: `Mjg1NDgxNDAsMDAwMDAwMDBiYWI3MjliYjlmYTY0YTUzMGNmNWMzMTE3ZDYyY2EwZA==`

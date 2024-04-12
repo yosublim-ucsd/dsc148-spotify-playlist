@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 402155,
+  "2024-04-12": 402147,
   "date_first_scraped": "2022-02-06",
   "description": "Dark, hard hitting pop. Cover: BABYMONSTER",
   "name": "SALT",
@@ -8849,7 +8849,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 153731,
       "name": "Should We",
       "url": "https://open.spotify.com/track/4OXsPvszcSqLA8l5kDf9qL"
@@ -8871,6 +8871,24 @@
       "duration_ms": 153731,
       "name": "Should We",
       "url": "https://open.spotify.com/track/4Y8PgWmxjAnBHNuz516yWf"
+    },
+    {
+      "album": {
+        "name": "Razzle",
+        "url": "https://open.spotify.com/album/0rjKAEIDh1VtNrjJ7tvnFP"
+      },
+      "artists": [
+        {
+          "name": "Emi Jeen",
+          "url": "https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153731,
+      "name": "Should We",
+      "url": "https://open.spotify.com/track/7MKlj3JF81xWi7Mvz6ZLEZ"
     },
     {
       "album": {

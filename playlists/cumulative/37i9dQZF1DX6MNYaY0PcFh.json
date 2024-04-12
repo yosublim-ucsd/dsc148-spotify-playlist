@@ -489,6 +489,28 @@
     },
     {
       "album": {
+        "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/2CKsrejBLIuNSASNFQ7ALH"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253960,
+      "name": "Business As Usual (night shift mix)",
+      "url": "https://open.spotify.com/track/09DifuWMDv2U9AsdtLrEma"
+    },
+    {
+      "album": {
         "name": "Caf\u00e8",
         "url": "https://open.spotify.com/album/1Q4lMGQ5B7eGyiV1fmnQsH"
       },
@@ -1696,7 +1718,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 177000,
       "name": "Microdosing (Conducta Remix) - Edit",
       "url": "https://open.spotify.com/track/7FYvSHYySIXK9hCwBgnOea"

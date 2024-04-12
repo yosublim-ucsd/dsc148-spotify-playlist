@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 592943,
+  "2024-04-12": 593133,
   "date_first_scraped": "2022-03-24",
   "description": "Sinta o flow do rap em estilo ac\u00fastico ou rom\u00e2ntico. Foto: Azzy, Luiz Lins, MC Cabelinho, Slipmami, Mc Poze do Rodo, Chefin, Oruam, MC Hariel, JayA Luuck",
   "name": "Rap Ac\u00fastico",
@@ -1545,6 +1545,28 @@
     {
       "album": {
         "name": "O Fant\u00e1stico Mundo de Ganni",
+        "url": "https://open.spotify.com/album/538I6tmaZtHvRMQDpaNLIC"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173684,
+      "name": "Djavandalo",
+      "url": "https://open.spotify.com/track/1L3KLeXqP4F4Qtt465Crl9"
+    },
+    {
+      "album": {
+        "name": "O Fant\u00e1stico Mundo de Ganni",
         "url": "https://open.spotify.com/album/6Tfl3UdZrUm14cGFPRIteI"
       },
       "artists": [
@@ -1563,7 +1585,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 173684,
       "name": "Djavandalo",
       "url": "https://open.spotify.com/track/21dWCeXNoS8H0aDvOcqqer"

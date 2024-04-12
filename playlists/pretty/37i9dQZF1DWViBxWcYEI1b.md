@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Hozier
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,356 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,367 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 15 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 |
 | 16 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 |
 | 17 | [Nice To Meet You](https://open.spotify.com/track/0VQXjytKAMB6tScSE280xz) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [Nice To Meet You](https://open.spotify.com/album/6Vx7CF1vW2Eq61DnkTdgKD) | 3:14 |
-| 18 | [could've been](https://open.spotify.com/track/24SvABnwS15OMaEm1PuUYH) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [could've been](https://open.spotify.com/album/3uId5HMCuBeTFFweJiRC3J) | 3:45 |
+| 18 | [could've been](https://open.spotify.com/track/2An6BIYHNcHFIkHCyzejyL) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [could've been](https://open.spotify.com/album/2Tf5xR0TQiiTT3yHRqP37Z) | 3:45 |
 | 19 | [Good & Bad](https://open.spotify.com/track/48aOK7d3ILprSttYWNWKJh) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Crashing Into Your Living Room, Vol\. 1](https://open.spotify.com/album/2J0j78yYjUb4R62LgnqL31) | 2:36 |
 | 20 | [I Don't Love You](https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [I Don't Love You](https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n) | 4:11 |
 | 21 | [The Last Bit Of Us](https://open.spotify.com/track/3cgHwqbHcu1DKFADvkgPJ7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Last Bit Of Us](https://open.spotify.com/album/0VSEo3ZMGfadTa9K90KMI3) | 3:22 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 36 | [You Were Mine](https://open.spotify.com/track/0nt9QNF9rY5mPTAV9Nn9yH) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [You Were Mine](https://open.spotify.com/album/674xNsjLRyL3aDeWG3Zmcc) | 2:51 |
 | 37 | [Good Torture \(with Elyanna\)](https://open.spotify.com/track/3s29qreJr2KU7BFSiDtw0U) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Good Torture \(with Elyanna\)](https://open.spotify.com/album/5xhbojvUylmbWTsaCgISZr) | 3:20 |
 | 38 | [the sun is shining somewhere](https://open.spotify.com/track/0MIO8GZ6qHBWqzIWVXp7RN) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [selfcare](https://open.spotify.com/album/2NXmQJoHa21xDPxtbrdu5b) | 3:37 |
-| 39 | [Imaan](https://open.spotify.com/track/1ydE5C1KehuCQI8EM3qXrQ) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Imaan](https://open.spotify.com/album/671HQwwWo7sivjgFb4Qf1P) | 3:34 |
+| 39 | [Imaan](https://open.spotify.com/track/5xvYNmS5yLJr5Z18P25DYR) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Imaan](https://open.spotify.com/album/4365MmEKX6ImuvRiWtqagj) | 3:34 |
 | 40 | [Universe](https://open.spotify.com/track/6qJXOI2wHjE98wEOruUd0w) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Universe](https://open.spotify.com/album/1nmF0O0ff5o47buSCKTWrx) | 2:46 |
 | 41 | [Bloodsucker](https://open.spotify.com/track/3Vjz4qxSB8k2UGjJPR6JGd) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [Bloodsucker](https://open.spotify.com/album/59boJCTqevkvToAoVm9c9y) | 2:37 |
 | 42 | [Big Ocean](https://open.spotify.com/track/4xFfAmMUUNl1Aj1VsNymaQ) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT), [Frank Kadillac](https://open.spotify.com/artist/6gFjPuQkV3lwb1fy3Oh1hE) | [Big Ocean](https://open.spotify.com/album/3guDklkjSj121v6gDeRPub) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [Way Too Young](https://open.spotify.com/track/04GnO4JiMFACIZnJlC1Psh) | [Pelch](https://open.spotify.com/artist/1sJoi3cOOQf2J21k7K8FjV) | [That's How The Story Goes](https://open.spotify.com/album/0Wf3BGIP5Q5dEfuILQe1D3) | 2:18 |
 | 100 | [Different Kind Of Beautiful](https://open.spotify.com/track/6mxsd0LQt2qk2rpLEqlCJw) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Different Kind Of Beautiful](https://open.spotify.com/album/6M7C0uHmNik7gss4M31k0t) | 3:21 |
 
-Snapshot ID: `MCw5MTRiODlkYTkxYjUyNWEyZGVhZDg2MjRhYzYyNDc1MjZkYjlhZWRk`
+Snapshot ID: `MTcxMjI4OTYwMCwwMDAwMDAwMGIxZDUzNDA5NTQzZTEzMmRlZjVhMmZhNzdkNTdjMTkw`

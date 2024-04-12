@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Lourena, MC Hariel",
-  "num_followers": 290813,
+  "num_followers": 290802,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGM5OGQ4YmI0YTlkY2E3OTFiNDZmMzM2MmZkMzIxNmI4MmUyZTI1",
+  "snapshot_id": "MTcxMTY4MTIwMCwwMDAwMDAwMGE2YjY1YWE4MzljZTdkMmRkNGYxNWVkZjhhNzBjMWE0",
   "tracks": [
     {
       "added_at": "2024-03-29 03:00:00",
@@ -999,6 +999,26 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "V\u00eanus",
+        "url": "https://open.spotify.com/album/0V0K2bL6y67Pil8VIY7sNE"
+      },
+      "artists": [
+        {
+          "name": "Onze:20",
+          "url": "https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 197083,
+      "name": "Efeito Brasa",
+      "url": "https://open.spotify.com/track/0NMLNyUSHexdZXeVOBnry0"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "n\u00e3o d\u00e1 certo",
         "url": "https://open.spotify.com/album/1Nv4ok4KXKZ2loY0J3jqeq"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 159666,
       "name": "n\u00e3o d\u00e1 certo",
       "url": "https://open.spotify.com/track/0utqWsykxgSFqI1ODE9UqN"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "V\u00eanus",
-        "url": "https://open.spotify.com/album/0V0K2bL6y67Pil8VIY7sNE"
-      },
-      "artists": [
-        {
-          "name": "Onze:20",
-          "url": "https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 197083,
-      "name": "Efeito Brasa",
-      "url": "https://open.spotify.com/track/0NMLNyUSHexdZXeVOBnry0"
     },
     {
       "added_at": "2024-03-29 03:00:00",

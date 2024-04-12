@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b vibes for your most relaxed moods\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,357,947 likes - 158 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,358,062 likes - 158 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 31 | [Obsessed](https://open.spotify.com/track/0Bm5WU83MjOYoDXKoiOQBJ) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Episode 1: Lost](https://open.spotify.com/album/7cEWlOUBq4Fj6J8nEy81ip) | 2:45 |
 | 32 | [One Of Them Days \(feat\. Monica\)](https://open.spotify.com/track/2ocJnGeHud74jyPlxN7XB7) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Monica](https://open.spotify.com/artist/6qWpPgfKJehZmeJMIeicqW) | [After the Butterflies](https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80) | 2:35 |
 | 33 | [Before We Get Started \(feat\. Fabolous\)](https://open.spotify.com/track/0ry36HImeosoc4m8EC2gAN) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Before We Get Started \(feat\. Fabolous\)](https://open.spotify.com/album/2CyOWWKaMME9IqKpGR3n4F) | 2:55 |
-| 34 | [Please Be Good](https://open.spotify.com/track/0oSpphTmHAisyEtcslZcg3) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Please Be Good](https://open.spotify.com/album/2FTYhBqao8Jg6fp1huyZar) | 2:38 |
+| 34 | [Please Be Good](https://open.spotify.com/track/0oSpphTmHAisyEtcslZcg3) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Please Be Good](https://open.spotify.com/album/2FTYhBqao8Jg6fp1huyZar) | 2:35 |
 | 35 | [When You're Lonely](https://open.spotify.com/track/0cGzG9CFE3l6HygfUzr6Uo) | [Tyler Daley](https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr), [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [Son of Zeus](https://open.spotify.com/album/6GhXHLKieoeh9LHLsBrDeN) | 2:36 |
 | 36 | [Can I Call You Rose? \- Cover](https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [Can I Call You Rose? \(Cover\)](https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM) | 2:24 |
 | 37 | [Back On 74 \- Full Crate Remix](https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Back on 74 \(Full Crate Remix\)](https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD) | 2:54 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 157 | [Pull Up](https://open.spotify.com/track/4NhTEjDsRmEkvcWY1MRF9X) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 3:01 |
 | 158 | [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/track/6rVomZSCiNuuJmVlpgfZkt) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/album/1KUP4jLGY0Jil7j43w3dx8) | 4:18 |
 
-Snapshot ID: `MCw4ZWM4OTEwOWY1NmU4MTU1NDU1NDJjZmI0YjIzZDU2NDkyNDcwNzQ3`
+Snapshot ID: `MTcxMjI4OTYwMCwwMDAwMDAwMGIxMmMwMWFkMzBkNDE2YWI1YzA5YmNiNmRhZjBkNDI5`

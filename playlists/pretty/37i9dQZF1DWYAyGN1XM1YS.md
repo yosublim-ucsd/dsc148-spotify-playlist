@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 
 ### [mEMOries](https://open.spotify.com/playlist/37i9dQZF1DWYAyGN1XM1YS)
 
-> Do you remember when you fell in love with emo and post\-hardcore? Cover: Weezer
+> Do you remember when you fell in love with emo and post\-hardcore? Cover: Refused
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,566 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,578 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 46 | [Parking Lot](https://open.spotify.com/track/0T4Gs697qQdHvaNLm24LcO) | [Mineral](https://open.spotify.com/artist/3N4eFtnZCCXfMs0hBQwujT) | [The Power of Failing](https://open.spotify.com/album/7tAXE0Z5GtVJf0NcJ7Qtp7) | 3:51 |
 | 47 | [While Oceana Sleeps](https://open.spotify.com/track/0zgEbB05wAnOHQ9XRupLwX) | [Sparta](https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR) | [Porcelain](https://open.spotify.com/album/17Mq1v9fKGSmCabI7DaV4S) | 4:24 |
 | 48 | [Action & Action](https://open.spotify.com/track/4okVNqpGk7OA61vmlzkewe) | [The Get Up Kids](https://open.spotify.com/artist/54Bjxn26WsjfslQbNVtSCm) | [Something to Write Home About](https://open.spotify.com/album/0P1YuWWjYz6vnwizYv81Z3) | 4:05 |
-| 49 | [A Life of Possibilities](https://open.spotify.com/track/3TKWCQMU7xYEEslFXsj51i) | [Dismemberment Plan](https://open.spotify.com/artist/2JpHk8yju1DH1l3c9sXzOS) | [Emergency & I](https://open.spotify.com/album/0Y0V072vxDWEvCelPBaWAO) | 4:34 |
-| 50 | [Dine Alone](https://open.spotify.com/track/27X1P8USDRbZ5RNjbbQ9d1) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:27 |
+| 49 | [Dine Alone](https://open.spotify.com/track/27X1P8USDRbZ5RNjbbQ9d1) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:27 |
+| 50 | [A Life of Possibilities](https://open.spotify.com/track/3TKWCQMU7xYEEslFXsj51i) | [Dismemberment Plan](https://open.spotify.com/artist/2JpHk8yju1DH1l3c9sXzOS) | [Emergency & I](https://open.spotify.com/album/0Y0V072vxDWEvCelPBaWAO) | 4:34 |
 
-Snapshot ID: `MCw2MWI4Mzk4ZjgwMDQ1OWJjZTNjNzBiNzljMGY3MGUwMTEyZWVhNWJj`
+Snapshot ID: `MTY4NjgzNzA4MywwMDAwMDAwMDg0ZTk3MmY2YmNjYTI1MWExNTcxYjJmMjliMzI3M2Fi`

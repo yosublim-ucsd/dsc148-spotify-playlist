@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. Cover: Zior Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,077 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,073 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 49 | [Scratch](https://open.spotify.com/track/3Q5bnaKaXC0AtkmxSgqobt) | [GIUK](https://open.spotify.com/artist/4kuX4KeHgnN8ifEGHHUd0x) | [Rise Waves](https://open.spotify.com/album/1lFtvYo3M1ZQrYEc1KwVVZ) | 3:30 |
 | 50 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 |
 
-Snapshot ID: `MCwwMTEyMzU0NzJjOGIwMzUxNmE2MTcxMzJiNjhkMjI4MWY0OTBhOWVm`
+Snapshot ID: `MTcxMjIwMzA1OCwwMDAwMDAwMGJlMzRhZjMwNWNiMjE4OWU5MmMyYWU5NGUzZGQ3YTE5`

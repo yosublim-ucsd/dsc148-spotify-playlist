@@ -1,12 +1,12 @@
 {
   "description": "la generaci\u00f3n del discman y el walkman",
-  "num_followers": 35637,
+  "num_followers": 35680,
   "original_name": "noventeras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGI1OTUwMWMwMzA0MTU3YjdkODQwZjA5OWU3ZGU2MTc3Y2Y4MDE1",
+  "snapshot_id": "MTcwODExNTAxMCwwMDAwMDAwMDEyNDEwYmFlYTQ1NzY4YzQwOWMyYzQwZWE2NDIxNGQ5",
   "tracks": [
     {
       "added_at": "2024-02-16 20:23:30",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-02-16 20:23:30",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 254933,
-      "name": "Black or White",
-      "url": "https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4"
-    },
-    {
-      "added_at": "2024-02-16 20:23:30",
-      "album": {
         "name": "De Piel Negra",
         "url": "https://open.spotify.com/album/4i0eMiYUxt1ESu6SrHQpVg"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 206440,
       "name": "Eternamente Bella",
       "url": "https://open.spotify.com/track/3pIgumKqXX7ge7lT9rCvNy"
+    },
+    {
+      "added_at": "2024-02-16 20:23:30",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 254933,
+      "name": "Black or White",
+      "url": "https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4"
     },
     {
       "added_at": "2024-02-16 20:23:30",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-02-16 20:23:30",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf"
-      },
-      "artists": [
-        {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
-        }
-      ],
-      "duration_ms": 225240,
-      "name": "Bolero Falaz",
-      "url": "https://open.spotify.com/track/5yMXpZhVnUAFT154F3MQ8G"
-    },
-    {
-      "added_at": "2024-02-16 20:23:30",
-      "album": {
         "name": "Sin Miedo",
         "url": "https://open.spotify.com/album/1oOh2MdkPDUn8uaDeq82hf"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 242053,
       "name": "Formas De Amor",
       "url": "https://open.spotify.com/track/0grtL2b9mfjf9mfOxVZJhP"
+    },
+    {
+      "added_at": "2024-02-16 20:23:30",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "duration_ms": 225240,
+      "name": "Bolero Falaz",
+      "url": "https://open.spotify.com/track/5yMXpZhVnUAFT154F3MQ8G"
     },
     {
       "added_at": "2024-02-16 20:23:30",

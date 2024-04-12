@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 
 > ¡Las canciones que ponían a bailar a todo México!
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,972 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,014 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 27 | [De Rodillas Ante Ti](https://open.spotify.com/track/0Rc8UXhnvxeTMJEffTevHZ) | [Los Moonlights](https://open.spotify.com/artist/5jq7ZBcwUEaVSZYYcoONEH) | [15 De Los Moonlights](https://open.spotify.com/album/4Vs7lVsmEwUc5ii8yQIKUj) | 2:57 |
 | 28 | [Atras de la Raya](https://open.spotify.com/track/6wQBqxOwJd6e2csv5y2qjF) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [12 Grandes exitos Vol\. 2](https://open.spotify.com/album/6FS5v5fmOjAjsMKriFMLqe) | 2:44 |
 | 29 | [La Plaga \(Good Golly, Miss Molly\)](https://open.spotify.com/track/1SdwywRhxTWnZdaUihMdeD) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Teen Tops](https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q) | 2:12 |
-| 30 | [Historia de Tommy](https://open.spotify.com/track/3fCWiuel6FcFwWKV4RTmdh) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Historia de un Amor](https://open.spotify.com/album/3La8k64Jy95Oe0NTfJz6M1) | 2:36 |
-| 31 | [Quiero Estrechar Tu Mano](https://open.spotify.com/track/2zs7QiCmkIxEeW1E1HZ8bP) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Baile Monkey](https://open.spotify.com/album/3aUqJ6GL8zcG5bQutw7u5Q) | 2:17 |
+| 30 | [Quiero Estrechar Tu Mano](https://open.spotify.com/track/2zs7QiCmkIxEeW1E1HZ8bP) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Baile Monkey](https://open.spotify.com/album/3aUqJ6GL8zcG5bQutw7u5Q) | 2:17 |
+| 31 | [Historia de Tommy](https://open.spotify.com/track/3fCWiuel6FcFwWKV4RTmdh) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Historia de un Amor](https://open.spotify.com/album/3La8k64Jy95Oe0NTfJz6M1) | 2:36 |
 | 32 | [San Antonio Twist](https://open.spotify.com/track/4DjixhdAyHASyjcyNP7cUn) | [Hermanas Jimenez](https://open.spotify.com/artist/0GDo46nR3Fh3NYto2h4FUN) | [La Epoca de Oro del Twist](https://open.spotify.com/album/69tIhcn1Qd1heyIurhEkHt) | 2:44 |
 | 33 | [Yo No Soy Rebelde](https://open.spotify.com/track/08U1KWevchrVHDNkQV2iO7) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock Con los Locos del Ritmo](https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH) | 1:20 |
 | 34 | [Popotitos \(Bonie Moroni\)](https://open.spotify.com/track/70dBmROatI6VWV7HoWayte) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Teen Tops](https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q) | 2:51 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 37 | [Barba azul \- Let's Do The limbo](https://open.spotify.com/track/2ko3qA1QJZ7nla7XDImYHv) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [12 Grandes exitos Vol\. 2](https://open.spotify.com/album/6FS5v5fmOjAjsMKriFMLqe) | 2:50 |
 | 38 | [Nena Baila Twist](https://open.spotify.com/track/5LNIT1cjnkIkPpZZIUQnCf) | [Los Freneticos Del Ritmo](https://open.spotify.com/artist/64k6Wy7EbxzKOC7jeN3287) | [Ritmo Frenético](https://open.spotify.com/album/3TL7eaDOfW3cDGF8AjtJwD) | 2:09 |
 | 39 | [Nena Loca](https://open.spotify.com/track/6OnUh5kbrT3LERAKSRE4T8) | [Los Reyes del Twist \(Los Seven Teens\)](https://open.spotify.com/artist/1HIFXcPtGj3PHMiDocMQ2H) | [Los Seven Teens](https://open.spotify.com/album/4rkOWiDCIicFuzuXmgPs1J) | 2:36 |
-| 40 | [Boogie Twist](https://open.spotify.com/track/10NGZL2P7ZJ7C3vwUlyqOG) | [Los Jet Twisters](https://open.spotify.com/artist/6XUuzErwNvJpr5jlSEtCdS) | [Twist](https://open.spotify.com/album/16LnvfnTHvoqxczpRjRk4a) | 2:15 |
-| 41 | [Oh! No](https://open.spotify.com/track/7dQWZ2EEodVh3WrMCiT99m) | [Los Camisas Negras](https://open.spotify.com/artist/3gQTdlAGp7BHmp6wLzvC3i) | [El Tigre](https://open.spotify.com/album/1ze4aTvIn0RGW61jEhWEGh) | 1:38 |
+| 40 | [Oh! No](https://open.spotify.com/track/7dQWZ2EEodVh3WrMCiT99m) | [Los Camisas Negras](https://open.spotify.com/artist/3gQTdlAGp7BHmp6wLzvC3i) | [El Tigre](https://open.spotify.com/album/1ze4aTvIn0RGW61jEhWEGh) | 1:38 |
+| 41 | [Boogie Twist](https://open.spotify.com/track/10NGZL2P7ZJ7C3vwUlyqOG) | [Los Jet Twisters](https://open.spotify.com/artist/6XUuzErwNvJpr5jlSEtCdS) | [Twist](https://open.spotify.com/album/16LnvfnTHvoqxczpRjRk4a) | 2:15 |
 | 42 | [La Perla](https://open.spotify.com/track/3fcpAFDPHKsr8ZuayXWTLm) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Los Exitos De: Los Juniors y Su Cantante Arturo](https://open.spotify.com/album/1MD6zyg3BVVPLSOGvRq3cI) | 2:59 |
-| 43 | [Cenicienta](https://open.spotify.com/track/6jxAf0wPyRLIAvDjpmV0Oz) | [Dyno](https://open.spotify.com/artist/1UCwxwpf10gITF13OoCyxG) | [No Te Pongas Pantalones](https://open.spotify.com/album/0Bdux2Q5ueclP7BLnf2g4l) | 2:32 |
-| 44 | [Jamaica Ska](https://open.spotify.com/track/1IdVAyXiFXw6b5aE2oZMN7) | [Los Yorsy's](https://open.spotify.com/artist/4JwFfxpE8gRIvfwofhxus2) | [Jamaica Ska](https://open.spotify.com/album/4HMH3PhhAuUz0Lt3KorOgu) | 2:11 |
+| 43 | [Jamaica Ska](https://open.spotify.com/track/1IdVAyXiFXw6b5aE2oZMN7) | [Los Yorsy's](https://open.spotify.com/artist/4JwFfxpE8gRIvfwofhxus2) | [Jamaica Ska](https://open.spotify.com/album/4HMH3PhhAuUz0Lt3KorOgu) | 2:11 |
+| 44 | [Cenicienta](https://open.spotify.com/track/6jxAf0wPyRLIAvDjpmV0Oz) | [Dyno](https://open.spotify.com/artist/1UCwxwpf10gITF13OoCyxG) | [No Te Pongas Pantalones](https://open.spotify.com/album/0Bdux2Q5ueclP7BLnf2g4l) | 2:32 |
 | 45 | [El Rock Del Bebe](https://open.spotify.com/track/2ltEsQejGiTtpHLrasrkVd) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Mamacita Donde Esta Santa Claus](https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF) | 2:40 |
 | 46 | [El Hombre Del Brazo De Oro](https://open.spotify.com/track/29VGVvgsb7MvMc87aKK794) | [Los Reyes del Twist \(Los Seven Teens\)](https://open.spotify.com/artist/1HIFXcPtGj3PHMiDocMQ2H) | [Los Seven Teens](https://open.spotify.com/album/4rkOWiDCIicFuzuXmgPs1J) | 2:29 |
 | 47 | [Juego De Amor](https://open.spotify.com/track/2GaAmsIrZOKEPnt4w1YfIe) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:19 |
 | 48 | [Si me quieres](https://open.spotify.com/track/14LwPPMfMz0KHESFo2dUf4) | [Los Digers](https://open.spotify.com/artist/3VCEQh1kN4JWyyphBt1IMV) | [Los Originales](https://open.spotify.com/album/1rRZ2R9pDKnULllvloJguy) | 2:45 |
 | 49 | [Sospecha](https://open.spotify.com/track/17R4EXVlGqwQCevhoqY79U) | [Los Seven Days](https://open.spotify.com/artist/76Zp92FdrV5z00lcCMcZNp) | [Mexican Garage Rock '66](https://open.spotify.com/album/37QM0NcPwM0ROn1vG2gwSY) | 2:29 |
-| 50 | [No Te Pongas Pantalones](https://open.spotify.com/track/7tZS0ThweTnxIIQjYjgaWB) | [Dyno](https://open.spotify.com/artist/1UCwxwpf10gITF13OoCyxG) | [No Te Pongas Pantalones](https://open.spotify.com/album/0Bdux2Q5ueclP7BLnf2g4l) | 2:14 |
+| 50 | [Chica ye yé](https://open.spotify.com/track/2KPj9qiGpjmFHcczbHOXuf) | [Queta Garay](https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg) | [Legado de Mujeres Latinas](https://open.spotify.com/album/2pilz2V8vMaHaS7hDFuSU5) | 2:13 |
 
-Snapshot ID: `MCxiMzdhZTE0YmRhNDY4NDdhNjJmNzZmZTJlM2NiNjg5OGU1YzdmMWM2`
+Snapshot ID: `MTY4NjkyMDY0NSwwMDAwMDAwMDdiOTljODJkODg2MTQ3NjI3ODA2NTMzM2RlMmE0MmMx`

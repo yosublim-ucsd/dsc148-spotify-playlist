@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 
 > Music from "Love Live! Sunshine!!" /Aqoursの「みんなで叶える物語」を彩ってきた名曲の数々がここに。▶︎「Love Live！」<a href="spotify:user:spotify:playlist:37i9dQZF1DX1uvQpDoMmUF">Here</a> ©2017 プロジェクトラブライブ！サンシャイン!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,663 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,667 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 30 | [メイズセカイ](https://open.spotify.com/track/6sfCZBZbomvxfp2l15eumu) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [Amazing Travel DNA](https://open.spotify.com/album/42GXO2RpG8GXDZaWPXGBJ2) | 4:32 |
 | 31 | [夜空はなんでも知ってるの?](https://open.spotify.com/track/1ORM9UcRS2m6sSCFHtGM9l) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [元気全開DAY! DAY! DAY!](https://open.spotify.com/album/0F1JBEDt9APY8kvHvACQYt) | 4:38 |
 | 32 | [Lonely Snow Planet](https://open.spotify.com/track/4oYq3ZBW4v34rQbdzMrWab) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Dazzling White Town](https://open.spotify.com/album/07OQgrBCdszGK0JaU2s1Uv) | 4:15 |
-| 33 | [Shiny Racers](https://open.spotify.com/track/1j28e7BX7hmf0VSiemwKPT) | [小原鞠莉 \(CV.鈴木愛奈\) from Aqours](https://open.spotify.com/artist/5SLHumqNgWjbkFS95wlRGr) | [LoveLive! Sunshine!! Ohara Mari First Solo Concert Album ～New winding road～](https://open.spotify.com/album/2UdasDJ8U93U0sTVD1FGSv) | 3:37 |
+| 33 | [真夏は誰のモノ?](https://open.spotify.com/track/2NPr06O7VHTXOwdBoUSEJL) | [黒澤ダイヤ \(CV.小宮有紗\)](https://open.spotify.com/artist/3fgvaQU1JQeuu63QOo62Tb), [黒澤ルビィ \(CV.降幡 愛\)](https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO) | [デュオトリオコレクション \(VOL.1 〜SUMMER VACATION〜\)](https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW) | 4:37 |
 | 34 | [New Romantic Sailors](https://open.spotify.com/track/3JQFG9dQs2VGW6bJPDts3A) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [New Romantic Sailors](https://open.spotify.com/album/1mtGlnjCN7zDZWUP4zukwF) | 4:42 |
 | 35 | [恋になりたいAQUARIUM](https://open.spotify.com/track/3nxrLaPGlW1EsAWn23bcPX) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [恋になりたいAQUARIUM](https://open.spotify.com/album/45b6rybZSrauqudZ4QYqQK) | 5:08 |
-| 36 | [真夏は誰のモノ?](https://open.spotify.com/track/2NPr06O7VHTXOwdBoUSEJL) | [黒澤ダイヤ \(CV.小宮有紗\)](https://open.spotify.com/artist/3fgvaQU1JQeuu63QOo62Tb), [黒澤ルビィ \(CV.降幡 愛\)](https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO) | [デュオトリオコレクション \(VOL.1 〜SUMMER VACATION〜\)](https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW) | 4:37 |
+| 36 | [Shiny Racers](https://open.spotify.com/track/1j28e7BX7hmf0VSiemwKPT) | [小原鞠莉 \(CV.鈴木愛奈\) from Aqours](https://open.spotify.com/artist/5SLHumqNgWjbkFS95wlRGr) | [LoveLive! Sunshine!! Ohara Mari First Solo Concert Album ～New winding road～](https://open.spotify.com/album/2UdasDJ8U93U0sTVD1FGSv) | 3:37 |
 | 37 | [夏の終わりの雨音が](https://open.spotify.com/track/4YKBQ79ioNaMJJlXpCK74l) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr), [松浦果南 \(CV.諏訪ななか\)](https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6) | [デュオトリオコレクション \(VOL.1 〜SUMMER VACATION〜\)](https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW) | 5:21 |
 | 38 | [ときめき分類学](https://open.spotify.com/track/5JvsOjJvozyfkeyGJo3y5x) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [トリコリコPLEASE!!](https://open.spotify.com/album/4ZHvPOI0ckze6XmO5KCbs3) | 4:51 |
 | 39 | [Waku\-Waku\-Week!](https://open.spotify.com/track/3hdl3kBMjapC8UF5mt3lRY) | [Yoshiko Tsushima \(CV: Aika Kobayashi\)](https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY), [国木田花丸 \(CV.高槻かなこ\)](https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an), [黒澤ルビィ \(CV.降幡 愛\)](https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015〜2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 49 | [RED GEM WINK](https://open.spotify.com/track/6puhUOFB5b7CggOnVUufpI) | [黒澤ルビィ \(CV.降幡 愛\) from Aqours](https://open.spotify.com/artist/5vjMooJRmrsyJuFv8z5HAh) | [LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album 〜RED GEM WINK〜](https://open.spotify.com/album/5j7nXWzvMsMrXAsHTSXKXr) | 4:55 |
 | 50 | [また君に会うんだ](https://open.spotify.com/track/1JJ8aZtzq1Mtgs9BoTVtiW) | [小原鞠莉 \(CV.鈴木愛奈\)](https://open.spotify.com/artist/5AeHYcYFgZ8VHULQk0vHM2) | [LoveLive! Sunshine!! Third Solo Concert Album ～THE STORY OF “OVER THE RAINBOW”～ starring Ohara Mari](https://open.spotify.com/album/2YiJ7O5r2c55VerozwGvuh) | 4:20 |
 
-Snapshot ID: `MCw3MzQyNTY3NDMyZGQ4NGYzZmYxODRkODlkY2U0NDRhNDRiYjhmMDZk`
+Snapshot ID: `MTY5OTM4MDg4NCwwMDAwMDAwMDIwMmU2NTZhMjI4OWIwZWVmZWY2ZjU0ZTEwMzljMDcz`

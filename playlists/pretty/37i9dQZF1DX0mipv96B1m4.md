@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,092 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,094 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 29 | [Edoboozi Lyo](https://open.spotify.com/track/5iwXQ93LYuwEaSog5UTFiz) | [Slick Stuart](https://open.spotify.com/artist/2huLG8Fcc7TwaqwIQP2S62), [DJ Roja](https://open.spotify.com/artist/5Z0ug9xtGDNFaLr2fKo9Jh), [King Saha](https://open.spotify.com/artist/3JQTIErs7TXtmo3HIv3yJa) | [Very Wellooo](https://open.spotify.com/album/0JHpCNCubMfvVYDopKGuMN) | 3:38 |
 | 30 | [Bounce](https://open.spotify.com/track/3ckYKLN77N5JhabWiFmLnM) | [Selecta Jeff](https://open.spotify.com/artist/0jpbFVpDj9GtjCCEBdp5Yu), [Kanyere](https://open.spotify.com/artist/3CGuPNyjmRVGi6veE8GymO) | [Bounce](https://open.spotify.com/album/2gA3mT3UlvQDgOFWlskO9X) | 2:50 |
 | 31 | [Boss Lady](https://open.spotify.com/track/7prPv7oczw7wVWxO1hQZMG) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Boss Lady](https://open.spotify.com/album/0oVXkcJZptVuTZZRFaEbqI) | 2:58 |
-| 32 | [Magazine](https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq) | [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c) | [Magazine](https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7) | 4:02 |
-| 33 | [Banger](https://open.spotify.com/track/6s50uTx8qzel7HwNuz0xZW) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl), [Suspekt Leizor](https://open.spotify.com/artist/2JPOWH88plI7HcSWZugaip) | [Banger](https://open.spotify.com/album/4o2MON66Cp04sCMhbJAa7U) | 3:15 |
+| 32 | [Banger](https://open.spotify.com/track/6s50uTx8qzel7HwNuz0xZW) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl), [Suspekt Leizor](https://open.spotify.com/artist/2JPOWH88plI7HcSWZugaip) | [Banger](https://open.spotify.com/album/4o2MON66Cp04sCMhbJAa7U) | 3:15 |
+| 33 | [Magazine](https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq) | [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c) | [Magazine](https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7) | 4:02 |
 | 34 | [Gyal A Bubble](https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Karole Kasita](https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0) | [Feel Me](https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R) | 3:16 |
 | 35 | [Born To Love You \- 2020 Remix](https://open.spotify.com/track/5qJo1Tflqbi1XHj76W3rJZ) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Keicy](https://open.spotify.com/artist/5Xg53515cZvxy46kVXf1vW), [BEN](https://open.spotify.com/artist/4FR3mobLORBTuXIxGJTkFW), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [We Can](https://open.spotify.com/album/1woz3iK06NUsrX18WrhgpC) | 3:40 |
 | 36 | [Tick Talk](https://open.spotify.com/track/363p4oaCiyyPKWOkouJwYK) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81), [DJ LITO](https://open.spotify.com/artist/5RCEUVWtUJd79uYpz4buHT), [Sheilah Gashumba](https://open.spotify.com/artist/5f5GUoXpzjXpjrkBeMg3H2), [Slick Stuart & DJ Roja](https://open.spotify.com/artist/7ySGRkXppoKtu2fI3H3NVb) | [Tick Talk](https://open.spotify.com/album/2XwaGscvD5onaAsMxOkrvT) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 49 | [Sikyegomba](https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Guvnor Ace](https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9), [DVJ Pofia](https://open.spotify.com/artist/0GHtfnwTJJIMnkg2e9NYmC) | [Sikyegomba](https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y) | 3:30 |
 | 50 | [Wulira Omuziki](https://open.spotify.com/track/6ukp2gmcFmgBlvrLJ3Vj9x) | [Eezzy](https://open.spotify.com/artist/1GOZbaRGN75E7D8ZFsG0DL) | [Wulira Omuziki](https://open.spotify.com/album/1n4gvSOCF9kos6UuFTZV4s) | 3:22 |
 
-Snapshot ID: `MCwwY2M4NjBlMDI5ZmNkYWMwYjZmZTEwZWUwODUzOWQ4Y2UxOWU4NmQ2`
+Snapshot ID: `MTcwOTI5NjA4NCwwMDAwMDAwMDhkZTUwZGQ4NWYxNzVjMjIwYzcxYTc4NWJhZThiOTBi`

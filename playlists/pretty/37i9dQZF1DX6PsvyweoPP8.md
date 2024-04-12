@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,730 likes - 84 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,772 likes - 84 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 83 | [Gosto Assim](https://open.spotify.com/track/4ft5KUZ96NspZXyHYXPJcQ) | [Slow Gang](https://open.spotify.com/artist/7yeB6oM65lMbOBhPsu5fzq), [Smoke](https://open.spotify.com/artist/4JOLUHjQd1JHJw5CASQg24), [DJ Cia](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL), [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT) | [Gosto Assim](https://open.spotify.com/album/7H2qYE1xVlUT7lHCyA23NK) | 4:08 |
 | 84 | [Entre Nós \(Duto Camp Apresenta\)](https://open.spotify.com/track/2Ra0RpqaVPYFKwxM508xHW) | [Savanah](https://open.spotify.com/artist/3tl4oPzp0yYMwLEmRFv0vT) | [Entre Nós \(Duto Camp Apresenta\)](https://open.spotify.com/album/049fCiGKkh9xh8tVLdjvmA) | 2:58 |
 
-Snapshot ID: `MCwzYzM1YmNjZmIyMGRmYjYyM2E2N2Y3NDMyMWQ4OThkOWQ4ZmYzOWY4`
+Snapshot ID: `MTcxMjI3NDI4NCwwMDAwMDAwMGRlNjZjOWZmZTE1MzVkMGJmMDZhYjFlYzJjZGJhNWE3`

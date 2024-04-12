@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,675 likes - 508 songs - 1 day 11 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,677 likes - 509 songs - 1 day 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -245,8 +245,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 235 | [Into the Night of Blue](https://open.spotify.com/track/6P1iCXKKoBefpyJQAhynKB) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Hidden Gems](https://open.spotify.com/album/1aOCleRKNqzbn1Qr9crZXF) | 4:13 |
 | 236 | [Lovin' Proof](https://open.spotify.com/track/2wjCT6QwVk0nvkeqdgevbx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:11 |
 | 237 | [It's My Time \- Radio Edit](https://open.spotify.com/track/0q1PTDRFl64tIskcoIs2EO) | [Jade Ewen](https://open.spotify.com/artist/7u44AAgf8SNIq2Kdw23vHD) | [It's My Time \(International Version\)](https://open.spotify.com/album/4wWVKiMSwH6tyf5kS4JMrM) | 3:17 |
-| 238 | [Questo Amore \(I Don't Want To Miss A Thing\)](https://open.spotify.com/track/5syMPvI7vcgTwTPiOXhClh) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [We Are Love \(Deluxe\)](https://open.spotify.com/album/5CzzuE9XUREa6PyHGgucmC) | 4:34 |
-| 239 | [I Hear Your Voice](https://open.spotify.com/track/5kcdhV63UOtO2CCj59olOC) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Time](https://open.spotify.com/album/4o5S5EwZLGCIvWOaWonhkA) | 4:00 |
+| 238 | [I Hear Your Voice](https://open.spotify.com/track/5kcdhV63UOtO2CCj59olOC) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Time](https://open.spotify.com/album/4o5S5EwZLGCIvWOaWonhkA) | 4:00 |
+| 239 | [Questo Amore \(I Don't Want To Miss A Thing\)](https://open.spotify.com/track/5syMPvI7vcgTwTPiOXhClh) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [We Are Love \(Deluxe\)](https://open.spotify.com/album/5CzzuE9XUREa6PyHGgucmC) | 4:34 |
 | 240 | [The Sun Ain't Gonna Shine](https://open.spotify.com/track/5T3z4DZm07eEPFJixAfZju) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Indestructible](https://open.spotify.com/album/1pbPkhuest1I4RGpz3rWmC) | 4:58 |
 | 241 | [I'm Not Made of Steel](https://open.spotify.com/track/319QNS9ILIXDlEfnYwSFtn) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:11 |
 | 242 | [Me Leve Com Você](https://open.spotify.com/track/6ILEjq8z3T80lt4Onfi3l7) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Sandy & Júnior](https://open.spotify.com/album/7IEHSL719POBQXuI0m4Tu3) | 4:07 |
@@ -512,9 +512,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 502 | [You Already Did](https://open.spotify.com/track/1Mi40Eqg8WPLBIlO0bJewF) | [Nádine](https://open.spotify.com/artist/3toTOSECKyxnsmrCsdQs2U) | [As Jy Wonder](https://open.spotify.com/album/5Zk9BF3z2U4tvBc6Bg18w5) | 3:34 |
 | 503 | [Saddest Song \- Leigh Bros Remix](https://open.spotify.com/track/1Spc7zWfB3hEumoxMoxnRy) | [Cherry](https://open.spotify.com/artist/2Wmsee5wZmPkrf9UEhYWwf), [The Leigh Brothers](https://open.spotify.com/artist/6H0oPL7VK46FUy3FuIOuP4) | [Saddest Song](https://open.spotify.com/album/7MybEbWCjSKVKPt2TSymYL) | 3:49 |
 | 504 | [Io Si](https://open.spotify.com/track/1ZC1rLiUiCniGzqSCjZbuD) | [Magdalena Giemza](https://open.spotify.com/artist/0AZZ9TxZRc0nhjV6Lbro74), [Wojciech Zielinski](https://open.spotify.com/artist/4P0Hhjxw5bVtmTIRV9YLcy) | [Io Si](https://open.spotify.com/album/5e6g1BMBPbwXZqjoMbxJwy) | 4:15 |
-| 505 | [Till Somebody Loves You](https://open.spotify.com/track/3j1AJQSbFp6oDYWo79w9cK) | [Henry Lee Summer](https://open.spotify.com/artist/7wtiiuXdnWtATBrAxU9fnQ) | [Way Past Midnight](https://open.spotify.com/album/3THWD4bmH97uCn9TyzBShB) | 3:35 |
-| 506 | [Near Tears](https://open.spotify.com/track/3BckixWt4C5JzkQDwiuCWF) | [Shonagh Daly](https://open.spotify.com/artist/6wqDlvHjAeY7c2xcicYtOW) | [Beautiful View](https://open.spotify.com/album/5EV44TP5xKl5FcjU54O9Te) | 4:15 |
-| 507 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
-| 508 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
+| 505 | [I want it to be me](https://open.spotify.com/track/02AL6ZhgaPtegJ1ZsGUB1O) | [Kyle Grant](https://open.spotify.com/artist/0AQwmvhVn1UuoGOG5DOynX) | [When Dreams Go Out To Play](https://open.spotify.com/album/7fohMuB9oEyVTzjenU9xvY) | 3:53 |
+| 506 | [Till Somebody Loves You](https://open.spotify.com/track/3j1AJQSbFp6oDYWo79w9cK) | [Henry Lee Summer](https://open.spotify.com/artist/7wtiiuXdnWtATBrAxU9fnQ) | [Way Past Midnight](https://open.spotify.com/album/3THWD4bmH97uCn9TyzBShB) | 3:35 |
+| 507 | [Near Tears](https://open.spotify.com/track/3BckixWt4C5JzkQDwiuCWF) | [Shonagh Daly](https://open.spotify.com/artist/6wqDlvHjAeY7c2xcicYtOW) | [Beautiful View](https://open.spotify.com/album/5EV44TP5xKl5FcjU54O9Te) | 4:15 |
+| 508 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
+| 509 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `Mjg1NDY2OTAsMDAwMDAwMDA4ZWI5MDY0NzdiMmJhMzk5YWZjYmJmYjQwZjJmZWNkMw==`
+Snapshot ID: `Mjg1NDgxMzAsMDAwMDAwMDA4YjBiZWNkMjMzY2RkNDFhYTIxZWVlM2RlODFkYmVhOQ==`

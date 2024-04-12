@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 310493,
+  "num_followers": 310504,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzdhNjI5YWU1MTQxNGJlOGY0OTcyMWNhNzdjYzZhM2FjMGZkOTkz",
+  "snapshot_id": "MTcwOTg2Njg2MCwwMDAwMDAwMDNkZmI4ZmI0MmQ5N2U2NjA3MjBhMWIzMDNmMGY1YTE5",
   "tracks": [
     {
       "added_at": "2024-03-08 03:01:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-03-08 03:01:00",
       "album": {
+        "name": "FLOW",
+        "url": "https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00eda",
+          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
+        }
+      ],
+      "duration_ms": 205253,
+      "name": "FLOW",
+      "url": "https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr"
+    },
+    {
+      "added_at": "2024-03-08 03:01:00",
+      "album": {
         "name": "Luzes Apagadas",
         "url": "https://open.spotify.com/album/4wFOxzqJLIlt6x6P1zNaSH"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 222315,
       "name": "Luzes Apagadas",
       "url": "https://open.spotify.com/track/2mhI8Js7ZkMVwsQif3R5wZ"
-    },
-    {
-      "added_at": "2024-03-08 03:01:00",
-      "album": {
-        "name": "FLOW",
-        "url": "https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6"
-      },
-      "artists": [
-        {
-          "name": "Mal\u00eda",
-          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "FLOW",
-      "url": "https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr"
     },
     {
       "added_at": "2024-03-08 03:01:00",

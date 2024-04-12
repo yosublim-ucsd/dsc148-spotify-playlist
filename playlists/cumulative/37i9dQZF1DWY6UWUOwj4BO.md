@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment en version acoustique.
 
-111 songs - 5 hr 54 min
+112 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Desire \(with Sam Smith\) \- Acoustic](https://open.spotify.com/track/5EUZq2pJJi1X2yRHzAeDWJ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\) \[Acoustic\]](https://open.spotify.com/album/15fFDWyVcxknsTGmJ2q354) | 3:05 | 2023-09-26 |  |
 | [Don't Call Me Up \- Acoustic](https://open.spotify.com/track/3a8gsld8gQzvfyLfPO1LP1) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Don't Call Me Up \(Acoustic\)](https://open.spotify.com/album/73I3HpG6A7oIL6hXaIC5Kr) | 3:32 | 2022-12-21 | 2023-03-27 |
 | [Emiliana \- Acoustic](https://open.spotify.com/track/5o2eHgbRzQbeZKMFfgy1nn) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 3:19 | 2022-12-21 |  |
-| [Et Bam \- Acoustic Version](https://open.spotify.com/track/1bizPvtC2qar0gSJBt3NMd) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Et Bam](https://open.spotify.com/album/4bk60BI5rfcvl392wkXZwJ) | 3:35 | 2024-03-14 |  |
+| [Et Bam \- Acoustic Version](https://open.spotify.com/track/0jzqED9Bdc3j5xhkCRoWkC) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Et Bam](https://open.spotify.com/album/7jgPrbkL61uBDMhdgJBb6X) | 3:35 | 2024-04-04 |  |
+| [Et Bam \- Acoustic Version](https://open.spotify.com/track/1bizPvtC2qar0gSJBt3NMd) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Et Bam](https://open.spotify.com/album/4bk60BI5rfcvl392wkXZwJ) | 3:35 | 2024-03-14 | 2024-04-12 |
 | [Everything I Wanted \- Live Version](https://open.spotify.com/track/7yHQWI18l9t7u6nXUpQPGP) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Everything I Wanted \(Live Version\)](https://open.spotify.com/album/0VOsH3JbQkbd5ba3kHSu4i) | 2:59 | 2024-01-25 | 2024-03-15 |
 | [Eyes Closed \- Piano Version](https://open.spotify.com/track/1C0Uqh9cRMLPw9WpZzL4Z1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed \(Piano Version\)](https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW) | 3:14 | 2023-03-26 |  |
 | [Fallin’ \(Adrenaline\) \- Acoustic](https://open.spotify.com/track/3muwps1KXhdLIMGOuzorjF) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Fallin’ \(Adrenaline\) \[Remixes\]](https://open.spotify.com/album/7EBYUtgXTfna1divfwxeuq) | 3:35 | 2022-12-21 | 2023-01-13 |

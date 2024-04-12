@@ -1,12 +1,12 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 432605,
+  "num_followers": 432644,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzExY2YyZjkxNTEwMmViN2JkMmZjMTU5NjNkYTU4ZWFhYTQ5MzJm",
+  "snapshot_id": "MTcxMjI4OTY2MCwwMDAwMDAwMGZlNGNjMTdmMzY4NjZmZTliYWNmZDgwYzQ4ODllZTli",
   "tracks": [
     {
       "added_at": "2024-04-05 04:01:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Some More Horizons (Digital Version)",
+        "url": "https://open.spotify.com/album/4PTCPiyD0Pwhoec2VU6rlk"
+      },
+      "artists": [
+        {
+          "name": "Mo' Horizons",
+          "url": "https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP"
+        }
+      ],
+      "duration_ms": 328866,
+      "name": "Ai mi morena - Chocolate Restyle",
+      "url": "https://open.spotify.com/track/195rt3pQCPzYDmobHp9uL5"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Todos Tenemos un Amor",
         "url": "https://open.spotify.com/album/6loQxERAji3GRFOfcM0Lt0"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 224317,
       "name": "Todos Tenemos un Amor",
       "url": "https://open.spotify.com/track/6vH11o55aRZCZqvF7SycPq"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Some More Horizons (Digital Version)",
-        "url": "https://open.spotify.com/album/4PTCPiyD0Pwhoec2VU6rlk"
-      },
-      "artists": [
-        {
-          "name": "Mo' Horizons",
-          "url": "https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP"
-        }
-      ],
-      "duration_ms": 328866,
-      "name": "Ai mi morena - Chocolate Restyle",
-      "url": "https://open.spotify.com/track/195rt3pQCPzYDmobHp9uL5"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -503,26 +503,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Danz\u00f3n Para La Espera",
-        "url": "https://open.spotify.com/album/5NlwLkuzq9WBQa54Rytnxv"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Failde",
-          "url": "https://open.spotify.com/artist/73pD7OtQXvDhvU0Cy6eo7T"
-        },
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Danz\u00f3n Para La Espera",
-      "url": "https://open.spotify.com/track/1RlcebUFfWS1DaRnlDr0Ms"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "The Cosmic Game",
         "url": "https://open.spotify.com/album/5TXP9f2NLMzYoVOfyhAjFO"
       },
@@ -543,6 +523,26 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Danz\u00f3n Para La Espera",
+        "url": "https://open.spotify.com/album/5NlwLkuzq9WBQa54Rytnxv"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Failde",
+          "url": "https://open.spotify.com/artist/73pD7OtQXvDhvU0Cy6eo7T"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Danz\u00f3n Para La Espera",
+      "url": "https://open.spotify.com/track/1RlcebUFfWS1DaRnlDr0Ms"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "iLevitable",
         "url": "https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky"
       },
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Otros Aires",
-        "url": "https://open.spotify.com/album/24uMVkq4ni8tDFHwva5e8p"
-      },
-      "artists": [
-        {
-          "name": "Otros Aires",
-          "url": "https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h"
-        }
-      ],
-      "duration_ms": 233453,
-      "name": "Sin Rumbo",
-      "url": "https://open.spotify.com/track/6WGeW1Ooa2dndzIGwXCVFW"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "A Lo Cubano",
         "url": "https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 243696,
       "name": "A Lo Cubano",
       "url": "https://open.spotify.com/track/5RHsMuIxbJhGJoyd8DYmn8"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Otros Aires",
+        "url": "https://open.spotify.com/album/24uMVkq4ni8tDFHwva5e8p"
+      },
+      "artists": [
+        {
+          "name": "Otros Aires",
+          "url": "https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h"
+        }
+      ],
+      "duration_ms": 233453,
+      "name": "Sin Rumbo",
+      "url": "https://open.spotify.com/track/6WGeW1Ooa2dndzIGwXCVFW"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Game On",
-        "url": "https://open.spotify.com/album/1wy96LLU4IDVi8axtkZsVG"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 301925,
-      "name": "Game On",
-      "url": "https://open.spotify.com/track/5Sbjx80XMMbhjH22iGUbAK"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Jungle Fire",
         "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 229080,
       "name": "At\u00f3mico",
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Game On",
+        "url": "https://open.spotify.com/album/1wy96LLU4IDVi8axtkZsVG"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 301925,
+      "name": "Game On",
+      "url": "https://open.spotify.com/track/5Sbjx80XMMbhjH22iGUbAK"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Casa en el \u00e1rbol",
-        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 219807,
-      "name": "Casa en el \u00e1rbol",
-      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "Arturo Sandoval",
         "url": "https://open.spotify.com/album/3tsXNHsYyzPRneHlebjQtk"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 211586,
       "name": "Arturo Sandoval",
       "url": "https://open.spotify.com/track/35U6NyVIlRIdNiNBd7Hz6G"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Casa en el \u00e1rbol",
+        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 219807,
+      "name": "Casa en el \u00e1rbol",
+      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "President Alien",
+        "url": "https://open.spotify.com/album/1kF981Cq9HULhdiAxKH5FH"
+      },
+      "artists": [
+        {
+          "name": "Yerba Buena",
+          "url": "https://open.spotify.com/artist/024R83OqqR3AgPjYc3QtyT"
+        }
+      ],
+      "duration_ms": 240226,
+      "name": "Electric Boogaloo",
+      "url": "https://open.spotify.com/track/2uNlYmmvtJB0m3ZXhXsHKW"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Se\u00f1or Coconut / Around the World",
         "url": "https://open.spotify.com/album/3kc3Xf5509dG8PJeAkmZuF"
       },
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "President Alien",
-        "url": "https://open.spotify.com/album/1kF981Cq9HULhdiAxKH5FH"
-      },
-      "artists": [
-        {
-          "name": "Yerba Buena",
-          "url": "https://open.spotify.com/artist/024R83OqqR3AgPjYc3QtyT"
-        }
-      ],
-      "duration_ms": 240226,
-      "name": "Electric Boogaloo",
-      "url": "https://open.spotify.com/track/2uNlYmmvtJB0m3ZXhXsHKW"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
         "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
       },
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "\u00a1Oye Frank! Sonata Latina Tribute Orchestra",
-        "url": "https://open.spotify.com/album/1SSdDsip5PL6hBiWrQ1QiI"
-      },
-      "artists": [
-        {
-          "name": "\u00a1Oye Frank! Sonata Latina Tribute Orchestra",
-          "url": "https://open.spotify.com/artist/7zug34wHklQjAqvDHAhqJ3"
-        }
-      ],
-      "duration_ms": 180413,
-      "name": "Come Fly With Me",
-      "url": "https://open.spotify.com/track/4htOz9gMFZStfcVz1kx3El"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
         "name": "sweet nothings",
         "url": "https://open.spotify.com/album/2g4XXX6nYFk8YASLT0ssYx"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 138151,
       "name": "sweet nothings",
       "url": "https://open.spotify.com/track/3IrZ4zPw4M4jgD0GHsetH1"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "\u00a1Oye Frank! Sonata Latina Tribute Orchestra",
+        "url": "https://open.spotify.com/album/1SSdDsip5PL6hBiWrQ1QiI"
+      },
+      "artists": [
+        {
+          "name": "\u00a1Oye Frank! Sonata Latina Tribute Orchestra",
+          "url": "https://open.spotify.com/artist/7zug34wHklQjAqvDHAhqJ3"
+        }
+      ],
+      "duration_ms": 180413,
+      "name": "Come Fly With Me",
+      "url": "https://open.spotify.com/track/4htOz9gMFZStfcVz1kx3El"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1563,6 +1563,42 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Red Hot Chile Papers",
+        "url": "https://open.spotify.com/album/47Sx53fP4z05fpf5RPsm1s"
+      },
+      "artists": [
+        {
+          "name": "Comida Para Llevar",
+          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
+        },
+        {
+          "name": "Nfx",
+          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
+        },
+        {
+          "name": "Motafonkas",
+          "url": "https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS"
+        },
+        {
+          "name": "Veztalone",
+          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
+        },
+        {
+          "name": "Frank Lucas",
+          "url": "https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230"
+        },
+        {
+          "name": "Don Cup\u00f3n",
+          "url": "https://open.spotify.com/artist/2xU1khcfqErVoih679pYM1"
+        }
+      ],
+      "duration_ms": 286363,
+      "name": "Red Hot Chile Papers",
+      "url": "https://open.spotify.com/track/1SJLKKDmjYCCwN9BBlF1de"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Pelear",
         "url": "https://open.spotify.com/album/2DzQ7GgN00WQRvXt7U4Qva"
       },
@@ -1575,22 +1611,6 @@
       "duration_ms": 252397,
       "name": "Pelear",
       "url": "https://open.spotify.com/track/6VJyMwGnx1TvDXVmTDKxwM"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Parrilladas Vargas",
-        "url": "https://open.spotify.com/album/7c7jxSHqMJo53KLPeCyBMR"
-      },
-      "artists": [
-        {
-          "name": "Juanaf\u00e9",
-          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
-        }
-      ],
-      "duration_ms": 131897,
-      "name": "Una Piedra en el Cielo",
-      "url": "https://open.spotify.com/track/5lJurIvlMy2V1NiF6Wasxu"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1611,6 +1631,22 @@
       "duration_ms": 258373,
       "name": "El Liso (feat. Luis Towers)",
       "url": "https://open.spotify.com/track/42dfjFDLaDrWIjFZWzQrsm"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
+        "name": "Parrilladas Vargas",
+        "url": "https://open.spotify.com/album/7c7jxSHqMJo53KLPeCyBMR"
+      },
+      "artists": [
+        {
+          "name": "Juanaf\u00e9",
+          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
+        }
+      ],
+      "duration_ms": 131897,
+      "name": "Una Piedra en el Cielo",
+      "url": "https://open.spotify.com/track/5lJurIvlMy2V1NiF6Wasxu"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1703,6 +1739,22 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
+        "name": "Atacama!",
+        "url": "https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf"
+      },
+      "artists": [
+        {
+          "name": "Alessio Arena",
+          "url": "https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc"
+        }
+      ],
+      "duration_ms": 251830,
+      "name": "El hombre que quiso ser canci\u00f3n",
+      "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
+    },
+    {
+      "added_at": "2024-04-05 04:01:00",
+      "album": {
         "name": "Pelo Negro",
         "url": "https://open.spotify.com/album/1aHrWZbOa31S3rBUA51muK"
       },
@@ -1743,50 +1795,18 @@
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
-        "name": "Atacama!",
-        "url": "https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf"
+        "name": "En Medio Del Jard\u00edn",
+        "url": "https://open.spotify.com/album/48UdlUGkJlQBpMWc9iYlHY"
       },
       "artists": [
         {
-          "name": "Alessio Arena",
-          "url": "https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc"
+          "name": "DRIMS",
+          "url": "https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19"
         }
       ],
-      "duration_ms": 251830,
-      "name": "El hombre que quiso ser canci\u00f3n",
-      "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Somos Hermanas",
-        "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 230877,
-      "name": "Somos Hermanas",
-      "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Companeros De Mi Vida",
-        "url": "https://open.spotify.com/album/5syN6MvgMAkQDOpYy8mceC"
-      },
-      "artists": [
-        {
-          "name": "Eliades Ochoa",
-          "url": "https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH"
-        }
-      ],
-      "duration_ms": 262989,
-      "name": "Maria Cristina",
-      "url": "https://open.spotify.com/track/6RkiGbfRM1Blo3iXVc98uS"
+      "duration_ms": 221986,
+      "name": "En Medio Del Jard\u00edn",
+      "url": "https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5"
     }
   ],
   "unique_name": "Latin Dinner",

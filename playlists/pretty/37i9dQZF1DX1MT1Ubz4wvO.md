@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Pony Bravo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,906 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,907 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [CYA](https://open.spotify.com/track/35oXt4LFYI83b9Qrin0kcL) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Springs Eternal](https://open.spotify.com/album/0uJRNa7jNGJhZLCFDDo44B) | 3:25 |
 | 50 | [Demoliendo Hoteles \- En Vivo](https://open.spotify.com/track/3qjU5q5CJzhVFWz4K1Bfly) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [En Vivo Estadio Obras](https://open.spotify.com/album/7yoIFZZ7ilOycR23bQQLse) | 3:13 |
 
-Snapshot ID: `MCxkN2FkMjdhN2YxZjE0NDFmYTBhZjA1ZDgzZTY2OTFmMTgyYjE3MDQ1`
+Snapshot ID: `MTcxMjU4Nzg2MSwwMDAwMDAwMDlmMGJkYTRmNWZmZjEwNDZlZTI1MzViZjg3MDg1MjI3`

@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 137438,
+  "2024-04-12": 137502,
   "date_first_scraped": "2022-01-01",
   "description": "So smooth, so classic. Cover: George Benson",
   "name": "Smooth Jazz Classics",
@@ -785,10 +785,28 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 256933,
       "name": "Just Hold Me",
       "url": "https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi"
+    },
+    {
+      "album": {
+        "name": "Intimacy",
+        "url": "https://open.spotify.com/album/4NATHQFpspfw81hStPvx6f"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256986,
+      "name": "Just Hold Me",
+      "url": "https://open.spotify.com/track/3MTIeU2fiDRA8GkHjimgwy"
     },
     {
       "album": {

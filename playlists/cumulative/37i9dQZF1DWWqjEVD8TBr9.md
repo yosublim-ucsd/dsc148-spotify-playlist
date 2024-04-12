@@ -4,7 +4,7 @@
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-274 songs - 15 hr 6 min
+275 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Waiting For Us \(Bang Chan, Lee Know, Seungmin, I.N\)](https://open.spotify.com/track/4zrj0FVWhDKNGTw818O026) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:39 | 2022-03-18 | 2022-07-29 |
 | [We Go \(Bang Chan, Changbin, HAN\)](https://open.spotify.com/track/4wbY22D0I6GL49RltKwdB5) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 2:37 | 2022-03-18 | 2022-07-29 |
 | [We Go \(Bang Chan, Changbin, HAN\)](https://open.spotify.com/track/5GhuFbB6NjKzehvws0GGUP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 2:37 | 2022-03-18 |  |
+| [WHY?](https://open.spotify.com/track/2NeJBfbWgs19WiBXAUPpBq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [WHY?](https://open.spotify.com/album/5mZvfyIv3rZ3ZCah58u6k2) | 3:48 | 2024-04-11 |  |
 | [Winter Falls](https://open.spotify.com/track/0BeqHPNJSLzfH8TZ7Adpb3) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) | 3:55 | 2022-03-18 |  |
 | [Winter Falls](https://open.spotify.com/track/68JybsZc5XKAWxmHBL8z0U) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/6bW2FgR93NYexY1fuHtUyi) | 3:55 | 2022-03-18 | 2022-07-29 |
 | [Wish You Back \(HAN\)](https://open.spotify.com/track/1ifB8sqR8gd09DSEloo4Du) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 3:18 | 2022-12-21 |  |

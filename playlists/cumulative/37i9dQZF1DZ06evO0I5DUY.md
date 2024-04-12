@@ -2,7 +2,7 @@
 
 ### [This Is Los Cadetes De Linares](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0I5DUY)
 
-> This is Los Cadetes De Linares\. The essential tracks, all in one playlist.
+> This Is Los Cadetes De Linares\. Los temas esenciales, todos en una lista.
 
 81 songs - 3 hr 54 min
 

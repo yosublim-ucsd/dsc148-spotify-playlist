@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > gems by artists carving their own lane\. cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,658 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,710 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 31 | [Good Torture \(with Elyanna\)](https://open.spotify.com/track/3s29qreJr2KU7BFSiDtw0U) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Good Torture \(with Elyanna\)](https://open.spotify.com/album/5xhbojvUylmbWTsaCgISZr) | 3:20 |
 | 32 | [R U A Literal Child ?](https://open.spotify.com/track/36oZ8vKFpmcTT6cmQ0pw0o) | [Astrel K](https://open.spotify.com/artist/206Opt8XsXddl0GcjHoESx) | [R U A Literal Child ?](https://open.spotify.com/album/2d9INgvY18W0FgE5jQDtLo) | 5:22 |
 | 33 | [Rouge à lèvres](https://open.spotify.com/track/0HgHk6fXRi0CuYnhahRtxH) | [Alix Fernz](https://open.spotify.com/artist/2X6rdYH1hHl3TXQCbEqOZQ) | [Rouge à lèvres](https://open.spotify.com/album/1kZoT8CcY3Yrva4uAwGN1R) | 3:26 |
-| 34 | [Imaan](https://open.spotify.com/track/1ydE5C1KehuCQI8EM3qXrQ) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Imaan](https://open.spotify.com/album/671HQwwWo7sivjgFb4Qf1P) | 3:34 |
+| 34 | [Imaan](https://open.spotify.com/track/5xvYNmS5yLJr5Z18P25DYR) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Imaan](https://open.spotify.com/album/4365MmEKX6ImuvRiWtqagj) | 3:34 |
 | 35 | [Polish Jazz](https://open.spotify.com/track/60D2JqdH4iixYCW5KQFNyR) | [Chuck Strangers](https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [A Forsaken Lover's Plea](https://open.spotify.com/album/02MmFj3ONHFwvZMfZXWtPy) | 3:00 |
 | 36 | [Afro Blue](https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Afro Blue](https://open.spotify.com/album/6FrOVQv6pmNkJB6dE5RKqV) | 3:51 |
 | 37 | [Best Laid Plans](https://open.spotify.com/track/4xpIfw6xzUcdL12Mo67SiB) | [Devon Welsh](https://open.spotify.com/artist/7yGm0QgT6pUFP7LRgsIRiC) | [Come With Me If You Want To Live](https://open.spotify.com/album/0lI2VuGSXvIhcax83psXiQ) | 4:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [I Just Want To Wake Up With You](https://open.spotify.com/track/4VbxqW1m5lNy15fa6o22fO) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [I Just Want To Wake Up With You](https://open.spotify.com/album/4kgN9BT3xXwqohp9IRpr1d) | 3:50 |
 | 100 | [sapon](https://open.spotify.com/track/5hNK7NeURb8ZVYBD2vZuiU) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [sapon](https://open.spotify.com/album/1Dlo15YbEjGlLb0vTAfMBV) | 3:10 |
 
-Snapshot ID: `MCw2ZDkyMzk5NWFkMDg5NzI0NTM3Y2QxY2Y1NDYxNWI4NGE4OTc0MjIy`
+Snapshot ID: `MTcxMjI4OTYwMCwwMDAwMDAwMGQyNzE3NDA5OTM3MjA1NTVlZGE1MGRmYzA4Njk4OWQ2`

@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: blesse",
-  "num_followers": 4425,
+  "num_followers": 4429,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGViNTgwMTIwMTY0MDNmM2ZlYmI4YzQ1YWZiNjA3YzdmYzg1M2Ey",
+  "snapshot_id": "MTcxMjI4OTYwMCwwMDAwMDAwMDM0NmNkMTZiNzQ1ZGM1MmI1MjdjNzM4MWZkZTc4M2M4",
   "tracks": [
     {
       "added_at": "2024-04-05 04:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Aire de plastique",
-        "url": "https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw"
-      },
-      "artists": [
-        {
-          "name": "Bon Enfant",
-          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
-        }
-      ],
-      "duration_ms": 247996,
-      "name": "Aire de plastique",
-      "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "GOOD LUCK",
         "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 202986,
       "name": "WHAT A MAN",
       "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Aire de plastique",
+        "url": "https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw"
+      },
+      "artists": [
+        {
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+        }
+      ],
+      "duration_ms": 247996,
+      "name": "Aire de plastique",
+      "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "The Witness",
+        "url": "https://open.spotify.com/album/4UqiUZuZyxnwLQPyJflsjl"
+      },
+      "artists": [
+        {
+          "name": "SUUNS",
+          "url": "https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb"
+        }
+      ],
+      "duration_ms": 249072,
+      "name": "Witness Protection",
+      "url": "https://open.spotify.com/track/25c2s6RdpSQN27iPc8Exps"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
         "url": "https://open.spotify.com/album/4gaxRsSkSQmoyDsTesvplD"
       },
@@ -695,38 +711,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "The Witness",
-        "url": "https://open.spotify.com/album/4UqiUZuZyxnwLQPyJflsjl"
-      },
-      "artists": [
-        {
-          "name": "SUUNS",
-          "url": "https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb"
-        }
-      ],
-      "duration_ms": 249072,
-      "name": "Witness Protection",
-      "url": "https://open.spotify.com/track/25c2s6RdpSQN27iPc8Exps"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "blood pareil",
-        "url": "https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js"
-      },
-      "artists": [
-        {
-          "name": "comment debord",
-          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
-        }
-      ],
-      "duration_ms": 264891,
-      "name": "blood pareil",
-      "url": "https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "P\u00eale-m\u00eale",
         "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 145936,
       "name": "Ton h\u00f4tel",
       "url": "https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "blood pareil",
+        "url": "https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js"
+      },
+      "artists": [
+        {
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "duration_ms": 264891,
+      "name": "blood pareil",
+      "url": "https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "PICTURA DE IPSE : Musique directe",
-        "url": "https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN"
-      },
-      "artists": [
-        {
-          "name": "Hubert Lenoir",
-          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
-        }
-      ],
-      "duration_ms": 189712,
-      "name": "DIMANCHE SOIR",
-      "url": "https://open.spotify.com/track/4fPYWGikmNerft32c7oBFx"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Le soleil et la mer",
         "url": "https://open.spotify.com/album/3U3IAHJIG9ofaeg6ZOud0s"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 213533,
       "name": "Femme-Lady",
       "url": "https://open.spotify.com/track/1cYR2Ax5skQtU6RJngbfkH"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "PICTURA DE IPSE : Musique directe",
+        "url": "https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN"
+      },
+      "artists": [
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        }
+      ],
+      "duration_ms": 189712,
+      "name": "DIMANCHE SOIR",
+      "url": "https://open.spotify.com/track/4fPYWGikmNerft32c7oBFx"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Tracer des lignes",
-        "url": "https://open.spotify.com/album/7xty3TrdI151JCmI6tO35v"
-      },
-      "artists": [
-        {
-          "name": "oui merci",
-          "url": "https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr"
-        }
-      ],
-      "duration_ms": 189510,
-      "name": "Tracer des lignes",
-      "url": "https://open.spotify.com/track/37nelpJO6CHNhl9tOvuTDB"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Piscine hors terre",
         "url": "https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 211570,
       "name": "Piscine hors terre",
       "url": "https://open.spotify.com/track/7jMNSZ1jHeEEwCZizCZxMu"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Tracer des lignes",
+        "url": "https://open.spotify.com/album/7xty3TrdI151JCmI6tO35v"
+      },
+      "artists": [
+        {
+          "name": "oui merci",
+          "url": "https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr"
+        }
+      ],
+      "duration_ms": 189510,
+      "name": "Tracer des lignes",
+      "url": "https://open.spotify.com/track/37nelpJO6CHNhl9tOvuTDB"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Ce qu'on aura",
-        "url": "https://open.spotify.com/album/4SPAxI22NjJMFzmLABVEhl"
+        "name": "Disruption",
+        "url": "https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8"
       },
       "artists": [
         {
-          "name": "Reno McCarthy",
-          "url": "https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS"
+          "name": "Vulgaires Machins",
+          "url": "https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG"
         }
       ],
-      "duration_ms": 236965,
-      "name": "Ce qu'on aura",
-      "url": "https://open.spotify.com/track/7hHXK4lcDDjgfR7hwPYhhl"
+      "duration_ms": 193027,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g"
     }
   ],
   "unique_name": "ALT_QC",

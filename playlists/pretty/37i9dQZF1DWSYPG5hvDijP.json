@@ -1,12 +1,12 @@
 {
   "description": "New Hip Hop from India.",
-  "num_followers": 2335,
+  "num_followers": 2397,
   "original_name": "Taaza hai bro!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTJmOTdiNGNmODkxYTNiNmE1NzVmZDBmMTc2MWViMGQ1ZTA3MDgz",
+  "snapshot_id": "MTcxMjY0OTMwNCwwMDAwMDAwMDU4OTk4OWFhMWQyYTNjMWMxNmJlMDZlZDRmZTg2ODE4",
   "tracks": [
     {
       "added_at": "2024-04-09 07:55:04",
@@ -102,6 +102,10 @@
         {
           "name": "Yunan",
           "url": "https://open.spotify.com/artist/6gIUB3nYX67IbwUi2bcrUJ"
+        },
+        {
+          "name": "Ysoblue",
+          "url": "https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww"
         }
       ],
       "duration_ms": 166666,

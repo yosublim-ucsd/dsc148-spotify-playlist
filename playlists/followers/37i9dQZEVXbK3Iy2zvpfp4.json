@@ -1,5 +1,5 @@
 {
-  "2024-04-11": 4614,
+  "2024-04-12": 4615,
   "date_first_scraped": "2022-06-10",
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
   "name": "Viral 50 - Slovakia",
@@ -6121,7 +6121,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 97896,
       "name": "chcel by som by\u0165 \u0161peci\u00e1lny",
       "url": "https://open.spotify.com/track/19L29uzLxMBxDghUNBpT5F"
@@ -10167,7 +10167,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 134471,
       "name": "ext\u00e1za",
       "url": "https://open.spotify.com/track/2zyacxcXuRUQ1owGDo2JnQ"
@@ -10285,6 +10285,24 @@
       "duration_ms": 193186,
       "name": "Fall 'N' Roll",
       "url": "https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL"
+    },
+    {
+      "album": {
+        "name": "Fall Back / Selfish Game",
+        "url": "https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129522,
+      "name": "Fall Back",
+      "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
     },
     {
       "album": {
@@ -12041,7 +12059,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 148551,
       "name": "Get It Sexyy",
       "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
@@ -14833,7 +14851,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 150551,
       "name": "hviezdy",
       "url": "https://open.spotify.com/track/63REZ6fzs9MC62InFkLzaR"
@@ -16369,7 +16387,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 152304,
       "name": "It's Not Right But It's Okay",
       "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
@@ -16511,7 +16529,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 139583,
       "name": "ja tu nepatr\u00edm",
       "url": "https://open.spotify.com/track/71Of48q0YuDTeh4gmDWAwK"
@@ -17071,7 +17089,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 134808,
       "name": "j\u00falia",
       "url": "https://open.spotify.com/track/0wrbLkC8ypUXlk5jnDXWCZ"
@@ -17343,6 +17361,24 @@
       "duration_ms": 113755,
       "name": "KETAMINE",
       "url": "https://open.spotify.com/track/4dENKkJybdRo1lG74i3XFF"
+    },
+    {
+      "album": {
+        "name": "KETAMINE",
+        "url": "https://open.spotify.com/album/4yObEmK8WkdvXMsE9l1kwa"
+      },
+      "artists": [
+        {
+          "name": "toutone",
+          "url": "https://open.spotify.com/artist/6KvjCNjg5Jn52vFNS7ir8w"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114635,
+      "name": "KETAMINE",
+      "url": "https://open.spotify.com/track/4t7iX6xIg5HQE8ZNziM0Ev"
     },
     {
       "album": {
@@ -22683,7 +22719,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 216825,
       "name": "M\u00e1m \u0165a r\u00e1d",
       "url": "https://open.spotify.com/track/4MjqKyPzValK8cxETj6mJe"
@@ -25987,6 +26023,24 @@
       "duration_ms": 95440,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6"
+    },
+    {
+      "album": {
+        "name": "Mi spendo tutto",
+        "url": "https://open.spotify.com/album/07YwhHKHa6yKzAGPajfes5"
+      },
+      "artists": [
+        {
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203426,
+      "name": "Pedro",
+      "url": "https://open.spotify.com/track/7AEfPUY8gHoEzQja4OOO49"
     },
     {
       "album": {
@@ -34204,6 +34258,28 @@
     },
     {
       "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
+    },
+    {
+      "album": {
         "name": "The Spectre",
         "url": "https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW"
       },
@@ -35705,7 +35781,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 129720,
       "name": "usp\u00e1vanka",
       "url": "https://open.spotify.com/track/6h35tOujAeigtRDHQ6dcOK"
@@ -35811,7 +35887,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 145344,
       "name": "V riti",
       "url": "https://open.spotify.com/track/3XAaAM9nREydRwfr9aXMGd"
@@ -36127,7 +36203,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 144696,
       "name": "ve\u013eryby",
       "url": "https://open.spotify.com/track/4p8f8DUwVIr3UrsTZPDTG3"
@@ -39099,7 +39175,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 132143,
       "name": "\u0161kola",
       "url": "https://open.spotify.com/track/4rTbitlP7d9JjXooLWgoZa"
@@ -39179,7 +39255,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-11",
       "duration_ms": 121200,
       "name": "\u017eeleznice",
       "url": "https://open.spotify.com/track/5izJDJcEHfJGORuXGGyXs9"
@@ -39527,6 +39603,24 @@
       "duration_ms": 171251,
       "name": "\u041f\u043e\u043c\u043d\u044e \u0442\u0432\u043e\u0451 \u0442\u0435\u043b\u043e",
       "url": "https://open.spotify.com/track/5fjvFWBdu0DDNwTKd8bkys"
+    },
+    {
+      "album": {
+        "name": "\u043c\u043e\u0438 (\u0442\u0432\u043e\u0438) \u0442\u0451\u043c\u043d\u044b\u0435 \u0436\u0435\u043b\u0430\u043d\u0438\u044f",
+        "url": "https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01"
+      },
+      "artists": [
+        {
+          "name": "ooes",
+          "url": "https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146285,
+      "name": "\u043f\u0440\u0430\u0432\u0430",
+      "url": "https://open.spotify.com/track/6E2ec1JmPOXyh7k37tYhYU"
     },
     {
       "album": {

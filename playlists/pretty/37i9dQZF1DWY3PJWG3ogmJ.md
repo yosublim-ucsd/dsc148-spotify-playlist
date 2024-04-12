@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 648,174 likes - 120 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 648,320 likes - 120 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 53 | [Nekketsu](https://open.spotify.com/track/6xfLi5JSmJVXovRRziN7Tz) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [The Legacy of Shi](https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ) | 3:11 |
 | 54 | [Akudama](https://open.spotify.com/track/6WJHdM16lYFUz4mUnrULi9) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Akudama](https://open.spotify.com/album/2FbtFDP3evBSzytt0VFJxS) | 2:37 |
 | 55 | [Human Carrying Capacity](https://open.spotify.com/track/63C2F8dGaKxdhUW1oVWPlW) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Posthuman](https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L) | 3:17 |
-| 56 | [Snowblood](https://open.spotify.com/track/5SIVBEbFY1e3L2ri0DWR4h) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Snowblood](https://open.spotify.com/album/393HU6oEXQybzous3p0NC5) | 4:13 |
+| 56 | [You Will Never Be One of Us](https://open.spotify.com/track/3rjNoyEanqWA5znCy2rAdO) | [Nails](https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys) | [You Will Never Be One of Us](https://open.spotify.com/album/0mcy7rGwHhNsPQTaNbvaac) | 1:29 |
 | 57 | [Blood in the Sands of Time](https://open.spotify.com/track/4evo7dv7goRstcgHFhcJMQ) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Chuck Billy](https://open.spotify.com/artist/62PhVjMmDVdX7u8pHx7N2C) | [Elegy](https://open.spotify.com/album/1YwAkYsGTgNMWaayCgxjsb) | 5:22 |
-| 58 | [You Will Never Be One of Us](https://open.spotify.com/track/3rjNoyEanqWA5znCy2rAdO) | [Nails](https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys) | [You Will Never Be One of Us](https://open.spotify.com/album/0mcy7rGwHhNsPQTaNbvaac) | 1:29 |
+| 58 | [Snowblood](https://open.spotify.com/track/5SIVBEbFY1e3L2ri0DWR4h) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Snowblood](https://open.spotify.com/album/393HU6oEXQybzous3p0NC5) | 4:13 |
 | 59 | [Divine Apprehension](https://open.spotify.com/track/430VZGvjBfWzjVf0vZkbb8) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Opening Fire: 2008\-2014](https://open.spotify.com/album/0rZIGEccKBNGf2oqFKzoD5) | 4:17 |
 | 60 | [All Love Is Lost \(feat\. Max Cavalera\)](https://open.spotify.com/track/3AsOm7qVG0IWyLFKRH7v6V) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i), [Max Cavalera](https://open.spotify.com/artist/6p9q2PEuRNRMIXy0mxtDaf) | [Bloodlust](https://open.spotify.com/album/6mbEfaoHDNBiXhlUQzzn4m) | 3:36 |
 | 61 | [Behind the Crowd](https://open.spotify.com/track/0RaMMxG2LIexxGz4a3fEZt) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Bleed\-Abide](https://open.spotify.com/album/1PcvrxS7q5g9n1MxC7BOo4) | 3:14 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 90 | [Smile Now Pay Later](https://open.spotify.com/track/2qubO22BwvgFwR0Rw5G0be) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [For the Cause](https://open.spotify.com/album/4LBgCtcdVp8hBBRDdwJaZk) | 3:31 |
 | 91 | [Rebirth](https://open.spotify.com/track/4dIoimQas4pY5JkvDF88B0) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Rebirth](https://open.spotify.com/album/5VfJBSkFq6AGM4Q2tbxSMm) | 4:01 |
 | 92 | [Remnants in Time](https://open.spotify.com/track/4QrLsP1ZpVLdEVpdS1AnXm) | [The Agonist](https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak) | [Days Before the World Wept](https://open.spotify.com/album/29uEQ1RoGjYPBXrZCUb6Ms) | 4:53 |
-| 93 | [Seeing God \(feat\. Aaron Heard\)](https://open.spotify.com/track/7sIPpM7aieTQTLxHohl4sP) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs), [Aaron Heard](https://open.spotify.com/artist/2UBVwsstNxYlnn2pyyi84c) | [Slow Decay](https://open.spotify.com/album/1kHaQkPY41hT6N6espwLdn) | 2:48 |
-| 94 | [The American Dream](https://open.spotify.com/track/0cJBr06QAVjv65hwrK90AU) | [Walls of Jericho](https://open.spotify.com/artist/60cGRl68qyCBMqZi3tiHEU) | [The American Dream](https://open.spotify.com/album/0rtM1oLaYxWaDw3UMVaiL4) | 3:16 |
+| 93 | [The American Dream](https://open.spotify.com/track/0cJBr06QAVjv65hwrK90AU) | [Walls of Jericho](https://open.spotify.com/artist/60cGRl68qyCBMqZi3tiHEU) | [The American Dream](https://open.spotify.com/album/0rtM1oLaYxWaDw3UMVaiL4) | 3:16 |
+| 94 | [Seeing God \(feat\. Aaron Heard\)](https://open.spotify.com/track/7sIPpM7aieTQTLxHohl4sP) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs), [Aaron Heard](https://open.spotify.com/artist/2UBVwsstNxYlnn2pyyi84c) | [Slow Decay](https://open.spotify.com/album/1kHaQkPY41hT6N6espwLdn) | 2:48 |
 | 95 | [Demon King](https://open.spotify.com/track/3k7V2I8tZRausER37oVADQ) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Demon King](https://open.spotify.com/album/7c6Zz9bVK2vwt7vhMPQgSC) | 3:55 |
 | 96 | [Playing the Victim](https://open.spotify.com/track/6RZ8XyeLf77Qiby52iXW8b) | [Blood Youth](https://open.spotify.com/artist/7f6aaGesYhnRPTcI36JGsb) | [Playing the Victim](https://open.spotify.com/album/6lpNPXtYqjMq50B8mYwqfe) | 3:46 |
 | 97 | [Collapse](https://open.spotify.com/track/6aleU9GhOnPe1HG9AJatiO) | [Heart Of A Coward](https://open.spotify.com/artist/6GIZRqEJJNx3MFaC1YoFMZ) | [Collapse](https://open.spotify.com/album/4FcLJo4ZoD6oq9vg5gZJmO) | 4:40 |
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 110 | [R!ot](https://open.spotify.com/track/0zAb3JhZbExyPZxiGq9cky) | [Spoil Engine](https://open.spotify.com/artist/6nQqTxjWcBSDpjvVKRTfig) | [Renaissance Noire](https://open.spotify.com/album/62cj4fAYeia8TRD8VqrpbD) | 3:16 |
 | 111 | [Endarkenment](https://open.spotify.com/track/3BNourqkaWoTaHoxS2LFfO) | [Anaal Nathrakh](https://open.spotify.com/artist/7vrrJ5YlL3I8XUrh1ktGJV) | [Endarkenment](https://open.spotify.com/album/5xReWyf922gGJUHZMale2w) | 3:55 |
 | 112 | [Apostle](https://open.spotify.com/track/77j8ymzT23ZT1hnclyp5Xh) | [Reign Supreme](https://open.spotify.com/artist/69JlpHslR9eFL9k4Ze403e) | [Testing the Limits of Infinite](https://open.spotify.com/album/3vSYllgoXST4Tee5QbGiOw) | 3:13 |
-| 113 | [Verminous](https://open.spotify.com/track/5L00SssgkYwcf0kpeTglvW) | [The Black Dahlia Murder](https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS) | [Verminous](https://open.spotify.com/album/1oETXGGo51UKqOW4huyJjd) | 3:49 |
-| 114 | [Eternal Forward Motion](https://open.spotify.com/track/3xidbl1KpsgRZul3q6ZaCF) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Eternal Forward Motion](https://open.spotify.com/album/2omWd3dZk66IMchZJ538Hp) | 3:49 |
+| 113 | [Eternal Forward Motion](https://open.spotify.com/track/3xidbl1KpsgRZul3q6ZaCF) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Eternal Forward Motion](https://open.spotify.com/album/2omWd3dZk66IMchZJ538Hp) | 3:49 |
+| 114 | [Verminous](https://open.spotify.com/track/5L00SssgkYwcf0kpeTglvW) | [The Black Dahlia Murder](https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS) | [Verminous](https://open.spotify.com/album/1oETXGGo51UKqOW4huyJjd) | 3:49 |
 | 115 | [Mayday](https://open.spotify.com/track/01yF8zxWrRNwIKbboQWXUc) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Mayday](https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi) | 3:18 |
 | 116 | [One Day Closer to the End of the World](https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP) | [Cattle Decapitation](https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn) | [One Day Closer to the End of the World](https://open.spotify.com/album/5OnPLCsMC3lTchISlmzbZm) | 3:47 |
 | 117 | [Fortune Teller](https://open.spotify.com/track/5L4sQHhVxy8uMbSqVNw6qi) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Fortune Teller](https://open.spotify.com/album/1SwjeOYjBY9wbccQIMe0Cp) | 2:42 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 119 | [From Silence I Rise](https://open.spotify.com/track/4WDfePGxQBEiJ3pn1BWHQo) | [Alea Jacta Est](https://open.spotify.com/artist/69vv19AEt8RvpFvXZJD4W3) | [Vae Victis](https://open.spotify.com/album/0eFmpRNEXop4AgjbHhhfgm) | 2:21 |
 | 120 | [Of Mice and Mountains](https://open.spotify.com/track/0CwLjkdgKzMRxR0WE89Hw7) | [Dyscarnate](https://open.spotify.com/artist/6SvjnoIxcyGjkhoazemIlB) | [With All Their Might](https://open.spotify.com/album/44T2XNcei3Bq04flbhwn9I) | 4:06 |
 
-Snapshot ID: `MCxiYWJhYTE4ZjM4YmRlMGRlYWE4ZWI3ZGZiYzQyNDc2YzE1MTk3MjY5`
+Snapshot ID: `MTY4NjkxOTI3NCwwMDAwMDAwMDdjYTAxOThiZTMyZjViNzI0NzA0Mzg0ZmNmZmI2NDgw`

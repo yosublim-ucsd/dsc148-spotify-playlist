@@ -1,12 +1,12 @@
 {
   "description": "Find the path back to an era of enlightenment.",
-  "num_followers": 87863,
+  "num_followers": 87913,
   "original_name": "Early New Age",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzc0MTI2NTJhMDYyMjVmNzA5ZDVjNjhkM2IxYWZmM2RjY2M1MDZm",
+  "snapshot_id": "MTY5MjM2NzM3NCwwMDAwMDAwMDUwZGExZGNjODI4YTgzYjIyZGUzZDdhNGYxZWMxODJh",
   "tracks": [
     {
       "added_at": "2023-08-18 14:02:54",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Oxyg\u00e8ne",
-        "url": "https://open.spotify.com/album/6qF91BDNaJY4PI0mSwYv8L"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Jarre",
-          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
-        }
-      ],
-      "duration_ms": 459000,
-      "name": "Oxyg\u00e8ne, Pt. 1",
-      "url": "https://open.spotify.com/track/1pCOM5VEp8DKmg8OYJYhHv"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Cool Islands",
         "url": "https://open.spotify.com/album/5kI360nRgdmq6ZBfZRX945"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 193506,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/21gXtkGSaX27wcqtbams4W"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Oxyg\u00e8ne",
+        "url": "https://open.spotify.com/album/6qF91BDNaJY4PI0mSwYv8L"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Jarre",
+          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+        }
+      ],
+      "duration_ms": 459000,
+      "name": "Oxyg\u00e8ne, Pt. 1",
+      "url": "https://open.spotify.com/track/1pCOM5VEp8DKmg8OYJYhHv"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "\u00c9quinoxe",
-        "url": "https://open.spotify.com/album/4jz8xe3ErCHfGc0m0aGGau"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Jarre",
-          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
-        }
-      ],
-      "duration_ms": 425133,
-      "name": "Equinoxe, Pt. 4",
-      "url": "https://open.spotify.com/track/7b8Oh5XiT72EWTIdyjjPX6"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Cusco 2",
         "url": "https://open.spotify.com/album/0AUu3xGjmn7yeYm3ZF8Q1c"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 228240,
       "name": "Lake of the Ozarks",
       "url": "https://open.spotify.com/track/4hv02M3OzsEgN6b1EoA1O6"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "\u00c9quinoxe",
+        "url": "https://open.spotify.com/album/4jz8xe3ErCHfGc0m0aGGau"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Jarre",
+          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+        }
+      ],
+      "duration_ms": 425133,
+      "name": "Equinoxe, Pt. 4",
+      "url": "https://open.spotify.com/track/7b8Oh5XiT72EWTIdyjjPX6"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Phaedra (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 477322,
+      "name": "Movements Of A Visionary - Remastered 2018",
+      "url": "https://open.spotify.com/track/76lbYpKnn31T0nnRs5AZXs"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Spectrum Suite (Bonus Version) [Remastered]",
         "url": "https://open.spotify.com/album/48Ouk6WweyG4TdifzadiEc"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 171106,
       "name": "First Chakra Keynote C (Red) - (Bonus Version) (Remastered)",
       "url": "https://open.spotify.com/track/6CoQyyWTIjzaVoBnZMH8kw"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Phaedra (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 477322,
-      "name": "Movements Of A Visionary - Remastered 2018",
-      "url": "https://open.spotify.com/track/76lbYpKnn31T0nnRs5AZXs"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -703,38 +703,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Keys To Imagination",
-        "url": "https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n"
-      },
-      "artists": [
-        {
-          "name": "Yanni",
-          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
-        }
-      ],
-      "duration_ms": 314333,
-      "name": "Keys To Imagination",
-      "url": "https://open.spotify.com/track/55by06Lzd2VamPqPrSiPZl"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Best Of Tim Weisberg: Smile!",
-        "url": "https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox"
-      },
-      "artists": [
-        {
-          "name": "Tim Weisberg",
-          "url": "https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v"
-        }
-      ],
-      "duration_ms": 209973,
-      "name": "Dion Blue",
-      "url": "https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Rubycon (Deluxe Version)",
         "url": "https://open.spotify.com/album/5vHDwkXdVRGHTCpc5is4Vo"
       },
@@ -747,6 +715,22 @@
       "duration_ms": 1037451,
       "name": "Rubycon - Pt. 1 / Remastered 2018",
       "url": "https://open.spotify.com/track/21GAShK3ha9dEfdhQBjqOy"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Keys To Imagination",
+        "url": "https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n"
+      },
+      "artists": [
+        {
+          "name": "Yanni",
+          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
+        }
+      ],
+      "duration_ms": 314333,
+      "name": "Keys To Imagination",
+      "url": "https://open.spotify.com/track/55by06Lzd2VamPqPrSiPZl"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -767,6 +751,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Best Of Tim Weisberg: Smile!",
+        "url": "https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox"
+      },
+      "artists": [
+        {
+          "name": "Tim Weisberg",
+          "url": "https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v"
+        }
+      ],
+      "duration_ms": 209973,
+      "name": "Dion Blue",
+      "url": "https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Gymnosphere: Song of the Rose",
         "url": "https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS"
       },
@@ -779,22 +779,6 @@
       "duration_ms": 1457253,
       "name": "Music for Gymnastics",
       "url": "https://open.spotify.com/track/5DhUiqa8Fc48J17GZtAs7i"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Keys To Imagination",
-        "url": "https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n"
-      },
-      "artists": [
-        {
-          "name": "Yanni",
-          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
-        }
-      ],
-      "duration_ms": 399066,
-      "name": "Looking Glass",
-      "url": "https://open.spotify.com/track/6zyoBj7fXtPLB20ovcdbS5"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -883,6 +867,54 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Blackouts",
+        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
+      },
+      "artists": [
+        {
+          "name": "Ashra",
+          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
+        }
+      ],
+      "duration_ms": 416026,
+      "name": "Midnight On Mars",
+      "url": "https://open.spotify.com/track/5rVFG1UpzRO70YGdu634cK"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Keys To Imagination",
+        "url": "https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n"
+      },
+      "artists": [
+        {
+          "name": "Yanni",
+          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
+        }
+      ],
+      "duration_ms": 399066,
+      "name": "Looking Glass",
+      "url": "https://open.spotify.com/track/6zyoBj7fXtPLB20ovcdbS5"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Valley In The Clouds",
+        "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
+      },
+      "artists": [
+        {
+          "name": "David Arkenstone",
+          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Stepping Stars",
+      "url": "https://open.spotify.com/track/75MXJxeq3YutNAiSV8UXHd"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Planet Voyage",
         "url": "https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl"
       },
@@ -915,18 +947,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Blackouts",
-        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
+        "name": "Seven Waves",
+        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
       },
       "artists": [
         {
-          "name": "Ashra",
-          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 416026,
-      "name": "Midnight On Mars",
-      "url": "https://open.spotify.com/track/5rVFG1UpzRO70YGdu634cK"
+      "duration_ms": 347626,
+      "name": "The Fifth Wave - Water Lullaby",
+      "url": "https://open.spotify.com/track/48Ts7bGN2VeEVaLzKWet5U"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -943,22 +975,6 @@
       "duration_ms": 114893,
       "name": "Stained-Glass Morning",
       "url": "https://open.spotify.com/track/2FLfPTjk346lxtEkXoJSFK"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Valley In The Clouds",
-        "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
-      },
-      "artists": [
-        {
-          "name": "David Arkenstone",
-          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Stepping Stars",
-      "url": "https://open.spotify.com/track/75MXJxeq3YutNAiSV8UXHd"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1007,22 +1023,6 @@
       "duration_ms": 399560,
       "name": "Li Sun",
       "url": "https://open.spotify.com/track/3q7kVeMpz0lbcpBo0Qk2hr"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Seven Waves",
-        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 347626,
-      "name": "The Fifth Wave - Water Lullaby",
-      "url": "https://open.spotify.com/track/48Ts7bGN2VeEVaLzKWet5U"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Rainbow Dome Musick",
-        "url": "https://open.spotify.com/album/67m5VTJCEDpxDz5WH2upcz"
+        "name": "Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961-88",
+        "url": "https://open.spotify.com/album/4klqR6x6zW58RaW1y2ffSI"
       },
       "artists": [
         {
-          "name": "Steve Hillage",
-          "url": "https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC"
+          "name": "Michael Garrison",
+          "url": "https://open.spotify.com/artist/0nzQKrZBzsjXGdogx6zaDU"
         }
       ],
-      "duration_ms": 1394160,
-      "name": "Garden Of Paradise - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/2LFvHkgLws1Qb6kQA1CQHi"
+      "duration_ms": 274733,
+      "name": "To the Other Side of the Sky",
+      "url": "https://open.spotify.com/track/3hH4PPHWAtkbzD9UKpkQl0"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1351,34 +1351,34 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961-88",
-        "url": "https://open.spotify.com/album/4klqR6x6zW58RaW1y2ffSI"
+        "name": "Rainbow Dome Musick",
+        "url": "https://open.spotify.com/album/67m5VTJCEDpxDz5WH2upcz"
       },
       "artists": [
         {
-          "name": "Michael Garrison",
-          "url": "https://open.spotify.com/artist/0nzQKrZBzsjXGdogx6zaDU"
+          "name": "Steve Hillage",
+          "url": "https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC"
         }
       ],
-      "duration_ms": 274733,
-      "name": "To the Other Side of the Sky",
-      "url": "https://open.spotify.com/track/3hH4PPHWAtkbzD9UKpkQl0"
+      "duration_ms": 1394160,
+      "name": "Garden Of Paradise - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/2LFvHkgLws1Qb6kQA1CQHi"
     },
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Ages",
-        "url": "https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX"
+        "name": "Galaxies",
+        "url": "https://open.spotify.com/album/1RD4b4SZU8Zu3dWaP406AJ"
       },
       "artists": [
         {
-          "name": "Edgar Froese",
-          "url": "https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr"
+          "name": "Kevin Braheny",
+          "url": "https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D"
         }
       ],
-      "duration_ms": 672226,
-      "name": "Metropolis",
-      "url": "https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac"
+      "duration_ms": 382200,
+      "name": "Ancient Stars",
+      "url": "https://open.spotify.com/track/7IzQZHK9TWH9YCE1HY87cX"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Galaxies",
-        "url": "https://open.spotify.com/album/1RD4b4SZU8Zu3dWaP406AJ"
+        "name": "Ages",
+        "url": "https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX"
       },
       "artists": [
         {
-          "name": "Kevin Braheny",
-          "url": "https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D"
+          "name": "Edgar Froese",
+          "url": "https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr"
         }
       ],
-      "duration_ms": 382200,
-      "name": "Ancient Stars",
-      "url": "https://open.spotify.com/track/7IzQZHK9TWH9YCE1HY87cX"
+      "duration_ms": 672226,
+      "name": "Metropolis",
+      "url": "https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Hear and Be Yonder",
-        "url": "https://open.spotify.com/album/1ZWMulajDJxasDcb3iNnS0"
-      },
-      "artists": [
-        {
-          "name": "David Casper",
-          "url": "https://open.spotify.com/artist/50mjb7KMd745XerQx3jeGI"
-        }
-      ],
-      "duration_ms": 465986,
-      "name": "Carmel Valley Sunset",
-      "url": "https://open.spotify.com/track/3ByxuWhBseyN2kkhImsJjr"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Spectrum Suite 45th Anniversary Collector's Edition",
         "url": "https://open.spotify.com/album/72HoejPQ2TFUuqupsbqf21"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 273180,
       "name": "Be-Muse-Ment",
       "url": "https://open.spotify.com/track/7i0FCzocEPAHLH7SXzsRga"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Hear and Be Yonder",
+        "url": "https://open.spotify.com/album/1ZWMulajDJxasDcb3iNnS0"
+      },
+      "artists": [
+        {
+          "name": "David Casper",
+          "url": "https://open.spotify.com/artist/50mjb7KMd745XerQx3jeGI"
+        }
+      ],
+      "duration_ms": 465986,
+      "name": "Carmel Valley Sunset",
+      "url": "https://open.spotify.com/track/3ByxuWhBseyN2kkhImsJjr"
     },
     {
       "added_at": "2023-08-18 14:02:54",
