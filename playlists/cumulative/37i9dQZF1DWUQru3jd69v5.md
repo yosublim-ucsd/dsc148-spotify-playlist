@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Papa V in cover.
 
-1,042 songs - 1 day 21 hr 10 min
+1,043 songs - 1 day 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -706,6 +706,7 @@
 | [ORMAI](https://open.spotify.com/track/3M7tqi0Ebb4AoSEhuYaY1f) | [Friman](https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ) | [ORMAI](https://open.spotify.com/album/2T5LTATAl3rPJIJins2Gws) | 2:07 | 2024-02-08 | 2024-02-16 |
 | [Ottocento](https://open.spotify.com/track/4eJK7cwS3tE19PeD4YALJD) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Ottocento](https://open.spotify.com/album/7m7ym6wmkm1Nb4heFdkCcO) | 2:36 | 2023-01-19 | 2023-02-24 |
 | [OUTFIT](https://open.spotify.com/track/28EjVhyTynW4W1VBkpJckD) | [19F](https://open.spotify.com/artist/1wtu0PppVIsGTuYVE3gkiR) | [OUTFIT](https://open.spotify.com/album/7vElcMaft4eJYSn6qruSFR) | 2:59 | 2023-12-07 | 2024-01-26 |
+| [OUTSIDE](https://open.spotify.com/track/7C4Cyo7wxWweBDAbtBYkFR) | [Oni One](https://open.spotify.com/artist/2fwe5Hfv8bvpVDXB64hndj), [DOD](https://open.spotify.com/artist/0LiaD3zWaTlh1ZUNjKYxAZ) | [OUTSIDE](https://open.spotify.com/album/33e0WMVs9dgzPTPIFG4iqJ) | 2:40 | 2024-04-12 |  |
 | [OUTSIDE](https://open.spotify.com/track/7nc1oR8VKY2Gpw8sGhmmZE) | [Pablo CT1](https://open.spotify.com/artist/7MgujiE0xHTeS5tqBNKRfe) | [OUTSIDE](https://open.spotify.com/album/5LzeVSNCy9PnQNKgMl9Q7y) | 2:57 | 2022-11-10 | 2022-12-02 |
 | [Ovetto Frozen \(feat\. Papa V\)](https://open.spotify.com/track/5fIFDZIWCb4xljatkdsIlY) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Identità](https://open.spotify.com/album/061b4fp721yhJXddgLdmHE) | 2:59 | 2023-11-23 | 2023-12-17 |
 | [Ovetto Frozen \(feat\. Papa V\)](https://open.spotify.com/track/0MrBaAUPc2uekIJTry4zjm) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Identità](https://open.spotify.com/album/5nxW9sJlywI1NGdLfaXMAN) | 2:59 | 2023-12-14 | 2024-01-19 |

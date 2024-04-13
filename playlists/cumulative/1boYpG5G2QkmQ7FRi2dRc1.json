@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 190644,
       "name": "1+1=11 - Edit",
       "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
@@ -468,7 +468,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 152250,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
@@ -858,7 +858,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 149508,
       "name": "All I Want Is You",
       "url": "https://open.spotify.com/track/5lebcpNhPX5sAPUjKyyYgY"
@@ -978,7 +978,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 230669,
       "name": "All We Need (Deep Inside)",
       "url": "https://open.spotify.com/track/4QH1B0fYwxCmFkY8bxhocr"
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 211653,
       "name": "And 1",
       "url": "https://open.spotify.com/track/3jY03u0KugM4iPu0nKbJnn"
@@ -2633,6 +2633,24 @@
     },
     {
       "album": {
+        "name": "beggin' u 2",
+        "url": "https://open.spotify.com/album/6XVxghf2IpjjCW05hdnUQc"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232827,
+      "name": "beggin' u 2",
+      "url": "https://open.spotify.com/track/1CBUhnEqPSZqVzZ76mRb1Q"
+    },
+    {
+      "album": {
         "name": "Beggin' You (Leftwing : Kody Remix)",
         "url": "https://open.spotify.com/album/1TtWMY6skAo4XVB6Jf6LAf"
       },
@@ -3315,6 +3333,28 @@
     },
     {
       "album": {
+        "name": "Bon Voyage (feat. Mingue)",
+        "url": "https://open.spotify.com/album/6uYbeO6iYfiC8stFuTi2ZY"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "Mingue",
+          "url": "https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160495,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/4oDiAylUIcWDQWXc1x2Ikh"
+    },
+    {
+      "album": {
         "name": "Bongos",
         "url": "https://open.spotify.com/album/4HWzyEtJROe6cguogQ5pbJ"
       },
@@ -3414,7 +3454,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 165942,
       "name": "Boombox (feat. Madam Parker)",
       "url": "https://open.spotify.com/track/76Ha6CD61eRztnKUbiUXbf"
@@ -3688,6 +3728,24 @@
       "duration_ms": 166875,
       "name": "Breakaway - Instrumental Mix",
       "url": "https://open.spotify.com/track/3NkSWP8Z2OfQaM2Ja5AYwC"
+    },
+    {
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/3hLvYf5CNeM50s4nPWK750"
+      },
+      "artists": [
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150937,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4GLWZE30Oiv80d7GxcPmME"
     },
     {
       "album": {
@@ -4292,6 +4350,32 @@
       "duration_ms": 311250,
       "name": "Can't Find Her",
       "url": "https://open.spotify.com/track/6uHTykxbR6MInBeThBE8FV"
+    },
+    {
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/12Hl9EDoFSd8mu9hy8v5EE"
+      },
+      "artists": [
+        {
+          "name": "Waterm\u00e4t",
+          "url": "https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W"
+        },
+        {
+          "name": "BURNR",
+          "url": "https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5"
+        },
+        {
+          "name": "Tania Foster",
+          "url": "https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181992,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/0lstuzpk4tvEUDQi8B5T39"
     },
     {
       "album": {
@@ -5576,7 +5660,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 299120,
       "name": "Crush",
       "url": "https://open.spotify.com/track/58Fkphee9r7xCQmKj4SMar"
@@ -6301,6 +6385,28 @@
     },
     {
       "album": {
+        "name": "Dhunga",
+        "url": "https://open.spotify.com/album/1YFhDt1XvJHuk8eN3dyaaY"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Toxic Rob",
+          "url": "https://open.spotify.com/artist/2xVWDstqnCMt8lKP8VXpzc"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149760,
+      "name": "Dhunga",
+      "url": "https://open.spotify.com/track/14CuAxOwFn2346hrXXx5Cj"
+    },
+    {
+      "album": {
         "name": "Diario",
         "url": "https://open.spotify.com/album/3189NFSUEsNH5ogV09mbpn"
       },
@@ -6796,7 +6902,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 258250,
       "name": "Don't Want You",
       "url": "https://open.spotify.com/track/42qCI9NAvzbW3mnV7jKjAo"
@@ -6912,6 +7018,24 @@
       "duration_ms": 215500,
       "name": "Draw The Line",
       "url": "https://open.spotify.com/track/3Jdp7dxaTwrx68pQsms4j0"
+    },
+    {
+      "album": {
+        "name": "Dream / Last Day On Earth",
+        "url": "https://open.spotify.com/album/0IYG39hpQ9aeK5ycRnbuW8"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195484,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/7fk4gASnt2lIZUGD8TDKRe"
     },
     {
       "album": {
@@ -7254,7 +7378,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 163500,
       "name": "Easy Baby",
       "url": "https://open.spotify.com/track/6x9zA8ibdDsEJtxEeeMNor"
@@ -9425,6 +9549,28 @@
     },
     {
       "album": {
+        "name": "Frikitona (Odd Mob Remix)",
+        "url": "https://open.spotify.com/album/0tDuxbHaSqjfQrqCDYalHk"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191718,
+      "name": "Frikitona - Odd Mob Remix",
+      "url": "https://open.spotify.com/track/4VmJrlaQyNESNp5kAK7zIY"
+    },
+    {
+      "album": {
         "name": "Front To Back (feat. DLMT)",
         "url": "https://open.spotify.com/album/2gPIAG5O5NinWCtB4yuSSR"
       },
@@ -9528,7 +9674,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 183093,
       "name": "Funky And You Know It - Myd Remix",
       "url": "https://open.spotify.com/track/438wzpID8rPiuTcBDtpfFE"
@@ -9696,7 +9842,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 195476,
       "name": "Get Down - Mark Knight Remix",
       "url": "https://open.spotify.com/track/7MxKs6eVfrueHpH6N0uqzE"
@@ -11030,7 +11176,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 266567,
       "name": "Hidden Memories",
       "url": "https://open.spotify.com/track/4nAA0hZZDEBSGqQ6rIy4aG"
@@ -11515,6 +11661,24 @@
     },
     {
       "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/0tUmA50dII1GN946D9lUsW"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262827,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/6ztI9zfPNMhocBJcXbeEqt"
+    },
+    {
+      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/1EwIXhUeYRrx1fHmL4wOzX"
       },
@@ -11588,7 +11752,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 222977,
       "name": "Horizon - Crusy Remix",
       "url": "https://open.spotify.com/track/3eTgSmPvLineyX2V39xaBM"
@@ -11868,7 +12032,7 @@
       ],
       "date_added": "2023-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 133636,
       "name": "Human",
       "url": "https://open.spotify.com/track/6Kl0BmROA5CAwtQOEFd99y"
@@ -12150,6 +12314,24 @@
       "duration_ms": 203540,
       "name": "I Got Nothing",
       "url": "https://open.spotify.com/track/4yagkb6nJCRcfjUhaOVHTw"
+    },
+    {
+      "album": {
+        "name": "I Got This",
+        "url": "https://open.spotify.com/album/4GBbH8vR6yNBSJwNCcZFOs"
+      },
+      "artists": [
+        {
+          "name": "Summum",
+          "url": "https://open.spotify.com/artist/1uHoVy6fKhUB3IO5EyWAMw"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "I Got This",
+      "url": "https://open.spotify.com/track/6n7eU8O4RaJ92qXdW8ncAo"
     },
     {
       "album": {
@@ -12698,6 +12880,24 @@
       "duration_ms": 197500,
       "name": "If You Wait - Jamie Jones 4Z Remix",
       "url": "https://open.spotify.com/track/4dCKIsA9gJ84fcfn2aTY5C"
+    },
+    {
+      "album": {
+        "name": "If You Want My Loving",
+        "url": "https://open.spotify.com/album/1GEdPQx7k39X1OTlqNBae3"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250074,
+      "name": "If You Want My Loving",
+      "url": "https://open.spotify.com/track/4EdOpcLtbY6J7AK4rLhqSG"
     },
     {
       "album": {
@@ -17032,7 +17232,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 405853,
       "name": "More Than You Know - Mont Rouge Remix",
       "url": "https://open.spotify.com/track/2F8eiUxSGMbRYr62P27XI9"
@@ -17196,6 +17396,24 @@
       "duration_ms": 206250,
       "name": "Moving All Around (Jumpin') (feat. Kim English) - John Summit Remix",
       "url": "https://open.spotify.com/track/1rTBuBSEMuG2rsl5BPwP1M"
+    },
+    {
+      "album": {
+        "name": "Mud Season",
+        "url": "https://open.spotify.com/album/2N5zNw7LULXhVKaRD6tnn8"
+      },
+      "artists": [
+        {
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199186,
+      "name": "Mud Season",
+      "url": "https://open.spotify.com/track/3gmgRuhZrpfawnbjWPf6Ov"
     },
     {
       "album": {
@@ -17911,6 +18129,32 @@
     },
     {
       "album": {
+        "name": "Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/0y5X3mEY5gtzpMATESTlp8"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "Nineteen 84",
+      "url": "https://open.spotify.com/track/2AJ8OYa9kLdieL7oOZCy4b"
+    },
+    {
+      "album": {
         "name": "nintendo 64",
         "url": "https://open.spotify.com/album/0Ler3M1pK387glzodtvbFR"
       },
@@ -18316,7 +18560,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 208711,
       "name": "Notification",
       "url": "https://open.spotify.com/track/0Pk8q3WpNLy5yaIkcjVQMW"
@@ -19182,6 +19426,28 @@
       "duration_ms": 212903,
       "name": "Orbit",
       "url": "https://open.spotify.com/track/2T1p2JEDLFdkSPwbEWK3WO"
+    },
+    {
+      "album": {
+        "name": "Ori Tali Ma (BLR remix)",
+        "url": "https://open.spotify.com/album/3VSchKmXXV1R7qPYa9Vm6w"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        },
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Ori Tali Ma (BLR remix)",
+      "url": "https://open.spotify.com/track/0mN3xC0ve5pt9Sss53COSV"
     },
     {
       "album": {
@@ -20677,6 +20943,32 @@
     },
     {
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/5LVD82K4oc2aL5dP4rSiRI"
+      },
+      "artists": [
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1Rndhv6jSNOtPMddRd0AGT"
+    },
+    {
+      "album": {
         "name": "Randomize",
         "url": "https://open.spotify.com/album/4MJNd4qc5u7iIQzCJdhosQ"
       },
@@ -21520,7 +21812,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 189728,
       "name": "ROOM IS ON FIRE (feat. AG Club)",
       "url": "https://open.spotify.com/track/1LgfBZnwX0IDLNrVbMZbzV"
@@ -22711,6 +23003,28 @@
     },
     {
       "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/1Z75fKSODV2iKYTYHk3rNH"
+      },
+      "artists": [
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        },
+        {
+          "name": "Blythe",
+          "url": "https://open.spotify.com/artist/6dTLQdaZjTYIxkLtnNLXPK"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206190,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/2PnJqNVKYbg1vyLUdPpjOF"
+    },
+    {
+      "album": {
         "name": "shakes",
         "url": "https://open.spotify.com/album/50WUE7yiygHjdun6SbOu0h"
       },
@@ -23180,7 +23494,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 146230,
       "name": "Sippin' Yak",
       "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
@@ -24165,6 +24479,28 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2W16r4Pobhg7TG2aak050I"
+      },
+      "artists": [
+        {
+          "name": "Rome in Silver",
+          "url": "https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN"
+        },
+        {
+          "name": "Slackin Beats",
+          "url": "https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212566,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2vFDKP9FBZzxl3N1RcpR3E"
+    },
+    {
+      "album": {
         "name": "Stay A Little Longer",
         "url": "https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav"
       },
@@ -24422,7 +24758,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 244082,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/4XhqtEtgwUFxfwOkZ4NJ8Q"
@@ -24550,7 +24886,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 184838,
       "name": "Summer of 69",
       "url": "https://open.spotify.com/track/2A9MLD0On0oMUOEXD98w7I"
@@ -24802,7 +25138,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 174375,
       "name": "TAKA",
       "url": "https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil"
@@ -25245,6 +25581,28 @@
     },
     {
       "album": {
+        "name": "Tell Them",
+        "url": "https://open.spotify.com/album/3IkXEMpui3J5cpcRgiwnJg"
+      },
+      "artists": [
+        {
+          "name": "Return Of The Jaded",
+          "url": "https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS"
+        },
+        {
+          "name": "Plain English",
+          "url": "https://open.spotify.com/artist/3qZDE3jQg7MhRdFSnPchp0"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180750,
+      "name": "Tell Them",
+      "url": "https://open.spotify.com/track/75vQWFvuU8jCyQiU5dyj8t"
+    },
+    {
+      "album": {
         "name": "Temperature",
         "url": "https://open.spotify.com/album/28olOVuLQDVY7XLH6W4USG"
       },
@@ -25314,7 +25672,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 177992,
       "name": "Tessellate - Radio Edit",
       "url": "https://open.spotify.com/track/2fA0PzVJTBKHewsYpRbOWr"
@@ -25572,7 +25930,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 270083,
       "name": "The Echo",
       "url": "https://open.spotify.com/track/0LaJAP7IkBKdGZwpnIOjIf"
@@ -25718,7 +26076,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 150909,
       "name": "The Juice",
       "url": "https://open.spotify.com/track/35WxWCjIJw5eEX6KEUGdj5"
@@ -25894,7 +26252,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 433920,
       "name": "The Passion - Atjazz Remix",
       "url": "https://open.spotify.com/track/3XhMUmTFJSCB5YfNP0YZ6E"
@@ -25952,6 +26310,24 @@
       "duration_ms": 167903,
       "name": "The Rhythm",
       "url": "https://open.spotify.com/track/04KlP6jVpk4lbOnBCPKUlg"
+    },
+    {
+      "album": {
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/5Be7JjDJ8D9XlgpTo3lyQp"
+      },
+      "artists": [
+        {
+          "name": "RSCL",
+          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201904,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/4BIf9QM2DjjO2TGi2ZkhAg"
     },
     {
       "album": {
@@ -26256,7 +26632,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 178921,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
@@ -27782,7 +28158,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 157404,
       "name": "Want My Love",
       "url": "https://open.spotify.com/track/1VPOl6ZBsQYXXWkgXsBvEo"
@@ -28418,7 +28794,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 187840,
       "name": "While The Record Spins",
       "url": "https://open.spotify.com/track/1ckOvdwaxiooVcfL0DzK9a"
@@ -28520,7 +28896,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 134846,
       "name": "Wild",
       "url": "https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9"
@@ -28542,6 +28918,24 @@
       "duration_ms": 428354,
       "name": "Wild Ride",
       "url": "https://open.spotify.com/track/5E5zOEB1dgqQcnbBT7KSit"
+    },
+    {
+      "album": {
+        "name": "Willow",
+        "url": "https://open.spotify.com/album/05VxiJ0izjxADnX677K9UY"
+      },
+      "artists": [
+        {
+          "name": "Wallace",
+          "url": "https://open.spotify.com/artist/2VosWday4AoFOXDJgYoDjm"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368942,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/2OzWNBl541iIac1PHtITkH"
     },
     {
       "album": {
@@ -29088,6 +29482,24 @@
       "duration_ms": 126444,
       "name": "You Give In",
       "url": "https://open.spotify.com/track/7p3P37iiyY9jyAYPajNhlv"
+    },
+    {
+      "album": {
+        "name": "You Got This",
+        "url": "https://open.spotify.com/album/5OUxZxJ0VW8FBGeRjtIjHF"
+      },
+      "artists": [
+        {
+          "name": "Sascha Funke",
+          "url": "https://open.spotify.com/artist/1dDTkRz9WVOQr63enjJ1Yd"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393781,
+      "name": "You Got This",
+      "url": "https://open.spotify.com/track/2bLkBJsKRgSwkvLyjCQpM6"
     },
     {
       "album": {

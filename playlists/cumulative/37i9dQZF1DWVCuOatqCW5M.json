@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New music from popular Hindi artists. Cover- Stebin Ben",
+  "description": "New music from popular Hindi artists. Cover- Mitraz",
   "name": "New Music Friday Hindi ",
   "tracks": [
     {
@@ -2230,7 +2230,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 227404,
       "name": "Baras Jao",
       "url": "https://open.spotify.com/track/2pUmmQOd2Oh0aQbCM4Kjq2"
@@ -2278,6 +2278,24 @@
       "duration_ms": 261958,
       "name": "Barbaad Kar Diya Tere Pyaar Ne",
       "url": "https://open.spotify.com/track/71JppswenQSDBxsGw7H0DX"
+    },
+    {
+      "album": {
+        "name": "Neendein",
+        "url": "https://open.spotify.com/album/2duQj52ixWnH9cppsg7e63"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "Barqatein",
+      "url": "https://open.spotify.com/track/2a5jayRVpFQkTFYv70ckI2"
     },
     {
       "album": {
@@ -3460,7 +3478,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 201750,
       "name": "Chhodunga Na",
       "url": "https://open.spotify.com/track/1alf5LiB3VjgMEIkZVvgyt"
@@ -3664,7 +3682,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 196022,
       "name": "Class (From \"Showtime\")",
       "url": "https://open.spotify.com/track/2SQMlgDzgO7NnxgPWLLnjF"
@@ -3968,7 +3986,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 209704,
       "name": "Darmiyaan",
       "url": "https://open.spotify.com/track/00A5UNZB6peIXs2TFl0FRN"
@@ -4250,7 +4268,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 177487,
       "name": "Dhaaga",
       "url": "https://open.spotify.com/track/7Jc36Yx8LImQ8KmW497Xsa"
@@ -4814,7 +4832,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 225115,
       "name": "Dil Paagal",
       "url": "https://open.spotify.com/track/4qGTvvnRGpjtlo09uhMdRl"
@@ -5327,6 +5345,32 @@
     },
     {
       "album": {
+        "name": "Dost Banke",
+        "url": "https://open.spotify.com/album/4Ira2DDLEUgXmL6t4UA95V"
+      },
+      "artists": [
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        },
+        {
+          "name": "Gurnazar",
+          "url": "https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W"
+        },
+        {
+          "name": "Kartik Dev",
+          "url": "https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289820,
+      "name": "Dost Banke",
+      "url": "https://open.spotify.com/track/2k0D2OXWXwuwBPXLQQYmZx"
+    },
+    {
+      "album": {
         "name": "Duniya",
         "url": "https://open.spotify.com/album/0pY9e05RJ52zBkEI7kezYB"
       },
@@ -5524,7 +5568,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 196530,
       "name": "Ek Nazar",
       "url": "https://open.spotify.com/track/6P8QlCeGxh6chCyobH3FtV"
@@ -7122,7 +7166,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 187800,
       "name": "Hoodie",
       "url": "https://open.spotify.com/track/3hJ5fEOXMPqxpU6mdHFQCY"
@@ -7180,7 +7224,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 185641,
       "name": "Hum Dono",
       "url": "https://open.spotify.com/track/22oo9d3PD2NITn6eaqsof4"
@@ -7392,7 +7436,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 245639,
       "name": "Imaan Tu",
       "url": "https://open.spotify.com/track/3guHC6Al2Pcn7cal7EXFCc"
@@ -8196,7 +8240,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 214906,
       "name": "Jaane Kyun",
       "url": "https://open.spotify.com/track/2GeDx7hILdN0ddW1e1Jb76"
@@ -8368,7 +8412,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 229894,
       "name": "Jag Jaage",
       "url": "https://open.spotify.com/track/3jXq3ztkQbI3lbFQHI1OaZ"
@@ -8482,6 +8526,24 @@
       "duration_ms": 175018,
       "name": "Janaabe Jaaniya",
       "url": "https://open.spotify.com/track/1zlDbWJgo6MDRdotKAlgak"
+    },
+    {
+      "album": {
+        "name": "Neendein",
+        "url": "https://open.spotify.com/album/2duQj52ixWnH9cppsg7e63"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Janeya",
+      "url": "https://open.spotify.com/track/4YKzCbFKx3x5eNeSmq17fs"
     },
     {
       "album": {
@@ -9290,7 +9352,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 245711,
       "name": "Kahani",
       "url": "https://open.spotify.com/track/6sMxjlCiYvcfmK8DxfIXeH"
@@ -9366,7 +9428,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 174696,
       "name": "Kaisa Tera Pyaar Ve",
       "url": "https://open.spotify.com/track/69xvRw9dNftgDUVLV47OsC"
@@ -11912,7 +11974,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 236512,
       "name": "Main Yaad Aaunga",
       "url": "https://open.spotify.com/track/038edxCyhgqLhN31qVSTo9"
@@ -12092,7 +12154,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 231230,
       "name": "Manmarziyan",
       "url": "https://open.spotify.com/track/6T1q54Iri4mnFlqbhypLjl"
@@ -13443,6 +13505,32 @@
     },
     {
       "album": {
+        "name": "Naam Kar Mere",
+        "url": "https://open.spotify.com/album/4g3eGr8v1ktOvcaS5PH5dz"
+      },
+      "artists": [
+        {
+          "name": "Laqshay Kapoor",
+          "url": "https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG"
+        },
+        {
+          "name": "Akashdeep Sengupta",
+          "url": "https://open.spotify.com/artist/1Taiu6ysv5t5sVhhMYYucf"
+        },
+        {
+          "name": "Shloke Lal",
+          "url": "https://open.spotify.com/artist/5hICADiHIRxjNDx2qEhlXb"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218398,
+      "name": "Naam Kar Mere",
+      "url": "https://open.spotify.com/track/64ZAVi77qufjn6RsgbvjVm"
+    },
+    {
+      "album": {
         "name": "Naazneen",
         "url": "https://open.spotify.com/album/3C5TLv2lcobPCxKD0CZwUP"
       },
@@ -13853,6 +13941,24 @@
     },
     {
       "album": {
+        "name": "Neendein",
+        "url": "https://open.spotify.com/album/2duQj52ixWnH9cppsg7e63"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194823,
+      "name": "Neendein",
+      "url": "https://open.spotify.com/track/3L8boIL0HlXw8AtXE8XdIP"
+    },
+    {
+      "album": {
         "name": "Ni Main Jaana",
         "url": "https://open.spotify.com/album/5Bns2L2O7anzhOPM1xAibK"
       },
@@ -14096,6 +14202,32 @@
       "duration_ms": 237362,
       "name": "O Mahi Mere",
       "url": "https://open.spotify.com/track/67Zlsv6nMfTmdxvM0wqfoX"
+    },
+    {
+      "album": {
+        "name": "O Mere Humnava",
+        "url": "https://open.spotify.com/album/7A4baK3PIcKV1JOW5a7wGq"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Teesha Nigam",
+          "url": "https://open.spotify.com/artist/3nO8pSWNGkEEo0EDgqDte6"
+        },
+        {
+          "name": "Sanjeev Chaturvedi",
+          "url": "https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200731,
+      "name": "O Mere Humnava",
+      "url": "https://open.spotify.com/track/3Vyl76HekUQqZ88sLGs3eh"
     },
     {
       "album": {
@@ -16248,7 +16380,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 171082,
       "name": "Saiyaan Dheere Dheere",
       "url": "https://open.spotify.com/track/6yQdyYfDSu6IPoi2vEGayZ"
@@ -16632,7 +16764,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 235135,
       "name": "Satranga - Tulsi Kumar Version",
       "url": "https://open.spotify.com/track/0gc3RZPxdnb6V4EDWlBqFZ"
@@ -16744,7 +16876,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 206700,
       "name": "Sehra",
       "url": "https://open.spotify.com/track/0a56ZS4WFG85imc7Zd3eBu"
@@ -17914,7 +18046,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 200980,
       "name": "Tera Pyaar",
       "url": "https://open.spotify.com/track/2EZN0Pw8NGx9Ymj2NgnwEQ"
@@ -18595,6 +18727,32 @@
     },
     {
       "album": {
+        "name": "Teri Yaadon Mein",
+        "url": "https://open.spotify.com/album/4Uo299QinhGdNyRrEipWXw"
+      },
+      "artists": [
+        {
+          "name": "Amarjeet Jaikar",
+          "url": "https://open.spotify.com/artist/6CvnEbKL4eoLeYpwCluTBD"
+        },
+        {
+          "name": "Manoj Ramprasadr",
+          "url": "https://open.spotify.com/artist/5ixEuJUT6v8X31IXGKOjaM"
+        },
+        {
+          "name": "Jeet Gannguli",
+          "url": "https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208571,
+      "name": "Teri Yaadon Mein",
+      "url": "https://open.spotify.com/track/1eyZCmknSIuf9wW0liuHKz"
+    },
+    {
+      "album": {
         "name": "Terre Liye",
         "url": "https://open.spotify.com/album/7e1ZBVfrMMAxFG1Ox8N2wP"
       },
@@ -18822,7 +18980,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 196362,
       "name": "Tohfa",
       "url": "https://open.spotify.com/track/606P6909bSGZUD3Ssz28GM"
@@ -20150,7 +20308,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 181569,
       "name": "Tumhari Mohabbat",
       "url": "https://open.spotify.com/track/0pOdkfN4zbqxuWtIgnlOnE"

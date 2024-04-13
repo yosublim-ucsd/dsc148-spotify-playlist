@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Haller, soffie
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,546 likes - 74 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,545 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,5 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 72 | [Mond](https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also was jetzt?](https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k) | 2:40 |
 | 73 | [Kreise Durch Die Stadt](https://open.spotify.com/track/2Q8YCUUqYP0K01bcs6RBVB) | [WOHINN](https://open.spotify.com/artist/7BW1zR1tn0viUXcb8hsQk6) | [Kreise Durch Die Stadt](https://open.spotify.com/album/6hb8PvKx43L693b9qtWkDt) | 3:34 |
 | 74 | [Bleiben können](https://open.spotify.com/track/3KHG0KGqP3kjZsOtD5tx9u) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Bleiben können](https://open.spotify.com/album/642EFDlyEu8rafHgDk9n5p) | 3:03 |
+| 75 | [Schlaf gut](https://open.spotify.com/track/1gUDyPpx99jRTVgSvrWEjl) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ), [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Schlaf gut](https://open.spotify.com/album/1Swdd6ktgwOrIYVCk3v4m7) | 3:21 |
 
-Snapshot ID: `MTcxMjg3MjgwMCwwMDAwMDAwMGVmNmY4MWRmNzY5MzM0MzM4YzRkOGNlZTk3NzFkZGFl`
+Snapshot ID: `MTcxMjkwNzgxNiwwMDAwMDAwMGFkYTUzNTdmZDE4NWYzYmE1MGI1MDg3YTZiOTFkODMz`

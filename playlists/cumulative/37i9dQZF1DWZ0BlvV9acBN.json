@@ -1107,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "MAUR\u00d8 - F\u00d8RMA (Ao Vivo Hard Rock Cafe Curitiba)",
+        "url": "https://open.spotify.com/album/0yIvMq3tBHnVwuyfvamUpe"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397750,
+      "name": "H\u03c3r\u03bege - A\u00f8 Viv\u00f8",
+      "url": "https://open.spotify.com/track/22A0UO4bYvuGiMcp0ozML2"
+    },
+    {
+      "album": {
         "name": "Imerecido Amor",
         "url": "https://open.spotify.com/album/38qJ3aPWI0uvOL3XNOEk9E"
       },
@@ -2116,7 +2134,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 264000,
       "name": "Quem Disse Que O Amor Pode Acabar",
       "url": "https://open.spotify.com/track/6cqobMBwfdZddO4GxOQrI3"

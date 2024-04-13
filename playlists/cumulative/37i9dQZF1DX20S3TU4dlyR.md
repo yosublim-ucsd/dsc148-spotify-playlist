@@ -2,9 +2,9 @@
 
 ### [Reggae al Sur](https://open.spotify.com/playlist/37i9dQZF1DX20S3TU4dlyR)
 
-> Este es el Reggae, al sur del continente americano\. Foto: Nonpalidece.
+> Este es el Reggae, al sur del continente americano\. Foto: Las Pastillas del Abuelo & Ke Personajes
 
-240 songs - 15 hr 59 min
+241 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Lo Que Decidas Será](https://open.spotify.com/track/5MkyPwXXUBx5wgeeYq4bX8) | [DOMA](https://open.spotify.com/artist/4aD9Ax5YSotHSD60pph8yU), [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Lo Que Decidas Será](https://open.spotify.com/album/2cqqBL8yZKgJ7RnAZa4VxT) | 3:27 | 2024-03-15 |  |
 | [Lo Que Dicta El Tiempo](https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Amor De Barrio](https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj) | 4:27 | 2022-05-06 |  |
 | [Lo Que Te Queda](https://open.spotify.com/track/3TfZW4btZFmocz8DM8fFFa) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Celebremos](https://open.spotify.com/album/3JGTUWHeX43xFKo1NcPt8Z) | 4:11 | 2022-05-06 | 2022-07-29 |
+| [Loco Por Volverla a Ver](https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Loco Por Volverla a Ver](https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd) | 4:32 | 2024-04-12 |  |
 | [Love Song](https://open.spotify.com/track/2esPpiAGKUsySMsdwasBcc) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x), [Dean Fraser](https://open.spotify.com/artist/2NgsVYg7cMgPQNYXW7CO6R) | [Love Song](https://open.spotify.com/album/5sFid2NyJbaAVQyIfIY7k8) | 4:26 | 2024-02-15 |  |
 | [Luz y Compañía](https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [International Love](https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48) | 4:57 | 2022-05-06 |  |
 | [Marsella](https://open.spotify.com/track/6zIg0mecBXTkquSrws5krZ) | [Panal](https://open.spotify.com/artist/49pcyFdsrBRYnbTXZUOurP) | [Marsella](https://open.spotify.com/album/5TL0NhWW4euIy7WpXYfaes) | 3:04 | 2022-07-01 | 2022-07-06 |
@@ -215,7 +216,7 @@
 | [The Chicken](https://open.spotify.com/track/1ixPeXUL8LA0r6o9Og6Apc) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [Groovin' High](https://open.spotify.com/album/344IQjBlB9LO2sjzvjUtl2) | 7:15 | 2022-05-06 |  |
 | [The Lady in Red](https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [The Lady in Red](https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd) | 3:45 | 2022-05-06 | 2024-03-23 |
 | [This Strange Effect](https://open.spotify.com/track/5XfpYQ0Mj24oHVJ3c0JMOX) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [This Strange Effect](https://open.spotify.com/album/1PLz4S3i1sl9cUaD1wTf15) | 4:20 | 2023-09-08 | 2024-01-06 |
-| [Todo Es Así](https://open.spotify.com/track/0KXw3dbbDFx75viq9HtMT4) | [DOMA](https://open.spotify.com/artist/4aD9Ax5YSotHSD60pph8yU) | [Todo Es Así](https://open.spotify.com/album/3BzrCi7FL52ULRUI154X6K) | 3:50 | 2022-05-06 |  |
+| [Todo Es Así](https://open.spotify.com/track/0KXw3dbbDFx75viq9HtMT4) | [DOMA](https://open.spotify.com/artist/4aD9Ax5YSotHSD60pph8yU) | [Todo Es Así](https://open.spotify.com/album/3BzrCi7FL52ULRUI154X6K) | 3:50 | 2022-05-06 | 2024-04-13 |
 | [Todo Lo Que Se Fue](https://open.spotify.com/track/4B7SpIO8nXOzz8I8tkovqW) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Todo Lo Que Se Fue](https://open.spotify.com/album/5b6PeL5h1CFlENO13RKt4r) | 3:21 | 2022-05-06 |  |
 | [Todo Para Vos](https://open.spotify.com/track/0tgEywBC2wBZwaOb5wNilK) | [Surco Pando](https://open.spotify.com/artist/6QLmWuLP0FV8gMTpVDai9a), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [Fuerza Real](https://open.spotify.com/album/4EXWZJxng9Js99rWu4meyV) | 4:00 | 2022-05-06 | 2022-06-29 |
 | [Todo Se Detiene \- Remix](https://open.spotify.com/track/3GEatKHlv5dxiJfmLOmdUB) | [Guille Scherping](https://open.spotify.com/artist/21z94PBEQcfGnocSb6prbq), [Kitra](https://open.spotify.com/artist/5FXik3bAr5hw3toDNlr0Qk) | [Todo Se Detiene \(Remix\)](https://open.spotify.com/album/3hSigS5dtdOpIoFCQfY2bT) | 3:15 | 2022-07-01 | 2022-07-24 |

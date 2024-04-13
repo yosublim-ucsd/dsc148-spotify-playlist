@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,837 likes - 121 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,922 likes - 121 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 111 | [Aix](https://open.spotify.com/track/34mXkxjLfdL4LseDpQYps0) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Aix](https://open.spotify.com/album/5I7cP45DUe2N8gjKM2X6vB) | 2:19 |
 | 112 | [McQuarrie](https://open.spotify.com/track/5SmaR4KtLoIFMze24rjaOr) | [Headnodic](https://open.spotify.com/artist/7LB0RfmtjwsMFr5OW3H0r3) | [McQuarrie](https://open.spotify.com/album/1evcRpmx5mxzVPuRUigXTJ) | 2:25 |
 | 113 | [From A Different Cloth](https://open.spotify.com/track/35btjswePEIK4mfbgjSHIt) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [4x4 Ghetto Skate Beats](https://open.spotify.com/album/2elBDNKyhj0PR5sj1JKibB) | 3:07 |
-| 114 | [Candy](https://open.spotify.com/track/4kEG7GfptFvhKG6WF4CsdR) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv), [Brunch Collect](https://open.spotify.com/artist/0kAzoeOzrlScAtTLUy613u) | [Candy](https://open.spotify.com/album/4pPtVCFv3qzdC8kV1izQHB) | 2:02 |
+| 114 | [Candy](https://open.spotify.com/track/4kEG7GfptFvhKG6WF4CsdR) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Candy](https://open.spotify.com/album/4pPtVCFv3qzdC8kV1izQHB) | 2:02 |
 | 115 | [Hear The Vibes](https://open.spotify.com/track/0VR0PrR3URSvUMrOo3MM3f) | [Mobsta Mane](https://open.spotify.com/artist/7xlFYuidFca4KP0IIReFTu), [Phil Tyler](https://open.spotify.com/artist/00hdgbWnNqR00WnuChfLf2) | [Hear The Vibes](https://open.spotify.com/album/1OLWYenrB1gnk9a28KKOYi) | 2:56 |
 | 116 | [in a mood](https://open.spotify.com/track/3k8P1xEYqQeIQeiJbZmQsQ) | [lazyymii](https://open.spotify.com/artist/1KltShvhgVoF8auxETfs2U), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [in a mood](https://open.spotify.com/album/4C3uHlcnzyXnGtM6jeiaLB) | 1:16 |
 | 117 | [Spray Colors](https://open.spotify.com/track/5B2dAco4S0I8TAQuIW8p3L) | [Keytap](https://open.spotify.com/artist/2A4BFEH3k6A0vXyEgq28MW), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Spray Colors](https://open.spotify.com/album/3Uj1MaF7Fbm3vrnpg8M4ll) | 2:07 |

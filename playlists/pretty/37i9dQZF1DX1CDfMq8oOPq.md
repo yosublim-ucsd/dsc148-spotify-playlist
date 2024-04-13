@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Amabbi
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,570 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,632 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 44 | [Mais Uma Vadia](https://open.spotify.com/track/54z9A5QU3cxsEZLMqNhXQW) | [Baby Kysha](https://open.spotify.com/artist/27h8nOl2zDSbrtvmIiyvqK), [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Mais Uma Vadia](https://open.spotify.com/album/1k4hdTrjul21G5KQnNzi41) | 2:52 |
 | 45 | [Novinho Chora](https://open.spotify.com/track/5QP1fLUkCtROoIGWTSKQR3) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Novinho Chora](https://open.spotify.com/album/2j4DZP2MoqtY3pscIEnYxS) | 3:07 |
 | 46 | [mlk me esquece](https://open.spotify.com/track/5KpOnRvxuYU18AQ0HVoQg8) | [A$HP](https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9) | [mlk me esquece](https://open.spotify.com/album/5IFvarnHQmfiqGQxhVhxnb) | 1:53 |
-| 47 | [Vim do Gueto](https://open.spotify.com/track/4vHxcRyIUnWwoh2I8QSdBp) | [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1) | [Vim do Gueto](https://open.spotify.com/album/1433g2HwyaQJZyvcOOQLzd) | 2:12 |
+| 47 | [Branca de Neve \(Rap das Sinhás\)](https://open.spotify.com/track/1rJnvi0KVPvv0iXis2AW6n) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n), [KING Saints](https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY) | [Branca de Neve \(Rap das Sinhás\)](https://open.spotify.com/album/7t6FZEKYsfluVdo8hHUXtk) | 5:26 |
 | 48 | [HSEH](https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [HSEH](https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP) | 2:30 |
 | 49 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
 | 50 | [Hentai](https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Hentai](https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02) | 2:22 |
 
-Snapshot ID: `MTcxMjI4NjA2MCwwMDAwMDAwMDU5NDAxZWM3NWI4YWZjY2ZhMjNkZmQzOWI3MWMyN2Y5`
+Snapshot ID: `MTcxMjg5MDg2MCwwMDAwMDAwMGFiYTZhOGU1OWE1NzEwZDM1ODZiNjAzYmVjNzgxZmQ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > 【セットリスト公開中！】2024年1月27日・28日、日本武道館にて開催！The official playlist of "LisAni! LIVE 2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,864 likes - 76 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,868 likes - 77 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,26 +63,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 53 | [morning morning](https://open.spotify.com/track/3NloEHbTZxvarJ14ygl1Sr) | [岬 なこ](https://open.spotify.com/artist/3b4KP5O2za8H98IxieMJfh) | [day to YOU](https://open.spotify.com/album/183oG82yds2ZFswddXOr2y) | 2:59 |
 | 54 | [Surprise](https://open.spotify.com/track/0fkfWgEkwmdDHms0V1JogP) | [中島怜](https://open.spotify.com/artist/7pQmC6NNs7KvWfrYKmqPbo) | [TV Animation "Sugar Apple Fairy Tale" 2nd Season Opening Theme Song "Surprise"](https://open.spotify.com/album/6EE5ge21vW9ehRzFfjFNRl) | 4:25 |
 | 55 | [Hajimaru](https://open.spotify.com/track/300QSeetGQx02LfIGzgjMD) | [中島怜](https://open.spotify.com/artist/7pQmC6NNs7KvWfrYKmqPbo) | [TV Animation "Sugar Apple Fairy Tale" 2nd Season Opening Theme Song "Surprise"](https://open.spotify.com/album/6EE5ge21vW9ehRzFfjFNRl) | 4:14 |
-| 56 | [迷星叫](https://open.spotify.com/track/5whZaLwjyjkLr75rRtmftL) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷跡波](https://open.spotify.com/album/6GBBqk1v5okNnioUXqMi7D) | 3:31 |
-| 57 | [壱雫空](https://open.spotify.com/track/1OVlUHWAK5KwWkWoLyMDjZ) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷跡波](https://open.spotify.com/album/6GBBqk1v5okNnioUXqMi7D) | 3:09 |
-| 58 | [影色舞](https://open.spotify.com/track/6MC5NKWAONf1YmNTEfom7I) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷跡波](https://open.spotify.com/album/6GBBqk1v5okNnioUXqMi7D) | 3:29 |
-| 59 | [碧天伴走](https://open.spotify.com/track/2fONHmoAIfMMklC7P9d6d1) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷跡波](https://open.spotify.com/album/6GBBqk1v5okNnioUXqMi7D) | 3:38 |
-| 60 | [音一会](https://open.spotify.com/track/2wjXoHFoZAPgSsyXMogQQa) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [音一会](https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN) | 4:42 |
-| 61 | [TTL](https://open.spotify.com/track/4NwRPoWzQT0JPGDkF42JBZ) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [恋愛ミリフィルム \(Complete Edition\)](https://open.spotify.com/album/48SVT8S7jkoU0kGISpMr09) | 3:42 |
-| 62 | [恋愛ミリフィルム](https://open.spotify.com/track/19BFUoZ7NSxD1toOmGRh6L) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [恋愛ミリフィルム](https://open.spotify.com/album/2KrmynsmgJbJLLOuAOn1fM) | 3:27 |
-| 63 | [センチメンタルクライシス](https://open.spotify.com/track/31fN64zoCHnWmFmPVmiVJT) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [Assortrip](https://open.spotify.com/album/21WfM8C9tr6u7MEZ4eWufZ) | 4:03 |
-| 64 | [誰彼スクランブル](https://open.spotify.com/track/0psSjxGt2lNnWYhZLLqBT6) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [誰彼スクランブル](https://open.spotify.com/album/3riDcXmPfyF8WRyiFUJOo3) | 4:28 |
-| 65 | [Good Luck Waker](https://open.spotify.com/track/5RAyZHSo1OlSJhDzjm5K42) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [Good Luck Waker](https://open.spotify.com/album/1LJgTHYnR11wmvCTUBFDwW) | 3:32 |
-| 66 | [Shekira](https://open.spotify.com/track/7lmoKU5kY1haRL1N1hiqzE) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Shekira](https://open.spotify.com/album/6omYirdfRVRWanhMVbCLBM) | 4:22 |
-| 67 | [スター宣言](https://open.spotify.com/track/2NXZ1iOG0zV0petFHEc3iG) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [WE WILL!!](https://open.spotify.com/album/1tOOzv1BUFulpiX5uiKnih) | 3:42 |
-| 68 | [キラーキューン☆](https://open.spotify.com/track/2xevuvQNCjevHHYP2VgDZn) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [MIRACLE NEW STORY](https://open.spotify.com/album/6GZVeBtYYQFdtQTXEcKD2V) | 3:17 |
-| 69 | [UNIVERSE!!](https://open.spotify.com/track/3KYIfwDTz5vFK6Op5ifWvd) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [UNIVERSE!!](https://open.spotify.com/album/1RK318IO7OR587IF7AnLve) | 4:22 |
-| 70 | [TO BE CONTINUED](https://open.spotify.com/track/0KHF63nvWLEID5ZEzwUKd3) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Sing！Shine！Smile！ / 未来の音が聴こえる \(第12話盤\)](https://open.spotify.com/album/7J38QZOcQfuuZixGxTDYGA) | 3:10 |
-| 71 | [かかわり](https://open.spotify.com/track/7MdTnv03MnwSoNDeADoxgf) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection](https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd) | 4:23 |
-| 72 | [はなれない距離](https://open.spotify.com/track/0pFaJy4xKLLb7QeAGUhEDF) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [はなれない距離](https://open.spotify.com/album/0kA9ILc9xJDnoJl3HXiRnH) | 3:41 |
-| 73 | [マイハートリバイバル](https://open.spotify.com/track/2W5gFliehqCrXVsmVcswHK) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [Re Bon Voyage](https://open.spotify.com/album/0cFsKEvhK04mcktNzfBv8I) | 3:37 |
-| 74 | [High Free Spirits](https://open.spotify.com/track/5YEG7E2bTb59guO3kzR58M) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TAILWIND](https://open.spotify.com/album/6aQawPPAZQ83W5Iy5E702F) | 4:44 |
-| 75 | [adrenaline!!!](https://open.spotify.com/track/10Yk9WbT2840l1NK5RWvkq) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TAILWIND](https://open.spotify.com/album/6aQawPPAZQ83W5Iy5E702F) | 4:34 |
-| 76 | [華麗ワンターン](https://open.spotify.com/track/3E7PYVYZ5YfmeJpzEv4PYf) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [華麗ワンターン](https://open.spotify.com/album/5Gu4DBIvLsOtPIPXSBAG7Y) | 4:23 |
+| 56 | [GA\-TAN GO\-TON](https://open.spotify.com/track/4QXuB74odjuBPkvcyarFUW) | [中島怜](https://open.spotify.com/artist/7pQmC6NNs7KvWfrYKmqPbo) | [GA\-TAN GO\-TON](https://open.spotify.com/album/0r2X927CHzHzyCLojLAxg8) | 4:21 |
+| 57 | [迷星叫](https://open.spotify.com/track/5whZaLwjyjkLr75rRtmftL) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷跡波](https://open.spotify.com/album/6GBBqk1v5okNnioUXqMi7D) | 3:31 |
+| 58 | [壱雫空](https://open.spotify.com/track/1OVlUHWAK5KwWkWoLyMDjZ) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷跡波](https://open.spotify.com/album/6GBBqk1v5okNnioUXqMi7D) | 3:09 |
+| 59 | [影色舞](https://open.spotify.com/track/6MC5NKWAONf1YmNTEfom7I) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷跡波](https://open.spotify.com/album/6GBBqk1v5okNnioUXqMi7D) | 3:29 |
+| 60 | [碧天伴走](https://open.spotify.com/track/2fONHmoAIfMMklC7P9d6d1) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷跡波](https://open.spotify.com/album/6GBBqk1v5okNnioUXqMi7D) | 3:38 |
+| 61 | [音一会](https://open.spotify.com/track/2wjXoHFoZAPgSsyXMogQQa) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [音一会](https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN) | 4:42 |
+| 62 | [TTL](https://open.spotify.com/track/4NwRPoWzQT0JPGDkF42JBZ) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [恋愛ミリフィルム \(Complete Edition\)](https://open.spotify.com/album/48SVT8S7jkoU0kGISpMr09) | 3:42 |
+| 63 | [恋愛ミリフィルム](https://open.spotify.com/track/19BFUoZ7NSxD1toOmGRh6L) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [恋愛ミリフィルム](https://open.spotify.com/album/2KrmynsmgJbJLLOuAOn1fM) | 3:27 |
+| 64 | [センチメンタルクライシス](https://open.spotify.com/track/31fN64zoCHnWmFmPVmiVJT) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [Assortrip](https://open.spotify.com/album/21WfM8C9tr6u7MEZ4eWufZ) | 4:03 |
+| 65 | [誰彼スクランブル](https://open.spotify.com/track/0psSjxGt2lNnWYhZLLqBT6) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [誰彼スクランブル](https://open.spotify.com/album/3riDcXmPfyF8WRyiFUJOo3) | 4:28 |
+| 66 | [Good Luck Waker](https://open.spotify.com/track/5RAyZHSo1OlSJhDzjm5K42) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [Good Luck Waker](https://open.spotify.com/album/1LJgTHYnR11wmvCTUBFDwW) | 3:32 |
+| 67 | [Shekira](https://open.spotify.com/track/7lmoKU5kY1haRL1N1hiqzE) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Shekira](https://open.spotify.com/album/6omYirdfRVRWanhMVbCLBM) | 4:22 |
+| 68 | [スター宣言](https://open.spotify.com/track/2NXZ1iOG0zV0petFHEc3iG) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [WE WILL!!](https://open.spotify.com/album/1tOOzv1BUFulpiX5uiKnih) | 3:42 |
+| 69 | [キラーキューン☆](https://open.spotify.com/track/2xevuvQNCjevHHYP2VgDZn) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [MIRACLE NEW STORY](https://open.spotify.com/album/6GZVeBtYYQFdtQTXEcKD2V) | 3:17 |
+| 70 | [UNIVERSE!!](https://open.spotify.com/track/3KYIfwDTz5vFK6Op5ifWvd) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [UNIVERSE!!](https://open.spotify.com/album/1RK318IO7OR587IF7AnLve) | 4:22 |
+| 71 | [TO BE CONTINUED](https://open.spotify.com/track/0KHF63nvWLEID5ZEzwUKd3) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Sing！Shine！Smile！ / 未来の音が聴こえる \(第12話盤\)](https://open.spotify.com/album/7J38QZOcQfuuZixGxTDYGA) | 3:10 |
+| 72 | [かかわり](https://open.spotify.com/track/7MdTnv03MnwSoNDeADoxgf) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection](https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd) | 4:23 |
+| 73 | [はなれない距離](https://open.spotify.com/track/0pFaJy4xKLLb7QeAGUhEDF) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [はなれない距離](https://open.spotify.com/album/0kA9ILc9xJDnoJl3HXiRnH) | 3:41 |
+| 74 | [マイハートリバイバル](https://open.spotify.com/track/2W5gFliehqCrXVsmVcswHK) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [Re Bon Voyage](https://open.spotify.com/album/0cFsKEvhK04mcktNzfBv8I) | 3:37 |
+| 75 | [High Free Spirits](https://open.spotify.com/track/5YEG7E2bTb59guO3kzR58M) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TAILWIND](https://open.spotify.com/album/6aQawPPAZQ83W5Iy5E702F) | 4:44 |
+| 76 | [adrenaline!!!](https://open.spotify.com/track/10Yk9WbT2840l1NK5RWvkq) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TAILWIND](https://open.spotify.com/album/6aQawPPAZQ83W5Iy5E702F) | 4:34 |
+| 77 | [華麗ワンターン](https://open.spotify.com/track/3E7PYVYZ5YfmeJpzEv4PYf) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [華麗ワンターン](https://open.spotify.com/album/5Gu4DBIvLsOtPIPXSBAG7Y) | 4:23 |
 
-Snapshot ID: `MTcxMDAwMDA5NSwwMDAwMDAwMGNkY2NlYzAyY2M1NDQ5OGE4ZjQ3YjJkY2M0ZTBiMDYy`
+Snapshot ID: `MTcxMjkzNjUyMiwwMDAwMDAwMDAwMGE0OTkxNmRmOWI0MGI5NDVlZDIyMTM0NGU4NGY2`

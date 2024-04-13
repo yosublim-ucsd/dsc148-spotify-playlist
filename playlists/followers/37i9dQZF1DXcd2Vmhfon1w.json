@@ -1,7 +1,7 @@
 {
-  "2024-04-12": 522782,
+  "2024-04-13": 522876,
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Foyone",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Waor y Midas Alonso.",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -1011,7 +1011,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 148000,
       "name": "Botafumeiro",
       "url": "https://open.spotify.com/track/3zTI1mbujOoDWfGsS4fNe0"
@@ -1091,7 +1091,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 163561,
       "name": "Cada Loco Con Su Tema",
       "url": "https://open.spotify.com/track/0kUUX7FklcEBqjdpCFKoVU"
@@ -1187,7 +1187,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 185070,
       "name": "Causas Pendientes",
       "url": "https://open.spotify.com/track/4SbWwVQCjv5DaxeKv1JNxW"
@@ -1438,6 +1438,24 @@
     },
     {
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/4LEvGrDYVOXwoHU5oKK6Hj"
+      },
+      "artists": [
+        {
+          "name": "Kadec Santa Anna",
+          "url": "https://open.spotify.com/artist/2EGMWC98kT000LbqnDYwhW"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126133,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/78a5qkSvP2xrcaxtfMKmAx"
+    },
+    {
+      "album": {
         "name": "Free Delivery",
         "url": "https://open.spotify.com/album/16a8H0Io8HZQQkkuMC0G1N"
       },
@@ -1585,6 +1603,28 @@
       "duration_ms": 194991,
       "name": "De Los M\u00edos",
       "url": "https://open.spotify.com/track/6642UGRd8Ts5NoXTGGomwx"
+    },
+    {
+      "album": {
+        "name": "Demenciales",
+        "url": "https://open.spotify.com/album/5Yy4rwXZXN8sWRCfE0V5xn"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Prok",
+          "url": "https://open.spotify.com/artist/690kydOVFha4Ri8kieEQ31"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121301,
+      "name": "Demenciales",
+      "url": "https://open.spotify.com/track/0UJPAOOmj7KGoQgv1ytKuu"
     },
     {
       "album": {
@@ -2081,10 +2121,28 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 198000,
       "name": "En paz",
       "url": "https://open.spotify.com/track/4HfpCkM49AvLGQLymMQVoB"
+    },
+    {
+      "album": {
+        "name": "Esos Ni\u00f1os",
+        "url": "https://open.spotify.com/album/3GIxXfCKwaWZa3shfUvmmN"
+      },
+      "artists": [
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/6c4WWQ2PYJlgnxtkQKqI5s"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203705,
+      "name": "Esos Ni\u00f1os",
+      "url": "https://open.spotify.com/track/13iOTveZDkdLq9dIAulF6X"
     },
     {
       "album": {
@@ -2129,6 +2187,28 @@
       "duration_ms": 154736,
       "name": "Expl\u00edcito",
       "url": "https://open.spotify.com/track/0g99Wc6vw9Wnzhb1ORyPub"
+    },
+    {
+      "album": {
+        "name": "Extrarradio",
+        "url": "https://open.spotify.com/album/1RS3xDZvmrIk5ILk5yXfm0"
+      },
+      "artists": [
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        },
+        {
+          "name": "Midas Alonso",
+          "url": "https://open.spotify.com/artist/4YbohdhSehUUc7RT3STcKW"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241507,
+      "name": "Extrarradio",
+      "url": "https://open.spotify.com/track/06BxQZX22lQE3p6iOVzDV1"
     },
     {
       "album": {
@@ -2257,6 +2337,28 @@
       "duration_ms": 194645,
       "name": "Foyonestein",
       "url": "https://open.spotify.com/track/3MW1qWwvjUgXMgFmJhc6mq"
+    },
+    {
+      "album": {
+        "name": "Frases Cortas",
+        "url": "https://open.spotify.com/album/5x3PmSsIOSKhmQdrd1vGna"
+      },
+      "artists": [
+        {
+          "name": "SWIT EME",
+          "url": "https://open.spotify.com/artist/51UDJfCuXko0jNa0wdN9Cz"
+        },
+        {
+          "name": "DENEK",
+          "url": "https://open.spotify.com/artist/3pPQMi2WR2p82vP6GZezEZ"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Frases Cortas",
+      "url": "https://open.spotify.com/track/6rKpKUoeSldAhfDgmSR92l"
     },
     {
       "album": {
@@ -2747,6 +2849,32 @@
       "duration_ms": 193165,
       "name": "Ja Morant",
       "url": "https://open.spotify.com/track/74Y6PcHH1FU0ZXb34GHbsB"
+    },
+    {
+      "album": {
+        "name": "Jove",
+        "url": "https://open.spotify.com/album/1mPtqibOsDaDsFwEDNFup5"
+      },
+      "artists": [
+        {
+          "name": "Sara Hebe",
+          "url": "https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW"
+        },
+        {
+          "name": "Santa Salut",
+          "url": "https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH"
+        },
+        {
+          "name": "Ramiro Jota",
+          "url": "https://open.spotify.com/artist/643hBnrVfRzLm6Kz9YYfga"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137574,
+      "name": "Jove",
+      "url": "https://open.spotify.com/track/4f4V6yEu8qBRpbunequTUp"
     },
     {
       "album": {
@@ -3384,7 +3512,7 @@
     },
     {
       "album": {
-        "name": "loca",
+        "name": "Loca",
         "url": "https://open.spotify.com/album/7L4PkBeVyXWeQ7T1wXfgUf"
       },
       "artists": [
@@ -3431,7 +3559,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 213109,
       "name": "LUCES AZULES",
       "url": "https://open.spotify.com/track/6x4XndxEfWD86QS9eDQDfa"
@@ -4986,6 +5114,24 @@
     },
     {
       "album": {
+        "name": "Pap\u00e1",
+        "url": "https://open.spotify.com/album/0iPmCzVbjjyPM7zZVbSaIa"
+      },
+      "artists": [
+        {
+          "name": "Sh\u00e9",
+          "url": "https://open.spotify.com/artist/5GdP5J5VnVvhY0HzsYMcUK"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281712,
+      "name": "Pap\u00e1",
+      "url": "https://open.spotify.com/track/7How37pGKp8eoEwpZr8n99"
+    },
+    {
+      "album": {
         "name": "Par\u00e9ntesis",
         "url": "https://open.spotify.com/album/4Rq2Vuw08cqp74BqAS4QH9"
       },
@@ -5613,7 +5759,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 136910,
       "name": "Shhh",
       "url": "https://open.spotify.com/track/4yv1ucezeWmvROlPw5jHgN"
@@ -6064,6 +6210,32 @@
     },
     {
       "album": {
+        "name": "Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/3hEYp3BxgRX4hwTz8COjI5"
+      },
+      "artists": [
+        {
+          "name": "RADE",
+          "url": "https://open.spotify.com/artist/2Be5gecyvPCbsLUp0o6k6h"
+        },
+        {
+          "name": "Franckvit",
+          "url": "https://open.spotify.com/artist/4gBRCPrNVKcPmsLTjIMqDG"
+        },
+        {
+          "name": "Ocer y Rade",
+          "url": "https://open.spotify.com/artist/0fgRCULXpG4okFdlpat4e3"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/5F47PWIIuPI7yOvzk4cDpk"
+    },
+    {
+      "album": {
         "name": "Tenerte Cerca",
         "url": "https://open.spotify.com/album/42Au6N1K5Vd6sglRHpVvQm"
       },
@@ -6469,7 +6641,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 162858,
       "name": "Venom",
       "url": "https://open.spotify.com/track/27J91XekBNLcwVzH9n89qi"
@@ -6741,7 +6913,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 243958,
       "name": "Yugen",
       "url": "https://open.spotify.com/track/1w0i0uaScVuzsv2bG4uLGs"

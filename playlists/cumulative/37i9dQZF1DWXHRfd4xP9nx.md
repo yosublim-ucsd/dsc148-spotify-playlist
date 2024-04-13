@@ -4,7 +4,7 @@
 
 > Uma chuva calma e tranquila para te fazer companhia.
 
-337 songs - 15 hr 49 min
+338 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Rain On the PorchPop Notch Music](https://open.spotify.com/track/5Sl5wOIQFtBAolYgdkVGB4) | [Skies of Rain](https://open.spotify.com/artist/5zXNGEbDUFyv5w4jN9V496) | [Drops Of Rain](https://open.spotify.com/album/6CnU8uUkd2rIGzOytJuQao) | 2:20 | 2022-10-27 |  |
 | [Rain On The Rooftop](https://open.spotify.com/track/4M2Ig5mHw3p3H1OJwutuyO) | [DreamDrops](https://open.spotify.com/artist/20XfshUALsTbm05gj6Ea5M) | [Fairytale Rain](https://open.spotify.com/album/7qZG7K1lwjwOzgRZZeyiPL) | 3:10 | 2023-12-20 |  |
 | [Rain Puddles](https://open.spotify.com/track/44h5mvTeasof8sPZdCNQVS) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Rain Retreat](https://open.spotify.com/album/5nZQJ6ZrHDQpur9sl6Xpkl) | 2:50 | 2022-10-27 |  |
+| [Rain Shower Escape](https://open.spotify.com/track/5WQDRWTEKnV0Ir7sxtScuE) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Dreamy Rainfall Sanctuary](https://open.spotify.com/album/7b4PM1EEftuYszBXYpFvNw) | 3:20 | 2024-03-21 |  |
 | [Rain Sky Pt\. 1](https://open.spotify.com/track/1mWWaKRiywpw4CSULMpOAa) | [Olvidara](https://open.spotify.com/artist/4AbWC5jrOCMHtDTN0lsGjJ) | [Rain Sky](https://open.spotify.com/album/0b60bEwgXWSLIRymKUEFVR) | 2:04 | 2022-10-27 |  |
 | [Rain Sky Samples 1](https://open.spotify.com/track/6xIpFNG8oUqoclkjMLEhKu) | [X.L.T](https://open.spotify.com/artist/5XmANDHn1nUVL3rVyohz9t) | [Rain Sky Samples](https://open.spotify.com/album/79baeTtmEP140NIkW9JdRY) | 2:52 | 2023-12-20 |  |
 | [Rain Sounds in Palomino](https://open.spotify.com/track/7aOB9gLVYOIowhC3kx5opd) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Tropical Rain Sounds \- Colombia](https://open.spotify.com/album/1o6MUAVUhkL7FlvuV5cND8) | 2:19 | 2024-03-21 |  |
@@ -283,7 +284,7 @@
 | [Sleep Rain in Nature](https://open.spotify.com/track/5vNsQqP4iqNL5UvK3XCKRf) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Forest Rain](https://open.spotify.com/album/2Be1a696TMJVycuCb9gzIV) | 2:18 | 2022-10-27 |  |
 | [Sleepy Raindrops](https://open.spotify.com/track/01Mgf3GGm5oEzUcwPRHROa) | [Rain Rec.](https://open.spotify.com/artist/0EUOUMWVFwBTkjzcJrgQJQ) | [Reclining Rain](https://open.spotify.com/album/09GQWPwVu5vnqtis8Sm9Zv) | 3:28 | 2022-10-27 |  |
 | [Slumber Rain](https://open.spotify.com/track/2pUhY7tWx8egpw2qn84iSi) | [Nature Of Sweden](https://open.spotify.com/artist/7kgwMm8d2igABad4wfEKti) | [Rainy Mind](https://open.spotify.com/album/0dk1131P27XQgkbt8bbkiU) | 2:26 | 2022-10-27 |  |
-| [Slumber Rain](https://open.spotify.com/track/2vak5zHVWQ5cmKX7Msm3Bi) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Relaxed Outdoor Recordings](https://open.spotify.com/album/4jTv3LXuYqblyFqiAyZsMK) | 3:01 | 2024-03-21 |  |
+| [Slumber Rain](https://open.spotify.com/track/2vak5zHVWQ5cmKX7Msm3Bi) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Relaxed Outdoor Recordings](https://open.spotify.com/album/4jTv3LXuYqblyFqiAyZsMK) | 3:01 | 2024-03-21 | 2024-04-13 |
 | [Smooth Rain](https://open.spotify.com/track/2aqWJpAR0TiDZAEmWpiGGI) | [TELEKROME](https://open.spotify.com/artist/74hvVWKEz8DlYrkKrE97TV) | [Rain Sounds](https://open.spotify.com/album/0WRI6oCy41nI6BPA0pxsRi) | 3:03 | 2022-10-27 | 2023-12-21 |
 | [Soft Rain](https://open.spotify.com/track/1fBxbZ4Lt76i1ZRyrhTi4D) | [Rain In Spain](https://open.spotify.com/artist/5eDzrKBgV4C8kovSd9vup9) | [Part 1](https://open.spotify.com/album/20wvLsO0wBMd2L2bLGHSUK) | 2:55 | 2022-10-27 | 2023-12-21 |
 | [Soft Rain](https://open.spotify.com/track/7uhhqbiteyUoklYOyVnxQM) | [Yoga Rain](https://open.spotify.com/artist/78AN2phg9cUz8scFyKFVIz) | [Soft Rain](https://open.spotify.com/album/77ylajNLXTih9sHLxs9cGo) | 2:02 | 2023-12-20 |  |

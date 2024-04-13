@@ -720,7 +720,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 509565,
       "name": "Are You Asleep",
       "url": "https://open.spotify.com/track/0NlD7sv0IzX4frMC3WopqC"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 307500,
       "name": "Blades",
       "url": "https://open.spotify.com/track/6uTgpkk3rOac1dCaPuKZKI"
@@ -1627,6 +1627,28 @@
     },
     {
       "album": {
+        "name": "look at me but through me",
+        "url": "https://open.spotify.com/album/2Nin3ZwsF1sdkYt2rMkiIb"
+      },
+      "artists": [
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+        },
+        {
+          "name": "Hailes",
+          "url": "https://open.spotify.com/artist/5D4DYVjwfm0svv1kD4QnKR"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253386,
+      "name": "caught up",
+      "url": "https://open.spotify.com/track/18rUsFjE2GoJaO2eesZtUP"
+    },
+    {
+      "album": {
         "name": "SUPER DANCE TOOLS Vol.3",
         "url": "https://open.spotify.com/album/5fDkGCqwf24otf3P2fwzV9"
       },
@@ -2010,7 +2032,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 463846,
       "name": "Convenient Fetish",
       "url": "https://open.spotify.com/track/4UcIq4MBVMrZpzXRxd7ewq"
@@ -2180,6 +2202,28 @@
       "duration_ms": 517977,
       "name": "CYGNUS - Another Take",
       "url": "https://open.spotify.com/track/5z32XED6Qp2ed7xZRIEKZ4"
+    },
+    {
+      "album": {
+        "name": "Deadlift EP",
+        "url": "https://open.spotify.com/album/3VjAevSxvM8DZ35drrofO3"
+      },
+      "artists": [
+        {
+          "name": "Allen Mock",
+          "url": "https://open.spotify.com/artist/1FWowTsaucHkPDgmAGGk4T"
+        },
+        {
+          "name": "Lowki",
+          "url": "https://open.spotify.com/artist/51If4Xoq3EAp0IE0wwE1F2"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356571,
+      "name": "D40",
+      "url": "https://open.spotify.com/track/4kmuw8IApJvIxr7x5225wQ"
     },
     {
       "album": {
@@ -7167,6 +7211,24 @@
     },
     {
       "album": {
+        "name": "Maldoror",
+        "url": "https://open.spotify.com/album/36MGzpmB31aUlUTXC3cyhl"
+      },
+      "artists": [
+        {
+          "name": "ID",
+          "url": "https://open.spotify.com/artist/6w5bXGgWBZmZ06TrNDykFj"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215486,
+      "name": "Maldoror",
+      "url": "https://open.spotify.com/track/1fH209kMTqMxRaN2DMYDd5"
+    },
+    {
+      "album": {
         "name": "A Mixtape by Anish Kumar",
         "url": "https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g"
       },
@@ -8653,6 +8715,24 @@
     },
     {
       "album": {
+        "name": "Phenomeno",
+        "url": "https://open.spotify.com/album/4Z8iqDa6wdIb4GTREZ1n1l"
+      },
+      "artists": [
+        {
+          "name": "Tohji",
+          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165244,
+      "name": "Phenomeno",
+      "url": "https://open.spotify.com/track/1A2zvkHDQ8adalZv4gPBWR"
+    },
+    {
+      "album": {
         "name": "Phoenix (Theon Cross Remix)",
         "url": "https://open.spotify.com/album/3JUeHROdXb6FEGxs5KCPKN"
       },
@@ -8978,7 +9058,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 327894,
       "name": "Queen - Dan Kye Remix",
       "url": "https://open.spotify.com/track/6R8VPBAucL2CBoW06RfBva"
@@ -10102,6 +10182,28 @@
       "duration_ms": 157745,
       "name": "Silence Is Loud",
       "url": "https://open.spotify.com/track/1LqFMtMW44W8XQ1OtV43gg"
+    },
+    {
+      "album": {
+        "name": "Simple Times",
+        "url": "https://open.spotify.com/album/5keWYf9jGTOgS4AjKYgq13"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254314,
+      "name": "Simple Times",
+      "url": "https://open.spotify.com/track/29ePEJHqeyGamy2UqDIHtY"
     },
     {
       "album": {
@@ -11568,7 +11670,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 260385,
       "name": "Tokyo Street",
       "url": "https://open.spotify.com/track/6v0d5RCNZBEyyJpIMK9Kzr"

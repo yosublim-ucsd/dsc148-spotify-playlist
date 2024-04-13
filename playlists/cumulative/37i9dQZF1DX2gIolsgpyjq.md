@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: Stuzzi
 
-245 songs - 12 hr 42 min
+246 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Spirit](https://open.spotify.com/track/7JbPqvmxTO7o0hWYkYUN1a) | [Daghem](https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi) | [Daghem](https://open.spotify.com/album/10t35xGOekaWJBOGVuQ0so) | 3:53 | 2024-02-08 | 2024-03-01 |
 | [Spiritual](https://open.spotify.com/track/7J8MgM8HmuQTxGNYPwLrIm) | [Nora Toure](https://open.spotify.com/artist/3Mo1ZXmpbD9cckUQTtXiBS) | [Spiritual](https://open.spotify.com/album/6K192L7pJDSElioTy7JboN) | 3:32 | 2024-04-04 |  |
 | [stalling](https://open.spotify.com/track/3d0mn1w9UcUKJeP7HAz79Y) | [Alex Hagen](https://open.spotify.com/artist/7qZBzygfPUSIn3VAO1QybW) | [stalling](https://open.spotify.com/album/0L6VqERMXsjumQujcsquxe) | 1:42 | 2024-02-08 | 2024-02-16 |
+| [Stay](https://open.spotify.com/track/2vFDKP9FBZzxl3N1RcpR3E) | [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN), [Slackin Beats](https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw) | [Stay](https://open.spotify.com/album/2W16r4Pobhg7TG2aak050I) | 3:32 | 2024-04-11 |  |
 | [Still](https://open.spotify.com/track/4qX40wctWS2UDOtiY5voke) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Still](https://open.spotify.com/album/6CELXl3HDRcTjhqgq5HQDm) | 2:58 | 2024-03-21 |  |
 | [Still There](https://open.spotify.com/track/1eYvqR80lpoEncDOU6mQnU) | [Zekl](https://open.spotify.com/artist/2SHXLydniWMUiAR6eIuS5u) | [Still There](https://open.spotify.com/album/0svlMqpYWzZ7WMEYbtgpky) | 3:30 | 2024-03-21 |  |
 | [Sucker](https://open.spotify.com/track/34mMgNBi8M0sC79pOhiqeb) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Sucker](https://open.spotify.com/album/4prePkK24oG7oI8k423sD5) | 2:27 | 2024-04-11 |  |

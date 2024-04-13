@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Clau
 
-721 songs - 1 day 12 hr 20 min
+722 songs - 1 day 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,7 +473,8 @@
 | [Passarinho](https://open.spotify.com/track/0p1slIKTqrmSudYxd6XUP8) | [Gabriel Froede](https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx), [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Passarinho](https://open.spotify.com/album/6hNdkT4xZMvF9z6IR2ZnKa) | 2:37 | 2023-06-16 | 2023-08-26 |
 | [Patipapa](https://open.spotify.com/track/0ERFK8AQaBl0R0ql8I2KpT) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [Patipapa](https://open.spotify.com/album/7vy2f8OwWWBA4DKZkox2u5) | 2:20 | 2023-11-24 |  |
 | [Pecadinho](https://open.spotify.com/track/12NSz6DgkBEvZIZAb4wQuU) | [Liza Lou](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [Duda Brack](https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab) | [Pecadinho](https://open.spotify.com/album/5eEjkPXz861G8vEbKUvs83) | 2:06 | 2024-01-19 | 2024-03-09 |
-| [Pede Pra Eu Ficar \(Listen To Your Heart\)](https://open.spotify.com/track/597FnKApiz3TfkE8MB1wom) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Pede Pra Eu Ficar \(Listen To Your Heart\)](https://open.spotify.com/album/4d44mgau5zT5kYTcIvbHoj) | 3:12 | 2024-01-19 |  |
+| [Pede Pra Eu Ficar \(Listen To Your Heart\)](https://open.spotify.com/track/2tGa2W0M58Nv3KJnEacRMb) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/4vWvJUynYR1cdGjyyWGeei) | 3:12 | 2024-03-29 |  |
+| [Pede Pra Eu Ficar \(Listen To Your Heart\)](https://open.spotify.com/track/597FnKApiz3TfkE8MB1wom) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Pede Pra Eu Ficar \(Listen To Your Heart\)](https://open.spotify.com/album/4d44mgau5zT5kYTcIvbHoj) | 3:12 | 2024-01-19 | 2024-04-13 |
 | [PEGADA DE CRIA](https://open.spotify.com/track/1W5wFjPqDDKv8tSLHQ2VPt) | [Lellê](https://open.spotify.com/artist/5RNZjjf0s20cEXRfCbQ8pY) | [TRI ÂNGULOS](https://open.spotify.com/album/35xX4lBuUsBuUmXOUk1t6Z) | 1:59 | 2023-12-01 | 2024-01-20 |
 | [Pegada de Vilã](https://open.spotify.com/track/0QNyFrnE4O6E4ZJDRvBuWm) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [93](https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ) | 2:38 | 2023-08-25 | 2024-02-17 |
 | [Penetra \- Pedro Sampaio Remix](https://open.spotify.com/track/7j3doxjvebuL0ESuTIHFlA) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [O Kannalha](https://open.spotify.com/artist/074zrnA9SL424EnrYgoKmq), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [After](https://open.spotify.com/album/3ihmqghhBO5ZVx01RpYp5R) | 2:30 | 2023-07-28 | 2023-09-16 |

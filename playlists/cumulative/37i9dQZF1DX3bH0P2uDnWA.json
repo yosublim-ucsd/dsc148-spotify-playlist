@@ -1029,6 +1029,28 @@
     },
     {
       "album": {
+        "name": "Comme ci, comme \u00e7a",
+        "url": "https://open.spotify.com/album/0WKOxQ7A0U91t62TDtvb6d"
+      },
+      "artists": [
+        {
+          "name": "Pisk",
+          "url": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
+        },
+        {
+          "name": "Serena Ganci",
+          "url": "https://open.spotify.com/artist/40plQdyIR6iYA5lLTJ0vLz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185345,
+      "name": "Comme ci, comme \u00e7a",
+      "url": "https://open.spotify.com/track/7fOMXGitBDPOR8aD0Kuvax"
+    },
+    {
+      "album": {
         "name": "Cookie Monster (Atom Smith Remix)",
         "url": "https://open.spotify.com/album/2xhOnFUsQM8HDW8WMtXvQs"
       },
@@ -7356,7 +7378,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 193133,
       "name": "Wicked",
       "url": "https://open.spotify.com/track/2FWr5t418BxiNKelwLlxnV"

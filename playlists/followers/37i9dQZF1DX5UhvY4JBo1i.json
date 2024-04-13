@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 96366,
+  "2024-04-13": 97476,
   "date_first_scraped": "2022-10-02",
   "description": "Enjoy music from \"Detective Conan\"! \u6620\u753b\u300c\u540d\u63a2\u5075\u30b3\u30ca\u30f3\u300d\u30b7\u30ea\u30fc\u30ba\u306e\u4e16\u754c\u3092\u5f69\u308b\u97f3\u697d\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a92024 \u9752\u5c71\u525b\u660c\uff0f\u540d\u63a2\u5075\u30b3\u30ca\u30f3\u88fd\u4f5c\u59d4\u54e1\u4f1a",
   "name": "Detective Conan \u540d\u63a2\u5075\u30b3\u30ca\u30f3",
@@ -1886,6 +1886,24 @@
     },
     {
       "album": {
+        "name": "\u5287\u5834\u7248\u300e\u540d\u63a2\u5075\u30b3\u30ca\u30f3 100\u4e07\u30c9\u30eb\u306e\u4e94\u7a1c\u661f\uff08\u307f\u3061\u3057\u308b\u3079\uff09\u300f\u670d\u90e8\u5e73\u6b21\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8\uff01",
+        "url": "https://open.spotify.com/album/0IxVu1A7uA7WTCHJcOuHAm"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u540d\u63a2\u5075\u30b3\u30ca\u30f3 100\u4e07\u30c9\u30eb\u306e\u4e94\u7a1c\u661f\uff08\u307f\u3061\u3057\u308b\u3079\uff09\u300f",
+          "url": "https://open.spotify.com/artist/7BWZsYErxiT1PMDAcMVtxY"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29340,
+      "name": "\u670d\u90e8\u5e73\u6b21\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8\uff01",
+      "url": "https://open.spotify.com/track/0SFw1KwH6ltFqzrhST2hGs"
+    },
+    {
+      "album": {
         "name": "\u6c37\u306e\u4e0a\u306b\u7acb\u3064\u3088\u3046\u306b",
         "url": "https://open.spotify.com/album/7nkOwUDE4gjDVPBAX9jfxI"
       },
@@ -2063,6 +2081,24 @@
       "duration_ms": 286833,
       "name": "\u767d\u3044\u96ea",
       "url": "https://open.spotify.com/track/6HUtNDLQQHlTXgXBQM15uA"
+    },
+    {
+      "album": {
+        "name": "\u76f8\u601d\u76f8\u611b",
+        "url": "https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260903,
+      "name": "\u76f8\u601d\u76f8\u611b",
+      "url": "https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi"
     },
     {
       "album": {

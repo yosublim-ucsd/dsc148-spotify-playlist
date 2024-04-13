@@ -4,7 +4,7 @@
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-227 songs - 13 hr 46 min
+231 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Aftermath](https://open.spotify.com/track/5L7IV2oz935HS8kekbIneh) | [David Wingo](https://open.spotify.com/artist/7mRf8eSpaoh4FD8D4mtvRk) | [Mud \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/713MVG5cxRcOHLPsqVKRCD) | 2:17 | 2021-10-26 |  |
 | [Airwalkin'](https://open.spotify.com/track/3nay2OjMdoZwdf9Tc1dDFc) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW) | [Out In The World](https://open.spotify.com/album/5xSRTWBpIFJZZGGRjxNP4F) | 3:35 | 2021-10-26 |  |
 | [Anything Could Happen](https://open.spotify.com/track/7p6nk4JQDZjJHxizpz94MX) | [The Clean](https://open.spotify.com/artist/6LRmgzRManplPQghd2BMqz) | [Compilation](https://open.spotify.com/album/1sNHc2B3axMQJVjAEbjhJ5) | 2:37 | 2023-02-23 |  |
-| [Astral Man](https://open.spotify.com/track/4Ig9HspUaKy2cz6YA8pb6O) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [The Nude Party](https://open.spotify.com/album/7eL0YCyfl9aaNuzt3gn23Q) | 5:34 | 2023-02-03 |  |
+| [Astral Man](https://open.spotify.com/track/3sHsj2ZWGqGek6nd9dZexV) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [The Nude Party](https://open.spotify.com/album/17A5r0sO2zpmsEsWXm3GBb) | 5:34 | 2023-03-01 |  |
+| [Astral Man](https://open.spotify.com/track/4Ig9HspUaKy2cz6YA8pb6O) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [The Nude Party](https://open.spotify.com/album/7eL0YCyfl9aaNuzt3gn23Q) | 5:34 | 2023-02-03 | 2024-04-13 |
 | [Automatic](https://open.spotify.com/track/4hBNUgMmAm0lrMilgd4RVW) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [Automatic](https://open.spotify.com/album/6HZdegsn0zx40Qo7FvqGPq) | 3:04 | 2023-02-23 |  |
 | [Baby Why](https://open.spotify.com/track/0I6g8aa5qwDmK8g4gUS8LH) | [The Cables](https://open.spotify.com/artist/7w8k2o1qnc2FXFq5o48ZJV) | [What Kind of World](https://open.spotify.com/album/6oCEHWNjXieygQN2mYKL25) | 5:14 | 2023-03-01 |  |
 | [Baby Why](https://open.spotify.com/track/7lTLHyXU0OvDf0Es0PffpS) | [The Cables](https://open.spotify.com/artist/7w8k2o1qnc2FXFq5o48ZJV) | [What Kind of World](https://open.spotify.com/album/76PUXnKLSKNPLih9haUnau) | 5:14 | 2021-10-26 | 2023-04-29 |
@@ -69,7 +70,8 @@
 | [Fitzpleasure](https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:39 | 2023-02-03 |  |
 | [Fun](https://open.spotify.com/track/4v7prkc928rArBPIwxGJKa) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Fragments](https://open.spotify.com/album/0sr9FWHQ3ckzVkFYk3NPrL) | 3:17 | 2021-10-26 |  |
 | [Give Love A Try](https://open.spotify.com/track/4i00ONewCjrYXz4VZbIMw5) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Meets Sly & Robbie Downtown](https://open.spotify.com/album/2aCP5RN7FDS11gIurk5nvK) | 2:14 | 2021-10-26 |  |
-| [Gringo Che](https://open.spotify.com/track/59kMIeaoC2tJcVqMmrUt0x) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [The Nude Party](https://open.spotify.com/album/7eL0YCyfl9aaNuzt3gn23Q) | 3:46 | 2023-02-23 |  |
+| [Gringo Che](https://open.spotify.com/track/59kMIeaoC2tJcVqMmrUt0x) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [The Nude Party](https://open.spotify.com/album/7eL0YCyfl9aaNuzt3gn23Q) | 3:46 | 2023-02-23 | 2024-04-13 |
+| [Gringo Che](https://open.spotify.com/track/7nBHDoLweT5dr455uyxruH) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [The Nude Party](https://open.spotify.com/album/17A5r0sO2zpmsEsWXm3GBb) | 3:46 | 2023-03-01 |  |
 | [Guajira sicodélica](https://open.spotify.com/track/7BCox4yFBBdHflBRfp82ji) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [Sicodélicos](https://open.spotify.com/album/03wLLXfyRT2uos4kZnufCo) | 3:31 | 2023-02-23 | 2024-04-09 |
 | [Guajira Sicodélica](https://open.spotify.com/track/0oucyVmfZtpU608vpYA1rs) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [Sicodélicos](https://open.spotify.com/album/5UBnoa7wdR6WVRXh4Boj12) | 3:32 | 2023-03-01 |  |
 | [Gypsy Queen](https://open.spotify.com/track/5og3nbiR4hZ24Ij6ue6i3n) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG) | [Spellbinder](https://open.spotify.com/album/0Ri88poJN9bsj8k66O00mV) | 5:13 | 2023-02-23 |  |
@@ -181,7 +183,8 @@
 | [Sandman](https://open.spotify.com/track/4UuL6goVDXswWgRGQiYHki) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Bad Behavior](https://open.spotify.com/album/7nfhqcOW8XRHZvvocev5ZF) | 3:12 | 2021-10-26 | 2023-12-14 |
 | [Silver Timothy](https://open.spotify.com/track/0dRM84FDv9MN2HGnuJsSCi) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Brothers and Sisters of the Eternal Son \(Deluxe Edition\)](https://open.spotify.com/album/1RRHi23DOwVOwimc3BjnBv) | 3:16 | 2023-02-23 |  |
 | [Simé Love](https://open.spotify.com/track/66C8WrKjSSolC9gaL9M7sr) | [Dowdelin](https://open.spotify.com/artist/1ogaqCgdEnTy7M5jO0tMue) | [Lanmou Lanmou](https://open.spotify.com/album/5I7tMruynWvRRRMgmUnZN0) | 3:30 | 2023-02-23 |  |
-| [Sold out of Love](https://open.spotify.com/track/6BKpJ2pDPixM3Nwqhr9999) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Sold out of Love](https://open.spotify.com/album/6IScP3wFdmrD6dmlbQaN1F) | 4:19 | 2023-03-01 |  |
+| [Sold out of Love](https://open.spotify.com/track/6BKpJ2pDPixM3Nwqhr9999) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Sold out of Love](https://open.spotify.com/album/6IScP3wFdmrD6dmlbQaN1F) | 4:19 | 2023-03-01 | 2024-04-13 |
+| [Sold out of Love](https://open.spotify.com/track/7l24yEocXMnG3b4BiYEKCa) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Rides On](https://open.spotify.com/album/2lu9WD2gKfgX0YlgP7o2vu) | 4:19 | 2023-03-01 |  |
 | [Something That You're Missing](https://open.spotify.com/track/1feFU0PFJYCySHLBxZUZ8V) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Sol Del Sur](https://open.spotify.com/album/26WIJQq5d9NkiE2mPNvjJ8) | 2:50 | 2021-10-26 | 2022-07-29 |
 | [Something That You're Missing](https://open.spotify.com/track/24QqUt4VHZIYg5LYnl4MeA) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Sol Del Sur](https://open.spotify.com/album/24tZ8bH69NK3fmxSuQ10UO) | 2:50 | 2021-10-26 | 2022-10-14 |
 | [Something That You're Missing](https://open.spotify.com/track/2uYozG9El78dWTKLReHMI2) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Sol Del Sur](https://open.spotify.com/album/5Lw6V8cz834Wa097FaphAn) | 2:50 | 2021-10-26 |  |
@@ -211,7 +214,8 @@
 | [The W.A.N.D.](https://open.spotify.com/track/2frHiHPVkiNCBMPkYF83Jr) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [At War with the Mystics](https://open.spotify.com/album/6oVaKzODiXqew6MScEd7T4) | 3:42 | 2021-10-26 |  |
 | [There's A Place](https://open.spotify.com/track/1dNDxVM1HDpdKgon58QvtU) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Pacific](https://open.spotify.com/album/3zjU4Uu8DvEBpnsHbLDvyQ) | 6:08 | 2023-02-23 |  |
 | [Things Fall Apart](https://open.spotify.com/track/4zpAqRoQpDk8DW1dbgwT3c) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 4:37 | 2023-02-23 |  |
-| [Time Moves On](https://open.spotify.com/track/7s10VGMnD39Brqpaem8km2) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Midnight Manor](https://open.spotify.com/album/3OePCCzmF2nfuEJWQ521eQ) | 4:56 | 2023-02-23 |  |
+| [Time Moves On](https://open.spotify.com/track/1MM99OUIbL61UbHm6VrO3w) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Midnight Manor](https://open.spotify.com/album/41xiR82s0XfJTghApPEJQG) | 4:56 | 2023-03-01 |  |
+| [Time Moves On](https://open.spotify.com/track/7s10VGMnD39Brqpaem8km2) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Midnight Manor](https://open.spotify.com/album/3OePCCzmF2nfuEJWQ521eQ) | 4:56 | 2023-02-23 | 2024-04-13 |
 | [Too Young to Burn](https://open.spotify.com/track/2wygBuUWMXrQujBBlwhDCL) | [Sonny & The Sunsets](https://open.spotify.com/artist/67zR9a98QqWJwpO7wBrGog) | [Tomorrow Is Alright](https://open.spotify.com/album/7K4eMOq0MLq6aQz7Zjkjkh) | 3:19 | 2021-10-26 |  |
 | [Under My Tongue](https://open.spotify.com/track/2OikEBxAnm5UfC0Ag6VCsa) | [Katastro](https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5) | [Strange Nights](https://open.spotify.com/album/0XYNxkfhrnGvbmyOrfcx83) | 2:54 | 2021-10-26 |  |
 | [Unholy Water](https://open.spotify.com/track/6mHVjUXnlKkL6QuzWrMJB6) | [John Pearson](https://open.spotify.com/artist/6IEFxETlf7tJrUh7bxTJsG), [Chase Perryman](https://open.spotify.com/artist/5OSeubQCEvvJFhLA5DRwGZ) | [Unholy Water](https://open.spotify.com/album/5CPC5xSw0J7qwPVRZqOpOV) | 3:09 | 2021-10-26 |  |

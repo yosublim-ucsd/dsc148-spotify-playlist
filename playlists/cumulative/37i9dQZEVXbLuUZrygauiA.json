@@ -8088,7 +8088,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 152560,
       "name": "Dame Chance (Rayuela)",
       "url": "https://open.spotify.com/track/2czAQ067Yr4PTyCA22I1Pe"
@@ -14666,6 +14666,24 @@
       "duration_ms": 66254,
       "name": "Hoy como est\u00e1 carnal?",
       "url": "https://open.spotify.com/track/4cP7xE1NMPuVedrHNQaHfU"
+    },
+    {
+      "album": {
+        "name": "Hoy Me Levante",
+        "url": "https://open.spotify.com/album/6iACmfNl8nh29Q2zyzU3eh"
+      },
+      "artists": [
+        {
+          "name": "Andrey Serrano",
+          "url": "https://open.spotify.com/artist/2yB8dRPQY4YUANJyGdqyzO"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "Hoy Me Levante",
+      "url": "https://open.spotify.com/track/47XJCOFQ2XDuceQya7xDU1"
     },
     {
       "album": {
@@ -23386,7 +23404,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 170541,
       "name": "obsessed",
       "url": "https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8"
@@ -26087,6 +26105,24 @@
     },
     {
       "album": {
+        "name": "Presidente Maynez",
+        "url": "https://open.spotify.com/album/23sk6rAZ1t7xBcCctNNFft"
+      },
+      "artists": [
+        {
+          "name": "Moises Sala",
+          "url": "https://open.spotify.com/artist/1sth04bKfg3QYDyJtDn0Pz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59640,
+      "name": "Presidente Maynez",
+      "url": "https://open.spotify.com/track/6PtEhVBuy0MoA8atP89ayv"
+    },
+    {
+      "album": {
         "name": "Presidente M\u00e1ynez",
         "url": "https://open.spotify.com/album/5kGCZRrJfpnhfc1S8jjTz1"
       },
@@ -26098,7 +26134,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 62769,
       "name": "Presidente M\u00e1ynez",
       "url": "https://open.spotify.com/track/3Ho5XNmNpwGOKSH4HdZjvr"
@@ -26214,7 +26250,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 142500,
       "name": "Prom",
       "url": "https://open.spotify.com/track/0NyFr5f8nJlfTkkFeZvdpm"
@@ -30657,6 +30693,24 @@
     },
     {
       "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/0mvXH32wQdtXKqXlKd7vUY"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209360,
+      "name": "Spanish Girl",
+      "url": "https://open.spotify.com/track/15T2Fk5WwgAxszxyHD7gJV"
+    },
+    {
+      "album": {
         "name": "Parachutes",
         "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
       },
@@ -32512,6 +32566,28 @@
       "duration_ms": 90265,
       "name": "The Rumbling (TV Size)",
       "url": "https://open.spotify.com/track/0KCSJzsQVxkloxoT7dyrqV"
+    },
+    {
+      "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Lizz Wright",
-  "num_followers": 444929,
+  "num_followers": 445019,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjI4OTY2MCwwMDAwMDAwMDc4ODcyZGU1OTIzNTIzMTQ4NmIwOGM5OWIwMTUxNGEz",
+  "snapshot_id": "MTcxMjg5NDQ2MCwwMDAwMDAwMDY5YWYxYjcyODJjMjhiMjgxMWQ3Yzg3YTJmMDc2MTZl",
   "tracks": [
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/6VEMeSXgvoxGKNC8dHOsg5"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "duration_ms": 133635,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/5rsnfjFFkwpWWKVSYOEjoH"
+    },
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
@@ -231,22 +247,6 @@
       "duration_ms": 205026,
       "name": "Mood Swings",
       "url": "https://open.spotify.com/track/3j3AQiQEe24de1EcYqVxc3"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "Fast",
-        "url": "https://open.spotify.com/album/2pDvPsNV0z3QTxXO1A7qxL"
-      },
-      "artists": [
-        {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
-        }
-      ],
-      "duration_ms": 209769,
-      "name": "Fast",
-      "url": "https://open.spotify.com/track/4lldt4nIrEzASVTCgQHAmC"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -1303,8 +1303,8 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Cherry Red Boots / Somebody Tryin\u2019 To HooDoo Me",
-        "url": "https://open.spotify.com/album/12Ms9IQbpfywaJWETeoeBI"
+        "name": "Rides On",
+        "url": "https://open.spotify.com/album/2lu9WD2gKfgX0YlgP7o2vu"
       },
       "artists": [
         {
@@ -1314,7 +1314,7 @@
       ],
       "duration_ms": 278474,
       "name": "Somebody Tryin\u2019 to Hoodoo Me",
-      "url": "https://open.spotify.com/track/3Od56s7dbG5gcDVYnSh1RR"
+      "url": "https://open.spotify.com/track/0lFVNmrmtrcG5H0ODj8jcT"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1495,8 +1495,8 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Black Widow",
-        "url": "https://open.spotify.com/album/1dUzfaYpBcr4s8yCg8IpYD"
+        "name": "Denim & Diamonds",
+        "url": "https://open.spotify.com/album/6RqohXVE3YRsRbaS9sm5G2"
       },
       "artists": [
         {
@@ -1506,7 +1506,7 @@
       ],
       "duration_ms": 170440,
       "name": "Black Widow",
-      "url": "https://open.spotify.com/track/4DWr9jdFuoELQ06HLCnGeJ"
+      "url": "https://open.spotify.com/track/4ZatCCisvqrcIWx2Kshb33"
     },
     {
       "added_at": "2023-10-06 04:00:00",

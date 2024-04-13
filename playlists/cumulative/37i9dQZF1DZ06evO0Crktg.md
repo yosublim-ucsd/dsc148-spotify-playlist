@@ -2,7 +2,7 @@
 
 ### [This Is Jelly Roll](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Crktg)
 
-> This is Jelly Roll\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Jelly Roll\. The essential tracks, all in one playlist.
 
 54 songs - 3 hr 1 min
 

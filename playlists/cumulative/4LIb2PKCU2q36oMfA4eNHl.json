@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Reflections 08",
+        "url": "https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP"
+      },
+      "artists": [
+        {
+          "name": "Stegonaute",
+          "url": "https://open.spotify.com/artist/4ILyRrOiTzhF9hPDzYWcXs"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154093,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/1IMhurwZ1TdBQyXi9xz2H2"
+    },
+    {
+      "album": {
         "name": "Drukqs",
         "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
       },
@@ -243,6 +261,24 @@
     },
     {
       "album": {
+        "name": "R Plus Seven",
+        "url": "https://open.spotify.com/album/0p7nH5bz0pWBor10osUBuD"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305287,
+      "name": "Chrome Country",
+      "url": "https://open.spotify.com/track/4TBVy5cFYGmK5BA3rdMGEQ"
+    },
+    {
+      "album": {
         "name": "closer",
         "url": "https://open.spotify.com/album/3Wf2gPi59LCtE5yBfSAEae"
       },
@@ -316,7 +352,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 205611,
       "name": "eden",
       "url": "https://open.spotify.com/track/2hch6pI5wxnE2iPoFomn2b"
@@ -356,6 +392,24 @@
       "duration_ms": 184666,
       "name": "Entangled",
       "url": "https://open.spotify.com/track/5802VW3sVbchM6EkEavcUt"
+    },
+    {
+      "album": {
+        "name": "Fading Anxieties",
+        "url": "https://open.spotify.com/album/29aXvfgMqYrsHIFS9f8UkJ"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214600,
+      "name": "Fading Anxieties",
+      "url": "https://open.spotify.com/track/16RXlxwUqG5853XArw0Byx"
     },
     {
       "album": {
@@ -432,6 +486,24 @@
       "duration_ms": 264156,
       "name": "Fugue In Twilight",
       "url": "https://open.spotify.com/track/1aOuKqVx4Myq3Ql4MqW1xK"
+    },
+    {
+      "album": {
+        "name": "Reflections 08",
+        "url": "https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP"
+      },
+      "artists": [
+        {
+          "name": "sue:ann",
+          "url": "https://open.spotify.com/artist/17MfXLE9Kn31utpo96GXFY"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Gilderoy",
+      "url": "https://open.spotify.com/track/1GxlJW1YnjSH81pIBvMvJv"
     },
     {
       "album": {
@@ -534,7 +606,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 191801,
       "name": "HER - Jody Wisternoff & James Grant Edit",
       "url": "https://open.spotify.com/track/0kLgf6MpUKwYkZQAOAe8QZ"
@@ -640,7 +712,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 203318,
       "name": "if I can be honest",
       "url": "https://open.spotify.com/track/67jECssRLcbLlrtlCAaKGY"
@@ -738,7 +810,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 189039,
       "name": "La luna (Flica\u2019s Moonlight Remix)",
       "url": "https://open.spotify.com/track/0CgocE5K72fz4Ej7uEroti"
@@ -1042,7 +1114,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 314295,
       "name": "Mr Man - Dusky Revisit",
       "url": "https://open.spotify.com/track/20kMYR1urcBTumqu7A9mub"
@@ -1332,10 +1404,32 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 254509,
       "name": "Swirl",
       "url": "https://open.spotify.com/track/0Uj30EguEhtuNlzMTI2i86"
+    },
+    {
+      "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/16sfP3nI7hNlUppaYv4dtC"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        },
+        {
+          "name": "Imaginary Friend",
+          "url": "https://open.spotify.com/artist/5pw6etTC4sdwI2ADgjVtlb"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143352,
+      "name": "The Last Phone Call",
+      "url": "https://open.spotify.com/track/2CZOLVdbBc4NDwhCVMRSzh"
     },
     {
       "album": {
@@ -1430,6 +1524,24 @@
       "duration_ms": 240000,
       "name": "Vanishing Point",
       "url": "https://open.spotify.com/track/3QFamijo1AyZ7eb1cnNNaC"
+    },
+    {
+      "album": {
+        "name": "Reflections 08",
+        "url": "https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP"
+      },
+      "artists": [
+        {
+          "name": "Maty Owl",
+          "url": "https://open.spotify.com/artist/1CoaTV8EqidFgYH8CDsfAu"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271533,
+      "name": "Walking Slowly",
+      "url": "https://open.spotify.com/track/59ALSzlla8jAzqD5Dhozoo"
     },
     {
       "album": {

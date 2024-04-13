@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Bienvenidx a la trampa mexa. Kevis y Maykyy en portada.",
+  "description": "Bienvenidx a la trampa mexa. Peso Pluma y Arc\u00e1ngel en portada.",
   "name": "TRAPPERZ_MX",
   "tracks": [
     {
@@ -628,7 +628,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 182500,
       "name": "Bill mode",
       "url": "https://open.spotify.com/track/1C4DV6ZyhzeztIknhTX3GT"
@@ -1707,6 +1707,24 @@
     },
     {
       "album": {
+        "name": "EL CAMINO",
+        "url": "https://open.spotify.com/album/17dIH9pWVG9hgrxfhPfdpA"
+      },
+      "artists": [
+        {
+          "name": "Red Lean",
+          "url": "https://open.spotify.com/artist/3co8tdKJWZd4LYKaMA7iOB"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179889,
+      "name": "EL CAMINO",
+      "url": "https://open.spotify.com/track/0MI0hsjF5Z7cvfQYNUUXue"
+    },
+    {
+      "album": {
         "name": "El Game",
         "url": "https://open.spotify.com/album/3inFQu2F9Y95RX1OyD03Db"
       },
@@ -2342,7 +2360,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 196363,
       "name": "GaD #24",
       "url": "https://open.spotify.com/track/3bYyFMBbSEKt1HdFmHtwA7"
@@ -3792,10 +3810,36 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 163946,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/6gtkvCyKoInwxcrxMrkTPh"
+    },
+    {
+      "album": {
+        "name": "Nube Negra",
+        "url": "https://open.spotify.com/album/6pg7xOEBugY9POiMYGjS2l"
+      },
+      "artists": [
+        {
+          "name": "Yung Dupe",
+          "url": "https://open.spotify.com/artist/7ATR883ZrEevrEWAlMXFs3"
+        },
+        {
+          "name": "Kimm\u00f8",
+          "url": "https://open.spotify.com/artist/7pLeJaOcw4TbtZk42asvOu"
+        },
+        {
+          "name": "PUGSPUGSPUGS",
+          "url": "https://open.spotify.com/artist/41aYvVvQYDfM6sn2zhlQHY"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207125,
+      "name": "Nube Negra",
+      "url": "https://open.spotify.com/track/2YmwZB3G8mGnh4x748Jkns"
     },
     {
       "album": {
@@ -4056,7 +4100,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 158868,
       "name": "Perdona",
       "url": "https://open.spotify.com/track/3r4cFpk9KBGApCUqrizxBH"
@@ -4100,6 +4144,28 @@
       "duration_ms": 100250,
       "name": "Pesetas",
       "url": "https://open.spotify.com/track/7cBq7zhW0P1oITEUJQHbjx"
+    },
+    {
+      "album": {
+        "name": "PESO COMPLETO",
+        "url": "https://open.spotify.com/album/0omumEPaOKxBunEn2xh0zQ"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "PESO COMPLETO",
+      "url": "https://open.spotify.com/track/1nCXy1RQQYMgt97DO8uCSI"
     },
     {
       "album": {
@@ -4254,6 +4320,28 @@
       "duration_ms": 140893,
       "name": "Que Mal Me Hac\u00edas",
       "url": "https://open.spotify.com/track/0pgXLwDXcq2hVxIlUD9XWU"
+    },
+    {
+      "album": {
+        "name": "QUIENES SOMOS",
+        "url": "https://open.spotify.com/album/02n9Kr1tkRa614fHfAKNSv"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        },
+        {
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174831,
+      "name": "QUIENES SOMOS",
+      "url": "https://open.spotify.com/track/0n5t9tUXaZGWk5mdXdf7sd"
     },
     {
       "album": {
@@ -4829,6 +4917,24 @@
     },
     {
       "album": {
+        "name": "Tengo Fr\u00edo",
+        "url": "https://open.spotify.com/album/7cJhAmLJgBmbITITIMbNFT"
+      },
+      "artists": [
+        {
+          "name": "Alak",
+          "url": "https://open.spotify.com/artist/0lnmuoifLjmlIHwd7H5AS1"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Tengo Fr\u00edo",
+      "url": "https://open.spotify.com/track/2IzzKncuaSUNIRzUnipykn"
+    },
+    {
+      "album": {
         "name": "Tesla",
         "url": "https://open.spotify.com/album/6f5hk6ddmJ1iFE2QQZJ7cH"
       },
@@ -5048,7 +5154,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 140346,
       "name": "Trap Kingz",
       "url": "https://open.spotify.com/track/2v0qGsN7KN3Wv4LZson2Fd"

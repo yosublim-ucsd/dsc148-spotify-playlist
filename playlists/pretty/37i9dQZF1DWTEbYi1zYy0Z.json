@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Braxton Brothers",
-  "num_followers": 61713,
+  "num_followers": 61734,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjI4OTY2MCwwMDAwMDAwMDk1YmY1YmY5Y2Y3NDUzNTYyODZkODhjYzYwOWRmZjg2",
+  "snapshot_id": "MTcxMjg5NDQ2MCwwMDAwMDAwMDcyM2I1NTk3YmQ1MWI5NzhlNGU5NTliNWU0YjI4YmVi",
   "tracks": [
     {
       "added_at": "2024-04-05 04:01:00",
@@ -29,6 +29,26 @@
       "url": "https://open.spotify.com/track/6tmF5cxEeujWXSYnRwFmCv"
     },
     {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Grass-Fed Funk (feat. Marcus Anderson)",
+        "url": "https://open.spotify.com/album/3Galo1stQ6Ks8SS1t91n3I"
+      },
+      "artists": [
+        {
+          "name": "Oli Silk",
+          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
+        },
+        {
+          "name": "Marcus Anderson",
+          "url": "https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf"
+        }
+      ],
+      "duration_ms": 306880,
+      "name": "Grass-Fed Funk (feat. Marcus Anderson)",
+      "url": "https://open.spotify.com/track/3kKW85fudYfR3NT4Fwp9Fg"
+    },
+    {
       "added_at": "2024-04-05 04:01:00",
       "album": {
         "name": "Bah-De-Yah!",
@@ -43,6 +63,22 @@
       "duration_ms": 259229,
       "name": "Bah-De-Yah!",
       "url": "https://open.spotify.com/track/4L33U0CZe1UTQe6pvkqT20"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Love Can't Wait",
+        "url": "https://open.spotify.com/album/1J5IOuZKF7GYZr1nsASil0"
+      },
+      "artists": [
+        {
+          "name": "JJ Sansaverino",
+          "url": "https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy"
+        }
+      ],
+      "duration_ms": 254171,
+      "name": "Love Can't Wait",
+      "url": "https://open.spotify.com/track/0ugbqA6rUHf5UtJYyfedmE"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1649,22 +1685,6 @@
       "url": "https://open.spotify.com/track/4fiiULvaEPZQfa6mH2txg1"
     },
     {
-      "added_at": "2023-01-20 05:01:00",
-      "album": {
-        "name": "I'm Good",
-        "url": "https://open.spotify.com/album/2eqo8o737VCnrQaMFk1fe1"
-      },
-      "artists": [
-        {
-          "name": "Charles A. Kelly",
-          "url": "https://open.spotify.com/artist/61e513QSeet2Fwz8XvFegM"
-        }
-      ],
-      "duration_ms": 228651,
-      "name": "I'm Good - radio single",
-      "url": "https://open.spotify.com/track/5nSWbNXMgZZbVf16wiCp0f"
-    },
-    {
       "added_at": "2023-02-10 05:01:00",
       "album": {
         "name": "Stick It Out",
@@ -1719,22 +1739,6 @@
       "duration_ms": 256023,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/4KLpRFRn11BiQHeODY6EeU"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Keep It Moving",
-        "url": "https://open.spotify.com/album/3ilVn6i8gwJzTlfy50HLPo"
-      },
-      "artists": [
-        {
-          "name": "JJ Sansaverino",
-          "url": "https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy"
-        }
-      ],
-      "duration_ms": 215027,
-      "name": "Keep It Moving",
-      "url": "https://open.spotify.com/track/0Q00M9Rn0Nz519t2FLUJUW"
     },
     {
       "added_at": "2023-05-05 04:01:00",

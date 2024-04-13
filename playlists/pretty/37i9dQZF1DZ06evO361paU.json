@@ -1,12 +1,12 @@
 {
-  "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 254580,
+  "description": "This Is Lenny Kravitz. Los temas esenciales, todos en una lista.",
+  "num_followers": 254650,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMGY1Y2JhNzlkZTI5MWEyY2Q0Y2RiMzY2NGQzYzM4MDc0",
+  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDMyZTA1MDNmNzQ4YjExN2QzNmMxMzdiYTg1YTFjYTYw",
   "tracks": [
     {
       "added_at": null,
@@ -105,7 +105,7 @@
         }
       ],
       "duration_ms": 211000,
-      "name": "Human",
+      "name": "Human - Single Version",
       "url": "https://open.spotify.com/track/5cHjWKnwhdfj1z7pSJJ4uD"
     },
     {
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Road to Freedom (from the Netflix Film \"Rustin\")",
-        "url": "https://open.spotify.com/album/5pUwSUomYfyu78kyRIlfmN"
+        "name": "Baptism",
+        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 220213,
-      "name": "Road to Freedom (from the Netflix Film \"Rustin\")",
-      "url": "https://open.spotify.com/track/1UavIKO5QdLEW5qMQLBmmk"
+      "duration_ms": 255573,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/4qM2h3xkzwGJiVv6GgL6w0"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baptism",
-        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
+        "name": "Road to Freedom (from the Netflix Film \"Rustin\")",
+        "url": "https://open.spotify.com/album/5pUwSUomYfyu78kyRIlfmN"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 255573,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/4qM2h3xkzwGJiVv6GgL6w0"
+      "duration_ms": 220213,
+      "name": "Road to Freedom (from the Netflix Film \"Rustin\")",
+      "url": "https://open.spotify.com/track/1UavIKO5QdLEW5qMQLBmmk"
     },
     {
       "added_at": null,

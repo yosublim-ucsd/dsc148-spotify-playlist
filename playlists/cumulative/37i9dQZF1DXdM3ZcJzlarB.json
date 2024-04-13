@@ -89,6 +89,28 @@
     },
     {
       "album": {
+        "name": "LOGO",
+        "url": "https://open.spotify.com/album/4PLtXjl2T5JqMUkGGdZ17K"
+      },
+      "artists": [
+        {
+          "name": "planta",
+          "url": "https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E"
+        },
+        {
+          "name": "Franzizca",
+          "url": "https://open.spotify.com/artist/0Mgj6yf5sMHjzpFBfPHe2m"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "AMANECER (Remix)",
+      "url": "https://open.spotify.com/track/6DLGzwHsqxC341n63unuRy"
+    },
+    {
+      "album": {
         "name": "Amor (Remix)",
         "url": "https://open.spotify.com/album/0gWxvPH2Ff45ZHyLPW14pd"
       },
@@ -194,6 +216,24 @@
       "duration_ms": 460975,
       "name": "Astroboy",
       "url": "https://open.spotify.com/track/7fGA2ygZsqYqXpBoW3TKha"
+    },
+    {
+      "album": {
+        "name": "Bailarina (Pyura Remix)",
+        "url": "https://open.spotify.com/album/47knKqo7d15Q9ZA5HIWUG3"
+      },
+      "artists": [
+        {
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316227,
+      "name": "Bailarina - Pyura Remix",
+      "url": "https://open.spotify.com/track/3FlSY7bo72ON7rHBgtBMGX"
     },
     {
       "album": {
@@ -816,7 +856,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 189247,
       "name": "En Movimiento - Remix",
       "url": "https://open.spotify.com/track/33azXQxauxEkDR9i19MEeO"
@@ -1401,6 +1441,28 @@
     },
     {
       "album": {
+        "name": "LA RAPLA REWORK",
+        "url": "https://open.spotify.com/album/2aUivjiXXySWpRQvuXQGO0"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        },
+        {
+          "name": "Klik & Frik",
+          "url": "https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319284,
+      "name": "LA RAPLA REWORK",
+      "url": "https://open.spotify.com/track/4Vtc2tQ6CkHPPwjonjrBsg"
+    },
+    {
+      "album": {
         "name": "Landscape",
         "url": "https://open.spotify.com/album/4zJsfpFrCLcmub0tHbejHU"
       },
@@ -1416,6 +1478,32 @@
       "duration_ms": 431173,
       "name": "Landscape",
       "url": "https://open.spotify.com/track/0lL7N936MmkQGNfGMzgu74"
+    },
+    {
+      "album": {
+        "name": "Like Forever (Hernan Cattaneo & Kevin Di Serna Remix)",
+        "url": "https://open.spotify.com/album/02ZyfvHxCHY8PmH1JOhKF9"
+      },
+      "artists": [
+        {
+          "name": "El Mundo",
+          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
+        },
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
+        },
+        {
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284461,
+      "name": "Like Forever - Hernan Cattaneo and Kevin Di Serna Remix",
+      "url": "https://open.spotify.com/track/2KXLXUoc4IvnF53qDJH3L7"
     },
     {
       "album": {
@@ -2807,6 +2895,24 @@
     },
     {
       "album": {
+        "name": "CYBERIA",
+        "url": "https://open.spotify.com/album/3zFrhLAlu0Ht0CufgIO1Vd"
+      },
+      "artists": [
+        {
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330000,
+      "name": "TRIBOT",
+      "url": "https://open.spotify.com/track/6eD1z2Kzk06haPpMBZkGqD"
+    },
+    {
+      "album": {
         "name": "Undertones 2",
         "url": "https://open.spotify.com/album/3OPQ2Kjn717hUsHhmBMx64"
       },
@@ -2916,6 +3022,36 @@
       "duration_ms": 276726,
       "name": "Welcome To My Garden",
       "url": "https://open.spotify.com/track/52NpNpegyHrbnPkJRLtB7k"
+    },
+    {
+      "album": {
+        "name": "Disco Remix",
+        "url": "https://open.spotify.com/album/1hsuJ2uYMXfpUlEzRFOvm3"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        },
+        {
+          "name": "Pabels",
+          "url": "https://open.spotify.com/artist/5qKjf9qDULKtHRhg8UswBv"
+        },
+        {
+          "name": "Signo",
+          "url": "https://open.spotify.com/artist/1AGaft2KynjUSNdghwmXuW"
+        },
+        {
+          "name": "Mago",
+          "url": "https://open.spotify.com/artist/0rTHbJdnnGLUv6KWioxJCK"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303505,
+      "name": "Yo Soy la Disco (House Mix x Pabels, Signo & Mago)",
+      "url": "https://open.spotify.com/track/5TRezAlW81XxWzUEYYgO9B"
     },
     {
       "album": {

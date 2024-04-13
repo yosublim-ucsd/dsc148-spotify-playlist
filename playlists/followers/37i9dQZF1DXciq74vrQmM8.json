@@ -1,7 +1,7 @@
 {
-  "2024-04-12": 696366,
+  "2024-04-13": 696346,
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. AlienBlaze",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Lynks",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -21,6 +21,24 @@
       "duration_ms": 201144,
       "name": "(WHAT DID YOU EXPECT FROM) SEX WITH A STRANGER",
       "url": "https://open.spotify.com/track/2h15hDIwg3c0ojcpob5eHI"
+    },
+    {
+      "album": {
+        "name": "000memories",
+        "url": "https://open.spotify.com/album/687mZ8VJg6fMZxV912KdeU"
+      },
+      "artists": [
+        {
+          "name": "Ayleen Valentine",
+          "url": "https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148280,
+      "name": "000memories",
+      "url": "https://open.spotify.com/track/74pXDAWB08mft6AscgfYFZ"
     },
     {
       "album": {
@@ -187,6 +205,24 @@
       "duration_ms": 151958,
       "name": "A Track In Orbit",
       "url": "https://open.spotify.com/track/33byUHbCWRpbgo6sd8dVro"
+    },
+    {
+      "album": {
+        "name": "ABOMINATION",
+        "url": "https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr"
+      },
+      "artists": [
+        {
+          "name": "Lynks",
+          "url": "https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198549,
+      "name": "ABOMINATION",
+      "url": "https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN"
     },
     {
       "album": {
@@ -4525,6 +4561,24 @@
       "duration_ms": 177628,
       "name": "Filfy - Tokky Horror Remix",
       "url": "https://open.spotify.com/track/73vppi63Im7YURIt1aqi4w"
+    },
+    {
+      "album": {
+        "name": "Finally See Me",
+        "url": "https://open.spotify.com/album/4FcEzgsKUgajnUGKnnnj3R"
+      },
+      "artists": [
+        {
+          "name": "Delilah Bon",
+          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210877,
+      "name": "Finally See Me",
+      "url": "https://open.spotify.com/track/5JW3HX2c3H4FlOJERs52To"
     },
     {
       "album": {
@@ -9881,7 +9935,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 153187,
       "name": "Nothing Hurts Like a Girl",
       "url": "https://open.spotify.com/track/6cgUCnMBYEkvr4pwqE7zZw"
@@ -11887,7 +11941,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 183370,
       "name": "SIRENCORE",
       "url": "https://open.spotify.com/track/2MZyaw5TUlYexpTEw7NyK7"
@@ -12427,6 +12481,28 @@
       "duration_ms": 195747,
       "name": "sTraNgeRs",
       "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
+    },
+    {
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/6Y1Wf6l68FYPbUd4WC3DnE"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124888,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/3yyJWBJ3MOrLlhtla7Cq7P"
     },
     {
       "album": {
@@ -14435,7 +14511,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 234111,
       "name": "WITCH",
       "url": "https://open.spotify.com/track/6L3L8S4nkmJl9nDE7bXnFL"
@@ -14875,7 +14951,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 148751,
       "name": "Zig",
       "url": "https://open.spotify.com/track/58SM6Pb7Bi9WY7SO83bjQx"

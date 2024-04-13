@@ -1553,6 +1553,24 @@
     },
     {
       "album": {
+        "name": "Coming Up (Like That)",
+        "url": "https://open.spotify.com/album/2W5kLnNnjmo4L3JyWZQEg3"
+      },
+      "artists": [
+        {
+          "name": "Heyz",
+          "url": "https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166156,
+      "name": "Coming Up (Like That)",
+      "url": "https://open.spotify.com/track/6st1CVCUWkKgonMwm20BCD"
+    },
+    {
+      "album": {
         "name": "Connected Illusions",
         "url": "https://open.spotify.com/album/78UEzphMC0BLrGDUyLUTsv"
       },
@@ -2052,7 +2070,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 217750,
       "name": "Dark Wing",
       "url": "https://open.spotify.com/track/6pBqdX2uWt9fZOLZ5tnz6w"
@@ -2946,7 +2964,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 211862,
       "name": "False Angel",
       "url": "https://open.spotify.com/track/5yvNQcSjq21zPFBUaQvJvh"
@@ -3178,7 +3196,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 240000,
       "name": "Fools Gold",
       "url": "https://open.spotify.com/track/1H8U2t2JrjbGld8YPmjX0w"
@@ -4036,6 +4054,32 @@
       "duration_ms": 281142,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/2opZwPMwDdSSiNuYqaaWP6"
+    },
+    {
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/7bSgsY369Jl1p7cGqUy9VZ"
+      },
+      "artists": [
+        {
+          "name": "Phocust",
+          "url": "https://open.spotify.com/artist/3Aov39Y01vC3JXRQiw3Pd0"
+        },
+        {
+          "name": "Cafe Disko",
+          "url": "https://open.spotify.com/artist/7x6KEmSwlWNo0d628uyi7W"
+        },
+        {
+          "name": "AUDIA",
+          "url": "https://open.spotify.com/artist/4qGtx1genwvagRTsEhU8oB"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206896,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/1cHcOhWO0XUjrtSMlc98IP"
     },
     {
       "album": {
@@ -5978,7 +6022,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 144857,
       "name": "Monomyth",
       "url": "https://open.spotify.com/track/3eohbDWubHzKPcrXs4bHOE"
@@ -6216,6 +6260,24 @@
       "duration_ms": 262267,
       "name": "Night Flight",
       "url": "https://open.spotify.com/track/46lWKeYyIQN7F3OnZqjFMb"
+    },
+    {
+      "album": {
+        "name": "Everything's Temporary",
+        "url": "https://open.spotify.com/album/2hDAvX1vRBMPvB2kZJkxBR"
+      },
+      "artists": [
+        {
+          "name": "HWLS",
+          "url": "https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201818,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/7qy8iDkGHlthmVFy6CKYhp"
     },
     {
       "album": {
@@ -7946,6 +8008,24 @@
       "duration_ms": 180500,
       "name": "Run Dat",
       "url": "https://open.spotify.com/track/1xHsySi8kU04XdtDXsEzzS"
+    },
+    {
+      "album": {
+        "name": "Run It",
+        "url": "https://open.spotify.com/album/5fFXKg8OVAbYZirJ8StkPF"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211714,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/725Nbm1gC1jrxbYS68NZjO"
     },
     {
       "album": {

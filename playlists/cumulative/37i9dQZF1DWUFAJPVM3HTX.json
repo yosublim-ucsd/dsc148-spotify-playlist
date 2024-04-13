@@ -27247,6 +27247,24 @@
     },
     {
       "album": {
+        "name": "every night was the same",
+        "url": "https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK"
+      },
+      "artists": [
+        {
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192835,
+      "name": "ordinary love",
+      "url": "https://open.spotify.com/track/5A7aINCrHYQ0JKDqZhfoch"
+    },
+    {
+      "album": {
         "name": "ordinary love",
         "url": "https://open.spotify.com/album/2wtHEZMiYClmFw6klKyISA"
       },
@@ -27258,7 +27276,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 192835,
       "name": "ordinary love",
       "url": "https://open.spotify.com/track/6c1hBQhJpn1n8Jgf7pLAYE"

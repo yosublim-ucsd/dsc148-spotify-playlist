@@ -1,7 +1,7 @@
 {
-  "2024-04-12": 32900,
+  "2024-04-13": 32943,
   "date_first_scraped": "2021-12-29",
-  "description": "The big Hip-Life hits rn. Cover: King Promise",
+  "description": "The big Hip-Life hits rn. Cover: Mr Drew",
   "name": "Hip-Life Hits",
   "tracks": [
     {
@@ -231,6 +231,24 @@
       "duration_ms": 324806,
       "name": "Abuskeleke",
       "url": "https://open.spotify.com/track/2iywIMWIJIEH5kCKpP9Zdf"
+    },
+    {
+      "album": {
+        "name": "Adom",
+        "url": "https://open.spotify.com/album/7MoGcLsJi4tM5Ik6Re2WSE"
+      },
+      "artists": [
+        {
+          "name": "KRYMI",
+          "url": "https://open.spotify.com/artist/34wXzU4pMFOuQejyLtMWjO"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224523,
+      "name": "Adom",
+      "url": "https://open.spotify.com/track/7riYHpL21B6InKKSmpZwBz"
     },
     {
       "album": {
@@ -2251,7 +2269,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 153893,
       "name": "OH NO",
       "url": "https://open.spotify.com/track/2VhFflRmXimh8NNpD9jFgR"
@@ -2720,6 +2738,24 @@
     },
     {
       "album": {
+        "name": "Sneaky",
+        "url": "https://open.spotify.com/album/4AaZnGqzpA2o47uXxrHt0o"
+      },
+      "artists": [
+        {
+          "name": "Mr Drew",
+          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166312,
+      "name": "Sneaky",
+      "url": "https://open.spotify.com/track/6m71O5AaaMUJoqbIGfnILk"
+    },
+    {
+      "album": {
         "name": "Sober (Soo Bad)",
         "url": "https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU"
       },
@@ -2753,7 +2789,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 181557,
       "name": "Soja",
       "url": "https://open.spotify.com/track/0rkpKiWmsAs2VApWKJQRuY"

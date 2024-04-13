@@ -1,13 +1,33 @@
 {
   "description": "Jazzy blips and blops",
-  "num_followers": 568143,
+  "num_followers": 568203,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMTY4NDg2MCwwMDAwMDAwMGQ3OTIyMWI2NzMxY2QzMDlhZDI5OGIwZmEwNTVkOWE2",
+  "snapshot_id": "MTcxMjg5NDQ2MCwwMDAwMDAwMDJiNTUwM2ZhMjdhNDVmNWYwOTE1ODYwY2MxMWYxYWRj",
   "tracks": [
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Hydrocity (8-Bit Fusion)",
+        "url": "https://open.spotify.com/album/6HmtxWy7KcSyHKh4cqB0UL"
+      },
+      "artists": [
+        {
+          "name": "Button Masher",
+          "url": "https://open.spotify.com/artist/3p0OtpbgE6a46IBMirYCe3"
+        },
+        {
+          "name": "Dj Cutman",
+          "url": "https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8"
+        }
+      ],
+      "duration_ms": 123600,
+      "name": "Hydrocity (8-Bit Fusion)",
+      "url": "https://open.spotify.com/track/7i2PpJlK5WItQeojEnnACf"
+    },
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
@@ -599,26 +619,6 @@
       "duration_ms": 152000,
       "name": "Figures",
       "url": "https://open.spotify.com/track/6Rh95LODQfId7hlJcheddl"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Ikigai (Button Masher Remix)",
-        "url": "https://open.spotify.com/album/4WN6CHJnj9gwqc1b3mrrjs"
-      },
-      "artists": [
-        {
-          "name": "Evan Marien",
-          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
-        },
-        {
-          "name": "Button Masher",
-          "url": "https://open.spotify.com/artist/3p0OtpbgE6a46IBMirYCe3"
-        }
-      ],
-      "duration_ms": 209520,
-      "name": "Ikigai (Button Masher Remix)",
-      "url": "https://open.spotify.com/track/7LbutmBpydWn3yhOQTWRv2"
     },
     {
       "added_at": "2023-05-12 04:01:00",

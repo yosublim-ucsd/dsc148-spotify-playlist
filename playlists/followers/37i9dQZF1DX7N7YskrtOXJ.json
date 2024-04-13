@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 89998,
+  "2024-04-13": 90030,
   "date_first_scraped": "2023-09-04",
   "description": "La fiesta se enciende con cumbia.\n",
   "name": "Cumbia pa' carretear",
@@ -317,6 +317,24 @@
       "duration_ms": 209005,
       "name": "Boquita De Caramelo",
       "url": "https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ"
+    },
+    {
+      "album": {
+        "name": "Borrachito",
+        "url": "https://open.spotify.com/album/6eONEPTIHy682tfjvkgRUI"
+      },
+      "artists": [
+        {
+          "name": "Organizaci\u00f3n X",
+          "url": "https://open.spotify.com/artist/4LlbFyAhhOYvtbluyFiiyq"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160403,
+      "name": "Borrachito",
+      "url": "https://open.spotify.com/track/7yAV45QuPVvzPfQob431qP"
     },
     {
       "album": {
@@ -1937,7 +1955,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 188040,
       "name": "No Te Marches",
       "url": "https://open.spotify.com/track/2p6NdfaJywYmZOfGsQvzXQ"
@@ -2223,7 +2241,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 77760,
       "name": "Porque Te Quiero",
       "url": "https://open.spotify.com/track/6cvUP6WuCTW9urJC8EXnoH"
@@ -3179,7 +3197,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 246920,
       "name": "Y Me Beb\u00ed Tu Recuerdo",
       "url": "https://open.spotify.com/track/2yEbq1d68QtkwkGFfDpMbr"

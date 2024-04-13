@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: dosii\(도시\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-636 songs - 1 day 14 hr 56 min
+637 songs - 1 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Epilogue \(feat.Meego\)](https://open.spotify.com/track/2JZStRToumDOLnGVD9uVq0) | [TAPEDECK](https://open.spotify.com/artist/4erEXjpCkVrmV1a2n1pjaC), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy) | [Epilogue \(feat\. Meego\)](https://open.spotify.com/album/1u8rkzn2L1TtnU8z1hUNtx) | 3:14 | 2022-03-31 | 2022-04-17 |
 | [Escape!](https://open.spotify.com/track/5VsXPHSJvB0H4SBZHFiJyO) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 3:35 | 2022-05-11 | 2022-06-02 |
 | [Even days \(2021\)](https://open.spotify.com/track/1SnY6KbNW8va17sBnIQnkG) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Even days \(2021\)](https://open.spotify.com/album/369MzvVXsUmYVgoSjTZpJ1) | 4:06 | 2021-12-21 | 2022-04-16 |
+| [Everlasting Love](https://open.spotify.com/track/1ueWBHHclILiJ2loAoqDxI) | [LEEHEESANG](https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz) | [HOWEVER](https://open.spotify.com/album/6BgXAolghhnPuDIqCsTlmx) | 5:32 | 2024-04-04 |  |
 | [Every moment I love you \(Vocal\. Jungmi\)](https://open.spotify.com/track/2MU397brSaHDInIX3GQxHa) | [Iony](https://open.spotify.com/artist/2RR1uB9PpnHP715OJwuc3M), [정미](https://open.spotify.com/artist/3yjSnXK7X8xcXl0A7w9Cp2) | [Every moment I love you](https://open.spotify.com/album/7vXbsn5HkkjqJP3LA3hfyi) | 2:58 | 2022-03-31 | 2022-04-18 |
 | [Everyday](https://open.spotify.com/track/2i7P8keTV3Z7XsOEF5pAul) | [Chung Kyung\-Ho](https://open.spotify.com/artist/0dTV9RVJ7pIvxTUVsaGUeA) | [Everyday](https://open.spotify.com/album/1lzsxFXavvdyNsoBuFE2ci) | 4:05 | 2022-03-31 | 2022-04-12 |
 | [Everything](https://open.spotify.com/track/58oHUm7jyaVlcRnB9Z75ZC) | [kennytheking](https://open.spotify.com/artist/4693A2I2TyU25cJJLJXgYS) | [Everything](https://open.spotify.com/album/6NQwGZ8CGt28dy5EcyNRn0) | 5:00 | 2022-03-31 | 2022-07-23 |
@@ -555,7 +556,7 @@
 | [Under the night we were facing our breakup](https://open.spotify.com/track/0H1aG96BRR4VfDayFuEZ4C) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [T\_wo](https://open.spotify.com/album/6ICh5ekibNXg1CJEWztazW) | 3:46 | 2022-06-13 | 2022-06-19 |
 | [Under the Sea](https://open.spotify.com/track/67fKXyqK3xnvMYlw4FQymk) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Under the Sea](https://open.spotify.com/album/4InYjC8pfuvMnE0Qih3Fs6) | 4:53 | 2023-03-06 | 2023-03-28 |
 | [Underwater](https://open.spotify.com/track/6MrjuOlP7stTrxno2dJGs9) | [coldnight](https://open.spotify.com/artist/0lkK1zrc663DxBxvR13yEj) | [Underwater](https://open.spotify.com/album/3JEfQIglXMJz3D5imP88m0) | 3:26 | 2023-01-10 | 2023-01-26 |
-| [Underwater](https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Underwater](https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7) | 4:03 | 2022-05-11 |  |
+| [Underwater](https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Underwater](https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7) | 4:03 | 2022-05-11 | 2024-04-13 |
 | [Unhappiness](https://open.spotify.com/track/3o1Myd7WTxfeK49bRjRmPh) | [Kwon so jeong](https://open.spotify.com/artist/40i3Nvksz5pGDxoGEz4Q7i) | [Unhappiness](https://open.spotify.com/album/3eC4GHAWS2In8EyyNphHus) | 4:12 | 2023-01-25 | 2023-02-15 |
 | [Universe](https://open.spotify.com/track/1PADgC899dnHdG6fXHBLS9) | [Blue Lamb](https://open.spotify.com/artist/1Cr1LdGDo0RY3ihHkXQt7m) | [Universe](https://open.spotify.com/album/4C3NODVeITNjrOpiyCFUIa) | 3:55 | 2022-03-31 | 2022-04-21 |
 | [Untitled](https://open.spotify.com/track/5DiAPGjSA37OUVDtv3t5MN) | [Cho Hee Won](https://open.spotify.com/artist/5EQY8swADecXlA94pjEyzX) | [Untitled](https://open.spotify.com/album/4AI3v5hgmh3ZETMgw2rJVw) | 3:35 | 2021-12-12 | 2022-05-26 |

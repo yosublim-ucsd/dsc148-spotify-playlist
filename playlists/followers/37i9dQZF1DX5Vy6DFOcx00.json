@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 3878428,
+  "2024-04-13": 3879838,
   "date_first_scraped": "2022-02-06",
   "description": "iykyk",
   "name": "big on the internet",
@@ -9378,6 +9378,24 @@
     },
     {
       "album": {
+        "name": "Daya",
+        "url": "https://open.spotify.com/album/5dhk9EtHHquuzSXdxFBLcT"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191368,
+      "name": "Hide Away",
+      "url": "https://open.spotify.com/track/61i3HxSlZI6EQnVdYeofyo"
+    },
+    {
+      "album": {
         "name": "Plastic Hearts",
         "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
       },
@@ -11519,7 +11537,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 235885,
       "name": "I\u2019d Rather Overdose",
       "url": "https://open.spotify.com/track/17UNijHcIMuz5ik2UKeCjK"

@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 9304,
+  "2024-04-13": 9310,
   "date_first_scraped": "2023-06-17",
   "description": "The official playlist for\u201d Blue Orchestra\u201d TV\u30a2\u30cb\u30e1\u300e<a href=\"https://aooke-anime.com/\">\u9752\u306e\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9</a>\u300f\u306b\u767b\u5834\u3059\u308b\u540d\u66f2\u3092\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9\u963f\u4e45\u4e95\u771f\uff0f\u5c0f\u5b66\u9928\uff0fNHK\u30fbNEP\u30fb\u65e5\u672c\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\n",
   "name": "Blue Orchestra \u9752\u306e\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9",
@@ -576,32 +576,6 @@
     },
     {
       "album": {
-        "name": "Tchaikovsky: Romeo and Juliet (Fantasy Overture After Shakespeare); The Nutcracker, Op. 71a (Suite From The Ballet Op. 71)",
-        "url": "https://open.spotify.com/album/5gMbHiDO0vjqX7ykF6sVcM"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Herbert von Karajan",
-          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
-        }
-      ],
-      "date_added": "2023-06-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 418000,
-      "name": "Nutcracker Suite, Op. 71a: 3. Waltz Of The Flowers",
-      "url": "https://open.spotify.com/track/0MHTCSFH0WzxGquCysX4gq"
-    },
-    {
-      "album": {
         "name": "Blue Orchestra (Original Soundtrack)",
         "url": "https://open.spotify.com/album/715m42tQwAxBohq0CiXiNZ"
       },
@@ -969,6 +943,32 @@
       "duration_ms": 167786,
       "name": "The Four Seasons / Violin Concerto in G Minor, RV 315 \"Summer\": III. Presto",
       "url": "https://open.spotify.com/track/54SZdKd0csV6mMCD67EjQ7"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Romeo and Juliet (Fantasy Overture After Shakespeare); The Nutcracker, Op. 71a (Suite From The Ballet Op. 71)",
+        "url": "https://open.spotify.com/album/5gMbHiDO0vjqX7ykF6sVcM"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418000,
+      "name": "The Nutcracker Suite, Op. 71a: 3. Waltz Of The Flowers",
+      "url": "https://open.spotify.com/track/0MHTCSFH0WzxGquCysX4gq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,001 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,003 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 92 | [Ratchet Blues](https://open.spotify.com/track/0647hHN3O8D0OuOQFpfuuU) | [Eric Sardinas](https://open.spotify.com/artist/6ioaRkg9SnP8mC2NP7Z2rB), [Big Motor](https://open.spotify.com/artist/13xEB2Ahsm3Gl6rFLKFqbA) | [Sticks and Stones](https://open.spotify.com/album/2dlPRyDPSkFzbEaHoGqkPt) | 1:39 |
 | 93 | [Johnny law](https://open.spotify.com/track/50NxwJPlcjsT7IqFshyuYP) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Animals In The Dark](https://open.spotify.com/album/5oD05jbDmF4rIENz7te94J) | 4:29 |
 | 94 | [Good Morning Little Schoolgirl](https://open.spotify.com/track/2LtpyfWWnr5V96l3Js7LLX) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [Good Morning Little School Girl](https://open.spotify.com/album/3yYBnIVUvJrM6a0z8HNHOl) | 3:21 |
-| 95 | [Thumb a Ride](https://open.spotify.com/track/16AOTn3W58LmpNA6QG19CE) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Thumb a Ride](https://open.spotify.com/album/1GqL0hJ1WP4C3b52wqOUiF) | 2:53 |
+| 95 | [Thumb a Ride](https://open.spotify.com/track/6FFQ4nIyeXaDYQLb1zFitB) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Thumb a Ride](https://open.spotify.com/album/5RFZCJtz9yiadjhRB5kaof) | 2:53 |
 | 96 | [Talkin' To Jehova](https://open.spotify.com/track/2htN0gyb1WiJliAq9LtDza) | [Kelly Joe Phelps](https://open.spotify.com/artist/7MGPOWrHHrTJcviOWNbKEF) | [Brother Sinner & The Whale](https://open.spotify.com/album/7BsEu3aR82GbSKxMhbGnUS) | 4:36 |
 | 97 | [Slowly Slipping Away](https://open.spotify.com/track/0IdWFitNfPCkUKSRfufc6C) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Solo Recordings, Vol\. 3](https://open.spotify.com/album/30Ww7ImwchFWThx0qTrhHa) | 3:27 |
 | 98 | [Searching Blues](https://open.spotify.com/track/1RWAsPQhpizSGmO8YWmS8M) | [Manuel Galvin](https://open.spotify.com/artist/5OiXz8xSD4YGtm7vYDZ0Gs), [Michael Robinson](https://open.spotify.com/artist/4rmqOj8syPDp0g3MpWxCus) | [American Heritage](https://open.spotify.com/album/28mwkzzBRA3v9SwWzzqKIL) | 3:50 |

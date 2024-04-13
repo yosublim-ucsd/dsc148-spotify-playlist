@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-223 songs - 11 hr 40 min
+225 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Freedom \- Acoustic](https://open.spotify.com/track/63HLCxYAAfRPo47zawh8ep) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN), [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Freedom \(Acoustic\)](https://open.spotify.com/album/1UvTMIIkqpPW96X0QmyaiN) | 3:38 | 2022-01-21 | 2022-09-16 |
 | [Freedom \- Acoustic](https://open.spotify.com/track/2Sta4O12D55ZhfhBzKMdQZ) | [Thomas Law](https://open.spotify.com/artist/17oLmcamZOvri63kIr56CO) | [Freedom \(Acoustic\)](https://open.spotify.com/album/408UMBuS3W1kHMpJJssUBl) | 3:07 | 2023-01-20 | 2024-01-13 |
 | [Girls Just Want To Have Fun \- Acoustic](https://open.spotify.com/track/4pJm38kAY7eH3frMOk7h7m) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Girls Just Want To Have Fun \(Acoustic\)](https://open.spotify.com/album/6cD6QfJIwGbSRZwNiTScwZ) | 2:20 | 2022-06-26 | 2023-02-11 |
-| [Girls Just Want To Have Fun \- Acoustic](https://open.spotify.com/track/6Cg3fTIhncrGDUQllTj03U) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [Girls Just Want To Have Fun \(Acoustic\)](https://open.spotify.com/album/6wEyDHkvqmDqhgngJm2Xqn) | 2:33 | 2021-05-21 |  |
+| [Girls Just Want To Have Fun \- Acoustic](https://open.spotify.com/track/6Cg3fTIhncrGDUQllTj03U) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [Girls Just Want To Have Fun \(Acoustic\)](https://open.spotify.com/album/6wEyDHkvqmDqhgngJm2Xqn) | 2:33 | 2021-05-21 | 2024-04-13 |
 | [Go Your Own Way \(Acoustic\)](https://open.spotify.com/track/5nQtUF2gQhSvGk8ENAFAr5) | [Nora & Will](https://open.spotify.com/artist/7cvGxq0fxExeN11zWh59OL) | [Pop Acoustic Chill Out](https://open.spotify.com/album/1oPwxUkOSJPfD7mXPWKC1v) | 3:11 | 2023-05-09 | 2024-03-04 |
 | [Go Your Own Way \- Acoustic](https://open.spotify.com/track/7xwjFFd7k4SbDktySZRfLy) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw), [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Go Your Own Way \(Acoustic\)](https://open.spotify.com/album/2tQwErCmn4sCP9pm1A41CM) | 3:01 | 2023-01-06 |  |
 | [Green Green Grass \- Acoustic](https://open.spotify.com/track/672lv9gFJeWGQhmfLVOTnO) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [Green Green Grass \(Acoustic\)](https://open.spotify.com/album/3yB0O9r2ZlbizS47IRbKyq) | 2:12 | 2023-01-27 |  |
@@ -204,6 +204,7 @@
 | [Uptown Girl \- Acoustic](https://open.spotify.com/track/4qfLHdUxLYL664Si2iq9Mf) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Uptown Girl \(Acoustic\)](https://open.spotify.com/album/4piOFs8574bvoGwjdI7x4r) | 3:08 | 2022-09-15 | 2022-09-25 |
 | [Use Somebody \- Acoustic](https://open.spotify.com/track/15ifihnDCzcbGX3lQdUHKn) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Use Somebody \(Acoustic\)](https://open.spotify.com/album/6ccSCZ1k60gVpONCZZPvAm) | 2:59 | 2023-03-03 | 2023-06-24 |
 | [Valerie \- Acoustic](https://open.spotify.com/track/2maGjY9V7Z0RAVTyXFPyaX) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Valerie \(Acoustic\)](https://open.spotify.com/album/5GQMEtMsfqHsAfHXy02VOM) | 2:40 | 2023-01-20 | 2023-03-04 |
+| [Viva La Vida \- Acoustic](https://open.spotify.com/track/5MglzGLNOwOhQkOyk95Fg9) | [Jacob Wellfair](https://open.spotify.com/artist/3ltleRPN7qd0CQ3rNVMW2V) | [Viva La Vida \(Acoustic\)](https://open.spotify.com/album/7H9o1ODOGd05qUVRz2N7zl) | 2:53 | 2024-04-12 |  |
 | [Walking On Sunshine](https://open.spotify.com/track/1O91HwI2LMA8RglnZ2hbNH) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Walking On Sunshine](https://open.spotify.com/album/2xDMfqErOWYK71uDc4FvVE) | 2:31 | 2019-12-21 | 2024-03-04 |
 | [Walking on Sunshine \- Acoustic](https://open.spotify.com/track/2kOE6vW8uWheLITP2JYRPD) | [Richard Watts](https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI) | [Walking on Sunshine \(Acoustic\)](https://open.spotify.com/album/2jOhaWAGLkqVFBK2kTI7fX) | 2:59 | 2021-10-11 |  |
 | [We Are Stars \- Acoustic](https://open.spotify.com/track/5IHFSRi1mCCjt4z1Xrht5t) | [Callum Beattie](https://open.spotify.com/artist/4uFxymnU41sM7ytUCjuYTN) | [We Are Stars \- EP](https://open.spotify.com/album/2ZVs4ZGT7loGJinxPciE94) | 3:19 | 2019-10-13 |  |
@@ -223,6 +224,7 @@
 | [You Get What You Give \- Acoustic](https://open.spotify.com/track/3ZRRjUNc1OIGRBPz65VyxH) | [Plamina](https://open.spotify.com/artist/7x6A8huMVnPZ5wAzlw6HSp) | [You Get What You Give \(Acoustic\)](https://open.spotify.com/album/0QO3w3D9HNIrLR2y0rMltj) | 3:10 | 2023-09-10 |  |
 | [You Got It \- Acoustic](https://open.spotify.com/track/5a6e3orRKXQa8DKDpK1Rvk) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [You Got It \(Acoustic\)](https://open.spotify.com/album/7hfuFxdCaXDCJe0hFfqye7) | 3:24 | 2024-02-02 |  |
 | [You Gotta Be \- Acoustic](https://open.spotify.com/track/4RlBEdL5DOSslHLSUhKJn6) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [You Gotta Be \(Acoustic\)](https://open.spotify.com/album/3pR8DUQuR6uy44pYmFGw52) | 2:28 | 2019-10-13 |  |
+| [You Make My Dreams \(Come True\) \- Acoustic](https://open.spotify.com/track/5eVWuD9WNdT1ucIjoSgzNi) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [You Make My Dreams \(Come True\) \[Acoustic\]](https://open.spotify.com/album/5XoPbu9rDKMcqh5CYKm5ZI) | 2:30 | 2024-04-12 |  |
 | [You Make My Dreams \- Acoustic](https://open.spotify.com/track/31nV3lkDVnJlfHntOkIhpD) | [Alex Francis](https://open.spotify.com/artist/0aJPoUxg99e5iOzIdWxpUa) | [Foundations Acoustic](https://open.spotify.com/album/0uSBXq04gTbVFm1WgFQrei) | 3:25 | 2019-10-13 | 2024-03-04 |
 | [You Make My Dreams \- Acoustic](https://open.spotify.com/track/0u9jiSe6t4MLdkpTvg3Kdv) | [Hailey Gardiner](https://open.spotify.com/artist/77bmDZbZ65uoGKVTIzKcEc) | [You Make My Dreams \(Acoustic\)](https://open.spotify.com/album/3rWfZ8M7iIGKFybwCIXZTk) | 2:34 | 2021-05-28 |  |
 | [You Sexy Thing \- Acoustic](https://open.spotify.com/track/5J5M93wt6dvcGgS2R2kmBN) | [Thomas Law](https://open.spotify.com/artist/17oLmcamZOvri63kIr56CO) | [You Sexy Thing \(Acoustic\)](https://open.spotify.com/album/0XJNsp57dBIT3qt6x6024z) | 3:12 | 2024-01-12 |  |

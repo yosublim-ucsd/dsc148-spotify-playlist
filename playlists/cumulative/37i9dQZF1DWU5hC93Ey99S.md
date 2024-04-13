@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-495 songs - 1 day 2 hr 37 min
+496 songs - 1 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [Something Stronger](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [SHYA](https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO), [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA) | [Something Stronger](https://open.spotify.com/album/6jjwM9Sheset9qyHMMA4PB) | 2:07 | 2023-04-13 | 2024-01-06 |
 | [something we would dance to](https://open.spotify.com/track/3SCxgfMHjQsyQ7fSHw5c9K) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [rakkaus](https://open.spotify.com/album/1YgHQC8MHFGfoBXTkiSOFV) | 3:09 | 2023-06-01 | 2023-11-25 |
 | [Start Small \- Lamorn Remix](https://open.spotify.com/track/6tGZBNnzbG7iFa4LoH1bIy) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Lamorn](https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9) | [Second Nature \(Remixes\)](https://open.spotify.com/album/4C4V7xWan1E9J5zC30ySqD) | 4:58 | 2023-06-08 | 2024-01-06 |
+| [Stay](https://open.spotify.com/track/2vFDKP9FBZzxl3N1RcpR3E) | [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN), [Slackin Beats](https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw) | [Stay](https://open.spotify.com/album/2W16r4Pobhg7TG2aak050I) | 3:32 | 2024-04-11 |  |
 | [Stay By My Side](https://open.spotify.com/track/0yMIZRZLBG7rh3xiHAFR9Z) | [Alvix](https://open.spotify.com/artist/6kvuWxnfDOejSwLyAliFfY), [Mike Emilio](https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC), [Mangoo](https://open.spotify.com/artist/6ObeGN1qTsep95QRNOfNc3) | [Stay By My Side](https://open.spotify.com/album/6zM186jhhhYlW2Mz7J43UE) | 2:04 | 2024-02-08 |  |
 | [Still](https://open.spotify.com/track/22h6eRtujclF21iJkhjgWd) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Still](https://open.spotify.com/album/4VkpzC01x4AbUMVP7bJi4X) | 6:05 | 2024-03-07 | 2024-04-05 |
 | [Still I Fall](https://open.spotify.com/track/36skLe90q9uarxlas7YYV9) | [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC) | [Still I Fall](https://open.spotify.com/album/6UnMvdSSFbm0m93SHjIh9j) | 2:19 | 2024-02-08 |  |

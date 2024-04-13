@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Idina Menzel",
-  "num_followers": 115603,
+  "num_followers": 115748,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMTY4NDg2MCwwMDAwMDAwMDRhMWMyNmIxNzQ5N2IxZmExOTIwYTY5MDJmNTNlMzQ1",
+  "snapshot_id": "MTcxMjg5NDQ2MCwwMDAwMDAwMDQ2NWYzODU1OGY1MWQxOGJkYTRiNTQxNTk2MmQzZTBi",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -43,6 +43,38 @@
       "duration_ms": 194032,
       "name": "My Lovin'",
       "url": "https://open.spotify.com/track/1wo0s1LhR2Hkzkn6cwMzi6"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/37s44atpJQNpO442mw2riJ"
+      },
+      "artists": [
+        {
+          "name": "Flevans",
+          "url": "https://open.spotify.com/artist/3Pjo1vIMjTXaOCVI5YhB0l"
+        }
+      ],
+      "duration_ms": 232419,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/7BVg7i9g2khxnXuSWROE6I"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Only Tonight",
+        "url": "https://open.spotify.com/album/4FgOstRvfyEsrUcdSd5uaM"
+      },
+      "artists": [
+        {
+          "name": "Karl Wolf",
+          "url": "https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7"
+        }
+      ],
+      "duration_ms": 181709,
+      "name": "Only Tonight",
+      "url": "https://open.spotify.com/track/5gfapwWFXBh9rKr3usKL1k"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1401,22 +1433,6 @@
       "url": "https://open.spotify.com/track/6LSXQaauJxBhFv0NGJkOyh"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Crazay / Not The Same",
-        "url": "https://open.spotify.com/album/3Dmb0hg5sFVmHaBAK74fVE"
-      },
-      "artists": [
-        {
-          "name": "Art of Tones",
-          "url": "https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy"
-        }
-      ],
-      "duration_ms": 225572,
-      "name": "Crazay",
-      "url": "https://open.spotify.com/track/4r2X6g6gOiHBCaOOZJbdw7"
-    },
-    {
       "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Change Your Mind",
@@ -1783,26 +1799,6 @@
       "duration_ms": 224754,
       "name": "Get With You Tonight",
       "url": "https://open.spotify.com/track/0l8uYmcOJym0cJwUc1SLfV"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Better When You're Gone",
-        "url": "https://open.spotify.com/album/7vJ6q3MwQF2aj4Zbgq44gz"
-      },
-      "artists": [
-        {
-          "name": "PBH & JACK",
-          "url": "https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl"
-        },
-        {
-          "name": "Sash Sings",
-          "url": "https://open.spotify.com/artist/2vN55dx634ecSvLDhXxF6N"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Better When You're Gone",
-      "url": "https://open.spotify.com/track/2BoA9kgubZHEio7mK4EIxs"
     },
     {
       "added_at": "2023-01-13 05:01:00",

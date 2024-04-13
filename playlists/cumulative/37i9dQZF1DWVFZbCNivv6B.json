@@ -1193,6 +1193,32 @@
     },
     {
       "album": {
+        "name": "KEVIN P\u00d3RTATE BIEN",
+        "url": "https://open.spotify.com/album/78MQL4LdKOTHCyCoElZQhN"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        },
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        },
+        {
+          "name": "Go Golden Junk",
+          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112473,
+      "name": "Beats Sin Guardar: Anillazo",
+      "url": "https://open.spotify.com/track/4chDy3O5QuIY6Hu2tKlQgq"
+    },
+    {
+      "album": {
         "name": "Bendecido",
         "url": "https://open.spotify.com/album/490ijqG9AYZmFGGf7Z2YRL"
       },
@@ -2066,6 +2092,32 @@
       "duration_ms": 276000,
       "name": "Confundido",
       "url": "https://open.spotify.com/track/27RuS7SkQmWvmrtzVVujIo"
+    },
+    {
+      "album": {
+        "name": "Confundido",
+        "url": "https://open.spotify.com/album/3zzQbqU5BZ6SjDbrVOQOL6"
+      },
+      "artists": [
+        {
+          "name": "Solek 473",
+          "url": "https://open.spotify.com/artist/0Gn8KswCJzIBPgmEhCcoSU"
+        },
+        {
+          "name": "chicana rosas",
+          "url": "https://open.spotify.com/artist/27h1jkzOzlNtrQMHhaG3Nq"
+        },
+        {
+          "name": "473 Music",
+          "url": "https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159600,
+      "name": "Confundido",
+      "url": "https://open.spotify.com/track/1YrgSEIWCCZSgBmeo8ZmPL"
     },
     {
       "album": {
@@ -2960,7 +3012,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 231794,
       "name": "El Barrio No Perdona Nada",
       "url": "https://open.spotify.com/track/388PTbNS3PkINg1Pb4rmAS"
@@ -4399,6 +4451,28 @@
     },
     {
       "album": {
+        "name": "Iconic",
+        "url": "https://open.spotify.com/album/1fayUUy9sPcMDTuj7uIHOo"
+      },
+      "artists": [
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        },
+        {
+          "name": "La Calle Manda",
+          "url": "https://open.spotify.com/artist/5Fl0jSvvq3pewKcJIJ8Lqb"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216500,
+      "name": "Iconic",
+      "url": "https://open.spotify.com/track/3muXqhqIL8OIMZqoWkh9NE"
+    },
+    {
+      "album": {
         "name": "Igual Que Ayer",
         "url": "https://open.spotify.com/album/5b2rRtGErcIWSnKt9pd9Tq"
       },
@@ -5092,7 +5166,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 169875,
       "name": "La Pelicula",
       "url": "https://open.spotify.com/track/79LlVFfy8g6x5dzL2jayvT"
@@ -5162,7 +5236,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 204453,
       "name": "La Playa",
       "url": "https://open.spotify.com/track/6vODt4E4hZNCsJ3hFe5Ve2"

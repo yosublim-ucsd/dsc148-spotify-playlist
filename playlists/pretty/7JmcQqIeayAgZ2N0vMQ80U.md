@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7JmcQqIeayAgZ2N0vMQ80U.md) - [plain]
 
 > Clean Versions of Your Favourite Hits! Includes The Weeknd, Justin Bieber, Shawn Mendes and more! Cover: Taylor Swift
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 4,692 likes - 84 songs - 4 hr 23 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 4,692 likes - 85 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,5 +92,6 @@ pretty - [cumulative](/playlists/cumulative/7JmcQqIeayAgZ2N0vMQ80U.md) - [plain]
 | 82 | [face to face](https://open.spotify.com/track/1nBwBd3W4tE9FEOUcrsv83) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [face to face](https://open.spotify.com/album/60URYT9rYS0qh5HrZREBf2) | 2:50 |
 | 83 | [Vegas](https://open.spotify.com/track/3a7hrn5cgp6D53uPUTc3Ai) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [The Ride](https://open.spotify.com/album/6PCZCY9gIEGzpjS775RFAc) | 2:51 |
 | 84 | [Call Me Yours](https://open.spotify.com/track/5xnVemtVlcFpLu8PtZbMD6) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [Call Me Yours](https://open.spotify.com/album/4T7MQ3hv0M7lJoO4uONsoh) | 2:31 |
+| 85 | [Wait For You](https://open.spotify.com/track/0NZvn9BwjmFVcVkOiaEObS) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Wait For You](https://open.spotify.com/album/1g8TrWPCzdTW6VuXWhuVSo) | 2:55 |
 
-Snapshot ID: `NDcwNSxkNGI3ZmJhM2Y2M2I5YTY5MzVkNWM0MWM2YjU0ZDczODQ2YzQ5NGU2`
+Snapshot ID: `NDcwNiwwODNjNzZjMTZmYTE0NDFhY2Q4OWU4NTQ3NWY2YTA1YjM2MWExYzc0`

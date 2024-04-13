@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-477 songs - 1 day 8 hr 59 min
+478 songs - 1 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [HABU \(Hunting Hunters\)](https://open.spotify.com/track/036lUCkO84OSIZuS7tvzby) | [beGun](https://open.spotify.com/artist/1vzYJgLcl3TBUhdQFrBjJb), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [OKEANÍDES \(Inspired by 'The Outlaw Ocean' a book by Ian Urbina\)](https://open.spotify.com/album/4c6m4gy4gc9Sjz8FAPbz2R) | 4:50 | 2020-10-20\* | 2022-07-16 |
 | [Habu \(Hunting Hunters\)](https://open.spotify.com/track/437Wjihx3lkiJWSuro30tz) | [beGun](https://open.spotify.com/artist/1vzYJgLcl3TBUhdQFrBjJb), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [OKEANÍDES \(Inspired by ‘The Outlaw Ocean’ a book by Ian Urbina\)](https://open.spotify.com/album/4QsjXKskJdNWRVG31KAiV1) | 4:50 | 2024-03-01 |  |
 | [Hallonlandet](https://open.spotify.com/track/4bBQM9OuT0oJh18mgaK3h0) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP) | [Hallonlandet](https://open.spotify.com/album/3JCdeKnV0QHIPq6sivWb6j) | 3:14 | 2020-10-20\* | 2022-07-01 |
-| [Hammer Frenzy \- Edit](https://open.spotify.com/track/6Tb8TuoH4H0jueYjnmbMSV) | [Theo Alexander](https://open.spotify.com/artist/5XbjBRckIIX1J71EciI7vK) | [Hammer Frenzy](https://open.spotify.com/album/5mDz8VNJjXX3AYt24WfHLl) | 3:49 | 2020-10-21 |  |
+| [Hammer Frenzy \- Edit](https://open.spotify.com/track/6Tb8TuoH4H0jueYjnmbMSV) | [Theo Alexander](https://open.spotify.com/artist/5XbjBRckIIX1J71EciI7vK) | [Hammer Frenzy](https://open.spotify.com/album/5mDz8VNJjXX3AYt24WfHLl) | 3:49 | 2020-10-21 | 2024-04-13 |
 | [Hanover Birds](https://open.spotify.com/track/0y0v7z8CnX9BgUlU65Ivj6) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [For the Birds: The Birdsong Project, Vol\. III](https://open.spotify.com/album/01ocunqirX7p6foVZlzwEg) | 3:41 | 2024-03-01 |  |
 | [Happiness \- 2019 Remaster](https://open.spotify.com/track/4RKkM08C2YQFMmnUHTkl5P) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps \(2019 Remaster\)](https://open.spotify.com/album/2LnLKuyXwiV11E363M8h2Q) | 9:19 | 2020-12-10 | 2020-12-11 |
 | [Harvester of Sorrow](https://open.spotify.com/track/1K11KPcUynDLD0b0Ds1zpQ) | [Little Kruta](https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe), [Jenn Mundia](https://open.spotify.com/artist/23Cb4TkNrKVdjShbEnyHQq) | [Justice](https://open.spotify.com/album/7cYJR3GwWpo1sMvNkyNBJH) | 3:47 | 2020-10-20\* | 2021-04-20 |
@@ -395,6 +395,7 @@
 | [Surfaced \- From "Surface"](https://open.spotify.com/track/6yidnXvq5fN4ULkgk8FOIU) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Surface \(Music from the Original TV Series\)](https://open.spotify.com/album/0DZZLQvXZzgurc5wWFgAst) | 2:28 | 2022-07-29 | 2023-05-07 |
 | [Surges \(variation\)](https://open.spotify.com/track/0cHDJ22uxvHMUXXg1oJnUh) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations B\-Sides \(on Yamaha Upright, 1981\)](https://open.spotify.com/album/2G4IIha9htug2thniT54uy) | 5:20 | 2024-03-01 |  |
 | [Surges \(variation\)](https://open.spotify.com/track/7mWOySuZCM1exU4WVdBdDe) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Surges \(variation\)](https://open.spotify.com/album/2NYJCfJw0LhEwPccv3e9Fy) | 5:20 | 2020-10-21 | 2022-06-20 |
+| [Suspended \- Reimagined by Anne Müller](https://open.spotify.com/track/0Yfb5QTPgOLTpHdzRcwfr0) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd), [Anne Müller](https://open.spotify.com/artist/5sn5Gi5tH5ozpL8C3Y1uWl) | [Suspended \(Reimagined by Anne Müller\)](https://open.spotify.com/album/6qwHM77mCcgnqQgPKLr3TX) | 3:43 | 2024-04-12 |  |
 | [Sweet Coast](https://open.spotify.com/track/1ptDyLtS6vdBzy3yLhqGzI) | [Ann Annie](https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG) | [Sweet Coast](https://open.spotify.com/album/6X9fEBlxhE5PWZfrTx4jX6) | 2:33 | 2023-12-21 |  |
 | [Søndag](https://open.spotify.com/track/6grFQLBBBDRgDV8l18S7Zo) | [Søndag Søndag](https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H) | [Søndag](https://open.spotify.com/album/4hCn9xh31Xa4uNYtKpU1zP) | 3:13 | 2020-11-13 |  |
 | [Søndermarken \- Video Edit](https://open.spotify.com/track/2GMSzm2ZRK4aZSVEhd1LM2) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP) | [Søndermarken \(Video Edit\)](https://open.spotify.com/album/3K2dpXIQseN96P9cRJLonX) | 4:10 | 2020-10-20\* | 2022-07-29 |

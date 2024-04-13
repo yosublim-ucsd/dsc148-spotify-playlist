@@ -4,7 +4,7 @@
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-171 songs - 16 hr 2 min
+173 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bless You \(feat\. Banga, Fédération Internationale du Bruit & Sango\)](https://open.spotify.com/track/2VPcADvVPa33p88uXNKbgq) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [Banga](https://open.spotify.com/artist/00JYiJ5dIlaJ9gzyKffr8P), [Fédération Internationale du Bruit](https://open.spotify.com/artist/66hejf9UqC4CcRtxOrA3XV), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Noir Fever Présente Moonshine & La Fédération Internationale du Bruit](https://open.spotify.com/album/2lOknHa2VdKFSZR4JVSh4U) | 4:37 | 2024-03-07 |  |
 | [Break Through](https://open.spotify.com/track/19mFJSm6EbG0CqP5WbYIBT) | [UNLIMITED SOUL](https://open.spotify.com/artist/1YKPUOZchJZDIwoU7SZiZg), [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l) | [Break Through](https://open.spotify.com/album/746kHitSjl4A6lKrTvN1lu) | 6:52 | 2022-01-27 | 2023-12-08 |
 | [Breakfast In Soweto](https://open.spotify.com/track/3aYv0tyHlIYUwCq2SwZDlT) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Ben September](https://open.spotify.com/artist/1wAVD7w8mfrKNxpfe8dGEq), [Mandlin Beams](https://open.spotify.com/artist/7nR1JD6ljztZrEuxTNijpk) | [Breakfast In Soweto](https://open.spotify.com/album/3NfgQFaqUzxBCrvUME1iu7) | 7:14 | 2022-03-24 | 2023-11-24 |
+| [Burn and Fall](https://open.spotify.com/track/1P4vizVN5y4hYn3Nvo6ya6) | [Cindy\-Louise](https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD) | [Whispers of a Kingdom](https://open.spotify.com/album/7mOSdcCraigppco8tSQvR9) | 4:46 | 2024-04-12 |  |
 | [Champion](https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Champion](https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai) | 6:21 | 2023-08-24 | 2023-11-24 |
 | [Close My Eyes](https://open.spotify.com/track/1BCMXKkENzzr1ofF0iRQtX) | [Motives](https://open.spotify.com/artist/59622hInIYCDA9zHmfxxBu), [Jordan Arts](https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ) | [Close My Eyes](https://open.spotify.com/album/1cU0eE3jwlG2IAIj8WUroc) | 3:54 | 2024-03-07 |  |
 | [Closer](https://open.spotify.com/track/7G4v7DqAAJTOu8PBtE1qsS) | [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Closer / Ma Vie Celeste](https://open.spotify.com/album/3mRuix6vGc5tDkZCao3LiJ) | 6:32 | 2021-10-14 | 2023-02-10 |
@@ -48,6 +49,7 @@
 | [Fatela](https://open.spotify.com/track/58u8z6ia8GTm9yZlkmtCtV) | [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Fatela](https://open.spotify.com/album/0XkXn7Kotl8QMwP5YGdGHY) | 5:51 | 2023-02-09 | 2023-11-24 |
 | [Fearless Soul](https://open.spotify.com/track/1SaNMMJQmTgSrunz715hXV) | [Dj Obza](https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh) | [Uthando Lwami](https://open.spotify.com/album/5u9mpVCMNpjTCDpRbKNLtj) | 5:33 | 2024-03-14 |  |
 | [Fearless Soul](https://open.spotify.com/track/6eFxUTC1eh9G0TXyYEwbZj) | [Dj Obza](https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh) | [Uthando Lwami](https://open.spotify.com/album/4UsDSs9ldW6gDxe6RmIjSt) | 5:33 | 2022-02-17 | 2024-03-21 |
+| [Feel The Same](https://open.spotify.com/track/6B5QaJhvgupOlXTT0IBtZV) | [Jordan Arts](https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ), [Kryptic \(UK\)](https://open.spotify.com/artist/59UMeQA7p4vUyRBrlOWeSJ) | [Feel The Same](https://open.spotify.com/album/6CXdVWG2YBQVup4nZkFPiA) | 3:23 | 2024-04-12 |  |
 | [Find A Way \- Radio Edit](https://open.spotify.com/track/0pVye9Umd6bdju5Ztq2Jgb) | [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Azola](https://open.spotify.com/artist/7M9doTdfKCnqeW9whjgcuh) | [Find A Way](https://open.spotify.com/album/3bRfWRTaRfbSpKnWoShDyb) | 4:18 | 2022-04-28 | 2024-03-08 |
 | [Fogo](https://open.spotify.com/track/6pNwEGlgpNQIKs4R5UQ7Oc) | [Arcade Saiyans](https://open.spotify.com/artist/3dQj2JqOjkdj6DC50whkn2), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Fogo](https://open.spotify.com/album/4xXJgKyIOOz5vke0XhzZBj) | 4:49 | 2024-01-25 |  |
 | [Fool Me](https://open.spotify.com/track/1X1IDV1HeEMqpPkKnt1Srx) | [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8), [Baby S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6), [Jay Sax](https://open.spotify.com/artist/2QLRzMotnSVwPw8iXdsVPC) | [Amukelani](https://open.spotify.com/album/2mNIgnRjel4NFdeE5w75eO) | 7:55 | 2023-02-09 | 2023-11-24 |

@@ -1,12 +1,12 @@
 {
   "description": "Rock out while you work out! Follow for updates!",
-  "num_followers": 60371,
+  "num_followers": 60455,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "MjEzNCw5MTAxNzVkM2RmNTM5M2IwNDAxYzY1MmQ4NTMyNTI0MzM4YTM5MjVj",
+  "snapshot_id": "MjEzNywxZTFjOWEwNTYxYzBmMGMyNzBjOWYzNzA2YjA3OTk3NTc5OWRlMGEz",
   "tracks": [
     {
       "added_at": "2024-01-19 15:05:09",
@@ -127,6 +127,30 @@
       "duration_ms": 211153,
       "name": "Die About It",
       "url": "https://open.spotify.com/track/1ieoDxFtEJjYoLskQTHF7s"
+    },
+    {
+      "added_at": "2024-04-12 14:05:48",
+      "album": {
+        "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
+        "url": "https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        },
+        {
+          "name": "Eric Vanlerberghe",
+          "url": "https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2"
+        },
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 263161,
+      "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
+      "url": "https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN"
     },
     {
       "added_at": "2023-10-13 14:03:11",

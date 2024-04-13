@@ -2201,6 +2201,28 @@
     },
     {
       "album": {
+        "name": "Take It To The Country",
+        "url": "https://open.spotify.com/album/2HTMQHiALfWzN183lrWwaZ"
+      },
+      "artists": [
+        {
+          "name": "Lathan Warlick",
+          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
+        },
+        {
+          "name": "Johnny Day",
+          "url": "https://open.spotify.com/artist/6ghe1ekLf6O0HUaKGBsNcA"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145587,
+      "name": "Take It To The Country",
+      "url": "https://open.spotify.com/track/1qcjsNLdP7D9RLx41TBOD4"
+    },
+    {
+      "album": {
         "name": "Teenage Dream 2 (with Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/462FYqbPKtgQrdP390TKuA"
       },

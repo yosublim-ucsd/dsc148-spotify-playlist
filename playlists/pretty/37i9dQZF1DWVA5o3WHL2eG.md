@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover:  Ellen Allien
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,837 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,838 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 7 | [Daylight](https://open.spotify.com/track/2gtokhCdY1vgMmW6TdGW3q) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Daylight](https://open.spotify.com/album/7Hrj6X4EWNxsXEqYF2A9Y3) | 2:40 |
 | 8 | [Ravergirl](https://open.spotify.com/track/2qRvOQSjhmussrIPBe8SRC) | [Blümchen](https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh) | [Ravergirl](https://open.spotify.com/album/51ipbR3ZPjPpbiQPoX0Y9u) | 2:38 |
 | 9 | [Ich liebe dich nicht](https://open.spotify.com/track/12rGjQA0PGmVV0Y6LMFWr5) | [Eunique](https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe) | [Ich liebe dich nicht](https://open.spotify.com/album/6ZBmRYtK2zBhUDLGaSGHY0) | 2:38 |
-| 10 | [Nagel](https://open.spotify.com/track/2QIKyERwcoI9M5oEcRlVEA) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [Nagel](https://open.spotify.com/album/7N2lhEDlcMWaQ10SEZ0tMh) | 1:42 |
-| 11 | [viele](https://open.spotify.com/track/38zw0z87YOu2zDY2DbgiyV) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [viele](https://open.spotify.com/album/4as6aHBiCwqiaXzxuIGz7A) | 3:39 |
-| 12 | [atlantik](https://open.spotify.com/track/4xEcgqxZ1H1LwkXHLJ362C) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [atlantik](https://open.spotify.com/album/0Z68a7uPj7L15g2xEUPV4f) | 2:54 |
+| 10 | [atlantik](https://open.spotify.com/track/4xEcgqxZ1H1LwkXHLJ362C) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [atlantik](https://open.spotify.com/album/0Z68a7uPj7L15g2xEUPV4f) | 2:54 |
+| 11 | [Nagel](https://open.spotify.com/track/2QIKyERwcoI9M5oEcRlVEA) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [Nagel](https://open.spotify.com/album/7N2lhEDlcMWaQ10SEZ0tMh) | 1:42 |
+| 12 | [viele](https://open.spotify.com/track/38zw0z87YOu2zDY2DbgiyV) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [viele](https://open.spotify.com/album/4as6aHBiCwqiaXzxuIGz7A) | 3:39 |
 | 13 | [pick me up](https://open.spotify.com/track/3gWtBd5U14O4JyRqte3ijm) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [pick me up](https://open.spotify.com/album/0UAsFgBzXsHBT8ovfLnYzr) | 2:46 |
 | 14 | [Hurting](https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Hurting](https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap) | 2:37 |
 | 15 | [Hayatim](https://open.spotify.com/track/6rgLIkKKQBOOCTJtSmkfXX) | [MEL](https://open.spotify.com/artist/6FlJleUXbFb19c0U2BocbM) | [Hayatim](https://open.spotify.com/album/63KuKp6GAY1CByNywZFctP) | 2:09 |
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 38 | [quarter life crisis](https://open.spotify.com/track/7rgsossU7btG3nszAezxVI) | [ameliy](https://open.spotify.com/artist/3T4fIhGxnUtCJ84Us8H8Gj) | [quarter life crisis](https://open.spotify.com/album/1DDQvh2iy3invCamNJLFre) | 2:38 |
 | 39 | [Botanical Garden](https://open.spotify.com/track/7bx7MDIg8p098HHmsJebzl) | [Anna Erhard](https://open.spotify.com/artist/11OTiI6xYGpLxS3aoVkI9e) | [Botanical Garden](https://open.spotify.com/album/7bcLaytbnuWJCfqa2JdyBc) | 3:08 |
 | 40 | [viertel nach vier](https://open.spotify.com/track/5xQeAKWejvXRNW666BaoOh) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [viertel nach vier](https://open.spotify.com/album/3GLllag9hnXGkx2RZeEJL7) | 2:33 |
-| 41 | [FBGM](https://open.spotify.com/track/7yxDtXHBvrL8WLNKGHcDFh) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR) | [FBGM](https://open.spotify.com/album/6kkf72bft08zQ1SRjZfgE2) | 3:02 |
-| 42 | [Deine Straße](https://open.spotify.com/track/585TXTK16mHP1qQv1vFOJE) | [Romy](https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX) | [Deine Straße](https://open.spotify.com/album/5bCo4mqyIkUvg7KyrIre0V) | 2:35 |
+| 41 | [Deine Straße](https://open.spotify.com/track/585TXTK16mHP1qQv1vFOJE) | [Romy](https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX) | [Deine Straße](https://open.spotify.com/album/5bCo4mqyIkUvg7KyrIre0V) | 2:35 |
+| 42 | [FBGM](https://open.spotify.com/track/7yxDtXHBvrL8WLNKGHcDFh) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR) | [FBGM](https://open.spotify.com/album/6kkf72bft08zQ1SRjZfgE2) | 3:02 |
 | 43 | [Tomboy Tussi](https://open.spotify.com/track/75u5MxEYwyl5uYFSOv4NPW) | [NASHI44](https://open.spotify.com/artist/2v6rUpbFB5iHW6hR91BIpL) | [Tomboy Tussi](https://open.spotify.com/album/1IjJq9F5l6lYHJSRrAVmBG) | 2:59 |
 | 44 | [Skirt On Pants](https://open.spotify.com/track/1nUkCpO17PMooe6uRAkGkw) | [KÄSSY](https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6) | [Skirt On Pants](https://open.spotify.com/album/4ovWAdWdbaaRx3X4SGCFPO) | 2:51 |
-| 45 | [PUSSY](https://open.spotify.com/track/14hAks9JaH82iOsr3q6QOO) | [IUMA](https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a) | [PUSSY](https://open.spotify.com/album/2RutdwnAJOpDdfb37y679D) | 3:40 |
-| 46 | [Perfect Pretender](https://open.spotify.com/track/26fxJQCaIH4RkuuZVVDeDT) | [Annie Taylor](https://open.spotify.com/artist/3oR0fg4OcsTKOjVY17u1e0) | [Perfect Pretender](https://open.spotify.com/album/3RnxG2oAkg701EZBQ0p6z7) | 3:23 |
+| 45 | [Perfect Pretender](https://open.spotify.com/track/26fxJQCaIH4RkuuZVVDeDT) | [Annie Taylor](https://open.spotify.com/artist/3oR0fg4OcsTKOjVY17u1e0) | [Perfect Pretender](https://open.spotify.com/album/3RnxG2oAkg701EZBQ0p6z7) | 3:23 |
+| 46 | [PUSSY](https://open.spotify.com/track/14hAks9JaH82iOsr3q6QOO) | [IUMA](https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a) | [PUSSY](https://open.spotify.com/album/2RutdwnAJOpDdfb37y679D) | 3:40 |
 | 47 | [Remnant](https://open.spotify.com/track/0IdPI6CYYivWGCiLCFCdHC) | [Nola Kin](https://open.spotify.com/artist/4rr8k0k3ZojhAxZuz1fJ9w) | [Remnant](https://open.spotify.com/album/3qMqPPOOOHTPbqGi5wMP8g) | 3:58 |
 | 48 | [Monotonie](https://open.spotify.com/track/3meCMeBzYFfg2LBPiT6uYd) | [Göhrl](https://open.spotify.com/artist/3hNjk9YEfdn4qvKHhsJS8L) | [Monotonie](https://open.spotify.com/album/7Fm4LIGKDmucKtm7DWQPsW) | 2:40 |
 | 49 | [Emotional Chaos](https://open.spotify.com/track/1ljnscwQoU6UUxNxFcJFkD) | [Anthea](https://open.spotify.com/artist/0Igu5usy7riLV2UQ3iybn5) | [Emotional Chaos](https://open.spotify.com/album/26fuyeleBnqNc3UQ01DWRE) | 2:32 |

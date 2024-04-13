@@ -266,7 +266,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 202866,
       "name": "El Dia Que Me Quieras",
       "url": "https://open.spotify.com/track/76QoEfEGQKIVnYsQufETfK"
@@ -586,6 +586,24 @@
       "duration_ms": 269053,
       "name": "La Rosca - Versi\u00f3n Remasterizada 2008",
       "url": "https://open.spotify.com/track/2ssFUjK5KdjiaeaI2yiGv7"
+    },
+    {
+      "album": {
+        "name": "Modo Tango",
+        "url": "https://open.spotify.com/album/5hztYEebSTjDTFEV1gO9hK"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Junior Lescano",
+          "url": "https://open.spotify.com/artist/0InckL49BuCjxQZuSPg9DV"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155309,
+      "name": "La \u00daltima Copa",
+      "url": "https://open.spotify.com/track/5QWi1iGvTappdOGes0CAPE"
     },
     {
       "album": {

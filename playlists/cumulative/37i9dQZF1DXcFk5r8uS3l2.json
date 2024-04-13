@@ -840,10 +840,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 170440,
       "name": "Black Widow",
       "url": "https://open.spotify.com/track/4DWr9jdFuoELQ06HLCnGeJ"
+    },
+    {
+      "album": {
+        "name": "Denim & Diamonds",
+        "url": "https://open.spotify.com/album/6RqohXVE3YRsRbaS9sm5G2"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170440,
+      "name": "Black Widow",
+      "url": "https://open.spotify.com/track/4ZatCCisvqrcIWx2Kshb33"
     },
     {
       "album": {
@@ -1574,7 +1592,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 209769,
       "name": "Fast",
       "url": "https://open.spotify.com/track/4lldt4nIrEzASVTCgQHAmC"
@@ -4111,6 +4129,24 @@
     },
     {
       "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/6VEMeSXgvoxGKNC8dHOsg5"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133635,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/5rsnfjFFkwpWWKVSYOEjoH"
+    },
+    {
+      "album": {
         "name": "When the Cellar Children See the Light of Day",
         "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
       },
@@ -5015,6 +5051,24 @@
     },
     {
       "album": {
+        "name": "Rides On",
+        "url": "https://open.spotify.com/album/2lu9WD2gKfgX0YlgP7o2vu"
+      },
+      "artists": [
+        {
+          "name": "The Nude Party",
+          "url": "https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278474,
+      "name": "Somebody Tryin\u2019 to Hoodoo Me",
+      "url": "https://open.spotify.com/track/0lFVNmrmtrcG5H0ODj8jcT"
+    },
+    {
+      "album": {
         "name": "Cherry Red Boots / Somebody Tryin\u2019 To HooDoo Me",
         "url": "https://open.spotify.com/album/12Ms9IQbpfywaJWETeoeBI"
       },
@@ -5026,7 +5080,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 278474,
       "name": "Somebody Tryin\u2019 to Hoodoo Me",
       "url": "https://open.spotify.com/track/3Od56s7dbG5gcDVYnSh1RR"

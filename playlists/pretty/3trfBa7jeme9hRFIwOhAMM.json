@@ -1,12 +1,12 @@
 {
   "description": "bringing you all things house!! follow me on tour <a href=\"http://www.instagram.com/curbi\">here</a> and don't forget to <a href=\"https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT\">follow my artist profile</a>..",
-  "num_followers": 4219,
+  "num_followers": 4221,
   "original_name": "ALL THINGS HOUSE - CURBI PRESENTS",
   "owner": {
     "name": "Curbi",
     "url": "https://open.spotify.com/user/curbimusic"
   },
-  "snapshot_id": "MTcwOCxkZGM1ODY1OWIwMmJkZjE1NjA3NDI0MzRkMmEwOGU1NWI1ZTNjMDYx",
+  "snapshot_id": "MTcxMiw5NWU1ODdiMmU3OGIzMzg5MTc3OWYwYWJhNzBhZmRjMzc4MzM4OTIz",
   "tracks": [
     {
       "added_at": "2024-04-04 22:39:46",
@@ -735,6 +735,74 @@
       "duration_ms": 194072,
       "name": "Once Again",
       "url": "https://open.spotify.com/track/1xlflYpC5NkXEHkWLUCzor"
+    },
+    {
+      "added_at": "2024-04-12 10:42:14",
+      "album": {
+        "name": "Un Poquito Mas",
+        "url": "https://open.spotify.com/album/49zJcHsL4QwhqFmcmbb0T8"
+      },
+      "artists": [
+        {
+          "name": "Alure",
+          "url": "https://open.spotify.com/artist/2at01aWUeF5RX0bm7M7LjP"
+        },
+        {
+          "name": "Diegosan",
+          "url": "https://open.spotify.com/artist/3bP2rzPSyVW4PHwKaEVv7x"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Un Poquito Mas",
+      "url": "https://open.spotify.com/track/4SvvCSDxgjhtqZfXHZT8sc"
+    },
+    {
+      "added_at": "2024-04-12 10:44:25",
+      "album": {
+        "name": "CASH",
+        "url": "https://open.spotify.com/album/5yPmLk3SMzOtbkHp9jnivj"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "CASH",
+      "url": "https://open.spotify.com/track/10Tg2LXtZG5yHyrYxM8dEk"
+    },
+    {
+      "added_at": "2024-04-12 10:46:17",
+      "album": {
+        "name": "Ripped",
+        "url": "https://open.spotify.com/album/4ja6Z1907VEhH6KqJUPxZ6"
+      },
+      "artists": [
+        {
+          "name": "BODYWORX",
+          "url": "https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Ripped",
+      "url": "https://open.spotify.com/track/4myFbg33jYjxnwVORNZVVK"
+    },
+    {
+      "added_at": "2024-04-12 10:47:32",
+      "album": {
+        "name": "I Can Feel It",
+        "url": "https://open.spotify.com/album/1vOAMDpExTt92TT00r2TWY"
+      },
+      "artists": [
+        {
+          "name": "Mat Frank",
+          "url": "https://open.spotify.com/artist/40FuCqCj5Suu3gMsrVnlIQ"
+        }
+      ],
+      "duration_ms": 156576,
+      "name": "I Can Feel It",
+      "url": "https://open.spotify.com/track/7mfFf3S4PVwRwekLT6YiWe"
     }
   ],
   "unique_name": "ALL THINGS HOUSE - CURBI PRESENTS",

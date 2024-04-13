@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 353458,
+  "2024-04-13": 353466,
   "date_first_scraped": "2022-01-18",
   "description": "Your daily update of the most viral tracks right now - Brazil.",
   "name": "Viral 50 - Brazil",
@@ -2545,7 +2545,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 156150,
       "name": "Amor Na Praia",
       "url": "https://open.spotify.com/track/3FB06ULqN0WNUSQ3UaMZnF"
@@ -5331,6 +5331,36 @@
       "duration_ms": 155062,
       "name": "Bateu 20H",
       "url": "https://open.spotify.com/track/7CLwQ5MSaQjUD0Va27RAp1"
+    },
+    {
+      "album": {
+        "name": "Bato Com o Placo na Cara",
+        "url": "https://open.spotify.com/album/3NBVPc29y7AM6WYLGF65ye"
+      },
+      "artists": [
+        {
+          "name": "DJ DH",
+          "url": "https://open.spotify.com/artist/628RT3hV9yv9lcU3qwfSfL"
+        },
+        {
+          "name": "MC Taradin",
+          "url": "https://open.spotify.com/artist/1a1NhMwTdDtPs8olF6T3id"
+        },
+        {
+          "name": "Cjtinha",
+          "url": "https://open.spotify.com/artist/31eNuqFkYk4xEDGI9mVhLE"
+        },
+        {
+          "name": "DN22",
+          "url": "https://open.spotify.com/artist/2A1Q2yELZIQCb8m300tj7N"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Bato Com o Placo na Cara",
+      "url": "https://open.spotify.com/track/7vEM40x4fO5zjDCXpm3PZa"
     },
     {
       "album": {
@@ -34628,6 +34658,24 @@
     },
     {
       "album": {
+        "name": "Praise Jah In The Moonlight (Live)",
+        "url": "https://open.spotify.com/album/1GhTKndy4z6y8sJoKXi1kt"
+      },
+      "artists": [
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263040,
+      "name": "Praise Jah In The Moonlight",
+      "url": "https://open.spotify.com/track/7ueuqvQkKA9k1Pys0hB5br"
+    },
+    {
+      "album": {
         "name": "Contradi\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
       },
@@ -39699,7 +39747,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 169717,
       "name": "so american",
       "url": "https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV"

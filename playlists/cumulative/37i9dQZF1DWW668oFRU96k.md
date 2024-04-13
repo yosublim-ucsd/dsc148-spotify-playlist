@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Robin Schulz x Timmy Trumpet x KOPPY
 
-990 songs - 2 day 1 hr 14 min
+992 songs - 2 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -611,6 +611,7 @@
 | [No Explanations](https://open.spotify.com/track/6C8nmYYiWCess3VeX3z8ub) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [ZHANG YANQI](https://open.spotify.com/artist/0ygjYRcmPUdSwSnN47xq8F) | [No Explanations](https://open.spotify.com/album/5DfXqXeruwDNlfcCxxjKN9) | 3:07 | 2023-03-30 | 2023-05-05 |
 | [No Heart](https://open.spotify.com/track/0KQpXKWgrkVZ7HvG3rtspC) | [Franny J.](https://open.spotify.com/artist/3w7gOS9jm6Savw7GcKquce), [Epic Flyway](https://open.spotify.com/artist/2q0Bh8ZXwBCSvfBP5nNlLJ), [Dare County](https://open.spotify.com/artist/3x6K65pMW3Ei35TXKC03rL) | [No Heart](https://open.spotify.com/album/4q0u4afIeOHQ8YTKtrfCnC) | 2:50 | 2024-02-01 | 2024-03-08 |
 | [No Limit To Our Love \(feat\. Jantine\)](https://open.spotify.com/track/0T4AEmyVegZkqHw1TOHXkZ) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [Jantine](https://open.spotify.com/artist/3Hlhy5mpM8cT1Guv1GOhQG) | [No Limit To Our Love \(feat\. Jantine\)](https://open.spotify.com/album/2nQ2dpnzdS2pKR6cRHqGR5) | 2:32 | 2024-01-18 | 2024-02-23 |
+| [NO ONE](https://open.spotify.com/track/7mNq7XsZMF7SxG6VfssD3d) | [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8) | [NO ONE](https://open.spotify.com/album/5XFyY6cCDLYOWGg4GbRs4f) | 3:01 | 2024-04-11 |  |
 | [NO PLACE IS TOO FAR \(feat\. Whethan & Selah Sol\)](https://open.spotify.com/track/5vzNApeGxycrRYkK1PanGR) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Selah Sol](https://open.spotify.com/artist/3ZnFOxqZB6PMOGElerc68j) | [NO PLACE IS TOO FAR \(feat\. Whethan & Selah Sol\)](https://open.spotify.com/album/4clcPcjqdPIPJjYghDiEZf) | 3:00 | 2023-08-17 | 2023-09-22 |
 | [No Reason](https://open.spotify.com/track/70JiPk5FBlc6eymIcHPCxU) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [No Reason](https://open.spotify.com/album/0noR7T69B8RDZ71B5VIIrt) | 4:00 | 2023-03-16 | 2023-04-21 |
 | [No Rules](https://open.spotify.com/track/1npTTol6bjMu5d92nSSAzQ) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [No Rules](https://open.spotify.com/album/33U85hMhMP9VCxoB2psDpm) | 2:22 | 2023-09-07 | 2023-10-13 |
@@ -796,6 +797,7 @@
 | [Sing Your Lullaby](https://open.spotify.com/track/3LGqmgDKefGR9zp3h92VmW) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Sing Your Lullaby](https://open.spotify.com/album/61nC52SUGV19X5i0VJoyoa) | 3:42 | 2023-02-02 | 2023-02-10 |
 | [Skin On Skin](https://open.spotify.com/track/6NnFDi8yXzPGmr2ykbf58n) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Nightvision EP](https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ) | 2:52 | 2023-11-30 | 2024-01-05 |
 | [SLAY](https://open.spotify.com/track/6ZyGhVSyhi0TJYob0YxyCt) | [Ax3S](https://open.spotify.com/artist/78dCJPhjFWkzsdCVpTs5pt) | [SLAY](https://open.spotify.com/album/0EMFl3SrwgihP3LuERXx3x) | 2:30 | 2024-02-22 | 2024-03-29 |
+| [Smoothie \- Arkins Remix](https://open.spotify.com/track/41i0luwYM6xe8u0TaD3JKU) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [iScreaM Vol.31 : Smoothie Remix](https://open.spotify.com/album/1SXuAONZqhv9YDMvfxunRp) | 3:07 | 2024-04-11 |  |
 | [So Hï](https://open.spotify.com/track/4TNiHQs5zO3slGpbBwutVB) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [So Hï](https://open.spotify.com/album/5GA1vg8Xv8zqtNedFbHasK) | 3:32 | 2024-03-21 |  |
 | [Somebody \(2024\)](https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Somebody \(2024\)](https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH) | 2:33 | 2024-02-08 | 2024-03-15 |
 | [Someone To Forget](https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Someone To Forget](https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO) | 4:01 | 2023-05-11 | 2023-06-16 |

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "Hits virales, tendencias y challenges del futuro.",
-  "name": "el hype",
+  "description": "\ud83e\udd42\ud83c\udf7e\ud83e\uddfc\ud83e\udee7\ud83d\udec1",
+  "name": "El Hype",
   "tracks": [
     {
       "album": {
@@ -1424,6 +1424,24 @@
       "duration_ms": 137637,
       "name": "Conexiones",
       "url": "https://open.spotify.com/track/0HGanFHQi8NwjCDtNSMgQR"
+    },
+    {
+      "album": {
+        "name": "Cono Hielo",
+        "url": "https://open.spotify.com/album/3EZ26kQ4i3COcxoMcqlZd3"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177806,
+      "name": "Cono Hielo",
+      "url": "https://open.spotify.com/track/13QemvwRKbCP5jf8MEkEQM"
     },
     {
       "album": {
@@ -2936,7 +2954,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 148644,
       "name": "Hombres y Mujeres",
       "url": "https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW"
@@ -3286,6 +3304,32 @@
       "duration_ms": 211119,
       "name": "LA NIEBLA",
       "url": "https://open.spotify.com/track/6P70hz3JRyFLp0tL4HWrZD"
+    },
+    {
+      "album": {
+        "name": "LA QUE PUEDE, PUEDE",
+        "url": "https://open.spotify.com/album/4DAzoHpj0GPwj05SWNGWgY"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154890,
+      "name": "LA QUE PUEDE, PUEDE",
+      "url": "https://open.spotify.com/track/3vqd0xW1QefjkRPuKSPtib"
     },
     {
       "album": {
@@ -3808,7 +3852,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 196800,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
@@ -4226,7 +4270,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 179405,
       "name": "Mentirosa Remix",
       "url": "https://open.spotify.com/track/5bgkgmz1bx7GxD6Kh6xeS8"
@@ -4976,6 +5020,24 @@
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
+    },
+    {
+      "album": {
+        "name": "OUKE",
+        "url": "https://open.spotify.com/album/7gjbeDtuwNMAjc1dpPJnty"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178263,
+      "name": "OUKE",
+      "url": "https://open.spotify.com/track/6qirwywrdINSxd22fTcECe"
     },
     {
       "album": {

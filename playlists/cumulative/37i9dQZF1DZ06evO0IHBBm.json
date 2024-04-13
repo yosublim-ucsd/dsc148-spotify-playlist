@@ -1011,6 +1011,32 @@
     },
     {
       "album": {
+        "name": "Vai Ficar Bem",
+        "url": "https://open.spotify.com/album/4eyi0ltwprtwvtFB88Q8Fg"
+      },
+      "artists": [
+        {
+          "name": "Marias",
+          "url": "https://open.spotify.com/artist/6yDG1IZDMLxh1M82PFOLgM"
+        },
+        {
+          "name": "Nai Lopes",
+          "url": "https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116640,
+      "name": "Vai Ficar Bem",
+      "url": "https://open.spotify.com/track/1UOs25N5hEnp4Ic6NeJAva"
+    },
+    {
+      "album": {
         "name": "Obra Prima",
         "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
       },

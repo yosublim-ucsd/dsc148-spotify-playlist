@@ -4,7 +4,7 @@
 
 > Perreo hecho en Argentina\. Foto: TAICHU.
 
-232 songs - 11 hr 7 min
+234 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Mi](https://open.spotify.com/track/1m51YRtMiW1o5sZVx4cIds) | [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [A Mi](https://open.spotify.com/album/2MgEssbkkaQtdmztMWUyRQ) | 3:34 | 2023-01-27 | 2023-04-01 |
 | [A Veces \(feat\. Feid\)](https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [A Veces \(feat\. Feid\)](https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC) | 3:11 | 2022-11-18 |  |
 | [Aayy](https://open.spotify.com/track/1t9ACqzC2bq1Sdbsmz9mB4) | [Carla Clavijo](https://open.spotify.com/artist/4ljl1dpfeJKgNzhTIo6MEj), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Aayy](https://open.spotify.com/album/5zNmydFt8hQTXAicpO8voH) | 2:56 | 2022-12-23 | 2023-07-29 |
+| [Abrazaditos](https://open.spotify.com/track/7wJ6YSZqZCsZlmmGb9Qx6Z) | [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Abrazaditos](https://open.spotify.com/album/3h7OLtE2e8qlFpXm1tHJj3) | 2:44 | 2024-04-12 |  |
 | [ACTITUD](https://open.spotify.com/track/6B4eP363FzRSfzGHR9yObo) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [ACTITUD](https://open.spotify.com/album/0MDOQ257yz4SQeBnuIaJP2) | 2:39 | 2022-05-24 | 2023-02-04 |
 | [Adan y Eva](https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Adan y Eva](https://open.spotify.com/album/1XBTyV1if5X9sU4IhpfH5R) | 4:18 | 2022-05-24 | 2023-03-18 |
 | [Animal](https://open.spotify.com/track/0mnp9pNxEm4PF7cNOzSyhI) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Animal Pt\. 1](https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR) | 3:23 | 2022-05-24 | 2022-06-04 |
@@ -219,6 +220,7 @@
 | [Todo](https://open.spotify.com/track/6QoVCBTmF5BMtXyFq80AJ2) | [Tygas](https://open.spotify.com/artist/1mLmCADd22UpYNqCAykYKT), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh) | [Todo](https://open.spotify.com/album/53G1JnSG1R69cHCBz65gue) | 1:58 | 2022-11-18 | 2023-05-13 |
 | [TOKENS](https://open.spotify.com/track/4Gi4HuhMMfgo5LuqE52zov) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [TOKENS](https://open.spotify.com/album/6sggNseMaAIxr92DZh22rf) | 2:25 | 2023-01-20 | 2023-07-29 |
 | [TOP 5](https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 2:26 | 2022-05-24 |  |
+| [Tu Tormento](https://open.spotify.com/track/1fgFZZ19cPaJtoJbu0IXi1) | [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL), [Keed Baby](https://open.spotify.com/artist/5QSZ4mP3ycTPK4b0VJNmK4) | [Tu Tormento](https://open.spotify.com/album/7gg9kKwCBhfqlGEYicSh8m) | 2:16 | 2024-04-12 |  |
 | [TUYYO](https://open.spotify.com/track/01UVX4Rxtvh5tIBjwkEXy0) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [TUYYO](https://open.spotify.com/album/5avYEg2zhAaFaJK82TrobT) | 3:03 | 2022-05-24 | 2023-02-04 |
 | [UBI](https://open.spotify.com/track/3AJkvNYRAHCoWvSqInm55X) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [UBI](https://open.spotify.com/album/1RPkK6tm0Oy0scMNwNdkDW) | 2:47 | 2022-05-24 | 2022-11-19 |
 | [UH LA LA](https://open.spotify.com/track/5yLKkXLJKwygToVcT5CISv) | [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [Lisan Beat](https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi), [BAXIAN](https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X) | [SIX PACK](https://open.spotify.com/album/7kE61YnaJ8Lf0iFK8Jzz9a) | 1:57 | 2022-12-06 | 2023-10-08 |

@@ -1,7 +1,7 @@
 {
-  "2024-04-12": 6735,
+  "2024-04-13": 6748,
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/61aqbPYgQBxkHz5zs4L1YO?si=eS9sZMWET0uuzX78eLNfMg\">Steve Dyer</a>",
+  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N?si=X8HRCEU8TmakIvRd6vXg1g\">Thandiswa</a>",
   "name": "Jazz NXT",
   "tracks": [
     {
@@ -1864,6 +1864,28 @@
     },
     {
       "album": {
+        "name": "Kulungile",
+        "url": "https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        },
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346924,
+      "name": "Kulungile",
+      "url": "https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC"
+    },
+    {
+      "album": {
         "name": "Convergence Bekezela Siyeza",
         "url": "https://open.spotify.com/album/3tmmJjesjQuWYgA2qvafpe"
       },
@@ -1951,6 +1973,24 @@
       "duration_ms": 602023,
       "name": "Lesedi",
       "url": "https://open.spotify.com/track/0nL1LtNr9zcl0wgGOK6HJm"
+    },
+    {
+      "album": {
+        "name": "Libations: Omnyama",
+        "url": "https://open.spotify.com/album/5uTHEvO4Nei1U9zcAfat8c"
+      },
+      "artists": [
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365945,
+      "name": "Libations: Omnyama",
+      "url": "https://open.spotify.com/track/6Bd3QTwgistsqEXT5NfQ7d"
     },
     {
       "album": {

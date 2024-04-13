@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,199 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,238 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 70 | [Please Excuse This Funk Up](https://open.spotify.com/track/2RPs5rAbwaMrjlguUC9jux) | [Infectious Grooves](https://open.spotify.com/artist/32R6YbLokiJpZpvFX9Ewo9) | [Mas Borracho](https://open.spotify.com/album/5DYPTOnwkK4f8qmuhoowKH) | 4:37 |
 | 71 | [Sexy Tonight](https://open.spotify.com/track/2nuAMryuRuixKZbk4Jmfes) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Like It on Top](https://open.spotify.com/album/26lGPtKtc4SneVwBh67pW8) | 3:35 |
 | 72 | [Lifted](https://open.spotify.com/track/26QzRihsoqGy1NlKQF5fwu) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Lifted](https://open.spotify.com/album/4ViSf3khdEm6rgSofBvjrk) | 3:12 |
-| 73 | [Pleasure](https://open.spotify.com/track/2eveNWx7SOWY5CW4kLAuqI) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Pleasure](https://open.spotify.com/album/0uHID8mbrWV2qnAHdiyNpF) | 3:24 |
+| 73 | [Pleasure](https://open.spotify.com/track/1fA2I8fXd5uiB77U70gIbl) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Love & Algorhythms](https://open.spotify.com/album/5GytXeAxawqjyAtQwJ8XzA) | 3:24 |
 | 74 | [Conspiranoia](https://open.spotify.com/track/7MPJD2TRVCCGZVR38ZVpsk) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [Conspiranoid](https://open.spotify.com/album/6tvuIngm9XhD8mwncouN8G) | 11:30 |
 | 75 | [Love Captivity](https://open.spotify.com/track/3DDTxfWGpug3SXojx1FlYE) | [Connor Kelly & The Time Warp](https://open.spotify.com/artist/1zPBaiyAP0pKi4oMnvfAUi) | [Distant Forest](https://open.spotify.com/album/1vUCITgbaNnoQrJNvN0gBx) | 3:41 |
 | 76 | [Set It Free \(Elemental Redux\)](https://open.spotify.com/track/52n8k5BoSwpUjDgONNiP2g) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Trance Thompson](https://open.spotify.com/artist/4BTloNqFLLzwrLSrmCEqfJ), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Tym Brown](https://open.spotify.com/artist/4SC8VdUOawaFV0RnSfV6Fu), [Nataly Michelle Wright](https://open.spotify.com/artist/4mUEBynRJ4zK9hQrH1cLWP), [Felicia Walker](https://open.spotify.com/artist/3arGmiOACj527kRl3XiKUX) | [Set It Free \(Elemental Redux\)](https://open.spotify.com/album/5zGfsqhSPDMkS4OobZBDP2) | 4:37 |

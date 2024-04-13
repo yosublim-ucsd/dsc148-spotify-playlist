@@ -1584,6 +1584,24 @@
     {
       "album": {
         "name": "Neon Blue",
+        "url": "https://open.spotify.com/album/6D1ghDGxeH8xKiBpYnpKZW"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hedley",
+          "url": "https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh"
+        }
+      ],
+      "date_added": "2024-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233347,
+      "name": "River In The Rain",
+      "url": "https://open.spotify.com/track/1tTUHx0xZtth5Prksaklnv"
+    },
+    {
+      "album": {
+        "name": "Neon Blue",
         "url": "https://open.spotify.com/album/4CHT5gYJygDJ1IzF1hPslk"
       },
       "artists": [
@@ -1594,7 +1612,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 233347,
       "name": "River In The Rain",
       "url": "https://open.spotify.com/track/4C8Chco6bxNKxPmVfmdEaL"

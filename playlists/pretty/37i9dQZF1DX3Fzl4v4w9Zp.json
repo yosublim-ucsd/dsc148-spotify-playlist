@@ -1,12 +1,12 @@
 {
   "description": "Keep your finger on the pulse of Americana. Cover: Marcus King",
-  "num_followers": 610635,
+  "num_followers": 610738,
   "original_name": "The Pulse of Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjcwMDk0OSwwMDAwMDAwMDUxNTYzNjEyYjgxOWM0MWQyZmIzMTM5NDlmYWJmM2Fl",
+  "snapshot_id": "MTcxMjg5NDQwMCwwMDAwMDAwMDg1MDQwNzM4ZTUwZWYxMWM1Zjk2NWU3MDFkZjRlMTYy",
   "tracks": [
     {
       "added_at": "2024-04-05 04:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 263933,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/0uKRoLqNIs76XJOgCqAc2c"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Yearnin\u2019 For You",
+        "url": "https://open.spotify.com/album/0l689IAwF2gVXd6Z5jmoz0"
+      },
+      "artists": [
+        {
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Yearnin\u2019 For You",
+      "url": "https://open.spotify.com/track/3bBWNi61k8Re8QQ01LtcIC"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -121,6 +137,22 @@
       "url": "https://open.spotify.com/track/6gWgHGxCrROeP19EzkD7rs"
     },
     {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Cherry On Top",
+        "url": "https://open.spotify.com/album/5xnwFUWAv18LZOUhAKkpGm"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        }
+      ],
+      "duration_ms": 254407,
+      "name": "Cherry On Top",
+      "url": "https://open.spotify.com/track/235lO0qJ7TO9lpDorTvegE"
+    },
+    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "Take Me As I Come",
@@ -159,6 +191,22 @@
       "duration_ms": 222413,
       "name": "Uncle Pen (feat. Amanda Shires)",
       "url": "https://open.spotify.com/track/2SRJTOyUSo3ECYQm0X87DX"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Wandering",
+        "url": "https://open.spotify.com/album/6OWfvkLDLekKnwUsO2VUQq"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "duration_ms": 186464,
+      "name": "Worry 'Bout My Wandering",
+      "url": "https://open.spotify.com/track/2UZ5QAynCXV3f2aja4bgpG"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -200,7 +248,7 @@
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "The Past Is Still Alive",
-        "url": "https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE"
+        "url": "https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy"
       },
       "artists": [
         {
@@ -210,7 +258,7 @@
       ],
       "duration_ms": 222341,
       "name": "Hawkmoon",
-      "url": "https://open.spotify.com/track/4LbT4vgs0uYQHT3NZn9GD1"
+      "url": "https://open.spotify.com/track/5KwvjABtVbrDGBamRoyos2"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -351,22 +399,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Hard Luck & Circumstances",
-        "url": "https://open.spotify.com/album/2feHLj9w7BcThwGsmBFO1E"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 184575,
-      "name": "Hard Luck & Circumstances",
-      "url": "https://open.spotify.com/track/28ejnV7iWD3bIgBXwcTy5k"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "A Little Devil / Tiny Wooden Box",
         "url": "https://open.spotify.com/album/5QjTvxUeVtVavvBaNUk0Ls"
       },
@@ -483,22 +515,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Love Of A Girl",
-        "url": "https://open.spotify.com/album/4IQ0aUYSOhj8kcLuWKcU3g"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "Love Of A Girl",
-      "url": "https://open.spotify.com/track/412lrhEHRGzaKKvKu49GDM"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Wonderland",
         "url": "https://open.spotify.com/album/2eOMCujYnEq1BljEmyZJkB"
       },
@@ -531,8 +547,8 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Weathervanes",
-        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
+        "name": "Death Wish",
+        "url": "https://open.spotify.com/album/3N4m9O8Zsof2RX84aHWyy7"
       },
       "artists": [
         {
@@ -540,9 +556,9 @@
           "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
         }
       ],
-      "duration_ms": 204014,
-      "name": "Cast Iron Skillet",
-      "url": "https://open.spotify.com/track/30xTTsQlMrkhisyvxzEIpX"
+      "duration_ms": 270617,
+      "name": "Death Wish",
+      "url": "https://open.spotify.com/track/7u16KXOttsLNh7U8FQx2G1"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1136,7 +1152,7 @@
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Devil In Disguise",
-        "url": "https://open.spotify.com/album/7l5LHAiohHjQq602sGXbmF"
+        "url": "https://open.spotify.com/album/3fVJWii1fQokWmOe7qsy1U"
       },
       "artists": [
         {
@@ -1146,13 +1162,13 @@
       ],
       "duration_ms": 197610,
       "name": "Devil In Disguise",
-      "url": "https://open.spotify.com/track/4tTxMLnr9eZmSz6ljylmMz"
+      "url": "https://open.spotify.com/track/3dsX0cXfRFOnhKO7uSMBeM"
     },
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "First High",
-        "url": "https://open.spotify.com/album/0YseQ6nyHkM8ZZjqbnNChs"
+        "name": "Denim & Diamonds",
+        "url": "https://open.spotify.com/album/6RqohXVE3YRsRbaS9sm5G2"
       },
       "artists": [
         {
@@ -1162,7 +1178,7 @@
       ],
       "duration_ms": 187867,
       "name": "First High",
-      "url": "https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ"
+      "url": "https://open.spotify.com/track/1zDomzzT6h0Sa2BAzMxvma"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1204,7 +1220,7 @@
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "The Past Is Still Alive",
-        "url": "https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE"
+        "url": "https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy"
       },
       "artists": [
         {
@@ -1214,13 +1230,13 @@
       ],
       "duration_ms": 165977,
       "name": "Colossus of Roads",
-      "url": "https://open.spotify.com/track/5GkAZaFVxglGUibNf2G6bh"
+      "url": "https://open.spotify.com/track/1M8vGpBjsqOVz9j2OWNbQJ"
     },
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "No Reason",
-        "url": "https://open.spotify.com/album/01ViTwi8Uah9hrZ2dur0N3"
+        "name": "Anarchist Gospel",
+        "url": "https://open.spotify.com/album/6Lj7fDEEx68OYdAZ41hlK6"
       },
       "artists": [
         {
@@ -1230,7 +1246,7 @@
       ],
       "duration_ms": 159493,
       "name": "No Reason",
-      "url": "https://open.spotify.com/track/37jwU53srb7CnhdoUPjTEY"
+      "url": "https://open.spotify.com/track/0oVHtrFYwu4qMnwRRBsXum"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1519,22 +1535,6 @@
       "duration_ms": 212211,
       "name": "Dirt Bike (feat. Andrea Kukuly Uriarte)",
       "url": "https://open.spotify.com/track/60rT7xqMegRkR2Sq4JIfHw"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Chronicles of a Diamond",
-        "url": "https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 305160,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/4HhqdvbBk2YeGayKnBZxF6"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2136,7 +2136,7 @@
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "The Chicago Sessions",
-        "url": "https://open.spotify.com/album/086MDizNpGXTNuTkgUfCUw"
+        "url": "https://open.spotify.com/album/43n3JA5Xt9rnxgq3yQ7i6o"
       },
       "artists": [
         {
@@ -2146,7 +2146,7 @@
       ],
       "duration_ms": 243346,
       "name": "You\u2019re Supposed To Be Feeling Good",
-      "url": "https://open.spotify.com/track/7tGDX6lu2AFgBxufLBV6zu"
+      "url": "https://open.spotify.com/track/60SoS3AZ7TMWU8Vy5hkYdX"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2195,22 +2195,6 @@
       "duration_ms": 199440,
       "name": "For a Long While",
       "url": "https://open.spotify.com/track/2PNQZvAiJouT0v1XkyUrgF"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Death Wish",
-        "url": "https://open.spotify.com/album/3N4m9O8Zsof2RX84aHWyy7"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 270617,
-      "name": "Death Wish",
-      "url": "https://open.spotify.com/track/7u16KXOttsLNh7U8FQx2G1"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2311,8 +2295,8 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/65O5v9lS0MPGkEEO2EPqya"
+        "name": "The Chicago Sessions",
+        "url": "https://open.spotify.com/album/43n3JA5Xt9rnxgq3yQ7i6o"
       },
       "artists": [
         {
@@ -2326,7 +2310,7 @@
       ],
       "duration_ms": 225026,
       "name": "Everything At Once (feat. Jeff Tweedy)",
-      "url": "https://open.spotify.com/track/5Ge9rfVubgN6gDv6yBz7An"
+      "url": "https://open.spotify.com/track/1uFxDct07CM36KdhQYjWEh"
     },
     {
       "added_at": "2024-03-29 04:00:00",

@@ -2,7 +2,7 @@
 
 ### [Boleros Pop](https://open.spotify.com/playlist/37i9dQZF1DWYOiy3rOFsDS)
 
-> Romance a la antigüita con Ángela Aguilar en portada.
+> Romance a la antigüita con Daniela Romo y Fabiola Roudha en portada.
 
 273 songs - 16 hr 3 min
 

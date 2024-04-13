@@ -2,7 +2,7 @@
 
 ### [This Is George Michael](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Cvrlm)
 
-> This Is George Michael\. Los temas esenciales, todos en una lista.
+> This is George Michael\. The essential tracks, all in one playlist.
 
 64 songs - 5 hr 10 min
 

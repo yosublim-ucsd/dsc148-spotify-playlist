@@ -4,7 +4,7 @@
 
 > ?! ft\. Malcolm Todd
 
-1,648 songs - 3 day 7 hr 17 min
+1,649 songs - 3 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [CRASH COURSE](https://open.spotify.com/track/2nkKGF3kerIiYuAlLdZrGZ) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [CRASH COURSE](https://open.spotify.com/album/2QCeOLhHdbL0acU3hdZoWJ) | 3:37 | 2022-05-27 | 2022-07-19 |
 | [crashed](https://open.spotify.com/track/10yGK9L3lAjcBh4HniEzfq) | [Jades](https://open.spotify.com/artist/5cpCYa1BaBS52GrkmLob1u) | [crashed](https://open.spotify.com/album/1VRG1LmrW2i6ODuZLcu2cf) | 2:28 | 2022-04-22 | 2022-07-02 |
 | [Crawl \(feat\. Anna Shoemaker\)](https://open.spotify.com/track/2tyh6kMjnlUsAfyvrYwIDE) | [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6), [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [Crawl \(feat\. Anna Shoemaker\)](https://open.spotify.com/album/09X44dWv4yXjDk7c0EvoPS) | 2:15 | 2022-04-15 | 2022-07-23 |
+| [Crazy Stupid Love](https://open.spotify.com/track/5gZmKbISqeyhHl63nMFvi0) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Younger Than I Was Before](https://open.spotify.com/album/2rISSRCKbgCn4aUxeznpqN) | 2:35 | 2024-04-12 |  |
 | [Crew \(feat\. Brent Faiyaz & Shy Glizzy\)](https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [At What Cost](https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX) | 2:56 | 2021-07-26 | 2021-08-04 |
 | [CRISIS](https://open.spotify.com/track/43ImePOfnaz2d4YH4mWwyi) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Night at Ezeh's](https://open.spotify.com/album/0HeJ5vvU2LxmL5QNtCxIrl) | 3:13 | 2021-06-19 | 2021-10-13 |
 | [Crossed](https://open.spotify.com/track/5OkGswWRnGiCrgZYnDQBDX) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Ethos](https://open.spotify.com/album/38YVMRxBcr6ZfKMoETiRSK) | 3:02 | 2022-02-22 | 2022-03-01 |
@@ -1307,7 +1308,7 @@
 | [Somebody I Know](https://open.spotify.com/track/0SDzyn3KL8KLsyWv0A35RV) | [Era](https://open.spotify.com/artist/1jNgTr6PmUuRZnpJ6qfxzj), [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [Somebody I Know](https://open.spotify.com/album/3w0bqMf8AAQlAi5TyptKIn) | 3:54 | 2022-01-07 | 2022-03-01 |
 | [Somehow I Knew](https://open.spotify.com/track/2Z0IBmO1xIawrcDOehcClf) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Somehow I Knew](https://open.spotify.com/album/7im7xId2sF6BgCvChmRbuY) | 3:26 | 2020-12-18 | 2021-05-03 |
 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 | 2021-01-23 | 2021-10-16 |
-| [Sooner](https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [UGLY](https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs) | 2:54 | 2023-03-03 |  |
+| [Sooner](https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [UGLY](https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs) | 2:54 | 2023-03-03 | 2024-04-13 |
 | [SORE](https://open.spotify.com/track/6R14BaW5Y3KGmlX68pkTbl) | [nickname jos](https://open.spotify.com/artist/0ZGyR0jYdrIzy1xDZYyuDn) | [SORE](https://open.spotify.com/album/0X7rdj2hW0RtyIhRI7alGN) | 2:58 | 2022-03-30 | 2022-07-01 |
 | [Sore Throat](https://open.spotify.com/track/4rFBcz1rUH5IKmKeVRVpcO) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy Pt\. 2](https://open.spotify.com/album/4hQLHqX3ht0FNuk2z5sKfG) | 2:55 | 2024-03-08 |  |
 | [sorry](https://open.spotify.com/track/3vAi1U6UfWgxkax9IzKGts) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [things i wanna text u](https://open.spotify.com/album/5893KtZcBOjUaqo1RuoRGt) | 3:11 | 2023-05-26 | 2023-07-22 |

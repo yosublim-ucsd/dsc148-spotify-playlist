@@ -1,12 +1,12 @@
 {
   "description": "This is Violent Soho. The essential tracks, all in one playlist.",
-  "num_followers": 6111,
+  "num_followers": 6114,
   "original_name": "This Is Violent Soho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDkxZWYxZDViODY5MjIyYjc0YmFhYTVhZmMxMjQ4MjNj",
+  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDM5M2M4NWY5N2YxMzg2Y2Q5ZmYwOTk2YjVkMWRjMWQ5",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hungry Ghost (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/60MN8kBj6WRBu4igkP0LSQ"
+        "name": "Violent Soho",
+        "url": "https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 223240,
-      "name": "Home Haircut",
-      "url": "https://open.spotify.com/track/6TOZ2DXR90uyBn12wG3oGQ"
+      "duration_ms": 196333,
+      "name": "Muscle Junkie",
+      "url": "https://open.spotify.com/track/6gDmTuKbuGUkFSpVqdZH4r"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Violent Soho",
-        "url": "https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0"
+        "name": "Hungry Ghost (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/60MN8kBj6WRBu4igkP0LSQ"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 196333,
-      "name": "Muscle Junkie",
-      "url": "https://open.spotify.com/track/6gDmTuKbuGUkFSpVqdZH4r"
+      "duration_ms": 223240,
+      "name": "Home Haircut",
+      "url": "https://open.spotify.com/track/6TOZ2DXR90uyBn12wG3oGQ"
     },
     {
       "added_at": null,

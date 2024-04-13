@@ -4,7 +4,7 @@
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : Neeraj Madhav
 
-155 songs - 8 hr 18 min
+156 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [Thokku](https://open.spotify.com/track/09d7fEb8T8DipTtGfbqjdA) | [Azuran](https://open.spotify.com/artist/1OxvhhZ38t4JAe6tIRPmLQ), [Pakarcha Vyadhi](https://open.spotify.com/artist/1laDdJtAMkry4ChFpeQV1K), [Zeusheelan](https://open.spotify.com/artist/1qfr8yoyXA3bnan7cexvSN) | [Thokku](https://open.spotify.com/album/0NiPKGCDAmRRAkPqyMw4XK) | 3:18 | 2023-07-23 | 2024-02-13 |
 | [Trap Sundhari](https://open.spotify.com/track/51vzYdS2wo4peP0hu3i7au) | [GWS](https://open.spotify.com/artist/0ocYPomE3OXrf2qe3eLhsq), [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Rakz Radiant](https://open.spotify.com/artist/2NXRGks1DHfqliMFosGcYJ) | [Trap Sundhari](https://open.spotify.com/album/5cqS1wz3ZmCD3ZJ8ehWa1N) | 3:54 | 2021-12-03 |  |
 | [Utharam Para](https://open.spotify.com/track/6VGbRuP8eSIVsNgm6nhlw3) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [ABRAW](https://open.spotify.com/artist/2MAFVN4H9fnFcLlPYb1T6L) | [Utharam Para](https://open.spotify.com/album/1k1o9ToLbRKtTPvgVpCx5U) | 2:53 | 2024-02-29 |  |
-| [Vaa](https://open.spotify.com/track/5Nm1pQ3mp1cWpGTrRIxaig) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Vaa](https://open.spotify.com/album/5Kp82kgZu1ByPkR4nuhml1) | 2:47 | 2023-07-23 |  |
+| [Vaa](https://open.spotify.com/track/50I3sAWquG9d5m6nXzMmIR) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Vaa](https://open.spotify.com/album/7MRTS8Io28S5g4P4o6mqtb) | 2:47 | 2024-02-13 |  |
+| [Vaa](https://open.spotify.com/track/5Nm1pQ3mp1cWpGTrRIxaig) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Vaa](https://open.spotify.com/album/5Kp82kgZu1ByPkR4nuhml1) | 2:47 | 2023-07-23 | 2024-04-13 |
 | [Vaapa \(Ft\. Jack' styles\)](https://open.spotify.com/track/1w6DAe1xlAj9oxDb1dWHo4) | [Anohnymouss](https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT), [RHYTHOM](https://open.spotify.com/artist/4TRwdVEDrdpaeYiP7iohlu), [Devoid](https://open.spotify.com/artist/6HkBjDvmlLiDtDKBlTgiyO), [Jack' Styles](https://open.spotify.com/artist/6kSff0CdORBb2zNCTuMeEX) | [Vaapa \(Ft\. Jack' styles\)](https://open.spotify.com/album/1MrvxTM8NLjzbCGthLreXU) | 3:48 | 2024-03-18 |  |
 | [Varav](https://open.spotify.com/track/6qYS47MJQ9ulzvSSkJRGUX) | [Marthyan](https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T), [$obin](https://open.spotify.com/artist/3GrYRWOQlcY1qs48diMppb) | [Varav](https://open.spotify.com/album/7upuJEyMJJzQAtvJGirH1r) | 3:07 | 2023-07-23 | 2023-08-29 |
 | [Vayassethrayayi \(From "Vayassethrayayi Muppathi"\)](https://open.spotify.com/track/61LuvKi1wLtwpB9FJLBIzy) | [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [Anurag Ram](https://open.spotify.com/artist/0TcPzzzoOrgzGEEWbp4um5), [Vishnu Subhash](https://open.spotify.com/artist/4oWJLj6pDpogL4fgojO8zQ), [Rag Sagar](https://open.spotify.com/artist/3QPRVJ6ltAtG3vKYPBYeeA) | [Vayassethrayayi \(From "Vayassethrayayi Muppathi"\)](https://open.spotify.com/album/5afYG1riDPocWvyYFtyVS3) | 4:13 | 2024-01-23 | 2024-02-13 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 185993,
+  "2024-04-13": 186049,
   "date_first_scraped": "2022-01-02",
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
   "name": "Folklore de Siempre",
@@ -2085,7 +2085,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 179815,
       "name": "Juancito Carnaval",
       "url": "https://open.spotify.com/track/7JPRCdl8DaS85xs1B0p4RW"
@@ -2839,6 +2839,24 @@
       "duration_ms": 238128,
       "name": "Los Paisajes",
       "url": "https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn"
+    },
+    {
+      "album": {
+        "name": "Los que nunca se han tomado un vino",
+        "url": "https://open.spotify.com/album/3aRVBWmYPh2bVmR0bNmLv1"
+      },
+      "artists": [
+        {
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122212,
+      "name": "Los que nunca se han tomado un vino",
+      "url": "https://open.spotify.com/track/5XwTKXAGRqGS1qjXQVE6bE"
     },
     {
       "album": {

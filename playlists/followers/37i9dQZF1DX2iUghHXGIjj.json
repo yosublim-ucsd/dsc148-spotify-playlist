@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 719001,
+  "2024-04-13": 719003,
   "date_first_scraped": "2021-12-21",
   "description": "Raw, emotional, and acoustic. Cover: Charlie Musselwhite",
   "name": "Acoustic Blues",
@@ -555,7 +555,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 208413,
       "name": "Castle",
       "url": "https://open.spotify.com/track/1pWuVdXfdxhfhAr1BFYscW"
@@ -573,7 +573,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 208512,
       "name": "Castle",
       "url": "https://open.spotify.com/track/2QIbD38FhRqXHOeQC3SiYu"
@@ -681,7 +681,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 247906,
       "name": "Death Row",
       "url": "https://open.spotify.com/track/4gFPqVg2MRvQGkSo7PhkOd"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 247906,
       "name": "Death Row",
       "url": "https://open.spotify.com/track/7IPJ7HAM4AhEWl3rcqKTFV"
@@ -1657,7 +1657,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 267790,
       "name": "Let's Have Some Fun",
       "url": "https://open.spotify.com/track/3tgNmSy9B0XZLTwH5NZ36T"
@@ -1675,7 +1675,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 267790,
       "name": "Let's Have Some Fun",
       "url": "https://open.spotify.com/track/4krvAl6zfhfDfWL1KdvQAa"

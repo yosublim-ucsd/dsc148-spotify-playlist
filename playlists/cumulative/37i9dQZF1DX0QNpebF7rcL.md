@@ -2,9 +2,9 @@
 
 ### [Got Blues](https://open.spotify.com/playlist/37i9dQZF1DX0QNpebF7rcL)
 
-> The best in blues right now\. Cover: Robert Finley
+> The best in blues right now\. Cover: Toronzo Cannon
 
-365 songs - 1 day 0 hr 33 min
+368 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [500 Miles](https://open.spotify.com/track/1oVkFIm3zqa7fy5nUxFyhH) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [500 Miles](https://open.spotify.com/album/0shW2Ea6gtcqAYOm2bPDMg) | 3:30 | 2023-01-20 | 2023-02-11 |
 | [99 Pounds](https://open.spotify.com/track/4WstfPz3tDUFjpU3vp8VDN) | [Don Bryant](https://open.spotify.com/artist/1EJaL1QJ34YEpRT7jWDD7I) | [You Make Me Feel](https://open.spotify.com/album/5nmTyPcWtLpY6HfkQI5AQN) | 2:55 | 2020-12-14 | 2022-02-26 |
 | [A Good Goodbye](https://open.spotify.com/track/5fPhQkWnYbb0qhzW1Csglw) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [A Good Goodbye](https://open.spotify.com/album/7HFHiwHYjPjTQHWO876JWf) | 4:10 | 2024-01-19 | 2024-02-17 |
-| [Ace Of Spades](https://open.spotify.com/track/2sgbiJ65zw8fUEWEiW9yAH) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [Ace Of Spades](https://open.spotify.com/album/2BcHzSdwa2qEiGPNznEqRK) | 2:36 | 2022-09-30 |  |
+| [Ace Of Spades](https://open.spotify.com/track/2sgbiJ65zw8fUEWEiW9yAH) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [Ace Of Spades](https://open.spotify.com/album/2BcHzSdwa2qEiGPNznEqRK) | 2:36 | 2022-09-30 | 2024-04-13 |
+| [Ace Of Spades](https://open.spotify.com/track/7q1E64SIbT2cmkiRSjZmZe) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [Ace Of Blues](https://open.spotify.com/album/4VBJD561gFAMKctx5vLyk0) | 2:36 | 2022-09-30 |  |
 | [Ain't That A Man](https://open.spotify.com/track/5K1zCqvd3rcvAEMdGgJjeg) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Ain't That A Man](https://open.spotify.com/album/0Avhru66QhXAyP9N8xfP30) | 4:58 | 2024-03-15 |  |
 | [Ain't That Lovin' You](https://open.spotify.com/track/1x2Xc6lGnIouQyclbttjC6) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Ain't That Lovin' You](https://open.spotify.com/album/6hRhku9LbgLHLrQPa4Uv6A) | 2:19 | 2022-03-11 | 2022-04-23 |
 | [All My Dues Are Paid](https://open.spotify.com/track/3znhGwwxf4qFynHf6tnNwD) | [Frank Bey](https://open.spotify.com/artist/0na4KYz5VSu44CvyPGVzKE) | [All My Dues Are Paid](https://open.spotify.com/album/6txO0ubyiIe50vVGyUAUyg) | 4:11 | 2020-12-14 | 2022-02-26 |
@@ -55,6 +56,7 @@
 | [Burn Bright](https://open.spotify.com/track/5suOlPxijvD4kWVXBQLs9e) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [Sons](https://open.spotify.com/album/7cIZqD2nH2CXlAGG1jrNP6) | 3:06 | 2020-12-14 | 2022-02-26 |
 | [Caldonia](https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Savoy](https://open.spotify.com/album/6CSit6rVjX6qqPrwHCaWdF) | 3:32 | 2023-04-28 |  |
 | [Call Me King](https://open.spotify.com/track/54lWZZ8Mx6dlHeGoGrga6l) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [Call Me King](https://open.spotify.com/album/7s3GreHgKwTs879knH8VWp) | 2:54 | 2022-04-08 | 2024-03-23 |
+| [Can't Fix The World](https://open.spotify.com/track/7ogGQUN9oT3rMX2Jd8VaeP) | [Toronzo Cannon](https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6) | [Can't Fix The World](https://open.spotify.com/album/4JeL7F0hiycVVfYfkMOKIB) | 4:15 | 2024-04-12 |  |
 | [Can't Take No More](https://open.spotify.com/track/40ytn62ocVWKqwktVNo9Fs) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Can't Take No More](https://open.spotify.com/album/3ukHMBQUuVEbX3Nrphqdf8) | 3:45 | 2021-12-17 | 2022-01-29 |
 | [Catfish Blues](https://open.spotify.com/track/22AC1MxK4QD3RiS7BeTIXt) | [Jimmy "Duck" Holmes](https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D) | [Cypress Grove](https://open.spotify.com/album/6fgTw3IgOwR0YN0YyRhAws) | 4:11 | 2020-12-14 | 2022-02-26 |
 | [Chocolate Samurai](https://open.spotify.com/track/0Tnt1pxkoNdX1ZWkRTW8f6) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Have You Lost Your Mind yet?](https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy) | 4:55 | 2021-10-22 | 2022-02-26 |
@@ -69,6 +71,7 @@
 | [Dear Mr\. Fantasy](https://open.spotify.com/track/6pC50pZwVynieHSurJjSQa) | [Dave Mason](https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dear Mr\. Fantasy](https://open.spotify.com/album/1LgM96v1LWKd8585co5Hai) | 4:34 | 2023-11-10 |  |
 | [Death Don't Have No Mercy](https://open.spotify.com/track/1npPaN1uAdOSGnPnOcgQ82) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Death Don't Have No Mercy](https://open.spotify.com/album/7CPRD2SlzBhChwXEUZSmg5) | 6:18 | 2022-04-08 | 2022-04-29 |
 | [Death Letter Blues](https://open.spotify.com/track/4puWQaJshTiBkNMVmp9Aqa) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Naked Truth](https://open.spotify.com/album/456DsBFuWSDf02fYcPqp1i) | 4:27 | 2024-02-09 |  |
+| [Devil In Me](https://open.spotify.com/track/2QpsQclk1kxSVZ0kX5OQVs) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Devil In Me](https://open.spotify.com/album/5ofOvPpwP7rsn4JsHEDLlj) | 3:01 | 2024-04-12 |  |
 | [Devil In The Room](https://open.spotify.com/track/72qo2qSJ0FkaTtbgRhPHqT) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Devil In The Room](https://open.spotify.com/album/4oVQNoMc9m6z9XPtaCbEO7) | 3:31 | 2023-12-01 | 2024-02-10 |
 | [Didn’t We Have a Time](https://open.spotify.com/track/5Lz6UnJghksQvUAz54yBv9) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Didn’t We Have a Time](https://open.spotify.com/album/2pI0kBzadx6e9hYFBisRKL) | 6:04 | 2021-12-24 | 2022-01-15 |
 | [Dirty Grease](https://open.spotify.com/track/1Nd89XqdXUj1zv9meZbPYR) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Doug Bossi](https://open.spotify.com/artist/6I8Aan08YoXLddBSwCbCI4) | [Dirty Grease](https://open.spotify.com/album/2uJDg09aX2m6hZznK6KTyd) | 6:16 | 2022-10-07 | 2023-11-11 |
@@ -120,7 +123,7 @@
 | [Healing Time](https://open.spotify.com/track/7rbR9lSAPRhAtXeQ7ovhzz) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Unchange](https://open.spotify.com/album/5n4rd614E0RVAuZNCtojLW) | 4:35 | 2022-04-29 |  |
 | [Heartache by the Pound](https://open.spotify.com/track/2SSuZ7fCreC6czcTtu2wfu) | [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [Heartache by the Pound](https://open.spotify.com/album/29Zs8tvzNxlKHIHjqHAW1N) | 3:09 | 2022-07-15 |  |
 | [Heartbreaker](https://open.spotify.com/track/35j5tUnce6812hJBmwxXGV) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Heartbreaker](https://open.spotify.com/album/516Bv1lX91UTFGLIdpKYYt) | 3:50 | 2023-11-10 |  |
-| [Heavy Soul](https://open.spotify.com/track/3aZtRvQ7PvcquxVGjNYJDZ) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Heavy Soul](https://open.spotify.com/album/3ErX87cvZzUDipGiJsoepu) | 5:08 | 2024-02-16 |  |
+| [Heavy Soul](https://open.spotify.com/track/3aZtRvQ7PvcquxVGjNYJDZ) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Heavy Soul](https://open.spotify.com/album/3ErX87cvZzUDipGiJsoepu) | 5:08 | 2024-02-16 | 2024-04-13 |
 | [Hello, it's the Blues](https://open.spotify.com/track/4l4ds95dBXqtgkRw05FHes) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [Hello, it's the Blues](https://open.spotify.com/album/63AimE0DtK9RSDDm8ylU2H) | 6:46 | 2022-12-02 | 2023-01-14 |
 | [Help Me](https://open.spotify.com/track/2tKvPt023QVMNkkNqmTDap) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Help Me](https://open.spotify.com/album/5fQEUm0GyrU0TDezWAR2sL) | 3:30 | 2023-10-06 |  |
 | [Help Yourself](https://open.spotify.com/track/6i2EOHluVZewHGo1WivSnA) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Help Yourself](https://open.spotify.com/album/3dRkh2xDogXlODckUjdnCF) | 4:04 | 2023-12-01 |  |
@@ -301,7 +304,7 @@
 | [The Ballad of John Howard Griffin](https://open.spotify.com/track/0ldxVkKiyazLlHc6lWR10n) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb) | [The Ballad of John Howard Griffin](https://open.spotify.com/album/29IVT0NuqSjjXKbvShXQH6) | 5:16 | 2023-02-10 | 2023-03-27 |
 | [The Ballad of John Howard Griffin](https://open.spotify.com/track/483TCXJPMDIKqygdS0gBda) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 5:16 | 2023-02-10 |  |
 | [The Distance](https://open.spotify.com/track/4aZEjenUO0PzdCPtMUSZIe) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3), [Sari Schorr](https://open.spotify.com/artist/65EcwCjlQu3XbQEbSqYBGl) | [Joyful Sky](https://open.spotify.com/album/082aBhB5n3cwYW7wLoudGo) | 2:56 | 2023-10-27 |  |
-| [The Future Ain't What It Used to Be](https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [The Future Ain't What It Used to Be](https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035) | 3:20 | 2022-03-11 |  |
+| [The Future Ain't What It Used to Be](https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [The Future Ain't What It Used to Be](https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035) | 3:20 | 2022-03-11 | 2024-04-13 |
 | [The Game](https://open.spotify.com/track/5Z2xLgNGVEkIbXiHpj3t0L) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [The Game](https://open.spotify.com/album/4gbcahqV1z0rl2m4IGbDp8) | 3:04 | 2022-01-14 | 2022-02-26 |
 | [The Heart That Never Waits](https://open.spotify.com/track/3h6b6VFjiJUM2jeG7tGjrH) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Heart That Never Waits](https://open.spotify.com/album/6SX2nIztLCFIYH9UMABV7R) | 5:51 | 2021-08-27 | 2022-05-28 |
 | [The Longer That I Live](https://open.spotify.com/track/4j5JuvF1nFJ0tvD3KdJfNr) | [Curtis Salgado](https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0) | [The Longer That I Live](https://open.spotify.com/album/50d66oouWFXRbLmrxDonVF) | 3:51 | 2021-02-26 | 2022-04-23 |

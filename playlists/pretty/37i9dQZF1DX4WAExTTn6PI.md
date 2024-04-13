@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Americana's artists and hits of tomorrow\. Cover: Willow Avalon
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,475 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,501 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 17 | [Basements](https://open.spotify.com/track/3LoD8YTXOM87GUWU7IhesV) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Basements](https://open.spotify.com/album/7f2B4dwq8gyPtytN6zFcNs) | 3:43 |
 | 18 | [Some Misty Morning \[Feat\. Erin Rae\]](https://open.spotify.com/track/4uLLyixpzZjyvZRFDdIPEa) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Golden State](https://open.spotify.com/album/1wKjZTg1gPmXWmcO79GVwn) | 4:25 |
 | 19 | [Summer](https://open.spotify.com/track/3qbWCni1577NA2kQdQHHKR) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO) | [Whiplash](https://open.spotify.com/album/7JcEn5RIPlyhPNUtbht9mc) | 3:56 |
-| 20 | [Love Is A Place](https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Love Is A Place](https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE) | 3:05 |
+| 20 | [Love Is A Place](https://open.spotify.com/track/3G1ZLjtCjNC0qusZkWt5or) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Feel Good](https://open.spotify.com/album/0F74qX4d5E7Qq6vrTb9nrE) | 3:05 |
 | 21 | [With The Middle](https://open.spotify.com/track/5RldswTCXt8XY5S8yrEHPq) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Valley Of Heart's Delight](https://open.spotify.com/album/5DgZp7DBIP4yyUmBkbKDAb) | 3:27 |
 | 22 | [Aint Gotta Dollar](https://open.spotify.com/track/2USW8uFqLToqFKSVXDOEN8) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Aint Gotta Dollar](https://open.spotify.com/album/6e9ii4qzptMYO7BdbybG2p) | 2:04 |
 | 23 | [The Wild](https://open.spotify.com/track/67DcJLjYcJdAA2LMXFtob3) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Drink The River](https://open.spotify.com/album/66w66TUwHavAnh3f0cOQdj) | 4:23 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 29 | [This Far South](https://open.spotify.com/track/7aoLqFjMmh86wl4qRXunaP) | [Tommy Prine](https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU) | [This Far South](https://open.spotify.com/album/078Nefie7KQPI2LW8gIHDP) | 3:15 |
 | 30 | [Wagon Girl](https://open.spotify.com/track/0mnCjKJKC5chMQFlwOh8tW) | [Dee White](https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU) | [Wagon Girl](https://open.spotify.com/album/6uRS7tx5lIoaBXsVhqijiS) | 3:10 |
 | 31 | [Higher Ground](https://open.spotify.com/track/3IPkN2bQT15rbDzw6nEdwY) | [Colby T\. Helms](https://open.spotify.com/artist/41SWovnnP8qo3g7e7TTtmO) | [Higher Ground](https://open.spotify.com/album/5phrODBYV3rPkxO3qVB7oY) | 3:42 |
-| 32 | [Roses & Poppies](https://open.spotify.com/track/2gJiBNvnVfgdeb3OhAgv3F) | [The Pink Stones](https://open.spotify.com/artist/77xJf67Cuu7UPJgJoClESG) | [You Know Who](https://open.spotify.com/album/3K5MV60YpbWJCzuPvAmXV2) | 1:58 |
+| 32 | [Roses & Poppies](https://open.spotify.com/track/6r9b0M8epi2KnkpCOvIjSe) | [The Pink Stones](https://open.spotify.com/artist/77xJf67Cuu7UPJgJoClESG) | [You Know Who](https://open.spotify.com/album/73H6LRe0oaKI1gUlN6iz49) | 1:58 |
 | 33 | [75\-71](https://open.spotify.com/track/1Kpl4t6FsojBlqRctw58DD) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Yellow Peril](https://open.spotify.com/album/1oZfzj1CP6GqTps0pMqBPV) | 3:44 |
 | 34 | [Recommend Me](https://open.spotify.com/track/6X06BJkotsqzb09OReFhhO) | [Steep Canyon Rangers](https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O) | [Recommend Me](https://open.spotify.com/album/6K2GTC8JlK5f7MBJbccpyq) | 3:41 |
 | 35 | [Room in the City](https://open.spotify.com/track/7KzIOGMfKB4fdpNAFDvrZP) | [Kassi Valazza](https://open.spotify.com/artist/4qIi20XYGNXcVvCzBZFumH) | [Kassi Valazza Knows Nothing](https://open.spotify.com/album/3V9b0YYvqjTA5F9Xg0DeiJ) | 4:11 |

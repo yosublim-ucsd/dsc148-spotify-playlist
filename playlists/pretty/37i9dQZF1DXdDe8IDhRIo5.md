@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 
 > Django and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,599 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,662 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 | 45 | [Puttin' On the Ritz](https://open.spotify.com/track/0UOKYamx2rZB4HYjedYFxn) | [Gypsy Swing Revue](https://open.spotify.com/artist/3ZJrLqiSpAZueYPclk65Cl) | [Puttin' On The Ritz](https://open.spotify.com/album/2GhFpYVZdVZ1PnVkphY0OU) | 3:58 |
 | 46 | [Coquette](https://open.spotify.com/track/1mfaDtRk81CE7EQ9VZ18RA) | [Hot Club De Norvege](https://open.spotify.com/artist/4zppvokHD35NLS7W7w5wf8), [Jon Larsen](https://open.spotify.com/artist/78932qb8ldFSsXgDq2cltO), [Adrien Moignard](https://open.spotify.com/artist/2aMdhZeYSUVewlfjx9ntIn), [Ben Powell](https://open.spotify.com/artist/25HkovLb1b05hLLIIoohM6) | [Caution Hot](https://open.spotify.com/album/1plB2YqojpYtNMOWREhOEr) | 2:35 |
 | 47 | [Swing Suspens](https://open.spotify.com/track/5EDDKBAMxFDvG3f7D6v93l) | [Marcel Loeffler](https://open.spotify.com/artist/0DglDT7eUNaSWf99w39e2m) | [Source Manouche](https://open.spotify.com/album/3mf1RSVpwCZZmDaY9nmN1o) | 3:23 |
-| 48 | [Blue Bossa](https://open.spotify.com/track/34x5AhvVgbLhebznYRBrSO) | [Jimmy Rosenberg](https://open.spotify.com/artist/6tq9JKuE6vPDbQw5EiXLwn) | [Trio](https://open.spotify.com/album/7BMdSO57gHOuHihr4o95Bg) | 3:38 |
+| 48 | [Blue Bossa](https://open.spotify.com/track/34x5AhvVgbLhebznYRBrSO) | [Jimmy Rosenberg](https://open.spotify.com/artist/6tq9JKuE6vPDbQw5EiXLwn), [Nomy Rosenberg](https://open.spotify.com/artist/6LYrjdhlFUnKJUPDNiZ9iC) | [Trio](https://open.spotify.com/album/7BMdSO57gHOuHihr4o95Bg) | 3:38 |
 | 49 | [Je suis en amour](https://open.spotify.com/track/6AHft4gweShwU086omcQTE) | [Steeve Laffont](https://open.spotify.com/artist/0redyV7MGTS7VmhcgfEBTX) | [Enamoromaï](https://open.spotify.com/album/6ZujwfBhiTxkIkDGZi2yvq) | 2:58 |
 | 50 | [Manha de Carnaval](https://open.spotify.com/track/06jmkrbrUZ7HEh2eEzPJZh) | [The Rosenberg Trio](https://open.spotify.com/artist/4xIooHvSmj2aWhQGrniJSu), [Mozes](https://open.spotify.com/artist/1D187K99XZwJY1ZsbXLb3p), [Johnny Rosenberg](https://open.spotify.com/artist/4Vmy9w1GyZZ0qId7ZKmkB6) | [La Familia](https://open.spotify.com/album/6ZUxCJngtDjEGevpeyHuTd) | 5:11 |
 | 51 | [So What](https://open.spotify.com/track/2Cf9AjgU72jcQdb1xQAksE) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS), [Sylvain Luc](https://open.spotify.com/artist/2dXI8YsDDZSD3HgoNUvilF) | [Summertime](https://open.spotify.com/album/6ZVuKtdf4KZ5E7y4bEHHgS) | 4:07 |

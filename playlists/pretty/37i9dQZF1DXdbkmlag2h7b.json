@@ -1,6 +1,6 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 634074,
+  "num_followers": 634098,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-04-04 22:22:04",
       "album": {
-        "name": "Solitaire",
-        "url": "https://open.spotify.com/album/7BIDbqxwFJ9v30pxGqnToR"
-      },
-      "artists": [
-        {
-          "name": "Calming Lesmo",
-          "url": "https://open.spotify.com/artist/5acenmixbZVmxdHn0Je47D"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "Solitaire",
-      "url": "https://open.spotify.com/track/1dpmYcSMBDCr2EPUxMTdyA"
-    },
-    {
-      "added_at": "2024-04-04 22:22:04",
-      "album": {
         "name": "Descanso",
         "url": "https://open.spotify.com/album/6wf1iHlQVWpkNvmA9t3H9u"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 174857,
       "name": "Descanso",
       "url": "https://open.spotify.com/track/5kI3nJuVik4PYmVGBQ3lq3"
+    },
+    {
+      "added_at": "2024-04-04 22:22:04",
+      "album": {
+        "name": "Solitaire",
+        "url": "https://open.spotify.com/album/7BIDbqxwFJ9v30pxGqnToR"
+      },
+      "artists": [
+        {
+          "name": "Calming Lesmo",
+          "url": "https://open.spotify.com/artist/5acenmixbZVmxdHn0Je47D"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Solitaire",
+      "url": "https://open.spotify.com/track/1dpmYcSMBDCr2EPUxMTdyA"
     },
     {
       "added_at": "2024-04-04 22:22:04",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-04-04 22:22:04",
       "album": {
-        "name": "Silk Under Rain",
-        "url": "https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV"
-      },
-      "artists": [
-        {
-          "name": "Mari Cafferty",
-          "url": "https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Lively Bluebottle",
-      "url": "https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS"
-    },
-    {
-      "added_at": "2024-04-04 22:22:04",
-      "album": {
         "name": "Quiet Shores",
         "url": "https://open.spotify.com/album/0lQVgrgb8H2EdcHEEoP40i"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 223500,
       "name": "Quiet Shores",
       "url": "https://open.spotify.com/track/76acjhQWM5NOBiWoZ4Xnzv"
+    },
+    {
+      "added_at": "2024-04-04 22:22:04",
+      "album": {
+        "name": "Silk Under Rain",
+        "url": "https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV"
+      },
+      "artists": [
+        {
+          "name": "Mari Cafferty",
+          "url": "https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Lively Bluebottle",
+      "url": "https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS"
     },
     {
       "added_at": "2024-04-04 22:22:04",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-04-04 22:22:04",
       "album": {
-        "name": "Ich W\u00fcnsche",
-        "url": "https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA"
-      },
-      "artists": [
-        {
-          "name": "Nils Schreiber",
-          "url": "https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl"
-        }
-      ],
-      "duration_ms": 179727,
-      "name": "Unendlich",
-      "url": "https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V"
-    },
-    {
-      "added_at": "2024-04-04 22:22:04",
-      "album": {
         "name": "Upwards",
         "url": "https://open.spotify.com/album/4XWS0IIopEkOgR6O7mO9Xw"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2024-04-04 22:22:04",
       "album": {
-        "name": "Rugare",
-        "url": "https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM"
+        "name": "Ich W\u00fcnsche",
+        "url": "https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA"
       },
       "artists": [
         {
-          "name": "Tendai Marwan",
-          "url": "https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD"
+          "name": "Nils Schreiber",
+          "url": "https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl"
         }
       ],
-      "duration_ms": 188691,
-      "name": "Rugare",
-      "url": "https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC"
+      "duration_ms": 179727,
+      "name": "Unendlich",
+      "url": "https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V"
     },
     {
       "added_at": "2024-04-04 22:22:04",
@@ -695,6 +679,22 @@
       "duration_ms": 192000,
       "name": "Deep Thoughts",
       "url": "https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH"
+    },
+    {
+      "added_at": "2024-04-04 22:22:04",
+      "album": {
+        "name": "Rugare",
+        "url": "https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM"
+      },
+      "artists": [
+        {
+          "name": "Tendai Marwan",
+          "url": "https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD"
+        }
+      ],
+      "duration_ms": 188691,
+      "name": "Rugare",
+      "url": "https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC"
     },
     {
       "added_at": "2024-04-04 22:22:04",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-04-04 22:22:04",
       "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj"
-      },
-      "artists": [
-        {
-          "name": "Gabby Laurent",
-          "url": "https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk"
-        }
-      ],
-      "duration_ms": 192309,
-      "name": "Entirely",
-      "url": "https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha"
-    },
-    {
-      "added_at": "2024-04-04 22:22:04",
-      "album": {
         "name": "Legend Of Zea",
         "url": "https://open.spotify.com/album/0aovJaJL5ehp9AtwcSJtce"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 211583,
       "name": "Afternoon Spirits",
       "url": "https://open.spotify.com/track/6kAwnVIencquZ72t4X46Lh"
+    },
+    {
+      "added_at": "2024-04-04 22:22:04",
+      "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj"
+      },
+      "artists": [
+        {
+          "name": "Gabby Laurent",
+          "url": "https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk"
+        }
+      ],
+      "duration_ms": 192309,
+      "name": "Entirely",
+      "url": "https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha"
     },
     {
       "added_at": "2024-04-04 22:22:04",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-04-04 22:22:04",
       "album": {
-        "name": "Jubran's Lake (432hz)",
-        "url": "https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Jubran's Lake (432hz) - No Ambience",
-      "url": "https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL"
-    },
-    {
-      "added_at": "2024-04-04 22:22:04",
-      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/6G9t6knI1NlkFAYsNzGYLH"
       },
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2024-04-04 22:22:04",
       "album": {
+        "name": "Jubran's Lake (432hz)",
+        "url": "https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Jubran's Lake (432hz) - No Ambience",
+      "url": "https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL"
+    },
+    {
+      "added_at": "2024-04-04 22:22:04",
+      "album": {
         "name": "Floating Hearts",
         "url": "https://open.spotify.com/album/5EoiOmTiADBanOUgtYbWSg"
       },
@@ -1191,22 +1191,6 @@
       "duration_ms": 199831,
       "name": "Svalbard",
       "url": "https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za"
-    },
-    {
-      "added_at": "2024-04-04 22:22:04",
-      "album": {
-        "name": "Dreams of Mercury",
-        "url": "https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL"
-      },
-      "artists": [
-        {
-          "name": "Chim Suri",
-          "url": "https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg"
-        }
-      ],
-      "duration_ms": 192748,
-      "name": "Dreams of Mercury",
-      "url": "https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o"
     },
     {
       "added_at": "2024-04-04 22:22:04",
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2024-04-04 22:22:04",
       "album": {
+        "name": "Dreams of Mercury",
+        "url": "https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL"
+      },
+      "artists": [
+        {
+          "name": "Chim Suri",
+          "url": "https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg"
+        }
+      ],
+      "duration_ms": 192748,
+      "name": "Dreams of Mercury",
+      "url": "https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o"
+    },
+    {
+      "added_at": "2024-04-04 22:22:04",
+      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/0BEJfJ1WCQpwWIIXKR2Ioz"
       },
@@ -1239,6 +1239,22 @@
       "duration_ms": 175661,
       "name": "Flow",
       "url": "https://open.spotify.com/track/2y7ZFxhjW14tUWwuQUkYQs"
+    },
+    {
+      "added_at": "2024-04-04 22:22:04",
+      "album": {
+        "name": "Behind Your Eyes",
+        "url": "https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh"
+      },
+      "artists": [
+        {
+          "name": "Coherent Energy",
+          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Behind Your Eyes",
+      "url": "https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX"
     },
     {
       "added_at": "2024-04-04 22:22:04",
@@ -1291,34 +1307,18 @@
     {
       "added_at": "2024-04-04 22:22:04",
       "album": {
-        "name": "Tensions",
-        "url": "https://open.spotify.com/album/5NzWFvAmbcYhwOLwsXJ7nh"
+        "name": "Distant Voices",
+        "url": "https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5"
       },
       "artists": [
         {
-          "name": "Spheres",
-          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
+          "name": "Billie Mercedez",
+          "url": "https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG"
         }
       ],
-      "duration_ms": 156428,
-      "name": "Tensions",
-      "url": "https://open.spotify.com/track/75u1CPntzCwYTaenr5nlWA"
-    },
-    {
-      "added_at": "2024-04-04 22:22:04",
-      "album": {
-        "name": "Behind Your Eyes",
-        "url": "https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh"
-      },
-      "artists": [
-        {
-          "name": "Coherent Energy",
-          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Behind Your Eyes",
-      "url": "https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX"
+      "duration_ms": 176571,
+      "name": "Distant Voices",
+      "url": "https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf"
     },
     {
       "added_at": "2024-04-04 22:22:04",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2024-04-04 22:22:04",
       "album": {
-        "name": "Distant Voices",
-        "url": "https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5"
+        "name": "Tensions",
+        "url": "https://open.spotify.com/album/5NzWFvAmbcYhwOLwsXJ7nh"
       },
       "artists": [
         {
-          "name": "Billie Mercedez",
-          "url": "https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG"
+          "name": "Spheres",
+          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
         }
       ],
-      "duration_ms": 176571,
-      "name": "Distant Voices",
-      "url": "https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf"
+      "duration_ms": 156428,
+      "name": "Tensions",
+      "url": "https://open.spotify.com/track/75u1CPntzCwYTaenr5nlWA"
     },
     {
       "added_at": "2024-04-04 22:22:04",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-04-04 22:22:04",
       "album": {
+        "name": "Meditations for Woods & Winds",
+        "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
+      },
+      "artists": [
+        {
+          "name": "Northern Lights",
+          "url": "https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny"
+        }
+      ],
+      "duration_ms": 205505,
+      "name": "Oriental Journey",
+      "url": "https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX"
+    },
+    {
+      "added_at": "2024-04-04 22:22:04",
+      "album": {
         "name": "Morning Air",
         "url": "https://open.spotify.com/album/02yUGBp8deAAU2DPXYs2yZ"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 157306,
       "name": "Neend",
       "url": "https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ"
-    },
-    {
-      "added_at": "2024-04-04 22:22:04",
-      "album": {
-        "name": "Meditations for Woods & Winds",
-        "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
-      },
-      "artists": [
-        {
-          "name": "Northern Lights",
-          "url": "https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny"
-        }
-      ],
-      "duration_ms": 205505,
-      "name": "Oriental Journey",
-      "url": "https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX"
     },
     {
       "added_at": "2024-04-04 22:22:04",

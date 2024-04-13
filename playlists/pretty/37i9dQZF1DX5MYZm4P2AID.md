@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,444 likes - 174 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,542 likes - 174 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 9 | [Psyche](https://open.spotify.com/track/5a4YKJhPJcb5dz9V3Fq4Hc) | [The Jimmy Castor Bunch](https://open.spotify.com/artist/7E5taE9LniGvMzEHpiOupV) | [It's Just Begun](https://open.spotify.com/album/1Zcz8zvX1SbUh7S99ezRgq) | 4:27 |
 | 10 | [Rated X](https://open.spotify.com/track/6blZRNsvbgmYyIWioPwh4b) | [Psychic Mirrors](https://open.spotify.com/artist/7wTTRevwI9A3odMw7MWnmh) | [Nature of Evil](https://open.spotify.com/album/7l4awFKY9Zd2lPzNfPiRt9) | 4:19 |
 | 11 | [Cheated Hearts](https://open.spotify.com/track/5AwS3yu3w9BT2eHBMnFDLc) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 3:58 |
-| 12 | [Sold out of Love](https://open.spotify.com/track/6BKpJ2pDPixM3Nwqhr9999) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Sold out of Love](https://open.spotify.com/album/6IScP3wFdmrD6dmlbQaN1F) | 4:19 |
+| 12 | [Sold out of Love](https://open.spotify.com/track/7l24yEocXMnG3b4BiYEKCa) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Rides On](https://open.spotify.com/album/2lu9WD2gKfgX0YlgP7o2vu) | 4:19 |
 | 13 | [Simé Love](https://open.spotify.com/track/66C8WrKjSSolC9gaL9M7sr) | [Dowdelin](https://open.spotify.com/artist/1ogaqCgdEnTy7M5jO0tMue) | [Lanmou Lanmou](https://open.spotify.com/album/5I7tMruynWvRRRMgmUnZN0) | 3:30 |
 | 14 | [There's A Place](https://open.spotify.com/track/1dNDxVM1HDpdKgon58QvtU) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Pacific](https://open.spotify.com/album/3zjU4Uu8DvEBpnsHbLDvyQ) | 6:08 |
-| 15 | [Gringo Che](https://open.spotify.com/track/59kMIeaoC2tJcVqMmrUt0x) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [The Nude Party](https://open.spotify.com/album/7eL0YCyfl9aaNuzt3gn23Q) | 3:46 |
+| 15 | [Gringo Che](https://open.spotify.com/track/7nBHDoLweT5dr455uyxruH) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [The Nude Party](https://open.spotify.com/album/17A5r0sO2zpmsEsWXm3GBb) | 3:46 |
 | 16 | [Welcome To Jamrock](https://open.spotify.com/track/0alTdGNJ19j0K34NzLAyaw) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 3:33 |
 | 17 | [Abandoned Mansion](https://open.spotify.com/track/5jx534PdMJacYZ2PZ5unAP) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Abandoned Mansion](https://open.spotify.com/album/298WNanMReraImGBQRGxio) | 5:22 |
 | 18 | [Destroy The Empire](https://open.spotify.com/track/6BvgJ5rz1awa1zL2ySnVfk) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [The Return of…](https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA) | 3:24 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 25 | [Boys in the Wood](https://open.spotify.com/track/4C7CFVRrE3rYsan7jYyhso) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Underneath the Rainbow](https://open.spotify.com/album/2D84Vql9oAIYDJrA2icnGr) | 3:37 |
 | 26 | [Palm Trees](https://open.spotify.com/track/0dy38OIA6UqWLsRVtwNBhW) | [Often](https://open.spotify.com/artist/7BFGaVvOZLQtSLfWCvJeKW) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 2:57 |
 | 27 | [Silver Timothy](https://open.spotify.com/track/0dRM84FDv9MN2HGnuJsSCi) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Brothers and Sisters of the Eternal Son \(Deluxe Edition\)](https://open.spotify.com/album/1RRHi23DOwVOwimc3BjnBv) | 3:16 |
-| 28 | [Time Moves On](https://open.spotify.com/track/7s10VGMnD39Brqpaem8km2) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Midnight Manor](https://open.spotify.com/album/3OePCCzmF2nfuEJWQ521eQ) | 4:56 |
+| 28 | [Time Moves On](https://open.spotify.com/track/1MM99OUIbL61UbHm6VrO3w) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Midnight Manor](https://open.spotify.com/album/41xiR82s0XfJTghApPEJQG) | 4:56 |
 | 29 | [Powerman \(2020 Stereo Remaster\)](https://open.spotify.com/track/0dJ6WCwjkVBfh4h3vyzIeb) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. 1](https://open.spotify.com/album/6cv47fKkAyi9Lm5wwud4It) | 4:17 |
 | 30 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 |
 | 31 | [Mad Man](https://open.spotify.com/track/1AfSmc6gyRXsRtwaS1b3za) | [Born Free](https://open.spotify.com/artist/3EcPBdr1pRn1jc3ePUL7qO) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 2 \(1972\-1977\)](https://open.spotify.com/album/6qCtWW3buD52Z2yRDSx0QF) | 2:36 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 87 | [Woah](https://open.spotify.com/track/02RCbjb9czvQKNGBmEmWob) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 3:03 |
 | 88 | [Happy Now](https://open.spotify.com/track/4keoy2fqgwGnbWlm3ZVZFa) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Happy Now](https://open.spotify.com/album/0JcW7yCW3Qj8uMfzO2lUDb) | 3:27 |
 | 89 | [Carried Away \(Love To Love\) \(with Madison Beer\)](https://open.spotify.com/track/4IvuPZogXbY7LODs7qzr0W) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Carried Away \(Love To Love\) \(with Madison Beer\)](https://open.spotify.com/album/57LmwffyQvnFHRHzbitsEO) | 3:02 |
-| 90 | [Astral Man](https://open.spotify.com/track/4Ig9HspUaKy2cz6YA8pb6O) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [The Nude Party](https://open.spotify.com/album/7eL0YCyfl9aaNuzt3gn23Q) | 5:34 |
+| 90 | [Astral Man](https://open.spotify.com/track/3sHsj2ZWGqGek6nd9dZexV) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [The Nude Party](https://open.spotify.com/album/17A5r0sO2zpmsEsWXm3GBb) | 5:34 |
 | 91 | [Fitzpleasure](https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:39 |
 | 92 | [Talk \(feat\. Disclosure\)](https://open.spotify.com/track/6TqXcAFInzjp0bODyvrWEq) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 3:17 |
 | 93 | [Yes Indeed](https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 2:22 |

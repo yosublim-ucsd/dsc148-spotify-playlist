@@ -1,12 +1,12 @@
 {
-  "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 75059,
+  "description": "This is Lil Tecca. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 75084,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDE4NjE2OWUwMWEzYWZjNGEyZmIzZjczYTM4ZTQ3NmM0",
+  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDc0NDQwM2Y3NDQ1Y2E1OWVkYzk3ODQxY2Y1ZTU3NzM4",
   "tracks": [
     {
       "added_at": null,
@@ -875,26 +875,6 @@
       "duration_ms": 184614,
       "name": "She Want Some More (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/6MXlAZuSUsbKAN68ErtWj5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Head Doctor (with Lil Tecca)",
-        "url": "https://open.spotify.com/album/2CjIwPjYtTO8KV3iT0i5DY"
-      },
-      "artists": [
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 249515,
-      "name": "Head Doctor (with Lil Tecca)",
-      "url": "https://open.spotify.com/track/2DcmnusqpMEEVTXQRNhuHc"
     }
   ],
   "unique_name": "This Is Lil Tecca",

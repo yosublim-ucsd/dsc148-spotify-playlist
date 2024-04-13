@@ -2,7 +2,7 @@
 
 ### [This Is NOFX](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2RgxsA)
 
-> This is NOFX\. The essential tracks, all in one playlist.
+> This Is NOFX\. Los temas esenciales, todos en una lista.
 
 91 songs - 3 hr 39 min
 

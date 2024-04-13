@@ -1,7 +1,7 @@
 {
-  "2024-04-12": 1363038,
+  "2024-04-13": 1363178,
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Aystar, Skrapz & Potter Payper",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: D-Block Europe",
   "name": "Rap UK",
   "tracks": [
     {
@@ -2405,7 +2405,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 174984,
       "name": "Antisocial",
       "url": "https://open.spotify.com/track/5WRkjGzj48bn7evIhiHSbp"
@@ -2653,7 +2653,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 107000,
       "name": "Attention",
       "url": "https://open.spotify.com/track/6FarFRn9u25aqc6sr2axuO"
@@ -7438,6 +7438,32 @@
     },
     {
       "album": {
+        "name": "Colours",
+        "url": "https://open.spotify.com/album/62yEnQgCgsQWkDaAwlLoZG"
+      },
+      "artists": [
+        {
+          "name": "Carns Hill",
+          "url": "https://open.spotify.com/artist/0BKkDZjC4e9k36ZvLM3DAm"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        },
+        {
+          "name": "Youngs Teflon",
+          "url": "https://open.spotify.com/artist/5tdTldHOWl0iRO4jtII6tv"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178882,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/0daXcFL99EvGv8GqIBaQQH"
+    },
+    {
+      "album": {
         "name": "Colours (feat. Ghetts and D Double E)",
         "url": "https://open.spotify.com/album/12F1DRRl0hGv8mXvmEw71z"
       },
@@ -10161,7 +10187,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 166285,
       "name": "Doubted Me",
       "url": "https://open.spotify.com/track/6UtbpIkvZkL3eODRJ8QuHQ"
@@ -13216,6 +13242,24 @@
     },
     {
       "album": {
+        "name": "Get It",
+        "url": "https://open.spotify.com/album/7DcwHUhLixUTkCIHHZ0aMQ"
+      },
+      "artists": [
+        {
+          "name": "Shaybo",
+          "url": "https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159136,
+      "name": "Get It",
+      "url": "https://open.spotify.com/track/1ThWxydRaJ4yirWgfrpceH"
+    },
+    {
+      "album": {
         "name": "Get Out The Way feat. BackRoad Gee",
         "url": "https://open.spotify.com/album/55wM0G0rirSUEOwvslwcyd"
       },
@@ -14585,7 +14629,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 125423,
       "name": "Hide And Seek (feat. Digga D)",
       "url": "https://open.spotify.com/track/2RFkLlsHRjcnZA0fHCOTKA"
@@ -17176,6 +17220,24 @@
     },
     {
       "album": {
+        "name": "KiKi (What Would Drizzy Say?)",
+        "url": "https://open.spotify.com/album/3OuaEHWzoAJ903v3E9VZW4"
+      },
+      "artists": [
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169676,
+      "name": "KiKi (What Would Drizzy Say?)",
+      "url": "https://open.spotify.com/track/1H0IdGNAKBXQnPD7SBZJfo"
+    },
+    {
+      "album": {
         "name": "Killer Mc",
         "url": "https://open.spotify.com/album/5r2c7VfrLTfNIYol8eAgjs"
       },
@@ -18005,7 +18067,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 160169,
       "name": "Left Right",
       "url": "https://open.spotify.com/track/73YOLxia81uwDIy7g1TClf"
@@ -22483,7 +22545,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 133069,
       "name": "NO HANDS",
       "url": "https://open.spotify.com/track/0rLRVibIjrOoi2j2SzRTuV"
@@ -23277,6 +23339,24 @@
       "duration_ms": 149880,
       "name": "Oh Lord",
       "url": "https://open.spotify.com/track/0PlmVL4O4lZ6TrwhziGNaA"
+    },
+    {
+      "album": {
+        "name": "Old Friends",
+        "url": "https://open.spotify.com/album/70sYEqEvDZTnmPx5seHsbg"
+      },
+      "artists": [
+        {
+          "name": "Bugzy Malone",
+          "url": "https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274190,
+      "name": "Old Friends",
+      "url": "https://open.spotify.com/track/2kbqOmYJ0iQyNl8kLjdckG"
     },
     {
       "album": {
@@ -25276,6 +25356,24 @@
     },
     {
       "album": {
+        "name": "Good Friday 2",
+        "url": "https://open.spotify.com/album/1tEix482Jwi92KYAmq9d1D"
+      },
+      "artists": [
+        {
+          "name": "Moko",
+          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125142,
+      "name": "pocket",
+      "url": "https://open.spotify.com/track/1fbLUwk34YPUrcxITkuF6V"
+    },
+    {
+      "album": {
         "name": "AREA BOYZ",
         "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
@@ -26489,6 +26587,28 @@
       "duration_ms": 151949,
       "name": "Real One",
       "url": "https://open.spotify.com/track/1j1v0op0jjsrhCY4pRcQbD"
+    },
+    {
+      "album": {
+        "name": "Real Rap",
+        "url": "https://open.spotify.com/album/7j2wJrb5K66O4zaGGxubpK"
+      },
+      "artists": [
+        {
+          "name": "Dimzy",
+          "url": "https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4"
+        },
+        {
+          "name": "67",
+          "url": "https://open.spotify.com/artist/211p9eSLzwF6iuXzzP5xTl"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Real Rap",
+      "url": "https://open.spotify.com/track/60imHRZdX6h0aDOZKDUzCq"
     },
     {
       "album": {
@@ -30745,7 +30865,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 169846,
       "name": "Stubborn",
       "url": "https://open.spotify.com/track/1ulpa0sIaa5L8epciIFWvC"

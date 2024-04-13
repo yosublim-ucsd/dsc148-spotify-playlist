@@ -1,7 +1,7 @@
 {
-  "2024-04-12": 527342,
+  "2024-04-13": 527611,
   "date_first_scraped": "2021-12-21",
-  "description": "Listen to the k-hip hop you want to share with the world, selected by artists who participated in the Han Project! (Cover: CHANGMO, lobonabeat!, shyboiitobii, Dok2, SMMUGLERS) (Han Project\uc5d0 \ucc38\uc5ec\ud55c \uc544\ud2f0\uc2a4\ud2b8\ub4e4\uc774 \ubf51\uc740 '\uc804\uc138\uacc4\uc5d0 \ub4e4\ub824\uc8fc\uace0 \uc2f6\uc740 k-hip hop\uc744 \ub4e4\uc5b4\ubcf4\uc138\uc694!)",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover: CHANGMO, lobonabeat!, shyboiitobii, Dok2, SMMUGLERS)",
   "name": "KrOWN",
   "tracks": [
     {
@@ -2275,7 +2275,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 167581,
       "name": "Bang Thang (Feat. Roh Yun Ha)",
       "url": "https://open.spotify.com/track/61xmwYE5xoRiR1XtOFOGPr"
@@ -2544,6 +2544,28 @@
     },
     {
       "album": {
+        "name": "Beautiful (feat. B.I)",
+        "url": "https://open.spotify.com/album/2UaXHvolN0TrODffdIxHs5"
+      },
+      "artists": [
+        {
+          "name": "basecamp",
+          "url": "https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163639,
+      "name": "Beautiful (feat. B.I)",
+      "url": "https://open.spotify.com/track/1ge1KSTMkRr6xLL3xjiLmx"
+    },
+    {
+      "album": {
         "name": "THINKING Part.2",
         "url": "https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad"
       },
@@ -2577,7 +2599,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 231963,
       "name": "Bentley",
       "url": "https://open.spotify.com/track/2LLLwm6I3SMEBbs32llNlM"
@@ -5325,7 +5347,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 117769,
       "name": "dAsh!",
       "url": "https://open.spotify.com/track/0zrCD909QAKEnbQWB0GcB7"
@@ -5685,7 +5707,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 123120,
       "name": "Dillis",
       "url": "https://open.spotify.com/track/1sEO3COhUlmYx3e4W6wnND"
@@ -10729,7 +10751,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 198659,
       "name": "Hyperstar",
       "url": "https://open.spotify.com/track/2eMgUo649JZjeZiGBECUtZ"
@@ -11311,7 +11333,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 150416,
       "name": "ii FU*KS (feat. Yung Blesh)",
       "url": "https://open.spotify.com/track/02GRyZOWX7AzyStnqS7wSb"
@@ -13681,7 +13703,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 234590,
       "name": "Lonely Stoner (Feat. \uc5fc\ub530, Rakon)",
       "url": "https://open.spotify.com/track/2230xmkulvU8U7yWaVsFcU"
@@ -15407,7 +15429,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 157503,
       "name": "moneynbooty",
       "url": "https://open.spotify.com/track/2g9L0p7ehC9Ok1cZnGOXnv"
@@ -15719,7 +15741,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 168500,
       "name": "MTU",
       "url": "https://open.spotify.com/track/68KImpIAhMG8stlZFvfthm"
@@ -16445,7 +16467,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 169929,
       "name": "nnf (Feat. Paloalto)",
       "url": "https://open.spotify.com/track/6q4SptRUSIhUcpiLLqjc7m"
@@ -21717,7 +21739,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 164456,
       "name": "Star",
       "url": "https://open.spotify.com/track/15foo6VSdbAoO0ppSi9HEx"
@@ -24291,7 +24313,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 160104,
       "name": "Understand",
       "url": "https://open.spotify.com/track/0gVqDsMxAOREJ6WcdOuVHk"
@@ -26759,7 +26781,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 244746,
       "name": "\ubabd\ud658\uc758 \uc232 (feat. Yiruma)",
       "url": "https://open.spotify.com/track/3rQRx89A7kGuyXMbE72WCa"

@@ -765,6 +765,28 @@
     },
     {
       "album": {
+        "name": "The Vault, Volume 1",
+        "url": "https://open.spotify.com/album/0RyCEPdlHpZcSQHVcC3kW2"
+      },
+      "artists": [
+        {
+          "name": "Preston Pablo",
+          "url": "https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5"
+        },
+        {
+          "name": "Banx & Ranx",
+          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134651,
+      "name": "Dance Alone - Vault Mix",
+      "url": "https://open.spotify.com/track/6n00liQgt7sZYPD55bfbfT"
+    },
+    {
+      "album": {
         "name": "DIFFRENT",
         "url": "https://open.spotify.com/album/68m1oLyZBu6bIRB4L1sHKL"
       },

@@ -4,7 +4,7 @@
 
 > Come on down to the waters ye sinner and dig deep into this collection of songs and stories steeped in struggle, hope, darkness, light, sin and salvation.
 
-59 songs - 3 hr 56 min
+60 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Way down We Go](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:33 | 2018-04-16 |  |
 | [Where the Devil Don't Go](https://open.spotify.com/track/0mHSePRiFnTy7qYPsIeIJ8) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Love Stuff](https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov) | 3:01 | 2018-04-16 |  |
 | [Where The Devil Don't Stay](https://open.spotify.com/track/0JHSj1ozIuflSqZ4sYmm3N) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [The Dirty South](https://open.spotify.com/album/1NWS8t0VKjxEy7tZFdwiFs) | 5:19 | 2018-04-16 | 2022-07-29 |
-| [Where the Devil Don't Stay](https://open.spotify.com/track/7zka0QS6Kb7eqvm4Mv1jwv) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [The Dirty South](https://open.spotify.com/album/6MaUJWhC6jQJL84AH1MNWy) | 5:19 | 2018-04-16 |  |
+| [Where the Devil Don't Stay](https://open.spotify.com/track/28i82TRi1JhKLoRQ6c0nqC) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [The Dirty South](https://open.spotify.com/album/5EVo2jFs4JJ1gUbinbu65h) | 5:19 | 2023-02-18 |  |
+| [Where the Devil Don't Stay](https://open.spotify.com/track/7zka0QS6Kb7eqvm4Mv1jwv) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [The Dirty South](https://open.spotify.com/album/6MaUJWhC6jQJL84AH1MNWy) | 5:19 | 2018-04-16 | 2024-04-13 |
 | [Wilderlove](https://open.spotify.com/track/1XvyPvEPUdyMi4K3beNfOE) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Mercury & Lightning](https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P) | 4:41 | 2018-04-16 |  |
 | [Wilderlove](https://open.spotify.com/track/4nWfJBA1NYQ74KIJV0GwWp) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Mercury & Lightning](https://open.spotify.com/album/6zKk1qsXNvOqAjy9cfzE2Q) | 4:41 | 2018-04-16 | 2022-07-29 |
 

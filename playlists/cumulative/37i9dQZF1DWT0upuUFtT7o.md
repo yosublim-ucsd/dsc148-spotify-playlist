@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Slow Pulp performing at Fresh Finds Chicago March, 2024
 
-2,340 songs - 5 day 8 hr 25 min
+2,341 songs - 5 day 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1751,6 +1751,7 @@
 | [SeaStar](https://open.spotify.com/track/7F9iyJvGsClvRcDNpBXISZ) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [SeaStar](https://open.spotify.com/album/0X0Cxpfxn2dA7pjsHcViIb) | 4:46 | 2024-01-10 | 2024-01-18 |
 | [Second Chances](https://open.spotify.com/track/5LEMdVviumJLxbRP1e53FL) | [oh caroline](https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW) | [Monochrome](https://open.spotify.com/album/2K6dix8Cx3UBanEylzyiM1) | 2:40 | 2024-02-14 | 2024-04-04 |
 | [Second hand embarrassment](https://open.spotify.com/track/1PEPcLm2QEo0HCRIhQjPq1) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 2:17 | 2021-12-01 | 2022-01-13 |
+| [Sedona](https://open.spotify.com/track/0PbKuaLSKdSy7AsGpOi0er) | [Riley Whittaker](https://open.spotify.com/artist/01M042tT419btz6wpqGoZE) | [Sedona](https://open.spotify.com/album/2BjXEWXaQHHmpzPJD6IQ74) | 3:24 | 2024-04-12 |  |
 | [Seeds of Evil](https://open.spotify.com/track/0wExq390PWRzSvpBlfjQTs) | [youbet](https://open.spotify.com/artist/6KVAGRLT6LHvatyFDZr1aI) | [Seeds of Evil](https://open.spotify.com/album/2iXteeFOazB3q1QuJfTtjf) | 3:07 | 2024-03-27 |  |
 | [seeker missile](https://open.spotify.com/track/4lzb5MeRL9NrmW8WR11t1d) | [dynastic](https://open.spotify.com/artist/1cfVy8MbRPuDJD7g9bR14z) | [the actor](https://open.spotify.com/album/16v4NJuFupxvWsCGOduCeC) | 3:12 | 2022-07-27 | 2022-09-29 |
 | [Seems Like Forever](https://open.spotify.com/track/3eIcEbicqr3ikj05Gkmziv) | [Scarlet Rae](https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K) | [Seems Like Forever](https://open.spotify.com/album/01rddRm7oUQ3GqOG9mkEO8) | 5:18 | 2022-01-26 | 2022-04-07 |

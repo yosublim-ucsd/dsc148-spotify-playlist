@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Slow Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,342 likes - 110 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,394 likes - 110 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 75 | [microdose](https://open.spotify.com/track/52MUftJPRd3IQJ1q7DAEaY) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [microdose](https://open.spotify.com/album/4XZh11VvoX8ij09p4wN8nK) | 2:59 |
 | 76 | [Temple of the Mind](https://open.spotify.com/track/7DrgRNtdIqzaabxfoCYRCj) | [Tomato Flower](https://open.spotify.com/artist/32g8Z2L0lqQH65njcLcBUG) | [Temple of the Mind](https://open.spotify.com/album/6LoUBQe7T8lfwVdLMtvzc3) | 1:54 |
 | 77 | [Silencer](https://open.spotify.com/track/6oaojdApsszEW6ZROqkxrO) | [Emily Wolfe](https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha) | [Silencer](https://open.spotify.com/album/14NCGatMxEaxT6ctrtQUBM) | 3:09 |
-| 78 | [Syrup](https://open.spotify.com/track/56HOxGRg1ICrkBLvWailZx) | [Elijah Johnston](https://open.spotify.com/artist/50as9VMbiduY1sVn0d7z2T) | [Hometown Vampire](https://open.spotify.com/album/4KybaR7XKX0v6u70W4YpS3) | 1:23 |
+| 78 | [Syrup](https://open.spotify.com/track/1lGxw1hH4hYVXYVsBBQjHH) | [Elijah Johnston](https://open.spotify.com/artist/50as9VMbiduY1sVn0d7z2T) | [Hometown Vampire](https://open.spotify.com/album/75gCVc5enHhla8zBWqGRaV) | 1:23 |
 | 79 | [Afterlife](https://open.spotify.com/track/7KOGykL8wWBk03znuEIwpl) | [Shangrila](https://open.spotify.com/artist/1oNxPFiz63yiszGOxZ9DeG) | [Afterlife](https://open.spotify.com/album/2sT6HljkwBrZgsFoFxQmeV) | 4:19 |
 | 80 | [LOSER](https://open.spotify.com/track/6HOsksISHjFGsjk0vzK0S6) | [LOWLIVES](https://open.spotify.com/artist/7Hg9yStqSEaKmwPxFlWeE2) | [LOSER](https://open.spotify.com/album/6stziyO40ovFZGQN71pB67) | 3:22 |
 | 81 | [Steel Police](https://open.spotify.com/track/0Dd9oJpMD8K73yR0MbKo6h) | [The Guest List](https://open.spotify.com/artist/3MlBGzJspD6CjrHRYbR4OQ) | [Steel Police](https://open.spotify.com/album/01kvkSCxUXSFpxAc20dkQD) | 3:47 |

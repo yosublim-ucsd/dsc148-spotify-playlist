@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NqzqLujHI1.md) - [plain]
 
 > Songs to keep you company during Ramadan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,661 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,667 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : Neeraj Madhav
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,468 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,660 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 | 55 | [Sancharare \(From "Sayanna Varthakal"\)](https://open.spotify.com/track/3OsylRuPBixUSzy3CnOEu7) | [Sankar Sharma](https://open.spotify.com/artist/3hmaYZ6q0ZWzdbpz8B5kZE), [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et), [Bhadra Rajin](https://open.spotify.com/artist/2Z8xrdU7UXKkHgtJ3U4HZn), [Anu Elizabeth Jose](https://open.spotify.com/artist/1anNgJEsUGKrS0i7P7Ck8c) | [Sancharare \(From "Sayanna Varthakal"\)](https://open.spotify.com/album/2Imw6dtkOcyHcdScoUodqW) | 3:20 |
 | 56 | [Neeyethaa \- From "Naradan"](https://open.spotify.com/track/6UMVbjz1nsK3dIDhEWSiwx) | [DJ Sekhar](https://open.spotify.com/artist/2AepjEFzesduzgTezL8263), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [Marthyan](https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T) | [Neeyethaa \(From "Naradan"\)](https://open.spotify.com/album/5837OVdrRqLzKMjuXmNgWi) | 2:59 |
 | 57 | [Kilippattu](https://open.spotify.com/track/2BsqpmOiRP2bMRcOGpkQIT) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Kilippattu](https://open.spotify.com/album/2987ZN6ldWDnTomTM8rICN) | 2:33 |
-| 58 | [Vaa](https://open.spotify.com/track/5Nm1pQ3mp1cWpGTrRIxaig) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Vaa](https://open.spotify.com/album/5Kp82kgZu1ByPkR4nuhml1) | 2:47 |
+| 58 | [Vaa](https://open.spotify.com/track/50I3sAWquG9d5m6nXzMmIR) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Vaa](https://open.spotify.com/album/7MRTS8Io28S5g4P4o6mqtb) | 2:47 |
 | 59 | [Scoot Scoot \(Original Soundtrack\)](https://open.spotify.com/track/6M3b5IenACOTvOfvEUoTPb) | [Vivek Radhakrishnan](https://open.spotify.com/artist/6gJZryVxqQCRpTAQh4yq8d), [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe), [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz) | [Scoot Scoot \(Original Soundtrack\)](https://open.spotify.com/album/3G5wGjpeEa0kmuT8golvUA) | 2:30 |
 | 60 | [All Divine](https://open.spotify.com/track/7mzu2WH5iRdKyBZVLZhHS2) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf), [Steve Knight](https://open.spotify.com/artist/6G5M4NdoEdfFdkZtcE0Ntg) | [All Divine](https://open.spotify.com/album/49ficLfuUA7y7Uczvf7IzQ) | 4:04 |
 | 61 | [AARDA?](https://open.spotify.com/track/5Nx5RNHYpFCV4LgyHcRqeq) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Thudwiser](https://open.spotify.com/artist/6z8IZH6zc5YxGOGZT1ZswT) | [AARDA?](https://open.spotify.com/album/4C6SKJt6TL8mNKL5sc661k) | 3:46 |

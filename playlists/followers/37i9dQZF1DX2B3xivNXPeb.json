@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 39334,
+  "2024-04-13": 39475,
   "date_first_scraped": "2022-07-19",
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
   "name": "Your Kitchen Stereo",
@@ -357,7 +357,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 256127,
       "name": "At What Cost",
       "url": "https://open.spotify.com/track/45dq2Tj670CC0WOZEFashZ"
@@ -568,6 +568,24 @@
     },
     {
       "album": {
+        "name": "Before You Leave Me",
+        "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176178,
+      "name": "Before You Leave Me",
+      "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
+    },
+    {
+      "album": {
         "name": "Goodbye Yellow Brick Road (Remastered)",
         "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
       },
@@ -637,6 +655,24 @@
       "duration_ms": 278082,
       "name": "Best Worst Year",
       "url": "https://open.spotify.com/track/4mrMneeP6gYjDezM4tyxMD"
+    },
+    {
+      "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/2MQkhHQpZPSahzils2tLuF"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205706,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/001ynVS4F9gJ4dKdvnzjMp"
     },
     {
       "album": {
@@ -901,6 +937,24 @@
       "duration_ms": 173933,
       "name": "Broke Boy",
       "url": "https://open.spotify.com/track/7IFFuUYZTa5CUNz099dUqB"
+    },
+    {
+      "album": {
+        "name": "Bruised One",
+        "url": "https://open.spotify.com/album/7D3177ySIsW3EfuaLqJRJQ"
+      },
+      "artists": [
+        {
+          "name": "Mackenzy Mackay",
+          "url": "https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180489,
+      "name": "Bruised One",
+      "url": "https://open.spotify.com/track/7bVuadBTbyQG4udyRFpwUl"
     },
     {
       "album": {
@@ -2360,6 +2414,24 @@
     },
     {
       "album": {
+        "name": "How?",
+        "url": "https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY"
+      },
+      "artists": [
+        {
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "How?",
+      "url": "https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM"
+    },
+    {
+      "album": {
         "name": "hurt people",
         "url": "https://open.spotify.com/album/69ZEIS1kDJhmKemxug7aP8"
       },
@@ -3335,7 +3407,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 171958,
       "name": "Lights are Dancing",
       "url": "https://open.spotify.com/track/3eAfr9tTURvobS4FGr7zMk"
@@ -3909,7 +3981,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 223873,
       "name": "Nostalgia (feat. Taura)",
       "url": "https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt"
@@ -5455,7 +5527,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 203985,
       "name": "The Love I Need",
       "url": "https://open.spotify.com/track/6kMz52ZCGAPfeoVrZM759i"
@@ -5477,6 +5549,24 @@
       "duration_ms": 204706,
       "name": "The Same Love That Made Me Laugh",
       "url": "https://open.spotify.com/track/6GETCaMrDCu3uFe2TMkyGA"
+    },
+    {
+      "album": {
+        "name": "Sitting Pretty EP",
+        "url": "https://open.spotify.com/album/6KttlTVbiEPCOdUIEznLq5"
+      },
+      "artists": [
+        {
+          "name": "Alfie Jukes",
+          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205172,
+      "name": "The Shade",
+      "url": "https://open.spotify.com/track/56k85b4i4XlccTAndrvE72"
     },
     {
       "album": {
@@ -5921,7 +6011,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 242732,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/3dpCarDMIp7RFxdUQ45Ccm"

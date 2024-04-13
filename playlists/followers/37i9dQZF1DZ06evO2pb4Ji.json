@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 387041,
+  "2024-04-13": 387096,
   "date_first_scraped": "2024-01-30",
   "description": "This is League of Legends. The essential tracks, all in one playlist.",
   "name": "This Is League of Legends",
@@ -105,7 +105,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 253467,
       "name": "Awakened",
       "url": "https://open.spotify.com/track/2Q218QT28mAgqnUVDgUOsK"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 247058,
       "name": "Hwei, the Visionary",
       "url": "https://open.spotify.com/track/2D4duiQsK4GJ6b6sl1TC7t"
@@ -1086,6 +1086,28 @@
     },
     {
       "album": {
+        "name": "Skarner, the Primordial Sovereign",
+        "url": "https://open.spotify.com/album/3CpC54hcNhX629RQCxNj2k"
+      },
+      "artists": [
+        {
+          "name": "J.D. Spears",
+          "url": "https://open.spotify.com/artist/50louHoMTbX9FEk7mVVAnE"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208332,
+      "name": "Skarner, the Primordial Sovereign",
+      "url": "https://open.spotify.com/track/623tubTmArxq2CBgxLHMFU"
+    },
+    {
+      "album": {
         "name": "Smolder, the Fiery Fledgling",
         "url": "https://open.spotify.com/album/2qebqrLs9esVTMWZRsztPj"
       },
@@ -1365,7 +1387,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 198400,
       "name": "Volibear, the Relentless Storm",
       "url": "https://open.spotify.com/track/6wMKi4VyXoxUHAOOJIJ1by"

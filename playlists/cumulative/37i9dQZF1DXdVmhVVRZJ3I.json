@@ -1385,6 +1385,32 @@
     },
     {
       "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/6gfGUXVaqfEKv8x9jaJ3LP"
+      },
+      "artists": [
+        {
+          "name": "Jean Juan",
+          "url": "https://open.spotify.com/artist/0BdqSoiFVJSplPq3KSySFz"
+        },
+        {
+          "name": "Francisco",
+          "url": "https://open.spotify.com/artist/0t2ewh8ZZdrDruJgjnMTCF"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/6JDjacug968YX4P56tJwMt"
+    },
+    {
+      "album": {
         "name": "Terremoto EP",
         "url": "https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4"
       },
@@ -1654,7 +1680,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 158250,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/1CDAOBO6hvdfxr0zX0R2dw"

@@ -4,11 +4,11 @@
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Karol G en portada.
 
-160 songs - 8 hr 29 min
+161 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1000COSAS](https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [1000COSAS](https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj) | 3:59 | 2024-03-08 | 2024-04-06 |
+| [1000COSAS](https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [1000COSAS](https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj) | 3:59 | 2024-03-08 |  |
 | [19 HORAS](https://open.spotify.com/track/0TQ7ZzUutFsbyWPehDLdkG) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [19 HORAS](https://open.spotify.com/album/0I8diZN920PZQawwNu2Iud) | 2:54 | 2023-03-10 | 2024-02-21 |
 | [</3](https://open.spotify.com/track/1yzYIMbZkBKcTEBuveW0fX) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [:\( EP](https://open.spotify.com/album/4RR4nrldxJkqfcPJTPxm75) | 3:32 | 2023-11-10 | 2024-02-03 |
 | [</3](https://open.spotify.com/track/3zJelOfPDV2RG1VGrt6zF7) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [:\( EP](https://open.spotify.com/album/5acfrPOtHQxBSS7WUGl2hV) | 3:32 | 2022-04-25 | 2023-12-14 |
@@ -28,6 +28,7 @@
 | [Brillo en Soledad](https://open.spotify.com/track/489o2zIJx0S6I5HusgbBLK) | [Fer Altuzar](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Brillo en Soledad](https://open.spotify.com/album/4TyWJZlbnKjneVFZnSqUOe) | 4:22 | 2023-07-21 | 2023-12-16 |
 | [Brillo en Soledad](https://open.spotify.com/track/5VJX4IshKU7hSk6ov8jlGn) | [Lunastasia](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Brillo en Soledad](https://open.spotify.com/album/1KGLc0Xue5u404KOGpEkFr) | 4:22 | 2022-04-25 | 2023-07-27 |
 | [Buenas](https://open.spotify.com/track/4sDpxaulErbJ9NBaJDC7cJ) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Buenas](https://open.spotify.com/album/2FRQH7JReYGUWXX86Pr6ag) | 3:12 | 2023-09-22 | 2023-12-16 |
+| [buenos aires](https://open.spotify.com/track/7L0BH62HRIap3Fg6KUyQfR) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [buenos aires](https://open.spotify.com/album/4SXpbXXNdxRmHbyoFaCnvc) | 3:23 | 2024-04-12 |  |
 | [Café](https://open.spotify.com/track/55jK8S4pNyrHAfkMq7oGxM) | [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf) | [Neutro](https://open.spotify.com/album/6vsqSYcjmlq80EUqG3le2b) | 3:47 | 2022-04-25 |  |
 | [Carrusel](https://open.spotify.com/track/2RpDqAVH05D4NIM4IuGtkr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Carrusel](https://open.spotify.com/album/03ZGMticvoqmLHfTJPvuU6) | 2:23 | 2024-02-21 |  |
 | [Carta de Despedida](https://open.spotify.com/track/7In4Lnz4mpkFkG5zOAzLuE) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [RONNY J](https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or) | [Carta de Despedida](https://open.spotify.com/album/1BQAi9dnZNj2102wIIcDzd) | 3:04 | 2024-04-05 |  |
@@ -47,7 +48,7 @@
 | [daydreaming](https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [daydreaming](https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn) | 2:42 | 2023-02-08 | 2023-07-22 |
 | [De Nuevo](https://open.spotify.com/track/3oFu4gyDBi52uPzTJsAvSf) | [Dany Doll](https://open.spotify.com/artist/4Bxo29WRyYvpL6ZLUL6FvY), [Hemphil Otra Nota](https://open.spotify.com/artist/60fXztK8e403cLtMzAl0C9), [Master P](https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW) | [De Nuevo](https://open.spotify.com/album/0QrTQAtARKKb7viQ5G32IY) | 3:39 | 2023-05-19 | 2023-09-30 |
 | [De Ti Me Olvidé](https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [De Ti Me Olvidé](https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp) | 3:41 | 2022-04-25 | 2024-03-02 |
-| [Dormir Contigo](https://open.spotify.com/track/4lckjigNyvJ3IY54d6Qi0I) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Dormir Contigo](https://open.spotify.com/album/59bouilTnKOb4R2VctA4D8) | 3:24 | 2022-04-25 |  |
+| [Dormir Contigo](https://open.spotify.com/track/4lckjigNyvJ3IY54d6Qi0I) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Dormir Contigo](https://open.spotify.com/album/59bouilTnKOb4R2VctA4D8) | 3:24 | 2022-04-25 | 2024-04-13 |
 | [Dosis](https://open.spotify.com/track/10SVwgvHl2LN6H6ij5lloD) | [Selected Music](https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y), [KarloH](https://open.spotify.com/artist/0QOlyFDAVDrZbnfS9zUQNk) | [Dosis](https://open.spotify.com/album/0FCRnLWbqtfOqoy6NE83vM) | 2:47 | 2023-06-30 |  |
 | [EGO](https://open.spotify.com/track/354pCNhr685jh0QEaGTAHH) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [EGO](https://open.spotify.com/album/295wDTQXatb4fOeVpv9mlt) | 3:31 | 2022-04-25 | 2024-03-02 |
 | [El Ciclo](https://open.spotify.com/track/6t8m5o30RGfgtqLdvPgZRU) | [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [El Ciclo](https://open.spotify.com/album/0drXgXCkeFKcPTmFjqwMCY) | 3:17 | 2023-05-26 |  |
@@ -158,7 +159,7 @@
 | [TQMQA](https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [TQMQA](https://open.spotify.com/album/2AUNqh31eFHMUCqM1aIl2r) | 2:49 | 2023-12-15 |  |
 | [Ténis Nuevos](https://open.spotify.com/track/1ZP97vG2hQ3sCw6z2fEOJx) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Ténis Nuevos](https://open.spotify.com/album/3JGQ7wVltDcYjVyQqTqIFV) | 3:07 | 2022-04-25 | 2024-04-06 |
 | [Túnel](https://open.spotify.com/track/3zPyX7VeRX2t7K9oTPlS4K) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Túnel](https://open.spotify.com/album/1F1agzWdqeKxLwEuqyvki7) | 3:44 | 2022-04-25 |  |
-| [Un Beso Más](https://open.spotify.com/track/2jZYhg9J0Oaupnqv9BcBlZ) | [Laranda](https://open.spotify.com/artist/7bE5OUC0Qr3LgqXBjvZPLO) | [Un Beso Más](https://open.spotify.com/album/79aNv7GinziKqhd89hgsQz) | 2:52 | 2022-04-25 |  |
+| [Un Beso Más](https://open.spotify.com/track/2jZYhg9J0Oaupnqv9BcBlZ) | [Laranda](https://open.spotify.com/artist/7bE5OUC0Qr3LgqXBjvZPLO) | [Un Beso Más](https://open.spotify.com/album/79aNv7GinziKqhd89hgsQz) | 2:52 | 2022-04-25 | 2024-04-13 |
 | [UNDOSTRES](https://open.spotify.com/track/3U0DLCsgve2tFyrVNJJ21U) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [UNDOSTRES](https://open.spotify.com/album/0uinxnauQiaTu8QySpjkrC) | 3:28 | 2022-04-25 |  |
 | [Verte](https://open.spotify.com/track/58eWb1SrncuILvCQgSrQPl) | [Juan Fe Pulido](https://open.spotify.com/artist/2DtRrh7GKTiW1X6XZ09uw8), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Verte](https://open.spotify.com/album/0lR6GCdnyfY3kela8SCWdS) | 3:35 | 2022-04-25 |  |
 | [Volando a Ti](https://open.spotify.com/track/1O65SV67NMFiQDzM33tyGk) | [Jezreel](https://open.spotify.com/artist/7iGFvtUk5Aq6Tb5GVisMvx) | [Volando a Ti](https://open.spotify.com/album/3BPKMfndun4bLRrRRo3NBl) | 4:18 | 2022-04-25 | 2024-02-03 |

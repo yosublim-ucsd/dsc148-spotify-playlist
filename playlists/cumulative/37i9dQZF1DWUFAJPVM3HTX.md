@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE?si=wf2AU64KSOmNwXd1SbxUYg"> Casper Sage </a> performing at Fresh Finds, Chicago 2024\. Updates every Wednesday.
 
-2,237 songs - 4 day 18 hr 38 min
+2,238 songs - 4 day 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1443,7 +1443,8 @@
 | [OPTIONS](https://open.spotify.com/track/1h1ad5ERaW20I3J9Va4GsI) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [OPTIONS](https://open.spotify.com/album/7wxMg3wnhxQ4AYwM8r4lo6) | 2:17 | 2024-03-08 |  |
 | [Options](https://open.spotify.com/track/5LHzOlQkBViBZSjFh2qv6p) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ) | [Options](https://open.spotify.com/album/739qSfNAMbuoyl9MjZ407j) | 3:35 | 2023-02-10 | 2023-04-13 |
 | [Orange](https://open.spotify.com/track/67QdCgQHAnBKCrs5mmbqcr) | [Ballad](https://open.spotify.com/artist/5rzpNZtFsVj1CxuF9qzeRx), [Tim Hall](https://open.spotify.com/artist/6oXJ7P410Y0HA5seK7DclJ) | [Orange](https://open.spotify.com/album/6CtzbK9WpdoBIMd4E9X49M) | 3:16 | 2022-11-30 | 2023-01-12 |
-| [ordinary love](https://open.spotify.com/track/6c1hBQhJpn1n8Jgf7pLAYE) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [ordinary love](https://open.spotify.com/album/2wtHEZMiYClmFw6klKyISA) | 3:12 | 2024-03-22 |  |
+| [ordinary love](https://open.spotify.com/track/5A7aINCrHYQ0JKDqZhfoch) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [every night was the same](https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK) | 3:12 | 2024-03-22 |  |
+| [ordinary love](https://open.spotify.com/track/6c1hBQhJpn1n8Jgf7pLAYE) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [ordinary love](https://open.spotify.com/album/2wtHEZMiYClmFw6klKyISA) | 3:12 | 2024-03-22 | 2024-04-13 |
 | [Ordinary Love](https://open.spotify.com/track/27oYvDzSpwNDNojFdUD7LZ) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [Ordinary Love](https://open.spotify.com/album/2R6EzaM8RREXn9jkFK7BEd) | 2:56 | 2024-02-09 | 2024-04-11 |
 | [OTW](https://open.spotify.com/track/7lq0QaJx33Etieu5w4QD5B) | [Talall](https://open.spotify.com/artist/2kL2nDl87QDXYgHCITHldF), [Jaymie Deville](https://open.spotify.com/artist/18JfXVpoIu9X7IDN9u5Jwx) | [OTW](https://open.spotify.com/album/2IeCOxxYZHCiiIZBxQOhO1) | 3:23 | 2023-01-11 | 2023-01-27 |
 | [Out of the Game](https://open.spotify.com/track/1YEl1kvT23FJYxYvila7Nu) | [Arianna Reid](https://open.spotify.com/artist/2oDxeS4v0TZosWxD6zcihc) | [Out of the Game](https://open.spotify.com/album/5G8UBIwCDTmbCoZOwThB8h) | 2:57 | 2024-03-29 |  |

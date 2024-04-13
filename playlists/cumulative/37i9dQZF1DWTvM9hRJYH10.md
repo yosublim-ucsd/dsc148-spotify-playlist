@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters\. Cover: Maddox Batson
 
-325 songs - 17 hr 13 min
+326 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,8 @@
 | [Knee On](https://open.spotify.com/track/2Ls3eAK8JioZRuyI508fIn) | [Clayton Shay](https://open.spotify.com/artist/70paYnUiMhlriyqsG4D0CR) | [Knee On](https://open.spotify.com/album/0DERFnU3gL3kT4phelFrzZ) | 3:04 | 2021-12-31 | 2022-02-12 |
 | [Know Ya](https://open.spotify.com/track/5Fg0HlaYmQEcfeN8YoYbgV) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Know Ya](https://open.spotify.com/album/1rW2XLmrFBksfkmxRSIPuj) | 2:43 | 2022-05-13 |  |
 | [Laid Back](https://open.spotify.com/track/1DxeneyJ1e1N9ahmq1y6zy) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Tiera](https://open.spotify.com/album/0NBmlHXj47hWNHIdneHCu5) | 2:51 | 2021-12-31 | 2022-07-29 |
-| [Laid Back](https://open.spotify.com/track/2Q6u01A9qrtBnKEmwD9QOM) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Tiera](https://open.spotify.com/album/50jNCjQGuhYEG5z6iVmzRC) | 2:51 | 2022-07-22 |  |
+| [Laid Back](https://open.spotify.com/track/2Q6u01A9qrtBnKEmwD9QOM) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Tiera](https://open.spotify.com/album/50jNCjQGuhYEG5z6iVmzRC) | 2:51 | 2022-07-22 | 2024-04-13 |
+| [Laid Back](https://open.spotify.com/track/4YZhjZQrCvsrPKs0jbexQa) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Tiera](https://open.spotify.com/album/0NMk88gtUwYqQoFJKUtnpd) | 2:51 | 2024-04-02 |  |
 | [Like A Boy](https://open.spotify.com/track/4PogesCtj51SnEM2ZqLp6r) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Like A Boy](https://open.spotify.com/album/57IFh9v1WO3rBi7NVO7gR3) | 2:44 | 2021-12-31 | 2022-01-22 |
 | [Like the Movies](https://open.spotify.com/track/5zd5yuvG5Xv92c1ToPtasO) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Like the Movies](https://open.spotify.com/album/6Itw6oshBRErChLtVeusJV) | 3:24 | 2021-12-31 | 2022-02-12 |
 | [LOML](https://open.spotify.com/track/1DQarOQMUb4ABXvwDd2XG2) | [Lena Stone](https://open.spotify.com/artist/4povL23A9IkoiWKv9KHhkx) | [LOML](https://open.spotify.com/album/2Jlrkiq7rm3gV7kXtVxLjM) | 3:00 | 2022-04-08 | 2022-07-02 |

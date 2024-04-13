@@ -1,7 +1,7 @@
 {
-  "2024-04-12": 888438,
+  "2024-04-13": 888628,
   "date_first_scraped": "2022-05-12",
-  "description": "Solo il meglio dello street rap italiano. Cover: Rondodasosa",
+  "description": "Solo il meglio dello street rap italiano. Cover: Artie 5ive",
   "name": "Street Culto",
   "tracks": [
     {
@@ -25,6 +25,28 @@
       "duration_ms": 141904,
       "name": "#SI (feat. Tony Effe)",
       "url": "https://open.spotify.com/track/0o8RvXnvLD400LkZvwj6lC"
+    },
+    {
+      "album": {
+        "name": "+++!",
+        "url": "https://open.spotify.com/album/0jzdt56THDyYB8jTxeL5hl"
+      },
+      "artists": [
+        {
+          "name": "Diss Gacha",
+          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
+        },
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179071,
+      "name": "+++!",
+      "url": "https://open.spotify.com/track/0Uicbmb213nXrOHCC16aTU"
     },
     {
       "album": {
@@ -219,6 +241,24 @@
       "duration_ms": 147692,
       "name": "20 ALBANESI",
       "url": "https://open.spotify.com/track/0D2U3OZOuOuYptEF4Q6ziQ"
+    },
+    {
+      "album": {
+        "name": "BLUE TAPE",
+        "url": "https://open.spotify.com/album/1qkwowXA6TPNPl1kbSIPmn"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167973,
+      "name": "2016",
+      "url": "https://open.spotify.com/track/2JgCXiJC4ddwW9knhqFJ5B"
     },
     {
       "album": {
@@ -519,6 +559,24 @@
       "duration_ms": 113403,
       "name": "aka DOLCE&GABBANA",
       "url": "https://open.spotify.com/track/3UbG721DOAQ0mO3Vgrnnwa"
+    },
+    {
+      "album": {
+        "name": "ALBANIA COMMANDO",
+        "url": "https://open.spotify.com/album/31biyXSafVHMxOCbW6s0eF"
+      },
+      "artists": [
+        {
+          "name": "Il Ghost",
+          "url": "https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143649,
+      "name": "ALBANIA COMMANDO",
+      "url": "https://open.spotify.com/track/4GOVrqS2AHBnII3MaVLspD"
     },
     {
       "album": {
@@ -2105,7 +2163,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 173906,
       "name": "CADILLAC (feat. MV Killa, Geolier, Tony Effe)",
       "url": "https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60"
@@ -4701,7 +4759,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 172500,
       "name": "HUSTLER",
       "url": "https://open.spotify.com/track/5tKdkGsfBLp44jO3uCguUx"
@@ -6295,7 +6353,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 177500,
       "name": "Messina Denaro (feat. Sapobully)",
       "url": "https://open.spotify.com/track/1PBR22wA2xcXshjistfEyb"
@@ -6647,7 +6705,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 145851,
       "name": "N.47",
       "url": "https://open.spotify.com/track/4xkvFol7qRPv0OTbOF1iSj"
@@ -8465,6 +8523,32 @@
       "duration_ms": 207435,
       "name": "RED&BLUE",
       "url": "https://open.spotify.com/track/6jxeK8g2wpe2yVLsHcjRhG"
+    },
+    {
+      "album": {
+        "name": "Responsabile (feat. Nerissima Serpe)",
+        "url": "https://open.spotify.com/album/7tyFbNorSj6F0n9zUl25hO"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Responsabile (feat. Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/3YNDnWbIzjtVo87DalnFmK"
     },
     {
       "album": {

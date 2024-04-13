@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "\ud83c\uddf5\ud83c\udded vibin' \ud83e\udd76 \ud83d\udd25 Cover: DEMI. International Women\u2019s Day takeover. Powered by <a href=\"spotify:genre:equal\">EQUAL</a>",
+  "description": "\ud83c\uddf5\ud83c\udded vibin' \ud83e\udd76 \ud83d\udd25 Cover: Jason Dhakal, Jess Connelly, LUSTBASS",
   "name": "Pinas Vibes",
   "tracks": [
     {
@@ -1799,6 +1799,28 @@
     },
     {
       "album": {
+        "name": "imahe",
+        "url": "https://open.spotify.com/album/5I2gN3z4KCKUJ1KMWLa18D"
+      },
+      "artists": [
+        {
+          "name": "kyleaux",
+          "url": "https://open.spotify.com/artist/0CPN6hsvntQd2izYTDVO7M"
+        },
+        {
+          "name": "E.J",
+          "url": "https://open.spotify.com/artist/4CUQubNxrznvOLWuWDxsuN"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155177,
+      "name": "imahe",
+      "url": "https://open.spotify.com/track/5CCnKOKEj1x2Y8qDu28avh"
+    },
+    {
+      "album": {
         "name": "in my mind",
         "url": "https://open.spotify.com/album/2I5Fyzh3i62EAic0bac8uJ"
       },
@@ -2388,7 +2410,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 220800,
       "name": "Love You Right",
       "url": "https://open.spotify.com/track/7yYedhtxP8sx4lp4jg3NZo"
@@ -2856,7 +2878,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 192500,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/0RkK4CRqDNeOK1OLmZPkdg"
@@ -3651,6 +3673,24 @@
     },
     {
       "album": {
+        "name": "Samo",
+        "url": "https://open.spotify.com/album/2nkOFTGKEYXOG1iQLuG4I9"
+      },
+      "artists": [
+        {
+          "name": "Erik Villanueva",
+          "url": "https://open.spotify.com/artist/4cWuxVZWKH9jPX74eYip2E"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Samo",
+      "url": "https://open.spotify.com/track/0l8XHdlqbOUfyEgVdufvei"
+    },
+    {
+      "album": {
         "name": "Sandal",
         "url": "https://open.spotify.com/album/5BpZBtcQWxONxQzHHYzsDC"
       },
@@ -4211,6 +4251,32 @@
     },
     {
       "album": {
+        "name": "thru2u",
+        "url": "https://open.spotify.com/album/6KPbQVDWSQfIusC15vrBnB"
+      },
+      "artists": [
+        {
+          "name": "LUSTBASS",
+          "url": "https://open.spotify.com/artist/6KVYyAtFWiPTpBcNKRM5ER"
+        },
+        {
+          "name": "Jess Connelly",
+          "url": "https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN"
+        },
+        {
+          "name": "Jason Dhakal",
+          "url": "https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209318,
+      "name": "thru2u",
+      "url": "https://open.spotify.com/track/2F2EsdPz44wR7XLKqo39h8"
+    },
+    {
+      "album": {
         "name": "Tied",
         "url": "https://open.spotify.com/album/1sxdh97ffeWcEa8zirwQXv"
       },
@@ -4414,7 +4480,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 85423,
       "name": "WYD",
       "url": "https://open.spotify.com/track/0fBoM0efE81rz4zcaL2i1s"

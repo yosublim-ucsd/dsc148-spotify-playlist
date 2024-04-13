@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 
 > Indie folk ventures into the cinematic West.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,598 likes - 111 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,625 likes - 111 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 70 | [Say It](https://open.spotify.com/track/0NzxWtlzpZWoM1juAYydbI) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Heart Song](https://open.spotify.com/album/0nuFFioVPJfJt0IWDSu7fL) | 6:14 |
 | 71 | [Devil's Girl](https://open.spotify.com/track/5rEYeXEDqlKDbjArQVIQt6) | [Overnight](https://open.spotify.com/artist/2yZ4kTpcFbclCFyd31Oi1n) | [Outlaws and Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14TZLEaVzCm5wnyjCJKLXi) | 3:29 |
 | 72 | [Footprints](https://open.spotify.com/track/2pYY9r8kEKur6zGf50QZDa) | [Escondido](https://open.spotify.com/artist/13lPIA6TfK28D9nWZJ9HuB) | [Walking With a Stranger](https://open.spotify.com/album/4LcI0UJmkd717mGgygsIfx) | 3:28 |
-| 73 | [Beautiful Friend](https://open.spotify.com/track/4G3hsMbbTUffZfG9l400kU) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1), [Dan Cutler](https://open.spotify.com/artist/4Z92aSgPiL4FSEUAQ6D2hY) | [Hurry Home](https://open.spotify.com/album/4RKuLpgetLJvQjY8e9NufA) | 2:58 |
+| 73 | [Beautiful Friend](https://open.spotify.com/track/4zMoHCRJbFidzEVDdlDLHm) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1), [Dan Cutler](https://open.spotify.com/artist/4Z92aSgPiL4FSEUAQ6D2hY) | [Hurry Home](https://open.spotify.com/album/4YEcYRJ0rwJeK8MHq7FeP7) | 2:58 |
 | 74 | [Hero](https://open.spotify.com/track/5StRcEVQTC2uiHjeSKxW0d) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [My Wild West](https://open.spotify.com/album/446zvOtU7llJSvyCfROA6o) | 3:32 |
 | 75 | [Foothills](https://open.spotify.com/track/4WHb4MsIyAppzHxQZTYHE7) | [Snowblink](https://open.spotify.com/artist/6oYtsBDA5uQzV8FdGDvXZM) | [Returning Current](https://open.spotify.com/album/1AIhlYdWvOMBa2xTCojV5P) | 4:16 |
 | 76 | [The Only Thing Worth Fighting For \- From The HBO Series True Detective](https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [The Only Thing Worth Fighting For \(From The HBO Series True Detective\)](https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob) | 3:16 |

@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-427 songs - 1 day 0 hr 8 min
+428 songs - 1 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Cheerleader \- Acoustic Version](https://open.spotify.com/track/2jzGffURw5jHtJnRX5Q5Ub) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [Cheerleader \(Acoustic Version\)](https://open.spotify.com/album/6BLlyE2xdU6PgIYvQFe1FW) | 2:26 | 2021-03-12 | 2022-07-29 |
 | [Cheerleader \- Acoustic Version](https://open.spotify.com/track/2y33PVvcdYwyPanHcmfo9X) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [Cheerleader \(Acoustic Version\)](https://open.spotify.com/album/2Zt8pu18lRZLIon7rrFIYp) | 2:26 | 2022-04-22 | 2022-11-14 |
 | [Cheerleader \- Acoustic Version](https://open.spotify.com/track/5SQwiRsUnh3V1Sx0nmV79w) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [Acoustic Hits, Vol\. 4](https://open.spotify.com/album/6zeNaLNHm4ajsYwav0Jq0G) | 2:26 | 2022-04-22 | 2024-04-02 |
+| [Cherry On Top](https://open.spotify.com/track/235lO0qJ7TO9lpDorTvegE) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Cherry On Top](https://open.spotify.com/album/5xnwFUWAv18LZOUhAKkpGm) | 4:14 | 2024-04-12 |  |
 | [Circles \- Acoustic](https://open.spotify.com/track/46FCnpkDQSxyQThtxrUWA7) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Circles \(Acoustic\)](https://open.spotify.com/album/3Dofb5tUo55ZbUW5NkusdU) | 3:24 | 2021-03-12 | 2022-07-29 |
 | [Circles \- Acoustic](https://open.spotify.com/track/6sh4pUTeKKXr1RcIBe0AhS) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Circles \(Acoustic\)](https://open.spotify.com/album/5yIR9qGQWDNr5WZlStLxru) | 3:24 | 2022-04-22 | 2024-04-02 |
 | [Colors](https://open.spotify.com/track/72usYeVMCh8uc3h2Z5K3JF) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Wood Fire](https://open.spotify.com/album/1fYNhQcBUClkEmqnuF9ant) | 3:07 | 2021-03-12 | 2024-04-02 |

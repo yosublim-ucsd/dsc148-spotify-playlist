@@ -4,7 +4,7 @@
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-225 songs - 14 hr 0 min
+227 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [Nearing Home](https://open.spotify.com/track/0sJWTQfu5h2l5MgffbNfOZ) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Forever and Then Some](https://open.spotify.com/album/5wypLtHgbpupR5THbQeaTM) | 3:38 | 2021-11-19 | 2022-07-29 |
 | [Nearing Home](https://open.spotify.com/track/2boSnGZWqD6efIo0e1rx1v) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Forever and Then Some](https://open.spotify.com/album/6FtDjbQ3un5sAv9VFUFyL0) | 3:38 | 2022-05-16 |  |
 | [Neglect](https://open.spotify.com/track/17RE55cpX3f07WUuIuwXWH) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Ready Reckoner](https://open.spotify.com/album/41XpCXgFySfsKBgtFRpvxK) | 3:12 | 2021-11-19 | 2022-05-17 |
-| [Night Singing](https://open.spotify.com/track/6kaUnGYmSsZFT0OyGS2H36) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Night Singing](https://open.spotify.com/album/3NnwRaGjSbrlqi8hRJgfJq) | 2:11 | 2021-11-19 |  |
+| [Night Singing](https://open.spotify.com/track/6kaUnGYmSsZFT0OyGS2H36) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Night Singing](https://open.spotify.com/album/3NnwRaGjSbrlqi8hRJgfJq) | 2:11 | 2021-11-19 | 2024-04-13 |
+| [Night Singing](https://open.spotify.com/track/6xSMndtwKtRONt6zDJs9hJ) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Under the Pepper Tree](https://open.spotify.com/album/1njAbpRr6XDXPpwJnNnFY1) | 2:11 | 2024-01-18 |  |
 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 | 2021-11-19 |  |
 | [No Aphrodisiac \(Black Stump\)](https://open.spotify.com/track/1IvKwkDKrgB5MAa5gFL2Ja) | [The Whitlams](https://open.spotify.com/artist/2fczAptz6g62e12F9LxYI6), [Black Stump](https://open.spotify.com/artist/61Y01ITZhNtawMjMlAlHyN) | [Kookaburra](https://open.spotify.com/album/7B0cJS2AmwM0SMBoa2UUAV) | 2:59 | 2024-01-18 |  |
 | [No Aphrodisiac \(Black Stump\)](https://open.spotify.com/track/5bcRzBeFZ3cwA9a8BGje04) | [The Whitlams](https://open.spotify.com/artist/2fczAptz6g62e12F9LxYI6), [Black Stump](https://open.spotify.com/artist/61Y01ITZhNtawMjMlAlHyN) | [No Aphrodisiac \(Black Stump\)](https://open.spotify.com/album/7oqGNpfjYza0NxTxBxddGx) | 2:59 | 2024-01-18 | 2024-03-11 |
@@ -166,7 +167,8 @@
 | [Santa Ana Winds](https://open.spotify.com/track/4gOfeoHv1858gkHlITsr3Q) | [Waylon Payne](https://open.spotify.com/artist/0G3qRFPXLTrujOBCEqSPXE) | [Blue Eyes, The Harlot, The Queer, The Pusher & Me](https://open.spotify.com/album/3dhsordyEnHpn6TWNSx4Co) | 4:16 | 2021-11-19 |  |
 | [Shadrach](https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 2:51 | 2021-11-19 | 2023-09-09 |
 | [Silver Valley](https://open.spotify.com/track/2FbPOBRlg3s36jfEC2vAGj) | [David Miner](https://open.spotify.com/artist/6VumpqEj917mn0DCQMUbGJ) | [Silver Valley](https://open.spotify.com/album/6N8JvTIcevgsOAcwwfmJWo) | 4:35 | 2021-11-19 |  |
-| [Six Years Come September](https://open.spotify.com/track/1oSS7iqgjZgyh2jxRv9Zb8) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Six Years Come September](https://open.spotify.com/album/7mmY7flG0gSxo50WhaDta4) | 3:51 | 2021-11-19 |  |
+| [Six Years Come September](https://open.spotify.com/track/1oSS7iqgjZgyh2jxRv9Zb8) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Six Years Come September](https://open.spotify.com/album/7mmY7flG0gSxo50WhaDta4) | 3:51 | 2021-11-19 | 2024-04-13 |
+| [Six Years Come September](https://open.spotify.com/track/61St27wTZcFz2T7rVYqhp7) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Lamentations](https://open.spotify.com/album/1xB96fepw7haNbBKLeoRIJ) | 3:51 | 2024-01-18 |  |
 | [Something to Say](https://open.spotify.com/track/47mOzOEYwFvW3JMMiKxCuX) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Dark River](https://open.spotify.com/album/0YsriZcAj8N6y89yav2GXl) | 3:38 | 2023-03-24 |  |
 | [Something to Say](https://open.spotify.com/track/5DvEC80DSVY64U1X5L2dmz) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Dark River](https://open.spotify.com/album/4UHTfYKYUIK3tRMNCO9VKu) | 3:38 | 2021-11-19 | 2023-03-29 |
 | [Song For The Thankful](https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p) | [Song For The Thankful](https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM) | 3:54 | 2021-11-19 |  |

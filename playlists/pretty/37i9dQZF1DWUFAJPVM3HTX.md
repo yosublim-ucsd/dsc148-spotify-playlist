@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE?si=wf2AU64KSOmNwXd1SbxUYg"> Casper Sage </a> performing at Fresh Finds, Chicago 2024\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,257 likes - 200 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,349 likes - 200 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 67 | [LUCKY!](https://open.spotify.com/track/4kChtBn2Eebr3HkkR1MjjO) | [Brianna Castro](https://open.spotify.com/artist/4DqRJfAyvNZ6u26gQZJmgZ) | [LUCKY!](https://open.spotify.com/album/1SXZ5uubBOiVz4VRQWJuqF) | 1:27 |
 | 68 | [Last Dance](https://open.spotify.com/track/4ECBtsWThggLu50Ai0bEjW) | [Micky Weekes](https://open.spotify.com/artist/0ozOmFuSFqJMEdWKmgFfuw) | [Last Dance](https://open.spotify.com/album/35AU93Xj38ttBYAfBDDQMt) | 2:35 |
 | 69 | [TITLES](https://open.spotify.com/track/6XWccIHPGBpLryBnRe18uB) | [Kay Wolf](https://open.spotify.com/artist/5ybGPJsjPo1ykDdkmj8s95), [xar](https://open.spotify.com/artist/63P7URLVcQuUX2xhcs5W46) | [TITLES](https://open.spotify.com/album/51lzY0tkrW1KLLBW5px5Vz) | 3:48 |
-| 70 | [ordinary love](https://open.spotify.com/track/6c1hBQhJpn1n8Jgf7pLAYE) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [ordinary love](https://open.spotify.com/album/2wtHEZMiYClmFw6klKyISA) | 3:12 |
+| 70 | [ordinary love](https://open.spotify.com/track/5A7aINCrHYQ0JKDqZhfoch) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [every night was the same](https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK) | 3:12 |
 | 71 | [Lonely With You/Back Outside \- A COLORS SHOW](https://open.spotify.com/track/36Dn4d18r8i08BrJOqH1AT) | [Bri Steves](https://open.spotify.com/artist/26PGLwvDbs1jVA6tAv1lLj) | [Lonely With You/Back Outside \- A COLORS SHOW](https://open.spotify.com/album/5o1BWh17NDEWigKIIagHCU) | 2:49 |
 | 72 | [Fools](https://open.spotify.com/track/3Hc0sPJse7JZY91ZxPUpPD) | [Gia Vorne](https://open.spotify.com/artist/2uV0SH5Y3pb6f28zkjKQpB) | [Fools](https://open.spotify.com/album/0R9MHa5wbEOX6H3pQoN7ih) | 2:49 |
 | 73 | [Burnt Out](https://open.spotify.com/track/651gvR4KCilHO5bILSt6Ze) | [Lorea](https://open.spotify.com/artist/0JVq9VFnOKewtU916pHxlr) | [Burnt Out](https://open.spotify.com/album/67ziY20isi5hd00BbNfymU) | 2:28 |

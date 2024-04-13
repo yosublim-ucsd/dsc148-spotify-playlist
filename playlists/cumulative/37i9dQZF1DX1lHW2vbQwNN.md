@@ -2,7 +2,7 @@
 
 ### [I Love My 2000s Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DX1lHW2vbQwNN)
 
-> Taking it back to the 2000s\. Cover: Drake
+> Taking it back to the 2000s\. Cover: Rick Ross
 
 182 songs - 12 hr 42 min
 

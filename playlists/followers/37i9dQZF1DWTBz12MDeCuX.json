@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 463042,
+  "2024-04-13": 463135,
   "date_first_scraped": "2022-06-10",
   "description": "Die Playlist, die dich f\u00fchlt. Cover: Artemas",
   "name": "me right now",
@@ -407,6 +407,28 @@
       "duration_ms": 165517,
       "name": "1MADAME PT.2",
       "url": "https://open.spotify.com/track/5c1eleYgiHge9fG2KTrPH9"
+    },
+    {
+      "album": {
+        "name": "1zigartig",
+        "url": "https://open.spotify.com/album/3I1Fqduw1wBCHnMbmoqrFz"
+      },
+      "artists": [
+        {
+          "name": "daviid",
+          "url": "https://open.spotify.com/artist/7IgnibAbELPF27AtaVahbM"
+        },
+        {
+          "name": "TYM",
+          "url": "https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130826,
+      "name": "1zigartig",
+      "url": "https://open.spotify.com/track/4q0A3DSkGKUUuBpkSVdcTJ"
     },
     {
       "album": {
@@ -1919,7 +1941,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 150471,
       "name": "Altbaudielen",
       "url": "https://open.spotify.com/track/7jWNHuhGttkZmIVlxQ4Nh5"
@@ -2535,7 +2557,7 @@
       },
       "artists": [
         {
-          "name": "Elimako",
+          "name": "elimako",
           "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
         }
       ],
@@ -2687,6 +2709,28 @@
       "duration_ms": 140259,
       "name": "augen blau",
       "url": "https://open.spotify.com/track/4MVAPypWexk1uVmeHZAcf1"
+    },
+    {
+      "album": {
+        "name": "Augenma\u00df (feat. Pashanim)",
+        "url": "https://open.spotify.com/album/0psblIHDZ6SDsjizzAUwpI"
+      },
+      "artists": [
+        {
+          "name": "Stickle",
+          "url": "https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo"
+        },
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162906,
+      "name": "Augenma\u00df (feat. Pashanim)",
+      "url": "https://open.spotify.com/track/4H1N6Ej2EcgDm58aQIsuvP"
     },
     {
       "album": {
@@ -3829,6 +3873,32 @@
       "duration_ms": 172468,
       "name": "berlin08",
       "url": "https://open.spotify.com/track/3E2eMXAAOViUsVKbL0vQip"
+    },
+    {
+      "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "BERWYN",
+          "url": "https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR"
+        },
+        {
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123607,
+      "name": "BerwynGesaffNeighbours",
+      "url": "https://open.spotify.com/track/21f4TjwWXbnqg8d5R6oq8Y"
     },
     {
       "album": {
@@ -9134,6 +9204,24 @@
     },
     {
       "album": {
+        "name": "entschuldigung",
+        "url": "https://open.spotify.com/album/4Frt3EaNVUBWCX8euwR2nt"
+      },
+      "artists": [
+        {
+          "name": "LEEPA",
+          "url": "https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151108,
+      "name": "entschuldigung",
+      "url": "https://open.spotify.com/track/17J1yTfrglZcsfs0G5rppK"
+    },
+    {
+      "album": {
         "name": "EPOCHE",
         "url": "https://open.spotify.com/album/5pliDIxxlkj8TTfNHV04FY"
       },
@@ -10013,7 +10101,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 157974,
       "name": "Feel It - From The Original Series \u201cInvincible\u201d",
       "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
@@ -10991,7 +11079,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 120000,
       "name": "F\u00fcr immer Fr\u00fchling",
       "url": "https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc"
@@ -11229,7 +11317,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 149306,
       "name": "Geld",
       "url": "https://open.spotify.com/track/3JdTladkqJtMRnY1pjYZKV"
@@ -13607,7 +13695,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 155076,
       "name": "Hotbox",
       "url": "https://open.spotify.com/track/32Z0VTh6WdfNODptGc9OC0"
@@ -14410,6 +14498,24 @@
     },
     {
       "album": {
+        "name": "I'M DOING IT AGAIN BABY!",
+        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179791,
+      "name": "I'm Back",
+      "url": "https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg"
+    },
+    {
+      "album": {
         "name": "I\u2019m Not Crazy",
         "url": "https://open.spotify.com/album/193T8nOZCynXr5GHbC5UzO"
       },
@@ -14753,7 +14859,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 125032,
       "name": "Ich nehm dich bei der Hand (SimsalaGrimm)",
       "url": "https://open.spotify.com/track/14iwJXnTuI9qdcosMEB73h"
@@ -15085,7 +15191,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 137250,
       "name": "Immer Noch Wach",
       "url": "https://open.spotify.com/track/4GXB1b1WmpXp5lcKx4WBPw"
@@ -15583,7 +15689,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 235885,
       "name": "I\u2019d Rather Overdose",
       "url": "https://open.spotify.com/track/17UNijHcIMuz5ik2UKeCjK"
@@ -18838,6 +18944,24 @@
     },
     {
       "album": {
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160688,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -19581,7 +19705,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 154736,
       "name": "Mein Herz",
       "url": "https://open.spotify.com/track/5k77C1MvcmyvZeNViBJkji"
@@ -19705,6 +19829,24 @@
       "duration_ms": 170051,
       "name": "Mensch",
       "url": "https://open.spotify.com/track/1lBMr23YxosiMyKhVeRIJB"
+    },
+    {
+      "album": {
+        "name": "Mensch",
+        "url": "https://open.spotify.com/album/5erMvH8DbaRoBjI8QOOcW2"
+      },
+      "artists": [
+        {
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157935,
+      "name": "Mensch",
+      "url": "https://open.spotify.com/track/2kCiJhR55HobHDq1QT63yJ"
     },
     {
       "album": {
@@ -21896,6 +22038,24 @@
     },
     {
       "album": {
+        "name": "NINA",
+        "url": "https://open.spotify.com/album/3AcyNtY9jjJYscS49sdntl"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144973,
+      "name": "NINA",
+      "url": "https://open.spotify.com/track/0j4WzFni16kp0YquOHOwL8"
+    },
+    {
+      "album": {
         "name": "Another Level",
         "url": "https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi"
       },
@@ -22331,6 +22491,24 @@
       "duration_ms": 111753,
       "name": "NUR DICH/SONST NICHTS",
       "url": "https://open.spotify.com/track/1hjWy02duPxRh1sUOeixBm"
+    },
+    {
+      "album": {
+        "name": "Nur die Pills",
+        "url": "https://open.spotify.com/album/3o2zDF2ZIfzFAYTdynexfq"
+      },
+      "artists": [
+        {
+          "name": "Whitey en vogue",
+          "url": "https://open.spotify.com/artist/1ColxjJZKheMce3o7giApM"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95000,
+      "name": "Nur die Pills",
+      "url": "https://open.spotify.com/track/4mtzu6jv7o7X9x1ENEJifc"
     },
     {
       "album": {
@@ -24553,7 +24731,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 263040,
       "name": "Praise Jah In The Moonlight",
       "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
@@ -27983,7 +28161,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 179449,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
@@ -33138,6 +33316,24 @@
     },
     {
       "album": {
+        "name": "was w\u00e4re wenn",
+        "url": "https://open.spotify.com/album/1b0xhyr8Ft2V2cnoDOxcz0"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173293,
+      "name": "was w\u00e4re wenn",
+      "url": "https://open.spotify.com/track/3VTSOMZBBbxKcSQHzQ8hys"
+    },
+    {
+      "album": {
         "name": "washing off the blood",
         "url": "https://open.spotify.com/album/4uksOCpMp8CM6UMA6B8AQf"
       },
@@ -35025,7 +35221,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 146757,
       "name": "W\u00fcnsch dir was",
       "url": "https://open.spotify.com/track/6Quqy3JY071g2d56w5VZEL"
@@ -35305,6 +35501,40 @@
       "duration_ms": 140202,
       "name": "Z0RNIG [2O24] \u2013 Niklas Dee & Berky Remix",
       "url": "https://open.spotify.com/track/78PEp6PRRLCCMlCVKjm7d9"
+    },
+    {
+      "album": {
+        "name": "Zartbitter Lindt",
+        "url": "https://open.spotify.com/album/6dd2cn25n36cuSKqOdCvcZ"
+      },
+      "artists": [
+        {
+          "name": "102 Boyz",
+          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
+        },
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        },
+        {
+          "name": "Stacks102",
+          "url": "https://open.spotify.com/artist/32AAxPlW6sOK0nopTJM7sv"
+        },
+        {
+          "name": "Skoob102",
+          "url": "https://open.spotify.com/artist/3fPb08EzQhpNV5PWuEVBzj"
+        },
+        {
+          "name": "Addikt102",
+          "url": "https://open.spotify.com/artist/08rciXpQrixSOu9GA0jSd7"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162360,
+      "name": "Zartbitter Lindt",
+      "url": "https://open.spotify.com/track/0eUF8D6PlisH3S4LxZB2UT"
     },
     {
       "album": {
@@ -35989,7 +36219,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 164005,
       "name": "\u201egl\u00fccklich\u201c",
       "url": "https://open.spotify.com/track/4WC4kyZnG7TxklAKBKUaK1"

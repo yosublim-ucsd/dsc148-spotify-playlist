@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: TOIL\(토일\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: Loopy\(루피\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-681 songs - 1 day 12 hr 56 min
+682 songs - 1 day 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [COCO BOTTLE](https://open.spotify.com/track/3hHpCjJdBBw4KjizY8l72r) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [COCO BOTTLE](https://open.spotify.com/album/18T01XcLc1WzIZ3bCzwOsg) | 3:07 | 2022-05-26 |  |
 | [Coin Laundry](https://open.spotify.com/track/7c15oEQBX6E0hGdDSsGxZy) | [Donutman](https://open.spotify.com/artist/2xH4dYFMVhdOGIhgIWonbc) | [Coin Laundry](https://open.spotify.com/album/1WiFGqAYwIO3Zb16PXe9Q3) | 2:44 | 2022-04-01 | 2022-11-11 |
 | [Cold \(Feat\. SUPERBEE\) \(Prod\. Way Ched\)](https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [School Rapper4 Semi Final 1](https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et) | 4:01 | 2022-04-21 | 2022-07-13 |
+| [COLD AVE.](https://open.spotify.com/track/6Q7HKTGjFMrDCucN86eu2O) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [MARNI](https://open.spotify.com/album/5Jc65PONU8FqRCeZEjVJMj) | 2:38 | 2024-04-12 |  |
 | [COLDBLUE \(Feat\. Kim Mi Jeong\)](https://open.spotify.com/track/5D9UA4XxudVNxQZAZ5tqxI) | [Wilcox](https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o), [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [COLDBLUE \(Feat\. Kim Mi Jeong\)](https://open.spotify.com/album/5teb4keIZfN8A9eSt7Qjyn) | 3:14 | 2022-07-04 | 2022-07-15 |
 | [Come Over](https://open.spotify.com/track/5aVs6FABPmT7TkqE3qZO2u) | [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR) | [Variety](https://open.spotify.com/album/6LBR8q31AIj9AoGfrbVrIu) | 3:08 | 2022-05-02 | 2022-07-28 |
 | [Come Over \(Feat\. Keita, TAG, WON of Ciipher\)](https://open.spotify.com/track/7F4JIyhUR74RyuozB4vT8t) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz), [Keita](https://open.spotify.com/artist/4Sp0k5cY12SKnOGUghMljj), [TAG](https://open.spotify.com/artist/6wWzrvB5m2BSseIfpeWtJX), [WON](https://open.spotify.com/artist/6IcjdUrGirpvqVO6z6HEVa) | [PIECES by RAIN](https://open.spotify.com/album/0bLtrJW5gsxMIJF6CvJB6x) | 3:36 | 2022-04-21 | 2022-06-22 |
@@ -395,7 +396,7 @@
 | [MONICA \(feat\. Gist\) \(prod\. PEAXE MARKET\)](https://open.spotify.com/track/62bxbTxlEd5AAs6bDOr7aD) | [O'Vell](https://open.spotify.com/artist/66nFmhYml7OOaQ0xb9xdQB), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [MONICA](https://open.spotify.com/album/3Ui9T2zikgqU2sNzEo7Rh7) | 2:54 | 2022-10-28 | 2022-11-10 |
 | [MOONLIGHT](https://open.spotify.com/track/59sXooXjAAJoLcRkb9c0Nn) | [V1VA](https://open.spotify.com/artist/04rkE835YxRm7UtD4ksItR) | [MOONLIGHT \(ALL ABOUT YOU\)](https://open.spotify.com/album/6ezx4OUNOWc9O90NAD219H) | 2:39 | 2022-05-31 | 2022-07-22 |
 | [MOVE \(Feat\. Lokid\)](https://open.spotify.com/track/4AGAR0jYtoypOAEXRKFpLK) | [Jinee](https://open.spotify.com/artist/0P1WXcUqciYAnT3thsH0dD), [Lokid](https://open.spotify.com/artist/4qrNQeAY9fmYHiQUXu7k9g) | [MOVE \(Feat\. Lokid\)](https://open.spotify.com/album/1qzCSzh6IXVqFC685420BG) | 3:11 | 2022-07-07 | 2022-07-11 |
-| [Movie](https://open.spotify.com/track/2IFOq1jRSOmJShJncT9FGn) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Movie](https://open.spotify.com/album/7JI0lmKDgLtLwSDT9qvaBH) | 3:30 | 2022-07-24 |  |
+| [Movie](https://open.spotify.com/track/2IFOq1jRSOmJShJncT9FGn) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Movie](https://open.spotify.com/album/7JI0lmKDgLtLwSDT9qvaBH) | 3:30 | 2022-07-24 | 2024-04-13 |
 | [Movie](https://open.spotify.com/track/4WwYoJtemQNoJUVSu93Ai6) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Movie](https://open.spotify.com/album/3OWBn1qMkNJD9Q6iWPK2CQ) | 3:30 | 2022-04-01 | 2022-07-29 |
 | [MR\. BAD \(Feat\. Woo\)](https://open.spotify.com/track/5KkAIk1aWPPIWIkSGnEmJg) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [MR\. BAD](https://open.spotify.com/album/71KOTVJkEhbXVLNdZGKe9a) | 3:05 | 2022-08-10 | 2022-12-26 |
 | [Mr.Crooked \(Feat\. Kim Seungmin, Han Yo Han\)](https://open.spotify.com/track/0XGRwNXqZ5Aao3r5ACoPAz) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P) | [Mr.Crooked](https://open.spotify.com/album/7fqLcDodbP3uYIkzJwZM7I) | 3:35 | 2022-08-19 | 2022-10-03 |

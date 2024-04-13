@@ -4,7 +4,7 @@
 
 > só faixa rosa, tem disposição? 🎀 Foto: Amabbi
 
-227 songs - 10 hr 47 min
+228 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Betty Boop](https://open.spotify.com/track/46gDGTjG68eRcC9S0EpILt) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Betty Boop](https://open.spotify.com/album/3Mp7oY9PZbzT8UEQjDUlBK) | 1:50 | 2023-02-24 | 2023-09-16 |
 | [Bitch Eu Sou Incrivel](https://open.spotify.com/track/1rU4r9XgR7FUgDcJ5eyI2f) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Bitch Eu Sou Incrivel](https://open.spotify.com/album/26LBXrEuj2MZgJ3FYnfcZ9) | 2:01 | 2023-06-30 | 2023-07-15 |
 | [Bitch Eu Sou Incrível](https://open.spotify.com/track/4gVag1vpVNTPE5MoOTwc2J) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Bitch Eu Sou Incrível](https://open.spotify.com/album/7kOviuHFNlgdqgtNDso9yi) | 2:16 | 2023-11-24 | 2023-12-02 |
+| [Branca de Neve \(Rap das Sinhás\)](https://open.spotify.com/track/1rJnvi0KVPvv0iXis2AW6n) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n), [KING Saints](https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY) | [Branca de Neve \(Rap das Sinhás\)](https://open.spotify.com/album/7t6FZEKYsfluVdo8hHUXtk) | 5:26 | 2024-04-12 |  |
 | [Brutas Também Choram](https://open.spotify.com/track/7gTStq2OMkjtHyH09GGKkO) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 3:02 | 2023-10-20 | 2024-02-24 |
 | [BÔNUS TRACK](https://open.spotify.com/track/2A33hs2ntyZ52cXMn34ljk) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [b o u t](https://open.spotify.com/artist/3djiMLvUhyywlWQgpYDR41), [Brasil Grime Show](https://open.spotify.com/artist/1MHo7H67rgMeXzF7UTqbjT) | [BÔNUS TRACK](https://open.spotify.com/album/3KMHDHQCUSXewfIPRUfo25) | 3:48 | 2023-09-01 | 2023-10-28 |
 | [Calcinha da Fendi](https://open.spotify.com/track/4TUAvHTUKyQ1pioT6J5MQ1) | [gabss](https://open.spotify.com/artist/50eJSWy0PG43JLWFkIXR4E), [Dj Herculano](https://open.spotify.com/artist/3MKTBehlfl8npR15s9GaGv) | [Calcinha da Fendi](https://open.spotify.com/album/0yNGyMsTEBUWwfYvNYoWHl) | 2:38 | 2023-09-22 | 2023-11-04 |
@@ -227,7 +228,7 @@
 | [Vejo o bem](https://open.spotify.com/track/5M37zvK48rOQMOVyc0t36o) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge) | [Urucum](https://open.spotify.com/album/23Zw9VnwKnrSkbGGJQKwPi) | 2:48 | 2022-04-01 | 2022-04-29 |
 | [Verdinha Criminosa](https://open.spotify.com/track/6WHReC5GArql7M1MC92DY4) | [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283), [Hugão](https://open.spotify.com/artist/4wFNtMpRn2TEzEXZG60iXY), [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4) | [Verdinha Criminosa](https://open.spotify.com/album/2EedIUumt8ALF4Hr26SunX) | 2:39 | 2024-01-26 |  |
 | [Vibe](https://open.spotify.com/track/1jMCSwd04JhgbqWJqKJSVG) | [Dourado](https://open.spotify.com/artist/6A4I0Mwth99UqrnvGQs7W8), [Vibox](https://open.spotify.com/artist/0PfNZmCTYovBPEfY5bZF4x) | [Vibe](https://open.spotify.com/album/0vOrt7Tus6OZbegppVeBX5) | 2:51 | 2023-01-06 | 2023-03-01 |
-| [Vim do Gueto](https://open.spotify.com/track/4vHxcRyIUnWwoh2I8QSdBp) | [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1) | [Vim do Gueto](https://open.spotify.com/album/1433g2HwyaQJZyvcOOQLzd) | 2:12 | 2024-03-22 |  |
+| [Vim do Gueto](https://open.spotify.com/track/4vHxcRyIUnWwoh2I8QSdBp) | [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1) | [Vim do Gueto](https://open.spotify.com/album/1433g2HwyaQJZyvcOOQLzd) | 2:12 | 2024-03-22 | 2024-04-13 |
 | [Vinhedo](https://open.spotify.com/track/3Jk2PrmUEspv0c8HcWPqia) | [Kadri](https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Vinhedo](https://open.spotify.com/album/1O8M18t6aiWpNNsQsKx2gh) | 3:02 | 2022-11-11 | 2023-04-09 |
 | [Vou Atrás](https://open.spotify.com/track/5Q5VE9VJtiroXsLxTQWOGM) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [Som Da Minha Casa](https://open.spotify.com/album/7baL0IZSoNpKjn5aNykKhc) | 2:26 | 2023-12-15 | 2024-01-20 |
 | [Who Cares?](https://open.spotify.com/track/2KgRLOrzPKSy4ur5DPqzt3) | [Debbys](https://open.spotify.com/artist/1u77sNbUjAaku0o9mcpi6z), [grenier spinz](https://open.spotify.com/artist/0NScuC0UGxFvZ76OlHPIWJ) | [Who Cares?](https://open.spotify.com/album/5RSm9jbk6T7IiTzJWqsjtn) | 1:54 | 2023-08-04 | 2023-08-19 |

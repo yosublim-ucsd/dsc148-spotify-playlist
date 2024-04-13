@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 438150,
+  "2024-04-13": 438298,
   "date_first_scraped": "2020-10-20",
   "description": "<a href=\"spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z\">Ti\u00ebsto</a>'s best songs, remixes and compilations.",
   "name": "This Is Ti\u00ebsto",
@@ -2073,6 +2073,32 @@
       "duration_ms": 224640,
       "name": "Dancing On My Own - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/4EeABsurgGwDikVDoA1aSz"
+    },
+    {
+      "album": {
+        "name": "Danza Kuduro (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/2FKAOTpsqDC8AgutOaIl5g"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218880,
+      "name": "Danza Kuduro - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/64tld7huCbqobyTfV5oBZR"
     },
     {
       "album": {
@@ -6029,7 +6055,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 250946,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/0NIC4unbe5KZOp1d9T7OaF"
@@ -6727,7 +6753,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 258440,
       "name": "The Only Way Is Up",
       "url": "https://open.spotify.com/track/1V0Zy7533bjXFSVtn3crzY"

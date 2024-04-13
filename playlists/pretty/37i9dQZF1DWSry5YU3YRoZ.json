@@ -1,6 +1,6 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 4960,
+  "num_followers": 4964,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
+        "name": "Demo songs",
+        "url": "https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunchang",
+          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
+        }
+      ],
+      "duration_ms": 246874,
+      "name": "dear heart",
+      "url": "https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
         "name": "The End Of The Summer",
         "url": "https://open.spotify.com/album/3JEw0H8fWbGDGmgX0ddPpC"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 243124,
       "name": "For A Long Time (with Jung Yubin)",
       "url": "https://open.spotify.com/track/7wUq7l86ffQyMt1zs06338"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
-        "name": "Demo songs",
-        "url": "https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi"
-      },
-      "artists": [
-        {
-          "name": "Kim Hyunchang",
-          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
-        }
-      ],
-      "duration_ms": 246874,
-      "name": "dear heart",
-      "url": "https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -531,18 +531,18 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+        "name": "\uc5b4\uc11c\uc624\uc138\uc694 \uc5ec\ub984\ubc24",
+        "url": "https://open.spotify.com/album/0GB6OFRgrSKlAXu8GcUbQx"
       },
       "artists": [
         {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+          "name": "Herz Analog",
+          "url": "https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw"
         }
       ],
-      "duration_ms": 155000,
-      "name": "In Other Words",
-      "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"
+      "duration_ms": 259367,
+      "name": "\uc5ec\ub984\ubc24",
+      "url": "https://open.spotify.com/track/3D2XzN5RUtogeIw7f9fTCS"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -563,18 +563,38 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "\uc5b4\uc11c\uc624\uc138\uc694 \uc5ec\ub984\ubc24",
-        "url": "https://open.spotify.com/album/0GB6OFRgrSKlAXu8GcUbQx"
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/0TYEpVePmN48ssaj40OrMy"
       },
       "artists": [
         {
-          "name": "Herz Analog",
-          "url": "https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw"
+          "name": "saevom",
+          "url": "https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca"
+        },
+        {
+          "name": "Moonbit",
+          "url": "https://open.spotify.com/artist/5rwDc7dGKrtZg9TN1vsSPx"
         }
       ],
-      "duration_ms": 259367,
-      "name": "\uc5ec\ub984\ubc24",
-      "url": "https://open.spotify.com/track/3D2XzN5RUtogeIw7f9fTCS"
+      "duration_ms": 253226,
+      "name": "But I'm Trying To Tell You How Much I Love You (with Moonbit)",
+      "url": "https://open.spotify.com/track/3k8zcUpzJjDrJ5RC297q1w"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "In Other Words",
+      "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -607,26 +627,6 @@
       "duration_ms": 216360,
       "name": "Youth",
       "url": "https://open.spotify.com/track/7pdrLAo29KaqUTO3iD1O4z"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/0TYEpVePmN48ssaj40OrMy"
-      },
-      "artists": [
-        {
-          "name": "saevom",
-          "url": "https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca"
-        },
-        {
-          "name": "Moonbit",
-          "url": "https://open.spotify.com/artist/5rwDc7dGKrtZg9TN1vsSPx"
-        }
-      ],
-      "duration_ms": 253226,
-      "name": "But I'm Trying To Tell You How Much I Love You (with Moonbit)",
-      "url": "https://open.spotify.com/track/3k8zcUpzJjDrJ5RC297q1w"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -679,18 +679,18 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
       },
       "artists": [
         {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm"
+      "duration_ms": 187999,
+      "name": "Excuse",
+      "url": "https://open.spotify.com/track/4uzZyA3YeQAZYmDPXUcU1h"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "I can't tell you everything",
-        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 187999,
-      "name": "Excuse",
-      "url": "https://open.spotify.com/track/4uzZyA3YeQAZYmDPXUcU1h"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
         "name": "\uc138 \ubc88\uc9f8 \uc74c\uc545 \ub85c\uc2a4\ud305 3rd Music Roasting",
         "url": "https://open.spotify.com/album/4mTjpPc2hkMI2cJ1dnMzle"
       },
@@ -743,22 +727,6 @@
       "duration_ms": 217400,
       "name": "\u110b\u1169\u1102\u1173\u11af\u1103\u1169 \u1100\u116e\u11ba\u1102\u1161\u110b\u1175\u11ba Good Night",
       "url": "https://open.spotify.com/track/7fgm1Ac7n9OoU9dMAUP5Ke"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 247991,
-      "name": "In Your Mind",
-      "url": "https://open.spotify.com/track/3NmZPizM240GOHwnyIMVJv"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -779,6 +747,38 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 247991,
+      "name": "In Your Mind",
+      "url": "https://open.spotify.com/track/3NmZPizM240GOHwnyIMVJv"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
         "name": "Simple",
         "url": "https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J"
       },
@@ -795,18 +795,22 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "My Beautiful Apartment (O'PENing) (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms"
+        "name": "Without Anyone Knowing",
+        "url": "https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A"
       },
       "artists": [
         {
-          "name": "Haze Moon",
-          "url": "https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd"
+          "name": "Jeon Jin Hee",
+          "url": "https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg"
+        },
+        {
+          "name": "deulrejang",
+          "url": "https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM"
         }
       ],
-      "duration_ms": 228834,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z"
+      "duration_ms": 314000,
+      "name": "It Won't Be Anything Anyway (with deulrejang)",
+      "url": "https://open.spotify.com/track/1A5xMM3UvEL1pldYBhfN2J"
     },
     {
       "added_at": "2024-03-08 06:42:30",

@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 73889,
+  "num_followers": 73931,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
+        "name": "Zapatear",
+        "url": "https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s"
+      },
+      "artists": [
+        {
+          "name": "Los Dutis",
+          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
+        }
+      ],
+      "duration_ms": 162049,
+      "name": "Zapatear",
+      "url": "https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
         "name": "Bao Bao",
         "url": "https://open.spotify.com/album/1FuElQORi4fKKJdzRESi9n"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 203076,
       "name": "Bao Bao",
       "url": "https://open.spotify.com/track/1PzVGPTfbvlcFcHf8HDlGh"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
-        "name": "Zapatear",
-        "url": "https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s"
-      },
-      "artists": [
-        {
-          "name": "Los Dutis",
-          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
-        }
-      ],
-      "duration_ms": 162049,
-      "name": "Zapatear",
-      "url": "https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv"
     },
     {
       "added_at": "2024-03-08 06:00:00",

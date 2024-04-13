@@ -4,7 +4,7 @@
 
 > Soft instrumental Blues for any activity.
 
-91 songs - 6 hr 25 min
+93 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Blue Steel](https://open.spotify.com/track/7mrRkKKrwiwYv3qn7OZJgK) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Memphis Charlie](https://open.spotify.com/album/3anXYfHvmF3ebgaHxbuROu) | 4:47 | 2022-11-30 |  |
 | [Blues 'Fore Dawn \- Instrumental](https://open.spotify.com/track/3zVx7964ROy15h1lC7fhzD) | [Jimmy Thackery](https://open.spotify.com/artist/22I2nRL3Avazb5FfXhmyDQ) | [Guitar](https://open.spotify.com/album/1k1BDnn6ynbeFG5ts58NRI) | 4:54 | 2022-11-30 |  |
 | [Blues After Hours](https://open.spotify.com/track/60ySIiaWLG77hphydDwmNn) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Blues On Blues](https://open.spotify.com/album/1XHnDSzTvbGK4oJkOtzC7V) | 3:03 | 2022-11-30 |  |
-| [Blues for Jimmie and Jesse](https://open.spotify.com/track/3C2WSB7TKIUlN7InbKnuot) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Like It When It Rains](https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD) | 2:43 | 2022-11-30 |  |
+| [Blues for Jimmie and Jesse](https://open.spotify.com/track/3C2WSB7TKIUlN7InbKnuot) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Like It When It Rains](https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD) | 2:43 | 2022-11-30 | 2024-04-13 |
+| [Blues for Jimmie and Jesse](https://open.spotify.com/track/70NDKlCahd4X6eNxF5WmIu) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Like It When It Rains](https://open.spotify.com/album/0XkGJJIYiz2B4IFoU95gVE) | 2:43 | 2023-11-24 |  |
 | [Blues for the nightowls](https://open.spotify.com/track/41Merz07bIvWzALurwkXXs) | [Sonny Thompson](https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR) | [Mellow Blues](https://open.spotify.com/album/3mua4DgKG2jJi1WiHHiAqq) | 2:43 | 2022-11-30 |  |
 | [Blues Garage](https://open.spotify.com/track/63z5HlfiJw3g74Ja9NYgUt) | [Marco Tansini](https://open.spotify.com/artist/4nqDZHAp53xZXsaySBj6Dp) | [Blues Garage](https://open.spotify.com/album/2naMQdig9E1D2yA1aMlb2Y) | 4:40 | 2022-11-30 |  |
 | [Blues In The Closet](https://open.spotify.com/track/11w62lcuFaIPrSf64XkK2S) | [Maxeen](https://open.spotify.com/artist/6aOw8V4UtaVkO9z7zwturN) | [Blues In The Closet](https://open.spotify.com/album/32vOOaqwQl8zrAsmXDpQ5u) | 2:40 | 2023-10-13 |  |
@@ -78,7 +79,8 @@
 | [Run through the mountains](https://open.spotify.com/track/2J8XXy0ds8g4wpEe5PmHfN) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Vagabond](https://open.spotify.com/album/7JhTlHuk4lt3ylNQMIDAY4) | 1:50 | 2023-03-03 | 2023-08-24 |
 | [Sandu](https://open.spotify.com/track/5h0YCcpbhZwJpX9j5Lkdvp) | [Fred Hayes](https://open.spotify.com/artist/62p6oXKfOk0e0tLh9uO94a) | [Sandu](https://open.spotify.com/album/0iq7F94ZjDD5sfnlfDAhue) | 2:34 | 2023-11-24 |  |
 | [Sandu](https://open.spotify.com/track/3djatpF3E3vAj05vQX3Jxv) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [Sandu](https://open.spotify.com/album/1gKmNF6qPfsSWFldrDr2MK) | 2:38 | 2023-10-13 |  |
-| [Sittin on Top of the World](https://open.spotify.com/track/7G234VgTRaXpiX9GnsZvdK) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Like It When It Rains](https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD) | 4:53 | 2022-11-30 |  |
+| [Sittin on Top of the World](https://open.spotify.com/track/4g08s7tkhNSokWuB96Vm41) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Like It When It Rains](https://open.spotify.com/album/0XkGJJIYiz2B4IFoU95gVE) | 4:53 | 2023-11-24 |  |
+| [Sittin on Top of the World](https://open.spotify.com/track/7G234VgTRaXpiX9GnsZvdK) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Like It When It Rains](https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD) | 4:53 | 2022-11-30 | 2024-04-13 |
 | [Skyman](https://open.spotify.com/track/013yxuTbh3mfL0Qjtaykqj) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Spread The Love](https://open.spotify.com/album/5tV9K29GLvCGljAybCSVht) | 8:19 | 2022-11-30 | 2023-08-24 |
 | [Slow Blues](https://open.spotify.com/track/0amfQAlygBi3JTf1qph861) | [Cephas & Wiggins](https://open.spotify.com/artist/40MbAfRt1y7QdeGSkSp4pF) | [Homemade](https://open.spotify.com/album/5kdbWGmr1nzhXpzlDTf497) | 3:25 | 2022-11-30 |  |
 | [Slow Blues \- Instrumental](https://open.spotify.com/track/338gCLHS88lPUfCClKkPam) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [As Good As It Gets](https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ) | 6:48 | 2022-11-30 | 2023-09-09 |

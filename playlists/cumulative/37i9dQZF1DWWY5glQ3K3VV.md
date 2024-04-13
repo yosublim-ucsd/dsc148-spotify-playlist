@@ -2,7 +2,7 @@
 
 ### [Club Rap ](https://open.spotify.com/playlist/37i9dQZF1DWWY5glQ3K3VV)
 
-> Canzoni rap per party fino al mattino! Cover: Rhove, ANNA
+> Canzoni rap per party fino al mattino! Cover: Icy Subzero
 
 238 songs - 12 hr 0 min
 

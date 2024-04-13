@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 499117,
+  "2024-04-13": 499120,
   "date_first_scraped": "2022-04-20",
   "description": "The best in house music",
   "name": "House Supreme",
@@ -75,7 +75,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 245669,
       "name": "333 - Cut Version",
       "url": "https://open.spotify.com/track/18eNlKPO2mpzRgzJthA2TY"
@@ -490,6 +490,24 @@
     },
     {
       "album": {
+        "name": "A Chance / Ask Yourself (Can You Dance)",
+        "url": "https://open.spotify.com/album/1eTSe304zMIBmpFQ1Vj9hc"
+      },
+      "artists": [
+        {
+          "name": "Angelo Ferreri",
+          "url": "https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216794,
+      "name": "Ask Yourself (Can You Dance)",
+      "url": "https://open.spotify.com/track/1BB8a33pfYW3bw0k7kRlBg"
+    },
+    {
+      "album": {
         "name": "Assumptions (Jengi Remix)",
         "url": "https://open.spotify.com/album/2waZkaQGtcdGPWIkcUMxbQ"
       },
@@ -717,7 +735,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 207105,
       "name": "Be Funky",
       "url": "https://open.spotify.com/track/347yYEUgjRg4Db6ZFh0G2v"
@@ -1745,7 +1763,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 302000,
       "name": "Do It Like Oh",
       "url": "https://open.spotify.com/track/61050LBESCpYUtKKnzDqYg"
@@ -1851,7 +1869,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 232919,
       "name": "Don't Matter",
       "url": "https://open.spotify.com/track/4HoFpxq4jASORRn0eluKI6"
@@ -2128,6 +2146,24 @@
     },
     {
       "album": {
+        "name": "Everyday People",
+        "url": "https://open.spotify.com/album/1LJpax4mCpovZiAJUZFChP"
+      },
+      "artists": [
+        {
+          "name": "Prok & Fitch",
+          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165494,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/68FsnsTl1yNJKX8RYgbcMy"
+    },
+    {
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/2qJ6zXDCdH0H4R0eCjHeix"
       },
@@ -2263,7 +2299,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 158639,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/1q1ECI7iGvuYsEilkZRC1m"
@@ -2637,7 +2673,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "Gettin' Started",
       "url": "https://open.spotify.com/track/2l3dG41OP5VVeTxflAmoiP"
@@ -3311,7 +3347,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 256043,
       "name": "House Music - Radio-Edit",
       "url": "https://open.spotify.com/track/3BaOvxpetcgkgs1KM6o4k6"
@@ -3337,6 +3373,24 @@
       "duration_ms": 316320,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/6HdbvXwjglsjSnV9H4XTEX"
+    },
+    {
+      "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/0RUZEsQQWmWhsuKKo6sk8J"
+      },
+      "artists": [
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199217,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/4KZPt9W4RTAIGiEUbiFJTV"
     },
     {
       "album": {
@@ -4227,7 +4281,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 454873,
       "name": "Let No Man Put Asunder (Dam Swindle Remix)",
       "url": "https://open.spotify.com/track/5qBOa8bCYKg414qTplH9ye"
@@ -4271,7 +4325,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 166750,
       "name": "Let the Sun Shine - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/1W02hcbdwd4do45YJqSlED"
@@ -4355,7 +4409,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 183460,
       "name": "Lights Go Down",
       "url": "https://open.spotify.com/track/6Q7fxyIXgrbk1bIySqbaij"
@@ -5231,7 +5285,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 328356,
       "name": "Never Seen You Dance - Demi Riqu\u00edsimo Remix",
       "url": "https://open.spotify.com/track/5uMgU0XdqAC0244xdQpJEb"
@@ -5685,7 +5739,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 131637,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/3DByB2U4tr45M2FN82HCPo"
@@ -6442,6 +6496,24 @@
     },
     {
       "album": {
+        "name": "Saving Up",
+        "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207514,
+      "name": "Saving Up",
+      "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
+    },
+    {
+      "album": {
         "name": "Say It",
         "url": "https://open.spotify.com/album/6vH7aziXmsqAO8KL7zOOkB"
       },
@@ -6563,7 +6635,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 336385,
       "name": "She Likes To Dance",
       "url": "https://open.spotify.com/track/1Cq3QIdsUlTbRkmrMVqbHv"
@@ -6720,6 +6792,36 @@
     },
     {
       "album": {
+        "name": "Since (Don Rimini Remixes)",
+        "url": "https://open.spotify.com/album/5emeek19G51hLqwav3nLtB"
+      },
+      "artists": [
+        {
+          "name": "Wouter S",
+          "url": "https://open.spotify.com/artist/2FBOvuH967tVxaLwNzJSz1"
+        },
+        {
+          "name": "Huxley",
+          "url": "https://open.spotify.com/artist/6fJvW51nWhRImJyos6O7sT"
+        },
+        {
+          "name": "Chicago Hustle",
+          "url": "https://open.spotify.com/artist/4bY0OXeVVpfjDpPcEINBHR"
+        },
+        {
+          "name": "Don Rimini",
+          "url": "https://open.spotify.com/artist/2IA2rAfPyDDhqqcu6UaSOM"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Since - Don Rimini Deep Mix",
+      "url": "https://open.spotify.com/track/55osGD02FGA8u1IAhkLt48"
+    },
+    {
+      "album": {
         "name": "Sinfonia Della Notte",
         "url": "https://open.spotify.com/album/1XcxMqr1XRN1h7k07aXpoR"
       },
@@ -6863,7 +6965,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 234007,
       "name": "So High",
       "url": "https://open.spotify.com/track/2eMLeXpn6gnx7EaDkcDnkS"
@@ -6917,7 +7019,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 224761,
       "name": "Souljack",
       "url": "https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy"
@@ -7027,7 +7129,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 175475,
       "name": "Spotlight (feat. Sarah Ikumu)",
       "url": "https://open.spotify.com/track/2ccAtGaGO98e5TxDxPCf1R"
@@ -7333,7 +7435,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 160379,
       "name": "Take You High",
       "url": "https://open.spotify.com/track/69yTqNKtr2rdtpEMcc5hqK"
@@ -7695,7 +7797,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 135865,
       "name": "The Spirit",
       "url": "https://open.spotify.com/track/0moQc5wWxUwUFg9FdjVioq"
@@ -7757,7 +7859,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 161726,
       "name": "They Don't Know - Radio Edit",
       "url": "https://open.spotify.com/track/3ddsRCIG5TcpytqsfTOnX1"
@@ -7954,6 +8056,24 @@
     },
     {
       "album": {
+        "name": "Two Hearts EP",
+        "url": "https://open.spotify.com/album/5EmhtGastrE8dksOnUGZLF"
+      },
+      "artists": [
+        {
+          "name": "Daniel Steinberg",
+          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219047,
+      "name": "Two Hearts - Original Mix",
+      "url": "https://open.spotify.com/track/7wtjDhC7rShqYPdFIrxcor"
+    },
+    {
+      "album": {
         "name": "Ultimatum",
         "url": "https://open.spotify.com/album/3mKvAiTrhpJUTAFsJXmjTE"
       },
@@ -8113,7 +8233,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "Wait A Minute - Mattei & Omich Remix",
       "url": "https://open.spotify.com/track/0O9LIPrJG5ZPaHTM5bmdou"
@@ -8725,7 +8845,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 185896,
       "name": "You Give Me A Feeling",
       "url": "https://open.spotify.com/track/2qRKTg13LJGHO4fmQTWT7x"
@@ -8751,7 +8871,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 159344,
       "name": "You Got Me Calling",
       "url": "https://open.spotify.com/track/0DE977kfUvSfnPtwl8P9t3"

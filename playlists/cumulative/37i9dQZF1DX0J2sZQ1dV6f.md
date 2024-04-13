@@ -2,9 +2,9 @@
 
 ### [Electro Corridos](https://open.spotify.com/playlist/37i9dQZF1DX0J2sZQ1dV6f)
 
-> Bien alucin con el electro, perreo y el dembow belico\. La nueva ola de la fiesta\. Cover: Michelle Maciel y Grupo Marca Registrada
+> Bien alucin con el electro, perreo y el dembow belico\. La nueva ola de la fiesta\. Cover: Alex Favela, Yeri Mua, Eugenio Esquivel & Sebastian Esquivel.
 
-436 songs - 22 hr 41 min
+437 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [nasty](https://open.spotify.com/track/3mD5eYWsXfGJOeBA9cSWMa) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [nasty](https://open.spotify.com/album/40wjGbffx3oRJRRhbvDyYN) | 2:55 | 2022-03-21 | 2022-04-20 |
 | [Nataaoki](https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:30 | 2024-02-21 |  |
 | [NI BIEN NI MAL](https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:56 | 2022-03-21 | 2022-07-09 |
+| [NICKI MINAJ](https://open.spotify.com/track/3r9iDnNEiqg7nZxQYc0FY0) | [Tony Espinoza](https://open.spotify.com/artist/3Vpu7WZUjVtlfpb0102Lwj), [TUNDER](https://open.spotify.com/artist/6GMxW7EAQQjvk00uTF8pzZ), [Ander Koss](https://open.spotify.com/artist/2myMYalBa9SDq9TTDssRDx) | [NICKI MINAJ](https://open.spotify.com/album/3cqE9z39xnMV2bW4SQsNbU) | 3:04 | 2024-04-12 |  |
 | [No Es Culpa Mía](https://open.spotify.com/track/45UIS3lqRdp5c03bkkw0Un) | [Betzabeth](https://open.spotify.com/artist/0YjAHyNe7ooAMJTgA7oPgm) | [Mi Error](https://open.spotify.com/album/2kV3nA7gQ7zKgZ0IlrHrXj) | 3:00 | 2023-06-02 | 2023-12-03 |
 | [No Hay Falla Puro Fire](https://open.spotify.com/track/6w4IGeKLBWTMeTsODLWkfh) | [Misael Gutiérrez](https://open.spotify.com/artist/4TAlMkVgr4FK7INJXQLzfS), [Charly Barraza](https://open.spotify.com/artist/0lt4tPr7zkjrESUVY4zEBY) | [No Hay Falla Puro Fire](https://open.spotify.com/album/6IoOtCSEgOIINK8TWumspy) | 3:05 | 2024-01-12 |  |
 | [No Me Conoce \- Remix](https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 5:09 | 2022-12-07 | 2023-05-26 |

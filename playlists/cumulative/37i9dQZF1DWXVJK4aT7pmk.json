@@ -615,6 +615,24 @@
     },
     {
       "album": {
+        "name": "Distance Love",
+        "url": "https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY"
+      },
+      "artists": [
+        {
+          "name": "Zehr Vibe",
+          "url": "https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210681,
+      "name": "Distance Love",
+      "url": "https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX"
+    },
+    {
+      "album": {
         "name": "Drippy",
         "url": "https://open.spotify.com/album/7xlh4JhUD65QX1HzN2guSX"
       },
@@ -1778,7 +1796,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 288000,
       "name": "Top Class / Overseas",
       "url": "https://open.spotify.com/track/4BDOA9pV0yLClbR3v37ekI"

@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Tarsem Jassar
 
-338 songs - 16 hr 3 min
+339 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Lucifer](https://open.spotify.com/track/38RA9VH12NmpiVBamNJtSy) | [Fateh Shergill](https://open.spotify.com/artist/5RrNdku9cK7VRbaOxGPsPb), [Mr\. Rubal](https://open.spotify.com/artist/36UOJCmUrSwImCKV47F3Iy) | [Lucifer](https://open.spotify.com/album/6CYRc3WOonWttx4O1VJh1q) | 3:13 | 2023-08-28 | 2023-10-07 |
 | [M1911](https://open.spotify.com/track/0r5lpL34oxVDKg8aFRueU6) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [Mann Music](https://open.spotify.com/artist/7Itevk2MnbkjY8KqHyNhI7), [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj) | [M1911](https://open.spotify.com/album/6B2XyOETt9hTC6UJK9DPdT) | 2:35 | 2023-08-16 | 2023-10-05 |
 | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3) | 2:33 | 2023-03-29 | 2023-04-09 |
+| [Main Bandey](https://open.spotify.com/track/1GgQk7wSLTalLVZfivdiHo) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Main Bandey](https://open.spotify.com/album/1gjsHHeXtPmFg55MwzONLV) | 2:17 | 2024-04-12 |  |
 | [Mainstream](https://open.spotify.com/track/5NVKb40uUdjWbo8TINPtWU) | [NADAR](https://open.spotify.com/artist/1Bgk62DL2Mc8CthtepdVBr), [DaBrown](https://open.spotify.com/artist/4xAjp5uHf1HTQnXMGPZEMC) | [Mainstream](https://open.spotify.com/album/3V47YjpWRzCma2P0jFB1Cm) | 2:52 | 2024-01-24 | 2024-02-14 |
 | [Majhail 1.0](https://open.spotify.com/track/5NeP5LxzlLaGlsVFHviHUj) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [FAME](https://open.spotify.com/album/6gTapG6daOo6Y9XhibKBvg) | 2:49 | 2023-03-29 | 2023-07-15 |
 | [Mandeer](https://open.spotify.com/track/2nxQsbR0Cqy4MPI6vftwyX) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:10 | 2023-03-29 | 2023-07-15 |

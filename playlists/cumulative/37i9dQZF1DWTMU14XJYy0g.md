@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: WOS & Indio Solari
+> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: La Renga
 
-250 songs - 15 hr 38 min
+254 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Buen Recuerdo](https://open.spotify.com/track/7akXU0fDGqQ1QRWooxo1Ug) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Buen Recuerdo](https://open.spotify.com/album/7HUBMKHKAZ7kVBfacExMhR) | 4:11 | 2023-08-25 |  |
 | [Buena Pipa](https://open.spotify.com/track/1fohzzs0G5mDdAmNoVHq4d) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Alejado de la Red](https://open.spotify.com/album/4PTq788RYYJ6cUV1yzFaUP) | 4:05 | 2023-09-08 | 2023-09-27 |
 | [Buena Pipa](https://open.spotify.com/track/2ZZA0roqjGg2TcZ4R1BNnA) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Buena Pipa](https://open.spotify.com/album/6nmVCBzNjpor2ssPYl9C6P) | 4:08 | 2022-06-24 | 2023-09-21 |
+| [Buena Ruta Hermano](https://open.spotify.com/track/1YirMkwTumWXJhm66cmLGV) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Buena Ruta Hermano](https://open.spotify.com/album/2VPAc5WYhQvdawBjNmNfmq) | 3:47 | 2024-04-12 |  |
 | [Bye Bye](https://open.spotify.com/track/6xMEpjqkxXaxu8jC7HjdTe) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Bye Bye](https://open.spotify.com/album/4NHFGtSS1VRupcE8Q9QyrW) | 4:10 | 2022-06-24 |  |
 | [Cabalgata Deportiva](https://open.spotify.com/track/0YY18uS5eRKnrYCOdc17Iu) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Cabalgata Deportiva](https://open.spotify.com/album/7muhd0Y84UAOqkIYXFpLfd) | 4:47 | 2022-07-15 | 2023-08-26 |
 | [Cabalgata Deportiva](https://open.spotify.com/track/6Prlpu5trk3YsAaapseoUj) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Cabalgata Deportiva](https://open.spotify.com/album/5zIRrz2GkJhIE1QBwaos8w) | 4:47 | 2022-06-24 | 2022-07-29 |
@@ -55,6 +56,7 @@
 | [Cordura](https://open.spotify.com/track/68nH6WRy3SRUwXiEZqgeE3) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Cordura](https://open.spotify.com/album/54dwAd1G7qsREZu9r7WQmu) | 3:49 | 2023-06-02 | 2023-09-02 |
 | [Cosa Mía](https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Cosa Mía](https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw) | 2:49 | 2022-06-24 | 2023-09-27 |
 | [Costumbres Argentinas](https://open.spotify.com/track/4ux5icXP18e2stlh7nlEqQ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Costumbres Argentinas](https://open.spotify.com/album/3HCeEi8EpRkgDRRw6wm62w) | 3:05 | 2023-04-21 |  |
+| [Cuchillos y Escudos](https://open.spotify.com/track/4Kr7A6YCXPcsjGy4iPpOYU) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Cuchillos y Escudos](https://open.spotify.com/album/5a63Im2wu5TKzoPsf8zbNn) | 3:54 | 2024-04-12 |  |
 | [CULPA](https://open.spotify.com/track/0BTJ7QpDRjinzAy8KQMAp8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:35 | 2022-06-24 |  |
 | [Dame Rock](https://open.spotify.com/track/3QZZYSB4aafCmPe14ElQIM) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/3Wqm2Y41oWaFHODb2xTnn7) | 2:06 | 2023-06-16 | 2024-01-13 |
 | [Dame Rock](https://open.spotify.com/track/5idUaRJBOn7bSYjP6B7PcZ) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/04x545owsC3bnx17iQdnMj) | 2:06 | 2023-06-02 | 2023-06-25 |
@@ -153,6 +155,7 @@
 | [Lo Que Ves](https://open.spotify.com/track/4R5rg9XCEp7sX5jS6whkEa) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w) | [Lo Que Ves](https://open.spotify.com/album/6OBgrKk9tYCE6t7d0sHimH) | 3:16 | 2022-06-24 | 2023-04-22 |
 | [Lobo Solitario](https://open.spotify.com/track/3yQAbOhQDLFi0VdQriNU19) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT), [Quique Rangel](https://open.spotify.com/artist/58ifdyw0QkM58ZOADGxOhH), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Torreblanca](https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Hongo](https://open.spotify.com/album/4W4xTLzE3AStttaMRXGjVY) | 3:21 | 2022-09-23 | 2023-06-01 |
 | [Loco](https://open.spotify.com/track/1FRDqinRPxb83utvdSHfbm) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Loco](https://open.spotify.com/album/2UozOL2sqJIxb5kmM1P9dF) | 3:03 | 2022-06-24 | 2023-11-11 |
+| [Loco Por Volverla a Ver](https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Loco Por Volverla a Ver](https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd) | 4:32 | 2024-04-12 |  |
 | [Los Años Salvajes \(feat\. Fabiana Cantilo\)](https://open.spotify.com/track/3IN0zzW9VM9NV0OHbarMdi) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Los Años Salvajes](https://open.spotify.com/album/6s0bWGDnpbhpCYx5JBUt8Y) | 6:15 | 2022-06-24 | 2023-08-26 |
 | [Lucille](https://open.spotify.com/track/2qeIkKFXS11PwVOpE8ukMb) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [Lucille](https://open.spotify.com/album/0kYDijXRcHlprfa1Cq9jLr) | 4:11 | 2022-06-24 | 2022-08-06 |
 | [Luna de Miel en la Mano](https://open.spotify.com/track/7hlgmoLuoZReMqVOBoUycx) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [ADN \(Capítulo A\)](https://open.spotify.com/album/5rinlFOFMszDRgJYFJJsDs) | 2:48 | 2022-06-24 | 2023-09-27 |
@@ -169,6 +172,7 @@
 | [Moderato](https://open.spotify.com/track/59RKWLyMJvVueWpwE3Cqr2) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 3:25 | 2023-07-07 | 2024-01-13 |
 | [Más Fuerte Más Alto Más Lejos](https://open.spotify.com/track/3q77DS8eOXSozmO20xLlOq) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Más Fuerte Más Alto Más Lejos](https://open.spotify.com/album/2mdmgnxNAlV1QlcGIPKnvG) | 3:46 | 2022-06-24 | 2022-07-29 |
 | [Más Fuerte Más Alto Más Lejos](https://open.spotify.com/track/6R8tDnEjgcwIkPsJ184dGt) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Más Fuerte Más Alto Más Lejos](https://open.spotify.com/album/0oQaioOa2Llys73xpoYUHb) | 3:46 | 2022-07-15 | 2022-09-03 |
+| [Nada Nace](https://open.spotify.com/track/5HLujWzC7p8mG1NICBlO8r) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [Nada Nace](https://open.spotify.com/album/2TZKoqWXTe6lggXsP6Chhq) | 3:33 | 2024-04-12 |  |
 | [Nada que Perder](https://open.spotify.com/track/6c7hF6JiUy0HAsmMoANzcw) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW) | [El Modo](https://open.spotify.com/album/6R8nNkYZRPw5XeNquzkDbm) | 2:58 | 2023-01-27 | 2023-06-03 |
 | [Ni Mierda](https://open.spotify.com/track/3wJHwgJ2UXYicGth7OCkUD) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Abran Paso](https://open.spotify.com/album/1I6Tfo2FpfHPuvC3Pvaq39) | 4:44 | 2022-06-24 | 2023-03-04 |
 | [No Aguanto Más](https://open.spotify.com/track/2cqFQ9mcQCRpW2kdvAxUPM) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [La Dirección](https://open.spotify.com/album/3ittbXmzKeMVioLZ6aepfD) | 3:46 | 2023-03-03 |  |

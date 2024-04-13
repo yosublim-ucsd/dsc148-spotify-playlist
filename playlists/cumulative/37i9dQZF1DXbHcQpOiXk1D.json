@@ -7299,6 +7299,40 @@
     },
     {
       "album": {
+        "name": "Infinite Reflections",
+        "url": "https://open.spotify.com/album/0meFGx9eWzacSifnRoxwf0"
+      },
+      "artists": [
+        {
+          "name": "Chiminyo",
+          "url": "https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4"
+        },
+        {
+          "name": "Uniri",
+          "url": "https://open.spotify.com/artist/6MGWbyxXmoiLVcsZkapigA"
+        },
+        {
+          "name": "Aman\u00e9 Suganami",
+          "url": "https://open.spotify.com/artist/6oUpfsBBLUsGlpMZng9QbT"
+        },
+        {
+          "name": "Al MacSween",
+          "url": "https://open.spotify.com/artist/2zEEuFzo9LepOkkCtGnCbu"
+        },
+        {
+          "name": "Luke Wynter",
+          "url": "https://open.spotify.com/artist/2n5NBtzyUBpq0LuWXyknFk"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257624,
+      "name": "Outer Sea",
+      "url": "https://open.spotify.com/track/1XIgbKMs3Jf9n5QCuT7QTf"
+    },
+    {
+      "album": {
         "name": "Pace",
         "url": "https://open.spotify.com/album/340BiN2LaaHYcWFmPbL15m"
       },
@@ -8660,7 +8694,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 154038,
       "name": "Soar",
       "url": "https://open.spotify.com/track/7F8HGHuxgKJ6ISlbX2NJuW"

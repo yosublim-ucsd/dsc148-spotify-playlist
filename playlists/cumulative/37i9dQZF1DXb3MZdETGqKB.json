@@ -584,7 +584,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 314111,
       "name": "Black Widow",
       "url": "https://open.spotify.com/track/12NlxknhSHjbb1ojZ7oNTe"
@@ -1917,6 +1917,32 @@
     },
     {
       "album": {
+        "name": "I want it all",
+        "url": "https://open.spotify.com/album/6HQIBMSqvLJ65qcCR1PD4T"
+      },
+      "artists": [
+        {
+          "name": "Omido",
+          "url": "https://open.spotify.com/artist/1JHi3wMSHjY01RGrlo7lGh"
+        },
+        {
+          "name": "Mandrazo",
+          "url": "https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0"
+        },
+        {
+          "name": "Rick Jansen",
+          "url": "https://open.spotify.com/artist/53lSnB02n045g5jMu0ItCz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167441,
+      "name": "I want it all",
+      "url": "https://open.spotify.com/track/5tr9wAeWpd5IXH15PZuIPW"
+    },
+    {
+      "album": {
         "name": "I'll Be Glad",
         "url": "https://open.spotify.com/album/3R5MPBDv5WTid04LeVj2l6"
       },
@@ -2998,7 +3024,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 162741,
       "name": "NEVER TELL ME THE ODDS",
       "url": "https://open.spotify.com/track/2iK0Txu1uCzpGH196CsQEf"
@@ -3990,7 +4016,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 199786,
       "name": "State of Mind",
       "url": "https://open.spotify.com/track/2Y6FugxQpIz6Nj88w4Bfd5"
@@ -5020,6 +5046,24 @@
       "duration_ms": 279359,
       "name": "What About The Children",
       "url": "https://open.spotify.com/track/4bGTNdEbmrDlvqYJKRKJxR"
+    },
+    {
+      "album": {
+        "name": "What I'm Made Of",
+        "url": "https://open.spotify.com/album/4Qe99uFINH6xrWLoRm04oo"
+      },
+      "artists": [
+        {
+          "name": "Laura Evans",
+          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222534,
+      "name": "What I'm Made Of",
+      "url": "https://open.spotify.com/track/1Op8GRaEDkFfuOQaRIjXJ9"
     },
     {
       "album": {

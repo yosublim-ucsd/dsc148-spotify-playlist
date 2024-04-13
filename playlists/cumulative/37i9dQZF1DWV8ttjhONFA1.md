@@ -2,9 +2,9 @@
 
 ### [Indie Argentina](https://open.spotify.com/playlist/37i9dQZF1DWV8ttjhONFA1)
 
-> El nuevo sonido argentino lo encontrás acá\. Foto: wiranda johansen
+> El nuevo sonido argentino lo encontrás acá\. Foto: doppel gangs
 
-166 songs - 9 hr 14 min
+169 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Ariel](https://open.spotify.com/track/53cZ2u5osTGHMIkDtSx7KV) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Ariel](https://open.spotify.com/album/7eb9kb0GxEUuK8HFuWKIya) | 4:00 | 2023-12-15 | 2024-02-17 |
 | [Atormentada](https://open.spotify.com/track/0KHFf9RtpZyRlcJDHL4AKR) | [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Vida Real](https://open.spotify.com/album/4LzdHfWwKopzSuUichGbgm) | 3:19 | 2023-12-15 | 2024-03-02 |
 | [AYER TE VI \(feat\. Zoe Gotusso\)](https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:29 | 2024-04-05 |  |
+| [Bailemos](https://open.spotify.com/track/3SAwclJKzyaTe435Xeu8vB) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7), [Irvin Mach](https://open.spotify.com/artist/7MXgCL89Td8yUmscNmymst), [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Bailemos](https://open.spotify.com/album/4dC3rGkZlJfEAQ7muyCRsN) | 3:48 | 2024-04-12 |  |
 | [Bar de Playa](https://open.spotify.com/track/6YbC0D2ZYyjOmXn2sBirbA) | [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r) | [Bar de Playa](https://open.spotify.com/album/7CUbw1fLnPPJCEGTkLMUzU) | 2:09 | 2024-02-16 | 2024-04-06 |
 | [Buen día](https://open.spotify.com/track/1KudG9EH6Gga8GGMlmX6iu) | [Lo' Pibitos](https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL) | [Buen día](https://open.spotify.com/album/7rPvyhpzjEeqxmiwi1yVyZ) | 3:35 | 2023-12-15 | 2024-04-06 |
 | [Buscala](https://open.spotify.com/track/6mJ9vnO3hByuwCumlzHsAr) | [Joaquín Vitola](https://open.spotify.com/artist/4GHo23JMbtceTkGJdnEaXd) | [Conversación Cultural](https://open.spotify.com/album/1XhqaVC1pLZg4FNpOMwAzV) | 3:15 | 2023-12-15 |  |
@@ -41,7 +42,7 @@
 | [Cuando la Luna Caiga](https://open.spotify.com/track/4kbQVab7ftejREWGo8ebUi) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi), [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [Cuando la Luna Caiga](https://open.spotify.com/album/0Q64aIzoIOqP5Xw5dzbn35) | 4:33 | 2023-12-15 |  |
 | [Cuando Sea Grande](https://open.spotify.com/track/5QHMeQzf99dGl2WwTqiOu0) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Cuando Sea Grande](https://open.spotify.com/album/6JVKbotUObykq6GfLYcVJL) | 2:27 | 2023-12-15 | 2024-02-17 |
 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/4ItghFzjyBOtbR8J4mJ0hP) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Cómo Te Extraño Mi Amor](https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9) | 3:07 | 2023-12-15 | 2024-03-02 |
-| [Dame](https://open.spotify.com/track/1pxxpLKCYBNWa8f5TP8Xpq) | [Manu Hattom](https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY) | [Dame](https://open.spotify.com/album/5ozohAzMDOjPCCfXWeIa2J) | 3:15 | 2024-02-16 |  |
+| [Dame](https://open.spotify.com/track/1pxxpLKCYBNWa8f5TP8Xpq) | [Manu Hattom](https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY) | [Dame](https://open.spotify.com/album/5ozohAzMDOjPCCfXWeIa2J) | 3:15 | 2024-02-16 | 2024-04-13 |
 | [De Otra Vida](https://open.spotify.com/track/3c27ZTYS7cKiySSBNElVAh) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Una Dosis de Terciopelo](https://open.spotify.com/album/6UgJn3Do0qF5Q28RsGIdKd) | 4:16 | 2023-12-15 | 2024-04-06 |
 | [Departamento](https://open.spotify.com/track/0L7UzdYmOkLhHoDLEcUa8f) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Departamento](https://open.spotify.com/album/6HOznOXnB3b994Rq9HMlzj) | 3:54 | 2024-04-05 |  |
 | [Desaparecer](https://open.spotify.com/track/6PDPcB56TilUyxwSzi1qIi) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Desaparecer](https://open.spotify.com/album/0YPzpvzXBQJFLv4SOM3Lqk) | 3:16 | 2024-03-15 |  |
@@ -102,6 +103,7 @@
 | [Me Estoy Enamorando](https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Me Estoy Enamorando](https://open.spotify.com/album/290mTa3886xNkEyOVtC53k) | 3:35 | 2023-12-15 | 2024-04-06 |
 | [Me Pasa Que](https://open.spotify.com/track/4x6X3O5dVKliJbxG2VLUgJ) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Me Pasa Que](https://open.spotify.com/album/4Gvr5kFTrE2RHuj9Yg580Z) | 2:50 | 2024-03-22 |  |
 | [Mi Fiesta](https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 3:12 | 2024-04-05 |  |
+| [Momento de Fe](https://open.spotify.com/track/33G4Qp8lIYsLlj8HZ5Nf76) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Momento de Fe](https://open.spotify.com/album/4RAQ1BWTyoy2213F8YlyCq) | 2:48 | 2024-04-12 |  |
 | [Morena mía](https://open.spotify.com/track/2gCE7OHYYb0pZlp8nlRmXc) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Morena mía](https://open.spotify.com/album/0ErqfJ1kVZagcPNa7pf7fK) | 3:08 | 2024-01-19 | 2024-04-06 |
 | [MÚSICA](https://open.spotify.com/track/5xOUeU0GpbfgJkJC13pLv4) | [planta](https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [MÚSICA](https://open.spotify.com/album/1lVMp9YJIYoKnZwbDnME1x) | 3:17 | 2024-03-01 | 2024-04-06 |
 | [Música de Computadora](https://open.spotify.com/track/3URE4Okm8FmExP0AcyqrMI) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Paraíso Corazón](https://open.spotify.com/album/2fPlyQwOTDnwE0nnpxzWuZ) | 3:26 | 2023-12-15 |  |
@@ -139,7 +141,7 @@
 | [Romance Con la Luna \- Remix](https://open.spotify.com/track/5eBMtd2aLti1fdIHhn7EOp) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G), [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Romance Con la Luna \(Remix\)](https://open.spotify.com/album/5h7e39sPEoBLYwE6lsD1Of) | 3:50 | 2024-03-15 |  |
 | [romantiklov <3](https://open.spotify.com/track/6eNU9r9JCEjmodmoQo8lwf) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [romantiklov <3](https://open.spotify.com/album/2rkMB180JWhLwRXBHHmOlj) | 3:06 | 2023-12-15 | 2024-03-09 |
 | [Ruta 7](https://open.spotify.com/track/21M3XwoJcEXdLp9cQPJKeK) | [Joven Breakfast](https://open.spotify.com/artist/5kWpJQ4Bvmm1RcibWmx5tT), [Dumelefant](https://open.spotify.com/artist/6Yaka3hMhE4DvmtSgxVgA2), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [Ruta 7](https://open.spotify.com/album/19VE49YRECgUsAq0r2HmoT) | 3:28 | 2023-12-15 | 2024-04-06 |
-| [Seremos Idiotas](https://open.spotify.com/track/1uOCSlsvSXdAc04f4vDsrE) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Seremos Idiotas](https://open.spotify.com/album/0pOxQBxRyfjv2Wck4qTM3I) | 3:17 | 2024-03-01 |  |
+| [Seremos Idiotas](https://open.spotify.com/track/1uOCSlsvSXdAc04f4vDsrE) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Seremos Idiotas](https://open.spotify.com/album/0pOxQBxRyfjv2Wck4qTM3I) | 3:17 | 2024-03-01 | 2024-04-13 |
 | [Si Tú No Vuelves](https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Flores Robadas](https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy) | 3:21 | 2023-12-15 |  |
 | [Siempre me Dejaste Volver](https://open.spotify.com/track/5x5wanlUjwYxiVQXtWJPG9) | [Saturno y la Melancolía](https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT) | [Siempre Me Dejaste Volver](https://open.spotify.com/album/314UhDRgPlhLpFWm1p5vyd) | 4:38 | 2024-03-29 |  |
 | [Sinoca](https://open.spotify.com/track/5VKwR9EzAi8Ucod7lYmVhi) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Hola Precioso](https://open.spotify.com/album/03oOcZPLDZdsocx9QkkNty) | 3:35 | 2024-04-05 |  |
@@ -155,6 +157,7 @@
 | [Te Lo Voy a Decir](https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Te Lo Voy a Decir](https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF) | 4:06 | 2024-04-05 |  |
 | [te vas a lamentar :'\(](https://open.spotify.com/track/2cFad267BkRkULXr7XHFFh) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [nan Q](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [te vas a lamentar :'\(](https://open.spotify.com/album/42ovzNFlHOgv66WaCJplt8) | 3:09 | 2023-12-15 | 2024-04-06 |
 | [TLDMPDFDS](https://open.spotify.com/track/2lRtR9qlgfkjsk2KvTtUqG) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [TLDMPDFDS](https://open.spotify.com/album/32t2XpFH6hGPbmSDFPJryR) | 2:23 | 2023-12-15 |  |
+| [TODO & nada](https://open.spotify.com/track/4y5iaAapB3yFa5fdY8ATXS) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [TODO & nada](https://open.spotify.com/album/2AGVhIhJXLdyMdARFzDIQs) | 2:17 | 2024-04-12 |  |
 | [Todo el Universo](https://open.spotify.com/track/7JkXZoP7sjI2RyMWKCmjjH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Todo el Universo](https://open.spotify.com/album/2dJaJry3QESqGSZQb0GsoL) | 3:03 | 2023-12-15 |  |
 | [Todo Lo Que Tengo](https://open.spotify.com/track/39TmRHLELR1MWDlXZAmhWN) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Todo Lo Que Tengo](https://open.spotify.com/album/6TXs9sjN6P6EMF7d5MNFbn) | 1:51 | 2024-01-05 | 2024-02-24 |
 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 | 2023-12-15 |  |

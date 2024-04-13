@@ -4,7 +4,7 @@
 
 > Listen to the hottest songs from LGBTQIA+ artists\. Cover: Chico Blanco
 
-1,141 songs - 2 day 13 hr 51 min
+1,142 songs - 2 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [ADICCIÓN](https://open.spotify.com/track/5iG9KI3KT20unk2NwfToWi) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [ADICCIÓN](https://open.spotify.com/album/3Gl9bJ1Q1w7vzQIfoL6qiU) | 2:57 | 2024-03-12 |  |
 | [Ahora](https://open.spotify.com/track/3o6rq0a3BsvoIgRvm0Fdcz) | [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez), [Emilia Siede](https://open.spotify.com/artist/6RWlJiSPLshpRuQ6emBMpX) | [1990](https://open.spotify.com/album/4oBEsetdltXNnOMT1t61QU) | 3:56 | 2023-03-31 | 2023-04-14 |
 | [Ahora](https://open.spotify.com/track/6E2AxABlhC0dR1qHM550wU) | [Valen Bonetto](https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd), [Brenda Martin](https://open.spotify.com/artist/54NJYwYXv1Y6HoIW5MxdqI) | [OTRX](https://open.spotify.com/album/5CM33ITU9p94NVDDMEMLAh) | 3:36 | 2023-03-31 | 2023-04-14 |
-| [Ai Ai Ai Mega Príncipe](https://open.spotify.com/track/2n8j7u2yDV1hyIXvh5f85Q) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/album/2edjshjBUtVkfILZP3ATDR) | 3:03 | 2024-03-12 |  |
+| [Ai Ai Ai Mega Príncipe](https://open.spotify.com/track/2n8j7u2yDV1hyIXvh5f85Q) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/album/2edjshjBUtVkfILZP3ATDR) | 3:03 | 2024-03-12 | 2024-04-13 |
+| [Ai Ai Ai Mega Príncipe](https://open.spotify.com/track/5yemzKG0VNqq6NpeAmZ3fH) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/4vWvJUynYR1cdGjyyWGeei) | 3:03 | 2024-04-11 |  |
 | [Air](https://open.spotify.com/track/2Nc3Eg0p5Ot6RYkAMmVowH) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Air](https://open.spotify.com/album/2jSqZSQ32EHQc2RdFQKru6) | 3:37 | 2021-12-17 | 2022-07-27 |
 | [airplane thoughts](https://open.spotify.com/track/4t5joZkdlXlvzLXJbkgppJ) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 3:30 | 2022-01-21 | 2022-12-01 |
 | [airplane thoughts](https://open.spotify.com/track/6LyNmMNe5Xomr3MFL6dS7n) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [airplane thoughts](https://open.spotify.com/album/3k8juVCkkKg3IG8gNOttWH) | 3:30 | 2021-12-17 | 2022-06-16 |

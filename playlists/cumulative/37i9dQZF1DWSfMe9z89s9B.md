@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Avenoir
 
-1,141 songs - 2 day 12 hr 29 min
+1,142 songs - 2 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,7 +332,7 @@
 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 | 2022-04-01 | 2022-07-16 |
 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 | 2022-07-22 | 2022-12-03 |
 | [FAMJAM4000](https://open.spotify.com/track/6FDNS9i86Il7ZeGBf7H2Aa) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [FORWARD](https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc) | 2:38 | 2023-03-03 | 2023-09-23 |
-| [Fantasy](https://open.spotify.com/track/7hfl0aCqTLiOtJa3bOgTzA) | [Troy Javelona](https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho) | [Fantasy](https://open.spotify.com/album/1JL7UsUUpKyOYh9Bqz2wBU) | 2:52 | 2023-12-08 |  |
+| [Fantasy](https://open.spotify.com/track/7hfl0aCqTLiOtJa3bOgTzA) | [Troy Javelona](https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho) | [Fantasy](https://open.spotify.com/album/1JL7UsUUpKyOYh9Bqz2wBU) | 2:52 | 2023-12-08 | 2024-04-13 |
 | [FAR AWAY](https://open.spotify.com/track/7FWB9uLSKi8HHT8p67Fsig) | [Hush Forte](https://open.spotify.com/artist/4MbRfFtyXLbOnccfjBE69n) | [FAR AWAY](https://open.spotify.com/album/1mmqM0T7WtpJRhp9NGgb4P) | 3:11 | 2021-06-25 | 2022-01-27 |
 | [Feed The Fire \(feat\. Lucky Daye\)](https://open.spotify.com/track/0yU8ftsMI0LDMtee8TDsDR) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Feed The Fire \(feat\. Lucky Daye\)](https://open.spotify.com/album/0CttfgSuHvMSFKshmwa8vb) | 4:05 | 2021-03-19 | 2022-04-16 |
 | [Feel Good](https://open.spotify.com/track/6clYpUEhSJs0jYt7n7lIZP) | [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ) | [Feel Good](https://open.spotify.com/album/7fr81qCX4j03vrknwMxYvI) | 4:16 | 2022-06-10 | 2022-06-16 |
@@ -715,6 +715,7 @@
 | [Off Days](https://open.spotify.com/track/3cyTJ6e9s2JLuOgL3nY8Fb) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Off Days](https://open.spotify.com/album/3ExLiwDPx664c2RqWJbqNr) | 2:49 | 2022-12-02 | 2023-02-25 |
 | [Off the Wall](https://open.spotify.com/track/2pkDvFyDw9J0GxAta8spSb) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y) | [Off the Wall](https://open.spotify.com/album/3RO3fuqDbCEGdVY8DsttaB) | 3:32 | 2023-04-28 | 2024-03-13 |
 | [Ohio](https://open.spotify.com/track/0GgYACtOE5GNVjwAZmBr1p) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF) | [Ohio](https://open.spotify.com/album/4ZGtU7OLGX2SwD7QxcGwLI) | 2:50 | 2023-05-26 | 2024-02-25 |
+| [OK \(feat\. MAVI\)](https://open.spotify.com/track/2eA50w1CdYbNYBTc7MhDL2) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua), [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [OK \(feat\. MAVI\)](https://open.spotify.com/album/0rnWNeCP6TnZQkFBuPfCZr) | 2:14 | 2024-04-12 |  |
 | [Old News](https://open.spotify.com/track/7huFhrT6BWxA6pPAg2AaiN) | [BRIDGE](https://open.spotify.com/artist/05LTJdcIWfHyQXC1za07k8), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Old News](https://open.spotify.com/album/7iXWOtu0pJOlHht5Ev0t8s) | 2:10 | 2022-08-12 | 2022-09-03 |
 | [OMG BRITT](https://open.spotify.com/track/1lHO9Z4KzFzm9VPxKvT0KE) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [OMG BRITT](https://open.spotify.com/album/1ZxJENucMcyS2Q34PckcAx) | 2:52 | 2022-09-09 | 2022-10-26 |
 | [OMW](https://open.spotify.com/track/7EdcolEtRspiP5UqfRLp1U) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 1:17 | 2023-05-12 |  |

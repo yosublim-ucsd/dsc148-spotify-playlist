@@ -1,7 +1,7 @@
 {
-  "2024-04-12": 44559,
+  "2024-04-13": 44570,
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Juniore",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Yseult",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -597,7 +597,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 217640,
       "name": "Comme un idiot",
       "url": "https://open.spotify.com/track/5MW2D3rttNR84ivORyMvTV"
@@ -2335,6 +2335,24 @@
       "duration_ms": 244626,
       "name": "STUPID CUNT IN THE MALL",
       "url": "https://open.spotify.com/track/2Up0DUfJRoRkA7ynD50Xtl"
+    },
+    {
+      "album": {
+        "name": "SUICIDE",
+        "url": "https://open.spotify.com/album/6gJtO81KttmKypH2rQN8Ve"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204484,
+      "name": "SUICIDE",
+      "url": "https://open.spotify.com/track/1Aw8rYPjcA5kE9qM9KV3Q4"
     },
     {
       "album": {

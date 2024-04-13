@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=eXMnqbKqRbGHU2vdnJw4jQ\">DBN Gogo</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy?si=2Vi_2TSQT5-u7_kKg-IyKg\">Omagoqa</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -104,6 +104,24 @@
       "duration_ms": 204513,
       "name": "011 to Paris",
       "url": "https://open.spotify.com/track/1ivk12zHrrW7gQZwQwij79"
+    },
+    {
+      "album": {
+        "name": "1+1=11",
+        "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190644,
+      "name": "1+1=11 - Edit",
+      "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
     },
     {
       "album": {
@@ -744,7 +762,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 358008,
       "name": "African Vibe PT 2 - Ka Valungu - 3 Step Remix",
       "url": "https://open.spotify.com/track/3jbBtITwX7GLqWcqz3odek"
@@ -1832,6 +1850,32 @@
       "duration_ms": 403803,
       "name": "Angikaze",
       "url": "https://open.spotify.com/track/5F7npl4FSAFQLsIuW3o7aR"
+    },
+    {
+      "album": {
+        "name": "EVERGREEN",
+        "url": "https://open.spotify.com/album/1acxyJRAsjYqYK8cF6dOfM"
+      },
+      "artists": [
+        {
+          "name": "Charisse C",
+          "url": "https://open.spotify.com/artist/3t8cTcgOoxQb0K8gkyKC0n"
+        },
+        {
+          "name": "Shazmicsoul",
+          "url": "https://open.spotify.com/artist/1J4VWFnc4Abj57kr4qI9wg"
+        },
+        {
+          "name": "Small Keys",
+          "url": "https://open.spotify.com/artist/2KCQgfKYeUmXJPrWxOOEf2"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359701,
+      "name": "Angisafuni",
+      "url": "https://open.spotify.com/track/4A4EXdgo16fyLqm6ylV9vW"
     },
     {
       "album": {
@@ -2996,7 +3040,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 154215,
       "name": "Body Moving",
       "url": "https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN"
@@ -3574,7 +3618,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 368389,
       "name": "Burning Bush",
       "url": "https://open.spotify.com/track/1CNTMJIhTDNLFHvyw8ZQCR"
@@ -3684,7 +3728,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 201391,
       "name": "By My Side - Radio Edit",
       "url": "https://open.spotify.com/track/4GGIEBTzQ8xghcVrBiHPVm"
@@ -6418,7 +6462,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 242182,
       "name": "For You",
       "url": "https://open.spotify.com/track/0obPwk1OrhPBYXKLfOqRl6"
@@ -6902,6 +6946,28 @@
       "duration_ms": 414490,
       "name": "Gordon Road - Original Mix",
       "url": "https://open.spotify.com/track/6Sjk27IqeYBBPVkNMKWmDa"
+    },
+    {
+      "album": {
+        "name": "Gorilla EP",
+        "url": "https://open.spotify.com/album/32tJ3ZvTh6ivoohE42aYTA"
+      },
+      "artists": [
+        {
+          "name": "RAYZIR",
+          "url": "https://open.spotify.com/artist/0SyO8xciHr7YgddHXRVJLQ"
+        },
+        {
+          "name": "Philou Louzolo",
+          "url": "https://open.spotify.com/artist/4zCYbkxFSNb6T2D2vFSg6C"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "Gorilla - Radio Edit",
+      "url": "https://open.spotify.com/track/07RX3FwnpN61suArirCyx2"
     },
     {
       "album": {
@@ -8306,7 +8372,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 179999,
       "name": "If U Need It",
       "url": "https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp"
@@ -9129,6 +9195,32 @@
     },
     {
       "album": {
+        "name": "iNumber Number",
+        "url": "https://open.spotify.com/album/2T8w3dPW9a3htSnb2pM81b"
+      },
+      "artists": [
+        {
+          "name": "Omagoqa",
+          "url": "https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy"
+        },
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "Khanyisa",
+          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333877,
+      "name": "iNumber Number",
+      "url": "https://open.spotify.com/track/7wcy1BbA5JtRyV3wleeNIX"
+    },
+    {
+      "album": {
         "name": "Invisible (feat. Rona Ray)",
         "url": "https://open.spotify.com/album/48GDFRqrBhNh91e1H2wrhu"
       },
@@ -9506,6 +9598,28 @@
       "duration_ms": 368087,
       "name": "Jaded - Hypaphonik Derived Mix",
       "url": "https://open.spotify.com/track/3T0GsiHVZ5rTtg8s3QtV5k"
+    },
+    {
+      "album": {
+        "name": "Jamming (FISHER Rework)",
+        "url": "https://open.spotify.com/album/7JIcY8DOxlyJKAW3Dl3sWk"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201928,
+      "name": "Jamming - FISHER Rework",
+      "url": "https://open.spotify.com/track/2gKewcQZEV1fqoWH81RUDk"
     },
     {
       "album": {
@@ -11439,6 +11553,28 @@
     },
     {
       "album": {
+        "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
+        "url": "https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160650,
+      "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
+      "url": "https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn"
+    },
+    {
+      "album": {
         "name": "Lungehlule",
         "url": "https://open.spotify.com/album/3dQTkrulKVVL7cJuHcl3Tf"
       },
@@ -11722,7 +11858,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 361493,
       "name": "Mama Thula",
       "url": "https://open.spotify.com/track/5lyU83MdLTyJpnmCl3NjOi"
@@ -12694,7 +12830,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 371897,
       "name": "More Love - Rampa &ME Remix",
       "url": "https://open.spotify.com/track/70ofkwt6aIb4bPQ51OQMQO"
@@ -12895,6 +13031,28 @@
     },
     {
       "album": {
+        "name": "Murder On The Dancefloor (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/3WqgCHY7LbKrnsM1PXm5Sk"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174337,
+      "name": "Murder On The Dancefloor - David Guetta Remix",
+      "url": "https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b"
+    },
+    {
+      "album": {
         "name": "Muziki Tamu",
         "url": "https://open.spotify.com/album/7doi8dQOas55rWGRctflKy"
       },
@@ -12914,6 +13072,24 @@
       "duration_ms": 343414,
       "name": "Muziki Tamu",
       "url": "https://open.spotify.com/track/2yejkesACbQlEGlzZQgpOy"
+    },
+    {
+      "album": {
+        "name": "Muziq Unboxed",
+        "url": "https://open.spotify.com/album/2UfnKtExvC2owCH1nNegSb"
+      },
+      "artists": [
+        {
+          "name": "DJ Manzo Sa",
+          "url": "https://open.spotify.com/artist/5jwzoDqBYZUEVromkGWvio"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378985,
+      "name": "Muziq Unboxed",
+      "url": "https://open.spotify.com/track/79cCWXqthsH0KDSeY6Aldj"
     },
     {
       "album": {
@@ -14268,7 +14444,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 215384,
       "name": "Osanisiya",
       "url": "https://open.spotify.com/track/3HnmM3C6ohQxXSSisoUgDW"
@@ -15282,7 +15458,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 398425,
       "name": "Rekere 3 Step",
       "url": "https://open.spotify.com/track/7bcotMiHylhuo0dEc34XL9"
@@ -15494,6 +15670,24 @@
       "duration_ms": 322638,
       "name": "Riye Riye",
       "url": "https://open.spotify.com/track/6h2S4HDYSjwFoivILir8ON"
+    },
+    {
+      "album": {
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355879,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH"
     },
     {
       "album": {
@@ -16867,6 +17061,28 @@
     },
     {
       "album": {
+        "name": "sisahleleleni (Henrik Schwarz Remix)",
+        "url": "https://open.spotify.com/album/0XwqQyVMKVSY1TgMjjB5qI"
+      },
+      "artists": [
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        },
+        {
+          "name": "Henrik Schwarz",
+          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354304,
+      "name": "sisahleleleni - Henrik Schwarz Remix",
+      "url": "https://open.spotify.com/track/4JMmufXTzZPDbdDGp53TYt"
+    },
+    {
+      "album": {
         "name": "Fumbo",
         "url": "https://open.spotify.com/album/75E9B79X1WmI5cojmqBEyu"
       },
@@ -18068,6 +18284,44 @@
       "duration_ms": 450491,
       "name": "Thaai - Dj Tomer & Ricardo's Voodoo Tribe Remix",
       "url": "https://open.spotify.com/track/5ILQd8soax1ekqFfv9Psrj"
+    },
+    {
+      "album": {
+        "name": "Thandaza",
+        "url": "https://open.spotify.com/album/6EJu5rECOfBSeHfVM3g6pm"
+      },
+      "artists": [
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Alan Dixon",
+          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Arabic Piano",
+          "url": "https://open.spotify.com/artist/0Na64T53YX2qe1XG97JyCO"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361810,
+      "name": "Thandaza",
+      "url": "https://open.spotify.com/track/4x6jx7AeSyE7PlQTdCjIJs"
     },
     {
       "album": {
@@ -21488,7 +21742,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 229525,
       "name": "Yafaso (feat. Villa)",
       "url": "https://open.spotify.com/track/7dZD5roci3Ue5lRt0mSsKA"

@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 14677,
+  "2024-04-13": 14685,
   "date_first_scraped": "2022-10-01",
   "description": "New and emerging R&B, afropop and Alternative tracks. Cover: Kojo Blak",
   "name": "Sizzlers ",
@@ -565,7 +565,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 160673,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/40VtWXF3SL8gobkEgd6gt3"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 235500,
       "name": "African King",
       "url": "https://open.spotify.com/track/1HT3WC8PiAozwEzCX5oYzT"
@@ -1975,7 +1975,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 188307,
       "name": "Blown Away",
       "url": "https://open.spotify.com/track/196N8YPLcFDmOEYcOU4bF2"
@@ -3323,7 +3323,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 170232,
       "name": "Delusion",
       "url": "https://open.spotify.com/track/7atJqz72vCyJyNIiRo33XO"
@@ -3341,7 +3341,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 202460,
       "name": "Desire",
       "url": "https://open.spotify.com/track/6kSbTPcBqhPHObtLgKgJsm"
@@ -3559,6 +3559,24 @@
       "duration_ms": 148235,
       "name": "Do (The Kids Are Watching)",
       "url": "https://open.spotify.com/track/72HKJ3tTJWao1YZIHUgjSg"
+    },
+    {
+      "album": {
+        "name": "Do It All",
+        "url": "https://open.spotify.com/album/1BSXnC2RrdNr9jBggnHvBf"
+      },
+      "artists": [
+        {
+          "name": "Agyakomah",
+          "url": "https://open.spotify.com/artist/0cujx2Q4DVpVPO0bf05DOm"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192528,
+      "name": "Do It All",
+      "url": "https://open.spotify.com/track/1cEzYBALniy8FkkWVsfud9"
     },
     {
       "album": {
@@ -4386,6 +4404,28 @@
     },
     {
       "album": {
+        "name": "Fa Lala",
+        "url": "https://open.spotify.com/album/3iPv8iHJsuAas79hTaBfq7"
+      },
+      "artists": [
+        {
+          "name": "SuperWozzy",
+          "url": "https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS"
+        },
+        {
+          "name": "Damo K",
+          "url": "https://open.spotify.com/artist/2EbTRZdju2hUrMqClX4wyO"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182804,
+      "name": "Fa Lala",
+      "url": "https://open.spotify.com/track/3oDOczWpp1KiOYSb5LaWvp"
+    },
+    {
+      "album": {
         "name": "I Know I Am",
         "url": "https://open.spotify.com/album/0n8t233j9SxfeORXpC9msV"
       },
@@ -4553,7 +4593,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 147000,
       "name": "Fast",
       "url": "https://open.spotify.com/track/6UCvdFpOt1vQwKaOvl0LCq"
@@ -5175,7 +5215,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 174545,
       "name": "Friends",
       "url": "https://open.spotify.com/track/0n01Jo84IjPVepCtZ6ZFnr"
@@ -5273,7 +5313,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 154128,
       "name": "Gangster Romance",
       "url": "https://open.spotify.com/track/4rJ7jJ9TZaS42ASNf6k0ye"
@@ -5367,7 +5407,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 146938,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/1rygCbBVSKhfwTLvEWAEsF"
@@ -5745,7 +5785,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 169419,
       "name": "Guy Like Me",
       "url": "https://open.spotify.com/track/1lxVtfGPUZlgInYySB1GcS"
@@ -5937,7 +5977,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 156734,
       "name": "Heavy Rotation",
       "url": "https://open.spotify.com/track/7m3Udvtkx3DsFmpCPpyhLh"
@@ -7399,7 +7439,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 132466,
       "name": "Jeje",
       "url": "https://open.spotify.com/track/3XnEEvgC2dNWFIATh92f48"
@@ -7479,6 +7519,24 @@
       "duration_ms": 138374,
       "name": "Jo",
       "url": "https://open.spotify.com/track/1IPiMWs3g5UezRGUUwiXWz"
+    },
+    {
+      "album": {
+        "name": "Jolie",
+        "url": "https://open.spotify.com/album/181bermR5Tqlsp90dHgvdP"
+      },
+      "artists": [
+        {
+          "name": "BiQo",
+          "url": "https://open.spotify.com/artist/7ANB4Bn0ymGL0meB4VhR6y"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "Jolie",
+      "url": "https://open.spotify.com/track/2BqNhy0Fc6VZk6TfQu5DDY"
     },
     {
       "album": {
@@ -8907,7 +8965,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 132049,
       "name": "Mango",
       "url": "https://open.spotify.com/track/4nQwVeAVqJOvb87LRblkzq"
@@ -9105,7 +9163,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 153991,
       "name": "Maybe, Maybe Not",
       "url": "https://open.spotify.com/track/6J2AWg7cIQtIHkiU3T0zFt"
@@ -9541,7 +9599,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 202473,
       "name": "Mo",
       "url": "https://open.spotify.com/track/1dE9i3dl3lgZJIF5DwsBkj"
@@ -11551,7 +11609,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 156004,
       "name": "Piano",
       "url": "https://open.spotify.com/track/2R6eV26pSgLz2yV5dfgzLL"
@@ -13063,7 +13121,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 186504,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/4dLW9YgtBGCquFb0gs6HdR"
@@ -13249,6 +13307,24 @@
       "duration_ms": 146261,
       "name": "Sit",
       "url": "https://open.spotify.com/track/1hBrYBkodukH2i2rFoVMdU"
+    },
+    {
+      "album": {
+        "name": "slo-mo",
+        "url": "https://open.spotify.com/album/6nWO6MsoxH8F1UfMs4zutk"
+      },
+      "artists": [
+        {
+          "name": "MisterKay",
+          "url": "https://open.spotify.com/artist/1rd2uaxe75DEeIz8AnlyLN"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168712,
+      "name": "slo-mo",
+      "url": "https://open.spotify.com/track/6lA2TkKvMZyfEn105eSB0V"
     },
     {
       "album": {
@@ -14095,7 +14171,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 148373,
       "name": "Swear, I Tried",
       "url": "https://open.spotify.com/track/4RGWcopCHddLdBw6bvznOn"
@@ -14389,7 +14465,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 179047,
       "name": "the one",
       "url": "https://open.spotify.com/track/3N1kTwDdzYW0R6oHwkgENB"
@@ -14713,6 +14789,24 @@
       "duration_ms": 258600,
       "name": "Three Little Birds (Feat. Teni and Oxlade)",
       "url": "https://open.spotify.com/track/3Jm1XardcGOdw3A65RcwSv"
+    },
+    {
+      "album": {
+        "name": "Tiger",
+        "url": "https://open.spotify.com/album/3kY0THIOcoEoQtVa0hgfaE"
+      },
+      "artists": [
+        {
+          "name": "Y'akoto",
+          "url": "https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Tiger",
+      "url": "https://open.spotify.com/track/6L74DRgwAPCMU5j0GRdYCZ"
     },
     {
       "album": {
@@ -15590,6 +15684,24 @@
     },
     {
       "album": {
+        "name": "WATA BAMBAM",
+        "url": "https://open.spotify.com/album/4EdKR0Y5poNvd65PHG4POZ"
+      },
+      "artists": [
+        {
+          "name": "Egar Boi",
+          "url": "https://open.spotify.com/artist/5BgxilmpjhmqEFKqoQnmIV"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144905,
+      "name": "WATA BAMBAM",
+      "url": "https://open.spotify.com/track/0trNmAJfTKAsNa0wvRZS4l"
+    },
+    {
+      "album": {
         "name": "Way That I Love",
         "url": "https://open.spotify.com/album/275vnEZCvlxPeRJ7IKjsX9"
       },
@@ -15680,6 +15792,28 @@
     },
     {
       "album": {
+        "name": "Whats Up",
+        "url": "https://open.spotify.com/album/7JUmIEYeCXGkbCkaU6OJWn"
+      },
+      "artists": [
+        {
+          "name": "KWEKU PEE",
+          "url": "https://open.spotify.com/artist/1moWgmfzDrNtohnVWhZOmO"
+        },
+        {
+          "name": "Herman Suede",
+          "url": "https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165720,
+      "name": "Whats Up",
+      "url": "https://open.spotify.com/track/5RlU3YgPw5lVgSBdyKwXtC"
+    },
+    {
+      "album": {
         "name": "Whenever",
         "url": "https://open.spotify.com/album/307CWBEY8Lz0bV7xmqLWew"
       },
@@ -15735,7 +15869,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 127653,
       "name": "Where The Angels Are",
       "url": "https://open.spotify.com/track/6ySWhreO9o23bsflA81nqx"

@@ -5810,6 +5810,24 @@
     {
       "album": {
         "name": "Sinto Falta",
+        "url": "https://open.spotify.com/album/7kX74esVRq5dRZn8gu6tCb"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201661,
+      "name": "Sinto Falta",
+      "url": "https://open.spotify.com/track/6SiSYZkjnIj2RWSG2iCTb8"
+    },
+    {
+      "album": {
+        "name": "Sinto Falta",
         "url": "https://open.spotify.com/album/10aek1HVhJYomxdvkC7jyq"
       },
       "artists": [
@@ -6046,7 +6064,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 232421,
       "name": "Super Mulher",
       "url": "https://open.spotify.com/track/4huF3o48HSf9nBBEiroPKu"

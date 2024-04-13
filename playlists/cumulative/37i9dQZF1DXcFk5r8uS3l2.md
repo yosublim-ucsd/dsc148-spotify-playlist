@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Lizz Wright
 
-360 songs - 22 hr 37 min
+363 songs - 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Black Holes and Overdoses](https://open.spotify.com/track/7dSrCmvxIwowO6V30kIWg6) | [The Suitcase Junket](https://open.spotify.com/artist/7Iew8GtdYcaznLxIJpJxeS) | [Black Holes and Overdoses](https://open.spotify.com/album/12bknsFQe4EJbp0JSnQb7y) | 3:13 | 2021-12-17 | 2022-06-11 |
 | [Black Myself](https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Black Myself](https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz) | 3:21 | 2021-12-17 | 2022-07-29 |
 | [Black Sun](https://open.spotify.com/track/63UtBlg0KZZYueVi6r8DQp) | [Irma](https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f) | [Black Sun](https://open.spotify.com/album/6b7USoPQHOlfaelSrPPVo9) | 3:26 | 2021-12-17 | 2022-07-08 |
-| [Black Widow](https://open.spotify.com/track/4DWr9jdFuoELQ06HLCnGeJ) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Black Widow](https://open.spotify.com/album/1dUzfaYpBcr4s8yCg8IpYD) | 2:50 | 2022-07-15 |  |
+| [Black Widow](https://open.spotify.com/track/4DWr9jdFuoELQ06HLCnGeJ) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Black Widow](https://open.spotify.com/album/1dUzfaYpBcr4s8yCg8IpYD) | 2:50 | 2022-07-15 | 2024-04-13 |
+| [Black Widow](https://open.spotify.com/track/4ZatCCisvqrcIWx2Kshb33) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/6RqohXVE3YRsRbaS9sm5G2) | 2:50 | 2023-10-06 |  |
 | [Blank Page](https://open.spotify.com/track/4JsWbDG96EO5ddZLERXoj5) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Blank Page](https://open.spotify.com/album/4gYrYFOyGDWQWw7payBfjX) | 5:35 | 2022-11-11 | 2023-03-11 |
 | [Border](https://open.spotify.com/track/4rGnfA4SP3xkvdk6cxqwWl) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [May Your Kindness Remain](https://open.spotify.com/album/1U8907wmzKNgvDEW3mk21S) | 3:55 | 2021-12-17 | 2022-04-16 |
 | [Born Of A Woman](https://open.spotify.com/track/6NMY2CP95XrD8ZkecH8IXA) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Shaneeka Simon](https://open.spotify.com/artist/5Ppc0aChlO1gqw6s3yZNwN) | [Dear America](https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ) | 3:47 | 2022-01-28 | 2022-08-11 |
@@ -91,7 +92,7 @@
 | [Enjoy the Ride](https://open.spotify.com/track/6dqhw83H9eKMb0qTCv17k3) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Enjoy the Ride](https://open.spotify.com/album/67A2C0Zy9gvtUPdh6BtJNE) | 3:39 | 2024-04-05 |  |
 | [Everybody Wants To Be My Friend](https://open.spotify.com/track/2dHohxPASrUNxY5NDKWZ1e) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [Everybody Wants To Be My Friend](https://open.spotify.com/album/1YTz5RAgMEKkSavrQAg3yN) | 3:37 | 2022-04-15 | 2022-06-12 |
 | [F\*ck My Life Up Again](https://open.spotify.com/track/4L9VTwdne2g1k8aBsgT9Zv) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [F\*ck My Life Up Again](https://open.spotify.com/album/5NRQZLhu0vIxZqSI5pUh1g) | 4:18 | 2024-01-19 | 2024-02-10 |
-| [Fast](https://open.spotify.com/track/4lldt4nIrEzASVTCgQHAmC) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Fast](https://open.spotify.com/album/2pDvPsNV0z3QTxXO1A7qxL) | 3:29 | 2024-02-16 |  |
+| [Fast](https://open.spotify.com/track/4lldt4nIrEzASVTCgQHAmC) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Fast](https://open.spotify.com/album/2pDvPsNV0z3QTxXO1A7qxL) | 3:29 | 2024-02-16 | 2024-04-13 |
 | [Feels Like Freedom](https://open.spotify.com/track/14HCZEU2biaM0hEoOEq1vd) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Feels Like Freedom](https://open.spotify.com/album/1oK1BuADbj2eCKKf24BPwL) | 3:50 | 2022-10-28 |  |
 | [Feels so Bad \- Previously Unreleased Take](https://open.spotify.com/track/5cl45ejCEAoCeYzuOr7k1z) | [Junior Kimbrough](https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr) | [Introducing Junior Kimbrough](https://open.spotify.com/album/1Aw2XfNshXdkGEcl8myTnD) | 2:17 | 2021-12-17 | 2023-03-11 |
 | [Fiddle](https://open.spotify.com/track/1yqA8U6NTglVeBWoLwpwAO) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Fiddle](https://open.spotify.com/album/5tlMpDBnEsbFPkgTNcpWyU) | 3:12 | 2022-12-02 | 2022-12-10 |
@@ -227,6 +228,7 @@
 | [Nothing Without You](https://open.spotify.com/track/4tWTkbx3mO8izydaLLh4oR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU), [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [The Night Owl and The Lark](https://open.spotify.com/album/5fEek3kbOzbwDtKLKlJCR7) | 3:25 | 2024-02-09 | 2024-04-06 |
 | [Nothing's Gonna Stop Me Feeling Good](https://open.spotify.com/track/3578ilBVTJbZFgJH8z8lxn) | [The Gulls](https://open.spotify.com/artist/2n0FlGHc3OxI0x2WI39BEc) | [Nothing's Gonna Stop Me Feeling Good](https://open.spotify.com/album/3vgjJRc8CkEp5LbCwYdfVf) | 3:00 | 2023-06-23 | 2024-02-23 |
 | [Nothing's Gonna Stop Me Feeling Good](https://open.spotify.com/track/4rmOzQCwbGIiukTKmpRHlC) | [The Gulls](https://open.spotify.com/artist/2n0FlGHc3OxI0x2WI39BEc) | [Nothing's Gonna Stop Me Feeling Good](https://open.spotify.com/album/1JHZ601aiZH8AexrDLnxbp) | 3:00 | 2023-10-06 |  |
+| [Numb](https://open.spotify.com/track/5rsnfjFFkwpWWKVSYOEjoH) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Numb](https://open.spotify.com/album/6VEMeSXgvoxGKNC8dHOsg5) | 2:13 | 2024-04-12 |  |
 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 | 2022-05-27 | 2023-02-25 |
 | [Oak Tree](https://open.spotify.com/track/47dOtJjjwVkbKW244db2dE) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/1yqDoOZkNFPbZVwELwWieW) | 3:00 | 2021-12-17 | 2022-06-12 |
 | [Oceans Of Emotions](https://open.spotify.com/track/4h9K8ufTOzHaEclmep5Cd4) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Oceans Of Emotions](https://open.spotify.com/album/6QWKqhxWcYma5iHK9oS4Vq) | 3:53 | 2023-02-17 | 2023-04-09 |
@@ -275,7 +277,8 @@
 | [So Long Savior](https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 2:39 | 2022-09-09 |  |
 | [So Much Fun](https://open.spotify.com/track/1slkixWBOISrD6xD7LH4U3) | [A.J\. Croce](https://open.spotify.com/artist/5GddXlP15Ktw1aHZEcKGZe) | [So Much Fun](https://open.spotify.com/album/6lP1LTZ6X6bzRigf2HwLFu) | 3:10 | 2022-06-17 |  |
 | [Sober](https://open.spotify.com/track/1s7Max0epbgOzPtsFfh5d6) | [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [Sober](https://open.spotify.com/album/6r25VBzNtDV6OUMV71WbVC) | 2:59 | 2021-12-17 | 2023-09-16 |
-| [Somebody Tryin’ to Hoodoo Me](https://open.spotify.com/track/3Od56s7dbG5gcDVYnSh1RR) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Cherry Red Boots / Somebody Tryin’ To HooDoo Me](https://open.spotify.com/album/12Ms9IQbpfywaJWETeoeBI) | 4:38 | 2023-02-24 |  |
+| [Somebody Tryin’ to Hoodoo Me](https://open.spotify.com/track/0lFVNmrmtrcG5H0ODj8jcT) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Rides On](https://open.spotify.com/album/2lu9WD2gKfgX0YlgP7o2vu) | 4:38 | 2023-10-06 |  |
+| [Somebody Tryin’ to Hoodoo Me](https://open.spotify.com/track/3Od56s7dbG5gcDVYnSh1RR) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Cherry Red Boots / Somebody Tryin’ To HooDoo Me](https://open.spotify.com/album/12Ms9IQbpfywaJWETeoeBI) | 4:38 | 2023-02-24 | 2024-04-13 |
 | [Sorry You're Blue](https://open.spotify.com/track/2wjepWIiTprtyqH3yvAAqT) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Sorry You're Blue](https://open.spotify.com/album/4c2fvHVg0Ogsd1HdbLhMG0) | 2:30 | 2024-03-08 |  |
 | [Soul Searching](https://open.spotify.com/track/3hpZLgDKo3wrQ5PLwaNZyI) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Soul Searching](https://open.spotify.com/album/32KrKYPFcywOHSorWmlp6o) | 3:57 | 2022-10-14 | 2022-11-12 |
 | [Souled Out On You](https://open.spotify.com/track/4eTRBRseRwBDOlT5TeNyTH) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Souled Out On You](https://open.spotify.com/album/50BIR8Bg2W5OifAUjmRviK) | 3:33 | 2021-12-17 | 2022-06-11 |

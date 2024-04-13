@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowych kawałki w tej chwili\. Cover: Oki
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,507 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,765 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [WODA SODOWA](https://open.spotify.com/track/4cbr5VQHWMqvlMTPSa7da4) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd) | [WODA SODOWA](https://open.spotify.com/album/2u0sFR6DO8TAyNSJSMiStV) | 2:35 |
-| 2 | [Offwhite](https://open.spotify.com/track/75rO8VUFuUUsuLmpf1p6rk) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT), [DKanee](https://open.spotify.com/artist/4ixbLtejEaAWMmgOxKKew6) | [Offwhite](https://open.spotify.com/album/3FhUHjFhhWguRwjfoq68x1) | 2:22 |
+| 2 | [Offwhite](https://open.spotify.com/track/75rO8VUFuUUsuLmpf1p6rk) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT), [DKanee](https://open.spotify.com/artist/2B1qzhgPVz2eb4M7DxOadz) | [Offwhite](https://open.spotify.com/album/3FhUHjFhhWguRwjfoq68x1) | 2:22 |
 | 3 | [Woda Księżycowa](https://open.spotify.com/track/5QOdYa6XQMdIm6fMYhjHQk) | [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Woda Księżycowa](https://open.spotify.com/album/3RvFmDnX4xSUsjgvHpB0wb) | 3:11 |
 | 4 | [RING RING](https://open.spotify.com/track/3VjDhZl73eK9VgvRQovsmw) | [Waima](https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [YARSKI](https://open.spotify.com/artist/1TY6oc7uiXgpqiiJEidPD6) | [RING RING](https://open.spotify.com/album/4qmp6ahoR0Qhb3JN2wtSPc) | 2:36 |
 | 5 | [Gasolina](https://open.spotify.com/track/4XupoqYkrUSAixBgvcTad8) | [ReTo](https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli) | [Gasolina](https://open.spotify.com/album/582GeWO86vD4RNBmu8WjUa) | 2:33 |

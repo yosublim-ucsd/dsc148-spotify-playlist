@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H?si=qKQwfB1lSJ2l9wiSy8YSiA>Malcolm Rue</a>
 
-2,413 songs - 7 day 8 hr 13 min
+2,415 songs - 7 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Amazing Grace](https://open.spotify.com/track/7Kmx6hcalmcxjPEA9vD2Kh) | [DappyTKeys](https://open.spotify.com/artist/6QHA0Ju1zeevkCUGlFG04w) | [Piano Hymns](https://open.spotify.com/album/0hFKxiAYLjnchQZI3QDqLY) | 3:24 | 2024-03-15 | 2024-03-29 |
 | [Amazing Grace](https://open.spotify.com/track/3D6j6Tc1E8xfzOhYtwZNt4) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Amazing Grace](https://open.spotify.com/album/3vFKgBBOBPQxj8CfICywuR) | 2:37 | 2023-09-29 | 2023-10-14 |
 | [Amazing Grace](https://open.spotify.com/track/6YcO6TKBGWcUNkpPHfeOek) | [Lord Badu](https://open.spotify.com/artist/4jEb6WmKH5T9kxkuSoxQ55) | [Amazing Grace](https://open.spotify.com/album/47W58pKy6wKWTPbHSlOJPl) | 2:22 | 2024-03-22 | 2024-03-29 |
+| [Amazing Grace](https://open.spotify.com/track/5aT1R5O6t9vD38ZH1lpCR2) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa) | [Amazing Grace](https://open.spotify.com/album/3MxhOfWrDc4k7iPWfAaqGY) | 3:42 | 2024-04-12 |  |
 | [Amazing Grace](https://open.spotify.com/track/3q0TBH5kEVVHGBMJ3H2pRj) | [The Matsiko World Orphan Choir](https://open.spotify.com/artist/4yRxWaKfnOplibd6dzOJLE) | [Amazing Grace](https://open.spotify.com/album/7dNm0xYuyO5kkPvYopmezr) | 4:48 | 2023-10-06 | 2023-10-20 |
 | [Amazing Grace \- Acoustic Version](https://open.spotify.com/track/7J5A1iOiNkzMTRnxIPTCKn) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [WINNER WAYS.](https://open.spotify.com/artist/29L1pzmDzW3P2FmQBovIFK) | [Amazing Grace \(Acoustic Version\)](https://open.spotify.com/album/0JqZCfnGPnOwmvdNHGBgf4) | 3:31 | 2024-03-08 | 2024-03-22 |
 | [Amefanya](https://open.spotify.com/track/6uI75Ob2PBGfXLw6NwSAkH) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87), [Anastasia Mukabwa](https://open.spotify.com/artist/4aGIO4v0X0u7qbycmR5YG9), [Solomon Mukubwa](https://open.spotify.com/artist/25Q3rVZVuI2ESBPZEqdZCY) | [Amefanya](https://open.spotify.com/album/0Egz4Ybt0WcPFgzT9lKcNs) | 3:19 | 2023-12-29 | 2024-01-12 |
@@ -1764,6 +1765,7 @@
 | [Provider](https://open.spotify.com/track/2l0MtMrRIvBIwRHfFTJ388) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Provider](https://open.spotify.com/album/08ypCfpeQ2fC2Ej3KL1yLX) | 2:23 | 2023-11-03 | 2023-11-17 |
 | [Prys Die Here](https://open.spotify.com/track/1FHnxk7lCVAi5CiWGrwvKQ) | [RICHELLE GRANT](https://open.spotify.com/artist/5ngimDhvnW2WdAOASWoP9H) | [Prys Die Here](https://open.spotify.com/album/034UIijSn7w6Ow3r7kuYk1) | 3:46 | 2024-03-01 | 2024-03-08 |
 | [Psalm 20:1\-5 \- Acoustic Version](https://open.spotify.com/track/3gyq3qz1qQ2cmzk9KzbaWq) | [Dbilovd](https://open.spotify.com/artist/5xvyAXQfTzG95lXHos2ZDn) | [Psalm 20:1\-5](https://open.spotify.com/album/0KoLUUG7wBqFkfYqjGKtYr) | 3:57 | 2024-02-16 | 2024-02-23 |
+| [Psalms 23](https://open.spotify.com/track/5r1Szh29yffvwkf3af6kmk) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2), [Ibquake](https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u) | [Psalms 23](https://open.spotify.com/album/77na3WEu647Ki6SMLUyj3c) | 1:46 | 2024-04-12 |  |
 | [Psalms 23](https://open.spotify.com/track/3evuabI5Ld2V6EAAywWgG4) | [M.W.L.F](https://open.spotify.com/artist/6DcJ3lBmR3vC2viu299Srb), [Nande Mzaidume](https://open.spotify.com/artist/5JAsF8Z2VBpMJwkPmvNYJq) | [Psalms 23](https://open.spotify.com/album/7jwOdUQu8sQ7qeCHBT195c) | 2:02 | 2023-12-15 | 2023-12-30 |
 | [Psalms 23](https://open.spotify.com/track/4unJHN20GmLQHSJ0HeOiJK) | [Worship Nation](https://open.spotify.com/artist/50nfiM5DcM0J1XFaO3Osul) | [Great Things](https://open.spotify.com/album/03De4qc1Kc4HiNlTGe2tY3) | 5:03 | 2024-03-08 | 2024-03-16 |
 | [Pull Up](https://open.spotify.com/track/07lKUCc7um3tAQSigQJJS2) | [Glitzbeatz](https://open.spotify.com/artist/6STIHlNG2q6dwVWkccjvVK), [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Pull Up](https://open.spotify.com/album/6ezrYKvkpsI3FO2QOxqkwv) | 2:16 | 2024-01-19 | 2024-02-02 |

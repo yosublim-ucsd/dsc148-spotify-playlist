@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Rhyan Douglas
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,118 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,121 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 37 | [Rot My Teeth](https://open.spotify.com/track/3PGQCE4zFN6QCM1NBKHNbf) | [Sara Sloan](https://open.spotify.com/artist/0HqD7L1K0yANRk0geft2EV) | [Mourning Myth](https://open.spotify.com/album/40Vt4i7A5fjg79i1QH6chF) | 5:13 |
 | 38 | [JOLIGENTIL](https://open.spotify.com/track/622aeJLMWkE4lkkmoWNUFC) | [KROY](https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX) | [BLOODMOON](https://open.spotify.com/album/570Dv2BkqT7E8ZStfpNi1Y) | 4:16 |
 | 39 | [Lalalala](https://open.spotify.com/track/2i2IqwDNYuZj5rdMkJhdHF) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol), [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg), [PRIMO](https://open.spotify.com/artist/1b0KsC0utT7mnfZSQXQ9iP) | [Lalalala](https://open.spotify.com/album/3s7J1XOeBX15IXhh025coY) | 2:50 |
-| 40 | [Fireball](https://open.spotify.com/track/7IGLY0LhYBVcljx6D1YN62) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Fireball](https://open.spotify.com/album/3roFTNIDiw3v277J3Ytp9d) | 2:59 |
+| 40 | [Fireball](https://open.spotify.com/track/6WmR01Wh7GPqF6fqzQX4s5) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Fireball](https://open.spotify.com/album/2ymtr3oRXo6vBOYQhYSQ2v) | 2:59 |
 | 41 | [No Mistakes](https://open.spotify.com/track/1cFV3f8EhiXVUQvlgc64sR) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [No Mistakes](https://open.spotify.com/album/2RAPvJ2TxdlTOMZOcJOVTI) | 2:34 |
 | 42 | [Cat's Cradle](https://open.spotify.com/track/2uTX6lmVcYJLQ2lvcKrBC3) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [Cat's Cradle](https://open.spotify.com/album/0cOQJrvjyz0PNB9608H8C0) | 3:50 |
 | 43 | [Rouge à lèvres](https://open.spotify.com/track/0HgHk6fXRi0CuYnhahRtxH) | [Alix Fernz](https://open.spotify.com/artist/2X6rdYH1hHl3TXQCbEqOZQ) | [Rouge à lèvres](https://open.spotify.com/album/1kZoT8CcY3Yrva4uAwGN1R) | 3:26 |

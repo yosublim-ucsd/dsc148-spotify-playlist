@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance for 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-421 songs - 23 hr 52 min
+423 songs - 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Black Light](https://open.spotify.com/track/6XsjMGPp015u8Ykod0KMUj) | [SJAY Music](https://open.spotify.com/artist/3EwtOLCqfnvcF2CY9b64gN), [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Black Light](https://open.spotify.com/album/6RL4nOMfiTDBjhzRnpiMas) | 2:55 | 2022-05-20 |  |
 | [Bleecker](https://open.spotify.com/track/5GHXtGjgoX5EKQTiuNX6Fc) | [ALBA](https://open.spotify.com/artist/5MKM7cNYL4SIuIe6q4Qd1p) | [Bleecker](https://open.spotify.com/album/3E7WTyyZV0bx1EcLJFQQDh) | 3:30 | 2023-08-18 | 2023-12-14 |
 | [Bliss](https://open.spotify.com/track/0fc0Asyn18uW8soZ3bhFS7) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Bliss](https://open.spotify.com/album/72vTCgZbrVnszdSeWQ6ajA) | 2:59 | 2020-12-18 | 2021-03-06 |
+| [Body](https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB) | [Nathan C](https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Body](https://open.spotify.com/album/3TWWMgB3Jro6ei4vSBFwEa) | 3:24 | 2024-04-12 |  |
 | [Body 2 Body \- 6am Remix](https://open.spotify.com/track/0TdPfmZ2ZJGwNXXembBO0T) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Body 2 Body \(Remixes\)](https://open.spotify.com/album/6aQ0edKuYRIOHUjfvwFkCt) | 3:59 | 2020-09-13\* |  |
 | [Bonfire](https://open.spotify.com/track/736VDbKKgjzvPOoKjjti4R) | [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb) | [Bonfire](https://open.spotify.com/album/7uyq1nL0DNCkotUWloVM0F) | 3:58 | 2023-04-28 |  |
 | [Breath By Breath](https://open.spotify.com/track/4HSEJ8rmp21rUtqE9CNxFh) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [Clara Sofie](https://open.spotify.com/artist/1adncZQpQ0JKUUCTJyPho4) | [Breath By Breath](https://open.spotify.com/album/7MN6dH9Z4vipp4K8wQ6N1T) | 2:40 | 2020-09-13\* | 2021-06-12 |
@@ -211,6 +212,7 @@
 | [Look into My Eyes](https://open.spotify.com/track/30OO2ybk8qPzgy5H8P4NeU) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Look into My Eyes](https://open.spotify.com/album/5kfjwMJQlgtWpXJ6XWJp2m) | 2:34 | 2021-07-24 | 2021-11-11 |
 | [Lose My Mind \(feat\. Bipolar Sunshine\)](https://open.spotify.com/track/5tmHc2HW2xaMkUmI4s15nC) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Lose My Mind \(feat\. Bipolar Sunshine\)](https://open.spotify.com/album/7HQsaFGNwdn1DagZm6lfqV) | 2:46 | 2021-06-05 | 2021-07-17 |
 | [Losing Focus](https://open.spotify.com/track/11NiMOI4g4VnTAi5qqTCA7) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz), [David Pietras](https://open.spotify.com/artist/4gzWHCBn6PjkGbWUp0kmEc) | [Losing Focus](https://open.spotify.com/album/7sXrMnaxr95R2q5ihxC4zu) | 2:30 | 2021-03-06 | 2021-04-24 |
+| [Losing Game](https://open.spotify.com/track/3tCA2JJ8Udtnry8BIMQijU) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Enter](https://open.spotify.com/album/519cygxrNzWY4C3hyTdMHk) | 4:00 | 2024-04-12 |  |
 | [Lost](https://open.spotify.com/track/5WYNZf8enqbyPk4bKXKpou) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Lost](https://open.spotify.com/album/0ksXLhcJTB8DLxoEFnV93Z) | 3:26 | 2022-02-25 | 2022-03-12 |
 | [Lost in You](https://open.spotify.com/track/41JyJ75Wf7NOIP3lk3JaNH) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Thandi](https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj) | [Lost in You](https://open.spotify.com/album/13gn0rNGUlOHhZbnG76PAW) | 3:01 | 2022-12-09 |  |
 | [Lost Time](https://open.spotify.com/track/2kf4G153Qt8MR6Hv6t7NzS) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Lost Time EP](https://open.spotify.com/album/5dKSpFOUope79HvRizNhMX) | 3:40 | 2021-06-12 | 2021-07-17 |

@@ -521,6 +521,28 @@
     },
     {
       "album": {
+        "name": "Evening Piano - Chopin: Nocturne No. 21 in C Minor, Op. Posth.",
+        "url": "https://open.spotify.com/album/64d96qQJ3hBHx6vvAr7ksJ"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Faz\u0131l Say",
+          "url": "https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193266,
+      "name": "Chopin: Nocturne No. 21 in C Minor, Op. Posth.",
+      "url": "https://open.spotify.com/track/0OZftmWNkDJDdxjCvSSbGa"
+    },
+    {
+      "album": {
         "name": "Handel: Organ Concertos, Op. 7",
         "url": "https://open.spotify.com/album/5OQJ9lv225IZAL4YNVO8L5"
       },
@@ -1300,6 +1322,32 @@
       "duration_ms": 250933,
       "name": "Music for a While (from Oedipus, Z. 583)",
       "url": "https://open.spotify.com/track/2gqSse5NXNCpk898aExGqT"
+    },
+    {
+      "album": {
+        "name": "Myrthen, Op. 25: No. 24 - Du bist wie eine Blume",
+        "url": "https://open.spotify.com/album/0K7M942rxV2r60HwRJnxwD"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Pablo Ferrandez",
+          "url": "https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt"
+        },
+        {
+          "name": "Julien Quentin",
+          "url": "https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101906,
+      "name": "Myrthen, Op. 25: No. 24 - Du bist wie eine Blume",
+      "url": "https://open.spotify.com/track/30zhs5LCgnAVZWwlPhsfxS"
     },
     {
       "album": {

@@ -1,7 +1,7 @@
 {
-  "2024-04-12": 575661,
+  "2024-04-13": 575861,
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Estopa.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Arde Bogot\u00e1 con Bunbury.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -1811,7 +1811,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 198139,
       "name": "Des\u00e1tame de la Tierra",
       "url": "https://open.spotify.com/track/08KT5VZN2ym35OlWfwJKa1"
@@ -2633,7 +2633,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 229078,
       "name": "El sol no regresa",
       "url": "https://open.spotify.com/track/6pIGuE8MffZRng9ww5hSVG"
@@ -2673,6 +2673,24 @@
       "duration_ms": 305809,
       "name": "El Tranvia Verde",
       "url": "https://open.spotify.com/track/3Vicw4XozrQPiwQqBDbrTR"
+    },
+    {
+      "album": {
+        "name": "EL VOLC\u00c1N",
+        "url": "https://open.spotify.com/album/7kUrFhqkr4cawh1yhjr0lF"
+      },
+      "artists": [
+        {
+          "name": "Combo Paradiso",
+          "url": "https://open.spotify.com/artist/3dCv4VhKSBmWrXGmgz67hz"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246339,
+      "name": "EL VOLC\u00c1N",
+      "url": "https://open.spotify.com/track/6aP14Dojz4IGPT6BNiYkla"
     },
     {
       "album": {
@@ -3753,7 +3771,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 152580,
       "name": "La Poes\u00eda Destruye al Hombre (feat. Carlos Ann, Jose Mar\u00eda Ponce, Bruno Galindo)",
       "url": "https://open.spotify.com/track/6Fl9KWlPtmIXfkv791dK9N"
@@ -3847,6 +3865,28 @@
       "duration_ms": 234106,
       "name": "La rueca",
       "url": "https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk"
+    },
+    {
+      "album": {
+        "name": "La Salvaci\u00f3n",
+        "url": "https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        },
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285480,
+      "name": "La Salvaci\u00f3n",
+      "url": "https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ"
     },
     {
       "album": {
@@ -4190,6 +4230,24 @@
     },
     {
       "album": {
+        "name": "COWBOYS DE LA A3",
+        "url": "https://open.spotify.com/album/0VgV2hz9fHoJBLKbqtj9cn"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229876,
+      "name": "Los Perros",
+      "url": "https://open.spotify.com/track/15zPjWfZ6eUFMaL4aD5Gp8"
+    },
+    {
+      "album": {
         "name": "Lucha de Gigantes",
         "url": "https://open.spotify.com/album/2oKzQjw4cKGz43E2URP5Sk"
       },
@@ -4259,7 +4317,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 243769,
       "name": "Luz de las Velas",
       "url": "https://open.spotify.com/track/2tg9I46DCFUQLaihBCYUdF"
@@ -4277,7 +4335,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 226533,
       "name": "L\u00e1piz y tinta",
       "url": "https://open.spotify.com/track/32tarmPzTWgTZj0NAZz2DH"
@@ -4415,6 +4473,24 @@
       "duration_ms": 220671,
       "name": "Manguara",
       "url": "https://open.spotify.com/track/50H8gCIYQTluajFguz6XSl"
+    },
+    {
+      "album": {
+        "name": "MANOS VAC\u00cdAS",
+        "url": "https://open.spotify.com/album/0o8lyXq6M0PR2ZzsAUX2Oq"
+      },
+      "artists": [
+        {
+          "name": "La Uni\u00f3n",
+          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "MANOS VAC\u00cdAS",
+      "url": "https://open.spotify.com/track/5vRBR3K4dgnp8SIEE7Rf41"
     },
     {
       "album": {
@@ -5258,6 +5334,24 @@
     },
     {
       "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1SrCXxji6qdDaAcp8E2MLR"
+      },
+      "artists": [
+        {
+          "name": "Kumar Kislo",
+          "url": "https://open.spotify.com/artist/5TJTtM4EhlrA8uEJ1QSrFL"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156197,
+      "name": "PALIQUE",
+      "url": "https://open.spotify.com/track/3isUnEQtuJhx771cMLqcsP"
+    },
+    {
+      "album": {
         "name": "Para No Olvidar",
         "url": "https://open.spotify.com/album/2oXUAq2lYbpdCVkJjDdZQy"
       },
@@ -5881,7 +5975,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 180266,
       "name": "Rock And Roll en la Plaza del Pueblo",
       "url": "https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf"
@@ -6603,6 +6697,28 @@
       "duration_ms": 240814,
       "name": "Te entiendo",
       "url": "https://open.spotify.com/track/6KBgTCipUwiimLNCSal4FZ"
+    },
+    {
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/2LmvNBblKqD2mdaIYE2CDz"
+      },
+      "artists": [
+        {
+          "name": "Revolver",
+          "url": "https://open.spotify.com/artist/0U5P1naxYkkOsbHIGkVU9c"
+        },
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211505,
+      "name": "Te he prometido",
+      "url": "https://open.spotify.com/track/7h8WsXB9ps3LwQQpqOCH7V"
     },
     {
       "album": {

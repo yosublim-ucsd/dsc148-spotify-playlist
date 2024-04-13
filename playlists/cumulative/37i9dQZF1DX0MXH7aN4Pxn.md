@@ -4,7 +4,7 @@
 
 > 
 
-484 songs - 1 day 1 hr 1 min
+485 songs - 1 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Melody](https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Melody](https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg) | 2:47 | 2022-04-15 |  |
 | [messy in heaven](https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [messy in heaven](https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6) | 2:50 | 2024-02-23 |  |
 | [Middle](https://open.spotify.com/track/2UtatN3L6WIB7fultoOKra) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Middle](https://open.spotify.com/album/2KEqAvo0SNgh8IkvfFD15f) | 3:01 | 2023-09-08 | 2023-11-10 |
+| [Million Dollar Bill](https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7) | [Beyond Chicago](https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Million Dollar Bill](https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7) | 2:08 | 2024-04-12 |  |
 | [Million Ways \- Steve Void Remix](https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN), [Steve Void](https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt) | [Million Ways \(Remixes\)](https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s) | 2:22 | 2022-04-15 | 2022-05-25 |
 | [Mind Ur Step \(feat\. Janelle Kroll\)](https://open.spotify.com/track/20xZKFjfRkxG3uQLiDrqZu) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Mind Ur Step](https://open.spotify.com/album/3okPzddWhoeOlFnx9ZvPyn) | 7:44 | 2023-11-10 | 2023-11-12 |
 | [Mini Skirt](https://open.spotify.com/track/4L5aysnpEXU7YtRU8HQ3GI) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Mini Skirt](https://open.spotify.com/album/77EIwM8PC7uBqEqDH6MFW3) | 2:31 | 2023-11-10 | 2024-01-05 |
@@ -389,7 +390,7 @@
 | [Shake That \- Radio Edit](https://open.spotify.com/track/0IRAwx9pi1H9yKph1L5NXm) | [Dansson](https://open.spotify.com/artist/5cV7mrWWeFiDSykEYAqxXI), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Shake That](https://open.spotify.com/album/14epDZDRMsXMcwuxF9RcZU) | 2:42 | 2024-01-17 | 2024-02-23 |
 | [Shine On \- Sammy Porter Remix](https://open.spotify.com/track/1HDFOrOnPsCsaNcamlVHLf) | [Degrees Of Motion](https://open.spotify.com/artist/0KsCD2zWvNNio55SHdC6s7), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Shine On](https://open.spotify.com/album/0DqzU9iwqxhNVn4fezhIaw) | 4:12 | 2022-04-15 | 2022-06-04 |
 | [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 | 2024-02-23 |  |
-| [Signals](https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Signals](https://open.spotify.com/album/51cQuF5mmlX5cHRVIbOBYE) | 2:47 | 2022-04-15 |  |
+| [Signals](https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Signals](https://open.spotify.com/album/51cQuF5mmlX5cHRVIbOBYE) | 2:47 | 2022-04-15 | 2024-04-13 |
 | [SLEEP TONIGHT \(THIS IS THE LIFE\) \- with R3HAB and Sam Feldt](https://open.spotify.com/track/3pt8FTbqdnMyh3r9noAYsQ) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [SLEEP TONIGHT \(THIS IS THE LIFE\) \[with R3HAB and Sam Feldt\]](https://open.spotify.com/album/7CsXgmeC033GlMrmETGDru) | 2:16 | 2024-03-15 |  |
 | [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 | 2024-02-23 |  |
 | [So Much Love \(feat\. Lloyd Wade\)](https://open.spotify.com/track/6Z5rzJ6DefXJCzntIUYCWk) | [Owen Westlake](https://open.spotify.com/artist/2OdSWlu6iOzT4YsRJuvC8I), [Lloyd Wade](https://open.spotify.com/artist/6lxTDIi9n3y6DWmL2w4nUs) | [So Much Love \(feat\. Lloyd Wade\)](https://open.spotify.com/album/1QxUxN95s5TmcCb72fk9cD) | 3:28 | 2022-04-15 | 2023-11-10 |

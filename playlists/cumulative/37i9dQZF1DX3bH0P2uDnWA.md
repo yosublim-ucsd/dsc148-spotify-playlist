@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-364 songs - 20 hr 46 min
+365 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Code Red](https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN) | [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Code Red](https://open.spotify.com/album/78qGqKcqqQVg3EfLJVnzX9) | 3:48 | 2021-09-03 |  |
 | [Come Again](https://open.spotify.com/track/3o8K7ys9a7YfUIlh1R6Ljr) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [Miss Emmma](https://open.spotify.com/artist/7rnokEFlig5Crhc4GEViUR) | [Come Again](https://open.spotify.com/album/2S5LFqfWZQxxIREtXwpkdi) | 3:24 | 2024-03-15 |  |
 | [Comin' Up Swinging](https://open.spotify.com/track/7KaR0WJwomHKGJWp29m89T) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [Miss Emmma](https://open.spotify.com/artist/7rnokEFlig5Crhc4GEViUR), [Elliot Deutsch](https://open.spotify.com/artist/22JILoTTk3Xfdc2wNwq6Xf) | [Bass Age Big Band](https://open.spotify.com/album/5mjTjPdZzIuMDmJPQu3Ywq) | 3:35 | 2020-10-30 | 2022-10-13 |
+| [Comme ci, comme ça](https://open.spotify.com/track/7fOMXGitBDPOR8aD0Kuvax) | [Pisk](https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc), [Serena Ganci](https://open.spotify.com/artist/40plQdyIR6iYA5lLTJ0vLz) | [Comme ci, comme ça](https://open.spotify.com/album/0WKOxQ7A0U91t62TDtvb6d) | 3:05 | 2024-04-12 |  |
 | [Cookie Monster \- Atom Smith Remix Radio Edit](https://open.spotify.com/track/1uE0kd0NxA9tnybOSI4rHJ) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [Lamuzgueule](https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g) | [Cookie Monster \(Atom Smith Remix\)](https://open.spotify.com/album/2xhOnFUsQM8HDW8WMtXvQs) | 3:28 | 2022-02-25 | 2022-07-28 |
 | [Cookie Monster \- Radio Edit](https://open.spotify.com/track/4zU15t9fJ5J0ERwbS7tGA7) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [LMZG](https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g) | [Cookie Monster \(Atom Smith Remix\)](https://open.spotify.com/album/2A4LLbcPe9eVG7bmBDfuM4) | 3:27 | 2022-11-07 | 2024-03-16 |
 | [Crazy Cat](https://open.spotify.com/track/1WeIE004KxqkSqL9llndbV) | [11 Acorn Lane](https://open.spotify.com/artist/3D8pAbIPK2aPh9VbWjett5) | [Crazy Cat](https://open.spotify.com/album/74GNHd060Ba5P13cwmFHHV) | 2:37 | 2021-03-26 | 2024-03-09 |
@@ -366,7 +367,7 @@
 | [Who’s Evie Now?](https://open.spotify.com/track/2RMboYE8BXPooJpHK6v6Nw) | [Andrew Gerle](https://open.spotify.com/artist/3ItYFOck10exFSS6aJMegS), [DJ Salisbury](https://open.spotify.com/artist/7lnBuvIUqvVmIux4Mf4Kc7), [Pisk](https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc), [Keri René Fuller](https://open.spotify.com/artist/66Jio1SQDMRME7S2WboYPQ) | [Whisper Darkly \(Concept Album\)](https://open.spotify.com/album/1xMpMRN25K3pCVXyj44per) | 3:58 | 2024-02-23 |  |
 | [Why Don't You](https://open.spotify.com/track/2FOPJIJvirxmqIVeAqeTx2) | [Gramophonedzie](https://open.spotify.com/artist/7jHmmW2bBagmzr76ZJW8Bc) | [Why Don't You](https://open.spotify.com/album/4ZfqRwgb84jZYv6SVTYT6X) | 2:51 | 2020-10-30 | 2022-05-14 |
 | [Why Don't You \- Radio Edit](https://open.spotify.com/track/24dr5sIVbMtzBhbXqBUH29) | [Gramophonedzie](https://open.spotify.com/artist/7jHmmW2bBagmzr76ZJW8Bc) | [Why Don't You](https://open.spotify.com/album/5zyTu6rWzl5sh8G5mD8A0P) | 2:50 | 2020-10-30 |  |
-| [Wicked](https://open.spotify.com/track/2FWr5t418BxiNKelwLlxnV) | [Pisk](https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc), [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Wicked](https://open.spotify.com/album/5fQOUYgktMreW8D7uAOzIp) | 3:13 | 2023-06-02 |  |
+| [Wicked](https://open.spotify.com/track/2FWr5t418BxiNKelwLlxnV) | [Pisk](https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc), [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Wicked](https://open.spotify.com/album/5fQOUYgktMreW8D7uAOzIp) | 3:13 | 2023-06-02 | 2024-04-13 |
 | [Wicked Evil \- Spooky Swing Mix](https://open.spotify.com/track/4DPZKhVUVQmYkVyLzb01q9) | [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF) | [Wicked Evil](https://open.spotify.com/album/3FaAsnvQqJuwgtfyxMgbb7) | 3:09 | 2022-10-21 | 2023-11-07 |
 | [Wochenend Und Sonnenschein \(Electro Swing\)](https://open.spotify.com/track/6oFrnNtYCU1oswN3sz5cP4) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Hans Wachsmann](https://open.spotify.com/artist/4FNI6ZBXPuSt2HghuTeZmT) | [Wochenend Und Sonnenschein \(Electro Swing\)](https://open.spotify.com/album/7nkCekFLGh5JbCB3VWHXcU) | 3:02 | 2020-10-30 | 2022-08-06 |
 | [Worldwide](https://open.spotify.com/track/5sjmBbBBXMo5g8GyMTvGm0) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Worldwide](https://open.spotify.com/album/7MzUsDka8FtsPLFn941toY) | 3:03 | 2020-10-30 | 2022-07-01 |

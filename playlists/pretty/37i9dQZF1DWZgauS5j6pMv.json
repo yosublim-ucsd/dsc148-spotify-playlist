@@ -1,13 +1,33 @@
 {
-  "description": "The best of today's funk. Cover: TWRP\n",
-  "num_followers": 319346,
+  "description": "The best of today's funk. Cover: Dabeull\n",
+  "num_followers": 319469,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjI4OTY2MCwwMDAwMDAwMGU5YmNjYjUyZGNlMTVhNmMxZWUxZGMzZmEwMWEyZjJk",
+  "snapshot_id": "MTcxMjg5NDQ2MCwwMDAwMDAwMGRiYjExMGNkNWY5ZDEyMTgwNGMxOTJlMzRhNDllODRh",
   "tracks": [
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Analog Love",
+        "url": "https://open.spotify.com/album/5g9mJsxT9wg3SyBbeAPUmx"
+      },
+      "artists": [
+        {
+          "name": "Dabeull",
+          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
+        },
+        {
+          "name": "Reva DeVito",
+          "url": "https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz"
+        }
+      ],
+      "duration_ms": 253760,
+      "name": "Look In The Mirror",
+      "url": "https://open.spotify.com/track/6rwRf8DFQsadNxevwfUcSX"
+    },
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
@@ -65,24 +85,20 @@
       "url": "https://open.spotify.com/track/69NC8FNTlg78LJG4tTk0eI"
     },
     {
-      "added_at": "2024-03-15 04:01:00",
+      "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "Body Heat",
-        "url": "https://open.spotify.com/album/3x89dH8gykGUMNlvUDz4qu"
+        "name": "Live It Up",
+        "url": "https://open.spotify.com/album/13b4XCQdlFs1V38vEVsxlI"
       },
       "artists": [
         {
-          "name": "Dabeull",
-          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
-        },
-        {
-          "name": "HolyBrune",
-          "url": "https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj"
+          "name": "La Felix",
+          "url": "https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj"
         }
       ],
-      "duration_ms": 201186,
-      "name": "Body Heat",
-      "url": "https://open.spotify.com/track/5SqrG4iYtYJ5Pz02zMIVYo"
+      "duration_ms": 160745,
+      "name": "Live It Up",
+      "url": "https://open.spotify.com/track/2vQba2IJ5M9PDtY8qJ4KSb"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -99,6 +115,26 @@
       "duration_ms": 234330,
       "name": "Keep It High",
       "url": "https://open.spotify.com/track/23xaHEMtIg6AamiSOh5AXI"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "ENGELDULL EP",
+        "url": "https://open.spotify.com/album/6maWuiHoaPS5o67GbFCK9K"
+      },
+      "artists": [
+        {
+          "name": "Engelwood",
+          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
+        },
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "Space Cowgirl",
+      "url": "https://open.spotify.com/track/2S9vlLu8yA1zsfexGaDeAe"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1591,22 +1627,6 @@
     {
       "added_at": "2022-07-15 04:02:00",
       "album": {
-        "name": "Boys Don't Sob",
-        "url": "https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J"
-      },
-      "artists": [
-        {
-          "name": "The Free Label",
-          "url": "https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr"
-        }
-      ],
-      "duration_ms": 176017,
-      "name": "Boys Don't Sob",
-      "url": "https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr"
-    },
-    {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
         "name": "Operation Funk",
         "url": "https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 276401,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Gigantic Energy",
-        "url": "https://open.spotify.com/album/2bIcCEYZZHRgOHZNEicdXw"
-      },
-      "artists": [
-        {
-          "name": "Michael Thurber",
-          "url": "https://open.spotify.com/artist/5zdCcd7nJejwygIgvJzjhf"
-        },
-        {
-          "name": "Huntertones",
-          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
-        }
-      ],
-      "duration_ms": 264072,
-      "name": "Gigantic Energy",
-      "url": "https://open.spotify.com/track/2PRmFMuhCCwa9fNtqRi4M1"
     },
     {
       "added_at": "2023-04-28 04:01:00",

@@ -4,7 +4,7 @@
 
 > Unwind to the real beauty of Instrumentals!
 
-117 songs - 9 hr 28 min
+119 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Across The Ocean](https://open.spotify.com/track/5R1cHabaCTU0atNY249IxR) | [Karsh Kale](https://open.spotify.com/artist/5KNQvpxpsSUsL8Mon7SjYn), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Priya Darshini](https://open.spotify.com/artist/0HBnj5wwxLtAYL6H66jKJV), [Warren Mendonsa](https://open.spotify.com/artist/4h3U9ZOiDOzSUqiKCmrvfn), [Max ZT](https://open.spotify.com/artist/5WXUlwmB9Be8zQRFQAj3mx), [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS), [Currency Audio](https://open.spotify.com/artist/4NWJPLnZxRYQCb2mYOZCR5) | [Across The Ocean](https://open.spotify.com/album/3l7zRvlnVnE8qhGAYIn7iy) | 5:13 | 2022-06-10 |  |
 | [Across the River](https://open.spotify.com/track/4zeqvxUAYmhJGDsQH9oBM8) | [Eashwar Subramanian](https://open.spotify.com/artist/5hmltn4HmYFNVXM9TuvGK7) | [Across the River](https://open.spotify.com/album/1uG7fo8EPPJz6FJ0W4aQuX) | 4:21 | 2022-06-10 |  |
 | [All I Was Thinking Of](https://open.spotify.com/track/45hfMaXmzdvEt92BeCdu8f) | [Rhythm Shaw](https://open.spotify.com/artist/15VQCxbC4rQp2ooxlkd40D) | [Opening Act](https://open.spotify.com/album/5YbOpTHfXOAe90CJobDHp0) | 3:58 | 2022-06-10 |  |
-| [Arabic Crown BGM](https://open.spotify.com/track/7sjWSMqVTtp64OyWQP6mHy) | [Allan Preetham](https://open.spotify.com/artist/5fzwyKrgd74RioG5kFNY03) | [Arabic Crown BGM](https://open.spotify.com/album/3ca4uNqIIyobiFiG9mWWTf) | 1:53 | 2023-08-30 |  |
+| [Arabic Crown BGM](https://open.spotify.com/track/5FhykoWbigkOFNflbNSKO5) | [Allan Preetham](https://open.spotify.com/artist/5fzwyKrgd74RioG5kFNY03) | [Arabic Crown BGM](https://open.spotify.com/album/4nhhhtm9oABsEHKwlf44nu) | 1:53 | 2023-08-30 |  |
+| [Arabic Crown BGM](https://open.spotify.com/track/7sjWSMqVTtp64OyWQP6mHy) | [Allan Preetham](https://open.spotify.com/artist/5fzwyKrgd74RioG5kFNY03) | [Arabic Crown BGM](https://open.spotify.com/album/3ca4uNqIIyobiFiG9mWWTf) | 1:53 | 2023-08-30 | 2024-04-13 |
 | [Ascent](https://open.spotify.com/track/4i6XRMX1DRgJVZIRHjGHYe) | [Alam Khan](https://open.spotify.com/artist/389sPNbjs6Hp0XSCP229JG), [Arjun K\. Verma](https://open.spotify.com/artist/7zRwN2RRNF3NJ0YjBprXDk), [Del Sol Quartet](https://open.spotify.com/artist/5keTow3JGXZRACyDjl2tMH), [Ojas Adhiya](https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ) | [Ascent](https://open.spotify.com/album/6IM9vWv8KvbSg65TlBAFCS) | 1:59 | 2023-08-23 |  |
 | [Awakening The Soul 2](https://open.spotify.com/track/6cqkxzLZNglEN65Kt5hCMF) | [Satish Vyas](https://open.spotify.com/artist/5VjvnatSJPsJtYQIX2qOlV) | [Moods of Yoga \- Asana](https://open.spotify.com/album/7g7ZeAYpbui7XaEEgea1qH) | 17:21 | 2022-06-10 |  |
 | [Back to One](https://open.spotify.com/track/4yEXxzaeY1QfEfRVXTNqi9) | [Chris Jason](https://open.spotify.com/artist/2V2s3Ojx8fA8C0kZhyWmkl) | [Back to One](https://open.spotify.com/album/5r2rB9OynhQbvJeBE24z28) | 3:10 | 2022-06-10 |  |
@@ -119,7 +120,8 @@
 | [Transcend](https://open.spotify.com/track/1dUDWTN2g42sz1yXykCUQn) | [Apoorva Krishna](https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv), [William Cepeda](https://open.spotify.com/artist/0w2oHz4dH8krp7aEc7zTWc) | [Transcend](https://open.spotify.com/album/3Ox4brenAwA37r3RPNoXjB) | 9:37 | 2022-06-10 |  |
 | [Transition](https://open.spotify.com/track/5q2fh6DMLlFQYjjLBCC4I4) | [The Revisit Project](https://open.spotify.com/artist/2yBkLqum2uhfESXbRF9eD9) | [Brown Man's Funk](https://open.spotify.com/album/4iznu2dfLMbDad818PFzLc) | 5:50 | 2022-06-10 |  |
 | [Uncooked Blues](https://open.spotify.com/track/10tlq5YUvPL5b0amy5nUL3) | [Pratik Tushar](https://open.spotify.com/artist/2p1KvPYsNNgLBfLhicmUvG) | [Uncooked Blues](https://open.spotify.com/album/5OoWWUk8HCldCaNslqZhF2) | 2:59 | 2022-06-10 |  |
-| [Unfold](https://open.spotify.com/track/0qgeMWjLSn8O4Lyy22E2Ye) | [Karthick Iyer](https://open.spotify.com/artist/1MwvKygex8H7vb2KqINLxz) | [Unfold](https://open.spotify.com/album/1F3O6qshrBwito065TLN17) | 1:40 | 2023-07-12 |  |
+| [Unfold](https://open.spotify.com/track/0qgeMWjLSn8O4Lyy22E2Ye) | [Karthick Iyer](https://open.spotify.com/artist/1MwvKygex8H7vb2KqINLxz) | [Unfold](https://open.spotify.com/album/1F3O6qshrBwito065TLN17) | 1:40 | 2023-07-12 | 2024-04-13 |
+| [Unfold](https://open.spotify.com/track/7Hi5T3aBjAOIqVdEHM5yn8) | [Karthick Iyer](https://open.spotify.com/artist/1MwvKygex8H7vb2KqINLxz) | [Unfold](https://open.spotify.com/album/4Uylp1WDZNYv75RknH5krr) | 1:40 | 2023-07-12 |  |
 | [Valencia](https://open.spotify.com/track/4u0eNhPfra8m1BpOwtYVRr) | [Apoorva Krishna](https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv) | [Valencia](https://open.spotify.com/album/12WTQanIkVo2kml0e4O2EG) | 4:54 | 2022-06-10 |  |
 | [Varnam](https://open.spotify.com/track/4ZFM5yFsjEzvZ1XmP27L5r) | [Jayanthi Kumaresh](https://open.spotify.com/artist/3Zbm5f0WBZM9ChNuTBbLsT) | [Veenai Jayanthi Kumaresh](https://open.spotify.com/album/4kUGwkHXKBbaLwnqTIrg0J) | 6:34 | 2022-06-10 |  |
 | [Wake up Rama](https://open.spotify.com/track/5bNZHTX9GlngnP0tyRbDZ8) | [Sanjeev T](https://open.spotify.com/artist/4i3H5BsVTVwxXcWC3CdVPu) | [St.](https://open.spotify.com/album/2NBFBbCFVhFDOTAEMZg4kw) | 5:08 | 2022-06-10 |  |

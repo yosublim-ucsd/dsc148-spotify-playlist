@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Kamasi Washington",
+  "description": "New jazz for open minds. Cover: Shabaka",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -120,7 +120,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 154594,
       "name": "15k a show",
       "url": "https://open.spotify.com/track/6GqVr10OBa2dm9EbZiSb8n"
@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 222741,
       "name": "Alien Love Call",
       "url": "https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3"
@@ -4113,6 +4113,44 @@
     },
     {
       "album": {
+        "name": "Brooklyn",
+        "url": "https://open.spotify.com/album/7JxUbI4fiWY2pf9Ne6PmYL"
+      },
+      "artists": [
+        {
+          "name": "Alan Braufman",
+          "url": "https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H"
+        },
+        {
+          "name": "Patricia Brennan",
+          "url": "https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee"
+        },
+        {
+          "name": "James Brandon Lewis",
+          "url": "https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK"
+        },
+        {
+          "name": "Chad Taylor",
+          "url": "https://open.spotify.com/artist/0o8c17fdXpsDbQez6drlmt"
+        },
+        {
+          "name": "Michael Wimberly",
+          "url": "https://open.spotify.com/artist/6bYjLq7gxn1ppARKvClYbk"
+        },
+        {
+          "name": "Ken Filiano",
+          "url": "https://open.spotify.com/artist/2OaNxBGsO4k7VvISKSm38d"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262105,
+      "name": "Brooklyn",
+      "url": "https://open.spotify.com/track/3zxkLLAMtXzowSgohumUy4"
+    },
+    {
+      "album": {
         "name": "The Q Sessions",
         "url": "https://open.spotify.com/album/2HLVQ7b0y9D1wgRUFslaDq"
       },
@@ -6183,6 +6221,40 @@
     },
     {
       "album": {
+        "name": "Departure Guide of the 7 Sisters",
+        "url": "https://open.spotify.com/album/215PoB7RC48UCj4W3lrH1q"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Org",
+          "url": "https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Deantoni Parks",
+          "url": "https://open.spotify.com/artist/1RLjVRaoIxtiVZiV6NNIBX"
+        },
+        {
+          "name": "Jade Hicks",
+          "url": "https://open.spotify.com/artist/15DHnZMl55Hu1NQTbsZgzV"
+        },
+        {
+          "name": "Christopher Bruce",
+          "url": "https://open.spotify.com/artist/4u7aeY3epOljhFvd4dL0vq"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178013,
+      "name": "Departure Guide of the 7 Sisters",
+      "url": "https://open.spotify.com/track/2sAHKiGOGECxnyTy5ROwbZ"
+    },
+    {
+      "album": {
         "name": "Dervish Remixed",
         "url": "https://open.spotify.com/album/0y6312h2vco5VN3C7Z2BTb"
       },
@@ -7324,7 +7396,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 325266,
       "name": "Edge of Time",
       "url": "https://open.spotify.com/track/3fEHcq83c7ZvHkPYu2bWA1"
@@ -11745,6 +11817,28 @@
     },
     {
       "album": {
+        "name": "Perceive Its Beauty, Acknowledge Its Grace",
+        "url": "https://open.spotify.com/album/6vIwPo3D1kZ3ZmlR1fyjm7"
+      },
+      "artists": [
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        },
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279240,
+      "name": "Insecurities (feat. Moses Sumney)",
+      "url": "https://open.spotify.com/track/3IiaROiVHOVkwfX1DCHM31"
+    },
+    {
+      "album": {
         "name": "Different, Us",
         "url": "https://open.spotify.com/album/4wPFAEDNvZIxYT7DzUsaPw"
       },
@@ -12212,7 +12306,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 463080,
       "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
       "url": "https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV"
@@ -12949,6 +13043,28 @@
     },
     {
       "album": {
+        "name": "Kulungile",
+        "url": "https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        },
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346924,
+      "name": "Kulungile",
+      "url": "https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC"
+    },
+    {
+      "album": {
         "name": "Trios: Sacred Thread",
         "url": "https://open.spotify.com/album/1l364boKK5wB6pUhVDDlWo"
       },
@@ -13414,6 +13530,24 @@
       "duration_ms": 344720,
       "name": "Levin's Lope - Karriem Riggins Remix",
       "url": "https://open.spotify.com/track/5g0qIfCyEbc7o2ZjCai5v5"
+    },
+    {
+      "album": {
+        "name": "Libations: Omnyama",
+        "url": "https://open.spotify.com/album/5uTHEvO4Nei1U9zcAfat8c"
+      },
+      "artists": [
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365945,
+      "name": "Libations: Omnyama",
+      "url": "https://open.spotify.com/track/6Bd3QTwgistsqEXT5NfQ7d"
     },
     {
       "album": {
@@ -15338,7 +15472,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 213640,
       "name": "MiNt cHoCoLaTe (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/6Xa3ZCamaDFWBmxOFoR2n8"
@@ -17014,7 +17148,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 406614,
       "name": "Nuyorican Soul",
       "url": "https://open.spotify.com/track/0ZDBZpIt3eUJ6LaApLJSiB"
@@ -17190,7 +17324,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 263502,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/6iwVDKeWEsFCY169JiMnOd"
@@ -21118,7 +21252,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 430240,
       "name": "Seven Years Ago",
       "url": "https://open.spotify.com/track/5CQmhQqbVbEPiRHbvBP0df"
@@ -21710,7 +21844,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 244271,
       "name": "Sleeper",
       "url": "https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd"
@@ -21866,6 +22000,32 @@
       "duration_ms": 183320,
       "name": "Smoke - (Herbs & Teas) - feat. Doelow Da Pilotman",
       "url": "https://open.spotify.com/track/587ljDX1e4oH75XnrdBs6N"
+    },
+    {
+      "album": {
+        "name": "Smooth it Out",
+        "url": "https://open.spotify.com/album/2vuN2O1XavQB2wFvD5HPuA"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Joe Cleveland",
+          "url": "https://open.spotify.com/artist/1OREq1cp67WA7bvs7v1Ogg"
+        },
+        {
+          "name": "Stixx Taylor",
+          "url": "https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156584,
+      "name": "Smooth it out",
+      "url": "https://open.spotify.com/track/1jPVXZmIJonOnwbMFPFg9V"
     },
     {
       "album": {
@@ -25085,6 +25245,32 @@
     },
     {
       "album": {
+        "name": "The Love Unable To Give",
+        "url": "https://open.spotify.com/album/3IesjxTncFE8uz7cclt8ov"
+      },
+      "artists": [
+        {
+          "name": "Marta S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/13Q96ODlHbb2ZsvGVHn2Yr"
+        },
+        {
+          "name": "Chris Tordini",
+          "url": "https://open.spotify.com/artist/48Av0vPxo6HDpT2fT1CsZg"
+        },
+        {
+          "name": "Savannah Harris",
+          "url": "https://open.spotify.com/artist/4jegaZpCVuyTZBatyqB7vc"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269853,
+      "name": "The Love Unable To Give",
+      "url": "https://open.spotify.com/track/3k7sByGH1pZj3Sh7Nqe0kz"
+    },
+    {
+      "album": {
         "name": "The Mental Traveller (Triorit\u00e4t Session)",
         "url": "https://open.spotify.com/album/3ftYtVKXqPUONIPbBjtL2S"
       },
@@ -25895,6 +26081,36 @@
     },
     {
       "album": {
+        "name": "Third Dream",
+        "url": "https://open.spotify.com/album/3xHsyjl4KaPfnSleD6Nu6L"
+      },
+      "artists": [
+        {
+          "name": "Dave Douglas",
+          "url": "https://open.spotify.com/artist/3SQrLX0O6RbBjmSIkwCgJb"
+        },
+        {
+          "name": "Ian Chang",
+          "url": "https://open.spotify.com/artist/4nxKL1oZc0tYGkELxf2e1u"
+        },
+        {
+          "name": "Rafiq Bhatia",
+          "url": "https://open.spotify.com/artist/29uBPqNiTiQxmLadKstqWP"
+        },
+        {
+          "name": "James Brandon Lewis",
+          "url": "https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231480,
+      "name": "Third Dream",
+      "url": "https://open.spotify.com/track/4nspPTbkJ6AmhuqyexwJYo"
+    },
+    {
+      "album": {
         "name": "This Masquerade",
         "url": "https://open.spotify.com/album/1beCKoEjJcFKjXy72TNRes"
       },
@@ -26415,6 +26631,24 @@
     },
     {
       "album": {
+        "name": "Triptyque",
+        "url": "https://open.spotify.com/album/7x0kN2hPM9KjbCXhfqP41i"
+      },
+      "artists": [
+        {
+          "name": "Alune Wade",
+          "url": "https://open.spotify.com/artist/7z8khF1UMs48mtkh4xibRy"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237205,
+      "name": "Triptyque",
+      "url": "https://open.spotify.com/track/23qDKLLjRPFyB8AHw6Zjd3"
+    },
+    {
+      "album": {
         "name": "Tripwire",
         "url": "https://open.spotify.com/album/0J8hkqn1VTOmrpoMewsrTh"
       },
@@ -26622,7 +26856,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 344226,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/7CrwpvLYTTJW9eA6qmFKyh"
@@ -28416,6 +28650,24 @@
       "duration_ms": 127706,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/3AniDSYZmzsDI06ENTimiz"
+    },
+    {
+      "album": {
+        "name": "Motionation",
+        "url": "https://open.spotify.com/album/6tOvkErsqwykWt7muOGEhD"
+      },
+      "artists": [
+        {
+          "name": "Huntertones",
+          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212293,
+      "name": "Wonder Boy",
+      "url": "https://open.spotify.com/track/5hPmsVirHEtxjdJKUGYGjP"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 12342,
+  "2024-04-13": 12361,
   "date_first_scraped": "2022-10-01",
   "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=CEXFG5fgQZK_MEQ_CmLGvQ\"> Khaligraph Jones </a> ",
   "name": "254 Flow",
@@ -373,7 +373,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 123428,
       "name": "Big Makamasi",
       "url": "https://open.spotify.com/track/1vIsMO3ZjadxOWvo93UyKS"
@@ -996,6 +996,32 @@
     },
     {
       "album": {
+        "name": "MZIZA KWA DIMANGA",
+        "url": "https://open.spotify.com/album/5CsOKEM6jMlGIlLcfz2iBh"
+      },
+      "artists": [
+        {
+          "name": "4Mr Frank White",
+          "url": "https://open.spotify.com/artist/7dSC3dZMaGQPFNG4ABAzL6"
+        },
+        {
+          "name": "BigMan",
+          "url": "https://open.spotify.com/artist/0RUZcsYqLfJvpy8OPVrkJp"
+        },
+        {
+          "name": "Sabi Wu",
+          "url": "https://open.spotify.com/artist/0Lb6QZKrLMSzlcljXexbtB"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175333,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/467ctHllRGbSRoAGrVVxtN"
+    },
+    {
+      "album": {
         "name": "THIS YEAR NEXT YEAR",
         "url": "https://open.spotify.com/album/4yDcMSzMAHd5H5hXDAaCnM"
       },
@@ -1199,6 +1225,28 @@
       "duration_ms": 148759,
       "name": "From The Bottom",
       "url": "https://open.spotify.com/track/2qDbw8aI6X82m8o1B19w8D"
+    },
+    {
+      "album": {
+        "name": "FULLY AUTO",
+        "url": "https://open.spotify.com/album/6rhjrlf9O047H5Z5GyXo8X"
+      },
+      "artists": [
+        {
+          "name": "Storyteller Sam",
+          "url": "https://open.spotify.com/artist/2fPoc0IkxF7Y64uDy1O99x"
+        },
+        {
+          "name": "NIGGA SHAWN",
+          "url": "https://open.spotify.com/artist/7a05bd7Aa7CPqmjvlEfPt9"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229067,
+      "name": "FULLY AUTO",
+      "url": "https://open.spotify.com/track/6Zph2tvaXvf1jyzzGFKCqf"
     },
     {
       "album": {
@@ -1647,7 +1695,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 253988,
       "name": "Jomo",
       "url": "https://open.spotify.com/track/4yJfiuzjUkkoIKDhdg1cEf"

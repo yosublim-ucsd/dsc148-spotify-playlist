@@ -1,211 +1,451 @@
 {
-  "description": "A free space for Indigenous creators. Currently curated by FONTINE.",
-  "num_followers": 54078,
+  "description": "A free space for Indigenous creators. Currently curated by Florent Vollant.",
+  "num_followers": 54095,
   "original_name": "Indigenous",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcwOTg3NDAwMCwwMDAwMDAwMDdmYTM5ZTJhMWY0YTMxYTQzNzMyMzdjM2U5ZTQ2YTZl",
+  "snapshot_id": "MTcxMjg5NDQwMCwwMDAwMDAwMDk2NWYyNmNkMzIwNDA1NDM1MzA2OTQyZDYxMjg4MTk5",
   "tracks": [
     {
-      "added_at": "2024-03-08 05:00:00",
+      "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Yarrow Lover",
-        "url": "https://open.spotify.com/album/5xvA5UBWlnkwaKUqKMWgyU"
+        "name": "Tshitatau",
+        "url": "https://open.spotify.com/album/7sxmyo17HxVqeZ65RSOS5t"
       },
       "artists": [
         {
-          "name": "FONTINE",
-          "url": "https://open.spotify.com/artist/4uFbZzF7cNxNcxIQdF1BWy"
+          "name": "Florent Vollant",
+          "url": "https://open.spotify.com/artist/46yst9cUnaE2cftTAxwFSp"
         }
       ],
-      "duration_ms": 180527,
-      "name": "Homemaker",
-      "url": "https://open.spotify.com/track/5J49qx8DeBQGi173ikPMoA"
+      "duration_ms": 203935,
+      "name": "Tshitatau",
+      "url": "https://open.spotify.com/track/0gmHSJcLLllg525W2tPeNo"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
+      "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Bobtail Road",
-        "url": "https://open.spotify.com/album/37pFeBTwztjSqMzYqTcEqV"
+        "name": "Utenat",
+        "url": "https://open.spotify.com/album/5Rjt8pAtA42H4wivAO7qFZ"
       },
       "artists": [
         {
-          "name": "Wyatt C. Louis",
-          "url": "https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB"
+          "name": "Maten",
+          "url": "https://open.spotify.com/artist/00PhJFghTO58e6Je0DiPh9"
+        },
+        {
+          "name": "Black Bear",
+          "url": "https://open.spotify.com/artist/6QX3MVXjxAWunnsH7NjTri"
         }
       ],
-      "duration_ms": 212183,
-      "name": "Bobtail Road",
-      "url": "https://open.spotify.com/track/5kPu5GCBKldjAy2sMgU2bU"
+      "duration_ms": 216926,
+      "name": "Nitepuatauat",
+      "url": "https://open.spotify.com/track/3GkSeLkX4pIpoKg6n50Ix2"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
+      "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/4QWfrWnmJj6nzi65fFCnuJ"
+        "name": "Nanto",
+        "url": "https://open.spotify.com/album/4mxHLloJiV7XWTN6F1TYMD"
       },
       "artists": [
         {
-          "name": "Caley Watts",
-          "url": "https://open.spotify.com/artist/1UEaSQZqsJcuaDQfvz6mp2"
+          "name": "Pako",
+          "url": "https://open.spotify.com/artist/7DnmzJG2D5iYhmLjr9579C"
         }
       ],
-      "duration_ms": 271394,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/4H3ZlQrNRbqVXyJxHOrksT"
+      "duration_ms": 237066,
+      "name": "Ni coriawoc",
+      "url": "https://open.spotify.com/track/7vaMWsw0vZD0GIJZUYwo73"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
+      "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Reliever",
-        "url": "https://open.spotify.com/album/6f6IZDYwtBOGjJZxBiRUhF"
+        "name": "Gilles C. Sioui & The Midnight Riders",
+        "url": "https://open.spotify.com/album/2Oj9r5DJuAepHnE8rPkbpZ"
       },
       "artists": [
         {
-          "name": "William Prince",
-          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+          "name": "Gilles C. Sioui",
+          "url": "https://open.spotify.com/artist/4xuTr2AQ1m0aCqaZrHHBw7"
         }
       ],
-      "duration_ms": 310946,
-      "name": "Always Have What We Had",
-      "url": "https://open.spotify.com/track/0IZ7ls2pATNpqd6lo0x9qH"
+      "duration_ms": 408053,
+      "name": "Bound For A Change ( Letter To Dolly )",
+      "url": "https://open.spotify.com/track/4vUQTMrkyOXBheBEhncQfr"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
+      "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Tropical Sour Candy / Fine (Golden Hour Versions)",
-        "url": "https://open.spotify.com/album/0pjA4vSKcyaQ737QulFkTo"
+        "name": "Inuktitut",
+        "url": "https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP"
       },
       "artists": [
         {
-          "name": "Cassidy Mann",
-          "url": "https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu"
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
         }
       ],
-      "duration_ms": 215469,
-      "name": "Tropical Sour Candy - Golden Hour Version",
-      "url": "https://open.spotify.com/track/21w6McGPy3LBOIXgwkiZDJ"
+      "duration_ms": 238288,
+      "name": "Uummati Attanarsimat (Heart of Glass)",
+      "url": "https://open.spotify.com/track/4GgQWuxZL8qbZUHHA0wWuI"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
+      "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Bold as Logs",
-        "url": "https://open.spotify.com/album/60OOJVCtpUU93VNpzonfg3"
+        "name": "Face \u00e0 soi-m\u00eame",
+        "url": "https://open.spotify.com/album/6daOlew1CMzbQgNEvGg0PL"
       },
       "artists": [
         {
-          "name": "Andrina Turenne",
-          "url": "https://open.spotify.com/artist/432ebpgngn6uT9eHVOUHQv"
+          "name": "Samian",
+          "url": "https://open.spotify.com/artist/4R9opfaSnt6ApDaiJb3zw6"
+        },
+        {
+          "name": "Florent Vollant",
+          "url": "https://open.spotify.com/artist/46yst9cUnaE2cftTAxwFSp"
         }
       ],
-      "duration_ms": 269207,
-      "name": "Tour du monde",
-      "url": "https://open.spotify.com/track/4IGi6riZQdMJTKoT44CLbZ"
+      "duration_ms": 222053,
+      "name": "Sur le dos d'une tortue",
+      "url": "https://open.spotify.com/track/6EzHzaKGUdLYAowkAmY9aM"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
+      "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Songs For My People",
-        "url": "https://open.spotify.com/album/3IFLpjfPJNHF2MjonXOnzc"
+        "name": "AIAMIEU",
+        "url": "https://open.spotify.com/album/21gQTPoUz7nPidsyDwHB5L"
       },
       "artists": [
         {
-          "name": "Shane Ghostkeeper",
-          "url": "https://open.spotify.com/artist/7lIol35GIXSPiI3EiOqkxY"
+          "name": "DJ UNPIER",
+          "url": "https://open.spotify.com/artist/03NRcwTsOiqNIr0ND9wfWB"
+        },
+        {
+          "name": "Ninan",
+          "url": "https://open.spotify.com/artist/3ERXkMlI9khEvuU4DJTRgG"
         }
       ],
-      "duration_ms": 280524,
-      "name": "Sunbeam",
-      "url": "https://open.spotify.com/track/1zi5fVwdccC7K33py9xyfI"
+      "duration_ms": 285818,
+      "name": "AIAMIEU",
+      "url": "https://open.spotify.com/track/3VAmyUS72bTrluIqoWaD6j"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
+      "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Fox",
-        "url": "https://open.spotify.com/album/1Z3wNgAS4ypvV4HYrmAUFa"
+        "name": "Tshi nashkumitinan On vous remercie Thank you (Compilation)",
+        "url": "https://open.spotify.com/album/2Zt8HjqoI2dLKMOpd8jfWk"
+      },
+      "artists": [
+        {
+          "name": "Petapan",
+          "url": "https://open.spotify.com/artist/5XimImrLy6ye73MRPjMWuF"
+        }
+      ],
+      "duration_ms": 255216,
+      "name": "Kanatuut",
+      "url": "https://open.spotify.com/track/0xe8BltGrL4HqoDRnsgiWP"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Tipatshimushtunan",
+        "url": "https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy"
+      },
+      "artists": [
+        {
+          "name": "Matiu",
+          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
+        }
+      ],
+      "duration_ms": 245640,
+      "name": "40h semaine",
+      "url": "https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Tshitatau",
+        "url": "https://open.spotify.com/album/7sxmyo17HxVqeZ65RSOS5t"
+      },
+      "artists": [
+        {
+          "name": "Florent Vollant",
+          "url": "https://open.spotify.com/artist/46yst9cUnaE2cftTAxwFSp"
+        }
+      ],
+      "duration_ms": 187129,
+      "name": "Ashuapami",
+      "url": "https://open.spotify.com/track/5Ohkd33e5crDYb6O87n0Nt"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Music Is the Medicine",
+        "url": "https://open.spotify.com/album/3rKd1eacDBKToUM2yJUnfW"
+      },
+      "artists": [
+        {
+          "name": "Derek Miller",
+          "url": "https://open.spotify.com/artist/3tabavepzPNS1GfI72AedM"
+        }
+      ],
+      "duration_ms": 291000,
+      "name": "Someone Call an Angel Down",
+      "url": "https://open.spotify.com/track/6Uvn68XWVZqCMzvNCmE7WM"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "My All To You",
+        "url": "https://open.spotify.com/album/6meWLme3zfqggs1SfGOwIh"
       },
       "artists": [
         {
           "name": "Beatrice Deer",
           "url": "https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe"
+        }
+      ],
+      "duration_ms": 211489,
+      "name": "Immutaa",
+      "url": "https://open.spotify.com/track/5Q9v0cy6iqc4VvCtDpUnPk"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Innu auass",
+        "url": "https://open.spotify.com/album/0ncykYuyqzbIhI1kmk7qS8"
+      },
+      "artists": [
+        {
+          "name": "Ninan",
+          "url": "https://open.spotify.com/artist/3ERXkMlI9khEvuU4DJTRgG"
+        }
+      ],
+      "duration_ms": 245950,
+      "name": "Innu-auass",
+      "url": "https://open.spotify.com/track/2iqlC5fMZeZuXvFLoOAiXe"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Natukun",
+        "url": "https://open.spotify.com/album/3zhLQ4IDmwmKcACbRU9zNW"
+      },
+      "artists": [
+        {
+          "name": "Shauit",
+          "url": "https://open.spotify.com/artist/7yWp3RPwRrklkXYWINFqBc"
+        }
+      ],
+      "duration_ms": 301750,
+      "name": "tshishpetenitakushin",
+      "url": "https://open.spotify.com/track/3CIqHFIkxqmnKN07KJAvS1"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Tshe minupunanu",
+        "url": "https://open.spotify.com/album/2uceOZsLGJTEm7NQjgPGfE"
+      },
+      "artists": [
+        {
+          "name": "\u00c9mile Bilodeau",
+          "url": "https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu"
         },
         {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+          "name": "Scott-Pien Picard",
+          "url": "https://open.spotify.com/artist/0J1gu80owc4vKFGUr78k7E"
+        },
+        {
+          "name": "Maten",
+          "url": "https://open.spotify.com/artist/00PhJFghTO58e6Je0DiPh9"
         }
       ],
-      "duration_ms": 211903,
-      "name": "Fox (feat. Johnny Griffin)",
-      "url": "https://open.spotify.com/track/5RtVuxs0ciPmU1pnh8iAeE"
+      "duration_ms": 230581,
+      "name": "Tshe minupunanu",
+      "url": "https://open.spotify.com/track/1SPoPSwGya3pycdKaIchnC"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
+      "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Big Deep Sigh",
-        "url": "https://open.spotify.com/album/2kL3BzvtLeSEN1uBqvWiA0"
+        "name": "PEKUAIAPU",
+        "url": "https://open.spotify.com/album/0nST396yMeFu8mECv5zzzA"
       },
       "artists": [
         {
-          "name": "Tinge",
-          "url": "https://open.spotify.com/artist/32BCB3jXtUYI6Hra1cw6Mi"
+          "name": "Scott-Pien Picard",
+          "url": "https://open.spotify.com/artist/0J1gu80owc4vKFGUr78k7E"
         }
       ],
-      "duration_ms": 202474,
-      "name": "Native Tongue",
-      "url": "https://open.spotify.com/track/7AwFPHpQYxLfjJIP86FCFV"
+      "duration_ms": 255030,
+      "name": "Uauitamaku",
+      "url": "https://open.spotify.com/track/2hWfPT1EduI2nmQjmNGuW4"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
+      "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Adult Swim",
-        "url": "https://open.spotify.com/album/5DpXAgQPCAkbjoNUGICXTb"
+        "name": "Mukuuin",
+        "url": "https://open.spotify.com/album/6U8xS5uvMy8bD6ErzK4WMn"
       },
       "artists": [
         {
-          "name": "Ruby Waters",
-          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+          "name": "Claude McKenzie",
+          "url": "https://open.spotify.com/artist/6mQxVMXmQumHSbY96HiMjY"
         }
       ],
-      "duration_ms": 170081,
-      "name": "Adult Swim",
-      "url": "https://open.spotify.com/track/6ilMAkM2m0gVAqcHykqIxD"
+      "duration_ms": 250580,
+      "name": "Tipatshimun",
+      "url": "https://open.spotify.com/track/5kw33L21hMi37Lz2NnZtfH"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
+      "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/3np0vPfAslCNcAhV4SjrDk"
+        "name": "Karen Pinette-Fontaine",
+        "url": "https://open.spotify.com/album/13PIwmxrdA5g1XuuHzh4iQ"
       },
       "artists": [
         {
-          "name": "Evan Redsky",
-          "url": "https://open.spotify.com/artist/1qZng7TJN7pOHMSUItFB8s"
+          "name": "Kanen",
+          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
         }
       ],
-      "duration_ms": 208173,
-      "name": "You Were Born",
-      "url": "https://open.spotify.com/track/5sa7peZT4N6VJqpaPqM9u4"
+      "duration_ms": 128584,
+      "name": "Tshukain",
+      "url": "https://open.spotify.com/track/0mioZQKSrmTNuRwKWRFoak"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
+      "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Yarrow Lover",
-        "url": "https://open.spotify.com/album/5xvA5UBWlnkwaKUqKMWgyU"
+        "name": "Honor Song",
+        "url": "https://open.spotify.com/album/4MnyNUzWm0sJv1QTgI4Ue8"
       },
       "artists": [
         {
-          "name": "FONTINE",
-          "url": "https://open.spotify.com/artist/4uFbZzF7cNxNcxIQdF1BWy"
+          "name": "Jeremy Dutcher",
+          "url": "https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f"
         }
       ],
-      "duration_ms": 261058,
-      "name": "Yarrow Lover",
-      "url": "https://open.spotify.com/track/739fZQMhI9vGz2v9FVTWkk"
+      "duration_ms": 200272,
+      "name": "Honor Song",
+      "url": "https://open.spotify.com/track/0hSNRXVi3GODbTigjYJzNQ"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Waska Matisiwin",
+        "url": "https://open.spotify.com/album/0Tm5Exm8H4m2L1HoojSWBG"
+      },
+      "artists": [
+        {
+          "name": "Laura Niquay",
+          "url": "https://open.spotify.com/artist/0pl54zLEvzbyIPj7ork06z"
+        }
+      ],
+      "duration_ms": 186766,
+      "name": "Icpimik - Le sommet, vers le haut",
+      "url": "https://open.spotify.com/track/1rROz5NF2Qw5PObSbimfaK"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Qama'si",
+        "url": "https://open.spotify.com/album/6qZ7GCyl17q98BtutNA0sk"
+      },
+      "artists": [
+        {
+          "name": "Q052",
+          "url": "https://open.spotify.com/artist/2T6gwpmENgpNZTWLJ2bKVE"
+        }
+      ],
+      "duration_ms": 244909,
+      "name": "Gespeg",
+      "url": "https://open.spotify.com/track/7FVtgWoiZZCTl2eKfCw0Zs"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Ni wi witen",
+        "url": "https://open.spotify.com/album/1xJ1GOsXs4xsMqhGTA3iOS"
+      },
+      "artists": [
+        {
+          "name": "Sakay Ottawa",
+          "url": "https://open.spotify.com/artist/6DeyGQrhOYQVX2UaZURDlI"
+        }
+      ],
+      "duration_ms": 245666,
+      "name": "Mikwetc",
+      "url": "https://open.spotify.com/track/2tKrw6MfcXTlol3HOMcjoe"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Uitamui",
+        "url": "https://open.spotify.com/album/25JmfuV91FiHtzCE5phcp9"
+      },
+      "artists": [
+        {
+          "name": "Dan-Georges Mckenzie",
+          "url": "https://open.spotify.com/artist/68mL5zdhhEli5uyDe0tlWm"
+        }
+      ],
+      "duration_ms": 218265,
+      "name": "Eka Patshitenimu",
+      "url": "https://open.spotify.com/track/3MlZfcV2aXIEwii8aYJ6eK"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "THE 27A's",
+        "url": "https://open.spotify.com/album/4m3jcbKcelHXuz8BnttWk9"
+      },
+      "artists": [
+        {
+          "name": "Native Mafia Family",
+          "url": "https://open.spotify.com/artist/5CptimURU8kFnYEWYynLPp"
+        }
+      ],
+      "duration_ms": 280615,
+      "name": "R\u00caVES",
+      "url": "https://open.spotify.com/track/22nWc5p2nCsjrhypkfc9Lt"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Kosak",
+        "url": "https://open.spotify.com/album/1JApUB1roNXyxHiRdKm4Qh"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gis Niquay",
+          "url": "https://open.spotify.com/artist/4i1IJBUyz5vJDg2XlBY75X"
+        }
+      ],
+      "duration_ms": 247694,
+      "name": "Ota",
+      "url": "https://open.spotify.com/track/5d8Rw7RD8Gh3zXTscXZU9r"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "This Child",
+        "url": "https://open.spotify.com/album/6mP4rzVXInlSTP45xzzEXU"
+      },
+      "artists": [
+        {
+          "name": "Susan Aglukark",
+          "url": "https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "O Siem",
+      "url": "https://open.spotify.com/track/6aaboHhmMjU9ZrwiFs5UJZ"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "Watin",
         "url": "https://open.spotify.com/album/42rAIuXgRtLB5Qe6Lur5AN"
@@ -216,301 +456,77 @@
           "url": "https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5"
         }
       ],
-      "duration_ms": 256866,
-      "name": "River",
-      "url": "https://open.spotify.com/track/4Ap6iKHnyE5dSLNZlQ7stS"
+      "duration_ms": 237520,
+      "name": "Here I am",
+      "url": "https://open.spotify.com/track/3bJRSK6LGmabDz91waHWWS"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
+      "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Sewn Back Together",
-        "url": "https://open.spotify.com/album/08YlFLF1PnZw9k7l2nU5Zs"
+        "name": "Uapen Nuta / Terre de nos a\u00efeux",
+        "url": "https://open.spotify.com/album/3fmzmf0oxOOggNGcmMEq0r"
       },
       "artists": [
         {
-          "name": "OMBIIGIZI",
-          "url": "https://open.spotify.com/artist/6M9etLgzbkyne0y9cvxGAG"
+          "name": "Katia Rock",
+          "url": "https://open.spotify.com/artist/2pAWfapBk0lzkyTMIJIrcb"
+        }
+      ],
+      "duration_ms": 229269,
+      "name": "Peik Tshishek",
+      "url": "https://open.spotify.com/track/7B8MSmoAMzBVFcU3Xmwtx5"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Nikamu Mamuitun - Chansons Rassembleuses",
+        "url": "https://open.spotify.com/album/1rNZ6hEOEgntjXqIUwKnm1"
+      },
+      "artists": [
+        {
+          "name": "Nikamu Mamuitun - Chansons Rassembleuses",
+          "url": "https://open.spotify.com/artist/7MHVMBQK55O8QBWFobRr0A"
+        }
+      ],
+      "duration_ms": 249144,
+      "name": "Kir Neshimesh",
+      "url": "https://open.spotify.com/track/6ClW07DTu0jzBsaflDaRcA"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Rez Road (Powwow)",
+        "url": "https://open.spotify.com/album/1zXjPmkstwROUd25gFtvfZ"
+      },
+      "artists": [
+        {
+          "name": "Black Bear",
+          "url": "https://open.spotify.com/artist/0yA6zmKmNXjUPSZyfDZji7"
         },
         {
-          "name": "Status/Non-Status",
-          "url": "https://open.spotify.com/artist/65pJYjbDd7S7gBObWEfIdK"
-        },
-        {
-          "name": "Zoon",
-          "url": "https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC"
+          "name": "A Tribe Called Red",
+          "url": "https://open.spotify.com/artist/4S0ovGmM3YEeWE4VBNhX1v"
         }
       ],
-      "duration_ms": 187491,
-      "name": "Niiyo Biboonagizi",
-      "url": "https://open.spotify.com/track/41rlFaW0JBFx8ABkEdRi7k"
+      "duration_ms": 263160,
+      "name": "Single Feather Remix (feat. Tribe Called Red)",
+      "url": "https://open.spotify.com/track/052gVPbCvTq1ILJe6e6z7H"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
+      "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "YOY",
-        "url": "https://open.spotify.com/album/66TO7932BQPpVHIFmhq8as"
+        "name": "Tshitatau",
+        "url": "https://open.spotify.com/album/7sxmyo17HxVqeZ65RSOS5t"
       },
       "artists": [
         {
-          "name": "Siibii",
-          "url": "https://open.spotify.com/artist/5xIv9tG1tb1tBj3PsjIqgi"
-        },
-        {
-          "name": "Angel Baribeau",
-          "url": "https://open.spotify.com/artist/0FPslk0bbQhxrwwzf9hOq4"
+          "name": "Florent Vollant",
+          "url": "https://open.spotify.com/artist/46yst9cUnaE2cftTAxwFSp"
         }
       ],
-      "duration_ms": 166226,
-      "name": "YOY",
-      "url": "https://open.spotify.com/track/5WWAUoiBmNds2osjhOVFsv"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Snakehold (Boogey the Beat Remix)",
-        "url": "https://open.spotify.com/album/5o7I3FZg1BxbXwmY2BF1q4"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Gaskin",
-          "url": "https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za"
-        },
-        {
-          "name": "Boogey the Beat",
-          "url": "https://open.spotify.com/artist/0Kc8I2nrf9po7TU4VH3lnK"
-        }
-      ],
-      "duration_ms": 316800,
-      "name": "Snakehold - Boogey the Beat Remix",
-      "url": "https://open.spotify.com/track/2sl8aplQ2yJR3aRrCUx4S5"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "ataataga",
-        "url": "https://open.spotify.com/album/4yIKNgqIzOy9Rl9leZYe1U"
-      },
-      "artists": [
-        {
-          "name": "Riit",
-          "url": "https://open.spotify.com/artist/51rJGI9Wto6CZqOqLStQxO"
-        }
-      ],
-      "duration_ms": 259435,
-      "name": "qaumajuapik",
-      "url": "https://open.spotify.com/track/2yyFJti9vmhHFwqgfC37zv"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "nipiy",
-        "url": "https://open.spotify.com/album/3Jco6in23tJMrvZFLtLqyT"
-      },
-      "artists": [
-        {
-          "name": "n\u00eahiyawak",
-          "url": "https://open.spotify.com/artist/1ABpOPFTkd957JpeQUN3U4"
-        }
-      ],
-      "duration_ms": 196760,
-      "name": "somnambulist",
-      "url": "https://open.spotify.com/track/4qZKt7X9tbe90PqSQQLTmb"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Qaumariaq",
-        "url": "https://open.spotify.com/album/4BMMtvCdpmt1Vi92mUEV65"
-      },
-      "artists": [
-        {
-          "name": "The Trade-Offs",
-          "url": "https://open.spotify.com/artist/1MnrJrblGPojuCBRGDisvK"
-        }
-      ],
-      "duration_ms": 188373,
-      "name": "Qaumariaq",
-      "url": "https://open.spotify.com/track/0l7aujB6vAnhJQ8YvD4ZhN"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "G\u0331a\u0331l'\u00fc\u00fcnx Wil Lu Holtga Liimi",
-        "url": "https://open.spotify.com/album/3jSXyra6uCMJhB0dK4Ex5P"
-      },
-      "artists": [
-        {
-          "name": "Saltwater Hank",
-          "url": "https://open.spotify.com/artist/5gSJ43ZTvDbKOQWV2IG86J"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "'Nii Wila Waalt",
-      "url": "https://open.spotify.com/track/4CPPB1reRJWKVjOePcCbIW"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "When It's Cold - Cree Round Dance Songs",
-        "url": "https://open.spotify.com/album/76TnX0qOWM4Kobec3B9MZE"
-      },
-      "artists": [
-        {
-          "name": "Northern Cree",
-          "url": "https://open.spotify.com/artist/5n4JXEQjauDsFSHTjhHkDq"
-        }
-      ],
-      "duration_ms": 204407,
-      "name": "Bologna Girl",
-      "url": "https://open.spotify.com/track/3L5lcaZZh8WIc1Eue3HBpP"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "If It Comes Down To It",
-        "url": "https://open.spotify.com/album/0XOOpplduQwdpw2uMGCvJE"
-      },
-      "artists": [
-        {
-          "name": "Ruby Waters",
-          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
-        }
-      ],
-      "duration_ms": 213002,
-      "name": "Rabbit Hole",
-      "url": "https://open.spotify.com/track/57jJgUYf4HsjWL0wMDnSdv"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Dancing with Sue",
-        "url": "https://open.spotify.com/album/21PsHSGaIjG5ucnpWm4xRS"
-      },
-      "artists": [
-        {
-          "name": "Wyatt C. Louis",
-          "url": "https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB"
-        }
-      ],
-      "duration_ms": 172135,
-      "name": "Dancing with Sue",
-      "url": "https://open.spotify.com/track/4YxHmgZPQkFqr7kWMMiEQw"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Faded Love Better Days",
-        "url": "https://open.spotify.com/album/0AqrLPhwvEx7fTc7YB7mM7"
-      },
-      "artists": [
-        {
-          "name": "Richard Inman",
-          "url": "https://open.spotify.com/artist/0eha96FtThymbm5svvfopg"
-        }
-      ],
-      "duration_ms": 238250,
-      "name": "Thanksgiving Day",
-      "url": "https://open.spotify.com/track/3KOnJuIOPEUq0ckGrZ4lHU"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Iskwewak - Songs of Indigenous Womanhood",
-        "url": "https://open.spotify.com/album/4kxpjT2AC25hLcLisNWRHj"
-      },
-      "artists": [
-        {
-          "name": "Fawn Wood",
-          "url": "https://open.spotify.com/artist/7HrK2HP1tJfnMW2HFDw4kb"
-        },
-        {
-          "name": "Dallas Waskahat",
-          "url": "https://open.spotify.com/artist/3Ug25NXmyFteqZ2Ugsj64X"
-        }
-      ],
-      "duration_ms": 228306,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/3E30YgPiMEzcOKEzxhX0HK"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Round Dance the Night Away",
-        "url": "https://open.spotify.com/album/2K56Lkx48Ce5PCElPCno24"
-      },
-      "artists": [
-        {
-          "name": "Randy Wood",
-          "url": "https://open.spotify.com/artist/3KmbAgLvGynHxwke0lSdxA"
-        }
-      ],
-      "duration_ms": 271973,
-      "name": "Look How the Stars Shine for You",
-      "url": "https://open.spotify.com/track/6RUKTjMQPviIJ3PsuiUVek"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Yarrow Lover",
-        "url": "https://open.spotify.com/album/5xvA5UBWlnkwaKUqKMWgyU"
-      },
-      "artists": [
-        {
-          "name": "FONTINE",
-          "url": "https://open.spotify.com/artist/4uFbZzF7cNxNcxIQdF1BWy"
-        }
-      ],
-      "duration_ms": 154420,
-      "name": "4AM",
-      "url": "https://open.spotify.com/track/3RqJZ6jrqxNzCYVAKShiqg"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "La lune",
-        "url": "https://open.spotify.com/album/5GxbhchHkpm6XmrrURUM3D"
-      },
-      "artists": [
-        {
-          "name": "Anachnid",
-          "url": "https://open.spotify.com/artist/3InHKoRqLAoPvPfH5T6WEO"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "La lune",
-      "url": "https://open.spotify.com/track/67Vl5uu19ebqQK3yqti6Bl"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Snowblind",
-        "url": "https://open.spotify.com/album/3EX2pi3FS9thuxBfv9s6C3"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tagaq",
-          "url": "https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Snowblind",
-      "url": "https://open.spotify.com/track/4F6C1k9TfEEzCo86m4K1Bu"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Motewolonuwok",
-        "url": "https://open.spotify.com/album/0GSKrVvb8FZlMfsBpTLFjL"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Dutcher",
-          "url": "https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f"
-        }
-      ],
-      "duration_ms": 215857,
-      "name": "There I Wander",
-      "url": "https://open.spotify.com/track/4VOrdRpCaxWjFPo6XZyILP"
+      "duration_ms": 245411,
+      "name": "Cold wind",
+      "url": "https://open.spotify.com/track/3GJ4zpI26MiyYAXkP36YGa"
     }
   ],
   "unique_name": "Indigenous",

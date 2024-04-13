@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-915 songs - 1 day 11 hr 35 min
+916 songs - 1 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,7 +345,7 @@
 | [Incandescent Sky \- Demo](https://open.spotify.com/track/7cYwTwfI2cQdZvnSjsB6ah) | [Xoxo Fernandez](https://open.spotify.com/artist/6G4uvbhINpucP5RBxsiPDN) | [False Euphoria](https://open.spotify.com/album/7Dm64niDkqB3n00XPhmEXd) | 2:05 | 2022-09-16 | 2023-10-20 |
 | [Incredibly happy](https://open.spotify.com/track/6FVL1EGTz7nWEzuUz6VpvF) | [Silk Soul](https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI) | [Incredibly happy](https://open.spotify.com/album/4aE1MMVBFm1WESG0pRYHJs) | 2:39 | 2023-10-20 |  |
 | [Indigo](https://open.spotify.com/track/2Q0Sgox8fZRoqE61pD9m2y) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Indigo](https://open.spotify.com/album/5uUb9ixhJKIFVpJktTFair) | 2:14 | 2023-09-22 |  |
-| [Inferno](https://open.spotify.com/track/7yhBLgecoRdhwxAduh5nP6) | [LazyBlaze](https://open.spotify.com/artist/0UU3MtrctLPXvQy6Puj7v1) | [Inferno](https://open.spotify.com/album/6Exg2bc6K2xHVGYcvGFG45) | 2:31 | 2024-01-12 |  |
+| [Inferno](https://open.spotify.com/track/7yhBLgecoRdhwxAduh5nP6) | [LazyBlaze](https://open.spotify.com/artist/0UU3MtrctLPXvQy6Puj7v1) | [Inferno](https://open.spotify.com/album/6Exg2bc6K2xHVGYcvGFG45) | 2:31 | 2024-01-12 | 2024-04-13 |
 | [Ink of Dawn](https://open.spotify.com/track/58hRwiMXGNrQD9hUYbMCBq) | [Basicboy](https://open.spotify.com/artist/6NhNVWuAGFt7hfq9M4kj9U) | [Ink of Dawn](https://open.spotify.com/album/0Ka0O1ax4qdfJ9FJnsfiLg) | 1:55 | 2024-01-05 |  |
 | [Inner Peace](https://open.spotify.com/track/547YTV2dWMOpgxdjGi8Nn8) | [Moon Cheese](https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S) | [Inner Peace](https://open.spotify.com/album/72rdiIaTtw02OfQiCXQPGf) | 3:52 | 2023-09-22 |  |
 | [Inspector Fidget](https://open.spotify.com/track/6qXTQx6WNF4bL8OUqltK5T) | [Monster Guy](https://open.spotify.com/artist/6Aizv6tVH9fFMbEbS4baLY) | [Dangerous Eyes](https://open.spotify.com/album/6fNRme6o5ByiWKfVFIERFz) | 2:07 | 2022-04-15 | 2022-05-20 |
@@ -383,7 +383,7 @@
 | [Lakeview Hotel](https://open.spotify.com/track/64KLZ6ghwEzRH6yAoNfEj2) | [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv), [Charlie Young](https://open.spotify.com/artist/5HPpufL8VIMnpG7423YMmH) | [Lakeview Hotel](https://open.spotify.com/album/0e5iO95x8kua0wwFU0H3qe) | 2:33 | 2022-04-15 | 2023-10-13 |
 | [Lantana](https://open.spotify.com/track/2FoFXdEp7Vq0F6WnX5C2pp) | [Rooey](https://open.spotify.com/artist/5y2hfguiOBZAN1WUEyi2cv) | [Lantana](https://open.spotify.com/album/5UNOpQ3MBnoqtzUWQLKYYl) | 3:00 | 2022-09-02 | 2023-11-17 |
 | [Last Call 2](https://open.spotify.com/track/0li4HOpLhTA5YlEz4jUPOj) | [gambino M](https://open.spotify.com/artist/0eyPSClzklAcWC8maQbHiQ) | [Last Call 2](https://open.spotify.com/album/7d4zf1MRpZTrUx0RWqCV05) | 2:00 | 2022-04-15 | 2022-09-17 |
-| [Last Mission](https://open.spotify.com/track/68eeyMyBLYvpBKuKlGEFgv) | [Svanen](https://open.spotify.com/artist/2YuspxUFYn3GTgnk5boTvi) | [Last Mission](https://open.spotify.com/album/2yE00pVDJf10PO5Zop9Akg) | 3:07 | 2022-04-15 | 2024-03-31 |
+| [Last Mission](https://open.spotify.com/track/68eeyMyBLYvpBKuKlGEFgv) | [Svanen](https://open.spotify.com/artist/2YuspxUFYn3GTgnk5boTvi) | [Last Mission](https://open.spotify.com/album/2yE00pVDJf10PO5Zop9Akg) | 3:07 | 2022-04-15 |  |
 | [Lastly](https://open.spotify.com/track/4YS0gtYzdEVp2lUfvvnFXS) | [Lydtakt](https://open.spotify.com/artist/2nbKa9EFY05zFjSwkmMjkq) | [Lastly](https://open.spotify.com/album/4aD6nKJleOgIcFLUN9eYry) | 2:05 | 2023-01-13 | 2023-11-24 |
 | [Late Night Jam](https://open.spotify.com/track/73yXOxZAK9FymtlXDfLVnR) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Late Night Jam](https://open.spotify.com/album/09VmKc1VmrrFGMVc3SvXd4) | 2:27 | 2022-04-15 | 2022-09-03 |
 | [Late Night Jams](https://open.spotify.com/track/5j2yseMUjUsSFLWEI1nihH) | [Ouija Chords](https://open.spotify.com/artist/3tcxWYxIzG1rkrWBRqybBT) | [Late Night Jams](https://open.spotify.com/album/3alL8x7PTdVr4gqr7lUQuf) | 1:49 | 2022-09-16 | 2023-10-20 |
@@ -661,7 +661,7 @@
 | [School Of Rytmus](https://open.spotify.com/track/14BAmiynFdqR5mTp6yd6d9) | [Valgre](https://open.spotify.com/artist/4Car9HylNpk3hdArsuEQOp) | [School Of Rytmus](https://open.spotify.com/album/6HTcP4oqAtPPK6gFMyzQ3f) | 2:25 | 2024-03-01 |  |
 | [Sea of Thoughts](https://open.spotify.com/track/22z4OBkJ2VmGA7dSssWsy7) | [Soft Vessels](https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv) | [Sea of Thoughts](https://open.spotify.com/album/795sBvT2shhNGKZJoEcb6B) | 3:02 | 2023-09-22 |  |
 | [Seals](https://open.spotify.com/track/6hhDdAhtUbPkvPsLbp1KPP) | [kust](https://open.spotify.com/artist/2HTMpw5UmlJ2sUap8z5ZbU) | [Seals](https://open.spotify.com/album/7eDjDYsBjvvaatdJyxmzhY) | 2:14 | 2022-11-11 |  |
-| [searching](https://open.spotify.com/track/5dxj79aIERpUFnd13G1GfY) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [searching](https://open.spotify.com/album/1RmmxwrRiiGuIpFjhkVuL5) | 2:23 | 2023-04-03 |  |
+| [searching](https://open.spotify.com/track/5dxj79aIERpUFnd13G1GfY) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [searching](https://open.spotify.com/album/1RmmxwrRiiGuIpFjhkVuL5) | 2:23 | 2023-04-03 | 2024-04-13 |
 | [Seasonal Love](https://open.spotify.com/track/4Z9Zuq40Vq6exAXxgcvqTv) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Seasonal Love](https://open.spotify.com/album/3FJTcw8nFi6279pIUipMA7) | 2:00 | 2022-10-14 | 2023-10-06 |
 | [Seasons](https://open.spotify.com/track/6RUXqsK0MlNGXFWBfZs400) | [M.I Hakone](https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v) | [Seasons](https://open.spotify.com/album/1Gi40W4rRup1t8B0p5Y5Yf) | 2:04 | 2023-10-20 |  |
 | [Second Flat](https://open.spotify.com/track/7EXuUIbqpxoeEnH0D2cvBw) | [Green Balloon](https://open.spotify.com/artist/2GGLsAPwyfEvtUyKYvELDy) | [Epic Love](https://open.spotify.com/album/5C1vgrBe5b4SeyS2Beap3c) | 1:27 | 2022-04-15 | 2022-05-14 |
@@ -721,7 +721,7 @@
 | [spacewalk](https://open.spotify.com/track/0aCCGFwEjFpwbBogpzra6b) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [spacewalk](https://open.spotify.com/album/6EudaZOIQN6nXEodWRhcuX) | 2:15 | 2023-11-24 |  |
 | [Spanish Tea](https://open.spotify.com/track/0crQI3ryIPyMbWxcI25mYf) | [Billy Bass](https://open.spotify.com/artist/2yp0SXzKw2QwxY1btRjUS6) | [Spanish Tea](https://open.spotify.com/album/5hUlagOKj7afZAb2q09ZcK) | 2:03 | 2022-04-15 | 2023-07-20 |
 | [Spare No Expense](https://open.spotify.com/track/3ImEq34pURQUCLppdFOap6) | [Snuff Audio](https://open.spotify.com/artist/7m7jvc1wS04q47pXO3MdsX) | [Spare No Expense](https://open.spotify.com/album/4etkVtVjvsEjUXL5hxgCsa) | 1:54 | 2022-10-14 | 2023-07-20 |
-| [Sparkling](https://open.spotify.com/track/2G9BBEiDmuFfd2TTFootms) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Sparkling](https://open.spotify.com/album/4BeEaHo85oLeYjUPTnEHSA) | 2:17 | 2022-11-11 | 2024-04-12 |
+| [Sparkling](https://open.spotify.com/track/2G9BBEiDmuFfd2TTFootms) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Sparkling](https://open.spotify.com/album/4BeEaHo85oLeYjUPTnEHSA) | 2:17 | 2022-11-11 |  |
 | [special](https://open.spotify.com/track/5YqgLosDBFzjeXUvNwCnQC) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [special](https://open.spotify.com/album/5GfEDnVTeachHBtWYl4YTr) | 2:26 | 2022-04-15 | 2022-05-14 |
 | [Spin Free](https://open.spotify.com/track/3XfWLX7rsb5AptnfdY63iv) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Spin Free](https://open.spotify.com/album/3mgmSjsfe7MZcPSAlG6PuH) | 2:20 | 2023-09-08 |  |
 | [Spoiler Alert](https://open.spotify.com/track/3Yabo5fHrlueQUfOtjxTU9) | [Chetco Effect](https://open.spotify.com/artist/1uMK3CGvV87A99PJP76lk7) | [Spoiler Alert](https://open.spotify.com/album/50Ymg0VYsiVGcU8TBpukRm) | 2:23 | 2023-07-19 | 2024-02-29 |
@@ -771,6 +771,7 @@
 | [Superfly](https://open.spotify.com/track/6jT11modKRcuxt9pmvAzy2) | [Kevoe West](https://open.spotify.com/artist/6Va1VmR8BklpY5M7UBlhqU) | [Superfly](https://open.spotify.com/album/4jqthv8J5DGQ40yFC2zNjF) | 1:51 | 2022-04-15 | 2022-07-29 |
 | [Superman in the Tree](https://open.spotify.com/track/3zK9cqal7EHHYp9f328vcv) | [Siktem](https://open.spotify.com/artist/3k4YXZEqBj8L4UsiPf8fgr) | [Superman in the Tree](https://open.spotify.com/album/2XIDp5ZIYl5oycOJLee6xD) | 2:14 | 2022-05-20 | 2024-03-04 |
 | [Surf Tiger](https://open.spotify.com/track/0jwpEqWMwo5fR1XQXic4lg) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Surf Tiger](https://open.spotify.com/album/4jTtUszaxX0G32HP7nG2SE) | 3:02 | 2023-10-20 |  |
+| [Surfing Cats](https://open.spotify.com/track/3nhlmeGm7FdqFo3rVO7hS2) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Surfing Cats](https://open.spotify.com/album/0DCV1oGMFWeM9lB2pvYPaN) | 2:08 | 2024-03-22 |  |
 | [Surroundings](https://open.spotify.com/track/5YmU5VNKazzBih5dXGIhBf) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Surroundings](https://open.spotify.com/album/2IPez7qLA9jrHocjh7qckN) | 2:38 | 2024-02-23 |  |
 | [Swaype](https://open.spotify.com/track/0YRWFGr8QkH3GhmcLYOUTv) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Swaype](https://open.spotify.com/album/14psBo6XTptrqiGfRHGRow) | 2:25 | 2023-10-13 |  |
 | [Swing Set](https://open.spotify.com/track/6NvN5QdlI7GItnKdhvtrwG) | [No2Pencil](https://open.spotify.com/artist/20DC1aiFjxdo2DtT5x8DCV) | [Backyard](https://open.spotify.com/album/1xaXyuZwmLAXCKEimpeebP) | 2:17 | 2022-04-15 | 2022-09-03 |
@@ -783,7 +784,7 @@
 | [Taking Off](https://open.spotify.com/track/7tjHh8qi7gri6XPJUWX04T) | [Roses](https://open.spotify.com/artist/3abdd92dF9ZxywaIBWKKcp), [Crispy Beats](https://open.spotify.com/artist/638OkTe9UKWEGrFHtFR6VH) | [Taking Off](https://open.spotify.com/album/4V2j7hDBQ8p7NgH76vizCs) | 2:24 | 2022-10-28 | 2022-12-10 |
 | [Tasty Bites](https://open.spotify.com/track/5istmkXN6fiucHQtaF1xV4) | [Blue and White](https://open.spotify.com/artist/3D7Q3FCSjGuFl5UNN3X4Ow) | [Tasty Bites](https://open.spotify.com/album/6Y0zEucjiXtyVXtxu0JgZi) | 2:19 | 2022-04-15 | 2022-09-03 |
 | [Tea For Three](https://open.spotify.com/track/7yemMdaZ7y9HS5vOkKBlUO) | [French Connection](https://open.spotify.com/artist/65psUobejSe9ZkjPgtCtZW) | [Lo\-fi Addiction](https://open.spotify.com/album/2C0wFz5gPDjgQQIw0f6wuo) | 2:17 | 2022-04-15 | 2022-08-12 |
-| [tea n' sunsets](https://open.spotify.com/track/2UEWsw1bg1qbbnIMyLZGBn) | [rollinsmpls](https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois) | [tea n' sunsets](https://open.spotify.com/album/2kVQmUS15rrZk2raCqWSBX) | 2:20 | 2024-03-08 |  |
+| [tea n' sunsets](https://open.spotify.com/track/2UEWsw1bg1qbbnIMyLZGBn) | [rollinsmpls](https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois) | [tea n' sunsets](https://open.spotify.com/album/2kVQmUS15rrZk2raCqWSBX) | 2:20 | 2024-03-08 | 2024-04-13 |
 | [Tears Letter](https://open.spotify.com/track/6WnL7XZeTosmToGsaMypPl) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Postcards](https://open.spotify.com/album/4m6fUJQlbYxhTy9DbeM4FG) | 2:08 | 2022-04-15 | 2022-09-09 |
 | [Tell Me](https://open.spotify.com/track/1I5EnQrDoeo6txl9bo8Wea) | [Serena Kayleah](https://open.spotify.com/artist/1UxgzBXu0TEFYGecOFWKAg) | [Tell Me](https://open.spotify.com/album/7n5d3Fu6lIJTHNVtjZj7rX) | 2:41 | 2024-02-09 |  |
 | [tempura](https://open.spotify.com/track/1zgFWd7USHOKNc30YtfsCT) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs), [frumhere](https://open.spotify.com/artist/21Aa8MX3PsrO03NgH3TZGy) | [Heartsick, extras.](https://open.spotify.com/album/1FMRlhclA9XtdN8iPbflJl) | 2:33 | 2022-04-15 | 2022-09-09 |

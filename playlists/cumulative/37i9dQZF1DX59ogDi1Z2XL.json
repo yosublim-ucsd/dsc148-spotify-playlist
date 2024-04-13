@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Eva Shaw, Haviah Mighty, Friyie",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: TOBi",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -526,6 +526,32 @@
       "duration_ms": 166976,
       "name": "405",
       "url": "https://open.spotify.com/track/1kF2cUkE2cqA03A99FC3sQ"
+    },
+    {
+      "album": {
+        "name": "410",
+        "url": "https://open.spotify.com/album/0kUrdWYhWYGz71c0jaGnJe"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "Sunny Malton",
+          "url": "https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY"
+        },
+        {
+          "name": "Offgrid",
+          "url": "https://open.spotify.com/artist/7F8zSmymsU25wRm0x7R05Y"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234893,
+      "name": "410",
+      "url": "https://open.spotify.com/track/0R1AZYXc34nfMaiengrkRc"
     },
     {
       "album": {
@@ -2966,7 +2992,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 124200,
       "name": "BIG DRIP",
       "url": "https://open.spotify.com/track/6yOnCtqG95CzhjeTeI9uOV"
@@ -5499,6 +5525,24 @@
     },
     {
       "album": {
+        "name": "SATAY",
+        "url": "https://open.spotify.com/album/7aUQyGG6snU961QgaUPdzD"
+      },
+      "artists": [
+        {
+          "name": "Sheldon Sabastian",
+          "url": "https://open.spotify.com/artist/3TVN22ppuxvrMtVOIGFYYn"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146285,
+      "name": "Crash Gamble",
+      "url": "https://open.spotify.com/track/5FnSfiJ6Tzxd6KX2cPnQph"
+    },
+    {
+      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/72yidR4p7A7dgVtc4yM2dd"
       },
@@ -5514,6 +5558,24 @@
       "duration_ms": 209032,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/7gHrLGe3J0Qlvv2QG18hdc"
+    },
+    {
+      "album": {
+        "name": "Crippled",
+        "url": "https://open.spotify.com/album/4ZFQ4YcVPbV8kF7ObN8U92"
+      },
+      "artists": [
+        {
+          "name": "HoodbabyGG",
+          "url": "https://open.spotify.com/artist/40pvU5B7f8YBoEh01RGQ6x"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132127,
+      "name": "Crippled",
+      "url": "https://open.spotify.com/track/2GSFHJjQAXOMG8CQAtzA7C"
     },
     {
       "album": {
@@ -5680,7 +5742,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 161627,
       "name": "Damn Sure",
       "url": "https://open.spotify.com/track/1gYVhjMKDky9rOLeHXMg9y"
@@ -6733,6 +6795,28 @@
     },
     {
       "album": {
+        "name": "Who Decides War",
+        "url": "https://open.spotify.com/album/7eadCbsmeguNADwk91fHM2"
+      },
+      "artists": [
+        {
+          "name": "Da Crook",
+          "url": "https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179484,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/043OcdbUW2bCfxH3zgxIDj"
+    },
+    {
+      "album": {
         "name": "DOWNFALL",
         "url": "https://open.spotify.com/album/6XDbO6OROyObsIVP0geQqU"
       },
@@ -6810,7 +6894,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 195200,
       "name": "Drippy",
       "url": "https://open.spotify.com/track/4fnIORP0QTYTOMPqMKpJtF"
@@ -6948,6 +7032,28 @@
       "duration_ms": 140800,
       "name": "Duh",
       "url": "https://open.spotify.com/track/1EcL3vyichgDa5X2KM0RT4"
+    },
+    {
+      "album": {
+        "name": "Dukhtar e Kabul",
+        "url": "https://open.spotify.com/album/2SZfDpAJtBV9hJQ8VB2r4Y"
+      },
+      "artists": [
+        {
+          "name": "Kresnt",
+          "url": "https://open.spotify.com/artist/7B6gRPGS1V6bA0DkxqJktA"
+        },
+        {
+          "name": "Sediq Shabab",
+          "url": "https://open.spotify.com/artist/2yJoiEE4KwebARw4fwQn1P"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132571,
+      "name": "Dukhtar e Kabul",
+      "url": "https://open.spotify.com/track/2AvSTi2M51Emry6LBz6sQR"
     },
     {
       "album": {
@@ -8560,7 +8666,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 246506,
       "name": "For Anybody (with TOBi)",
       "url": "https://open.spotify.com/track/0QPUZlehGYYulpIDeKbGSX"
@@ -8658,6 +8764,28 @@
       "duration_ms": 194430,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/073y3yGyBGWiUvHHRtsmrN"
+    },
+    {
+      "album": {
+        "name": "Forgot We Were Seeds",
+        "url": "https://open.spotify.com/album/6MAvM1jyyUbparAYvp2zjK"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220235,
+      "name": "Forgot We Were Seeds",
+      "url": "https://open.spotify.com/track/6XK53Z4myhw8Q6iu6L3ie2"
     },
     {
       "album": {
@@ -8977,6 +9105,24 @@
     },
     {
       "album": {
+        "name": "From The",
+        "url": "https://open.spotify.com/album/3KbMsQV50dEd0UpKLh6pVk"
+      },
+      "artists": [
+        {
+          "name": "Kris the $pirit",
+          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114946,
+      "name": "From The",
+      "url": "https://open.spotify.com/track/12snGvc3c1wclx99B0dIH5"
+    },
+    {
+      "album": {
         "name": "From the Heart",
         "url": "https://open.spotify.com/album/2aKBYBNyAazCQsv0O1pfyR"
       },
@@ -9112,7 +9258,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 162000,
       "name": "Fye Fye",
       "url": "https://open.spotify.com/track/7n1s3fwQGlYhGsg2HGjVhD"
@@ -9723,6 +9869,24 @@
     },
     {
       "album": {
+        "name": "Go Mode",
+        "url": "https://open.spotify.com/album/3GekvJk4hGZw39M27jUcCc"
+      },
+      "artists": [
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224782,
+      "name": "Go Mode",
+      "url": "https://open.spotify.com/track/7MX9uRrHcyORpE2JXJpfUa"
+    },
+    {
+      "album": {
         "name": "Go To Sleep",
         "url": "https://open.spotify.com/album/1FYYGbPi1ZRituR7b6THpY"
       },
@@ -9949,6 +10113,28 @@
     },
     {
       "album": {
+        "name": "Goodbye (feat. Terrell Morris)",
+        "url": "https://open.spotify.com/album/710P12ioljU8duVWM9Qp28"
+      },
+      "artists": [
+        {
+          "name": "Charlie Noiir",
+          "url": "https://open.spotify.com/artist/3jAbhB16sbyvBKSpvQzRdO"
+        },
+        {
+          "name": "Terrell Morris",
+          "url": "https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257560,
+      "name": "Goodbye (feat. Terrell Morris)",
+      "url": "https://open.spotify.com/track/79em1FiIHiL1liFu7FeeOa"
+    },
+    {
+      "album": {
         "name": "Gorilla Garments",
         "url": "https://open.spotify.com/album/5CJGIgLLXL8eWRhrsnuWjf"
       },
@@ -10102,7 +10288,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 148837,
       "name": "GRAVITY",
       "url": "https://open.spotify.com/track/0oddRg0UA25rYpkdodmUFH"
@@ -11398,6 +11584,24 @@
       "duration_ms": 172173,
       "name": "Hunnids",
       "url": "https://open.spotify.com/track/0bhEXBrQISb8fL1LPBvVFG"
+    },
+    {
+      "album": {
+        "name": "Hurry Up",
+        "url": "https://open.spotify.com/album/4SVCJnQvZH0JLuHVxWlSiG"
+      },
+      "artists": [
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134894,
+      "name": "Hurry Up",
+      "url": "https://open.spotify.com/track/5yO5osPZkGYKTAH9lxy1Gt"
     },
     {
       "album": {
@@ -13350,7 +13554,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 237691,
       "name": "La fess\u00e9e",
       "url": "https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1"
@@ -19774,7 +19978,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 191274,
       "name": "POWER THROUGH",
       "url": "https://open.spotify.com/track/7MWIxQhwuz7PLgJnvIJjUo"
@@ -20654,7 +20858,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 200806,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/5tcC7bQ4fQ6WkvWxT73ZsI"
@@ -23034,7 +23238,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 284953,
       "name": "STARTING-BLOCKS",
       "url": "https://open.spotify.com/track/17P80LtJ5ijACkSqulnqkY"
@@ -23840,6 +24044,28 @@
       "duration_ms": 184109,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/0VWqFk6vPwmFirhZiF9tLx"
+    },
+    {
+      "album": {
+        "name": "Supply & Demand",
+        "url": "https://open.spotify.com/album/3ApvAZdo5jth2o0jb8Z7bO"
+      },
+      "artists": [
+        {
+          "name": "AR Paisley",
+          "url": "https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd"
+        },
+        {
+          "name": "Harsh Likhari",
+          "url": "https://open.spotify.com/artist/2R4dpXgKNBna1nbMHVcYdf"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153070,
+      "name": "Supply & Demand",
+      "url": "https://open.spotify.com/track/6kxQ5mO8YEIRLcIHJKWWcU"
     },
     {
       "album": {
@@ -25272,7 +25498,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 221226,
       "name": "Time Out",
       "url": "https://open.spotify.com/track/3EyKj3YyiJoyb4rnYfSfcD"
@@ -25424,7 +25650,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 192000,
       "name": "Tonka Truck",
       "url": "https://open.spotify.com/track/2MFQGJmG9JH3A93AxSQGKW"

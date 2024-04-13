@@ -1,7 +1,7 @@
 {
-  "2024-04-12": 95233,
+  "2024-04-13": 95255,
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. cover: Shye (Singapore)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. cover: N.Y.P.D. \u5357\u6d0b\u6d3e\u5c0d (Hong Kong)",
   "name": ".ORG",
   "tracks": [
     {
@@ -943,7 +943,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 243178,
       "name": "All Things Left Behind",
       "url": "https://open.spotify.com/track/09rSimmLjPYg5vKOYSQDMW"
@@ -2366,6 +2366,24 @@
     },
     {
       "album": {
+        "name": "blame",
+        "url": "https://open.spotify.com/album/51u2gNSJOxzIthq90Oj2Pa"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174315,
+      "name": "blame",
+      "url": "https://open.spotify.com/track/0WVynoxYPMuxR5XnFflGfv"
+    },
+    {
+      "album": {
         "name": "camp",
         "url": "https://open.spotify.com/album/1B34JEmiyHN9xCeyM3GTVX"
       },
@@ -3083,6 +3101,24 @@
       "duration_ms": 140571,
       "name": "Call Me When You Need Me",
       "url": "https://open.spotify.com/track/5ow1lXQKUCoPIQ9clF9g8z"
+    },
+    {
+      "album": {
+        "name": "Can I be close?",
+        "url": "https://open.spotify.com/album/4R32u241xW6UcLdbX1yqGZ"
+      },
+      "artists": [
+        {
+          "name": "SOIII",
+          "url": "https://open.spotify.com/artist/6IIpHaS29YrhmK1uQnEtOp"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236843,
+      "name": "Can I be close?",
+      "url": "https://open.spotify.com/track/114B5ME97ERXfN3HJzUX3z"
     },
     {
       "album": {
@@ -5486,6 +5522,24 @@
     },
     {
       "album": {
+        "name": "Easy Lighter",
+        "url": "https://open.spotify.com/album/0kAocczsJutXrc6QWMjYH6"
+      },
+      "artists": [
+        {
+          "name": "N.Y.P.D. \u5357\u6d0b\u6d3e\u5c0d",
+          "url": "https://open.spotify.com/artist/0uGCA6uvmofOBLPplBhyAY"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381750,
+      "name": "Easy Lighter",
+      "url": "https://open.spotify.com/track/3ZPJCJMNaBQZG65nnlGgQ3"
+    },
+    {
+      "album": {
         "name": "FUNFAIR",
         "url": "https://open.spotify.com/album/5n2ics3EJmLttFmgBkeC7i"
       },
@@ -5641,7 +5695,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 198400,
       "name": "Enough For Me",
       "url": "https://open.spotify.com/track/4m9HmldJ0OaaBkvSIFeODT"
@@ -11315,7 +11369,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 184315,
       "name": "Loves Hates Loves",
       "url": "https://open.spotify.com/track/43PIMXRQK8LD8rVPZHm1m6"
@@ -15438,6 +15492,32 @@
     },
     {
       "album": {
+        "name": "S.O.T.I. (Strangers On The Internet)",
+        "url": "https://open.spotify.com/album/6TMdWV3qpSH8irxIpDhKUk"
+      },
+      "artists": [
+        {
+          "name": "Clifr",
+          "url": "https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14"
+        },
+        {
+          "name": "RANJ",
+          "url": "https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H"
+        },
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166346,
+      "name": "S.O.T.I. (Strangers On The Internet)",
+      "url": "https://open.spotify.com/track/06sNozukABz39ZsUtJuCj5"
+    },
+    {
+      "album": {
         "name": "Saan?",
         "url": "https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR"
       },
@@ -16017,7 +16097,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 245210,
       "name": "She Likes to Dance",
       "url": "https://open.spotify.com/track/26q20Hajvk9vLkaOY6eHYe"
@@ -16483,7 +16563,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 161874,
       "name": "Soda",
       "url": "https://open.spotify.com/track/0JM7uelOH0woxKFxGc4avA"
@@ -19350,6 +19430,24 @@
     },
     {
       "album": {
+        "name": "Lola Amour",
+        "url": "https://open.spotify.com/album/11RYeRVMyewvGzrBo5UigQ"
+      },
+      "artists": [
+        {
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180600,
+      "name": "Umiinit",
+      "url": "https://open.spotify.com/track/2BtALVUCAnFvAUwHki5LEg"
+    },
+    {
+      "album": {
         "name": "Underwater",
         "url": "https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7"
       },
@@ -19463,7 +19561,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 217693,
       "name": "Unwavering",
       "url": "https://open.spotify.com/track/5om9MS3yRKxRrt9FSMBq4w"
@@ -22834,6 +22932,24 @@
     },
     {
       "album": {
+        "name": "\u60f3\u8981\u6709\u500b\u907f\u98a8\u6e2f",
+        "url": "https://open.spotify.com/album/1WItqWTGRe9OsFC60tKMTp"
+      },
+      "artists": [
+        {
+          "name": "\u8001\u738b\u6a02\u968a",
+          "url": "https://open.spotify.com/artist/4MRQK5pLyNbcOW493n55iT"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357004,
+      "name": "\u60f3\u8981\u6709\u500b\u907f\u98a8\u6e2f",
+      "url": "https://open.spotify.com/track/4QCM9noC0TValwcd08F6IY"
+    },
+    {
+      "album": {
         "name": "\u30d8\u30eb\u30b7\u30f3\u30ad\u30e9\u30e0\u30c0\u30af\u30e9\u30d6\u3078\u3088\u3046\u3053\u305d",
         "url": "https://open.spotify.com/album/4fSoeCxtgOC96ooARXkJJE"
       },
@@ -23395,6 +23511,24 @@
       "duration_ms": 211044,
       "name": "\u9014\u4e2d",
       "url": "https://open.spotify.com/track/6ps7aXKGIUjokiYT7e727f"
+    },
+    {
+      "album": {
+        "name": "\u91cb\u8fe6 (Live Session)",
+        "url": "https://open.spotify.com/album/73lJKnwBSY4nN072HpBD8N"
+      },
+      "artists": [
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271316,
+      "name": "\u91cb\u8fe6 - Live Session",
+      "url": "https://open.spotify.com/track/3Z3oabr31eKhocCaFoMiHE"
     },
     {
       "album": {

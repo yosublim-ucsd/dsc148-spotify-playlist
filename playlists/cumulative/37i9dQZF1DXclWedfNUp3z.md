@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-403 songs - 1 day 3 hr 33 min
+404 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,7 +323,7 @@
 | [sol](https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [sol](https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg) | 1:59 | 2023-01-06 | 2024-02-23 |
 | [Solar](https://open.spotify.com/track/4Mgq8E9ehbpUFAFxiEcwss) | [Patricia Brennan](https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee) | [Solar](https://open.spotify.com/album/0qIMW1UNQKG34F9eXtr2uD) | 4:10 | 2021-10-20 | 2022-07-26 |
 | [Solo, Op\. 1: No\. 1](https://open.spotify.com/track/2HCtyKgeht2LC7jXhywJ1s) | [Böjo](https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e) | [Solo, Op\. 1: No\. 1](https://open.spotify.com/album/1Zk5AG5bbR2S3nP4YLCo2u) | 2:40 | 2021-10-20 | 2022-07-29 |
-| [Solo, Op\. 1: No\. 1](https://open.spotify.com/track/2QNMea9rsz01sxiNPErdwd) | [Böjo](https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e) | [Solo, Op\. 1: No\. 1](https://open.spotify.com/album/61XTYqp8mi8ULHA6huHRAN) | 2:40 | 2021-10-20 |  |
+| [Solo, Op\. 1: No\. 1](https://open.spotify.com/track/2QNMea9rsz01sxiNPErdwd) | [Böjo](https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e) | [Solo, Op\. 1: No\. 1](https://open.spotify.com/album/61XTYqp8mi8ULHA6huHRAN) | 2:40 | 2021-10-20 | 2024-04-13 |
 | [Sometimes He's In My Dreams](https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:46 | 2021-10-20 |  |
 | [Sometimes He's In My Dreams](https://open.spotify.com/track/2SxhgBSJw4BULcHrCmFWw7) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Sometimes He's In My Dreams](https://open.spotify.com/album/4pZGZPG7oUqZm2vjHZsnhl) | 3:46 | 2021-10-20 | 2022-07-29 |
 | [Sometimes Yes](https://open.spotify.com/track/4fhgB8wxt9prBq0JxZqaJZ) | [Nakuru](https://open.spotify.com/artist/6ISsVRBYCg3NJjkAFi0Xy1) | [Sometimes Yes](https://open.spotify.com/album/1tvc9QVN4XSx9P014zjQpF) | 3:21 | 2021-10-20 | 2022-04-14 |
@@ -339,6 +339,7 @@
 | [Stratus](https://open.spotify.com/track/7G0celL82dCIDYjUxdPyoG) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [EARS](https://open.spotify.com/album/5T9rGi62i1O7wRu3c2f3q4) | 3:04 | 2021-10-20 | 2022-07-23 |
 | [Suite Pour L'invisible](https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 7:01 | 2021-10-20 |  |
 | [summer \(shade\)](https://open.spotify.com/track/05JBitld3kGDUrkeZ0hQmg) | [Two Sleepy](https://open.spotify.com/artist/0AnFvgXbwVibMnDDhCVPPK) | [Warmth](https://open.spotify.com/album/5PlR2KmCcUMqsMaVkYFufQ) | 2:15 | 2021-10-20 | 2023-12-09 |
+| [summer \(shade\)](https://open.spotify.com/track/7BDHpvLArUvn4SJADth5AM) | [Two Sleepy](https://open.spotify.com/artist/0AnFvgXbwVibMnDDhCVPPK) | [Warmth](https://open.spotify.com/album/7hdw0jlLtEBsNs3R6KY05z) | 2:15 | 2021-10-20 |  |
 | [Sunflower Dance](https://open.spotify.com/track/0J9G8MIixgpRmMzS1Xub89) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Sunflower Dance](https://open.spotify.com/album/5yJ5fcocAccpi4thCNl20p) | 3:32 | 2021-10-20 | 2023-07-01 |
 | [Sunflower Dance](https://open.spotify.com/track/4PMJ8QjBfyFKxvDozAyGW9) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Music for Living Spaces](https://open.spotify.com/album/121kVK7CLFqJ3i1kPcSmYm) | 3:32 | 2021-10-20 |  |
 | [Sunflower, Raise Your Heavy Head and Face the Sun!](https://open.spotify.com/track/2mXwSbqPRfmiG2KcM81Y1j) | [Louie Zong](https://open.spotify.com/artist/7jOY91ZU7kn86slH3fBbaD) | [Greenhouse](https://open.spotify.com/album/7jprQbnbFyOAJL64Jc7HmU) | 1:44 | 2021-10-20 | 2023-09-20 |

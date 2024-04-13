@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: lilbubblegum
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,939 likes - 92 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,946 likes - 92 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SCRAPS ON \(feat\. Rico Nasty\)](https://open.spotify.com/track/113hXQEGufitHbp4luenl1) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [SCRAPS ON \(feat\. Rico Nasty\)](https://open.spotify.com/album/3lSCITaKpq3yUxQIXATftL) | 2:30 |
-| 2 | [GEEKALEEK \(Remix\) \[feat\. Day1\]](https://open.spotify.com/track/4jzIKI8EP8oaKW3pY5Huoj) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Day 1](https://open.spotify.com/artist/18j2BXbBDMwiqU1AArpIl2) | [GEEKALEEK \(Remix\) \[feat\. Day1\]](https://open.spotify.com/album/7fbfrq5FWenWnRDaveb5bw) | 2:08 |
+| 2 | [GEEKALEEK \(Remix\) \[feat\. Day1\]](https://open.spotify.com/track/4jzIKI8EP8oaKW3pY5Huoj) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [GEEKALEEK \(Remix\) \[feat\. Day1\]](https://open.spotify.com/album/7fbfrq5FWenWnRDaveb5bw) | 2:08 |
 | 3 | [Lifetime](https://open.spotify.com/track/7ltDqWsM4FkIDcX58SsXY1) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Lifetime](https://open.spotify.com/album/0oErFSXWknrwNESSfMrfBk) | 3:45 |
 | 4 | [Land Back \(feat\. Say True God? & DENNI\)](https://open.spotify.com/track/2xZaZeNFw4mLOaXkdNmIdF) | [3%](https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg), [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr), [DENNI](https://open.spotify.com/artist/3pmaKSem7OMEW29eeQ2iKO) | [Land Back \(feat\. Say True God? & DENNI\)](https://open.spotify.com/album/5yh5VIeeY3MzrBY2yqaJ4b) | 2:42 |
 | 5 | [Dreamy \(feat\. Lawd Lance\)](https://open.spotify.com/track/3fcQm6GisxPmq8Fx7SCyZf) | [Nokz78](https://open.spotify.com/artist/4YpUneet1k2jaCfvCfUnZy), [Lawd Lance](https://open.spotify.com/artist/2PUgqVHa3xxbtHd8MRQCxb) | [Dreamy \(feat\. Lawd Lance\)](https://open.spotify.com/album/14KwBjhdITLz0165IIuUH4) | 3:12 |

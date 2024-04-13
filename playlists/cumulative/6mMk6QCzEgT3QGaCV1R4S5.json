@@ -324,7 +324,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 209600,
       "name": "Diamond Shovel",
       "url": "https://open.spotify.com/track/6BbgGqA14ABXnYtrdIPxga"
@@ -757,6 +757,28 @@
     },
     {
       "album": {
+        "name": "I Like 2 Party",
+        "url": "https://open.spotify.com/album/0qV0i1EKQx5d1gtl6wiQ8F"
+      },
+      "artists": [
+        {
+          "name": "The Funk Hunters",
+          "url": "https://open.spotify.com/artist/5xwd7lKJeb2opUvYZnXFut"
+        },
+        {
+          "name": "The Sponges",
+          "url": "https://open.spotify.com/artist/3cj6O7NrjS5l0CVo8LhpV1"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191157,
+      "name": "I Like 2 Party",
+      "url": "https://open.spotify.com/track/3Ol9LHlTL4rbNFknNm4vbq"
+    },
+    {
+      "album": {
         "name": "I Love Rock 'N' Roll (Frank Walker Remix)",
         "url": "https://open.spotify.com/album/0b9ELNnDI4VjdiXvouXngT"
       },
@@ -1132,7 +1154,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 172727,
       "name": "Madrid City",
       "url": "https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe"
@@ -1330,6 +1352,28 @@
       "duration_ms": 164736,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/3AgHs7svu3fb2d5NguwfXY"
+    },
+    {
+      "album": {
+        "name": "Not Exactly (Reb\u016bke Remix)",
+        "url": "https://open.spotify.com/album/3tuUxwV6i6hXlluIhz0ZCI"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Not Exactly - Reb\u016bke Remix",
+      "url": "https://open.spotify.com/track/0toCiiWUNHiWsfbshXY0TC"
     },
     {
       "album": {

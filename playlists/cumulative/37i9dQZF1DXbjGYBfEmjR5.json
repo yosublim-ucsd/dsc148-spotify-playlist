@@ -7460,7 +7460,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 285721,
       "name": "So Shine",
       "url": "https://open.spotify.com/track/1Zk5sQZtwvmfCdVRe5NNVx"
@@ -8324,6 +8324,24 @@
       "duration_ms": 241572,
       "name": "The Beach Episode",
       "url": "https://open.spotify.com/track/3RndwYA9WJBU66zcqbO0nn"
+    },
+    {
+      "album": {
+        "name": "The Beach Episode",
+        "url": "https://open.spotify.com/album/7AnRU4HfXueRmQLztGbPDA"
+      },
+      "artists": [
+        {
+          "name": "GHOST DATA",
+          "url": "https://open.spotify.com/artist/042mLfOBpH8OoX8A6sUYhf"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241577,
+      "name": "The Beach Episode",
+      "url": "https://open.spotify.com/track/3gvgYy4WXuM9nqYNidUoot"
     },
     {
       "album": {

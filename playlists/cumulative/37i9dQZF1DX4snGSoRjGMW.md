@@ -4,13 +4,14 @@
 
 > Soul meets blues\. Cover: Joe Louis Walker
 
-93 songs - 6 hr 50 min
+96 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Won't Be\) Coming Home](https://open.spotify.com/track/12xd9vbV1Z2ZHkezUQnusF) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj), [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [Nothin But Love](https://open.spotify.com/album/3lYuG4Yn0zfvoZjSm1BfNL) | 4:52 | 2020-12-01 |  |
 | [\[Won't Be\] Coming Home](https://open.spotify.com/track/1Ng2K6WjE2FxzbFzpu2gVc) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [Nothin But Love](https://open.spotify.com/album/2asharE8GAbw3uW4J02WmK) | 4:52 | 2020-12-01 | 2022-07-29 |
-| [Ace Of Spades](https://open.spotify.com/track/2sgbiJ65zw8fUEWEiW9yAH) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [Ace Of Spades](https://open.spotify.com/album/2BcHzSdwa2qEiGPNznEqRK) | 2:36 | 2022-09-30 |  |
+| [Ace Of Spades](https://open.spotify.com/track/2sgbiJ65zw8fUEWEiW9yAH) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [Ace Of Spades](https://open.spotify.com/album/2BcHzSdwa2qEiGPNznEqRK) | 2:36 | 2022-09-30 | 2024-04-13 |
+| [Ace Of Spades](https://open.spotify.com/track/7q1E64SIbT2cmkiRSjZmZe) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [Ace Of Blues](https://open.spotify.com/album/4VBJD561gFAMKctx5vLyk0) | 2:36 | 2023-01-13 |  |
 | [All The Way Down](https://open.spotify.com/track/353BumIgA33r4FzY84JCaF) | [Lonnie Shields](https://open.spotify.com/artist/3OLH6X1iYxhTzdEtk2O3jV) | [Blues Is On Fire](https://open.spotify.com/album/5Eg8IqPjqEhZc8AFf4Y1cJ) | 4:02 | 2020-12-01 |  |
 | [Baby I Will](https://open.spotify.com/track/5ep51jd4xhZusf8QnaTfor) | [Preston Shannon](https://open.spotify.com/artist/2MdVkGwNAnweIZS739BhFp) | [Midnight In Memphis](https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx) | 4:29 | 2020-12-01 |  |
 | [Betcha Didn't Know](https://open.spotify.com/track/0lQ5vJJhJWjxpvoilbq137) | [Mighty Sam McClain](https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W) | [Betcha Didn't Know](https://open.spotify.com/album/0GahKnjx2DsUw3ZN2mdinA) | 4:17 | 2020-12-01 |  |
@@ -75,7 +76,8 @@
 | [Reckless Heart](https://open.spotify.com/track/2P4SDDe2O1sMNETDMK2NXF) | [Johnny Rawls](https://open.spotify.com/artist/7vuXCITiRilCLfuySIgZKM) | [Tiger in a Cage](https://open.spotify.com/album/2y2airR6ysuixHtrYfHpEG) | 4:25 | 2020-12-01 |  |
 | [Say What You Mean](https://open.spotify.com/track/7moJNXUN9kWKhUYgE55pKG) | [Robert Ward](https://open.spotify.com/artist/2EhEsO2w9hIRm84aiy6sla) | [Rhythm Of The People](https://open.spotify.com/album/63srEUyuzfcMeuSBQn5fvB) | 4:21 | 2020-12-01 |  |
 | [Someday Baby](https://open.spotify.com/track/2SSqOWVTbKN0pTTKjgy6dg) | [Chick Willis](https://open.spotify.com/artist/0NrO6QCCIuFygHBeEN670A) | [From the Heart and Soul](https://open.spotify.com/album/3uwUrRcmhucNTtlNmaXtNn) | 4:42 | 2020-12-01 |  |
-| [Soul Deep](https://open.spotify.com/track/6ffEgX5nzfQTbXXLiaDW1P) | [Lavelle White](https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz) | [Into the Mystic](https://open.spotify.com/album/113YdmaOGCEg3wmh1zW92Y) | 3:04 | 2020-12-01 |  |
+| [Soul Deep](https://open.spotify.com/track/36ntn0EWwQq4lLZMPfzIaR) | [Lavelle White](https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz) | [Into the Mystic](https://open.spotify.com/album/4VUXdcikc5Rjtv2ehEzke4) | 3:04 | 2020-12-01 |  |
+| [Soul Deep](https://open.spotify.com/track/6ffEgX5nzfQTbXXLiaDW1P) | [Lavelle White](https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz) | [Into the Mystic](https://open.spotify.com/album/113YdmaOGCEg3wmh1zW92Y) | 3:04 | 2020-12-01 | 2024-04-13 |
 | [Standing In The Wings](https://open.spotify.com/track/0GPkIcpZbx8c79jUA72UfG) | [Mighty Sam McClain](https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W) | [Sweet Dreams](https://open.spotify.com/album/3W8UBKrVDYpY9sXhDB7cDi) | 4:50 | 2020-12-01 |  |
 | [Standing In The Wings](https://open.spotify.com/track/3K1LUsCrsHv7mzILeYODOW) | [Mighty Sam McClain](https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W) | [Sweet Dreams](https://open.spotify.com/album/7gL0VR971C64e3yFb2YC5C) | 4:50 | 2020-12-01 | 2022-07-28 |
 | [Starting All Over](https://open.spotify.com/track/3T1iXyK8LzxE4QYbU30z2N) | [Tutu Jones](https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L) | [Inside Out](https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb) | 4:06 | 2020-12-01 |  |
@@ -96,7 +98,8 @@
 | [What's It Take?](https://open.spotify.com/track/0DD4k4dwa8AzxphFMzC5xp) | [Willie Walker](https://open.spotify.com/artist/4ATDRGpJ9wi6e5FRYb8C2t), [The Butanes](https://open.spotify.com/artist/3zlUDjxwrKGcnAvgPG2c3L) | [Memphisapolis](https://open.spotify.com/album/6TEps2bRTcnlOVvIIhGutL) | 4:09 | 2020-12-01 |  |
 | [Whisper Away](https://open.spotify.com/track/3ZUbWKDZxdFuI2HHGH8enX) | [Bobby Wayne](https://open.spotify.com/artist/1c7LcpebChhXtB7fzeu3NA) | [Hit That Thing](https://open.spotify.com/album/46rNncqCqYequ72xyfnD55) | 7:17 | 2020-12-01 |  |
 | [Who's Still in Love](https://open.spotify.com/track/2QMQh6SlJWA6oz1S0D4Jja) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Bridge to a Legacy](https://open.spotify.com/album/54yFLgnlVPvkTIz6qpo01H) | 3:09 | 2020-12-01 |  |
-| [Yes, I've Been Crying](https://open.spotify.com/track/3IVdACtG1mtDxxcpZGORWY) | [Lavelle White](https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz) | [Miss Lavelle](https://open.spotify.com/album/1hJCYmBzQiuTMPoLMUxKDB) | 3:54 | 2020-12-01 |  |
+| [Yes, I've Been Crying](https://open.spotify.com/track/0H1uBZDlOg5oLVg5jB1g2q) | [Lavelle White](https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz) | [Miss Lavelle](https://open.spotify.com/album/7heUOSM7fmIfzwFQQkqYQ5) | 3:54 | 2020-12-01 |  |
+| [Yes, I've Been Crying](https://open.spotify.com/track/3IVdACtG1mtDxxcpZGORWY) | [Lavelle White](https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz) | [Miss Lavelle](https://open.spotify.com/album/1hJCYmBzQiuTMPoLMUxKDB) | 3:54 | 2020-12-01 | 2024-04-13 |
 | [You Can Stay But The Noise Must Go On](https://open.spotify.com/track/4tqT8X8t0hrZDnLgodafSt) | [Walter Wolfman Washington](https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T) | [Out Of The Dark](https://open.spotify.com/album/1WgkGmeDIjbxmJU7uu9MyP) | 6:20 | 2020-12-01 |  |
 | [You Got the Goods on You](https://open.spotify.com/track/5ad6BP0tSKEHMC2fOStbdj) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Sitting on Top of the Blues](https://open.spotify.com/album/2Kf9UPahXKB2vrPUcw7M10) | 4:03 | 2020-12-01 |  |
 | [You Push Me to My Limit](https://open.spotify.com/track/30FExzMY0ImrM8Rt80b4jF) | [Ellis Hooks](https://open.spotify.com/artist/34kbTdkDg4bV3RbJ4sf9ru) | [Black Market](https://open.spotify.com/album/1dkyqTdqIGnNc9etO4EroD) | 3:16 | 2020-12-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Shakira & Grupo Frontera
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,855 likes - 121 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,874 likes - 121 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

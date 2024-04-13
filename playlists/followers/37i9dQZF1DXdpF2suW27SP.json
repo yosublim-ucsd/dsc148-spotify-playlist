@@ -1,7 +1,7 @@
 {
-  "2024-04-12": 178126,
+  "2024-04-13": 178165,
   "date_first_scraped": "2022-07-17",
-  "description": "Ivandro e Slow J entram na zona. ",
+  "description": "Phoenix RDC entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -477,7 +477,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 143111,
       "name": "ACESSO",
       "url": "https://open.spotify.com/track/2YKBixZOIzcSPA4rCDrsVl"
@@ -641,6 +641,32 @@
       "duration_ms": 202388,
       "name": "ALL EYEZ ON ME",
       "url": "https://open.spotify.com/track/0DBTcVIDYmoSH0mnhwRwyI"
+    },
+    {
+      "album": {
+        "name": "Alzheimer",
+        "url": "https://open.spotify.com/album/4rhZGE1gzAwtXGUMoTRfWl"
+      },
+      "artists": [
+        {
+          "name": "Phoenix Rdc",
+          "url": "https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna"
+        },
+        {
+          "name": "Valete",
+          "url": "https://open.spotify.com/artist/32rAgIN6jhUQYhyoKa8agj"
+        },
+        {
+          "name": "AREM",
+          "url": "https://open.spotify.com/artist/2Wmg1PtAQHz3cDccFPISPn"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238246,
+      "name": "Alzheimer",
+      "url": "https://open.spotify.com/track/6TxW1rMOxdZCNrW2dEHQ7g"
     },
     {
       "album": {
@@ -3502,6 +3528,32 @@
     },
     {
       "album": {
+        "name": "Eu Sei #6",
+        "url": "https://open.spotify.com/album/7zxYPMBvLHPqSbpMQsl7V1"
+      },
+      "artists": [
+        {
+          "name": "Salah",
+          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
+        },
+        {
+          "name": "Timor YSF",
+          "url": "https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO"
+        },
+        {
+          "name": "MC Zaquin",
+          "url": "https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165957,
+      "name": "Eu Sei #6",
+      "url": "https://open.spotify.com/track/14iGjeiHaM9xTqjNYqANNL"
+    },
+    {
+      "album": {
         "name": "EUROPA (feat. Gson)",
         "url": "https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q"
       },
@@ -3657,7 +3709,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 144892,
       "name": "Falsas Promessas",
       "url": "https://open.spotify.com/track/4df02rGPOOrmAG32URpPHI"
@@ -4045,6 +4097,24 @@
       "duration_ms": 127113,
       "name": "FRESH AS FUKKK",
       "url": "https://open.spotify.com/track/2gQ0HjifSyj1fD1yyYV3SN"
+    },
+    {
+      "album": {
+        "name": "Full Energy",
+        "url": "https://open.spotify.com/album/6F7ekEU8gKdmlMulngcTfV"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185860,
+      "name": "Full Energy",
+      "url": "https://open.spotify.com/track/5hNNuSn3Fjlr02onQZsYYN"
     },
     {
       "album": {
@@ -4509,7 +4579,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 146000,
       "name": "Hello",
       "url": "https://open.spotify.com/track/6d0iSU9wwOk3sxSRxPkr7O"
@@ -5603,7 +5673,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 193389,
       "name": "Magia",
       "url": "https://open.spotify.com/track/7D6vr0BLYUoxumyckR4ZJy"
@@ -6677,6 +6747,24 @@
       "duration_ms": 215829,
       "name": "Noite De Loucura",
       "url": "https://open.spotify.com/track/2V8nMMUbjGSjwSTYfx6zjq"
+    },
+    {
+      "album": {
+        "name": "You Still Live Here",
+        "url": "https://open.spotify.com/album/0WrUfbhsCRilHauHojn1Py"
+      },
+      "artists": [
+        {
+          "name": "L\u00f3jico",
+          "url": "https://open.spotify.com/artist/6PRzGdn4WO9juMXyq2QRBw"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144761,
+      "name": "NOSOS2",
+      "url": "https://open.spotify.com/track/58eA6UM5GU2GGYo8139UxW"
     },
     {
       "album": {
@@ -9607,7 +9695,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 217782,
       "name": "Terapia",
       "url": "https://open.spotify.com/track/007WdvGuyIr8RcOU50AKR8"
@@ -10133,7 +10221,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 236814,
       "name": "underwater",
       "url": "https://open.spotify.com/track/4vfHRcjchtEjRLspB4HUpc"
@@ -10753,6 +10841,36 @@
       "duration_ms": 209000,
       "name": "\u00c9 Verdade",
       "url": "https://open.spotify.com/track/3pnhXjwXLLMfNrS9k9HbKh"
+    },
+    {
+      "album": {
+        "name": "\u00d3culos Escuros",
+        "url": "https://open.spotify.com/album/1Kf6UU45vNaefIvU4ZdVnL"
+      },
+      "artists": [
+        {
+          "name": "Tennaz",
+          "url": "https://open.spotify.com/artist/4rRsJzI4T5Q7LhNDUVAXmN"
+        },
+        {
+          "name": "beto no beat",
+          "url": "https://open.spotify.com/artist/0ziTKNGSLkw6fIZ9o4v4Tg"
+        },
+        {
+          "name": "King Defofera",
+          "url": "https://open.spotify.com/artist/2SY2GLnI0ba0yKuP9rb4Zs"
+        },
+        {
+          "name": "Godzila do Game",
+          "url": "https://open.spotify.com/artist/0RhRPlVPZDhW0nHlWPGeBt"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208535,
+      "name": "\u00d3culos Escuros",
+      "url": "https://open.spotify.com/track/3hsdUY0aRUXD7DxgyMR5G8"
     },
     {
       "album": {

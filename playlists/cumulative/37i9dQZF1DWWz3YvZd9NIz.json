@@ -1285,6 +1285,28 @@
     },
     {
       "album": {
+        "name": "Europapa: Greatest Hits",
+        "url": "https://open.spotify.com/album/7xyZRItvB1QLR3Sj83VDqx"
+      },
+      "artists": [
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Europapa (DJ Paul Elstak Remix)",
+      "url": "https://open.spotify.com/track/0dSXcpeqmi6Wdq6bZWcuGC"
+    },
+    {
+      "album": {
         "name": "Everytime We Touch (Sound Rush Remix)",
         "url": "https://open.spotify.com/album/48WmVfUVF8jCBCqFXB7Rkj"
       },
@@ -1594,6 +1616,24 @@
       "duration_ms": 164129,
       "name": "Gimme Bass",
       "url": "https://open.spotify.com/track/29mAlA42YLtpgMDWBmKb17"
+    },
+    {
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/2eCwDfttkmm40RzsvDQ9Ok"
+      },
+      "artists": [
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217532,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/0zDUzxZaH3nuhuf1GbwdGs"
     },
     {
       "album": {
@@ -3080,7 +3120,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 151500,
       "name": "Push Up - Hardstyle Remix",
       "url": "https://open.spotify.com/track/03UGNTWHnvznaFPQPJHPmt"
@@ -3970,7 +4010,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 174400,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0"

@@ -171,6 +171,40 @@
     },
     {
       "album": {
+        "name": "sua vez de escutar",
+        "url": "https://open.spotify.com/album/4osDSPHvkroyYR8qdfdqxq"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "MC Koringa",
+          "url": "https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171219,
+      "name": "a noite chega",
+      "url": "https://open.spotify.com/track/5dO1AzjYhd8gdC0nzojaYd"
+    },
+    {
+      "album": {
         "name": "A Volta Do Astro-Rei",
         "url": "https://open.spotify.com/album/2LjQqmOByHVX2pHDG68w6p"
       },
@@ -3780,6 +3814,24 @@
     {
       "album": {
         "name": "Fala na Cara",
+        "url": "https://open.spotify.com/album/6GyaSAQIYxiX1n2AzgydoI"
+      },
+      "artists": [
+        {
+          "name": "MC Hollywood",
+          "url": "https://open.spotify.com/artist/5jjAhuJ1IyVRmm4ZsXhsRG"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Fala na Cara",
+      "url": "https://open.spotify.com/track/5LSBcoX1joIOTkzvzd2qn1"
+    },
+    {
+      "album": {
+        "name": "Fala na Cara",
         "url": "https://open.spotify.com/album/7lJy7mlkpSW21llZgg96bb"
       },
       "artists": [
@@ -5450,6 +5502,40 @@
       "duration_ms": 221000,
       "name": "Louvre",
       "url": "https://open.spotify.com/track/3i6fLGNvs9r890mlKSystr"
+    },
+    {
+      "album": {
+        "name": "O Cara Do Momento, Vol. 2",
+        "url": "https://open.spotify.com/album/35C0UUdgV8mkuBaJrxbagf"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "DJ Gui",
+          "url": "https://open.spotify.com/artist/3ojbgoniv6UU4eR2HM22wK"
+        },
+        {
+          "name": "VALTINHO NO BEAT",
+          "url": "https://open.spotify.com/artist/5HgP28ZgL2iE3PyvaZ7xue"
+        },
+        {
+          "name": "Solanno",
+          "url": "https://open.spotify.com/artist/2B4P0FlRtczEUKlMWUnM4g"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211428,
+      "name": "LOVE LOVE",
+      "url": "https://open.spotify.com/track/1pOELyz8t0Why9R1XtAO5r"
     },
     {
       "album": {
@@ -9722,6 +9808,40 @@
       "duration_ms": 234461,
       "name": "Segundo Andar",
       "url": "https://open.spotify.com/track/7rwW1Si2yr1dlLj6G2eDnU"
+    },
+    {
+      "album": {
+        "name": "Selvagem",
+        "url": "https://open.spotify.com/album/7yQ6ezIIt2mD6bY5esJhp1"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "JP Diazz",
+          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+        },
+        {
+          "name": "Matheus Muniz",
+          "url": "https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196428,
+      "name": "Selvagem",
+      "url": "https://open.spotify.com/track/0PIhH4GRBYBcw20lkvEH2B"
     },
     {
       "album": {

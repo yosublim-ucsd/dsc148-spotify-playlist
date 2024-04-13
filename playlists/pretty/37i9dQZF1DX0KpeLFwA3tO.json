@@ -1,13 +1,209 @@
 {
-  "description": "The best new music from the wide world of punk. Cover: Four Year Strong",
-  "num_followers": 305957,
+  "description": "The best new music from the wide world of punk. Cover: BODEGA",
+  "num_followers": 306024,
   "original_name": "All New Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjI3NTIwMCwwMDAwMDAwMGI2YjQ5NzBiNzQyYWUxOTMzMWYzNDMzYmExMTE1OGU1",
+  "snapshot_id": "MTcxMjkxMjU2OCwwMDAwMDAwMDE0MWE2MjI5NDI4NGM0NTI5YTRlZWI4ODRiNjA3OTQ1",
   "tracks": [
+    {
+      "added_at": "2024-04-12 09:02:48",
+      "album": {
+        "name": "Our Brand Could Be Yr Life",
+        "url": "https://open.spotify.com/album/2bPeqXdzzjatAWeCI09gF1"
+      },
+      "artists": [
+        {
+          "name": "BODEGA",
+          "url": "https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5"
+        }
+      ],
+      "duration_ms": 160346,
+      "name": "ATM",
+      "url": "https://open.spotify.com/track/4jkJUXrUF5t0jDFDOjOybf"
+    },
+    {
+      "added_at": "2024-04-12 09:02:48",
+      "album": {
+        "name": "Liminal",
+        "url": "https://open.spotify.com/album/0WrtmOTnb3dLugmxuXWIrk"
+      },
+      "artists": [
+        {
+          "name": "Belmont",
+          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
+        }
+      ],
+      "duration_ms": 224888,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/6qMrFgWAV9zpSyhdTM0tBl"
+    },
+    {
+      "added_at": "2024-04-12 09:02:48",
+      "album": {
+        "name": "When We Were Young (feat. Bowling For Soup)",
+        "url": "https://open.spotify.com/album/40R60muWYyAVfngs2hVZfj"
+      },
+      "artists": [
+        {
+          "name": "Mest",
+          "url": "https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK"
+        },
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/6P3lvFpPSQi8kCbiExoKg9"
+        }
+      ],
+      "duration_ms": 179684,
+      "name": "When We Were Young (feat. Bowling For Soup)",
+      "url": "https://open.spotify.com/track/5Ia75Gb9IdPKsAuU7v93PL"
+    },
+    {
+      "added_at": "2024-04-12 09:02:48",
+      "album": {
+        "name": "Application For Release From The Dream",
+        "url": "https://open.spotify.com/album/3PZAIjJNFvJzAWt48z8wUw"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 269721,
+      "name": "Application For Release From The Dream",
+      "url": "https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC"
+    },
+    {
+      "added_at": "2024-04-12 09:02:48",
+      "album": {
+        "name": "WEIRDO",
+        "url": "https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz"
+      },
+      "artists": [
+        {
+          "name": "GANG!",
+          "url": "https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C"
+        }
+      ],
+      "duration_ms": 155526,
+      "name": "WEIRDO",
+      "url": "https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ"
+    },
+    {
+      "added_at": "2024-04-12 09:02:48",
+      "album": {
+        "name": "Dead to Me",
+        "url": "https://open.spotify.com/album/7ITI3SiDikWH4ivHKBnUkF"
+      },
+      "artists": [
+        {
+          "name": "Gaffa Tape Sandy",
+          "url": "https://open.spotify.com/artist/00P2dAOymeYKFx4OSaVgw1"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/3jZ9j6pqDnZKpwuXU2QnKV"
+    },
+    {
+      "added_at": "2024-04-12 09:02:48",
+      "album": {
+        "name": "Side Of The Road/Chewing On Broken Glass",
+        "url": "https://open.spotify.com/album/7tWtd09dvvRx4nRyqcXOUm"
+      },
+      "artists": [
+        {
+          "name": "Hot Water Music",
+          "url": "https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff"
+        }
+      ],
+      "duration_ms": 197957,
+      "name": "Side Of The Road",
+      "url": "https://open.spotify.com/track/1tOsGSiTzArHpfHa7D1qUU"
+    },
+    {
+      "added_at": "2024-04-12 09:02:48",
+      "album": {
+        "name": "Breaking Up With",
+        "url": "https://open.spotify.com/album/2FTXKWHVPdpZkRCYnG1d3L"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        }
+      ],
+      "duration_ms": 199412,
+      "name": "Breaking Up With",
+      "url": "https://open.spotify.com/track/5hJwhnnKiTgP3VySgUx5Xq"
+    },
+    {
+      "added_at": "2024-04-12 09:02:48",
+      "album": {
+        "name": "Ruiner",
+        "url": "https://open.spotify.com/album/091osy7G7DbCy5NuBjbAJg"
+      },
+      "artists": [
+        {
+          "name": "The Spill Canvas",
+          "url": "https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj"
+        }
+      ],
+      "duration_ms": 202331,
+      "name": "Ruiner",
+      "url": "https://open.spotify.com/track/36WpXM0TQtY7PGCAbIvpb1"
+    },
+    {
+      "added_at": "2024-04-12 09:02:48",
+      "album": {
+        "name": "In Lieu Of Flowers",
+        "url": "https://open.spotify.com/album/7AD9yxetOfulcCBFHvyuxv"
+      },
+      "artists": [
+        {
+          "name": "Aaron West and The Roaring Twenties",
+          "url": "https://open.spotify.com/artist/59cc2f0IvGu6YVEtY4cS0p"
+        }
+      ],
+      "duration_ms": 214741,
+      "name": "Spitting In The Wind",
+      "url": "https://open.spotify.com/track/3Lu7oymnqlIGUxcHgNShsK"
+    },
+    {
+      "added_at": "2024-04-12 09:02:48",
+      "album": {
+        "name": "Hopefully Pitchfork Doesn't Hear This",
+        "url": "https://open.spotify.com/album/01GmOq8jksLHTkozUJ9Ixg"
+      },
+      "artists": [
+        {
+          "name": "Super American",
+          "url": "https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2"
+        }
+      ],
+      "duration_ms": 146600,
+      "name": "Hopefully Pitchfork Doesn't Hear This",
+      "url": "https://open.spotify.com/track/3D6N0OuzZPTEDP9MfSIgA0"
+    },
+    {
+      "added_at": "2024-04-12 09:02:48",
+      "album": {
+        "name": "I Might Even",
+        "url": "https://open.spotify.com/album/5YfS377Mtgsb8iLedQ8d9q"
+      },
+      "artists": [
+        {
+          "name": "Pluto The Racer",
+          "url": "https://open.spotify.com/artist/5JOYHHF1xocXGsPuQHn3qB"
+        }
+      ],
+      "duration_ms": 211750,
+      "name": "I Might Even",
+      "url": "https://open.spotify.com/track/0o6gUdTu6YA4vHH7HWFTVd"
+    },
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {

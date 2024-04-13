@@ -1,13 +1,29 @@
 {
   "description": "The jam scene is alive and well. Cover: SunSquabi",
-  "num_followers": 29985,
+  "num_followers": 30015,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjI4OTY2MCwwMDAwMDAwMDM4OTFhMTE0Y2Q3NDBhODU2MGIzOGEzODYzYWNjNzNm",
+  "snapshot_id": "MTcxMjg5NDQ2MCwwMDAwMDAwMDNlNTk3ODFlZGE1ZTQ4NTM3NDk1ODVhYzM3ZWY2M2Q3",
   "tracks": [
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/0WEz9Ie0cx9AFaiM40bi4Q"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "duration_ms": 252160,
+      "name": "Evolve",
+      "url": "https://open.spotify.com/track/6M7LYr6R248JrG3eoA0Xui"
+    },
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
@@ -1256,7 +1272,7 @@
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Native Sons",
-        "url": "https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM"
+        "url": "https://open.spotify.com/album/1uqu7aUJh1qONoGAI0Sd23"
       },
       "artists": [
         {
@@ -1266,7 +1282,7 @@
       ],
       "duration_ms": 513070,
       "name": "The World Is A Ghetto",
-      "url": "https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI"
+      "url": "https://open.spotify.com/track/184uLww2SrfPYRWs6RuyGN"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1611,22 +1627,6 @@
       "duration_ms": 245640,
       "name": "Jones Wood",
       "url": "https://open.spotify.com/track/1OpFysVRkTntwZvsLatw25"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Tracking Buffalo Through the Bathtub",
-        "url": "https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx"
-      },
-      "artists": [
-        {
-          "name": "The Big Wu",
-          "url": "https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0"
-        }
-      ],
-      "duration_ms": 532666,
-      "name": "Red Sky",
-      "url": "https://open.spotify.com/track/6GeA7HIChjhFR5JsRHVTdV"
     },
     {
       "added_at": "2023-01-13 05:01:00",

@@ -1,13 +1,33 @@
 {
   "description": "The best of modern blues rock. Cover: Slash",
-  "num_followers": 200535,
+  "num_followers": 200728,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMTA4MDA2MCwwMDAwMDAwMGY3OThiNDc4ZWM5ZDAxMzc3NGMzMmM2MDljOTUwM2Rk",
+  "snapshot_id": "MTcxMjg5NDQ2MCwwMDAwMDAwMDc2NDNlZjAxM2ZmYTBhNWVmZjRiZTViZTIyNmI2MDdm",
   "tracks": [
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Oh Well feat. Chris Stapleton",
+        "url": "https://open.spotify.com/album/0Rl9omLw3rdkK7OiSnHGAG"
+      },
+      "artists": [
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 273520,
+      "name": "Oh Well feat. Chris Stapleton",
+      "url": "https://open.spotify.com/track/6xvriZfsi9MZ8TAE2wqY2z"
+    },
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
@@ -23,26 +43,6 @@
       "duration_ms": 187960,
       "name": "Put Your Money On Me",
       "url": "https://open.spotify.com/track/3nFZSnjeCfNLVFPK1nnXZF"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Killing Floor feat. Brian Johnson",
-        "url": "https://open.spotify.com/album/7FESKHlpDZ7tQO7AFb9si8"
-      },
-      "artists": [
-        {
-          "name": "Slash",
-          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
-        },
-        {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/0TJOVQKoS7sbGVn8RkkvPI"
-        }
-      ],
-      "duration_ms": 258653,
-      "name": "Killing Floor feat. Brian Johnson",
-      "url": "https://open.spotify.com/track/7anM2SqhfeXgFAAnjYVK3e"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -503,8 +503,8 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "The Deep and the Dirty",
-        "url": "https://open.spotify.com/album/67KkHhNmrpt1NkoiRW1cXc"
+        "name": "The Deep And The Dirty",
+        "url": "https://open.spotify.com/album/2xXRnrq7Q0eXvdSCvCMimk"
       },
       "artists": [
         {
@@ -513,8 +513,8 @@
         }
       ],
       "duration_ms": 227798,
-      "name": "The Deep and the Dirty",
-      "url": "https://open.spotify.com/track/3nQpyaOEql2BECg4QmaCrF"
+      "name": "The Deep And The Dirty",
+      "url": "https://open.spotify.com/track/7muqW2jlmexIiyQpVz2eaR"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1376,7 +1376,7 @@
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "QCNH",
-        "url": "https://open.spotify.com/album/0kGed2LeKgJxM3wiX8ykt2"
+        "url": "https://open.spotify.com/album/3RqzS1i0EjYgPr25RLZcfB"
       },
       "artists": [
         {
@@ -1386,7 +1386,7 @@
       ],
       "duration_ms": 173253,
       "name": "Suit in the Back",
-      "url": "https://open.spotify.com/track/4EzxzCXgjuHFgWx1j2xDHc"
+      "url": "https://open.spotify.com/track/53vycZVVC4nbAgwQy3q5YU"
     },
     {
       "added_at": "2021-04-09 04:00:00",
@@ -1512,7 +1512,7 @@
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "ATW",
-        "url": "https://open.spotify.com/album/29zIQDGwvtcvbaqCISJSMC"
+        "url": "https://open.spotify.com/album/4CTIdxGlMTpg8VCzBADuvw"
       },
       "artists": [
         {
@@ -1522,7 +1522,7 @@
       ],
       "duration_ms": 275200,
       "name": "Half-Tongue",
-      "url": "https://open.spotify.com/track/3n2fRYNaGoDygheFYRJlNM"
+      "url": "https://open.spotify.com/track/0zuZit0pFlvRaI7D24VUus"
     },
     {
       "added_at": "2022-03-11 05:02:00",

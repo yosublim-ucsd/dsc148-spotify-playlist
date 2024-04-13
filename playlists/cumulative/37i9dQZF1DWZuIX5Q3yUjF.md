@@ -4,7 +4,7 @@
 
 > Il meglio dell'R&B italiano\. Cover: Sissi
 
-517 songs - 1 day 1 hr 36 min
+522 songs - 1 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Giorni che esplodono](https://open.spotify.com/track/7KoU2DLPJXnKNIu3ikzgIR) | [Mangrovia Twang](https://open.spotify.com/artist/7rLOdLmfwrFQnKitstFDeg), [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Giorni che esplodono](https://open.spotify.com/album/6SVSdsb4X0w73ZnMqQGRHx) | 3:04 | 2022-05-12 | 2022-10-28 |
 | [Giorno libero](https://open.spotify.com/track/5FwJ5dvTZ2JVxDV6qlofv7) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Giorno libero](https://open.spotify.com/album/1T91IU4oG4jewoYT6khMlU) | 3:27 | 2023-03-30 |  |
 | [Giovani](https://open.spotify.com/track/4r5AWNZpuNmAqMxFZ2cLCM) | [LocoLab](https://open.spotify.com/artist/0Z0q0SK9yVrufu1rAY3iOw), [G\-laspada](https://open.spotify.com/artist/73RmVTPm4JCwKXXZz2V7yW), [Il III](https://open.spotify.com/artist/4gOxU8ykTDVpC7ErTI1Cv3) | [Giovani](https://open.spotify.com/album/5VSPR5wdl2yxoszGQaTaO5) | 3:20 | 2022-09-08 | 2022-10-14 |
+| [Goccia goccia](https://open.spotify.com/track/031szRldfCkNk6QR83QG1s) | [Nico Arezzo](https://open.spotify.com/artist/58NJMW79swpy2lbC6BM35V) | [Goccia goccia](https://open.spotify.com/album/3cWxT57YUyi84lqR3oQzOZ) | 3:35 | 2024-04-12 |  |
 | [God Is Good](https://open.spotify.com/track/0KSMnvQjXjimr0eBa1zzOL) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2) | [God Is Good](https://open.spotify.com/album/0QMymvAm1kRZ1t9bOTvqqO) | 2:28 | 2023-11-30 | 2024-02-02 |
 | [Grazie](https://open.spotify.com/track/0ZAIqhIbiIxIRCX3YahwK5) | [Tatomi](https://open.spotify.com/artist/0GZSD6FH5YD9xcTLFcqSxv) | [Grazie](https://open.spotify.com/album/6avdsvWmlitDikFWDECKiT) | 3:43 | 2022-08-05 | 2022-10-21 |
 | [Grido \(Di Notte\)](https://open.spotify.com/track/2Ly5ZoBeOeUaNGaXk3UKIR) | [Marquis](https://open.spotify.com/artist/085cKKfPPbCCfU5LBPXkuC), [Marianne Mirage](https://open.spotify.com/artist/1hhYq9Huoi1NVi4BXkRBn0), [Loris Gentile](https://open.spotify.com/artist/5N9gXQEL7vPr8hTQOAMmqY) | [Grido \(Di Notte\)](https://open.spotify.com/album/16aqA0wKV2jEwbeV50ffLw) | 3:51 | 2022-05-26 | 2022-10-07 |
@@ -300,6 +301,7 @@
 | [Morire così](https://open.spotify.com/track/5jQTtIoySA3wz57mny0dqV) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy) | [Aurora Boreale](https://open.spotify.com/album/3nNoz14HXFxQk26LZit46f) | 2:16 | 2023-09-14 | 2023-11-03 |
 | [Morsi](https://open.spotify.com/track/5k0bWnsm97QQQHuMs0wIvG) | [Andrea Blanc](https://open.spotify.com/artist/6WGCfH6ATZyAe39uWtPLR4), [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6) | [Morsi](https://open.spotify.com/album/2rZEMo1uGjBPEOnMCCL1GP) | 3:29 | 2022-08-11 | 2022-08-26 |
 | [Mostro](https://open.spotify.com/track/7iR0VBMG8q5yQBAKyrHxzI) | [Calmo](https://open.spotify.com/artist/4Wx3ZL6d6p1gVMtwQ2YWsz) | [Mostro](https://open.spotify.com/album/1lCLtg7sx2uGudBKIOXR3k) | 2:51 | 2023-11-02 | 2023-12-15 |
+| [mozzicone](https://open.spotify.com/track/1sfRtz5iKbpzOxAWluRhLW) | [joe croci](https://open.spotify.com/artist/48AI6QByBPDMRrZZDskGzD) | [mozzicone](https://open.spotify.com/album/2pASAiBUfL9NbwS8DSHwdN) | 2:45 | 2024-04-12 |  |
 | [M’AMA](https://open.spotify.com/track/4M9QcyOAf0dxDOzUr71DSS) | [Thoé](https://open.spotify.com/artist/6Ft5DoZtQ4aoquM97AjjBG) | [M’AMA](https://open.spotify.com/album/0dxzTx9DQbOdYHKRfH7umG) | 3:25 | 2024-01-11 |  |
 | [N'Anima](https://open.spotify.com/track/5lELyaYDICf3gj0xjXleOs) | [Naomi](https://open.spotify.com/artist/3dbuSqzwPQGqucy4evhJUB) | [N'Anima](https://open.spotify.com/album/13ECmY0qa7soTUErZ1IElY) | 2:54 | 2023-10-26 | 2023-12-15 |
 | [N'ata vot \(Perdono\)](https://open.spotify.com/track/37lmdEdm1GtJBZEK3Z5Xt6) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou) | [N'ata vot \(Perdono\)](https://open.spotify.com/album/0Hr1MneqQzVojY96cu5sm7) | 2:35 | 2024-03-20 |  |
@@ -430,6 +432,7 @@
 | [SEXTING](https://open.spotify.com/track/60wzYORsvLUZtlmGGPrbRt) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [SEXTING](https://open.spotify.com/album/2vWSVoc1V0ZXNy0qWt1Pl2) | 3:04 | 2024-03-21 |  |
 | [sfumature blu](https://open.spotify.com/track/7IzxGKw9eFHoLZlTMnJnKx) | [sara j jones](https://open.spotify.com/artist/7I3cZK2UEuNOwZAHov9z9o) | [sfumature blu](https://open.spotify.com/album/546RwR7WQx3n88cP6bS6fC) | 2:46 | 2024-03-07 |  |
 | [SHIKORINA \(feat\. Sina Tekle\)](https://open.spotify.com/track/3eQg7hoyTvnvH0yBbfnRqO) | [Gojardi](https://open.spotify.com/artist/2BK1KTuteomgkZ5ta3crjk), [Sina Tekle](https://open.spotify.com/artist/3jhexNp8ak2GP9dEqmRLdv) | [SHIKORINA \(feat\. Sina Tekle\)](https://open.spotify.com/album/0kaKjVZXXqjLnIcBo5wxrG) | 2:03 | 2024-01-25 |  |
+| [Si potesse tornare](https://open.spotify.com/track/51IzBNnJ0MZgdQLrrBuuv7) | [Arya](https://open.spotify.com/artist/1Rr944KwI8GqDCdzdsHYok) | [Si potesse tornare](https://open.spotify.com/album/6dtLixuAy2xCAIotIjfiut) | 3:25 | 2024-04-12 |  |
 | [Siberiana](https://open.spotify.com/track/4QlmhdJeIc1490DXIm614c) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Siberiana](https://open.spotify.com/album/7AyBApLEQ2BOBiGlBEiFar) | 3:30 | 2022-05-05 | 2022-11-11 |
 | [Sinapsi](https://open.spotify.com/track/0uTtp0BOYYfLOXcoTnpoW1) | [Thoé](https://open.spotify.com/artist/6Ft5DoZtQ4aoquM97AjjBG), [Faffa](https://open.spotify.com/artist/712OERsh8L3Idtmq8paMNg) | [Sinapsi](https://open.spotify.com/album/6tBUkaBFnUxzPRnDu0GMuj) | 2:23 | 2024-04-04 |  |
 | [SINCERO](https://open.spotify.com/track/1LLZBXC83e2qBZBSTdxyf5) | [HERMES](https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm) | [SINCERO](https://open.spotify.com/album/5PF3YX0cZsjXPgBnELtsyB) | 2:58 | 2022-10-13 | 2023-03-10 |
@@ -437,8 +440,10 @@
 | [Sogni lucidi](https://open.spotify.com/track/3eEXsbKITTX3rxS6xan1nH) | [Malakiia](https://open.spotify.com/artist/0f86xQ9MwhbVSBpOaDc7mP) | [Komorebi](https://open.spotify.com/album/7CLiWGzgYlMEyqBUO966aI) | 3:50 | 2024-01-11 | 2024-02-02 |
 | [Sola Stanotte](https://open.spotify.com/track/2TbycklvUML4V0SaGqrVT5) | [giuliettacome](https://open.spotify.com/artist/5aCxPqEEmzoZSOJnP94gUR) | [Sola Stanotte](https://open.spotify.com/album/0Xkwup8jEPapkMIG4AEhcG) | 3:21 | 2023-04-06 | 2023-06-30 |
 | [Soli Qui](https://open.spotify.com/track/3cTUBNsVv0ED2rhbbjFBlC) | [johara](https://open.spotify.com/artist/5c4D7WHqD6FZggQ3K4atAh) | [Soli Qui](https://open.spotify.com/album/3qbYWZEtCkuxy5bKbb3tPA) | 2:16 | 2022-06-16 | 2023-03-03 |
+| [SOLO CON ME](https://open.spotify.com/track/3pdt57RWAsVoJqwL8frIiW) | [imthatboi](https://open.spotify.com/artist/4hOMc8Shbw9RgGtUUd9qFo), [MaRie](https://open.spotify.com/artist/3nm9CmFDy9avfS3zXHFANC) | [SOLO CON ME](https://open.spotify.com/album/6clmwCO7Ir55Q83AN2EyWx) | 2:12 | 2024-04-12 |  |
 | [Solo Io e Te](https://open.spotify.com/track/6C4vU6dtVR30RWuRvqtJqz) | [Nesta](https://open.spotify.com/artist/2t9oRNS17o1j42vJn9U2aT) | [Solo Io e Te](https://open.spotify.com/album/2zRcv0XcSZa3EkPyD5YUmE) | 3:04 | 2023-03-09 | 2023-05-05 |
 | [SOLO PER TE](https://open.spotify.com/track/5Lym9E14zAnv4b2FJYfEp5) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [SOLO PER TE](https://open.spotify.com/album/4u8rILA5sJgKIJidTObCpV) | 3:19 | 2023-02-23 | 2023-05-05 |
+| [Solo un uomo](https://open.spotify.com/track/2ppFjS9GeZs9DLZQM6Zuhf) | [Jeson](https://open.spotify.com/artist/6uVlpDGzypl2DCmRpl08eg), [MDM](https://open.spotify.com/artist/032qvE1MP5hNKELAxsXwBI) | [Solo un uomo](https://open.spotify.com/album/6wqYhmKWxOm1z2XZl99nZe) | 3:13 | 2024-04-12 |  |
 | [Sometimes](https://open.spotify.com/track/4v7o3iqvL88jdc2HzADlMZ) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4), [Lieve](https://open.spotify.com/artist/0qSgoagy2DEfXutsC4AOD3) | [Sometimes](https://open.spotify.com/album/7J2m4K1xj7eRWn2zk1OuJ9) | 2:24 | 2024-03-21 |  |
 | [Sopra Una Mustang](https://open.spotify.com/track/25HgfzXOze0RTThzab9Ix4) | [Alibi](https://open.spotify.com/artist/3s7S0D0ZVdpaWn2lPsMVDa) | [Sopra Una Mustang](https://open.spotify.com/album/5wxfnoMv5IXgkhclKcGwFI) | 3:09 | 2023-03-09 | 2023-05-05 |
 | [Soqquadro](https://open.spotify.com/track/4J4vyiu3YAO1vT8tepU6zw) | [Valerienne](https://open.spotify.com/artist/79dkAMxiQQf2gPZ31ZcXIf) | [Soqquadro](https://open.spotify.com/album/6mrWju1mCi2U0cJyZRNo2F) | 3:17 | 2022-11-10 | 2023-02-03 |

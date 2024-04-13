@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 96036,
+  "2024-04-13": 96150,
   "date_first_scraped": "2022-06-22",
   "description": "The finest set of Malayalam music from the past 10 years.\nCover : Manjummel Boys",
   "name": "Mollywood Gold",
@@ -458,6 +458,28 @@
     },
     {
       "album": {
+        "name": "Cherathukal (From \"Kumbalangi Nights\")",
+        "url": "https://open.spotify.com/album/6cVxt7ji6NhuzOZ6v77OUz"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Sithara Krishnakumar",
+          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224016,
+      "name": "Cherathukal (From \"Kumbalangi Nights\")",
+      "url": "https://open.spotify.com/track/28QVx4uaJ7ykBiPFkzTYWn"
+    },
+    {
+      "album": {
         "name": "Kumbalangi Nights (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6U0sKj7nG5fnmwIQmpQa2b"
       },
@@ -473,7 +495,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 224016,
       "name": "Cherathukal (From \"Kumbalangi Nights\")",
       "url": "https://open.spotify.com/track/61G0A2wB1KhHo75ojSwpRd"
@@ -2577,6 +2599,28 @@
     {
       "album": {
         "name": "Maradona (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ofLMJdht02T6MNeXwT8zw"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Neha S. Nair",
+          "url": "https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228484,
+      "name": "Nilapakshi Happy Version",
+      "url": "https://open.spotify.com/track/6GuUpRsSJAhdkwWGoW9Kfx"
+    },
+    {
+      "album": {
+        "name": "Maradona (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4xW8gYFnuIbWoWhnluumNo"
       },
       "artists": [
@@ -2595,7 +2639,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 228484,
       "name": "Nilapakshi Happy Version",
       "url": "https://open.spotify.com/track/6BvRT4pR5sr3jHgrTYAtbp"

@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 276768,
+  "2024-04-13": 276789,
   "date_first_scraped": "2021-12-21",
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
   "name": "mint Acoustic",
@@ -57,7 +57,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 61711,
       "name": "7.6.14 (Intro)",
       "url": "https://open.spotify.com/track/5a2yGUOkbAMo71lu8lkQ7K"
@@ -4677,7 +4677,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 229701,
       "name": "Waiting - Strings & Vocals Mix",
       "url": "https://open.spotify.com/track/6ctvgLJJZQkdzch0L1dj7X"

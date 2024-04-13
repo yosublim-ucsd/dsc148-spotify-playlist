@@ -2,7 +2,7 @@
 
 ### [Sunday Praise](https://open.spotify.com/playlist/37i9dQZF1DX59TepszZ0eE)
 
-> Celebrate 10 years of "<a href=https://open.spotify.com/album/3mHxSlMvvFPNA3DSnuYrvr?si=8G1\-Ky4QS9anz0EYqFS44A>Joyous Celebration</a>, Vol\. 18: One Purpose" with us!
+> Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/21fiKdzTbnSKNmYUnyggga?si=k2\_K6pJqTdyARlv\_VNY97w>The Fellowship</a>
 
 259 songs - 1 day 2 hr 37 min
 

@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "A Little Techno",
+        "url": "https://open.spotify.com/album/7ohBu7NjyuJ723V3b9wED1"
+      },
+      "artists": [
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "A Little Techno",
+      "url": "https://open.spotify.com/track/4mOh1Pv4RdYN0MpTmqs3ce"
+    },
+    {
+      "album": {
         "name": "Action",
         "url": "https://open.spotify.com/album/0gAtf1frqEswUJlQFZOKQm"
       },
@@ -1326,6 +1344,24 @@
       "duration_ms": 256389,
       "name": "Destination",
       "url": "https://open.spotify.com/track/7pDbNJJyVfglnEjSI2Ka6j"
+    },
+    {
+      "album": {
+        "name": "DiscoTech",
+        "url": "https://open.spotify.com/album/698cfH6j3yX8vBqWSAg5lt"
+      },
+      "artists": [
+        {
+          "name": "Boslyk",
+          "url": "https://open.spotify.com/artist/1rGIIV4URDuQj5y0FYoL0r"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148056,
+      "name": "DiscoTech",
+      "url": "https://open.spotify.com/track/17F6myLWeg7xqutfsyUEgq"
     },
     {
       "album": {
@@ -2890,6 +2926,28 @@
       "duration_ms": 172006,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/7ym4T5J0jCYq86MiJbj1la"
+    },
+    {
+      "album": {
+        "name": "Let's Dance Tonight",
+        "url": "https://open.spotify.com/album/0ipPlwc1J03LexVvjUEN4N"
+      },
+      "artists": [
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        },
+        {
+          "name": "DJ Mii",
+          "url": "https://open.spotify.com/artist/5RqV5Ga5EPI4NlgsiELB4m"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156812,
+      "name": "Let's Dance Tonight",
+      "url": "https://open.spotify.com/track/6jMPTYHDu4rPDxOZXVr6Mt"
     },
     {
       "album": {

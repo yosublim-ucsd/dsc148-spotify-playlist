@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,699 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,723 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 61 | [I've Got Reasons](https://open.spotify.com/track/0XdkAB76rEDoZeycSu4Vh5) | [The Greyboy Allstars](https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07) | [I've Got Reasons](https://open.spotify.com/album/6rc0o370jH6rCKO0yMZsZk) | 4:42 |
 | 62 | [Love Somebody](https://open.spotify.com/track/0R3eQDXzFLPdC9Q9Toj1ys) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Love Somebody](https://open.spotify.com/album/2VIaLN4IxLM3u7U7TInMGk) | 2:49 |
 | 63 | [Bewise](https://open.spotify.com/track/0F95zronVQU2C77EN15kny) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Bewise](https://open.spotify.com/album/1EeQWZK8nAfOHHXe95DlTc) | 3:43 |
-| 64 | [Better Off Dead \(feat\. Nikki Lane\)](https://open.spotify.com/track/4HGyzxbytL3DHMt7b2ZdDt) | [Boulevards](https://open.spotify.com/artist/1OO2uAMcUCXUkFzDdsr7x7), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Electric Cowboy: Born In Carolina Mud](https://open.spotify.com/album/7uMzDIJ4UbE8aCKZCTareh) | 4:09 |
+| 64 | [Better Off Dead \(feat\. Nikki Lane\)](https://open.spotify.com/track/1cBEYZv1y4XmYS7oryIYYT) | [Boulevards](https://open.spotify.com/artist/1OO2uAMcUCXUkFzDdsr7x7), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Electric Cowboy: Born In Carolina Mud](https://open.spotify.com/album/4rxzFrDrzoGfnBptKhEzxN) | 4:09 |
 | 65 | [Brand New Day](https://open.spotify.com/track/6162qDKnzcPSOh1NcqoLM3) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Break the Wall](https://open.spotify.com/album/0EF3hnwr3Go8xCwBxC7gcE) | 3:59 |
 | 66 | [Funky Chick](https://open.spotify.com/track/2fedMEurhK2S48JlKSTaBu) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Brownout](https://open.spotify.com/artist/75ITBSKqlC5hlS4PZ2XP1S), [Tomar Williams](https://open.spotify.com/artist/2fzU2rB7Q6czKOCJ6g79cD) | [Funky Chick](https://open.spotify.com/album/0Y4HFxgJ9AKnKElCC56bVV) | 3:34 |
 | 67 | [We Can Work it Out](https://open.spotify.com/track/7gsAzeAY7SZXcHbfGg9X0J) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [We Can Work it Out](https://open.spotify.com/album/00gL2Gu8zFTvgvmRvq4Ka7) | 3:04 |

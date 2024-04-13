@@ -2,9 +2,9 @@
 
 ### [IndiEnglish](https://open.spotify.com/playlist/37i9dQZF1DX6sDj4CL6UK6)
 
-> Top English songs from Asia\. Cover: Derek & The Cats, Frizzell D'souza
+> Top English songs from Asia\. Cover: Frizzell D'souza
 
-288 songs - 16 hr 40 min
+289 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Midnight Till Dawn](https://open.spotify.com/track/09tHTTwxrj0s5MalRj7J4n) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [ROYAL ESTATE](https://open.spotify.com/artist/0VHEsvWyL8en9IA2JI4jzh) | [Midnight Till Dawn](https://open.spotify.com/album/3DlIiyHpqcLBoffxq8QtSr) | 2:31 | 2023-05-19 | 2023-05-24 |
 | [Midnite Spaceflite](https://open.spotify.com/track/6Rwdw7zWGXojCdpRvF661T) | [Aditya Rao](https://open.spotify.com/artist/1R1TnxUWLvnOzsBChmemTa) | [Midnite Spaceflite](https://open.spotify.com/album/0IeEWXCjt42ZgAVRUnPmWn) | 3:26 | 2022-09-02 | 2023-02-01 |
 | [Miracle](https://open.spotify.com/track/5daYg1jlX2JoOgDnlK4V0m) | [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [Miracle](https://open.spotify.com/album/2OPof019rnmR6xThgEF71j) | 3:49 | 2022-03-25 | 2023-05-20 |
-| [Miss You](https://open.spotify.com/track/5eFpCo6wfmmP3zwL79ZSyD) | [Manasvi Baheti](https://open.spotify.com/artist/38LujpTHpARgjdkKtGOQF8) | [Miss You](https://open.spotify.com/album/233LzLb6HUXsULaqfflPl2) | 3:51 | 2024-03-27 |  |
+| [Miss You](https://open.spotify.com/track/5eFpCo6wfmmP3zwL79ZSyD) | [Manasvi Baheti](https://open.spotify.com/artist/38LujpTHpARgjdkKtGOQF8) | [Miss You](https://open.spotify.com/album/233LzLb6HUXsULaqfflPl2) | 3:51 | 2024-03-27 | 2024-04-13 |
 | [Model](https://open.spotify.com/track/2Zazn9812HoUjjs1fN6cMP) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Model](https://open.spotify.com/album/4GSiUIXVqq2mICYcy6CAhC) | 3:22 | 2023-08-25 | 2024-03-19 |
 | [Monopoly Money](https://open.spotify.com/track/2HHI9VOqg0nY4SOdwLLllZ) | [Shor Police](https://open.spotify.com/artist/58Wsx9FbcjSM8a6kzLf03W) | [Monopoly Money](https://open.spotify.com/album/6IaKWgpPEkAPo1n0R3G8A6) | 2:48 | 2023-03-20 | 2023-04-29 |
 | [Moondance](https://open.spotify.com/track/17yvccxoD44O8rWIa0P03W) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Moondance](https://open.spotify.com/album/7qQifVVRwztG6YPGvU8sBr) | 3:24 | 2023-10-27 | 2024-03-02 |
@@ -221,6 +221,7 @@
 | [Run Away Fade Away](https://open.spotify.com/track/30KmgCXlmMo7G02ddJpmzW) | [Ribhavv](https://open.spotify.com/artist/01nF5O4sTf8RDuec39ZPnp) | [Run Away Fade Away](https://open.spotify.com/album/5ITni3RafLU4NmygkabTYM) | 2:58 | 2023-03-03 | 2023-09-07 |
 | [Run Away Fade Away](https://open.spotify.com/track/5HhVt8U5NqH4zzOgfNESFx) | [Ribhavv](https://open.spotify.com/artist/01nF5O4sTf8RDuec39ZPnp) | [Run Away Fade Away](https://open.spotify.com/album/1hWKy5EBlTQU2E8JnZvrtv) | 2:58 | 2022-03-25 | 2023-03-12 |
 | [Run to the Ocean](https://open.spotify.com/track/5LNCjqlDfOb8Pki1j1UWx5) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Run to the Ocean](https://open.spotify.com/album/7g114toMJHLl21XaZfh81e) | 4:10 | 2022-03-25 | 2023-05-24 |
+| [S.O.T.I\. \(Strangers On The Internet\)](https://open.spotify.com/track/06sNozukABz39ZsUtJuCj5) | [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [S.O.T.I\. \(Strangers On The Internet\)](https://open.spotify.com/album/6TMdWV3qpSH8irxIpDhKUk) | 2:46 | 2024-04-12 |  |
 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 | 2023-07-21 |  |
 | [Sad in December](https://open.spotify.com/track/3RBEmnwchGJYy9Ugg50CJt) | [Jo Shy](https://open.spotify.com/artist/3dGrlw7Q1uchukqr9p6OlP) | [Sad in December](https://open.spotify.com/album/6dWnUboP9NZWRZgcLsS7Y7) | 3:18 | 2022-12-20 | 2023-03-22 |
 | [Schoolbus](https://open.spotify.com/track/0kQW2QuxGyygGQAREdGILd) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [Issamood](https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW), [Tintin](https://open.spotify.com/artist/4UqI6vZZIuZAT4d2yzVnYA) | [593, Vol\. I](https://open.spotify.com/album/1UtL4DXUWM7Qs6TeL42I5I) | 2:28 | 2022-03-25 | 2022-04-06 |

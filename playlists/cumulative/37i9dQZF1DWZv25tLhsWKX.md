@@ -4,7 +4,7 @@
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: The War and Treaty
 
-91 songs - 5 hr 34 min
+93 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [That's How Love Is Made](https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [That's How Love Is Made](https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP) | 3:46 | 2022-08-26 |  |
 | [The Dark End of the Street](https://open.spotify.com/track/5vWMCGVeGxp3PEdvpDN3a0) | [James Carr](https://open.spotify.com/artist/59fzcTUsoozikLmRY1SwHS) | [You Got My Mind Messed Up](https://open.spotify.com/album/1akOJm6k5Y4Kp0NdoBNa8j) | 2:33 | 2021-02-17 |  |
 | [The Dark End of the Street](https://open.spotify.com/track/6hAN9n5pUEbgmDCqgQ25sd) | [James Carr](https://open.spotify.com/artist/59fzcTUsoozikLmRY1SwHS) | [You Got My Mind Messed Up](https://open.spotify.com/album/126JF1Z5133kCQAfEJieDU) | 2:33 | 2021-02-17 | 2022-07-29 |
-| [The Forty\-Ninth Parallel](https://open.spotify.com/track/5pKb1A8Fbq39R81CSO2afc) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p) | [Carrying On](https://open.spotify.com/album/6fzOS1VsnOLMJsREI1fh22) | 2:26 | 2021-02-17 |  |
+| [The Forty\-Ninth Parallel](https://open.spotify.com/track/5pKb1A8Fbq39R81CSO2afc) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p) | [Carrying On](https://open.spotify.com/album/6fzOS1VsnOLMJsREI1fh22) | 2:26 | 2021-02-17 | 2024-04-13 |
+| [The Forty\-Ninth Parallel](https://open.spotify.com/track/7sDeKXeotpv5yYV6BNQdHt) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p) | [Carrying On](https://open.spotify.com/album/50Ynah0JAQLOv3jBfh4WUw) | 2:26 | 2024-03-22 |  |
 | [The Imperial](https://open.spotify.com/track/5YUTsQCvT98GEDRlrW49wN) | [The Delines](https://open.spotify.com/artist/0SRMBXTBnSm9Jmy24gqggg) | [The Imperial](https://open.spotify.com/album/0SxuM2CLMOkEQ30LEZYomf) | 5:23 | 2021-02-17 |  |
 | [The Love You Save \(May Be Your Own\)](https://open.spotify.com/track/49tqyhwvGuhjFklMq6BMBI) | [Joe Tex](https://open.spotify.com/artist/5TbXjzD8tYgMD5JU2g2F8q) | [Greatest Hits](https://open.spotify.com/album/25CUJO08rkvZV9rIIP4L4B) | 2:54 | 2021-02-17 |  |
 | [The Oil Rigs at Night](https://open.spotify.com/track/1vQqznhmZQyOInNEQCWvUE) | [The Delines](https://open.spotify.com/artist/0SRMBXTBnSm9Jmy24gqggg) | [Colfax](https://open.spotify.com/album/5RpU6E3j6qxnqwpcVkFbsn) | 4:21 | 2021-02-17 |  |
@@ -98,6 +99,7 @@
 | [Without Your Love](https://open.spotify.com/track/6Oexp3W6bv5LBzsS171iqN) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 3:51 | 2021-02-17 |  |
 | [You Don't Miss Your Water \- Extended](https://open.spotify.com/track/6pYvB2TQO7oGLw6oNV40jm) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [Stax\-Volt: The Complete Singles 1959\-1968](https://open.spotify.com/album/0RPeS6tlJfJt1GQ1XilhkH) | 3:00 | 2021-02-17 |  |
 | [You Don't Scare Me](https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Rule 62](https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf) | 4:10 | 2021-02-17 |  |
-| [You Must Go](https://open.spotify.com/track/7zb4BpYdR26dSTGSWkGM6f) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [All Kinds Of People / You Must Go](https://open.spotify.com/album/4rIScWdlTV9CNp2ljgr7PD) | 5:02 | 2021-02-17 |  |
+| [You Must Go](https://open.spotify.com/track/0LTlAPV6S8Z9U1u42GZfmL) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [All Kinds Of People / You Must Go](https://open.spotify.com/album/50YM56ngtmK2bOUTmntZf9) | 5:02 | 2024-03-22 |  |
+| [You Must Go](https://open.spotify.com/track/7zb4BpYdR26dSTGSWkGM6f) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [All Kinds Of People / You Must Go](https://open.spotify.com/album/4rIScWdlTV9CNp2ljgr7PD) | 5:02 | 2021-02-17 | 2024-04-13 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

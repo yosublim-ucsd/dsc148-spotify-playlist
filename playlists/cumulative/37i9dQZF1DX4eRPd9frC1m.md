@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-337 songs - 18 hr 30 min
+338 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Better Without You](https://open.spotify.com/track/4YG0PU5Vz1niAxS8OM2Fii) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [Better Without You](https://open.spotify.com/album/44xSYPvPXTzkT7kOdwDqYR) | 4:11 | 2021-11-19 | 2022-01-08 |
 | [BIB](https://open.spotify.com/track/2wlYOFOsDFWAo3ilrBaYl2) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [BIB](https://open.spotify.com/album/7uAMnNlBgzAgY0o0cqEUIi) | 3:00 | 2021-11-19 | 2022-01-08 |
 | [Biblical Asteroth](https://open.spotify.com/track/2PKNgi4OSo90FtlJ50RmHe) | [Goofy](https://open.spotify.com/artist/1qZj7DqEGT9XTJwFRI4eVl), [Mylky](https://open.spotify.com/artist/1z4ZloK1NRO7W0Dp10G5k2) | [Biblical Astaroth](https://open.spotify.com/album/6Q5e2UgKU6EiYBap921Fvl) | 3:02 | 2021-11-19 | 2022-01-08 |
+| [Big Bang \(with Crankdat\)](https://open.spotify.com/track/6xkBy4dXb6LxQQ3OuuK2xv) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Big Bang \(with Crankdat\)](https://open.spotify.com/album/2DpZjtwH8GG964mwPfVHQ7) | 3:59 | 2024-04-12 |  |
 | [Birdz](https://open.spotify.com/track/3LEztKH305u3WRpqKdG9Ch) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [WukiWorld](https://open.spotify.com/album/523y2Ub7mQPON9romO2APM) | 2:42 | 2023-02-24 |  |
 | [Birdz \(with Smokepurpp\)](https://open.spotify.com/track/0Uhbn8GeomTRkkVAapjM4Z) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [Birdz \(with Smokepurpp\)](https://open.spotify.com/album/4bhd6PgiyB6Ba2scrbS7ai) | 2:42 | 2021-11-19 | 2023-02-27 |
 | [bitches](https://open.spotify.com/track/2cqscm1gWXZElrn48maeMe) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc) | [bitches](https://open.spotify.com/album/2leobyqQarqugCXzuEzTAY) | 3:37 | 2021-11-19 | 2022-01-08 |
@@ -99,7 +100,7 @@
 | [Fearless](https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Fearless](https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72) | 2:20 | 2022-01-28 |  |
 | [FEELING GUD](https://open.spotify.com/track/0suLmBuEbatdochI4tHduq) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Matthew Santos](https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj) | [FEELING GUD](https://open.spotify.com/album/6jd5jHj3j3dakL1cKvzMEC) | 3:10 | 2021-11-19 |  |
 | [Fever Dream](https://open.spotify.com/track/7nBFYnnuzZdqc6FN0elfl6) | [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL), [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Fever Dream](https://open.spotify.com/album/6Tj0ZOuQ5lxwtLgwQjErfE) | 3:44 | 2021-11-19 | 2022-01-08 |
-| [Fight Back](https://open.spotify.com/track/3vcX4GCAbXAkCJtwNqyeHv) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak), [Godmode](https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8) | [Fight Back](https://open.spotify.com/album/4iTii2lDbEYYnZJBkU9p75) | 3:02 | 2021-11-19 |  |
+| [Fight Back](https://open.spotify.com/track/3vcX4GCAbXAkCJtwNqyeHv) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak), [Godmode](https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8) | [Fight Back](https://open.spotify.com/album/4iTii2lDbEYYnZJBkU9p75) | 3:02 | 2021-11-19 | 2024-04-13 |
 | [Flat Line](https://open.spotify.com/track/2JmbEZudT2eA3kUp5nXGZf) | [Dodge & Fuski](https://open.spotify.com/artist/6SJnjpekgnONgNtxKeMP8m), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [All Killer No Filler EP](https://open.spotify.com/album/7HjEb7HP68bpVclylWutsl) | 2:24 | 2022-05-06 | 2023-01-21 |
 | [Flip It](https://open.spotify.com/track/4NDhaxAmbKXM8LKrOPNxsy) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Flip It](https://open.spotify.com/album/6pdKC8JtPq2fbz8er190xE) | 2:15 | 2023-10-13 | 2024-03-02 |
 | [Flip It \- Tape B Remix](https://open.spotify.com/track/3xE0aFAEDbS3hjtBB5PKLT) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Flip It \(Tape B Remix\)](https://open.spotify.com/album/2NAppK3N8QSMkm1xdVDSBF) | 3:07 | 2024-03-01 |  |

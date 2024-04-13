@@ -1671,6 +1671,28 @@
     },
     {
       "album": {
+        "name": "Stars of Sand (From \"Trigun\")",
+        "url": "https://open.spotify.com/album/3WgUeU8tkVAPokG4h62H2s"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        },
+        {
+          "name": "Alexandra Whittingham",
+          "url": "https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209057,
+      "name": "Stars of Sand (From \"Trigun\")",
+      "url": "https://open.spotify.com/track/601dCT51AL4c6JdlRQYaRr"
+    },
+    {
+      "album": {
         "name": "Debussy: Suite bergamasque, L. 75: III. Clair de lune",
         "url": "https://open.spotify.com/album/0y0G5l8ObushJUnTvlgj1O"
       },

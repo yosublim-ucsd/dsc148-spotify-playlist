@@ -4,7 +4,7 @@
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Izzy Heltai
 
-178 songs - 11 hr 11 min
+181 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [jacob killed a cat](https://open.spotify.com/track/3nE26bDb6bnowMRyo6qGsa) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Downers Grove \(Explained\)](https://open.spotify.com/album/0RuZxzktEnwDwGFhnGOo74) | 2:45 | 2023-06-01 | 2024-02-09 |
 | [jacob killed a cat](https://open.spotify.com/track/5jbYfN6JNQgz6rBq8tdbTj) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Downers Grove \- EP](https://open.spotify.com/album/5OMHXvYoClLQUmFwqBav71) | 2:45 | 2023-09-29 |  |
 | [jacob killed a cat](https://open.spotify.com/track/6zeh80HoOJpRKDcfhhRYlr) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [jacob killed a cat](https://open.spotify.com/album/0zhwDb15nhqUpVYAZ7nRCV) | 2:45 | 2023-03-03 | 2023-06-03 |
-| [Just A Woman](https://open.spotify.com/track/6CwZv215C5uYwW277JsrLu) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U), [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [Just A Woman](https://open.spotify.com/album/5qPSuH0qcPnDv2q7HfDM5I) | 4:16 | 2021-06-01 |  |
+| [Just A Woman](https://open.spotify.com/track/29snCFDh5oCuIVG717rDUq) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U), [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [Neon Cross](https://open.spotify.com/album/3JyedWfUdeBW9ZJ435YEfQ) | 4:16 | 2024-03-08 |  |
+| [Just A Woman](https://open.spotify.com/track/6CwZv215C5uYwW277JsrLu) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U), [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [Just A Woman](https://open.spotify.com/album/5qPSuH0qcPnDv2q7HfDM5I) | 4:16 | 2021-06-01 | 2024-04-13 |
 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 | 2022-06-01 | 2023-06-02 |
 | [Keeping The Light On](https://open.spotify.com/track/4BXnNaxLDGU1i3PK3iaWns) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:43 | 2023-06-01 |  |
 | [letters to the hospital](https://open.spotify.com/track/1HT8TwJr3Mzu5SdBSGHNW9) | [Mae Krell](https://open.spotify.com/artist/5OJHIYwDJ1TfeaFLYMSqqe) | [anabasis](https://open.spotify.com/album/6QE83dueAkEJjuvrY1h62j) | 3:23 | 2023-09-29 |  |
@@ -134,7 +135,8 @@
 | [Other Boys](https://open.spotify.com/track/6s28m7d580Paz08mNEQbKo) | [Paisley Fields](https://open.spotify.com/artist/6tzDsjuTpo8J7qsGfGZvPx) | [Electric Park Ballroom](https://open.spotify.com/album/4R6UMOPlR169LPEm0gIhLU) | 3:14 | 2023-04-04 |  |
 | [Persephone](https://open.spotify.com/track/7m4pa6QJVZ5T4vf33pvLTm) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:22 | 2021-06-01 |  |
 | [Photographs](https://open.spotify.com/track/4rUslPXZmnIT23InzwjBlj) | [Diana DeMuth](https://open.spotify.com/artist/1EGJoRmXcYb7biwtm8r0ln) | [Misadventure](https://open.spotify.com/album/1zin6IBiA6s7QQBAY372m5) | 2:59 | 2022-06-01 |  |
-| [Pipe Dreams](https://open.spotify.com/track/294T1COkA1muObOvFKe8Kx) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Superstar](https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG) | 3:25 | 2021-06-01 |  |
+| [Pipe Dreams](https://open.spotify.com/track/294T1COkA1muObOvFKe8Kx) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Superstar](https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG) | 3:25 | 2021-06-01 | 2024-04-13 |
+| [Pipe Dreams](https://open.spotify.com/track/7hKMa4UKhVhhLb9UUHlbIu) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Superstar](https://open.spotify.com/album/0iKUlriBGhJ9Fvnex5Xi7w) | 3:25 | 2024-03-08 |  |
 | [Proud Crowd, Pride Cried](https://open.spotify.com/track/01zVQMb2ywEfghDbi4oIKa) | [Ferron](https://open.spotify.com/artist/4Uwxc9WlgyTxlP4iG8rdjb) | [Shadows On A Dime](https://open.spotify.com/album/6pWEVRecWVxW9GuOBQ4P5P) | 6:03 | 2021-06-01 |  |
 | [Red Bird Morning](https://open.spotify.com/track/3ncUmIGUabP28kEXErUajE) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Red Bird Morning](https://open.spotify.com/album/2WH98Edllnrvb87RuqUJ5N) | 3:13 | 2021-06-01 | 2022-06-01 |
 | [Same Old Lines](https://open.spotify.com/track/1iIAth3EApux3r5p61F51e) | [Rod Thomas](https://open.spotify.com/artist/4SpGhDIoQnFKWCmNVcF4pA) | [Until Something Fits](https://open.spotify.com/album/1YZFdfXmzxce7btBAchwkT) | 3:04 | 2022-06-10 |  |
@@ -169,7 +171,8 @@
 | [Through The Fires](https://open.spotify.com/track/3Eh3wDt6HDAx8mxDrOxIsQ) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:31 | 2022-06-10 |  |
 | [Through The Fires](https://open.spotify.com/track/7F4UgivYUzFRf8uUEVQC8m) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Through The Fires](https://open.spotify.com/album/1zxdHgvP38B7QdYw61I2Sl) | 4:31 | 2022-06-01 | 2022-07-29 |
 | [Thumbs](https://open.spotify.com/track/0KdYYVq1c2kvy69RjczLeX) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 4:25 | 2022-06-01 |  |
-| [Two Men in Love](https://open.spotify.com/track/2aStnqtcB9SCoxHj5hByX7) | [The Irrepressibles](https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s) | [Nude](https://open.spotify.com/album/7v35WlLc1mSuL4HgA0TmFp) | 6:26 | 2022-06-10 |  |
+| [Two Men in Love](https://open.spotify.com/track/2aStnqtcB9SCoxHj5hByX7) | [The Irrepressibles](https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s) | [Nude](https://open.spotify.com/album/7v35WlLc1mSuL4HgA0TmFp) | 6:26 | 2022-06-10 | 2024-04-13 |
+| [Two Men in Love](https://open.spotify.com/track/33doebdvJ82n6KoGmNLq5Y) | [The Irrepressibles](https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s) | [Two Men in Love](https://open.spotify.com/album/23p4EyOaiLZizJjEd5YB4C) | 6:26 | 2024-03-08 |  |
 | [Two Men In Love](https://open.spotify.com/track/33vDXztradlEuqKLz5BRRZ) | [The Irrepressibles](https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s) | [Nude](https://open.spotify.com/album/762A3Z51nqkzTN4HgOY9Cs) | 6:26 | 2021-06-01 | 2022-07-29 |
 | [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 | 2021-06-01 | 2023-02-02 |
 | [Two Weeks](https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ) | 4:06 | 2022-12-02 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is The Used. The essential tracks, all in one playlist.",
-  "num_followers": 42999,
+  "num_followers": 43010,
   "original_name": "This Is The Used",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMGQ5OTRhZDViNGRkMDdhOGJkNmMwNzFmZTcwMTEzMzQw",
+  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDM5ZjMyNzlkMzI4ZjM3N2RmNWZjZWZiZDY3Y2IyM2Jj",
   "tracks": [
     {
       "added_at": null,
@@ -751,26 +751,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Sabotaging (feat. Bert McCracken of The Used)",
-        "url": "https://open.spotify.com/album/579CdMvfi7V8g1PLyCkr6s"
+        "name": "Shallow Believer",
+        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
       },
       "artists": [
-        {
-          "name": "Borgeous",
-          "url": "https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp"
-        },
-        {
-          "name": "Bert McCracken",
-          "url": "https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0"
-        },
         {
           "name": "The Used",
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Self Sabotaging (feat. Bert McCracken of The Used)",
-      "url": "https://open.spotify.com/track/5WfV4m7ZXJYdIWUct1VJxd"
+      "duration_ms": 184133,
+      "name": "Slit Your Own Throat",
+      "url": "https://open.spotify.com/track/1j8b6BNsHXaAImvIocZqHn"
     },
     {
       "added_at": null,
@@ -791,18 +783,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shallow Believer",
-        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
+        "name": "Self Sabotaging (feat. Bert McCracken of The Used)",
+        "url": "https://open.spotify.com/album/579CdMvfi7V8g1PLyCkr6s"
       },
       "artists": [
+        {
+          "name": "Borgeous",
+          "url": "https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp"
+        },
+        {
+          "name": "Bert McCracken",
+          "url": "https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0"
+        },
         {
           "name": "The Used",
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 184133,
-      "name": "Slit Your Own Throat",
-      "url": "https://open.spotify.com/track/1j8b6BNsHXaAImvIocZqHn"
+      "duration_ms": 144000,
+      "name": "Self Sabotaging (feat. Bert McCracken of The Used)",
+      "url": "https://open.spotify.com/track/5WfV4m7ZXJYdIWUct1VJxd"
     }
   ],
   "unique_name": "This Is The Used",

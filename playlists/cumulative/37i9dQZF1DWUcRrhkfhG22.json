@@ -1407,6 +1407,24 @@
     },
     {
       "album": {
+        "name": "Robot Gossip (Lonely Days Are Over)",
+        "url": "https://open.spotify.com/album/0JJYu0sAbqWk5PKnm1l94f"
+      },
+      "artists": [
+        {
+          "name": "NEW CITY",
+          "url": "https://open.spotify.com/artist/4X5U7EjHMofqX4mUAkJm23"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192972,
+      "name": "Robot Gossip (Lonely Days Are Over)",
+      "url": "https://open.spotify.com/track/6ZdfdEFNurN8xwd2BDoEur"
+    },
+    {
+      "album": {
         "name": "Robot Man (Vinyl Edit Version)",
         "url": "https://open.spotify.com/album/3cVvm1DlqO4UVsoQzjjbRw"
       },

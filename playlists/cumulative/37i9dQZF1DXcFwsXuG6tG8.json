@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "buenos aires",
+        "url": "https://open.spotify.com/album/4SXpbXXNdxRmHbyoFaCnvc"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203114,
+      "name": "buenos aires",
+      "url": "https://open.spotify.com/track/7L0BH62HRIap3Fg6KUyQfR"
+    },
+    {
+      "album": {
         "name": "CAEN LAS ESTRELLAS",
         "url": "https://open.spotify.com/album/3h0g10s1tSbqlYZtt9xbo2"
       },
@@ -356,7 +374,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 173800,
       "name": "Delirio",
       "url": "https://open.spotify.com/track/66wtRMoucasMcqUIYHzk7l"

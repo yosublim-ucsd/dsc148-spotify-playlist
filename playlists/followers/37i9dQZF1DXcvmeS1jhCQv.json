@@ -1,7 +1,7 @@
 {
-  "2024-04-12": 74237,
+  "2024-04-13": 74244,
   "date_first_scraped": "2024-02-03",
-  "description": "New tunes from Ireland for your discovery. Cover: TraviS, Elzzz",
+  "description": "New tunes from Ireland for your discovery. Cover: Oscar Blue",
   "name": "A Breath of Fresh \u00c9ire",
   "tracks": [
     {
@@ -71,7 +71,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 224000,
       "name": "33s",
       "url": "https://open.spotify.com/track/6Xib9snQv0CJ2NmY8SV4vW"
@@ -111,6 +111,24 @@
       "duration_ms": 135219,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/0enqLHS7NWlDbtTftkoohu"
+    },
+    {
+      "album": {
+        "name": "LYRA",
+        "url": "https://open.spotify.com/album/1GTcikeMzr2ZfDASRv7cz4"
+      },
+      "artists": [
+        {
+          "name": "LYRA",
+          "url": "https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153479,
+      "name": "America",
+      "url": "https://open.spotify.com/track/3jXQiJOwDtg9fn0ld0t05H"
     },
     {
       "album": {
@@ -249,6 +267,24 @@
       "duration_ms": 179874,
       "name": "Blockbuster",
       "url": "https://open.spotify.com/track/3okDzr13HrIpP3235TJjFN"
+    },
+    {
+      "album": {
+        "name": "Bloodstone",
+        "url": "https://open.spotify.com/album/7fiTzVTiLIkgICTZ3t6NMt"
+      },
+      "artists": [
+        {
+          "name": "Oscar Blue",
+          "url": "https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Bloodstone",
+      "url": "https://open.spotify.com/track/0T76V96CQdOjI8KNK2jIjw"
     },
     {
       "album": {
@@ -483,7 +519,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 146195,
       "name": "DECAY",
       "url": "https://open.spotify.com/track/7ujHwnDCjSx77is9AI1tdR"
@@ -825,7 +861,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 293735,
       "name": "If You Were Mine",
       "url": "https://open.spotify.com/track/2PhaGDLA9sgHUZV5oidTFQ"
@@ -940,6 +976,24 @@
     },
     {
       "album": {
+        "name": "limerence",
+        "url": "https://open.spotify.com/album/31Y1I245ATLa9KEPNW3gpo"
+      },
+      "artists": [
+        {
+          "name": "shiv",
+          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187822,
+      "name": "limerence",
+      "url": "https://open.spotify.com/track/0AChzXS7AsnWfY4YOdcKEc"
+    },
+    {
+      "album": {
         "name": "Locked Up Never Fade",
         "url": "https://open.spotify.com/album/54vZ2lPCS9hCzSERgIG3z8"
       },
@@ -969,7 +1023,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 217380,
       "name": "London.",
       "url": "https://open.spotify.com/track/7xhvE7y8DDcAwruz7TyiFN"
@@ -1204,6 +1258,24 @@
     },
     {
       "album": {
+        "name": "MYAEROPLANE",
+        "url": "https://open.spotify.com/album/5BRCSxV8M8RxAsCd3UtPQk"
+      },
+      "artists": [
+        {
+          "name": "DeCarteret",
+          "url": "https://open.spotify.com/artist/2xpN3bfOsPsnOCzDrxXXhr"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211034,
+      "name": "MYAEROPLANE",
+      "url": "https://open.spotify.com/track/08XyqS2LV1wPzEwxLgaJ2h"
+    },
+    {
+      "album": {
         "name": "Aphrodite",
         "url": "https://open.spotify.com/album/48s5QZAFQiv86wOCGDwjAz"
       },
@@ -1273,7 +1345,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 170005,
       "name": "NOTHING WILL EVER BE THE SAME",
       "url": "https://open.spotify.com/track/5e5mWtx00orL2FTbRv4kr9"
@@ -1662,6 +1734,24 @@
     },
     {
       "album": {
+        "name": "Strawberry Scented",
+        "url": "https://open.spotify.com/album/25McKcaobPvzgOGdgrxbxX"
+      },
+      "artists": [
+        {
+          "name": "The Cliffords",
+          "url": "https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337133,
+      "name": "Shattered Glass",
+      "url": "https://open.spotify.com/track/47MS05AWVBYVGEkJ3MJQOW"
+    },
+    {
+      "album": {
         "name": "Shot In The Dark",
         "url": "https://open.spotify.com/album/67tb6jF9KTKzLlhc0HDk32"
       },
@@ -1749,7 +1839,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 192578,
       "name": "Square One",
       "url": "https://open.spotify.com/track/2tigWb9X0RsOi1yQtUFxOQ"
@@ -2041,7 +2131,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 214692,
       "name": "Want You Back",
       "url": "https://open.spotify.com/track/1pcJTIl87SVVRPlO30dBDS"
@@ -2059,7 +2149,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 220311,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr"
@@ -2204,6 +2294,24 @@
     },
     {
       "album": {
+        "name": "Yellow Dresser",
+        "url": "https://open.spotify.com/album/4lAdZcJI0a7CmFIYYiz6Za"
+      },
+      "artists": [
+        {
+          "name": "Nell Mescal",
+          "url": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204136,
+      "name": "Yellow Dresser",
+      "url": "https://open.spotify.com/track/56AZAPH8L1lPAEUZgP5kJj"
+    },
+    {
+      "album": {
         "name": "You're My Medicine",
         "url": "https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ"
       },
@@ -2219,6 +2327,28 @@
       "duration_ms": 192682,
       "name": "You're My Medicine",
       "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"
+    },
+    {
+      "album": {
+        "name": "\u2605SLEEPY\u2605",
+        "url": "https://open.spotify.com/album/4u7Gq7p97RbhmMutnehapG"
+      },
+      "artists": [
+        {
+          "name": "CARSTEN2X",
+          "url": "https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud"
+        },
+        {
+          "name": "Joe Butler",
+          "url": "https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134437,
+      "name": "\u2605SLEEPY\u2605",
+      "url": "https://open.spotify.com/track/5lEnU2eOQkmHogLRUV77LV"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcvmeS1jhCQv"

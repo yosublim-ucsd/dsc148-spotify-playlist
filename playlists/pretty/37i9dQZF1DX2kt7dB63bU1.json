@@ -1,13 +1,45 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 138850,
+  "num_followers": 138897,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjI4OTY2MCwwMDAwMDAwMGRlMGE1ZWZiZDkzMTY0MmExMjMyZWIzOTY2ODczOWQx",
+  "snapshot_id": "MTcxMjg5NDQ2MCwwMDAwMDAwMDE0N2NmMmFmN2EzYTliYTQ3NTllOWVjMjJmZTQ3ZTBk",
   "tracks": [
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Colloquially",
+        "url": "https://open.spotify.com/album/3ymtSnu23oE9Z6XjZmqWce"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 205973,
+      "name": "Colloquially",
+      "url": "https://open.spotify.com/track/7BbkXvDdCGofOR7cLlMP3s"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Sunset In The Blue (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3GCdtc3tXTlUbP9y5xBWdz"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 415242,
+      "name": "La Chanson de vieux amants",
+      "url": "https://open.spotify.com/track/4Yy7AuqNVD1Z4eDy1273u3"
+    },
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
@@ -41,20 +73,52 @@
       "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
     },
     {
-      "added_at": "2024-03-29 04:01:00",
+      "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "Ev'ry Time We Say Goodbye",
-        "url": "https://open.spotify.com/album/5ILPIURAwoVIlnvcXjuAck"
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/1bm8lycQzE0Hx7w0dgPOKW"
       },
       "artists": [
         {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 234777,
-      "name": "Ev'ry Time We Say Goodbye",
-      "url": "https://open.spotify.com/track/2aSj7bfPQzvHArWqlZGY3L"
+      "duration_ms": 394640,
+      "name": "Sparrow (feat. Angelique Kidjo)",
+      "url": "https://open.spotify.com/track/324kvzJnO81wfCvR5eHAL8"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Sad to Say (Snapshot - vocal theme)",
+        "url": "https://open.spotify.com/album/5eJUp28TOHvYKuAsCvDxSF"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        },
+        {
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+        },
+        {
+          "name": "Mulgrew Miller",
+          "url": "https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        }
+      ],
+      "duration_ms": 136725,
+      "name": "Sad to Say - Snapshot - vocal theme",
+      "url": "https://open.spotify.com/track/1A1VctouaYYVxnyz1IYLuB"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -85,20 +149,20 @@
       "url": "https://open.spotify.com/track/6kXF7Mhr3HaIvkPo3h3dOs"
     },
     {
-      "added_at": "2024-03-08 05:01:00",
+      "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "There Goes",
-        "url": "https://open.spotify.com/album/2ONlDZeDWomJwN52C7xonr"
+        "name": "Easy Living",
+        "url": "https://open.spotify.com/album/2IqEzOFrAk1vO8ZmMpCXGt"
       },
       "artists": [
         {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
         }
       ],
-      "duration_ms": 271263,
-      "name": "There Goes",
-      "url": "https://open.spotify.com/track/59AiOQODuznd7cayIRelBv"
+      "duration_ms": 148805,
+      "name": "Duke Ellington's Sound of Love",
+      "url": "https://open.spotify.com/track/40JRWQHUZT7EnEuovLBjC1"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -1205,26 +1269,6 @@
       "url": "https://open.spotify.com/track/4yUZufuzpvYysMDheYOIkq"
     },
     {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Entre eux deux (The Paris Sessions)",
-        "url": "https://open.spotify.com/album/2UfbvrTEAQ7mupKd1bgOXy"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        },
-        {
-          "name": "Philippe Powell",
-          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
-        }
-      ],
-      "duration_ms": 433533,
-      "name": "Samba Em Prel\u00fadio (Un Jour Sans Toi) - The Paris Sessions",
-      "url": "https://open.spotify.com/track/3ePM3xbtMJ9KpsMBSLXN4B"
-    },
-    {
       "added_at": "2023-06-02 04:01:00",
       "album": {
         "name": "Dara Starr Tucker",
@@ -1641,26 +1685,6 @@
       "url": "https://open.spotify.com/track/70bb4rPssrRLC3WIKuxcvI"
     },
     {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "Midnight, The Stars & You",
-        "url": "https://open.spotify.com/album/7xdDP0dszTibpO0bSq74Uk"
-      },
-      "artists": [
-        {
-          "name": "Scott Bradlee",
-          "url": "https://open.spotify.com/artist/3Xu3pjx48P1q68xyNVLhsV"
-        },
-        {
-          "name": "Sweet Megg",
-          "url": "https://open.spotify.com/artist/0qEkBKEjZQo9NtBjCIIyPE"
-        }
-      ],
-      "duration_ms": 233284,
-      "name": "Midnight, The Stars & You",
-      "url": "https://open.spotify.com/track/0MZf8EhOc5Q6B7TIn69WnF"
-    },
-    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "It's Only a Paper Moon",
@@ -1739,22 +1763,6 @@
       "duration_ms": 285602,
       "name": "Lonely House",
       "url": "https://open.spotify.com/track/39htlA0YRdydszy3Hnhjrt"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 213431,
-      "name": "Hate is the Basis (of Love)",
-      "url": "https://open.spotify.com/track/18kXbj6FWCBcWB1Tf3POc3"
     },
     {
       "added_at": "2023-02-24 05:01:00",

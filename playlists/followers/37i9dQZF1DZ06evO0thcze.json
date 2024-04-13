@@ -1,7 +1,7 @@
 {
-  "2024-04-12": 48546,
+  "2024-04-13": 48569,
   "date_first_scraped": "2023-11-11",
-  "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
+  "description": "This Is Neto Pe\u00f1a. Los temas esenciales, todos en una lista.",
   "name": "This Is Neto Pe\u00f1a",
   "tracks": [
     {
@@ -263,7 +263,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 215172,
       "name": "Calor y Fr\u00edo",
       "url": "https://open.spotify.com/track/6CVbA3wsSldLVlYMUJq1t3"
@@ -669,7 +669,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 200571,
       "name": "Levantame el Castigo",
       "url": "https://open.spotify.com/track/3clJ2E29mHyrmXSha77l6G"
@@ -1175,6 +1175,32 @@
       "duration_ms": 178314,
       "name": "Recuerdos",
       "url": "https://open.spotify.com/track/1Htp7oEYtmf3Ot5z8zryf5"
+    },
+    {
+      "album": {
+        "name": "Rosas y Serpientes",
+        "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270769,
+      "name": "Rosas y Serpientes",
+      "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
     },
     {
       "album": {

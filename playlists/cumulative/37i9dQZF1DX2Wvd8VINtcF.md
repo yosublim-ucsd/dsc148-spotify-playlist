@@ -4,7 +4,7 @@
 
 > girl in red album week! She's in charge of Oyster for the week with her current favs!
 
-1,205 songs - 2 day 18 hr 20 min
+1,206 songs - 2 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -975,6 +975,7 @@
 | [Starlight \(feat\. Lord Siva\)](https://open.spotify.com/track/0585zQHROQgY5fgR3d9nrx) | [When Saints Go Machine](https://open.spotify.com/artist/0E7PsXA3qAN3NCycrWDFaf), [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [Rosy](https://open.spotify.com/album/03RdPEUR8MY5iOP0MzqJlw) | 3:04 | 2023-09-07 | 2023-09-22 |
 | [Starlight \(feat\. Lord Siva\)](https://open.spotify.com/track/3fGhEM2oydg2PLWTxMTtoV) | [When Saints Go Machine](https://open.spotify.com/artist/0E7PsXA3qAN3NCycrWDFaf), [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [Starlight \(feat\. Lord Siva\)](https://open.spotify.com/album/5HnHCDp8UhNXrMhk2JQtiT) | 3:04 | 2023-08-10 | 2023-09-11 |
 | [Starving \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/6zELuTXrMMOk4fFIf3OErT) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Starving \(feat\. Teezo Touchdown\)](https://open.spotify.com/album/1H7FJxNEOxKJbbHvKCtAgp) | 3:36 | 2024-02-22 | 2024-03-08 |
+| [Stay](https://open.spotify.com/track/2vFDKP9FBZzxl3N1RcpR3E) | [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN), [Slackin Beats](https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw) | [Stay](https://open.spotify.com/album/2W16r4Pobhg7TG2aak050I) | 3:32 | 2024-04-11 |  |
 | [Stay \(Alive\)](https://open.spotify.com/track/1jsYWDXBIo1AobhSzJu9rG) | [boerd](https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Stay \(Alive\)](https://open.spotify.com/album/4ABgrSwqFC5lowwcUEj8pv) | 5:11 | 2023-06-29 | 2023-09-29 |
 | [Stay \(ft\. Omar Noir\)](https://open.spotify.com/track/1yyPP0oltWpmVSUZ5gJe4R) | [Nova North](https://open.spotify.com/artist/0m77k2AK3NjOt2nBk1n0Af), [Omar Noir](https://open.spotify.com/artist/5paQT78PtTz59108hibz4G) | [Boulevard](https://open.spotify.com/album/3JoxsektYkE7UQaDSqFE91) | 2:51 | 2023-11-16 | 2023-12-08 |
 | [Stay \(ft\. Omar Noir\)](https://open.spotify.com/track/3Ure17oumtGk8DeUXnjlwo) | [Nova North](https://open.spotify.com/artist/0m77k2AK3NjOt2nBk1n0Af), [Omar Noir](https://open.spotify.com/artist/5paQT78PtTz59108hibz4G) | [Boulevard](https://open.spotify.com/album/1oIeOYtDg50OC7PWYKuhQs) | 2:51 | 2023-11-16 | 2023-11-23 |

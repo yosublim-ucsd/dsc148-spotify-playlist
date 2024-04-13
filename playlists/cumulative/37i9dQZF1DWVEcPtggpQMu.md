@@ -4,7 +4,7 @@
 
 > Only the hottest South African rap from the streets\. <br/>Cover:  <a href="https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs?si=OPO7p9FcTuizQfdDx0\_TtQ">Usimamane</a>
 
-719 songs - 1 day 14 hr 45 min
+721 songs - 1 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [KODA \(Kids on Drugs Again\)](https://open.spotify.com/track/2fwpTCKcjlbJgFmSGBrQ6l) | [JEDI SLANG](https://open.spotify.com/artist/4JHxsJI4xQrttgFkTZsKwt) | [KODA](https://open.spotify.com/album/2JErsheegLgiHuvw28JFqK) | 4:42 | 2022-06-27 | 2022-07-09 |
 | [Koko](https://open.spotify.com/track/58Tnb3VVqcXsAqiYzf4QgZ) | [Dali Danger](https://open.spotify.com/artist/5uS7Vl0LAEz2Rj7oDeeM4Y), [Loki.](https://open.spotify.com/artist/3f9z8pU96fneXqFTsD9FjD) | [Koko](https://open.spotify.com/album/4JCZikiBZGUuSlddU5z2jX) | 3:28 | 2022-03-31 | 2022-08-19 |
 | [KUMBAYA](https://open.spotify.com/track/44JKlW14QaUbXtWNWPZ2en) | [YoungT](https://open.spotify.com/artist/4C43Ce0K8CdTNpizXxe7vv) | [KUMBAYA](https://open.spotify.com/album/1aqOupCxQrGP5oOmt8pTt9) | 4:07 | 2022-01-20 | 2022-02-11 |
+| [Kuse Khaya](https://open.spotify.com/track/7FcVPnVNnBWpYaVnvl8nuO) | [Beast Rsa](https://open.spotify.com/artist/5jSbjWfYWUZpecgalIOldH), [Tribal](https://open.spotify.com/artist/1CgTePmoEDljQKfgfH7Xox) | [Kuse Khaya](https://open.spotify.com/album/263P4iNAG9EsQoDg9xVlTi) | 3:52 | 2024-04-12 |  |
 | [Kutsa](https://open.spotify.com/track/6agL67tYcLo0pBkowC0i9q) | [DJ Sliqe](https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5), [Yanga Chief](https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [2woshort](https://open.spotify.com/artist/2CsKNR9HBBs3bAswmPz825), [Makwa](https://open.spotify.com/artist/6aXzYhXfiqzlcdyFBxfw59) | [Kutsa](https://open.spotify.com/album/5ho2gBJW7krfpIQDDLZim6) | 4:13 | 2023-10-05 |  |
 | [Kwenzekile](https://open.spotify.com/track/64xZ9gPptI3rrZjkNdIq3J) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Chang Cello](https://open.spotify.com/artist/0Fy0LMkScL5OMShfg3UM1i) | [Kwenzekile](https://open.spotify.com/album/5c7Pf0109qPClzjeVClEqE) | 3:57 | 2022-12-12 | 2023-02-01 |
 | [Kyashibilika \(feat\. Okmalumkoolkat\)](https://open.spotify.com/track/4FzMruCiZijrutWFp7awuy) | [Bello no Gallo](https://open.spotify.com/artist/10jCMXxrxSLEToXTKVJJWn), [Okmalumkoolkat](https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f) | [Kyashibilika \(feat\. Okmalumkoolkat\)](https://open.spotify.com/album/3KNOWVglCP4NVGxQQImnKc) | 4:21 | 2023-07-14 | 2023-08-29 |
@@ -477,6 +478,7 @@
 | [PINK SKIES](https://open.spotify.com/track/0SLDRQCWloo7cjJjTUFcT0) | [Sipho the Gift](https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8) | [PINK SKIES](https://open.spotify.com/album/5FzhY0cZYN1GGfOndrMI9H) | 4:22 | 2022-10-14 | 2022-12-13 |
 | [Pirara](https://open.spotify.com/track/7bFqMWXwQk9NQ9KoRacTJW) | [Sgi\_Magalela](https://open.spotify.com/artist/4SEe2uJQ5IIJvpyTbtIfAE) | [Pirara](https://open.spotify.com/album/56L5WYlzq8HHcJgMKxXcj3) | 2:00 | 2022-02-10 | 2022-11-01 |
 | [PLAYBACK](https://open.spotify.com/track/3sXKkRmrHrSrX7xCWHiOH7) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [PLAYBACK](https://open.spotify.com/album/2fw1To7qooV4L4wFqfDbtA) | 3:12 | 2021-10-14 | 2022-09-16 |
+| [PLAYIN' 4 KEEP$](https://open.spotify.com/track/0PeNJE2sRgldw9eByet9Tp) | [THAT$hYHOMIE](https://open.spotify.com/artist/3ehK94J8PAZ7D14PKZw87Y), [PhilaBoi K](https://open.spotify.com/artist/02zDxpy2IymHPT7veew6xL), [Just Jabba](https://open.spotify.com/artist/0amT7Na5hQmFkS70QyITxE), [Kevi Kev](https://open.spotify.com/artist/6Feg9tPLDiThgTVg3gs8LK), [CeeCee](https://open.spotify.com/artist/0Yr5LANu1ftVJGhExIychR), [Shefsnow](https://open.spotify.com/artist/613GdxfVcuZIdsVU3tUtBk), [Cheryl Zondi](https://open.spotify.com/artist/44JQqdjRejG0jwEFDmH0U3), [Kgaldrogo](https://open.spotify.com/artist/3i64O8axrytIB5YkJGLwWa) | [PLAYIN' 4 KEEP$](https://open.spotify.com/album/2BNBZnD9GCxUgywpnptthL) | 3:27 | 2024-04-12 |  |
 | [POP IT](https://open.spotify.com/track/5ZT7FegY0IJQwgBQQtFsHo) | [Lil Spielberg](https://open.spotify.com/artist/4uFze5DWZone8IrG6km8er) | [POP IT](https://open.spotify.com/album/40IIbxt8FGP2TpEnDZWu6F) | 2:11 | 2023-07-20 | 2023-08-18 |
 | [Potion No.9](https://open.spotify.com/track/43K5DqzH9ljI4hbMSIH0IW) | [Mark Akol](https://open.spotify.com/artist/3bEST1JRTy3cmNbRLTyEVb), [Fentse.](https://open.spotify.com/artist/4ze7a3Hlh8YVc31qs0EHHc) | [Potion No.9](https://open.spotify.com/album/6HyEnmxcHiDJ3mmAxp2ccF) | 2:34 | 2022-05-19 | 2022-07-09 |
 | [Pour Mi](https://open.spotify.com/track/1Cy6StltAMUd48nbIFEZZU) | [Ason](https://open.spotify.com/artist/3I1qHxOUgI1EeWBKhU6pCa) | [Pour Mi](https://open.spotify.com/album/2dOy9S4IW92ClGnTbfoIbn) | 1:41 | 2022-03-03 | 2022-03-25 |

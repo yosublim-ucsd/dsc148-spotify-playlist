@@ -4,7 +4,7 @@
 
 > Music from “Girls Band Cry” / アニメ『<a href="https://girls\-band\-cry.com/">ガールズバンドクライ</a>』を彩る数々の楽曲達がここに。怒りも喜びも哀しさも全部ぶちこめ。  ©東映アニメーション
 
-18 songs - 44 min 1 sec
+19 songs - 47 min 11 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Dr\. 安和 すばる ボイスメッセージ](https://open.spotify.com/track/4AWPsoNGuc7tKwIRKIBGog) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Dr\. 安和 すばる ボイスメッセージ](https://open.spotify.com/album/4yoHtdI2CP1VspPyjiElfg) | 0:52 | 2024-04-04 |  |
 | [Gt\. 河原木 桃香 ボイスメッセージ](https://open.spotify.com/track/1rJ6e59hoGbP02eDTWIy1B) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Gt\. 河原木 桃香 ボイスメッセージ](https://open.spotify.com/album/1GqmnFpcDw0XsWXY5gJwPf) | 1:10 | 2024-04-04 |  |
 | [Hurtful & Painful](https://open.spotify.com/track/467gpRaK1LVLotoTYvNuhO) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Hurtful & Painful](https://open.spotify.com/album/6QZM176HJrHekEwVD4j6mz) | 3:16 | 2024-04-04 |  |
+| [I'm Nobody](https://open.spotify.com/track/0QRni3sVIyJ2BF3fqdGr6h) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [I'm Nobody](https://open.spotify.com/album/6cTfEqAW6DqlUzxnWnNsQB) | 3:09 | 2024-04-12 |  |
 | [Ideal Paradox](https://open.spotify.com/track/5HDHZRpt9I7WS9hFm87ndM) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Ideal Paradox](https://open.spotify.com/album/0DMcETLiwTVRw4k2ZyY8vi) | 3:49 | 2024-04-04 |  |
 | [Key\. 海老塚 智 ボイスメッセージ](https://open.spotify.com/track/6qrAG1fMnWCzaTGsB5mES0) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Key\. 海老塚 智 ボイスメッセージ](https://open.spotify.com/album/0eQW6RYzETuvSjTKFEjM8P) | 0:50 | 2024-04-04 |  |
 | [Lonely fate to be destined](https://open.spotify.com/track/2DjM6CRKEhyfGQvedX5OWQ) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Lonely fate to be destined](https://open.spotify.com/album/7B9ooveGROUk58lfDBjTkx) | 3:15 | 2024-04-04 |  |

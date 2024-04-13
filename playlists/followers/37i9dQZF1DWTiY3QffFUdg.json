@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 65915,
+  "2024-04-13": 66156,
   "date_first_scraped": "2023-08-12",
   "description": "<a href=\"spotify:genre:techno\">techno</a> starter pack",
   "name": "techno party",
@@ -2837,6 +2837,24 @@
     {
       "album": {
         "name": "Sweat",
+        "url": "https://open.spotify.com/album/4d36v0DicdIJlQPPmE6vXP"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132696,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5SzPoxOGAl1mGWsT36KLcC"
+    },
+    {
+      "album": {
+        "name": "Sweat",
         "url": "https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU"
       },
       "artists": [
@@ -2847,7 +2865,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 132700,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65"

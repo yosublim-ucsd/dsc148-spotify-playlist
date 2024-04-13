@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 
 ### [Gengetone Fire](https://open.spotify.com/playlist/37i9dQZF1DX80fLED6RkGS)
 
-> Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz?si=XXV\_jXQVQkSGDRAmSK\-IrA"> Chris Kaiga </a>
+> Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/album/0O86y1QkJj0HZU5mYdnKgH?si=r16DGPO\_T\_WsK\-A7UzwYxA"> Boutross </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,856 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,870 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [KINARE](https://open.spotify.com/track/0B3KgzCTluFTPHsF54MbR6) | [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv), [mtap3li](https://open.spotify.com/artist/5u7wv4T187JbZSulLdVMYJ) | [KINARE](https://open.spotify.com/album/59RCYnLluTVay2gvf2VWa4) | 2:34 |
 | 2 | [NAKUDAI](https://open.spotify.com/track/2R0cPu8OCV9DMTQJANdXDL) | [SEAN MMG](https://open.spotify.com/artist/3XNm5VibIYc1xUEDURP1kw), [YBW Smith](https://open.spotify.com/artist/68U6AVEqnL3frYT7udHvYo) | [NAKUDAI](https://open.spotify.com/album/1MOXbYPVwue2bYu972FlTT) | 2:23 |
 | 3 | [I Want](https://open.spotify.com/track/4QCjaBCCFbJmbwjRzt36Y2) | [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz), [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Adventures of Chris Kaiga](https://open.spotify.com/album/1lib5N5QFDOCOWloEQ6vZP) | 3:11 |
-| 4 | [Rich](https://open.spotify.com/track/37ArS1kei108HBKhbYePT5) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg) | [Rich](https://open.spotify.com/album/5QiNEorRaNhMsbKnj6Xjco) | 2:12 |
+| 4 | [Bad Habit](https://open.spotify.com/track/2N97etKcWdLigGpkwdUvag) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Bad Habit](https://open.spotify.com/album/2oUuU5z4VoTcIqr6kWAGpl) | 2:34 |
 | 5 | [Tumerudiana](https://open.spotify.com/track/54XeFjxAWsp6RiKB52uVHF) | [Vic West](https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW) | [Tumerudiana](https://open.spotify.com/album/7h4bdZpmtVNN4xPgy0sjTE) | 3:04 |
 | 6 | [G\-BAG NA JUG \(J Baga Jat\) \- Remix](https://open.spotify.com/track/6g7eGMPZH0T9zc0WBGK383) | [Gadafee](https://open.spotify.com/artist/6zkAPf3HxH08uGsPYXJNhA), [Stoopid Boy](https://open.spotify.com/artist/3GbGHsvWi0nry9jMhIeGDy), [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Spoiler Official](https://open.spotify.com/artist/6DAK3PHGr9aXdQZv1gzUIO), [Gody Tennor](https://open.spotify.com/artist/0zDvYiEj0OwqizX4YYVsbB) | [G\-BAG NA JUG \(J Baga Jat\) \[Remix\]](https://open.spotify.com/album/6tzDMXoAsh1rVXELziONu1) | 4:01 |
 | 7 | [LELE](https://open.spotify.com/track/2LruoeWC1TSmFte9Fk6hWh) | [YBW Smith](https://open.spotify.com/artist/68U6AVEqnL3frYT7udHvYo), [Lufasa](https://open.spotify.com/artist/5fmt1ywQDIrAxPSUmx978J) | [LELE](https://open.spotify.com/album/5kc0Lv9SvPgMa7sAVD9Utu) | 3:04 |
 | 8 | [ANAPIGA PIC](https://open.spotify.com/track/2D6A847d0AXOWhIBMGkycc) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [YBW Smith](https://open.spotify.com/artist/68U6AVEqnL3frYT7udHvYo), [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy) | [ANAPIGA PIC](https://open.spotify.com/album/2fJiKbGJTmUrOtIRGafMCy) | 4:00 |
-| 9 | [Beshte Yangu](https://open.spotify.com/track/5d2ysP6ebjPYQFRkxacK3r) | [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Harry Craze](https://open.spotify.com/artist/2lf45VLBUxoX6W9CE718cp) | [Beshte Yangu](https://open.spotify.com/album/2qKS6N4G9s6mb0f331RqDD) | 2:08 |
-| 10 | [Bad Habit](https://open.spotify.com/track/2N97etKcWdLigGpkwdUvag) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Bad Habit](https://open.spotify.com/album/2oUuU5z4VoTcIqr6kWAGpl) | 2:34 |
+| 9 | [Rich](https://open.spotify.com/track/37ArS1kei108HBKhbYePT5) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg) | [Rich](https://open.spotify.com/album/5QiNEorRaNhMsbKnj6Xjco) | 2:12 |
+| 10 | [Beshte Yangu](https://open.spotify.com/track/5d2ysP6ebjPYQFRkxacK3r) | [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Harry Craze](https://open.spotify.com/artist/2lf45VLBUxoX6W9CE718cp) | [Beshte Yangu](https://open.spotify.com/album/2qKS6N4G9s6mb0f331RqDD) | 2:08 |
 | 11 | [Position](https://open.spotify.com/track/3VrKl2d7BARsapf9IELR6x) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [Mafio House](https://open.spotify.com/artist/0foFX6o95mgehKzL3n9VQw) | [Position](https://open.spotify.com/album/3hjz0n4uH86XEROsOuuJsC) | 2:20 |
 | 12 | [DANCEHALLING](https://open.spotify.com/track/1HDXvQAavbE3GsTOIQWkKi) | [Uncojingjong](https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo) | [DANCEHALLING](https://open.spotify.com/album/0S3d65JRsHsULOLi4BTkyc) | 2:24 |
 | 13 | [BUBBLY BUBBLY \(na niki\)](https://open.spotify.com/track/1gc249pSRCtXKb3vezJwG8) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [BUBBLY BUBBLY \(na niki\)](https://open.spotify.com/album/2AQedaeVARNPXPRJ6fNDLh) | 2:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 | 79 | [Kamkora](https://open.spotify.com/track/3Dvxpka8fCFTidzANF4Xpm) | [Cartoon comedian](https://open.spotify.com/artist/24ZvE7ot2sZ04DUplTKLGl) | [Kamkora](https://open.spotify.com/album/2upMZcAVnGiPWhm346S1a0) | 2:32 |
 | 80 | [Kiss N Tell](https://open.spotify.com/track/6UjG1rkeqxQIQjgNum5TVf) | [Kushman](https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB), [CHIR CHIR](https://open.spotify.com/artist/7C4W8ZdCZ09bgVrkmCeBcZ) | [Kiss N Tell](https://open.spotify.com/album/11XXk49A9CjlxqZUAnRMLl) | 3:43 |
 
-Snapshot ID: `MTcxMjg3OTk0MCwwMDAwMDAwMDUwN2E5ZDUwYzQxZDI2MTcyYWI5ZDY0YjA3MDhlMmIx`
+Snapshot ID: `MTcxMjg5NzcwMiwwMDAwMDAwMGJjNjM5YTcxNWY2OGYzOTVhOWM5YjkyNDUzOWRkZmMw`

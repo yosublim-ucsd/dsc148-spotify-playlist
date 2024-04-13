@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 9032468,
+  "2024-04-13": 9033100,
   "date_first_scraped": "2020-05-22",
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> to the rhythm and move your feet!",
   "name": "Dance Party",
@@ -471,7 +471,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 168600,
       "name": "Aguila (feat. Cumbiafrica)",
       "url": "https://open.spotify.com/track/1TAWywmhj68rLpor3w8J0X"
@@ -17999,7 +17999,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 180638,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE"

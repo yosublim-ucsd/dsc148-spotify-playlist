@@ -1123,6 +1123,24 @@
     },
     {
       "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/5BYdygO5E12koFAocSZQvQ"
+      },
+      "artists": [
+        {
+          "name": "Thorne",
+          "url": "https://open.spotify.com/artist/2v3NVhIerh7ksVRXbG9MOT"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188444,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/4qd6nttH7VO67H42wbmdhh"
+    },
+    {
+      "album": {
         "name": "Better Things (feat. Tania Foster)",
         "url": "https://open.spotify.com/album/5RFAAqoNmmhMebhjlFEsF4"
       },

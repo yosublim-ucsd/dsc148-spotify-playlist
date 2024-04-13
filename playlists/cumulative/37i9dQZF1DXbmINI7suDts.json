@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Commander",
+        "url": "https://open.spotify.com/album/6zG9mpL0l0Y914JBs63i58"
+      },
+      "artists": [
+        {
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "Commander",
+      "url": "https://open.spotify.com/track/0qy7wQ1yDQO6zNwzHd3Kmk"
+    },
+    {
+      "album": {
         "name": "Do Me (Remix)",
         "url": "https://open.spotify.com/album/2ck68T2ILwr0m3x9lJjPeB"
       },
@@ -696,6 +714,24 @@
       "duration_ms": 255000,
       "name": "I am an African Girl - Let Her Know Remix",
       "url": "https://open.spotify.com/track/3LM0vvNxz70Hn8ZClSZuw0"
+    },
+    {
+      "album": {
+        "name": "I Do (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1HURfcIukpOqxEhsJeL38E"
+      },
+      "artists": [
+        {
+          "name": "Jose Chameleone",
+          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154086,
+      "name": "I Do - Acoustic Version",
+      "url": "https://open.spotify.com/track/35p0RKvsJ6wS5fthRJLFQh"
     },
     {
       "album": {
@@ -1434,7 +1470,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 262695,
       "name": "Nzize",
       "url": "https://open.spotify.com/track/07mHquBr7G6N0WBIUx3iMl"
@@ -2152,7 +2188,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 174367,
       "name": "VOICES",
       "url": "https://open.spotify.com/track/3mf0BEmSuDJKFvsOWzz3nT"

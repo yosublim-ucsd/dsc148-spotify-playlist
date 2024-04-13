@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Joyner Lucas
 
-623 songs - 1 day 9 hr 17 min
+624 songs - 1 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [If I Wasnt](https://open.spotify.com/track/2YbjuUyAGLuQ4ebkGCxaEF) | [RETRO](https://open.spotify.com/artist/5JQ5QsmDCpzhi6StRcYxqf) | [If I Wasnt](https://open.spotify.com/album/0AHcfHukL9JqfpatTr9EbR) | 4:03 | 2021-09-03 | 2022-04-16 |
 | [If Not Now, When?](https://open.spotify.com/track/6eQHIFVNvgsg4ooRrzgwVz) | [Anoyd](https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L) | [If Not Now, When?](https://open.spotify.com/album/493v3KuL0Bc12cQacac8sl) | 2:47 | 2022-02-18 | 2022-07-18 |
 | [IMPALAS & HYDRAULICS \(Ft\. The Game\)](https://open.spotify.com/track/4EwwOC5ajOeyCVdPrScy5t) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [IMPALAS & HYDRAULICS \(Ft\. The Game\)](https://open.spotify.com/album/5BcFOLlzBLEtGAWC4GnKtL) | 2:57 | 2022-08-05 | 2023-04-09 |
+| [Imported Couches](https://open.spotify.com/track/5YWyB1Unzq0sO6DBTqiVuw) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Imported Couches](https://open.spotify.com/album/6fNdtvi2y9otv0oSYaXDDo) | 3:36 | 2024-04-12 |  |
 | [In my lifetime \(feat\. Action Bronson\)](https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 1:48 | 2022-06-17 | 2023-04-22 |
 | [INDEPENDENT](https://open.spotify.com/track/1eUrzqzNIJ1AUDpIK4hJFZ) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [INDEPENDENT](https://open.spotify.com/album/29zVAQcXogzcfBQI6Y5jG6) | 2:33 | 2021-09-03 | 2022-04-21 |
 | [INDUSTRY GAMES](https://open.spotify.com/track/6HRUomAomV72oMArAAHEIT) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [INDUSTRY GAMES](https://open.spotify.com/album/5pbCz1rWV7zB6mgR3VBfbz) | 2:16 | 2021-09-03 | 2022-04-19 |
@@ -392,7 +393,7 @@
 | [Numbers](https://open.spotify.com/track/5W2sWehdlWhq4t0QxmYPYS) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP) | [STILL \(Five & A F\*\*\* You\) \[Deluxe\]](https://open.spotify.com/album/3ntrXHNZUCz0ScUKDziuP8) | 2:43 | 2023-07-07 | 2023-07-29 |
 | [Nutshell Pt\. 2 \(feat\. Busta Rhymes and Redman\)](https://open.spotify.com/track/3OFkFHZBe1KVgNelWqBm8x) | [Phife Dawg](https://open.spotify.com/artist/5D7j3YOhscvrld2WzjSIpN), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Nutshell, Pt\. 2 \(feat\. Busta Rhymes and Redman\)](https://open.spotify.com/album/1E4Sx5ATwWX3NiEkZULHXm) | 3:41 | 2022-04-01 | 2022-04-20 |
 | [Off Tha Strength](https://open.spotify.com/track/3ATweXqVnpCWvAAUP2nCXs) | [Medhane](https://open.spotify.com/artist/6lTiYE2IL4FUqf0CgGjI5i), [keiyaA](https://open.spotify.com/artist/542BY6B2YGEdf2XWvBFUJV) | [Cold Water](https://open.spotify.com/album/6u66sAgu3xFfKhQpBr4dSu) | 2:32 | 2022-03-25 | 2022-07-15 |
-| [Office Hours \(feat\. 50 Cent\)](https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Magic 2](https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz) | 3:52 | 2023-07-21 |  |
+| [Office Hours \(feat\. 50 Cent\)](https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Magic 2](https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz) | 3:52 | 2023-07-21 | 2024-04-13 |
 | [oHio \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 4:51 | 2024-03-01 |  |
 | [One Foot In \(with Stove God Cooks\)](https://open.spotify.com/track/5t8cjiKVfQeNUgrGIaRUBy) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [One Foot In](https://open.spotify.com/album/6lngN4MM1P71ocrwive5Cg) | 2:44 | 2023-12-08 | 2024-02-22 |
 | [One Life](https://open.spotify.com/track/2rfc0DDTqNwSkLCVzEdVVA) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [One Life](https://open.spotify.com/album/3ZmgIf9xdBHuCds9qD5ab8) | 3:29 | 2023-03-17 | 2023-05-07 |

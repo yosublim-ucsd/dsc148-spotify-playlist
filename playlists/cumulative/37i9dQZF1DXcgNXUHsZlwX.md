@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-450 songs - 1 day 2 hr 52 min
+451 songs - 1 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,7 @@
 | [Looking At Me](https://open.spotify.com/track/7MmcBM454plU5ZnamhC7D1) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3uZRDyduIzyv3NtAcakEwS) | 3:12 | 2024-01-12 |  |
 | [Lost River](https://open.spotify.com/track/7lNvSd4Tmx7UBfXljzsDhY) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Perséides](https://open.spotify.com/album/5xmDoybU1nIqKIevFsGIEG) | 2:55 | 2021-05-03 | 2022-07-29 |
 | [Lost River](https://open.spotify.com/track/7B5iVq1KpRI6KwomC6W1Ge) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Beatrice Martin](https://open.spotify.com/artist/67z5ieiEhnEwsCKPKpgvgo) | [Perséides](https://open.spotify.com/album/7nfOshpjsyOUdXfnWSINOA) | 2:55 | 2022-07-08 |  |
-| [Lost With You](https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd) | 2:55 | 2021-10-03 |  |
+| [Lost With You](https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd) | 2:55 | 2021-10-03 | 2024-04-13 |
 | [Loulou](https://open.spotify.com/track/0g28Z0SKGBVZZq6NB8NsEt) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Loulou](https://open.spotify.com/album/6f0reSlDkHWcTyELvgkYzA) | 3:34 | 2021-10-17 | 2021-11-16 |
 | [Love Is a Stranger \- Spotify Singles](https://open.spotify.com/track/1BSirCglKNnJ39ag8fhiK0) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Spotify Singles](https://open.spotify.com/album/5bbRNKzRs3j44dxQR9SzJ3) | 3:42 | 2023-12-01 | 2024-03-18 |
 | [Lubie](https://open.spotify.com/track/3WoduPYTnBKYKnawyMzrJE) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [Ruche de mouches](https://open.spotify.com/album/3FDeFFaEu4I8IMd5heH2h8) | 3:17 | 2021-01-03\* | 2022-07-29 |
@@ -291,6 +291,7 @@
 | [Mon île](https://open.spotify.com/track/27sfdhX5ndVTQoscsB50LY) | [Audrey Emery](https://open.spotify.com/artist/2Ffn40Clz80XZSQS8Tylr6) | [Shangri\-La](https://open.spotify.com/album/244hbTwCOMYTK077ZUXq7z) | 5:07 | 2021-01-03\* | 2022-07-29 |
 | [Mona Lisa](https://open.spotify.com/track/3lmVvm0lBpxirgDHfLCLRR) | [Soul & Sister](https://open.spotify.com/artist/6FKmH1yrlnresuuvHdY2lh) | [Mona Lisa \- Single](https://open.spotify.com/album/3u8WgVkDhQJDVaX6o9IL78) | 2:50 | 2021-01-15 | 2022-01-24 |
 | [Montreal](https://open.spotify.com/track/2P4ONjFwyCK0dmG3vmxweU) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Montreal](https://open.spotify.com/album/5MiQ3lmksUCcbR1fOYY9B1) | 3:45 | 2021-05-04 | 2021-05-08 |
+| [Montréal \- Avec Louis\-Jean Cormier](https://open.spotify.com/track/6fR0LwJ6ZQaIk0RMBjtRjD) | [Joe Bel](https://open.spotify.com/artist/2vDwHj2hEnJPsD5cOrbo7G), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Montréal \(Avec Louis\-Jean Cormier\)](https://open.spotify.com/album/5JscHrlWGficiFNu4ULZrM) | 4:00 | 2024-04-12 |  |
 | [Morceaux](https://open.spotify.com/track/0zEcIEPHJj4MsE021bP11Y) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Ceci est une espèce aimée](https://open.spotify.com/album/1zEmqQmj5Fw1ICjE8uYBwn) | 4:59 | 2021-01-03\* | 2022-07-29 |
 | [Morceaux](https://open.spotify.com/track/5cEjAzmvWIQYF54kUTdRKY) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Ceci est une espèce aimée](https://open.spotify.com/album/1EFz0WbdlqvV50NkSxJoWq) | 4:59 | 2022-07-08 |  |
 | [Mourir au large \- sunrise version](https://open.spotify.com/track/1Sl7Lu4hrGSl3agn3OUEZW) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Mourir au large](https://open.spotify.com/album/5ZC4UbRnVaHmzg5oIhlDyY) | 2:32 | 2021-10-09 | 2021-11-09 |

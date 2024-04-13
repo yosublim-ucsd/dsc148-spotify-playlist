@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 563764,
+  "num_followers": 564130,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDcwNGFiOGEzZTQ4ODBmZmZlNTc4NjEwMThiYTNiYWZh",
+  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDU1YTA0YmIzNGQ4YjM3NjFmMDhjNDg2NWU4YTE3YmI3",
   "tracks": [
     {
       "added_at": null,
@@ -479,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KILL YOURSELF Part XIV: The Vulture Saga",
-        "url": "https://open.spotify.com/album/4shih0Tkjmn2JWJHSHlF2s"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "Shakewell",
-          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
-        }
-      ],
-      "duration_ms": 123285,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/4RYhSQFFlquCTb8XRMJgFU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "High Tide in the Snake's Nest",
         "url": "https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 169319,
       "name": "$outh $ide $uicide",
       "url": "https://open.spotify.com/track/496GZe7MxLloHgUQTmY2Ch"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KILL YOURSELF Part XIV: The Vulture Saga",
+        "url": "https://open.spotify.com/album/4shih0Tkjmn2JWJHSHlF2s"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Shakewell",
+          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
+        }
+      ],
+      "duration_ms": 123285,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/4RYhSQFFlquCTb8XRMJgFU"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "YUNGDEATHLILLIFE",
-        "url": "https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Lte",
-      "url": "https://open.spotify.com/track/6GB3N6bDucdHThFVDCBcCv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "High Tide in the Snake's Nest",
         "url": "https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 145635,
       "name": "Mount Sinai",
       "url": "https://open.spotify.com/track/5vyR3lTiw4zz8B4PvnAO4c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YUNGDEATHLILLIFE",
+        "url": "https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Lte",
+      "url": "https://open.spotify.com/track/6GB3N6bDucdHThFVDCBcCv"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "YUNGDEATHLILLIFE",
-        "url": "https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 104211,
-      "name": "Gloss of Blood",
-      "url": "https://open.spotify.com/track/7zOIzXpbnCcx6iZfvOjGCQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KILL YOURSELF Part IX: The Soulseek Saga",
         "url": "https://open.spotify.com/album/1nWTr9q2FWYUm512ZhoLXd"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 136997,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/1ejyx2kXWFY6QuYHu7yOyD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YUNGDEATHLILLIFE",
+        "url": "https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 104211,
+      "name": "Gloss of Blood",
+      "url": "https://open.spotify.com/track/7zOIzXpbnCcx6iZfvOjGCQ"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Want to Die In New Orleans",
-        "url": "https://open.spotify.com/album/2ivOxIKDHxEo6WMD9m3ytn"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 137772,
-      "name": "Coma",
-      "url": "https://open.spotify.com/track/73hmZZ7HyLgUQj2DaybfBb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I No Longer Fear The Razor Guarding My Heel (V)",
         "url": "https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 140028,
       "name": "Finding Shelter In My Larynx",
       "url": "https://open.spotify.com/track/7FzP0ZPkQZpV5rauVyb7R6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Want to Die In New Orleans",
+        "url": "https://open.spotify.com/album/2ivOxIKDHxEo6WMD9m3ytn"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 137772,
+      "name": "Coma",
+      "url": "https://open.spotify.com/track/73hmZZ7HyLgUQj2DaybfBb"
     },
     {
       "added_at": null,

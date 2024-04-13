@@ -4656,7 +4656,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 165000,
       "name": "Haven",
       "url": "https://open.spotify.com/track/5K5WAmv3SxQR8Is4zJklrz"
@@ -7559,6 +7559,24 @@
     },
     {
       "album": {
+        "name": "Mirabella",
+        "url": "https://open.spotify.com/album/0iDH8OS9P0DcVV7Y2jVCUx"
+      },
+      "artists": [
+        {
+          "name": "Adiamo Mero",
+          "url": "https://open.spotify.com/artist/5GVoes1XQcUk6ru4HHwUMy"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161600,
+      "name": "Mirabella",
+      "url": "https://open.spotify.com/track/7xWIjzKV1OyZDnuA1DQNqM"
+    },
+    {
+      "album": {
         "name": "Misty",
         "url": "https://open.spotify.com/album/3Prta9BnlSZeRqirgUIisC"
       },
@@ -9760,6 +9778,24 @@
       "duration_ms": 163804,
       "name": "Quieta",
       "url": "https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY"
+    },
+    {
+      "album": {
+        "name": "Ray",
+        "url": "https://open.spotify.com/album/47ce8yosa7ZuuLDpQfzGtp"
+      },
+      "artists": [
+        {
+          "name": "Cole Neumann",
+          "url": "https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130308,
+      "name": "Ray",
+      "url": "https://open.spotify.com/track/2DGFV4U3tPuoTq0vTRfYja"
     },
     {
       "album": {
@@ -14030,7 +14066,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 138000,
       "name": "Windschatten",
       "url": "https://open.spotify.com/track/2emuUPpnoo2sgpbBfbmkyt"

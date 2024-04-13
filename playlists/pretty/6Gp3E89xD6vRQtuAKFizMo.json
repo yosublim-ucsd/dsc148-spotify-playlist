@@ -1,13 +1,65 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44332,
+  "num_followers": 44333,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NjQ3MywxYjBkYWExYjliNzM4Yjg5ZjVlZDI4YTBjNDY2OTE3ZmUwOWYxOTg5",
+  "snapshot_id": "NjQ3NixjNzY4YjRhNmVkMWU4MjZkZTk1ODQwYjI5YmM3ZGE5YzE2OWZhZmUy",
   "tracks": [
+    {
+      "added_at": "2024-04-12 12:32:03",
+      "album": {
+        "name": "Let's Dance Tonight",
+        "url": "https://open.spotify.com/album/0ipPlwc1J03LexVvjUEN4N"
+      },
+      "artists": [
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        },
+        {
+          "name": "DJ Mii",
+          "url": "https://open.spotify.com/artist/5RqV5Ga5EPI4NlgsiELB4m"
+        }
+      ],
+      "duration_ms": 156812,
+      "name": "Let's Dance Tonight",
+      "url": "https://open.spotify.com/track/6jMPTYHDu4rPDxOZXVr6Mt"
+    },
+    {
+      "added_at": "2024-04-12 12:32:15",
+      "album": {
+        "name": "A Little Techno",
+        "url": "https://open.spotify.com/album/7ohBu7NjyuJ723V3b9wED1"
+      },
+      "artists": [
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "A Little Techno",
+      "url": "https://open.spotify.com/track/4mOh1Pv4RdYN0MpTmqs3ce"
+    },
+    {
+      "added_at": "2024-04-12 15:39:43",
+      "album": {
+        "name": "DiscoTech",
+        "url": "https://open.spotify.com/album/698cfH6j3yX8vBqWSAg5lt"
+      },
+      "artists": [
+        {
+          "name": "Boslyk",
+          "url": "https://open.spotify.com/artist/1rGIIV4URDuQj5y0FYoL0r"
+        }
+      ],
+      "duration_ms": 148056,
+      "name": "DiscoTech",
+      "url": "https://open.spotify.com/track/17F6myLWeg7xqutfsyUEgq"
+    },
     {
       "added_at": "2024-04-05 16:07:29",
       "album": {

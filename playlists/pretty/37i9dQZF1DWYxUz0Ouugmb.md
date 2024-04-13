@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Masdddho
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,522 likes - 24 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,538 likes - 24 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Get your spirits up and manage your mood any time of the day
 
-115 songs - 6 hr 31 min
+117 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Butterflies](https://open.spotify.com/track/3tv6yZvQSk5easUqOh0P1O) | [Abaasa](https://open.spotify.com/artist/6IoNAD4tutkEZWTR3L21oc) | [Mountains of the Moon](https://open.spotify.com/album/4Yald2Q4kTDKMjiADNkXTs) | 3:17 | 2022-06-06 |  |
 | [Call Me Crazy](https://open.spotify.com/track/50orEVgOt7P1e2ok0gbJGu) | [The Goddess Lawino](https://open.spotify.com/artist/60Zm0GjEqosthGtgWzKZUj), [Nsokwa](https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz) | [Call Me Crazy](https://open.spotify.com/album/4FltpHD4x1eQKA7X8sDcpQ) | 3:09 | 2023-06-09 |  |
 | [Clear](https://open.spotify.com/track/4r9DKPP3egZ5LSSMknYrzc) | [Jozzi Uganda](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3) | [Clear](https://open.spotify.com/album/0aznaBi7uhInSSagaQu9dF) | 2:42 | 2024-03-01 |  |
+| [Commander](https://open.spotify.com/track/0qy7wQ1yDQO6zNwzHd3Kmk) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl) | [Commander](https://open.spotify.com/album/6zG9mpL0l0Y914JBs63i58) | 2:57 | 2024-04-12 |  |
 | [Do Me \- Remix](https://open.spotify.com/track/48ZJQls86YBeO0oSvsZvDf) | [Alloy Malik](https://open.spotify.com/artist/7iGL7mxv4v0aj4EtwQox88), [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM), [J\-Wats](https://open.spotify.com/artist/2hJigwTqQU3CFE4AUGb1Qv) | [Do Me \(Remix\)](https://open.spotify.com/album/2ck68T2ILwr0m3x9lJjPeB) | 2:48 | 2022-06-06 | 2022-09-09 |
 | [Don't Cry](https://open.spotify.com/track/68WyaHiGQ1tb8qumA6l8P2) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Book of Kirya](https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3) | 4:29 | 2022-06-06 |  |
 | [Dream Girl](https://open.spotify.com/track/6HAAyksU8YpwwyW4RBgv2x) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Jozzi Uganda](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Dny](https://open.spotify.com/artist/6vD7EUAHGIUGuToTc6SKaJ) | [Dream Girl](https://open.spotify.com/album/2bkg6XAiamz56VEELGehyd) | 2:31 | 2022-12-09 |  |
@@ -43,6 +44,7 @@
 | [Hurt](https://open.spotify.com/track/3bJbYh6uvG3QpIyF8TqCHl) | [Jona Da King](https://open.spotify.com/artist/0kPgslWy1peactBrX5wHXS) | [Hurt](https://open.spotify.com/album/0aw1zSvHaoF4RWSlrh8onc) | 3:23 | 2023-09-07 |  |
 | [Hurt](https://open.spotify.com/track/5SlEAgY8J6pPRIIeNnrOi5) | [Jona Da King](https://open.spotify.com/artist/0kPgslWy1peactBrX5wHXS) | [Hurt](https://open.spotify.com/album/2lcx1HhjTeD4ftYvY6oBii) | 3:23 | 2023-02-10 | 2023-10-12 |
 | [I am an African Girl \- Let Her Know Remix](https://open.spotify.com/track/3LM0vvNxz70Hn8ZClSZuw0) | [Afrie](https://open.spotify.com/artist/4jY6R19KcBOgfVoYcFRGmx), [Ife](https://open.spotify.com/artist/5WiC6YMFHUEPrD5p1KBRUn), [Smarty](https://open.spotify.com/artist/0bptA6l4hIWy33bCXiXO45) | [I am an African Girl \(Let Her Know Remix\)](https://open.spotify.com/album/4yhSNfpElmAk8g1bn9ULuN) | 4:15 | 2022-06-06 | 2023-10-13 |
+| [I Do \- Acoustic Version](https://open.spotify.com/track/35p0RKvsJ6wS5fthRJLFQh) | [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [I Do \(Acoustic Version\)](https://open.spotify.com/album/1HURfcIukpOqxEhsJeL38E) | 2:34 | 2024-04-12 |  |
 | [I Have a Dream](https://open.spotify.com/track/6C3hJMzXPspSPRSMTZ640O) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [I Have a Dream](https://open.spotify.com/album/7DBV6VBPBqU6FG9DU7iYsf) | 4:15 | 2022-11-10 |  |
 | [I Hope](https://open.spotify.com/track/4pqG4WjrY0YRCaDTpYy86G) | [Shawn Maine](https://open.spotify.com/artist/2WYf5FfGLxxLahVy554PlB) | [After The Pain](https://open.spotify.com/album/2UldGFRlxpHh12VjkuEajQ) | 3:20 | 2022-06-06 | 2022-08-06 |
 | [i will recover all](https://open.spotify.com/track/5MMYn4ZjRc0up1HhJO6N4T) | [itsjamer](https://open.spotify.com/artist/3mCv51R0mWs08fIwjK2g07) | [i will recover all](https://open.spotify.com/album/1Kg731pJsUpMP289JbiX58) | 2:57 | 2023-08-11 |  |
@@ -79,7 +81,7 @@
 | [Nkwagala](https://open.spotify.com/track/531luMexKodEekscAlLyVu) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Nkwagala](https://open.spotify.com/album/5rJT6clbZn0dbA5oLVfBwo) | 3:10 | 2022-06-06 |  |
 | [Nkwegomba](https://open.spotify.com/track/0uwQYXMXKRp126uwA98oTA) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF) | [Ugandan](https://open.spotify.com/album/5lZptP1kXQTGku9irUVhcD) | 3:01 | 2022-06-06 |  |
 | [Nyoko \(Remastered\)](https://open.spotify.com/track/6776viloLrnBTXcAEYsaQ1) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Let's Music Vol 2](https://open.spotify.com/album/2ZaMITZXW1qt20EnWbIMuf) | 3:13 | 2024-03-01 |  |
-| [Nzize](https://open.spotify.com/track/07mHquBr7G6N0WBIUx3iMl) | [Bravo Lion](https://open.spotify.com/artist/0t8TuUkIVtcfdSzr06o83A) | [Nzize](https://open.spotify.com/album/59ldtKfY8ZO8HbatSjVR9C) | 4:22 | 2023-06-30 |  |
+| [Nzize](https://open.spotify.com/track/07mHquBr7G6N0WBIUx3iMl) | [Bravo Lion](https://open.spotify.com/artist/0t8TuUkIVtcfdSzr06o83A) | [Nzize](https://open.spotify.com/album/59ldtKfY8ZO8HbatSjVR9C) | 4:22 | 2023-06-30 | 2024-04-13 |
 | [Obsession](https://open.spotify.com/track/68QPAQP4IqF1cedu2jwk5H) | [Tungi](https://open.spotify.com/artist/4SsqtdEL2Ahe4u331D0efV) | [Pearl Of Africa, Vol\. 2](https://open.spotify.com/album/74m1krd8ypMQFtwCLtiuuH) | 4:29 | 2023-10-12 | 2024-01-20 |
 | [Okello](https://open.spotify.com/track/1nvQCAasIUQCgVGsGh4kKf) | [Qwela](https://open.spotify.com/artist/6PcgYouyAJh2KQlrhadC8C) | [Afrotopia](https://open.spotify.com/album/6Cjc8BIj9Dhgt6Cp18Nra1) | 4:05 | 2022-06-06 | 2024-02-03 |
 | [Omukwano](https://open.spotify.com/track/2ssKMZuANIm0fFMrofWovC) | [Aybrah](https://open.spotify.com/artist/2LjrN4oipZgtk6t5678kt6), [Naava Grey](https://open.spotify.com/artist/4Dvh0aMCIBySKye4a8O2UB) | [Omukwano](https://open.spotify.com/album/2asyqwl9c5SBhRcauia0Pi) | 2:53 | 2022-06-06 | 2022-10-15 |
@@ -114,7 +116,7 @@
 | [Type of Energy](https://open.spotify.com/track/2AW3jN08vW0zVDSmByMxfW) | [Atino](https://open.spotify.com/artist/4ArO64i3c0kRuFR9ofHisD) | [Type of Energy](https://open.spotify.com/album/2gzUw0OukOocj4QAzOdOap) | 3:08 | 2023-01-12 |  |
 | [Type Of Girl](https://open.spotify.com/track/06pxO19q4mkseGmNoqJHFQ) | [Sanyu](https://open.spotify.com/artist/6oomz4M46LpCm0rd4BXIWK), [Kamanzi](https://open.spotify.com/artist/3eFz1Hi2ldnb0QWcidYrWZ) | [Type Of Girl](https://open.spotify.com/album/7xx4zbtu0xnr4jgOBQ8LVb) | 3:30 | 2023-11-10 |  |
 | [Uber Guy.](https://open.spotify.com/track/2tOS1uu6AWw5Z2Y3gUq2WJ) | [J.C Muyonjo](https://open.spotify.com/artist/0BtGF4dneF1Jf95UKn8ZS9) | [Kidandali](https://open.spotify.com/album/6Fj6D9GAUoPGi30S4fvLMF) | 3:23 | 2022-06-06 | 2023-10-13 |
-| [VOICES](https://open.spotify.com/track/3mf0BEmSuDJKFvsOWzz3nT) | [sanyu!](https://open.spotify.com/artist/7pUaqy2G4dAU7BEBa3rGhE), [peeta](https://open.spotify.com/artist/3hDGXEVK7HUHFfMTlUqgUI) | [VOICES](https://open.spotify.com/album/1G9Eh0VxBpqoryB8nhCVgX) | 2:54 | 2023-06-09 |  |
+| [VOICES](https://open.spotify.com/track/3mf0BEmSuDJKFvsOWzz3nT) | [sanyu!](https://open.spotify.com/artist/7pUaqy2G4dAU7BEBa3rGhE), [peeta](https://open.spotify.com/artist/3hDGXEVK7HUHFfMTlUqgUI) | [VOICES](https://open.spotify.com/album/1G9Eh0VxBpqoryB8nhCVgX) | 2:54 | 2023-06-09 | 2024-04-13 |
 | [Wampisa](https://open.spotify.com/track/6q5lNkKJfxpzLrsv0QlyMR) | [Aziz Azion](https://open.spotify.com/artist/5A4WNUoNE2OHg8hbn0wzDi) | [Wampisa](https://open.spotify.com/album/6UDMeyDezBLR1BOPm0yoM6) | 4:01 | 2024-01-19 |  |
 | [Wandiisa Ki](https://open.spotify.com/track/46MwoLINORNKPyqIILxsAo) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Wandiisa Ki](https://open.spotify.com/album/6SYvCQHJcZBBJKkADXL32z) | 3:13 | 2022-06-06 | 2022-09-02 |
 | [WANO](https://open.spotify.com/track/7smBB3wQQe6eGZMMVVF4mv) | [NTAATE](https://open.spotify.com/artist/2pjlyuBujBWpkiqpoZTOB9) | [WANO](https://open.spotify.com/album/3XIZCSSFUdzPvxMJOcC32t) | 3:31 | 2022-06-06 |  |

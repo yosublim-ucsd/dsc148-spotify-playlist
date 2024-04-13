@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: march-april 2024 (previous playlists archived on my profile)",
-  "num_followers": 19179,
+  "num_followers": 19199,
   "original_name": "innocence and panic",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "MjYxOSw5Y2Q0MTZkNTljYjAzYzg0OTIxM2YxZjFmYjJlOTRhNTM2YWJkM2Qx",
+  "snapshot_id": "MjYyMCwzNjYyZTY2OWIyYmMyYzU1OGU3ZDVkZTVlZTY2MmUwMmEyZmU1NTlk",
   "tracks": [
     {
       "added_at": "2024-03-09 23:04:11",
@@ -799,6 +799,38 @@
       "duration_ms": 215005,
       "name": "Closer",
       "url": "https://open.spotify.com/track/6vjyZVLkjfENDguX2WHrLB"
+    },
+    {
+      "added_at": "2024-04-12 19:09:05",
+      "album": {
+        "name": "Know By Heart",
+        "url": "https://open.spotify.com/album/1l1uLro07bvHaIFYs4uibG"
+      },
+      "artists": [
+        {
+          "name": "The American Analog Set",
+          "url": "https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A"
+        }
+      ],
+      "duration_ms": 173440,
+      "name": "Know by Heart",
+      "url": "https://open.spotify.com/track/5ju3Mgd15jLIAmZLwLPlwY"
+    },
+    {
+      "added_at": "2024-04-12 19:09:05",
+      "album": {
+        "name": "Know By Heart",
+        "url": "https://open.spotify.com/album/1l1uLro07bvHaIFYs4uibG"
+      },
+      "artists": [
+        {
+          "name": "The American Analog Set",
+          "url": "https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "Aaron & Maria",
+      "url": "https://open.spotify.com/track/2Uis5SlTxVJGLii6QYlHl1"
     }
   ],
   "unique_name": "innocence and panic",

@@ -448,7 +448,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 89739,
       "name": "All the Stones",
       "url": "https://open.spotify.com/track/4Z9uqqPGjhYUleqMBn5ejD"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 140374,
       "name": "Alphabet song",
       "url": "https://open.spotify.com/track/4mgc8BcnWl9eE2SSjSMoC3"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 138637,
       "name": "Are You Sleeping",
       "url": "https://open.spotify.com/track/331rhc4D6jJ3GfWqEOGBbb"
@@ -628,7 +628,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 88783,
       "name": "As You Fall Asleep",
       "url": "https://open.spotify.com/track/3e02zZNzCZ0i9WVMqhD0Xz"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 107184,
       "name": "Baby Swan Dreams",
       "url": "https://open.spotify.com/track/6m1Bxt4WfWlx5JD2Adp3Dr"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 117124,
       "name": "Bestevennen",
       "url": "https://open.spotify.com/track/1S7GRWwKfMQLST2R1FfIvw"
@@ -1366,10 +1366,28 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 110794,
       "name": "C is for Cookie",
       "url": "https://open.spotify.com/track/5TFGF1SttPMFcJfaHsg4AC"
+    },
+    {
+      "album": {
+        "name": "Cai Cai Bal\u00e3o",
+        "url": "https://open.spotify.com/album/1lPJowoAoyvvbOUfo2CpM8"
+      },
+      "artists": [
+        {
+          "name": "Pipo and Roy",
+          "url": "https://open.spotify.com/artist/2D6uOhkI97JwoLo1GGgmGS"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73582,
+      "name": "Cai Cai Bal\u00e3o",
+      "url": "https://open.spotify.com/track/1pPCs58FyrQKuAUaxvx4GV"
     },
     {
       "album": {
@@ -1960,7 +1978,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 85043,
       "name": "Ding Dong",
       "url": "https://open.spotify.com/track/6EgPt4flLVAt723yffCBgA"
@@ -2050,7 +2068,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 79826,
       "name": "Dream on",
       "url": "https://open.spotify.com/track/7sQbfao3cpLqbJ2MyvOJkg"
@@ -2140,7 +2158,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 110250,
       "name": "Ein Lied fur meine Kinder",
       "url": "https://open.spotify.com/track/5GJNORQZ55ta7Fjqke0QSK"
@@ -2266,7 +2284,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 77897,
       "name": "Farmer in the Dell",
       "url": "https://open.spotify.com/track/23AYYClz4RHhc2ofulvAe7"
@@ -2302,7 +2320,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 82162,
       "name": "Feel Free to Sleep",
       "url": "https://open.spotify.com/track/7fBKXwIpRXfesqArhNu8Sc"
@@ -2381,6 +2399,24 @@
     },
     {
       "album": {
+        "name": "Five In The Morning",
+        "url": "https://open.spotify.com/album/2FySZAFIuyM1fJT7OnR5qg"
+      },
+      "artists": [
+        {
+          "name": "Ellio Chanson",
+          "url": "https://open.spotify.com/artist/1kj2CTKpnlYp8mK1zAuO43"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147416,
+      "name": "Five In The Morning",
+      "url": "https://open.spotify.com/track/7HZwjhPILEmhB0ccHRhpcp"
+    },
+    {
+      "album": {
         "name": "Five Little Ducks",
         "url": "https://open.spotify.com/album/1uQUnfMkzeLj5zaWxOevW5"
       },
@@ -2428,7 +2464,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 100375,
       "name": "Five Little Speckled Frogs",
       "url": "https://open.spotify.com/track/5AgakDwt0BlSuOVRqRpqQE"
@@ -2500,7 +2536,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 97043,
       "name": "Fly among the stars",
       "url": "https://open.spotify.com/track/0Dbd6GrBYOdepkuaoLkb0n"
@@ -2536,7 +2572,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 85500,
       "name": "Fly With Sandyman",
       "url": "https://open.spotify.com/track/0FaGs1cOfVWG3DQ4CV2q2q"
@@ -2590,7 +2626,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 102874,
       "name": "Flying To Neverland",
       "url": "https://open.spotify.com/track/4ZDyIkGlce4qMbWFUcXa8a"
@@ -2608,7 +2644,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 98000,
       "name": "Follow The Moon",
       "url": "https://open.spotify.com/track/7l5Ff2ZywsoiAp4y3wpP8c"
@@ -2680,7 +2716,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 99500,
       "name": "From My Heart",
       "url": "https://open.spotify.com/track/2tFIVTK6HMxsqW9wDMn6fG"
@@ -3112,7 +3148,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 112173,
       "name": "Humpty Dumpty",
       "url": "https://open.spotify.com/track/6565orqQeMgqXT9om9MxKE"
@@ -3634,7 +3670,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 170374,
       "name": "It's Time For Bed",
       "url": "https://open.spotify.com/track/1BY99d77sqa5CBdHCAwkNQ"
@@ -3742,7 +3778,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 92250,
       "name": "I\u0307yi geceler",
       "url": "https://open.spotify.com/track/2K3foJU3XYNmp2uAXS3VqH"
@@ -3760,7 +3796,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 83011,
       "name": "Joyful Dreams",
       "url": "https://open.spotify.com/track/1FF6kQGLkSexxQ0FxWPCCL"
@@ -3886,7 +3922,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 98374,
       "name": "Lady Nightcap",
       "url": "https://open.spotify.com/track/7E00NmJlDu4GxXMUxFHZNm"
@@ -3994,7 +4030,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 130082,
       "name": "Let's Count the Stars",
       "url": "https://open.spotify.com/track/7s9CZ7mFhH64seDrWTeUp3"
@@ -4174,7 +4210,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 122089,
       "name": "Little Piece For Harp",
       "url": "https://open.spotify.com/track/5ol379cYHwXRapFSrls4pb"
@@ -4804,7 +4840,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 97956,
       "name": "Morning will come",
       "url": "https://open.spotify.com/track/1nD0qnUnr91DryAr98Y5Vk"
@@ -4894,7 +4930,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 115391,
       "name": "Mother's Waltz",
       "url": "https://open.spotify.com/track/7186LEkov9fIXeZlJwP8Nj"
@@ -4984,7 +5020,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 105163,
       "name": "My Bonnie Lies Over the Ocean",
       "url": "https://open.spotify.com/track/1IEJzJhBH5EUExBZRNr90E"
@@ -5056,7 +5092,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 96250,
       "name": "My Dear Susanne",
       "url": "https://open.spotify.com/track/2UpEFnzEBr3nIsIja4T47q"
@@ -5272,7 +5308,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 132653,
       "name": "Nocturne For Luna",
       "url": "https://open.spotify.com/track/6WZmh5M14Gb96trVMtNVmj"
@@ -5344,7 +5380,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 98608,
       "name": "Old Macdonald Had A Farm",
       "url": "https://open.spotify.com/track/5LHzazDsCpwIWfB6OjyXVU"
@@ -5434,7 +5470,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 108000,
       "name": "One for you, one for me",
       "url": "https://open.spotify.com/track/3D5eIqkrGvHEe42hEaBTwK"
@@ -5470,7 +5506,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 96711,
       "name": "Over the River And Through the Woods",
       "url": "https://open.spotify.com/track/3XkabH2dFfhxAhBhSg2K9l"
@@ -5704,7 +5740,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 108932,
       "name": "Rain, Rain, Go Away",
       "url": "https://open.spotify.com/track/3zmJ8KlMAGpS4hpqDJ5xmA"
@@ -6284,6 +6320,24 @@
       "duration_ms": 73170,
       "name": "Sleepy times",
       "url": "https://open.spotify.com/track/4e1OHtiK4WiYF3P4yIqWye"
+    },
+    {
+      "album": {
+        "name": "Slow Dreams",
+        "url": "https://open.spotify.com/album/5uFnxrYzEXUlVGBA54psoX"
+      },
+      "artists": [
+        {
+          "name": "Diego Bellucci",
+          "url": "https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124479,
+      "name": "Slow Dreams",
+      "url": "https://open.spotify.com/track/1mrILGidcTcj68OEmOQSy4"
     },
     {
       "album": {
@@ -7090,7 +7144,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 65500,
       "name": "The Ice Cream King",
       "url": "https://open.spotify.com/track/3bNEBw6cvY06icXZT9Jw3d"
@@ -7144,7 +7198,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 105723,
       "name": "The More We Get Together",
       "url": "https://open.spotify.com/track/7wGPXZCuXokL9AsePKRgSk"
@@ -7990,7 +8044,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 103826,
       "name": "Walking in a dream",
       "url": "https://open.spotify.com/track/4eRvFJvJFbQKsUz02o8Mbh"
@@ -8044,7 +8098,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 159067,
       "name": "We Walk Around",
       "url": "https://open.spotify.com/track/308Pv80NYNomGwut3BgKrQ"
@@ -8206,7 +8260,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 149919,
       "name": "When I Close My Eyes",
       "url": "https://open.spotify.com/track/4ck5iWqo3zaJkN3nWvvcOb"
@@ -8278,7 +8332,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 122750,
       "name": "When You're Close",
       "url": "https://open.spotify.com/track/1dKbvhGqWVJA57xL2mHeg2"
@@ -8314,7 +8368,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 91304,
       "name": "White Pyjamas",
       "url": "https://open.spotify.com/track/2dsE2HXXX88x38idJQ6Nhh"
@@ -8332,7 +8386,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 140653,
       "name": "White Winter Hymnal",
       "url": "https://open.spotify.com/track/430vTXvfipiOzgWFAkfNDB"
@@ -8458,7 +8512,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 114193,
       "name": "Wonder Of The World",
       "url": "https://open.spotify.com/track/2J32HMgsW6cDLodUiWA27k"
@@ -8674,7 +8728,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 97695,
       "name": "\u2019Round Bedtime",
       "url": "https://open.spotify.com/track/3CRvGpwakwvqFZXCkB6yJg"

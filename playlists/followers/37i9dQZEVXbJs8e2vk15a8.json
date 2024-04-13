@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 70852,
+  "2024-04-13": 70849,
   "date_first_scraped": "2022-04-16",
   "description": "Your daily update of the most viral tracks right now - Chile.",
   "name": "Viral 50 - Chile",
@@ -19534,6 +19534,28 @@
     },
     {
       "album": {
+        "name": "MaquIAje Vs El Efecto",
+        "url": "https://open.spotify.com/album/6oxKDKeJDfdZkN16d9xdX0"
+      },
+      "artists": [
+        {
+          "name": "Mati Guerra",
+          "url": "https://open.spotify.com/artist/2ulUGiMsMrgye4aAP5dmfX"
+        },
+        {
+          "name": "Vilu Gontero",
+          "url": "https://open.spotify.com/artist/5bPIRYYgVG70w7LNFW8a9P"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178588,
+      "name": "MaquIAje Vs El Efecto",
+      "url": "https://open.spotify.com/track/0Rzr21dqnlymPMLdQ3vuXh"
+    },
+    {
+      "album": {
         "name": "Maquillaje",
         "url": "https://open.spotify.com/album/0CLVKodSfi7SSMDFQutIhy"
       },
@@ -22521,7 +22543,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 107463,
       "name": "My World",
       "url": "https://open.spotify.com/track/2Xiaplc23BureS4EDeE8xa"
@@ -27279,6 +27301,24 @@
       "duration_ms": 263040,
       "name": "Praise Jah In The Moonlight",
       "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
+    },
+    {
+      "album": {
+        "name": "Praise Jah In The Moonlight (Live)",
+        "url": "https://open.spotify.com/album/1GhTKndy4z6y8sJoKXi1kt"
+      },
+      "artists": [
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263040,
+      "name": "Praise Jah In The Moonlight",
+      "url": "https://open.spotify.com/track/7ueuqvQkKA9k1Pys0hB5br"
     },
     {
       "album": {
@@ -38263,7 +38303,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 159000,
       "name": "\u30e9\u30d3\u30c3\u30c8\u30db\u30fc\u30eb",
       "url": "https://open.spotify.com/track/6CIQOFf01zQ9qJaqhD6rlH"

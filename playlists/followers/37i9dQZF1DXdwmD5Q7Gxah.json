@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 1142470,
+  "2024-04-13": 1142711,
   "date_first_scraped": "2019-07-30",
   "description": "cover: lizzy mcalpine",
   "name": "Lorem",
@@ -40631,6 +40631,24 @@
       "duration_ms": 280549,
       "name": "Spit Up",
       "url": "https://open.spotify.com/track/0DYIVjRfixT8rHJyBkW3ns"
+    },
+    {
+      "album": {
+        "name": "Spite",
+        "url": "https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162205,
+      "name": "Spite",
+      "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"
     },
     {
       "album": {

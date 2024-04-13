@@ -4,7 +4,7 @@
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-251 songs - 15 hr 56 min
+252 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [All Night \- Ivy Lab Remix](https://open.spotify.com/track/0HUEIdafaoXyaVWDehISEh) | [Trampa](https://open.spotify.com/artist/31DUXycJt0YIBoMXLI5UdV), [Nolay](https://open.spotify.com/artist/5DBQ8zSyCGuMkg52bhRG5X), [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [All Night \(Ivy Lab Remix\)](https://open.spotify.com/album/0Yn6y2yWBPoJrdi0b1YMWf) | 3:56 | 2021-09-17 | 2022-02-28 |
 | [Altar](https://open.spotify.com/track/1THGCI9ee9w0MfUDYf3Aw2) | [Throe](https://open.spotify.com/artist/3XixASPOXlyY4OcBTmEsrR) | [Altar](https://open.spotify.com/album/3x0dFa7nAkPHDXtt9wyr6w) | 4:12 | 2022-10-15 | 2023-05-31 |
 | [Always](https://open.spotify.com/track/1OAYXRKMitVKpuhMf8klHc) | [Super Future](https://open.spotify.com/artist/6Xri2X6xp5SDLr08hva6Bb) | [Goddess EP \(For Ellie\)](https://open.spotify.com/album/1OVk3K4kxpnMbk85wUm7b1) | 3:58 | 2022-01-22 | 2022-04-16 |
+| [An Ever Evolving Journey That Dances with Drums and Odd Dreams](https://open.spotify.com/track/0DbwKYNlxXyfEODBRFbTEQ) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [An Ever Evolving Journey That Dances with Drums and Odd Dreams](https://open.spotify.com/album/1FgAqBQFWptZOY8j6kbroG) | 3:15 | 2024-04-12 |  |
 | [Arachne](https://open.spotify.com/track/7A5jeuHXoI3ZGbIcZZ8Irm) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [From a Vein](https://open.spotify.com/album/77clkL2ZSpeDl8knKgGszu) | 3:30 | 2022-08-18 | 2022-09-17 |
 | [Arrive](https://open.spotify.com/track/47jS8CPFO50j9ilBmHqFWF) | [5AM](https://open.spotify.com/artist/0H89JZEyV5pJUv1SNuah8U), [Ram Dass](https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS) | [Arrive](https://open.spotify.com/album/3BN2q8j2jBH3w2gKa3GjLz) | 5:15 | 2023-10-14 | 2024-01-14 |
 | [August Star](https://open.spotify.com/track/0tbfLdtT9HonTEskKkaLuN) | [Kaipora](https://open.spotify.com/artist/3IXNmZ5mxr0M1BzOuLfFgY) | [August Star](https://open.spotify.com/album/1x4kCOTzh3E2Z8grHXfyhj) | 2:00 | 2021-11-10 | 2022-02-28 |
@@ -58,7 +59,7 @@
 | [Dead Meat](https://open.spotify.com/track/3wkkZI6VWRJW3SvbzhwDEE) | [Esseks](https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ), [tiedye ky](https://open.spotify.com/artist/7cLPkazOF3m109B7KBT37x) | [Dead Meat](https://open.spotify.com/album/4z176xDdgu7rn2pP2WwfIZ) | 2:45 | 2023-08-12 | 2023-12-14 |
 | [Deep Space](https://open.spotify.com/track/3cawIjrVTGtkC5LOZpzriJ) | [A Hundred Drums](https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ) | [Deep Space](https://open.spotify.com/album/0eYxRzlzOOoG8c0RWI15LD) | 3:53 | 2022-10-14 | 2022-10-17 |
 | [Descendo](https://open.spotify.com/track/15Er0c4Xm78iNQFlwdjqpT) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Descendo](https://open.spotify.com/album/59XLR9a1Td8OmglEaj63hE) | 3:32 | 2023-08-04 | 2023-08-20 |
-| [Dhabbu's Chorinicles](https://open.spotify.com/track/3w6GughLlATwAZhkCvhhCA) | [Gisaza](https://open.spotify.com/artist/154V6jdKjaQsqCPCajkZ4M) | [Dhabbu\_s Chorinicles](https://open.spotify.com/album/6f41bNNhlWwRYwRdQsWeOQ) | 2:48 | 2023-10-14 |  |
+| [Dhabbu's Chorinicles](https://open.spotify.com/track/3w6GughLlATwAZhkCvhhCA) | [Gisaza](https://open.spotify.com/artist/154V6jdKjaQsqCPCajkZ4M) | [Dhabbu\_s Chorinicles](https://open.spotify.com/album/6f41bNNhlWwRYwRdQsWeOQ) | 2:48 | 2023-10-14 | 2024-04-13 |
 | [Diaspora](https://open.spotify.com/track/7McrPEp0uof7Xw6IlOFmGC) | [MiM0SA](https://open.spotify.com/artist/5BTlwnHtDmzpMj0URbp4Ur) | [20 Years of Muti](https://open.spotify.com/album/6tZifHF3s2qaqzlPLZ83Kg) | 4:08 | 2022-11-18 | 2023-05-27 |
 | [Discovery](https://open.spotify.com/track/1hL68mCCsLmtSJNr1W8HmR) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Discovery](https://open.spotify.com/album/4zPaHY0Q3lKzH151iHPL9A) | 4:20 | 2022-09-23 | 2022-10-17 |
 | [DNA](https://open.spotify.com/track/6igOu1dKezn6cqJgAoXuAo) | [Hatcha](https://open.spotify.com/artist/6uKJAfwWvzUrpHovtyaPet) | [HATCHED 051](https://open.spotify.com/album/39sdmhLnB00K0Qx22LCpMW) | 5:39 | 2022-04-15 | 2022-09-17 |
@@ -225,7 +226,7 @@
 | [The Eightfold Path](https://open.spotify.com/track/44RsnczsfE0fMty7UATC3z) | [Zen Selekta](https://open.spotify.com/artist/35U1RcBFdxNezzySMgVVd3), [Chief Kaya](https://open.spotify.com/artist/558zMGW1SDfXPdI862UQ2A) | [IKIGAI](https://open.spotify.com/album/0X6ob5EVI8yI9tBMKE5byR) | 5:07 | 2023-02-20 | 2023-05-27 |
 | [The Jungle](https://open.spotify.com/track/5MxkPvXIWfywZZ5USYa9js) | [Josh Teed](https://open.spotify.com/artist/0m5NlhNMYQc0gUmvmRmVUS) | [The Jungle](https://open.spotify.com/album/2pur66tVtmzJrXIrTkhSn0) | 3:35 | 2022-04-15 | 2022-09-17 |
 | [The Last Judgement](https://open.spotify.com/track/0fs2L8OS0Jgc2Qy7aZsbIK) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [MC GQ](https://open.spotify.com/artist/28aPVWC88rDADOQBZNEgIs) | [The Dance Of Death](https://open.spotify.com/album/1w7u33Vp72rY6hnOspQ5cs) | 2:51 | 2021-10-23 | 2022-02-28 |
-| [The Last Lotus](https://open.spotify.com/track/0ckyGinZxwo5wnEPDBhQaJ) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4) | [The Last Lotus EP](https://open.spotify.com/album/01LyeW8mTLceCdqcQTeBRx) | 4:39 | 2023-06-03 |  |
+| [The Last Lotus](https://open.spotify.com/track/0ckyGinZxwo5wnEPDBhQaJ) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4) | [The Last Lotus EP](https://open.spotify.com/album/01LyeW8mTLceCdqcQTeBRx) | 4:39 | 2023-06-03 | 2024-04-13 |
 | [The Owl Song](https://open.spotify.com/track/7CdcnX9m1wI8sIlQGLd0Un) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [The Owl Song](https://open.spotify.com/album/38EVhFxJ7NEkFHFzUxXQNo) | 3:12 | 2022-04-25 | 2022-08-23 |
 | [TO FIND LOVE IS TO SEEK THE END \- Ivy Lab Remix](https://open.spotify.com/track/0c2NAdPReN7SUNR809lkVR) | [Little Snake](https://open.spotify.com/artist/2Hr12vmF0ozKYzLjPB2ZfX), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [TO FIND LOVE IS TO SEEK THE END \(Ivy Lab Remix\)](https://open.spotify.com/album/6G9cHPZ03iG8q1749C4PJt) | 3:42 | 2022-04-15 | 2022-08-23 |
 | [Transcendence](https://open.spotify.com/track/1XzOk2EiunSE9E2OKvWyq5) | [Nahlith](https://open.spotify.com/artist/0gKRNAatXm1v7V34aoWyFJ), [Mah Ze Tar](https://open.spotify.com/artist/3t1vbZuEQhRqLTUKLraNDn) | [Transcendence](https://open.spotify.com/album/7MZGYgP0meMpaYInGkxgI4) | 3:53 | 2024-01-13 |  |

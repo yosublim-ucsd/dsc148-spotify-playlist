@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 12800,
+  "2024-04-13": 12799,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Bolivia.",
   "name": "Viral 50 - Bolivia",
@@ -1597,7 +1597,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 142802,
       "name": "EXCESO",
       "url": "https://open.spotify.com/track/6icPJycbKyxzR3RAbXxjj1"
@@ -2421,6 +2421,24 @@
       "duration_ms": 303773,
       "name": "La Paso Cabr\u00f3n (feat. Gigolo y La Exce, Falsetto y Sammy, Mike Duran & Baby Angel)",
       "url": "https://open.spotify.com/track/2rnvFmtBu8L32HcFXgBf9F"
+    },
+    {
+      "album": {
+        "name": "La Vida Es Una Sola",
+        "url": "https://open.spotify.com/album/4nuYxqeglf9uDu9AzS9WeK"
+      },
+      "artists": [
+        {
+          "name": "Mu\u00f1equita Milly",
+          "url": "https://open.spotify.com/artist/0Eqa4cyFV5LPl6xfSz5DtS"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365596,
+      "name": "La Vida Es Una Sola",
+      "url": "https://open.spotify.com/track/1WRw0UVHdgUy866AcBB4qB"
     },
     {
       "album": {
@@ -3814,6 +3832,24 @@
     },
     {
       "album": {
+        "name": "Praise Jah In The Moonlight (Live)",
+        "url": "https://open.spotify.com/album/1GhTKndy4z6y8sJoKXi1kt"
+      },
+      "artists": [
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263040,
+      "name": "Praise Jah In The Moonlight",
+      "url": "https://open.spotify.com/track/7ueuqvQkKA9k1Pys0hB5br"
+    },
+    {
+      "album": {
         "name": "LAS LETRAS YA NO IMPORTAN",
         "url": "https://open.spotify.com/album/2VqfdamIWfwbBVzOzHJWs3"
       },
@@ -4177,7 +4213,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 107076,
       "name": "SLAY!",
       "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
@@ -5265,7 +5301,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
@@ -5455,7 +5491,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 177011,
       "name": "Ya No Digas Nada",
       "url": "https://open.spotify.com/track/2CwOE8MuEkLskLMst4xst5"

@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 98376,
+  "2024-04-13": 98374,
   "date_first_scraped": "2022-06-10",
   "description": "Folk tan dulce como la miel. Walter Esa\u00fa en portada.",
   "name": "madera y miel",
@@ -1193,7 +1193,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 243175,
       "name": "Hubo Algo - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/02GG5euwvDieKZXXAG2pYJ"
@@ -1233,6 +1233,24 @@
       "duration_ms": 243175,
       "name": "Hubo Algo - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/3zwzYlSIniTBm3e6P6RC18"
+    },
+    {
+      "album": {
+        "name": "Versiones Para El Tiempo Y La Distancia, Vol. 2",
+        "url": "https://open.spotify.com/album/3nuFz3EVPwX5eyUYKezjIS"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243175,
+      "name": "Hubo Algo - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/7vAAJI56AbHvnx1AEdmQPO"
     },
     {
       "album": {

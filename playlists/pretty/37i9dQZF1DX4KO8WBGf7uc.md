@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KO8WBGf7uc.md) - [plain]
 
 > Lo que suena en la noche.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,745 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,777 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KO8WBGf7uc.md) - [plain]
 | 66 | [Corazón Roto](https://open.spotify.com/track/4x2cAn3IIBBMpXsU8UHS9k) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Corazón Roto](https://open.spotify.com/album/1Tet5B9nNy0B5pfVPRRfNQ) | 2:31 |
 | 67 | [Fresa](https://open.spotify.com/track/1wNThvd9AUiHcKrEvnDd6o) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 2:45 |
 | 68 | [Bipolar](https://open.spotify.com/track/2ixygoa1o3CdZknv1PPjyj) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Bipolar](https://open.spotify.com/album/65R514k7t8iXXJVt2u7RWw) | 3:40 |
-| 69 | [B11 \(feat\. Myke Towers\)](https://open.spotify.com/track/4o1DxRjMCHDwBiOKv88rOl) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [B11 \(feat\. Myke Towers\)](https://open.spotify.com/album/3dwf8z3LfHFTlAHiyrcGzb) | 4:11 |
-| 70 | [No Quiere Amor \(feat\. Farruko\)](https://open.spotify.com/track/4NGlDkTO27uxg8del4oTAr) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [No Quiere Amor \(feat\. Farruko\)](https://open.spotify.com/album/1IREmSsAW11sdfG8gDUygU) | 4:28 |
+| 69 | [No Quiere Amor \(feat\. Farruko\)](https://open.spotify.com/track/4NGlDkTO27uxg8del4oTAr) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [No Quiere Amor \(feat\. Farruko\)](https://open.spotify.com/album/1IREmSsAW11sdfG8gDUygU) | 4:28 |
+| 70 | [B11 \(feat\. Myke Towers\)](https://open.spotify.com/track/4o1DxRjMCHDwBiOKv88rOl) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [B11 \(feat\. Myke Towers\)](https://open.spotify.com/album/3dwf8z3LfHFTlAHiyrcGzb) | 4:11 |
 | 71 | [Falsas Promesas](https://open.spotify.com/track/6ATIufHUOw1R1A4q46BqrN) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:26 |
 | 72 | [La Mentira \- Remix](https://open.spotify.com/track/4jBpZsZ9qx3cZhoEfuKElF) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [La Mentira \(Remix\)](https://open.spotify.com/album/1wFqv2q07zfETMmB1NMDyC) | 6:28 |
 | 73 | [Detective](https://open.spotify.com/track/5lFl0Aksww4t4CGiYYtpZz) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Detective](https://open.spotify.com/album/7fZ5cqL7bbmkABHhgbWZDB) | 3:24 |

@@ -505,6 +505,24 @@
     },
     {
       "album": {
+        "name": "Whispers of a Kingdom",
+        "url": "https://open.spotify.com/album/7mOSdcCraigppco8tSQvR9"
+      },
+      "artists": [
+        {
+          "name": "Cindy-Louise",
+          "url": "https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286956,
+      "name": "Burn and Fall",
+      "url": "https://open.spotify.com/track/1P4vizVN5y4hYn3Nvo6ya6"
+    },
+    {
+      "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai"
       },
@@ -886,6 +904,28 @@
       "duration_ms": 333220,
       "name": "Fearless Soul",
       "url": "https://open.spotify.com/track/6eFxUTC1eh9G0TXyYEwbZj"
+    },
+    {
+      "album": {
+        "name": "Feel The Same",
+        "url": "https://open.spotify.com/album/6CXdVWG2YBQVup4nZkFPiA"
+      },
+      "artists": [
+        {
+          "name": "Jordan Arts",
+          "url": "https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ"
+        },
+        {
+          "name": "Kryptic (UK)",
+          "url": "https://open.spotify.com/artist/59UMeQA7p4vUyRBrlOWeSJ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203171,
+      "name": "Feel The Same",
+      "url": "https://open.spotify.com/track/6B5QaJhvgupOlXTT0IBtZV"
     },
     {
       "album": {

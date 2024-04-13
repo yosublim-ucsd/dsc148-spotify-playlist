@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 13653,
+  "num_followers": 13691,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMGFlYzg2MDE0YmY2MGI2ODA0NTM5YTNlNzg5ODUwNzA2",
+  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDk5ZWYxMjA0ODRiOTI2OGRlOWRjYzkwODQ2OWY4ODBi",
   "tracks": [
     {
       "added_at": null,
@@ -103,8 +103,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "F.N.F. (Let's Go)",
-        "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/7cCqSijm31dZdQ1v3BaFAZ"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 137579,
+      "duration_ms": 137386,
       "name": "F.N.F. (Let's Go)",
-      "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
+      "url": "https://open.spotify.com/track/5nEUEJWFtBFdjVGeFyIOL0"
     },
     {
       "added_at": null,
@@ -607,22 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Trunk (feat. GloRilla)",
-        "url": "https://open.spotify.com/album/1MD6MPOCOu6Ejid7adoSVg"
+        "name": "Self Made Self Paid",
+        "url": "https://open.spotify.com/album/30FjRjmPxOqIV8EgKDJTGk"
       },
       "artists": [
         {
-          "name": "FendiDa Rappa",
-          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
+          "name": "Big Homiie G",
+          "url": "https://open.spotify.com/artist/3IG49Dhngr903hQWOFzmlh"
         },
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 165714,
-      "name": "In The Trunk (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/6srN4L7q0KzHeXFbi5K2pd"
+      "duration_ms": 190008,
+      "name": "When She Drunk",
+      "url": "https://open.spotify.com/track/0wjB4Pndeqcp6QO9HFKhdX"
     },
     {
       "added_at": null,
@@ -663,22 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Made Self Paid",
-        "url": "https://open.spotify.com/album/30FjRjmPxOqIV8EgKDJTGk"
+        "name": "In The Trunk (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/1MD6MPOCOu6Ejid7adoSVg"
       },
       "artists": [
         {
-          "name": "Big Homiie G",
-          "url": "https://open.spotify.com/artist/3IG49Dhngr903hQWOFzmlh"
+          "name": "FendiDa Rappa",
+          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
         },
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 190008,
-      "name": "When She Drunk",
-      "url": "https://open.spotify.com/track/0wjB4Pndeqcp6QO9HFKhdX"
+      "duration_ms": 165714,
+      "name": "In The Trunk (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/6srN4L7q0KzHeXFbi5K2pd"
     },
     {
       "added_at": null,

@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126653,
+  "num_followers": 126652,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDY1NiwzY2ViY2RiMmMzYWYxNjBkOGU1MGQ4YzZmODE4OTE3OThlNmQwMWYy",
+  "snapshot_id": "NDY1NywwODVhNDFhY2VjODE5ZDUwZmM2MzhjMWM5MDc4MzNiNzliMGE0YmQw",
   "tracks": [
+    {
+      "added_at": "2024-04-12 16:17:19",
+      "album": {
+        "name": "Mechanomorphic",
+        "url": "https://open.spotify.com/album/3YSCEubpM4QyBWIMc2fU0w"
+      },
+      "artists": [
+        {
+          "name": "Mr. Bill",
+          "url": "https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB"
+        },
+        {
+          "name": "COPYCATT",
+          "url": "https://open.spotify.com/artist/5XmObiDv74Etc9tJFMRtC4"
+        },
+        {
+          "name": "Def3",
+          "url": "https://open.spotify.com/artist/6kqN8RoL2VpRM8EgGwHiHG"
+        }
+      ],
+      "duration_ms": 149421,
+      "name": "Bring It On",
+      "url": "https://open.spotify.com/track/2PktA4OszTJ9OAy6YSZ3kn"
+    },
     {
       "added_at": "2024-04-11 17:03:05",
       "album": {

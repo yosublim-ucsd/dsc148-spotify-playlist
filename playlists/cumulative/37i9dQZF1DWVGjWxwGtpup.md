@@ -2,7 +2,7 @@
 
 ### [Caliente](https://open.spotify.com/playlist/37i9dQZF1DWVGjWxwGtpup)
 
-> Tous les hits latino du moment sont ici\. Photo : Tiësto x KAROL G
+> Tous les hits latino du moment sont ici\. Photo : KAROL G
 
 120 songs - 6 hr 20 min
 

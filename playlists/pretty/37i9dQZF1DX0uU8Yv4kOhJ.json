@@ -1,6 +1,6 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 127749,
+  "num_followers": 127756,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,18 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7"
+        "name": "Orcas",
+        "url": "https://open.spotify.com/album/474lLBbfJm8Y3zjSIXWgA3"
       },
       "artists": [
         {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        },
-        {
-          "name": "Buendia",
-          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
+          "name": "Lulacruza",
+          "url": "https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE"
         }
       ],
-      "duration_ms": 228026,
-      "name": "Relato",
-      "url": "https://open.spotify.com/track/6igYafJjuXcq87DLZJyXzW"
+      "duration_ms": 335292,
+      "name": "Uno Resuena",
+      "url": "https://open.spotify.com/track/752FIpJwEwS2w1fhyvsRs6"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -243,18 +239,22 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Orcas",
-        "url": "https://open.spotify.com/album/474lLBbfJm8Y3zjSIXWgA3"
+        "name": "6",
+        "url": "https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7"
       },
       "artists": [
         {
-          "name": "Lulacruza",
-          "url": "https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE"
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Buendia",
+          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
         }
       ],
-      "duration_ms": 335292,
-      "name": "Uno Resuena",
-      "url": "https://open.spotify.com/track/752FIpJwEwS2w1fhyvsRs6"
+      "duration_ms": 228026,
+      "name": "Relato",
+      "url": "https://open.spotify.com/track/6igYafJjuXcq87DLZJyXzW"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Flutes Indiennes",
-        "url": "https://open.spotify.com/album/7IIjmyVhX56PG8S1U77PJF"
-      },
-      "artists": [
-        {
-          "name": "Los Incas",
-          "url": "https://open.spotify.com/artist/0XgSqpsOieBTVS8WooknPG"
-        }
-      ],
-      "duration_ms": 125346,
-      "name": "Recuerdos de Calahuayo (Peru)",
-      "url": "https://open.spotify.com/track/2uLEA60TbLj16qPQF1P9Fq"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Quena De Los Andes",
         "url": "https://open.spotify.com/album/5uzYC0tdg1kxzzbNzNq7t1"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 222400,
       "name": "El Condor Pasa",
       "url": "https://open.spotify.com/track/4QPnKgaAx3vQJ05LGfIu2h"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Flutes Indiennes",
+        "url": "https://open.spotify.com/album/7IIjmyVhX56PG8S1U77PJF"
+      },
+      "artists": [
+        {
+          "name": "Los Incas",
+          "url": "https://open.spotify.com/artist/0XgSqpsOieBTVS8WooknPG"
+        }
+      ],
+      "duration_ms": 125346,
+      "name": "Recuerdos de Calahuayo (Peru)",
+      "url": "https://open.spotify.com/track/2uLEA60TbLj16qPQF1P9Fq"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
+        "name": "Astro",
+        "url": "https://open.spotify.com/album/79WFnNXKctYYSwJxas6AI8"
+      },
+      "artists": [
+        {
+          "name": "Mateo Kingman",
+          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
+        }
+      ],
+      "duration_ms": 216546,
+      "name": "Religar",
+      "url": "https://open.spotify.com/track/2wjx4ZP54RfWN479QH5UCK"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
         "name": "No Vuelvo a Amar (feat. Yuri Ortu\u00f1o Le\u00f3n, Rafael Arias Paz, Orlando Jim\u00e9nez, Ra\u00fal Muriel) [Bolivia y Su Folklore]",
         "url": "https://open.spotify.com/album/0HHmdi8uP0V82pxE8leycY"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 162168,
       "name": "Sajsahuaman",
       "url": "https://open.spotify.com/track/4kRLMCyV87XE573Iocaqpp"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "Astro",
-        "url": "https://open.spotify.com/album/79WFnNXKctYYSwJxas6AI8"
-      },
-      "artists": [
-        {
-          "name": "Mateo Kingman",
-          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
-        }
-      ],
-      "duration_ms": 216546,
-      "name": "Religar",
-      "url": "https://open.spotify.com/track/2wjx4ZP54RfWN479QH5UCK"
     },
     {
       "added_at": "2023-09-29 18:58:26",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "A new wave of rock music. Cover: EEVAH",
+  "description": "A new wave of rock music. Cover: Imogen and the Knife",
   "name": "shockwave",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 126467,
       "name": "6.0",
       "url": "https://open.spotify.com/track/5CuGhDqfPQKVNt09deoxwF"
+    },
+    {
+      "album": {
+        "name": "97%",
+        "url": "https://open.spotify.com/album/0a5e5u6XnpXSn51XCgKgM4"
+      },
+      "artists": [
+        {
+          "name": "Jools",
+          "url": "https://open.spotify.com/artist/7J6YlxY8MiF5ZwfVBzMpPc"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217677,
+      "name": "97%",
+      "url": "https://open.spotify.com/track/3jKEUkS4Gq3PFejGrbMlhK"
     },
     {
       "album": {
@@ -394,7 +412,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 206023,
       "name": "Babyface",
       "url": "https://open.spotify.com/track/3S7Go0zMpO1WQpx6oZQd2y"
@@ -520,7 +538,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 181839,
       "name": "Better Now You're Gone",
       "url": "https://open.spotify.com/track/1VuYDtXZsEPVnAQ9JVt5Lk"
@@ -596,6 +614,24 @@
       "duration_ms": 190206,
       "name": "Bite",
       "url": "https://open.spotify.com/track/7L0QRXk8Yr1QUHruF10TWJ"
+    },
+    {
+      "album": {
+        "name": "BLACK DOG / WHITE HORSE (bd/wh)",
+        "url": "https://open.spotify.com/album/1ocPyuuqpJiFvNJ4j8E66d"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188721,
+      "name": "BLACK DOG / WHITE HORSE",
+      "url": "https://open.spotify.com/track/7xbguPHutm62PX2zKauTEz"
     },
     {
       "album": {
@@ -689,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Boys",
+        "url": "https://open.spotify.com/album/5PzrhYhmTEb8Wao6CmZe66"
+      },
+      "artists": [
+        {
+          "name": "Ellur",
+          "url": "https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192444,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/3wRLsbybqoHVncYouMQvp3"
+    },
+    {
+      "album": {
         "name": "You're Welcome",
         "url": "https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9"
       },
@@ -722,6 +776,24 @@
       "duration_ms": 186601,
       "name": "Brat",
       "url": "https://open.spotify.com/track/6RBoDti7RDKjA3HQadiLDy"
+    },
+    {
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/1D0slQiKPmlWdQJI6cYW1D"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM"
     },
     {
       "album": {
@@ -772,7 +844,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 240630,
       "name": "BUTCHER'S BIN",
       "url": "https://open.spotify.com/track/0fRtRBeaVneVSDFAZ7yIiK"
@@ -808,7 +880,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 185583,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/4xCbH4j4W3wqkqNVJCMElL"
@@ -956,7 +1028,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 137142,
       "name": "Corruption's Last Victim",
       "url": "https://open.spotify.com/track/1KNRM5ur33sm3wsrZc3GDY"
@@ -1028,7 +1100,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 134326,
       "name": "Cringe",
       "url": "https://open.spotify.com/track/5xfUEcKx72EcuqYuZCD67L"
@@ -1082,7 +1154,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 216618,
       "name": "Cuts Like A Knife",
       "url": "https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp"
@@ -1215,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "Dead to Me",
+        "url": "https://open.spotify.com/album/7ITI3SiDikWH4ivHKBnUkF"
+      },
+      "artists": [
+        {
+          "name": "Gaffa Tape Sandy",
+          "url": "https://open.spotify.com/artist/00P2dAOymeYKFx4OSaVgw1"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170800,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/3jZ9j6pqDnZKpwuXU2QnKV"
+    },
+    {
+      "album": {
         "name": "Default Parody",
         "url": "https://open.spotify.com/album/2zHGFKgsqN5tYmpPGoxWK8"
       },
@@ -1226,7 +1316,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 207760,
       "name": "Default Parody",
       "url": "https://open.spotify.com/track/1H92yQ4R0sreZR0kDvTE2s"
@@ -1424,7 +1514,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 183741,
       "name": "Doomsday Blue",
       "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
@@ -1460,7 +1550,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 224000,
       "name": "DUST OFF / START AGAIN",
       "url": "https://open.spotify.com/track/5vyDsprQI2koIpWbFIrAqI"
@@ -1532,7 +1622,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 229294,
       "name": "Eternal December",
       "url": "https://open.spotify.com/track/39ejkjUIw8yzIJ1WP4mj83"
@@ -2095,6 +2185,28 @@
     },
     {
       "album": {
+        "name": "Got It Made",
+        "url": "https://open.spotify.com/album/2cWL1gAsdlE6jAp4g4Fic6"
+      },
+      "artists": [
+        {
+          "name": "Jaws the Shark",
+          "url": "https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S"
+        },
+        {
+          "name": "Deaf Havana",
+          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213970,
+      "name": "Got It Made",
+      "url": "https://open.spotify.com/track/4Fhe5EXinW5m77hmIb0V6B"
+    },
+    {
+      "album": {
         "name": "Great Grief / Atone",
         "url": "https://open.spotify.com/album/5Co6smDpKCGRKiBnQ17Acc"
       },
@@ -2221,6 +2333,24 @@
     },
     {
       "album": {
+        "name": "Headspace",
+        "url": "https://open.spotify.com/album/649jLqVMfUAXVgJ3zgqegv"
+      },
+      "artists": [
+        {
+          "name": "cruush",
+          "url": "https://open.spotify.com/artist/09SorScmrKs8yZMG9hdr6N"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279249,
+      "name": "Headspace",
+      "url": "https://open.spotify.com/track/6Ciqo08MA2NF2lgWiNi8u4"
+    },
+    {
+      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/1LrwyJ5KRhWc5lf7u1QPTM"
       },
@@ -2232,7 +2362,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 203491,
       "name": "Heart",
       "url": "https://open.spotify.com/track/377QrI3QW7BLKSPDrum5pk"
@@ -2718,7 +2848,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 188160,
       "name": "In My Egg",
       "url": "https://open.spotify.com/track/5NGZU0uyAHF24eCKUGisKj"
@@ -2902,7 +3032,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 204480,
       "name": "Kids Wanna Dance",
       "url": "https://open.spotify.com/track/3elBHbeIPKuWTuflsA8tFw"
@@ -3226,7 +3356,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 208250,
       "name": "Locked the Door",
       "url": "https://open.spotify.com/track/31JpFTDtchAKLgqTH9wLuO"
@@ -3244,7 +3374,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 244076,
       "name": "London (Love to Hate)",
       "url": "https://open.spotify.com/track/5EO7Imd5V2EZFUIOh9rtT6"
@@ -3665,6 +3795,24 @@
     },
     {
       "album": {
+        "name": "Mother of God",
+        "url": "https://open.spotify.com/album/7hRVnMKaiBRMwWkmEjjqaL"
+      },
+      "artists": [
+        {
+          "name": "Imogen and the Knife",
+          "url": "https://open.spotify.com/artist/4nfBa9tw0IWAdtirqqmrbY"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195782,
+      "name": "Mother of God",
+      "url": "https://open.spotify.com/track/7BgujQxrgPgmEzkpPQI81l"
+    },
+    {
+      "album": {
         "name": "MOTION SICKNESS!!",
         "url": "https://open.spotify.com/album/691SIoZqqRX7RqgpZIcdmt"
       },
@@ -3716,6 +3864,24 @@
       "duration_ms": 192488,
       "name": "My Perfect",
       "url": "https://open.spotify.com/track/4wd0skBSF7oBUOeULBeitG"
+    },
+    {
+      "album": {
+        "name": "My Thoughts Go",
+        "url": "https://open.spotify.com/album/2Xmyy15pLd7NwLjc1PAjXT"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222616,
+      "name": "My Thoughts Go",
+      "url": "https://open.spotify.com/track/0HgiTjbuOBalJw2QgDlR0H"
     },
     {
       "album": {
@@ -3885,6 +4051,24 @@
     },
     {
       "album": {
+        "name": "Not Like The Rest",
+        "url": "https://open.spotify.com/album/311IWRJeyNHUwqV3bk3Grb"
+      },
+      "artists": [
+        {
+          "name": "GIRLBAND!",
+          "url": "https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194443,
+      "name": "Not Like The Rest",
+      "url": "https://open.spotify.com/track/4KwYHGWMQelyzc6a5RXP4a"
+    },
+    {
+      "album": {
         "name": "Notre Dame Made Out of Flesh",
         "url": "https://open.spotify.com/album/0UFabPWPdCbnptLEJnu5LZ"
       },
@@ -3993,6 +4177,24 @@
     },
     {
       "album": {
+        "name": "All In One",
+        "url": "https://open.spotify.com/album/433yKcIuI3sgm8eYmhJuHg"
+      },
+      "artists": [
+        {
+          "name": "Been Stellar",
+          "url": "https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238493,
+      "name": "Passing Judgment",
+      "url": "https://open.spotify.com/track/1R2dM4T5lrnAk2Ajp0s1PA"
+    },
+    {
+      "album": {
         "name": "Past Vibration",
         "url": "https://open.spotify.com/album/423cCingFcQ64dla8mdJ6C"
       },
@@ -4058,7 +4260,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 240134,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/0VuKEwn7drlril79NoACPQ"
@@ -4224,7 +4426,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 187482,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD"
@@ -4700,7 +4902,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 167172,
       "name": "Signs Of Life",
       "url": "https://open.spotify.com/track/64ihzK8KyXVhlxU8UtcQVv"
@@ -4718,7 +4920,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 215735,
       "name": "Silver Sun",
       "url": "https://open.spotify.com/track/7g2paPF2JQLYBuEwLswKkH"
@@ -4869,6 +5071,24 @@
     },
     {
       "album": {
+        "name": "So Medieval",
+        "url": "https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C"
+      },
+      "artists": [
+        {
+          "name": "Blue Bendy",
+          "url": "https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234080,
+      "name": "So Medieval",
+      "url": "https://open.spotify.com/track/1XXyubI3J3GRqpmVQPcBCT"
+    },
+    {
+      "album": {
         "name": "Some Things Never Change",
         "url": "https://open.spotify.com/album/1UQqxMCjWrWBm5oIk79sV4"
       },
@@ -4920,6 +5140,24 @@
       "duration_ms": 248500,
       "name": "Speculate",
       "url": "https://open.spotify.com/track/6lvxk7lhf5MfdMf8kdT08i"
+    },
+    {
+      "album": {
+        "name": "Spirit Folio",
+        "url": "https://open.spotify.com/album/6qAUxmEqxdEYpYTmlNkqN4"
+      },
+      "artists": [
+        {
+          "name": "Stock Manager",
+          "url": "https://open.spotify.com/artist/24MkNjcQpzxj2W4QQrOmI3"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244838,
+      "name": "Spirit Folio",
+      "url": "https://open.spotify.com/track/6N2yszPeZBE2SAhZEgKIjH"
     },
     {
       "album": {
@@ -5031,6 +5269,24 @@
     },
     {
       "album": {
+        "name": "Strut",
+        "url": "https://open.spotify.com/album/3mIlv8SkFguyzBITrJs1zr"
+      },
+      "artists": [
+        {
+          "name": "Liz Lawrence",
+          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198640,
+      "name": "Strut",
+      "url": "https://open.spotify.com/track/3X1pxBnEv3yyD4XfAWYugU"
+    },
+    {
+      "album": {
         "name": "Suff City",
         "url": "https://open.spotify.com/album/2oqoYX8ocgX1HooEd9fEMU"
       },
@@ -5046,6 +5302,24 @@
       "duration_ms": 189000,
       "name": "Suff City",
       "url": "https://open.spotify.com/track/1kKtsNYNR33jc4NXY9cc4S"
+    },
+    {
+      "album": {
+        "name": "Skinwalker",
+        "url": "https://open.spotify.com/album/0NrTb5PevrUBFnL3DXOyFG"
+      },
+      "artists": [
+        {
+          "name": "Buzzard Buzzard Buzzard",
+          "url": "https://open.spotify.com/artist/69ilUSFj31FA2iLHtegRwi"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145732,
+      "name": "Sugar Sandwich",
+      "url": "https://open.spotify.com/track/0YjWw115kqMWebWvXKC7is"
     },
     {
       "album": {
@@ -5132,7 +5406,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 178253,
       "name": "Swing and Sway",
       "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
@@ -5258,7 +5532,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 174040,
       "name": "The Real Thing",
       "url": "https://open.spotify.com/track/2Qe5XnI7iRXFlvk7fBEBQw"
@@ -5532,7 +5806,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 198088,
       "name": "Universal Credit",
       "url": "https://open.spotify.com/track/272KzgZU381dedN18b7qzT"
@@ -5658,7 +5932,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 194234,
       "name": "Waves",
       "url": "https://open.spotify.com/track/06JGsU2snVzhic3RegsYXx"
@@ -5748,7 +6022,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 179690,
       "name": "WELCOME TO MY CHURCH",
       "url": "https://open.spotify.com/track/54kqBEU5WNmkPm3vjat95h"
@@ -5899,6 +6173,24 @@
     },
     {
       "album": {
+        "name": "Why Would I Lie?",
+        "url": "https://open.spotify.com/album/4iJ0AdLuRIzxN4cMBS92XW"
+      },
+      "artists": [
+        {
+          "name": "FEET",
+          "url": "https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197560,
+      "name": "Why Would I Lie?",
+      "url": "https://open.spotify.com/track/6L1xeWUMDZNnaHAaBsi1yg"
+    },
+    {
+      "album": {
         "name": "Human Nature",
         "url": "https://open.spotify.com/album/7tN9HGssvTd1CiOMWL7k72"
       },
@@ -6018,7 +6310,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 176557,
       "name": "WOT?",
       "url": "https://open.spotify.com/track/3reDMknQne3fFioU5DGjxn"

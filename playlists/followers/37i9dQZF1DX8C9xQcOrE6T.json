@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 5318843,
+  "2024-04-13": 5319665,
   "date_first_scraped": "2022-04-19",
   "description": "All your favorite Disney hits, including songs from Wish.",
   "name": "Disney Hits",
@@ -381,6 +381,32 @@
       "duration_ms": 79293,
       "name": "Arabian Nights",
       "url": "https://open.spotify.com/track/0CKmN3Wwk8W4zjU0pqq2cv"
+    },
+    {
+      "album": {
+        "name": "Wish (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao"
+      },
+      "artists": [
+        {
+          "name": "Chris Pine",
+          "url": "https://open.spotify.com/artist/5ueYs7bR3niiOeZdOSge5e"
+        },
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198920,
+      "name": "At All Costs",
+      "url": "https://open.spotify.com/track/1233MOKLpbc9qjNN31vpl4"
     },
     {
       "album": {
@@ -3371,6 +3397,32 @@
       "duration_ms": 194160,
       "name": "This Is The Thanks I Get?! - From \"Wish\"",
       "url": "https://open.spotify.com/track/5jzCoRQd6YsKNWy4S3SUsx"
+    },
+    {
+      "album": {
+        "name": "Wish (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao"
+      },
+      "artists": [
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        },
+        {
+          "name": "Wish - Cast",
+          "url": "https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165173,
+      "name": "This Wish (Reprise)",
+      "url": "https://open.spotify.com/track/468xdCSM8P7WST9MV67RrB"
     },
     {
       "album": {

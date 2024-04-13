@@ -4,7 +4,7 @@
 
 > Phoenix RDC entra na zona.
 
-526 songs - 1 day 4 hr 10 min
+527 songs - 1 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [EUROPA \(feat\. Gson\)](https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [EUROPA \(feat\. Gson\)](https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q) | 3:36 | 2022-07-16 | 2023-02-03 |
 | [Everyday](https://open.spotify.com/track/5dqky2uELRcvjcMYbEP5TW) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Everyday](https://open.spotify.com/album/2p9CnUqvAVGHFe9eU2KyWW) | 3:22 | 2023-05-26 | 2023-06-16 |
 | [EViL](https://open.spotify.com/track/2VaLKyJgR9lIVoTqf4oIyY) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [EViL](https://open.spotify.com/album/3fCwkZDlvmzwqx0O2j3ASt) | 2:50 | 2022-08-01 | 2023-04-28 |
+| [Facilita](https://open.spotify.com/track/29j0meHh2Q3obkjUgGH147) | [Zt35](https://open.spotify.com/artist/4yEpDApCiftRugkpN2sOVM), [Ceeb35](https://open.spotify.com/artist/3jfSV1aHZxZNJH6Um6ikqa) | [On My Block](https://open.spotify.com/album/3zrUJwXk7VAksD9BNtrHCh) | 2:54 | 2024-04-11 |  |
 | [Fada](https://open.spotify.com/track/6edj5SqkUWNCmwCjhcBCj0) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [tripsyhell](https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB), [vano1337](https://open.spotify.com/artist/0TBtIg6LfQ7ScMO7txwIci) | [Eurotape](https://open.spotify.com/album/2azkUPSyLVWwW9fnf4z5a6) | 2:56 | 2023-05-11 | 2023-06-09 |
 | [FALA COMIGO](https://open.spotify.com/track/1CMsg2cYPcStv9wTfIyN0a) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n), [Codie](https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm) | [FALA COMIGO](https://open.spotify.com/album/0aOByZwykAkHd5NYgsy2ct) | 2:44 | 2023-05-25 | 2023-06-23 |
 | [Falam Muito](https://open.spotify.com/track/53mcQ80KjiD78AfkQ7fwJA) | [Beatoven](https://open.spotify.com/artist/5KPaJqjZ6Ta1dDO47eSQKa), [Dr Flow Semeia](https://open.spotify.com/artist/6xbIsNa7MZqXzaG0kxiZIj), [Sir Scratch](https://open.spotify.com/artist/5rvP5KtLM6n8xOUDqhmq4i), [Tekilla](https://open.spotify.com/artist/4JpVZA90RocmWArCvMSWqM) | [Falam Muito](https://open.spotify.com/album/1jMs35PYU2TPYu3nvzL1Pz) | 3:31 | 2024-02-16 | 2024-03-08 |

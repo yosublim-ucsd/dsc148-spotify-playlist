@@ -4,7 +4,7 @@
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-128 songs - 8 hr 56 min
+129 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Pets](https://open.spotify.com/track/5kcQEPksJHTOLQ4In5oGN2) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Porno For Pyros](https://open.spotify.com/album/1wTVRmgk25jTh6VsrxCFDr) | 3:36 | 2020-01-08 |  |
 | [Phat Blunt](https://open.spotify.com/track/1PD0lIuQku2P5xxJ1XVUxY) | [Miss Velvet and the Blue Wolf](https://open.spotify.com/artist/4BN7XfgaoYfXuwwZk5Bd0z), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA), [Miss Velvet](https://open.spotify.com/artist/69dhX9UsXOSbt9gjxv1wAZ), [Nick Carbone](https://open.spotify.com/artist/7KgTvOst3yl6Ec8mX7IICZ), [Constance Hauman](https://open.spotify.com/artist/7nC3KBioN9j5rW7NnO8Tjc), [James Jones](https://open.spotify.com/artist/5h0bhczo1RaGNqzG8GZksl), [Henry Ott](https://open.spotify.com/artist/6dvid0Q11DXNyBHHZku14g) | [Feed the Wolf](https://open.spotify.com/album/721D2mVjM26irnIos8qL6Y) | 4:47 | 2022-02-04 | 2023-04-15 |
 | [Please Excuse This Funk Up](https://open.spotify.com/track/2RPs5rAbwaMrjlguUC9jux) | [Infectious Grooves](https://open.spotify.com/artist/32R6YbLokiJpZpvFX9Ewo9) | [Mas Borracho](https://open.spotify.com/album/5DYPTOnwkK4f8qmuhoowKH) | 4:37 | 2020-01-08 |  |
-| [Pleasure](https://open.spotify.com/track/2eveNWx7SOWY5CW4kLAuqI) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Pleasure](https://open.spotify.com/album/0uHID8mbrWV2qnAHdiyNpF) | 3:24 | 2022-04-08 |  |
+| [Pleasure](https://open.spotify.com/track/1fA2I8fXd5uiB77U70gIbl) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Love & Algorhythms](https://open.spotify.com/album/5GytXeAxawqjyAtQwJ8XzA) | 3:24 | 2022-04-29 |  |
+| [Pleasure](https://open.spotify.com/track/2eveNWx7SOWY5CW4kLAuqI) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Pleasure](https://open.spotify.com/album/0uHID8mbrWV2qnAHdiyNpF) | 3:24 | 2022-04-08 | 2024-04-13 |
 | [Politicalamity](https://open.spotify.com/track/7fyHrLP3XxlVjHZHtgeWVe) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [III Sides To Every Story](https://open.spotify.com/album/2TV8JqednqRKb2injBMYGd) | 5:04 | 2020-01-08 |  |
 | [Poster Child](https://open.spotify.com/track/4ILJxejqqWk4y8oWsxYDtE) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Poster Child](https://open.spotify.com/album/7hcWLkAhIDMGJCi2mIUQa8) | 5:18 | 2022-03-04 |  |
 | [Pre\-School Love Affair](https://open.spotify.com/track/5mGiXG8Jkg7Y9MV3jeSWpc) | [Peeping Tom](https://open.spotify.com/artist/3R0asV2e7pWetezwXtpDLG) | [Pre\-School Love Affair](https://open.spotify.com/album/2YQSHL8WhkdAwWPByaMjvw) | 3:10 | 2023-10-27 |  |

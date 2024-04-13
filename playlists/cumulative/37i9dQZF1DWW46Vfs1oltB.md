@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: CHANGMO, lobonabeat!, shyboiitobii, Dok2, SMMUGLERS\)
 
-1,174 songs - 2 day 16 hr 6 min
+1,176 songs - 2 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Cockroaches \(feat\. Sikboy\)](https://open.spotify.com/track/3R7Mqg1N1JTDOzkNmP1YvR) | [Yonge Jaundice](https://open.spotify.com/artist/0ESfTnqcM5os6xjx05jjYT), [Max Kim](https://open.spotify.com/artist/6zKnUkgWMqNMQ3g88g9iqR), [Sikboy](https://open.spotify.com/artist/7yhu8y8MIhKA3I4n02MdBQ) | [Drop The Bit The 3rd round Pt\. 1](https://open.spotify.com/album/4qymBh4IciyjJwgzwIVFUX) | 3:08 | 2022-06-03 | 2022-06-07 |
 | [Coin Laundry](https://open.spotify.com/track/7c15oEQBX6E0hGdDSsGxZy) | [Donutman](https://open.spotify.com/artist/2xH4dYFMVhdOGIhgIWonbc) | [Coin Laundry](https://open.spotify.com/album/1WiFGqAYwIO3Zb16PXe9Q3) | 2:44 | 2021-12-21 | 2022-07-02 |
 | [Cold \(Feat\. SUPERBEE\) \(Prod\. Way Ched\)](https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [School Rapper4 Semi Final 1](https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et) | 4:01 | 2021-12-18 | 2022-07-05 |
+| [COLD AVE.](https://open.spotify.com/track/6Q7HKTGjFMrDCucN86eu2O) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [MARNI](https://open.spotify.com/album/5Jc65PONU8FqRCeZEjVJMj) | 2:38 | 2024-04-12 |  |
 | [Cold Blooded](https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Cold Blooded](https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ) | 2:30 | 2021-12-18 | 2022-07-08 |
 | [Come and kiss me](https://open.spotify.com/track/6IhyhjqBFuzj7TZePscB5d) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [BLOO IN WONDERLAND 2](https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J) | 2:53 | 2022-01-04 | 2022-06-01 |
 | [COME TO MY STU \(Feat\. Leellamarz\)](https://open.spotify.com/track/7FXAik3QQacggiaSJ2QTbA) | [QM](https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [SHOW ME THE MONEY 11 Episode 2](https://open.spotify.com/album/2MypmCpJHMyUOKcnWsByC0) | 3:40 | 2022-12-11 | 2023-03-28 |
@@ -1082,6 +1083,7 @@
 | [VOoDOo BOogie](https://open.spotify.com/track/1jQr59cbLRE73yZOjPnG8e) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [hella \(˃̣̣̥╭╮˂̣̣̥\) ✧ ♡ ‧º·˚](https://open.spotify.com/album/7nAFPtoN75FBt8WA0CQoBQ) | 2:47 | 2024-02-20 |  |
 | [Vroom \(Feat\. lIlBOI, Swings\) \(Prod\. GroovyRoom\)](https://open.spotify.com/track/5a3aBxwQjcZfT1Qswlc1cK) | [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [SHOW ME THE MONEY 11 Semi Final](https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx) | 4:10 | 2022-12-25 | 2023-07-18 |
 | [Vroong](https://open.spotify.com/track/5Ps7tCxcqnTJxVZ18AlSo6) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [Street Baby](https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim) | [Vroong](https://open.spotify.com/album/4KllueUg7op1SBGoGxKsX0) | 2:48 | 2023-03-31 | 2023-09-15 |
+| [W GANG UP \(SAIKOU!\)](https://open.spotify.com/track/6qEpXArD0cBKkaB42NdZht) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [MARNI](https://open.spotify.com/album/5Jc65PONU8FqRCeZEjVJMj) | 1:30 | 2024-04-12 |  |
 | [W.G.C](https://open.spotify.com/track/7vxrsVk3u02QAepkhGRfrH) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [W.G.C](https://open.spotify.com/album/3mfAoElvNGipmw10H80wBf) | 2:58 | 2021-12-18 | 2022-06-29 |
 | [Wait! \(Feat\. Pullik, HOTCHKISS\)](https://open.spotify.com/track/0PATQFHgL6Ia7iRfolt5mL) | [BanggerDope](https://open.spotify.com/artist/4LPB4af7uKBu5RrRaZLb15), [PULLIK](https://open.spotify.com/artist/6vhLgVqFLRdTEilwzSs98z), [HOTCHKISS](https://open.spotify.com/artist/4ang1laReM5X7wATItbxwQ) | [Wait!](https://open.spotify.com/album/64irzmwxbSHOmVRzJw6fjY) | 2:52 | 2022-03-29 | 2022-06-30 |
 | [Waiting For The Food \(Feat\. Minyoung\)](https://open.spotify.com/track/4AfL5CEbV15dr9nyEzdbj4) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Minyoung](https://open.spotify.com/artist/0gU1NkYObAFL1pPgubu0IG) | [K\-XY : INFP](https://open.spotify.com/album/2wnWRNfQin1JbNKLvFVOxp) | 3:05 | 2023-09-07 | 2024-01-24 |

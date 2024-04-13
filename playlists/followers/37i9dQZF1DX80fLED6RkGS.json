@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 25856,
+  "2024-04-13": 25870,
   "date_first_scraped": "2021-12-29",
   "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz?si=XXV_jXQVQkSGDRAmSK-IrA\"> Chris Kaiga </a> ",
   "name": "Gengetone Fire",
@@ -407,6 +407,28 @@
       "duration_ms": 167000,
       "name": "Aroma",
       "url": "https://open.spotify.com/track/3JUlWwEE1F1sa8aHalyBCH"
+    },
+    {
+      "album": {
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/2oUuU5z4VoTcIqr6kWAGpl"
+      },
+      "artists": [
+        {
+          "name": "Boutross",
+          "url": "https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154366,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/2N97etKcWdLigGpkwdUvag"
     },
     {
       "album": {
@@ -3099,7 +3121,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 205705,
       "name": "Kejani",
       "url": "https://open.spotify.com/track/75EHmOnNQFy6Vzw11qbuHB"
@@ -4077,7 +4099,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 205891,
       "name": "Mapema Ndio Best",
       "url": "https://open.spotify.com/track/5b8caYTRWpbi5I0jKrVah1"
@@ -6109,6 +6131,28 @@
       "duration_ms": 189544,
       "name": "Remedy (feat. Otile Brown)",
       "url": "https://open.spotify.com/track/4TeLGiFpCFvf3wxBVRK7yy"
+    },
+    {
+      "album": {
+        "name": "Rich",
+        "url": "https://open.spotify.com/album/5QiNEorRaNhMsbKnj6Xjco"
+      },
+      "artists": [
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        },
+        {
+          "name": "Silverstone Barz",
+          "url": "https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132680,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/37ArS1kei108HBKhbYePT5"
     },
     {
       "album": {

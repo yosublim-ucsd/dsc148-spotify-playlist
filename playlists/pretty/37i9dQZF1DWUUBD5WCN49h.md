@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Kojo Blak
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,677 likes - 90 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,685 likes - 90 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 38 | [Zero To Hero](https://open.spotify.com/track/4Z65QWG2eGVT1oTgSiESjI) | [Muanda](https://open.spotify.com/artist/7FY23WzyHwLPLK7VSHb7gV), [Afrolektra](https://open.spotify.com/artist/0qy73oup9yKKAO8TsRoS1g) | [Zero To Hero](https://open.spotify.com/album/4D8OCsy81XSAyZm5T6Nnk6) | 3:07 |
 | 39 | [Like Dat](https://open.spotify.com/track/7vkALwrG5ZdnPxxCmdYDPP) | [Her Revenge](https://open.spotify.com/artist/5SrjPqmZawRld9MZNRpmvC) | [Like Dat](https://open.spotify.com/album/14JaHwEOJz8mXqG6FV6koM) | 2:04 |
 | 40 | [WRONGS](https://open.spotify.com/track/7ydl4S47WMYBgG54b2jet3) | [Drizzy Bangz](https://open.spotify.com/artist/6FGjwThohKOCI6VcmYYLtA) | [WRONGS](https://open.spotify.com/album/2GAiGdCq0THhILBhe409Cd) | 2:24 |
-| 41 | [Fa Lala](https://open.spotify.com/track/3oDOczWpp1KiOYSb5LaWvp) | [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS), [Damo K](https://open.spotify.com/artist/2EbTRZdju2hUrMqClX4wyO) | [Fa Lala](https://open.spotify.com/album/3iPv8iHJsuAas79hTaBfq7) | 3:02 |
+| 41 | [Fa Lala](https://open.spotify.com/track/3oDOczWpp1KiOYSb5LaWvp) | [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS), [Damo K](https://open.spotify.com/artist/2EbTRZdju2hUrMqClX4wyO) | [Fa Lala](https://open.spotify.com/album/3iPv8iHJsuAas79hTaBfq7) | 2:59 |
 | 42 | [ALWAYS](https://open.spotify.com/track/6Wkoz5kAWOTIHewXzn9srF) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [ALWAYS](https://open.spotify.com/album/5M3zUxFgRlneZtiEXGuKYe) | 2:52 |
 | 43 | [BEBE](https://open.spotify.com/track/6g66M8kCsTHH62T7oT0K3I) | [boistory](https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [BEBE/CINNAMON](https://open.spotify.com/album/1xNUH2MsviQz6p4firxKHR) | 2:45 |
 | 44 | [Hot Box](https://open.spotify.com/track/7sEYYNhpjS2XUoS2YXmmBO) | [Plug Music](https://open.spotify.com/artist/5sVHv1gaAjQw2X2gyYpKq6), [Oiza x Meyi](https://open.spotify.com/artist/06HXi3s2lqAmgpEeOstUTQ), [PEB](https://open.spotify.com/artist/4ski8pfswvIcQOXTfTeAWF), [Reynbow](https://open.spotify.com/artist/61XaM5gMcoCAslh87geEVQ), [Yoma](https://open.spotify.com/artist/0Ifsqx9PTlmpGRqE0jnXNK) | [Celine Vol\. I](https://open.spotify.com/album/7DdmKGWMOIMKpbYjpBTelV) | 2:10 |

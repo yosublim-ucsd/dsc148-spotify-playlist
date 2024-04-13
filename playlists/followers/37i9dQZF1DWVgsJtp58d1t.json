@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 1017560,
+  "2024-04-13": 1017771,
   "date_first_scraped": "2022-02-25",
   "description": "New music from Black artists every Friday. Cover: <a href=\"spotify:artist:2qoQgPAilErOKCwE2Y8wOG\"> Glorilla </a> and <a href=\"spotify:artist:181bsRPaVXVlUKXrxwZfHK\">Megan Thee Stallion </a> ",
   "name": "This Is Frequency",
@@ -7779,6 +7779,24 @@
       "duration_ms": 154409,
       "name": "Bows",
       "url": "https://open.spotify.com/track/4Xkk9RBSBgRBAFwPta5FlT"
+    },
+    {
+      "album": {
+        "name": "Boy Bye",
+        "url": "https://open.spotify.com/album/5Z3LNuIi0IWLJCnIn4OkdG"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Boy Bye",
+      "url": "https://open.spotify.com/track/4vZqE8iZ1wYFqlmeOB72nh"
     },
     {
       "album": {

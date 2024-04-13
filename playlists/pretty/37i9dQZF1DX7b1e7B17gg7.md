@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7b1e7B17gg7.md) - [plain]
 
 > Soft instrumental Blues for any activity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,106 likes - 76 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,131 likes - 76 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7b1e7B17gg7.md) - [plain]
 | 7 | [Sandu](https://open.spotify.com/track/5h0YCcpbhZwJpX9j5Lkdvp) | [Fred Hayes](https://open.spotify.com/artist/62p6oXKfOk0e0tLh9uO94a) | [Sandu](https://open.spotify.com/album/0iq7F94ZjDD5sfnlfDAhue) | 2:34 |
 | 8 | [Wayfaring Pilgrim](https://open.spotify.com/track/6yJ6VtC0IQ4BC47Aj6MkZ3) | [Roy Buchanan](https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C) | [In The Beginning](https://open.spotify.com/album/4s8yNqAy1MyFXtLp8HlWUM) | 5:08 |
 | 9 | [Amazing G](https://open.spotify.com/track/6h3xIEuUwAlSeY3jAn7rKf) | [Terry Johnson](https://open.spotify.com/artist/7DWOTQc5g2G2zbd6SaXej7) | [Terry Mojo Johnson, Vol\. 2](https://open.spotify.com/album/0dx2z2A8kweCRK3etpg5GK) | 4:21 |
-| 10 | [Blues for Jimmie and Jesse](https://open.spotify.com/track/3C2WSB7TKIUlN7InbKnuot) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Like It When It Rains](https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD) | 2:43 |
+| 10 | [Blues for Jimmie and Jesse](https://open.spotify.com/track/70NDKlCahd4X6eNxF5WmIu) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Like It When It Rains](https://open.spotify.com/album/0XkGJJIYiz2B4IFoU95gVE) | 2:43 |
 | 11 | [Five Star Day](https://open.spotify.com/track/4aKLpPhtOiNV0mhSQmhBvr) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Tales of the Delta](https://open.spotify.com/album/19i2DMKG833LoDi7nYWNm3) | 2:57 |
 | 12 | [Rigo's Blues](https://open.spotify.com/track/5Zrlbo3PDGziGvAUccOozk) | [Tom Rigney](https://open.spotify.com/artist/3slWYiAVBZ82CDexfn4IK4) | [Back Porch Blues](https://open.spotify.com/album/4OeXjIOg8ResXnVKTleUSi) | 4:18 |
 | 13 | [No Entry Blues](https://open.spotify.com/track/7hxz3zPoriVdciNiWA6QDY) | [Errol Linton](https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW) | [No Entry](https://open.spotify.com/album/54Q3cyvgB0PlWf3ML7v3rD) | 4:14 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7b1e7B17gg7.md) - [plain]
 | 54 | [Little Brother \- Instrumental](https://open.spotify.com/track/5M5Koy1MEDGQ081SivilWW) | [Mr\. B](https://open.spotify.com/artist/0P5frht0A8pd2wsVtc2kMK), [J.C\. Heard](https://open.spotify.com/artist/7kCD8Z9gH6ifP16a5H7H4N) | [Shining The Pearls](https://open.spotify.com/album/3CmrFsbuOW5c8CG1olr1Kc) | 4:23 |
 | 55 | [After sundown](https://open.spotify.com/track/2ZAk5I9sQQHMqXTArONfAC) | [Sonny Thompson](https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR) | [Mellow Blues](https://open.spotify.com/album/3mua4DgKG2jJi1WiHHiAqq) | 2:44 |
 | 56 | [Blue Rose](https://open.spotify.com/track/4OLD0o2PHJkIrlc6FrHmSX) | [Wolf Mail](https://open.spotify.com/artist/2bN1TY9rrW2axotPjQzFV6) | [Blue Fix](https://open.spotify.com/album/2P6Fu4EqitlskRVpyosR16) | 5:05 |
-| 57 | [Sittin on Top of the World](https://open.spotify.com/track/7G234VgTRaXpiX9GnsZvdK) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Like It When It Rains](https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD) | 4:53 |
+| 57 | [Sittin on Top of the World](https://open.spotify.com/track/4g08s7tkhNSokWuB96Vm41) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Like It When It Rains](https://open.spotify.com/album/0XkGJJIYiz2B4IFoU95gVE) | 4:53 |
 | 58 | [Georgia On My Mind](https://open.spotify.com/track/3IXfelfYGAlNhpj2PAOIb7) | [Peter Frampton Band](https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO) | [All Blues](https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu) | 4:10 |
 | 59 | [Love, Lost and Found](https://open.spotify.com/track/47TygRahZHyLO99AjznZfb) | [Mel Brown](https://open.spotify.com/artist/2ncZrdRpyOoLiAFzgrkXvZ) | [Love, Lost and Found](https://open.spotify.com/album/07hE2feivwgHnjpfGkdWlY) | 5:42 |
 | 60 | [Authentic](https://open.spotify.com/track/3IIlAtayl38lQmDvuZfUAf) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Vagabond](https://open.spotify.com/album/7JhTlHuk4lt3ylNQMIDAY4) | 4:41 |

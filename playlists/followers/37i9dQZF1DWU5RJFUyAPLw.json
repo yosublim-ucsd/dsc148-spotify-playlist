@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 14735,
+  "2024-04-13": 14749,
   "date_first_scraped": "2023-02-19",
   "description": "Island life vibes \u2728 Relajados y disfrutando la vida con musiquita linda de fondo.",
   "name": "Alma Libre",
@@ -433,7 +433,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 214129,
       "name": "Cosas del Destino",
       "url": "https://open.spotify.com/track/4scXnDwua2yWqwDzTb3MEE"
@@ -535,6 +535,24 @@
       "duration_ms": 202826,
       "name": "desde que estas en mi vida",
       "url": "https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X"
+    },
+    {
+      "album": {
+        "name": "desde que estas en mi vida",
+        "url": "https://open.spotify.com/album/2y30Tq2AMwhsV6m8D0O0cT"
+      },
+      "artists": [
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202826,
+      "name": "desde que estas en mi vida",
+      "url": "https://open.spotify.com/track/3GKrHACW990TlPsaAIpl4L"
     },
     {
       "album": {

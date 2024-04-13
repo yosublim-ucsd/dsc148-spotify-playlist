@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-91 songs - 9 hr 49 min
+92 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Requiem](https://open.spotify.com/track/6AWUWCMEF31w9e0yvGiFBl) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Heaven Is For Warriors EP](https://open.spotify.com/album/0foqG98xclmbCe33QsRMll) | 3:40 | 2024-01-26 |  |
 | [Riches & Sins](https://open.spotify.com/track/7AfsFC5zcsv5yXt5Te4RAn) | [Matador](https://open.spotify.com/artist/1UcYY5JDPe05nqjODiVkx1), [Liz Cass](https://open.spotify.com/artist/0erHD7VN4kx2WwPg8w53kp) | [Riches & Sins](https://open.spotify.com/album/2Eyncv9jxoyXALC7491aIf) | 7:22 | 2023-08-10 | 2023-11-07 |
 | [Romba](https://open.spotify.com/track/6Yb1HE6Da4Z9UMhgVYXRbh) | [Laroz](https://open.spotify.com/artist/37VopouYOyLqeH34jEZ7W9), [Matara](https://open.spotify.com/artist/66fB9EwbHVweTsDtIh50Gz), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Nidze](https://open.spotify.com/album/6FvRbxYYNGhiFaduk88vhi) | 7:15 | 2023-08-10 |  |
-| [RUMI](https://open.spotify.com/track/6iavauFQooqU4SQq48IdYB) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [RUMI](https://open.spotify.com/album/4fIHE8l8KKJ5iRLw3BUGQc) | 6:27 | 2024-01-26 |  |
+| [RUMI](https://open.spotify.com/track/6iavauFQooqU4SQq48IdYB) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [RUMI](https://open.spotify.com/album/4fIHE8l8KKJ5iRLw3BUGQc) | 6:27 | 2024-01-26 | 2024-04-13 |
 | [Sahara \- Original mix](https://open.spotify.com/track/7m0xP08bcvcHFVnlEzOhBG) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit) | [Psychedelic Awakening](https://open.spotify.com/album/6SZ4525Ke0Eu3ZmJLEFeJY) | 8:48 | 2024-03-22 |  |
 | [Sahel \- Shihunova Remix](https://open.spotify.com/track/2SPVjPEd2VowrQbCbTWaUR) | [Samuele CYMA](https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM), [ASIKO](https://open.spotify.com/artist/1C76UFsdYGUKrmyFdjl3n0), [Shihunova](https://open.spotify.com/artist/027xjHpSrfEEJht04AzI0y) | [Port Amì \- Remixes](https://open.spotify.com/album/1KJqX4TozQJVHNTokuFXII) | 6:34 | 2023-08-10 | 2023-09-07 |
 | [Sancturary](https://open.spotify.com/track/1qB3FEc372Xpgdh6pP71z3) | [Jane Winther](https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s) | [A New Beginning](https://open.spotify.com/album/3gYqA8Jt9Yi2xK76eDRiXa) | 2:32 | 2023-08-10 |  |
@@ -93,6 +93,7 @@
 | [Tomorrow](https://open.spotify.com/track/7cgc7LsayrPtYm732w24Nb) | [Bapper Berny](https://open.spotify.com/artist/2BnQfcyNz4DoZdZZ1OiDqP) | [Psytrance Illusions](https://open.spotify.com/album/39D8OJEixStOiwQAKolaSe) | 2:24 | 2023-08-10 |  |
 | [Underwater](https://open.spotify.com/track/5X0Jg0pte4sHFIaSHa1sXL) | [BOg](https://open.spotify.com/artist/7FldCwBXVtA0TFbqxvaKZY), [19:26](https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [Underwater](https://open.spotify.com/album/2d8RWfMRjbjRRHIlIif6k0) | 5:45 | 2023-08-10 |  |
 | [UTOPIA](https://open.spotify.com/track/3HdrzXCHvjBX39wYnAKc2c) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [UTOPIA](https://open.spotify.com/album/01Jp0tJMYp8MNRQVAk7liX) | 6:12 | 2023-11-06 |  |
+| [UTOPIA \- Giorgia Angiuli Remix](https://open.spotify.com/track/7xf3mveUjX2RmOjfMzRNWO) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se), [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [FORTE Remixes, Pt\. 01](https://open.spotify.com/album/3o4x76PS3Wo12ToLw8U8Ev) | 5:53 | 2024-04-12 |  |
 | [Vessel](https://open.spotify.com/track/5GImFH2J7M0rPMMHTdUuKA) | [Zola Jesus](https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P) | [Conatus](https://open.spotify.com/album/74ErMN8qu7ke0iUVyD4n7j) | 4:42 | 2023-08-10 |  |
 | [Virgin Poison](https://open.spotify.com/track/5dj96moRuaIOZCE0boVj19) | [La Kajofol](https://open.spotify.com/artist/6LowYQ25RaBgNFrzbtdMSd) | [Darkly Yours EP](https://open.spotify.com/album/6POModEFwAbejmac6UGQAh) | 3:35 | 2024-01-26 |  |
 | [VLetrmx](https://open.spotify.com/track/56p0LzMVbPMQU4Gf5rsK8e) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Garbage](https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ) | 8:27 | 2023-08-10 |  |

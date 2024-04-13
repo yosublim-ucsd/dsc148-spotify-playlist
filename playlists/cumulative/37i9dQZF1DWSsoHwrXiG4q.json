@@ -220,7 +220,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 284651,
       "name": "Candle in the dark",
       "url": "https://open.spotify.com/track/1v17sfEB8xIxfPmen30WVz"
@@ -480,6 +480,28 @@
       "duration_ms": 211034,
       "name": "Descendence",
       "url": "https://open.spotify.com/track/77Jee13pdAn2AVngCzgAVU"
+    },
+    {
+      "album": {
+        "name": "Know Where You've Been EP",
+        "url": "https://open.spotify.com/album/4ZX4kAtVsFUWpArXm1chrH"
+      },
+      "artists": [
+        {
+          "name": "DA TU",
+          "url": "https://open.spotify.com/artist/0oovxmQBwJRJqvHSFTjsM5"
+        },
+        {
+          "name": "Shaki",
+          "url": "https://open.spotify.com/artist/2i0fdBIVqs33fA1HiynUPj"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296681,
+      "name": "Did You Know",
+      "url": "https://open.spotify.com/track/5mC7bhwVvw4ExAcZzombYw"
     },
     {
       "album": {
@@ -1593,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "Patience EP",
+        "url": "https://open.spotify.com/album/2o5b7vfrMcKiV0tasomd8b"
+      },
+      "artists": [
+        {
+          "name": "Lumia",
+          "url": "https://open.spotify.com/artist/5V2l90RATO3NzCAd0Vj7Sd"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252346,
+      "name": "Not Alone",
+      "url": "https://open.spotify.com/track/43tBlA5k7oqhiDM2BLbD9s"
+    },
+    {
+      "album": {
         "name": "Nothin But Love",
         "url": "https://open.spotify.com/album/40C9wHFoQ09IPM4Nw0jUon"
       },
@@ -1770,7 +1810,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 297995,
       "name": "Orchid",
       "url": "https://open.spotify.com/track/23tjbvbp0TNHiHTU3eiUC0"
@@ -2376,6 +2416,24 @@
       "duration_ms": 314871,
       "name": "Ubiquitous",
       "url": "https://open.spotify.com/track/4U8ltC3h5mytL6jwSRnP8i"
+    },
+    {
+      "album": {
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/7lJ0EZJQFiNfVsXrn530gk"
+      },
+      "artists": [
+        {
+          "name": "Rezilient",
+          "url": "https://open.spotify.com/artist/4Hpd3uHPqaosOHRLskMWRQ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303688,
+      "name": "Under My Skin",
+      "url": "https://open.spotify.com/track/7IuzNjSMTgoZGd2PPFgKH7"
     },
     {
       "album": {

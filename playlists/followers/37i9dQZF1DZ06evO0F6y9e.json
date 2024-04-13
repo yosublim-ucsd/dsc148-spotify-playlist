@@ -1,7 +1,7 @@
 {
-  "2024-04-12": 951619,
+  "2024-04-13": 951851,
   "date_first_scraped": "2023-08-09",
-  "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
+  "description": "This Is Grupo Firme. Los temas esenciales, todos en una lista.",
   "name": "This Is Grupo Firme",
   "tracks": [
     {
@@ -149,7 +149,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 199464,
       "name": "Aqu\u00ed No Se Termina (En Vivo)",
       "url": "https://open.spotify.com/track/3bH0ANEXwCVw5bOwEavAA2"
@@ -1255,6 +1255,28 @@
       "duration_ms": 221079,
       "name": "Te Estar\u00e9 Esperando (En Vivo)",
       "url": "https://open.spotify.com/track/7v8pBPQxKtloKMp7kkSkb8"
+    },
+    {
+      "album": {
+        "name": "Te So\u00f1\u00e9 (En Vivo)",
+        "url": "https://open.spotify.com/album/7DIYjfFkFIAfMBQF66NqKX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223566,
+      "name": "Te So\u00f1\u00e9 (En Vivo)",
+      "url": "https://open.spotify.com/track/2RGQaFUjKxEVBEFzma54YN"
     },
     {
       "album": {

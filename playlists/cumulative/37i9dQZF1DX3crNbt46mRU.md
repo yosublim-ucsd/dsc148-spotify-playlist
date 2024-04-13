@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Nina Chuba
 
-11,623 songs - 24 day 5 hr 50 min
+11,626 songs - 24 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1071,6 +1071,7 @@
 | [beauty](https://open.spotify.com/track/4kXOuF3EGVS3YGrpbfdT3n) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [genre : sadboy](https://open.spotify.com/album/1WkykSHhndyQJcYNwL7zxY) | 3:16 | 2024-03-28 | 2024-04-05 |
 | [Beauty & The Joke](https://open.spotify.com/track/5tWPZAASR4mzKaq9WbaKtc) | [Alexander Oscar](https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM) | [Beauty & The Joke](https://open.spotify.com/album/7pQ7KyqNMBQ7UimaxFv0nR) | 2:28 | 2022-05-19 | 2022-05-27 |
 | [Beauty In The Madness](https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Beauty In The Madness](https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8) | 3:43 | 2022-03-10 | 2022-03-18 |
+| [Beaux](https://open.spotify.com/track/0VskpD8acEn3VPp0dGOBoa) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [L'écho des perles](https://open.spotify.com/album/0P2xHJhtnbVC90itxc3XDN) | 3:11 | 2024-04-12 |  |
 | [Bebecita](https://open.spotify.com/track/7Mc7AKHzyjv2fWaZhIXGoj) | [Bato](https://open.spotify.com/artist/5g3TY29rk8El8lvejImgso) | [Bebecita](https://open.spotify.com/album/6DiMyMhpcOpELI0nrLnsC4) | 3:14 | 2022-05-26 | 2022-06-03 |
 | [because i liked a boy](https://open.spotify.com/track/32FhTAAjKZaBein150o3Px) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:16 | 2022-07-14 | 2022-07-22 |
 | [Becher voll Schnapz](https://open.spotify.com/track/15UnoXqXqhniJdpYjsa7DR) | [Maxwell](https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [KEIN PLAN](https://open.spotify.com/album/0qLT7y0ImYkfJsPGs1rvIr) | 2:29 | 2022-05-26 | 2022-06-03 |
@@ -4802,6 +4803,7 @@
 | [I feel love](https://open.spotify.com/track/2mEtw2H9Oeogkz9Ds0thTb) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [I feel love](https://open.spotify.com/album/3cTZ6dD2Q4Jz1XVz13kLEq) | 3:30 | 2023-08-03 | 2023-08-11 |
 | [I Find It Hard](https://open.spotify.com/track/3HXMz5tYDJtmNonmSgHHDQ) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [I Find It Hard](https://open.spotify.com/album/4qzkCfIM5aVj23w3BzKYC8) | 2:58 | 2022-07-21 | 2022-07-29 |
 | [I Forgive Me](https://open.spotify.com/track/1KODYWcqyguVZOPaJ7sP7V) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [I Forgive Me](https://open.spotify.com/album/14XzPJq2TkzYrLJmG8yZGe) | 2:16 | 2022-08-12 | 2022-08-19 |
+| [I Forgive You](https://open.spotify.com/track/5ytXEc1V6ZdSpFNsg81X8O) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [I Forgive You](https://open.spotify.com/album/7GIDFaGcsp2vHztfBbY5RI) | 4:19 | 2024-04-12 |  |
 | [I gah ohni Di](https://open.spotify.com/track/5UB8Rey3Jp2OmGLIZDzl9U) | [Gölä](https://open.spotify.com/artist/4F1AR2riVsph5RX9fmmem6) | [I gah ohni Di](https://open.spotify.com/album/39AOcjiFyUJYg6whgzx8Gd) | 4:18 | 2023-01-13 | 2023-01-20 |
 | [I Get High](https://open.spotify.com/track/3fbmrIE49XTFLEwm5TQUB9) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Get High](https://open.spotify.com/album/6kb7iyiFPdPEAJ59c08P8J) | 4:20 | 2024-03-14 | 2024-03-22 |
 | [I Get Sad So Easily](https://open.spotify.com/track/3SBKs3PGZEZsY6tzMGgTzI) | [SPARKLING](https://open.spotify.com/artist/5vfmqpN6ApOjoiTG0ASdue) | [I Get Sad So Easily](https://open.spotify.com/album/2BZXdN9QxEXmSgvobIr2q4) | 2:42 | 2023-09-07 | 2023-09-15 |
@@ -10919,6 +10921,7 @@
 | [We Own The Night](https://open.spotify.com/track/6e9EADA7sFGSmD10zcO5cs) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [We Own The Night](https://open.spotify.com/album/3mu6qWNBn513C5z2lHYaZn) | 3:05 | 2022-08-18 | 2022-08-26 |
 | [WE SEE YOU](https://open.spotify.com/track/58UHOOryzm04eyyhpS8qSQ) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [WE SEE YOU](https://open.spotify.com/album/1cjqc70Mk83ImBsBPQ7Qix) | 2:22 | 2023-10-26 | 2023-11-03 |
 | [We Should Get Lost](https://open.spotify.com/track/6i2dcVvDPfHp8EkrPf21bD) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Just Dance \#DQH1](https://open.spotify.com/album/3MQT2T0MAJA6lwMcEq3esV) | 2:08 | 2023-02-09 | 2023-02-17 |
+| [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 | 2024-04-12 |  |
 | [WE THE HOTTEST IN HERE](https://open.spotify.com/track/0N9RX5PKyLlOKklH5bYtNH) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [WE THE HOTTEST IN HERE](https://open.spotify.com/album/7iOXBL51ctIv8T942DpCkD) | 1:58 | 2023-10-26 | 2023-11-03 |
 | [We Too Deep](https://open.spotify.com/track/49yltQawwVb9gjxIpWG7Bu) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [We Too Deep](https://open.spotify.com/album/77i1SEBqUyYo4D4Lapp4iN) | 2:22 | 2023-06-22 | 2023-06-30 |
 | [We Used To Love](https://open.spotify.com/track/4jQ9Mgf5thD1Vrz2QQPldq) | [Leslie Clio](https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ) | [We Used To Love](https://open.spotify.com/album/3MRstaWqDpqAC8NzZ2FvVB) | 2:47 | 2022-08-25 | 2022-09-02 |

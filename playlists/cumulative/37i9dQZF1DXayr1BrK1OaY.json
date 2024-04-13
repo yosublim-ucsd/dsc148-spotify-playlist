@@ -86,7 +86,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 149536,
       "name": "4 AM",
       "url": "https://open.spotify.com/track/0dNlRf2AojTujK7fx1KP32"
@@ -1125,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "In Circles",
+        "url": "https://open.spotify.com/album/27P7tEDJJfKCZXqrLrw4yr"
+      },
+      "artists": [
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216336,
+      "name": "Condition",
+      "url": "https://open.spotify.com/track/1DDLcSW4CJOAo2IcoyH3Ol"
+    },
+    {
+      "album": {
         "name": "Contra",
         "url": "https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5"
       },
@@ -1341,6 +1359,24 @@
     },
     {
       "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/3BZHVbIcj4cfUNDecwYDHR"
+      },
+      "artists": [
+        {
+          "name": "Eros for you",
+          "url": "https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201588,
+      "name": "Don't Fall in Love",
+      "url": "https://open.spotify.com/track/08wEcfIEXMRvgzXVrOED8B"
+    },
+    {
+      "album": {
         "name": "don't miss me too much (remixes)",
         "url": "https://open.spotify.com/album/3E1EF7PnT9AOtijAxG450q"
       },
@@ -1356,7 +1392,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 190312,
       "name": "don't miss me too much (Aaron Redding Remix)",
       "url": "https://open.spotify.com/track/47N2vh7GLGtGrxE7xMBjoh"
@@ -1685,6 +1721,28 @@
     },
     {
       "album": {
+        "name": "Glad I Found You",
+        "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211191,
+      "name": "Glad I Found You",
+      "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
+    },
+    {
+      "album": {
         "name": "Bicep",
         "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
       },
@@ -1964,7 +2022,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 241040,
       "name": "Heavy With Hoping",
       "url": "https://open.spotify.com/track/2W2e6TBrwJt4ASh5jyYgvZ"
@@ -2074,7 +2132,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 241884,
       "name": "High Tides",
       "url": "https://open.spotify.com/track/0cmcjHX4zHaqDE06f8JQ5R"
@@ -2778,7 +2836,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 165000,
       "name": "Leave the Door Open",
       "url": "https://open.spotify.com/track/1KYFWMnh5wVsiqncElR67h"
@@ -4175,6 +4233,24 @@
     },
     {
       "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/5CFc8C22y0eOTiz1DbqTFJ"
+      },
+      "artists": [
+        {
+          "name": "OKAYVAL",
+          "url": "https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176129,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/3uMVGeBBjjPavtpUPQOBt7"
+    },
+    {
+      "album": {
         "name": "Anjunadeep Explorations 13",
         "url": "https://open.spotify.com/album/6aqRlhEmzmujvXb7EF4pd4"
       },
@@ -4508,6 +4584,40 @@
       "duration_ms": 223336,
       "name": "Satisfied - Edit",
       "url": "https://open.spotify.com/track/378c4bnvmnfAoMTSIOveDX"
+    },
+    {
+      "album": {
+        "name": "Save Me (Kiimi Remix)",
+        "url": "https://open.spotify.com/album/7xsGvZlMjP2LFY4mZGoD1h"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Steffanie Christi'an",
+          "url": "https://open.spotify.com/artist/7kY9ne2m81JVEziwNj9tTF"
+        },
+        {
+          "name": "Kiimi",
+          "url": "https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "Dantiez Saunderson",
+          "url": "https://open.spotify.com/artist/7rymtwVS1IAIF9D4APLnOI"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207871,
+      "name": "Save Me - Kiimi Remix",
+      "url": "https://open.spotify.com/track/1I926CHvCngPl4hBRGE9Rv"
     },
     {
       "album": {
@@ -5501,6 +5611,28 @@
     },
     {
       "album": {
+        "name": "THINKIN' BOUT U",
+        "url": "https://open.spotify.com/album/2nIoah8NyUvyIHl73UhXkD"
+      },
+      "artists": [
+        {
+          "name": "Mattilo",
+          "url": "https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC"
+        },
+        {
+          "name": "Julian",
+          "url": "https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167111,
+      "name": "THINKIN' BOUT U",
+      "url": "https://open.spotify.com/track/6cwNyD7UDIGD2CSnpObpkl"
+    },
+    {
+      "album": {
         "name": "Thinking Of U",
         "url": "https://open.spotify.com/album/5RPeU8jJYrIrLqLl0zduvl"
       },
@@ -5698,7 +5830,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 216545,
       "name": "Underwater - MAFRO Remix",
       "url": "https://open.spotify.com/track/2hfLJtAGFiRGu0JwsBfpzF"

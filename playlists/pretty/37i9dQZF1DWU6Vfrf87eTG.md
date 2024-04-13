@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 661,555 likes - 116 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 661,547 likes - 116 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 65 | [Duet For Guitars \#3](https://open.spotify.com/track/20VJ9S6Pj1dTQIANhJgEwu) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS) | 1:52 |
 | 66 | [The Day Is Past and Gone \(Variations\)](https://open.spotify.com/track/5R1dfc92To7lWXqn9ddFyC) | [Sarah Louise](https://open.spotify.com/artist/2lGwVpVjE5WrnI4pP5Lu0y) | [Field Guide](https://open.spotify.com/album/6RoKkTKlYJ9uXJkH4pFdg7) | 4:43 |
 | 67 | [All Along the Watchtower \(feat\. Gabe Witcher\) \- From Sons of Anarchy \(Instrumental\)](https://open.spotify.com/track/7gP40cgwzUeDkypRwpSNrf) | [The Forest Rangers](https://open.spotify.com/artist/46xMgypLHP8GNsYME3vRnV), [Gabe Witcher](https://open.spotify.com/artist/3MjRrLK3oWzDniKxjbKPYm) | [All Along the Watchtower \(feat\. Gabe Witcher\) \[From Sons of Anarchy \(Instrumental\)\]](https://open.spotify.com/album/2NkTkCkwPwGrljRyMZnA2q) | 2:52 |
-| 68 | [Angi](https://open.spotify.com/track/4C5fbvzeJQSDHQxUpsGq5G) | [Davy Graham](https://open.spotify.com/artist/72zalCfn9P7eU6oGje7tyJ) | [3 / 4 Ad](https://open.spotify.com/album/0U3TarPouJwJwkkGh22iAO) | 2:26 |
+| 68 | [Angi](https://open.spotify.com/track/64dg17ieISWnXdeJFYtKqJ) | [Davy Graham](https://open.spotify.com/artist/72zalCfn9P7eU6oGje7tyJ) | [Three Score & Ten \- a Journey Back in Time](https://open.spotify.com/album/2rsb5FYFtYSJBbj2gdiFyF) | 2:26 |
 | 69 | [Si No Te Vas \(Instrumental\)](https://open.spotify.com/track/3dRkBf8fXhph6yQtQR7uBL) | [Carrie Rodriguez](https://open.spotify.com/artist/4bMTBaNiudO7K7Tz8jzNRF) | [Lola](https://open.spotify.com/album/58hQMhoiyYayFc1pLHwnEa) | 4:21 |
 | 70 | [Ocean](https://open.spotify.com/track/59tcQJiHwApzE4h6yVnL9i) | [John Butler](https://open.spotify.com/artist/7czrHF19KySaSs3dnBnPCR) | [Ocean](https://open.spotify.com/album/0GeL4qG8LeNZU2yyHNpP1h) | 11:39 |
 | 71 | [Dance of Death](https://open.spotify.com/track/5Mq9nSMTjHzhiVuB5jxQtw) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Fingerlings 4](https://open.spotify.com/album/5hjvdBMM2fat8FJ4H6EL5R) | 3:47 |

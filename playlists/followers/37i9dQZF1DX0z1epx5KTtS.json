@@ -1,7 +1,7 @@
 {
-  "2024-04-12": 87732,
+  "2024-04-13": 87787,
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from Paris to Abidjan. Photo : Tam Sir",
+  "description": "African dance party music from Paris to Abidjan. Photo : Shado Chris",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -490,6 +490,24 @@
     },
     {
       "album": {
+        "name": "C'est pour les grands",
+        "url": "https://open.spotify.com/album/3ZWT7ouS6rVQLC69ZUhBJc"
+      },
+      "artists": [
+        {
+          "name": "Lionell",
+          "url": "https://open.spotify.com/artist/678uLiEv9CfIv59509DnZe"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216061,
+      "name": "C'est pour les grands",
+      "url": "https://open.spotify.com/track/5347vjt4voHoVXB4r4PUQm"
+    },
+    {
+      "album": {
         "name": "C'est Tromper",
         "url": "https://open.spotify.com/album/6DblPMX2zJRcsrOPwm2y8g"
       },
@@ -537,7 +555,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 238208,
       "name": "C'PAS L'AMOUR ON VA MANGER",
       "url": "https://open.spotify.com/track/0OZBVVepaXa0b9FEyw5s6B"
@@ -1234,6 +1252,24 @@
     },
     {
       "album": {
+        "name": "Effrayer la gal\u00e8re",
+        "url": "https://open.spotify.com/album/5vSehx9owBtXVKUV2HE2KB"
+      },
+      "artists": [
+        {
+          "name": "Shado Chris",
+          "url": "https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205028,
+      "name": "Effrayer la gal\u00e8re",
+      "url": "https://open.spotify.com/track/4fyRNOR6zupaunbkjrl6uL"
+    },
+    {
+      "album": {
         "name": "\u00c9l\u00e9phant d'or",
         "url": "https://open.spotify.com/album/2sghK6Ruux6IYqQbhNGCf1"
       },
@@ -1267,7 +1303,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 163312,
       "name": "Elle Est D'O\u00f9",
       "url": "https://open.spotify.com/track/6o9FOz7FO3EMvzjUaiKxA8"

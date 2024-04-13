@@ -4,7 +4,7 @@
 
 > Dreamy springtime melodies to watch the flowers bloom 🌷
 
-649 songs - 1 day 16 hr 45 min
+650 songs - 1 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,6 +501,7 @@
 | [Spell](https://open.spotify.com/track/6VnKIbHslTmwhEmH36ln4Q) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Spell](https://open.spotify.com/album/4DW2TnIuLYckzD1fPIgOrK) | 4:07 | 2023-01-05 | 2024-03-16 |
 | [Splendor In The Grass](https://open.spotify.com/track/5tsOCiiFa7kSGXRbDh9wpc) | [Simone Felice](https://open.spotify.com/artist/2tfqowGe1sXV4u2ZUZCW9Q) | [Simone Felice](https://open.spotify.com/album/4wnZ7HdqgIzBxtiKWXROKQ) | 4:01 | 2022-03-21 | 2022-06-08 |
 | [Spotless \(feat\. The Lumineers\)](https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 2:49 | 2023-08-30 | 2023-12-16 |
+| [Spring Bug](https://open.spotify.com/track/7rKT3mqu5kExdlTAh1o654) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Goodnight Summerland](https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn) | 3:27 | 2024-04-12 |  |
 | [St\. Augustine At Night](https://open.spotify.com/track/2r8XIljNBbVefZbt38epXX) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Still Feel Like A Kid](https://open.spotify.com/album/2Vs8OMhqcBKCoUIBmgweTk) | 5:13 | 2021-12-20 | 2022-03-22 |
 | [Stanley Park \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/1cyhegb61PppegILkP2qch) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3nZnDPx6tHdwMeseOnkGnU) | 2:29 | 2022-06-07 | 2022-09-07 |
 | [Stanley Park \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3EIRyXhoQP8zglbqDif1NX) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3XV7BmKTGdfoxGEaKDQbJb) | 2:29 | 2022-06-07 | 2022-07-29 |

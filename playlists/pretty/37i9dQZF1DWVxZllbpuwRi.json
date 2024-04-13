@@ -1,6 +1,6 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 2130,
+  "num_followers": 2131,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
@@ -1947,6 +1947,26 @@
     {
       "added_at": "2024-02-27 17:20:18",
       "album": {
+        "name": "Light Years Away",
+        "url": "https://open.spotify.com/album/0fdGfbskip7l2MA5jWB3LF"
+      },
+      "artists": [
+        {
+          "name": "Pontifexx",
+          "url": "https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s"
+        },
+        {
+          "name": "Gustavo Bertoni",
+          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
+        }
+      ],
+      "duration_ms": 223333,
+      "name": "Light Years Away",
+      "url": "https://open.spotify.com/track/4Kq4Mn0NElRTqcrLxpKzH3"
+    },
+    {
+      "added_at": "2024-02-27 17:20:18",
+      "album": {
         "name": "Do Your Ting",
         "url": "https://open.spotify.com/album/2H6K5EZURlSU5dnnlEFJxU"
       },
@@ -1967,26 +1987,6 @@
       "duration_ms": 192923,
       "name": "Do Your Ting",
       "url": "https://open.spotify.com/track/7pXiEvsPrQDXfgl1Cq1I8m"
-    },
-    {
-      "added_at": "2024-02-27 17:20:18",
-      "album": {
-        "name": "Light Years Away",
-        "url": "https://open.spotify.com/album/0fdGfbskip7l2MA5jWB3LF"
-      },
-      "artists": [
-        {
-          "name": "Pontifexx",
-          "url": "https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s"
-        },
-        {
-          "name": "Gustavo Bertoni",
-          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
-        }
-      ],
-      "duration_ms": 223333,
-      "name": "Light Years Away",
-      "url": "https://open.spotify.com/track/4Kq4Mn0NElRTqcrLxpKzH3"
     },
     {
       "added_at": "2024-02-27 17:20:18",

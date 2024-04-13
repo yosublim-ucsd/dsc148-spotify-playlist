@@ -2,9 +2,9 @@
 
 ### [Detective Conan 名探偵コナン](https://open.spotify.com/playlist/37i9dQZF1DX5UhvY4JBo1i)
 
-> Enjoy music from "Detective Conan"! 映画「名探偵コナン」シリーズの世界を彩る音楽をプレイリストで。©2024 青山剛昌／名探偵コナン製作委員会
+> Enjoy music from "Detective Conan"! 映画「名探偵コナン」シリーズの世界を彩る音楽をプレイリストで。キャンペーン特設ページは<a href="https://movie.byspotify.com/conan\-2024">こちら</a>。©2024 青山剛昌／名探偵コナン製作委員会
 
-131 songs - 8 hr 32 min
+132 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Lie, Lie, Lie,](https://open.spotify.com/track/0x9iFsHPogtmYWMapBBkc0) | [Maki Ohguro](https://open.spotify.com/artist/2iTndWRSbuvR1tQkXzT59b) | [Lie, Lie, Lie,](https://open.spotify.com/album/5eY9yQeASjxmX6s35naZNP) | 5:17 | 2022-10-01 | 2023-03-22 |
 | [Miss Mystery](https://open.spotify.com/track/68YqQbt0sreVgUpTr9gdD4) | [BREAKERZ](https://open.spotify.com/artist/1U1oKFcjwl8Tb3b3APG9lE) | [BREAKERZ×名探偵コナン COLLABORATION BEST](https://open.spotify.com/album/04Ym0xEthdAQepiCKzrYrw) | 3:44 | 2022-10-01 | 2023-03-22 |
 | [Misty Mystery](https://open.spotify.com/track/40z4e99xF5ji81mMn6FrO1) | [GARNET CROW](https://open.spotify.com/artist/6vJEQqtEx2VB8clDzhyhvC) | [メモリーズ](https://open.spotify.com/album/2cdm4lE9G3fZYpckx3yyYU) | 4:19 | 2022-10-01 | 2023-03-22 |
+| [mutual love](https://open.spotify.com/track/4tgMvqm78qmbPsrP4AaCbD) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [mutual love](https://open.spotify.com/album/0J4ZZ9k9ftKAwlegplXDuH) | 4:20 | 2024-04-12 |  |
 | [Mysterious Eyes](https://open.spotify.com/track/3xtFrBrX6yuS1pNPVGufwO) | [GARNET CROW](https://open.spotify.com/artist/6vJEQqtEx2VB8clDzhyhvC) | [THE BEST History of GARNET CROW at the crest...](https://open.spotify.com/album/3e3NS2L4bziOWpIMvnRE3R) | 4:28 | 2022-10-01 | 2023-03-22 |
 | [Need not to know．](https://open.spotify.com/track/3NeIzYjZpPeZ4XplelZxwt) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 瞳の中の暗殺者 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0fAhvb5Ir2kHM2DREhn45a) | 2:32 | 2022-10-01 |  |
 | [ONE](https://open.spotify.com/track/4nWtds0cKVjWcDv5yFbl1D) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [The Ballads \~Love & B'z\~](https://open.spotify.com/album/0hbj2cplJOMdpWUeq168l1) | 4:10 | 2022-10-01 |  |
@@ -123,7 +124,7 @@
 | [灰原哀からのスペシャルメッセージ!](https://open.spotify.com/track/6TmpGpKzDbYXZMCVw3ZsoF) | [『名探偵コナン 黒鉄の魚影\(サブマリン\)』](https://open.spotify.com/artist/0OpbGNQiAXWZA67syHiDgV) | [『名探偵コナン 黒鉄の魚影\(サブマリン\)』灰原哀からのスペシャルメッセージ!](https://open.spotify.com/album/7dD0QT1x6GXv6XFxXqJj63) | 0:27 | 2023-04-09 | 2024-03-22 |
 | [無敵なハート](https://open.spotify.com/track/71hSh7e5AKfYxkbjpNVva9) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 3:23 | 2022-10-01 | 2023-03-22 |
 | [白い雪](https://open.spotify.com/track/6HUtNDLQQHlTXgXBQM15uA) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:46 | 2022-10-01 | 2023-03-22 |
-| [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 | 2024-04-11 |  |
+| [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 | 2024-04-11 | 2024-04-13 |
 | [真っ赤なLip](https://open.spotify.com/track/7vRTQ342AtNLRTFZ0Yy4ys) | [WANDS](https://open.spotify.com/artist/4iaPh4BzUKBQuunyMKVxU7) | [真っ赤なLip【名探偵コナン盤】](https://open.spotify.com/album/6NAyAlAOkypVZbi4CzrIFR) | 4:43 | 2022-10-01 | 2023-03-22 |
 | [神風エクスプレス](https://open.spotify.com/track/552jc1I4VNfVqe3TAug8s7) | [焚吐 × みやかわくん](https://open.spotify.com/artist/098p250C3y5Agp0vjwQa9d) | [神風エクスプレス](https://open.spotify.com/album/0eANLf2dvwSJIC0DexE4Uk) | 4:05 | 2022-10-01 | 2023-03-22 |
 | [空っぽの心](https://open.spotify.com/track/66EyebDoG7vr9AzvRbJ9H0) | [SARD UNDERGROUND](https://open.spotify.com/artist/7awtWS4uPN7SUSxSRilkMa) | [空っぽの心](https://open.spotify.com/album/6sCZgnJFMkZsm0YaEpYTi3) | 3:16 | 2022-10-01 | 2023-03-22 |

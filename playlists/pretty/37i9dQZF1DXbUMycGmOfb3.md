@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMycGmOfb3.md) - [plain]
 
 > Fresh takes\- from new revisions and iconic covers to unexpected versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,356 likes - 42 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,355 likes - 42 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMycGmOfb3.md) - [plain]
 | 30 | [Saddle in the Rain](https://open.spotify.com/track/43KWPH369VTxu76JUAxN1C) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Broken Hearts & Dirty Windows: Songs of John Prine, Vol\. 2](https://open.spotify.com/album/4hCtJiXI3q5gQAydvchzYh) | 4:46 |
 | 31 | [Let's Talk Dirty in Hawaiian](https://open.spotify.com/track/2o2h5q5jqudtn7smdl2c1W) | [Those Darlins](https://open.spotify.com/artist/5b0b7NlCvTtcDqG2nz5Mab) | [Broken Hearts & Dirty Windows: Songs of John Prine](https://open.spotify.com/album/2L1Y2FRrjQ1jhGJ6d4MGnL) | 3:37 |
 | 32 | [The Oldest Baby In the World](https://open.spotify.com/track/0fKbhQd7qdpBzV7dGpMoep) | [Donnie Fritts](https://open.spotify.com/artist/6jARRYxSSaL54btFQKxmOz) | [Oh My Goodness](https://open.spotify.com/album/0LEj4aNFB513JYAsNfFmaE) | 4:23 |
-| 33 | [Paradise](https://open.spotify.com/track/2c8tVl8WF1F81NhFkoDAq5) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Dwight's Used Records](https://open.spotify.com/album/5hizFwDzTF2OSYlvfJNn5S) | 6:24 |
+| 33 | [Paradise](https://open.spotify.com/track/0bc2wW0upw8IQ8eqXXEUmX) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Dwight's Used Records](https://open.spotify.com/album/0P5a6jQe3VFcYX5fP6kDMX) | 6:24 |
 | 34 | [Mexican Home](https://open.spotify.com/track/6aRG9sWjfGdufHjaOj8XE5) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Broken Hearts & Dirty Windows: Songs of John Prine](https://open.spotify.com/album/2L1Y2FRrjQ1jhGJ6d4MGnL) | 3:28 |
 | 35 | [Pretty Good](https://open.spotify.com/track/3ZmrWFxJZqbq8eBLHYZv4s) | [Manfred Mann's Earth Band](https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q) | [Messin'](https://open.spotify.com/album/3PVLKw9qMGNbswsSlkFpl8) | 4:11 |
-| 36 | [Sam Stone \- Live](https://open.spotify.com/track/4iHj6t1TKs8GxkXFEAChti) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Live From Austin, TX](https://open.spotify.com/album/4V2559m7ZHIoqfoeqQ9gwO) | 4:11 |
+| 36 | [Sam Stone \- Live](https://open.spotify.com/track/3pTkcyYQBTILa5PADESlmY) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Live From Austin, TX](https://open.spotify.com/album/5IO30vnHbudsEKWyepEim1) | 4:11 |
 | 37 | [Six O'clock News](https://open.spotify.com/track/70F4UvTBdngwCZYqfz4sqy) | [Lambchop](https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78) | [Broken Hearts & Dirty Windows: Songs of John Prine](https://open.spotify.com/album/2L1Y2FRrjQ1jhGJ6d4MGnL) | 4:23 |
 | 38 | [That's The Way The World Goes Round \- Live From Home 4/9/20](https://open.spotify.com/track/6QnMugDdG25zBINwwOmXHh) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Pick Me Up Off The Floor \(Deluxe Edition\)](https://open.spotify.com/album/6Qlru4pwL5Xf6zp0syH6RU) | 2:35 |
 | 39 | [Sweet Revenge](https://open.spotify.com/track/0BPVbAxDRYqA50tP0oHT1Y) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Broken Hearts & Dirty Windows: Songs of John Prine, Vol\. 2](https://open.spotify.com/album/4hCtJiXI3q5gQAydvchzYh) | 4:34 |

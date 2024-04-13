@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 1466,
+  "2024-04-13": 1467,
   "date_first_scraped": "2023-12-14",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E\">Boi-1da</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Boi-1da",
@@ -293,10 +293,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 293733,
       "name": "All Things Go",
       "url": "https://open.spotify.com/track/0MVUm3Nied9ocRAkDjRWvP"
+    },
+    {
+      "album": {
+        "name": "The Pinkprint",
+        "url": "https://open.spotify.com/album/1IOHcoY4gPRECxpIhVGmuq"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293733,
+      "name": "All Things Go",
+      "url": "https://open.spotify.com/track/1lW62Z2BOtL2xl3PR68AEk"
     },
     {
       "album": {

@@ -1,13 +1,37 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 29501,
+  "num_followers": 29507,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDcwZTIxZjk2YzQ0M2IwOWU2MDY1ZDkzMmM5NjM4M2E4",
+  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDJjOWVlOTVkMGZhYjIzNmY0MWU4M2MyMTAzNmRmNjQ5",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vai Ficar Bem",
+        "url": "https://open.spotify.com/album/4eyi0ltwprtwvtFB88Q8Fg"
+      },
+      "artists": [
+        {
+          "name": "Marias",
+          "url": "https://open.spotify.com/artist/6yDG1IZDMLxh1M82PFOLgM"
+        },
+        {
+          "name": "Nai Lopes",
+          "url": "https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 116640,
+      "name": "Vai Ficar Bem",
+      "url": "https://open.spotify.com/track/1UOs25N5hEnp4Ic6NeJAva"
+    },
     {
       "added_at": null,
       "album": {

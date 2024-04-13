@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 73877,
+  "2024-04-13": 73924,
   "date_first_scraped": "2022-01-02",
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
   "name": "Folklore Rom\u00e1ntico ",
@@ -397,7 +397,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 210818,
       "name": "Bien o Mal",
       "url": "https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF"
@@ -2105,7 +2105,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 202728,
       "name": "Tan Cerca En La Distancia",
       "url": "https://open.spotify.com/track/1Sz2bHW2ULcrp9qyHYUZzG"

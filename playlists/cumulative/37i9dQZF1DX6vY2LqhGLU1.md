@@ -4,7 +4,7 @@
 
 > Celebrate the Savior being born by worshipping along with these Christmas songs.
 
-194 songs - 13 hr 30 min
+195 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,13 +158,14 @@
 | [Oh Come All Ye Faithful \- Single Version](https://open.spotify.com/track/5ZC6CQUiZBgrqoYDviM3aV) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [Oh Come All Ye Faithful](https://open.spotify.com/album/18Gkhoj0Bddbm5uqzzgu78) | 3:04 | 2022-11-26 |  |
 | [Oh Come All Ye Faithful \- Stripped Version](https://open.spotify.com/track/6QaGJDoe1idrXDzbwTbZxu) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [Christmas, Vol\. 1](https://open.spotify.com/album/1dMHqgEd5fWINaWdxWjO5T) | 2:54 | 2023-12-02 |  |
 | [Oh Holy Night](https://open.spotify.com/track/2Qz5hPpCS3txLnOPnDQdbA) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [Oh Holy Night](https://open.spotify.com/album/7tbCilcZqkskC7Oef8ucBS) | 3:39 | 2022-11-26 |  |
-| [One Holy Night](https://open.spotify.com/track/05JQUrXeFXSsbayUCyXgPQ) | [Newsong](https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX) | [Christmas All Over The World](https://open.spotify.com/album/1HmFcz8yVSkMycRHD47EnC) | 3:34 | 2022-11-26 |  |
+| [One Holy Night](https://open.spotify.com/track/05JQUrXeFXSsbayUCyXgPQ) | [Newsong](https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX) | [Christmas All Over The World](https://open.spotify.com/album/1HmFcz8yVSkMycRHD47EnC) | 3:34 | 2022-11-26 | 2024-04-13 |
 | [Our God With Us](https://open.spotify.com/track/5eDmojxVjggEA2OGlvXzJN) | [Mariners Worship](https://open.spotify.com/artist/4SfGaFiH2xoqKnRtGP5l9p), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Our God With Us](https://open.spotify.com/album/4wBxWy0gVEJabnqm6SHEKK) | 4:13 | 2022-11-26 |  |
 | [Our King Has Come \(Live\)](https://open.spotify.com/track/2fNd8uZp9GvyxJKHa6bOo0) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [For The Honor](https://open.spotify.com/album/7AF8bOSZOINrMfLOhZVydc) | 3:40 | 2022-11-26 |  |
 | [Peace Upon The Earth](https://open.spotify.com/track/2GpinY0MViDy4uWae6IJV7) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Christmas: The Peace Project \(Deluxe\)](https://open.spotify.com/album/7jsfWfgCE3uUZGMm9TUZTM) | 4:10 | 2022-11-26 |  |
 | [Prince of Peace \(feat\. Abby Vaughn\)](https://open.spotify.com/track/62XXY4qeQMOhpakL3dtM5s) | [Cross Point Music](https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P), [Abby Vaughn](https://open.spotify.com/artist/4km5sv7zwBA6fsuOnPsEJn) | [Advent: Here Now](https://open.spotify.com/album/6GC8erhaX8WtwXaROtsuan) | 4:19 | 2023-12-02 |  |
 | [Reggae Christmas Medley](https://open.spotify.com/track/1GhKTFDR6hZdMYFLzEYodT) | [Kevin Downswell](https://open.spotify.com/artist/19yI5UdtGvSKDu23hoG3K4) | [Reggae Christmas Medley](https://open.spotify.com/album/6Dkc0mzW9ZjT8E3DYghCwU) | 5:00 | 2022-11-26 |  |
 | [Rejoice](https://open.spotify.com/track/1omPPso8Q4XPxYiq1fAGxm) | [Life Center Worship](https://open.spotify.com/artist/2Ce6pVvFGzybXRHQWbCTAr) | [Rejoice](https://open.spotify.com/album/5qptzJ8gFJasSSwzghvttN) | 3:47 | 2022-11-26 |  |
+| [Remember Bethlehem](https://open.spotify.com/track/1iL9haFbuUdqM6zeAAVKG5) | [Stefan Green](https://open.spotify.com/artist/1VlsN7ndYTrSCrqFcWzdNO), [LIV Village](https://open.spotify.com/artist/1Ek8IAtzWrHNCs9fs3cZ2Y) | [Christmas Project](https://open.spotify.com/album/0rucfIW1wbjRJMlNABTwcr) | 4:44 | 2023-12-15 |  |
 | [Rumors Of A Savior \(Emmanuel\)](https://open.spotify.com/track/0WqMFT1BrV53fUDpkxPPBK) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw), [Laura Cooksey](https://open.spotify.com/artist/6MWom32rnuJDTw1LnnvsxK), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Rumors Of A Savior \(Emmanuel\)](https://open.spotify.com/album/5Da36nhwnnXFK3A3eAJxio) | 4:33 | 2022-11-26 |  |
 | [Saviour](https://open.spotify.com/track/7g6DscMtOV2ddOUsanh9Eo) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Saviour](https://open.spotify.com/album/7noLUyCB1UokVaRfd7Zgom) | 4:18 | 2022-11-26 |  |
 | [Seasons](https://open.spotify.com/track/5fpu3LhQlnuc60sjDbssjW) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Christmas: The Peace Project \(Deluxe\)](https://open.spotify.com/album/7jsfWfgCE3uUZGMm9TUZTM) | 4:34 | 2022-11-26 |  |

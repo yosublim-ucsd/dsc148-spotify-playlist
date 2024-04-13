@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. La Esmeralda en Portada
 
-275 songs - 13 hr 52 min
+277 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Baddie](https://open.spotify.com/track/3f4F947OK390ug1C4igSLp) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Erreflexx](https://open.spotify.com/artist/3Wck1E7AcfrcW3beEPtPaU) | [Baddie](https://open.spotify.com/album/64Jb1qRcbl2wulfNvE6uel) | 2:26 | 2023-06-30 |  |
 | [Bailando sola aquí](https://open.spotify.com/track/0D96NjDhig43Wvk52gCnUB) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Vida](https://open.spotify.com/album/1bBox3a6smu3GUT5ldNDST) | 4:04 | 2024-01-19 |  |
 | [BAJO PRESIÓN](https://open.spotify.com/track/1HYBEi7PYzjEg7JSm0xzbQ) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [BAJO PRESIÓN](https://open.spotify.com/album/7pqOiwVjdbibxeQnzAMC0v) | 2:10 | 2023-11-24 |  |
+| [Bandidos](https://open.spotify.com/track/64KQlZiuTcnh3IdZUMn48r) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Bandidos](https://open.spotify.com/album/4oEEYBI8Ge2f73CnFHOzOW) | 2:38 | 2024-04-12 |  |
 | [Beefsito](https://open.spotify.com/track/0P9sHPhoFbflHX4E71QwfN) | [Plata Shail](https://open.spotify.com/artist/5QIgS0S5tO51LnPTrJeLsl) | [Beefsito](https://open.spotify.com/album/036cMzsW5hypPpnLvvGjzM) | 2:10 | 2022-11-25 | 2023-03-11 |
 | [Bendecida Y Afortunada](https://open.spotify.com/track/2sWhuwbONrY9CVRlGyhYQ2) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Bendecida Y Afortunada](https://open.spotify.com/album/0dY4wGJFYDPrqDE7Yq3oID) | 2:39 | 2024-02-16 |  |
 | [Bi](https://open.spotify.com/track/1eOenz5uZlndPxGPC4cQxV) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 3:05 | 2022-08-01 | 2023-02-18 |
@@ -49,7 +50,7 @@
 | [Borracha De Amor](https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Borracha De Amor](https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ) | 3:39 | 2021-12-13 | 2023-05-20 |
 | [Bounce](https://open.spotify.com/track/5q1wShNQKfniCCv097p00x) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Bounce](https://open.spotify.com/album/7yOETWq7Ft6mjRNQxgXyhY) | 2:38 | 2021-12-13 | 2022-07-29 |
 | [Bounce](https://open.spotify.com/track/6KUmpDrv5YOGR4Re7KJJze) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Bounce](https://open.spotify.com/album/6Becef5FVLJfocz5dk1DNF) | 2:38 | 2022-06-27 | 2023-02-21 |
-| [Brillo](https://open.spotify.com/track/63YCy9xvMq2ILUIsF4xfdy) | [Komba](https://open.spotify.com/artist/45GCCsbyU6F1K5qMciA4tc), [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Brillo](https://open.spotify.com/album/7C6kDqbrahj6NliXQEWkGC) | 3:09 | 2023-10-27 |  |
+| [Brillo](https://open.spotify.com/track/63YCy9xvMq2ILUIsF4xfdy) | [Komba](https://open.spotify.com/artist/45GCCsbyU6F1K5qMciA4tc), [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Brillo](https://open.spotify.com/album/7C6kDqbrahj6NliXQEWkGC) | 3:09 | 2023-10-27 | 2024-04-13 |
 | [Brinca](https://open.spotify.com/track/2T9GW5NdmBnz5ZlDkmMZZS) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Brinca](https://open.spotify.com/album/4jLqHMNoB6G1idIYYwrtgH) | 2:26 | 2023-04-07 |  |
 | [Brujas](https://open.spotify.com/track/2QSksPcpxlX6APIppww8Ar) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Brujas](https://open.spotify.com/album/4fVKCgpWN1lWkMses30NqQ) | 2:54 | 2022-08-16 | 2023-07-01 |
 | [Brujas](https://open.spotify.com/track/5KgWXLYmWDXFmRiWAkYECD) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Brujas](https://open.spotify.com/album/6SK2Fcj0EZ2iqIlGRd5FxF) | 2:54 | 2021-12-13 | 2022-10-14 |
@@ -235,6 +236,7 @@
 | [Se Busca](https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [SE BUSCA](https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD) | 2:34 | 2021-12-13 | 2022-03-09 |
 | [SEÑALES](https://open.spotify.com/track/0ixfANWAebkhsYZboAQwBq) | [Camí Rozman](https://open.spotify.com/artist/3dwDDgc3WneLDpJYl2gsJt) | [SEÑALES](https://open.spotify.com/album/0DIj36pLzLfoTJ5EpraR1S) | 2:53 | 2023-04-14 |  |
 | [Shock](https://open.spotify.com/track/322LgcUL3uhHbpUQP57WUF) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [La Bala](https://open.spotify.com/album/2zKOLLaPdOm8gouCwbzkgF) | 3:30 | 2021-12-13 | 2023-10-07 |
+| [Siento](https://open.spotify.com/track/13DWRxHcQ0rRKOZ0nUpiww) | [RUIDO](https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr), [Frida Lagarto](https://open.spotify.com/artist/3chJqlLTvlra2vRTPM9edK) | [Siento](https://open.spotify.com/album/3BYPPpFZ5PLIp1H0K2WLfU) | 1:58 | 2024-04-12 |  |
 | [Simulación](https://open.spotify.com/track/0TQq1pjlkRQqesydJ5xbof) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i), [Jose Macario](https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM) | [Simulación](https://open.spotify.com/album/1WYsLijpXeD1aTIb1L0433) | 2:52 | 2023-01-26 | 2023-10-14 |
 | [SIN TI](https://open.spotify.com/track/0JxLBxUnL4NL01OmhbqutD) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L) | [SIN TI](https://open.spotify.com/album/0qai8pi4z5sN95OHaaJrn3) | 2:57 | 2023-11-17 |  |
 | [SIN UN PLAN](https://open.spotify.com/track/0w3VooVHnwqRSCVXc9L3Bd) | [Las Ninyas del Corro](https://open.spotify.com/artist/3Iv34TRi6TpQqxSctG7PKh), [Esse Delgado](https://open.spotify.com/artist/0EbyCaJGcegI7KdTTWKuW0) | [SIN UN PLAN](https://open.spotify.com/album/5jJrIgfr6jyhOsIsNU16MU) | 3:21 | 2023-03-24 | 2023-09-02 |
@@ -249,7 +251,7 @@
 | [Taxi Driver](https://open.spotify.com/track/4Ux9RV3vI4SAXaOIzVBJXc) | [Norykko](https://open.spotify.com/artist/5xX9fBFLbqn0pYSFZ7qVcA) | [Taxi Driver](https://open.spotify.com/album/2IL0SiGi3zOYsEYFZ9R2A4) | 4:15 | 2021-12-13 | 2023-07-01 |
 | [Te Regalo](https://open.spotify.com/track/2s0NclshpZt1Q2aVsBZXVd) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [Te Regalo](https://open.spotify.com/album/0dE76rMV7OHOgmLZBBp8Dx) | 4:26 | 2021-12-13 | 2022-08-05 |
 | [Te Regalo](https://open.spotify.com/track/7sYh7Jhn2Gt43TKepAaEbJ) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [Te Regalo](https://open.spotify.com/album/3hX0Y4Wr5ahfV5bZmxRbRz) | 4:26 | 2022-08-03 | 2023-07-01 |
-| [Tendos](https://open.spotify.com/track/0l2OgTgQIjmkCk1sEjdxGY) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1), [El Jiménez](https://open.spotify.com/artist/6L7XIjE7cmWBJPfWpHtXrU) | [Tendos](https://open.spotify.com/album/3DSW9xDDLVDQK8OCmHiJfR) | 3:09 | 2024-03-29 |  |
+| [Tendos](https://open.spotify.com/track/0l2OgTgQIjmkCk1sEjdxGY) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1), [El Jiménez](https://open.spotify.com/artist/6L7XIjE7cmWBJPfWpHtXrU) | [Tendos](https://open.spotify.com/album/3DSW9xDDLVDQK8OCmHiJfR) | 3:09 | 2024-03-29 | 2024-04-13 |
 | [Tengo Un Trato](https://open.spotify.com/track/3sg4RFemnrzSDr0LpaxqCy) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Mala Rodríguez / Lujo Ibérico](https://open.spotify.com/album/52zw3rWRaKV94g7KSjlbrx) | 2:47 | 2021-12-13 | 2023-10-28 |
 | [Tenochtitlán](https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Tenochtitlán](https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf) | 4:13 | 2023-09-01 |  |
 | [The Wave](https://open.spotify.com/track/3qdtPhFUPKEwOzgcoQg5z4) | [Las Ninyas del Corro](https://open.spotify.com/artist/3Iv34TRi6TpQqxSctG7PKh) | [The Wave](https://open.spotify.com/album/4mnAwRH9rHUHCeiVKgpdaO) | 3:07 | 2024-02-09 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Duquesa",
+  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: WIU, Teto",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -1728,7 +1728,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 171778,
       "name": "Aperte o K",
       "url": "https://open.spotify.com/track/1ZEDv6vUWxO2J8gAIQD8nj"
@@ -1906,7 +1906,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 135000,
       "name": "Arquivos",
       "url": "https://open.spotify.com/track/5oQaUfLbBhR4yVla3O7jLS"
@@ -3032,7 +3032,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 140800,
       "name": "Bebeto & Rom\u00e1rio",
       "url": "https://open.spotify.com/track/1UHfOlHWNVRK4jDnTZ4NeO"
@@ -3430,7 +3430,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 164000,
       "name": "Bom Dia pra Nois",
       "url": "https://open.spotify.com/track/6EVf4Rs2TU1Xqhm2z3Uj95"
@@ -6879,6 +6879,36 @@
     },
     {
       "album": {
+        "name": "O Cara Do Momento, Vol. 2",
+        "url": "https://open.spotify.com/album/35C0UUdgV8mkuBaJrxbagf"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243200,
+      "name": "Dentro Da Mala",
+      "url": "https://open.spotify.com/track/3tGiBHrLSYXuUtaDZ4jmXt"
+    },
+    {
+      "album": {
         "name": "Inocente \"Demotape\"",
         "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
       },
@@ -7476,7 +7506,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 362602,
       "name": "Diamante",
       "url": "https://open.spotify.com/track/407XSWc8UYwjp9BfGyMIcZ"
@@ -9042,7 +9072,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 129317,
       "name": "Ent\u00e3o Fala",
       "url": "https://open.spotify.com/track/1OPbTsylCpBg0GtrJkKzVs"
@@ -9150,7 +9180,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 156000,
       "name": "Escola de Trap",
       "url": "https://open.spotify.com/track/3JJhd3OmZ9rYGhlDYfQ0vR"
@@ -9819,6 +9849,28 @@
     },
     {
       "album": {
+        "name": "Eurotrip 3",
+        "url": "https://open.spotify.com/album/0SpFc5NZqYatd7MYdTTjqY"
+      },
+      "artists": [
+        {
+          "name": "Krawk",
+          "url": "https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4"
+        },
+        {
+          "name": "Benito",
+          "url": "https://open.spotify.com/artist/5IhWHRLjQNjFs06ptDjS0M"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187493,
+      "name": "Eurotrip 3",
+      "url": "https://open.spotify.com/track/6YcAQWKNG23Juz6nkHzn7n"
+    },
+    {
+      "album": {
         "name": "EVA (Papatracks#10)",
         "url": "https://open.spotify.com/album/3t7FwRaT9UzpFOVrw5ryPp"
       },
@@ -10278,6 +10330,28 @@
       "duration_ms": 152016,
       "name": "Fatia do Bolo",
       "url": "https://open.spotify.com/track/62MJCu8Ypiwkp2YWKtY1es"
+    },
+    {
+      "album": {
+        "name": "Cora\u00e7\u00e3o e Beat",
+        "url": "https://open.spotify.com/album/28KkgrToYZdh3hxbM9rDIJ"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158608,
+      "name": "Favela T\u00e1 Mudada",
+      "url": "https://open.spotify.com/track/1uQAjGhJtyY2qV8z8bZsI8"
     },
     {
       "album": {
@@ -12746,7 +12820,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 160919,
       "name": "Ilus\u00e3o",
       "url": "https://open.spotify.com/track/168LaJOA6hVLqAHJjWwozO"
@@ -14235,6 +14309,28 @@
     },
     {
       "album": {
+        "name": "Levemente",
+        "url": "https://open.spotify.com/album/1cQyYZVHyKwidLVXRMSNzK"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154581,
+      "name": "Levemente",
+      "url": "https://open.spotify.com/track/7xb4eyJbEHf40TpJOdnEMt"
+    },
+    {
+      "album": {
         "name": "Licor 43",
         "url": "https://open.spotify.com/album/7LcMEcVGgbxRQSm3wJ6nX9"
       },
@@ -14836,7 +14932,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 122416,
       "name": "Ludmilla (Papatracks#12)",
       "url": "https://open.spotify.com/track/7CKPobgc0wetmn1V990uKb"
@@ -15733,6 +15829,32 @@
     },
     {
       "album": {
+        "name": "MA\u00c7OM",
+        "url": "https://open.spotify.com/album/0anBmKC3gbWyOtqS7TaUqL"
+      },
+      "artists": [
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "The Boy",
+          "url": "https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166961,
+      "name": "MA\u00c7OM",
+      "url": "https://open.spotify.com/track/11YbstXIKTHRo02wkPNXea"
+    },
+    {
+      "album": {
         "name": "Me Arrasta",
         "url": "https://open.spotify.com/album/4HMEDyA1dvJBbeVTKLjM2a"
       },
@@ -15764,6 +15886,36 @@
       "duration_ms": 203813,
       "name": "Me Arrasta",
       "url": "https://open.spotify.com/track/74HTQxGd5KwzwTBns0tPjo"
+    },
+    {
+      "album": {
+        "name": "O Cara Do Momento, Vol. 2",
+        "url": "https://open.spotify.com/album/35C0UUdgV8mkuBaJrxbagf"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168959,
+      "name": "Me Chama Pelo Meu Vulgo",
+      "url": "https://open.spotify.com/track/31ruhXo3xWYJUfGk1uU77y"
     },
     {
       "album": {
@@ -18220,7 +18372,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 157333,
       "name": "Neg\u00f3cios",
       "url": "https://open.spotify.com/track/6bFpc6JpRkBjgba0bES4QV"
@@ -21069,6 +21221,32 @@
     },
     {
       "album": {
+        "name": "Perfil #93 - Vers\u00edculo 1",
+        "url": "https://open.spotify.com/album/6yKdoluymqwfUeCGSMpsYF"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Xamuel",
+          "url": "https://open.spotify.com/artist/62T0lHxZPLwEo96o1cgBoC"
+        },
+        {
+          "name": "DJ Caetano",
+          "url": "https://open.spotify.com/artist/6p8UveMYUHymkyH4rXgpoJ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Perfil #93 - Vers\u00edculo 1",
+      "url": "https://open.spotify.com/track/1Ta53AM8Vrd7WHpBid85su"
+    },
+    {
+      "album": {
         "name": "Perigo na Noite",
         "url": "https://open.spotify.com/album/0ddGL8FaECZqVEQVcQAk7P"
       },
@@ -22360,7 +22538,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 130369,
       "name": "Primeiro de Maio (Gostosas Inteligentes)",
       "url": "https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny"
@@ -22408,6 +22586,28 @@
       "duration_ms": 120000,
       "name": "Princesa do Morro",
       "url": "https://open.spotify.com/track/3p9yAHLinHSBrqCdmA55l2"
+    },
+    {
+      "album": {
+        "name": "Problemas de um Milion\u00e1rio",
+        "url": "https://open.spotify.com/album/37xAMiTNitGXNdcm6v7ZJu"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144360,
+      "name": "Problemas de um Milion\u00e1rio",
+      "url": "https://open.spotify.com/track/0VybBobSYSzliyEJ1VqwGR"
     },
     {
       "album": {
@@ -23074,7 +23274,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 224842,
       "name": "Quando Ela Passa",
       "url": "https://open.spotify.com/track/5TICCjmrEB2tROC4PIPjtp"
@@ -25041,6 +25241,28 @@
     },
     {
       "album": {
+        "name": "Sem Problemas",
+        "url": "https://open.spotify.com/album/2vFgLkPopXwtogbNAkrY1Y"
+      },
+      "artists": [
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165135,
+      "name": "Sem Problemas",
+      "url": "https://open.spotify.com/track/4xOFKQElBJDAZDoBdpmVhY"
+    },
+    {
+      "album": {
         "name": "Sem Raz\u00e3o",
         "url": "https://open.spotify.com/album/4KTs14s080aUNIHeZrTXh2"
       },
@@ -25516,6 +25738,28 @@
       "duration_ms": 152649,
       "name": "Sexo e Dramas",
       "url": "https://open.spotify.com/track/1egbFZtcwx2urbr2q8TsZ5"
+    },
+    {
+      "album": {
+        "name": "Sexta Hoje \u00e9 Aonde",
+        "url": "https://open.spotify.com/album/7wd8kuw1VcxkR7GwbA65nK"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        },
+        {
+          "name": "JayA Luuck",
+          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190370,
+      "name": "Sexta Hoje \u00e9 Aonde",
+      "url": "https://open.spotify.com/track/4Wb7GrhDbaxh2RtuOUWQUT"
     },
     {
       "album": {
@@ -27487,6 +27731,40 @@
     },
     {
       "album": {
+        "name": "THE BOX MEDLEY 7",
+        "url": "https://open.spotify.com/album/2Uionla5vzcbTG3GpG9TqV"
+      },
+      "artists": [
+        {
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "Raflow",
+          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
+        },
+        {
+          "name": "Nath Fischer",
+          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
+        },
+        {
+          "name": "Baby G2C",
+          "url": "https://open.spotify.com/artist/51gQSmKMfeAuvRdwAdeCem"
+        },
+        {
+          "name": "Danike",
+          "url": "https://open.spotify.com/artist/5utjRtQc65CvfyqVPw0asK"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261422,
+      "name": "THE BOX MEDLEY 7",
+      "url": "https://open.spotify.com/track/2UiNcKrl7fbTClesb1ppom"
+    },
+    {
+      "album": {
         "name": "Atg Tape",
         "url": "https://open.spotify.com/album/0YpnBZ9kBPcGzoonbHZFaS"
       },
@@ -27506,6 +27784,28 @@
       "duration_ms": 152380,
       "name": "Tiffany",
       "url": "https://open.spotify.com/track/0NvVVP3Q0oSbfBUZ48vCHs"
+    },
+    {
+      "album": {
+        "name": "Tipo Calif\u00f3rnia",
+        "url": "https://open.spotify.com/album/1oRtZpvzFvhWED5KrggJ1k"
+      },
+      "artists": [
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        },
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Tipo Calif\u00f3rnia",
+      "url": "https://open.spotify.com/track/3YNid6MLG6LxFpYSEPFzUM"
     },
     {
       "album": {
@@ -28704,7 +29004,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 167076,
       "name": "VAZIO 2",
       "url": "https://open.spotify.com/track/0yiPJTmw5EWoxCMamokzLt"

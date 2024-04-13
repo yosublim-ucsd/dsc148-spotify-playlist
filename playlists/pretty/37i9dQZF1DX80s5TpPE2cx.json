@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 9436,
+  "num_followers": 9462,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Enjoy Your Life",
+        "url": "https://open.spotify.com/album/0NZAQrwyssJG5y6CfGR7eL"
+      },
+      "artists": [
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        }
+      ],
+      "duration_ms": 187714,
+      "name": "Cash",
+      "url": "https://open.spotify.com/track/5j6dGDbLUnPE5UbPOtpJAX"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "ULTRALIGHT",
         "url": "https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 237346,
       "name": "MEDITATE",
       "url": "https://open.spotify.com/track/3luCfdUPwws6omTEmIUKXX"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Enjoy Your Life",
-        "url": "https://open.spotify.com/album/0NZAQrwyssJG5y6CfGR7eL"
-      },
-      "artists": [
-        {
-          "name": "Lady Donli",
-          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
-        }
-      ],
-      "duration_ms": 187714,
-      "name": "Cash",
-      "url": "https://open.spotify.com/track/5j6dGDbLUnPE5UbPOtpJAX"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Shaken",
-        "url": "https://open.spotify.com/album/2teAt8iFXCBkjdiEuNqJgF"
-      },
-      "artists": [
-        {
-          "name": "Tomi Thomas",
-          "url": "https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Shaken",
-      "url": "https://open.spotify.com/track/1MGQJITgxRkZITT6aqcqfo"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Leap of Faith",
         "url": "https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl"
       },
@@ -883,22 +867,18 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR"
+        "name": "Shaken",
+        "url": "https://open.spotify.com/album/2teAt8iFXCBkjdiEuNqJgF"
       },
       "artists": [
         {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        },
-        {
-          "name": "Kojey Radical",
-          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+          "name": "Tomi Thomas",
+          "url": "https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR"
         }
       ],
-      "duration_ms": 191898,
-      "name": "Broken Promises",
-      "url": "https://open.spotify.com/track/0Pt9qTpPhwNV8qmbYWYv4V"
+      "duration_ms": 213333,
+      "name": "Shaken",
+      "url": "https://open.spotify.com/track/1MGQJITgxRkZITT6aqcqfo"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -927,6 +907,26 @@
       "duration_ms": 245655,
       "name": "Desire (feat. Funbi & Tay Iwar)",
       "url": "https://open.spotify.com/track/1MJJ9lXWKHjRdWxSk3BpTo"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        }
+      ],
+      "duration_ms": 191898,
+      "name": "Broken Promises",
+      "url": "https://open.spotify.com/track/0Pt9qTpPhwNV8qmbYWYv4V"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo"
+      },
+      "artists": [
+        {
+          "name": "TMXO",
+          "url": "https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP"
+        }
+      ],
+      "duration_ms": 128450,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "Feel Alright",
         "url": "https://open.spotify.com/album/2Cgvi847HBc0gsamKi0Do4"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 258263,
       "name": "Feel Alright",
       "url": "https://open.spotify.com/track/45oXGtNuG81jUcwmk73xLh"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Monica",
-        "url": "https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo"
-      },
-      "artists": [
-        {
-          "name": "TMXO",
-          "url": "https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP"
-        }
-      ],
-      "duration_ms": 128450,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ"
     },
     {
       "added_at": "2024-03-01 00:01:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Elohim",
+  "description": "All things <a href=\"spotify:genre:bass\">bass</a> with DJ Snake and Crankdat",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -458,7 +458,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 171058,
       "name": "Always Wanna Talk",
       "url": "https://open.spotify.com/track/37WgviAL9YLn5HHCCFZLmd"
@@ -966,7 +966,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 148800,
       "name": "Back For More",
       "url": "https://open.spotify.com/track/1waYHmEXR5mFJCfEYfa2BL"
@@ -1643,6 +1643,28 @@
     },
     {
       "album": {
+        "name": "Big Bang (with Crankdat)",
+        "url": "https://open.spotify.com/album/2DpZjtwH8GG964mwPfVHQ7"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239350,
+      "name": "Big Bang (with Crankdat)",
+      "url": "https://open.spotify.com/track/6xkBy4dXb6LxQQ3OuuK2xv"
+    },
+    {
+      "album": {
         "name": "Big Bombaclat",
         "url": "https://open.spotify.com/album/333SJWbJsQPBlc20JprKOb"
       },
@@ -1750,6 +1772,24 @@
       "duration_ms": 217710,
       "name": "bitches",
       "url": "https://open.spotify.com/track/2cqscm1gWXZElrn48maeMe"
+    },
+    {
+      "album": {
+        "name": "Bite Your Lip pt. 2",
+        "url": "https://open.spotify.com/album/4TMaXttEPyK93NHPPoLzcL"
+      },
+      "artists": [
+        {
+          "name": "Moody Good",
+          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Bite Your Lip pt. 2",
+      "url": "https://open.spotify.com/track/62FIFVM7LIDDfNM4fEqDgx"
     },
     {
       "album": {
@@ -2221,6 +2261,32 @@
     },
     {
       "album": {
+        "name": "Mechanomorphic",
+        "url": "https://open.spotify.com/album/3YSCEubpM4QyBWIMc2fU0w"
+      },
+      "artists": [
+        {
+          "name": "Mr. Bill",
+          "url": "https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB"
+        },
+        {
+          "name": "COPYCATT",
+          "url": "https://open.spotify.com/artist/5XmObiDv74Etc9tJFMRtC4"
+        },
+        {
+          "name": "Def3",
+          "url": "https://open.spotify.com/artist/6kqN8RoL2VpRM8EgGwHiHG"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149421,
+      "name": "Bring It On",
+      "url": "https://open.spotify.com/track/2PktA4OszTJ9OAy6YSZ3kn"
+    },
+    {
+      "album": {
         "name": "Judgement Day",
         "url": "https://open.spotify.com/album/7DkSbcu3i5zNcGRFcGdQ1G"
       },
@@ -2302,7 +2368,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 211013,
       "name": "Buried Beneath You",
       "url": "https://open.spotify.com/track/0s21wy24ori9qnxzNBIHJd"
@@ -2328,7 +2394,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 275200,
       "name": "BURN UP",
       "url": "https://open.spotify.com/track/7mo99X14j5mkgbYXjaH7WW"
@@ -3060,7 +3126,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 264000,
       "name": "Come Back Down",
       "url": "https://open.spotify.com/track/0Spowp8JWeigM6y2B4TZRm"
@@ -3755,6 +3821,28 @@
     },
     {
       "album": {
+        "name": "Dhunga",
+        "url": "https://open.spotify.com/album/1YFhDt1XvJHuk8eN3dyaaY"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Toxic Rob",
+          "url": "https://open.spotify.com/artist/2xVWDstqnCMt8lKP8VXpzc"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149760,
+      "name": "Dhunga",
+      "url": "https://open.spotify.com/track/14CuAxOwFn2346hrXXx5Cj"
+    },
+    {
+      "album": {
         "name": "Diamond",
         "url": "https://open.spotify.com/album/2gpllHbaGDQFUQZTo69O9j"
       },
@@ -4000,7 +4088,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 176516,
       "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
       "url": "https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j"
@@ -5617,6 +5705,32 @@
     },
     {
       "album": {
+        "name": "Feel The Vibe",
+        "url": "https://open.spotify.com/album/4hBRcZ9fXJULxdOSvpOkuD"
+      },
+      "artists": [
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202374,
+      "name": "Feel The Vibe",
+      "url": "https://open.spotify.com/track/5uubpHWcBAXoPSoBXY45vW"
+    },
+    {
+      "album": {
         "name": "Feel Ur Touch",
         "url": "https://open.spotify.com/album/7pfd5jFr6TMpb9x7U04eAs"
       },
@@ -5786,6 +5900,28 @@
       "duration_ms": 199147,
       "name": "Find It In Your Mind",
       "url": "https://open.spotify.com/track/29ytM04QyJTJWVzod8J75t"
+    },
+    {
+      "album": {
+        "name": "Fire At Will",
+        "url": "https://open.spotify.com/album/2rJrZ74og7KjpKnnwKuoQs"
+      },
+      "artists": [
+        {
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        },
+        {
+          "name": "Virus Syndicate",
+          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151874,
+      "name": "Fire At Will",
+      "url": "https://open.spotify.com/track/6MarmzdQIRqzg06Ecshzx9"
     },
     {
       "album": {
@@ -6374,7 +6510,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 153600,
       "name": "Get Wompy",
       "url": "https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB"
@@ -6890,7 +7026,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 185600,
       "name": "Gutter",
       "url": "https://open.spotify.com/track/0MwLwN2dFTMOZUZ0msjXOv"
@@ -6934,7 +7070,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 133103,
       "name": "H.I.T.A",
       "url": "https://open.spotify.com/track/01BqdnNV3KKMg7IjqWg5Iy"
@@ -12675,6 +12811,32 @@
     },
     {
       "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/2nLElGgXaPTz8rkB0IwUQu"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Liquid Stranger",
+          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        },
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205241,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/2qcatm1Vvi5io4zmIQc2cp"
+    },
+    {
+      "album": {
         "name": "RETURN TO NOTHINGNESS",
         "url": "https://open.spotify.com/album/2BEk18TPlSSo1Jgbkp999x"
       },
@@ -12866,7 +13028,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 219427,
       "name": "Rude Boy - EAZYBAKED Remix",
       "url": "https://open.spotify.com/track/2VsXJnwpCgPjoj84rMwBdY"
@@ -13806,7 +13968,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 163862,
       "name": "SHELLSHOCK",
       "url": "https://open.spotify.com/track/1hGA3eZuKXc3EaXYRCX7Ux"
@@ -15214,10 +15376,32 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 133587,
       "name": "Teeth (feat. Bejalvin)",
       "url": "https://open.spotify.com/track/0HC2VZhRBHFvpYe0T7IHxI"
+    },
+    {
+      "album": {
+        "name": "Tell Them",
+        "url": "https://open.spotify.com/album/3IkXEMpui3J5cpcRgiwnJg"
+      },
+      "artists": [
+        {
+          "name": "Return Of The Jaded",
+          "url": "https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS"
+        },
+        {
+          "name": "Plain English",
+          "url": "https://open.spotify.com/artist/3qZDE3jQg7MhRdFSnPchp0"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180750,
+      "name": "Tell Them",
+      "url": "https://open.spotify.com/track/75vQWFvuU8jCyQiU5dyj8t"
     },
     {
       "album": {
@@ -15258,6 +15442,28 @@
       "duration_ms": 177272,
       "name": "Tested",
       "url": "https://open.spotify.com/track/4lUqDI7XESYh7A13MulOjz"
+    },
+    {
+      "album": {
+        "name": "that's what you get",
+        "url": "https://open.spotify.com/album/2N0X3x9l3xCV2Kld1wt6GI"
+      },
+      "artists": [
+        {
+          "name": "L\u016aN",
+          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
+        },
+        {
+          "name": "ZABO",
+          "url": "https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181090,
+      "name": "that's what you get",
+      "url": "https://open.spotify.com/track/0RrZuYRSDMiPpYpSIs3dfS"
     },
     {
       "album": {
@@ -15492,6 +15698,32 @@
       "duration_ms": 197735,
       "name": "The Uprising",
       "url": "https://open.spotify.com/track/03wsvOuSWSo0HbHFBgY9li"
+    },
+    {
+      "album": {
+        "name": "The von dutch remix with skream and benga",
+        "url": "https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        },
+        {
+          "name": "Benga",
+          "url": "https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281142,
+      "name": "The von dutch remix with skream and benga",
+      "url": "https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5"
     },
     {
       "album": {
@@ -16465,6 +16697,28 @@
     },
     {
       "album": {
+        "name": "Awakening Compilation 01",
+        "url": "https://open.spotify.com/album/3711bSb5rWJ2gABaMUporo"
+      },
+      "artists": [
+        {
+          "name": "SSOS",
+          "url": "https://open.spotify.com/artist/1X90DISqAUei3m4aEHCYhR"
+        },
+        {
+          "name": "Ekali",
+          "url": "https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163584,
+      "name": "Vendetta",
+      "url": "https://open.spotify.com/track/4dJLLJgIDDVWrntAt1qlPY"
+    },
+    {
+      "album": {
         "name": "Vibe Check",
         "url": "https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ"
       },
@@ -16502,6 +16756,28 @@
       "duration_ms": 294193,
       "name": "Villain",
       "url": "https://open.spotify.com/track/5SvEdcv97xIAwQdP4DQ8RT"
+    },
+    {
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/3b8zqouJM1exZabdPAs3gf"
+      },
+      "artists": [
+        {
+          "name": "MIKESH!FT",
+          "url": "https://open.spotify.com/artist/38ry7phGphvGGKVmxgpUkn"
+        },
+        {
+          "name": "KERO",
+          "url": "https://open.spotify.com/artist/1buRQJUaOGTgp36hBMda6y"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/4TxYA7kcWt5fF77v9Zp4nJ"
     },
     {
       "album": {
@@ -17034,7 +17310,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 188689,
       "name": "WILIN",
       "url": "https://open.spotify.com/track/0K7WtvwPnqZNgubEjlNpxI"
@@ -17250,6 +17526,24 @@
       "duration_ms": 225000,
       "name": "Without You",
       "url": "https://open.spotify.com/track/1gs7LWmkKWpJ8M6cnWkK5e"
+    },
+    {
+      "album": {
+        "name": "WINGZ & FANGZ",
+        "url": "https://open.spotify.com/album/49kAay1T9C8z9ijDbSpBJw"
+      },
+      "artists": [
+        {
+          "name": "beastboi.",
+          "url": "https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250312,
+      "name": "WON'T FEEL LOVE THE SAME",
+      "url": "https://open.spotify.com/track/1AG7tnUYMfaJV79luapn4T"
     },
     {
       "album": {

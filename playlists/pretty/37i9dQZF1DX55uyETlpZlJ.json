@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover :Rahul Dit-O",
-  "num_followers": 23234,
+  "num_followers": 23233,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjU1NzY0NCwwMDAwMDAwMDA1ODBkZTdiZTA1NWNhMDAyNzQxYjE0MDJmNmNkMWY2",
+  "snapshot_id": "MTcxMjkxODMxMywwMDAwMDAwMGJkNDViNDIyN2UyY2FmNzAyZjI2NGVjMThjNGNhMThk",
   "tracks": [
     {
       "added_at": "2024-04-04 11:45:11",
@@ -43,6 +43,22 @@
       "duration_ms": 126428,
       "name": "Hosa Generation",
       "url": "https://open.spotify.com/track/3tvqY86xJ71qTyfJkyAkHV"
+    },
+    {
+      "added_at": "2024-04-12 10:38:17",
+      "album": {
+        "name": "Parichitana",
+        "url": "https://open.spotify.com/album/37TAvfDOrS3xPMBR1VVMsp"
+      },
+      "artists": [
+        {
+          "name": "Kishan D'Souza",
+          "url": "https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6"
+        }
+      ],
+      "duration_ms": 209996,
+      "name": "Parichitana",
+      "url": "https://open.spotify.com/track/45sV7gf7t5wKvROAaDKW94"
     },
     {
       "added_at": "2024-04-05 09:14:47",
@@ -199,6 +215,10 @@
         "url": "https://open.spotify.com/album/6opIhmM4pIEcVqrM3ilhUO"
       },
       "artists": [
+        {
+          "name": "Karthik N B",
+          "url": "https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC"
+        },
         {
           "name": "Dheemusix",
           "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
@@ -828,7 +848,7 @@
       "added_at": "2023-11-20 12:25:32",
       "album": {
         "name": "Bere Tara",
-        "url": "https://open.spotify.com/album/5A3MVaOMPmTcfkidhK9Vu2"
+        "url": "https://open.spotify.com/album/27j66PCM7ImKFHUcU1I5f1"
       },
       "artists": [
         {
@@ -842,7 +862,7 @@
       ],
       "duration_ms": 290005,
       "name": "Bere Tara",
-      "url": "https://open.spotify.com/track/1CLxYQF70NuP76EYphQztG"
+      "url": "https://open.spotify.com/track/0vJEVSiskeXisMVWkOU0c5"
     },
     {
       "added_at": "2023-11-06 10:03:37",
@@ -1071,30 +1091,6 @@
       "duration_ms": 295687,
       "name": "Homecoming (The Ayodhya Anthem) - Kannada",
       "url": "https://open.spotify.com/track/6SQAUBzXknH8EGJ4aynrSk"
-    },
-    {
-      "added_at": "2023-12-14 09:24:54",
-      "album": {
-        "name": "Mugile",
-        "url": "https://open.spotify.com/album/3A1Sa3slUaD2eP2CVmK1IY"
-      },
-      "artists": [
-        {
-          "name": "Karna",
-          "url": "https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ"
-        },
-        {
-          "name": "VJSH",
-          "url": "https://open.spotify.com/artist/0mR1GgJfsTdVgclygjlXtT"
-        },
-        {
-          "name": "Carnival Crooks",
-          "url": "https://open.spotify.com/artist/4wm3ZRKCCxFf9g4Vd5IN2q"
-        }
-      ],
-      "duration_ms": 161921,
-      "name": "Mugile",
-      "url": "https://open.spotify.com/track/4pzOZiFpauKynFuOfjs94g"
     },
     {
       "added_at": "2024-01-03 06:24:37",
@@ -1368,7 +1364,7 @@
       "added_at": "2023-11-06 09:59:28",
       "album": {
         "name": "Nee Nanna Kavithe",
-        "url": "https://open.spotify.com/album/3Jml0aCC8w631pREfwGKe5"
+        "url": "https://open.spotify.com/album/4RNO4wCdd74AfUGVZqBKov"
       },
       "artists": [
         {
@@ -1382,7 +1378,7 @@
       ],
       "duration_ms": 210000,
       "name": "Nee Nanna Kavithe",
-      "url": "https://open.spotify.com/track/5F8gPMjRT1zjpaIlyjSBNw"
+      "url": "https://open.spotify.com/track/17Hl95mz7AWI9lFOLtbAEX"
     },
     {
       "added_at": "2023-09-29 12:57:07",
@@ -1440,7 +1436,7 @@
       "added_at": "2023-08-31 13:05:24",
       "album": {
         "name": "Namma Gully",
-        "url": "https://open.spotify.com/album/5XHk8FQOyCqESGu2TSmQ0D"
+        "url": "https://open.spotify.com/album/4SGJQZixTYl8kF9mnyJcSa"
       },
       "artists": [
         {
@@ -1452,13 +1448,13 @@
           "url": "https://open.spotify.com/artist/2d5TEJRxSb4QwrgbQvv7CJ"
         },
         {
-          "name": "D Rapper",
-          "url": "https://open.spotify.com/artist/1mjEVPmi3GcUKWbd34zx4E"
+          "name": "D rapper",
+          "url": "https://open.spotify.com/artist/4FqwQ0EygQJox3FgfVUSn4"
         }
       ],
       "duration_ms": 116160,
       "name": "Namma Gully",
-      "url": "https://open.spotify.com/track/7t8PVG80xVXsRpxQsEiKGU"
+      "url": "https://open.spotify.com/track/18zr3JmRPNcqe7PbrBtSEy"
     }
   ],
   "unique_name": "Kannada Indie",

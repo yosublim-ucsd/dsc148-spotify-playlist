@@ -1,6 +1,6 @@
 {
   "description": "my intrusive thoughts \ud83e\udd1d this playlist. para esas horas nost\u00e1lgicas & melanc\u00f3licas de la noche.",
-  "num_followers": 10340,
+  "num_followers": 10356,
   "original_name": "de madrugada",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Lo que elegiste",
+        "url": "https://open.spotify.com/album/7zV1JgdA6e8nt8wJKSeXtJ"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 64666,
+      "name": "Lo que elegiste.",
+      "url": "https://open.spotify.com/track/3wsiNOSGIKbU5JKxcqUPvg"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "eduardo",
         "url": "https://open.spotify.com/album/6ylPT54V3iwJY2trdxTzTX"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 353680,
       "name": "nos queda mucho dolor por recorrer.",
       "url": "https://open.spotify.com/track/4ezNkGZYWpYKdjqvh0jaSl"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Lo que elegiste",
-        "url": "https://open.spotify.com/album/7zV1JgdA6e8nt8wJKSeXtJ"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 64666,
-      "name": "Lo que elegiste.",
-      "url": "https://open.spotify.com/track/3wsiNOSGIKbU5JKxcqUPvg"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "PO2054AZ (Vol.I)",
-        "url": "https://open.spotify.com/album/2FQ1wvw5azk1cHo1YDzNXT"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        }
-      ],
-      "duration_ms": 184457,
-      "name": "Me Debes Esto",
-      "url": "https://open.spotify.com/track/6Etsz9K3hQcCHjneli7rpn"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Satus",
         "url": "https://open.spotify.com/album/47aH1PiabZA5UfZ5frshXe"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 149379,
       "name": "Imagin\u00e1ndote",
       "url": "https://open.spotify.com/track/7BFJYal3LoCIud75mCwLFz"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "PO2054AZ (Vol.I)",
+        "url": "https://open.spotify.com/album/2FQ1wvw5azk1cHo1YDzNXT"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        }
+      ],
+      "duration_ms": 184457,
+      "name": "Me Debes Esto",
+      "url": "https://open.spotify.com/track/6Etsz9K3hQcCHjneli7rpn"
     },
     {
       "added_at": "2024-03-01 05:00:00",

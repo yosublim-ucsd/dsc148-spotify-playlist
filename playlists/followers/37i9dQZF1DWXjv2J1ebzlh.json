@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 108390,
+  "2024-04-13": 108430,
   "date_first_scraped": "2022-06-10",
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
   "name": "Bon Voyage",
@@ -11326,6 +11326,24 @@
     },
     {
       "album": {
+        "name": "Emociones, Vol. 1",
+        "url": "https://open.spotify.com/album/6xSUpwH2Ocpp0jx9OH4HNb"
+      },
+      "artists": [
+        {
+          "name": "Super Mama Djombo",
+          "url": "https://open.spotify.com/artist/38WRvRXIOeefhY4vRxEGrr"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311000,
+      "name": "Dissan Na M'bera",
+      "url": "https://open.spotify.com/track/3PfqCDBnk0uqgMnX0FubQB"
+    },
+    {
+      "album": {
         "name": "Super Mama Djombo",
         "url": "https://open.spotify.com/album/3H1M13STqcFzl5SRsyDxQM"
       },
@@ -11337,7 +11355,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 313480,
       "name": "Dissan Na M'bera",
       "url": "https://open.spotify.com/track/20FhPc73ZxP5jGXCsbPTgD"
@@ -15297,10 +15315,32 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 309560,
       "name": "For\u00e7a Bruta",
       "url": "https://open.spotify.com/track/2ZUszKpDYEPvNWFrxewx94"
+    },
+    {
+      "album": {
+        "name": "For\u00e7a Bruta",
+        "url": "https://open.spotify.com/album/12G0eYu3u8ZwdstT1flUXw"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        },
+        {
+          "name": "Trio Mocoto",
+          "url": "https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308413,
+      "name": "For\u00e7a Bruta",
+      "url": "https://open.spotify.com/track/0EvsiCQLi4G6FqDODQahWl"
     },
     {
       "album": {
@@ -16833,10 +16873,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 211600,
       "name": "Guitarras, Violinos E Instrumentos De Samba",
       "url": "https://open.spotify.com/track/1L1dsoVRsZ6Q2VvooGezS0"
+    },
+    {
+      "album": {
+        "name": "Na Rua, Na Chuva, Na Fazenda",
+        "url": "https://open.spotify.com/album/5RyGjTmlcwDBaVbFeZrTld"
+      },
+      "artists": [
+        {
+          "name": "Hyldon",
+          "url": "https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211866,
+      "name": "Guitarras, Violinos E Instrumentos De Samba",
+      "url": "https://open.spotify.com/track/5zHh6y75lTQafyZrGuJ7b2"
     },
     {
       "album": {
@@ -24813,7 +24871,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 335133,
       "name": "Mali Cuba",
       "url": "https://open.spotify.com/track/7kAzkQJvYvLQMZS77an8Bk"
@@ -24835,6 +24893,24 @@
       "duration_ms": 338386,
       "name": "Mali-Cuba",
       "url": "https://open.spotify.com/track/49tM6cyd8uKkL3eEpKnO7g"
+    },
+    {
+      "album": {
+        "name": "Afrocubism",
+        "url": "https://open.spotify.com/album/1JeCqZrySNJFuyVytPmrL4"
+      },
+      "artists": [
+        {
+          "name": "AfroCubism",
+          "url": "https://open.spotify.com/artist/2Los7jf0DpltIz39dDgNen"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338386,
+      "name": "Mali-Cuba",
+      "url": "https://open.spotify.com/track/74Ykt11QjnBJn2l0RL0pof"
     },
     {
       "album": {
@@ -26565,10 +26641,28 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 258146,
       "name": "More Creation",
       "url": "https://open.spotify.com/track/0UEFVv1SWszuI53WXwKfSv"
+    },
+    {
+      "album": {
+        "name": "Studio One Roots",
+        "url": "https://open.spotify.com/album/4XrqSWQAG0rocpVBEPtr5g"
+      },
+      "artists": [
+        {
+          "name": "Lennie Hibbert",
+          "url": "https://open.spotify.com/artist/5t4dVHPMK33Uj2B89FSnW2"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258146,
+      "name": "More Creation",
+      "url": "https://open.spotify.com/track/3QLxuwWBC8VpqnhhPUmfBv"
     },
     {
       "album": {
@@ -26637,10 +26731,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 126720,
       "name": "Morre O Burro, Fica O Homem",
       "url": "https://open.spotify.com/track/1uQbyC6EdqLjAfMc20V5LT"
+    },
+    {
+      "album": {
+        "name": "Ben",
+        "url": "https://open.spotify.com/album/0LOy0Q27F8JLmTHVb8b51g"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126733,
+      "name": "Morre O Burro, Fica O Homem",
+      "url": "https://open.spotify.com/track/2sOp8WCqIS08NUD8NoCiP8"
     },
     {
       "album": {
@@ -31089,10 +31201,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 172666,
       "name": "President Kennedy",
       "url": "https://open.spotify.com/track/3rRAWOWdm28WhJv63SkJYZ"
+    },
+    {
+      "album": {
+        "name": "Studio One Ska",
+        "url": "https://open.spotify.com/album/3O9n9gyAdlqhlm2bZqkxVu"
+      },
+      "artists": [
+        {
+          "name": "Roland Alphonso",
+          "url": "https://open.spotify.com/artist/3AxcTqkr4hkBaUEU7J4mSn"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172666,
+      "name": "President Kennedy",
+      "url": "https://open.spotify.com/track/6pYG4bir8uVcM6jvNRpT6o"
     },
     {
       "album": {
@@ -38889,6 +39019,24 @@
       "duration_ms": 221800,
       "name": "Uzun \u0130nce Bir Yolday\u0131m",
       "url": "https://open.spotify.com/track/4gtjMBsO5rtzIslVw7t6Vj"
+    },
+    {
+      "album": {
+        "name": "Vallahi Yok / Kirik Cam",
+        "url": "https://open.spotify.com/album/5vItyofUlifKHKLabwy3hC"
+      },
+      "artists": [
+        {
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277810,
+      "name": "Vallahi Yok",
+      "url": "https://open.spotify.com/track/22TIuZCNYKuuXmkA4rIY0V"
     },
     {
       "album": {

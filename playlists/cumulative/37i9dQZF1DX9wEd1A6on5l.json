@@ -6340,8 +6340,8 @@
           "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
         },
         {
-          "name": "BNYX",
-          "url": "https://open.spotify.com/artist/4kuF7yS9DIeTXrnOvffJkV"
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
         },
         {
           "name": "Jeriq",
@@ -6631,7 +6631,7 @@
     },
     {
       "album": {
-        "name": "Shadow",
+        "name": "shadow",
         "url": "https://open.spotify.com/album/2IFdqPlm98pTA57pt9iTdU"
       },
       "artists": [
@@ -6648,7 +6648,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 160280,
-      "name": "Shadow",
+      "name": "shadow",
       "url": "https://open.spotify.com/track/6Jllvxl97ni5T2bW3zEDGi"
     },
     {

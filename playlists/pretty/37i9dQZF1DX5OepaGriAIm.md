@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,001 likes - 132 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,065 likes - 132 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 110 | [I'm Afraid the Masquerade Is Over](https://open.spotify.com/track/6mXID0DbyA7qBZVLPZ1yXg) | [Jennifer Leitham](https://open.spotify.com/artist/0mmZkzRQaoA1sn7iB8XvbB) | [Mood\(S\)wings](https://open.spotify.com/album/4XiJAy1fNIsCdbwpvVofBK) | 7:25 |
 | 111 | [Stand by me](https://open.spotify.com/track/2muiX4tWrBQP8lqyntgKaB) | [Buika](https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy), [Jacob Sureda](https://open.spotify.com/artist/3gE03pCkb7C12o6c4BNX8u) | [Mestizüo](https://open.spotify.com/album/6a0PDaf3EreMYF04InjuVg) | 7:22 |
 | 112 | [Slow Loris](https://open.spotify.com/track/5BuiyW6PabP5e6Us6EfgUu) | [Dinosaur](https://open.spotify.com/artist/6SmZi1l1V08Xya4YqJf8WB) | [To The Earth](https://open.spotify.com/album/4zJ7oNUcSFqpwKrsdqMFLM) | 7:25 |
-| 113 | [Everything Happens to Me](https://open.spotify.com/track/44DiSGodp1YooCyJfI2aeQ) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6) | 3:47 |
+| 113 | [Everything Happens to Me](https://open.spotify.com/track/7qFaoRVHhqowCFEi3McfkF) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/7odhq8nBHDrTgYXIuV6g23) | 3:47 |
 | 114 | [Summertime](https://open.spotify.com/track/7hPTKT0j7mEn9lBKerFtit) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Take To The Sky](https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2) | 5:12 |
 | 115 | [Still](https://open.spotify.com/track/40M2UuFiZujtoCeqLXdXjD) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Robertson](https://open.spotify.com/artist/5Oc8E5NEXYp98fctQhH1po), [Danny Fischer](https://open.spotify.com/artist/2yzTBNWC2oYud1uy2PJRni) | [Still](https://open.spotify.com/album/6BtP6eE1CCGjrJIHZczis1) | 3:47 |
 | 116 | [The Sound of Silence](https://open.spotify.com/track/2edcrXwukRbhYa5NuM6MT1) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [The Sound Of Silence](https://open.spotify.com/album/2Bny0aown7avMvSdGJC07u) | 3:01 |
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 126 | [Strange Fruit](https://open.spotify.com/track/1CTex49P0iWwzUGsMNjgaV) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:12 |
 | 127 | [Monday](https://open.spotify.com/track/4FYmHTavxSVFUPyM2GUpPb) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [For One to Love](https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu) | 2:01 |
 | 128 | [I Know You Know](https://open.spotify.com/track/3afeZ81GDy59tATovKyH6Z) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Esperanza](https://open.spotify.com/album/7188JsHTl3rladofF7CVvW) | 3:45 |
-| 129 | [Mudita: Joy](https://open.spotify.com/track/7jBBkjnpXuWhZFchO6JR5Z) | [Josephine Davies](https://open.spotify.com/artist/6t8vZFJbrIDqBun3WkEJFU), [James Maddren](https://open.spotify.com/artist/6ke4GTfhO9er0IPiwHW1Zw), [Dave Whitford](https://open.spotify.com/artist/7zhd5XvpOfFd7LDrGTchzZ) | [Satori: How Can We Wake?](https://open.spotify.com/album/0uz84EqjGJsYqPc22smFiP) | 8:56 |
+| 129 | [Mudita: Joy](https://open.spotify.com/track/3FrEn7GeMabQxA6ToPeRBO) | [Josephine Davies](https://open.spotify.com/artist/6t8vZFJbrIDqBun3WkEJFU), [Dave Whitford](https://open.spotify.com/artist/7zhd5XvpOfFd7LDrGTchzZ), [James Maddren](https://open.spotify.com/artist/6ke4GTfhO9er0IPiwHW1Zw) | [Satori: How Can We Wake?](https://open.spotify.com/album/71kTCNV1nSvkzM8nOnrzkR) | 8:56 |
 | 130 | [Nobody Knows You When You're Down and Out](https://open.spotify.com/track/5nrpIB2dVUvhRUs5R9YJ3W) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 4](https://open.spotify.com/album/1L3EizQze12QVLvn1znwcT) | 2:56 |
 | 131 | [Lullaby Of Birdland](https://open.spotify.com/track/5z161QQZMgQxSILnv3QoJk) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 4:00 |
 | 132 | [My Favourite Things](https://open.spotify.com/track/5RzDUxNC7hKjr8eTEX8n6b) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:38 |

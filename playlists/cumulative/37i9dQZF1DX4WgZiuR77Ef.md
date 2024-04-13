@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-223 songs - 15 hr 42 min
+224 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Bad Mother](https://open.spotify.com/track/4xljuYgtxgfNAHqRXJDjMe) | [The Gold Setting](https://open.spotify.com/artist/75Vs0ljvN9S4DAvNTfwSoH), [Liza Colby](https://open.spotify.com/artist/5bTibFXwZmP1FhKiHcX5iX), [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe) | [Bad Mother](https://open.spotify.com/album/4sdGVLaafBIyRwceP96FnR) | 2:54 | 2021-04-09 |  |
 | [Bay B\. MoMa](https://open.spotify.com/track/60gfsjq0ZiSeTNozFfO8bl) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw) | [Bay B\. MoMa](https://open.spotify.com/album/6MkQxVuiyhDEXCL2JttDbc) | 4:02 | 2022-07-01 |  |
 | [Beautiful Dreams](https://open.spotify.com/track/3lClFv9E9nNuq5fcbCmjIT) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [Beautiful Dreams](https://open.spotify.com/album/1eOToL1BMJjcG6sR8gzUPT) | 4:06 | 2023-06-30 |  |
-| [Better Off Dead \(feat\. Nikki Lane\)](https://open.spotify.com/track/4HGyzxbytL3DHMt7b2ZdDt) | [Boulevards](https://open.spotify.com/artist/1OO2uAMcUCXUkFzDdsr7x7), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Electric Cowboy: Born In Carolina Mud](https://open.spotify.com/album/7uMzDIJ4UbE8aCKZCTareh) | 4:09 | 2021-11-19 |  |
+| [Better Off Dead \(feat\. Nikki Lane\)](https://open.spotify.com/track/1cBEYZv1y4XmYS7oryIYYT) | [Boulevards](https://open.spotify.com/artist/1OO2uAMcUCXUkFzDdsr7x7), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Electric Cowboy: Born In Carolina Mud](https://open.spotify.com/album/4rxzFrDrzoGfnBptKhEzxN) | 4:09 | 2021-11-19 |  |
+| [Better Off Dead \(feat\. Nikki Lane\)](https://open.spotify.com/track/4HGyzxbytL3DHMt7b2ZdDt) | [Boulevards](https://open.spotify.com/artist/1OO2uAMcUCXUkFzDdsr7x7), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Electric Cowboy: Born In Carolina Mud](https://open.spotify.com/album/7uMzDIJ4UbE8aCKZCTareh) | 4:09 | 2021-11-19 | 2024-04-13 |
 | [Better Off Dead \(feat\. Nikki Lane\)](https://open.spotify.com/track/578IWecGEFe6XkbAd6iDis) | [Boulevards](https://open.spotify.com/artist/1OO2uAMcUCXUkFzDdsr7x7), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Better Off Dead](https://open.spotify.com/album/6LrcNG6dzsOjFB1gctkn7Z) | 4:09 | 2021-11-19 | 2022-07-29 |
 | [Bewise](https://open.spotify.com/track/0F95zronVQU2C77EN15kny) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Bewise](https://open.spotify.com/album/1EeQWZK8nAfOHHXe95DlTc) | 3:43 | 2021-07-30 |  |
 | [Black Rhythm Happening](https://open.spotify.com/track/1OBGwJ6cCv4QYRcPlb67IQ) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Black Rhythm Happening](https://open.spotify.com/album/5L1apjgVkSAKuWQZyuqmRz) | 3:34 | 2021-10-29 |  |

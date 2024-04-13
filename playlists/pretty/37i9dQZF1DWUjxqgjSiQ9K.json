@@ -1,29 +1,13 @@
 {
   "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:4VMYDCV2IEDYJArk749S6m\">Daddy Yankee</a>",
-  "num_followers": 605398,
+  "num_followers": 605569,
   "original_name": "\u00c9xitos Cristianos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjI4OTYwMCwwMDAwMDAwMDI3NTU3NzNjYzYwYWJmODU2NjJlNzZmYTJhZDEwNWE0",
+  "snapshot_id": "MTcxMjg5NDQwMCwwMDAwMDAwMDIwY2YxZTdkYzZlOGJjNmY3NzBkNWE0NWNkOTZmZDZi",
   "tracks": [
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Donante de Sangre",
-        "url": "https://open.spotify.com/album/2YWkq261ekVyIFsm9LpvB6"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Donante de Sangre",
-      "url": "https://open.spotify.com/track/1HtO3fFig35Hj12m6luK0u"
-    },
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
@@ -47,6 +31,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Donante de Sangre",
+        "url": "https://open.spotify.com/album/2YWkq261ekVyIFsm9LpvB6"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Donante de Sangre",
+      "url": "https://open.spotify.com/track/1HtO3fFig35Hj12m6luK0u"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "El Dios de lo imposible (Live)",
         "url": "https://open.spotify.com/album/160ozK0qNJp7JPXzkvxvG7"
       },
@@ -59,6 +59,26 @@
       "duration_ms": 361353,
       "name": "El Dios De Lo Imposible - Live",
       "url": "https://open.spotify.com/track/4MNQonR3jV5gp70KqWu3d3"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/68onMdEK5YRDd1X5wIf5Fi"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "LUISFER",
+          "url": "https://open.spotify.com/artist/3UDUwxXkYG6a6drtZm4CUN"
+        }
+      ],
+      "duration_ms": 418951,
+      "name": "Otra vez",
+      "url": "https://open.spotify.com/track/7adfK4ymN04aDhjfBW1IJ6"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -75,6 +95,26 @@
       "duration_ms": 306666,
       "name": "Tienes El Control - Ac\u00fastico, En Vivo",
       "url": "https://open.spotify.com/track/1BTsCk6t5XfCVySWgg4gJX"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Chuvas",
+        "url": "https://open.spotify.com/album/7qo5mcEMgXfEno6fve5svr"
+      },
+      "artists": [
+        {
+          "name": "MIMY",
+          "url": "https://open.spotify.com/artist/0vN6lKXMJ1sjp8PuWqYYtK"
+        },
+        {
+          "name": "Klebson Kollins",
+          "url": "https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH"
+        }
+      ],
+      "duration_ms": 312354,
+      "name": "Chuvas",
+      "url": "https://open.spotify.com/track/6tyn38PlOFo0ga9SyivTnB"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -113,6 +153,22 @@
       "url": "https://open.spotify.com/track/5jD4LYK6ptxiGVHGdxQ7o6"
     },
     {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Eres Grande",
+        "url": "https://open.spotify.com/album/2c30lDtKlhRqrfjaBdPBD7"
+      },
+      "artists": [
+        {
+          "name": "Ayrton Day",
+          "url": "https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um"
+        }
+      ],
+      "duration_ms": 224258,
+      "name": "Eres Grande",
+      "url": "https://open.spotify.com/track/00THd4snJCmh5hjKDY14dO"
+    },
+    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "Adoraci\u00f3n II",
@@ -143,6 +199,22 @@
       "duration_ms": 285413,
       "name": "Todo Es Posible",
       "url": "https://open.spotify.com/track/24NGuW6DcoTZxyXofAGSOh"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "En Hora Buena",
+        "url": "https://open.spotify.com/album/3DiinkzXINjkCE0oFRhvxK"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 196668,
+      "name": "En Hora Buena",
+      "url": "https://open.spotify.com/track/06fsPaXoYro5HIhlgcNsWC"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1991,30 +2063,6 @@
       "duration_ms": 195584,
       "name": "Milagro de Amor",
       "url": "https://open.spotify.com/track/4FkwzleyGqcBmEqrFZ8RKz"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "El Rey Jud\u00edo",
-        "url": "https://open.spotify.com/album/3EpigUb6xOe8aTV9MWQmiN"
-      },
-      "artists": [
-        {
-          "name": "Felipe S. Santos",
-          "url": "https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ"
-        },
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Laura Souguellis",
-          "url": "https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2"
-        }
-      ],
-      "duration_ms": 333267,
-      "name": "El Rey Jud\u00edo",
-      "url": "https://open.spotify.com/track/26uRpmqdNBbm2x8lWhxT4p"
     }
   ],
   "unique_name": "\u00c9xitos Cristianos",

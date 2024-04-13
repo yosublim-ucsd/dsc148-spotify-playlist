@@ -1,13 +1,45 @@
 {
-  "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 56102,
+  "description": "The best in blues right now. Cover: Toronzo Cannon",
+  "num_followers": 56116,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjI4OTY2MCwwMDAwMDAwMDg0NWRmOTc3YjBlYzkzMDI5NWE4ZGY2YTc3NzVhOGVi",
+  "snapshot_id": "MTcxMjg5NDQ2MCwwMDAwMDAwMDBlZmJmMDllN2NiZDI1NTYwNWIzYjJjMDY4MDc3NjQ4",
   "tracks": [
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Can't Fix The World",
+        "url": "https://open.spotify.com/album/4JeL7F0hiycVVfYfkMOKIB"
+      },
+      "artists": [
+        {
+          "name": "Toronzo Cannon",
+          "url": "https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Can't Fix The World",
+      "url": "https://open.spotify.com/track/7ogGQUN9oT3rMX2Jd8VaeP"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Devil In Me",
+        "url": "https://open.spotify.com/album/5ofOvPpwP7rsn4JsHEDLlj"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 181933,
+      "name": "Devil In Me",
+      "url": "https://open.spotify.com/track/2QpsQclk1kxSVZ0kX5OQVs"
+    },
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {
@@ -175,22 +207,6 @@
       "duration_ms": 309653,
       "name": "These Eyes",
       "url": "https://open.spotify.com/track/0OmQOtewFFJX5Mmnu3siNk"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "Heavy Soul",
-        "url": "https://open.spotify.com/album/3ErX87cvZzUDipGiJsoepu"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 308573,
-      "name": "Heavy Soul",
-      "url": "https://open.spotify.com/track/3aZtRvQ7PvcquxVGjNYJDZ"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1175,8 +1191,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Ace Of Spades",
-        "url": "https://open.spotify.com/album/2BcHzSdwa2qEiGPNznEqRK"
+        "name": "Ace Of Blues",
+        "url": "https://open.spotify.com/album/4VBJD561gFAMKctx5vLyk0"
       },
       "artists": [
         {
@@ -1186,7 +1202,7 @@
       ],
       "duration_ms": 156973,
       "name": "Ace Of Spades",
-      "url": "https://open.spotify.com/track/2sgbiJ65zw8fUEWEiW9yAH"
+      "url": "https://open.spotify.com/track/7q1E64SIbT2cmkiRSjZmZe"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1707,22 +1723,6 @@
       "duration_ms": 147106,
       "name": "Here I'm Is",
       "url": "https://open.spotify.com/track/45DxmdLBAjYelavuazYJhg"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "The Future Ain't What It Used to Be",
-        "url": "https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035"
-      },
-      "artists": [
-        {
-          "name": "Seth Walker",
-          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
-        }
-      ],
-      "duration_ms": 200987,
-      "name": "The Future Ain't What It Used to Be",
-      "url": "https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO"
     }
   ],
   "unique_name": "Got Blues",

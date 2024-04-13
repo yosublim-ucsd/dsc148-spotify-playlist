@@ -4,7 +4,7 @@
 
 > Let these country tunes light up your day
 
-91 songs - 5 hr 33 min
+93 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [My Medicine](https://open.spotify.com/track/5jeXDGMNkY8G2bPsHLaNnm) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Ego Trippin'](https://open.spotify.com/album/5EtVXHkqYV1ebAoYNDFmmY) | 2:39 | 2022-04-20 | 2023-08-21 |
 | [No Stone Unturned](https://open.spotify.com/track/6ePOIK1QboDEYxhR0ZccTG) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Magnolia](https://open.spotify.com/album/0JNnoUpkLCLzdI9pIfWfQi) | 4:21 | 2023-04-20 |  |
 | [No Stone Unturned](https://open.spotify.com/track/6iFZZn1BcsHzSP13598ujN) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Magnolia](https://open.spotify.com/album/7sRSL1KG2nyd8qkdA3YhFg) | 4:21 | 2021-04-20 | 2023-11-11 |
-| [Old Familiar Drunken Feeling](https://open.spotify.com/track/2slmd60iUQz0tGUObmVX0d) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Old Familiar Drunken Feeling](https://open.spotify.com/album/1WA2SE1Wl91iWGLCSBTjLW) | 5:08 | 2023-11-28 |  |
+| [Old Familiar Drunken Feeling](https://open.spotify.com/track/0ppYyjGcfagGMX29kMsMCZ) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [El Viejo](https://open.spotify.com/album/74kf4FDvoAKiiI8NUv3W2J) | 5:08 | 2023-11-28 |  |
+| [Old Familiar Drunken Feeling](https://open.spotify.com/track/2slmd60iUQz0tGUObmVX0d) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Old Familiar Drunken Feeling](https://open.spotify.com/album/1WA2SE1Wl91iWGLCSBTjLW) | 5:08 | 2023-11-28 | 2024-04-13 |
 | [One Toke Over the Line](https://open.spotify.com/track/5NU6nNizcd38J1xJi1tGXE) | [Brewer & Shipley](https://open.spotify.com/artist/4bx9rfUR9C0H26TEiVCwdi) | [Tarkio Road](https://open.spotify.com/album/5lHnXRX9sgB9aGo6r3lcdG) | 3:19 | 2021-04-20 |  |
 | [Our Grass Is Legal](https://open.spotify.com/track/5WREsIXrQ8pleixunsClED) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Raised](https://open.spotify.com/album/7tjtI8UJuD7gwNW7lBesUc) | 4:12 | 2022-04-20 |  |
 | [Paid My Dues \(feat\. Jack Ingram\)](https://open.spotify.com/track/6zEdC244iXLmU9JfQzidAU) | [Bruce Robison](https://open.spotify.com/artist/5cqtplMyw7hPLjW47Jr7Uq), [Jack Ingram](https://open.spotify.com/artist/6VQGYwqcmPDtqfVTSDqBgp) | [Bruce Robison & the Back Porch Band](https://open.spotify.com/album/63OvteRfdrITCzn2km5Yln) | 3:22 | 2021-11-26 | 2023-08-21 |
@@ -83,7 +84,8 @@
 | [Toes](https://open.spotify.com/track/1bcaC0Uup0m4snqBVpbzB9) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Happy: 100 Songs](https://open.spotify.com/album/34flUZLzE6Mj5wq0DK1qEX) | 4:22 | 2022-09-23 | 2022-11-13 |
 | [Toes](https://open.spotify.com/track/4S518ci8UY4op0Xyp6Hx6o) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 4:22 | 2022-04-20 |  |
 | [Toes](https://open.spotify.com/track/5kjyiH6but1t2UDXq15aeS) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/0Im5nUhAuNDSYVjfPh7RyS) | 4:22 | 2021-04-20 | 2022-07-29 |
-| [Up and Rolling](https://open.spotify.com/track/3DV89v9FL64amLAczhsLsN) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Up and Rolling](https://open.spotify.com/album/2OxqHZPJd4es0y2uHzcSo8) | 5:03 | 2021-04-20 |  |
+| [Up and Rolling](https://open.spotify.com/track/3DV89v9FL64amLAczhsLsN) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Up and Rolling](https://open.spotify.com/album/2OxqHZPJd4es0y2uHzcSo8) | 5:03 | 2021-04-20 | 2024-04-13 |
+| [Up and Rolling](https://open.spotify.com/track/7djpYBtiqxvuqTZluG5NXg) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Up and Rolling](https://open.spotify.com/album/6NtWoSCiQ5l08w49f2OmR6) | 5:03 | 2023-04-20 |  |
 | [Wacky Tobaccy](https://open.spotify.com/track/7hhhV61dsJvZmS526eGC1f) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Wacky Tobaccy](https://open.spotify.com/album/79eHDbyQCmBL1H44R4riog) | 3:02 | 2021-04-20 |  |
 | [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8) | 4:58 | 2021-04-20 |  |
 | [Wasted and Rollin'](https://open.spotify.com/track/5dpvpHFvkiwUl4aVQ5WKPn) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Down Fell the Doves](https://open.spotify.com/album/6DVHMSBPHdJ42Okvp5QJ9X) | 3:52 | 2021-11-26 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 182744,
+  "2024-04-13": 182791,
   "date_first_scraped": "2023-08-25",
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Zoe Gotusso",
   "name": "Modo Ac\u00fastico",
@@ -896,6 +896,28 @@
     },
     {
       "album": {
+        "name": "Escorpio (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5sU9af4bNsE96gZVXrXBjl"
+      },
+      "artists": [
+        {
+          "name": "Cata Raybaud",
+          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
+        },
+        {
+          "name": "Madame R\u00e9camier",
+          "url": "https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203859,
+      "name": "Escorpio - Acoustic Version",
+      "url": "https://open.spotify.com/track/571JXQi27kn8wl87BfZgz6"
+    },
+    {
+      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
       },
@@ -979,7 +1001,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 256708,
       "name": "Flotando (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"

@@ -1,7 +1,7 @@
 {
-  "2024-04-12": 176028,
+  "2024-04-13": 176116,
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Dadju x Tayc",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Jo\u00e9 Dw\u00e8t Fil\u00e9",
   "name": "R&Bae",
   "tracks": [
     {
@@ -303,7 +303,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 180166,
       "name": "Baby Love",
       "url": "https://open.spotify.com/track/6N9Ut7goNThhDJFEyX8AZ7"
@@ -1168,6 +1168,24 @@
     },
     {
       "album": {
+        "name": "Dans son tel",
+        "url": "https://open.spotify.com/album/3Ua1IfFgIPVlD9aiNGD2AG"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Nov",
+          "url": "https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226599,
+      "name": "Dans son tel",
+      "url": "https://open.spotify.com/track/45hdgr7UGtAFE8aN8aQI10"
+    },
+    {
+      "album": {
         "name": "Demoiselle",
         "url": "https://open.spotify.com/album/3d84xx6ylXxDnLMQIzMHF4"
       },
@@ -1587,6 +1605,24 @@
       "duration_ms": 181855,
       "name": "FAIS COMME SI",
       "url": "https://open.spotify.com/track/6RuiQmOMRgjmJetS5LSven"
+    },
+    {
+      "album": {
+        "name": "Fatigu\u00e9",
+        "url": "https://open.spotify.com/album/2FB1K8aX5aMJulT3PIn5eC"
+      },
+      "artists": [
+        {
+          "name": "Louzio",
+          "url": "https://open.spotify.com/artist/1RpZELzUnXRdGMTrKB72WU"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158260,
+      "name": "Fatigu\u00e9",
+      "url": "https://open.spotify.com/track/7xWedF510xKrMoLrhHHRMn"
     },
     {
       "album": {
@@ -3089,6 +3125,24 @@
       "duration_ms": 170974,
       "name": "Maux de t\u00eate",
       "url": "https://open.spotify.com/track/13D5HrejdIzNzPnaQjnx0N"
+    },
+    {
+      "album": {
+        "name": "GOUMIN TERMIN\u00c9",
+        "url": "https://open.spotify.com/album/4Mg5umCU5pSuHhPcQL3p5f"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190413,
+      "name": "Merci \u00e0 mon ex",
+      "url": "https://open.spotify.com/track/62oV66GdctcTKgq0QfyCRt"
     },
     {
       "album": {
@@ -4597,7 +4651,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 172000,
       "name": "SOS",
       "url": "https://open.spotify.com/track/51rmQPxpkfDxyhz44KtCvY"
@@ -5189,7 +5243,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 191416,
       "name": "Warda",
       "url": "https://open.spotify.com/track/1LSz924w38ZryrV1nGnFIV"

@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 13636,
+  "2024-04-13": 13638,
   "date_first_scraped": "2022-05-31",
   "description": "From the jazzy, up-beat New Orleans blues to the slower, zydeco and Cajun-influenced Swamp blues. Cover: Kenny Neal",
   "name": "Louisiana Blues",
@@ -623,7 +623,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 241268,
       "name": "New Orleans",
       "url": "https://open.spotify.com/track/0EUBaxr51xLCQPmNZxGfTR"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 241268,
       "name": "New Orleans",
       "url": "https://open.spotify.com/track/0wyqkOP61KLRso4a8mABBF"

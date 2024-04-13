@@ -2,7 +2,7 @@
 
 ### [Gengetone Fire](https://open.spotify.com/playlist/37i9dQZF1DX80fLED6RkGS)
 
-> Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz?si=XXV\_jXQVQkSGDRAmSK\-IrA"> Chris Kaiga </a>
+> Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/album/0O86y1QkJj0HZU5mYdnKgH?si=r16DGPO\_T\_WsK\-A7UzwYxA"> Boutross </a>
 
 351 songs - 18 hr 55 min
 

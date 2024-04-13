@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,285 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,302 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 | 53 | [Soul On Fire](https://open.spotify.com/track/4Qq0xEgR45Lf7iGpv6t0vD) | [Saint Jude](https://open.spotify.com/artist/5bk7jL6NrCWUqdtZ6t9m8z) | [Diary of a Soul Fiend](https://open.spotify.com/album/5doTWaDPG8coY3SR6SQQc3) | 3:44 |
 | 54 | [Vixen Eyes](https://open.spotify.com/track/4KIY1A23VXJZjSlaRFzgTC) | [Gugun Power Trio](https://open.spotify.com/artist/0QnRd6i7Da4louZggkoFrg) | [Solid Ground](https://open.spotify.com/album/75DywChZtKY2f4xAKBrAso) | 4:16 |
 | 55 | [Who Do You Love?](https://open.spotify.com/track/4v4zFRDRkXyGPTRyYur26i) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Diamonds In The Dirt](https://open.spotify.com/album/7qev8XrmWI1pqJBkXqLcVT) | 3:07 |
-| 56 | [Open Road](https://open.spotify.com/track/34s9HDYhfFQW3LrSIP2ePh) | [Oli Brown](https://open.spotify.com/artist/2b5hTGWhfcA88PyeZAJ3Ma) | [Open Road](https://open.spotify.com/album/2xwxnmPhiK1NaWXupoz36k) | 3:47 |
+| 56 | [Open Road](https://open.spotify.com/track/4kAOHwPEBawS1znACiyuqA) | [Oli Brown](https://open.spotify.com/artist/2b5hTGWhfcA88PyeZAJ3Ma) | [Open Road](https://open.spotify.com/album/1L2NhLHg4muWzR7cHpriPb) | 3:47 |
 | 57 | [Love Sweet Love](https://open.spotify.com/track/1N47m6es1ruoERTpLByl8V) | [Anthony Gomes](https://open.spotify.com/artist/0aBEiafPqEJ3o0yp6gFsHg) | [Up 2 Zero](https://open.spotify.com/album/0PPpXI50qweR3lbhDL0Yb7) | 3:29 |
 | 58 | [Find a Way](https://open.spotify.com/track/4PTfrK6IhnTOd7SRpH17EK) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 3:56 |
 | 59 | [Just in Case](https://open.spotify.com/track/3lUHPnOMQBlLjkUs6ZpHkI) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Live from Pama Studio 1](https://open.spotify.com/album/2qT9oFDjZSpNiJ7PZPmkXO) | 3:59 |

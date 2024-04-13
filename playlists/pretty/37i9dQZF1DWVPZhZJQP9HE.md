@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,621 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,646 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 35 | [Anniku Raathiri](https://open.spotify.com/track/3bf3IZr936SL0d45m8xlWo) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Anniku Raathiri](https://open.spotify.com/album/30o1lvT2QicxFzEwo2nloP) | 3:13 |
 | 36 | [Edho Unnale](https://open.spotify.com/track/7FNKAUfUFqnK3hmQdaL38D) | [Praveen Arris](https://open.spotify.com/artist/1owcWmHWTwVlRWjYJA2YE8), [Sai Vignesh](https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS), [Darini Hariharan](https://open.spotify.com/artist/5MYdWjprWPQD05hTPmRd8E) | [Edho Unnale](https://open.spotify.com/album/2w92uIb1AtSnh6CqQxwvOQ) | 3:03 |
 | 37 | [Poi Alternative](https://open.spotify.com/track/70yzpqshi0ZQqDFzdK5yzc) | [Kaber Vasuki](https://open.spotify.com/artist/7dDSQfbUWrNvRqpNP92slb), [BIGSAM](https://open.spotify.com/artist/4DjnU0Is1P3CXnyew0mt3m) | [Poi Alternative](https://open.spotify.com/album/4xlpASEJ1p4tEG12KNd2YM) | 4:27 |
-| 38 | [Thamarai Poovilum](https://open.spotify.com/track/1Rs4zHwr6JWFyHKj0ucv4K) | [Ram Muthiah](https://open.spotify.com/artist/6FmTbZeAj6lhscs3PLXVUa), [Sai Madhukar](https://open.spotify.com/artist/0Zt595ddYyhnoQN42mt4OT), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Thamarai Poovilum](https://open.spotify.com/album/32mPyTwlznacWc17apgBvl) | 5:30 |
+| 38 | [Thamarai Poovilum](https://open.spotify.com/track/5KDOstMGWmTNnpJeGnEBcV) | [Ram Muthiah](https://open.spotify.com/artist/6FmTbZeAj6lhscs3PLXVUa), [Sai Madhukar](https://open.spotify.com/artist/0Zt595ddYyhnoQN42mt4OT), [Thavakkumar L](https://open.spotify.com/artist/0BaOOBuR8vFl0buwwOmiLq), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Thamarai Poovilum](https://open.spotify.com/album/24HbIZCOVx6QnUVK5m3brj) | 5:30 |
 | 39 | [Veeravanam](https://open.spotify.com/track/4P1Qy4eK05sYjTFZ09obxk) | [Jerard Felix](https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [Diwakar](https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD) | [Veeravanam](https://open.spotify.com/album/745ccUUYi14azC9MOCzww0) | 4:36 |
 | 40 | [Iru Manam](https://open.spotify.com/track/6ZVd1A70cnjzCk0pCwwrdd) | [Kalyani Nair](https://open.spotify.com/artist/38ICMLYuHXcYd3HrZiEdds), [The Indian Choral Ensemble](https://open.spotify.com/artist/4Rp2Fp4kllqWQWZLbEZgm3) | [Iru Manam](https://open.spotify.com/album/3GgDGawA8WetpOIMvQmcuP) | 5:56 |
 | 41 | [Parotta Varatta](https://open.spotify.com/track/0NUotMW1flHmN2sEprkak8) | [Thejas Krishna](https://open.spotify.com/artist/485YsYvNnyDA6LZOq4BGA2), [Roshan B.S.](https://open.spotify.com/artist/1ihN77vdgnpkSZswoLp6gM) | [Parotta Varatta](https://open.spotify.com/album/5pSVvX0fC1YJ29dK395M6g) | 3:50 |

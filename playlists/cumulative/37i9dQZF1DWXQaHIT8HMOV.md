@@ -2,9 +2,9 @@
 
 ### [Made In Uganda](https://open.spotify.com/playlist/37i9dQZF1DWXQaHIT8HMOV)
 
-> Homegrown Ugandan hits in one playlist\. Cover: Vinka
+> Homegrown Ugandan hits in one playlist\. Cover: Victor Ruz
 
-270 songs - 14 hr 2 min
+272 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Chop Life](https://open.spotify.com/track/67C63vdbFde7T1Mj1QH4Jq) | [Viboyo Oweyo](https://open.spotify.com/artist/4nNWboFa5mjFsHBVTx2zcy), [Whisper Acon](https://open.spotify.com/artist/3kFyZYflThSwTDNLnU5F8W) | [Hand Made Triumph \(Omupambanyi\)](https://open.spotify.com/album/1Eoq5CtZFKHJ7bDXy6rq56) | 3:14 | 2024-02-02 | 2024-02-17 |
 | [Cinderella](https://open.spotify.com/track/4HUfDL3FITibpGatbGUw6f) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM), [An\-Known](https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ) | [Cinderella](https://open.spotify.com/album/2zWi7EGBKMpwU8VDLib9r2) | 3:47 | 2023-02-10 | 2024-02-03 |
 | [Clock](https://open.spotify.com/track/3hwqcsoXvbq2n0USeZCttL) | [Mark Stel](https://open.spotify.com/artist/1UdEDQFkWIBAfTgJVPAx1U), [ALLAN TONIKS](https://open.spotify.com/artist/5uLEt18awSsO8Ne5gkxM9s) | [Clock](https://open.spotify.com/album/2M1ox2H825rpzaOovVvGLd) | 2:56 | 2022-12-02 | 2023-02-01 |
+| [Commander](https://open.spotify.com/track/0qy7wQ1yDQO6zNwzHd3Kmk) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl) | [Commander](https://open.spotify.com/album/6zG9mpL0l0Y914JBs63i58) | 2:57 | 2024-04-12 |  |
 | [Craving You Heavy \- Remix](https://open.spotify.com/track/5XmgrluGBLUa3JhKyiUVUL) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [AFRICAN MUSIC \(Deluxe\)](https://open.spotify.com/album/7HDi7WEWMN9ZhnNPo2lMx8) | 3:20 | 2024-03-15 | 2024-04-06 |
 | [Crazy \(Mutwe\)](https://open.spotify.com/track/3ThEef9saIuUggNzBZOg4s) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Mun G](https://open.spotify.com/artist/4YRE1c6l4kkNRfT1sXCjEU) | [Crazy \(Mutwe\)](https://open.spotify.com/album/4dnmFaGd53nFSvCcQQE0PH) | 3:07 | 2024-02-23 | 2024-03-02 |
 | [Dai](https://open.spotify.com/track/0Z0NfTjSEIv8REnMt8z7W6) | [Afrie](https://open.spotify.com/artist/4jY6R19KcBOgfVoYcFRGmx) | [Sunflowers in Sahara \(SiS\)](https://open.spotify.com/album/6qtPTO6Ob7N3j59FV2AGb8) | 3:05 | 2024-02-02 | 2024-02-04 |
@@ -125,7 +126,7 @@
 | [Kyekiliwo](https://open.spotify.com/track/5n3YEFEO4K5AvHIHkyZCg6) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq) | [Kyekiliwo](https://open.spotify.com/album/3sf7zqF8HY4XUTiAVn4RU6) | 2:55 | 2023-12-08 |  |
 | [Leaving Summer](https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [Leaving Summer](https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT) | 2:37 | 2022-09-09 | 2024-01-08 |
 | [Leega](https://open.spotify.com/track/6wTXqwgEhXfdxYZOKEAtqP) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Leega](https://open.spotify.com/album/40CrG5iYzKczTp0xHbUaN2) | 3:34 | 2023-04-14 | 2023-05-03 |
-| [Leega](https://open.spotify.com/track/2Lpak3zl9w7BwzpRh1Nfmm) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Leega](https://open.spotify.com/album/6NUZuzbhXknUU3P3XDCv8W) | 3:36 | 2023-12-08 |  |
+| [Leega](https://open.spotify.com/track/2Lpak3zl9w7BwzpRh1Nfmm) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Leega](https://open.spotify.com/album/6NUZuzbhXknUU3P3XDCv8W) | 3:36 | 2023-12-08 | 2024-04-13 |
 | [Let It Play](https://open.spotify.com/track/0DbRMauNkXY78bzmB1fa6B) | [Senté](https://open.spotify.com/artist/32m0wHk6SnWDu626fxJnO8), [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Let It Play](https://open.spotify.com/album/1ucEK6a8nB1piGe2HGMtZW) | 2:20 | 2024-02-09 |  |
 | [Let Me Be](https://open.spotify.com/track/4lRjzQQEmIHIJGOTC0EnMp) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Let Me Be](https://open.spotify.com/album/42moN4auHkzRwvmCe1IV03) | 2:59 | 2023-06-09 | 2023-07-24 |
 | [LIFIST](https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [LIFIST](https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO) | 3:34 | 2022-06-24 | 2023-02-05 |
@@ -160,7 +161,7 @@
 | [Mufele \- Radio Edit](https://open.spotify.com/track/2MSgpEYfJpDa4j9g6R32Lm) | [Angella Katatumba](https://open.spotify.com/artist/1xiwy2IYNqMyae2Eot9nCH) | [Mufele](https://open.spotify.com/album/2FyvNRC4xnpeWTIMRXWxEA) | 2:21 | 2022-09-22 | 2022-11-11 |
 | [Muleleetu](https://open.spotify.com/track/15KycmRRSpjaczTTgwowex) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Muleleetu](https://open.spotify.com/album/5sSTTcNNCE1SUVmp0sQ13D) | 2:38 | 2024-04-05 |  |
 | [Muntu Wange](https://open.spotify.com/track/2cltWvrDEDiWP5t9ufEOp3) | [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Muntu Wange](https://open.spotify.com/album/43OSX80VLJScSkGM1r7E8P) | 3:09 | 2024-02-09 |  |
-| [My Date](https://open.spotify.com/track/7MymgauD1EQPJoApCn1RVG) | [Green Daddy](https://open.spotify.com/artist/2qNqbmGcLBZpjLv5IzuAWU), [Temperature Touch](https://open.spotify.com/artist/3gHHNHGrHh9JIJ8VtWKfVT) | [My Date](https://open.spotify.com/album/6pxjIHdQiPZyZ7oecyNPm4) | 3:30 | 2024-03-08 |  |
+| [My Date](https://open.spotify.com/track/7MymgauD1EQPJoApCn1RVG) | [Green Daddy](https://open.spotify.com/artist/2qNqbmGcLBZpjLv5IzuAWU), [Temperature Touch](https://open.spotify.com/artist/3gHHNHGrHh9JIJ8VtWKfVT) | [My Date](https://open.spotify.com/album/6pxjIHdQiPZyZ7oecyNPm4) | 3:30 | 2024-03-08 | 2024-04-13 |
 | [My Year](https://open.spotify.com/track/3xiP1k0UCCt3DOAZZsM673) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [My Year](https://open.spotify.com/album/09X07wSK0uumo1qEi4dh8C) | 3:17 | 2024-03-15 | 2024-04-06 |
 | [Nakumala](https://open.spotify.com/track/5Wxilr2SmYiGqMzscPXtir) | [Aroma Music](https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2), [Grenade Official](https://open.spotify.com/artist/4t41SFTGtJALbIGWkD0V6t) | [Nakumala](https://open.spotify.com/album/1V60wHj8CpDD3L55ixnRM6) | 3:04 | 2023-01-26 | 2023-02-27 |
 | [Namulabako](https://open.spotify.com/track/2iuL25zyjR69LmdlDzkj34) | [Ugaboys](https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe) | [Namulabako](https://open.spotify.com/album/04Z3CMpi3cYj1QvoZ7ilMj) | 2:47 | 2024-02-16 |  |
@@ -204,6 +205,7 @@
 | [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 | 2022-09-22 | 2023-07-30 |
 | [Party Mood](https://open.spotify.com/track/5v78YlySIPsrKJ1KHIRT2N) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [AFRICAN MUSIC](https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E) | 3:04 | 2024-03-15 | 2024-04-06 |
 | [Pause](https://open.spotify.com/track/2yx8yJQIWgyZ3xS67mg8Qp) | [Mugaba](https://open.spotify.com/artist/1EBLonfYVb5s9f047W2CS6), [Amani Greene](https://open.spotify.com/artist/0nJznPzHXT4c62if3o5tsO) | [Pause](https://open.spotify.com/album/53V8rIv7Bix3IbNXbnG0px) | 3:04 | 2023-04-06 | 2023-06-03 |
+| [Pepepepe](https://open.spotify.com/track/2sCdsQv4x44paAKor3Yeh9) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ) | [Pepepepe](https://open.spotify.com/album/2Wy6NBtz5cWdiMcpFkVude) | 3:19 | 2024-04-12 |  |
 | [Personal](https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9) | [Zulitums](https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea) | [Personal](https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF) | 3:10 | 2022-05-12 | 2023-05-24 |
 | [Phobia](https://open.spotify.com/track/4f8UClRXe2WvUIy8G9alTq) | [Steve Keys](https://open.spotify.com/artist/3w4fNOrPfTHQVnj9iiMfPa) | [BOMA](https://open.spotify.com/album/60B3rDu4BN316BQyxkyQP7) | 3:08 | 2024-03-15 | 2024-04-06 |
 | [Pirepe](https://open.spotify.com/track/1c6pBk5cUupGEKuEc8gpgT) | [Suzan Kerunen](https://open.spotify.com/artist/2aNSI0ak2Os9PHD11PdkHr), [Aloysius Migadde](https://open.spotify.com/artist/7rJOWggakrq6vVC3gQ35XY) | [From Ashes We Rise](https://open.spotify.com/album/6qdLGSQgD4Qnl088lO3lgp) | 4:25 | 2022-05-12 | 2022-08-20 |

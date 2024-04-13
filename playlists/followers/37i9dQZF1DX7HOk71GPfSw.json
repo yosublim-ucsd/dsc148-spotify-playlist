@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 449226,
+  "2024-04-13": 449304,
   "date_first_scraped": "2020-10-13",
   "description": "she did her hyper-homework",
   "name": "hyperpop",
@@ -33842,6 +33842,28 @@
     },
     {
       "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/6Y1Wf6l68FYPbUd4WC3DnE"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124888,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/3yyJWBJ3MOrLlhtla7Cq7P"
+    },
+    {
+      "album": {
         "name": "Stuck Up",
         "url": "https://open.spotify.com/album/6jBMS4yqI7GFKL0AHUcIgd"
       },
@@ -34937,10 +34959,6 @@
         {
           "name": "Mar\u00eda Escarmiento",
           "url": "https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl"
-        },
-        {
-          "name": "Vau Boy",
-          "url": "https://open.spotify.com/artist/2tx3YCpd2RHR1ZSU101zFB"
         }
       ],
       "date_added": "2024-03-04",

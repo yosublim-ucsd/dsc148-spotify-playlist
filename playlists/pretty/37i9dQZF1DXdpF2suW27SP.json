@@ -1,6 +1,6 @@
 {
   "description": "Phoenix RDC entra na zona. ",
-  "num_followers": 178126,
+  "num_followers": 178165,
   "original_name": "Na Zona",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,26 @@
       "duration_ms": 220812,
       "name": "9Xs",
       "url": "https://open.spotify.com/track/3pcX4h49ckvJ7hRUbsRUWH"
+    },
+    {
+      "added_at": "2024-04-11 23:00:00",
+      "album": {
+        "name": "On My Block",
+        "url": "https://open.spotify.com/album/3zrUJwXk7VAksD9BNtrHCh"
+      },
+      "artists": [
+        {
+          "name": "Zt35",
+          "url": "https://open.spotify.com/artist/4yEpDApCiftRugkpN2sOVM"
+        },
+        {
+          "name": "Ceeb35",
+          "url": "https://open.spotify.com/artist/3jfSV1aHZxZNJH6Um6ikqa"
+        }
+      ],
+      "duration_ms": 174735,
+      "name": "Facilita",
+      "url": "https://open.spotify.com/track/29j0meHh2Q3obkjUgGH147"
     },
     {
       "added_at": "2024-04-11 23:00:00",

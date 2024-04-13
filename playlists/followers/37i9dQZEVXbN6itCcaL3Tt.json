@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 263196,
+  "2024-04-13": 263235,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Poland.",
   "name": "Top 50 - Poland",
@@ -21873,7 +21873,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 135300,
       "name": "New York Freestyle",
       "url": "https://open.spotify.com/track/5T4tD1rM4aQzZ9dkOU6vgw"
@@ -24985,7 +24985,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 142225,
       "name": "PASEK PLAYBOYA",
       "url": "https://open.spotify.com/track/6g76ndArDHwMe3OsrYxKiu"
@@ -30201,6 +30201,32 @@
       "duration_ms": 134240,
       "name": "Spaceship",
       "url": "https://open.spotify.com/track/65mX5QJ1158toYcgZy6L1P"
+    },
+    {
+      "album": {
+        "name": "Spadaj\u0105ca gwiazda",
+        "url": "https://open.spotify.com/album/1Z9jd1P2XB1KhZRx1nFGRh"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "Pedro",
+          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
+        },
+        {
+          "name": "DKanee",
+          "url": "https://open.spotify.com/artist/4ixbLtejEaAWMmgOxKKew6"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Spadaj\u0105ca gwiazda",
+      "url": "https://open.spotify.com/track/2nN0xNZJv4JcTE3coGPVhA"
     },
     {
       "album": {
@@ -36231,7 +36257,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 166989,
       "name": "Za Du\u017co",
       "url": "https://open.spotify.com/track/7CN57u3DjY1RXSkkqpW5HX"

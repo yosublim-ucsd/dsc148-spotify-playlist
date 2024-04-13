@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Karataka Damanaka
 
-1,137 songs - 2 day 21 hr 24 min
+1,138 songs - 2 day 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -967,7 +967,8 @@
 | [Sahaja Sakhi](https://open.spotify.com/track/5XPlc5v6fpEwH5GMuk2o4W) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Bond Ravi](https://open.spotify.com/album/2HrERxsiEzwZTDftFAvVpu) | 3:53 | 2022-11-28 | 2023-02-04 |
 | [Sahapaati Charlie 777 \(Cover\)](https://open.spotify.com/track/5sKDFrrsuiyyG2KYebzd8q) | [Sachit Clare](https://open.spotify.com/artist/3fPQPuqoKfqCZXTGQwP9kI), [Jonathan Parth](https://open.spotify.com/artist/4znHwjINoasYcMkFu16VbP) | [Sahapaati Charlie 777 \(Cover\)](https://open.spotify.com/album/1wc94IyLtjAnecenLl8Ogz) | 1:17 | 2022-09-27 | 2023-02-04 |
 | [Sainikaa Sainikaa \(From "Melody Drama"\)](https://open.spotify.com/track/2MS78VuNWtewCZvzlNQVJ9) | [Kiran Ravindranath](https://open.spotify.com/artist/6DaLMiOobc3J5d4K82owip), [V Nagendra Prasad](https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU), [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4) | [Sainikaa Sainikaa \(From "Melody Drama"\)](https://open.spotify.com/album/1UBTtZJnAMP5gaAPDONYTC) | 3:51 | 2023-06-23 | 2023-07-04 |
-| [Sakhi \(From "Blink"\)](https://open.spotify.com/track/1JrDXA4JX0tPZjsqsvyddK) | [Prasanna Kumar M S](https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr), [Siddhartha Belmannu](https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc) | [Sakhi \(From "Blink"\)](https://open.spotify.com/album/34nu4mz52DT9RbNOT4ZWWe) | 4:33 | 2023-10-12 |  |
+| [Sakhi \(From "Blink"\)](https://open.spotify.com/track/1JrDXA4JX0tPZjsqsvyddK) | [Prasanna Kumar M S](https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr), [Siddhartha Belmannu](https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc) | [Sakhi \(From "Blink"\)](https://open.spotify.com/album/34nu4mz52DT9RbNOT4ZWWe) | 4:33 | 2023-10-12 | 2024-04-13 |
+| [Sakhi \(From "Blink"\)](https://open.spotify.com/track/2J0f8pSPKmtCfSe25CjzG2) | [Prasanna Kumar M S](https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr), [Siddhartha Belmannu](https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc) | [Sakhi \(From "Blink"\)](https://open.spotify.com/album/3D1zDpEILN7AhWqyoL6xxU) | 4:33 | 2024-04-04 |  |
 | [Sakhiye](https://open.spotify.com/track/7D3oxpkmcuyZ76vTV1ySOW) | [Harsha](https://open.spotify.com/artist/4hr8cOSRiTqJDcmripiIOd) | [Kaanada Shakthi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4RcNaUXpoZ0l5WsssuTP41) | 3:34 | 2024-02-01 | 2024-02-17 |
 | [Sakkare Putta](https://open.spotify.com/track/4qONlSDCPHNqoJkvYbJG1p) | [Meghana Bhat](https://open.spotify.com/artist/0hjmJwGzgNKERfYBiKPxak) | [Head Bush](https://open.spotify.com/album/2QWXqwS44WLAYSfEBcQkh5) | 3:03 | 2022-11-15 | 2022-11-29 |
 | [Sala Sala Hoysala \(from "Hoysala"\)](https://open.spotify.com/track/2RzUC9fhx6RdCT1YcUNN9A) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm) | [Sala Sala Hoysala \(from "Hoysala"\)](https://open.spotify.com/album/7BnXSuiR0Bu2PpPAlX4zgQ) | 3:19 | 2023-02-28 | 2023-06-08 |

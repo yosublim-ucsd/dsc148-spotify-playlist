@@ -1,6 +1,6 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 224097,
+  "num_followers": 224126,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
@@ -323,18 +323,18 @@
     {
       "added_at": "2024-04-05 12:55:15",
       "album": {
-        "name": "The Best Of Bobby Lester And The Moonglows",
-        "url": "https://open.spotify.com/album/5G9ZcFBoCQgIQDjV4arzl8"
+        "name": "There's A Riot Goin' On: The Coasters On Atco",
+        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
       },
       "artists": [
         {
-          "name": "The Moonglows",
-          "url": "https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM"
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
         }
       ],
-      "duration_ms": 189946,
-      "name": "Sincerely",
-      "url": "https://open.spotify.com/track/6hOD1yxLeWllJ2TiwbuwQg"
+      "duration_ms": 141306,
+      "name": "Charlie Brown - 2007 Remaster Stereo Single Version; Remastered",
+      "url": "https://open.spotify.com/track/6t83zAQg9Efca1u1DPL930"
     },
     {
       "added_at": "2024-04-05 12:55:15",
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-04-05 12:55:15",
       "album": {
-        "name": "There's A Riot Goin' On: The Coasters On Atco",
-        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
+        "name": "The Best Of Bobby Lester And The Moonglows",
+        "url": "https://open.spotify.com/album/5G9ZcFBoCQgIQDjV4arzl8"
       },
       "artists": [
         {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+          "name": "The Moonglows",
+          "url": "https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM"
         }
       ],
-      "duration_ms": 141306,
-      "name": "Charlie Brown - 2007 Remaster Stereo Single Version; Remastered",
-      "url": "https://open.spotify.com/track/6t83zAQg9Efca1u1DPL930"
+      "duration_ms": 189946,
+      "name": "Sincerely",
+      "url": "https://open.spotify.com/track/6hOD1yxLeWllJ2TiwbuwQg"
     },
     {
       "added_at": "2024-04-05 12:55:15",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-04-05 12:55:15",
       "album": {
-        "name": "The Fabulous Cadillacs",
-        "url": "https://open.spotify.com/album/5UoyKbXmb2JNJSFMxL1VpY"
-      },
-      "artists": [
-        {
-          "name": "The Cadillacs",
-          "url": "https://open.spotify.com/artist/5ye4TzZU2L7cxiQgCZoJUH"
-        }
-      ],
-      "duration_ms": 141253,
-      "name": "Speedoo (Alternative Take)",
-      "url": "https://open.spotify.com/track/3fy76k7I8YMUOR7bn7EcM5"
-    },
-    {
-      "added_at": "2024-04-05 12:55:15",
-      "album": {
         "name": "Anthology: The Deluxe Collection (Remastered)",
         "url": "https://open.spotify.com/album/5GuwHCtGYe062YWhAyc0jF"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 181866,
       "name": "Crying in the Chapel - Remastered",
       "url": "https://open.spotify.com/track/53AD8JznNIb0jUZvwFY6MB"
+    },
+    {
+      "added_at": "2024-04-05 12:55:15",
+      "album": {
+        "name": "The Fabulous Cadillacs",
+        "url": "https://open.spotify.com/album/5UoyKbXmb2JNJSFMxL1VpY"
+      },
+      "artists": [
+        {
+          "name": "The Cadillacs",
+          "url": "https://open.spotify.com/artist/5ye4TzZU2L7cxiQgCZoJUH"
+        }
+      ],
+      "duration_ms": 141253,
+      "name": "Speedoo (Alternative Take)",
+      "url": "https://open.spotify.com/track/3fy76k7I8YMUOR7bn7EcM5"
     },
     {
       "added_at": "2024-04-05 12:55:15",

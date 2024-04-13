@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 195917,
+  "2024-04-13": 195935,
   "date_first_scraped": "2021-12-21",
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
   "name": "Made in Sweden",
@@ -393,6 +393,28 @@
     {
       "album": {
         "name": "Afterlife",
+        "url": "https://open.spotify.com/album/5eTIhDvr6rUIY93qxA7wVu"
+      },
+      "artists": [
+        {
+          "name": "JUNG",
+          "url": "https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO"
+        },
+        {
+          "name": "Eva Dahlgren",
+          "url": "https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217850,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/3FJ2N1HOV1vudeqqSoRUyc"
+    },
+    {
+      "album": {
+        "name": "Afterlife",
         "url": "https://open.spotify.com/album/6vulfTqSVGblktuJ1K19Jx"
       },
       "artists": [
@@ -457,7 +479,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 176315,
       "name": "Ahumma",
       "url": "https://open.spotify.com/track/3FekVM62XSKijk621AAaP3"
@@ -511,7 +533,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 184276,
       "name": "Aldrig mer",
       "url": "https://open.spotify.com/track/6g03qX85qYtyvEsTvEmfqb"
@@ -897,7 +919,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 195351,
       "name": "Always Ballin",
       "url": "https://open.spotify.com/track/0gfF1aSUYR2CIZPuHaF2gm"
@@ -1521,7 +1543,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 213500,
       "name": "Beredd",
       "url": "https://open.spotify.com/track/0dobads3voGDdxWkT2BrW8"
@@ -1763,7 +1785,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 132000,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/4FoXMMTPRYvQqwOADCO25s"
@@ -1857,6 +1879,24 @@
       "duration_ms": 179603,
       "name": "Bluffin",
       "url": "https://open.spotify.com/track/2Cyow8nZDqP9tolduIf2KX"
+    },
+    {
+      "album": {
+        "name": "romantik p\u00e5 svenska",
+        "url": "https://open.spotify.com/album/4I2ZKhs5KWb8FFqfcHizOc"
+      },
+      "artists": [
+        {
+          "name": "Little Jinder",
+          "url": "https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232560,
+      "name": "blundar",
+      "url": "https://open.spotify.com/track/16HbAjgmQF7gq2o6f9cQit"
     },
     {
       "album": {
@@ -2333,6 +2373,24 @@
       "duration_ms": 219289,
       "name": "By Design",
       "url": "https://open.spotify.com/track/14p8BHyH8Ice5LpfhRLlqx"
+    },
+    {
+      "album": {
+        "name": "By The Sea",
+        "url": "https://open.spotify.com/album/3gVowwfu0t4PgeI23c6pBg"
+      },
+      "artists": [
+        {
+          "name": "SI EVOL",
+          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195675,
+      "name": "By The Sea",
+      "url": "https://open.spotify.com/track/0mDNYBgTfmmzYsGKIO9sIx"
     },
     {
       "album": {
@@ -3704,6 +3762,24 @@
     },
     {
       "album": {
+        "name": "Det var ju du & jag (Radio Edit)",
+        "url": "https://open.spotify.com/album/51Eo92qpXc2U34OzcoDNi2"
+      },
+      "artists": [
+        {
+          "name": "Linda Sundblad",
+          "url": "https://open.spotify.com/artist/28WJiPB1WvNQzMLwM5Hb7G"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205624,
+      "name": "Det var ju du & jag - Radio Edit",
+      "url": "https://open.spotify.com/track/53tkrNm9WV1NlTaZ1OsVQk"
+    },
+    {
+      "album": {
         "name": "Det \u00e4r nog aldrig f\u00f6r sent f\u00f6r oss tv\u00e5",
         "url": "https://open.spotify.com/album/5U6Z8kuGYsb9RHNRM6Q7cp"
       },
@@ -4245,6 +4321,28 @@
       "duration_ms": 200568,
       "name": "Dr\u00f6m vackra dr\u00f6m",
       "url": "https://open.spotify.com/track/61ej0PBBMll6v1huilKpRV"
+    },
+    {
+      "album": {
+        "name": "Dr\u00f6mf\u00e5ngare",
+        "url": "https://open.spotify.com/album/2jVfLZceQpyVa67SV4j0Wl"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        },
+        {
+          "name": "Daniela Rathana",
+          "url": "https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195488,
+      "name": "Dr\u00f6mf\u00e5ngare",
+      "url": "https://open.spotify.com/track/6XOww2lzkjbOW7gCWD8jpO"
     },
     {
       "album": {
@@ -5511,7 +5609,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 149052,
       "name": "Faller Ner",
       "url": "https://open.spotify.com/track/4wNyKgv2tmSXQd87efe6PT"
@@ -6187,6 +6285,24 @@
       "duration_ms": 196506,
       "name": "F\u00e4rger",
       "url": "https://open.spotify.com/track/3l6vQCLlMS2Ljjf8FlVOZX"
+    },
+    {
+      "album": {
+        "name": "F\u00e5 mig att stanna",
+        "url": "https://open.spotify.com/album/5SPRGzkSuPmeJsKDWTRxwL"
+      },
+      "artists": [
+        {
+          "name": "Julia Lov",
+          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "F\u00e5 mig att stanna",
+      "url": "https://open.spotify.com/track/3P6p3T2qnBNmMyueFt6xh5"
     },
     {
       "album": {
@@ -8195,7 +8311,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 243646,
       "name": "Hopeless Guy",
       "url": "https://open.spotify.com/track/310HpOa9DdOfpOTpD3idYL"
@@ -9851,7 +9967,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 205714,
       "name": "Jimmy",
       "url": "https://open.spotify.com/track/3WDuNbcCulXtDkaUInTe69"
@@ -10025,7 +10141,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 199090,
       "name": "Kanske blir b\u00e4st",
       "url": "https://open.spotify.com/track/5vxayeeeiAijEdv4MGlJRT"
@@ -11227,7 +11343,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 141800,
       "name": "Lost Romance",
       "url": "https://open.spotify.com/track/1xjbPvo3qQvnKKLtrjKOIY"
@@ -11622,6 +11738,24 @@
     },
     {
       "album": {
+        "name": "Madame Monroe",
+        "url": "https://open.spotify.com/album/5DCYOasytPRcMArmRrBw96"
+      },
+      "artists": [
+        {
+          "name": "Alex J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182325,
+      "name": "Madame Monroe",
+      "url": "https://open.spotify.com/track/1chwGzlvIOU6Vcs2sM34yL"
+    },
+    {
+      "album": {
         "name": "Magic Stone",
         "url": "https://open.spotify.com/album/0Tjw2af2Rj2jUJSiAGMUdS"
       },
@@ -11727,7 +11861,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 237253,
       "name": "Mammas port",
       "url": "https://open.spotify.com/track/2KWcnMekI5CCnNYkX2cAxh"
@@ -11825,6 +11959,28 @@
       "duration_ms": 215080,
       "name": "maracuya massage",
       "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
+    },
+    {
+      "album": {
+        "name": "Maraton (feat. Eah J\u00e9)",
+        "url": "https://open.spotify.com/album/4bUMq7yTcmgilNweyJ6Z4t"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        },
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139705,
+      "name": "Maraton (feat. Eah J\u00e9)",
+      "url": "https://open.spotify.com/track/0FAWHFKFtk9eUQK6gLxBkw"
     },
     {
       "album": {
@@ -12081,7 +12237,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 153612,
       "name": "MIN MARIE",
       "url": "https://open.spotify.com/track/5ZyZnWoQiMk2qoNt2HyDdN"
@@ -12251,7 +12407,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 191140,
       "name": "Misstag",
       "url": "https://open.spotify.com/track/7Gfzl9QQrLcwtKV0G7x5Hf"
@@ -12341,7 +12497,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 240697,
       "name": "Mitt inre barn",
       "url": "https://open.spotify.com/track/2R3lU207Hp9gg9oGF9h8fX"
@@ -13130,6 +13286,24 @@
     },
     {
       "album": {
+        "name": "N\u00e4ktergal",
+        "url": "https://open.spotify.com/album/5wKEC1wo0s1QGGcpYx90tT"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147917,
+      "name": "N\u00e4ktergal",
+      "url": "https://open.spotify.com/track/6vkoAWNPTyAcaOUASnjsaC"
+    },
+    {
+      "album": {
         "name": "N\u00e4r dimman sjunker",
         "url": "https://open.spotify.com/album/7r5fkxxwszGuBfKwYIqwmD"
       },
@@ -13145,7 +13319,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 177882,
       "name": "N\u00e4r dimman sjunker",
       "url": "https://open.spotify.com/track/7jN5eFTpas9sslUGf2KnAA"
@@ -13862,6 +14036,24 @@
     },
     {
       "album": {
+        "name": "Our Time Is Now",
+        "url": "https://open.spotify.com/album/5neyTpAf0bWfX1LKnwxBmx"
+      },
+      "artists": [
+        {
+          "name": "NONONO",
+          "url": "https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196213,
+      "name": "Our Time Is Now",
+      "url": "https://open.spotify.com/track/20gpbG3TzUjM8KEtW3pt3O"
+    },
+    {
+      "album": {
         "name": "Out Of Feelings",
         "url": "https://open.spotify.com/album/3rkCxhZ9Kj7ylr5LjjA5BK"
       },
@@ -14043,6 +14235,24 @@
       "duration_ms": 181062,
       "name": "Pappa",
       "url": "https://open.spotify.com/track/1ao8aqJXSqXCGDihRbhxVH"
+    },
+    {
+      "album": {
+        "name": "Travelling Forever",
+        "url": "https://open.spotify.com/album/6O6FjErdZMrFL6bvd0Gfun"
+      },
+      "artists": [
+        {
+          "name": "Diane Emerita",
+          "url": "https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213320,
+      "name": "Parking Lot Sunset",
+      "url": "https://open.spotify.com/track/51OO9YEFbU9RqxM6xKjxSX"
     },
     {
       "album": {
@@ -15631,7 +15841,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 151250,
       "name": "She's Coming Over",
       "url": "https://open.spotify.com/track/3EkFr72iewkb9Z12WTTXZz"
@@ -15931,7 +16141,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 153500,
       "name": "Skyller p\u00e5 regnet",
       "url": "https://open.spotify.com/track/7diMWAEYppGMesCR245G6k"
@@ -16205,7 +16415,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 216023,
       "name": "Sn\u00f6ar I April",
       "url": "https://open.spotify.com/track/52aE4Wr5rFoioFiXm0kehr"
@@ -17053,7 +17263,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 254213,
       "name": "Strange",
       "url": "https://open.spotify.com/track/1qEmaP9KM5kWQ1JgNlCX4a"
@@ -17963,7 +18173,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 180127,
       "name": "Take My Breath Away",
       "url": "https://open.spotify.com/track/3mSYbKu15KIVRR7NsnagjF"
@@ -19997,7 +20207,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 177187,
       "name": "Viktigt",
       "url": "https://open.spotify.com/track/5pOmq3IrlHIqdSgcacwuKX"
@@ -20192,6 +20402,24 @@
     },
     {
       "album": {
+        "name": "V\u00e4lkommen ner",
+        "url": "https://open.spotify.com/album/2g6uhhynepaJyUn5eFR4qN"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158062,
+      "name": "V\u00e4lkommen ner",
+      "url": "https://open.spotify.com/track/29YN98sTVSpfYMpPzFXaGU"
+    },
+    {
+      "album": {
         "name": "V\u00e4lkommen \u00c5ter",
         "url": "https://open.spotify.com/album/38ApGKtXK58w6N7DRfJ1kX"
       },
@@ -20363,7 +20591,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 204221,
       "name": "V\u00e5ra katter",
       "url": "https://open.spotify.com/track/59RfhmymSofy1eE7smdhIE"

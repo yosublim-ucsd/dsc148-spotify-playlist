@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 218382,
+  "2024-04-13": 218399,
   "date_first_scraped": "2022-12-28",
   "description": "Un caf\u00e9, un croissant et c\u2018est parti pour une bonne journ\u00e9e.",
   "name": "Caf\u00e9 Croissant",
@@ -51,6 +51,24 @@
       "duration_ms": 144896,
       "name": "A Bossa \u00e9 Cuca Nova",
       "url": "https://open.spotify.com/track/172Z2U5yabNbrxY9AArzy5"
+    },
+    {
+      "album": {
+        "name": "Maps and Clouds",
+        "url": "https://open.spotify.com/album/0QBApyNBeYCKPGDWRbJotZ"
+      },
+      "artists": [
+        {
+          "name": "Anthony Lazaro",
+          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "A Million Stars",
+      "url": "https://open.spotify.com/track/4kSScdjHrzFKJsSL0O3cVo"
     },
     {
       "album": {
@@ -355,7 +373,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 134268,
       "name": "Before We Step Inside",
       "url": "https://open.spotify.com/track/6bxfwQ5z8qe2uoEOiO35YG"
@@ -561,7 +579,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 208092,
       "name": "Change My World",
       "url": "https://open.spotify.com/track/2BAXiNtNY5e482p9fyL46v"
@@ -877,7 +895,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 232133,
       "name": "Deeper Well",
       "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
@@ -1450,6 +1468,42 @@
     },
     {
       "album": {
+        "name": "Heavy Rain",
+        "url": "https://open.spotify.com/album/551N5PUGOdjfczQqbSsdFx"
+      },
+      "artists": [
+        {
+          "name": "Richard Hawley",
+          "url": "https://open.spotify.com/artist/1ZsnHGOLYFg8CAHQQBc1ut"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213160,
+      "name": "Heavy Rain",
+      "url": "https://open.spotify.com/track/1nN2Z2CxVcRPeFdpXC2AMt"
+    },
+    {
+      "album": {
+        "name": "Here To Stay",
+        "url": "https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202139,
+      "name": "Here To Stay",
+      "url": "https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc"
+    },
+    {
+      "album": {
         "name": "Hideaway",
         "url": "https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG"
       },
@@ -1635,10 +1689,28 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 214088,
       "name": "Imaan",
       "url": "https://open.spotify.com/track/1ydE5C1KehuCQI8EM3qXrQ"
+    },
+    {
+      "album": {
+        "name": "Imaan",
+        "url": "https://open.spotify.com/album/4365MmEKX6ImuvRiWtqagj"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214088,
+      "name": "Imaan",
+      "url": "https://open.spotify.com/track/5xvYNmS5yLJr5Z18P25DYR"
     },
     {
       "album": {
@@ -2794,6 +2866,24 @@
     },
     {
       "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/6l1B36T3ydZoaEdxtNrw5m"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139764,
+      "name": "Reverence",
+      "url": "https://open.spotify.com/track/5HsDGaUBBBWBCpIjpHuB2T"
+    },
+    {
+      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
       },
@@ -2983,7 +3073,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 155695,
       "name": "Simply Paradise",
       "url": "https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ"

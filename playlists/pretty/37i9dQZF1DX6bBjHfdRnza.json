@@ -1,12 +1,12 @@
 {
   "description": "The best new dance & electronic by independent artists and labels. Cover: jigitz performing at Fresh Finds Chicago March 2024. Artwork by Rewina Beshue.",
-  "num_followers": 172546,
+  "num_followers": 172633,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc3Mzg0OCwwMDAwMDAwMDFkYjk2YWQ4YWRlNzg5N2E5NTg5NzAwMThlZTE0MGIx",
+  "snapshot_id": "MTcxMjg5NDQwMCwwMDAwMDAwMGZhZjc0ZTBkYmM3NDRlYTg0NWFlZWM1ZTEzZGVmYjE0",
   "tracks": [
     {
       "added_at": "2024-03-29 22:21:48",
@@ -55,6 +55,22 @@
       "duration_ms": 180937,
       "name": "So High",
       "url": "https://open.spotify.com/track/6ul9aRluTKN8OIPgUF8qZS"
+    },
+    {
+      "added_at": "2024-04-03 23:31:06",
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/1Kl9pOglEGhjWgCHIoqO58"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        }
+      ],
+      "duration_ms": 181904,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/1EsZpe7WpvsZ1GxkMDt6I3"
     },
     {
       "added_at": "2024-04-10 18:23:48",
@@ -175,22 +191,6 @@
     {
       "added_at": "2024-04-03 23:31:06",
       "album": {
-        "name": "JUMP",
-        "url": "https://open.spotify.com/album/1Kl9pOglEGhjWgCHIoqO58"
-      },
-      "artists": [
-        {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
-        }
-      ],
-      "duration_ms": 181904,
-      "name": "JUMP",
-      "url": "https://open.spotify.com/track/1EsZpe7WpvsZ1GxkMDt6I3"
-    },
-    {
-      "added_at": "2024-04-03 23:31:06",
-      "album": {
         "name": "El Pedio",
         "url": "https://open.spotify.com/album/59QYHEqqN5pR5CiPFoKZL7"
       },
@@ -223,6 +223,22 @@
       "duration_ms": 153926,
       "name": "Oxygn",
       "url": "https://open.spotify.com/track/0WuABxcSEkrj5cjkxaeiXG"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "X CALLING",
+        "url": "https://open.spotify.com/album/5yFKkRTF0pql2aN7HMiT93"
+      },
+      "artists": [
+        {
+          "name": "Xavier Weeks",
+          "url": "https://open.spotify.com/artist/1I87BJvTcv6gia06HaBl9e"
+        }
+      ],
+      "duration_ms": 96107,
+      "name": "X CALLING",
+      "url": "https://open.spotify.com/track/2xnO5NdJEp8lt6aPwMUajk"
     },
     {
       "added_at": "2024-04-10 18:23:48",
@@ -328,7 +344,7 @@
       "added_at": "2024-01-26 22:15:12",
       "album": {
         "name": "The Auction",
-        "url": "https://open.spotify.com/album/4s1Ra8QnO5KdmEhkPUTYlt"
+        "url": "https://open.spotify.com/album/7KskZmiLjIUjWFijCmoZDw"
       },
       "artists": [
         {
@@ -338,7 +354,27 @@
       ],
       "duration_ms": 176363,
       "name": "The Auction",
-      "url": "https://open.spotify.com/track/0fyatRJCPPj2V6maXthHIu"
+      "url": "https://open.spotify.com/track/6Iyjyipx38ScxCNP4TmBq4"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Reticence",
+        "url": "https://open.spotify.com/album/5h8yzPnIg7DqQYZRLoUABc"
+      },
+      "artists": [
+        {
+          "name": "Alex Bone",
+          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
+        },
+        {
+          "name": "Elysia Biro",
+          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
+        }
+      ],
+      "duration_ms": 221104,
+      "name": "Reticence",
+      "url": "https://open.spotify.com/track/7CptMbH0I2zpm5yPYF70r9"
     },
     {
       "added_at": "2024-03-27 17:04:34",
@@ -403,6 +439,22 @@
       "duration_ms": 198095,
       "name": "Warm The Room",
       "url": "https://open.spotify.com/track/3o3RBrOBpe1OkJpoSRwDqo"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Work (1, 2, 3, 4)",
+        "url": "https://open.spotify.com/album/045OjEtHVM2XnpnT8x2tRz"
+      },
+      "artists": [
+        {
+          "name": "Nomids (SE)",
+          "url": "https://open.spotify.com/artist/5Z0eBWmCz7C4Ei8dJfjBDG"
+        }
+      ],
+      "duration_ms": 127142,
+      "name": "Work (1, 2, 3, 4)",
+      "url": "https://open.spotify.com/track/5H4TUs965hi9JfxYh7HgOp"
     },
     {
       "added_at": "2024-04-03 23:31:06",
@@ -507,6 +559,22 @@
       "duration_ms": 269090,
       "name": "Gleam",
       "url": "https://open.spotify.com/track/7GFWUWe9qoNF2vJvp5Ys1p"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Grab Somebody",
+        "url": "https://open.spotify.com/album/03hnB1yeZWRR2s92tyjewJ"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "duration_ms": 251097,
+      "name": "Grab Somebody",
+      "url": "https://open.spotify.com/track/1kOZPIIP0fKLGWKMBTzbjk"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -969,22 +1037,6 @@
       "url": "https://open.spotify.com/track/6hoDmwV5D2hs7zxQQDErd7"
     },
     {
-      "added_at": "2024-02-21 19:42:33",
-      "album": {
-        "name": "Asap",
-        "url": "https://open.spotify.com/album/0zoLQ93QxZPF5LiNYw6vFi"
-      },
-      "artists": [
-        {
-          "name": "Facu Baez",
-          "url": "https://open.spotify.com/artist/22HYVpPiieQRJsUxZslfBN"
-        }
-      ],
-      "duration_ms": 199069,
-      "name": "Asap",
-      "url": "https://open.spotify.com/track/0cOySCeNqmK9mimIAzSkzv"
-    },
-    {
       "added_at": "2024-03-27 17:04:34",
       "album": {
         "name": "Always",
@@ -1305,22 +1357,6 @@
       "url": "https://open.spotify.com/track/2qf55Lm6n8gBm3YPOFYTUc"
     },
     {
-      "added_at": "2024-02-07 17:19:54",
-      "album": {
-        "name": "Eros",
-        "url": "https://open.spotify.com/album/75QVJiDzOyz7Pjpp7Vi3Hg"
-      },
-      "artists": [
-        {
-          "name": "A/S/L",
-          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
-        }
-      ],
-      "duration_ms": 159272,
-      "name": "Eros",
-      "url": "https://open.spotify.com/track/3D0EaeT9iyT1g9Bt75KgtM"
-    },
-    {
       "added_at": "2024-03-20 17:46:37",
       "album": {
         "name": "Jus a lil House",
@@ -1409,22 +1445,6 @@
       "url": "https://open.spotify.com/track/47IVT3QBYhbI02oR0YvwO1"
     },
     {
-      "added_at": "2024-03-06 15:00:00",
-      "album": {
-        "name": "F4LL1N9",
-        "url": "https://open.spotify.com/album/0yRMpA3JH5q39bzvDWnX7a"
-      },
-      "artists": [
-        {
-          "name": "YMNK",
-          "url": "https://open.spotify.com/artist/0ypKFOPlldTHzQPhODOGxI"
-        }
-      ],
-      "duration_ms": 263947,
-      "name": "F4LL1N9",
-      "url": "https://open.spotify.com/track/0QD6ezuCQ2osrZYk6ugWjf"
-    },
-    {
       "added_at": "2024-02-14 16:58:15",
       "album": {
         "name": "Ice",
@@ -1475,22 +1495,6 @@
       "duration_ms": 186300,
       "name": "Safe in Your Arms",
       "url": "https://open.spotify.com/track/1rEJhSOmqvntMgNQxgyMcE"
-    },
-    {
-      "added_at": "2024-03-06 15:00:00",
-      "album": {
-        "name": "Little Trip",
-        "url": "https://open.spotify.com/album/78HamL5FK7dnrK5mvfhvbC"
-      },
-      "artists": [
-        {
-          "name": "SIVILEON",
-          "url": "https://open.spotify.com/artist/5prkjW3vE2LatVePlu9BLp"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Little Trip",
-      "url": "https://open.spotify.com/track/308AtAAXFrV30T0ZaX4iEP"
     },
     {
       "added_at": "2024-02-14 16:58:15",

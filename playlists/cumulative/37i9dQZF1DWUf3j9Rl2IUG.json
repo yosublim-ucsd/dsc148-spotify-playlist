@@ -1668,7 +1668,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 149052,
       "name": "Dog Eat Dog",
       "url": "https://open.spotify.com/track/4XYpWMW1ec7GJW2Eq8UA9k"
@@ -3052,6 +3052,24 @@
       "duration_ms": 185660,
       "name": "Jonzing Boy",
       "url": "https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9"
+    },
+    {
+      "album": {
+        "name": "RU The World",
+        "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185660,
+      "name": "Jonzing Boy",
+      "url": "https://open.spotify.com/track/5ksKJ5a1iawwfoCxWtImP9"
     },
     {
       "album": {
@@ -5201,7 +5219,7 @@
     },
     {
       "album": {
-        "name": "Shadow",
+        "name": "shadow",
         "url": "https://open.spotify.com/album/2IFdqPlm98pTA57pt9iTdU"
       },
       "artists": [
@@ -5218,7 +5236,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 160280,
-      "name": "Shadow",
+      "name": "shadow",
       "url": "https://open.spotify.com/track/6Jllvxl97ni5T2bW3zEDGi"
     },
     {

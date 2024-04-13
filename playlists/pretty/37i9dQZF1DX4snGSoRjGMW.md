@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 
 > Soul meets blues\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,439 likes - 80 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,494 likes - 80 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 | 15 | [Giving My Love \(To the Other Women\)](https://open.spotify.com/track/63Jhy5sNIWPepLyM7E0N86) | [Joyce Lawson](https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW) | [Today I Sing The Blues](https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF) | 5:18 |
 | 16 | [Reckless Heart](https://open.spotify.com/track/2P4SDDe2O1sMNETDMK2NXF) | [Johnny Rawls](https://open.spotify.com/artist/7vuXCITiRilCLfuySIgZKM) | [Tiger in a Cage](https://open.spotify.com/album/2y2airR6ysuixHtrYfHpEG) | 4:25 |
 | 17 | [Girl Your Best Friend Done Took Your Place](https://open.spotify.com/track/7hpfCSScaK9u7Lq6pZRMvC) | [Joey Gilmore](https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64) | [Eccentric Soul: The Saadia Label](https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei) | 2:55 |
-| 18 | [Soul Deep](https://open.spotify.com/track/6ffEgX5nzfQTbXXLiaDW1P) | [Lavelle White](https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz) | [Into the Mystic](https://open.spotify.com/album/113YdmaOGCEg3wmh1zW92Y) | 3:04 |
-| 19 | [Yes, I've Been Crying](https://open.spotify.com/track/3IVdACtG1mtDxxcpZGORWY) | [Lavelle White](https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz) | [Miss Lavelle](https://open.spotify.com/album/1hJCYmBzQiuTMPoLMUxKDB) | 3:54 |
+| 18 | [Soul Deep](https://open.spotify.com/track/36ntn0EWwQq4lLZMPfzIaR) | [Lavelle White](https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz) | [Into the Mystic](https://open.spotify.com/album/4VUXdcikc5Rjtv2ehEzke4) | 3:04 |
+| 19 | [Yes, I've Been Crying](https://open.spotify.com/track/0H1uBZDlOg5oLVg5jB1g2q) | [Lavelle White](https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz) | [Miss Lavelle](https://open.spotify.com/album/7heUOSM7fmIfzwFQQkqYQ5) | 3:54 |
 | 20 | [Love of Mine](https://open.spotify.com/track/4ulL5jGR1a48LNQRUAQpnY) | [Buddy Ace](https://open.spotify.com/artist/4QP0coGRLggyMr9Pg65HBK) | [Don't Hurt No More](https://open.spotify.com/album/7brSqEwvGV2X2JIQlDtR1F) | 4:07 |
 | 21 | [Going To The Juke Joint](https://open.spotify.com/track/0sS0CzdobQFGPbMevoEdZx) | [Lonnie Shields](https://open.spotify.com/artist/3OLH6X1iYxhTzdEtk2O3jV) | [Blues Is On Fire](https://open.spotify.com/album/5Eg8IqPjqEhZc8AFf4Y1cJ) | 5:25 |
 | 22 | [You Got the Goods on You](https://open.spotify.com/track/5ad6BP0tSKEHMC2fOStbdj) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Sitting on Top of the Blues](https://open.spotify.com/album/2Kf9UPahXKB2vrPUcw7M10) | 4:03 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 | 67 | [Blues Is My Wailin' Wall](https://open.spotify.com/track/2Vo7n5XmHOS4djkr6QjHEG) | [Mighty Mo Rodgers](https://open.spotify.com/artist/03iIha4mNgohGeWoOqLrXm) | [Blues Is My Wailin' Wall](https://open.spotify.com/album/0XaRMLkHX5jGdnF6YATIRQ) | 3:19 |
 | 68 | [Out Of Love](https://open.spotify.com/track/4eWh67wskXcVPXFdSSlrQS) | [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S) | [Fire It Up](https://open.spotify.com/album/4Xsv6JN4IqEz3rXfPCBAkn) | 3:42 |
 | 69 | [Starting To See](https://open.spotify.com/track/4ZCmcMZxQJYcRhTaklYqVU) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 2:54 |
-| 70 | [Ace Of Spades](https://open.spotify.com/track/2sgbiJ65zw8fUEWEiW9yAH) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [Ace Of Spades](https://open.spotify.com/album/2BcHzSdwa2qEiGPNznEqRK) | 2:36 |
+| 70 | [Ace Of Spades](https://open.spotify.com/track/7q1E64SIbT2cmkiRSjZmZe) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [Ace Of Blues](https://open.spotify.com/album/4VBJD561gFAMKctx5vLyk0) | 2:36 |
 | 71 | [I Want My Soul Back](https://open.spotify.com/track/1b8xcfGtzTNluKLSSDaZdV) | [Crystal Shawanda](https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG) | [Midnight Blues](https://open.spotify.com/album/6nYaIvRUVf1dFzCrX5aNAK) | 3:35 |
 | 72 | [Blues All Over You](https://open.spotify.com/track/5pHKdXNCOodQ4EzWzi75nd) | [Joey Gilmore](https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64) | [The Ghosts of Mississippi Meet the Gods of Africa](https://open.spotify.com/album/2FhmXNQTIIjlW5i84cELVQ) | 3:41 |
 | 73 | [Doing The Best That I Can](https://open.spotify.com/track/4ev5BVuQ2q9mc4kujCsLB0) | [Mem Shannon](https://open.spotify.com/artist/5iKfnbmxUemw2QQ2o5JQLH) | [Memphis In The Morning](https://open.spotify.com/album/5eVriUjPCiONlS9svvBO0l) | 3:40 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Manu e mais mulheres no volume máximo! Co\-curadoria com
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,145 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,215 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 27 | [Medusa](https://open.spotify.com/track/0HK7bfg1m4bAQLR5B0wruC) | [Michele Andrade](https://open.spotify.com/artist/4DGPK44xtNPRNQSH2Bg73a), [GREGO](https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X) | [Medusa](https://open.spotify.com/album/3HcXOQpyZOzWFJXxd9rETo) | 2:42 |
 | 28 | [Trapo \- Ao Vivo](https://open.spotify.com/track/4tiEwmV6AbwvEBsAda5Kxf) | [Larissa e Mariana](https://open.spotify.com/artist/4Tbs2tTIXSx0CfTQCj96kO), [Júlia & Rafaela](https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02) | [Trapo \(Ao Vivo\)](https://open.spotify.com/album/0behvZdnNJOhhebvHOH1GT) | 2:52 |
 | 29 | [Diz Que Vai Voltar](https://open.spotify.com/track/25amKsUPWWiKLLXzV9Rk1T) | [Klessinha A baronesa](https://open.spotify.com/artist/6pNNbixzbEeQvi5jMaxugZ) | [Diz Que Vai Voltar](https://open.spotify.com/album/5u8BClV4porBu85VOrtHbi) | 3:06 |
-| 30 | [Te Beijo Chorando \- Ao Vivo](https://open.spotify.com/track/0BXgEu3thuTAUPo7LmzwJw) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Bar da Priscila Senna, Pt.1 \(Ao Vivo\)](https://open.spotify.com/album/4ukla1l6L7PBGNwSPTKf8l) | 3:57 |
-| 31 | [Cama de Solteiro](https://open.spotify.com/track/7qOl8S3AK2WLbhGuNIoYVf) | [Seu Desejo](https://open.spotify.com/artist/71qmoLfGw4fDPJPJ2MBNax) | [Cama de Solteiro](https://open.spotify.com/album/2iF96v3cydqrqWq1JpRfKa) | 3:19 |
+| 30 | [Cama de Solteiro](https://open.spotify.com/track/7qOl8S3AK2WLbhGuNIoYVf) | [Seu Desejo](https://open.spotify.com/artist/71qmoLfGw4fDPJPJ2MBNax) | [Cama de Solteiro](https://open.spotify.com/album/2iF96v3cydqrqWq1JpRfKa) | 3:19 |
+| 31 | [Te Beijo Chorando \- Ao Vivo](https://open.spotify.com/track/0BXgEu3thuTAUPo7LmzwJw) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Bar da Priscila Senna, Pt.1 \(Ao Vivo\)](https://open.spotify.com/album/4ukla1l6L7PBGNwSPTKf8l) | 3:57 |
 | 32 | [Me Leva Pra Casa / Escrito Nas Estrelas / Saudade \- Ao Vivo](https://open.spotify.com/track/4zoTqRUlqqlB1uX5qp6qCH) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Raiz Goiânia \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/25jNsrO9DHmCnQ6vQ4vVTL) | 4:25 |
 | 33 | [Pulseira Da Pandora](https://open.spotify.com/track/6SepFfVRDxH0kfOhdPu8T1) | [Vitória Freitas](https://open.spotify.com/artist/1iaeAoN04tK7CK0UHppzAI), [Gabi Saiury](https://open.spotify.com/artist/4AQJYFrojOyAjk0VGvsd5v) | [Pulseira Da Pandora](https://open.spotify.com/album/5D7WN5k0KoDaki3t0DXxpq) | 2:23 |
 | 34 | [Bem Melhor que Tu \- Ao Vivo](https://open.spotify.com/track/5gba4P9rf02hD6vHX7FGYF) | [Day Melo](https://open.spotify.com/artist/2tuOFk7ifECq71v6QWBpie), [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Bem Melhor que Tu \(Ao Vivo\)](https://open.spotify.com/album/1Gauff2B1cz6c8qrGP7Dqg) | 2:50 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 46 | [Assino com X / Do Outro Lado Da Cidade \- Ao Vivo](https://open.spotify.com/track/2PxkAKIQNYBO7RTKzhJMi5) | [Mikaely e Poliany](https://open.spotify.com/artist/4Hs8nCGN5OLyT1lIGQCkf3) | [Assino com X / Do Outro Lado Da Cidade \(Ao Vivo\)](https://open.spotify.com/album/1XVEi0YAuK5FcN4zIm03Gp) | 3:11 |
 | 47 | [Amor Volta Pra Mim](https://open.spotify.com/track/6M0IofPZ7mhkWmQrZuvnth) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Sofazin Sessions](https://open.spotify.com/album/58lBDiqXhSYW5eGEMu4vgc) | 2:30 |
 | 48 | [Muvuca](https://open.spotify.com/track/6CgXbGugDy2XiZm8IwRgwN) | [Anna Catarina](https://open.spotify.com/artist/5ejwC1lGyvPsz5FGaqHsow) | [Muvuca](https://open.spotify.com/album/53bI27tNxFAmguVRUW1yAd) | 2:44 |
-| 49 | [Garota](https://open.spotify.com/track/1GPpTfjZtYdCcrwBVVpyuV) | [Maria Clara](https://open.spotify.com/artist/2f7WgZUIxWzg5KRU5y0fVc) | [Garota](https://open.spotify.com/album/6XonAhian0PAQ0DWRkQY6Y) | 3:28 |
-| 50 | [Vapt Vupt](https://open.spotify.com/track/1Ccih7yKi46g9TK9KQmNGG) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Sobre Nós Dois, Vol.1](https://open.spotify.com/album/1LZgTRSFgdjSj0HrnWS1ZP) | 2:22 |
+| 49 | [Vapt Vupt](https://open.spotify.com/track/1Ccih7yKi46g9TK9KQmNGG) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Sobre Nós Dois, Vol.1](https://open.spotify.com/album/1LZgTRSFgdjSj0HrnWS1ZP) | 2:22 |
+| 50 | [Garota](https://open.spotify.com/track/1GPpTfjZtYdCcrwBVVpyuV) | [Maria Clara](https://open.spotify.com/artist/2f7WgZUIxWzg5KRU5y0fVc) | [Garota](https://open.spotify.com/album/6XonAhian0PAQ0DWRkQY6Y) | 3:28 |
 
 Snapshot ID: `MTcxMjExMzIwMCwwMDAwMDAwMDYzNzQ1MTAwMDg4Y2ZjMTVhN2ZjM2E5OTdmOGFhNjM3`

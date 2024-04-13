@@ -4,7 +4,7 @@
 
 > Bold tracks packing some serious swagger.
 
-194 songs - 11 hr 11 min
+197 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [I Feel Love \(Every Million Miles\)](https://open.spotify.com/track/5gLr6cmDqa1FI4qhb7sUsw) | [The Dead Weather](https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V) | [I Feel Love \(Every Million Miles\)](https://open.spotify.com/album/6nWrvRzCqL7lPL0HRIqfpU) | 3:15 | 2021-11-19 | 2022-07-29 |
 | [I Feel Your Love \- Director's Cut](https://open.spotify.com/track/2H1dRtNUitddC5lt07W3Pp) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Short Movie \(Director's Cut\)](https://open.spotify.com/album/2hGp4zeWcLdeQ0iq7Uj52Q) | 2:53 | 2022-07-11 |  |
 | [I Feel Your Love \- Director's Cut](https://open.spotify.com/track/7CJHue95J5KJGc6t0jatb5) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Short Movie \(Director's Cut\)](https://open.spotify.com/album/6c8tHj60qPvbXZnczssdQC) | 2:53 | 2021-11-19 | 2022-07-29 |
-| [I Know](https://open.spotify.com/track/0HeNDXMTdBDS9eWQkhENJ2) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [I Know](https://open.spotify.com/album/0JvDP9cB6D2fqbTZGSPHUp) | 3:38 | 2021-11-19 |  |
+| [I Know](https://open.spotify.com/track/0HeNDXMTdBDS9eWQkhENJ2) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [I Know](https://open.spotify.com/album/0JvDP9cB6D2fqbTZGSPHUp) | 3:38 | 2021-11-19 | 2024-04-13 |
+| [I Know](https://open.spotify.com/track/7ABX92bwePPIXzUyESWznM) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Little Seeds](https://open.spotify.com/album/1riYBXP7CjURNDdbltWjpF) | 3:38 | 2023-03-10 |  |
 | [I Know What I Am](https://open.spotify.com/track/1NmwD4CJILAT5KXYKv9zfZ) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Baby Darling Doll Face Honey](https://open.spotify.com/album/4lIHrAdqOfKTlIYIMcanJy) | 3:18 | 2023-03-10 |  |
 | [I Know What I Am](https://open.spotify.com/track/5rMNQfYhBMlyitrMAiwQfc) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Baby Darling Doll Face Honey](https://open.spotify.com/album/6zqlGq0OqqP2rQhmxtl9bN) | 3:18 | 2021-11-19 | 2023-07-07 |
 | [I Own You](https://open.spotify.com/track/6fU7uvo8bvdfWz2ABDEDCO) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [I Own You](https://open.spotify.com/album/7CjwCJPYBimMoO2XJFyZJc) | 3:31 | 2021-11-19 | 2022-01-22 |
@@ -112,7 +113,8 @@
 | [Lover's Game](https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz) | 2:49 | 2023-03-10 |  |
 | [Low Lays the Devil](https://open.spotify.com/track/62VmGFPyLoXrlUiyO14iha) | [The Veils](https://open.spotify.com/artist/1MDw0zSUU0XtI9D5JgEZH5) | [Total Depravity](https://open.spotify.com/album/1WSjHvkOe1XUdZUkk4X3CO) | 3:16 | 2022-07-11 |  |
 | [Low Lays the Devil](https://open.spotify.com/track/65ZyD8JcEDubHxsfxOVb2K) | [The Veils](https://open.spotify.com/artist/1MDw0zSUU0XtI9D5JgEZH5) | [Total Depravity](https://open.spotify.com/album/6gASlHZuvLvUUQymZHZGTX) | 3:17 | 2021-11-19 | 2022-07-29 |
-| [LUCKY PENNY](https://open.spotify.com/track/4qHSciBVrNNpUlI8TT9CHQ) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [LUCKY PENNY](https://open.spotify.com/album/0jhsnoHuQRJHawKMLxQe5P) | 3:34 | 2021-11-19 |  |
+| [LUCKY PENNY](https://open.spotify.com/track/4qHSciBVrNNpUlI8TT9CHQ) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [LUCKY PENNY](https://open.spotify.com/album/0jhsnoHuQRJHawKMLxQe5P) | 3:34 | 2021-11-19 | 2024-04-13 |
+| [LUCKY PENNY](https://open.spotify.com/track/5szOfM7kagFfpqaqBZdq9y) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [UNDIVIDED HEART & SOUL](https://open.spotify.com/album/4tqTkXi6AvexkQU5qEB2eJ) | 3:34 | 2023-03-10 |  |
 | [Medicine Woman](https://open.spotify.com/track/3S9rZU1GDPhs8WNDv5HQSs) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Goin' Platinum!](https://open.spotify.com/album/6M5DQTTp3zGaWOH6hXsYJV) | 2:37 | 2021-11-19 |  |
 | [Midnight Hour](https://open.spotify.com/track/4qkRbAJLkfwFGlwfRc1Emx) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [Little May](https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S) | 3:17 | 2021-11-19 |  |
 | [Moonlight](https://open.spotify.com/track/14wY5SJ4WoyMi5GLVeew4c) | [Jeremiah Tall](https://open.spotify.com/artist/11mBQlqUJqZCgqLCKQdhSP) | [Where the Lore Began](https://open.spotify.com/album/3LaoH7HZsER4wBPApBiwa9) | 1:51 | 2021-11-19 |  |
@@ -143,7 +145,8 @@
 | [Raise Hell](https://open.spotify.com/track/2NPHU2WJaI3rrtCNNuQ8L1) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [ROCKISDEAD](https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir) | 3:01 | 2022-07-11 |  |
 | [Raise Hell](https://open.spotify.com/track/3Mzo0ZldvnfQE2n2Gq7MNK) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Helloween Playlist](https://open.spotify.com/album/2qaST3gWF7UuyMCmfZ6Vc0) | 3:01 | 2022-07-11 | 2022-11-14 |
 | [Retrograde](https://open.spotify.com/track/17KeHeGWyRNkbGnZxGBPl7) | [Striking Matches](https://open.spotify.com/artist/4v2DyasTOGK3Pv90w75yar) | [Retrograde](https://open.spotify.com/album/60QwS2TtQfyLMdMcbc6ayo) | 3:25 | 2021-11-19 |  |
-| [Right Time](https://open.spotify.com/track/33bIBZTNim7ZxKrhEAXYyu) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [All Or Nothin'](https://open.spotify.com/album/1d0rJFoBz1G0QsIpyYOa1s) | 3:21 | 2021-11-19 |  |
+| [Right Time](https://open.spotify.com/track/0uav8CsdDPNfe4SibmsMbK) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [All Or Nothin'](https://open.spotify.com/album/6tqZCVnzKF30h3qnIdD0aa) | 3:21 | 2023-03-10 |  |
+| [Right Time](https://open.spotify.com/track/33bIBZTNim7ZxKrhEAXYyu) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [All Or Nothin'](https://open.spotify.com/album/1d0rJFoBz1G0QsIpyYOa1s) | 3:21 | 2021-11-19 | 2024-04-13 |
 | [River](https://open.spotify.com/track/27DA5qcRz7oH54OVNuhuUr) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Badass Females](https://open.spotify.com/album/21YGYYto3r09ftcws57EdL) | 3:34 | 2022-07-11 | 2022-11-14 |
 | [River](https://open.spotify.com/track/3mRLHiSHYtC8Hk7bzZdUs1) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Church Of Scars](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) | 3:36 | 2022-07-11 |  |
 | [River](https://open.spotify.com/track/606HVBE1aPA81oGg5JMa4M) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [River](https://open.spotify.com/album/1Tgy6QtPJQmzaIOgj5kCb8) | 3:40 | 2021-11-19 | 2022-07-29 |

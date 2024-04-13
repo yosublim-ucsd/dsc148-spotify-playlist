@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,074 likes - 225 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,243 likes - 225 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,7 +174,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 164 | [JazzClub](https://open.spotify.com/track/665ucvhzTLPcPL6DK7cdGs) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [ChildNoah](https://open.spotify.com/artist/5H3mowogBSr0PYGW0JrtAg) | [JazzClub](https://open.spotify.com/album/50KxZIJaZJfM7VKxuiSk75) | 1:57 |
 | 165 | [last call](https://open.spotify.com/track/2UUkTapp0rwuWeYAoLykRY) | [sftspkn](https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq) | [last call](https://open.spotify.com/album/0OjezN2RfR36Jq73RjEMfD) | 2:17 |
 | 166 | [Stardrunk](https://open.spotify.com/track/0zaoy5NsKYGKbBfTzLObxB) | [Illuzionary](https://open.spotify.com/artist/2o46d078sJRWBz2evc0WFx), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Stardrunk \| Mystery Man](https://open.spotify.com/album/3hWAx0xCWmoAVrZeTJ0MuL) | 1:46 |
-| 167 | [Golden](https://open.spotify.com/track/72nUDZndXIVqRfcN8QY0OO) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv), [Brunch Collect](https://open.spotify.com/artist/0kAzoeOzrlScAtTLUy613u) | [Golden](https://open.spotify.com/album/14UMA8sw4Y9aBsCdlgWdMN) | 1:54 |
+| 167 | [Golden](https://open.spotify.com/track/72nUDZndXIVqRfcN8QY0OO) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Golden](https://open.spotify.com/album/14UMA8sw4Y9aBsCdlgWdMN) | 1:54 |
 | 168 | [Too Big Without You](https://open.spotify.com/track/1T1O2TmIjhPGGSd5QV279I) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [Futon Feels](https://open.spotify.com/album/6pJmJAz4vTD40Oaw7SzTRP) | 2:20 |
 | 169 | [shelter](https://open.spotify.com/track/2RyZjcwgW7X3eMm38hZ0zo) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [shelter](https://open.spotify.com/album/2luq40AQDoOiR5hkbogFIc) | 2:05 |
 | 170 | [The Phantom Menace](https://open.spotify.com/track/4sPtchKiqgxiGfZmbbLF2u) | [Naboo Garden](https://open.spotify.com/artist/0xsml01TI210Co1sfqxyAi) | [Star Wars Lofi Story II: A New Hope](https://open.spotify.com/album/3iIJMKwD5gEOUvCGz4JHJh) | 1:04 |

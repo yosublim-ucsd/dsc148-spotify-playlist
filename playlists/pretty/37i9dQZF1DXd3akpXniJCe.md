@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3akpXniJCe.md) - [plain]
 
 > Come on down to the waters ye sinner and dig deep into this collection of songs and stories steeped in struggle, hope, darkness, light, sin and salvation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,071 likes - 41 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,083 likes - 41 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3akpXniJCe.md) - [plain]
 | 19 | [Say Hello](https://open.spotify.com/track/3B72eiR3nw9aFISuAHc6MT) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Say Hello](https://open.spotify.com/album/7AE2cf1lunlKFeVJsilram) | 3:06 |
 | 20 | [Brother, Do You Know the Road?](https://open.spotify.com/track/0J37PvXDuYgnTjpuMli03s) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Brother, Do You Know the Road?](https://open.spotify.com/album/1NTRLhDozTGthCY7JyBc54) | 6:09 |
 | 21 | [Too Old To Die Young](https://open.spotify.com/track/6uBETSZKESX7UziMYjQ2jH) | [Brother Dege](https://open.spotify.com/artist/62r8B0snN5IPw8SwCJTEXR) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/2qwPVMQzybhS2jopA0wMy7) | 3:43 |
-| 22 | [Where the Devil Don't Stay](https://open.spotify.com/track/7zka0QS6Kb7eqvm4Mv1jwv) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [The Dirty South](https://open.spotify.com/album/6MaUJWhC6jQJL84AH1MNWy) | 5:19 |
+| 22 | [Where the Devil Don't Stay](https://open.spotify.com/track/28i82TRi1JhKLoRQ6c0nqC) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [The Dirty South](https://open.spotify.com/album/5EVo2jFs4JJ1gUbinbu65h) | 5:19 |
 | 23 | [Days Of Gold](https://open.spotify.com/track/2MT6v18Jwdeldtfpd3tAw5) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [The Cadillac Three](https://open.spotify.com/album/6xor8OxsOmdzUfn2d0LVud) | 4:44 |
 | 24 | [Personal Jesus](https://open.spotify.com/track/5dcwiQFqn0mTcWewYIv7MV) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:19 |
 | 25 | [In Time](https://open.spotify.com/track/5XnXpQM5FR8ZQyvDY8RKQS) | [Mark Collie](https://open.spotify.com/artist/6kMOabD0AtCGJB632jMilU) | [The Punisher: The Album](https://open.spotify.com/album/35bHrnMSA8aZ0P5nemqhIp) | 2:45 |

@@ -4,7 +4,7 @@
 
 > Indie folk ventures into the cinematic West.
 
-189 songs - 11 hr 48 min
+190 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [A Ghost \(feat\. Elena Coats\)](https://open.spotify.com/track/64vZERXqNgRhOl8JQK5xt4) | [Nicknervous](https://open.spotify.com/artist/1JFR5VfeBudog43OLHXreR), [Elena Coats](https://open.spotify.com/artist/76rOhzdFrZx37hyeA5cQgZ) | [A Ghost \(feat\. Elena Coats\)](https://open.spotify.com/album/2S8B8XsaqBe10EFrd0DIsR) | 3:23 | 2019-10-31 |  |
 | [Ain't No Easy Way](https://open.spotify.com/track/2fUUIfU0WurkHNLoUJwGnH) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/5yTFClS2dEGZD5IjM9dfrT) | 2:36 | 2022-01-27 |  |
 | [Ain't No Easy Way](https://open.spotify.com/track/57XbiF3mXSAXDntyEw57lW) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/3otJWr2xpdvZJGNS303RCZ) | 2:36 | 2019-10-31 | 2022-09-09 |
-| [Beautiful Friend](https://open.spotify.com/track/4G3hsMbbTUffZfG9l400kU) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1), [Dan Cutler](https://open.spotify.com/artist/4Z92aSgPiL4FSEUAQ6D2hY) | [Hurry Home](https://open.spotify.com/album/4RKuLpgetLJvQjY8e9NufA) | 2:58 | 2019-10-31 |  |
+| [Beautiful Friend](https://open.spotify.com/track/4G3hsMbbTUffZfG9l400kU) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1), [Dan Cutler](https://open.spotify.com/artist/4Z92aSgPiL4FSEUAQ6D2hY) | [Hurry Home](https://open.spotify.com/album/4RKuLpgetLJvQjY8e9NufA) | 2:58 | 2019-10-31 | 2024-04-13 |
+| [Beautiful Friend](https://open.spotify.com/track/4zMoHCRJbFidzEVDdlDLHm) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1), [Dan Cutler](https://open.spotify.com/artist/4Z92aSgPiL4FSEUAQ6D2hY) | [Hurry Home](https://open.spotify.com/album/4YEcYRJ0rwJeK8MHq7FeP7) | 2:58 | 2024-01-29 |  |
 | [Beggars and Liars](https://open.spotify.com/track/4gXVe6im0ErsgAjnlMlvP6) | [Barn Swallow](https://open.spotify.com/artist/253nugtUUhzlGmERB9W53g) | [Barn Swallow](https://open.spotify.com/album/280Cs8jnSuuk4FXrLgIhvH) | 3:49 | 2019-10-31 |  |
 | [Belo Horizonte](https://open.spotify.com/track/4FuEQNopUQZZuSWhBjIBVM) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [Belo Horizonte](https://open.spotify.com/album/7gHg2zQPQc0IgQT6tx5dVI) | 3:44 | 2022-01-27 | 2022-07-29 |
 | [Belo Horizonte](https://open.spotify.com/track/5v3eLbjMTRPyJk0gDnjCXN) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [Belo Horizonte](https://open.spotify.com/album/0GGi7u94hGWeEmiB1e7Wjn) | 3:44 | 2022-01-27 | 2022-09-20 |

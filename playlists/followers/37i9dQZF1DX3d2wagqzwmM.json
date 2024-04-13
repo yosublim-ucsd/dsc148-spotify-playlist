@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 504239,
+  "2024-04-13": 504587,
   "date_first_scraped": "2022-04-20",
   "description": "Big rooms and big sounds. Cover: Hardwell",
   "name": "Big Room Dance",
@@ -130,6 +130,28 @@
     },
     {
       "album": {
+        "name": "Adrenalina (Minha Gasolina)",
+        "url": "https://open.spotify.com/album/4KrUxvKkI2xRKnaBZhf0SZ"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180845,
+      "name": "Adrenalina (Minha Gasolina)",
+      "url": "https://open.spotify.com/track/04KNQ19sU4QfARgavVEiNR"
+    },
+    {
+      "album": {
         "name": "Adrenaline",
         "url": "https://open.spotify.com/album/6lqEoeymoUgOOgcyNF4mMI"
       },
@@ -229,6 +251,24 @@
       "duration_ms": 137142,
       "name": "All Around The World (La La La La La)",
       "url": "https://open.spotify.com/track/6m4wKDh7iIqfgKRbrIPbz9"
+    },
+    {
+      "album": {
+        "name": "All The Way",
+        "url": "https://open.spotify.com/album/1X8xAhvwyc3WKtAh3XXXhE"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128095,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/2QeYHejze0Pqo0blCxwvZt"
     },
     {
       "album": {
@@ -4461,7 +4501,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 213327,
       "name": "Make It Count",
       "url": "https://open.spotify.com/track/6qroXN9iyKNG6mP0Ddvh1b"
@@ -5815,7 +5855,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 172700,
       "name": "Party Everyday",
       "url": "https://open.spotify.com/track/2PVnAqyfcnCfYJFxULjOPA"
@@ -6441,7 +6481,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 161250,
       "name": "Rave Train",
       "url": "https://open.spotify.com/track/5q5yF4cekhSFdsGFvKpIqA"

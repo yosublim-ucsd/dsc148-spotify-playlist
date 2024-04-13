@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 
 > vamo saí qqer dia?
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,882 likes - 65 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,895 likes - 65 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 | 9 | [Cosplay de Amor da Minha Vida](https://open.spotify.com/track/7l8VsccVXfcUD6tYmiKxzI) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Cosplay de Amor da Minha Vida](https://open.spotify.com/album/3riQ42qoo9R4V7OSA9XoeU) | 3:01 |
 | 10 | [Não Fosse Tão Tarde](https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde](https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP) | 3:25 |
 | 11 | [nada contra \(ciúme\)](https://open.spotify.com/track/1unDZmI0EXHaZ7FWugXSqC) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [nada contra \(ciúme\)](https://open.spotify.com/album/4eQOYhDped8j3q2tZHVdM0) | 2:22 |
-| 12 | [sabe que me tem](https://open.spotify.com/track/5kk08ShrZufgOFDbtGeLG1) | [antônio](https://open.spotify.com/artist/0gBzJRqpKs6se8l0coo7ue), [Gabriel Henriques](https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe), [Levi Menezes](https://open.spotify.com/artist/4m1Mj4V2sNYg5vmEzff8ti) | [sabe que me tem](https://open.spotify.com/album/5fGWudLDR2U7XkZE0kls24) | 2:59 |
+| 12 | [sabe que me tem](https://open.spotify.com/track/5kk08ShrZufgOFDbtGeLG1) | [antônio](https://open.spotify.com/artist/0gBzJRqpKs6se8l0coo7ue), [Gabriel Saffi](https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe), [Levi Menezes](https://open.spotify.com/artist/4m1Mj4V2sNYg5vmEzff8ti) | [sabe que me tem](https://open.spotify.com/album/5fGWudLDR2U7XkZE0kls24) | 2:59 |
 | 13 | [Intriga](https://open.spotify.com/track/0A2js14ZO6nnhK7zzzV1oP) | [Gigio Gama](https://open.spotify.com/artist/6zdrZoZm9ISZeUPGAl5kf5) | [Intriga](https://open.spotify.com/album/47yIhkQZzhA2YsTxQ3DP1j) | 1:52 |
 | 14 | [Vênus](https://open.spotify.com/track/5TChJtHcdZXJILz64SylZi) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Vênus](https://open.spotify.com/album/3IWdWQcegW47JGPRM30t5S) | 4:07 |
 | 15 | [Copacabana](https://open.spotify.com/track/2tyvnpNAEWSH7ZMLxDwnFV) | [L3ozz](https://open.spotify.com/artist/2re8PPjIT5xydo7CAYQb02) | [Copacabana](https://open.spotify.com/album/059xp13b7fffD12Rdc2XDs) | 2:23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94qaYRnkufr.md) - [plain]
 
 > The essential tracks by the Dutch DJ and producer <a href="spotify:artist:60d24wfXkVzDSfLS6hyCjZ">Martin Garrix</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 898,071 likes - 96 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 898,119 likes - 96 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

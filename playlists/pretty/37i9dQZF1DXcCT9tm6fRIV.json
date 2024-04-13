@@ -1,6 +1,6 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 239707,
+  "num_followers": 239725,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Solo Guitarra",
-        "url": "https://open.spotify.com/album/6WFa7LTfXDWZM5FimkfbfU"
-      },
-      "artists": [
-        {
-          "name": "Luis Salinas",
-          "url": "https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk"
-        }
-      ],
-      "duration_ms": 154293,
-      "name": "Uno",
-      "url": "https://open.spotify.com/track/6kDLsaJF6yNhgGXRH4IcNP"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Tango Collection",
         "url": "https://open.spotify.com/album/1PVv7CoAyEKcXdTigwDzQ6"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 140503,
       "name": "Valsecito Criollo",
       "url": "https://open.spotify.com/track/4ssSpLiLyPMpd7vKb6Pi6z"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Solo Guitarra",
+        "url": "https://open.spotify.com/album/6WFa7LTfXDWZM5FimkfbfU"
+      },
+      "artists": [
+        {
+          "name": "Luis Salinas",
+          "url": "https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk"
+        }
+      ],
+      "duration_ms": 154293,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/6kDLsaJF6yNhgGXRH4IcNP"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Fugata",
-        "url": "https://open.spotify.com/album/16AGklCV9Z4aCzVZP7sdFy"
-      },
-      "artists": [
-        {
-          "name": "Quinteto Astor Piazzolla",
-          "url": "https://open.spotify.com/artist/3ycM88bNGIojpJCVIOYkj8"
-        }
-      ],
-      "duration_ms": 161794,
-      "name": "Fugata",
-      "url": "https://open.spotify.com/track/2Ifm6jyrzqpRZZrCcmX6W2"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Comunidad",
         "url": "https://open.spotify.com/album/2W4TjCwnnCsqSnhczdVL76"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 247026,
       "name": "El Abrojito",
       "url": "https://open.spotify.com/track/6RSHrF9jTWWlQbGnw6mRan"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Fugata",
+        "url": "https://open.spotify.com/album/16AGklCV9Z4aCzVZP7sdFy"
+      },
+      "artists": [
+        {
+          "name": "Quinteto Astor Piazzolla",
+          "url": "https://open.spotify.com/artist/3ycM88bNGIojpJCVIOYkj8"
+        }
+      ],
+      "duration_ms": 161794,
+      "name": "Fugata",
+      "url": "https://open.spotify.com/track/2Ifm6jyrzqpRZZrCcmX6W2"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1059,22 +1059,34 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Flor de Tangos y Poemas (feat. Juan Trepiana)",
-        "url": "https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz"
+        "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
+        "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
       },
       "artists": [
         {
-          "name": "Horacio Ferrer",
-          "url": "https://open.spotify.com/artist/2YVUCSYeU9bgnXbno2WCu5"
-        },
-        {
-          "name": "Juan Trepiana",
-          "url": "https://open.spotify.com/artist/1raFv3PXteep5J6poiA6we"
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
         }
       ],
-      "duration_ms": 231520,
-      "name": "La Bicicleta Blanca",
-      "url": "https://open.spotify.com/track/52gnzovIQX4fc8CzmXV3qI"
+      "duration_ms": 204714,
+      "name": "Trenzas",
+      "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Viejo Zen del Alma",
+        "url": "https://open.spotify.com/album/3zis7pQusdinQyRtpkOjS0"
+      },
+      "artists": [
+        {
+          "name": "Aldo Saralegui",
+          "url": "https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1"
+        }
+      ],
+      "duration_ms": 199598,
+      "name": "A Don Agustin Bardi",
+      "url": "https://open.spotify.com/track/7BhH1HdsclSupDYIxvgLaa"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1099,18 +1111,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Viejo Zen del Alma",
-        "url": "https://open.spotify.com/album/3zis7pQusdinQyRtpkOjS0"
+        "name": "Flor de Tangos y Poemas (feat. Juan Trepiana)",
+        "url": "https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz"
       },
       "artists": [
         {
-          "name": "Aldo Saralegui",
-          "url": "https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1"
+          "name": "Horacio Ferrer",
+          "url": "https://open.spotify.com/artist/2YVUCSYeU9bgnXbno2WCu5"
+        },
+        {
+          "name": "Juan Trepiana",
+          "url": "https://open.spotify.com/artist/1raFv3PXteep5J6poiA6we"
         }
       ],
-      "duration_ms": 199598,
-      "name": "A Don Agustin Bardi",
-      "url": "https://open.spotify.com/track/7BhH1HdsclSupDYIxvgLaa"
+      "duration_ms": 231520,
+      "name": "La Bicicleta Blanca",
+      "url": "https://open.spotify.com/track/52gnzovIQX4fc8CzmXV3qI"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1131,22 +1147,6 @@
       "duration_ms": 190438,
       "name": "Barrio de Tango",
       "url": "https://open.spotify.com/track/5eCCfVLbsR9dX93NV4sw5j"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
-        "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
-      },
-      "artists": [
-        {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
-        }
-      ],
-      "duration_ms": 204714,
-      "name": "Trenzas",
-      "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Todo Es Amor",
+        "url": "https://open.spotify.com/album/2kV8huoq9yaO65m6LeCkl5"
+      },
+      "artists": [
+        {
+          "name": "Cristian Chinellato",
+          "url": "https://open.spotify.com/artist/3jcTbMxvNkZAzH52lzHsLy"
+        }
+      ],
+      "duration_ms": 253573,
+      "name": "Todo Es Amor",
+      "url": "https://open.spotify.com/track/1cj8FcBF6bs8mWXqAfwgoH"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "A los Cantores (En Vivo)",
         "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 167200,
       "name": "Barrio de Tango - En Vivo",
       "url": "https://open.spotify.com/track/3d0IYd0xEiXbcS9bCEaWd5"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Todo Es Amor",
-        "url": "https://open.spotify.com/album/2kV8huoq9yaO65m6LeCkl5"
-      },
-      "artists": [
-        {
-          "name": "Cristian Chinellato",
-          "url": "https://open.spotify.com/artist/3jcTbMxvNkZAzH52lzHsLy"
-        }
-      ],
-      "duration_ms": 253573,
-      "name": "Todo Es Amor",
-      "url": "https://open.spotify.com/track/1cj8FcBF6bs8mWXqAfwgoH"
     },
     {
       "added_at": "2023-12-01 03:00:00",

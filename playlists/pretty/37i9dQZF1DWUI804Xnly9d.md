@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,601 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,608 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,13 +18,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 8 | [Meri Duniya Tu \(Mehfil Unplugged\)](https://open.spotify.com/track/5gx74G9kqfjddSddH4LFQ0) | [Purusharth Jain](https://open.spotify.com/artist/5qHTw4EBukwn3GFseugVmc) | [Meri Duniya Tu \(Mehfil Unplugged\)](https://open.spotify.com/album/3W7RQsmVuo94rvZZuNfp8H) | 3:46 |
 | 9 | [Gulaab Tum](https://open.spotify.com/track/1yFYVPFQZfRPPvPlVFF71s) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Gulaab Tum](https://open.spotify.com/album/2iya1ghZ9OpUACDggqRBaf) | 4:22 |
 | 10 | [Piya \(Mehfil Unplugged\)](https://open.spotify.com/track/0kFfxbe1B56kGtNZgjHI3d) | [Udit Saxena](https://open.spotify.com/artist/69BwX40UDcRRhksPIX43q5) | [Piya \(Mehfil Unplugged\)](https://open.spotify.com/album/0MUdhXqh4Px7wQ5HXYi8c3) | 2:12 |
-| 11 | [Rok Na Paya](https://open.spotify.com/track/4YuFsqg0XZdOvsspVcoyeF) | [Swastik The Band](https://open.spotify.com/artist/740SYcL7Hl2TatDM2wYV8V) | [Rok Na Paya](https://open.spotify.com/album/1tWrFRHjlm4O3WOQgZwEXo) | 3:48 |
-| 12 | [Muskaan](https://open.spotify.com/track/7wdEJV1MweMXPuSOuVhdQQ) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Muskaan](https://open.spotify.com/album/317ElnVv4yrnKXS4nQNNn9) | 3:37 |
-| 13 | [Dil Ki Kahani](https://open.spotify.com/track/63PAklGYefhEPUWMXiONSC) | [Anandi Aheeri](https://open.spotify.com/artist/24FIQnYu0IgWUXE6qvXYPe) | [Dil Ki Kahani](https://open.spotify.com/album/7mhklP1bZglS3XGjIxefhE) | 3:46 |
-| 14 | [Haq Hai Tujhe](https://open.spotify.com/track/0QeX9QuEdqUlC767B1DPul) | [Krsna Solo](https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6), [Prabhjee Kaur](https://open.spotify.com/artist/4eCQSJiqQytxz4IJx0I7Bt) | [Haq Hai Tujhe](https://open.spotify.com/album/1GlOG03Zy4icRF2rxMA0GK) | 3:50 |
-| 15 | [Khwabon Ke Rang \- Unplugged](https://open.spotify.com/track/6efy1N25gcAPybVUkYRCGK) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Khwabon Ke Rang \(Unplugged\)](https://open.spotify.com/album/5LXwwsipVjbLLrDjsMrSmW) | 1:40 |
-| 16 | [Betabiyaan](https://open.spotify.com/track/7pv3jYk70LbTsKOhYzqOWo) | [Sayuj Jain](https://open.spotify.com/artist/2Bcqwyd8GPNHyeqo3EbtDO) | [Betabiyaan](https://open.spotify.com/album/1p7qu0SWTkMBCxkqz9QvJ4) | 3:22 |
-| 17 | [Pyaar](https://open.spotify.com/track/1DvFc1hozo6IhBj8Ae4GfN) | [Nikul Sabalpara](https://open.spotify.com/artist/4g9yRDkHYocIsv298xj3Kh) | [Pyaar](https://open.spotify.com/album/1zJMlunXj3rYzXJ1KYBOWw) | 2:28 |
+| 11 | [Ruk Ja Zara](https://open.spotify.com/track/1kjZhK0yDSb0EJ3CtAhdLo) | [Shaktay](https://open.spotify.com/artist/4RdvM1ZV9Qpkf9Og8jqu6N) | [Ruk Ja Zara](https://open.spotify.com/album/709EDNOfKy6fgn33Hmu1df) | 3:56 |
+| 12 | [Mangoge Na ?](https://open.spotify.com/track/4Mpj5odhILzZEMylxorNOs) | [Arjuna Harjai](https://open.spotify.com/artist/6EwLfbS1MI8kZXTIwkGfHN) | [Mangoge Na ?](https://open.spotify.com/album/1ynBnifQXmEeDrKTbIi9w7) | 3:07 |
+| 13 | [Muskaan](https://open.spotify.com/track/7wdEJV1MweMXPuSOuVhdQQ) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Muskaan](https://open.spotify.com/album/317ElnVv4yrnKXS4nQNNn9) | 3:37 |
+| 14 | [Dil Ki Kahani](https://open.spotify.com/track/63PAklGYefhEPUWMXiONSC) | [Anandi Aheeri](https://open.spotify.com/artist/24FIQnYu0IgWUXE6qvXYPe) | [Dil Ki Kahani](https://open.spotify.com/album/7mhklP1bZglS3XGjIxefhE) | 3:46 |
+| 15 | [Haq Hai Tujhe](https://open.spotify.com/track/0QeX9QuEdqUlC767B1DPul) | [Krsna Solo](https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6), [Prabhjee Kaur](https://open.spotify.com/artist/4eCQSJiqQytxz4IJx0I7Bt) | [Haq Hai Tujhe](https://open.spotify.com/album/1GlOG03Zy4icRF2rxMA0GK) | 3:50 |
+| 16 | [Khwabon Ke Rang \- Unplugged](https://open.spotify.com/track/6efy1N25gcAPybVUkYRCGK) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Khwabon Ke Rang \(Unplugged\)](https://open.spotify.com/album/5LXwwsipVjbLLrDjsMrSmW) | 1:40 |
+| 17 | [Betabiyaan](https://open.spotify.com/track/7pv3jYk70LbTsKOhYzqOWo) | [Sayuj Jain](https://open.spotify.com/artist/2Bcqwyd8GPNHyeqo3EbtDO) | [Betabiyaan](https://open.spotify.com/album/1p7qu0SWTkMBCxkqz9QvJ4) | 3:22 |
 | 18 | [Tu Yaad Aa Gaya](https://open.spotify.com/track/7ExuD1jzzH9cU99TvDdFTV) | [Riju Das](https://open.spotify.com/artist/1ami69Z1o5XYlaAu913go3) | [Tu Yaad Aa Gaya](https://open.spotify.com/album/2F5rOCYov9tKq9lcxHMUrq) | 2:24 |
 | 19 | [Humsafar](https://open.spotify.com/track/516SWZ5y1twlrP0IYDGPk0) | [Rudra](https://open.spotify.com/artist/5EO6SxkYfoyhOFwfy9HEUq) | [Humsafar](https://open.spotify.com/album/5bMPgMjeFLzBmXTu8UkBum) | 2:42 |
 | 20 | [Pehli Sharam](https://open.spotify.com/track/5VqWH46kP3CM1B6goFqOSU) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Big Girls Don’t Cry](https://open.spotify.com/album/2roFrzdSEJ1IKTM4UzlnwW) | 3:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Piya Tose Naina Lage Re](https://open.spotify.com/track/6br9un9rA9AqqRTSgWq3jJ) | [Khatija Rahman](https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP), [Firdaus Orchestra](https://open.spotify.com/artist/3drENjzQNPCE5CSMby4SwB) | [Kuhu Kuhu](https://open.spotify.com/album/4F6BUhEStYseE1u6eob2bg) | 4:18 |
 | 75 | [Manmaani](https://open.spotify.com/track/71F3RWCBhiCixxN3fMmxqc) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Manmaani](https://open.spotify.com/album/3pd5cpY9hUSI7ZCE3STwwT) | 3:54 |
 
-Snapshot ID: `MTcxMjY0Mjk4MiwwMDAwMDAwMGNlZjc4NjFiYzNkY2RjYjQ3ZWNiYTYxM2NlYTY2ZWNi`
+Snapshot ID: `MTcxMjkxNjcxNCwwMDAwMDAwMGNlODBiNjkwYjllMDc5M2E1NTJkNTk3YzMyODEwZTBm`

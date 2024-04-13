@@ -1,7 +1,7 @@
 {
-  "2024-04-12": 147339,
+  "2024-04-13": 147434,
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Kybba",
+  "description": "Les hits dancehall du moment. Photo : Shenseea",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -1953,6 +1953,24 @@
       "duration_ms": 172713,
       "name": "Dem Fear WE",
       "url": "https://open.spotify.com/track/7GW1ObEMhFzGIlEmNPjt74"
+    },
+    {
+      "album": {
+        "name": "Demon Time",
+        "url": "https://open.spotify.com/album/7u5WyK8nbQzCxEAcZ73HNa"
+      },
+      "artists": [
+        {
+          "name": "La Toya Linger",
+          "url": "https://open.spotify.com/artist/340ZBWi8L5lldZGTHqQfm7"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137575,
+      "name": "Demon Time",
+      "url": "https://open.spotify.com/track/23IuFgCndsodlvirH5HEfJ"
     },
     {
       "album": {
@@ -3945,7 +3963,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 123956,
       "name": "LAMBIS",
       "url": "https://open.spotify.com/track/5bV24BrLl43oewdVtu1jAa"

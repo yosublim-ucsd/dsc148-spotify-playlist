@@ -1,13 +1,29 @@
 {
   "description": "Jazz. But funky. Cover: Sly5thAve",
-  "num_followers": 336788,
+  "num_followers": 336954,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjI4OTY2MCwwMDAwMDAwMGE0ZjlkNzA5MTQ1ZWYyMzMyYzA5ZTI2MGY1MWJiZTQ3",
+  "snapshot_id": "MTcxMjg5NDQ2MCwwMDAwMDAwMGNkMmMwNTIyODM4ZGMyNDdhODlkYWVhZjRhZjc2ZmIx",
   "tracks": [
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Motionation",
+        "url": "https://open.spotify.com/album/6tOvkErsqwykWt7muOGEhD"
+      },
+      "artists": [
+        {
+          "name": "Huntertones",
+          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Wonder Boy",
+      "url": "https://open.spotify.com/track/5hPmsVirHEtxjdJKUGYGjP"
+    },
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
@@ -23,6 +39,50 @@
       "duration_ms": 314481,
       "name": "Liberation",
       "url": "https://open.spotify.com/track/5SzCMMK5oo6PoiCSiii328"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Dick Cavett",
+        "url": "https://open.spotify.com/album/7srtYYAjwKxJHR01YQTZMB"
+      },
+      "artists": [
+        {
+          "name": "Tabloid",
+          "url": "https://open.spotify.com/artist/5rcnMGND7eyKJRbVGpIjOG"
+        }
+      ],
+      "duration_ms": 304532,
+      "name": "Dick Cavett",
+      "url": "https://open.spotify.com/track/197JI3tYRtPb4Ehr8FgsAy"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Shadows (Instrumental)",
+        "url": "https://open.spotify.com/album/1wmA3Eo9oz7BLbapXe79pS"
+      },
+      "artists": [
+        {
+          "name": "Cosa Nostra Strings",
+          "url": "https://open.spotify.com/artist/2WDAb6xQsUf8Hp2Yum9VYl"
+        },
+        {
+          "name": "Lilan Kane",
+          "url": "https://open.spotify.com/artist/4nhMAry4ZabG1t7YOwxSAB"
+        },
+        {
+          "name": "Jazz Mafia",
+          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
+        },
+        {
+          "name": "Adam Theis",
+          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
+        }
+      ],
+      "duration_ms": 311756,
+      "name": "Shadows (Instrumental)",
+      "url": "https://open.spotify.com/track/0GkU21qR1yl90YGzs5EkS3"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -41,6 +101,30 @@
       "url": "https://open.spotify.com/track/6KvcUykBW13rgK9Bucxq3d"
     },
     {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Smooth it Out",
+        "url": "https://open.spotify.com/album/2vuN2O1XavQB2wFvD5HPuA"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Joe Cleveland",
+          "url": "https://open.spotify.com/artist/1OREq1cp67WA7bvs7v1Ogg"
+        },
+        {
+          "name": "Stixx Taylor",
+          "url": "https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg"
+        }
+      ],
+      "duration_ms": 156584,
+      "name": "Smooth it out",
+      "url": "https://open.spotify.com/track/1jPVXZmIJonOnwbMFPFg9V"
+    },
+    {
       "added_at": "2024-03-29 04:01:00",
       "album": {
         "name": "Cincy Kid",
@@ -55,6 +139,34 @@
       "duration_ms": 224813,
       "name": "Cincy Kid",
       "url": "https://open.spotify.com/track/5dEYKPx9UaRZsmeYGVNPmU"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Gentle Thoughts",
+        "url": "https://open.spotify.com/album/2T3hEDmiyPBZSxbU12vFOf"
+      },
+      "artists": [
+        {
+          "name": "cosmic collective",
+          "url": "https://open.spotify.com/artist/6ereX9sq3PEIBLASJA8YEW"
+        },
+        {
+          "name": "DJ PRAWN",
+          "url": "https://open.spotify.com/artist/4jPW4kWsgb8VvOnkEofr5x"
+        },
+        {
+          "name": "Trey Tarzia",
+          "url": "https://open.spotify.com/artist/2KRPe190bgjDaiDUsbtt4R"
+        },
+        {
+          "name": "DJ Harrison",
+          "url": "https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK"
+        }
+      ],
+      "duration_ms": 491250,
+      "name": "Gentle Thoughts",
+      "url": "https://open.spotify.com/track/1QW7UMRftBD5tPs0Q3ODff"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -99,6 +211,22 @@
       "duration_ms": 247895,
       "name": "I Feel The Same",
       "url": "https://open.spotify.com/track/3g5USVPXT64avOIty1eJEO"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Bowser",
+        "url": "https://open.spotify.com/album/05ctf1p6VEWIRhuugjjVko"
+      },
+      "artists": [
+        {
+          "name": "Anika Nilles",
+          "url": "https://open.spotify.com/artist/0IF3ewdvS7h9Wu3gDgV3fi"
+        }
+      ],
+      "duration_ms": 214943,
+      "name": "Bowser",
+      "url": "https://open.spotify.com/track/5iMVjpcTyW38r3q7lWgevd"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -175,54 +303,6 @@
       "duration_ms": 259213,
       "name": "Ok Boomer",
       "url": "https://open.spotify.com/track/57zbii1xrWEJqiMYq2idih"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
-        "name": "Cocoa Dust",
-        "url": "https://open.spotify.com/album/50w57xbAi9g515Wz2M5aYE"
-      },
-      "artists": [
-        {
-          "name": "Greg Spero",
-          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
-        },
-        {
-          "name": "Jough Cleveland",
-          "url": "https://open.spotify.com/artist/5WFQUb4qmSzX5syH6iQr5n"
-        },
-        {
-          "name": "Stixx Taylor",
-          "url": "https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg"
-        },
-        {
-          "name": "Dominique Xavier",
-          "url": "https://open.spotify.com/artist/08pNXT13jLN3ri7eT6pRuv"
-        }
-      ],
-      "duration_ms": 227540,
-      "name": "Cocoa Dust",
-      "url": "https://open.spotify.com/track/500lP9fUi5DY2Ma8xkVYIy"
-    },
-    {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
-        "name": "Tunnel",
-        "url": "https://open.spotify.com/album/5Xbz11RXFIeibXkdtkwx5d"
-      },
-      "artists": [
-        {
-          "name": "Huntertones",
-          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
-        },
-        {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
-        }
-      ],
-      "duration_ms": 344226,
-      "name": "Tunnel",
-      "url": "https://open.spotify.com/track/7CrwpvLYTTJW9eA6qmFKyh"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -523,30 +603,6 @@
       "duration_ms": 327417,
       "name": "Deluxe Refuge",
       "url": "https://open.spotify.com/track/3bPk42yKpTX0UWkICl8btZ"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "Un-Covered, Vol. 5: Nigeria, Jamaica & Beyond",
-        "url": "https://open.spotify.com/album/1mrU0djpXxqoIVnS2mJWiU"
-      },
-      "artists": [
-        {
-          "name": "Jazz Mafia",
-          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
-        },
-        {
-          "name": "Brass Mafia",
-          "url": "https://open.spotify.com/artist/5AUthOkaQS0S3cYfgA66N1"
-        },
-        {
-          "name": "Adam Theis",
-          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
-        }
-      ],
-      "duration_ms": 348489,
-      "name": "It's Just Begun / Soul Power - Instrumental",
-      "url": "https://open.spotify.com/track/2F7EjHxQAwckOxP4SE2B0J"
     },
     {
       "added_at": "2023-11-10 05:01:00",
@@ -1315,54 +1371,6 @@
       "duration_ms": 441426,
       "name": "Rajazz",
       "url": "https://open.spotify.com/track/6fW1ahgSQHxlBWwgDrRpqx"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "F'Uncstown",
-        "url": "https://open.spotify.com/album/01IB5HBScOdRk0V3GCoeCA"
-      },
-      "artists": [
-        {
-          "name": "Unc D",
-          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
-        },
-        {
-          "name": "Thin Thicket",
-          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
-        },
-        {
-          "name": "Damon the Soulful Samurai",
-          "url": "https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp"
-        },
-        {
-          "name": "Winston Bell",
-          "url": "https://open.spotify.com/artist/0Izs56yAnVoK3Cgy4Y68h2"
-        },
-        {
-          "name": "Antonio Labra",
-          "url": "https://open.spotify.com/artist/27zwBTNwuN786OvS6BpzD4"
-        },
-        {
-          "name": "Nicholas Frank",
-          "url": "https://open.spotify.com/artist/1lvvQNtbJDnA6VYOps1VAH"
-        },
-        {
-          "name": "Thomas Russell",
-          "url": "https://open.spotify.com/artist/68xOAUse5cObr1No8jPoel"
-        },
-        {
-          "name": "Nate Yingling",
-          "url": "https://open.spotify.com/artist/580mPpv8hFKzL8f849ABLi"
-        },
-        {
-          "name": "Drehova",
-          "url": "https://open.spotify.com/artist/2WYpO40KD8lWY8YAC7L4DO"
-        }
-      ],
-      "duration_ms": 222168,
-      "name": "F'Uncstown",
-      "url": "https://open.spotify.com/track/13IirgDjn1v1gZMMVrWQEA"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -3093,22 +3101,6 @@
       "url": "https://open.spotify.com/track/7lJUAQCxvZVIUA6W0UgnYT"
     },
     {
-      "added_at": "2023-02-17 05:01:00",
-      "album": {
-        "name": "Open Mind",
-        "url": "https://open.spotify.com/album/44QNn43CMkEyzWvbr1lW8v"
-      },
-      "artists": [
-        {
-          "name": "Tabloid",
-          "url": "https://open.spotify.com/artist/5rcnMGND7eyKJRbVGpIjOG"
-        }
-      ],
-      "duration_ms": 284148,
-      "name": "Sanchez",
-      "url": "https://open.spotify.com/track/75pHHXVMycJIX961oCotoW"
-    },
-    {
       "added_at": "2023-03-17 04:01:00",
       "album": {
         "name": "Feel The Spirit",
@@ -3275,26 +3267,6 @@
       "duration_ms": 237629,
       "name": "On The Hook",
       "url": "https://open.spotify.com/track/7LaDliDRfKkzKFNVOoBJTv"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Melomazeando",
-        "url": "https://open.spotify.com/album/5KTKZNtFdtY8jf5bN8uO45"
-      },
-      "artists": [
-        {
-          "name": "Daniel Maza",
-          "url": "https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7"
-        },
-        {
-          "name": "Patricia \"Piojo\" Zappia",
-          "url": "https://open.spotify.com/artist/0BDCAebyhWwaNQLpfa1aLK"
-        }
-      ],
-      "duration_ms": 295038,
-      "name": "Tema de Benja",
-      "url": "https://open.spotify.com/track/3xWWQ10PFmASoMTeCBmyBW"
     },
     {
       "added_at": "2023-04-28 04:01:00",

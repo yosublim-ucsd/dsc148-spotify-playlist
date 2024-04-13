@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s pop. Photo : Sia",
-  "num_followers": 233692,
+  "num_followers": 233735,
   "original_name": "Nouveaut\u00e9s Pop",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "MTcxMjg4NDU2NSwwMDAwMDAwMGQ4MDJlMjUzZDY1MWRmYjRkYTg5OTY4Njk0OGM5ODU0",
   "tracks": [
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/7GIDFaGcsp2vHztfBbY5RI"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 259902,
+      "name": "I Forgive You",
+      "url": "https://open.spotify.com/track/5ytXEc1V6ZdSpFNsg81X8O"
+    },
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {

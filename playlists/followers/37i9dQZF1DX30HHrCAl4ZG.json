@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 834434,
+  "2024-04-13": 834454,
   "date_first_scraped": "2021-12-21",
   "description": "Explore all things indie rock right now. Featuring music from Blondshell & Bully",
   "name": "Today's Indie Rock",
@@ -20705,10 +20705,28 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 143819,
       "name": "Soak it In",
       "url": "https://open.spotify.com/track/4bkj4j64FkMlf6nvobCVOJ"
+    },
+    {
+      "album": {
+        "name": "Mundane Pleasure",
+        "url": "https://open.spotify.com/album/3dt5c3PWLzdNQmwWTu99qz"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hayes",
+          "url": "https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143819,
+      "name": "Soak it In",
+      "url": "https://open.spotify.com/track/6FYpOljm1nFjvbyLh0l1QX"
     },
     {
       "album": {

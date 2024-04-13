@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,056 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,088 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 2 | [Question](https://open.spotify.com/track/2m5ItG3IIMsaGYJjZOvUoE) | [Old 97's](https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF) | [Satellite Rides](https://open.spotify.com/album/6SVjHaDr6gwCXUEvHoUhpA) | 2:15 |
 | 3 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 |
 | 4 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 |
-| 5 | [Outfit](https://open.spotify.com/track/0jkCFkoSMYsElFZTbTb38r) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [Decoration Day](https://open.spotify.com/album/25wDEWipTG177BElptDzlD) | 4:06 |
+| 5 | [Outfit](https://open.spotify.com/track/2nes7xBxT8C2ol7lthypyF) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [Decoration Day](https://open.spotify.com/album/6OvqGbq7ehttNYfH5vjncw) | 4:06 |
 | 6 | [Mountain Girl](https://open.spotify.com/track/18arNEI2X191HSDrRMQqkH) | [Blue Mountain](https://open.spotify.com/artist/4S0WYuq4dnunQV6cL3I49i) | [Dog Days](https://open.spotify.com/album/6bhEViXyntNPGV59UMTMYi) | 4:05 |
 | 7 | [Methamphetamine](https://open.spotify.com/track/5yIMygzP9aLmGa7iJApB7P) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Tennessee Pusher](https://open.spotify.com/album/4m4WoEGrrAZ5mZvapu4dY3) | 5:27 |
 | 8 | [Back Against the Wall](https://open.spotify.com/track/1JWqYAwi12yzh2UmoS4BcM) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Notes of Blue](https://open.spotify.com/album/1KH2KuYqXDkFfUhfCLrEbs) | 3:27 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 55 | [Cigarettes Coffee and Booze](https://open.spotify.com/track/0mFNgFQCUGjy1qsKQzkTwr) | [The Minus 5](https://open.spotify.com/artist/7k8oHbK8ratXIVlYX7fVRU) | [The Minus 5](https://open.spotify.com/album/5Xcmey2FF0QPeFPLDEOOk0) | 4:24 |
 | 56 | [Desdemona](https://open.spotify.com/track/7FezHxN3JiG6lK7L5Sl84M) | [The Alternate Routes](https://open.spotify.com/artist/2bIN86ZmfyWfkN9c3C3YXE), [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [A Sucker's Dream](https://open.spotify.com/album/69e9cBeYvuAFXC1iaT8T7H) | 5:54 |
 | 57 | [The El](https://open.spotify.com/track/6C0SXBkORzmP9elNb2gMcu) | [Rhett Miller](https://open.spotify.com/artist/0wNZd1CMOsFZ0TiBhlqjD5) | [The Instigator](https://open.spotify.com/album/0Pup5rX8QvSNgSBLX7Vu69) | 3:09 |
-| 58 | [Pinball Song](https://open.spotify.com/track/3X2stgfjH1I30FMLHzFWJI) | [Slobberbone](https://open.spotify.com/artist/5U1pEBuiFLycsQ4mYP3nmK) | [Everything You Thought Was Right Was Wrong Today](https://open.spotify.com/album/1Yj7OK3fnKoic98iMha6Bw) | 4:36 |
+| 58 | [Pinball Song](https://open.spotify.com/track/7CHu6LTxpP2sGqp8RpLR21) | [Slobberbone](https://open.spotify.com/artist/5U1pEBuiFLycsQ4mYP3nmK) | [Everything You Thought Was Right Was Wrong Today](https://open.spotify.com/album/7zD9HvdRiTjrMLPRlYUhPm) | 4:36 |
 | 59 | [Excuse Me While I Break My Own Heart Tonight \- Strangers Almanac Album Version](https://open.spotify.com/track/5KCzU5ujrY4hZZlImNu8Oq) | [Whiskeytown](https://open.spotify.com/artist/0tyLMmQvEuyQR4qjGBdbem) | [Strangers Almanac](https://open.spotify.com/album/29gnqAHOpVJJL3h8wPrlMl) | 3:14 |
 | 60 | [New Madrid](https://open.spotify.com/track/4Ssgx7QJr0fzabt4D4JZ1b) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Anodyne](https://open.spotify.com/album/5DQRAlGAFTpHsXGEg5zw9V) | 3:31 |
 | 61 | [Star Witness](https://open.spotify.com/track/17fWdcSAhLc6559youmLap) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 5:16 |

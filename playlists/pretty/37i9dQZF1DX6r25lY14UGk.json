@@ -1,13 +1,201 @@
 {
   "description": "New releases for the kids. Cover: Sam Tsui & Casey Breves",
-  "num_followers": 20266,
+  "num_followers": 20307,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjI4OTY2MCwwMDAwMDAwMDJkMWNhNzRhZjNhMDczMTk4MzI0ODQ4MTZlMDljNTFl",
+  "snapshot_id": "MTcxMjg5NDQ2MCwwMDAwMDAwMGI2OTlhMzE4ODU1YjIzM2ExODgxNzI2MWEzMmNiZmYw",
   "tracks": [
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Let It Roll (From \"The Garfield Movie\")",
+        "url": "https://open.spotify.com/album/4NpZf8CeLUEZ22RZYfwluT"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 163640,
+      "name": "Let It Roll - From \"The Garfield Movie\"",
+      "url": "https://open.spotify.com/track/2sEY3b8G71YuHxlu5XWJMN"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/1z3S0gdCbTfQawClHMHTQ5"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "duration_ms": 218079,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/3uSkMumeDPJtIrXVIBJVqY"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/0Uk9GsS4sbh7yvTECaMnti"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 190855,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/5QhVuThB74lRLXOYUfyPjS"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Equestria Girls (Cafeteria Song) - hyperpop remix [DJ Pon-3's Version]",
+        "url": "https://open.spotify.com/album/4iYo93eRPtEJKQGBovj4ys"
+      },
+      "artists": [
+        {
+          "name": "DJ Pon-3",
+          "url": "https://open.spotify.com/artist/6Oi2Qrnn3uBHiQgNZk9qen"
+        },
+        {
+          "name": "My Little Pony",
+          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
+        }
+      ],
+      "duration_ms": 134896,
+      "name": "Equestria Girls (Cafeteria Song) - hyperpop remix [DJ Pon-3's Version]",
+      "url": "https://open.spotify.com/track/45Sf1KIaTrumntl36nV8Qe"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "DORA (Official Theme Song)",
+        "url": "https://open.spotify.com/album/4pBGVll4G2uyVjEtX6pQSr"
+      },
+      "artists": [
+        {
+          "name": "Dora The Explorer",
+          "url": "https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt"
+        },
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        }
+      ],
+      "duration_ms": 31693,
+      "name": "DORA - Official Theme Song",
+      "url": "https://open.spotify.com/track/4JonSsKEXsSukG5wAOieEw"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "10 In The Bed (Roll Over)",
+        "url": "https://open.spotify.com/album/0piivjD8vMJps0eZI8PbHZ"
+      },
+      "artists": [
+        {
+          "name": "Jools TV",
+          "url": "https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN"
+        }
+      ],
+      "duration_ms": 166915,
+      "name": "10 In The Bed (Roll Over)",
+      "url": "https://open.spotify.com/track/0JMGdZigXqHJ1kiHtWKGFk"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Until We Meet Again",
+        "url": "https://open.spotify.com/album/5Oua50zMy3OcjFo76evedh"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 165163,
+      "name": "Until We Meet Again",
+      "url": "https://open.spotify.com/track/33FDL5RB2mDnVnSCOAuUWG"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Lollipop",
+        "url": "https://open.spotify.com/album/2aLgkkHYhwZ6y7e2fyI1wq"
+      },
+      "artists": [
+        {
+          "name": "LooLoo Kids",
+          "url": "https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/5HJ3W41D8Hn27i5xh0smRF"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "D is for Dancing",
+        "url": "https://open.spotify.com/album/31V8naTOvlvBh7Tk3OQ6PE"
+      },
+      "artists": [
+        {
+          "name": "Brady Rymer and the Little Band That Could",
+          "url": "https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6"
+        }
+      ],
+      "duration_ms": 186579,
+      "name": "D Is For Dancing",
+      "url": "https://open.spotify.com/track/7rttMaviADSTAAlVrNB0UV"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Plim Plim Nursery Rhymes Vol. 8",
+        "url": "https://open.spotify.com/album/5J38jHcJL26an9trrhuZsY"
+      },
+      "artists": [
+        {
+          "name": "Plim Plim",
+          "url": "https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8"
+        }
+      ],
+      "duration_ms": 88000,
+      "name": "Baby Shark (Animals)",
+      "url": "https://open.spotify.com/track/0CC3N7mdE7gfk8wPyfwSPj"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "A Day Out with Bob The Train, Vol. 2",
+        "url": "https://open.spotify.com/album/4s2FUJZ3jp3KTovHgEEhwV"
+      },
+      "artists": [
+        {
+          "name": "Bob The Train",
+          "url": "https://open.spotify.com/artist/47MIDwQv4al2sMgO2KKQQp"
+        }
+      ],
+      "duration_ms": 145733,
+      "name": "Bug Bugs",
+      "url": "https://open.spotify.com/track/27hfQMdyMYwbcnet3CdRXR"
+    },
     {
       "added_at": "2024-04-05 04:01:00",
       "album": {

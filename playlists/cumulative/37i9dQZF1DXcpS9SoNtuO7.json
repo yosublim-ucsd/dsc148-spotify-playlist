@@ -1397,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "GA-TAN GO-TON",
+        "url": "https://open.spotify.com/album/0r2X927CHzHzyCLojLAxg8"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u601c",
+          "url": "https://open.spotify.com/artist/7pQmC6NNs7KvWfrYKmqPbo"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261333,
+      "name": "GA-TAN GO-TON",
+      "url": "https://open.spotify.com/track/4QXuB74odjuBPkvcyarFUW"
+    },
+    {
+      "album": {
         "name": "GATE - Soreha akatsukinoyouni",
         "url": "https://open.spotify.com/album/5nGDV3rpVKSzNJhMrhdpDT"
       },

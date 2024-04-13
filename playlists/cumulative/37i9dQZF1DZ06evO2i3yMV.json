@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-03",
-  "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
+  "description": "This Is TOKiMONSTA. Los temas esenciales, todos en una lista.",
   "name": "This Is TOKiMONSTA",
   "tracks": [
     {
@@ -986,7 +986,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 266345,
       "name": "House of Dal",
       "url": "https://open.spotify.com/track/0QppVcTeM2ZQlxKbHhs3pf"
@@ -2108,7 +2108,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 195529,
       "name": "Starlight Lace",
       "url": "https://open.spotify.com/track/7rMbCJMPExhYBcmVqvZcLl"

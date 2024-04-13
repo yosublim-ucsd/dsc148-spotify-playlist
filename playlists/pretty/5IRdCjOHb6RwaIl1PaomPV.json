@@ -1,13 +1,121 @@
 {
-  "description": "The latest tracks from Mad Decent and friends. New music from Bennett Coast, plus the latest cuts from Omar Souleyman, John Glacier and more.",
-  "num_followers": 50873,
+  "description": "The latest tracks from Mad Decent and friends. New music from Snow Strippers plus the latest cuts from Omar Souleyman, DJ_Dave and more.",
+  "num_followers": 50874,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "NjMzMyxkOGNjMTYzMDc0MmMxNWRkNjNmZDg1NjU3ZjE5YWM3NGFmYTZhZmJj",
+  "snapshot_id": "NjM4OSxkNWQxYmZlNTgzYjdlMjllNjJkZTdjMjEyMGRiYmQ3ZGI1NWNlYjU5",
   "tracks": [
+    {
+      "added_at": "2024-04-12 18:37:41",
+      "album": {
+        "name": "So What If I'm A Freak",
+        "url": "https://open.spotify.com/album/01Si4JV49tWw0ZI3o9L7VQ"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 146865,
+      "name": "So What If I'm A Freak",
+      "url": "https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N"
+    },
+    {
+      "added_at": "2024-04-12 18:39:09",
+      "album": {
+        "name": "World's Hardest Game",
+        "url": "https://open.spotify.com/album/4860b8aDFA93PRHSPqvAOB"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "duration_ms": 208967,
+      "name": "World's Hardest Game",
+      "url": "https://open.spotify.com/track/0a09r51dqD5n8xCEOld1WO"
+    },
+    {
+      "added_at": "2024-04-12 18:38:52",
+      "album": {
+        "name": "Tiny Dancer",
+        "url": "https://open.spotify.com/album/1FkKpFNNxxvGTRWVe1xmW4"
+      },
+      "artists": [
+        {
+          "name": "Dyltwosix",
+          "url": "https://open.spotify.com/artist/00J6Tan9XAjt4RDwcWUqmj"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Tiny Dancer",
+      "url": "https://open.spotify.com/track/1iY9T6EcBS3SrfyDAirpoQ"
+    },
+    {
+      "added_at": "2024-04-12 18:43:38",
+      "album": {
+        "name": "Live Life Brazenly",
+        "url": "https://open.spotify.com/album/1bM9UNyri3Rtv4FV9uLjFD"
+      },
+      "artists": [
+        {
+          "name": "Dyltwosix",
+          "url": "https://open.spotify.com/artist/00J6Tan9XAjt4RDwcWUqmj"
+        }
+      ],
+      "duration_ms": 139130,
+      "name": "Ice Cold Beer",
+      "url": "https://open.spotify.com/track/5hCbconkTD6gB5LwYHIbv3"
+    },
+    {
+      "added_at": "2024-04-12 18:39:01",
+      "album": {
+        "name": "40 (Dj Ess Mix)",
+        "url": "https://open.spotify.com/album/1WyMw8WTwFn0kIeTFkrgbT"
+      },
+      "artists": [
+        {
+          "name": "evilgiane",
+          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
+        },
+        {
+          "name": "xaviersobased",
+          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
+        },
+        {
+          "name": "Nettspend",
+          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+        },
+        {
+          "name": "DJ Ess",
+          "url": "https://open.spotify.com/artist/7odc1yu6mbQ91fsh0KK5SJ"
+        }
+      ],
+      "duration_ms": 81658,
+      "name": "40 - Dj Ess Mix",
+      "url": "https://open.spotify.com/track/1Ik9cfzeFLGzGPr3g6G1jz"
+    },
+    {
+      "added_at": "2024-04-12 18:41:10",
+      "album": {
+        "name": "Erbil",
+        "url": "https://open.spotify.com/album/12kpVIlrWxmOJV7wX4JL8M"
+      },
+      "artists": [
+        {
+          "name": "Omar Souleyman",
+          "url": "https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK"
+        }
+      ],
+      "duration_ms": 236373,
+      "name": "Yal Harak Qalbe",
+      "url": "https://open.spotify.com/track/4z839pAYlxfgxjYzM2rXdH"
+    },
     {
       "added_at": "2024-03-11 17:55:40",
       "album": {
@@ -43,6 +151,222 @@
       "duration_ms": 177104,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn"
+    },
+    {
+      "added_at": "2024-04-12 18:46:39",
+      "album": {
+        "name": "Daddy Vaquero",
+        "url": "https://open.spotify.com/album/6EoyMk8z51wYOSjr43DqNp"
+      },
+      "artists": [
+        {
+          "name": "SoFTT",
+          "url": "https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2"
+        }
+      ],
+      "duration_ms": 160519,
+      "name": "Daddy Vaquero",
+      "url": "https://open.spotify.com/track/79z81agD3MP8c8wxVlNoS0"
+    },
+    {
+      "added_at": "2024-04-12 18:39:20",
+      "album": {
+        "name": "9mm",
+        "url": "https://open.spotify.com/album/3sci6Sx5qkPpOxTVYXYzxD"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 237928,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/1g1SuDg4vUq9u0J7V142Zx"
+    },
+    {
+      "added_at": "2024-04-12 18:45:56",
+      "album": {
+        "name": "the rothschild party",
+        "url": "https://open.spotify.com/album/7qrb3IexTpCYPsid6E79DG"
+      },
+      "artists": [
+        {
+          "name": "Vladimir Dubyshkin",
+          "url": "https://open.spotify.com/artist/1ZzmTycawZ9YbMeiKcfKLL"
+        }
+      ],
+      "duration_ms": 332857,
+      "name": "the rothschild party",
+      "url": "https://open.spotify.com/track/1V8X59zPaadLB4fsmmUfQJ"
+    },
+    {
+      "added_at": "2024-04-12 18:42:01",
+      "album": {
+        "name": "Sd-1",
+        "url": "https://open.spotify.com/album/0YUmazidBacqOJTdUD7QnZ"
+      },
+      "artists": [
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Starzzz",
+      "url": "https://open.spotify.com/track/7GUQgcc7VnAS9Y57CKocq4"
+    },
+    {
+      "added_at": "2024-04-12 18:41:23",
+      "album": {
+        "name": "Police Scanner",
+        "url": "https://open.spotify.com/album/3UEx6dCjY47tO4a57de8dW"
+      },
+      "artists": [
+        {
+          "name": "Chanel Beads",
+          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
+      ],
+      "duration_ms": 142456,
+      "name": "Police Scanner",
+      "url": "https://open.spotify.com/track/15YfCOUZ0480yVO8huUvTY"
+    },
+    {
+      "added_at": "2024-04-12 18:45:19",
+      "album": {
+        "name": "MYCELiUM (UTOPIA Remixes)",
+        "url": "https://open.spotify.com/album/2oqCKGQTfy3ft0UGzpuzRg"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        },
+        {
+          "name": "p-rallel",
+          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
+        }
+      ],
+      "duration_ms": 183007,
+      "name": "Mine O' Mine - P-rallel Remix",
+      "url": "https://open.spotify.com/track/4f77scAPi1HX6OBeXkdBl9"
+    },
+    {
+      "added_at": "2024-04-12 18:39:37",
+      "album": {
+        "name": "The von dutch remix with skream and benga",
+        "url": "https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        },
+        {
+          "name": "Benga",
+          "url": "https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p"
+        }
+      ],
+      "duration_ms": 281142,
+      "name": "The von dutch remix with skream and benga",
+      "url": "https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5"
+    },
+    {
+      "added_at": "2024-04-12 18:41:41",
+      "album": {
+        "name": "Fuetazo (feat. Villano Antillano)",
+        "url": "https://open.spotify.com/album/14GJrju93uE5fZCslmD2UR"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 143529,
+      "name": "Fuetazo (feat. Villano Antillano)",
+      "url": "https://open.spotify.com/track/3MeQpnrMl1fjVun29DK45k"
+    },
+    {
+      "added_at": "2024-04-12 18:42:15",
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 188143,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
+    },
+    {
+      "added_at": "2024-04-12 18:45:45",
+      "album": {
+        "name": "Set Me Free, I'm an Animal",
+        "url": "https://open.spotify.com/album/3qMQ2uQGoDllUYlW4jGV2h"
+      },
+      "artists": [
+        {
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
+        }
+      ],
+      "duration_ms": 216250,
+      "name": "Set Me Free, I\u2019m an Animal",
+      "url": "https://open.spotify.com/track/7pgFijqqgOgTiTsy64oCZm"
+    },
+    {
+      "added_at": "2024-04-12 18:41:50",
+      "album": {
+        "name": "harry houdini",
+        "url": "https://open.spotify.com/album/42L1S5YuqINChXquOm1gKn"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "duration_ms": 214615,
+      "name": "the life and death of a dog",
+      "url": "https://open.spotify.com/track/2NLCeLeI1E4psDqwE7CZEX"
+    },
+    {
+      "added_at": "2024-04-12 18:45:29",
+      "album": {
+        "name": "DnD (feat. Kenny Mason)",
+        "url": "https://open.spotify.com/album/3BdMsYnkBajLfajXOTADHQ"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "duration_ms": 251175,
+      "name": "DnD (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/4u27Hk9RfgefXzqzV2wsZW"
     },
     {
       "added_at": "2024-03-11 17:55:40",
@@ -311,22 +635,6 @@
       "duration_ms": 157745,
       "name": "Silence Is Loud",
       "url": "https://open.spotify.com/track/1LqFMtMW44W8XQ1OtV43gg"
-    },
-    {
-      "added_at": "2024-03-11 17:55:40",
-      "album": {
-        "name": "Training Season",
-        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     },
     {
       "added_at": "2024-03-11 17:55:40",

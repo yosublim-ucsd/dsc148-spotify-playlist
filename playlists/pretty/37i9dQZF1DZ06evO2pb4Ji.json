@@ -1,12 +1,12 @@
 {
-  "description": "This is League of Legends. The essential tracks, all in one playlist.",
-  "num_followers": 387041,
+  "description": "This is League of Legends. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 387096,
   "original_name": "This Is League of Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDFmZTJhNjJhODM3YjVlZGZmYTFiOTJhMGM4ZDJlZmM4",
+  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMGQ5Y2M0YTM5NmY5YjQ0YzdkYmI5MWVhYTc0ODljY2Nk",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everything Goes On",
+        "url": "https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 202821,
+      "name": "Everything Goes On",
+      "url": "https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/0uyb1O2aodxewxYrAHzqIn"
       },
@@ -331,26 +351,6 @@
       "duration_ms": 204586,
       "name": "Warriors",
       "url": "https://open.spotify.com/track/3f4fc8c8unrQeKecmUPEDR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everything Goes On",
-        "url": "https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW"
-      },
-      "artists": [
-        {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 202821,
-      "name": "Everything Goes On",
-      "url": "https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm"
     },
     {
       "added_at": null,
@@ -431,38 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALL OUT",
-        "url": "https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb"
-      },
-      "artists": [
-        {
-          "name": "K/DA",
-          "url": "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v"
-        },
-        {
-          "name": "Wolftyla",
-          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
-        },
-        {
-          "name": "Bekuh Boom",
-          "url": "https://open.spotify.com/artist/260LldmHBR0r2wtWtjzNxL"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 200914,
-      "name": "DRUM GO DUM",
-      "url": "https://open.spotify.com/track/2JV5OBqTMW1F6PYOGZJatP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GIANTS",
         "url": "https://open.spotify.com/album/1hK1lKNTYUM4wYRIY19CRO"
       },
@@ -499,6 +467,38 @@
       "duration_ms": 191720,
       "name": "GIANTS",
       "url": "https://open.spotify.com/track/5C0ivQMxes2lWuOANhvVAm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ALL OUT",
+        "url": "https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb"
+      },
+      "artists": [
+        {
+          "name": "K/DA",
+          "url": "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v"
+        },
+        {
+          "name": "Wolftyla",
+          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
+        },
+        {
+          "name": "Bekuh Boom",
+          "url": "https://open.spotify.com/artist/260LldmHBR0r2wtWtjzNxL"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 200914,
+      "name": "DRUM GO DUM",
+      "url": "https://open.spotify.com/track/2JV5OBqTMW1F6PYOGZJatP"
     },
     {
       "added_at": null,
@@ -1119,22 +1119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Music of League of Legends Vol. 1",
-        "url": "https://open.spotify.com/album/4pg51OJaG6MGlpRFxWWLpr"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 239538,
-      "name": "The Curse of the Sad Mummy",
-      "url": "https://open.spotify.com/track/6vWCjuZTaKuyp5IfDmmNyx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rules (Are Meant to Break)",
         "url": "https://open.spotify.com/album/2iv4BH1w4P2vpiRZq3V9rj"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 181470,
       "name": "Rules (Are Meant to Break)",
       "url": "https://open.spotify.com/track/0rZiFIOOnem9NmdzFEJBmR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Music of League of Legends Vol. 1",
+        "url": "https://open.spotify.com/album/4pg51OJaG6MGlpRFxWWLpr"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 239538,
+      "name": "The Curse of the Sad Mummy",
+      "url": "https://open.spotify.com/track/6vWCjuZTaKuyp5IfDmmNyx"
     },
     {
       "added_at": null,
@@ -1183,26 +1183,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "You & Me Makes Us",
-        "url": "https://open.spotify.com/album/2zrvozRqPgBnoP6TQEoAcg"
+        "name": "Skarner, the Primordial Sovereign",
+        "url": "https://open.spotify.com/album/3CpC54hcNhX629RQCxNj2k"
       },
       "artists": [
         {
+          "name": "J.D. Spears",
+          "url": "https://open.spotify.com/artist/50louHoMTbX9FEk7mVVAnE"
+        },
+        {
           "name": "League of Legends",
           "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        },
-        {
-          "name": "DEEGAN",
-          "url": "https://open.spotify.com/artist/70KADh6rh0ljLJZtvH8LYi"
         }
       ],
-      "duration_ms": 176055,
-      "name": "You & Me Makes Us",
-      "url": "https://open.spotify.com/track/3aKtLbH0NTqqJQDKouqM3Q"
+      "duration_ms": 208332,
+      "name": "Skarner, the Primordial Sovereign",
+      "url": "https://open.spotify.com/track/623tubTmArxq2CBgxLHMFU"
     },
     {
       "added_at": null,
@@ -1227,22 +1223,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skarner, the Primordial Sovereign",
-        "url": "https://open.spotify.com/album/3CpC54hcNhX629RQCxNj2k"
+        "name": "You & Me Makes Us",
+        "url": "https://open.spotify.com/album/2zrvozRqPgBnoP6TQEoAcg"
       },
       "artists": [
         {
-          "name": "J.D. Spears",
-          "url": "https://open.spotify.com/artist/50louHoMTbX9FEk7mVVAnE"
-        },
-        {
           "name": "League of Legends",
           "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "DEEGAN",
+          "url": "https://open.spotify.com/artist/70KADh6rh0ljLJZtvH8LYi"
         }
       ],
-      "duration_ms": 208332,
-      "name": "Skarner, the Primordial Sovereign",
-      "url": "https://open.spotify.com/track/623tubTmArxq2CBgxLHMFU"
+      "duration_ms": 176055,
+      "name": "You & Me Makes Us",
+      "url": "https://open.spotify.com/track/3aKtLbH0NTqqJQDKouqM3Q"
     }
   ],
   "unique_name": "This Is League of Legends",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLCdAc18EmN.md) - [plain]
 
 > Be careful what you wish for...Listen to the music from the Wish, available now on digital.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,168 likes - 55 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,285 likes - 55 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

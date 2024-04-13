@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Joyce Alane
 
-656 songs - 1 day 14 hr 32 min
+657 songs - 1 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Control Z](https://open.spotify.com/track/1aMavvD6s19zHSUKb82nXH) | [Marina Melo](https://open.spotify.com/artist/3yBeFa7H4pU39Mti6B7oqX), [Julia Branco](https://open.spotify.com/artist/7023uToWKoLCvKPgpuv8uo) | [Control Z](https://open.spotify.com/album/1777MUeq1vNmStoLB2tO28) | 3:25 | 2023-01-13 | 2023-02-23 |
 | [conversas de travesseiro \- Ao vivo em São Paulo](https://open.spotify.com/track/1emrkeYwsLgQCz0WflpEOs) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Bryan Behr • Ao vivo em São Paulo](https://open.spotify.com/album/0YiT4eheEc4IClnZKfSjna) | 3:50 | 2022-08-19 | 2022-11-05 |
 | [Conviver \- Ao Vivo](https://open.spotify.com/track/56n5c5qisRIcJqawTM7Bgr) | [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR) | [Essa Pele Marcada 4 \(Ao Vivo\)](https://open.spotify.com/album/19XR5RzqSQ3ZBbmZ7F8ZmQ) | 5:59 | 2023-02-22 | 2023-10-21 |
-| [Coragem](https://open.spotify.com/track/6AIBj4HDtIurPmA3lycw2v) | [Toco](https://open.spotify.com/artist/2lVC2nWo4KJE4p6EySdfkL) | [Coragem](https://open.spotify.com/album/6lF3W0y9vU60TWPXjdoazp) | 3:17 | 2024-03-08 |  |
+| [Coragem](https://open.spotify.com/track/6AIBj4HDtIurPmA3lycw2v) | [Toco](https://open.spotify.com/artist/2lVC2nWo4KJE4p6EySdfkL) | [Coragem](https://open.spotify.com/album/6lF3W0y9vU60TWPXjdoazp) | 3:17 | 2024-03-08 | 2024-04-13 |
 | [Coração Bifurcado](https://open.spotify.com/track/6innA5Ls7neN8eJaQAuB6e) | [Jards Macalé](https://open.spotify.com/artist/11dkvirvWFnfNUsaGVvObg) | [Coração Bifurcado](https://open.spotify.com/album/6RZms5ARtkeCmFjoUUme4Y) | 4:45 | 2023-03-11 | 2023-03-25 |
 | [Coração Selvagem](https://open.spotify.com/track/1CJ2c62JnJK3Ax7O2C11vw) | [Ana Cañas](https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz) | [Ana Cañas Canta Belchior](https://open.spotify.com/album/6KStzeWw0tLQgBmW3UTB8K) | 5:22 | 2021-12-24 | 2024-03-02 |
 | [Corpo a Corpo](https://open.spotify.com/track/2hZgZByQW2nnfYtatCsBsy) | [Ian Lasserre](https://open.spotify.com/artist/4qLHglq7jZvaVZFYwEyKWa) | [Corpo a Corpo](https://open.spotify.com/album/56jMSW9PRi6hQOUwqHrH5u) | 3:24 | 2022-12-16 | 2023-01-14 |
@@ -356,6 +356,7 @@
 | [Negue](https://open.spotify.com/track/2Es7AW2PulafR8CAK99QQS) | [Rico Ayade](https://open.spotify.com/artist/5A0Pp47ofdvsy8FCi7kGsJ) | [Negue](https://open.spotify.com/album/6cxeXJ7TLVbdEpsstRFHKg) | 3:02 | 2022-04-01 | 2022-05-11 |
 | [Neguinha Sim!](https://open.spotify.com/track/7gRjxhujuKF4XO1BkE8Vri) | [Pastoras do Rosário](https://open.spotify.com/artist/5Niazs4Q5CWc74ygGVUYY8) | [Da Nebulosa ao Brilho](https://open.spotify.com/album/6xE5HJu2fp71CVE0r3QWGC) | 2:59 | 2023-10-13 | 2023-10-21 |
 | [Nem Por Isso Não É](https://open.spotify.com/track/5giEMPHBsTa5EbA6y02S8j) | [Paulo Nazareth](https://open.spotify.com/artist/7n7vXH3wFK9kCqV0m5KA40) | [Nem Por Isso Não É](https://open.spotify.com/album/08M27W1JgTLgidq7u01izp) | 4:02 | 2022-05-20 | 2022-07-02 |
+| [Nesse Exato Momento](https://open.spotify.com/track/14xmrNJaDnnx7PbNzRltgX) | [Almério](https://open.spotify.com/artist/7kF4TDKgWfhbDuBbOOBcHW), [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s) | [Nesse Exato Momento](https://open.spotify.com/album/2UJqqqA4XMyfy1Pa2rTgd3) | 3:18 | 2024-04-12 |  |
 | [Neste Contexto](https://open.spotify.com/track/4WS6S4uWBa4WLsRSvdqGrL) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Neste Contexto](https://open.spotify.com/album/5ajFZehsAgL2sYI3bav9EE) | 3:02 | 2024-03-29 |  |
 | [Ninguém](https://open.spotify.com/track/5O4lp65sEWenlviCdYdeOG) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1), [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s) | [Onde?](https://open.spotify.com/album/0aCbmQd7EYBXzOVCVaXbeS) | 3:10 | 2021-12-24 | 2024-03-19 |
 | [No Escuro](https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [No Escuro](https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI) | 3:58 | 2022-08-12 |  |

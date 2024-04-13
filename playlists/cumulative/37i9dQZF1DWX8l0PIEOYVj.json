@@ -489,6 +489,28 @@
     },
     {
       "album": {
+        "name": "Ancient Palace",
+        "url": "https://open.spotify.com/album/376Ol66JkFXxOeUGhDSSEc"
+      },
+      "artists": [
+        {
+          "name": "Quartzone",
+          "url": "https://open.spotify.com/artist/6SLml12i6XM4qVkutVwPPZ"
+        },
+        {
+          "name": "KERO",
+          "url": "https://open.spotify.com/artist/1buRQJUaOGTgp36hBMda6y"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182187,
+      "name": "Ancient Palace",
+      "url": "https://open.spotify.com/track/2VYyPZdEII2cNdU2tdrDtZ"
+    },
+    {
+      "album": {
         "name": "ANEMONE",
         "url": "https://open.spotify.com/album/4ubXh9LjM4YuWTiOuw7efI"
       },
@@ -1836,7 +1858,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 227837,
       "name": "Control",
       "url": "https://open.spotify.com/track/607eyF0WjJRoZazfOOHHhh"
@@ -3502,7 +3524,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 305306,
       "name": "Finally Found",
       "url": "https://open.spotify.com/track/5saLsokuG1Sgnsnaykd90P"
@@ -4733,6 +4755,28 @@
     },
     {
       "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/1z3JnHmFLeJHj2uJkX1Xa6"
+      },
+      "artists": [
+        {
+          "name": "Kaidro",
+          "url": "https://open.spotify.com/artist/5cofRYrqWWoDByaV4GiodV"
+        },
+        {
+          "name": "Dani King",
+          "url": "https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196838,
+      "name": "Hard To Love",
+      "url": "https://open.spotify.com/track/5gcONAsj07GWfYmLUai2Wc"
+    },
+    {
+      "album": {
         "name": "HARNESS",
         "url": "https://open.spotify.com/album/3e0oTOqZwsTQc3HgMxwjrf"
       },
@@ -5182,7 +5226,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 236129,
       "name": "hold and carry",
       "url": "https://open.spotify.com/track/63Bk4sMqW3lC16x5ykq7IV"
@@ -6338,6 +6382,24 @@
       "duration_ms": 225000,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/13IZmcVnhtkMMGqO9P4IUU"
+    },
+    {
+      "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/4EBBQs8jtQeYjPx5WC5pZU"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/0ZjFvlOaEVnD2eBj3ognHw"
     },
     {
       "album": {
@@ -10059,6 +10121,32 @@
     },
     {
       "album": {
+        "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM) [Dabin Remix]",
+        "url": "https://open.spotify.com/album/01dB7W8wlec9wswyT2jRsw"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        },
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148645,
+      "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM) - Dabin Remix",
+      "url": "https://open.spotify.com/track/0BsPNqJHgzMgJfcSE7rjNe"
+    },
+    {
+      "album": {
         "name": "Bridges Between",
         "url": "https://open.spotify.com/album/6pUNIf0yG9Axjbw29eJE8H"
       },
@@ -10704,7 +10792,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 254400,
       "name": "Time Traveling",
       "url": "https://open.spotify.com/track/6CEz0HCIEk7Yu7wEJFNhaH"

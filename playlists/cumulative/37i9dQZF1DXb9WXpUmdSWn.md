@@ -4,7 +4,7 @@
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the songwriter's owner covers.
 
-63 songs - 3 hr 48 min
+64 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Diamonds On The Soles Of Her Shoes](https://open.spotify.com/track/1YFcnho5vA5BVQqQ5f8ACM) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA), [Joe McBride](https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs) | [Ladysmith Black Mambazo & Friends](https://open.spotify.com/album/3LEnx2iNd4AzOUuvZ0LyNG) | 5:42 | 2022-01-21 |  |
 | [Diamonds On The Soles Of Her Shoes \- The Voice Performance](https://open.spotify.com/track/0vlV9EHERw2dRYiuhQNPJB) | [Joshua Davis](https://open.spotify.com/artist/6Z3gpcNJMzjr9Lv7UbxQhZ), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [The Complete Season 8 Collection \(The Voice Performance\)](https://open.spotify.com/album/6MppBBhapzHLawPrAnVVxx) | 3:04 | 2022-01-21 |  |
 | [Father And Daughter](https://open.spotify.com/track/25WfFQsSVUK2m5BmFt0msP) | [Luke Brindley](https://open.spotify.com/artist/2ZIfzZFZfjiX3YhNMOKLob) | [A Few Favorites](https://open.spotify.com/album/14CIeW2Q2kXJTncsOfjulm) | 3:04 | 2022-01-21 |  |
-| [Graceland](https://open.spotify.com/track/2UduNMj9tpsEcBTur8VwH2) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Maybe A Moment / Graceland](https://open.spotify.com/album/67ZgBWzvcwzoyUxGXz9aLW) | 3:14 | 2022-01-21 |  |
+| [Graceland](https://open.spotify.com/track/2UduNMj9tpsEcBTur8VwH2) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Maybe A Moment / Graceland](https://open.spotify.com/album/67ZgBWzvcwzoyUxGXz9aLW) | 3:14 | 2022-01-21 | 2024-04-13 |
+| [Graceland](https://open.spotify.com/track/6HkVGCoxha0ZJjIRRZk9vN) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Maybe A Moment / Graceland](https://open.spotify.com/album/6RvfJO0Fl7E6jT606t9nJ0) | 3:14 | 2022-01-21 |  |
 | [Graceland](https://open.spotify.com/track/6XXkDYoN7dgRUtZQ5Gtk5n) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Graceland](https://open.spotify.com/album/6al4yJx2ojRnlqz2BD9q6e) | 2:55 | 2022-01-21 |  |
 | [Graceland](https://open.spotify.com/track/6KRuBpMlAvHJuMKyHO32G4) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Across The Borderline](https://open.spotify.com/album/1muFplXWqYYvymuFr3AExp) | 4:44 | 2022-01-21 |  |
 | [Hazy Shade of Winter](https://open.spotify.com/track/0P2vAvvWni2tNXOdbH3JFk) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [The Essential Bangles](https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf) | 2:47 | 2022-01-21 |  |

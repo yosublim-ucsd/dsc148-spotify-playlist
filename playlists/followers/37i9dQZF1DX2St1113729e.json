@@ -1,7 +1,7 @@
 {
-  "2024-04-12": 125604,
+  "2024-04-13": 125616,
   "date_first_scraped": "2023-10-15",
-  "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. kepa",
+  "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Metrika",
   "name": "helium",
   "tracks": [
     {
@@ -130,6 +130,28 @@
     },
     {
       "album": {
+        "name": "2MOODS",
+        "url": "https://open.spotify.com/album/01W0iFrqBvqkEaxf7oqFxv"
+      },
+      "artists": [
+        {
+          "name": "albwhisp",
+          "url": "https://open.spotify.com/artist/05pwTgoRDUVSr8VegYBu0g"
+        },
+        {
+          "name": "whitelxck",
+          "url": "https://open.spotify.com/artist/1dLGd3gjAIcrI4Qhd7YGBf"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163764,
+      "name": "2MOODS",
+      "url": "https://open.spotify.com/track/7tykptmGairQ5NO9BzHy6R"
+    },
+    {
+      "album": {
         "name": "3MMC",
         "url": "https://open.spotify.com/album/0RZAILXpCvJfk0WOMerEAt"
       },
@@ -181,7 +203,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 179000,
       "name": "Abducida",
       "url": "https://open.spotify.com/track/0CL6YBflR8yZgspVYyhw0F"
@@ -203,7 +225,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 153105,
       "name": "Acid Superstar",
       "url": "https://open.spotify.com/track/1HJ0p5JgggcQ03nRIbZxkC"
@@ -445,6 +467,28 @@
       "duration_ms": 201578,
       "name": "AUTOBOICOT",
       "url": "https://open.spotify.com/track/2t8pTWkyRjaXQmpcrOQvYl"
+    },
+    {
+      "album": {
+        "name": "Madre Fundadora",
+        "url": "https://open.spotify.com/album/0cW778aXsK6vVGu6QW6XUW"
+      },
+      "artists": [
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "D.Basto",
+          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "Ave Mar\u00eda Put\u00edsima",
+      "url": "https://open.spotify.com/track/4RC0gJ1UzN4cphdoNB0hjD"
     },
     {
       "album": {
@@ -696,6 +740,24 @@
     },
     {
       "album": {
+        "name": "Cocky",
+        "url": "https://open.spotify.com/album/5lPf8HroyP3XL7hrMSOUkr"
+      },
+      "artists": [
+        {
+          "name": "marinadorciud",
+          "url": "https://open.spotify.com/artist/5sUI64SOcIIAzxEDFJXVWW"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Cocky",
+      "url": "https://open.spotify.com/track/4CJTZU0Tr34LlIm8ZEkoxl"
+    },
+    {
+      "album": {
         "name": "Maravillas de \u00e1ngeles",
         "url": "https://open.spotify.com/album/6n19VglsvHT8JcZhlIzLpI"
       },
@@ -883,7 +945,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 150857,
       "name": "Cuervo",
       "url": "https://open.spotify.com/track/6WMkvjCMSdAGT0IDotkiTm"
@@ -1815,7 +1877,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 132672,
       "name": "hannah montana",
       "url": "https://open.spotify.com/track/0qYvzxghGnQjaLmo64zxrR"
@@ -1907,7 +1969,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 152000,
       "name": "higher",
       "url": "https://open.spotify.com/track/7diyCFL8chcY1REunXR18F"
@@ -1947,7 +2009,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 110075,
       "name": "HUMO",
       "url": "https://open.spotify.com/track/6H4LDyUCXw8uiWXaDCNM1Z"
@@ -2039,6 +2101,42 @@
       "duration_ms": 140585,
       "name": "INOCENTE",
       "url": "https://open.spotify.com/track/1Q8iQTMgUPqnPWE1WSuXiW"
+    },
+    {
+      "album": {
+        "name": "irl.angel",
+        "url": "https://open.spotify.com/album/4uimyncVGULggwcpJHlAOC"
+      },
+      "artists": [
+        {
+          "name": "conan kid",
+          "url": "https://open.spotify.com/artist/5MpPZ2g8moHwXhQbp4Xwy7"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113600,
+      "name": "irl.angel",
+      "url": "https://open.spotify.com/track/0BGC0CP8fHM2rVKZDwNrZL"
+    },
+    {
+      "album": {
+        "name": "JUGUETE ROTO",
+        "url": "https://open.spotify.com/album/2iq4djA5hr0Lkic2WKlxVN"
+      },
+      "artists": [
+        {
+          "name": "Oddy Rem",
+          "url": "https://open.spotify.com/artist/4O9Su9FIMfYxftsEY8MPYY"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144248,
+      "name": "JUGUETE ROTO",
+      "url": "https://open.spotify.com/track/6NyrYWr7I6GRksDcgyzoty"
     },
     {
       "album": {
@@ -2173,7 +2271,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 170531,
       "name": "Libre Robot",
       "url": "https://open.spotify.com/track/6LHqGkrxlRTDEQDE6xRMHg"
@@ -2511,7 +2609,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 142384,
       "name": "ME VOY A IR",
       "url": "https://open.spotify.com/track/2qFTpfPaXbh3psM1T82o1H"
@@ -2697,7 +2795,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 193320,
       "name": "MIDAS \u2606 detunedfreq",
       "url": "https://open.spotify.com/track/5Y3ripPWAj3nM73G7ioAfq"
@@ -2763,7 +2861,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 147200,
       "name": "miramemiramemirame",
       "url": "https://open.spotify.com/track/4qbkcQlBjaYQbvY8foTdIO"
@@ -3291,7 +3389,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 170000,
       "name": "N\u00e1ufrago",
       "url": "https://open.spotify.com/track/7LFFbMqQwU87wo0bseY1zd"
@@ -3672,6 +3770,24 @@
     },
     {
       "album": {
+        "name": "Pretty girl swag",
+        "url": "https://open.spotify.com/album/7pKCsf7DoHW7UaN5QcX9Zo"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Escarmiento",
+          "url": "https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162419,
+      "name": "Pretty girl swag",
+      "url": "https://open.spotify.com/track/4r7sb62uw7njf1L0lLnaq7"
+    },
+    {
+      "album": {
         "name": "Psicomaniatico",
         "url": "https://open.spotify.com/album/6ajDjodbTeLPz06fT5m2yr"
       },
@@ -3939,7 +4055,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 186000,
       "name": "Saturday Night",
       "url": "https://open.spotify.com/track/5LtRnDjLszqe4v8VBhcDeV"
@@ -4327,7 +4443,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 194560,
       "name": "TE MISSEO",
       "url": "https://open.spotify.com/track/3bi8iYbc7r3cfiAJWc4INV"
@@ -4341,10 +4457,6 @@
         {
           "name": "Mar\u00eda Escarmiento",
           "url": "https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl"
-        },
-        {
-          "name": "Vau Boy",
-          "url": "https://open.spotify.com/artist/2tx3YCpd2RHR1ZSU101zFB"
         }
       ],
       "date_added": "2024-03-01",

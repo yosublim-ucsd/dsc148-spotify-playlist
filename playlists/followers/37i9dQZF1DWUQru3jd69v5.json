@@ -1,7 +1,7 @@
 {
-  "2024-04-12": 225779,
+  "2024-04-13": 225889,
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Silent Bob in cover.",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Papa V in cover.",
   "name": "Raptopia",
   "tracks": [
     {
@@ -293,7 +293,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 158621,
       "name": "1K 2K 3K",
       "url": "https://open.spotify.com/track/0uF1EfAMmFWW3EvdqMzJfe"
@@ -477,6 +477,28 @@
       "duration_ms": 204753,
       "name": "4088 (feat. RRARI DAL TACCO, Nathys, Young Hash & Blocka Beatz)",
       "url": "https://open.spotify.com/track/4L0XMwD32Mq76N3agNpoKG"
+    },
+    {
+      "album": {
+        "name": "419",
+        "url": "https://open.spotify.com/album/3TtPOALgX7Kmt5ggWD2hoR"
+      },
+      "artists": [
+        {
+          "name": "Suspect CB",
+          "url": "https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz"
+        },
+        {
+          "name": "Ex\u2227",
+          "url": "https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139574,
+      "name": "419",
+      "url": "https://open.spotify.com/track/1IlSzZcgzNGjRCZ75RyGUW"
     },
     {
       "album": {
@@ -1172,6 +1194,24 @@
     },
     {
       "album": {
+        "name": "ALBANIA COMMANDO",
+        "url": "https://open.spotify.com/album/31biyXSafVHMxOCbW6s0eF"
+      },
+      "artists": [
+        {
+          "name": "Il Ghost",
+          "url": "https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143649,
+      "name": "ALBANIA COMMANDO",
+      "url": "https://open.spotify.com/track/4GOVrqS2AHBnII3MaVLspD"
+    },
+    {
+      "album": {
         "name": "ALBV",
         "url": "https://open.spotify.com/album/7CIlHDEtln2cbqATa3uRoF"
       },
@@ -1263,7 +1303,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 143333,
       "name": "AMERICANO",
       "url": "https://open.spotify.com/track/7xLX65sZLad3qrbUrWQpZU"
@@ -1733,6 +1773,24 @@
       "duration_ms": 150470,
       "name": "BABY MAMA",
       "url": "https://open.spotify.com/track/2MST5rN6YWaLLx0Ykh44yU"
+    },
+    {
+      "album": {
+        "name": "Back It Up",
+        "url": "https://open.spotify.com/album/2DyTFpemnjzOFyKFSfuTSC"
+      },
+      "artists": [
+        {
+          "name": "Enny P",
+          "url": "https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "Back It Up",
+      "url": "https://open.spotify.com/track/0iFTYbmAv9w8ujbOcbq3cK"
     },
     {
       "album": {
@@ -2513,7 +2571,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 144015,
       "name": "Big Steppas",
       "url": "https://open.spotify.com/track/6vb13UwXDIxChwEHyqeGco"
@@ -5160,6 +5218,28 @@
     },
     {
       "album": {
+        "name": "D!ckhead",
+        "url": "https://open.spotify.com/album/6zr1Lq9xkVxmhglR5EmP3g"
+      },
+      "artists": [
+        {
+          "name": "Don Said",
+          "url": "https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO"
+        },
+        {
+          "name": "RAISS",
+          "url": "https://open.spotify.com/artist/3osLZ3sCzbozmblz3l3F8x"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136274,
+      "name": "D!ckhead",
+      "url": "https://open.spotify.com/track/54IJbVZUelx7pNeabQ1QGD"
+    },
+    {
+      "album": {
         "name": "Da zero a cento",
         "url": "https://open.spotify.com/album/7qFuTrSrKm4u8TTKHSEZDK"
       },
@@ -6186,6 +6266,28 @@
     },
     {
       "album": {
+        "name": "WELO WE 23 OK",
+        "url": "https://open.spotify.com/album/19SjpDDPRfrxX7yRrhx3kL"
+      },
+      "artists": [
+        {
+          "name": "Welo",
+          "url": "https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72"
+        },
+        {
+          "name": "Enzo Dong",
+          "url": "https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138204,
+      "name": "EI BIMBA",
+      "url": "https://open.spotify.com/track/129kyfg5wAgPqfQEwsNf9E"
+    },
+    {
+      "album": {
         "name": "Ekip",
         "url": "https://open.spotify.com/album/1u94zj4rvh7F7pRTKkNC81"
       },
@@ -6197,7 +6299,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 155625,
       "name": "Ekip",
       "url": "https://open.spotify.com/track/7158jz8FPmq8DkrqDjIDB6"
@@ -7683,7 +7785,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 113454,
       "name": "Gangsta Freestyle",
       "url": "https://open.spotify.com/track/3YHQrpDyV3FugqR0r5sL1k"
@@ -8290,6 +8392,24 @@
     },
     {
       "album": {
+        "name": "Groupie Bag",
+        "url": "https://open.spotify.com/album/7qVJV9aXDNZHj4ZF6kf1JV"
+      },
+      "artists": [
+        {
+          "name": "rooc lee",
+          "url": "https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102169,
+      "name": "Groupie Bag",
+      "url": "https://open.spotify.com/track/1Jk7NP9wjwDkYe5FhHprf9"
+    },
+    {
+      "album": {
         "name": "GTA",
         "url": "https://open.spotify.com/album/0rL9hFfQka99rmouRhWsmr"
       },
@@ -8363,6 +8483,28 @@
       "duration_ms": 174915,
       "name": "Guai",
       "url": "https://open.spotify.com/track/4zazC5BB1hOHRXvnbW8CNF"
+    },
+    {
+      "album": {
+        "name": "Ninho De La Calle",
+        "url": "https://open.spotify.com/album/5kY0llILiYXXRouvjRSBEB"
+      },
+      "artists": [
+        {
+          "name": "Kassimi",
+          "url": "https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd"
+        },
+        {
+          "name": "Fre_nky",
+          "url": "https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Guai (feat. Fre_nky)",
+      "url": "https://open.spotify.com/track/0gkuPf9a7MRecMn2GVc2uX"
     },
     {
       "album": {
@@ -8843,7 +8985,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 112000,
       "name": "HOT",
       "url": "https://open.spotify.com/track/1ZSkx2qlwCSovf4N54QOM7"
@@ -9017,7 +9159,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 112500,
       "name": "Il Metodo Migliore (Tutorial 2)",
       "url": "https://open.spotify.com/track/44d6e7jKy2SZt5yy5k1Exh"
@@ -9411,6 +9553,24 @@
       "duration_ms": 107400,
       "name": "Intro",
       "url": "https://open.spotify.com/track/53wcKqRkZ0p4iDJEXdlVWb"
+    },
+    {
+      "album": {
+        "name": "Intro",
+        "url": "https://open.spotify.com/album/5sXmQBAWasrwnJdkYXSibV"
+      },
+      "artists": [
+        {
+          "name": "Yunes LaGrintaa",
+          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75824,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/2vt4aRQ3zRJk328oprXchz"
     },
     {
       "album": {
@@ -12314,6 +12474,28 @@
     },
     {
       "album": {
+        "name": "Medley",
+        "url": "https://open.spotify.com/album/0HrhGNiAeg863vsD6ap3Ua"
+      },
+      "artists": [
+        {
+          "name": "emanuelino",
+          "url": "https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU"
+        },
+        {
+          "name": "Low Kidd",
+          "url": "https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Medley",
+      "url": "https://open.spotify.com/track/0qtVFyzjNfvcVg82nFDtTU"
+    },
+    {
+      "album": {
         "name": "Meglio Ke",
         "url": "https://open.spotify.com/album/2CyXe4iJTBUTTPmDupaPMW"
       },
@@ -12365,10 +12547,28 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 225128,
       "name": "MERCOLED\u00cc",
       "url": "https://open.spotify.com/track/3us3mAJQ3FHF7f5VvqMVCi"
+    },
+    {
+      "album": {
+        "name": "NEL MARGINE",
+        "url": "https://open.spotify.com/album/0y2oM9KPXRrB1PtqfFIarZ"
+      },
+      "artists": [
+        {
+          "name": "ALDA",
+          "url": "https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225128,
+      "name": "MERCOLED\u00cc",
+      "url": "https://open.spotify.com/track/676Gog8jLK9JDWungjx9vZ"
     },
     {
       "album": {
@@ -12657,7 +12857,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 157500,
       "name": "Mille Volte",
       "url": "https://open.spotify.com/track/3DEhOHcKAfwBvuqIMUiMfb"
@@ -13225,6 +13425,32 @@
       "duration_ms": 161739,
       "name": "MUJER",
       "url": "https://open.spotify.com/track/6MeRMkI1kS0glrxGxut60K"
+    },
+    {
+      "album": {
+        "name": "MUSCHIO",
+        "url": "https://open.spotify.com/album/0oaWKK6syDzQeQrcQQK9RX"
+      },
+      "artists": [
+        {
+          "name": "Low-Red",
+          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
+        },
+        {
+          "name": "ilovethisbeat",
+          "url": "https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P"
+        },
+        {
+          "name": "Pherro",
+          "url": "https://open.spotify.com/artist/0GxUrQrSthXbfwGGw9QKDh"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136704,
+      "name": "MUSCHIO",
+      "url": "https://open.spotify.com/track/4GUqS6JHDrUsiJXSwTJUZT"
     },
     {
       "album": {
@@ -14045,7 +14271,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 120000,
       "name": "NON \u00c8 FACILE",
       "url": "https://open.spotify.com/track/37NB4kJlOnf8BGjDUIMJF0"
@@ -15597,7 +15823,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 149142,
       "name": "Pongo",
       "url": "https://open.spotify.com/track/0pP99fIZFRNQvUY41OVHVc"
@@ -15835,7 +16061,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 147735,
       "name": "Prima Ci Prendiamo Roma",
       "url": "https://open.spotify.com/track/5CP4uqaXaVVNdwS6DphiJN"
@@ -16318,6 +16544,28 @@
     },
     {
       "album": {
+        "name": "RACKS",
+        "url": "https://open.spotify.com/album/4toQoG6SY8Nqza6eZpYZuv"
+      },
+      "artists": [
+        {
+          "name": "Saco",
+          "url": "https://open.spotify.com/artist/7bAhUbvOceOdr0x2XU47R7"
+        },
+        {
+          "name": "teo2kartier",
+          "url": "https://open.spotify.com/artist/0RZaar5ccSAw2hFMBKIJMi"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237984,
+      "name": "RACKS",
+      "url": "https://open.spotify.com/track/7fhh407yOdUDM5hRsrDdPD"
+    },
+    {
+      "album": {
         "name": "RACKSS",
         "url": "https://open.spotify.com/album/17Peu4cPdSbBIGibPMiiLo"
       },
@@ -16553,13 +16801,13 @@
           "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
         },
         {
-          "name": "Fri2",
-          "url": "https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v"
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
         }
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 154285,
       "name": "Responsabile (feat. Nerissima Serpe)",
       "url": "https://open.spotify.com/track/3YNDnWbIzjtVo87DalnFmK"
@@ -17378,7 +17626,7 @@
         },
         {
           "name": "Swan",
-          "url": "https://open.spotify.com/artist/3OozESsnCC27eiR9Wx6xBL"
+          "url": "https://open.spotify.com/artist/5vjkHRMoB3hWGn3BvNqGcj"
         }
       ],
       "date_added": "2024-04-04",
@@ -18151,6 +18399,24 @@
       "duration_ms": 153000,
       "name": "SINCERO",
       "url": "https://open.spotify.com/track/5yONnAl8O86eSD8mFrt95Q"
+    },
+    {
+      "album": {
+        "name": "SINNER",
+        "url": "https://open.spotify.com/album/6fHzeT0WDZCJJd8xBLnvUx"
+      },
+      "artists": [
+        {
+          "name": "TIA2091",
+          "url": "https://open.spotify.com/artist/1oUmYfxENlEgWVw2wBsjDv"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92571,
+      "name": "SINNER",
+      "url": "https://open.spotify.com/track/4xUTsAbqDSwAHvjIBvyweN"
     },
     {
       "album": {
@@ -20375,7 +20641,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 230400,
       "name": "ULTIMO PASSO",
       "url": "https://open.spotify.com/track/42KJsbe4kosMkwX6I2D3Y4"
@@ -20397,7 +20663,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 120000,
       "name": "UN FIGLIO E UNA PISTOLA",
       "url": "https://open.spotify.com/track/2wzZ3gtgEcZjkukprwFJxw"
@@ -21101,7 +21367,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 130000,
       "name": "Walter White",
       "url": "https://open.spotify.com/track/4C980lj6oDL9afqXL6B7CC"

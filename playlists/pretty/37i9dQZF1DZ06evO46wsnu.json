@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 160073,
+  "num_followers": 160108,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMGVmMzg4YTkwMDUxNzcwYmRlNjcyMzkwZmY0Njc3NzIz",
+  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDk5YTFmZWYwNzc0MDQxZDJlNzNiNWQ0NTQ4OGFmZGIx",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Endgame",
-        "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 222626,
-      "name": "Architects",
-      "url": "https://open.spotify.com/track/1O7oz3f9EuSeeX0J7t5z6J"
+      "duration_ms": 194506,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/4c75xeSteTcgSSxRtsKqOJ"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
+        "name": "Endgame",
+        "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 194506,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/4c75xeSteTcgSSxRtsKqOJ"
+      "duration_ms": 222626,
+      "name": "Architects",
+      "url": "https://open.spotify.com/track/1O7oz3f9EuSeeX0J7t5z6J"
     },
     {
       "added_at": null,

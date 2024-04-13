@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 526846,
+  "2024-04-13": 526899,
   "date_first_scraped": "2021-12-21",
   "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: woo!ah!(\uc6b0\uc544!) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 208474,
       "name": "BAAM",
       "url": "https://open.spotify.com/track/4Is1b37KJY9XVCgzp81FBW"
@@ -1353,6 +1353,24 @@
       "duration_ms": 174253,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV"
+    },
+    {
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174517,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/4VyCrRtc9UbYF6SGDuLFwg"
     },
     {
       "album": {

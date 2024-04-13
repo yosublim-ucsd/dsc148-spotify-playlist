@@ -1,12 +1,12 @@
 {
   "description": "This is Shane & Shane. The essential tracks, all in one playlist.",
-  "num_followers": 33474,
+  "num_followers": 33488,
   "original_name": "This Is Shane & Shane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDYxN2I0OWFiMTA5YWMwNzkxOGJiMGRjYmIwOTgwMzE4",
+  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMGY1NmI5YTY3NmUyY2ZlMTIxZTg5NWJkYmMxMzNjNWM5",
   "tracks": [
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dare 2 Share - Unending Worship",
-        "url": "https://open.spotify.com/album/7ijXWwAzI9UQwbUrFv7Dvd"
+        "name": "Psalms Live",
+        "url": "https://open.spotify.com/album/3UzKQzSKz9lo1rGBDm7iFv"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 282240,
-      "name": "Our God Is Greater",
-      "url": "https://open.spotify.com/track/61jQN64QwaHBfXidHeBU0H"
+      "duration_ms": 292379,
+      "name": "O Praise the Name (Live)",
+      "url": "https://open.spotify.com/track/06JooBbucchucT6w3HaMlR"
     },
     {
       "added_at": null,
@@ -843,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psalms Live",
-        "url": "https://open.spotify.com/album/3UzKQzSKz9lo1rGBDm7iFv"
+        "name": "Dare 2 Share - Unending Worship",
+        "url": "https://open.spotify.com/album/7ijXWwAzI9UQwbUrFv7Dvd"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 292379,
-      "name": "O Praise the Name (Live)",
-      "url": "https://open.spotify.com/track/06JooBbucchucT6w3HaMlR"
+      "duration_ms": 282240,
+      "name": "Our God Is Greater",
+      "url": "https://open.spotify.com/track/61jQN64QwaHBfXidHeBU0H"
     },
     {
       "added_at": null,

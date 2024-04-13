@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-262 songs - 22 hr 50 min
+263 songs - 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Anjuman](https://open.spotify.com/track/53JrlbZ5lgYzorgMJyIqXf) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4) | [Anjuman](https://open.spotify.com/album/5dJp1acdUGaHX9D3x0eKxC) | 3:38 | 2022-05-17 | 2023-03-11 |
 | [Azad](https://open.spotify.com/track/3mDv3HRVNlPyJGLJvg8y8T) | [Bombay Bandook](https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs) | [Azad](https://open.spotify.com/album/6LGwxJSIMkEa0kWDzaBEOT) | 4:40 | 2022-05-17 | 2023-07-22 |
 | [Baadal](https://open.spotify.com/track/4NliS6MtHE2VJC3Pu495nv) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Baadal](https://open.spotify.com/album/6vbTqEOFjaiDJy6WdcpZkt) | 4:14 | 2023-08-03 |  |
+| [Baat Takat Hun](https://open.spotify.com/track/2fQOhddanyytkxnmTE8Cjo) | [Priyasi](https://open.spotify.com/artist/2DOqWohzAkzacGdn1CIpdp), [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Baat Takat Hun](https://open.spotify.com/album/6Yp6GFWJLfvcOZcuPI2WhB) | 2:52 | 2024-04-12 |  |
 | [Badi Dheere Jali](https://open.spotify.com/track/2VgmwOgWxNkfT4vvA7eJ5E) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Ishqiya](https://open.spotify.com/album/6w5XtnPBTeOUFvwGi93lgB) | 7:01 | 2022-05-17 | 2023-03-23 |
 | [Badra Chhaaye](https://open.spotify.com/track/0xaocSiKSgZdetM5onBTvz) | [Keshav Tyohar](https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS) | [Badra Chhaaye](https://open.spotify.com/album/4Q4LYEVYMZZbOgEiksRxLa) | 2:50 | 2023-07-13 |  |
 | [Badra Jhum](https://open.spotify.com/track/0yQOBmCtGInHcLxzgGw5La) | [Prasanta A Samadhar](https://open.spotify.com/artist/0WUykTmuOcYbFgu3L6lO0L) | [Badra Jhum](https://open.spotify.com/album/4QfO5s4jV7ybLfyefmGZNu) | 3:42 | 2023-10-09 | 2024-01-08 |
@@ -173,7 +174,7 @@
 | [Night](https://open.spotify.com/track/5ucLyBlhHzKn2ZiAQwLOl7) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY) | [MIDIval PunditZ](https://open.spotify.com/album/4rSbNYZdPsBDGBK7Qrat7X) | 5:55 | 2022-07-12 | 2023-05-24 |
 | [Nindiya \- A Lullaby](https://open.spotify.com/track/2m7X5DrmSew92cs8TlX8Zi) | [Kshitij Tarey](https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l), [Vishwa Mohan Bhatt](https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl) | [Nindiya \- A Lullaby](https://open.spotify.com/album/6h9pGqUDzQTlAMoMokTeiE) | 3:31 | 2023-10-27 |  |
 | [Nindiya Na Aaye](https://open.spotify.com/track/7ioAQhNCKwt4JyXLDQVLH1) | [Prathama Dey](https://open.spotify.com/artist/5EnfdD46Y3dkuPg30FQt5B), [Prajna Dutta](https://open.spotify.com/artist/4CFjungEFZLSKaGjl9su8I) | [Nindiya Na Aaye](https://open.spotify.com/album/0dO7G9X3n7psqVAmWjy8Hw) | 3:45 | 2022-05-17 | 2023-05-24 |
-| [Nirbhay Nirgun \(Live\)](https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Aastha Mandle](https://open.spotify.com/artist/3WbMLBBp0iOzfjvU6AcwCA) | [Nirbhay Nirgun \(Live\)](https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4) | 6:20 | 2023-07-21 |  |
+| [Nirbhay Nirgun \(Live\)](https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Aastha Mandle](https://open.spotify.com/artist/3WbMLBBp0iOzfjvU6AcwCA) | [Nirbhay Nirgun \(Live\)](https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4) | 6:20 | 2023-07-21 | 2024-04-13 |
 | [Nirvana](https://open.spotify.com/track/6AIMkgFs253hoN9dLa5NA6) | [SoundGuySam](https://open.spotify.com/artist/46kwfZuv8Zp5s1lmeOvjTw), [Vāhaka](https://open.spotify.com/artist/2fNCMrjJFeeQVLhdS4tE8m) | [Nirvana](https://open.spotify.com/album/0JqNvIfu12IkoCUVBWn9iN) | 3:00 | 2022-05-17 | 2023-05-24 |
 | [O Saawariya](https://open.spotify.com/track/3wxmhcKTOnkBGTqZIeK40N) | [Mahimma Bhardwaj](https://open.spotify.com/artist/6dAjKwptPcekFHZXyPPZ8j), [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE), [Munawwar Ali](https://open.spotify.com/artist/7HWhz8vrvqKS77FjmXYmPY) | [O Saawariya](https://open.spotify.com/album/2WUjEIjJ2LZihGXmA1V6v8) | 3:29 | 2023-05-18 | 2023-10-28 |
 | [O Sajana Barkha Bahar](https://open.spotify.com/track/4ZNtTyyJ8lpqHZmKRsCmBt) | [Khatija Rahman](https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP), [Firdaus Orchestra](https://open.spotify.com/artist/3drENjzQNPCE5CSMby4SwB) | [Kuhu Kuhu](https://open.spotify.com/album/4F6BUhEStYseE1u6eob2bg) | 3:35 | 2023-09-28 |  |

@@ -1,6 +1,6 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 2635,
+  "num_followers": 2639,
   "original_name": "\uc7ac\uc988\ub9db \ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,26 @@
     {
       "added_at": "2024-04-05 09:30:34",
       "album": {
+        "name": "JAMI (feat. THAMA)",
+        "url": "https://open.spotify.com/album/24Mz6ldfMoP8TAnVcJ7D4k"
+      },
+      "artists": [
+        {
+          "name": "Otis Lim",
+          "url": "https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3"
+        },
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "duration_ms": 184277,
+      "name": "JAMI (feat. THAMA)",
+      "url": "https://open.spotify.com/track/1ScFrFA0uUsy9rTuSSsGNr"
+    },
+    {
+      "added_at": "2024-04-05 09:30:34",
+      "album": {
         "name": "Epik High Is Here \u4e0a (Part 1)",
         "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
       },
@@ -171,26 +191,6 @@
       "duration_ms": 222133,
       "name": "under the ground (feat. Dean)",
       "url": "https://open.spotify.com/track/6EU4Ox9nBAE4BMatsggp8i"
-    },
-    {
-      "added_at": "2024-04-05 09:30:34",
-      "album": {
-        "name": "JAMI (feat. THAMA)",
-        "url": "https://open.spotify.com/album/24Mz6ldfMoP8TAnVcJ7D4k"
-      },
-      "artists": [
-        {
-          "name": "Otis Lim",
-          "url": "https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3"
-        },
-        {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
-        }
-      ],
-      "duration_ms": 184277,
-      "name": "JAMI (feat. THAMA)",
-      "url": "https://open.spotify.com/track/1ScFrFA0uUsy9rTuSSsGNr"
     },
     {
       "added_at": "2024-04-05 09:30:34",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-04-05 09:30:34",
       "album": {
-        "name": "u n u, Pt. 1",
-        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
-      },
-      "artists": [
-        {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
-        }
-      ],
-      "duration_ms": 185013,
-      "name": "merlot",
-      "url": "https://open.spotify.com/track/1YXYleLFyTRQMMitfL2mdL"
-    },
-    {
-      "added_at": "2024-04-05 09:30:34",
-      "album": {
         "name": "Beginning",
         "url": "https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0"
       },
@@ -379,6 +363,22 @@
     {
       "added_at": "2024-04-05 09:30:34",
       "album": {
+        "name": "u n u, Pt. 1",
+        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        }
+      ],
+      "duration_ms": 185013,
+      "name": "merlot",
+      "url": "https://open.spotify.com/track/1YXYleLFyTRQMMitfL2mdL"
+    },
+    {
+      "added_at": "2024-04-05 09:30:34",
+      "album": {
         "name": "ROOM SERVICE",
         "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
       },
@@ -399,22 +399,6 @@
       "duration_ms": 159230,
       "name": "Color (Feat. youra)",
       "url": "https://open.spotify.com/track/1ruwBe8TgkNnlKUiwXTxWB"
-    },
-    {
-      "added_at": "2024-04-05 09:30:34",
-      "album": {
-        "name": "u n u, Pt. 1",
-        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
-      },
-      "artists": [
-        {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
-        }
-      ],
-      "duration_ms": 173413,
-      "name": "ice coffee",
-      "url": "https://open.spotify.com/track/0NXN8CNyQOQvZuSuFP75IB"
     },
     {
       "added_at": "2024-04-05 09:30:34",
@@ -511,6 +495,42 @@
     {
       "added_at": "2024-04-05 09:30:34",
       "album": {
+        "name": "Black & White Film",
+        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "When it rains (Feat. sogumm) (Prod. BOYCOLD)",
+      "url": "https://open.spotify.com/track/5dhIalMumQFewgozEupkPi"
+    },
+    {
+      "added_at": "2024-04-05 09:30:34",
+      "album": {
+        "name": "u n u, Pt. 1",
+        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        }
+      ],
+      "duration_ms": 173413,
+      "name": "ice coffee",
+      "url": "https://open.spotify.com/track/0NXN8CNyQOQvZuSuFP75IB"
+    },
+    {
+      "added_at": "2024-04-05 09:30:34",
+      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/1H59BSWW8dygtTZv51DmbA"
       },
@@ -535,26 +555,6 @@
     {
       "added_at": "2024-04-05 09:30:34",
       "album": {
-        "name": "Black & White Film",
-        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "sogumm",
-          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "When it rains (Feat. sogumm) (Prod. BOYCOLD)",
-      "url": "https://open.spotify.com/track/5dhIalMumQFewgozEupkPi"
-    },
-    {
-      "added_at": "2024-04-05 09:30:34",
-      "album": {
         "name": "Simon Dominic Presents `SNL LEAGUE BEGINS`",
         "url": "https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5"
       },
@@ -575,42 +575,6 @@
     {
       "added_at": "2024-04-05 09:30:34",
       "album": {
-        "name": "Show Me the Money 8 Final",
-        "url": "https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 182868,
-      "name": "10",
-      "url": "https://open.spotify.com/track/4iRlKTcGQJd6hDCnAS76QT"
-    },
-    {
-      "added_at": "2024-04-05 09:30:34",
-      "album": {
-        "name": "u n u, Pt. 1",
-        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
-      },
-      "artists": [
-        {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "gucci girl",
-      "url": "https://open.spotify.com/track/5CDTCUl3TD36C5Ezhdfr3C"
-    },
-    {
-      "added_at": "2024-04-05 09:30:34",
-      "album": {
         "name": "THE SOLOEST",
         "url": "https://open.spotify.com/album/7ytuR23cmbdxlFFBtmRd5T"
       },
@@ -627,6 +591,26 @@
       "duration_ms": 179925,
       "name": "Fake Flower (feat. Nucksal)",
       "url": "https://open.spotify.com/track/4neR5Hz4WBcC2WN3anYvZx"
+    },
+    {
+      "added_at": "2024-04-05 09:30:34",
+      "album": {
+        "name": "Show Me the Money 8 Final",
+        "url": "https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 182868,
+      "name": "10",
+      "url": "https://open.spotify.com/track/4iRlKTcGQJd6hDCnAS76QT"
     },
     {
       "added_at": "2024-04-05 09:30:34",
@@ -683,6 +667,22 @@
       "duration_ms": 187250,
       "name": "Flower Cafe (feat.Sam Ock, I.M)",
       "url": "https://open.spotify.com/track/6RQvFKIxNRVTLc1MEXNZ5W"
+    },
+    {
+      "added_at": "2024-04-05 09:30:34",
+      "album": {
+        "name": "u n u, Pt. 1",
+        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "gucci girl",
+      "url": "https://open.spotify.com/track/5CDTCUl3TD36C5Ezhdfr3C"
     },
     {
       "added_at": "2024-04-05 09:30:34",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-04-05 09:30:34",
       "album": {
+        "name": "WALKIN', Vol. 1",
+        "url": "https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E"
+      },
+      "artists": [
+        {
+          "name": "PEEJAY",
+          "url": "https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY"
+        }
+      ],
+      "duration_ms": 257687,
+      "name": "I Get Lifted X Beenzino",
+      "url": "https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB"
+    },
+    {
+      "added_at": "2024-04-05 09:30:34",
+      "album": {
         "name": "2009 (Feat. unofficialboyy)",
         "url": "https://open.spotify.com/album/2PtYH7kVPNWwJ9JmJ95KFl"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 230440,
       "name": "2009 (Feat. unofficialboyy)",
       "url": "https://open.spotify.com/track/1LMzOs2hutvxG88BVh5lkD"
-    },
-    {
-      "added_at": "2024-04-05 09:30:34",
-      "album": {
-        "name": "WALKIN', Vol. 1",
-        "url": "https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E"
-      },
-      "artists": [
-        {
-          "name": "PEEJAY",
-          "url": "https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY"
-        }
-      ],
-      "duration_ms": 257687,
-      "name": "I Get Lifted X Beenzino",
-      "url": "https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB"
     },
     {
       "added_at": "2024-04-05 09:30:34",
@@ -887,18 +887,18 @@
     {
       "added_at": "2024-04-05 09:30:34",
       "album": {
-        "name": "MOON AND BACK",
-        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
+        "name": "Tourist",
+        "url": "https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR"
       },
       "artists": [
         {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
         }
       ],
-      "duration_ms": 240094,
-      "name": "Girl in New York (jazz)",
-      "url": "https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9"
+      "duration_ms": 189520,
+      "name": "Tourist",
+      "url": "https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn"
     },
     {
       "added_at": "2024-04-05 09:30:34",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-04-05 09:30:34",
       "album": {
+        "name": "MOON AND BACK",
+        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "duration_ms": 240094,
+      "name": "Girl in New York (jazz)",
+      "url": "https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9"
+    },
+    {
+      "added_at": "2024-04-05 09:30:34",
+      "album": {
         "name": "roaming.",
         "url": "https://open.spotify.com/album/6eLVFuisUwXug4uhRcQosX"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 189000,
       "name": "LIFE LOVE LAZY (Feat. CHOILB)",
       "url": "https://open.spotify.com/track/6elDiM0qVAMqtYa7J4dWNh"
-    },
-    {
-      "added_at": "2024-04-05 09:30:34",
-      "album": {
-        "name": "Tourist",
-        "url": "https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR"
-      },
-      "artists": [
-        {
-          "name": "CRUCiAL STAR",
-          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
-        }
-      ],
-      "duration_ms": 189520,
-      "name": "Tourist",
-      "url": "https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn"
     }
   ],
   "unique_name": "\uc7ac\uc988\ub9db \ud799\ud569",

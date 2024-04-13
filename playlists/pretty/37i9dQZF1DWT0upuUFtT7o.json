@@ -1,13 +1,29 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Slow Pulp performing at Fresh Finds Chicago March, 2024",
-  "num_followers": 214541,
+  "num_followers": 214586,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjc4NjUxNSwwMDAwMDAwMDJmY2Y4NDIyNzBkM2U0MzQ3N2RkYTEzZDYyOGFiM2Q1",
+  "snapshot_id": "MTcxMjkzOTQ2NCwwMDAwMDAwMGZkNDRkMjc5MDc3NDUyYzY5ODhjMjkxYTUyZGM1Mjky",
   "tracks": [
+    {
+      "added_at": "2024-04-12 16:31:04",
+      "album": {
+        "name": "Sedona",
+        "url": "https://open.spotify.com/album/2BjXEWXaQHHmpzPJD6IQ74"
+      },
+      "artists": [
+        {
+          "name": "Riley Whittaker",
+          "url": "https://open.spotify.com/artist/01M042tT419btz6wpqGoZE"
+        }
+      ],
+      "duration_ms": 204890,
+      "name": "Sedona",
+      "url": "https://open.spotify.com/track/0PbKuaLSKdSy7AsGpOi0er"
+    },
     {
       "added_at": "2024-04-10 04:00:00",
       "album": {

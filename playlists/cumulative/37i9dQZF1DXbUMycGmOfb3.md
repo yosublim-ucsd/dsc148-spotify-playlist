@@ -4,7 +4,7 @@
 
 > Fresh takes\- from new revisions and iconic covers to unexpected versions.
 
-42 songs - 2 hr 45 min
+44 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,12 +28,14 @@
 | [Let's Talk Dirty in Hawaiian](https://open.spotify.com/track/2o2h5q5jqudtn7smdl2c1W) | [Those Darlins](https://open.spotify.com/artist/5b0b7NlCvTtcDqG2nz5Mab) | [Broken Hearts & Dirty Windows: Songs of John Prine](https://open.spotify.com/album/2L1Y2FRrjQ1jhGJ6d4MGnL) | 3:37 | 2022-10-07 |  |
 | [Long Monday](https://open.spotify.com/track/6lAvyikqShfu0u8Oe4y34q) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Covered in the Flood](https://open.spotify.com/album/0eddMFpeVnc7LNrdhI35CM) | 3:24 | 2022-10-07 |  |
 | [Mexican Home](https://open.spotify.com/track/6aRG9sWjfGdufHjaOj8XE5) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Broken Hearts & Dirty Windows: Songs of John Prine](https://open.spotify.com/album/2L1Y2FRrjQ1jhGJ6d4MGnL) | 3:28 | 2022-10-07 |  |
-| [Paradise](https://open.spotify.com/track/2c8tVl8WF1F81NhFkoDAq5) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Dwight's Used Records](https://open.spotify.com/album/5hizFwDzTF2OSYlvfJNn5S) | 6:24 | 2022-10-07 |  |
+| [Paradise](https://open.spotify.com/track/0bc2wW0upw8IQ8eqXXEUmX) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Dwight's Used Records](https://open.spotify.com/album/0P5a6jQe3VFcYX5fP6kDMX) | 6:24 | 2022-10-07 |  |
+| [Paradise](https://open.spotify.com/track/2c8tVl8WF1F81NhFkoDAq5) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Dwight's Used Records](https://open.spotify.com/album/5hizFwDzTF2OSYlvfJNn5S) | 6:24 | 2022-10-07 | 2024-04-13 |
 | [Paradise](https://open.spotify.com/track/03oJ08eFsEOll82tHJNAY3) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Broken Hearts & Dirty Windows: Songs of John Prine, Vol\. 2](https://open.spotify.com/album/4hCtJiXI3q5gQAydvchzYh) | 3:18 | 2022-10-07 |  |
 | [Pretty Good](https://open.spotify.com/track/3ZmrWFxJZqbq8eBLHYZv4s) | [Manfred Mann's Earth Band](https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q) | [Messin'](https://open.spotify.com/album/3PVLKw9qMGNbswsSlkFpl8) | 4:11 | 2022-10-07 |  |
 | [Saddle in the Rain](https://open.spotify.com/track/43KWPH369VTxu76JUAxN1C) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Broken Hearts & Dirty Windows: Songs of John Prine, Vol\. 2](https://open.spotify.com/album/4hCtJiXI3q5gQAydvchzYh) | 4:46 | 2022-10-07 |  |
 | [Sam Stone](https://open.spotify.com/track/7gORB0P9reDZJT1uizkAbj) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX) | [The Excellent Sides Of Swamp Dogg Vol 2](https://open.spotify.com/album/320XYHLocaRHlQs3fSTTTv) | 4:01 | 2022-10-07 |  |
-| [Sam Stone \- Live](https://open.spotify.com/track/4iHj6t1TKs8GxkXFEAChti) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Live From Austin, TX](https://open.spotify.com/album/4V2559m7ZHIoqfoeqQ9gwO) | 4:11 | 2022-10-07 |  |
+| [Sam Stone \- Live](https://open.spotify.com/track/3pTkcyYQBTILa5PADESlmY) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Live From Austin, TX](https://open.spotify.com/album/5IO30vnHbudsEKWyepEim1) | 4:11 | 2022-10-07 |  |
+| [Sam Stone \- Live](https://open.spotify.com/track/4iHj6t1TKs8GxkXFEAChti) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Live From Austin, TX](https://open.spotify.com/album/4V2559m7ZHIoqfoeqQ9gwO) | 4:11 | 2022-10-07 | 2024-04-13 |
 | [Six O'clock News](https://open.spotify.com/track/70F4UvTBdngwCZYqfz4sqy) | [Lambchop](https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78) | [Broken Hearts & Dirty Windows: Songs of John Prine](https://open.spotify.com/album/2L1Y2FRrjQ1jhGJ6d4MGnL) | 4:23 | 2022-10-07 |  |
 | [Somewhere Someone's Falling In Love](https://open.spotify.com/track/4Q1cZvikNDjWWOuRsoGmrx) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Still Country](https://open.spotify.com/album/4NXkHJrig1avzq1H6BezXn) | 3:01 | 2022-10-07 |  |
 | [Souvenirs](https://open.spotify.com/track/61KwsjTbLTSigT26mxAuTv) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Diamonds in the Rough](https://open.spotify.com/album/7lJLYTHfQ1MF7Z88SebX7b) | 3:37 | 2022-10-07 |  |

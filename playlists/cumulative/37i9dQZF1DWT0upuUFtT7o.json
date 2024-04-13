@@ -31839,6 +31839,24 @@
     },
     {
       "album": {
+        "name": "Sedona",
+        "url": "https://open.spotify.com/album/2BjXEWXaQHHmpzPJD6IQ74"
+      },
+      "artists": [
+        {
+          "name": "Riley Whittaker",
+          "url": "https://open.spotify.com/artist/01M042tT419btz6wpqGoZE"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204890,
+      "name": "Sedona",
+      "url": "https://open.spotify.com/track/0PbKuaLSKdSy7AsGpOi0er"
+    },
+    {
+      "album": {
         "name": "Seeds of Evil",
         "url": "https://open.spotify.com/album/2iXteeFOazB3q1QuJfTtjf"
       },

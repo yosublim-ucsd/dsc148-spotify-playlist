@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 33687,
+  "2024-04-13": 33712,
   "date_first_scraped": "2022-05-26",
   "description": "Blues meets funk. Cover: Eric Gales",
   "name": "Funky Blues",
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 228667,
       "name": "Night Train",
       "url": "https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny"
@@ -1021,7 +1021,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 228667,
       "name": "Night Train",
       "url": "https://open.spotify.com/track/5fdbVNMOamFwCPJRqO49S2"
@@ -1129,7 +1129,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 244623,
       "name": "Same Ole Feeling",
       "url": "https://open.spotify.com/track/1AE9josdXyxXELOKqnbpX1"
@@ -1147,7 +1147,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 244623,
       "name": "Same Ole Feeling",
       "url": "https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR"
@@ -1351,7 +1351,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 226160,
       "name": "Sugar Sweet",
       "url": "https://open.spotify.com/track/0LdKvqFAiZEI67ALyRtXTB"
@@ -1369,7 +1369,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 226160,
       "name": "Sugar Sweet",
       "url": "https://open.spotify.com/track/13cYITViVXDJ9PQv7YqJPM"

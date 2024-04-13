@@ -1,6 +1,6 @@
 {
   "description": "a journey through ephemeral moments",
-  "num_followers": 12103,
+  "num_followers": 12100,
   "original_name": "transience",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Portico Quartet",
-        "url": "https://open.spotify.com/album/6JmTEwuDRW986lE6RM6G7j"
-      },
-      "artists": [
-        {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
-        }
-      ],
-      "duration_ms": 334040,
-      "name": "Ruins",
-      "url": "https://open.spotify.com/track/41SnX1GhhrekILw4cS8zhc"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
         "name": "Don't Shy Away",
         "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 290053,
       "name": "Ocotillo",
       "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Portico Quartet",
+        "url": "https://open.spotify.com/album/6JmTEwuDRW986lE6RM6G7j"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "duration_ms": 334040,
+      "name": "Ruins",
+      "url": "https://open.spotify.com/track/41SnX1GhhrekILw4cS8zhc"
     },
     {
       "added_at": "2022-02-18 04:36:14",
@@ -495,6 +495,22 @@
       "duration_ms": 343666,
       "name": "Abandoned Places",
       "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Big Sun",
+        "url": "https://open.spotify.com/album/4ML85VhWPuIOtXqR1Dl7TW"
+      },
+      "artists": [
+        {
+          "name": "Chassol",
+          "url": "https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp"
+        }
+      ],
+      "duration_ms": 239200,
+      "name": "Birds, Pt. I",
+      "url": "https://open.spotify.com/track/5GDteA9nob1rnxgE1KFx5l"
     },
     {
       "added_at": "2023-12-12 19:48:08",
@@ -515,22 +531,6 @@
       "duration_ms": 148556,
       "name": "Discovery at the Beach",
       "url": "https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Big Sun",
-        "url": "https://open.spotify.com/album/4ML85VhWPuIOtXqR1Dl7TW"
-      },
-      "artists": [
-        {
-          "name": "Chassol",
-          "url": "https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp"
-        }
-      ],
-      "duration_ms": 239200,
-      "name": "Birds, Pt. I",
-      "url": "https://open.spotify.com/track/5GDteA9nob1rnxgE1KFx5l"
     },
     {
       "added_at": "2023-01-02 20:54:03",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
     },
     {
-      "added_at": "2022-02-18 05:44:49",
-      "album": {
-        "name": "k o : d a",
-        "url": "https://open.spotify.com/album/06UNIbT3ICptJEmbilqSl2"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Klass (MISSUXO Film Edit)",
-      "url": "https://open.spotify.com/track/3mFZ5f0WSCQCt8EISSCuZS"
-    },
-    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Night Bunny (feat. Suzanne Ciani)",
@@ -799,6 +783,22 @@
       "duration_ms": 413993,
       "name": "Night Bunny (feat. Suzanne Ciani)",
       "url": "https://open.spotify.com/track/3vATOCr2BhLfHN6yn5Y6OP"
+    },
+    {
+      "added_at": "2022-02-18 05:44:49",
+      "album": {
+        "name": "k o : d a",
+        "url": "https://open.spotify.com/album/06UNIbT3ICptJEmbilqSl2"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Klass (MISSUXO Film Edit)",
+      "url": "https://open.spotify.com/track/3mFZ5f0WSCQCt8EISSCuZS"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -933,20 +933,20 @@
       "url": "https://open.spotify.com/track/33w6ijljyz6AChh6EQhMQW"
     },
     {
-      "added_at": "2022-02-18 05:44:49",
+      "added_at": "2024-04-12 00:45:23",
       "album": {
-        "name": "Lightless Room",
-        "url": "https://open.spotify.com/album/2YaO8IxDVrWD572N3mtZsc"
+        "name": "Le jour et la nuit du r\u00e9el",
+        "url": "https://open.spotify.com/album/0SGlqX0au6eBPzbyu1WiA3"
       },
       "artists": [
         {
-          "name": "Lucas Carlson",
-          "url": "https://open.spotify.com/artist/7ikS3gYWQFSfJINX8Euim7"
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
         }
       ],
-      "duration_ms": 299178,
-      "name": "Lightless Room",
-      "url": "https://open.spotify.com/track/05X88treE9dTwwHuJNBCcu"
+      "duration_ms": 131120,
+      "name": "Night looping - Movement I",
+      "url": "https://open.spotify.com/track/4zVsCgH8X9n8GcJDkAIoda"
     },
     {
       "added_at": "2022-05-24 01:08:19",
@@ -965,36 +965,20 @@
       "url": "https://open.spotify.com/track/2awlBl0GJRO38r7LCmvSbH"
     },
     {
-      "added_at": "2024-04-12 00:45:23",
+      "added_at": "2022-02-18 05:44:49",
       "album": {
-        "name": "Le jour et la nuit du r\u00e9el",
-        "url": "https://open.spotify.com/album/0SGlqX0au6eBPzbyu1WiA3"
+        "name": "Lightless Room",
+        "url": "https://open.spotify.com/album/2YaO8IxDVrWD572N3mtZsc"
       },
       "artists": [
         {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+          "name": "Lucas Carlson",
+          "url": "https://open.spotify.com/artist/7ikS3gYWQFSfJINX8Euim7"
         }
       ],
-      "duration_ms": 131120,
-      "name": "Night looping - Movement I",
-      "url": "https://open.spotify.com/track/4zVsCgH8X9n8GcJDkAIoda"
-    },
-    {
-      "added_at": "2022-09-03 04:35:48",
-      "album": {
-        "name": "Education & Recreation",
-        "url": "https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ"
-      },
-      "artists": [
-        {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
-        }
-      ],
-      "duration_ms": 229623,
-      "name": "Spring's Theme",
-      "url": "https://open.spotify.com/track/6cF8Z623V1z9sovxUEdWYW"
+      "duration_ms": 299178,
+      "name": "Lightless Room",
+      "url": "https://open.spotify.com/track/05X88treE9dTwwHuJNBCcu"
     },
     {
       "added_at": "2022-08-03 04:26:51",
@@ -1011,6 +995,22 @@
       "duration_ms": 75293,
       "name": "Swampland",
       "url": "https://open.spotify.com/track/687Vx2Yo2mj6zLJI1cx2oB"
+    },
+    {
+      "added_at": "2022-09-03 04:35:48",
+      "album": {
+        "name": "Education & Recreation",
+        "url": "https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "duration_ms": 229623,
+      "name": "Spring's Theme",
+      "url": "https://open.spotify.com/track/6cF8Z623V1z9sovxUEdWYW"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1125,6 +1125,26 @@
       "url": "https://open.spotify.com/track/12iSO9IrdXEQpSMdzBNYxi"
     },
     {
+      "added_at": "2022-03-03 00:47:36",
+      "album": {
+        "name": "Agua de Jamaica",
+        "url": "https://open.spotify.com/album/3bTbxFk7SO0ERWPVFBM5zE"
+      },
+      "artists": [
+        {
+          "name": "Sly5thAve",
+          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
+        },
+        {
+          "name": "Roberto Ver\u00e1stegui",
+          "url": "https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa"
+        }
+      ],
+      "duration_ms": 199305,
+      "name": "El Momento",
+      "url": "https://open.spotify.com/track/3yPaM6eae7ce5lOKxMfjVz"
+    },
+    {
       "added_at": "2022-01-07 01:30:59",
       "album": {
         "name": "Mountains, Go",
@@ -1155,26 +1175,6 @@
       "duration_ms": 519893,
       "name": "Management Of Sorrows",
       "url": "https://open.spotify.com/track/1E2ShBrH7M8h4GLKrLWYa6"
-    },
-    {
-      "added_at": "2022-03-03 00:47:36",
-      "album": {
-        "name": "Agua de Jamaica",
-        "url": "https://open.spotify.com/album/3bTbxFk7SO0ERWPVFBM5zE"
-      },
-      "artists": [
-        {
-          "name": "Sly5thAve",
-          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
-        },
-        {
-          "name": "Roberto Ver\u00e1stegui",
-          "url": "https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa"
-        }
-      ],
-      "duration_ms": 199305,
-      "name": "El Momento",
-      "url": "https://open.spotify.com/track/3yPaM6eae7ce5lOKxMfjVz"
     },
     {
       "added_at": "2021-10-06 04:38:12",

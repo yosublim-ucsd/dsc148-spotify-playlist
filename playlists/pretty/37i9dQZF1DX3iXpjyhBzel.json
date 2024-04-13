@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Lukas Agustinho, Gabriela Rocha",
-  "num_followers": 1048180,
+  "num_followers": 1048557,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,30 @@
     {
       "added_at": "2024-03-22 17:53:07",
       "album": {
+        "name": "Clamo Jesus",
+        "url": "https://open.spotify.com/album/4Wjcs71kOvbTCLYuqZqXjC"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Marsena",
+          "url": "https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7"
+        },
+        {
+          "name": "O Canto das Igrejas",
+          "url": "https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB"
+        }
+      ],
+      "duration_ms": 437426,
+      "name": "Clamo Jesus",
+      "url": "https://open.spotify.com/track/3Ns4xzoj5d1r0K5pc9uq64"
+    },
+    {
+      "added_at": "2024-03-22 17:53:07",
+      "album": {
         "name": "\u00c9s o Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
       },
@@ -735,30 +759,6 @@
       "duration_ms": 259505,
       "name": "Ent\u00e3o Profetiza",
       "url": "https://open.spotify.com/track/0U7QgnQNNjC1WhcEOPm6xI"
-    },
-    {
-      "added_at": "2024-03-22 17:53:07",
-      "album": {
-        "name": "Clamo Jesus",
-        "url": "https://open.spotify.com/album/4Wjcs71kOvbTCLYuqZqXjC"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Marsena",
-          "url": "https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7"
-        },
-        {
-          "name": "O Canto das Igrejas",
-          "url": "https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB"
-        }
-      ],
-      "duration_ms": 437426,
-      "name": "Clamo Jesus",
-      "url": "https://open.spotify.com/track/3Ns4xzoj5d1r0K5pc9uq64"
     },
     {
       "added_at": "2024-03-22 17:53:07",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-03-22 17:53:07",
       "album": {
-        "name": "Eu N\u00e3o Perdi o Controle (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6QZ6abxy3XaFJyytXZZNft"
-      },
-      "artists": [
-        {
-          "name": "Maria Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
-        }
-      ],
-      "duration_ms": 378000,
-      "name": "Eu N\u00e3o Perdi o Controle (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5smxm1Rp8wsWaei8VBtKm5"
-    },
-    {
-      "added_at": "2024-03-22 17:53:07",
-      "album": {
         "name": "Pode Morar Aqui (feat. Alessandro Vilas Boas) [Ao Vivo]",
         "url": "https://open.spotify.com/album/0mCox5GE2UX2tVdXwxBoYw"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 456654,
       "name": "Ele Cumprir\u00e1",
       "url": "https://open.spotify.com/track/1nQ0oeFFwRsW2h6PgZWmlo"
+    },
+    {
+      "added_at": "2024-03-22 17:53:07",
+      "album": {
+        "name": "Eu N\u00e3o Perdi o Controle (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6QZ6abxy3XaFJyytXZZNft"
+      },
+      "artists": [
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+        }
+      ],
+      "duration_ms": 378000,
+      "name": "Eu N\u00e3o Perdi o Controle (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5smxm1Rp8wsWaei8VBtKm5"
     },
     {
       "added_at": "2024-03-22 17:53:07",

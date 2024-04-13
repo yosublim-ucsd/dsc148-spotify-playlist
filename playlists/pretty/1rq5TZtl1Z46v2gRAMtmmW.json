@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29520,
+  "num_followers": 29529,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzY4NSxjZjBkNzU2NWFmMzc5ZTQ4YjNkYmQ1NDhlZTA5OTdhMDgwYzRiNDZl",
+  "snapshot_id": "MzY5MSw0NzJkZjhjYTQ5OTU2ZjUwNjRlOWY0ZmU2YjU1OGU2ZGFmMjBkMDBl",
   "tracks": [
     {
       "added_at": "2024-02-20 17:59:46",
@@ -23,6 +23,38 @@
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "added_at": "2024-04-12 10:52:05",
+      "album": {
+        "name": "Your Skin",
+        "url": "https://open.spotify.com/album/7se5zvHVTlsELjqh4MZmRR"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 246823,
+      "name": "Your Skin",
+      "url": "https://open.spotify.com/track/6wejq4291nzIEdKS4iu76l"
+    },
+    {
+      "added_at": "2024-04-12 10:55:57",
+      "album": {
+        "name": "Torch / Pearl of Hail",
+        "url": "https://open.spotify.com/album/3HXjzaIgjZrDG7iJ35WpBL"
+      },
+      "artists": [
+        {
+          "name": "Forest Swords",
+          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
+        }
+      ],
+      "duration_ms": 110166,
+      "name": "Pearl of Hail",
+      "url": "https://open.spotify.com/track/3t2I3dV5AF2qhmbMbdeMt1"
     },
     {
       "added_at": "2024-03-28 17:35:14",
@@ -703,46 +735,6 @@
       "duration_ms": 146621,
       "name": "VIOLET",
       "url": "https://open.spotify.com/track/7bj2V0jUq2wbuOwxlajhIu"
-    },
-    {
-      "added_at": "2023-09-26 19:24:31",
-      "album": {
-        "name": "Right Here",
-        "url": "https://open.spotify.com/album/6eVyeXNcxcfv0eE5fZmteF"
-      },
-      "artists": [
-        {
-          "name": "H31R",
-          "url": "https://open.spotify.com/artist/2kAeDHyhTvvRY3zavI2Amr"
-        },
-        {
-          "name": "JWords",
-          "url": "https://open.spotify.com/artist/3IijBhV1c1mOVCyXO4RXiT"
-        },
-        {
-          "name": "maassai",
-          "url": "https://open.spotify.com/artist/6Cjn6Iu1NYSu1QsRzjSJTV"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Right Here",
-      "url": "https://open.spotify.com/track/5lheFJ9dG8CvAUmDobTTYP"
-    },
-    {
-      "added_at": "2023-09-15 16:21:26",
-      "album": {
-        "name": "softscars",
-        "url": "https://open.spotify.com/album/6D1djmwpqsx5Y611ieEAXr"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 206099,
-      "name": "softscars",
-      "url": "https://open.spotify.com/track/6qCzOLJmzAAsYF5xsz5ajF"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

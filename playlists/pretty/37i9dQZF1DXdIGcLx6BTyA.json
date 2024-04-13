@@ -320,7 +320,7 @@
       "added_at": "2024-03-25 16:53:27",
       "album": {
         "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
+        "url": "https://open.spotify.com/album/3OZVgu6jFzr2N045WTLWa3"
       },
       "artists": [
         {
@@ -330,7 +330,7 @@
       ],
       "duration_ms": 231813,
       "name": "Highway Queen",
-      "url": "https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G"
+      "url": "https://open.spotify.com/track/3CG6wjo8LItUJO5hQOzmAC"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Maybe A Moment / Graceland",
-        "url": "https://open.spotify.com/album/67ZgBWzvcwzoyUxGXz9aLW"
-      },
-      "artists": [
-        {
-          "name": "Justin Townes Earle",
-          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "Graceland",
-      "url": "https://open.spotify.com/track/2UduNMj9tpsEcBTur8VwH2"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Tell Me When It\u2019s Over",
         "url": "https://open.spotify.com/album/5bxdVStUF65zKHF4WrFNho"
       },
@@ -503,18 +487,34 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Lamentations",
-        "url": "https://open.spotify.com/album/16cNE8Er5s7OeJAe0Ki3vC"
+        "name": "The Lemonade Stand",
+        "url": "https://open.spotify.com/album/6LBK0pyzqO0W4ZzZz2KznI"
       },
       "artists": [
         {
-          "name": "American Aquarium",
-          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
         }
       ],
-      "duration_ms": 175391,
-      "name": "Before The Dogwood Blooms",
-      "url": "https://open.spotify.com/track/6OkVaVrNaWT54KQMBCCmyN"
+      "duration_ms": 226626,
+      "name": "Somebody's Daughter",
+      "url": "https://open.spotify.com/track/212JC1fIZDB2Wp5B16eZON"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Find a Light",
+        "url": "https://open.spotify.com/album/3l5leCt5ddRcUmcQvx1KG7"
+      },
+      "artists": [
+        {
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+        }
+      ],
+      "duration_ms": 225165,
+      "name": "Till the Wheels Fall Off",
+      "url": "https://open.spotify.com/track/5jsFP9UeOXngDEslmUVozc"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -551,54 +551,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "The Lemonade Stand",
-        "url": "https://open.spotify.com/album/6LBK0pyzqO0W4ZzZz2KznI"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Somebody's Daughter",
-      "url": "https://open.spotify.com/track/212JC1fIZDB2Wp5B16eZON"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "Cuttin' Grass - Vol. 1 (Butcher Shoppe Sessions)",
-        "url": "https://open.spotify.com/album/1S6sk9yusYQoadSAbx3ZB8"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 269663,
-      "name": "I Don't Mind",
-      "url": "https://open.spotify.com/track/0NkiEX9bdIm7a06pJBbOYs"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "Find a Light",
-        "url": "https://open.spotify.com/album/3l5leCt5ddRcUmcQvx1KG7"
-      },
-      "artists": [
-        {
-          "name": "Blackberry Smoke",
-          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
-        }
-      ],
-      "duration_ms": 225165,
-      "name": "Till the Wheels Fall Off",
-      "url": "https://open.spotify.com/track/5jsFP9UeOXngDEslmUVozc"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Wolves",
         "url": "https://open.spotify.com/album/37qnyTNIEoahRSVaNzcKMK"
       },
@@ -615,18 +567,18 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Purgatory",
-        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
+        "name": "Cuttin' Grass - Vol. 1 (Butcher Shoppe Sessions)",
+        "url": "https://open.spotify.com/album/1S6sk9yusYQoadSAbx3ZB8"
       },
       "artists": [
         {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
         }
       ],
-      "duration_ms": 280786,
-      "name": "Whitehouse Road",
-      "url": "https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv"
+      "duration_ms": 269663,
+      "name": "I Don't Mind",
+      "url": "https://open.spotify.com/track/0NkiEX9bdIm7a06pJBbOYs"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -663,50 +615,18 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "The Nashville Sound",
-        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
+        "name": "Purgatory",
+        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
       },
       "artists": [
         {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
         }
       ],
-      "duration_ms": 183164,
-      "name": "Hope the High Road",
-      "url": "https://open.spotify.com/track/7r5X8KL8y0CpZZErtmOmNo"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "A Sailor's Guide to Earth",
-        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 212586,
-      "name": "Breakers Roar",
-      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "The Dirty South",
-        "url": "https://open.spotify.com/album/6MaUJWhC6jQJL84AH1MNWy"
-      },
-      "artists": [
-        {
-          "name": "Drive-By Truckers",
-          "url": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
-        }
-      ],
-      "duration_ms": 299333,
-      "name": "Goddamn Lonely Love",
-      "url": "https://open.spotify.com/track/7ekj86VgKXB5XFTwVYnTQP"
+      "duration_ms": 280786,
+      "name": "Whitehouse Road",
+      "url": "https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -743,6 +663,38 @@
       "duration_ms": 232524,
       "name": "Jingle and Go",
       "url": "https://open.spotify.com/track/42Wvzdf5yRnjE3C6XjYYVV"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "The Nashville Sound",
+        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 183164,
+      "name": "Hope the High Road",
+      "url": "https://open.spotify.com/track/7r5X8KL8y0CpZZErtmOmNo"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "A Sailor's Guide to Earth",
+        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "Breakers Roar",
+      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -971,22 +923,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Never Will",
-        "url": "https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP"
-      },
-      "artists": [
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        }
-      ],
-      "duration_ms": 229266,
-      "name": "Hang In There Girl",
-      "url": "https://open.spotify.com/track/1z0HE4db7hwjjnyL4O0nbC"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Rollin' On",
         "url": "https://open.spotify.com/album/5ZMsoF7uGHmEHDGW92QGZ5"
       },
@@ -999,6 +935,22 @@
       "duration_ms": 249706,
       "name": "Rollin' On",
       "url": "https://open.spotify.com/track/0HVNChZ47EoD5xKmXJmkOX"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Never Will",
+        "url": "https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "duration_ms": 229266,
+      "name": "Hang In There Girl",
+      "url": "https://open.spotify.com/track/1z0HE4db7hwjjnyL4O0nbC"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1055,22 +1007,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Dying Star",
-        "url": "https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 221720,
-      "name": "Faceplant",
-      "url": "https://open.spotify.com/track/2VeHykq7LnldFv0ugSUN57"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "That Girl",
         "url": "https://open.spotify.com/album/7wZmpvh4f6WIBftDnAdxCP"
       },
@@ -1087,18 +1023,18 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Neon Cross",
-        "url": "https://open.spotify.com/album/2ENwnvyAD2AzUP2Z46l8bQ"
+        "name": "Dying Star",
+        "url": "https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU"
       },
       "artists": [
         {
-          "name": "Jaime Wyatt",
-          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
         }
       ],
-      "duration_ms": 264181,
-      "name": "Neon Cross",
-      "url": "https://open.spotify.com/track/5ayliDKP3otgKuYCfSiySg"
+      "duration_ms": 221720,
+      "name": "Faceplant",
+      "url": "https://open.spotify.com/track/2VeHykq7LnldFv0ugSUN57"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1135,6 +1071,22 @@
       "duration_ms": 224527,
       "name": "Tuesday I\u2019ll Be Gone (feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/0FsdfpCrfUAqAA2Hctoe88"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 190173,
+      "name": "Over Drinking",
+      "url": "https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1187,22 +1139,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 190173,
-      "name": "Over Drinking",
-      "url": "https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/1eXKj3JRnhZB0OQ7fDRvgn"
       },
@@ -1215,22 +1151,6 @@
       "duration_ms": 200386,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/55Z5eGNkXedn1N2mHwJ2hz"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "J.T.",
-        "url": "https://open.spotify.com/album/02DqMqXTuEauf2EQsHZtmB"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 215669,
-      "name": "Champagne Corolla",
-      "url": "https://open.spotify.com/track/6zFZuHLAUd1JNDWtBQRDaQ"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1347,6 +1267,86 @@
       "duration_ms": 177447,
       "name": "Lotta Fun",
       "url": "https://open.spotify.com/track/4Qpm33fWxkNNV4wJ0rTLYE"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "The Lonely, The Lonesome & The Gone",
+        "url": "https://open.spotify.com/album/1ihmwH6uoYnDHPRwUbJ2SP"
+      },
+      "artists": [
+        {
+          "name": "Lee Ann Womack",
+          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
+        }
+      ],
+      "duration_ms": 341293,
+      "name": "All The Trouble",
+      "url": "https://open.spotify.com/track/5X1yXxosU8i4nJIwDcvRFd"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Honky Tonk Hell",
+        "url": "https://open.spotify.com/album/7A07KizyQlXTvwFY0Nj0XF"
+      },
+      "artists": [
+        {
+          "name": "Gabe Lee",
+          "url": "https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Honky Tonk Hell",
+      "url": "https://open.spotify.com/track/6zBCsjkZd6SLDX32I8ZzrF"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Call the Captain",
+        "url": "https://open.spotify.com/album/2BwdTtiw3Tn89CZMyZvOHY"
+      },
+      "artists": [
+        {
+          "name": "Western Centuries",
+          "url": "https://open.spotify.com/artist/0NlJw273FRxv1BFIYwYBTp"
+        }
+      ],
+      "duration_ms": 222333,
+      "name": "Before That Final Bell",
+      "url": "https://open.spotify.com/track/4P60d6gbl70CKF7QJmLVzk"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Sparrow",
+        "url": "https://open.spotify.com/album/0Frgzm1xuM3cy8VxuTOkNu"
+      },
+      "artists": [
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        }
+      ],
+      "duration_ms": 231746,
+      "name": "Wild Love",
+      "url": "https://open.spotify.com/track/0pNMGl99ohJrxz0O3ardvu"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "That's How Rumors Get Started",
+        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "Prisoner Of The Highway",
+      "url": "https://open.spotify.com/track/17ovUJrgt7GvsemAskk0Vs"
     }
   ],
   "unique_name": "The Road Less Traveled",

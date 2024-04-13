@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,906 songs - 4 day 5 hr 44 min
+1,907 songs - 4 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -908,7 +908,7 @@
 | [Liiottelen](https://open.spotify.com/track/7k9DaMxamcP6RFpNJDB18b) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Liiottelen](https://open.spotify.com/album/7usVq86FZCnT7Dt65TuZSd) | 1:57 | 2023-06-17 | 2023-07-08 |
 | [Like I Can](https://open.spotify.com/track/0mJBiaODgK0XjOLCN5fItq) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Deluxe\)](https://open.spotify.com/album/6oSJciY7B2HlZPJpyR9nOR) | 2:47 | 2021-08-24 | 2021-09-26 |
 | [Like It's Christmas](https://open.spotify.com/track/1OjmlSFuzYflWjSMTCyTJv) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Like It's Christmas](https://open.spotify.com/album/2SOQX9qSOQhxc0PsI5LNnu) | 3:20 | 2022-12-25 | 2022-12-27 |
-| [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-03-23 |  |
+| [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-03-23 | 2024-04-13 |
 | [LIMBO](https://open.spotify.com/track/4WdpqwwiCki35JjwYGESKE) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [LIMBO](https://open.spotify.com/album/35eRCbiaVPNOpSvleCo6JZ) | 2:20 | 2022-12-10 | 2022-12-15 |
 | [Limbo](https://open.spotify.com/track/2h5UqcO6ZAlfY7TavWlRAr) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Limbo](https://open.spotify.com/album/0AHb9fvTo7PPe4nIS2paWu) | 3:27 | 2022-01-15 | 2022-03-01 |
 | [Lippu salkoon](https://open.spotify.com/track/73LYaGEp8L1llefvKsFYAd) | [Pasi ja Anssi](https://open.spotify.com/artist/5Ptz1xkszwS7JBksmx8gMt) | [Lippu salkoon](https://open.spotify.com/album/72obAbLYpMG01RakESQhYi) | 3:15 | 2022-04-23 | 2022-05-03 |
@@ -1265,6 +1265,7 @@
 | [Paskana](https://open.spotify.com/track/2fLgdHBISoiNXuvXW4LjnM) | [Sara Siipola](https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup) | [Paskana](https://open.spotify.com/album/47i8dXMDLY77ZGPNplfeup) | 3:04 | 2024-01-16 |  |
 | [PATO](https://open.spotify.com/track/1JLS2KpG4G5UXTV2WZznEf) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [RÄPPÄRI](https://open.spotify.com/album/4VjT5dIyokFmgNIaJ4A7fq) | 2:54 | 2023-11-04 | 2023-11-12 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2021-06-27 |
+| [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-04-12 |  |
 | [Pehmeit](https://open.spotify.com/track/181y2m1qPSC16fTww0Jt7U) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g), [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [EP](https://open.spotify.com/album/1mJQYz8IMHMk0FowAEVsRi) | 2:10 | 2024-03-30 | 2024-04-07 |
 | [Peikonlehti](https://open.spotify.com/track/0feHuZkQOn1Lqk1Ocpae2Z) | [Vilma Alina](https://open.spotify.com/artist/5zmBbgxO5dvb4sbsX6dL19) | [Polut kasvaa umpeen](https://open.spotify.com/album/4WVu9G8mgq4S8a8fV5kC5G) | 3:09 | 2024-03-09 | 2024-03-11 |
 | [Pelasta mut](https://open.spotify.com/track/6SqhmtX7NbQEHZUx1k3HWB) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [BOY WONDER](https://open.spotify.com/album/17NNoDhQk1jYRWeVTuoPSB) | 3:39 | 2021-10-03 | 2021-10-04 |

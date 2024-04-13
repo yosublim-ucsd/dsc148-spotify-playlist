@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 ### [Sunday Praise](https://open.spotify.com/playlist/37i9dQZF1DX59TepszZ0eE)
 
-> Celebrate 10 years of "<a href=https://open.spotify.com/album/3mHxSlMvvFPNA3DSnuYrvr?si=8G1\-Ky4QS9anz0EYqFS44A>Joyous Celebration</a>, Vol\. 18: One Purpose" with us!
+> Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/21fiKdzTbnSKNmYUnyggga?si=k2\_K6pJqTdyARlv\_VNY97w>The Fellowship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,370 likes - 103 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,516 likes - 103 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 102 | [Jesu Uyi Nkosi](https://open.spotify.com/track/0AcxpSjr50ixt53BrWvyLb) | [Reginald Jabu](https://open.spotify.com/artist/7JH7vnM5DFedm2lcpddAj4) | [Jesu Uyi Nkosi](https://open.spotify.com/album/1zRntt8ENA6kRNG3T2pZqY) | 4:39 |
 | 103 | [Apha’Kum \(Live at Mosaiek Theatre, 2023\)](https://open.spotify.com/track/5XMRW2JA70QNg11AOftT2V) | [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3) | [Apha’Kum \(Live at Mosaiek Theatre, 2023\)](https://open.spotify.com/album/6GfjzpCcMHWlpL0NUleD15) | 7:19 |
 
-Snapshot ID: `MTcxMjg4MDA2MCwwMDAwMDAwMDY1YjQzOTFjMjI3MWYzOTA0ZWE5M2ZkZTk1ZjNjZGZi`
+Snapshot ID: `MTcxMjkwNjYyNCwwMDAwMDAwMGNkOTQyZjI2M2QyMWVlZDAwYWRlMmE3MTRlNmFkMzM2`

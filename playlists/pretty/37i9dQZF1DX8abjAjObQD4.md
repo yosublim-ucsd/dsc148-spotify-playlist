@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8abjAjObQD4.md) - [plain]
 
 > Your favorite folk songs, live\. Cover: John Prine
 
-[Spotify](https://open.spotify.com/user/spotify) - 861 likes - 66 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 860 likes - 66 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8abjAjObQD4.md) - [plain]
 | 52 | [Something Holy \- Live at Funkhaus, 2019](https://open.spotify.com/track/7z9h80gjZUuSjv9eMzKfBB) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Live at Funkhaus](https://open.spotify.com/album/16U0lyylHisOcTEHLo3D1P) | 7:11 |
 | 53 | [Lover Come Back \- Live In Cornerbrook, NL May 15th, 2017](https://open.spotify.com/track/2efFksMzTCv1kOxxy8SYc4) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Guide Me Back Home \(Live\)](https://open.spotify.com/album/4dfzMiWAbm39kNAbvgptDr) | 3:49 |
 | 54 | [I Forget Where We Were \- Live](https://open.spotify.com/track/2Mh3HffdHbGA50dlCdVqnz) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Spotify Sessions \(Live\)](https://open.spotify.com/album/5UTXNLRowqb5buK2nk1XCu) | 3:19 |
-| 55 | [Buckets of Rain \- Live](https://open.spotify.com/track/2PoGyTZEy0OVz7fX9P2bxS) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Live From Austin, TX](https://open.spotify.com/album/2omhPQsUhtcv9lWE443mcC) | 2:48 |
+| 55 | [Buckets of Rain \- Live](https://open.spotify.com/track/40Crgt3WnrMsem2R6NrUTo) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Live From Austin, TX](https://open.spotify.com/album/0SYbx0YpgRJFBe5tMAkLlf) | 2:48 |
 | 56 | [Pocahontas \(Live\)](https://open.spotify.com/track/2Hxt8jwBQVbQ0Q981FnSsZ) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Music From The Revelator Collection](https://open.spotify.com/album/3s93CBsy5EM1UZ7X3U4Ne6) | 4:43 |
 | 57 | [Fools](https://open.spotify.com/track/1peXGneO6Ko2B0o8HyWAx3) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Pandora Whiteboard Sessions](https://open.spotify.com/album/0a6K3G6RECVCNUgJRSo2tr) | 2:53 |
 | 58 | [The A Team \- Live at the Bedford](https://open.spotify.com/track/6JUGrUnAms0o3uGVIhkAyH) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Live at the Bedford](https://open.spotify.com/album/4JUtnlZKdLr01xEIymhm0G) | 5:22 |

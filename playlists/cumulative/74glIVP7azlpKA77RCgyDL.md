@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Terminal Nation
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Architects
 
-657 songs - 1 day 17 hr 58 min
+663 songs - 1 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Antimatter](https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Antimatter](https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ) | 3:41 | 2023-07-21 | 2024-02-03 |
 | [Anunnaki](https://open.spotify.com/track/5yXAQ1Qb2riZNSlecb396S) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Anunnaki](https://open.spotify.com/album/0W5nNr28dnocKZ3D7039M9) | 3:01 | 2023-09-22 | 2024-02-03 |
 | [Aortic Desecration](https://open.spotify.com/track/4fQm28Cj2twbMqhD49lz9b) | [Metalocalypse: Dethklok](https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8) | [Aortic Desecration](https://open.spotify.com/album/4PWETtMYDc04hUibeHCetD) | 4:11 | 2023-06-23 | 2024-02-03 |
+| [Application For Release From The Dream](https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Application For Release From The Dream](https://open.spotify.com/album/3PZAIjJNFvJzAWt48z8wUw) | 4:29 | 2024-04-12 |  |
 | [Arsenal of War](https://open.spotify.com/track/0Y97m8mQOrCI5z0JfkTel6) | [Frozen Soul](https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6) | [Arsenal of War](https://open.spotify.com/album/4TBnmvcrvmEakXFQzDwX07) | 4:05 | 2023-03-17 | 2024-02-03 |
 | [Artificial Anatomy](https://open.spotify.com/track/44kqDJc7BNWH1zGDwN8egF) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Artificial Anatomy](https://open.spotify.com/album/1lbdiiIaSeYY6uS1LtSeyD) | 3:50 | 2023-05-05 | 2024-02-03 |
 | [Artificial Divinity](https://open.spotify.com/track/4MMer3ITnpDMkIDgtmDsgf) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J) | [Artificial Divinity](https://open.spotify.com/album/4WW2bLhuHj6t8EFJEBTWwR) | 3:43 | 2022-10-28 | 2023-07-15 |
@@ -120,6 +121,7 @@
 | [Crawl Space](https://open.spotify.com/track/0pV3HjvJ2nKCiRueKe5SId) | [Filth is Eternal](https://open.spotify.com/artist/0BqcFG3uqS8l59OsCtIiH0) | [Crawl Space](https://open.spotify.com/album/0Cy99fFT5llj7iYW0jkldr) | 1:31 | 2023-06-23 | 2024-02-03 |
 | [Curators of Brutality](https://open.spotify.com/track/6ttfR7aeF1dGy0FctJJG6C) | [Terminal Nation](https://open.spotify.com/artist/10jLinCe6zTTr0ZpSIsx96) | [The Ruination of Imperialism](https://open.spotify.com/album/5Bx6D9n8RfILqYPzoopHh9) | 4:01 | 2022-06-03 | 2023-07-15 |
 | [Cure](https://open.spotify.com/track/5zV1FnszuSKBo7EdUEQx3G) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Cure](https://open.spotify.com/album/6Ab9ahxlOgEur1mr1EpZH0) | 3:45 | 2024-02-02 |  |
+| [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:00 | 2024-04-12 |  |
 | [Cursed to Die](https://open.spotify.com/track/3zE05ciZtFILFRYuSIfG2L) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Cursed to Die](https://open.spotify.com/album/2MsDBLEjE1yS1AUjHrNgB0) | 4:40 | 2022-07-29 | 2023-07-15 |
 | [Cut The Cord](https://open.spotify.com/track/5X6VrWoMKlHOR774CZB21s) | [King Yosef](https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S) | [Cut The Cord/Shame's Mirror](https://open.spotify.com/album/4n74DoC0rdpxrNOi2mgEa7) | 3:21 | 2024-01-12 |  |
 | [Cut the Cord](https://open.spotify.com/track/2wqJOG6zJt7PYLibLVYsZc) | [Necrot](https://open.spotify.com/artist/5jWIRPU5rVBm6ky8Atq7AW) | [Cut the Cord](https://open.spotify.com/album/0C9tkZoEJahg5kkt6UURTm) | 5:16 | 2024-02-09 |  |
@@ -326,6 +328,7 @@
 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 | 2023-05-05 | 2024-02-03 |
 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2023-02-10 | 2024-02-03 |
 | [Lost In The Fall](https://open.spotify.com/track/2eNQotmrqiMh175jBPePJ2) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Lost In The Fall](https://open.spotify.com/album/2AaUKwRWLjWC01DQ8BzwwE) | 4:04 | 2023-09-01 | 2024-02-03 |
+| [Love Lighter](https://open.spotify.com/track/1PVWFyT7U3seAFROL0KT6y) | [Halo Bite](https://open.spotify.com/artist/7I18r5VZ8g2bJswX2x2tKw) | [Love Lighter](https://open.spotify.com/album/2wRLdvANfmKyzhstg8VPP5) | 2:58 | 2024-04-12 |  |
 | [Lowered](https://open.spotify.com/track/7iTdUbHzNBl5Io3AVQGtli) | [Greg Puciato](https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi), [Reba Meyers](https://open.spotify.com/artist/5kIOwxQ4DBNm9ZQbbGgkIE) | [Lowered](https://open.spotify.com/album/3tfEyD1TjqTDnFqRDpzCnj) | 4:10 | 2022-02-25 | 2023-07-15 |
 | [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2022-12-02 | 2023-07-15 |
 | [MaBeLu](https://open.spotify.com/track/14gGfvwn3Fdb74NKTBy6Di) | [MTVoid](https://open.spotify.com/artist/18zL2Ycw9paUbgS4TiAgOP) | [MaBeLu](https://open.spotify.com/album/0WeHR1XLB4yHTKAwWOh7uM) | 3:47 | 2023-09-08 | 2024-02-03 |
@@ -353,6 +356,7 @@
 | [Move](https://open.spotify.com/track/6r8xg4vDHIPBDjCFb70uWn) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [Move](https://open.spotify.com/album/3JhCDiTZ095MaNxc6zXrEX) | 2:29 | 2022-06-10 | 2023-07-15 |
 | [My Creator](https://open.spotify.com/track/6KCa6PR3lmRFrOTzG7hkNr) | [Anklebiter](https://open.spotify.com/artist/3RyxShZKZfWVtCaAxmgEDg) | [Demo 2022](https://open.spotify.com/album/0UvDfUynydvwHXS4DSGKqE) | 1:20 | 2022-06-03 | 2023-07-15 |
 | [My Will to Live](https://open.spotify.com/track/4sAWFLOCxVfyBvZq9dWy0s) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [My Will to Live](https://open.spotify.com/album/5Jqz6ZgchnSaUNsTbV38pz) | 5:20 | 2023-01-06 | 2024-02-03 |
+| [NAIL5](https://open.spotify.com/track/7qD4fAVNgkhhQ7TAfwcLCa) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [NAIL5](https://open.spotify.com/album/5JIRskvoOGxpCmqnQbdKX6) | 2:33 | 2024-04-12 |  |
 | [names](https://open.spotify.com/track/4keVU1iG5gKDkp3gFnIMsM) | [Home Is Where](https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2), [Record Setter](https://open.spotify.com/artist/5dAHI3WBHJFGRaAyDm5VHT) | [names](https://open.spotify.com/album/4UDjMHGSpHxfRm6ABUsiCF) | 1:16 | 2022-04-01 | 2023-07-15 |
 | [Napalm](https://open.spotify.com/track/5DCFs0BboOFVMCYWMpQfeH) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [Napalm](https://open.spotify.com/album/7sJcgW8x73vH5vwhqEdsLz) | 2:30 | 2022-01-28 | 2023-07-15 |
 | [Nauseating Despair](https://open.spotify.com/track/75l59IlC5Vnv950vbdB0X2) | [Phobophilic](https://open.spotify.com/artist/1cdxNUejlVcTwgWocqB3eF) | [Nauseating Despair](https://open.spotify.com/album/3ytulfN7eaFD9aIQikuM27) | 4:39 | 2022-07-08 | 2023-07-15 |
@@ -448,6 +452,7 @@
 | [Reign of Terror](https://open.spotify.com/track/12RtrL5GqsYvtTQhlNzxMN) | [Yatra](https://open.spotify.com/artist/5siBVlARqSszzBborgWF7j) | [Reign of Terror](https://open.spotify.com/album/2V8KRphUa4Vp18I5IviUGi) | 3:46 | 2022-05-27 | 2023-07-15 |
 | [Relic of Damnation](https://open.spotify.com/track/3RH9ZlJDOphL9ZAZUS9t36) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [Relic of Damnation](https://open.spotify.com/album/17Z9CfhKDSBBUdoPE6EvgC) | 2:27 | 2022-10-28 | 2023-07-15 |
 | [Removed Their Hooks](https://open.spotify.com/track/0ggiwvRZnn8g3mJoLq91In) | ['68](https://open.spotify.com/artist/51EEn3UICoilrrWVZFz30C) | [Removed Their Hooks](https://open.spotify.com/album/2WEqK1EqFvKmM9rfNREcnf) | 3:21 | 2023-09-01 | 2024-02-03 |
+| [Residue](https://open.spotify.com/track/6V65rowmWJM1QeAM4Nk4BG) | [Kerry King](https://open.spotify.com/artist/6r1McS7CU46TsVEh1ckGuH) | [Residue](https://open.spotify.com/album/36jabPLz0Cz7ZblFAmi7sD) | 4:38 | 2024-04-12 |  |
 | [Resurrected](https://open.spotify.com/track/68XdsXMEEhP6SOkpj4FNrG) | [Gates to Hell](https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw) | [Resurrected](https://open.spotify.com/album/2hnXIMJc9CNCdTsVyTO3d7) | 2:11 | 2024-01-12 |  |
 | [Resurrection II](https://open.spotify.com/track/4vLJYJjWCRAsfpvl31AYTa) | [Poison Ruïn](https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB) | [Resurrection II](https://open.spotify.com/album/7HVjB5TNxYYKv7CTQfcZMY) | 3:02 | 2023-03-10 | 2024-02-03 |
 | [Revelation](https://open.spotify.com/track/0cWQy0wDjVJbuUDDZabWfu) | [Many Eyes](https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb) | [Revelation](https://open.spotify.com/album/3IZrMNBLyFuhJYlVRgPdhD) | 4:13 | 2023-10-13 | 2024-02-03 |
@@ -554,6 +559,7 @@
 | [The Impressionist](https://open.spotify.com/track/6wQGIwWIOnMAqMY9kQNTJ3) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [The Impressionist](https://open.spotify.com/album/40n12vUitDKrQVCyw0cEIs) | 4:28 | 2022-04-22 | 2023-07-15 |
 | [The Killing Womb](https://open.spotify.com/track/6qwS9hKwhVJe2yMxkwMgiQ) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [The Killing Womb](https://open.spotify.com/album/5ZeUTOPb4LwQFSV4jOj2cs) | 2:32 | 2022-01-07 | 2023-07-15 |
 | [The Lost Colony](https://open.spotify.com/track/5ktT0KZMuq8tS02YPx039n) | [Becoming The Archetype](https://open.spotify.com/artist/2lt0aSPzPngGw8KsfLYRyF) | [The Lost Colony](https://open.spotify.com/album/7zSWeckOjzmvtcWUVFZC06) | 3:49 | 2022-07-01 | 2023-07-15 |
+| [The Midnight Sun](https://open.spotify.com/track/6racdcyzrxBePae8lqBwVU) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [The Midnight Sun](https://open.spotify.com/album/03UZIhoApBs6PtFWvhyU7N) | 3:33 | 2024-04-12 |  |
 | [The Migrant](https://open.spotify.com/track/1pzjl4Y0VrDPhLE6MxGYkx) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [The Migrant](https://open.spotify.com/album/5pkKdqw83QB8q5LXxWRoyO) | 4:00 | 2023-03-31 | 2024-02-03 |
 | [The Place of Fear](https://open.spotify.com/track/6DBLrDn4glAFALhpE93RyW) | [Xibalba](https://open.spotify.com/artist/4cysSrUcynhglKIL51ltQc) | [Aztlán](https://open.spotify.com/album/7cmy1zzztIOIC0kqKvADWy) | 4:38 | 2023-12-08 | 2024-02-03 |
 | [THE PLOT TO NUKE THE MIDWEST](https://open.spotify.com/track/7tTWMLHcZsin1bLjccnt8Z) | [PSYCHO\-FRAME](https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR) | [THE PLOT TO NUKE THE MIDWEST](https://open.spotify.com/album/50zfn1NRnHcHOnCZwH0VQL) | 3:02 | 2023-11-10 | 2024-02-03 |

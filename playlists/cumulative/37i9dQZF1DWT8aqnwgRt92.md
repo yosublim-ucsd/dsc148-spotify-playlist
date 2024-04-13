@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,299 songs - 3 day 9 hr 27 min
+1,301 songs - 3 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [DRAW](https://open.spotify.com/track/68bacZy8OquMiXpmEUNi0L) | [XAAXAA](https://open.spotify.com/artist/0VcWUiBe3sJ7tqkZejkQvd) | [DRAW](https://open.spotify.com/album/1Xrw9J0zz0mYZxQRJUAlro) | 3:31 | 2023-10-10 | 2023-10-20 |
 | [DREAMER](https://open.spotify.com/track/7yKbjz9hzbUY6zmIJ8nDDL) | [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p) | [パリピ孔明 VOCAL COLLECTION MEGAMORI!!](https://open.spotify.com/album/1i9R3CdEU23BRYGaMkpSEC) | 4:49 | 2022-07-28 | 2022-09-21 |
 | [Dried Up Youthful Fame \- Version:Free](https://open.spotify.com/track/1p4caO5oJVVFjwtpuQep7N) | [OLDCODEX](https://open.spotify.com/artist/7CdQSdjEWtSQ5DQEeaikUq) | [『劇場版 Free!\-the Final Stroke\-』後編オリジナルサウンドトラック「Never Ending Blue」](https://open.spotify.com/album/3dysUUTUGwxrzMJAZ9AHMi) | 3:37 | 2022-05-28 | 2022-06-08 |
+| [Dye My Heart Red](https://open.spotify.com/track/4Hh4Sd8qie1mhNXnrEnyUo) | [Nonoka Obuchi](https://open.spotify.com/artist/3wjWAGHn9Y5dY0JWlsbJz1) | [Dye My Heart Red](https://open.spotify.com/album/6MR2GXhMzVdIbofsollRcm) | 3:14 | 2024-04-11 |  |
 | [Easy? Hard? Shikashite Susume!](https://open.spotify.com/track/2rugT3UVSZsmmmat3ElLqP) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [Easy? Hard? Shikashite Susume!](https://open.spotify.com/album/46OnDsJZsnWOArf7ZoDUsI) | 4:08 | 2024-01-04 | 2024-02-07 |
 | [eclatante](https://open.spotify.com/track/112WDXECopsAdtn7SsMP0x) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [eclatante](https://open.spotify.com/album/5hKIOSEGI4lWBtgh8by38x) | 4:21 | 2022-07-12 | 2022-08-17 |
 | [edge of chainsaw](https://open.spotify.com/track/2fOPkvOguFiHA7CQgZg7N5) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.1 \(Episode 1\-3\)](https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq) | 3:10 | 2022-10-25 | 2022-11-30 |
@@ -443,6 +444,7 @@
 | [Mubansou](https://open.spotify.com/track/7jYU29WcxlYDJENKNH6ss0) | [edda](https://open.spotify.com/artist/05fBrcz8TP0pSUMIE5fOIW) | [Mubansou](https://open.spotify.com/album/6F4lwZsxEP6ZOoAoh2ykkH) | 5:00 | 2023-04-06 | 2023-06-28 |
 | [Muchauman no Theme](https://open.spotify.com/track/6yjINBA8ANAe6daFoPSeOb) | [Hironobu Kageyama](https://open.spotify.com/artist/6qTKdHuHW9MFnjfV3JYmz8) | [Muchauman no Theme](https://open.spotify.com/album/4JT0mrCRYo1tE1pUNsqIQe) | 0:34 | 2024-01-30 | 2024-03-08 |
 | [Mujikaku no Tensai](https://open.spotify.com/track/4POh4ThJaKsqfuSgwsuDjA) | [Non Stop Rabbit](https://open.spotify.com/artist/3BI27TxQPk2BVbiThvj1EV) | [Mujikaku no Tensai](https://open.spotify.com/album/31TmYdlBCK6cXddVWOW5Tl) | 4:09 | 2022-07-28 | 2022-09-28 |
+| [mutual love](https://open.spotify.com/track/4tgMvqm78qmbPsrP4AaCbD) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [mutual love](https://open.spotify.com/album/0J4ZZ9k9ftKAwlegplXDuH) | 4:20 | 2024-04-11 |  |
 | [MY ENTERTAINMENT](https://open.spotify.com/track/4McoK7F5MGfam7ENQVaJle) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DELIGHTED REVIVER](https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO) | 4:20 | 2022-07-05 | 2022-07-29 |
 | [My Factor](https://open.spotify.com/track/5CWKezKmBJlclkNnrka4sL) | [Kent Ito](https://open.spotify.com/artist/3UQapJyENH6KwfJbjA0krM) | [My Factor](https://open.spotify.com/album/3SOuDYmtoR7JKEvF1dYXbP) | 4:15 | 2024-01-16 | 2024-04-12 |
 | [My Nonfiction](https://open.spotify.com/track/77wmpTzmexp0gvyeQq45zV) | [白銀御行\(CV:古川慎\)](https://open.spotify.com/artist/0oTiO95sHpwUlOp7RZ2mPp), [藤原千花\(CV:小原好美\)](https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD) | [My Nonfiction](https://open.spotify.com/album/2naRwNTQ1LHtsxQjDOCZ7R) | 2:35 | 2022-05-28 | 2022-07-15 |
@@ -1178,7 +1180,7 @@
 | [望郷](https://open.spotify.com/track/2Egbg23uBaRsVNwzyfFbtV) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [望郷](https://open.spotify.com/album/1AcMLMCooh76KpPXojRnrP) | 3:51 | 2024-01-25 | 2024-03-27 |
 | [未完成](https://open.spotify.com/track/1qNjiTuVvUrdbOzvfH3yzM) | [ざきのすけ。](https://open.spotify.com/artist/2QydRp0HEq0iP0W3XPHZKm) | [未完成](https://open.spotify.com/album/6w8g1J2foak2DLjRQe2Ax5) | 3:25 | 2024-01-06 | 2024-02-16 |
 | [未完成ドリーム!](https://open.spotify.com/track/3MVbG5259vPrYXUhX5JtQZ) | [SCHOOL IDOL MUSICAL](https://open.spotify.com/artist/0ac7G5NyL6NEnPTeozqUgd) | [未完成ドリーム!](https://open.spotify.com/album/1RnbfqigPmq2mFTikAHuDt) | 3:57 | 2022-12-13 | 2023-01-13 |
-| [朱く染めて心臓](https://open.spotify.com/track/4X0gGAonBN5ACVi7vB93KO) | [Nonoka Obuchi](https://open.spotify.com/artist/3wjWAGHn9Y5dY0JWlsbJz1) | [朱く染めて心臓](https://open.spotify.com/album/34Mbm4lJGTPQ5QdPLfZYF8) | 3:14 | 2024-04-11 |  |
+| [朱く染めて心臓](https://open.spotify.com/track/4X0gGAonBN5ACVi7vB93KO) | [Nonoka Obuchi](https://open.spotify.com/artist/3wjWAGHn9Y5dY0JWlsbJz1) | [朱く染めて心臓](https://open.spotify.com/album/34Mbm4lJGTPQ5QdPLfZYF8) | 3:14 | 2024-04-11 | 2024-04-13 |
 | [果てのない旅](https://open.spotify.com/track/558Rz2INvrgzVBEBdUFLZk) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [果てのない旅](https://open.spotify.com/album/4HaR7cxuaOgD7hnst95Wgw) | 2:41 | 2024-01-11 | 2024-04-11 |
 | [械物](https://open.spotify.com/track/7KTFpmdmtPrLjJEwDzSXi7) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [械物](https://open.spotify.com/album/58Xglex1HKyErlO3VwkF45) | 3:43 | 2023-06-27 | 2023-10-04 |
 | [楽園](https://open.spotify.com/track/0es7TqT1GKiHBt2HBTucXm) | [nonoc](https://open.spotify.com/artist/1QduecpnkRXRXtbFdEYZRC) | [TVアニメ「スパイ教室」2nd season オープニングテーマ「楽園」](https://open.spotify.com/album/00g46gA2zF1kGM4CJCrgSK) | 3:33 | 2023-08-01 | 2023-08-03 |
@@ -1213,7 +1215,7 @@
 | [異次元★♥BIGBANG](https://open.spotify.com/track/6bZiww7kdL6IXfYiPrr3Fr) | [島村卯月 \(CV: 大橋彩香\)](https://open.spotify.com/artist/6RQ5VjHW97K397QfPd0aXt), [最上静香 \(CV.田所あずさ\)](https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH), [月岡恋鐘 \(CV.礒部花凜\)](https://open.spotify.com/artist/2Nascsj90mN48cZBUS4CPA), [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr), [上原歩夢 \(CV.大西亜玖璃\)](https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ), [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF), [日野下花帆 \(CV.楡井希実\)](https://open.spotify.com/artist/3K0kUxY4moTB2FF7nYLgzs) | [異次元★♥BIGBANG](https://open.spotify.com/album/5hS6PiorOQmALMSbjh0nHx) | 5:16 | 2023-11-07 | 2023-11-09 |
 | [白と黒](https://open.spotify.com/track/0HeyOMO01z3r0zJoCUquq3) | [ヒプノシスマイク \-D.R.B\- \(天谷奴零\)](https://open.spotify.com/artist/3j9cvtcrO6KgtFGnjySeHM), [ヒプノシスマイク \-D.R.B\- \(入間銃兎\)](https://open.spotify.com/artist/7dqg9aMu2T8vMb9ecbke7o) | [The Block Party \-HOODs\-](https://open.spotify.com/album/3U7LCKh5DUVXSzj9YhiP3z) | 3:43 | 2023-08-22 | 2023-09-27 |
 | [白昼夢](https://open.spotify.com/track/7HDS12gSf9f9Ky11a0iMEw) | [Raon](https://open.spotify.com/artist/6grPDYoluzn0yi8qloRKst) | [白昼夢](https://open.spotify.com/album/5DPYKVlXxNsxy4s9V8SWd4) | 4:02 | 2024-01-09 | 2024-02-07 |
-| [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 | 2024-04-11 |  |
+| [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 | 2024-04-11 | 2024-04-13 |
 | [真夜中のラブ](https://open.spotify.com/track/2IPoCAPMf4v47mRM4d0kNS) | [伊東健人](https://open.spotify.com/artist/1bPpm1gD9bX3hXCYaORYlw) | [真夜中のラブ](https://open.spotify.com/album/7EFeya32KPx1BTMMPwxdjl) | 3:23 | 2022-09-20 | 2022-09-22 |
 | [真夜中の怪獣](https://open.spotify.com/track/7vO8y6LjA5j40vEEZItUEr) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [真夜中の怪獣](https://open.spotify.com/album/0iwfNJffybhvJ7lvbvoTGq) | 3:14 | 2023-11-28 | 2023-11-30 |
 | [真祖にして無敵のドラルク様](https://open.spotify.com/track/0ZCEXwZIKgoy5vs1w8mgcS) | [ドラルク\(CV:福山 潤\)](https://open.spotify.com/artist/0snE8deysjN9XkroJFqvFO) | [真祖にして無敵のドラルク様](https://open.spotify.com/album/3GiQ3U0BReXbBKotjYIJvA) | 3:09 | 2022-12-13 | 2022-12-15 |

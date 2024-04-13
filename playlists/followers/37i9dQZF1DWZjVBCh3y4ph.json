@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 61717,
+  "2024-04-13": 61785,
   "date_first_scraped": "2023-09-29",
   "description": "Les hits zouk du moment. Photo :  Mik L x Nesly",
   "name": "Zouk Station",
@@ -405,7 +405,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 208671,
       "name": "Dis-moi",
       "url": "https://open.spotify.com/track/4NxvcmdBmR04g4nsfrhMsO"
@@ -1775,6 +1775,28 @@
       "duration_ms": 273815,
       "name": "STOP CA",
       "url": "https://open.spotify.com/track/2juogVxiOaHQhKColeLdw0"
+    },
+    {
+      "album": {
+        "name": "Succomber",
+        "url": "https://open.spotify.com/album/1UXhTaV1jujtX4kbwyEbMs"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9A CHURROS",
+          "url": "https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC"
+        },
+        {
+          "name": "Magical Nrick",
+          "url": "https://open.spotify.com/artist/57C1xJXu10Mi0X3toUb8Ig"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247058,
+      "name": "Succomber",
+      "url": "https://open.spotify.com/track/6e0mrjKeAMZQoaEz5W7z0z"
     },
     {
       "album": {

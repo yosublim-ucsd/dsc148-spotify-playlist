@@ -1,6 +1,6 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Twenty One Pilots",
-  "num_followers": 676041,
+  "num_followers": 676039,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Fade Away",
-        "url": "https://open.spotify.com/album/2c3I2PZ07EIbtqlxUFTz0f"
-      },
-      "artists": [
-        {
-          "name": "Axty",
-          "url": "https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H"
-        }
-      ],
-      "duration_ms": 190384,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/3sOfcud8C4YSVOiCGWynYM"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Still There",
         "url": "https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 189579,
       "name": "Still There",
       "url": "https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/2c3I2PZ07EIbtqlxUFTz0f"
+      },
+      "artists": [
+        {
+          "name": "Axty",
+          "url": "https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H"
+        }
+      ],
+      "duration_ms": 190384,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/3sOfcud8C4YSVOiCGWynYM"
     },
     {
       "added_at": "2024-03-29 03:01:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-03-29 03:01:00",
       "album": {
-        "name": "Call Us by Her Name",
-        "url": "https://open.spotify.com/album/3OMKbvZnvcUqCjB31U7YzI"
-      },
-      "artists": [
-        {
-          "name": "Ego Kill Talent",
-          "url": "https://open.spotify.com/artist/2FkHoIxJdhomebqlsXKZ3i"
-        }
-      ],
-      "duration_ms": 211702,
-      "name": "Call Us by Her Name",
-      "url": "https://open.spotify.com/track/3I6n7hgL6fwhsPleITTwGn"
-    },
-    {
-      "added_at": "2024-03-29 03:01:00",
-      "album": {
         "name": "Kingdom",
         "url": "https://open.spotify.com/album/2Chidgv4qlo6nTFczR85NB"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 272626,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/4UyoswHCt1WgJhPCrfX330"
+    },
+    {
+      "added_at": "2024-03-29 03:01:00",
+      "album": {
+        "name": "Call Us by Her Name",
+        "url": "https://open.spotify.com/album/3OMKbvZnvcUqCjB31U7YzI"
+      },
+      "artists": [
+        {
+          "name": "Ego Kill Talent",
+          "url": "https://open.spotify.com/artist/2FkHoIxJdhomebqlsXKZ3i"
+        }
+      ],
+      "duration_ms": 211702,
+      "name": "Call Us by Her Name",
+      "url": "https://open.spotify.com/track/3I6n7hgL6fwhsPleITTwGn"
     },
     {
       "added_at": "2024-03-29 03:01:00",

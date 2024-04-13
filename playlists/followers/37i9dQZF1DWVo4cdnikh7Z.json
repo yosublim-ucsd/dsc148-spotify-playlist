@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 662775,
+  "2024-04-13": 662832,
   "date_first_scraped": "2022-05-30",
   "description": "New Music from Kollywood.\nCover : Rathnam",
   "name": "Latest Tamil",
@@ -3498,6 +3498,32 @@
     },
     {
       "album": {
+        "name": "Bade Miyan Chote Miyan (Title Track - Tamil) [From \"Bade Miyan Chote Miyan - Tamil\"]",
+        "url": "https://open.spotify.com/album/4I0REN20ZTRA3xY9dMAX4e"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
+        },
+        {
+          "name": "Sarath Santosh",
+          "url": "https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159093,
+      "name": "Bade Miyan Chote Miyan (Title Track - Tamil) - From \"Bade Miyan Chote Miyan - Tamil\"",
+      "url": "https://open.spotify.com/track/0NBMpCbv5LDB2UKiGTv1oK"
+    },
+    {
+      "album": {
         "name": "Bade Miyan Chote Miyan (Title Track) [From \"Bade Miyan Chote Miyan\"]",
         "url": "https://open.spotify.com/album/51UyD6TwRxLU6kVJJmzDPw"
       },
@@ -3517,7 +3543,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 159093,
       "name": "Bade Miyan Chote Miyan (Title Track) - From \"Bade Miyan Chote Miyan\"",
       "url": "https://open.spotify.com/track/0RzNjtJpTODVbDQxeK1cAF"

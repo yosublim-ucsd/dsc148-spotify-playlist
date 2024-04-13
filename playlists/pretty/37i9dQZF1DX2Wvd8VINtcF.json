@@ -1,6 +1,6 @@
 {
   "description": "girl in red album week! She's in charge of Oyster for the week with her current favs! ",
-  "num_followers": 133919,
+  "num_followers": 134162,
   "original_name": "Oyster",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,26 @@
       "duration_ms": 160532,
       "name": "Feel",
       "url": "https://open.spotify.com/track/4oY6egXEVlBy8jqsBSy5OC"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2W16r4Pobhg7TG2aak050I"
+      },
+      "artists": [
+        {
+          "name": "Rome in Silver",
+          "url": "https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN"
+        },
+        {
+          "name": "Slackin Beats",
+          "url": "https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw"
+        }
+      ],
+      "duration_ms": 212566,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2vFDKP9FBZzxl3N1RcpR3E"
     },
     {
       "added_at": "2024-04-11 22:00:00",

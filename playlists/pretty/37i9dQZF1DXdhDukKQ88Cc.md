@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > ny dansk rap og andet i den vibe 🚨 <a href="spotify:artist:5LcNaarbF34TMSkVLE7YQc">Merro8</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,850 likes - 60 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,867 likes - 60 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

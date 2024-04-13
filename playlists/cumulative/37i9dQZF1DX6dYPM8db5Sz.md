@@ -2,9 +2,9 @@
 
 ### [Indie GO](https://open.spotify.com/playlist/37i9dQZF1DX6dYPM8db5Sz)
 
-> The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn?si=NjDnbRXMSPSoKNz9iWVChg">Henry Ate</a>
+> The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=zpfrracLRqydGxDfjqcRtg">HONEYMOAN</a>
 
-701 songs - 1 day 16 hr 3 min
+703 songs - 1 day 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Cannonball](https://open.spotify.com/track/0s2IQcGz5kqLXWYbEylgzf) | [The World of Birds](https://open.spotify.com/artist/5vtUrecygJ2MBoN3EZgmdC) | [Cannonball](https://open.spotify.com/album/1hU5AwtzXvr19RnrHNOWfB) | 5:30 | 2023-08-24 | 2023-11-18 |
 | [Care](https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Care](https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg) | 4:37 | 2024-02-22 | 2024-03-01 |
 | [Care For You](https://open.spotify.com/track/7tcp0h2ypx4PKJaw1Sn1je) | [BuDu](https://open.spotify.com/artist/3VVnkjuNmz9Vt2UpAZTCXB) | [Care For You](https://open.spotify.com/album/3hYqlV8cBdFnwy4dSR3elT) | 3:52 | 2023-05-11 | 2023-07-07 |
-| [Carry Me](https://open.spotify.com/track/2kW2LAlMohQNsroYSIXncM) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa), [Cassidy Godwin](https://open.spotify.com/artist/2fCuEFatpJymbazPkYYVi8) | [Carry Me](https://open.spotify.com/album/46wDOIMnP62uR9tjmndXy2) | 2:24 | 2024-02-22 |  |
+| [Carry Me](https://open.spotify.com/track/2kW2LAlMohQNsroYSIXncM) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa), [Cassidy Godwin](https://open.spotify.com/artist/2fCuEFatpJymbazPkYYVi8) | [Carry Me](https://open.spotify.com/album/46wDOIMnP62uR9tjmndXy2) | 2:24 | 2024-02-22 | 2024-04-13 |
 | [Carry You Home](https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Carry You Home](https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR) | 3:19 | 2023-01-12 | 2023-02-24 |
 | [Catch the Fire](https://open.spotify.com/track/26wr3kGBbCUJbru5I7vETT) | [JOPHKO](https://open.spotify.com/artist/6aMw6xZdqXLCqaBlDxivpE), [David John](https://open.spotify.com/artist/1m6au0R3R0GHgUJumI1spC) | [Catch the Fire](https://open.spotify.com/album/3qt54GBdbmi0g1vNZXnPWm) | 4:40 | 2023-05-11 | 2023-07-07 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2024-01-11 | 2024-01-19 |
@@ -266,9 +266,9 @@
 | [Hold Me](https://open.spotify.com/track/3xRWTT9ouokK5wFAFCgs4Y) | [Love Jungle](https://open.spotify.com/artist/5WIZAH5FThf16VjKWaHG33) | [Double Moon](https://open.spotify.com/album/2tvu05twUtcPg5S3YARanf) | 3:29 | 2023-04-21 | 2023-07-07 |
 | [Hold Me Down](https://open.spotify.com/track/3dqjCz5iXTjKumvHOpQFLw) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [Hold Me Down](https://open.spotify.com/album/5eENAlmncUhYojSv3POYj9) | 3:52 | 2023-03-02 | 2023-04-15 |
 | [Hold On](https://open.spotify.com/track/4EwRv7Q0XyJhysfvECpQpo) | [Bad Peter](https://open.spotify.com/artist/0dceAs5Ap8kfV0hcvdIm6l) | [Hold On](https://open.spotify.com/album/6ft539JcvK2JnTzd8zp2as) | 3:42 | 2022-09-22 | 2022-11-01 |
-| [Holding On To You](https://open.spotify.com/track/7eUpf4w7JE323DhRnjIysS) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Holding On To You](https://open.spotify.com/album/7EPsqTKceMEh9IE4DPjggo) | 2:34 | 2024-02-29 | 2024-04-12 |
+| [Holding On To You](https://open.spotify.com/track/7eUpf4w7JE323DhRnjIysS) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Holding On To You](https://open.spotify.com/album/7EPsqTKceMEh9IE4DPjggo) | 2:34 | 2024-02-29 |  |
 | [Holiday](https://open.spotify.com/track/47FQ1T5hp4JdF9Kp18dBy4) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [This Wasteland](https://open.spotify.com/album/1aI37UoJ0bqeUyG42Vhl3u) | 2:31 | 2023-07-06 | 2023-08-05 |
-| [Holy Water](https://open.spotify.com/track/2fHQbsR78hCAf7iJHQvzjk) | [KYLE ZION](https://open.spotify.com/artist/5tqv4v6LBSfDbMYIX4zzTv) | [Holy Water](https://open.spotify.com/album/2D0GdNMz5bFn9aYM1YzLDE) | 2:47 | 2024-04-05 |  |
+| [Holy Water](https://open.spotify.com/track/2fHQbsR78hCAf7iJHQvzjk) | [KYLE ZION](https://open.spotify.com/artist/5tqv4v6LBSfDbMYIX4zzTv) | [Holy Water](https://open.spotify.com/album/2D0GdNMz5bFn9aYM1YzLDE) | 2:47 | 2024-04-05 | 2024-04-13 |
 | [HOME](https://open.spotify.com/track/73wKP5eAiTwpB1cjNXUaph) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [HOME](https://open.spotify.com/album/0iHU2P0uBhtUtAEbOE4wNv) | 3:17 | 2022-11-03 | 2023-01-27 |
 | [Home](https://open.spotify.com/track/1yQO5Dt6SZkXBPHAsRC80M) | [Just Mia](https://open.spotify.com/artist/69yCMdp9f50YlB42gYrC3H) | [Home](https://open.spotify.com/album/6pwaBv6eLgpCy61j1X18MI) | 3:28 | 2023-04-14 | 2023-06-23 |
 | [Home Grown Flowers](https://open.spotify.com/track/2W7JDgHdqoH32MMOxCzLYu) | [We Are All Fossils](https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw) | [Home Grown Flowers](https://open.spotify.com/album/7kzhGEkq46mfCiGXaTe6Sg) | 3:39 | 2022-08-25 | 2022-12-02 |
@@ -298,6 +298,7 @@
 | [I Won't Say No](https://open.spotify.com/track/3YTj8IYe4Ex0kfb1a0J8Kj) | [Purboxx](https://open.spotify.com/artist/3nCYPwQnYlMq4WkO1qZdd9) | [I Won't Say No](https://open.spotify.com/album/67fHJHgP1RkxVVPiiedIXd) | 2:29 | 2023-07-06 | 2023-08-12 |
 | [I'll Be There](https://open.spotify.com/track/2KBKgHyAZGEaz35kI8nF1J) | [Majozi](https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt) | [I'll Be There](https://open.spotify.com/album/4eRtkYASppwiN9Et4oNaYK) | 2:57 | 2023-06-01 | 2023-07-07 |
 | [I'm A Queen Bee](https://open.spotify.com/track/2LjjY0ncuemeQfYWtn8cd8) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Bloom](https://open.spotify.com/album/54a6XljieAbrYatQMLKyec) | 3:01 | 2023-09-15 | 2023-12-15 |
+| [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 | 2024-04-12 |  |
 | [i'm gonna make it](https://open.spotify.com/track/32fGWDDzVNXfZNYsYepW0m) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [i'm gonna make it](https://open.spotify.com/album/0lQSjQ2XsaOzr2gsBLG8eG) | 3:17 | 2023-06-08 | 2023-07-07 |
 | [i'm gonna make it \- Kenza Remix](https://open.spotify.com/track/7r71J6drUQww0vTCgZWYIU) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d), [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi) | [i'm gonna make it \- Remixes](https://open.spotify.com/album/4xjvfw8SS8KzfsO0muVe0o) | 3:49 | 2023-07-06 | 2023-08-18 |
 | [If God Is The Pigeon](https://open.spotify.com/track/11hrQND5U7gbysfggLP30o) | [Ruby Gill](https://open.spotify.com/artist/51KkytVOUvaM9m0CoY9mBU) | [If God Is The Pigeon](https://open.spotify.com/album/58Ybnqt8CX2Ty3B2UsJLwW) | 4:45 | 2022-08-18 | 2022-12-09 |
@@ -342,7 +343,7 @@
 | [Leader](https://open.spotify.com/track/0gmgRX6SFUQ0wOSo9VZr97) | [Jeannie Arnott](https://open.spotify.com/artist/0wcIDgL72YoVi3dmCydELC) | [Impala Lily](https://open.spotify.com/album/6nZwXleBjZ43KF94QqP15m) | 3:35 | 2023-09-15 | 2023-12-15 |
 | [Leave the City](https://open.spotify.com/track/5SZDK5alQmVWzWgvLVoy8u) | [Jonny and the Fellow Revellers](https://open.spotify.com/artist/07WFFoO9ByGnuhq4c8dwH8) | [Leave the City](https://open.spotify.com/album/0638Pa7KDrtOpSICo4uO3K) | 4:33 | 2023-02-09 | 2023-03-10 |
 | [Legacy Of Love](https://open.spotify.com/track/4Xfvcx1T2VpZsw56emLdAk) | [JPson](https://open.spotify.com/artist/4s9YSRHrBFUpUZPWk2mwIG) | [Legacy Of Love](https://open.spotify.com/album/2lOAlyLmeM55Bp0Q59aerP) | 3:41 | 2023-04-27 | 2023-07-07 |
-| [Let Go](https://open.spotify.com/track/6qEgpYeOqfauh3lti9cnMz) | [Teagan](https://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi) | [Let Go](https://open.spotify.com/album/6IzKi4MFCpKnXbJtka7uy8) | 3:12 | 2024-02-29 |  |
+| [Let Go](https://open.spotify.com/track/6qEgpYeOqfauh3lti9cnMz) | [Teagan](https://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi) | [Let Go](https://open.spotify.com/album/6IzKi4MFCpKnXbJtka7uy8) | 3:12 | 2024-02-29 | 2024-04-13 |
 | [Let It Go](https://open.spotify.com/track/7ntt63SiqMJsUUt01U66h4) | [Stephan Kreussel](https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J) | [Let It Go](https://open.spotify.com/album/5yyNJzEniuIKNmUqZbKQGT) | 2:57 | 2022-12-15 | 2023-02-17 |
 | [Let Me Go](https://open.spotify.com/track/4YJZnj5OIzKiMi8MFVyXRv) | [Thara](https://open.spotify.com/artist/71AA4Rd7e9VJ3M52B2jzvU) | [Let Me Go](https://open.spotify.com/album/5JIimhIsmOUlP9nAXqmnk9) | 3:09 | 2023-02-09 | 2023-04-07 |
 | [Let's Fall in Love Some More](https://open.spotify.com/track/1SZN00cfG8T8UxDmJeqjuv) | [Al Bairre](https://open.spotify.com/artist/3l3OXBVFtuPwDpQTGtXNjj) | [Experience the Al Bairre Show With Al Bairre Experience](https://open.spotify.com/album/3mH4bT4mKi7nydIqqlrWDP) | 3:18 | 2024-01-11 |  |
@@ -452,6 +453,7 @@
 | [Parasite](https://open.spotify.com/track/4q7Ta95N485EjD1fPXOkZ7) | [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Parasite](https://open.spotify.com/album/5hn6dLSrvICNwLyHrLY2gw) | 2:26 | 2023-06-22 | 2023-08-05 |
 | [Past days](https://open.spotify.com/track/3R4hurXS5JEjYkAjk0dq6X) | [EFACT](https://open.spotify.com/artist/7uBZbV9uLgPw7M7zxoUWKH) | [Past days](https://open.spotify.com/album/2IkMNo1ZNepoPCd2u7ya16) | 2:28 | 2024-02-15 | 2024-03-09 |
 | [Past Midnight \(Acoustic\)](https://open.spotify.com/track/73sgxhsap47d7BDZClpOuJ) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Past Midnight \(Acoustic\)](https://open.spotify.com/album/6ypJ22Tq0udhQseyoPPCIW) | 3:12 | 2023-12-08 | 2024-01-12 |
+| [Penny Sleeps](https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Penny Sleeps](https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU) | 2:54 | 2024-04-12 |  |
 | [photos of us](https://open.spotify.com/track/46jaynseu6NxJqgiLn9Zbk) | [Conn](https://open.spotify.com/artist/46JYMwEYsvRprcluO5f2n7) | [photos of us](https://open.spotify.com/album/2tTW1BuapNXDx7fB2ReARV) | 2:06 | 2024-02-22 | 2024-03-01 |
 | [Picasso's Concept](https://open.spotify.com/track/6Ufmq069l9bhk6TGg5Uw6G) | [MELLE](https://open.spotify.com/artist/4Xsikt3RZsWMRwsRa2DnVD) | [Picasso's Concept](https://open.spotify.com/album/6umdXya30JzYnahewihJb6) | 4:04 | 2023-04-14 | 2023-06-23 |
 | [Pickup, Don't Pickup](https://open.spotify.com/track/4E5P6ztlfq3jE9Df80jtND) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Sorry Like You Mean It](https://open.spotify.com/album/34eHflHLhK2wTKYZUlgSA0) | 4:34 | 2023-09-29 | 2023-12-22 |

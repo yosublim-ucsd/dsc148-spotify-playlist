@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 82974,
+  "2024-04-13": 82989,
   "date_first_scraped": "2022-05-09",
   "description": "Scopa, paletta e musica!",
   "name": "Pulizie di Casa",
@@ -1223,7 +1223,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 241306,
       "name": "Dancing In the Dark",
       "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
@@ -3511,7 +3511,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 232893,
       "name": "Only Love Can Hurt Like This",
       "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"

@@ -4,7 +4,7 @@
 
 > Apasiónate con sus éxitos en español.
 
-83 songs - 5 hr 16 min
+84 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [La solución](https://open.spotify.com/track/6IHslIJXq6RBhrsSR3uWfj) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Hazte sentir](https://open.spotify.com/album/7atdcLgnOSSOwGjUYIujIo) | 3:53 | 2021-09-23 |  |
 | [La solución \(feat\. Carlos Rivera\)](https://open.spotify.com/track/7iSes74ifLt0Ldk0pL3n7k) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Hazte sentir más](https://open.spotify.com/album/0PNGIZSj8ZUdlQyB8spjD7) | 3:53 | 2021-09-23 |  |
 | [Lado derecho del corazón](https://open.spotify.com/track/4tJ7mICMaMSjpQoZlW3fKB) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Similares](https://open.spotify.com/album/3polx9obFEloI0s73vcvUv) | 3:53 | 2021-09-23 |  |
-| [Las cosas que vives](https://open.spotify.com/track/0Kk7mbNEkBHO8AMc08g9cY) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Lo mejor de Laura Pausini \- Volveré junto a ti](https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj) | 4:28 | 2021-09-23 |  |
+| [Las cosas que vives](https://open.spotify.com/track/0Kk7mbNEkBHO8AMc08g9cY) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Lo mejor de Laura Pausini \- Volveré junto a ti](https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj) | 4:28 | 2021-09-23 | 2024-04-13 |
+| [Las cosas que vives](https://open.spotify.com/track/5i7a4x4FY81pYFlgKpijfz) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Las cosas que vives](https://open.spotify.com/album/2bJJsBEMPv2WbBpoea4wWd) | 4:28 | 2021-09-23 |  |
 | [Limpio \(with Kylie Minogue\)](https://open.spotify.com/track/63XCn7awT8716CchqhOFy2) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Limpio \(with Kylie Minogue\)](https://open.spotify.com/album/5hZX70lPy1Y0Qus6YZDzJu) | 3:27 | 2021-09-23 |  |
 | [Mi libre canción \(with Juanes\)](https://open.spotify.com/track/6aIz1m5MH0zrg8n16Q93Ze) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Yo canto](https://open.spotify.com/album/5OpZUmyJOvNTWA7oibl73d) | 4:33 | 2021-09-23 |  |
 | [Más allá de la superficie](https://open.spotify.com/track/7LSVOi0SpjNRy6ud0dRxSX) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Almas paralelas](https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb) | 3:19 | 2023-10-26 |  |

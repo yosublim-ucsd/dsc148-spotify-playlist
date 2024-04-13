@@ -1,12 +1,12 @@
 {
-  "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 15845,
+  "description": "This is Coi Leray. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 15854,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDcxMzM1MDM0MzY3YzA4MTI2MWYzODZhNThlNzE1M2U0",
+  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDMyMmZkZTM1MjJhNjk1NjUzODI3ZDJlMzU4NjU3MjE4",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,26 @@
       "duration_ms": 190104,
       "name": "Femme Fatale (feat. Coi Leray & Kaliii)",
       "url": "https://open.spotify.com/track/3kFRPjcHAlQrfHytP6kR61"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "!",
+        "url": "https://open.spotify.com/album/2trqp8gTJ1MMmY9HoKqO2y"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 205701,
+      "name": "Everything BoZ (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/7uWJbF2gmQlcuhLrFnxGsV"
     },
     {
       "added_at": null,
@@ -307,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bops",
-        "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 128666,
-      "name": "Bops",
-      "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Sleep? (Deluxe)",
         "url": "https://open.spotify.com/album/0ZjOFfItjIA9YbzhERRIBr"
       },
@@ -339,6 +343,22 @@
       "duration_ms": 119715,
       "name": "2055",
       "url": "https://open.spotify.com/track/0VhA1feaHVoftAyZ5fGGHA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bops",
+        "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 128666,
+      "name": "Bops",
+      "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
     },
     {
       "added_at": null,
@@ -967,26 +987,6 @@
       "duration_ms": 224038,
       "name": "What U Want",
       "url": "https://open.spotify.com/track/4wOyrbNG5eEv5ZF5oVqHtX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fortune Favors the Bold",
-        "url": "https://open.spotify.com/album/6TMDH24QJCPTjUnRuXvEY0"
-      },
-      "artists": [
-        {
-          "name": "Dave East",
-          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 152186,
-      "name": "Sex So Good (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/40mQXYRIZl7c8Of0mfnRBC"
     },
     {
       "added_at": null,

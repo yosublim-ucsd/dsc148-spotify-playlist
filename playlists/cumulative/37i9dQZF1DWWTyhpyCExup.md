@@ -4,7 +4,7 @@
 
 > New folk & americana driving the current, every week\. Cover: Kara Jackson
 
-136 songs - 8 hr 8 min
+137 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 | 2021-12-01 |  |
 | [neve give up](https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 3:41 | 2021-10-22 |  |
 | [New Colossus](https://open.spotify.com/track/462nbWwasi5npUIeT79CIx) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Grenades](https://open.spotify.com/album/6Nqb3BPmH4xpzjqJs14W8a) | 4:26 | 2021-10-22 |  |
-| [New Day](https://open.spotify.com/track/1MgS5QaPUOd0vJK6DWwraw) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [New Day](https://open.spotify.com/album/1Hu8TUT4WPpryik4S307sI) | 3:21 | 2023-01-25 |  |
+| [New Day](https://open.spotify.com/track/1MgS5QaPUOd0vJK6DWwraw) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [New Day](https://open.spotify.com/album/1Hu8TUT4WPpryik4S307sI) | 3:21 | 2023-01-25 | 2024-04-13 |
+| [New Day](https://open.spotify.com/track/2ycdTpQgwmCmxSvnwGn4JH) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Anarchist Gospel](https://open.spotify.com/album/6Lj7fDEEx68OYdAZ41hlK6) | 3:21 | 2024-04-09 |  |
 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 | 2021-10-22 |  |
 | [no fun/party](https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [no fun/party](https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se) | 5:56 | 2023-01-25 | 2024-02-02 |
 | [one more](https://open.spotify.com/track/6ls5CB8bM1iXIwsOVjwYwN) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [one more](https://open.spotify.com/album/4PmUFaFkjEDpnxJBFca7ua) | 3:43 | 2024-02-01 | 2024-04-10 |

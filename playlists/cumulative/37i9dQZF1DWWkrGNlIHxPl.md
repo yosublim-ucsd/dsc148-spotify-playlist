@@ -2,9 +2,9 @@
 
 ### [Arab X](https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl)
 
-> Global crossovers by/with Arab artists\. Cover: Zeina
+> Global crossovers by/with Arab artists\. Cover: Elyanna
 
-330 songs - 18 hr 17 min
+331 songs - 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Busy Body](https://open.spotify.com/track/0hJZIXgZqNFBMtBZIKVMXw) | [Omar Basaad](https://open.spotify.com/artist/4DEJR7clVpc8EpPHMWz4RZ), [Emmy Jhay](https://open.spotify.com/artist/2Ge8G4o4JRxi9X0sfEQYW6) | [Busy Body](https://open.spotify.com/album/0WppIcrW3CFf6hjP1iPb7O) | 2:32 | 2021-12-16 | 2022-07-29 |
 | [Busy Body](https://open.spotify.com/track/3jpDQxRLXSMFLcYqGWdSP2) | [Omar Basaad](https://open.spotify.com/artist/4DEJR7clVpc8EpPHMWz4RZ), [Emmy Jhay](https://open.spotify.com/artist/2Ge8G4o4JRxi9X0sfEQYW6) | [MINDCATION](https://open.spotify.com/album/5qsVDa6vDXkyMZPe7tBqPc) | 2:32 | 2022-07-28 | 2022-10-09 |
 | [Call Her Right Now](https://open.spotify.com/track/3ZZNpESGS4HnRlT1iZQVWq) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3), [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD), [Motif Alumni](https://open.spotify.com/artist/00FC4KkW4wnmRtEA7tq7mC) | [Call Her Right Now](https://open.spotify.com/album/3UUqKY7fBTEr4pVVpJQU14) | 2:17 | 2023-08-06 |  |
+| [Callin' U \(Tamally Maak\)](https://open.spotify.com/track/7uH88hqUq0zh1Khx4xXMxq) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 1:56 | 2024-04-12 |  |
 | [CALM DOWN](https://open.spotify.com/track/6cCVxAMuRfgCuRzHhATwAu) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf), [Shepard](https://open.spotify.com/artist/7cOAU2gxgUOgRTMxoMWXwM) | [CALM DOWN](https://open.spotify.com/album/1S35vubI5QNZUlmYK6p0Zz) | 1:30 | 2024-01-05 |  |
 | [Can't Decide](https://open.spotify.com/track/6LO5PBp7goiKDYoWZTcF84) | [Nader Khalil](https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi) | [Nader Khalil](https://open.spotify.com/album/4llHNpLrRq526dI2BqATuG) | 1:52 | 2022-03-03 | 2022-07-18 |
 | [Can't Keep Up](https://open.spotify.com/track/1qoDPqAfOGz0STUUN8G2IO) | [Naila](https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0) | [Can't Keep Up](https://open.spotify.com/album/4Mf12pqdYijMWkerNxZZRk) | 3:34 | 2023-06-13 | 2023-09-20 |
@@ -97,7 +98,7 @@
 | [FaceTime](https://open.spotify.com/track/2eKZvfQGKWrpASz67UCvTo) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [FaceTime](https://open.spotify.com/album/4pQ8M36p9foCdo3DMD23FC) | 2:33 | 2023-03-07 | 2023-06-03 |
 | [Family \(feat\. Imen Siar, Ty Dolla $ign & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5lRh2i8mOWZs1yg25QII1y) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Imen Siar](https://open.spotify.com/artist/36JmeaPYkStxoKLqPmUNVE), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Family \(feat\. Imen Siar, Ty Dolla $ign & A Boogie Wit da Hoodie\)](https://open.spotify.com/album/42pqXWrfRgdJ4EILEpmR9r) | 2:38 | 2021-12-16 | 2022-01-25 |
 | [Fayadan](https://open.spotify.com/track/30Avn44lyZjowxu2pBggcJ) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA) | [Fayadan](https://open.spotify.com/album/3ZQ8wMsn57IDRjcfd6DRDO) | 2:34 | 2021-12-16 | 2022-11-20 |
-| [Fear Nothing](https://open.spotify.com/track/7LvmSzawlp43aFDK6PddO5) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [INNER WARRIOR](https://open.spotify.com/album/2abEx97wj9sM4Vs81d1rYM) | 3:28 | 2023-02-06 |  |
+| [Fear Nothing](https://open.spotify.com/track/7LvmSzawlp43aFDK6PddO5) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [INNER WARRIOR](https://open.spotify.com/album/2abEx97wj9sM4Vs81d1rYM) | 3:28 | 2023-02-06 | 2024-04-13 |
 | [Fearless](https://open.spotify.com/track/0D795IGmranbFSZruPAZEf) | [Dj Emir](https://open.spotify.com/artist/7gyy92KNK2QPjRPqeSip5h) | [Fearless](https://open.spotify.com/album/1Tmgp1B1h0i60hdwS9pe93) | 3:15 | 2021-12-16 | 2022-05-28 |
 | [Feeling Something Bad...](https://open.spotify.com/track/73E4OLlpRLHFJNR7JZgwoH) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Feeling Something Bad...](https://open.spotify.com/album/2HNyPDrjx9r4vZHX984xqX) | 2:27 | 2021-12-16 | 2022-03-15 |
 | [Fille d'Afrique](https://open.spotify.com/track/58MVeqG5E8yD2BfNipCoJt) | [ASHA](https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN) | [Fille d'Afrique](https://open.spotify.com/album/2OHOu6LjFU77hX6RC8z5jW) | 2:18 | 2022-07-17 | 2023-06-03 |

@@ -1,6 +1,6 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: Taeha(\ud0dc\ud558)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 51453,
+  "num_followers": 51467,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2024-03-29 09:57:00",
       "album": {
+        "name": "Plastic Candy",
+        "url": "https://open.spotify.com/album/2mwOcK4A3O3x9fxpjyFGxW"
+      },
+      "artists": [
+        {
+          "name": "HaSeul",
+          "url": "https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9"
+        }
+      ],
+      "duration_ms": 214106,
+      "name": "Plastic Candy",
+      "url": "https://open.spotify.com/track/2IXvqQDvcXYQW2QiACph6B"
+    },
+    {
+      "added_at": "2024-03-29 09:57:00",
+      "album": {
         "name": "REBOOT",
         "url": "https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB"
       },
@@ -483,6 +499,22 @@
       "duration_ms": 205373,
       "name": "I Feel You",
       "url": "https://open.spotify.com/track/4VDY2adUsc1up1nitWztVg"
+    },
+    {
+      "added_at": "2024-03-29 09:57:00",
+      "album": {
+        "name": "<K>",
+        "url": "https://open.spotify.com/album/04UMoeGtpAK6TyqRLllHqs"
+      },
+      "artists": [
+        {
+          "name": "HeeJin",
+          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Algorithm",
+      "url": "https://open.spotify.com/track/2tGjh54bikVc5x3dl1pUKx"
     },
     {
       "added_at": "2024-03-29 09:57:00",
@@ -503,18 +535,18 @@
     {
       "added_at": "2024-03-29 09:57:00",
       "album": {
-        "name": "Plastic Candy",
-        "url": "https://open.spotify.com/album/2mwOcK4A3O3x9fxpjyFGxW"
+        "name": "timeabout,",
+        "url": "https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc"
       },
       "artists": [
         {
-          "name": "HaSeul",
-          "url": "https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9"
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
         }
       ],
-      "duration_ms": 214106,
-      "name": "Plastic Candy",
-      "url": "https://open.spotify.com/track/2IXvqQDvcXYQW2QiACph6B"
+      "duration_ms": 207125,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79"
     },
     {
       "added_at": "2024-03-29 09:57:00",
@@ -535,22 +567,6 @@
     {
       "added_at": "2024-03-29 09:57:00",
       "album": {
-        "name": "timeabout,",
-        "url": "https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 207125,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79"
-    },
-    {
-      "added_at": "2024-03-29 09:57:00",
-      "album": {
         "name": "Naturalness",
         "url": "https://open.spotify.com/album/1KIV6HQCntQVl792TVfVCA"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 200767,
       "name": "Someone like U",
       "url": "https://open.spotify.com/track/5MVO70G8Eqip01bvrrQHSg"
-    },
-    {
-      "added_at": "2024-03-29 09:57:00",
-      "album": {
-        "name": "<K>",
-        "url": "https://open.spotify.com/album/04UMoeGtpAK6TyqRLllHqs"
-      },
-      "artists": [
-        {
-          "name": "HeeJin",
-          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Algorithm",
-      "url": "https://open.spotify.com/track/2tGjh54bikVc5x3dl1pUKx"
     },
     {
       "added_at": "2024-03-29 09:57:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-03-29 09:57:00",
       "album": {
-        "name": "REBOOT",
-        "url": "https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB"
-      },
-      "artists": [
-        {
-          "name": "Wonder Girls",
-          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
-        }
-      ],
-      "duration_ms": 233306,
-      "name": "Faded Love",
-      "url": "https://open.spotify.com/track/0atlweNQsTyvhaXLJZvyba"
-    },
-    {
-      "added_at": "2024-03-29 09:57:00",
-      "album": {
         "name": "Red Light - The 3rd Album",
         "url": "https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 210042,
       "name": "All Night",
       "url": "https://open.spotify.com/track/2YtNFUkfxnYtg6ts8zfq93"
+    },
+    {
+      "added_at": "2024-03-29 09:57:00",
+      "album": {
+        "name": "REBOOT",
+        "url": "https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "duration_ms": 233306,
+      "name": "Faded Love",
+      "url": "https://open.spotify.com/track/0atlweNQsTyvhaXLJZvyba"
     },
     {
       "added_at": "2024-03-29 09:57:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-03-29 09:57:00",
       "album": {
+        "name": "REBOOT",
+        "url": "https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "duration_ms": 211973,
+      "name": "Baby Don't Play",
+      "url": "https://open.spotify.com/track/0fscOpcaHzivo321QxAfAo"
+    },
+    {
+      "added_at": "2024-03-29 09:57:00",
+      "album": {
         "name": "East Shore",
         "url": "https://open.spotify.com/album/3haGGKVIiuJ8wlJBriAhPP"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 212750,
       "name": "With The Star",
       "url": "https://open.spotify.com/track/5v7RICydLLBV5AKoCRmfrG"
-    },
-    {
-      "added_at": "2024-03-29 09:57:00",
-      "album": {
-        "name": "REBOOT",
-        "url": "https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB"
-      },
-      "artists": [
-        {
-          "name": "Wonder Girls",
-          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
-        }
-      ],
-      "duration_ms": 211973,
-      "name": "Baby Don't Play",
-      "url": "https://open.spotify.com/track/0fscOpcaHzivo321QxAfAo"
     },
     {
       "added_at": "2024-03-29 09:57:00",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-03-29 09:57:00",
       "album": {
-        "name": "Sparkling",
-        "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7"
       },
       "artists": [
         {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
         }
       ],
-      "duration_ms": 231294,
-      "name": "Sparkling",
-      "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
+      "duration_ms": 221875,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u"
     },
     {
       "added_at": "2024-03-29 09:57:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-03-29 09:57:00",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7"
+        "name": "Sparkling",
+        "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
       },
       "artists": [
         {
-          "name": "Luli Lee",
-          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
         }
       ],
-      "duration_ms": 221875,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u"
+      "duration_ms": 231294,
+      "name": "Sparkling",
+      "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
     },
     {
       "added_at": "2024-03-29 09:57:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-03-29 09:57:00",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj"
-      },
-      "artists": [
-        {
-          "name": "Luli Lee",
-          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
-        }
-      ],
-      "duration_ms": 210136,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT"
-    },
-    {
-      "added_at": "2024-03-29 09:57:00",
-      "album": {
         "name": "Love & Evil",
         "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2024-03-29 09:57:00",
       "album": {
-        "name": "BASIC",
-        "url": "https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS"
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj"
       },
       "artists": [
         {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
         }
       ],
-      "duration_ms": 241144,
-      "name": "Brave New World",
-      "url": "https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT"
+      "duration_ms": 210136,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT"
     },
     {
       "added_at": "2024-03-29 09:57:00",
@@ -1427,6 +1411,22 @@
       "duration_ms": 257031,
       "name": "When My Loneliness Calls You",
       "url": "https://open.spotify.com/track/2HHs3WKouTsJ3pGo5gex3N"
+    },
+    {
+      "added_at": "2024-03-29 09:57:00",
+      "album": {
+        "name": "BASIC",
+        "url": "https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 241144,
+      "name": "Brave New World",
+      "url": "https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT"
     },
     {
       "added_at": "2024-03-29 09:57:00",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2024-03-29 09:57:00",
       "album": {
-        "name": "THE PARK IN THE NIGHT part three",
-        "url": "https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut"
+        "name": "I ZIP",
+        "url": "https://open.spotify.com/album/4wuAqejGxm4tQW952IKfHI"
       },
       "artists": [
         {
-          "name": "GWSN",
-          "url": "https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF"
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
         }
       ],
-      "duration_ms": 213150,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/6HwxnR6UWhMPv5HyWmh3vN"
+      "duration_ms": 190287,
+      "name": "Diver",
+      "url": "https://open.spotify.com/track/4YWTrUVmmvULMJviDOzMg0"
     },
     {
       "added_at": "2024-03-29 09:57:00",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2024-03-29 09:57:00",
       "album": {
-        "name": "I ZIP",
-        "url": "https://open.spotify.com/album/4wuAqejGxm4tQW952IKfHI"
+        "name": "THE PARK IN THE NIGHT part three",
+        "url": "https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut"
       },
       "artists": [
         {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+          "name": "GWSN",
+          "url": "https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF"
         }
       ],
-      "duration_ms": 190287,
-      "name": "Diver",
-      "url": "https://open.spotify.com/track/4YWTrUVmmvULMJviDOzMg0"
+      "duration_ms": 213150,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/6HwxnR6UWhMPv5HyWmh3vN"
     },
     {
       "added_at": "2024-03-29 09:57:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-03-29 09:57:00",
       "album": {
-        "name": "Onstage Digging Club Seoul Part.05",
-        "url": "https://open.spotify.com/album/0WqyGHNOUN1zBS2lJQYo8d"
+        "name": "Sweet Girl",
+        "url": "https://open.spotify.com/album/3Z3kQt2hTqjJ0hPKHyAMeE"
       },
       "artists": [
         {
-          "name": "DAYBREAK",
-          "url": "https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2"
+          "name": "B1A4",
+          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
         }
       ],
-      "duration_ms": 294308,
-      "name": "You always - Digging Club Seoul Ver.",
-      "url": "https://open.spotify.com/track/0FezNsbNxAez1YvGkSd1Bu"
+      "duration_ms": 248986,
+      "name": "Sweet Girl",
+      "url": "https://open.spotify.com/track/7Cdh626VxdLfoHkt1E2RSi"
     }
   ],
   "unique_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",

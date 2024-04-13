@@ -4,11 +4,12 @@
 
 > A collection of roots music and covers urging peace and calling for change\. Cover: Tré Burt
 
-79 songs - 5 hr 6 min
+80 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Change Is Gonna Come](https://open.spotify.com/track/0FEqhGaxp8Gq5m2KvnunJU) | [Los Coast](https://open.spotify.com/artist/22L3FsvrXWoLLEUApoNfpr), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [A Change Is Gonna Come](https://open.spotify.com/album/4fKOZdl2QP1TNTLbwhpXBp) | 3:23 | 2021-02-24 |  |
+| [A Change Is Gonna Come](https://open.spotify.com/track/0FEqhGaxp8Gq5m2KvnunJU) | [Los Coast](https://open.spotify.com/artist/22L3FsvrXWoLLEUApoNfpr), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [A Change Is Gonna Come](https://open.spotify.com/album/4fKOZdl2QP1TNTLbwhpXBp) | 3:23 | 2021-02-24 | 2024-04-13 |
+| [A Change Is Gonna Come](https://open.spotify.com/track/3Vb9DTDS2UcHb3T8kLKcDh) | [Los Coast](https://open.spotify.com/artist/22L3FsvrXWoLLEUApoNfpr), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [A Change Is Gonna Come](https://open.spotify.com/album/2zGecc53JxQEt94aPbokep) | 3:23 | 2021-02-24 |  |
 | [All You Fascists Bound To Lose](https://open.spotify.com/track/0lYykZNNBNE33o5izvZFrG) | [Resistance Revival Chorus](https://open.spotify.com/artist/5GAZngXqtUrssaaExOGeT1), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [This Joy](https://open.spotify.com/album/7IO5HuUUAnqxLpnkHva4Ud) | 3:21 | 2021-02-24 |  |
 | [All You Fascists Bound To Lose](https://open.spotify.com/track/2Wi7o9PKa9kF7pZ6RvPQ18) | [Resistance Revival Chorus](https://open.spotify.com/artist/5GAZngXqtUrssaaExOGeT1), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [All You Fascists Bound To Lose](https://open.spotify.com/album/0HjRc6KFqCrqbc0A16YmMN) | 3:21 | 2021-02-24 | 2022-11-03 |
 | [American Flowers](https://open.spotify.com/track/1CtsGuP3zaphCyUieBpOQF) | [Birds of Chicago](https://open.spotify.com/artist/2nyv8yYjMSkvUr9OwEQhVf), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [JT Nero](https://open.spotify.com/artist/4KggKI2drVc4UIotyrOcvQ) | [American Flowers](https://open.spotify.com/album/3aw4lot05PgG9vCBvCQVpg) | 6:10 | 2021-02-24 |  |

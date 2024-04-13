@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 153605,
       "name": "Girls Just Want To Have Fun - Acoustic",
       "url": "https://open.spotify.com/track/6Cg3fTIhncrGDUQllTj03U"
@@ -3649,6 +3649,24 @@
     },
     {
       "album": {
+        "name": "Viva La Vida (Acoustic)",
+        "url": "https://open.spotify.com/album/7H9o1ODOGd05qUVRz2N7zl"
+      },
+      "artists": [
+        {
+          "name": "Jacob Wellfair",
+          "url": "https://open.spotify.com/artist/3ltleRPN7qd0CQ3rNVMW2V"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173143,
+      "name": "Viva La Vida - Acoustic",
+      "url": "https://open.spotify.com/track/5MglzGLNOwOhQkOyk95Fg9"
+    },
+    {
+      "album": {
         "name": "Walking On Sunshine",
         "url": "https://open.spotify.com/album/2xDMfqErOWYK71uDc4FvVE"
       },
@@ -4000,6 +4018,24 @@
       "duration_ms": 148867,
       "name": "You Gotta Be - Acoustic",
       "url": "https://open.spotify.com/track/4RlBEdL5DOSslHLSUhKJn6"
+    },
+    {
+      "album": {
+        "name": "You Make My Dreams (Come True) [Acoustic]",
+        "url": "https://open.spotify.com/album/5XoPbu9rDKMcqh5CYKm5ZI"
+      },
+      "artists": [
+        {
+          "name": "Hannah's Yard",
+          "url": "https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150214,
+      "name": "You Make My Dreams (Come True) - Acoustic",
+      "url": "https://open.spotify.com/track/5eVWuD9WNdT1ucIjoSgzNi"
     },
     {
       "album": {

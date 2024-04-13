@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 405997,
+  "2024-04-13": 406058,
   "date_first_scraped": "2021-12-21",
   "description": "Start your morning right with this collection of funky, soulful, jazzy tunes.",
   "name": "Morning Rhythm",
@@ -739,6 +739,50 @@
       "duration_ms": 176701,
       "name": "Comparison Is A Thief Of Joy",
       "url": "https://open.spotify.com/track/4K1e3kZiNClQgmzqxQrTIE"
+    },
+    {
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/2IUqvXtUJG23ozaIffSr28"
+      },
+      "artists": [
+        {
+          "name": "Steffen Morrison",
+          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195355,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/1KxO3MDB1mNUm4AHvxeRPF"
+    },
+    {
+      "album": {
+        "name": "Dancin Like a Fool",
+        "url": "https://open.spotify.com/album/6MY3TcKo5VPo3ANxeuVM6G"
+      },
+      "artists": [
+        {
+          "name": "Souldrippin",
+          "url": "https://open.spotify.com/artist/1b0D9jgh2pJtPsKjU1gyS5"
+        },
+        {
+          "name": "Darius Dante",
+          "url": "https://open.spotify.com/artist/1QCRuNTOqoXVN7F39fWxz5"
+        },
+        {
+          "name": "Hari Loco",
+          "url": "https://open.spotify.com/artist/3nPiCfsgxJlJAkdPPVG2hQ"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184618,
+      "name": "Dancin Like a Fool",
+      "url": "https://open.spotify.com/track/4wI11xnaKJAayVFBTHd6LM"
     },
     {
       "album": {
@@ -1692,6 +1736,28 @@
     },
     {
       "album": {
+        "name": "Keep Your Head Up",
+        "url": "https://open.spotify.com/album/71P3ASFixQCXfE4S7XYYFb"
+      },
+      "artists": [
+        {
+          "name": "Feiertag",
+          "url": "https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q"
+        },
+        {
+          "name": "Noah Slee",
+          "url": "https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179504,
+      "name": "Keep Your Head Up",
+      "url": "https://open.spotify.com/track/2kHVK2I4FpaI48ZRAlmNTc"
+    },
+    {
+      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6"
       },
@@ -1905,6 +1971,24 @@
       "duration_ms": 256946,
       "name": "Love Is Back",
       "url": "https://open.spotify.com/track/2xAffWASC4yddor8wW037Z"
+    },
+    {
+      "album": {
+        "name": "Love the Mystery",
+        "url": "https://open.spotify.com/album/3rHgk8sOOo0Kh5bX0Oqjs5"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224826,
+      "name": "Love the Mystery - Radio Edit",
+      "url": "https://open.spotify.com/track/2Pz0KXAVTupriGxk9rT42n"
     },
     {
       "album": {
@@ -3923,7 +4007,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 215813,
       "name": "Wild Animals",
       "url": "https://open.spotify.com/track/4JiLpvvnPiQtsf4izF1SQ5"

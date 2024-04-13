@@ -4,7 +4,7 @@
 
 > ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Young Miko
 
-334 songs - 17 hr 34 min
+335 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Ay Mi Moreno](https://open.spotify.com/track/67PusnLUFSD3Geed8IhkED) | [Micheille Soifer](https://open.spotify.com/artist/5ZzuIr5IQbqJdQksiK23pN) | [Ay Mi Moreno](https://open.spotify.com/album/1MAX1nHH985JUlpMdVReIg) | 2:47 | 2023-02-24 | 2023-03-11 |
 | [Baby Élite](https://open.spotify.com/track/2liFagnUtFWuyN1I0gsqa1) | [Alejandro Luna](https://open.spotify.com/artist/7BQztWKKXfsayOCFxt4LxV) | [Baby Élite](https://open.spotify.com/album/7ELvE4tUxq5BjPbsRzM5qW) | 2:37 | 2023-11-24 | 2024-01-27 |
 | [Bachata Blue](https://open.spotify.com/track/4o24fPjYFIONeqAMtZIoYr) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Bachata Blue](https://open.spotify.com/album/2Id90GOl0vizaORLB1bzoy) | 3:15 | 2022-01-18 | 2022-02-05 |
+| [Bahamas](https://open.spotify.com/track/3BWpv2yBYqreJmcPiHkuVC) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Bahamas](https://open.spotify.com/album/2t2TGRu7yTlcXjMbdBZmbS) | 3:43 | 2024-04-12 |  |
 | [BAILA BONITO](https://open.spotify.com/track/2wcrKX8ssHLPplHSrndYm5) | [Felix Klain](https://open.spotify.com/artist/5cqI53b15GRiXRfls7DWMP), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [BAILA BONITO](https://open.spotify.com/album/7dfevTLxl8Pv54Opu5moYJ) | 2:55 | 2023-09-01 | 2023-10-31 |
 | [Baila Conmigo](https://open.spotify.com/track/3YvB7icPctdaAk6FMzcv8O) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Posada Latina Vol\. 4](https://open.spotify.com/album/2GW4hWom7uGV0jBDhM5wXD) | 3:06 | 2022-10-21 | 2022-11-13 |
 | [Baila Conmigo \(with Rauw Alejandro\)](https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:06 | 2022-07-22 | 2023-11-25 |
@@ -82,7 +83,7 @@
 | [Cocoloco](https://open.spotify.com/track/4DXaFrBzHcZaz1wFKhiMkm) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Cocoloco](https://open.spotify.com/album/0LrmYFkMJ4u7myFE3QHjga) | 2:55 | 2022-03-25 | 2022-04-02 |
 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 | 2023-07-14 |  |
 | [Como Ayer](https://open.spotify.com/track/3MWReEPNS9G3tFp8wN9aNY) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Como Ayer](https://open.spotify.com/album/2H7jkIiLaVmNeKYqMHyJYe) | 2:37 | 2023-11-17 |  |
-| [Conexión](https://open.spotify.com/track/4cE08PBH39Ubs9xDTIMdVZ) | [Pipe Calderón](https://open.spotify.com/artist/50TqpjP2iRI4hR1wCfVj3w) | [Never Stop](https://open.spotify.com/album/5foyKTXvQFcMgdi7Tg2DNd) | 3:06 | 2024-01-26 |  |
+| [Conexión](https://open.spotify.com/track/4cE08PBH39Ubs9xDTIMdVZ) | [Pipe Calderón](https://open.spotify.com/artist/50TqpjP2iRI4hR1wCfVj3w) | [Never Stop](https://open.spotify.com/album/5foyKTXvQFcMgdi7Tg2DNd) | 3:06 | 2024-01-26 | 2024-04-13 |
 | [Connection](https://open.spotify.com/track/2TRVQlpDjhej74USx0RMF1) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94), [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Connection](https://open.spotify.com/album/5L6VbQiCxri3Nc34RvNUon) | 3:26 | 2022-11-25 | 2023-02-25 |
 | [Contigo](https://open.spotify.com/track/4QwibSrCYyAxlOG1FirXoo) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Contigo](https://open.spotify.com/album/6Kh3nNf8Slq5GZojjsx2nb) | 3:19 | 2022-04-29 | 2022-05-07 |
 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 | 2023-06-30 | 2024-04-06 |

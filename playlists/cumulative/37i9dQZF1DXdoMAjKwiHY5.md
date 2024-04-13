@@ -4,7 +4,7 @@
 
 > Got Fray\-fever? Or craving some DeGraw\-delights? Get on the Train\-train and enjoy these pop/rock classics\. Cover: Train
 
-78 songs - 5 hr 3 min
+79 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [The Time of My Life](https://open.spotify.com/track/6avyV3xlz2UFeiAUZ0SqyT) | [David Cook](https://open.spotify.com/artist/4SQxI8xg6LcSWL3KuGVHLa) | [David Cook](https://open.spotify.com/album/4MJcuG31fFG8rimuSCvJyx) | 3:36 | 2023-07-06 |  |
 | [Until You](https://open.spotify.com/track/4iQhfDlMpWHoMnBtX09KM4) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Brother, Bring the Sun](https://open.spotify.com/album/6t3Flungcv9zkoADU6OBkm) | 4:05 | 2023-07-06 |  |
 | [Unwell](https://open.spotify.com/track/6Bm6qUCSatPAqkQllFL7oA) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [More Than You Think You Are](https://open.spotify.com/album/7fv4OVYUiixcwCGDRwvcH8) | 3:48 | 2023-06-08 |  |
-| [What Matters Most](https://open.spotify.com/track/10Kylccyddh80NzTunQIlW) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [What Matters Most](https://open.spotify.com/album/5Jshp99HBceJEaAeyre8Pr) | 4:10 | 2023-06-08 |  |
+| [What Matters Most](https://open.spotify.com/track/10Kylccyddh80NzTunQIlW) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [What Matters Most](https://open.spotify.com/album/5Jshp99HBceJEaAeyre8Pr) | 4:10 | 2023-06-08 | 2024-04-13 |
+| [What Matters Most](https://open.spotify.com/track/4xE520XRdfPqt54rydEgNM) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [What Matters Most](https://open.spotify.com/album/4vHxLvztgqDt1Jq4XgnMkG) | 4:10 | 2023-06-08 |  |
 | [When It All Falls Apart](https://open.spotify.com/track/2lxXXI3hF46APE0wZlTeUZ) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Secret Life Of...](https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to) | 3:12 | 2023-07-06 |  |
 | [When It Comes](https://open.spotify.com/track/65xy8QjJE4G87p8XAJ6aGg) | [Tyler Hilton](https://open.spotify.com/artist/1bKdOEfMk4ftojJQdyV2Ik) | [The Tracks Of \(U.S\. Release\)](https://open.spotify.com/album/6eiCZB3meE3D5AU9MecmCQ) | 3:44 | 2023-06-08 |  |
 | [When Love Takes Hold](https://open.spotify.com/track/7D7g34Lvt0WBMmnjnLwJF3) | [Sister Hazel](https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk) | [When Love Takes Hold](https://open.spotify.com/album/4ZvetUUysXQE67o8aobq4W) | 3:49 | 2023-06-08 |  |

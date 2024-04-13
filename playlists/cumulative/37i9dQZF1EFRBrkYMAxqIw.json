@@ -1151,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "Loyal to myself",
+        "url": "https://open.spotify.com/album/4ZWf3l2OK3oV2GSCYOXTm1"
+      },
+      "artists": [
+        {
+          "name": "Lena",
+          "url": "https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147786,
+      "name": "Loyal to myself",
+      "url": "https://open.spotify.com/track/2e4kWV07RgzyJa9YWTEQpH"
+    },
+    {
+      "album": {
         "name": "Magic Still Exists",
         "url": "https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN"
       },

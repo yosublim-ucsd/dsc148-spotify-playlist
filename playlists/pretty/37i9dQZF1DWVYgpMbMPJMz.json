@@ -1,13 +1,81 @@
 {
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"spotify:artist:7iETGaxJ4crz3qaljDPCKC\">Brooke Ligertwood</a> ",
-  "num_followers": 987188,
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"spotify:artist:5bjQjhv3Zzxo1VoxGcyaHC\">Alexander Pappas</a> ",
+  "num_followers": 987247,
   "original_name": "WorshipNow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjI4OTYwMCwwMDAwMDAwMDYxMDJlMDMzMzVjNGEzNGI5YjMyNTQ1NTY2YzA2ZWM2",
+  "snapshot_id": "MTcxMjg5NDQwMCwwMDAwMDAwMGU1Y2RjOTQxMDA1ZThiOGZiMWI1NmM2NTkwOGVhY2I1",
   "tracks": [
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "A Great Awakening",
+        "url": "https://open.spotify.com/album/21NrdGWPVjX1SxCpjEGbRG"
+      },
+      "artists": [
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "duration_ms": 241928,
+      "name": "A Great Awakening",
+      "url": "https://open.spotify.com/track/11CVrv9H4laDRS8aAjT887"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Chapel Sessions Vol. 2",
+        "url": "https://open.spotify.com/album/6MQFiwdzCIAD3Pt1B0sMlJ"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        },
+        {
+          "name": "Chase & Co.",
+          "url": "https://open.spotify.com/artist/51QbzvHA7CzMBA9CwWL46n"
+        }
+      ],
+      "duration_ms": 233191,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/13ZOxuowJNhbKqIANs8Kf8"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Adonai",
+        "url": "https://open.spotify.com/album/1yENatzFP4dlsI9bsPrewA"
+      },
+      "artists": [
+        {
+          "name": "FOUNT",
+          "url": "https://open.spotify.com/artist/1XB2yEIY0NycZEX3UCbyIR"
+        }
+      ],
+      "duration_ms": 216081,
+      "name": "Adonai",
+      "url": "https://open.spotify.com/track/6IbmGtKY7ZLMbBkn4PZoZ1"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "All Things (Live)",
+        "url": "https://open.spotify.com/album/1xw5tHSvrE5sqFuaMuuFMv"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "duration_ms": 194673,
+      "name": "All Things - Live",
+      "url": "https://open.spotify.com/track/04zTZbv3WwRWmpe7sHoyck"
+    },
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
@@ -35,6 +103,110 @@
       "duration_ms": 314535,
       "name": "Bless God - Live From Passion 2024",
       "url": "https://open.spotify.com/track/55891kIDHcEGReUrpD461w"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Overflow (Live)",
+        "url": "https://open.spotify.com/album/7wiyNbURRHwc16s1teLYlk"
+      },
+      "artists": [
+        {
+          "name": "Transformation Worship",
+          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 372736,
+      "name": "Overflow - Live",
+      "url": "https://open.spotify.com/track/4929bxPQHzXBD2SEMFb2AM"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Move of God (Live)",
+        "url": "https://open.spotify.com/album/372WlxLRuziE8Em98wQxSr"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "David Ryan Cook",
+          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
+        }
+      ],
+      "duration_ms": 332739,
+      "name": "Move of God - Live",
+      "url": "https://open.spotify.com/track/5ODknhzWHsIk6jZBf3nnze"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Jesus Paid It All",
+        "url": "https://open.spotify.com/album/5MRJdEJ8NNCAdSMj6uOTNw"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        },
+        {
+          "name": "Metro Collective Worship",
+          "url": "https://open.spotify.com/artist/3v3nuJodbuZr1ofB6Aqzrn"
+        }
+      ],
+      "duration_ms": 224571,
+      "name": "Jesus Paid It All",
+      "url": "https://open.spotify.com/track/4TUqOw091EwDELio9PubBB"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "God Is (Live)",
+        "url": "https://open.spotify.com/album/0KDeewz19A4gwXCFNM6cTm"
+      },
+      "artists": [
+        {
+          "name": "New Life Worship",
+          "url": "https://open.spotify.com/artist/0wCMw81dQdNPMRB4zadq5g"
+        },
+        {
+          "name": "Lauren Smith",
+          "url": "https://open.spotify.com/artist/7lM3omHCUZWwKpMK867IGu"
+        }
+      ],
+      "duration_ms": 459754,
+      "name": "The Worthy One - Live",
+      "url": "https://open.spotify.com/track/08p3ubgxrY3Kks1lraTlLd"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Praise Forever (feat. Brennley Brown) [Live]",
+        "url": "https://open.spotify.com/album/159bA8TgD2NL5YyzxbHmbF"
+      },
+      "artists": [
+        {
+          "name": "Harvest Worship",
+          "url": "https://open.spotify.com/artist/5PdCcthDCLVddaLPWVKSPU"
+        },
+        {
+          "name": "Ricky Jackson",
+          "url": "https://open.spotify.com/artist/0fx4HE5hQcqSgNPUV3c3ku"
+        },
+        {
+          "name": "Brennley Brown",
+          "url": "https://open.spotify.com/artist/4NNo3cmxrg4Z4ROBXfuEf8"
+        }
+      ],
+      "duration_ms": 249466,
+      "name": "Praise Forever (feat. Brennley Brown) - Live",
+      "url": "https://open.spotify.com/track/2v3W1PjSJGMW2706BefO3u"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1103,26 +1275,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Jireh",
-        "url": "https://open.spotify.com/album/6HMlAW4DbRIxCR93yYi2GT"
-      },
-      "artists": [
-        {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
-        },
-        {
-          "name": "Chase & Co.",
-          "url": "https://open.spotify.com/artist/51QbzvHA7CzMBA9CwWL46n"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "Jireh",
-      "url": "https://open.spotify.com/track/31GM50Irod8OnsxOfwAmXB"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Acts 2",
         "url": "https://open.spotify.com/album/1dMORalDL5wqJ4xEIN61U1"
       },
@@ -1259,26 +1411,6 @@
       "duration_ms": 513466,
       "name": "Yahweh Will Manifest - Live From San Juan PR",
       "url": "https://open.spotify.com/track/1z7Fxs69SXH3OD9XNye8Lz"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Faithful and True (Live)",
-        "url": "https://open.spotify.com/album/4zLFYng21rIyQIdros8Zyf"
-      },
-      "artists": [
-        {
-          "name": "New Life Worship",
-          "url": "https://open.spotify.com/artist/0wCMw81dQdNPMRB4zadq5g"
-        },
-        {
-          "name": "Dee Wilson",
-          "url": "https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW"
-        }
-      ],
-      "duration_ms": 243317,
-      "name": "Faithful and True - Live",
-      "url": "https://open.spotify.com/track/1fnylnKIJrU67ZuWe0JGNU"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1487,22 +1619,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "He Calls Me Friend",
-        "url": "https://open.spotify.com/album/22VvLGmescoVzuxUOj5M1G"
-      },
-      "artists": [
-        {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
-        }
-      ],
-      "duration_ms": 260400,
-      "name": "He Calls Me Friend",
-      "url": "https://open.spotify.com/track/5v87gR2P18X12GfElLTPHc"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Show Me Your Ways",
         "url": "https://open.spotify.com/album/763ptOvXfTbOeQRDbaAuHJ"
       },
@@ -1635,22 +1751,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Come Behold the Wondrous Mystery",
-        "url": "https://open.spotify.com/album/25AJ4n2vNiYmR34lLwessO"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "My Worth is Not in What I Own",
-      "url": "https://open.spotify.com/track/3EgZO1HNPochAaREvj9dav"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Sing As One",
         "url": "https://open.spotify.com/album/2KQF01EPLOTUAdwP0FKejw"
       },
@@ -1687,38 +1787,6 @@
       "duration_ms": 281893,
       "name": "Precious Blood",
       "url": "https://open.spotify.com/track/4EjoSOfFN7HQVzwl5txinM"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Take, Eat, Drink (Live)",
-        "url": "https://open.spotify.com/album/3hDc3GQ0j8bGM7IszTfwgF"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
-        }
-      ],
-      "duration_ms": 287800,
-      "name": "Take, Eat, Drink - Live",
-      "url": "https://open.spotify.com/track/1b5YiRG1yd1KWj0aDWiFiE"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "City of God",
-        "url": "https://open.spotify.com/album/6lmCotcDwtqlZskmdwBBau"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 561680,
-      "name": "City of God",
-      "url": "https://open.spotify.com/track/4e4UH7glPNLLB6JKazJNQT"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1775,26 +1843,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "The Last Amen",
-        "url": "https://open.spotify.com/album/2ZGaQ9maeazajWhbBUMt2V"
-      },
-      "artists": [
-        {
-          "name": "Jimi Cravity",
-          "url": "https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls"
-        },
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 308132,
-      "name": "The Last Amen",
-      "url": "https://open.spotify.com/track/4Qy1O2uY2XxfW0RKuJs8I2"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "He Is Risen",
         "url": "https://open.spotify.com/album/2wLtbU0Nl8jM0pekaFnwb5"
       },
@@ -1831,30 +1879,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Monday Morning Faith (Studio Version)",
-        "url": "https://open.spotify.com/album/34SQZDK7kntzsEMmWfFCaL"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        },
-        {
-          "name": "Chelsea Plank",
-          "url": "https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        }
-      ],
-      "duration_ms": 256531,
-      "name": "Monday Morning Faith - Studio Version",
-      "url": "https://open.spotify.com/track/5pttLvlCeWoUsjMqoQL54O"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Just One Drop (Live From New Orleans)",
         "url": "https://open.spotify.com/album/2olHHPtJYdCWpgN1XaX7ZD"
       },
@@ -1887,30 +1911,6 @@
       "duration_ms": 328089,
       "name": "Lead Me Down",
       "url": "https://open.spotify.com/track/2HyOtUp1vp7Fe4B9mHSMu5"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Live Again",
-        "url": "https://open.spotify.com/album/7N1EAGw0mr5jFoZ1acuPap"
-      },
-      "artists": [
-        {
-          "name": "ONE HOUSE",
-          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
-        },
-        {
-          "name": "Kyle McHargh",
-          "url": "https://open.spotify.com/artist/6pKGdTf8wPcOSzeNGN1Or3"
-        },
-        {
-          "name": "Roosevelt Stewart",
-          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
-        }
-      ],
-      "duration_ms": 522190,
-      "name": "Live Again",
-      "url": "https://open.spotify.com/track/1K2dxpyTXiR5xcwo0ZrjBI"
     },
     {
       "added_at": "2024-04-05 04:00:00",

@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 334504,
       "name": "Chronovisor",
       "url": "https://open.spotify.com/track/0032G5wcvO7SSmkvzrZ2Ux"
@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 381961,
       "name": "Danger Zone",
       "url": "https://open.spotify.com/track/4Uh74IV73l87VYvZsQr4b6"
@@ -1962,7 +1962,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 289663,
       "name": "Dust",
       "url": "https://open.spotify.com/track/23AwYNteMnEzAmnImRTwr1"
@@ -2009,6 +2009,24 @@
     },
     {
       "album": {
+        "name": "Elegant Death",
+        "url": "https://open.spotify.com/album/7eSyPz0cXSLQDpI2WrpZCj"
+      },
+      "artists": [
+        {
+          "name": "Curses",
+          "url": "https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321600,
+      "name": "Elegant Death",
+      "url": "https://open.spotify.com/track/5xxGMAD02G8ZNDYSQCb2wZ"
+    },
+    {
+      "album": {
         "name": "E Dee vol. 1",
         "url": "https://open.spotify.com/album/1K1XmEr4dlqKWssDcCdlGc"
       },
@@ -2038,7 +2056,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 421404,
       "name": "Elusive Framework",
       "url": "https://open.spotify.com/track/3qaoLkC4laPxtjkxbGksoP"
@@ -2398,6 +2416,24 @@
       "duration_ms": 385500,
       "name": "Find Love Yourself - Deeper Love Mix",
       "url": "https://open.spotify.com/track/2TBKKs4rFeJ1Py2KPuEWdg"
+    },
+    {
+      "album": {
+        "name": "MARICAS (Compilation Vol. 2)",
+        "url": "https://open.spotify.com/album/5ImN9JBNteJ5WGMDmHas3S"
+      },
+      "artists": [
+        {
+          "name": "Roza Terenzi",
+          "url": "https://open.spotify.com/artist/403OOa2mD7jcUgpC8F7Qgs"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491748,
+      "name": "Fine Gay",
+      "url": "https://open.spotify.com/track/5bBhWlZeoKNg7USoATpqyY"
     },
     {
       "album": {
@@ -2951,6 +2987,24 @@
     },
     {
       "album": {
+        "name": "Arseholes, Liars, and Electronic Pioneers",
+        "url": "https://open.spotify.com/album/37hDTCk3GbkSpiu89OMqtz"
+      },
+      "artists": [
+        {
+          "name": "Paranoid London",
+          "url": "https://open.spotify.com/artist/0KyUH5WmspOhuIQAnw42Fb"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217096,
+      "name": "GRNDR",
+      "url": "https://open.spotify.com/track/0RfmIXtMElsOGf1VFP17ne"
+    },
+    {
+      "album": {
         "name": "Incompatible With Life",
         "url": "https://open.spotify.com/album/6SlEKm4kWSEcA089cjVaw2"
       },
@@ -3242,7 +3296,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 245333,
       "name": "Heavy Curb - DJ PGZ Remix",
       "url": "https://open.spotify.com/track/1qBkXPaYGizXW8a7Ki1CND"
@@ -3478,6 +3532,24 @@
       "duration_ms": 370281,
       "name": "Hypernova",
       "url": "https://open.spotify.com/track/7rml4DxvDSp5izepbcSSdW"
+    },
+    {
+      "album": {
+        "name": "Tryton / I Need U",
+        "url": "https://open.spotify.com/album/2qkr27dZrijyEd7n0PN2ZD"
+      },
+      "artists": [
+        {
+          "name": "Kyle Starkey",
+          "url": "https://open.spotify.com/artist/1crvHImsszKXTJr4wsOPhe"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401142,
+      "name": "I Need U",
+      "url": "https://open.spotify.com/track/51qcm5c7j1kjPKlsSNFkjZ"
     },
     {
       "album": {
@@ -3928,6 +4000,24 @@
       "duration_ms": 415340,
       "name": "Laid Back",
       "url": "https://open.spotify.com/track/49lIUGmn7IMjEijZRv2P4j"
+    },
+    {
+      "album": {
+        "name": "Transmission",
+        "url": "https://open.spotify.com/album/0A9WTSyMVjlM4pa7swpG5g"
+      },
+      "artists": [
+        {
+          "name": "Skatman",
+          "url": "https://open.spotify.com/artist/79K6YRpx6Q5HZJfxxcDq58"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371552,
+      "name": "Let\u2019s Skank",
+      "url": "https://open.spotify.com/track/42taEqinL2eZ3bDEmZfX6J"
     },
     {
       "album": {
@@ -4854,7 +4944,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 441920,
       "name": "Murray Mints",
       "url": "https://open.spotify.com/track/3MyhMgUvamrExidNhgEwdr"
@@ -5116,6 +5206,32 @@
       "duration_ms": 332307,
       "name": "Odd - Forest Drive West Remix",
       "url": "https://open.spotify.com/track/58dmK3y44rJfX3RmgoFleT"
+    },
+    {
+      "album": {
+        "name": "Only Friends (Pablo Bozzi Remix)",
+        "url": "https://open.spotify.com/album/6VdGaHE4d2J4apU7Qft87s"
+      },
+      "artists": [
+        {
+          "name": "Herr Krank",
+          "url": "https://open.spotify.com/artist/6867qRW4fPy1KtxyeBIKkl"
+        },
+        {
+          "name": "Deborah Aime La Bagarre",
+          "url": "https://open.spotify.com/artist/6jZ18ATjOFUAgDXX3H9x5w"
+        },
+        {
+          "name": "Pablo Bozzi",
+          "url": "https://open.spotify.com/artist/4DZM1e3XBfgjFkQkR1LKQL"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368428,
+      "name": "Only Friends - Pablo Bozzi Remix",
+      "url": "https://open.spotify.com/track/3PDe6VOziQgVlsCMpHOvUF"
     },
     {
       "album": {
@@ -5561,6 +5677,24 @@
     },
     {
       "album": {
+        "name": "Raw",
+        "url": "https://open.spotify.com/album/1bLUNWPpBPoQmPM7eW8qFP"
+      },
+      "artists": [
+        {
+          "name": "Facets",
+          "url": "https://open.spotify.com/artist/54UJUsxJLdMPTBtBuEFXRS"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337496,
+      "name": "Raw",
+      "url": "https://open.spotify.com/track/4k3Gi0xhRR8drqn4ZjFIOs"
+    },
+    {
+      "album": {
         "name": "The Jolisa EP",
         "url": "https://open.spotify.com/album/3xKFz1KiCxe7mYy7bnaynS"
       },
@@ -5876,7 +6010,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 312000,
       "name": "selfjustice (gotyah edition)",
       "url": "https://open.spotify.com/track/7oOwR166Nu1CwskGXbyevY"
@@ -7110,7 +7244,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 320857,
       "name": "The Wake of the Anthropocene",
       "url": "https://open.spotify.com/track/36ffiNoAqyZBbsnJ9VMkKu"
@@ -7589,6 +7723,24 @@
     },
     {
       "album": {
+        "name": "Heart Times",
+        "url": "https://open.spotify.com/album/5Gw9bs0WYh0fPqqd8GR488"
+      },
+      "artists": [
+        {
+          "name": "Raphael Sch\u00f6n",
+          "url": "https://open.spotify.com/artist/58CgXXDD0u7BxiP6rVybTv"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304939,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/6nfHFz3282cuMo6YPwdPst"
+    },
+    {
+      "album": {
         "name": "More Love (Remastered)",
         "url": "https://open.spotify.com/album/1F2NYAtDErMDcG0kKYzJlQ"
       },
@@ -7720,6 +7872,24 @@
         {
           "name": "Tapestry Of Sound",
           "url": "https://open.spotify.com/artist/6nmkjwLTvnuIzDfBvfgAyS"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384113,
+      "name": "Whip It Up",
+      "url": "https://open.spotify.com/track/1iO6In6D1cZLMQI3gzoG9R"
+    },
+    {
+      "album": {
+        "name": "Tapestry Reloaded",
+        "url": "https://open.spotify.com/album/344s2r7WuH0Iu8fE50ZYSk"
+      },
+      "artists": [
+        {
+          "name": "Tapestry Of Sound",
+          "url": "https://open.spotify.com/artist/6nmkjwLTvnuIzDfBvfgAyS"
         },
         {
           "name": "Olsvang\u00e8r",
@@ -7728,7 +7898,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 451764,
       "name": "Whip It Up - Olsvang\u00e8r Remix",
       "url": "https://open.spotify.com/track/5JTc1NPbCy8uoSpVpq97We"
@@ -7746,7 +7916,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 326197,
       "name": "Who Let The Girls Out?",
       "url": "https://open.spotify.com/track/6TW5eR6RXdeThtWVCqJyg8"
@@ -7808,6 +7978,24 @@
       "duration_ms": 411637,
       "name": "Wishes",
       "url": "https://open.spotify.com/track/39SDJJlg7JPcgwylWqxmlI"
+    },
+    {
+      "album": {
+        "name": "Without Further A Dude",
+        "url": "https://open.spotify.com/album/6nYT7twRrsmXL7HhjFwkuh"
+      },
+      "artists": [
+        {
+          "name": "Elfenberg",
+          "url": "https://open.spotify.com/artist/3rVvL036o05Y34SPRsW63P"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363960,
+      "name": "Without Further A Dude",
+      "url": "https://open.spotify.com/track/5IdBPIb45u7nDQE1kuNcIP"
     },
     {
       "album": {

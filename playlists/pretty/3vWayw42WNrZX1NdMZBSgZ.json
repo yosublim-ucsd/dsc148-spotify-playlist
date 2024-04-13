@@ -1,13 +1,49 @@
 {
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Shakira &amp; Cardi B &quot;Punter\u00eda,&quot; Pedro Cap\u00f3 &amp; Carin Le\u00f3n  &quot;Existo&quot;, Diego Torres &amp; Carlos Vives  &quot;Kapun&quot;, Enrique Iglesias &amp; El Alfa &quot;La Botella&quot;",
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Reik &quot;Baja California&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot; Pedro Cap\u00f3 &amp; Carin Le\u00f3n  &quot;Existo&quot;, Enrique Iglesias &amp; El Alfa &quot;La Botella&quot;",
   "num_followers": 54613,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "NDQwNSw5ODU4M2M1NGY0ZTIyOGQ0YzhiY2RlNjVlY2Y5ZjQ2NTZmMDMxZDY1",
+  "snapshot_id": "NDQxMixkZWM3YjU1NzcyOWI3ZjMzY2RkNDQ0YTc0MThhYTQ5M2IxNzIwNDg5",
   "tracks": [
+    {
+      "added_at": "2024-04-12 03:35:05",
+      "album": {
+        "name": "Baja California",
+        "url": "https://open.spotify.com/album/3qbsCGFjewj30dvxqRJiJf"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 187315,
+      "name": "Baja California",
+      "url": "https://open.spotify.com/track/3XAMueRejgCY1TEJDX1gv0"
+    },
+    {
+      "added_at": "2024-04-12 03:57:48",
+      "album": {
+        "name": "Bahamas",
+        "url": "https://open.spotify.com/album/2t2TGRu7yTlcXjMbdBZmbS"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 223728,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/3BWpv2yBYqreJmcPiHkuVC"
+    },
     {
       "added_at": "2024-03-22 04:09:49",
       "album": {
@@ -27,6 +63,42 @@
       "duration_ms": 181666,
       "name": "Punter\u00eda",
       "url": "https://open.spotify.com/track/6pW82dtuBNNpI1ytFasNgr"
+    },
+    {
+      "added_at": "2024-04-05 18:51:00",
+      "album": {
+        "name": "Bailarina",
+        "url": "https://open.spotify.com/album/0OCGfj5zYqgfbeqUaXiP2f"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 185546,
+      "name": "Bailarina",
+      "url": "https://open.spotify.com/track/0PTnMPnIvXRgb5IaANYzVN"
+    },
+    {
+      "added_at": "2024-04-12 16:36:17",
+      "album": {
+        "name": "Quisiera",
+        "url": "https://open.spotify.com/album/6m4LTn3NGSZsIg8vznoVTp"
+      },
+      "artists": [
+        {
+          "name": "Alex Luna",
+          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
+        }
+      ],
+      "duration_ms": 183357,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/13balKJJGR2bqNFjObszuG"
     },
     {
       "added_at": "2024-04-05 12:19:17",
@@ -159,6 +231,22 @@
       "duration_ms": 165663,
       "name": "Abril",
       "url": "https://open.spotify.com/track/4S225vyxNhDTPXtRgiINc2"
+    },
+    {
+      "added_at": "2024-04-12 19:27:01",
+      "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 170535,
+      "name": "Desenfocao'",
+      "url": "https://open.spotify.com/track/2CEf2gU5ZJamLXa3NrgAvA"
     },
     {
       "added_at": "2024-02-29 22:10:35",
@@ -3203,26 +3291,6 @@
       "duration_ms": 202026,
       "name": "El Charal",
       "url": "https://open.spotify.com/track/0LbActOj7FMkOCwvzhvNIt"
-    },
-    {
-      "added_at": "2024-04-05 18:51:00",
-      "album": {
-        "name": "Bailarina",
-        "url": "https://open.spotify.com/album/0OCGfj5zYqgfbeqUaXiP2f"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 185546,
-      "name": "Bailarina",
-      "url": "https://open.spotify.com/track/0PTnMPnIvXRgb5IaANYzVN"
     }
   ],
   "unique_name": "Pop Latin Hits",

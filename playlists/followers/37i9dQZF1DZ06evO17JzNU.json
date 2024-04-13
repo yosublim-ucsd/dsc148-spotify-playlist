@@ -1,7 +1,7 @@
 {
-  "2024-04-12": 21549,
+  "2024-04-13": 21556,
   "date_first_scraped": "2024-01-30",
-  "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
+  "description": "This Is Los Gemelos De Sinaloa. Los temas esenciales, todos en una lista.",
   "name": "This Is Los Gemelos De Sinaloa",
   "tracks": [
     {
@@ -499,7 +499,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 195119,
       "name": "Me Toco Ayudar",
       "url": "https://open.spotify.com/track/2iwiqbWUHg85OzQMEa2UfY"
@@ -931,7 +931,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 241812,
       "name": "Sue\u00f1a",
       "url": "https://open.spotify.com/track/0RykY6cKA0rnJtYrbSR61H"

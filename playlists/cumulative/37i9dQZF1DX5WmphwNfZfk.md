@@ -4,7 +4,7 @@
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Rhyan Douglas
 
-1,617 songs - 3 day 11 hr 14 min
+1,618 songs - 3 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,7 +501,8 @@
 | [Fine](https://open.spotify.com/track/7CjIh26XfyXIeUnjdE3xfM) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Fine](https://open.spotify.com/album/642qyqsuveUZ0U3Mc2W1kS) | 3:29 | 2022-02-04 | 2022-03-05 |
 | [fingers crossed](https://open.spotify.com/track/7jb91qnNv2R1XdrICW4A0y) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [fingers crossed](https://open.spotify.com/album/1AOdjdSeO5rdnZHCIZTvIg) | 2:43 | 2022-03-04 | 2022-04-02 |
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-02-04 | 2022-03-05 |
-| [Fireball](https://open.spotify.com/track/7IGLY0LhYBVcljx6D1YN62) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Fireball](https://open.spotify.com/album/3roFTNIDiw3v277J3Ytp9d) | 2:59 | 2024-04-05 |  |
+| [Fireball](https://open.spotify.com/track/6WmR01Wh7GPqF6fqzQX4s5) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Fireball](https://open.spotify.com/album/2ymtr3oRXo6vBOYQhYSQ2v) | 2:59 | 2024-04-05 |  |
+| [Fireball](https://open.spotify.com/track/7IGLY0LhYBVcljx6D1YN62) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Fireball](https://open.spotify.com/album/3roFTNIDiw3v277J3Ytp9d) | 2:59 | 2024-04-05 | 2024-04-13 |
 | [First Taste of Gone](https://open.spotify.com/track/1ynN7dkkujotC2rL31qX48) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [First Taste of Gone](https://open.spotify.com/album/3K8GylZf6YCpFCUVG6UCJg) | 2:52 | 2022-08-05 | 2022-09-03 |
 | [First Thing Smokin'](https://open.spotify.com/track/1gEI1aE97pEFA8RfE3BWmA) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/00HgeagDQJttNRTLrpjqa9) | 3:43 | 2022-09-02 | 2022-10-08 |
 | [First Touch](https://open.spotify.com/track/5UZNu7yoVADdteuDRR1qND) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [Lighthouse](https://open.spotify.com/album/386OkomCq7KFjusVqI1E78) | 3:18 | 2024-04-05 |  |

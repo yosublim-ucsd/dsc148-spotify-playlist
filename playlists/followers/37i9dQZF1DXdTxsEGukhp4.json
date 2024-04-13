@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 28939,
+  "2024-04-13": 29000,
   "date_first_scraped": "2023-02-01",
   "description": "TikTok\u3068Spotify\u304c\u5171\u540c\u3067\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u5fdc\u63f4\u3059\u308b\u30d7\u30ed\u30b0\u30e9\u30e0\u300cBuzz Tracker\u300d\uff01\u4e16\u754c\u4e2d\u306e\u97f3\u697d\u30b7\u30fc\u30f3\u306eBuzz\u3092\u3069\u3053\u3088\u308a\u3082\u65e9\u304fTrack(=\u8ffd\u8de1)\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u6771\u4eac\u3001\u541b\u304c\u3044\u306a\u3044\u8857",
   "name": "Buzz Tracker #\u30d0\u30ba\u30c8\u30e9",
@@ -501,7 +501,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 189000,
       "name": "between",
       "url": "https://open.spotify.com/track/6CIHG120FeUdUsH6iW5gxC"
@@ -703,7 +703,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 196746,
       "name": "B\u7d1a",
       "url": "https://open.spotify.com/track/0mBPNrXQjNv3NfzqrljAZZ"
@@ -2437,7 +2437,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 255986,
       "name": "Last Party Never End (feat. Tiji Jojo, YZERR, Vingo & Yellow Pato)",
       "url": "https://open.spotify.com/track/52buM4EFitLjpgxtN1sxIb"
@@ -2645,6 +2645,24 @@
       "duration_ms": 263106,
       "name": "Magic",
       "url": "https://open.spotify.com/track/0csHMdBheTvp9Oay1hM1WF"
+    },
+    {
+      "album": {
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160688,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
     },
     {
       "album": {
@@ -3073,7 +3091,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 196253,
       "name": "Never Grow Up",
       "url": "https://open.spotify.com/track/5aDgM8rYPT15CqjkN1EIKq"
@@ -4661,6 +4679,24 @@
       "duration_ms": 134869,
       "name": "Yoidoreshirazu",
       "url": "https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/08cvsB41GIdh3AszsM6aPk"
+      },
+      "artists": [
+        {
+          "name": "808",
+          "url": "https://open.spotify.com/artist/0HajkTlreHDUAVVFx72ci7"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222352,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6Z0qVrfmIMId2WsJ1EIDn9"
     },
     {
       "album": {
@@ -6300,6 +6336,24 @@
     },
     {
       "album": {
+        "name": "\u5acc\u3044\u306b\u306a\u308c\u306a\u3044",
+        "url": "https://open.spotify.com/album/67xt0PDZpQWHCpoAdDELp0"
+      },
+      "artists": [
+        {
+          "name": "Asa",
+          "url": "https://open.spotify.com/artist/3JjGQRskRjFJMpBESBtSum"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209062,
+      "name": "\u5acc\u3044\u306b\u306a\u308c\u306a\u3044",
+      "url": "https://open.spotify.com/track/7HIzVxjaZNEnNTVIZrtz89"
+    },
+    {
+      "album": {
         "name": "MOTHER",
         "url": "https://open.spotify.com/album/1vXRAcEl2fOXHdjjwbTz0f"
       },
@@ -6431,7 +6485,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 249173,
       "name": "\u6559\u5ba4\u306b\u9752",
       "url": "https://open.spotify.com/track/0EnqV0oMuuXwiAgEz0wtfY"

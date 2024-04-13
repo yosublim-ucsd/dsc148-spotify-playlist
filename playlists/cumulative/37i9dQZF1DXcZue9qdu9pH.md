@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-77 songs - 4 hr 26 min
+78 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Go](https://open.spotify.com/track/1bHbElmOOzqRNui7Ocq4Vp) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx) | [Go](https://open.spotify.com/album/0YT2PJ2AbXqRbz4Oj3ew0Z) | 2:59 | 2023-06-30 |  |
 | [HIGH SPEDE](https://open.spotify.com/track/01OW8EwHqMLnUysHiLT9zE) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [HOLD ON TO DEER LIFE, THERE'S A BLCAK BOY BEHIND YOU!](https://open.spotify.com/album/6aScw5iFrLHQUzlO21rCUl) | 3:58 | 2023-11-10 | 2023-12-16 |
 | [Hivyo](https://open.spotify.com/track/7EYQaatLgZpHtZWUJsXwiz) | [Ethan](https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1) | [Blink](https://open.spotify.com/album/6vzfIdktz4sBazv4NSOz1n) | 3:18 | 2023-06-30 |  |
-| [Home](https://open.spotify.com/track/6olvTBUwNCCChCBSeDeiWT) | [Mumbi Kasumba](https://open.spotify.com/artist/5YhxCi5kNkz1E4wqFfJVa1) | [Midnight \(Vol\. I\)](https://open.spotify.com/album/62rjNTmAEK1xAcJRPYvSKs) | 1:35 | 2023-06-30 |  |
+| [Home](https://open.spotify.com/track/6olvTBUwNCCChCBSeDeiWT) | [Mumbi Kasumba](https://open.spotify.com/artist/5YhxCi5kNkz1E4wqFfJVa1) | [Midnight \(Vol\. I\)](https://open.spotify.com/album/62rjNTmAEK1xAcJRPYvSKs) | 1:35 | 2023-06-30 | 2024-04-13 |
 | [It's You](https://open.spotify.com/track/7pr7HuG2oWV4AhvM4SDbsW) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [It's You](https://open.spotify.com/album/5DbTBskBpsHoO8MCaP3ubM) | 2:34 | 2024-01-26 |  |
 | [Just Another She \- Remix](https://open.spotify.com/track/6UyYrCjFdisFwd0ryUr24g) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY), [Monique Burger](https://open.spotify.com/artist/3GOf6SKBeQM7EQvRtSrBDQ), [Thewrathofsponge](https://open.spotify.com/artist/7Hoj9MRu3nFiYfbWy3Reot) | [Just Another She \(Remix\)](https://open.spotify.com/album/7Bgei9RjJqWYyOr1iK3Ow1) | 3:21 | 2023-09-01 |  |
 | [Kati Ya Wote](https://open.spotify.com/track/7xNud1xrc6CW1M0mWZdPXY) | [Men of Soul](https://open.spotify.com/artist/5mPJHiCJYwEVxDcuEXwK5n) | [Footprints](https://open.spotify.com/album/1KJ9WZ1twqmPoV5mvbW3is) | 4:33 | 2023-06-30 | 2023-10-24 |
@@ -83,6 +83,7 @@
 | [Unga](https://open.spotify.com/track/31wcbX1ryS3piaC3FN4oZI) | [Michelle Gatuiku](https://open.spotify.com/artist/04KS7CODE7DDZ3VvgRrbiT) | [Unga](https://open.spotify.com/album/5ZzEvegnSkHHKseHWJBk1G) | 3:34 | 2023-06-30 | 2024-03-23 |
 | [Uwanja wa Mchezo \(Pieces of Me\)](https://open.spotify.com/track/5Z8CRMyENwmwn82JXS7Ffj) | [Le'Laika](https://open.spotify.com/artist/21wMFiTF8hZHW1ZM2XE6Ul), [Steph Kapela](https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl) | [Uwanja wa Mchezo \(Pieces of Me\)](https://open.spotify.com/album/1uSU3Vj8y76b2KnbYg9Rw5) | 2:57 | 2024-02-08 |  |
 | [Wanting You](https://open.spotify.com/track/7hmU5Fney0C23kqklkXeHt) | [Ondi](https://open.spotify.com/artist/0Kmrssj2JXxBoJ6W2MlW63) | [Tangawizi](https://open.spotify.com/album/5P2OgT54MbjstTwfl6nw27) | 4:59 | 2023-06-30 | 2024-02-09 |
+| [What They Heard](https://open.spotify.com/track/5p0kXDP56ztkjc0AtaWLSI) | [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY), [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [TIHANE](https://open.spotify.com/artist/5JTJtMCQcHtL2JbOVnyI0B) | [What They Heard](https://open.spotify.com/album/1DXa0J0noqp6f4ntFehsmZ) | 3:30 | 2024-04-12 |  |
 | [Would You Mind](https://open.spotify.com/track/0GdY20C8oDprKmrIwDeNNc) | [Ondi](https://open.spotify.com/artist/0Kmrssj2JXxBoJ6W2MlW63) | [Tangawizi](https://open.spotify.com/album/5P2OgT54MbjstTwfl6nw27) | 3:42 | 2023-06-30 | 2024-02-23 |
 | [Your Turn](https://open.spotify.com/track/17RkBa8mTYvRgI52res7Eu) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Your Turn](https://open.spotify.com/album/1D7WjiRRPQqKDvDLY0Jh0e) | 3:54 | 2023-06-30 |  |
 

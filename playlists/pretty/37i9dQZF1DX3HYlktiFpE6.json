@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcwODA1OTY2MCwwMDAwMDAwMDgzY2U0ODBjYWY0YTBjYjUxNTYxOTY3ZWY3MDkyZDRj",
+  "snapshot_id": "MTcxMjg5NDQ2MCwwMDAwMDAwMDY0NmNlOTAxMTYwYjM3MjM5NWU3YmI5ZGRmYjZkNThh",
   "tracks": [
     {
       "added_at": "2024-02-16 05:01:00",
@@ -77,6 +77,22 @@
       "url": "https://open.spotify.com/track/22qKulMO8VijTJGXOig5vN"
     },
     {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "It Might Be You",
+        "url": "https://open.spotify.com/album/385CbVz7M8ik6LMuOQWXAv"
+      },
+      "artists": [
+        {
+          "name": "Naturally 7",
+          "url": "https://open.spotify.com/artist/769D3IwCDrdPospAd3Hlpi"
+        }
+      ],
+      "duration_ms": 264618,
+      "name": "It Might Be You",
+      "url": "https://open.spotify.com/track/4prt3l5AX0wAQwOgo57Ao8"
+    },
+    {
       "added_at": "2023-03-10 05:01:00",
       "album": {
         "name": "Man in the Mirror",
@@ -127,6 +143,26 @@
       "duration_ms": 216124,
       "name": "erase me",
       "url": "https://open.spotify.com/track/1RYuQzQoE8a7FK76t4DTgE"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "On a Clear Day You Can See Forever",
+        "url": "https://open.spotify.com/album/2s6kmZr6hJbtJ8nPi3dxhK"
+      },
+      "artists": [
+        {
+          "name": "Voctave",
+          "url": "https://open.spotify.com/artist/6qCQcw3ZKdmAFv0v4u5ey2"
+        },
+        {
+          "name": "Tituss Burgess",
+          "url": "https://open.spotify.com/artist/278a67UsMrPtjVfhFDNcwq"
+        }
+      ],
+      "duration_ms": 230283,
+      "name": "On a Clear Day You Can See Forever",
+      "url": "https://open.spotify.com/track/4IAh73A22mxHWlKbo08pOd"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -981,22 +1017,6 @@
       "url": "https://open.spotify.com/track/1k6hE5RWi4LQzoIFeosCJ7"
     },
     {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Sing for Myself",
-        "url": "https://open.spotify.com/album/3A9VjcAIbropthKKmQT40d"
-      },
-      "artists": [
-        {
-          "name": "Voices in Your Head",
-          "url": "https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ"
-        }
-      ],
-      "duration_ms": 127349,
-      "name": "Sing for Myself",
-      "url": "https://open.spotify.com/track/6iqsJo7oYOIuIFmXi4crwT"
-    },
-    {
       "added_at": "2023-03-10 05:01:00",
       "album": {
         "name": "Stayaway",
@@ -1679,26 +1699,6 @@
       "duration_ms": 259026,
       "name": "Misty Mountains",
       "url": "https://open.spotify.com/track/2Wx6axM4v1d7sjfVFMYtTQ"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Under the Influence: Holiday Edition",
-        "url": "https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX"
-      },
-      "artists": [
-        {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        },
-        {
-          "name": "Kristen Bell",
-          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
-        }
-      ],
-      "duration_ms": 160840,
-      "name": "Text Me Merry Christmas (feat. Kristen Bell)",
-      "url": "https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC"
     }
   ],
   "unique_name": "All A Cappella",

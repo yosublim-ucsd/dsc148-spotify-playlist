@@ -4,7 +4,7 @@
 
 > Découvrez les artistes à l'affiche de l’édition 2024 des Francos de Montréal.
 
-362 songs - 20 hr 36 min
+364 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Alien 2, le retour](https://open.spotify.com/track/36EOocCydeuIBIAsQjjSRR) | [Mudie](https://open.spotify.com/artist/2w3fLwwHa8qmeEVtw6Ulfr) | [Bad Vibrations](https://open.spotify.com/album/7yb4goAE9BXatz579m7XHO) | 2:47 | 2023-05-25 | 2024-04-04 |
 | [Alpine](https://open.spotify.com/track/7kOGbqtywqQm0ILdCQ9XeA) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [INSULA](https://open.spotify.com/album/2VbxpSTJVR2aHcnjEMDsS3) | 3:48 | 2022-05-25 | 2022-07-29 |
 | [Amazone \(feat\. Laurence Camille\)](https://open.spotify.com/track/1XtDKWKoIN7U5NBKXZWiBM) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Laurence Camille](https://open.spotify.com/artist/2fEGbkGz3QjsKC65fL0vJF) | [Électro\-Vacances](https://open.spotify.com/album/6b4K1Y42MS7uzbgBQvd8c5) | 3:06 | 2022-05-25 | 2023-04-13 |
+| [America](https://open.spotify.com/track/33rT04o70vs8yAv2OBvchQ) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 2:29 | 2024-04-12 |  |
 | [Amy](https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Où nos corps s'en vont mourir](https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA) | 2:57 | 2022-05-25 | 2023-04-13 |
 | [Amène\-toi chez nous](https://open.spotify.com/track/3IjLvU7Of9foqyfRrvktKG) | [Jacques Michel](https://open.spotify.com/artist/7MBV7HWVAY9naGIoBnJTAv) | [Citoyen d'Amérique](https://open.spotify.com/album/2BTaLMAnPPNox2ieVctOas) | 2:26 | 2022-05-25 | 2023-04-13 |
 | [Anomie](https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [À demain peut\-être](https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW) | 2:59 | 2024-04-03 |  |
@@ -260,6 +261,7 @@
 | [On part au soleil](https://open.spotify.com/track/5yikl00UMH0xOi20EZbseB) | [Mort Rose](https://open.spotify.com/artist/1JmY8VAvHw5VxpjXQATbiu) | [Au revoir cowboys](https://open.spotify.com/album/2witoCBGvoGR7a8NDCHWgH) | 4:51 | 2022-05-25 | 2022-07-29 |
 | [On s'fait du mal \(feat\. Dadju\)](https://open.spotify.com/track/0wzYG3c6CaroEAz4wTPNVD) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:02 | 2024-04-03 |  |
 | [OnO Song](https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t) | [Bobo Ono](https://open.spotify.com/artist/3W0ilC5qMFlJpVpILq73FC) | [Fluxus](https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu) | 2:36 | 2024-04-03 |  |
+| [Onze](https://open.spotify.com/track/34X5qDkzSrzpKhKjHb5RCk) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [La nuit s'achève](https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS) | 3:10 | 2024-04-12 |  |
 | [Opium](https://open.spotify.com/track/1W325J3EXLqppfS7l8kX8g) | [B.B\. Jacques](https://open.spotify.com/artist/3Op4g1wmQJxGTmeFSQ8z52) | [Poésie d'une pulsion](https://open.spotify.com/album/5QInkfw4rXZuKb0lyThqlb) | 3:26 | 2023-05-24 | 2024-04-04 |
 | [Or](https://open.spotify.com/track/6kVJIh50Nw8zDXCQEWAkBT) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD), [OneNessa](https://open.spotify.com/artist/72oaCcX2X3nBhyhZGEjnFK) | [Or](https://open.spotify.com/album/7baidwdjs0YAGX4eKVMK7e) | 3:27 | 2023-05-25 | 2023-11-18 |
 | [Or](https://open.spotify.com/track/7xgslGPncPsM3K0h7B8KNI) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD), [OneNessa](https://open.spotify.com/artist/72oaCcX2X3nBhyhZGEjnFK) | [Elle était une fois](https://open.spotify.com/album/3mHCRXJZDxAyAcRd2wPwNQ) | 3:27 | 2023-05-25 | 2024-04-04 |

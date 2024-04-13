@@ -2,9 +2,9 @@
 
 ### [The Essential Ska](https://open.spotify.com/playlist/37i9dQZF1DX7WJ4yDmRK8R)
 
-> This is the best of ska, new and classic\. Cover: Madness
+> This is the best of ska, new and classic\. Cover: La Floripondio
 
-276 songs - 14 hr 40 min
+277 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Baby](https://open.spotify.com/track/2I28vXWi5vdx0OsPKbE0G5) | [Mad Caddies](https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6) | [Baby](https://open.spotify.com/album/0vgWeDW5tiwfTii8qhrZYc) | 2:53 | 2024-01-19 |  |
 | [Barely Kids](https://open.spotify.com/track/1E6Au8m7FNG3eAriuL0CZ9) | [The Inevitables](https://open.spotify.com/artist/5qr4DCKr3oAxSslg7e3tdK) | [The Inevitables](https://open.spotify.com/album/7I68xaGkCBpmjAHTBOpisF) | 3:09 | 2022-04-14 | 2022-06-06 |
 | [Be Skappy](https://open.spotify.com/track/3rtjyvXNqhuNwNmyPOXoI8) | [9teez](https://open.spotify.com/artist/2kPEyISiF9UNFGL0D6Gxf1) | [Be Skappy](https://open.spotify.com/album/4wbfPnK6ALcVbDch7TTUtS) | 3:27 | 2022-04-14 | 2022-04-21 |
-| [Beatdown Generation](https://open.spotify.com/track/4XLgiO2wHzSahRD1LMWcvc) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Beatdown Generation](https://open.spotify.com/album/00mGLtTXb6AxQjwGTec0Ud) | 3:14 | 2021-09-02 |  |
+| [Beatdown Generation](https://open.spotify.com/track/4XLgiO2wHzSahRD1LMWcvc) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Beatdown Generation](https://open.spotify.com/album/00mGLtTXb6AxQjwGTec0Ud) | 3:14 | 2021-09-02 | 2024-04-13 |
 | [Beer](https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Everything Sucks](https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF) | 3:40 | 2021-09-02 |  |
 | [Blessed with a Melody](https://open.spotify.com/track/2VOPWmLCCfSKDtxiQBxKsx) | [JJ Sansaverino](https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7) | [Blessed with a Melody](https://open.spotify.com/album/06rxIyt9gHCan4NA9puzRL) | 4:27 | 2023-10-13 | 2024-03-29 |
 | [Bodycams Off](https://open.spotify.com/track/7GeAKKIpnMG0Io4Yrln39Q) | [Corrupt Vision](https://open.spotify.com/artist/44j7MhDPFjIWudduCD2Rcv) | [These Hands of Mine](https://open.spotify.com/album/3EC5JRbeCFfWLMa7x14eCS) | 1:36 | 2022-04-14 | 2022-04-21 |
@@ -76,6 +76,7 @@
 | [Everything Went Numb](https://open.spotify.com/track/0TZ1MAPCWb2jpaKzS5Muyz) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [Everything Goes Numb](https://open.spotify.com/album/5slTcrsJ9B8Q4q8rA135XE) | 3:29 | 2022-04-14 |  |
 | [Everything Went Numb](https://open.spotify.com/track/2I3HfKZFH69dLwhapHrI9o) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [Everything Goes Numb](https://open.spotify.com/album/1QP8LbDOWw9ZVZsbaVgtCl) | 3:29 | 2021-09-02 | 2022-07-29 |
 | [Fear](https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Fear](https://open.spotify.com/album/4mxF6EtrFVnX5PAZJVOpH7) | 3:36 | 2021-09-02 | 2023-09-16 |
+| [Fin de Flora](https://open.spotify.com/track/595KjEC8L03VHAZrrSBHat) | [La Fuerza Mayor](https://open.spotify.com/artist/7aCTabrba5ejvsfMgq9QCV), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Fin de Flora](https://open.spotify.com/album/4DRLvogsaDi6ZRLGZ94IQs) | 4:17 | 2024-04-12 |  |
 | [Fire and Forget](https://open.spotify.com/track/2z6npC2l0uzhzXaPIDeb5o) | [Rude Tins](https://open.spotify.com/artist/20XsDMN8RhkHSmnH2DrgAz) | [Fire and Forget](https://open.spotify.com/album/7iCb1LsZwy3zNQa85oIzyD) | 3:05 | 2021-09-02 | 2022-05-10 |
 | [Free Time](https://open.spotify.com/track/19FG153t1MdozcTZHi8guM) | [The Aggrolites](https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM) | [Reggae Hit L.A.](https://open.spotify.com/album/7IQmFed8UWBDt7MiTZR6Ob) | 3:01 | 2022-04-14 |  |
 | [Free Time](https://open.spotify.com/track/5DAnKlgL5eVGQxoIkPOYHO) | [The Aggrolites](https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM) | [Reggae Hit L.A.](https://open.spotify.com/album/58CENOcpf0isuLHgtQYadO) | 3:01 | 2021-09-02 | 2022-07-29 |

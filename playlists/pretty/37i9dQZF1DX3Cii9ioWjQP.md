@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Milena\(밀레나\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,344 likes - 107 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,370 likes - 107 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,6 +114,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 104 | [Standstill](https://open.spotify.com/track/2FO4NG072mM775tWuGErNB) | [Chin Sooyoung](https://open.spotify.com/artist/263UdmGyOJkZ6CGF5v7d4G) | [Paraphrase](https://open.spotify.com/album/3j1MVk2HnnZi8CcXOIDkWr) | 4:26 |
 | 105 | [Inflexible Chess Pieces](https://open.spotify.com/track/0IBsuihyvthkFXRqDXOOAg) | [Junbeom Sim](https://open.spotify.com/artist/3LNX9HVfbM5u3IdJ44IVwL) | [Inflexible Chess Pieces](https://open.spotify.com/album/2OrJbRm23LFDbvg4J2P072) | 10:54 |
 | 106 | [Consolation](https://open.spotify.com/track/33SBaRtJMTaOVsqNZvYg2p) | [준킴 X 이한얼](https://open.spotify.com/artist/1zq70EDZpkLQXiNUsvdlI5) | [위로](https://open.spotify.com/album/6D4cKP9spFxsWYdbFkjQWu) | 9:39 |
-| 107 | [Purple Wave](https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g) | [ChromaJ](https://open.spotify.com/artist/1yt0psswSKE37IwwZVFeuc) | [Rising](https://open.spotify.com/album/0KNNPQuVGnTdmyuka4re6q) | 4:09 |
+| 107 | [Purple Wave](https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g) | [1LEEY](https://open.spotify.com/artist/4Csb024B5ugIYGJViz9oOF) | [Rising](https://open.spotify.com/album/0KNNPQuVGnTdmyuka4re6q) | 4:09 |
 
 Snapshot ID: `MTcxMTAyMjkzNSwwMDAwMDAwMDA5MDM5NjQ5ZDAyM2UwMTc2ZmVjNzYzYzhjOWEyZWVi`

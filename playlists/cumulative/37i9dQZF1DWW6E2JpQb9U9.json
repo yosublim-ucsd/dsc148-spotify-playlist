@@ -638,7 +638,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 315250,
       "name": "Bailando en el infierno - En Vivo",
       "url": "https://open.spotify.com/track/46rlMCKqElZwLwMyUO1k0Q"
@@ -2975,6 +2975,24 @@
     },
     {
       "album": {
+        "name": "Huracanes En Luna Plateada",
+        "url": "https://open.spotify.com/album/0ZpWjfD5LMjMJvrCdC7P3J"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270253,
+      "name": "Labios de Seda",
+      "url": "https://open.spotify.com/track/3SgBk05eIUH27NUTgldF8c"
+    },
+    {
+      "album": {
         "name": "Huracanes en Luna Plateada (En Vivo)",
         "url": "https://open.spotify.com/album/1z9HFVvWCXsY1BkmyGBiRx"
       },
@@ -3290,7 +3308,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 414120,
       "name": "Marad\u00f3 - En Vivo",
       "url": "https://open.spotify.com/track/7C2OKAL0Yh6VXjZe4MF4Ar"
@@ -5752,7 +5770,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 289074,
       "name": "Una Vez M\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/34u37vgTwh2wl3ZH5u2nfs"

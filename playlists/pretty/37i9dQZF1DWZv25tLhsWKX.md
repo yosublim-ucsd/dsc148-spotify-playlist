@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv25tLhsWKX.md) - [plain]
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,057 likes - 72 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,062 likes - 72 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv25tLhsWKX.md) - [plain]
 | 35 | [Are You Ready to Love Me?](https://open.spotify.com/track/7gyDV6Y7GmHqQS4KnzI5Zk) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Healing Tide](https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q) | 3:34 |
 | 36 | [Games People Play](https://open.spotify.com/track/50t8gshcAtXiUdk7nHfYDp) | [Joe South](https://open.spotify.com/artist/7s2L0cftC6UBVVxADuyfwS) | [Introspect \(Bonus Track Version\)](https://open.spotify.com/album/0efmkx26DQ4OSiPCdKsQgB) | 3:35 |
 | 37 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 |
-| 38 | [You Must Go](https://open.spotify.com/track/7zb4BpYdR26dSTGSWkGM6f) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [All Kinds Of People / You Must Go](https://open.spotify.com/album/4rIScWdlTV9CNp2ljgr7PD) | 5:02 |
+| 38 | [You Must Go](https://open.spotify.com/track/0LTlAPV6S8Z9U1u42GZfmL) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [All Kinds Of People / You Must Go](https://open.spotify.com/album/50YM56ngtmK2bOUTmntZf9) | 5:02 |
 | 39 | [Honky Tonk Women](https://open.spotify.com/track/6gcAlkX0YVDlHtKIYY9a25) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [Sleepless Nights \(Reissue\)](https://open.spotify.com/album/7Mnz3gmfUJ913vQxCsRyEm) | 4:17 |
 | 40 | [Way Down](https://open.spotify.com/track/2GPBFvJel5g46idsQJ4mbD) | [Dee White](https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU) | [Southern Gentleman](https://open.spotify.com/album/6ZRbVOgb2dPQRDCnXNerZp) | 2:45 |
 | 41 | [Miles Away](https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [People Are My Drug](https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl) | 4:01 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv25tLhsWKX.md) - [plain]
 | 62 | [This Old Heart of Mine](https://open.spotify.com/track/1oXYR4dnOflrGiDsrJTFvR) | [Bettye Swann](https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W) | [The Complete Atlantic Recordings](https://open.spotify.com/album/0dGOGeicMH03GiAzQiMluv) | 4:32 |
 | 63 | [I Was Wrong](https://open.spotify.com/track/7dUdMZqfGSIt0ZkmTOgRLA) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 3:11 |
 | 64 | [Sunday's Children](https://open.spotify.com/track/6B29urREjvzoQgCzSbgnQy) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1) | [White Noise / White Lines](https://open.spotify.com/album/19aVoxGenyWL3zULEefF9a) | 3:30 |
-| 65 | [The Forty\-Ninth Parallel](https://open.spotify.com/track/5pKb1A8Fbq39R81CSO2afc) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p) | [Carrying On](https://open.spotify.com/album/6fzOS1VsnOLMJsREI1fh22) | 2:26 |
+| 65 | [The Forty\-Ninth Parallel](https://open.spotify.com/track/7sDeKXeotpv5yYV6BNQdHt) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p) | [Carrying On](https://open.spotify.com/album/50Ynah0JAQLOv3jBfh4WUw) | 2:26 |
 | 66 | [Long Way to Go](https://open.spotify.com/track/4Tb1Yf1e6tgimjLKPQhhOd) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Change the Whole Thing \(Deluxe Edition\)](https://open.spotify.com/album/4dUldCEXkgAezE5GYMeJMW) | 4:04 |
 | 67 | [Barely Alive](https://open.spotify.com/track/2RESEfP5xCZFWl4BSIHpQC) | [The Jompson Brothers](https://open.spotify.com/artist/4eNW2w49yCMLXeOwAOWF9b) | [The Jompson Brothers](https://open.spotify.com/album/79XjqMCEOc1VJzgQCipw5F) | 4:50 |
 | 68 | [Hell Yes I Cheated](https://open.spotify.com/track/79imbJqh9XMsomd3RIXAaB) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Introduction To Johnny Adams](https://open.spotify.com/album/6jQ5ziyzITOgNHaZkiyPvR) | 3:35 |

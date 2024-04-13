@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 1629262,
+  "2024-04-13": 1629401,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Spain.",
   "name": "Top 50 - Spain",
@@ -16312,6 +16312,24 @@
     },
     {
       "album": {
+        "name": "rompeolas",
+        "url": "https://open.spotify.com/album/4sQennnny8Cm8ktfE6CahJ"
+      },
+      "artists": [
+        {
+          "name": "Martin Urrutia",
+          "url": "https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162519,
+      "name": "rompeolas",
+      "url": "https://open.spotify.com/track/6vJk7b4edT52HIWqclNB6l"
+    },
+    {
+      "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
       },
@@ -19677,7 +19695,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 215600,
       "name": "VAGABUNDO",
       "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"

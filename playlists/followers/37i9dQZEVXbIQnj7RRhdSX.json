@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 1070772,
+  "2024-04-13": 1070873,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Italy.",
   "name": "Top 50 - Italy",
@@ -1905,7 +1905,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 221231,
       "name": "Amore Mio (feat. Sfera Ebbasta, Jul)",
       "url": "https://open.spotify.com/track/644oTknCDmxS3O8ZQWqt3Q"
@@ -10903,7 +10903,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 178064,
       "name": "Ex Angelo (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/1LcAwUvsiWJqTgV9vDs0oq"

@@ -4,7 +4,7 @@
 
 > Relaxing classical piano.
 
-100 songs - 6 hr 29 min
+101 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Piano Sonata No\. 20 in A Major, D\. 959: II\. Andantino](https://open.spotify.com/track/2lZ4IicfSIP3e1vwUZ4MQj) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Schubert: Piano Sonata D.959 & Minuets D\. 334, D\. 335, D\. 600](https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx) | 8:55 | 2021-12-06 | 2023-11-25 |
 | [Prelude in B Minor, BWV 855a \(Transcribed by Alexander Siloti\)](https://open.spotify.com/track/0B8w4gK6UkA0TA34Epd1Nm) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Bach Transcriptions](https://open.spotify.com/album/5s4J0DyaLTxFXjZ5uZQzkm) | 1:39 | 2024-02-08 |  |
 | [Prelude in B Minor, BWV 855a \(Transcribed by Alexander Siloti\)](https://open.spotify.com/track/5TMxqAA2kfj9BpDFKbvpwl) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Prelude in B Minor, BWV 855a \(Transcribed by Alexander Siloti\)](https://open.spotify.com/album/4Bz7EaaTAu89637GXU2h44) | 1:39 | 2023-11-10 | 2024-02-16 |
+| [Prelude in C Major, BWV 846](https://open.spotify.com/track/70sk23BoP9F6UeppZ2IiL5) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Labyrinth: Ephemera](https://open.spotify.com/album/1M1tsv2nCOuUkztiGG3tBh) | 2:25 | 2024-04-12 |  |
 | [Premier Nocturne, Op\. 22](https://open.spotify.com/track/1xrz9rJJPVENNP4l4Jvft4) | [Charles\-Valentin Alkan](https://open.spotify.com/artist/07OhqeLloDO7wu0yCaVO2D), [Michael Landrum](https://open.spotify.com/artist/1ZwgmPk7yAW0HsoGlFsBQ0) | [Nocturnes](https://open.spotify.com/album/4W4WygqfXLiIKtaiv1snAc) | 6:09 | 2022-01-25 |  |
 | [Ravel: Cadence for the Video by Yoann Bourgeois \(On Adagio from Ravel's Concerto in G, M\. 83\)](https://open.spotify.com/track/6ZSfPXGfQUSwODvAr3AhcU) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Ravel: Cadence for the Video by Yoann Bourgeois \(On Adagio from Ravel's Concerto in G, M\. 83\)](https://open.spotify.com/album/217TRsYD0YRrUhEsK5qNa0) | 3:07 | 2023-11-24 |  |
 | [Rêverie, CD 76](https://open.spotify.com/track/6HNUntao7jCtKR2cGKgqn0) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 5:29 | 2021-12-06 |  |

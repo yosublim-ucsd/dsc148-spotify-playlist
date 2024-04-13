@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 152985,
+  "2024-04-13": 153067,
   "date_first_scraped": "2021-12-21",
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:4c6lhwoOrmgNWvl0GxHlW1\">Tedashii</a>",
   "name": "The Flow",
@@ -2359,6 +2359,28 @@
       "duration_ms": 147329,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/7nIcSHlvM81ek3T4CmnyPM"
+    },
+    {
+      "album": {
+        "name": "BLESSED",
+        "url": "https://open.spotify.com/album/3BePNExIOm54F4e5h40r86"
+      },
+      "artists": [
+        {
+          "name": "LLC Flame",
+          "url": "https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4"
+        },
+        {
+          "name": "Caleb Golden",
+          "url": "https://open.spotify.com/artist/3VFD6xeoJaM85N4gGfK3ma"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "BLESSED",
+      "url": "https://open.spotify.com/track/51I93kSJksxIWnjO2S47II"
     },
     {
       "album": {
@@ -18611,7 +18633,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 126956,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/5ZpNrG5qK5ve7uNHMx1IG8"

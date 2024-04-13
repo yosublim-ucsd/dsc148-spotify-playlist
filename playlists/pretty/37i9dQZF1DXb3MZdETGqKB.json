@@ -1,28 +1,28 @@
 {
   "description": "All new, all blues. Cover: Gary Clark Jr.",
-  "num_followers": 147803,
+  "num_followers": 147813,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjI4OTY2MCwwMDAwMDAwMDU2M2Q4ZDNlOGNhZjU3MDg3NmQxN2FjOTRhNTQzYmI0",
+  "snapshot_id": "MTcxMjg5NDQ2MCwwMDAwMDAwMDlmMzcyN2ZiMzg3YmJjYjlmMTNlZGNlZDA2MjkxODdl",
   "tracks": [
     {
-      "added_at": "2024-04-05 04:01:00",
+      "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "Black Widow",
-        "url": "https://open.spotify.com/album/5sQZFdNz2FIH5ASU2AZAEw"
+        "name": "What I'm Made Of",
+        "url": "https://open.spotify.com/album/4Qe99uFINH6xrWLoRm04oo"
       },
       "artists": [
         {
-          "name": "Judith Hill",
-          "url": "https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t"
+          "name": "Laura Evans",
+          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
         }
       ],
-      "duration_ms": 314111,
-      "name": "Black Widow",
-      "url": "https://open.spotify.com/track/12NlxknhSHjbb1ojZ7oNTe"
+      "duration_ms": 222534,
+      "name": "What I'm Made Of",
+      "url": "https://open.spotify.com/track/1Op8GRaEDkFfuOQaRIjXJ9"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -39,6 +39,30 @@
       "duration_ms": 180813,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/0iDxRzwE0EeV24jWkxg2Kx"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "I want it all",
+        "url": "https://open.spotify.com/album/6HQIBMSqvLJ65qcCR1PD4T"
+      },
+      "artists": [
+        {
+          "name": "Omido",
+          "url": "https://open.spotify.com/artist/1JHi3wMSHjY01RGrlo7lGh"
+        },
+        {
+          "name": "Mandrazo",
+          "url": "https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0"
+        },
+        {
+          "name": "Rick Jansen",
+          "url": "https://open.spotify.com/artist/53lSnB02n045g5jMu0ItCz"
+        }
+      ],
+      "duration_ms": 167441,
+      "name": "I want it all",
+      "url": "https://open.spotify.com/track/5tr9wAeWpd5IXH15PZuIPW"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1477,22 +1501,6 @@
       "url": "https://open.spotify.com/track/6cruucEwiXCf6exdPLYN9n"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "State of Mind",
-        "url": "https://open.spotify.com/album/5VbKTiwTdqTSRsHGlY8lyO"
-      },
-      "artists": [
-        {
-          "name": "Laura Evans",
-          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
-        }
-      ],
-      "duration_ms": 199786,
-      "name": "State of Mind",
-      "url": "https://open.spotify.com/track/2Y6FugxQpIz6Nj88w4Bfd5"
-    },
-    {
       "added_at": "2022-06-24 04:02:00",
       "album": {
         "name": "Philadelphia Mississippi",
@@ -1627,22 +1635,6 @@
       "duration_ms": 203139,
       "name": "Talk To You",
       "url": "https://open.spotify.com/track/61PCdbwmjg5LwyIBvcuQGe"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "NEVER TELL ME THE ODDS",
-        "url": "https://open.spotify.com/album/5SuQXa5Uw9BxJUIyg735rH"
-      },
-      "artists": [
-        {
-          "name": "Watt White",
-          "url": "https://open.spotify.com/artist/6Os3fHAI2Fma2UzTD91RU8"
-        }
-      ],
-      "duration_ms": 162741,
-      "name": "NEVER TELL ME THE ODDS",
-      "url": "https://open.spotify.com/track/2iK0Txu1uCzpGH196CsQEf"
     },
     {
       "added_at": "2022-05-06 04:02:00",

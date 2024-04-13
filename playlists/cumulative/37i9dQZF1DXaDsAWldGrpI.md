@@ -4,7 +4,7 @@
 
 > Your favorite artists, caught in the act! Recorded Live...just like you were there\. Cover: Luke Combs
 
-146 songs - 10 hr 20 min
+148 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Baba O'Riley \- Live at Fenway Park, Boston, MA, 08.20.2016](https://open.spotify.com/track/4sL9qCuNP0eIvOsOO20aPF) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [From The Road, Vol\. 1: Covers](https://open.spotify.com/album/21IWSt2SQY3fWoV4P1sbi0) | 7:51 | 2023-11-10 |  |
 | [Baba O'Riley \- Live at Fenway Park, Boston, MA, 08.20.2016](https://open.spotify.com/track/4tjyZXvKsvKrAPxqQTbeSl) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Baba O'Riley \(Live at Fenway Park, Boston, MA, 08.20.2016\)](https://open.spotify.com/album/2X3TXhcSi7Op3v3Co7q8xY) | 7:51 | 2023-10-27 | 2023-11-16 |
 | [Back Where I Come From \- Live](https://open.spotify.com/track/3ib4ycdeIE13s5heRkMYNU) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Kenny Chesney Live](https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9) | 4:45 | 2021-07-22 |  |
+| [Barefoot Blue Jean Night \- Live from the Wiltern Theatre](https://open.spotify.com/track/0vcMpfHTJTJ7dOJP0m6IvY) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Palm Trees & Palm Readers \- Jake Owen: Live in Los Angeles](https://open.spotify.com/album/3bueDQEMFcyT5rYgTwkFJh) | 4:03 | 2024-04-12 |  |
 | [Beautiful Crazy \(feat\. Leon Bridges\) \- Live](https://open.spotify.com/track/4uI6wu9V3heWDqweerxJYF) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Beautiful Crazy \(feat\. Leon Bridges\) \[Live\]](https://open.spotify.com/album/6reqV1RJWoivSKTkJNjhQO) | 3:06 | 2021-07-22 |  |
 | [Beyond \(feat\. Luke Combs\) \- Live](https://open.spotify.com/track/05zt3H2jdG0MA1V6Q2t2Et) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Beyond \(feat\. Luke Combs\) \[Live\]](https://open.spotify.com/album/4hhm2iJ6yhnMnlTaa5hjNo) | 4:06 | 2021-07-22 |  |
 | [Big Star \(with Taylor Swift\) \- Live](https://open.spotify.com/track/7JKwboSAWRHJI5U1XGTqS3) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Live in No Shoes Nation](https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY) | 5:06 | 2021-07-22 |  |
@@ -95,6 +96,7 @@
 | [Nobody But You \(Duet with Gwen Stefani\) \- Live](https://open.spotify.com/track/3twoyaIBmqSyBkIxTQYl5m) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Nobody But You \(Duet with Gwen Stefani\) \[Live\]](https://open.spotify.com/album/28JOBmOhSs9ssOBgbxGTrp) | 3:30 | 2021-07-22 |  |
 | [Oklahoma Smokeshow \- Live](https://open.spotify.com/track/38L9BdfJKkWGwot9GWIXMz) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [All My Homies Hate Ticketmaster \(Live from Red Rocks\)](https://open.spotify.com/album/5hVCiOPye3IDJG4rbO44UH) | 3:33 | 2022-12-25 |  |
 | [Ol' Red \- Live](https://open.spotify.com/track/1tCBOvBBXD61UUlkIVhcWu) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton \(Live\)](https://open.spotify.com/album/2cOq8VHZtK23WbWfBeOZ2y) | 3:59 | 2021-07-22 |  |
+| [On My Own Again \- Live At The Sydney Opera House](https://open.spotify.com/track/2Ay5NlCEEgoLm0MJTtilaQ) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [On My Own Again \(Live At The Sydney Opera House\)](https://open.spotify.com/album/0jfbNRNBad6745LivCyIx0) | 4:45 | 2024-04-12 |  |
 | [Once In A Lifetime \- Live At The Arena At Gwinnett, GA/2008](https://open.spotify.com/track/384QzCWUyXbF4U2afrLYcT) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 7:10 | 2021-07-22 |  |
 | [Ours \- Live/2011](https://open.spotify.com/track/68QyrSzpnoU04AAhE5z8lj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now World Tour Live](https://open.spotify.com/album/6fyR4wBPwLHKcRtxgd4sGh) | 4:05 | 2021-07-22 |  |
 | [Over For You \- Live in Melbourne](https://open.spotify.com/track/05n88AzLQdSxS3qNQeTJBl) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Over For You \(Live in Melbourne\)](https://open.spotify.com/album/0LjpFQ6PhPfKERb0zHwFc2) | 3:34 | 2022-10-07 | 2023-07-08 |

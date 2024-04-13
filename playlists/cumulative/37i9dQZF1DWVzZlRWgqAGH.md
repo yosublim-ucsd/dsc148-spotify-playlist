@@ -2,9 +2,9 @@
 
 ### [BUTTER](https://open.spotify.com/playlist/37i9dQZF1DWVzZlRWgqAGH)
 
-> Smooth joints\. Cover: Jalen Ngonda
+> Smooth joints\. Cover: Adi Oasis, Luedji Luna
 
-1,178 songs - 2 day 21 hr 33 min
+1,179 songs - 2 day 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [All They Wanna Do](https://open.spotify.com/track/1z3GRT22Vm8FWwadTqoxuq) | [Iman Omari](https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4) | [All They Wanna Do](https://open.spotify.com/album/10R0owBaqbjtUM5A8XeSYN) | 2:38 | 2022-05-20 | 2022-07-22 |
 | [All Up To You](https://open.spotify.com/track/3ekJniZIwlux13AXz5ILzR) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [All Up To You](https://open.spotify.com/album/2PEpAb0cmbdF4TAtcHzvOp) | 3:08 | 2020-06-29 | 2020-07-24 |
 | [Alma Naranja](https://open.spotify.com/track/7GAcBHueR7lgv0KuqhlfyQ) | [Arletis](https://open.spotify.com/artist/1YBM8ESrjkE4hgpNUktUaK) | [Alma Naranja](https://open.spotify.com/album/0DFY3mgBLUM9vBAZLOiv4x) | 3:31 | 2020-01-16 | 2020-03-20 |
-| [alone](https://open.spotify.com/track/2PStUfFvW2nFnPj658cDWE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [alone](https://open.spotify.com/album/3vrTKTPeoHKgzuBRGXB660) | 2:07 | 2023-11-10 |  |
+| [alone](https://open.spotify.com/track/2PStUfFvW2nFnPj658cDWE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [alone](https://open.spotify.com/album/3vrTKTPeoHKgzuBRGXB660) | 2:07 | 2023-11-10 | 2024-04-13 |
 | [Alone In Kenzo](https://open.spotify.com/track/39QWEcx4aFKyx7mCQYD2Pv) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [Alone In Kenzo](https://open.spotify.com/album/74g3j5vCv02I7TBn8FLgt1) | 3:18 | 2021-04-20 | 2022-07-29 |
 | [Alone In Kenzo](https://open.spotify.com/track/6H5DZBYLOJ8pbmYy6JdTfq) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [When Flowers Bloom](https://open.spotify.com/album/1LjYyb9wGDzAwo1x8RVbUG) | 3:19 | 2022-07-22 | 2023-09-23 |
 | [Alone in the Rain](https://open.spotify.com/track/2YMyj1aubSqVoBSiHUQyJ6) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Alone in the Rain](https://open.spotify.com/album/1TJsbetoTKXoSt8Q5BwxCb) | 4:05 | 2020-03-27 | 2020-04-24 |
@@ -94,6 +94,7 @@
 | [Awake](https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:46 | 2022-07-22 | 2023-11-11 |
 | [Awake \(with Mahalia\)](https://open.spotify.com/track/16X7VHcGISwJ93ott9RHeC) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Awake](https://open.spotify.com/album/4ETTgOOvLI2Kc5Qc4kckhO) | 3:48 | 2021-04-22 | 2022-07-29 |
 | [AYER](https://open.spotify.com/track/3YtsRWd21iMqyCvislOyv0) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [AYER](https://open.spotify.com/album/7by6gTgjR9YAvz5UN3UubQ) | 3:55 | 2020-07-31 | 2020-12-01 |
+| [b i g f e e l i n g s](https://open.spotify.com/track/0Xfkeu82ju4uni0CH2z9XN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [b i g f e e l i n g s](https://open.spotify.com/album/2H6k8joKIeY5mLZVPyPVfu) | 4:24 | 2024-04-12 |  |
 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 | 2023-03-03 | 2023-06-25 |
 | [Baal on Drum Machine](https://open.spotify.com/track/6ZTqm80AtiWT1viOgyOi7x) | [Sepalot](https://open.spotify.com/artist/3sZWrl2jYnPP1vw9cIqDZV), [Angela Aux](https://open.spotify.com/artist/49amwW3An2eDASwY6tpuvV), [Matthias Lindermayr](https://open.spotify.com/artist/5bfKMWNpRfMCx9TOMYYUyz), [Fabian Füss](https://open.spotify.com/artist/7xunWxZLI0CMIUEsqg5EOb) | [NOWNEXT](https://open.spotify.com/album/0CoDUbx2anT0IkwUGNbsnS) | 4:53 | 2020-04-18 | 2020-05-22 |
 | [Babe Truth](https://open.spotify.com/track/6G8vNvIv840qUKTmu7GjfE) | [Gaby Duran](https://open.spotify.com/artist/3dnmyBxTYJ0ZYqsOVUlCYf) | [Triangles](https://open.spotify.com/album/2V16pgJxdmK1hwaJzdS63r) | 3:13 | 2020-04-10 | 2020-06-05 |

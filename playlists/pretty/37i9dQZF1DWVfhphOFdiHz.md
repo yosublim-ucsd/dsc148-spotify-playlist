@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops and LGBTQIA+ artists only\. Cover: Kehlani
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,779 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,802 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 75 | [Diamond Eyes](https://open.spotify.com/track/0MNVHfB2u3cVfT4L2vXR86) | [Gregory Dillon](https://open.spotify.com/artist/2Tn88QCFtNhPRnqzwYtrP1), [Strange Talk](https://open.spotify.com/artist/0trBqRcZ4lXqh8FERL5ZMa) | [Diamond Eyes](https://open.spotify.com/album/3YhBNq6O4MOE42HRkc8JXa) | 3:17 |
 | 76 | [Beach](https://open.spotify.com/track/591OojQCkyOLyMqmJRVyyc) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Risk](https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo) | 2:06 |
 | 77 | [It’s Later Than You Think](https://open.spotify.com/track/6qbsGHdwQli4tdMg0tUaip) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [It’s Later Than You Think](https://open.spotify.com/album/5lULCSkxgEOoV8HBFJEHHT) | 2:40 |
-| 78 | [Love Is A Place](https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Love Is A Place](https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE) | 3:05 |
+| 78 | [Love Is A Place](https://open.spotify.com/track/3G1ZLjtCjNC0qusZkWt5or) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Feel Good](https://open.spotify.com/album/0F74qX4d5E7Qq6vrTb9nrE) | 3:05 |
 | 79 | [Violence](https://open.spotify.com/track/5e2ydjRaOjau1Atnv9zZ3Z) | [FIGHTMASTER](https://open.spotify.com/artist/3ejIpQTvOb6XjUhX96RrMw) | [Violence](https://open.spotify.com/album/6sbuipZaNdrMC3egrQTIpE) | 4:51 |
 | 80 | [Elevation](https://open.spotify.com/track/6jgK2LT39KCezzBPUo45K2) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Elevation](https://open.spotify.com/album/6TEZ26b4VinBQTnkb2vuJ0) | 2:44 |
 | 81 | [Cherry](https://open.spotify.com/track/1jE2HLAyvvZuBrP8yJhopE) | [SPELLLING](https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh) | [Cherry / Under The Sun](https://open.spotify.com/album/4uw1DwCQSLtjaIkW3o858G) | 3:47 |

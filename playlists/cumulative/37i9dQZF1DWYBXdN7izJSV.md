@@ -4,7 +4,7 @@
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-109 songs - 6 hr 55 min
+111 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,9 +75,11 @@
 | [Officer Down](https://open.spotify.com/track/2hS1eS0RAg5b9VzRPSPK6J) | [Carolyn Mark](https://open.spotify.com/artist/5LEbX3AeiknZxV5zOIFhCH), [NQ Arbuckle](https://open.spotify.com/artist/0UXWUsqoGhYC4sCiEe7tEk) | [Let's Just Stay Here](https://open.spotify.com/album/610I6r165R7zGCI2rFlQc7) | 3:57 | 2020-10-13 |  |
 | [On the Streets](https://open.spotify.com/track/31KmmPSvUorrhCWDRysxUq) | [Rico Bell](https://open.spotify.com/artist/6LrIoFLMuU0yXD86WBmNe0) | [The Return of Rico Bell](https://open.spotify.com/album/6wz72pyGjk99MDs8AgTHzd) | 3:55 | 2020-10-13 | 2022-07-29 |
 | [On the Streets](https://open.spotify.com/track/7tUKfZVKojU3kaOkJIjEgf) | [Rico Bell](https://open.spotify.com/artist/6LrIoFLMuU0yXD86WBmNe0) | [Return of Rico Bell](https://open.spotify.com/album/4K9578TovhVb0BFKyLuFGa) | 3:55 | 2020-10-13 |  |
-| [Outfit](https://open.spotify.com/track/0jkCFkoSMYsElFZTbTb38r) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [Decoration Day](https://open.spotify.com/album/25wDEWipTG177BElptDzlD) | 4:06 | 2020-10-13 |  |
+| [Outfit](https://open.spotify.com/track/0jkCFkoSMYsElFZTbTb38r) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [Decoration Day](https://open.spotify.com/album/25wDEWipTG177BElptDzlD) | 4:06 | 2020-10-13 | 2024-04-13 |
+| [Outfit](https://open.spotify.com/track/2nes7xBxT8C2ol7lthypyF) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [Decoration Day](https://open.spotify.com/album/6OvqGbq7ehttNYfH5vjncw) | 4:06 | 2020-10-13 |  |
 | [Pass You By](https://open.spotify.com/track/3CMMEJHMYeW7AHorJm4MSW) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Revival](https://open.spotify.com/album/733rVkP3oBulDHJbiuRANa) | 3:57 | 2020-10-13 |  |
-| [Pinball Song](https://open.spotify.com/track/3X2stgfjH1I30FMLHzFWJI) | [Slobberbone](https://open.spotify.com/artist/5U1pEBuiFLycsQ4mYP3nmK) | [Everything You Thought Was Right Was Wrong Today](https://open.spotify.com/album/1Yj7OK3fnKoic98iMha6Bw) | 4:36 | 2020-10-13 |  |
+| [Pinball Song](https://open.spotify.com/track/3X2stgfjH1I30FMLHzFWJI) | [Slobberbone](https://open.spotify.com/artist/5U1pEBuiFLycsQ4mYP3nmK) | [Everything You Thought Was Right Was Wrong Today](https://open.spotify.com/album/1Yj7OK3fnKoic98iMha6Bw) | 4:36 | 2020-10-13 | 2024-04-13 |
+| [Pinball Song](https://open.spotify.com/track/7CHu6LTxpP2sGqp8RpLR21) | [Slobberbone](https://open.spotify.com/artist/5U1pEBuiFLycsQ4mYP3nmK) | [Everything You Thought Was Right Was Wrong Today](https://open.spotify.com/album/7zD9HvdRiTjrMLPRlYUhPm) | 4:36 | 2020-10-13 |  |
 | [Post to Wire](https://open.spotify.com/track/2vwOmgQGX1abLc6dDqyRry) | [Richmond Fontaine](https://open.spotify.com/artist/2zTCLiQ8OUIWEyV6eZWzFy) | [Post to Wire](https://open.spotify.com/album/1IQSQJop8pMbbWozvZsMbc) | 2:13 | 2020-10-13 |  |
 | [Question](https://open.spotify.com/track/2m5ItG3IIMsaGYJjZOvUoE) | [Old 97's](https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF) | [Satellite Rides](https://open.spotify.com/album/6SVjHaDr6gwCXUEvHoUhpA) | 2:15 | 2020-10-13 |  |
 | [Quiet Corners & Empty Spaces](https://open.spotify.com/track/7crEMhx5kDsaV7hHmL0gkE) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Paging Mr\. Proust](https://open.spotify.com/album/68Gfrh064D2bJfIAw2jdkn) | 3:06 | 2020-10-13 |  |

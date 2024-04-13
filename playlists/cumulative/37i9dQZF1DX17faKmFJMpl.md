@@ -4,7 +4,7 @@
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-230 songs - 15 hr 19 min
+231 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [P\-TYPE the Big Cat](https://open.spotify.com/track/2FflRL84EvaQcvPezVKpJV) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq) | [HEAVY BASS](https://open.spotify.com/album/2hu45G5eFtK74ZSAHk9u2i) | 3:07 | 2021-08-18 | 2022-07-29 |
 | [P\-TYPE the Big Cat](https://open.spotify.com/track/3jBWh7Cb5KcZyEpKGyYZ0z) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq) | [HEAVY BASS](https://open.spotify.com/album/1RFTWDsuEmw65S3OEOGvT3) | 3:07 | 2021-08-18 | 2023-09-03 |
 | [P\-TYPE the Big Cat](https://open.spotify.com/track/7vy8urTi3DY2845ApsXlHG) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq) | [Heavy Bass](https://open.spotify.com/album/3fSQ0q58tU7ENEzGC3MsuK) | 3:07 | 2023-08-10 | 2024-04-06 |
+| [P\-type The Big Cat](https://open.spotify.com/track/1XuvgpB0E6hPRAtMRpPvJV) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq) | [Heavy Bass](https://open.spotify.com/album/1rldQa9TqsL2CbRK26KbhT) | 3:07 | 2023-08-10 |  |
 | [Paris](https://open.spotify.com/track/2vmc2i91plnHgblNOaURTd) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Black Swan Songs](https://open.spotify.com/album/2voi9yJzbucvDooWNM2ro7) | 3:39 | 2021-08-18 | 2022-07-25 |
 | [Paris \(feat\. Jisun\)](https://open.spotify.com/track/1CjVSDqhTehDvMeKjSIWGm) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Jisun](https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0) | [Swan Songs](https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6) | 3:39 | 2021-08-18 |  |
 | [Pionnier Du Game \(feat\. Blaike\)](https://open.spotify.com/track/4zxYNNtEP3fh5r02qQdhYk) | [원썬](https://open.spotify.com/artist/7dy2Iukbsr1ds1cxHfSpP3), [Blaike](https://open.spotify.com/artist/3uXAOoSDY5MVKv5hWvJODH) | [Pionnier Du Game](https://open.spotify.com/album/6Z1jjp6Lr0UWGdjqWkRat8) | 3:38 | 2021-08-18 | 2023-04-20 |
@@ -160,7 +161,7 @@
 | [Watch Ya Self](https://open.spotify.com/track/7GA9RRaJrIvmT48a376CHo) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Digiri](https://open.spotify.com/artist/5AkXQoXgGrx1J1zkiyRATG), [yankie](https://open.spotify.com/artist/6a8KtGpAv3NHL713mcH08a), [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd) | [Map of the Human Soul](https://open.spotify.com/album/0HOb3ypZrAVbuGYLiMhC7z) | 4:30 | 2021-08-18 |  |
 | [We Ain't Fuck Ed Up](https://open.spotify.com/track/2uVxOp8PkpuVQYEcVTEb6h) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [but I 드려](https://open.spotify.com/album/6Njcrw6Eg86sM7cDdX7xGO) | 1:50 | 2021-08-18 | 2022-07-29 |
 | [What U Write 4 \(Feat\. P\-Type & The Illest I.L.L.S.\) \- 2021 Remaster](https://open.spotify.com/track/2tZ3CBO9HMzi6bVDUutpuN) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq), [The Illest I.L.L.S.](https://open.spotify.com/artist/5uWKonV7gPmynKub7povSG) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 2:52 | 2021-08-18 | 2023-06-23 |
-| [Windbag Three Brothers and Spinner Park](https://open.spotify.com/track/3oEmiVqBam9ivEPIVt63PQ) | [Ill Skillz](https://open.spotify.com/artist/76P0BTmaa59BFCNoOuAVfW) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 3:57 | 2021-08-18 |  |
+| [Windbag Three Brothers and Spinner Park](https://open.spotify.com/track/3oEmiVqBam9ivEPIVt63PQ) | [Ill Skillz](https://open.spotify.com/artist/76P0BTmaa59BFCNoOuAVfW) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 3:57 | 2021-08-18 | 2024-04-13 |
 | [You Don’t Know](https://open.spotify.com/track/2uXFpDJqHr1fgaHmYIoozA) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Thunderground](https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw) | 3:43 | 2021-08-18 |  |
 | [ZZamba Flex](https://open.spotify.com/track/6Y8WoNGBWaAeFh99Mpjqjm) | [ONESUN](https://open.spotify.com/artist/0TSzPywJYcEuKLFViJ4O4c) | [Do you know Hip\-Hop Episode 2](https://open.spotify.com/album/6g3DfZU0qEZ4pqRyWxrlEw) | 3:06 | 2023-08-10 | 2024-04-08 |
 | [ZZamba Flex](https://open.spotify.com/track/6zW5FlmgTohMaL7fwQuKmg) | [ONESUN](https://open.spotify.com/artist/0TSzPywJYcEuKLFViJ4O4c) | [Do you know Hip\-Hop \(Episode 2\)](https://open.spotify.com/album/6zQqsR9eN3LcJkVr4vpgkc) | 3:06 | 2021-08-18 | 2022-07-21 |

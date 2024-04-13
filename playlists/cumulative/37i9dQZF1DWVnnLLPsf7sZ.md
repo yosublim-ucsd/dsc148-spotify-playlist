@@ -4,11 +4,12 @@
 
 > The official playlist for We The People, streaming on Netflix July 4.
 
-16 songs - 48 min 17 sec
+17 songs - 51 min 40 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Change Is Gonna Come](https://open.spotify.com/track/0FEqhGaxp8Gq5m2KvnunJU) | [Los Coast](https://open.spotify.com/artist/22L3FsvrXWoLLEUApoNfpr), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [A Change Is Gonna Come](https://open.spotify.com/album/4fKOZdl2QP1TNTLbwhpXBp) | 3:23 | 2022-03-25 |  |
+| [A Change Is Gonna Come](https://open.spotify.com/track/0FEqhGaxp8Gq5m2KvnunJU) | [Los Coast](https://open.spotify.com/artist/22L3FsvrXWoLLEUApoNfpr), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [A Change Is Gonna Come](https://open.spotify.com/album/4fKOZdl2QP1TNTLbwhpXBp) | 3:23 | 2022-03-25 | 2024-04-13 |
+| [A Change Is Gonna Come](https://open.spotify.com/track/3Vb9DTDS2UcHb3T8kLKcDh) | [Los Coast](https://open.spotify.com/artist/22L3FsvrXWoLLEUApoNfpr), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [A Change Is Gonna Come](https://open.spotify.com/album/2zGecc53JxQEt94aPbokep) | 3:23 | 2022-03-25 |  |
 | [All Rise \- from the Netflix Series "We The People"](https://open.spotify.com/track/6jxhjZ9mAjnzRVVvSnDQqV) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [All Rise \(from the Netflix Series "We The People"\)](https://open.spotify.com/album/0AV5UsSXYsFwS6JvfTExXb) | 3:24 | 2022-03-25 |  |
 | [American Citizen \- from the Netflix Series "We The People"](https://open.spotify.com/track/0gUjMxaEMgzJXiYc9upAnv) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [American Citizen \(from the Netflix Series "We The People"\)](https://open.spotify.com/album/4AKMdBk5gsKWDtCCZsWXL1) | 3:33 | 2022-03-25 |  |
 | [Change \- from the Netflix Series "We The People"](https://open.spotify.com/track/6xVNLDRZtnQsKGKIbPxUi5) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Change \(from the Netflix Series "We The People"\)](https://open.spotify.com/album/5TJLb0uEmHxpKt20715yM9) | 3:08 | 2022-03-25 |  |

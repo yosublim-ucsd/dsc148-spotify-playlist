@@ -4,7 +4,7 @@
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-154 songs - 8 hr 23 min
+156 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 | 2022-04-01 |  |
 | [Aster & Goldenrod](https://open.spotify.com/track/0tfWVCen9NARGqo6KSkmW5) | [Pete Moss](https://open.spotify.com/artist/6YvISV7SjqD7n57pJTEfqX) | [Plants Rock](https://open.spotify.com/album/2qP0M5VHMVF6TC40tRckIg) | 3:29 | 2022-04-01 | 2023-04-09 |
 | [Beautiful Boy](https://open.spotify.com/track/5cUbs8a3T4f9xdTeBqrQCy) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Instant Karma: The Amnesty International Campaign To Save Darfur \[The Complete Recordings\] \(Audio Only\)](https://open.spotify.com/album/5A5XFtOnsqgw9QzghVq5Lf) | 3:48 | 2022-04-01 |  |
-| [Beautiful Dreamer](https://open.spotify.com/track/04hLjjWhpgE5ir5793nmOY) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Under the Pepper Tree](https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc) | 1:51 | 2022-04-01 |  |
+| [Beautiful Dreamer](https://open.spotify.com/track/04hLjjWhpgE5ir5793nmOY) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Under the Pepper Tree](https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc) | 1:51 | 2022-04-01 | 2024-04-13 |
+| [Beautiful Dreamer](https://open.spotify.com/track/2bhH3Wi4cyvRqBaYrPzFv7) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Under the Pepper Tree](https://open.spotify.com/album/1njAbpRr6XDXPpwJnNnFY1) | 1:51 | 2023-07-12 |  |
 | [Beautiful Thing](https://open.spotify.com/track/4P3LBZjsWULnAS08KebYfW) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Perfectly Imperfect](https://open.spotify.com/album/5K62EruZjeXbwE72zPppoU) | 3:44 | 2022-04-01 |  |
 | [Beauty and the Beast](https://open.spotify.com/track/7wMPhUSe6CZga1vOMpLTJP) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Beauty and the Beast \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3AhP76AusdcJ9sZ4XgUcEc) | 3:47 | 2022-04-01 |  |
 | [Better Together](https://open.spotify.com/track/0eJINAeruR2mYuz8CQN0bh) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po), [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Crayon Kids](https://open.spotify.com/album/68ytofYrtp1M86bkZsC01y) | 3:50 | 2022-04-01 |  |
@@ -86,7 +87,8 @@
 | [Keep You Safe](https://open.spotify.com/track/5jyQMejDNp34WKD9Td0dCb) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Keep You Safe](https://open.spotify.com/album/1xDahhr9ION98ilDGpFHSK) | 3:40 | 2022-04-01 |  |
 | [Kids](https://open.spotify.com/track/7ihuPps0hPWLHiEZwd2qzw) | [Renee & Jeremy](https://open.spotify.com/artist/7IBisryIBGbvj4wBDuRvy5), [Renee Stahl](https://open.spotify.com/artist/2WfQMdILaDJoPYCcWKKqpJ), [Jeremy Toback](https://open.spotify.com/artist/1aH1XTozXuGinGzdNWzyrt) | [Whole Lotta Love](https://open.spotify.com/album/1VbKUzv2wMxhQq1itmdHyR) | 3:23 | 2022-04-01 |  |
 | [Kindness Mantra](https://open.spotify.com/track/6BB7WGnYYH690VSE8EYxke) | [Kira Willey](https://open.spotify.com/artist/6GSLe8wDhKFqIPqsB1Ricg) | [Every Voice](https://open.spotify.com/album/6O2hzAFNinpSa2dlcx7DOz) | 2:49 | 2022-04-01 |  |
-| [La La Lu](https://open.spotify.com/track/7Gc86khLjIENRGdMrrxd1B) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Under the Pepper Tree](https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc) | 1:55 | 2022-04-01 |  |
+| [La La Lu](https://open.spotify.com/track/3D7htYHGMGk9fOCeCNTxVU) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Under the Pepper Tree](https://open.spotify.com/album/1njAbpRr6XDXPpwJnNnFY1) | 1:55 | 2023-07-12 |  |
+| [La La Lu](https://open.spotify.com/track/7Gc86khLjIENRGdMrrxd1B) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Under the Pepper Tree](https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc) | 1:55 | 2022-04-01 | 2024-04-13 |
 | [Lean on Me](https://open.spotify.com/track/4pNzltItfMTK9Al8qvU9yV) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Lean on Me](https://open.spotify.com/album/0lL9FCNib5gyfOThxvlcdy) | 3:23 | 2023-01-20 | 2023-04-09 |
 | [Lego House](https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lego House \- Single](https://open.spotify.com/album/66ea8tadxoqqcT2Ad5ynRR) | 3:31 | 2022-04-01 |  |
 | [Light Beams](https://open.spotify.com/track/1EJatOpG8yeTfMekpwOEDz) | [The Lucky Band](https://open.spotify.com/artist/4cYmyYabyJSvdIOsTweQMz), [Emily Herndon](https://open.spotify.com/artist/4sOej3nhE2WpwztNrD8zKT) | [Paseo Lunar](https://open.spotify.com/album/5PX2YJFNfAEBrgj8GfzaIs) | 3:40 | 2022-04-01 |  |

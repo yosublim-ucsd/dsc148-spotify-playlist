@@ -916,6 +916,24 @@
     {
       "album": {
         "name": "Dynamite (Holiday Remix)",
+        "url": "https://open.spotify.com/album/2JBcpvNYviZ9VYva3jRPsd"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213314,
+      "name": "Dynamite (Holiday Remix)",
+      "url": "https://open.spotify.com/track/71g5YNZv9ysuAZVPuxOmiC"
+    },
+    {
+      "album": {
+        "name": "Dynamite (Holiday Remix)",
         "url": "https://open.spotify.com/album/3HVNK5OxW9qfkySXjHWehH"
       },
       "artists": [
@@ -930,24 +948,6 @@
       "duration_ms": 213314,
       "name": "Dynamite - Holiday Remix",
       "url": "https://open.spotify.com/track/6SM3TJaWkmT8Iq8l9J0BIS"
-    },
-    {
-      "album": {
-        "name": "Dynamite (Holiday Remix)",
-        "url": "https://open.spotify.com/album/2JBcpvNYviZ9VYva3jRPsd"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "date_added": "2021-12-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 213314,
-      "name": "Dynamite - Holiday Remix",
-      "url": "https://open.spotify.com/track/71g5YNZv9ysuAZVPuxOmiC"
     },
     {
       "album": {

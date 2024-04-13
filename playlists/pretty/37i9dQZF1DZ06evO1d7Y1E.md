@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 
 ### [This Is Mc Poze do Rodo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1d7Y1E)
 
-> This is Mc Poze do Rodo\. The essential tracks, all in one playlist.
+> This is Mc Poze do Rodo\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,132 likes - 48 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,161 likes - 48 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 | 25 | [Metflix \- Remix](https://open.spotify.com/track/0o1FzBVTQhHBjwxaNko4Jh) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Me Espera](https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof) | 2:22 |
 | 26 | [CPX Ta Tega](https://open.spotify.com/track/2HrjORyFBF3IFnXOAC3Rox) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [CPX Ta Tega](https://open.spotify.com/album/5xMRRNucy1RGzuJwwJbCcG) | 2:22 |
 | 27 | [Pesadão](https://open.spotify.com/track/5X4PNc9g7KIQSRk4crioOO) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [O Sábio](https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W) | 3:49 |
-| 28 | [O Chamado](https://open.spotify.com/track/56xYjxmkJxnpBVQi6pLSiL) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [O Chamado](https://open.spotify.com/album/0GIsAsZO8aiEK5ZfqIzW08) | 3:26 |
-| 29 | [Sigo na Fé do Pai](https://open.spotify.com/track/4KxjRjzK24EQXbM4qoOz4X) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Bielzin](https://open.spotify.com/artist/2dBT3th6SJHwxWc5Hl3d9O) | [Sigo na Fé do Pai](https://open.spotify.com/album/7iC162RW3i4GYeyEcuFUUJ) | 4:24 |
+| 28 | [Sigo na Fé do Pai](https://open.spotify.com/track/4KxjRjzK24EQXbM4qoOz4X) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Bielzin](https://open.spotify.com/artist/2dBT3th6SJHwxWc5Hl3d9O) | [Sigo na Fé do Pai](https://open.spotify.com/album/7iC162RW3i4GYeyEcuFUUJ) | 4:24 |
+| 29 | [O Chamado](https://open.spotify.com/track/56xYjxmkJxnpBVQi6pLSiL) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [O Chamado](https://open.spotify.com/album/0GIsAsZO8aiEK5ZfqIzW08) | 3:26 |
 | 30 | [Me Dá Sua Mão](https://open.spotify.com/track/3by89k8zGClgmQgz9SbtKp) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Me Dá Sua Mão](https://open.spotify.com/album/2TPngKT3Xh3JMDpwcPrwqB) | 2:42 |
 | 31 | [Talvez](https://open.spotify.com/track/4LiVUPK4lUqO8yrRw9wOiu) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [DJ Nemo NTR](https://open.spotify.com/artist/7LioJE25SJYNLAFe1Opar0), [Dj Felipe Rosa](https://open.spotify.com/artist/02ESSPEzwYHnLH7SjiG8oj) | [O Sábio](https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W) | 2:44 |
 | 32 | [Hoje Tem Baile](https://open.spotify.com/track/2DFdNmpQumYmwmFrUpG6Yq) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [Um Toque de Malandragem](https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy) | 4:00 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 | 47 | [A Cara do Crime \- Remix](https://open.spotify.com/track/1gW5XDbjG3TFOcmjAirKNI) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [A Cara do Crime \(Remix\)](https://open.spotify.com/album/295jaj4kZbKaytU5cgbp7m) | 3:00 |
 | 48 | [Safadinha](https://open.spotify.com/track/1vuRoYIGP57PR4Vf5erTqP) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Safadinha](https://open.spotify.com/album/7qLJZYDUWFY4JhwSkhqazr) | 2:21 |
 
-Snapshot ID: `MTcxMjcwNzIwMCwwMDAwMDAwMDVhNjNiODExNDE0ZWE4ZGU2ZTAxZjcwODM2YjY3NDUw`
+Snapshot ID: `MTcxMjc5MzYwMCwwMDAwMDAwMGYyZmViMTViNzc1Nzc1ZjJkMjY2YzNmYWVlMmQ5NTg5`

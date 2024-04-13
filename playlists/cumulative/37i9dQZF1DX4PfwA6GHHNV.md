@@ -4,7 +4,7 @@
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-120 songs - 5 hr 56 min
+121 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Em Mim](https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm) | [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX) | [Em Mim](https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq) | 2:06 | 2023-09-15 | 2023-12-09 |
 | [em santa](https://open.spotify.com/track/5TGZX3PqtdyIXKMS3GapxW) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF), [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM) | [LAPA](https://open.spotify.com/album/3rXaAfgB3QKdNnX6s4hfrM) | 2:25 | 2023-09-15 | 2023-12-02 |
 | [Enquanto o tempo passa](https://open.spotify.com/track/7DtF6vbzhFwlxI4eDWsB06) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Enquanto o tempo passa](https://open.spotify.com/album/3Z25lZgzdpM0Zd1LE3g6u0) | 2:11 | 2023-11-10 | 2024-04-06 |
-| [Fala Comigo](https://open.spotify.com/track/5ZR2TRnxpq47Tp7a4FUHNi) | [Péco Oficial](https://open.spotify.com/artist/0ptHTBxVRPbo2qNsOaFRrx) | [Fala Comigo](https://open.spotify.com/album/7HdRWz0dgVDL4GPctATG1T) | 2:37 | 2024-04-05 |  |
+| [Fala Comigo](https://open.spotify.com/track/5ZR2TRnxpq47Tp7a4FUHNi) | [Péco Oficial](https://open.spotify.com/artist/0ptHTBxVRPbo2qNsOaFRrx) | [Fala Comigo](https://open.spotify.com/album/7HdRWz0dgVDL4GPctATG1T) | 2:37 | 2024-04-05 | 2024-04-13 |
 | [Fashion Week](https://open.spotify.com/track/6Li4EeGU4E8PnHo1smngJ7) | [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Luna](https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW), [OG BRITTO](https://open.spotify.com/artist/3sJkWvmIolNQZkWUrLRSJF), [BOMCOF](https://open.spotify.com/artist/1iB8lK914gppllMrraxRHM), [Didior](https://open.spotify.com/artist/5u61pkUucuOj2bBDuCDi3k) | [Fashion Week](https://open.spotify.com/album/5JbzrotdP0YmWUTAKq0bfs) | 3:14 | 2023-09-15 | 2023-10-28 |
 | [Faz Assim](https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Faz Assim](https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf) | 3:37 | 2023-09-15 | 2023-09-30 |
 | [Glacial](https://open.spotify.com/track/3Wkl0N6952UrqUaM3T5aym) | [Peralta](https://open.spotify.com/artist/4nMPynp0RHI6NYfiaoxsbX), [Dom Big](https://open.spotify.com/artist/73WTj9NUEBlyVuujt8cBkG) | [Glacial](https://open.spotify.com/album/2uGkwTWK8zgE2n0oUHTC7A) | 3:00 | 2023-12-01 | 2024-01-11 |
@@ -98,6 +98,7 @@
 | [Quando cê vem](https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Quando cê vem](https://open.spotify.com/album/3ujLo8nafDUnNuoAvROAuX) | 3:36 | 2023-10-20 |  |
 | [Quando Cê Volta?](https://open.spotify.com/track/0GUdb0yoQbiTA2aAMHQo4z) | [Rare G](https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH), [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY) | [Quando Cê Volta?](https://open.spotify.com/album/18AkwFaynQyWDnHXRy9IWu) | 2:05 | 2023-12-01 | 2024-01-13 |
 | [Quando Você Me Olha](https://open.spotify.com/track/6Z852WH6is9vPVdllAox6K) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj) | 3:33 | 2023-09-15 | 2023-11-04 |
+| [Quantas Histórias](https://open.spotify.com/track/2eycfzTUO7u0ZmZQWEvNB9) | [JOTTA R](https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Lima](https://open.spotify.com/artist/2FXb8tASMYr7GN6Xelcwkv) | [Quantas Histórias](https://open.spotify.com/album/4mIY62yYxx9DP6zkJMv28E) | 2:32 | 2024-04-12 |  |
 | [Que Calô](https://open.spotify.com/track/1WJgJsOJ5wXlZl1yn5yJaz) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [Que Calô](https://open.spotify.com/album/3b9DQpepHWNXyl21Zk3jUD) | 3:00 | 2023-12-01 | 2024-03-02 |
 | [Replay](https://open.spotify.com/track/0p91gGZkNb2i0n2QLtf5rB) | [Kota Manda](https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [Erick Lobato](https://open.spotify.com/artist/66k6ocJM9K8SKMDSQqlo64), [Vittau](https://open.spotify.com/artist/4fz3smvxYWXvGdLyFDOHv8), [TOCS](https://open.spotify.com/artist/5b7vII1orAZUTN9qR9NCtx) | [Replay](https://open.spotify.com/album/11of4rayZUkQv4wEy17NAt) | 3:37 | 2023-11-10 |  |
 | [Ressaca](https://open.spotify.com/track/6G5jevhPxuWf3bWiWosEzQ) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO) | [Ressaca](https://open.spotify.com/album/7n6OgUHqVmMddUERyTONlG) | 3:58 | 2023-09-15 | 2023-12-09 |

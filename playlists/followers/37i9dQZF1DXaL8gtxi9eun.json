@@ -1,7 +1,7 @@
 {
-  "2024-04-12": 113415,
+  "2024-04-13": 113444,
   "date_first_scraped": "2022-05-13",
-  "description": "Stay up to date with the freshest Arabic Pop Songs. Cover: Sherine",
+  "description": "Stay up to date with the freshest Arabic Pop Songs. Cover: Ramy Gamal",
   "name": "Fresh Arabic Pop",
   "tracks": [
     {
@@ -3652,6 +3652,24 @@
     },
     {
       "album": {
+        "name": "Wahshany",
+        "url": "https://open.spotify.com/album/2u1x9iR0q7dLwX4aEHaJ1N"
+      },
+      "artists": [
+        {
+          "name": "Khaled Selim",
+          "url": "https://open.spotify.com/artist/5J4acKeUuK5k6oZfx8e1rr"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249448,
+      "name": "Wahshany",
+      "url": "https://open.spotify.com/track/1kiqCDYCfNrvAP990he3GI"
+    },
+    {
+      "album": {
         "name": "WAJAHNI",
         "url": "https://open.spotify.com/album/0sx8JWJDbiT3oUuusuU5ZV"
       },
@@ -4669,6 +4687,42 @@
       "duration_ms": 279750,
       "name": "\u062d\u0643\u0627\u064a\u062a\u0646\u0627 \u0645\u0646\u0647\u064a\u0647",
       "url": "https://open.spotify.com/track/0JPcPUucXP7jweuhlZ95A6"
+    },
+    {
+      "album": {
+        "name": "\u062e\u0628\u0637 \u062e\u0628\u0637",
+        "url": "https://open.spotify.com/album/4C85aQZ62amt2opB2Ls8Ti"
+      },
+      "artists": [
+        {
+          "name": "Abd El Fattah Grini",
+          "url": "https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147791,
+      "name": "\u062e\u0628\u0637 \u062e\u0628\u0637",
+      "url": "https://open.spotify.com/track/4yECK82XOZ7UUi50TREPxC"
+    },
+    {
+      "album": {
+        "name": "\u062e\u0644\u064a\u0646\u064a \u0623\u0634\u0648\u0641\u0643",
+        "url": "https://open.spotify.com/album/3xjnY2ScY6agVQ0jBXIp7e"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192750,
+      "name": "\u062e\u0644\u064a\u0646\u064a \u0623\u0634\u0648\u0641\u0643",
+      "url": "https://open.spotify.com/track/5wFGQw4SWEtId68rnnE7An"
     },
     {
       "album": {

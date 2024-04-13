@@ -869,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Pendulum (Expanded Edition)",
+        "url": "https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160133,
+      "name": "Have You Ever Seen The Rain",
+      "url": "https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU"
+    },
+    {
+      "album": {
         "name": "Sex on the Beach (Ao Vivo)",
         "url": "https://open.spotify.com/album/5zdUlB5etflvZE2q0ZWuu5"
       },
@@ -964,6 +982,24 @@
       "duration_ms": 179263,
       "name": "Incondicional - Ao Vivo",
       "url": "https://open.spotify.com/track/0LLYWHqp4AgGnx4B2krt9x"
+    },
+    {
+      "album": {
+        "name": "Insensatez",
+        "url": "https://open.spotify.com/album/2XaJHxbfCTLl0FmWRgvnsT"
+      },
+      "artists": [
+        {
+          "name": "Paulo Ricardo",
+          "url": "https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275066,
+      "name": "Insensatez",
+      "url": "https://open.spotify.com/track/0eWjcSCH69BGN3UwLjqHXT"
     },
     {
       "album": {
@@ -1325,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "Novo Eu",
+        "url": "https://open.spotify.com/album/5HxKiS9SHZuKHNCZT3O4QY"
+      },
+      "artists": [
+        {
+          "name": "Ls Jack",
+          "url": "https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245338,
+      "name": "Novo Eu",
+      "url": "https://open.spotify.com/track/43Kflo9KhPF8PwdsVwAIZz"
+    },
+    {
+      "album": {
         "name": "Now And Then",
         "url": "https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk"
       },
@@ -1666,7 +1720,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 201583,
       "name": "Qualquer Lugar",
       "url": "https://open.spotify.com/track/0chOJa6EheSEbjy3miQn2A"
@@ -1706,7 +1760,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 286000,
       "name": "Que Haja Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/0QNtVyOxfVs8qUcTzB3nz8"
@@ -2290,7 +2344,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 241920,
       "name": "Tons De Blue - Faixa B\u00f4nus",
       "url": "https://open.spotify.com/track/0ZYkFogckBfd6142gFg3pV"

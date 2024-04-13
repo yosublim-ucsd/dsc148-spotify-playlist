@@ -734,7 +734,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 305160,
       "name": "Angel",
       "url": "https://open.spotify.com/track/4HhqdvbBk2YeGayKnBZxF6"
@@ -1764,7 +1764,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 204014,
       "name": "Cast Iron Skillet",
       "url": "https://open.spotify.com/track/30xTTsQlMrkhisyvxzEIpX"
@@ -1931,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "Cherry On Top",
+        "url": "https://open.spotify.com/album/5xnwFUWAv18LZOUhAKkpGm"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254407,
+      "name": "Cherry On Top",
+      "url": "https://open.spotify.com/track/235lO0qJ7TO9lpDorTvegE"
+    },
+    {
+      "album": {
         "name": "Church Street Blues",
         "url": "https://open.spotify.com/album/72mviqI8YSWDqwa3jREQoU"
       },
@@ -2075,6 +2093,24 @@
     },
     {
       "album": {
+        "name": "The Past Is Still Alive",
+        "url": "https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165977,
+      "name": "Colossus of Roads",
+      "url": "https://open.spotify.com/track/1M8vGpBjsqOVz9j2OWNbQJ"
+    },
+    {
+      "album": {
         "name": "Colossus of Roads / Snake Plant (The Past Is Still Alive)",
         "url": "https://open.spotify.com/album/7u69dlIPfJeuuMifREZkiP"
       },
@@ -2104,7 +2140,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 165977,
       "name": "Colossus of Roads",
       "url": "https://open.spotify.com/track/5GkAZaFVxglGUibNf2G6bh"
@@ -2564,6 +2600,24 @@
     {
       "album": {
         "name": "Devil In Disguise",
+        "url": "https://open.spotify.com/album/3fVJWii1fQokWmOe7qsy1U"
+      },
+      "artists": [
+        {
+          "name": "Town Mountain",
+          "url": "https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197610,
+      "name": "Devil In Disguise",
+      "url": "https://open.spotify.com/track/3dsX0cXfRFOnhKO7uSMBeM"
+    },
+    {
+      "album": {
+        "name": "Devil In Disguise",
         "url": "https://open.spotify.com/album/7l5LHAiohHjQq602sGXbmF"
       },
       "artists": [
@@ -2574,7 +2628,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 197610,
       "name": "Devil In Disguise",
       "url": "https://open.spotify.com/track/4tTxMLnr9eZmSz6ljylmMz"
@@ -2995,6 +3049,28 @@
     },
     {
       "album": {
+        "name": "The Chicago Sessions",
+        "url": "https://open.spotify.com/album/43n3JA5Xt9rnxgq3yQ7i6o"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        },
+        {
+          "name": "Jeff Tweedy",
+          "url": "https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225026,
+      "name": "Everything At Once (feat. Jeff Tweedy)",
+      "url": "https://open.spotify.com/track/1uFxDct07CM36KdhQYjWEh"
+    },
+    {
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/65O5v9lS0MPGkEEO2EPqya"
       },
@@ -3010,7 +3086,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 225026,
       "name": "Everything At Once (feat. Jeff Tweedy)",
       "url": "https://open.spotify.com/track/5Ge9rfVubgN6gDv6yBz7An"
@@ -3273,6 +3349,24 @@
     },
     {
       "album": {
+        "name": "Denim & Diamonds",
+        "url": "https://open.spotify.com/album/6RqohXVE3YRsRbaS9sm5G2"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187867,
+      "name": "First High",
+      "url": "https://open.spotify.com/track/1zDomzzT6h0Sa2BAzMxvma"
+    },
+    {
+      "album": {
         "name": "First High",
         "url": "https://open.spotify.com/album/0YseQ6nyHkM8ZZjqbnNChs"
       },
@@ -3284,7 +3378,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 187867,
       "name": "First High",
       "url": "https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ"
@@ -4060,7 +4154,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 184575,
       "name": "Hard Luck & Circumstances",
       "url": "https://open.spotify.com/track/28ejnV7iWD3bIgBXwcTy5k"
@@ -4258,10 +4352,28 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 222341,
       "name": "Hawkmoon",
       "url": "https://open.spotify.com/track/4LbT4vgs0uYQHT3NZn9GD1"
+    },
+    {
+      "album": {
+        "name": "The Past Is Still Alive",
+        "url": "https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222341,
+      "name": "Hawkmoon",
+      "url": "https://open.spotify.com/track/5KwvjABtVbrDGBamRoyos2"
     },
     {
       "album": {
@@ -6222,7 +6334,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 196826,
       "name": "Love Of A Girl",
       "url": "https://open.spotify.com/track/412lrhEHRGzaKKvKu49GDM"
@@ -7035,6 +7147,24 @@
     },
     {
       "album": {
+        "name": "Anarchist Gospel",
+        "url": "https://open.spotify.com/album/6Lj7fDEEx68OYdAZ41hlK6"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159493,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/0oVHtrFYwu4qMnwRRBsXum"
+    },
+    {
+      "album": {
         "name": "No Reason",
         "url": "https://open.spotify.com/album/01ViTwi8Uah9hrZ2dur0N3"
       },
@@ -7046,7 +7176,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 159493,
       "name": "No Reason",
       "url": "https://open.spotify.com/track/37jwU53srb7CnhdoUPjTEY"
@@ -11721,6 +11851,24 @@
     },
     {
       "album": {
+        "name": "Wandering",
+        "url": "https://open.spotify.com/album/6OWfvkLDLekKnwUsO2VUQq"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186464,
+      "name": "Worry 'Bout My Wandering",
+      "url": "https://open.spotify.com/track/2UZ5QAynCXV3f2aja4bgpG"
+    },
+    {
+      "album": {
         "name": "Worry No More",
         "url": "https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL"
       },
@@ -11762,6 +11910,24 @@
       "duration_ms": 194602,
       "name": "Wouldn't Know You",
       "url": "https://open.spotify.com/track/1qSjMi8VqbytnNdEkYs6PL"
+    },
+    {
+      "album": {
+        "name": "Yearnin\u2019 For You",
+        "url": "https://open.spotify.com/album/0l689IAwF2gVXd6Z5jmoz0"
+      },
+      "artists": [
+        {
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215280,
+      "name": "Yearnin\u2019 For You",
+      "url": "https://open.spotify.com/track/3bBWNi61k8Re8QQ01LtcIC"
     },
     {
       "album": {
@@ -12064,6 +12230,24 @@
     {
       "album": {
         "name": "The Chicago Sessions",
+        "url": "https://open.spotify.com/album/43n3JA5Xt9rnxgq3yQ7i6o"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243346,
+      "name": "You\u2019re Supposed To Be Feeling Good",
+      "url": "https://open.spotify.com/track/60SoS3AZ7TMWU8Vy5hkYdX"
+    },
+    {
+      "album": {
+        "name": "The Chicago Sessions",
         "url": "https://open.spotify.com/album/086MDizNpGXTNuTkgUfCUw"
       },
       "artists": [
@@ -12074,7 +12258,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 243346,
       "name": "You\u2019re Supposed To Be Feeling Good",
       "url": "https://open.spotify.com/track/7tGDX6lu2AFgBxufLBV6zu"

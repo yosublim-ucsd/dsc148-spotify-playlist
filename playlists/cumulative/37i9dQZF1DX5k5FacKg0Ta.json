@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "Arctic Stomp",
+        "url": "https://open.spotify.com/album/4Hs28PvCsKmIjFdnjrteZq"
+      },
+      "artists": [
+        {
+          "name": "Dalind\u00e9o",
+          "url": "https://open.spotify.com/artist/7wL8J7vW907NA5aRTAJmbp"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Arctic Stomp",
+      "url": "https://open.spotify.com/track/26hKuSv7LozuwFFInEc0wZ"
+    },
+    {
+      "album": {
         "name": "Direction Zero",
         "url": "https://open.spotify.com/album/4Q83wSUAGVKmkX5Jvy7Zrn"
       },
@@ -372,7 +390,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 404265,
       "name": "Avanto",
       "url": "https://open.spotify.com/track/5LyLPzWnFNxv42Hwi3ARph"
@@ -1185,6 +1203,28 @@
     },
     {
       "album": {
+        "name": "Enlightened, Finally",
+        "url": "https://open.spotify.com/album/67nOXwf8wE2vDjeIRvs3EY"
+      },
+      "artists": [
+        {
+          "name": "Grand Discovery",
+          "url": "https://open.spotify.com/artist/6M79SZ509xyT6yq3VxpqU8"
+        },
+        {
+          "name": "Andre Nieri",
+          "url": "https://open.spotify.com/artist/2j28cgMngLmslvv67WfINv"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Enlightened, Finally",
+      "url": "https://open.spotify.com/track/7kKK3nrkQHOdY0faxyjeVq"
+    },
+    {
+      "album": {
         "name": "Equilibrium",
         "url": "https://open.spotify.com/album/0Q0Swg25g1QDGqRhvikXNl"
       },
@@ -1518,6 +1558,24 @@
       "duration_ms": 903640,
       "name": "Immediate Music III, Pt. 1",
       "url": "https://open.spotify.com/track/3Colc6EQG6wIDpCxUlXmZY"
+    },
+    {
+      "album": {
+        "name": "In A Pickle",
+        "url": "https://open.spotify.com/album/1H0ot3RA2pAtN6VyDHpyxO"
+      },
+      "artists": [
+        {
+          "name": "Baba Ganoush Orkestra",
+          "url": "https://open.spotify.com/artist/7eWAHn8KdJO4tNckYlkYUV"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "In A Pickle",
+      "url": "https://open.spotify.com/track/73G2MhHSkDCleACVmxwVTP"
     },
     {
       "album": {
@@ -2936,7 +2994,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 171253,
       "name": "Pilkun paikka",
       "url": "https://open.spotify.com/track/0rlKeYldBS2IqO3oulrcdK"
@@ -3010,6 +3068,32 @@
       "duration_ms": 267735,
       "name": "Pious Monk",
       "url": "https://open.spotify.com/track/3Hgl3ED7hqHxgJMMSvPxXl"
+    },
+    {
+      "album": {
+        "name": "Plastic Ocean / Lovesong",
+        "url": "https://open.spotify.com/album/3WAJzemVhsl5NnzIpFYXoU"
+      },
+      "artists": [
+        {
+          "name": "Arto Ik\u00e4valko",
+          "url": "https://open.spotify.com/artist/6fbXrjG4gnY40gjD0LQWgs"
+        },
+        {
+          "name": "Joonas Tuuri",
+          "url": "https://open.spotify.com/artist/39FhDhKtjqPOVn531rYne6"
+        },
+        {
+          "name": "Ville Luukkonen",
+          "url": "https://open.spotify.com/artist/6Y6nK6vtcrXfsEIZhPV1fK"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 533466,
+      "name": "Plastic Ocean / Lovesong",
+      "url": "https://open.spotify.com/track/4lz8JE6N7SitHvG0vXIqmC"
     },
     {
       "album": {
@@ -3120,7 +3204,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 344973,
       "name": "Quarantine Hotel",
       "url": "https://open.spotify.com/track/52zmgBTqsl1riy73iSrGag"
@@ -4014,10 +4098,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 186543,
       "name": "Time's Up",
       "url": "https://open.spotify.com/track/4bgK6O1AkJFTzYHntUnidF"
+    },
+    {
+      "album": {
+        "name": "To Be Loved",
+        "url": "https://open.spotify.com/album/3AmLJqLwwXzkwvVJjd4TfO"
+      },
+      "artists": [
+        {
+          "name": "Julius Or\u00e9nthur",
+          "url": "https://open.spotify.com/artist/06KhF1ucModUP3mcRkAWci"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187161,
+      "name": "To Be Loved",
+      "url": "https://open.spotify.com/track/0C6l8XuDbJadxu9FECXv4p"
     },
     {
       "album": {
@@ -4160,7 +4262,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 288219,
       "name": "Trial by Fire",
       "url": "https://open.spotify.com/track/37aSF6UCYfvPEXdCjHLvKY"
@@ -4534,6 +4636,24 @@
       "duration_ms": 584616,
       "name": "When Leaving It",
       "url": "https://open.spotify.com/track/0br6wYAgcRZZ09gpWAVo2k"
+    },
+    {
+      "album": {
+        "name": "White Like Silver",
+        "url": "https://open.spotify.com/album/3oA7cNMzhEN2F7IulySDEk"
+      },
+      "artists": [
+        {
+          "name": "Jonathan B\u00e4ckstr\u00f6m Quartet",
+          "url": "https://open.spotify.com/artist/1XPcTlu2DmKymNr2MlvbAo"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198608,
+      "name": "White Like Silver",
+      "url": "https://open.spotify.com/track/19Sa10xb4KHFCBGhH7qziq"
     },
     {
       "album": {

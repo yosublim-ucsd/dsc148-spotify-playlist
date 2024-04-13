@@ -4,7 +4,7 @@
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB?si=23DKVGDdQx2UwAtMSwcAWA">Prime Circle</a>
 
-463 songs - 1 day 3 hr 42 min
+464 songs - 1 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Good Life](https://open.spotify.com/track/4nZNhweRT6VJWd0XYeEzBQ) | [The Finkelstiens](https://open.spotify.com/artist/34ileyID0hIkQBkMpwwfCj) | [The Finkelstiens vs Rock n Roll](https://open.spotify.com/album/5rCcsjOvyWzENs0VB3Z24B) | 3:07 | 2024-01-04 | 2024-03-30 |
 | [Good Little Girl](https://open.spotify.com/track/4EZKWCPXpE1Oj8vI1U845y) | [Saturn Return](https://open.spotify.com/artist/6pv2CpHVYGzPjEtSggRQmt) | [Good Little Girl](https://open.spotify.com/album/2A2SF1ydODURrgfp9hOp8A) | 3:25 | 2023-05-05 | 2023-07-29 |
 | [Good Time](https://open.spotify.com/track/13bC2RZHqYhWOdUiMAH4O1) | [Filthy Hippies](https://open.spotify.com/artist/69KIxpkIadv1nMT3h6G8bC) | [Good Time](https://open.spotify.com/album/4m93HqALWDte1O3e6uIvm6) | 4:52 | 2023-08-11 | 2023-09-29 |
-| [Goodbye](https://open.spotify.com/track/3Dd9vV4lQ6TmHrlnRY1kau) | [Toughguy](https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK) | [Goodbye](https://open.spotify.com/album/1tFi3RKIVQU9ZQVHXF4POS) | 3:58 | 2023-12-14 |  |
+| [Goodbye](https://open.spotify.com/track/3Dd9vV4lQ6TmHrlnRY1kau) | [Toughguy](https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK) | [Goodbye](https://open.spotify.com/album/1tFi3RKIVQU9ZQVHXF4POS) | 3:58 | 2023-12-14 | 2024-04-13 |
 | [Goodbye](https://open.spotify.com/track/7CcnVBrlWIS8LSyxFWAaMN) | [Toughguy](https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK) | [Goodbye](https://open.spotify.com/album/3pKC1FFpmpRPhu1qsD0MH9) | 3:58 | 2023-12-14 | 2023-12-16 |
 | [Goue Lokke](https://open.spotify.com/track/1cgeBbPkPmJNMzvwg6nCQL) | [Skelm](https://open.spotify.com/artist/0lWcirgozFoMaWPo9jZXHD) | [Vreemd](https://open.spotify.com/album/3QhqEsWuvMdvBEcVXWb5UM) | 3:42 | 2023-07-06 | 2023-11-25 |
 | [Greetings from The Room](https://open.spotify.com/track/4AOimaZwuTMPO6PFYCZ0VE) | [Drumfish](https://open.spotify.com/artist/2K1niaGIMquSzoja4NOr9s) | [Eating Dirt](https://open.spotify.com/album/43wjvldlI53z3hfRxRX4rO) | 3:16 | 2023-06-01 | 2023-07-07 |
@@ -314,6 +314,7 @@
 | [Parasite](https://open.spotify.com/track/30QoZ68McWKW7jNcznqYAc) | [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [Parasite](https://open.spotify.com/album/03kcrEFLCsPQ5pnev44X5S) | 2:42 | 2022-03-18 | 2022-08-05 |
 | [Partners in Crime](https://open.spotify.com/track/0nwyYEJoZAhx1lkj0C95Qs) | [Marene](https://open.spotify.com/artist/5CMKKbyPMl9Ry6Kl1m8u1I) | [Partners in Crime](https://open.spotify.com/album/1qjw3P90aCqZ4jGJIWNn7D) | 3:39 | 2023-04-27 | 2023-07-29 |
 | [Patience](https://open.spotify.com/track/4WhPLGHy7mVIFDx3saaYvf) | [We Kill Cowboys](https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k) | [Patience](https://open.spotify.com/album/7aLOnvf1S2TJ3Zr9R0QWeN) | 5:33 | 2024-02-22 |  |
+| [Penny Sleeps](https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Penny Sleeps](https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU) | 2:54 | 2024-04-12 |  |
 | [Picture Perfect](https://open.spotify.com/track/2RZlgvQasR4X3gglKV4vuP) | [Perez](https://open.spotify.com/artist/4G30SsYmThGzZPCCyDN1bH) | [Picture Perfect](https://open.spotify.com/album/60Hh4NmsMVF1BriCanVolb) | 4:05 | 2024-01-04 |  |
 | [Pink Codeine](https://open.spotify.com/track/2nSfDIYnU3euVZN81xLjJp) | [We Kill Cowboys](https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k) | [Pink Codeine](https://open.spotify.com/album/1mT061XTU1JRimRQap8hQe) | 3:29 | 2023-06-01 | 2023-09-01 |
 | [PITY PARTY](https://open.spotify.com/track/275HPZ0ZqO7aVvP0oNqO5b) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Brogan the band](https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc) | [PITY PARTY](https://open.spotify.com/album/44aRUzG8io87BE9XUIhYy8) | 2:27 | 2022-09-22 | 2023-01-27 |

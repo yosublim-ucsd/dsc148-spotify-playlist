@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-516 songs - 1 day 5 hr 5 min
+517 songs - 1 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,7 +400,7 @@
 | [SNS](https://open.spotify.com/track/659h8UJZlAQfjWjvjRCK4o) | [Tsundere Alley](https://open.spotify.com/artist/00FQDX3bcsSTPlkBckHyQe), [yuca](https://open.spotify.com/artist/1Hf7jXPRJoFHjM0TzqsQLU) | [SNS](https://open.spotify.com/album/5nJAbrmr56TiKywzRIUT8L) | 2:39 | 2022-04-12 | 2022-04-18 |
 | [So Long](https://open.spotify.com/track/0Kk6MRJzcS1qSx4vheKAXO) | [Shiruetto](https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk) | [So Long](https://open.spotify.com/album/3KKWyN5Wvq5sLQrrW2oYGg) | 4:01 | 2022-01-25 | 2022-05-09 |
 | [So Shine](https://open.spotify.com/track/3JSpcP0lrONHMgJ10gDLA3) | [yuugen](https://open.spotify.com/artist/6mDNmNWQKIKUWljumIkr9J), [Cabro Artico](https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e) | [So Shine](https://open.spotify.com/album/7muNCcZrCbKG6454ocvqnR) | 4:45 | 2022-11-04 | 2023-06-04 |
-| [So Shine](https://open.spotify.com/track/1Zk5sQZtwvmfCdVRe5NNVx) | [yuugen](https://open.spotify.com/artist/6mDNmNWQKIKUWljumIkr9J), [Cabro Artico](https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e) | [So Shine](https://open.spotify.com/album/08IS1InlosyXzpDpnsqv1s) | 4:45 | 2022-11-04 |  |
+| [So Shine](https://open.spotify.com/track/1Zk5sQZtwvmfCdVRe5NNVx) | [yuugen](https://open.spotify.com/artist/6mDNmNWQKIKUWljumIkr9J), [Cabro Artico](https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e) | [So Shine](https://open.spotify.com/album/08IS1InlosyXzpDpnsqv1s) | 4:45 | 2022-11-04 | 2024-04-13 |
 | [So Sunny](https://open.spotify.com/track/16agwz0BRxMWoQIUHoZOcc) | [SUPERCAT64 ビンクス猫](https://open.spotify.com/artist/5dPQ7iBuveTqtdEM8wUQSQ) | [The Poolside EP](https://open.spotify.com/album/3J9HEss1HH6TdCY4jrf5IC) | 2:48 | 2023-07-18 |  |
 | [Sold Out](https://open.spotify.com/track/6mltbH5UE4wXSJOabNRFcq) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Sold Out](https://open.spotify.com/album/1GWLUXZ0LoKqm3HbUvcSp8) | 4:05 | 2022-07-15 | 2022-08-25 |
 | [Something About You](https://open.spotify.com/track/4b83hkEnciD20byP3zcKYw) | [Amherst](https://open.spotify.com/artist/0OF3elZ9nfycVA9b2IQBAU) | [Heat.wav](https://open.spotify.com/album/7jUDLIdMGhM0Z7Lf90ssgc) | 4:00 | 2022-04-12 | 2022-04-20 |
@@ -447,6 +447,7 @@
 | [THANK YOU](https://open.spotify.com/track/5xkt8vnh8OBCrnzeL9dxGs) | [Ajotabeats](https://open.spotify.com/artist/4DnUC3By63oj4pjO4EosP6) | [THANK YOU](https://open.spotify.com/album/1nEOQ7qyR62hlyJqtRkUa8) | 2:20 | 2021-12-08 | 2022-06-15 |
 | [That Perfect Girl](https://open.spotify.com/track/5ZQP514rYU2xvwgfjDglLo) | [Aexion](https://open.spotify.com/artist/2HFza51jWgaXRlxCIdkGNb) | [Retorika Estetika](https://open.spotify.com/album/0EYBYI5AUsl9jEXTXtyexy) | 3:14 | 2022-06-08 | 2022-07-16 |
 | [The Beach Episode](https://open.spotify.com/track/3RndwYA9WJBU66zcqbO0nn) | [GHOST DATA](https://open.spotify.com/artist/042mLfOBpH8OoX8A6sUYhf) | [The Beach Episode](https://open.spotify.com/album/3BdhPzfJtbh21UgnEyFZd9) | 4:01 | 2022-11-04 | 2024-03-29 |
+| [The Beach Episode](https://open.spotify.com/track/3gvgYy4WXuM9nqYNidUoot) | [GHOST DATA](https://open.spotify.com/artist/042mLfOBpH8OoX8A6sUYhf) | [The Beach Episode](https://open.spotify.com/album/7AnRU4HfXueRmQLztGbPDA) | 4:01 | 2023-07-18 |  |
 | [The one who stole my heart \- Instrumental](https://open.spotify.com/track/3h6u6KXMOWa67CrbuoTFW4) | [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [The one who stole my heart](https://open.spotify.com/album/79vAjzBltktPf7Xw1o3Ort) | 3:19 | 2022-04-12 | 2022-06-18 |
 | [The Only One](https://open.spotify.com/track/0PaxDutmFOW1LBg3dcskVK) | [FIBRE](https://open.spotify.com/artist/4TTEh9cj0iUXFJFBHsysF4), [Discandy](https://open.spotify.com/artist/2mvIDwMy5nYQDkFraO4CYk) | [The Only One / Don't Stop Me](https://open.spotify.com/album/75uUCyYbznFfTUbVKrUZ95) | 2:48 | 2021-12-08 | 2022-07-29 |
 | [The Sweet Escape](https://open.spotify.com/track/651TAvWNdsKGuRY2fUyE3S) | [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [Star Virgin](https://open.spotify.com/album/1wcYp8NWGcqlgtffBRLMc7) | 3:57 | 2022-01-25 | 2022-06-04 |

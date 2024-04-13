@@ -929,6 +929,24 @@
     },
     {
       "album": {
+        "name": "Del Fuego, Pt. 1",
+        "url": "https://open.spotify.com/album/4ebMIRHSSYt3KLLRb14fjV"
+      },
+      "artists": [
+        {
+          "name": "La Mare",
+          "url": "https://open.spotify.com/artist/1Gfli7cnJl5WUShQAG6oja"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201428,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5sAZO2RSyywOcDXO2y8d9G"
+    },
+    {
+      "album": {
         "name": "Azul de mar",
         "url": "https://open.spotify.com/album/5pz13mxTE5VVuQxKx4dXMA"
       },
@@ -2020,7 +2038,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 241300,
       "name": "Como la Primavera",
       "url": "https://open.spotify.com/track/5C2VTZ3VN8xE04UViMEavj"
@@ -3222,7 +3240,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "El Estallido",
       "url": "https://open.spotify.com/track/0x1gvDz9CUoVHS8uoC3uxB"
@@ -3796,7 +3814,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 175412,
       "name": "Ficci\u00f3n",
       "url": "https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj"
@@ -4848,7 +4866,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 146840,
       "name": "La Llibertat",
       "url": "https://open.spotify.com/track/0X8A3PlgJcPdoNDhz1tmXD"
@@ -5374,7 +5392,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 115029,
       "name": "Las Plantas Crecen",
       "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
@@ -7274,7 +7292,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 221712,
       "name": "Oye mi Voz",
       "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
@@ -9028,7 +9046,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 197589,
       "name": "Ser + Peque",
       "url": "https://open.spotify.com/track/4Ha0IH9PM7QpD7PQC1Ic1E"

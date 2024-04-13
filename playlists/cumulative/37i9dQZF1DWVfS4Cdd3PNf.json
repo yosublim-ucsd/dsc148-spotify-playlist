@@ -571,6 +571,40 @@
     },
     {
       "album": {
+        "name": "Bizet: Carmen, Act I: Seguidilla. Pr\u00e8s des remparts de S\u00e9ville",
+        "url": "https://open.spotify.com/album/6DcwolNIYVVgb6tmr7bmEe"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Aigul Akhmetshina",
+          "url": "https://open.spotify.com/artist/2nfUnDcJXHrws13Icxz0JV"
+        },
+        {
+          "name": "Freddie De Tommaso",
+          "url": "https://open.spotify.com/artist/4leT3QmSGt6qmfuwvrIB2o"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Daniele Rustioni",
+          "url": "https://open.spotify.com/artist/5oCfVInP56jnhdjx4bVYSQ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267640,
+      "name": "Carmen, Act I: Seguidilla. Pr\u00e8s des remparts de S\u00e9ville",
+      "url": "https://open.spotify.com/track/7nQpZAnslA8gZl95C93nkE"
+    },
+    {
+      "album": {
         "name": "Callas sings Operatic Arias - Callas Remastered",
         "url": "https://open.spotify.com/album/61qFgU0TmLa6C7t1W4StIB"
       },

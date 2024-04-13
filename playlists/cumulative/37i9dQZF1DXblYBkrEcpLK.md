@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: 花澤香菜
 
-624 songs - 1 day 17 hr 50 min
+625 songs - 1 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,7 +437,7 @@
 | [シュワワ！](https://open.spotify.com/track/7HxdpnKnRzwF2yrul6ImwI) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [シュワワ！](https://open.spotify.com/album/2Vuig2PLLt74S87vgk1e8W) | 3:42 | 2023-08-15 | 2023-09-06 |
 | [シュークリーム・ファンク](https://open.spotify.com/track/275ULfjS2XcfhP7u4XXyft) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [シュークリーム・ファンク](https://open.spotify.com/album/7CyrqVpM8tZFbhOJyHuI2o) | 3:35 | 2023-04-11 | 2023-06-14 |
 | [シンパシー](https://open.spotify.com/track/4YYrqU4gvSMIk58wT7IhIa) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [ヒカレイノチ](https://open.spotify.com/album/2lYrrG6Xcnq6aOrb1mtLEO) | 3:30 | 2022-06-09 | 2022-07-29 |
-| [スイートサイン](https://open.spotify.com/track/3PSgLRh1Wrk5fqxRDYfnDW) | [岬 なこ](https://open.spotify.com/artist/3b4KP5O2za8H98IxieMJfh) | [スイートサイン](https://open.spotify.com/album/4AEN1kQph1d95G97SKEutw) | 3:25 | 2024-02-13 |  |
+| [スイートサイン](https://open.spotify.com/track/3PSgLRh1Wrk5fqxRDYfnDW) | [岬 なこ](https://open.spotify.com/artist/3b4KP5O2za8H98IxieMJfh) | [スイートサイン](https://open.spotify.com/album/4AEN1kQph1d95G97SKEutw) | 3:25 | 2024-02-13 | 2024-04-13 |
 | [スクラップ&ビルド](https://open.spotify.com/track/2fGDZG4NlGUzYMz4mnPEcH) | [ELAIZA](https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka) | [スクラップ&ビルド](https://open.spotify.com/album/2Jp1AwgVfh7MFdGJGkShry) | 3:45 | 2023-10-17 | 2023-11-02 |
 | [スクラップアート](https://open.spotify.com/track/1cza4rtohdOAOZNtDQWCYO) | [Inori Minase](https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11) | [スクラップアート](https://open.spotify.com/album/4FeGPKB2ofgaHrUHI7CDyV) | 3:33 | 2023-09-05 | 2023-11-02 |
 | [スターリア](https://open.spotify.com/track/2QlpNoq4QmRwZvDEnD4J5M) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [AIMI SOUND](https://open.spotify.com/album/4aUsTPDouQEWVY6SDkTeCY) | 5:03 | 2022-06-24 | 2022-07-28 |
@@ -475,6 +475,7 @@
 | [ピーマン体操](https://open.spotify.com/track/1l1vWK6quArlImdGz5ROF1) | [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q) | [TVアニメ「【推しの子】」キャラクターソングCD \(Vol.3\)](https://open.spotify.com/album/67zSBhEfFjdI0xRa8hR3ew) | 3:41 | 2023-07-04 | 2023-07-06 |
 | [プリキュア5、スマイル go go!](https://open.spotify.com/track/0ahHs7XjW6piqhTYHzSszk) | [Yumi Kudo](https://open.spotify.com/artist/5BrmaO8LJhSfz1HNYQg0Le) | [Yes!プリキュア5 オープニング&エンディングテーマ プリキュア5、スマイル go go! / キラキラしちゃって My True Love!](https://open.spotify.com/album/0Rfwpd6mpxLyrtY6ZPGda5) | 3:56 | 2023-02-07 | 2023-03-08 |
 | [ファイナルイルミネーション](https://open.spotify.com/track/6XkDGw7J1fUxQyKW1pgwh5) | [林 鼓子](https://open.spotify.com/artist/48FlBTybQEyJfkXYrfMzhR), [久保田未夢](https://open.spotify.com/artist/0ykN2PFFtkO76Y0tngyeuD), [厚木那奈美](https://open.spotify.com/artist/79ijkR9hKpwUOnTMxtFkFP), [山下七海](https://open.spotify.com/artist/5TVOIVInTUsSZRvfUgJTdL) | [キラッとプリ☆チャン♪ミュージックコレクション \(Season.3\)](https://open.spotify.com/album/1ahQmVOLhIBfFYtUatA2iC) | 3:30 | 2022-07-19 | 2022-07-24 |
+| [ブルースター](https://open.spotify.com/track/63Inh89k5OmQRLaQlMdDgw) | [Sayaka Yamamoto](https://open.spotify.com/artist/0MkmM5Vy3gj9QX1JHiYCiK) | [ブルースター](https://open.spotify.com/album/7dm61RWHQFUhP1Lyqv8Bul) | 3:54 | 2024-03-26 |  |
 | [ブルーバード \- from CrosSing](https://open.spotify.com/track/3RyEG3799H7k2e5METVPAK) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [ブルーバード \- from CrosSing](https://open.spotify.com/album/4ZgQScgNNY1OR9trtEx8yl) | 3:38 | 2022-06-09 | 2022-07-29 |
 | [プラチナ](https://open.spotify.com/track/55VpwoQcMWJxXuqqtH6hUY) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション プラス 「ハチポチ」](https://open.spotify.com/album/2C6AFE7MxD1Cjf0ckFcfJy) | 4:10 | 2022-06-24 | 2022-06-29 |
 | [プラチナ \- from CrosSing](https://open.spotify.com/track/0AmatthIisAg466qau2Oab) | [竹達彩奈](https://open.spotify.com/artist/4R1zxy2LxEjEgKpMre81HN) | [プラチナ \- from CrosSing](https://open.spotify.com/album/655NcCoweylwkXHPkYvD2V) | 4:09 | 2022-08-23 | 2022-08-25 |

@@ -4,7 +4,7 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-252 songs - 15 hr 32 min
+253 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [Majuy](https://open.spotify.com/track/57AagUYydzbo7sh6Cho7ol) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Majuy](https://open.spotify.com/album/0H5sutuG8SxzzXub3Qmtfd) | 3:55 | 2024-03-21 |  |
 | [Making It Through](https://open.spotify.com/track/0qGEFPVwq5NMah8QFbVMkm) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light, Dark, Light Again](https://open.spotify.com/album/7kGXsZHSwblgzytzITVbLg) | 4:42 | 2024-02-16 |  |
 | [Male Fantasy](https://open.spotify.com/track/4ak9GGe6afmi2HbxEjvhIC) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:14 | 2022-03-25 | 2022-10-11 |
-| [Maybe If I Wore Sunglasses Inside I Won't Feel Tired](https://open.spotify.com/track/3ABzFrPGGVBjn87dLV5g6f) | [Jess Ribeiro](https://open.spotify.com/artist/7AUTmLTFczsYPnMDaLrU0N) | [Summer Of Love](https://open.spotify.com/album/3mFgQhjQyNHOJa23AQ1N2X) | 4:25 | 2024-04-11 |  |
+| [Maybe If I Wore Sunglasses Inside I Won't Feel Tired](https://open.spotify.com/track/3ABzFrPGGVBjn87dLV5g6f) | [Jess Ribeiro](https://open.spotify.com/artist/7AUTmLTFczsYPnMDaLrU0N) | [Summer Of Love](https://open.spotify.com/album/3mFgQhjQyNHOJa23AQ1N2X) | 4:25 | 2024-04-11 | 2024-04-13 |
+| [Maybe If I Wore Sunglasses Inside I Won't Feel Tired](https://open.spotify.com/track/3Tq6aeGI1qf9jxdp8UHPfv) | [Jess Ribeiro](https://open.spotify.com/artist/7AUTmLTFczsYPnMDaLrU0N) | [Summer Of Love](https://open.spotify.com/album/3GuV77axWfjrvU90iuJevs) | 4:25 | 2024-04-11 |  |
 | [Mid Sentence](https://open.spotify.com/track/5z78SPUoa0zZcb1uWbwPMH) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ), [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Mid Sentence](https://open.spotify.com/album/5xgVWVKEDffykXq1tfSBeX) | 3:04 | 2022-03-25 | 2024-03-01 |
 | [Missionary Feelings](https://open.spotify.com/track/4pqcPscDHP2pBg5wiYxIQ1) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Missionary Feelings](https://open.spotify.com/album/4SdXC03JUEmupXnL0yKRjH) | 3:32 | 2023-09-22 | 2024-02-17 |
 | [Monsters](https://open.spotify.com/track/3PEFIZR2rbENyadO5n690Z) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Monsters](https://open.spotify.com/album/6T3USLBDKSe0UWytow3x0i) | 4:36 | 2022-03-25 | 2022-07-29 |

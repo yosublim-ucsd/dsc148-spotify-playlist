@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-527 songs - 1 day 2 hr 59 min
+528 songs - 1 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [High \(feat\. Aleesia\)](https://open.spotify.com/track/3Bin1J5O34OUDb3a4BctoI) | [JPB](https://open.spotify.com/artist/0t5H8FcoVPzn4sVeNxibMU), [Aleesia](https://open.spotify.com/artist/1KV1BqrUpebQPqVU2r89xc) | [High](https://open.spotify.com/album/7LqM3dX7Iv65gtMl29Sqd5) | 2:28 | 2023-08-08 |  |
 | [high4aminute](https://open.spotify.com/track/30yzZdUB2IwJBPHT75z6wN) | [Raude](https://open.spotify.com/artist/53OGD4I8jF4rxTyEquy1WZ) | [high4aminute](https://open.spotify.com/album/0zpzJJy4JNWcFQPMwLQPD3) | 1:48 | 2023-05-19 | 2023-08-10 |
 | [Hold On Me](https://open.spotify.com/track/5ExBJA2HtqlQCUFnICjrTf) | [Raul Ojamaa](https://open.spotify.com/artist/6Z3GmozKVgFxFcP2Qzp0Fp), [Maris Pihlap](https://open.spotify.com/artist/3594I0JPmGJklcod5vZJv7) | [Hold On Me](https://open.spotify.com/album/2afxBQvxCZQ2KcbCy2Pwgd) | 3:28 | 2023-12-13 |  |
+| [Hollow](https://open.spotify.com/track/53dI9LHErYo0hljsDIMMrG) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Hollow](https://open.spotify.com/album/4o692fJS1XXJC39uhAy1f0) | 3:25 | 2024-04-12 |  |
 | [Hollywood Perfect](https://open.spotify.com/track/2b4s9qk2mq5kaFj4rUZlzr) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [NotEvenTanner](https://open.spotify.com/artist/2FS6z8pQbDMXrscqKiw983) | [Faceless](https://open.spotify.com/album/4c0WhpvNSbSSlElNQOqlzU) | 2:42 | 2023-08-08 | 2023-12-14 |
 | [Home](https://open.spotify.com/track/1b8pnOzyvGcV2mkTyb7DMg) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Home](https://open.spotify.com/album/6Ylx3tJ8nATOEKSXGoybHH) | 2:49 | 2022-09-15 | 2023-08-10 |
 | [Howling](https://open.spotify.com/track/596lDSwIMzDoiq3E6jJ0wC) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Asena](https://open.spotify.com/artist/2kSWBds3WDrDvrV6s9VKfd) | [Howling](https://open.spotify.com/album/0wHRCxOtc8POmkwSjBINk6) | 3:24 | 2023-08-08 | 2024-02-02 |

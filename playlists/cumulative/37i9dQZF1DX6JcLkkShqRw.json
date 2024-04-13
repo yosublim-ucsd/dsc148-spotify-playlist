@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con La Kikada, Pablo Chill-E & Milly.",
+  "description": "Flow sudamericano con YSY A & CLUB HATS.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -742,6 +742,28 @@
       "duration_ms": 111857,
       "name": "99",
       "url": "https://open.spotify.com/track/0h4KxzM8uvGgrv66imth9N"
+    },
+    {
+      "album": {
+        "name": "<2",
+        "url": "https://open.spotify.com/album/6gRYfYg3hXr4zuy0s9CbVR"
+      },
+      "artists": [
+        {
+          "name": "Skinnybear",
+          "url": "https://open.spotify.com/artist/21QhTrfHb0nFfpu03MwPua"
+        },
+        {
+          "name": "Kevis & Maykyy",
+          "url": "https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164507,
+      "name": "<2",
+      "url": "https://open.spotify.com/track/5GMdlCtn0Y7NinmLoX5vB6"
     },
     {
       "album": {
@@ -2869,6 +2891,28 @@
     },
     {
       "album": {
+        "name": "Bellakeo Season",
+        "url": "https://open.spotify.com/album/6RTU5b5XfXLR4mDUSdqBVg"
+      },
+      "artists": [
+        {
+          "name": "Igna",
+          "url": "https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t"
+        },
+        {
+          "name": "Lexter",
+          "url": "https://open.spotify.com/artist/7IFdRlM8n1AUJvKN5Eb7xj"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144112,
+      "name": "Bellakeo Season",
+      "url": "https://open.spotify.com/track/1FD8qht6H28RZLzmLzISJE"
+    },
+    {
+      "album": {
         "name": "Welcome To My World",
         "url": "https://open.spotify.com/album/6iUBYigsiYYdhDIkHbKbSN"
       },
@@ -3763,6 +3807,32 @@
     },
     {
       "album": {
+        "name": "CADA VEZ QUE",
+        "url": "https://open.spotify.com/album/1cHzgSSyMkVPwuK8QH0RhR"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "SPONSOR DIOS",
+          "url": "https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf"
+        },
+        {
+          "name": "CLUB HATS",
+          "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151417,
+      "name": "CADA VEZ QUE",
+      "url": "https://open.spotify.com/track/5pIWNTCanCfMoXkS3v5UAa"
+    },
+    {
+      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/4s0xbHR2BZ0puy2H7eol9b"
       },
@@ -3974,6 +4044,28 @@
       "duration_ms": 165562,
       "name": "Carmes\u00ed",
       "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
+    },
+    {
+      "album": {
+        "name": "CARRO RE-KL (with Pailita)",
+        "url": "https://open.spotify.com/album/1urFs62cRLJFtb1XtdA9Hg"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "CARRO RE-KL (with Pailita)",
+      "url": "https://open.spotify.com/track/1IoRN5PB6bnygJEiu6K4TQ"
     },
     {
       "album": {
@@ -5024,6 +5116,24 @@
       "duration_ms": 157497,
       "name": "CONOCERTE",
       "url": "https://open.spotify.com/track/4zXU5R6iNY17aenizCR4gE"
+    },
+    {
+      "album": {
+        "name": "CONTACTO ZERO",
+        "url": "https://open.spotify.com/album/53qw0PUTAdjJwuFJ4JRvPp"
+      },
+      "artists": [
+        {
+          "name": "Mariana Bfly",
+          "url": "https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172187,
+      "name": "CONTACTO ZERO",
+      "url": "https://open.spotify.com/track/6ylMcEIsuC7WWJgaA97XgV"
     },
     {
       "album": {
@@ -6723,6 +6833,28 @@
     },
     {
       "album": {
+        "name": "Dolce Gabbana",
+        "url": "https://open.spotify.com/album/5Qv5yGDI8izdkIkUlqGub8"
+      },
+      "artists": [
+        {
+          "name": "Young Piri",
+          "url": "https://open.spotify.com/artist/4TaMzYlwqHNvfJ8OJLlDzv"
+        },
+        {
+          "name": "BenGstar",
+          "url": "https://open.spotify.com/artist/1wVJFmSm8OwomtQZZCLKjh"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132200,
+      "name": "Dolce Gabbana",
+      "url": "https://open.spotify.com/track/2LQZcxKt0AYCxDXfyRd3yX"
+    },
+    {
+      "album": {
         "name": "Domi",
         "url": "https://open.spotify.com/album/7MBwpKH5vzLKG4LNxm8Vj2"
       },
@@ -7358,7 +7490,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 152318,
       "name": "El Heredero",
       "url": "https://open.spotify.com/track/3bUcRhhsos3DugtdmlVKKZ"
@@ -7771,6 +7903,40 @@
     },
     {
       "album": {
+        "name": "Enrolar (Fantastic Four Remix)",
+        "url": "https://open.spotify.com/album/0BDsr0tgX3IivsPIW69kTO"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Swift 047",
+          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303582,
+      "name": "Enrolar - Fantastic Four Remix",
+      "url": "https://open.spotify.com/track/4Br7zuCL1Jetik8COatafL"
+    },
+    {
+      "album": {
         "name": "Entre la playa ella y yo (New era)",
         "url": "https://open.spotify.com/album/4LeCQSVw8DALn8DZWyn0YM"
       },
@@ -7794,7 +7960,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 274273,
       "name": "Entre la playa ella y yo (New era)",
       "url": "https://open.spotify.com/track/3ZTkufzYR9Gz2uJKkdJCV1"
@@ -8030,7 +8196,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 219401,
       "name": "Ese Corte",
       "url": "https://open.spotify.com/track/7iBFkn9NTeNW9jfwiCzF39"
@@ -8514,7 +8680,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 164879,
       "name": "Female Rage",
       "url": "https://open.spotify.com/track/34bl5PghPi6t8VOiaV4ND9"
@@ -14519,6 +14685,28 @@
     },
     {
       "album": {
+        "name": "METAMORFOSIS",
+        "url": "https://open.spotify.com/album/3Z7VB5WUyyf1xXGDb6dRdB"
+      },
+      "artists": [
+        {
+          "name": "Tobi",
+          "url": "https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB"
+        },
+        {
+          "name": "WeaKness",
+          "url": "https://open.spotify.com/artist/2nXnrrtCXs3lwkBN4ufRZ0"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115611,
+      "name": "METAMORFOSIS",
+      "url": "https://open.spotify.com/track/5JURqcdGY9mj17VUMf5ecc"
+    },
+    {
+      "album": {
         "name": "Meteoritos Vs Dinosaurios",
         "url": "https://open.spotify.com/album/77Fovy0iY1SyGS2OHgwJm7"
       },
@@ -16778,7 +16966,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 202173,
       "name": "NO HAY QUE PREGUNTAR",
       "url": "https://open.spotify.com/track/4NhicasWolYAelOoWgeCrI"
@@ -17382,7 +17570,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 191086,
       "name": "Nos Comemos (feat. Ozuna)",
       "url": "https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj"
@@ -20583,6 +20771,32 @@
     },
     {
       "album": {
+        "name": "Quieres Quedarte?",
+        "url": "https://open.spotify.com/album/38YYUfaOtnVGvdxib9tJVv"
+      },
+      "artists": [
+        {
+          "name": "Tommy Boysen",
+          "url": "https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Quieres Quedarte?",
+      "url": "https://open.spotify.com/track/3cDZ7ogdishEqb7BFdwKzE"
+    },
+    {
+      "album": {
         "name": "Quiero",
         "url": "https://open.spotify.com/album/14Bt8cXWLWmEaqIUDtdCze"
       },
@@ -21278,7 +21492,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 177965,
       "name": "ROBARTE - REMIX",
       "url": "https://open.spotify.com/track/3NE1RQxfolHntyjtYA7dTF"
@@ -22790,7 +23004,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 181463,
       "name": "sol & prada",
       "url": "https://open.spotify.com/track/7wfMTV2iORe3n6JLgA9daD"
@@ -23414,7 +23628,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 195761,
       "name": "Tarzan",
       "url": "https://open.spotify.com/track/2WuIvu6jnM0a6qho8bL4h3"
@@ -24764,7 +24978,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 385674,
       "name": "Tu Diablo Remix (feat. El Jordan 23, Nickoog Clk & Tunechikidd)",
       "url": "https://open.spotify.com/track/1tsWLeicLYHRuKi1sNbCWk"
@@ -24944,6 +25158,28 @@
       "duration_ms": 201818,
       "name": "Tu Nombre",
       "url": "https://open.spotify.com/track/2nj9sRoyFnd6YlJ3M2o1rT"
+    },
+    {
+      "album": {
+        "name": "Tu Tormento",
+        "url": "https://open.spotify.com/album/7gg9kKwCBhfqlGEYicSh8m"
+      },
+      "artists": [
+        {
+          "name": "Bryartz",
+          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
+        },
+        {
+          "name": "Keed Baby",
+          "url": "https://open.spotify.com/artist/5QSZ4mP3ycTPK4b0VJNmK4"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Tu Tormento",
+      "url": "https://open.spotify.com/track/1fgFZZ19cPaJtoJbu0IXi1"
     },
     {
       "album": {
@@ -25150,7 +25386,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 203400,
       "name": "TUTALOKO",
       "url": "https://open.spotify.com/track/7nV1he2SmrIFKMg5FMP82X"

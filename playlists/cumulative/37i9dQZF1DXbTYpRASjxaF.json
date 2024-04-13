@@ -662,7 +662,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 143721,
       "name": "Aroma de Masala",
       "url": "https://open.spotify.com/track/2v3yIXzkcCEQjxRiAmH3Ly"
@@ -3887,6 +3887,36 @@
     },
     {
       "album": {
+        "name": "From Rio",
+        "url": "https://open.spotify.com/album/4MD3dhPh3euRMO8nPFuFLB"
+      },
+      "artists": [
+        {
+          "name": "MG CDD",
+          "url": "https://open.spotify.com/artist/2zjzZE2PUwitmtRDFgrABn"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "G. Shao",
+          "url": "https://open.spotify.com/artist/60hsJi04alPOxGuomSHpuz"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "From Rio",
+      "url": "https://open.spotify.com/track/3vYBQiqPu82oD7X0wZjYQV"
+    },
+    {
+      "album": {
         "name": "1994",
         "url": "https://open.spotify.com/album/6Boz5yzdVM8VPQutO8NRou"
       },
@@ -4108,6 +4138,32 @@
       "duration_ms": 226909,
       "name": "HARD ROCK",
       "url": "https://open.spotify.com/track/6yoNYLJ7enbygKXF50Af72"
+    },
+    {
+      "album": {
+        "name": "Heineken",
+        "url": "https://open.spotify.com/album/01PwfxxF43OfjU0BFJ1lIO"
+      },
+      "artists": [
+        {
+          "name": "DEGE",
+          "url": "https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW"
+        },
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "Brian Arimura",
+          "url": "https://open.spotify.com/artist/3564y3B882wmolbLQVDVzZ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Heineken",
+      "url": "https://open.spotify.com/track/25fVNji9xndmDCHrIBz7XK"
     },
     {
       "album": {
@@ -6748,7 +6804,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 160000,
       "name": "Ol\u00e9",
       "url": "https://open.spotify.com/track/3BKt9kix2ClrJgmHCASFrs"
@@ -9237,6 +9293,24 @@
     },
     {
       "album": {
+        "name": "Tipo Rihanna",
+        "url": "https://open.spotify.com/album/0xmHIKjzpS2duaseLvZK9v"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Tipo Rihanna",
+      "url": "https://open.spotify.com/track/2UWCtkjagMuEpj3oXnHJ5B"
+    },
+    {
+      "album": {
         "name": "Tiro Onda Mesmo",
         "url": "https://open.spotify.com/album/2gprvhBg5fmX4kmew62isB"
       },
@@ -9546,7 +9620,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 139908,
       "name": "Underground",
       "url": "https://open.spotify.com/track/2n5g9O2QtsxaiePpJML2hb"

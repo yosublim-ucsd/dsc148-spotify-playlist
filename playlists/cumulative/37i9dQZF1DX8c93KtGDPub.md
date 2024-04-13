@@ -4,7 +4,7 @@
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-289 songs - 16 hr 53 min
+291 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Everything Is Cool](https://open.spotify.com/track/3otZFpBehn0Qj5u1NZLlvT) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [A John Prine Christmas](https://open.spotify.com/album/51feGjlV8hDiJ4U7XO9Kcb) | 3:25 | 2021-12-24 |  |
 | [Fairytale of New York](https://open.spotify.com/track/4fYUi0MSSzdX7Q696Fn81f) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Fairytale of New York](https://open.spotify.com/album/3m34lxhVHHZmCFVa9zsulA) | 3:59 | 2021-12-24 |  |
 | [FaLaLaLaLove Ya](https://open.spotify.com/track/08XsCd77NVYxnUKORbG1za) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [An Americana Christmas](https://open.spotify.com/album/2LAYppz60aAY7uSrWrm1uS) | 3:25 | 2021-12-24 | 2022-07-29 |
-| [Falalalalove Ya](https://open.spotify.com/track/1lqznumZx7Y6vIgs5jLdhb) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [An Americana Christmas](https://open.spotify.com/album/4NY0IG8jp9b4e8Ni4rpDRc) | 3:25 | 2021-12-24 |  |
+| [Falalalalove Ya](https://open.spotify.com/track/1lqznumZx7Y6vIgs5jLdhb) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [An Americana Christmas](https://open.spotify.com/album/4NY0IG8jp9b4e8Ni4rpDRc) | 3:25 | 2021-12-24 | 2024-04-13 |
+| [Falalalalove Ya](https://open.spotify.com/track/6X3i7K9jrgguwROjV4hYow) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [An Americana Christmas](https://open.spotify.com/album/7LtEjak2slZsNQxBe3lPNg) | 3:25 | 2023-12-15 |  |
 | [First Snow](https://open.spotify.com/track/0zUAob6pnNxXj6hK2JK61r) | [Friend Of All The World](https://open.spotify.com/artist/3q3lXlWQztweePxKwV6mHY) | [The Wild](https://open.spotify.com/album/6ycQqH1vzOGCRVDTiLDI8y) | 3:46 | 2021-12-24 | 2023-12-16 |
 | [Frosty the Snowman](https://open.spotify.com/track/732qfVoTwzKNDTGm1MfJvp) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Hotel Café presents..\. Winter Songs](https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad) | 2:10 | 2021-12-24 |  |
 | [Go Tell It on a Mountain](https://open.spotify.com/track/5Ra5c3HCBqTbGED1Baj4KS) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [A Neighborly Christmas](https://open.spotify.com/album/0ajvkNhkYG7yGdq0iQP4Z2) | 3:17 | 2021-12-24 |  |
@@ -123,7 +124,8 @@
 | [Holiday](https://open.spotify.com/track/1mrjKX3NVAtq1FGg7CzFbZ) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/4dPnPke5bEw0O12dgO7VkB) | 4:08 | 2021-12-24 | 2022-07-29 |
 | [Holiday](https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 | 2021-12-24 |  |
 | [Holidays](https://open.spotify.com/track/7CH8W7Nt7gJDEZLFfFjqly) | [The Lonely Wild](https://open.spotify.com/artist/7uG1pvcReIxuBhvpabjdom) | [Holidays](https://open.spotify.com/album/2AjiirTvdABxb6A8XO7cpK) | 5:39 | 2021-12-24 | 2023-12-16 |
-| [Holly, Carol, Candy & Joy](https://open.spotify.com/track/18TLOVCvfFtATfullogZ3o) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [SOCKS](https://open.spotify.com/album/4UGQkij93Qsa1S70YgHlRS) | 3:24 | 2021-12-24 |  |
+| [Holly, Carol, Candy & Joy](https://open.spotify.com/track/18TLOVCvfFtATfullogZ3o) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [SOCKS](https://open.spotify.com/album/4UGQkij93Qsa1S70YgHlRS) | 3:24 | 2021-12-24 | 2024-04-13 |
+| [Holly, Carol, Candy & Joy](https://open.spotify.com/track/1HVlD5mnTMgtNuwhzMmmPY) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [SOCKS](https://open.spotify.com/album/6GFdPihjWOAE7OsauYu5uC) | 3:24 | 2023-12-15 |  |
 | [Home For The Season](https://open.spotify.com/track/5T5FkiC6rR5G6853YPeIZj) | [Neil Halstead](https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 4:13 | 2021-12-24 | 2023-12-16 |
 | [I Heard The Bells On Christmas Day](https://open.spotify.com/track/1qSBHo7rjtqYdd0XJB8ngq) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 2:34 | 2021-12-24 |  |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/4varvMsuXV7dqeOm6WgC8a) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [I'll Be Home for Christmas](https://open.spotify.com/album/3Dm1qZlzGO9CpaAJ6T9JRa) | 2:52 | 2021-12-24 | 2023-12-16 |

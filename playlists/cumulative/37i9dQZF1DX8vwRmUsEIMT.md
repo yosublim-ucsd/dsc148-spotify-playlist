@@ -2,7 +2,7 @@
 
 ### [All New All Now](https://open.spotify.com/playlist/37i9dQZF1DX8vwRmUsEIMT)
 
-> All the new music you need to hear right now\. Cover: Benson Boone
+> All the new music you need to hear right now\. Cover: Perrie
 
 1,924 songs - 4 day 7 hr 37 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Find the path back to an era of enlightenment.",
-  "num_followers": 87913,
+  "num_followers": 87948,
   "original_name": "Early New Age",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Cool Islands",
-        "url": "https://open.spotify.com/album/5kI360nRgdmq6ZBfZRX945"
-      },
-      "artists": [
-        {
-          "name": "Cusco",
-          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
-        }
-      ],
-      "duration_ms": 193506,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/21gXtkGSaX27wcqtbams4W"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Oxyg\u00e8ne",
         "url": "https://open.spotify.com/album/6qF91BDNaJY4PI0mSwYv8L"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 459000,
       "name": "Oxyg\u00e8ne, Pt. 1",
       "url": "https://open.spotify.com/track/1pCOM5VEp8DKmg8OYJYhHv"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Cool Islands",
+        "url": "https://open.spotify.com/album/5kI360nRgdmq6ZBfZRX945"
+      },
+      "artists": [
+        {
+          "name": "Cusco",
+          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
+        }
+      ],
+      "duration_ms": 193506,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/21gXtkGSaX27wcqtbams4W"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Cusco 2",
-        "url": "https://open.spotify.com/album/0AUu3xGjmn7yeYm3ZF8Q1c"
-      },
-      "artists": [
-        {
-          "name": "Cusco",
-          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "Lake of the Ozarks",
-      "url": "https://open.spotify.com/track/4hv02M3OzsEgN6b1EoA1O6"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "\u00c9quinoxe",
         "url": "https://open.spotify.com/album/4jz8xe3ErCHfGc0m0aGGau"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 425133,
       "name": "Equinoxe, Pt. 4",
       "url": "https://open.spotify.com/track/7b8Oh5XiT72EWTIdyjjPX6"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Cusco 2",
+        "url": "https://open.spotify.com/album/0AUu3xGjmn7yeYm3ZF8Q1c"
+      },
+      "artists": [
+        {
+          "name": "Cusco",
+          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Lake of the Ozarks",
+      "url": "https://open.spotify.com/track/4hv02M3OzsEgN6b1EoA1O6"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Inside The Taj Mahal",
-        "url": "https://open.spotify.com/album/5CI3eqdKUPVR2nB32qGgUP"
-      },
-      "artists": [
-        {
-          "name": "Paul Horn",
-          "url": "https://open.spotify.com/artist/1LI9iEq0loU9cdIa1dxVDj"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Mumtaz Mahal",
-      "url": "https://open.spotify.com/track/5B081R4ZB10dcY1w9sGcCq"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Ambient 3: Day Of Radiance",
         "url": "https://open.spotify.com/album/42Lahj8mKJKxPgncRXPuPw"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 1127173,
       "name": "Meditation No. 1",
       "url": "https://open.spotify.com/track/3Z9PWaE8d55XcOxEHwx6U8"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Inside The Taj Mahal",
+        "url": "https://open.spotify.com/album/5CI3eqdKUPVR2nB32qGgUP"
+      },
+      "artists": [
+        {
+          "name": "Paul Horn",
+          "url": "https://open.spotify.com/artist/1LI9iEq0loU9cdIa1dxVDj"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Mumtaz Mahal",
+      "url": "https://open.spotify.com/track/5B081R4ZB10dcY1w9sGcCq"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961-88",
-        "url": "https://open.spotify.com/album/4klqR6x6zW58RaW1y2ffSI"
+        "name": "Rainbow Dome Musick",
+        "url": "https://open.spotify.com/album/67m5VTJCEDpxDz5WH2upcz"
       },
       "artists": [
         {
-          "name": "Michael Garrison",
-          "url": "https://open.spotify.com/artist/0nzQKrZBzsjXGdogx6zaDU"
+          "name": "Steve Hillage",
+          "url": "https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC"
         }
       ],
-      "duration_ms": 274733,
-      "name": "To the Other Side of the Sky",
-      "url": "https://open.spotify.com/track/3hH4PPHWAtkbzD9UKpkQl0"
+      "duration_ms": 1394160,
+      "name": "Garden Of Paradise - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/2LFvHkgLws1Qb6kQA1CQHi"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Rainbow Dome Musick",
-        "url": "https://open.spotify.com/album/67m5VTJCEDpxDz5WH2upcz"
+        "name": "Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961-88",
+        "url": "https://open.spotify.com/album/4klqR6x6zW58RaW1y2ffSI"
       },
       "artists": [
         {
-          "name": "Steve Hillage",
-          "url": "https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC"
+          "name": "Michael Garrison",
+          "url": "https://open.spotify.com/artist/0nzQKrZBzsjXGdogx6zaDU"
         }
       ],
-      "duration_ms": 1394160,
-      "name": "Garden Of Paradise - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/2LFvHkgLws1Qb6kQA1CQHi"
+      "duration_ms": 274733,
+      "name": "To the Other Side of the Sky",
+      "url": "https://open.spotify.com/track/3hH4PPHWAtkbzD9UKpkQl0"
     },
     {
       "added_at": "2023-08-18 14:02:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Izzy Heltai
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,263 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,289 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,14 +61,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 51 | [I Can't Shake the Stranger Out of You](https://open.spotify.com/track/6YbMyIVPgdjomWFLuFxk9C) | [Lavender Country](https://open.spotify.com/artist/3UAkA4R9JwTDsWSvtKqJtP) | [Lavender Country](https://open.spotify.com/album/4Tw0CuP1RixX0fDBZx3Cvq) | 2:39 |
 | 52 | [You're Still My Love](https://open.spotify.com/track/7lyoC3YpHvrgdXGQiyWzSW) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Daddy's Country Gold](https://open.spotify.com/album/0lr7pYLdjcI4MRXIW1ucfI) | 3:37 |
 | 53 | [Bed of Bad Luck](https://open.spotify.com/track/1rdoKO7Q1TMMP1vvGcdiQ2) | [Little Bandit](https://open.spotify.com/artist/3ZcpzDeDdqeqO3aWU3IN4y) | [Breakfast Alone](https://open.spotify.com/album/6vRs199Mg5jUHA4W0tfXPV) | 3:27 |
-| 54 | [Just A Woman](https://open.spotify.com/track/6CwZv215C5uYwW277JsrLu) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U), [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [Just A Woman](https://open.spotify.com/album/5qPSuH0qcPnDv2q7HfDM5I) | 4:16 |
+| 54 | [Just A Woman](https://open.spotify.com/track/29snCFDh5oCuIVG717rDUq) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U), [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [Neon Cross](https://open.spotify.com/album/3JyedWfUdeBW9ZJ435YEfQ) | 4:16 |
 | 55 | [The Fear of Losing This](https://open.spotify.com/track/1h44AOekmUQtwtSpMZ9S2t) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [If Blue Could Be Happiness](https://open.spotify.com/album/0EB4zV2Vfi0FeM6jZNOO87) | 3:53 |
 | 56 | [Hope There's Someone \- Live](https://open.spotify.com/track/0B4hF7YOkUIud1AJUR3kPO) | [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW), [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [Turning](https://open.spotify.com/album/6mpAk967R6Oo9dyxi149Eb) | 4:42 |
 | 57 | [Girls, Girls, Girls](https://open.spotify.com/track/3ZF4gOd2g6x4yY8UYr3n6V) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [White Tiger](https://open.spotify.com/album/1cLsI0tJ76BKZZePhwVRxi) | 2:50 |
 | 58 | [Love Part Three](https://open.spotify.com/track/5OoccFPlv12WWzdzJfcrfx) | [Dani Larkin](https://open.spotify.com/artist/6s74lp18Qqs5s46mJKtxWi) | [Love Part Three](https://open.spotify.com/album/5Quw6izA6Ub8cmeFIYLxnt) | 4:27 |
 | 59 | [Holler](https://open.spotify.com/track/1aYqVeAM5XBlj67RHscBMo) | [Amy Ray](https://open.spotify.com/artist/6FTNWiXksh4ADVB5QdJqCF) | [Holler](https://open.spotify.com/album/6sChAWxd6hgcp0N24NcyEJ) | 3:40 |
 | 60 | [Don't Die in Me](https://open.spotify.com/track/57YeVOuSrJE4ripwSJRXXa) | [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [C'mon Miracle](https://open.spotify.com/album/1XbwRI38fsb8VcZrQvWItf) | 3:48 |
-| 61 | [Pipe Dreams](https://open.spotify.com/track/294T1COkA1muObOvFKe8Kx) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Superstar](https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG) | 3:25 |
+| 61 | [Pipe Dreams](https://open.spotify.com/track/7hKMa4UKhVhhLb9UUHlbIu) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Superstar](https://open.spotify.com/album/0iKUlriBGhJ9Fvnex5Xi7w) | 3:25 |
 | 62 | [Thumbs](https://open.spotify.com/track/0KdYYVq1c2kvy69RjczLeX) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 4:25 |
 | 63 | [More Than Love](https://open.spotify.com/track/4A1vNFzguRKmB5rgV6KAke) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 4:01 |
 | 64 | [Photographs](https://open.spotify.com/track/4rUslPXZmnIT23InzwjBlj) | [Diana DeMuth](https://open.spotify.com/artist/1EGJoRmXcYb7biwtm8r0ln) | [Misadventure](https://open.spotify.com/album/1zin6IBiA6s7QQBAY372m5) | 2:59 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 90 | [Marjorie](https://open.spotify.com/track/5px0q4BOJoL26xBxeZCqoz) | [Namoli Brennet](https://open.spotify.com/artist/6HhuWH5wX8XGIOYCgsFsdJ) | [Ditch Lilies](https://open.spotify.com/album/2BwDEMJIAwvFw9JzsSnga4) | 2:55 |
 | 91 | [Olivia](https://open.spotify.com/track/3OByrxVpeHjxxc0HX9bRIT) | [Rachael Sage](https://open.spotify.com/artist/7EedWEoxpzbiPNkqkDp3Vw) | [Olivia](https://open.spotify.com/album/3kmkC2FDsfV2wImqY5hYi0) | 2:47 |
 | 92 | [Icarus](https://open.spotify.com/track/437AmJMSCU1I86teGggXNu) | [REINDIER](https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK) | [Porcelain](https://open.spotify.com/album/6mjVcjM6vQlI6Mdny67YhB) | 3:39 |
-| 93 | [Two Men in Love](https://open.spotify.com/track/2aStnqtcB9SCoxHj5hByX7) | [The Irrepressibles](https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s) | [Nude](https://open.spotify.com/album/7v35WlLc1mSuL4HgA0TmFp) | 6:26 |
+| 93 | [Two Men in Love](https://open.spotify.com/track/33doebdvJ82n6KoGmNLq5Y) | [The Irrepressibles](https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s) | [Two Men in Love](https://open.spotify.com/album/23p4EyOaiLZizJjEd5YB4C) | 6:26 |
 | 94 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 |
 | 95 | [Magic](https://open.spotify.com/track/6mZhXvfSTARcgspWAQ1qMm) | [Treya Lam](https://open.spotify.com/artist/2UZMgbfsiicKZre8YW3MnA) | [Magic](https://open.spotify.com/album/3gqUf0GqXWKlliwflp00ZV) | 3:33 |
 | 96 | [I Built a Fire](https://open.spotify.com/track/7FQSs4owsx8rP4JJPaROAn) | [Indiana Queen](https://open.spotify.com/artist/3qHYX4FhICcNzTzbyJdBMC) | [I Built a Fire](https://open.spotify.com/album/3X4ielSlohvGH3d0ee8xo3) | 5:23 |

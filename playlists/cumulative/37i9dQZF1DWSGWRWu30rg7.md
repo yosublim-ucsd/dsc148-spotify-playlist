@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Elifas Sonaru
 
-3,277 songs - 8 day 9 hr 22 min
+3,278 songs - 8 day 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -789,6 +789,7 @@
 | [Easy & Sway](https://open.spotify.com/track/5isokAhqL2C387oj1S3h2r) | [Tóke](https://open.spotify.com/artist/3JjFDyzZAfY2EVKZ4Yzs2I) | [Easy & Sway](https://open.spotify.com/album/0Mi0bvQwFpFVArCxM35Zd6) | 2:41 | 2023-06-29 | 2023-07-15 |
 | [Easy & Sway](https://open.spotify.com/track/43hUDjb7lKdbu0qoIhvhMI) | [Tóke](https://open.spotify.com/artist/3JjFDyzZAfY2EVKZ4Yzs2I) | [Easy & Sway](https://open.spotify.com/album/0GYrOQhy7IFHpJheMzfrvN) | 3:00 | 2023-06-15 | 2023-06-23 |
 | [Eat Drink Be Merry](https://open.spotify.com/track/4mEpp0LxdyWcEfc2OO0Fgt) | [J\-free Simangunsong](https://open.spotify.com/artist/66V6Vb89TmvlU756oRuitL), [Kemala Ayu](https://open.spotify.com/artist/35zNeAdGVyng0TDkx3hrK1) | [Eat Drink Be Merry](https://open.spotify.com/album/5oLadayxrdi3XFeNrlE94d) | 3:25 | 2023-04-13 | 2023-04-28 |
+| [Eclipse Of Enmity](https://open.spotify.com/track/5jocQg8CqoXS86ftOwoM2b) | [MotherSoul\*](https://open.spotify.com/artist/2U4J5FLtMzlghc0iTfdnPy) | [Eclipse Of Enmity](https://open.spotify.com/album/3bzwfMoYrSa0rcI5WuM75b) | 5:12 | 2024-04-11 |  |
 | [Ecstasy](https://open.spotify.com/track/1buitg6ANujfS4LnwRPOtH) | [Faye Risakotta](https://open.spotify.com/artist/6yd6MjAk4TydGHSGdVKFuv) | [Ecstasy](https://open.spotify.com/album/7w3o5Agz3xqW9ggvCfJPrP) | 3:12 | 2022-03-17 | 2022-04-01 |
 | [Edges](https://open.spotify.com/track/1VKEi2gCOilCg9pM8dPo1j) | [meeve](https://open.spotify.com/artist/5WP6R7bAjeetDf7rZJQiMp) | [Edges](https://open.spotify.com/album/4GgGiHSIATT5mTsZ8nIn33) | 3:43 | 2023-06-29 | 2023-07-15 |
 | [Egois & Hancur](https://open.spotify.com/track/4Z8TbL00jsZavpzaZY5xew) | [The Pablo](https://open.spotify.com/artist/1cEZXiKq31V4YDJamOUskW) | [Egois & Hancur](https://open.spotify.com/album/0HlHghtkSJ04B7r6rytAeG) | 4:32 | 2022-11-03 | 2022-12-01 |

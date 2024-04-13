@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 601458,
+  "num_followers": 601813,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMGRlMzhhZTc5YjIyZmQxNTJlOTNkNWU2NDIzODU2ODlh",
+  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDBhMmM2YmU0ZjM2Y2QwYmUwNTgwMjFiOTJkNTkyM2Q2",
   "tracks": [
     {
       "added_at": null,
@@ -779,22 +779,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gentle Giants: The Songs of Don Williams",
-        "url": "https://open.spotify.com/album/4Fa6HWiSqDPsa7E27BOUdt"
+        "name": "It Takes A Woman",
+        "url": "https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR"
       },
       "artists": [
         {
           "name": "Chris Stapleton",
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        },
-        {
-          "name": "Morgane Stapleton",
-          "url": "https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX"
         }
       ],
-      "duration_ms": 182333,
-      "name": "Amanda (feat. Morgane Stapleton)",
-      "url": "https://open.spotify.com/track/31N3agcx1BKlLkYBXAx1Ax"
+      "duration_ms": 246986,
+      "name": "It Takes A Woman",
+      "url": "https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP"
     },
     {
       "added_at": null,
@@ -815,18 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "It Takes A Woman",
-        "url": "https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR"
+        "name": "Gentle Giants: The Songs of Don Williams",
+        "url": "https://open.spotify.com/album/4Fa6HWiSqDPsa7E27BOUdt"
       },
       "artists": [
         {
           "name": "Chris Stapleton",
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        },
+        {
+          "name": "Morgane Stapleton",
+          "url": "https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX"
         }
       ],
-      "duration_ms": 246986,
-      "name": "It Takes A Woman",
-      "url": "https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP"
+      "duration_ms": 182333,
+      "name": "Amanda (feat. Morgane Stapleton)",
+      "url": "https://open.spotify.com/track/31N3agcx1BKlLkYBXAx1Ax"
     },
     {
       "added_at": null,

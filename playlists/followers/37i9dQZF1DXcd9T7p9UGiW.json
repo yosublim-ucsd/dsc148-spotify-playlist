@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 43781,
+  "2024-04-13": 43837,
   "date_first_scraped": "2021-12-29",
   "description": "Catching flights and going global. Cover: Aya Nakamura & Ayra Starr ",
   "name": "Gone Abroad ",
@@ -4107,6 +4107,28 @@
       "duration_ms": 249956,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/1Jk54APscblRSShOVjrYxS"
+    },
+    {
+      "album": {
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183829,
+      "name": "Hold On (feat. Sean Paul)",
+      "url": "https://open.spotify.com/track/1kiGp1LrMv3AHAOuNsjXnM"
     },
     {
       "album": {
@@ -11335,7 +11357,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 232500,
       "name": "Want It All (feat. Polo G)",
       "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"

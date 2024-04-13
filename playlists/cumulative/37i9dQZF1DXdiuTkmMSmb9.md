@@ -2,7 +2,7 @@
 
 ### [Afro Fusion](https://open.spotify.com/playlist/37i9dQZF1DXdiuTkmMSmb9)
 
-> Tropical jams to catch a vibe and whine to\. Cover: Tyla
+> Tropical jams to catch a vibe and whine to\. Cover: Shensea
 
 435 songs - 22 hr 21 min
 

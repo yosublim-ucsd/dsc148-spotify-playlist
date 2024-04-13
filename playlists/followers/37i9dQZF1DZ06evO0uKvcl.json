@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 26081,
+  "2024-04-13": 26100,
   "date_first_scraped": "2022-08-06",
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
   "name": "This Is Howlin' Wolf",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 173533,
       "name": "Back Door Man",
       "url": "https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 166373,
       "name": "Cause of It All",
       "url": "https://open.spotify.com/track/55bXtn99JxmrvFQYtbfjAA"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 173706,
       "name": "Evil (Is Going On)",
       "url": "https://open.spotify.com/track/7LdbDjg6esKNAsnFElpFnB"
@@ -801,7 +801,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 163026,
       "name": "How Many More Years",
       "url": "https://open.spotify.com/track/0MkINaEoNBJfG9G6ewd4xM"
@@ -977,7 +977,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 162093,
       "name": "I Better Go Now - Single Version",
       "url": "https://open.spotify.com/track/2YQclFbhN5AF54JZfZZM80"
@@ -1107,7 +1107,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 180960,
       "name": "I'm Leavin You",
       "url": "https://open.spotify.com/track/3CDa8cJPIxA2jFiwqzFyzb"
@@ -1403,7 +1403,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 171506,
       "name": "Moanin' For My Baby",
       "url": "https://open.spotify.com/track/3GVbKBdl5s9ZqSONTBCf9H"
@@ -1493,7 +1493,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 155133,
       "name": "My Country Sugar Mama",
       "url": "https://open.spotify.com/track/04gLynZwUgqOsir1nK35Fz"
@@ -1547,7 +1547,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 181240,
       "name": "My Life - Single Version",
       "url": "https://open.spotify.com/track/155NceRDOs2fZUXdNTNxvA"
@@ -1735,7 +1735,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 156733,
       "name": "Poor Boy",
       "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
@@ -1883,7 +1883,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 155360,
       "name": "Sitting On Top Of The World",
       "url": "https://open.spotify.com/track/1HJvxhYzcw6c5cwRsRCYA5"
@@ -1997,7 +1997,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Spoonful",
       "url": "https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS"
@@ -2131,7 +2131,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 186733,
       "name": "Three Hundred Pounds Of Joy",
       "url": "https://open.spotify.com/track/5UDsgV8tHUP3wnh12MYbpZ"
@@ -2475,7 +2475,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 191640,
       "name": "You Can't Be Beat - Single Version",
       "url": "https://open.spotify.com/track/0ZkCiuzIOa8g63BbesjHNM"

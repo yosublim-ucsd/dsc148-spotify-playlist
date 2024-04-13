@@ -1,12 +1,12 @@
 {
-  "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 132515,
+  "description": "This Is Bj\u00f6rk. Los temas esenciales, todos en una lista.",
+  "num_followers": 132560,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMGUzNGNiNjhmZmVlZDI3ZTZmODgzNzhlOThjYTM3NGFm",
+  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMDg1MzEwYzM5ODgwYjAwNmJjMjg4MWViODJkNzFlMDI2",
   "tracks": [
     {
       "added_at": null,
@@ -35,22 +35,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Post",
-        "url": "https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "Army Of Me",
-      "url": "https://open.spotify.com/track/4UFQBhIOgANiBG44USIgsf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Debut",
         "url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr"
       },
@@ -63,6 +47,22 @@
       "duration_ms": 282560,
       "name": "Venus As A Boy",
       "url": "https://open.spotify.com/track/48oX55j4gqDw0G80KxzpaQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Post",
+        "url": "https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Army Of Me",
+      "url": "https://open.spotify.com/track/4UFQBhIOgANiBG44USIgsf"
     },
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Post",
-        "url": "https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 220760,
-      "name": "It's Oh So Quiet",
-      "url": "https://open.spotify.com/track/45Ok4AREEWfPIBZ4ylCXK7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Debut",
         "url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr"
       },
@@ -131,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homogenic",
-        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
+        "name": "Post",
+        "url": "https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd"
       },
       "artists": [
         {
@@ -140,9 +124,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 312666,
-      "name": "Bachelorette",
-      "url": "https://open.spotify.com/track/6txguGr32i8SpgZ4KEKQQG"
+      "duration_ms": 220760,
+      "name": "It's Oh So Quiet",
+      "url": "https://open.spotify.com/track/45Ok4AREEWfPIBZ4ylCXK7"
     },
     {
       "added_at": null,
@@ -167,8 +151,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Post",
-        "url": "https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd"
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
       },
       "artists": [
         {
@@ -176,9 +160,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 321533,
-      "name": "Hyper-ballad",
-      "url": "https://open.spotify.com/track/2w0wVOiydK5a5e5UqffWwS"
+      "duration_ms": 312666,
+      "name": "Bachelorette",
+      "url": "https://open.spotify.com/track/6txguGr32i8SpgZ4KEKQQG"
     },
     {
       "added_at": null,
@@ -195,6 +179,22 @@
       "duration_ms": 236640,
       "name": "Big Time Sensuality",
       "url": "https://open.spotify.com/track/5diiEB0edX69v9x3e96NyO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Post",
+        "url": "https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 321533,
+      "name": "Hyper-ballad",
+      "url": "https://open.spotify.com/track/2w0wVOiydK5a5e5UqffWwS"
     },
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homogenic",
-        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 255266,
-      "name": "Hunter",
-      "url": "https://open.spotify.com/track/2nKm2PzPQ3PLOCSEHetFxz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Debut",
         "url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 295360,
       "name": "Come To Me",
       "url": "https://open.spotify.com/track/17tCBb8odaNBZivCojHhvw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 255266,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/2nKm2PzPQ3PLOCSEHetFxz"
     },
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homogenic",
-        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 201800,
-      "name": "Unravel",
-      "url": "https://open.spotify.com/track/6JrmglKffvzzCZCtMEdUtk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Debut",
         "url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 290906,
       "name": "Crying",
       "url": "https://open.spotify.com/track/1R2UhZCSxL1N4kcwa929Fu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "Unravel",
+      "url": "https://open.spotify.com/track/6JrmglKffvzzCZCtMEdUtk"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homogenic",
-        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 199293,
-      "name": "Pluto",
-      "url": "https://open.spotify.com/track/0zgPZSkp20PSuyToQ0lZ0h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Debut",
         "url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 273400,
       "name": "Like Someone In Love",
       "url": "https://open.spotify.com/track/2dkeRnIM7fXKBkkHvkz91v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 199293,
+      "name": "Pluto",
+      "url": "https://open.spotify.com/track/0zgPZSkp20PSuyToQ0lZ0h"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vulnicura",
-        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 409320,
-      "name": "Stonemilker",
-      "url": "https://open.spotify.com/track/17DNqXJCKp5ku17UUvzFj9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bastards",
         "url": "https://open.spotify.com/album/3KOU8rmLKgULTogBAz1px4"
       },
@@ -671,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fossora",
-        "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 120175,
-      "name": "Mycelia",
-      "url": "https://open.spotify.com/track/61HE70rCrYsQCuZuL54Ni5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Med\u00falla",
         "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
       },
@@ -699,6 +667,22 @@
       "duration_ms": 244213,
       "name": "Triumph Of A Heart",
       "url": "https://open.spotify.com/track/2xMjSaJTUcwlv6lKQGTb5g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fossora",
+        "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 120175,
+      "name": "Mycelia",
+      "url": "https://open.spotify.com/track/61HE70rCrYsQCuZuL54Ni5"
     },
     {
       "added_at": null,

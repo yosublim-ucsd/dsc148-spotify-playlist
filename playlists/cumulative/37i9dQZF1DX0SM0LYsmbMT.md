@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,071 songs - 6 day 11 hr 34 min
+4,072 songs - 6 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Beat Sleep Repeat](https://open.spotify.com/track/6rCO2zT4dBIFJcY4SPpYlH) | [Señor Siesta](https://open.spotify.com/artist/2i7FDVuvOVPT1aPOhx6oQ5) | [Beat Sleep Repeat](https://open.spotify.com/album/1yjLJNqUXFnh3iYRiI7U8m) | 2:01 | 2022-03-31 | 2023-10-27 |
 | [Beautiful Day](https://open.spotify.com/track/1384SJhINFtryh2ezNjvkv) | [Tundra Beats](https://open.spotify.com/artist/5j4yh8KxZ3yfg1cHsD24qD) | [Beautiful Day](https://open.spotify.com/album/6RSLdbFUwTzrdRCcziDI8s) | 2:18 | 2021-06-12 | 2021-07-16 |
 | [Beautiful Day](https://open.spotify.com/track/1jf1MYv4An6j0TrSD1T77d) | [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH), [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Beautiful Day](https://open.spotify.com/album/4EEklSZPheZP22zoydsIkY) | 2:06 | 2021-10-31 | 2022-01-07 |
+| [Beautiful Harmony](https://open.spotify.com/track/3LyBtWCV5UWNf9Zapk0KkE) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Beautiful Harmony](https://open.spotify.com/album/4wATCEMcI1sPkUp8oiYo19) | 2:43 | 2024-04-12 |  |
 | [Beautiful Rainy Day](https://open.spotify.com/track/4NY8UWWb9uoZCLFf0N8LKz) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Beautiful Rainy Day](https://open.spotify.com/album/4n5skA7DUzTonktYFpQV6x) | 1:54 | 2023-08-17 | 2023-09-15 |
 | [Beautiful Second](https://open.spotify.com/track/568ikRW1wqzBzErxEN14uF) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Beautiful Second](https://open.spotify.com/album/7MFSLYIwc9PSlNM11b4Mt9) | 2:44 | 2023-01-20 | 2024-01-27 |
 | [Beauty](https://open.spotify.com/track/6EUUmzdCjRl3vXJjuPACFw) | [Chill Beats Music](https://open.spotify.com/artist/46d1ndWtnYj9kxd3IlQykV), [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [JazzHop to Chill To](https://open.spotify.com/album/1ak0gu67byTow5Sgdf98m9) | 2:12 | 2020-10-09 | 2021-01-04 |
@@ -1117,7 +1118,7 @@
 | [Farewell](https://open.spotify.com/track/6IWyXH6vjPdhQFp8YxNU5V) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt) | [Farewell](https://open.spotify.com/album/2iUFmp0fO0Mkc9jEsWIfi9) | 2:16 | 2023-12-01 | 2024-01-05 |
 | [Farewell Sunsets](https://open.spotify.com/track/3evPT3wO15y3WgYutAQKvd) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y) | [Farewell Sunsets](https://open.spotify.com/album/1l4MExe6D96agzJTUfqsM0) | 2:30 | 2023-10-05 | 2023-11-14 |
 | [Farewell to Shaman](https://open.spotify.com/track/0nevZ2Ezq589BnYF5YXdjq) | [Spectateur](https://open.spotify.com/artist/1AZzFXI8C6JD8nMdcSLmgW), [La Cantina](https://open.spotify.com/artist/01iBYoUzhKZLQAGRDF0L9U) | [Farewell to Shaman](https://open.spotify.com/album/3pNrtCNDNq8MYTp0ZI05MX) | 2:08 | 2021-07-09 | 2021-11-25 |
-| [Farlands](https://open.spotify.com/track/5q3OHXJX1lX5wNJmrm93GD) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Farlands](https://open.spotify.com/album/7wr0LYZiFh5SQ86PzRIHIP) | 1:33 | 2024-02-08 |  |
+| [Farlands](https://open.spotify.com/track/5q3OHXJX1lX5wNJmrm93GD) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Farlands](https://open.spotify.com/album/7wr0LYZiFh5SQ86PzRIHIP) | 1:33 | 2024-02-08 | 2024-04-13 |
 | [Fave Thing](https://open.spotify.com/track/6VCeEqyExn5hfV1dBsGDIm) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Fave Thing](https://open.spotify.com/album/0ecADXvGhKIWjKDwX37Aox) | 3:04 | 2019-11-01 | 2020-04-24 |
 | [Faye \- Village Live](https://open.spotify.com/track/7A2Fpl8gfayOmCJSH0xFhm) | [Aver](https://open.spotify.com/artist/0lBiVIJxGVqGyNkfjGuZKi), [Move 78](https://open.spotify.com/artist/3gmX5TSkgW4iu2dm71QzWr) | [Faye \(Village Live\)](https://open.spotify.com/album/1oxUImMwKhuPjGptt81tEO) | 4:10 | 2020-12-11 | 2021-02-01 |
 | [Fearless](https://open.spotify.com/track/1zkW0E6gPOXkl0UNvMK4vB) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Fearless](https://open.spotify.com/album/2AhlDroDgazTUk6WTXhhtz) | 2:49 | 2022-09-22 | 2023-03-10 |

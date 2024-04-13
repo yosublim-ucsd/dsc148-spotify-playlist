@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-316 songs - 19 hr 49 min
+317 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Forward Forever](https://open.spotify.com/track/6nP3iynkH0n2eyrQsLDKym) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Forward Forever](https://open.spotify.com/album/4W0lEnaWhcHu5jOIc3sMCY) | 3:08 | 2024-01-26 |  |
 | [Freakshow](https://open.spotify.com/track/1baHOoZsXsqLbvEIJKRzuT) | [Govan Jones](https://open.spotify.com/artist/5OHfhJA5Vwgc9U6OpkGfIm) | [Freakshow](https://open.spotify.com/album/2H9aRFjhzT8l2bDVrWwPFM) | 4:24 | 2023-06-29 | 2023-07-08 |
 | [fund$](https://open.spotify.com/track/2zsWUr91K3TIdnzWb0XOmI) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [fund$](https://open.spotify.com/album/2ijUGC3jwcZO6lNLDdEcUR) | 2:32 | 2023-09-27 | 2023-10-26 |
-| [Gag](https://open.spotify.com/track/5weADp7HHlgE2RGl0L4kBF) | [Maleigh Zan](https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG) | [Gag](https://open.spotify.com/album/7Iq01QrhVdHMVuEDXRxmxk) | 3:14 | 2024-03-07 |  |
+| [Gag](https://open.spotify.com/track/5weADp7HHlgE2RGl0L4kBF) | [Maleigh Zan](https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG) | [Gag](https://open.spotify.com/album/7Iq01QrhVdHMVuEDXRxmxk) | 3:14 | 2024-03-07 | 2024-04-13 |
+| [Gag](https://open.spotify.com/track/3U3ZX37PA3AUzR9t7aUzbq) | [Maleigh Zan](https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG) | [Gag](https://open.spotify.com/album/1v0c2ccfvC1Us2yHkkyvaR) | 3:15 | 2024-03-15 |  |
 | [Get Busy \(Mshikashika\)](https://open.spotify.com/track/5kTKXAvNPxUjvHybQmhwpo) | [Dr\. Chaii](https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [Get Busy \(Mshikashika\)](https://open.spotify.com/album/51t31jOVRJMnffJmXTbR3L) | 3:49 | 2023-12-15 | 2024-02-10 |
 | [Get Down Lil Bit \- Street Bangers Factory 16](https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir) | [Traxman](https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh) | [Get Down Lil Bit \(Street Bangers Factory 16\)](https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn) | 4:50 | 2023-11-02 | 2024-02-03 |
 | [Get Lucky \(With Kelli\-Leigh\)](https://open.spotify.com/track/332h3KTAmeomFwC5oTop19) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Get Lucky \(With Kelli\-Leigh\)](https://open.spotify.com/album/32SBeISKsxzoVKD0a9iIPw) | 2:57 | 2023-04-07 | 2023-06-30 |

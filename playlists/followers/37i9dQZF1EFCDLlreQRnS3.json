@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 34,
+  "2024-04-13": 34,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR\">Molly Irvine</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Molly Irvine",
@@ -277,6 +277,24 @@
       "duration_ms": 182400,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/3f8d8noW0QkAD63iCeEsQX"
+    },
+    {
+      "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/2RodNtKtjIRZr8R0qkRm3A"
+      },
+      "artists": [
+        {
+          "name": "SRTW",
+          "url": "https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/3LsmdnI5ZhcrAmsecZwnq9"
     },
     {
       "album": {
@@ -1175,6 +1193,24 @@
       "duration_ms": 184212,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/3fDPr16Vfg42BPuxjI1xY4"
+    },
+    {
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/6xOinKBhlnTjIdMRCJgg4I"
+      },
+      "artists": [
+        {
+          "name": "Jonasu",
+          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163929,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/5gFMmlneOGAKlGYEKQIFEX"
     },
     {
       "album": {

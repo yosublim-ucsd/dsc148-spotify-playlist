@@ -4,7 +4,7 @@
 
 > Shake up your wake up with a selection of feel good songs that will get you bouncing out the door.
 
-1,460 songs - 3 day 10 hr 55 min
+1,461 songs - 3 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Dancing](https://open.spotify.com/track/789nvq2ZtxCHwiPK03Lh2q) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Golden](https://open.spotify.com/album/1RcGz0VThX1yhSFkwyff0O) | 2:58 | 2019-08-05 | 2022-04-20 |
 | [Dancing In The Dark](https://open.spotify.com/track/4moXVLw4YS7tVNmjs8v60A) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/14IYDXybb1XKu51QHDryak) | 3:59 | 2021-03-11 | 2021-03-22 |
 | [Dancing In the Dark](https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:01 | 2023-06-22 |  |
+| [Dancing in the Moonlight](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z) | 3:52 | 2023-12-15 |  |
 | [Dancing in the Moonlight](https://open.spotify.com/track/5hmJIY19Z6bLs0JNsrAMPD) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [4 Hits](https://open.spotify.com/album/0tz7fJQHS08LrsJsubYQNy) | 3:53 | 2019-07-29\* | 2022-04-17 |
 | [Dancing In The Moonlight \(feat\. NEIMY\)](https://open.spotify.com/track/4Vs8RLrUdDXeaZbNeIOrtn) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Dancing In The Moonlight \(feat\. NEIMY\)](https://open.spotify.com/album/3W6PgZUb6L1bvHXO0HyH3I) | 2:44 | 2020-08-04 | 2022-07-29 |
 | [Dancing In The Storm](https://open.spotify.com/track/6XzWrZIxG83Cs6bM5BSMfr) | [Boom Crash Opera](https://open.spotify.com/artist/2KisNXWizbrJVoif4Lt2u5) | [The Best Things](https://open.spotify.com/album/1r2WOjK9q9XAakM8mNmj8k) | 4:11 | 2019-08-06 | 2022-04-18 |
@@ -424,7 +425,7 @@
 | [Futon Couch](https://open.spotify.com/track/2PZqXcvQUhKxSvXgimwGrl) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [Futon Couch](https://open.spotify.com/album/1g09BbZFCIQTWUPt3vM4Oa) | 3:25 | 2021-03-14 | 2022-04-09 |
 | [Geronimo](https://open.spotify.com/track/4hd4YTkABCn2zuTZeYEA6D) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Bombs Away](https://open.spotify.com/album/6BfgDdkVUsERG4SZQTbO97) | 3:38 | 2019-10-25 | 2022-04-02 |
 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-09-14 |  |
-| [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA) | 4:08 | 2019-08-01 |  |
+| [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA) | 4:08 | 2019-08-01 | 2024-04-13 |
 | [Get Outta My Dreams, Get into My Car](https://open.spotify.com/track/3v8vsQfMQio7ohYqFrEsaZ) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Tear Down These Walls](https://open.spotify.com/album/07Vx4BMLibfALsM5pkSyVP) | 5:33 | 2019-07-31 | 2022-04-17 |
 | [Get Stüpid](https://open.spotify.com/track/4PMLEEYw4mblYsPlDSHKyu) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Crystalline](https://open.spotify.com/album/1RAujeeZfUbofVGJUJ0qb8) | 2:52 | 2019-07-30 | 2022-04-19 |
 | [Get the Party Started](https://open.spotify.com/track/4bk78jvK8Fe9YHqruOJW0v) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [M!ssundaztood](https://open.spotify.com/album/03pT16iWbhVKpDodI37D8b) | 3:11 | 2019-08-06 | 2019-08-09 |

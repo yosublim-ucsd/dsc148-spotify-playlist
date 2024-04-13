@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-2,490 songs - 5 day 2 hr 1 min
+2,491 songs - 5 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1333,7 +1333,7 @@
 | [Love Ya \(feat\. Mario\)](https://open.spotify.com/track/2mnkgopUgJq09Na8JXgMIh) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Seductive](https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5) | 3:37 | 2024-02-24 | 2024-03-11 |
 | [Love, Peace & Happiness](https://open.spotify.com/track/6IEPS3UmtASWPMqpHa2XKY) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB), [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX), [Yasha](https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU) | [Love, Peace & Happiness](https://open.spotify.com/album/2SUtYGDsNIacDXy0v6de7k) | 3:33 | 2021-09-19 | 2021-09-20 |
 | [Lovesong](https://open.spotify.com/track/2Cog6WTjyfEqZEj0eecGeS) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [Lovesong](https://open.spotify.com/album/7kQJJ7WcmsHmuq7tJsTL3t) | 2:10 | 2024-01-27 | 2024-01-29 |
-| [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-15 |  |
+| [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-15 | 2024-04-13 |
 | [LOW LIFE](https://open.spotify.com/track/3IjfWBZrBISpcLhIMY44T6) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz) | [LOW LIFE](https://open.spotify.com/album/5neGbwZNt8CBqWB3eP0hHV) | 2:27 | 2021-03-27\* | 2021-04-11 |
 | [LOWE](https://open.spotify.com/track/35WcLlPTdIGqMIx0K2rzkS) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq), [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1) | [LOWE](https://open.spotify.com/album/0VRGKbQweqljMj5NaFcb4R) | 2:23 | 2023-03-18 | 2023-03-26 |
 | [LOYALTY OVER LOVE](https://open.spotify.com/track/0iW7kcRCbGZrgHeCENon1x) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [LOYALTY OVER LOVE](https://open.spotify.com/album/7rIaWEhgDe2UgpWb5sqir0) | 3:16 | 2022-01-08 | 2022-01-15 |
@@ -2157,6 +2157,7 @@
 | [The Light](https://open.spotify.com/track/6j5BK1cFX9TjJd5EXHGgAn) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Light](https://open.spotify.com/album/2thP70nudcFpvmRl3AsYRa) | 2:52 | 2023-03-25 | 2023-03-27 |
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2021-12-17 | 2023-01-03 |
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2024-01-15 | 2024-02-07 |
+| [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc) | 3:05 | 2024-04-12 |  |
 | [Theater★](https://open.spotify.com/track/0SGtCOR4G9fx9PQq9shKkw) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf) | [Theater★](https://open.spotify.com/album/2VqZQpC4erfX9dNVkE5AZS) | 2:35 | 2023-08-19 | 2023-10-15 |
 | [Theater★](https://open.spotify.com/track/3mXLCPmEwNPOll1BZedEA9) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf) | [denk mal drüber nach...](https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx) | 2:35 | 2023-10-14 | 2023-10-17 |
 | [Theorie und Praxis](https://open.spotify.com/track/3SE6QeQcTbrV4goXLIU1xm) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Theorie und Praxis](https://open.spotify.com/album/23sHEkOm49h3AwijvtsTJW) | 2:35 | 2024-03-09 | 2024-03-11 |

@@ -4,7 +4,7 @@
 
 > New tunes from Ireland for your discovery\. Cover: Oscar Blue
 
-127 songs - 7 hr 8 min
+128 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [BLOW!](https://open.spotify.com/track/5ELT4PdWP7CaveDVvKKqLf) | [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud) | [BLOW!](https://open.spotify.com/album/2Pk7R5TkupH1Xtl3MIZoUm) | 3:02 | 2024-03-08 |  |
 | [Blue Blood](https://open.spotify.com/track/1ISY7X7jCpJsbKOVlE0BeK) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [Blue Blood](https://open.spotify.com/album/4NoVNF1zzaIf47ctj9oOS4) | 2:34 | 2024-02-02 |  |
 | [board games](https://open.spotify.com/track/4443fSuLl236FMsPXf9Zvt) | [katie phelan](https://open.spotify.com/artist/7g4ZlfLhJhCxpaMPUH2PY4) | [board games](https://open.spotify.com/album/3oaGwQVhXpIqZiZJUFtCtv) | 2:55 | 2024-02-02 | 2024-03-02 |
+| [Body Issues](https://open.spotify.com/track/3tcZIF1c2vKv7eTMDuS8aD) | [Ellen O'Meara](https://open.spotify.com/artist/1DdpdoDBbLsNfyDQTvdXST) | [Body Issues](https://open.spotify.com/album/7t3648j4XIiHuZeLTvI26R) | 3:08 | 2024-04-11 |  |
 | [Boyfriend](https://open.spotify.com/track/7HQ1uP9ljzPXe6qgaOlFgc) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [Boyfriend](https://open.spotify.com/album/5AwxyJ0KmVm17VWaH1Hybu) | 2:54 | 2024-04-05 |  |
 | [Chelsea Bakery](https://open.spotify.com/track/4nFnrQgocP9fvcF5lOO87t) | [Fizzy Orange](https://open.spotify.com/artist/1hSt79a7e2OZzSD3pJgtCZ) | [Chelsea Bakery](https://open.spotify.com/album/02DHWSoYSF7Q0oyuBO18Pc) | 2:57 | 2024-02-16 |  |
 | [Cherry Delight](https://open.spotify.com/track/4w2rs45lbR16nWa7UclbzN) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Cherry Delight](https://open.spotify.com/album/5J3jmFBDseDbLmrtto1bcy) | 2:57 | 2024-02-02 | 2024-03-02 |

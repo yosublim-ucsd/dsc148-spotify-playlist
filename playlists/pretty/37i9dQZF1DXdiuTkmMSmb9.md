@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 ### [Afro Fusion](https://open.spotify.com/playlist/37i9dQZF1DXdiuTkmMSmb9)
 
-> Tropical jams to catch a vibe and whine to\. Cover: Tyla
+> Tropical jams to catch a vibe and whine to\. Cover: Shensea
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,933 likes - 94 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,943 likes - 94 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 93 | [Lean N Bop](https://open.spotify.com/track/0XIOs2aWpTkSPquI4LTQiG) | [Aky](https://open.spotify.com/artist/708eMhYj413UnpARPinsH0), [Yaw Faso](https://open.spotify.com/artist/15DoyzRB8Y3fOIAOoZr3MV) | [Lean N Bop](https://open.spotify.com/album/657oIPJNrskGPWI9k7BpPO) | 2:30 |
 | 94 | [Basquiat](https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:14 |
 
-Snapshot ID: `MTcxMjg4NDE2MiwwMDAwMDAwMDYyZTNmYjYyZmE4NjE1N2NmY2VlZGJlNmY0MjM1NDU1`
+Snapshot ID: `MTcxMjk3MTk4MiwwMDAwMDAwMGU2Y2FmNDc4NjA4YzYzMzBjMTI0ODNiN2Y2YmY5MDgz`

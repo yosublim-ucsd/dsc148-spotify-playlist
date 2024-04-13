@@ -4,7 +4,7 @@
 
 > 
 
-413 songs - 1 day 2 hr 40 min
+414 songs - 1 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Endlessly](https://open.spotify.com/track/0Jeryc6ZLEnmqKkAo60zCw) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [Summer Mixtape](https://open.spotify.com/album/6O4uH6QxqSUfIgYsXB4cMa) | 2:14 | 2023-01-06 |  |
 | [enough for you](https://open.spotify.com/track/2TOzTqQXNmR2zDJXihjZ2e) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:22 | 2024-01-31 |  |
 | [epiphany](https://open.spotify.com/track/08fa9LFcFBTcilB3iq2e2A) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:49 | 2022-12-03 |  |
+| [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-12 |  |
 | [eulogy](https://open.spotify.com/track/7bUhDLMQZ6CgILHMdn67dh) | [Christabelle Marbun](https://open.spotify.com/artist/6A4Sbpi0Ow0FqXLqsVD3RB) | [eulogy](https://open.spotify.com/album/65NvuSoaHqLOJz6s8h4uLM) | 4:56 | 2023-11-29 |  |
 | [Every Girl Gets Her Wish](https://open.spotify.com/track/3tTsP4LqtcZYT8XDsbGwym) | [Saint Avangeline](https://open.spotify.com/artist/0j49VqyyFRbclqg8Jv3Sdq) | [Every Girl Gets Her Wish](https://open.spotify.com/album/1YmREdbLnvfZY4W14mK2CB) | 4:19 | 2023-04-04 |  |
 | [Everywhere \- 2017 Remaster](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:46 | 2023-12-20 | 2024-03-20 |

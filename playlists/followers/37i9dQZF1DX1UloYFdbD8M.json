@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 30785,
+  "2024-04-13": 30806,
   "date_first_scraped": "2023-05-19",
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Pina Colada Blues",
   "name": "Malayalam Indie",
@@ -501,7 +501,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 149000,
       "name": "Chayapattu",
       "url": "https://open.spotify.com/track/4d8u6nDK0hRliTXQ8lDKdt"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 149000,
       "name": "Chayapattu",
       "url": "https://open.spotify.com/track/4y7DF2YwXJPcYpX9mFl8pW"
@@ -2459,6 +2459,28 @@
     {
       "album": {
         "name": "Rithu",
+        "url": "https://open.spotify.com/album/3KPax7QTCyyEFDeJWuvHXr"
+      },
+      "artists": [
+        {
+          "name": "Project Malabaricus",
+          "url": "https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l"
+        },
+        {
+          "name": "Sithara Krishnakumar",
+          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335750,
+      "name": "Pilleranu",
+      "url": "https://open.spotify.com/track/0yf1E6IHDdHb3iDeJseptM"
+    },
+    {
+      "album": {
+        "name": "Rithu",
         "url": "https://open.spotify.com/album/1Q7ieGfKYonq3H7f6DzDnn"
       },
       "artists": [
@@ -2473,7 +2495,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 335750,
       "name": "Pilleranu",
       "url": "https://open.spotify.com/track/76WNVxMrseVg3NT5UQ1dcd"

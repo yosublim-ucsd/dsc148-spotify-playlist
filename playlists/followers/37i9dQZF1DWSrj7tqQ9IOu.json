@@ -1,7 +1,7 @@
 {
-  "2024-04-12": 404846,
+  "2024-04-13": 404865,
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : L'Imp\u00e9ratrice",
+  "description": "The best French indie tracks right now. Cover : Alice et Moi",
   "name": "Made in France",
   "tracks": [
     {
@@ -356,6 +356,28 @@
     },
     {
       "album": {
+        "name": "Amber Eyes",
+        "url": "https://open.spotify.com/album/67JTOVjd0Ya8S2EgzpoLl4"
+      },
+      "artists": [
+        {
+          "name": "Peter Dallas",
+          "url": "https://open.spotify.com/artist/47Te42t2C14Fo2yXqa6kZh"
+        },
+        {
+          "name": "\u00e9ol",
+          "url": "https://open.spotify.com/artist/3Qsh8vZLpSAHADVBkGD70N"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195169,
+      "name": "Amber Eyes",
+      "url": "https://open.spotify.com/track/6DrkAx1pj4KdRTfDsmWcEP"
+    },
+    {
+      "album": {
         "name": "Fantasy - Chapter 1",
         "url": "https://open.spotify.com/album/5iTMzvGDxXbZO5hlaqkpqz"
       },
@@ -697,6 +719,24 @@
       "duration_ms": 180689,
       "name": "best day ever",
       "url": "https://open.spotify.com/track/5Oj8fVzb2Ha8NutbI0x3P8"
+    },
+    {
+      "album": {
+        "name": "BETTER PLACE",
+        "url": "https://open.spotify.com/album/08ieQlcdmu8tcAjIJLq7eK"
+      },
+      "artists": [
+        {
+          "name": "Martin Oh",
+          "url": "https://open.spotify.com/artist/6HLceITotixnO2OoXhc5so"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161360,
+      "name": "BETTER PLACE",
+      "url": "https://open.spotify.com/track/59vMIi4rwjO9LRIDU5TrtG"
     },
     {
       "album": {
@@ -7001,7 +7041,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 198000,
       "name": "Se laisser partir",
       "url": "https://open.spotify.com/track/7AU11YKhAzZhRGwGDiXJqj"
@@ -7569,7 +7609,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 161363,
       "name": "Stay Tonight",
       "url": "https://open.spotify.com/track/2cQEVcWkIBoOPk2e6Wtgo7"
@@ -7995,7 +8035,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 210733,
       "name": "The Secret (The Promise Version)",
       "url": "https://open.spotify.com/track/5QjzQ7asp6pyZ3vA5hdJdH"
@@ -8807,6 +8847,24 @@
       "duration_ms": 185942,
       "name": "What A Life (j'fais ma life) [feat. Suzane]",
       "url": "https://open.spotify.com/track/3KkdZgcQxYQQZQXumGO1Cy"
+    },
+    {
+      "album": {
+        "name": "what have u done",
+        "url": "https://open.spotify.com/album/0kHHrX6HtCzG7occ1xeRmr"
+      },
+      "artists": [
+        {
+          "name": "Kevin Heartbeats",
+          "url": "https://open.spotify.com/artist/3hnYXtcKvZcua5mprGrsTG"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185968,
+      "name": "what have u done",
+      "url": "https://open.spotify.com/track/2CVjS07I3t34ULLDSPRLLW"
     },
     {
       "album": {

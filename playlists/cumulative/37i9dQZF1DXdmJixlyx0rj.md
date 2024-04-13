@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: Peggy Gou\)
 
-100 songs - 5 hr 56 min
+101 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,10 +89,11 @@
 | [Raingurl](https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 3:57 | 2024-04-05 |  |
 | [Red Flavor \- Mar Vista Remix](https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [Mar Vista](https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo) | [iScreaM Vol.25 : Red Flavor Remix](https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn) | 3:36 | 2024-04-05 |  |
 | [Ridin' \- IMLAY Remix](https://open.spotify.com/track/2oQmOWx2DCkYm8uKuk5iVG) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) | [iScreaM Vol.2 : Ridin' Remixes](https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN) | 3:34 | 2024-04-05 |  |
-| [Ridin' \- Will Not Fear Remix](https://open.spotify.com/track/4SzTxy50i4bNdqT8FFYWBp) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [Will Not Fear](https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N) | [iScreaM Vol.2 : Ridin' Remixes](https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN) | 3:00 | 2024-04-05 |  |
+| [Ridin' \- Will Not Fear Remix](https://open.spotify.com/track/4SzTxy50i4bNdqT8FFYWBp) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [Will Not Fear](https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N) | [iScreaM Vol.2 : Ridin' Remixes](https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN) | 3:00 | 2024-04-05 | 2024-04-13 |
 | [Samduck](https://open.spotify.com/track/3cwPm46wCBpPx6fnPEowUR) | [D\-Steal](https://open.spotify.com/artist/6bi3UYlp3xOsZKR87BwR4j), [Castle J](https://open.spotify.com/artist/4q3a3Tyj21xvY85TBpkR6H), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Samduck](https://open.spotify.com/album/0VszkBflaKTagL0NdUKEl7) | 2:19 | 2024-04-05 |  |
 | [SCREAM](https://open.spotify.com/track/6F3cF9xuPXYa6vZKrAQOlo) | [MINUE](https://open.spotify.com/artist/42uRfrf9fDSQnz01l4A0FT) | [SCREAM](https://open.spotify.com/album/5CPafj4qfe1TYV5M8mS2AX) | 3:14 | 2024-04-05 |  |
 | [Shining Like the Sun in the Sky](https://open.spotify.com/track/5GxFVAV7gPzOGzQZz73i1C) | [Cafrii](https://open.spotify.com/artist/2cNg9QqJy1QJEGn8pZOUWe) | [Shining Like the Sun in the Sky](https://open.spotify.com/album/1ivI5AZxoM5Ou9wApLUYAo) | 3:15 | 2024-04-05 |  |
+| [Smoothie \- Arkins Remix](https://open.spotify.com/track/41i0luwYM6xe8u0TaD3JKU) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [iScreaM Vol.31 : Smoothie Remix](https://open.spotify.com/album/1SXuAONZqhv9YDMvfxunRp) | 3:07 | 2024-04-12 |  |
 | [Somehow](https://open.spotify.com/track/5jTBnpgBWqg6lrcJYCgqQR) | [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8), [Pure 100%](https://open.spotify.com/artist/1j6Xsh5L64ZW29gJ7CIhsP) | [Somehow](https://open.spotify.com/album/7LCMzOqyH92BzrmhIxWldO) | 2:54 | 2024-04-05 |  |
 | [Spicy \- Nitepunk Remix](https://open.spotify.com/track/41Kf9FQ2Dxj81cjQpEWDUJ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [iScreaM Vol.26 : Spicy Remix](https://open.spotify.com/album/55N0UTP5992idhnEYOKYd9) | 3:10 | 2024-04-05 |  |
 | [STARDUST](https://open.spotify.com/track/3BtCVejiOinwiGzPIbmsrA) | [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2), [XIAOJUN](https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7) | [STARDUST](https://open.spotify.com/album/58IMKl6lvTfzTLoy6sOjJL) | 2:59 | 2024-04-05 |  |

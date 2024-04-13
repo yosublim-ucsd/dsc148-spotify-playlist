@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,752 likes - 110 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,763 likes - 110 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 16 | [先生几位](https://open.spotify.com/track/7FT2JF15SiaETLwLpmGtg6) | [甘草片r](https://open.spotify.com/artist/2KAigK3r6FbiuX4Q3XbXsw) | [先生几位](https://open.spotify.com/album/3EsGZBEFpd9lJUsKOJH3z4) | 3:24 |
 | 17 | [咖啡因](https://open.spotify.com/track/7cuWy2MfBUgydgH4pW9Uiw) | [苏星婕](https://open.spotify.com/artist/19nBOLVLKxrijWEvjpXFI8) | [咖啡因](https://open.spotify.com/album/0Q97u8yOwE7CTdSFJQpXLg) | 2:24 |
 | 18 | [星海](https://open.spotify.com/track/0bwGpx3URtJxrFRso33MlP) | [鄧佳坤](https://open.spotify.com/artist/4JgKGHn3UcX2jj412WrFLw) | [星海](https://open.spotify.com/album/1N5OVHZHhtujf7yi3HR0Ju) | 3:41 |
-| 19 | [荆棘中孤生的花](https://open.spotify.com/track/0a461vZllfrVyU485r3Rb1) | [希林娜依•高](https://open.spotify.com/artist/2BzEJybfRAL6DxCeYW2e7G) | [荆棘中孤生的花](https://open.spotify.com/album/3mzDSUb22vStObzaj7Puq5) | 3:05 |
+| 19 | [荆棘中孤生的花 \- 影视剧《惜花芷》主题曲](https://open.spotify.com/track/0a461vZllfrVyU485r3Rb1) | [希林娜依•高](https://open.spotify.com/artist/2BzEJybfRAL6DxCeYW2e7G) | [荆棘中孤生的花 \(影视剧《惜花芷》主题曲\)](https://open.spotify.com/album/3mzDSUb22vStObzaj7Puq5) | 3:05 |
 | 20 | [我們不再分離 \(電視劇《對你不止是喜歡》片尾曲\)](https://open.spotify.com/track/2eauerGKUSxIP1AJ1gLXX6) | [金潤吉](https://open.spotify.com/artist/6RiVZoXefHAxrzTZoPMAdT) | [我們不再分離 \(電視劇《對你不止是喜歡》片尾曲\)](https://open.spotify.com/album/7HUiPNDoqJmpKpXb6bUvya) | 4:09 |
 | 21 | [不動聲色](https://open.spotify.com/track/1FcIDPwbkyQw7yFukStn84) | [黄淑惠](https://open.spotify.com/artist/06KaZVpvqT7NvzFdF5Cwhd) | [不動聲色](https://open.spotify.com/album/5SBT6Gr0oPJXCDRfdeQQkj) | 4:41 |
 | 22 | [謝幕](https://open.spotify.com/track/7qqrbqHcX0UMSI1SsYVVf6) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [謝幕](https://open.spotify.com/album/0lkZgRyVYqPgQqe8z3N0Ls) | 4:03 |

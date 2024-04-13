@@ -4,7 +4,7 @@
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Liu, Juicce
 
-175 songs - 8 hr 57 min
+176 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Lost For Days \- Remix](https://open.spotify.com/track/7eUv5Miiq8xSbEKpzI2zJd) | [DJ Valle](https://open.spotify.com/artist/5cYXpZE0nMP9yKot4mb32e) | [Lost For Days \(Remix\)](https://open.spotify.com/album/03kcd2pUOAq7BFD6l54akK) | 2:35 | 2021-12-24 | 2022-03-05 |
 | [Lost Generation \- Edit](https://open.spotify.com/track/4IAQZlLWEiMhrYPfL4btZi) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz), [Bulgarian Voices Angelite](https://open.spotify.com/artist/6OxyG688AdDLBKo5yrJXU9), [Huun\-Huur\-Tu](https://open.spotify.com/artist/1bK0K2tuAcvMScEWIHt54t) | [Lost Generation](https://open.spotify.com/album/2s9p73FuCiqa0XBz3jtevC) | 2:43 | 2022-11-25 | 2024-03-09 |
 | [Love Goes](https://open.spotify.com/track/3uAFwegcb4Vavx5BNgzXT9) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [Jae Walters](https://open.spotify.com/artist/2kAm3LwfVyqbufmusOcanD) | [Love Goes](https://open.spotify.com/album/3vGHDvBv1PAtzQCnD00eAO) | 3:21 | 2023-01-20 | 2024-04-06 |
+| [Make It Right](https://open.spotify.com/track/2iw3LpeCoQnsz8Ip9KZFuW) | [Flux Zone](https://open.spotify.com/artist/5bc0ZhQrLswD1dDqRNvc5S) | [Make It Right](https://open.spotify.com/album/2d02o3jAuy4Rnyd7bdy8PO) | 3:35 | 2024-04-12 |  |
 | [Michael Jordan](https://open.spotify.com/track/32WxH1Qka15MbHI81jBv3R) | [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa) | [Michael Jordan](https://open.spotify.com/album/5hIUv1fnohxphRqND4DBjr) | 2:41 | 2024-02-16 |  |
 | [Midnight](https://open.spotify.com/track/0G5Lb2yYO6OgGLKOEiGJoE) | [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Y&M](https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q) | [Midnight](https://open.spotify.com/album/6c4l39l4KI7waOKtqfQy3T) | 4:43 | 2024-03-22 |  |
 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 | 2021-12-24 | 2023-12-09 |
@@ -124,7 +125,7 @@
 | [Night Time](https://open.spotify.com/track/4COSS0u8fXB2qYtW5bbVaE) | [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Marmii](https://open.spotify.com/artist/6AgnQLNYgI4j92GWE4cg6k) | [Night Time](https://open.spotify.com/album/5eo5f4UypNJpSMMzFtqUrB) | 2:15 | 2022-09-23 | 2023-01-21 |
 | [Nightmare](https://open.spotify.com/track/7eByPAx572J3cclC8y3mkp) | [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh) | [Nightmare](https://open.spotify.com/album/4VPlyMZAnN0D78J2C49cky) | 3:29 | 2023-04-21 |  |
 | [Nothing](https://open.spotify.com/track/7mI2Hb578fXNLJOTfAdICI) | [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2) | [Nothing](https://open.spotify.com/album/6ICQ72lx4SLiwNxT5iVVc5) | 2:54 | 2021-12-24 | 2022-07-30 |
-| [Oi Oi Oi](https://open.spotify.com/track/1fn0416bV6PgBQW7WtG97v) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Maxximal](https://open.spotify.com/artist/5qPkBljA5md7aECwFxSabY), [MC Hollywood](https://open.spotify.com/artist/5jjAhuJ1IyVRmm4ZsXhsRG) | [Oi Oi Oi](https://open.spotify.com/album/4ABDUmuhob2WNlAXTprObg) | 2:17 | 2023-03-03 |  |
+| [Oi Oi Oi](https://open.spotify.com/track/1fn0416bV6PgBQW7WtG97v) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Maxximal](https://open.spotify.com/artist/5qPkBljA5md7aECwFxSabY), [MC Hollywood](https://open.spotify.com/artist/5jjAhuJ1IyVRmm4ZsXhsRG) | [Oi Oi Oi](https://open.spotify.com/album/4ABDUmuhob2WNlAXTprObg) | 2:17 | 2023-03-03 | 2024-04-13 |
 | [On & On](https://open.spotify.com/track/4JWzHP8Loi9M6ZSOoIkkOA) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4) | [On & On](https://open.spotify.com/album/60WrzKoiRdmG6TVv7I6243) | 2:09 | 2024-04-05 |  |
 | [Party Crashers](https://open.spotify.com/track/2gVxKVSXaj9AONYkw2AUZc) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Party Crashers](https://open.spotify.com/album/3LLtXVH3HDyBIOBQ1SKl6l) | 2:35 | 2023-09-15 |  |
 | [Pega Pega](https://open.spotify.com/track/3c65eVJXgjdGXjsfLjqy6D) | [FTampa](https://open.spotify.com/artist/6P6fVBXZjnqdgq2z2b8WlO), [The Otherz](https://open.spotify.com/artist/2vi0mEbkU7fjjyJs1dcukY) | [Pega Pega](https://open.spotify.com/album/61GhWu3UEDaYkXbIcLWNJW) | 2:38 | 2023-03-31 | 2023-07-22 |

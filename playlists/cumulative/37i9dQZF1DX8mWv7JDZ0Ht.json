@@ -1786,7 +1786,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 178402,
       "name": "Chico (English Version)",
       "url": "https://open.spotify.com/track/6AErmv0Xg3YVmTZo4jgz1z"
@@ -5032,6 +5032,24 @@
       "duration_ms": 184682,
       "name": "Leve",
       "url": "https://open.spotify.com/track/6lpvsomA1rOjC9Nf1Na4sz"
+    },
+    {
+      "album": {
+        "name": "Leve",
+        "url": "https://open.spotify.com/album/6IpeEAsup8HxzCIKlvnh5B"
+      },
+      "artists": [
+        {
+          "name": "Suhai",
+          "url": "https://open.spotify.com/artist/7qxYJsbJ6l2IgZbJyr1XBR"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160875,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/7AkXdni6wENxnSE9kWG768"
     },
     {
       "album": {
@@ -8342,7 +8360,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 170294,
       "name": "Renata",
       "url": "https://open.spotify.com/track/4XMc6OTIFSzkcDKOLrA682"
@@ -9844,6 +9862,24 @@
       "duration_ms": 302653,
       "name": "Teu Calor",
       "url": "https://open.spotify.com/track/0Cz8QlQ80iGaBW9i2Rizp8"
+    },
+    {
+      "album": {
+        "name": "o futuro j\u00e1 est\u00e1 acontecendo",
+        "url": "https://open.spotify.com/album/3sksOMEsFfAjf83Zz9HGLj"
+      },
+      "artists": [
+        {
+          "name": "A Banda Mais Bonita da Cidade",
+          "url": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290502,
+      "name": "Teu Ch\u00e1",
+      "url": "https://open.spotify.com/track/0LKDqjA1o6o8voEEvz2fJH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Nicolle Galyon
 
-251 songs - 14 hr 39 min
+252 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Play Ball](https://open.spotify.com/track/5CTDvtk1JHrGEygDfx5Dml) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Ashley McBryde Presents: Lindeville](https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq) | 3:27 | 2022-09-30 |  |
 | [Play It Again](https://open.spotify.com/track/1QATfUAj9unkkGyw605XNY) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Ashley Gorley](https://open.spotify.com/artist/0kTOf32ibrDhDYZCjbZ64T) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:42 | 2022-01-01 |  |
 | [Polyester](https://open.spotify.com/track/7i5VzJlK9dICTe6RENfmzz) | [Luke Dick](https://open.spotify.com/artist/5QPfnUFtAHVNdqmJHpJmTg), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Red Dog \(Music from the Documentary\)](https://open.spotify.com/album/33tcvg35cWhYwHFzNVH8j3) | 3:50 | 2022-01-01 |  |
+| [Put It In A Song](https://open.spotify.com/track/33JXc7HJY4mZcCuGESBgtD) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Put It In A Song](https://open.spotify.com/album/4enHcau3yyps8zTLjImeuH) | 3:35 | 2024-04-12 |  |
 | [Radio Silence](https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Radio Silence](https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe) | 3:42 | 2022-01-01 |  |
 | [Red Satin Dress](https://open.spotify.com/track/0k7sELmj9D9rNtVWCyCw4h) | [Don Schlitz](https://open.spotify.com/artist/4qsw90Ipm5SbFLFQZ4tvLr) | [Red Satin Dress](https://open.spotify.com/album/0naK2HyiBWs3NUBmtAt69v) | 4:01 | 2022-01-01 |  |
 | [Right on Time](https://open.spotify.com/track/5mGRUc1K0PeiIZVLgENPbU) | [Brett James](https://open.spotify.com/artist/3WIMGDdZYN91QQr3zGzpxo) | [Tell the People](https://open.spotify.com/album/0AXC4SSbB9ojN8ZFxXNTwt) | 2:54 | 2022-01-01 |  |

@@ -4,7 +4,7 @@
 
 > Floor fillers and big streamers of 2012.
 
-65 songs - 4 hr 5 min
+66 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Love Is All I Got](https://open.spotify.com/track/3INFQGizSgnmEJJlLIUJt1) | [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby), [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Calamari Tuesday](https://open.spotify.com/album/6eamRXvrKVz5VN1noerGMr) | 3:05 | 2022-10-14 |  |
 | [Love Is All I Got](https://open.spotify.com/track/3qLGSJpnDsK03FnT8tBO23) | [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby), [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Calamari Tuesday](https://open.spotify.com/album/1AHCElkEl3EKimlINxtGBP) | 3:05 | 2022-10-14 | 2024-02-04 |
 | [Make It Bun Dem](https://open.spotify.com/track/0mlf3yOGzVnIVxjybDQL3h) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Make It Bun Dem After Hours EP](https://open.spotify.com/album/3ipNtzV1LNGEBWu4VSsmjP) | 3:33 | 2022-10-14 |  |
-| [Mammoth \- Radio Version](https://open.spotify.com/track/1j5jW3sBFEWYMPkO5Tl1oX) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Mammoth](https://open.spotify.com/album/39vWIvcvAv0hEJrpaVieDg) | 2:40 | 2022-10-14 |  |
+| [Mammoth \- Radio Edit](https://open.spotify.com/track/7bX9Z6HPHO96BL5vNK9k3Y) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [House Classics, Vol\. 1 \(Presented by Spinnin' Records\)](https://open.spotify.com/album/7Cghhp1oxalD3s0LZ6V6cE) | 2:40 | 2022-10-14 |  |
+| [Mammoth \- Radio Version](https://open.spotify.com/track/1j5jW3sBFEWYMPkO5Tl1oX) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Mammoth](https://open.spotify.com/album/39vWIvcvAv0hEJrpaVieDg) | 2:40 | 2022-10-14 | 2024-04-13 |
 | [Midnight City \- Eric Prydz Private Remix](https://open.spotify.com/track/53YYzXe4shE5FF13XBrhGz) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Midnight City \(Eric Prydz Private Remix\)](https://open.spotify.com/album/5oOaP8n5kFkbxQkzp86tlU) | 5:57 | 2022-10-14 |  |
 | [Million Voices \- Radio Edit](https://open.spotify.com/track/0MOiv7WTXCqvm89lVCf9C8) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Million Voices](https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4) | 3:12 | 2022-10-14 |  |
 | [My Life Is a Party \- Radio Edit](https://open.spotify.com/track/6h7otZE1lZfWkynZKUcCqq) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [My Life Is a Party](https://open.spotify.com/album/0GKpUIgQxhMX7dAdRGfatQ) | 3:12 | 2022-10-14 |  |

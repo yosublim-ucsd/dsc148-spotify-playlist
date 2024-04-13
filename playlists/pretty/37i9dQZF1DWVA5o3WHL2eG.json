@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover:  Ellen Allien",
-  "num_followers": 33837,
+  "num_followers": 33838,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
+        "name": "atlantik",
+        "url": "https://open.spotify.com/album/0Z68a7uPj7L15g2xEUPV4f"
+      },
+      "artists": [
+        {
+          "name": "elimako",
+          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
+        }
+      ],
+      "duration_ms": 174200,
+      "name": "atlantik",
+      "url": "https://open.spotify.com/track/4xEcgqxZ1H1LwkXHLJ362C"
+    },
+    {
+      "added_at": "2024-04-02 22:00:00",
+      "album": {
         "name": "Nagel",
         "url": "https://open.spotify.com/album/7N2lhEDlcMWaQ10SEZ0tMh"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 219142,
       "name": "viele",
       "url": "https://open.spotify.com/track/38zw0z87YOu2zDY2DbgiyV"
-    },
-    {
-      "added_at": "2024-04-02 22:00:00",
-      "album": {
-        "name": "atlantik",
-        "url": "https://open.spotify.com/album/0Z68a7uPj7L15g2xEUPV4f"
-      },
-      "artists": [
-        {
-          "name": "elimako",
-          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
-        }
-      ],
-      "duration_ms": 174200,
-      "name": "atlantik",
-      "url": "https://open.spotify.com/track/4xEcgqxZ1H1LwkXHLJ362C"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "FBGM",
-        "url": "https://open.spotify.com/album/6kkf72bft08zQ1SRjZfgE2"
-      },
-      "artists": [
-        {
-          "name": "BOUNTY & COCOA",
-          "url": "https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "FBGM",
-      "url": "https://open.spotify.com/track/7yxDtXHBvrL8WLNKGHcDFh"
-    },
-    {
-      "added_at": "2024-04-02 22:00:00",
-      "album": {
         "name": "Deine Stra\u00dfe",
         "url": "https://open.spotify.com/album/5bCo4mqyIkUvg7KyrIre0V"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 155492,
       "name": "Deine Stra\u00dfe",
       "url": "https://open.spotify.com/track/585TXTK16mHP1qQv1vFOJE"
+    },
+    {
+      "added_at": "2024-04-02 22:00:00",
+      "album": {
+        "name": "FBGM",
+        "url": "https://open.spotify.com/album/6kkf72bft08zQ1SRjZfgE2"
+      },
+      "artists": [
+        {
+          "name": "BOUNTY & COCOA",
+          "url": "https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "FBGM",
+      "url": "https://open.spotify.com/track/7yxDtXHBvrL8WLNKGHcDFh"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "PUSSY",
-        "url": "https://open.spotify.com/album/2RutdwnAJOpDdfb37y679D"
-      },
-      "artists": [
-        {
-          "name": "IUMA",
-          "url": "https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "PUSSY",
-      "url": "https://open.spotify.com/track/14hAks9JaH82iOsr3q6QOO"
-    },
-    {
-      "added_at": "2024-04-02 22:00:00",
-      "album": {
         "name": "Perfect Pretender",
         "url": "https://open.spotify.com/album/3RnxG2oAkg701EZBQ0p6z7"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 203700,
       "name": "Perfect Pretender",
       "url": "https://open.spotify.com/track/26fxJQCaIH4RkuuZVVDeDT"
+    },
+    {
+      "added_at": "2024-04-02 22:00:00",
+      "album": {
+        "name": "PUSSY",
+        "url": "https://open.spotify.com/album/2RutdwnAJOpDdfb37y679D"
+      },
+      "artists": [
+        {
+          "name": "IUMA",
+          "url": "https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "PUSSY",
+      "url": "https://open.spotify.com/track/14hAks9JaH82iOsr3q6QOO"
     },
     {
       "added_at": "2024-04-02 22:00:00",

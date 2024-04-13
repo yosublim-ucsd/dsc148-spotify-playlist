@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-516 songs - 1 day 6 hr 39 min
+517 songs - 1 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,7 +439,8 @@
 | [Tea Vibes](https://open.spotify.com/track/5RjmGdKkv1jm1eZay74ViD) | [Pranav Giridharan](https://open.spotify.com/artist/2keJl7E7SiJW9jF2A5y104), [Vaibhav Murugesan](https://open.spotify.com/artist/269tIKxn6flLnFkjQrGiny) | [Tea Vibes](https://open.spotify.com/album/4UQWiTOg75IvIlw4W8YI4H) | 3:31 | 2022-07-11 | 2022-07-29 |
 | [Thalaradhe](https://open.spotify.com/track/1mb6CBQ7l1QfuaF3Av9kSR) | [Nijil Dhinakar](https://open.spotify.com/artist/0Y4SyLXBpdQUJAml0K2Qmn), [Karthik baskar](https://open.spotify.com/artist/1ye2t09VNGVKiVnubCWhuT) | [Thalaradhe](https://open.spotify.com/album/4aQNQEPmLqtqoNjD0ISk00) | 2:03 | 2022-08-23 | 2023-02-09 |
 | [Thalayaatti Bommai \- From "Think Originals"](https://open.spotify.com/track/6AXVNRqao5TcomgIPWiWnm) | [Dev Major](https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv), [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0) | [Thalayaatti Bommai \(From "Think Originals"\)](https://open.spotify.com/album/15kqLTDPwuLphV2mpl4sYc) | 3:27 | 2022-08-30 | 2022-10-07 |
-| [Thamarai Poovilum](https://open.spotify.com/track/1Rs4zHwr6JWFyHKj0ucv4K) | [Ram Muthiah](https://open.spotify.com/artist/6FmTbZeAj6lhscs3PLXVUa), [Sai Madhukar](https://open.spotify.com/artist/0Zt595ddYyhnoQN42mt4OT), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Thamarai Poovilum](https://open.spotify.com/album/32mPyTwlznacWc17apgBvl) | 5:30 | 2023-11-14 |  |
+| [Thamarai Poovilum](https://open.spotify.com/track/1Rs4zHwr6JWFyHKj0ucv4K) | [Ram Muthiah](https://open.spotify.com/artist/6FmTbZeAj6lhscs3PLXVUa), [Sai Madhukar](https://open.spotify.com/artist/0Zt595ddYyhnoQN42mt4OT), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Thamarai Poovilum](https://open.spotify.com/album/32mPyTwlznacWc17apgBvl) | 5:30 | 2023-11-14 | 2024-04-13 |
+| [Thamarai Poovilum](https://open.spotify.com/track/5KDOstMGWmTNnpJeGnEBcV) | [Ram Muthiah](https://open.spotify.com/artist/6FmTbZeAj6lhscs3PLXVUa), [Sai Madhukar](https://open.spotify.com/artist/0Zt595ddYyhnoQN42mt4OT), [Thavakkumar L](https://open.spotify.com/artist/0BaOOBuR8vFl0buwwOmiLq), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Thamarai Poovilum](https://open.spotify.com/album/24HbIZCOVx6QnUVK5m3brj) | 5:30 | 2023-11-14 |  |
 | [Thamizh Vaazhthu \| Coke Studio Tamil](https://open.spotify.com/track/4XvxndH2koU01sfjR9nCNf) | [Arivu & The Ambassa](https://open.spotify.com/artist/3rA7Kily0Zn9WtS1TlwMed) | [Thamizh Vaazhthu \| Coke Studio Tamil](https://open.spotify.com/album/5NCdVF9c6q3r4DMZ7Wg3hO) | 6:16 | 2024-04-10 |  |
 | [thamizhachi.](https://open.spotify.com/track/3IeeDRRDhcTCNIrbF5Xo0i) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Therukural](https://open.spotify.com/album/7gBpS4mYJ2YEvd9GpDn6jI) | 3:26 | 2021-12-01 | 2022-08-12 |
 | [Thandananae Metagen](https://open.spotify.com/track/03eCtcvHSyUkq0LSlRfDmL) | [Oxygen World Fusion Music Band](https://open.spotify.com/artist/33NPndmRz4nlEGs0yO2r8l), [Tenor Strings](https://open.spotify.com/artist/6NpWPtVunT8TkdsI6PNSN6) | [Thandananae Metagen](https://open.spotify.com/album/3LdVRj3WizD4hL8go16TEi) | 3:41 | 2022-08-03 | 2023-02-07 |

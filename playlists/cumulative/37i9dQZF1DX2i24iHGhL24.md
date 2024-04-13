@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-419 songs - 1 day 0 hr 4 min
+420 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Black Velvet \- Junos 365 Sessions](https://open.spotify.com/track/2ccf3s5PhImfbhrmg21CMG) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Black Velvet \(Junos 365 Sessions\)](https://open.spotify.com/album/3vRrUGaOVWRzyKuzdFvK41) | 3:38 | 2021-12-17 | 2022-12-30 |
 | [Blank Space/Stand By Me \- Live From Spotify London](https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons \(Spotify Sessions\)](https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA) | 5:03 | 2022-02-18 | 2022-12-30 |
 | [Blinding Lights](https://open.spotify.com/track/2VFW7dt49JbOgzVBwZOCwC) | [Jennel Garcia](https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN) | [Blinding Lights](https://open.spotify.com/album/1oTvZ0EYr09AJsdliPbMd4) | 2:55 | 2021-12-17 | 2022-12-30 |
+| [Boo'd Up](https://open.spotify.com/track/5YM7Ae4VUe7LNtvCcYpUcA) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Boo'd Up](https://open.spotify.com/album/0g8PqKip0qIQAKLyNd3lAi) | 3:47 | 2024-04-12 |  |
 | [Boom Clap](https://open.spotify.com/track/3j0oJtPonSYt9f5jHVLb91) | [Lennon & Maisy](https://open.spotify.com/artist/720fJ5sGqAOhvU2IUypqIr) | [Boom Clap](https://open.spotify.com/album/2R7c2w7VihO8ouuNAjjOKj) | 2:55 | 2021-12-17 | 2022-12-30 |
 | [Both Sides Now](https://open.spotify.com/track/0guXAYPSEiOgyYf4AUjrDa) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Both Sides Now](https://open.spotify.com/album/05Ye3Or5i0I36wM13lEzyt) | 4:44 | 2021-12-17 | 2023-10-17 |
 | [Boyfriends](https://open.spotify.com/track/7jZTyWuQaTMpjO5SjF3RtS) | [Wilson Phillips](https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim) | [Boyfriends](https://open.spotify.com/album/0M2bXUTiOZYYcFJNDEbDWh) | 2:54 | 2022-12-02 | 2023-10-17 |
@@ -240,7 +241,7 @@
 | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 | 2022-05-27 |  |
 | [Leave \(Get Out\) \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Spotify Singles](https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND) | 3:15 | 2021-12-17 |  |
 | [Let Me Love You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1Ue0oCRGIs4ARyg3ucMmRJ) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Spotify Singles](https://open.spotify.com/album/0IHfimWKQ6PMXKEekqHp36) | 3:41 | 2022-02-18 | 2022-10-29 |
-| [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 | 2023-04-14 |  |
+| [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 | 2023-04-14 | 2024-04-13 |
 | [Little Did I Know \(Acoustic\)](https://open.spotify.com/track/6q6706YiswU2UH0bvoxhnQ) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Aubrey Toone](https://open.spotify.com/artist/61R2K577GF9XaGmrzJIebF) | [Little Did I Know \(Acoustic\)](https://open.spotify.com/album/18gEMMuUgAgMreSPv8pBC5) | 3:10 | 2021-12-17 | 2022-01-22 |
 | [Lose You To Love Me](https://open.spotify.com/track/4Nh0VN6kYKzcZHBwXWtZDD) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Spotify Singles](https://open.spotify.com/album/1Lfr02RCVj36QJzjVfEEi9) | 3:55 | 2021-12-17 | 2022-05-02 |
 | [Lose You to Love Me \- Acoustic](https://open.spotify.com/track/6juFeoYKK64BjjgrfAC1wO) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Maddy Newton](https://open.spotify.com/artist/15MDrArE0tDC8GTMSOCKcp) | [Lose You to Love Me \(Acoustic\)](https://open.spotify.com/album/3LEbT1tRrGObg4JWMmte5y) | 3:20 | 2021-12-17 | 2022-01-22 |

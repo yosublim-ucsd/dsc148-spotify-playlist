@@ -1,6 +1,6 @@
 {
   "description": "For all the new African Gospel Releases this week. Cover:   <a href=https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H?si=qKQwfB1lSJ2l9wiSy8YSiA>Malcolm Rue</a> ",
-  "num_followers": 21041,
+  "num_followers": 21073,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-04-12 00:01:00",
       "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/3MxhOfWrDc4k7iPWfAaqGY"
+      },
+      "artists": [
+        {
+          "name": "Stephen Willo",
+          "url": "https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa"
+        }
+      ],
+      "duration_ms": 222615,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/5aT1R5O6t9vD38ZH1lpCR2"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
         "name": "Remember Me",
         "url": "https://open.spotify.com/album/7vSAfrEquHlI4QCz72B1wO"
       },
@@ -875,6 +891,26 @@
       "duration_ms": 142978,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/3IdBaxcQgISbp1cwc4lKQj"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "Psalms 23",
+        "url": "https://open.spotify.com/album/77na3WEu647Ki6SMLUyj3c"
+      },
+      "artists": [
+        {
+          "name": "Esua",
+          "url": "https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2"
+        },
+        {
+          "name": "Ibquake",
+          "url": "https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u"
+        }
+      ],
+      "duration_ms": 106766,
+      "name": "Psalms 23",
+      "url": "https://open.spotify.com/track/5r1Szh29yffvwkf3af6kmk"
     },
     {
       "added_at": "2024-04-12 00:01:00",

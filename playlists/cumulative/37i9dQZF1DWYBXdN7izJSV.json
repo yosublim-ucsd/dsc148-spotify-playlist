@@ -1234,10 +1234,28 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 246226,
       "name": "Outfit",
       "url": "https://open.spotify.com/track/0jkCFkoSMYsElFZTbTb38r"
+    },
+    {
+      "album": {
+        "name": "Decoration Day",
+        "url": "https://open.spotify.com/album/6OvqGbq7ehttNYfH5vjncw"
+      },
+      "artists": [
+        {
+          "name": "Drive-By Truckers",
+          "url": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246226,
+      "name": "Outfit",
+      "url": "https://open.spotify.com/track/2nes7xBxT8C2ol7lthypyF"
     },
     {
       "album": {
@@ -1270,10 +1288,28 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 276626,
       "name": "Pinball Song",
       "url": "https://open.spotify.com/track/3X2stgfjH1I30FMLHzFWJI"
+    },
+    {
+      "album": {
+        "name": "Everything You Thought Was Right Was Wrong Today",
+        "url": "https://open.spotify.com/album/7zD9HvdRiTjrMLPRlYUhPm"
+      },
+      "artists": [
+        {
+          "name": "Slobberbone",
+          "url": "https://open.spotify.com/artist/5U1pEBuiFLycsQ4mYP3nmK"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276626,
+      "name": "Pinball Song",
+      "url": "https://open.spotify.com/track/7CHu6LTxpP2sGqp8RpLR21"
     },
     {
       "album": {

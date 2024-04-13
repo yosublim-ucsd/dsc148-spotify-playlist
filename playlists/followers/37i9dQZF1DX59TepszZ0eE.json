@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 61370,
+  "2024-04-13": 61516,
   "date_first_scraped": "2022-10-01",
   "description": "Celebrate 10 years of \"<a href=https://open.spotify.com/album/3mHxSlMvvFPNA3DSnuYrvr?si=8G1-Ky4QS9anz0EYqFS44A>Joyous Celebration</a>, Vol. 18: One Purpose\" with us!",
   "name": "Sunday Praise",
@@ -1145,7 +1145,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 316096,
       "name": "Hlala nami Jesu (Live at Goshen City Church 2023)",
       "url": "https://open.spotify.com/track/7IfLc4ghOUY1MgGfM0vk0m"
@@ -1989,6 +1989,36 @@
       "duration_ms": 231841,
       "name": "Khuleka",
       "url": "https://open.spotify.com/track/39EpmzDoVvefX1XssjF5jx"
+    },
+    {
+      "album": {
+        "name": "Come to Jesus (Live in Bryanston, 2022)",
+        "url": "https://open.spotify.com/album/4VZzP0RuA5R7FXzQT1H499"
+      },
+      "artists": [
+        {
+          "name": "The Fellowship",
+          "url": "https://open.spotify.com/artist/21fiKdzTbnSKNmYUnyggga"
+        },
+        {
+          "name": "Mthunzi Namba",
+          "url": "https://open.spotify.com/artist/1MukIJ87BL0zO3LusoV8hv"
+        },
+        {
+          "name": "Siphelele Vundla",
+          "url": "https://open.spotify.com/artist/3TFbyMSFzQ2pbJWd0O4KMD"
+        },
+        {
+          "name": "Awethu Namba-Satsha",
+          "url": "https://open.spotify.com/artist/1ZAmFaLTG6BjfD8NjStpqH"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337946,
+      "name": "King Jesus (Live in Bryanston, 2022) (feat. Siphelele Vundla & Awethu Namba-Satsha)",
+      "url": "https://open.spotify.com/track/1aFilSkkqwbcDmwpBzIN6b"
     },
     {
       "album": {

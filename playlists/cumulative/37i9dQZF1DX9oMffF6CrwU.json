@@ -346,6 +346,24 @@
     {
       "album": {
         "name": "Ghosts of West Virginia",
+        "url": "https://open.spotify.com/album/3QM2ypoX90glMEFVy5mCka"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173633,
+      "name": "Devil Put the Coal in the Ground",
+      "url": "https://open.spotify.com/track/5QjQpV69v4jBd8WFSchAmx"
+    },
+    {
+      "album": {
+        "name": "Ghosts of West Virginia",
         "url": "https://open.spotify.com/album/6wQa5jlPJRxZnQjpZLlsMD"
       },
       "artists": [
@@ -356,7 +374,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 173633,
       "name": "Devil Put the Coal in the Ground",
       "url": "https://open.spotify.com/track/6Fxf8Al1jas3YLcvGXKX7w"
@@ -500,10 +518,28 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 186111,
       "name": "Everybody Walkin' This Land",
       "url": "https://open.spotify.com/track/7LXLgoroFNCQQpMQt0tMA7"
+    },
+    {
+      "album": {
+        "name": "Have Mercy",
+        "url": "https://open.spotify.com/album/66SziYQExXiFkuRTeqqLR1"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186111,
+      "name": "Everybody Walkin' This Land",
+      "url": "https://open.spotify.com/track/7kTV0hr6wnq7qfrAqbgy7N"
     },
     {
       "album": {
@@ -1584,10 +1620,32 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 207600,
       "name": "Water Witch",
       "url": "https://open.spotify.com/track/7MW0vSCN9g2T5eConVGEsO"
+    },
+    {
+      "album": {
+        "name": "Saturn Return",
+        "url": "https://open.spotify.com/album/536F4ddnWYRRNtZfy7L980"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Water Witch",
+      "url": "https://open.spotify.com/track/7rG9EzNhAh759qgRRc33pe"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Gerilson Insrael
 
-359 songs - 21 hr 24 min
+360 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Si Ki Min Krè](https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Si Ki Min Krè](https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW) | 2:39 | 2022-02-18 |  |
 | [Siguim](https://open.spotify.com/track/0Jbtm0lYGgmJixofbggR1e) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Siguim](https://open.spotify.com/album/1b5znILgCUFYB4xxJWRKTZ) | 3:04 | 2021-12-10 | 2023-03-29 |
 | [Sincera](https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO) | [Sincera](https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh) | 4:16 | 2022-04-07 |  |
+| [Sinto Falta](https://open.spotify.com/track/6SiSYZkjnIj2RWSG2iCTb8) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Sinto Falta](https://open.spotify.com/album/7kX74esVRq5dRZn8gu6tCb) | 3:21 | 2024-04-11 |  |
 | [Sinto Falta](https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Sinto Falta](https://open.spotify.com/album/10aek1HVhJYomxdvkC7jyq) | 3:22 | 2021-12-10 | 2024-03-22 |
 | [So Nos](https://open.spotify.com/track/1BYeVkjrSN7APBly0piieC) | [Maggio](https://open.spotify.com/artist/2qTmQdww3CmENx1BXgzJq3) | [So Nos](https://open.spotify.com/album/79gYsZpsUqalrUuRL633ck) | 3:21 | 2021-12-10 | 2022-07-29 |
 | [So Observo](https://open.spotify.com/track/4DRvNUiiqMcAffIwUJ6iAl) | [Denis Graça](https://open.spotify.com/artist/1cT0pBQ6D82GzRBeoMiXkV) | [Aquarius EP](https://open.spotify.com/album/6YX9gRuU594JQFyndoFXQt) | 3:46 | 2021-12-10 | 2022-07-26 |
@@ -307,7 +308,7 @@
 | [Spadja Pé](https://open.spotify.com/track/77GqJV1VlOmOYuiKKOsSR1) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Spadja Pé](https://open.spotify.com/album/44eEnwTHqdpyDswxubqcWn) | 3:26 | 2022-12-09 | 2023-02-10 |
 | [Sufri](https://open.spotify.com/track/1vd6txAL5vKVC0E4coywI4) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [Sufri](https://open.spotify.com/album/4VAr6Sgblk74GHpakDjZuq) | 3:15 | 2022-02-18 | 2022-05-14 |
 | [Suleban](https://open.spotify.com/track/6nDSopKJiyH5XfhwNSsKYG) | [William Araujo](https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon), [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [RED](https://open.spotify.com/album/5wNjW2Z5HwxBy8ljV6BKff) | 3:20 | 2021-12-10 |  |
-| [Super Mulher](https://open.spotify.com/track/4huF3o48HSf9nBBEiroPKu) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Super Mulher](https://open.spotify.com/album/6BUcd3hi6l2lqurfbFYZlC) | 3:52 | 2024-02-16 |  |
+| [Super Mulher](https://open.spotify.com/track/4huF3o48HSf9nBBEiroPKu) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Super Mulher](https://open.spotify.com/album/6BUcd3hi6l2lqurfbFYZlC) | 3:52 | 2024-02-16 | 2024-04-13 |
 | [Super Mulher](https://open.spotify.com/track/5wwr1f74OA9y3oAQVVsqvB) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Super Mulher](https://open.spotify.com/album/6LqxpzlJGADVpzKh2c16J5) | 3:52 | 2021-12-10 | 2024-01-18 |
 | [Só Nós 2](https://open.spotify.com/track/2u9wh68pKs26SY0N18d8U3) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Só Nós 2](https://open.spotify.com/album/7aQGaHD6kD0z3v6OMbKY18) | 3:49 | 2023-04-27 |  |
 | [Tarraxinha](https://open.spotify.com/track/5zFiKis35K7y8G4H5Y1A9j) | [Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [CEF Tanzy](https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G), [Black Vision](https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ) | [Tarraxinha](https://open.spotify.com/album/74ausXGM4e3XqEi8Ew7wda) | 2:24 | 2024-01-12 |  |

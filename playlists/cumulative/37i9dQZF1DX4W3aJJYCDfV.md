@@ -4,7 +4,7 @@
 
 > Brand new music from Nia Archives \(pictured\), Dua Lipa, Perrie and more!
 
-9,752 songs - 21 day 22 hr 44 min
+9,754 songs - 21 day 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -897,7 +897,8 @@
 | [Better Man](https://open.spotify.com/track/001ynVS4F9gJ4dKdvnzjMp) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Better Man](https://open.spotify.com/album/2MQkhHQpZPSahzils2tLuF) | 3:25 | 2024-04-04 | 2024-04-12 |
 | [Better Man](https://open.spotify.com/track/2BHbnX2TI08CyUa9gWFeqK) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 2:52 | 2023-04-06 | 2023-04-14 |
 | [Better Man](https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Better Man](https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7) | 3:12 | 2023-05-11 | 2023-05-19 |
-| [Better Now You Know](https://open.spotify.com/track/0sJVvgSyK3L6OLiEvOwIfB) | [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Better Now You Know](https://open.spotify.com/album/7jKx5R5096vRo9GVcpmdtf) | 3:23 | 2024-04-11 |  |
+| [Better Now You Know](https://open.spotify.com/track/0sJVvgSyK3L6OLiEvOwIfB) | [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Better Now You Know](https://open.spotify.com/album/7jKx5R5096vRo9GVcpmdtf) | 3:23 | 2024-04-11 | 2024-04-13 |
+| [Better Now You Know](https://open.spotify.com/track/2eeO5vItvbKCpNlcl1wUsA) | [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Better Now You Know](https://open.spotify.com/album/7ekWzySGW31wSKXMyKppFQ) | 3:23 | 2024-04-11 |  |
 | [Better Now You're Gone](https://open.spotify.com/track/1VuYDtXZsEPVnAQ9JVt5Lk) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Better Now You're Gone](https://open.spotify.com/album/27x5ydoA9E4xDyUc6Xvgu9) | 3:01 | 2024-02-02 | 2024-02-09 |
 | [Better Off](https://open.spotify.com/track/4kEt94IvVWYL46YiHhRdNB) | [Dréya Mac](https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP) | [Better Off](https://open.spotify.com/album/0gF03DYa7rRpGuSS6jx66Q) | 2:15 | 2023-06-15 | 2023-06-23 |
 | [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC) | [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS) | 2:31 | 2023-09-28 | 2023-10-06 |
@@ -8125,7 +8126,7 @@
 | [Take It Slow](https://open.spotify.com/track/1yELr6kwFxfSaWVUy8XECp) | [Jess Edie](https://open.spotify.com/artist/53VVsc5oWILOL1S8CbPDU4), [BNMO](https://open.spotify.com/artist/0K93FFKHhvSVG654YlexpR) | [Take It Slow](https://open.spotify.com/album/5tIfAOfroRzZcw6cKnWqrM) | 3:19 | 2023-07-20 | 2023-07-28 |
 | [Take It To The Grave](https://open.spotify.com/track/5UrEzlxaYC9yxbc7lmRC4Z) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Super Sonic](https://open.spotify.com/album/5y7SQbUSGR0drtr8aQsvzb) | 2:51 | 2023-11-03 | 2023-11-10 |
 | [Take Me Away](https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Take Me Away](https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt) | 2:59 | 2023-03-03 | 2023-03-10 |
-| [Take Me Away](https://open.spotify.com/track/0LDcW1jwOpYCqdDZbS1J6Y) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Nu La](https://open.spotify.com/artist/59ppBuokR1G7kl20djHD8N) | [Take Me Away](https://open.spotify.com/album/5BvRuLqGxYWgLmSyBBeC5D) | 3:09 | 2024-04-11 |  |
+| [Take Me Away](https://open.spotify.com/track/0LDcW1jwOpYCqdDZbS1J6Y) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Take Me Away](https://open.spotify.com/album/5BvRuLqGxYWgLmSyBBeC5D) | 3:09 | 2024-04-11 |  |
 | [Take Me Higher](https://open.spotify.com/track/0YpFX8CLikUfq6YhKR9YBe) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Take Me Higher](https://open.spotify.com/album/0XUxkWDS9vchR1q7dGAS3U) | 4:25 | 2023-09-28 | 2023-10-06 |
 | [Take me home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Take me home](https://open.spotify.com/album/4CykmPXyJzacASnoxR33ns) | 3:20 | 2022-12-16 | 2022-12-24 |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 | 2023-12-01 | 2023-12-08 |
@@ -9203,6 +9204,7 @@
 | [We Sell Hearts With No Appeal](https://open.spotify.com/track/57nsBNIjcLs158ATMvR7Gn) | [Deema](https://open.spotify.com/artist/3SBYl2unJoVzvNIUBC8ftm) | [We Sell Hearts With No Appeal](https://open.spotify.com/album/2WW6Qnx62IPYHm8TpHdiyY) | 3:06 | 2023-09-28 | 2023-10-06 |
 | [We Should Get Married](https://open.spotify.com/track/2syH39iwALerO994Pod9dB) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [We Should Get Married](https://open.spotify.com/album/5DqiJn6X0JGXhP3JMM9C3I) | 3:41 | 2023-08-25 | 2023-09-01 |
 | [We Still Believe](https://open.spotify.com/track/0uoaYBn3prfGyWQR59wkeQ) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jamie Principle](https://open.spotify.com/artist/5obQFNrkFoWB51hm1JTHMw) | [We Still Believe](https://open.spotify.com/album/4U5Eel8ZnGcI15TLj33QYe) | 3:50 | 2023-02-17 | 2023-02-24 |
+| [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 | 2024-04-12 |  |
 | [We Were Never Really Friends](https://open.spotify.com/track/3oUam1JxcuLVFKaAr5MWnN) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [We Were Never Really Friends](https://open.spotify.com/album/2S7z1CuntMrp5YhDvVRQA9) | 3:24 | 2023-05-04 | 2023-05-12 |
 | [We Were We Still Are](https://open.spotify.com/track/6UtZhGeeshz7mi219Y9XKe) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [We Were We Still Are](https://open.spotify.com/album/7gugs0djxoCY7kzXegHA40) | 2:57 | 2023-01-20 | 2023-01-27 |
 | [We'll Be Alright](https://open.spotify.com/track/3wICupddYZE7RMkkBOX1EO) | [Malan](https://open.spotify.com/artist/4lTwsxnU59QAenYUzJteBl) | [Bloom](https://open.spotify.com/album/2u3Hi9UIPSGYnuonotSkxE) | 3:11 | 2023-10-12 | 2023-10-20 |

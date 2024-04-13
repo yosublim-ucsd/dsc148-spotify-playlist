@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Slow Joy
 
-1,383 songs - 3 day 3 hr 52 min
+1,384 songs - 3 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1179,7 +1179,8 @@
 | [Swallow](https://open.spotify.com/track/0bDFmPqNCXQcfAc3njZszA) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Swallow](https://open.spotify.com/album/7hXMo6KNd71w3y7Zd4r134) | 3:09 | 2023-01-11 | 2023-02-02 |
 | [Sylvie's A Mess](https://open.spotify.com/track/4KHhb8Yvy03AtfsWMTPalP) | [Walter Etc.](https://open.spotify.com/artist/6oosocT7xXnTK2ehoe28mJ) | [Sylvie's A Mess](https://open.spotify.com/album/3xfSCABLEqZznsq4j9NvEK) | 1:40 | 2023-08-16 | 2023-11-09 |
 | [Symphony](https://open.spotify.com/track/6yCZOi01tXhtyzv9eI6HlG) | [Sawyer Hill](https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG) | [Symphony](https://open.spotify.com/album/4Dt1kK5lKHWDmYCGG9mKGa) | 2:38 | 2024-02-28 |  |
-| [Syrup](https://open.spotify.com/track/56HOxGRg1ICrkBLvWailZx) | [Elijah Johnston](https://open.spotify.com/artist/50as9VMbiduY1sVn0d7z2T) | [Hometown Vampire](https://open.spotify.com/album/4KybaR7XKX0v6u70W4YpS3) | 1:23 | 2024-01-31 |  |
+| [Syrup](https://open.spotify.com/track/1lGxw1hH4hYVXYVsBBQjHH) | [Elijah Johnston](https://open.spotify.com/artist/50as9VMbiduY1sVn0d7z2T) | [Hometown Vampire](https://open.spotify.com/album/75gCVc5enHhla8zBWqGRaV) | 1:23 | 2024-04-10 |  |
+| [Syrup](https://open.spotify.com/track/56HOxGRg1ICrkBLvWailZx) | [Elijah Johnston](https://open.spotify.com/artist/50as9VMbiduY1sVn0d7z2T) | [Hometown Vampire](https://open.spotify.com/album/4KybaR7XKX0v6u70W4YpS3) | 1:23 | 2024-01-31 | 2024-04-13 |
 | [t!mezone](https://open.spotify.com/track/4O8j9RMURUEsdFBtxGKaSZ) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [t!mezone](https://open.spotify.com/album/7LyemIrA9Xf7ZiiJTDiMvX) | 2:53 | 2023-09-20 | 2024-02-29 |
 | [T.E.A.M.](https://open.spotify.com/track/3CcMpAWB9jL7BD65liHsD9) | [Fight Scene](https://open.spotify.com/artist/3vFvn26cVHmyHR735HDh7x) | [T.E.A.M.](https://open.spotify.com/album/1KlH8sM2achMEe2OjpiX5S) | 3:26 | 2023-02-15 | 2023-04-06 |
 | [Tail Lights](https://open.spotify.com/track/3l5xSSOhaPA6i9mqPcJ1Df) | [Inconsistent Me](https://open.spotify.com/artist/5pqzhSLoRFmugiFDNggccT) | [Tail Lights](https://open.spotify.com/album/7bz08NYGpbNfUnkM7vOMfP) | 2:50 | 2023-01-11 | 2023-02-16 |

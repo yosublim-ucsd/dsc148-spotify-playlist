@@ -352,7 +352,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 392240,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/73RyhUtQnXgHB0Ko51EniR"
@@ -722,7 +722,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 241716,
       "name": "Another Brick In The Wall",
       "url": "https://open.spotify.com/track/6jQH7bOMrSecEmb3oWHeNW"
@@ -802,6 +802,28 @@
       "duration_ms": 295360,
       "name": "ARCO",
       "url": "https://open.spotify.com/track/2jmW1L3I4VjAS5wMf1qpug"
+    },
+    {
+      "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/5kPFmoFmWkHiwnq3s0ZaBJ"
+      },
+      "artists": [
+        {
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+        },
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177540,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/1d5J0Jhrq1t5KQAN5B7stF"
     },
     {
       "album": {
@@ -1108,7 +1130,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 386125,
       "name": "Baian\u00e1",
       "url": "https://open.spotify.com/track/0affmiNaAepIMjqDgVK7Y5"
@@ -2442,7 +2464,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 185624,
       "name": "Cuatro Vientos (HUGEL Version)",
       "url": "https://open.spotify.com/track/44SiXnPPTR872JUl1gdJ7x"
@@ -2534,7 +2556,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 212459,
       "name": "Dale",
       "url": "https://open.spotify.com/track/6c3qEL7Vqln2z2UKvnPjjm"
@@ -3212,7 +3234,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 257677,
       "name": "Egyptian Sun",
       "url": "https://open.spotify.com/track/0Y3xTcu928EXNhF5yuPOvH"
@@ -3572,7 +3594,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 195720,
       "name": "Eu Vou Pra Bahia",
       "url": "https://open.spotify.com/track/0Sp67H1rsdLZLbNUoOLYzX"
@@ -4752,7 +4774,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 259672,
       "name": "Horizon Red",
       "url": "https://open.spotify.com/track/7mDuQlXi4UsXa5VmKGcm2U"
@@ -5116,7 +5138,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 398531,
       "name": "If I Could Stop The Sunset",
       "url": "https://open.spotify.com/track/75gHYLYjhFCbtKS1gWkGr4"
@@ -5138,7 +5160,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 217708,
       "name": "If Love Is A Skill",
       "url": "https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8"
@@ -6196,7 +6218,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 220403,
       "name": "Let's Pretend",
       "url": "https://open.spotify.com/track/2w4OE0IjsQdmB07DDsc4r9"
@@ -6338,7 +6360,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 200952,
       "name": "Little Darling - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe"
@@ -6729,6 +6751,24 @@
     },
     {
       "album": {
+        "name": "Madison",
+        "url": "https://open.spotify.com/album/0RdOwSB4S1a8aobCCcM1CD"
+      },
+      "artists": [
+        {
+          "name": "Oliver Schories",
+          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216290,
+      "name": "Madison",
+      "url": "https://open.spotify.com/track/7I3lNfFc4kqfTFqugMkoH2"
+    },
+    {
+      "album": {
         "name": "Marea",
         "url": "https://open.spotify.com/album/6PD6FEDiZVVMOUhFnNw3kZ"
       },
@@ -6942,7 +6982,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 226497,
       "name": "Marimba",
       "url": "https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi"
@@ -8182,7 +8222,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 205500,
       "name": "N\u00e3o Sei Parar",
       "url": "https://open.spotify.com/track/620eMyji7XM9zf0kHwDsys"
@@ -9254,7 +9294,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 324057,
       "name": "Push Me",
       "url": "https://open.spotify.com/track/7GgtQOS5ZySXkzw2Qsl21y"
@@ -9472,7 +9512,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 159677,
       "name": "Rej",
       "url": "https://open.spotify.com/track/3lUxkr0khe2tqUJjWQW6Af"
@@ -9688,7 +9728,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 214596,
       "name": "Resonance",
       "url": "https://open.spotify.com/track/2KmOzRSCOSUoHL9CAwQbny"
@@ -11229,6 +11269,24 @@
     },
     {
       "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/6XO2PwbXZjVKY0IzIhLZWy"
+      },
+      "artists": [
+        {
+          "name": "Badbwoy",
+          "url": "https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273719,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/3exmU24JAYup27p2Y5D7gT"
+    },
+    {
+      "album": {
         "name": "Arpiano",
         "url": "https://open.spotify.com/album/6kx0Dh1xPYWgSqOk7LSXnf"
       },
@@ -11372,7 +11430,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 263162,
       "name": "The Silence",
       "url": "https://open.spotify.com/track/0CE4CLlvJIiis5GrGWNjjN"
@@ -11666,7 +11724,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-26",
+      "date_removed": null,
       "duration_ms": 189677,
       "name": "Tormenta",
       "url": "https://open.spotify.com/track/3AP0aiiXpP7gNVCUfevH3x"
@@ -11834,7 +11892,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 180814,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/4VdTPiVynDPgumUwyq72Yj"
@@ -12707,6 +12765,24 @@
     },
     {
       "album": {
+        "name": "Wild Animal",
+        "url": "https://open.spotify.com/album/01xjYoGDdMF7H9RnDmomPv"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280705,
+      "name": "Wild Animal",
+      "url": "https://open.spotify.com/track/3tt1Tsro73c0EBkj5ZAJtc"
+    },
+    {
+      "album": {
         "name": "Woe Misik",
         "url": "https://open.spotify.com/album/4L2QwRnQvj6m79glDv4OST"
       },
@@ -12874,7 +12950,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 311622,
       "name": "YOUR NAME",
       "url": "https://open.spotify.com/track/7uHnPv1DBxADOMBemb1Xdn"
@@ -12940,7 +13016,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-13",
       "duration_ms": 342857,
       "name": "Zodiac",
       "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"

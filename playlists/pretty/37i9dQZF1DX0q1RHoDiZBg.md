@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,612 likes - 104 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,614 likes - 104 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 26 | [Things We Said Today](https://open.spotify.com/track/1a1U3YQ4JZcVKUDKKQkJpz) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Things We Said Today](https://open.spotify.com/album/1Fvwf1nAFcGNoStW4MTz3D) | 3:01 |
 | 27 | [Just Like Tom Thumb's Blues](https://open.spotify.com/track/1E1qWlczlv3IEpAZfQ5lJr) | [The Handsome Family](https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq) | [Scattered](https://open.spotify.com/album/06iGGLNnQrEjhP9JkG7Kgo) | 5:39 |
 | 28 | [Blowin' in the Wind \- 2004 Remaster](https://open.spotify.com/track/0XIe81wYNtdvIttRAUEau4) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [The Very Best of Peter, Paul and Mary](https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0) | 2:56 |
-| 29 | [To Ramona](https://open.spotify.com/track/1DNHSNJIRaA9AI6KBHXmSq) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V), [Matthew Logan Vasquez](https://open.spotify.com/artist/4ndN8LWSsLWQqbWVJD8miG) | [To Ramona](https://open.spotify.com/album/6jsZz2IA32nYjLDh5JqNwE) | 5:08 |
+| 29 | [To Ramona](https://open.spotify.com/track/3xuxHO6K8Mp5zKOnc3sNuS) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V), [Matthew Logan Vasquez](https://open.spotify.com/artist/4ndN8LWSsLWQqbWVJD8miG) | [To Ramona](https://open.spotify.com/album/23t6VQpUsaGKwciRLXqAPA) | 5:08 |
 | 30 | [Baby, I'm In The Mood For You](https://open.spotify.com/track/50ZHlDg707OUDn61nba1gy) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Odetta Sings Dylan](https://open.spotify.com/album/2laIs6Ws4MhFazcJpFgZ34) | 2:48 |
 | 31 | [To Ramona](https://open.spotify.com/track/2gmrKmh73RmHGk5IT0ND3I) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Cryin' to You](https://open.spotify.com/album/5igs9SG03JODImNkAY8gM9) | 4:36 |
 | 32 | [A Hard Rain's A Gonna Fall](https://open.spotify.com/track/4SnfSdLHT7dJqiw2Q5cfnK) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Listen to Bob Dylan: A Tribute](https://open.spotify.com/album/2k4b6SP5UFZ6SfW3n7CY6z) | 8:12 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 52 | [With God On Our Side](https://open.spotify.com/track/73e4ndrkfGIxqXAWm9PFvx) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Odetta Sings Dylan](https://open.spotify.com/album/2laIs6Ws4MhFazcJpFgZ34) | 5:11 |
 | 53 | [Every Grain of Sand](https://open.spotify.com/track/4hlVWkQO0hxR9Ob1IsNdN0) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Wrecking Ball](https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP) | 3:55 |
 | 54 | [One Too Many Mornings](https://open.spotify.com/track/13e1JPvYIeAYOV7P68R64K) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International](https://open.spotify.com/album/1SB9SD66SM04dm8wZdLatY) | 3:47 |
-| 55 | [Buckets of Rain \- Live](https://open.spotify.com/track/2PoGyTZEy0OVz7fX9P2bxS) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Live From Austin, TX](https://open.spotify.com/album/2omhPQsUhtcv9lWE443mcC) | 2:48 |
+| 55 | [Buckets of Rain \- Live](https://open.spotify.com/track/40Crgt3WnrMsem2R6NrUTo) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Live From Austin, TX](https://open.spotify.com/album/0SYbx0YpgRJFBe5tMAkLlf) | 2:48 |
 | 56 | [I Believe in You \(Afternoon Rehearsal\) \- Rehearsal Performance at Madison Square Garden, New York, NY \- October 1992](https://open.spotify.com/track/0kLBqQUEnI4PaqHu7OcElj) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Bob Dylan \- 30th Anniversary Concert Celebration \[\(Deluxe Edition\) \[Remastered\]\]](https://open.spotify.com/album/5OlEEw6gIk32eMhOqRlfGu) | 6:20 |
 | 57 | [Visions of Johanna \(Live\)](https://open.spotify.com/track/3cyFCQWlqRhrWkR3qJnguN) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [50 Years of Blonde on Blonde \(Live\)](https://open.spotify.com/album/0uyUriz7zOAn1G9sB8zH8e) | 6:55 |
 | 58 | [Tangled Up In Blue \- Live at the Great American Music Hall, San Francisco, CA \-Aug 1992](https://open.spotify.com/track/1BAa8ztC3sFEGWVwyCPZnk) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [1200 Curfews](https://open.spotify.com/album/4HZfjH0LgBHRsrxDAHoFOe) | 8:02 |

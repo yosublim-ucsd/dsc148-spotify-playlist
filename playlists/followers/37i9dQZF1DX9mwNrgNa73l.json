@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 136455,
+  "2024-04-13": 136601,
   "date_first_scraped": "2022-06-22",
   "description": "Jahaan bhi dekho tera nishaan hai, mahraab-i dil men teri azaan hai.",
   "name": "South Asian Sufi",
@@ -1485,6 +1485,32 @@
       "duration_ms": 502520,
       "name": "Javeda Zindag",
       "url": "https://open.spotify.com/track/7KKgE6UHxqhuxkNV2k3AKn"
+    },
+    {
+      "album": {
+        "name": "Jogi",
+        "url": "https://open.spotify.com/album/7t3sKvvxqwyuRGho1YoGIS"
+      },
+      "artists": [
+        {
+          "name": "Kashan Admani",
+          "url": "https://open.spotify.com/artist/2MNgnCdZlDyxEfoTRQNEGE"
+        },
+        {
+          "name": "Mizmaar",
+          "url": "https://open.spotify.com/artist/20Rxsyc2uoS9oBx8GvqlXB"
+        },
+        {
+          "name": "Shubha Mudgal",
+          "url": "https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Jogi",
+      "url": "https://open.spotify.com/track/5pWgQV0bW2vca2jkd2iW29"
     },
     {
       "album": {

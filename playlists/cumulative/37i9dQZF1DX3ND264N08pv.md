@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-245 songs - 13 hr 50 min
+246 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Bass Face](https://open.spotify.com/track/4AuEotNw42YumygG85tYyV) | [D\-Frek](https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Bass Face](https://open.spotify.com/album/4LdrJQvh1iRoPY3pgVePE2) | 3:07 | 2024-02-08 |  |
 | [Battle For The Mind](https://open.spotify.com/track/348gfv2I7vLLE3qZuRM10N) | [Hardbouncer](https://open.spotify.com/artist/1ODM6xNS8Osji0prNFRK9H), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Battle For The Mind EP](https://open.spotify.com/album/4cnqX9Xi3GeQVsf1gVHmvk) | 3:20 | 2023-07-13 | 2023-09-13 |
 | [Battle Tonight](https://open.spotify.com/track/29Mp8a1JKqeSv5Oz52vXJv) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Battle Tonight](https://open.spotify.com/album/2X4Jg0NyQ8TVXQybcX7pQJ) | 4:08 | 2022-12-08 | 2023-06-02 |
-| [BE LOUDER](https://open.spotify.com/track/6ckT6ox1soFZMQluYlF6uG) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7) | [BE LOUDER](https://open.spotify.com/album/6dTq1L6wEGnJWNaEVCsTGg) | 2:51 | 2023-08-31 |  |
+| [BE LOUDER](https://open.spotify.com/track/6ckT6ox1soFZMQluYlF6uG) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7) | [BE LOUDER](https://open.spotify.com/album/6dTq1L6wEGnJWNaEVCsTGg) | 2:51 | 2023-08-31 | 2024-04-13 |
 | [Be The Light](https://open.spotify.com/track/3WaMpSz8UDnFIoDgtehaR4) | [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [Be The Light](https://open.spotify.com/album/0hJkfPlK8XUaIPHchvZDB9) | 3:15 | 2022-12-08 | 2022-12-13 |
 | [Beastmode](https://open.spotify.com/track/2NRNiUqKzAAt2CQL1FWSMU) | [Evil Activities](https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO) | [Beastmode](https://open.spotify.com/album/4SX8CfWWnB4zeUnvhG1WKY) | 4:01 | 2023-07-07 |  |
 | [BEAT DROP](https://open.spotify.com/track/6euvRHGSDbaHgbQYbJeX7S) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1) | [BEAT DROP](https://open.spotify.com/album/4tB9m8YxO1ubNOi6iYocZH) | 3:26 | 2023-04-06 | 2023-04-28 |
@@ -227,6 +227,7 @@
 | [The Oni Retribution](https://open.spotify.com/track/6QfKWeXzKVcbAhuPLyj9fP) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY) | [The Oni Retribution](https://open.spotify.com/album/18Wbb2JIGpMv6KAxcg7Cxb) | 4:25 | 2024-02-15 |  |
 | [The Other Side](https://open.spotify.com/track/65qF8kMxmpKagt23L0jJJv) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [The Other Side](https://open.spotify.com/album/7pSS3fffGxnngajOo32c9F) | 5:19 | 2022-12-08 | 2023-06-02 |
 | [The Protector](https://open.spotify.com/track/48IF3j773hpoiFt97HyooD) | [Distinction](https://open.spotify.com/artist/03FPXOHxGckbmbTQVqXmm3), [Kelly](https://open.spotify.com/artist/1EfC8FYxeatTpN8RZBiiHT) | [It's Time EP](https://open.spotify.com/album/4mxwkTvcFUddpupBXJz8Lp) | 3:59 | 2022-12-15 | 2024-01-25 |
+| [The Protest](https://open.spotify.com/track/1pd0GNHdkIyVxQybxNS46W) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p) | [The Protest](https://open.spotify.com/album/536OPRnnwY5JfGXiGW6cy5) | 3:11 | 2024-04-12 |  |
 | [The Resurrection \(Official Toxicator 2022 Anthem\)](https://open.spotify.com/track/1A86wZUo1CsjqycCQ8glen) | [Re\-Fuzz](https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs) | [The Resurrection \(Official Toxicator 2022 Anthem\)](https://open.spotify.com/album/0s4LZijzRcP42pi2QuqJaC) | 4:14 | 2022-12-08 |  |
 | [The Roots \- Official Harmony of Hardcore 2023 Anthem](https://open.spotify.com/track/6z0i14WyHNAdQq889bnSu8) | [Dj Mad Dog](https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4), [Dave Revan](https://open.spotify.com/artist/6lnLf5Y8uD0mP5dC0gXouZ) | [The Roots \(Official Harmony of Hardcore 2023 Anthem\)](https://open.spotify.com/album/7awpx7LqeMQlpGyu5CoBbA) | 3:55 | 2023-05-15 |  |
 | [The Sound Flow](https://open.spotify.com/track/2lH3W71iBNQGiQRLeHqPQF) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Promo](https://open.spotify.com/artist/6CG5i0dfyqWIOrqFY60ooq) | [The Sound Flow](https://open.spotify.com/album/3iqIKphcsHVZa5B0Soy0cH) | 4:25 | 2022-12-08 | 2023-06-02 |

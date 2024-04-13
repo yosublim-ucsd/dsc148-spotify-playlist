@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 215583,
+  "2024-04-13": 215618,
   "date_first_scraped": "2020-10-20",
   "description": "This is Barry White. The essential tracks, all in one playlist.",
   "name": "This Is Barry White",
@@ -525,7 +525,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 220493,
       "name": "I've Found Someone",
       "url": "https://open.spotify.com/track/4RlRqOg8hNWvJ0sY3gCimo"
@@ -793,7 +793,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 340826,
       "name": "Lady, Sweet Lady",
       "url": "https://open.spotify.com/track/10z1bj9T7hpJ9bfIlsHF1s"
@@ -1135,7 +1135,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 262733,
       "name": "Rio De Janeiro",
       "url": "https://open.spotify.com/track/1UvpQB8F2riBElL5bxlD6Q"
@@ -1523,7 +1523,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 639600,
       "name": "Whatever We Had, We Had",
       "url": "https://open.spotify.com/track/6Lu3H89JgTh2QzGRnZqYku"

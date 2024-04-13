@@ -2,7 +2,7 @@
 
 ### [This Is Los Invasores De Nuevo León](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3jkCWI)
 
-> This Is Los Invasores De Nuevo León\. Sus mejores éxitos, todos en una playlist.
+> This is Los Invasores De Nuevo León\. The essential tracks, all in one playlist.
 
 84 songs - 4 hr 10 min
 

@@ -4,14 +4,15 @@
 
 > Fast\-paced tunes for Tamil party time!<br/>Cover : Yuvan \- Anirudh
 
-130 songs - 8 hr 59 min
+131 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/1DmCs9mXUP9wnaTQcsT5aH) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4wbatnzqMwHfR7SOGzkJyi) | 0:00 | 2022-12-18 | 2023-05-09 |
 | [](https://open.spotify.com/track/7H7ktpLPBvpJ0A2pwUy4hB) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5hZOtTKT6VNJRgTDE28Hje) | 0:00 | 2022-12-09 | 2023-05-09 |
+| [Aadungada Enna Suthi \(From "Pokkiri"\)](https://open.spotify.com/track/2iIHGTEOmWdgpv96gmv9hJ) | [Naveen](https://open.spotify.com/artist/4xbLzGsR7W5QMlLS08BNGt) | [Singer Special \- Naveen](https://open.spotify.com/album/0r0FLyJiN9gPtuEX6Tri0M) | 4:26 | 2023-07-06 |  |
 | [Aadungada Yennai Suththi](https://open.spotify.com/track/4C9Pw35gedSicSDkS2jm4e) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Naveen](https://open.spotify.com/artist/4xbLzGsR7W5QMlLS08BNGt) | [Pokkiri](https://open.spotify.com/album/4Inz90EeQs57Oxc41GF6QO) | 4:30 | 2021-06-21 | 2023-03-11 |
-| [Aadungada Yennai Suththi](https://open.spotify.com/track/0Pbjnj8qDijSCS5FhPchpf) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Naveen](https://open.spotify.com/artist/4xbLzGsR7W5QMlLS08BNGt) | [Pokkiri \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/060sSIBZ3ceTaejDGdo5gw) | 4:34 | 2021-06-21 |  |
+| [Aadungada Yennai Suththi](https://open.spotify.com/track/0Pbjnj8qDijSCS5FhPchpf) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Naveen](https://open.spotify.com/artist/4xbLzGsR7W5QMlLS08BNGt) | [Pokkiri \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/060sSIBZ3ceTaejDGdo5gw) | 4:34 | 2021-06-21 | 2024-04-13 |
 | [Aadungada Yennai Suththi](https://open.spotify.com/track/0v0sc7X3j3q5SzWdHpN6gm) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Naveen](https://open.spotify.com/artist/4xbLzGsR7W5QMlLS08BNGt) | [Pokkiri \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11ZJkHsCMNTIzXb0HRJNgx) | 4:34 | 2021-06-21 | 2023-05-14 |
 | [Aadungada Yennai Suththi](https://open.spotify.com/track/67JZd9ZSREOaeVK6rGmCpd) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Naveen](https://open.spotify.com/artist/4xbLzGsR7W5QMlLS08BNGt) | [Pokkiri \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ryuOvNWuncA2R6BjlTwye) | 4:34 | 2023-07-06 | 2024-01-12 |
 | [Aalaporaan Thamizhan](https://open.spotify.com/track/1CjXSN6vgWmniOCEycVFdN) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Pooja AV](https://open.spotify.com/artist/1Ju3SIITQWtyT3SOnONE40) | [Mersal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0MDh58cA1cxQVOK5G7o2J5) | 5:48 | 2021-06-21 |  |

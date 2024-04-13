@@ -4,7 +4,7 @@
 
 > 【セットリスト公開中！】2024年1月27日・28日、日本武道館にて開催！The official playlist of "LisAni! LIVE 2024
 
-546 songs - 1 day 15 hr 18 min
+547 songs - 1 day 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [FOREVER LOVE](https://open.spotify.com/track/6nb0OhEI4AeCsPCrpquydA) | [X JAPAN](https://open.spotify.com/artist/4VrqQQy6X0hlMtqY5gp6Wx) | [Forever Love](https://open.spotify.com/album/0ifbV7WWgPrqCOy5NMqJpx) | 8:43 | 2022-12-07 | 2023-01-12 |
 | [from the edge](https://open.spotify.com/track/1acwOlcOCrr0AxdyMS8fEm) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [from the edge](https://open.spotify.com/album/6Momtl3Eyp2g40MQU0r0I8) | 4:38 | 2024-01-27 |  |
 | [frozen eyez](https://open.spotify.com/track/5JmkXY4tdcONIdXI1NDNjY) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 5:14 | 2022-06-07 | 2022-06-23 |
+| [GA\-TAN GO\-TON](https://open.spotify.com/track/4QXuB74odjuBPkvcyarFUW) | [中島怜](https://open.spotify.com/artist/7pQmC6NNs7KvWfrYKmqPbo) | [GA\-TAN GO\-TON](https://open.spotify.com/album/0r2X927CHzHzyCLojLAxg8) | 4:21 | 2024-04-12 |  |
 | [GATE \- Soreha akatsukinoyouni](https://open.spotify.com/track/1skcbqJjFPWnXrwpSUgXmO) | [KISIDA KYODAN & THE AKEBOSI ROCKETS](https://open.spotify.com/artist/1zPnpAM7fGFr7pl8OSNvak) | [GATE \- Soreha akatsukinoyouni](https://open.spotify.com/album/5nGDV3rpVKSzNJhMrhdpDT) | 3:47 | 2023-01-28 | 2023-07-12 |
 | [Get No Satisfaction!](https://open.spotify.com/track/5QKuGPgCM0jFdYRm0yM19o) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 4:10 | 2023-06-21 | 2024-01-24 |
 | [Get Wild](https://open.spotify.com/track/5boa5pUNMOHjpXuKyIGcXj) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [GIFT FOR FANKS](https://open.spotify.com/album/3dZ7KYZ3Kj55ZQA5efiBvK) | 4:00 | 2023-10-11 | 2024-01-24 |

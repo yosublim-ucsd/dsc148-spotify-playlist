@@ -1,5 +1,5 @@
 {
-  "2024-04-12": 196883,
+  "2024-04-13": 196908,
   "date_first_scraped": "2023-03-18",
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
   "name": "This Is Bethel Music",
@@ -25,6 +25,32 @@
       "duration_ms": 336932,
       "name": "All Hail King Jesus - Live",
       "url": "https://open.spotify.com/track/0Aa9storemJMkPbFnLH8jE"
+    },
+    {
+      "album": {
+        "name": "Moments: Wait (Live)",
+        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Peter Mattis",
+          "url": "https://open.spotify.com/artist/0msEBjWEqERNOm1Vi3QFsC"
+        },
+        {
+          "name": "Sarah Sperber",
+          "url": "https://open.spotify.com/artist/0sA77vgBi4A9x9TJBPhdEn"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354526,
+      "name": "Alpha And Omega (Live)",
+      "url": "https://open.spotify.com/track/3ftk8bFLnW9czTMYV47TP6"
     },
     {
       "album": {
@@ -109,7 +135,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-12",
       "duration_ms": 318120,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/7IKax3Xr0hNeWj3jqlQtCl"

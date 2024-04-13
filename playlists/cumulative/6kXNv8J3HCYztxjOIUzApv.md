@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-260 songs - 16 hr 24 min
+261 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [House of Cards](https://open.spotify.com/track/5Ly7Vc6VnlyN2xogyFMGiE) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Dear Monsters](https://open.spotify.com/album/4yXFKYXTfZ92kX1ucyIh1o) | 4:19 | 2021-10-29 | 2023-01-04 |
 | [House Of Straw](https://open.spotify.com/track/0s3ejGiMmzrVoK6zKhHDfA) | [Bury Your Dead](https://open.spotify.com/artist/2cGTjGiqVo9E2NQIz3lP9D) | [Beauty And The Breakdown](https://open.spotify.com/album/4mDtEEumv69lfTqwDwbM8D) | 4:02 | 2022-03-08 | 2023-01-05 |
 | [House On Fire](https://open.spotify.com/track/6EaGa19IlwQoB28FXba3GU) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [House On Fire](https://open.spotify.com/album/4ZsxV8LXCcGnIszpQn82pV) | 3:14 | 2021-08-20 |  |
+| [HOUSE ON SAND \(feat\. Eric V\. of I Prevail\)](https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Eric Vanlerberghe](https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [HOUSE ON SAND \(feat\. Eric V\. of I Prevail\)](https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu) | 4:23 | 2024-04-12 |  |
 | [Human](https://open.spotify.com/track/2Q7nzt6BXtuDdroqKOag3D) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [UNDEN!ABLE](https://open.spotify.com/album/5H9cH0ZFEwiJQFPCXiXzxd) | 3:33 | 2021-08-20 |  |
 | [Hurricane](https://open.spotify.com/track/76wqTlNmkXvi4pillNUDry) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [Hurricane](https://open.spotify.com/album/2hBth24kLXLHhfYrjVNZFH) | 4:14 | 2023-01-03 | 2024-04-10 |
 | [I Am Hated](https://open.spotify.com/track/1hrDDgkVbbS5bySL8uHLh3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 2:37 | 2022-07-25 | 2023-01-04 |

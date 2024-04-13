@@ -1,12 +1,12 @@
 {
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
-  "num_followers": 242671,
+  "num_followers": 242729,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDNjMWY4YmE2ZDBhN2Y1YWFkMDY1NDM1MDEyMDkyYjBi",
+  "snapshot_id": "MTcxMjc5MzYwMCwwMDAwMDAwMGFkYjU4OTlhZGFlZmU3NTI5YjJiYzE5MjE4MDQ4ZmNl",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Century Child",
-        "url": "https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 282933,
-      "name": "Ever Dream",
-      "url": "https://open.spotify.com/track/375WKKRNkbtqzTl50lQZuD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sound of Nightwish Reborn",
         "url": "https://open.spotify.com/album/4A8TYBcOB8B2lIOlpU4k30"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 258977,
       "name": "While Your Lips Are Still Red - Theme from the Movie \"Lieksa!\"",
       "url": "https://open.spotify.com/track/3r3KRYYOFjNGD4OJB5ddam"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Century Child",
+        "url": "https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 282933,
+      "name": "Ever Dream",
+      "url": "https://open.spotify.com/track/375WKKRNkbtqzTl50lQZuD"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanborn",
-        "url": "https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q"
+        "name": "HUMAN. :II: NATURE.",
+        "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 322000,
-      "name": "Gethsemane",
-      "url": "https://open.spotify.com/track/2j2lmbnQgk2khkf4TDWdBp"
+      "duration_ms": 313934,
+      "name": "Harvest",
+      "url": "https://open.spotify.com/track/06h4HxzQkqx45lCRxDe4lA"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HUMAN. :II: NATURE.",
-        "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
+        "name": "Oceanborn",
+        "url": "https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 313934,
-      "name": "Harvest",
-      "url": "https://open.spotify.com/track/06h4HxzQkqx45lCRxDe4lA"
+      "duration_ms": 322000,
+      "name": "Gethsemane",
+      "url": "https://open.spotify.com/track/2j2lmbnQgk2khkf4TDWdBp"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanborn",
-        "url": "https://open.spotify.com/album/5Ox45OAhKONmMKMrJSEsLp"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 211306,
-      "name": "Moondance",
-      "url": "https://open.spotify.com/track/1IzlSeZQE4PwIPSaUsv0AV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "End of an Era (Live)",
         "url": "https://open.spotify.com/album/0vAgv1fFn8zW2hbpWJfgPX"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 414537,
       "name": "High Hopes - Live",
       "url": "https://open.spotify.com/track/7LUYlbzPVix2varjKXAk6z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oceanborn",
+        "url": "https://open.spotify.com/album/5Ox45OAhKONmMKMrJSEsLp"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 211306,
+      "name": "Moondance",
+      "url": "https://open.spotify.com/track/1IzlSeZQE4PwIPSaUsv0AV"
     },
     {
       "added_at": null,

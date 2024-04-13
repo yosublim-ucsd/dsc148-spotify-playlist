@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3trfBa7jeme9hRFIwOhAMM.md) - [plain]
 
 > bringing you all things house!! follow me on tour <a href="http://www.instagram.com/curbi">here</a> and don't forget to <a href="https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT">follow my artist profile</a>..
 
-[Curbi](https://open.spotify.com/user/curbimusic) - 4,219 likes - 40 songs - 2 hr 7 min
+[Curbi](https://open.spotify.com/user/curbimusic) - 4,221 likes - 44 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,5 +48,9 @@ pretty - [cumulative](/playlists/cumulative/3trfBa7jeme9hRFIwOhAMM.md) - [plain]
 | 38 | [Safari](https://open.spotify.com/track/25wmVH3ytIFnKBDSFUIdxu) | [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7) | [Safari](https://open.spotify.com/album/6vpMnQ5iOvdTH6oJqKo3aI) | 2:24 |
 | 39 | [Make Amends \(feat\. Kyan Palmer\)](https://open.spotify.com/track/4Ocr8ezgeulwYhg3aZIqDL) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Kyan Palmer](https://open.spotify.com/artist/3W5hlKkJKXp7xY7R7IYfxp) | [Make Amends \(feat\. Kyan Palmer\)](https://open.spotify.com/album/0tNgfFcdLPQhzfgE6kI3u4) | 2:40 |
 | 40 | [Once Again](https://open.spotify.com/track/1xlflYpC5NkXEHkWLUCzor) | [Noola](https://open.spotify.com/artist/5K7fwqqwElpjvTGk9rBetG) | [Once Again](https://open.spotify.com/album/2nGbUA5qJOroJrDDpHvtxz) | 3:14 |
+| 41 | [Un Poquito Mas](https://open.spotify.com/track/4SvvCSDxgjhtqZfXHZT8sc) | [Alure](https://open.spotify.com/artist/2at01aWUeF5RX0bm7M7LjP), [Diegosan](https://open.spotify.com/artist/3bP2rzPSyVW4PHwKaEVv7x) | [Un Poquito Mas](https://open.spotify.com/album/49zJcHsL4QwhqFmcmbb0T8) | 2:43 |
+| 42 | [CASH](https://open.spotify.com/track/10Tg2LXtZG5yHyrYxM8dEk) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [CASH](https://open.spotify.com/album/5yPmLk3SMzOtbkHp9jnivj) | 3:15 |
+| 43 | [Ripped](https://open.spotify.com/track/4myFbg33jYjxnwVORNZVVK) | [BODYWORX](https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM) | [Ripped](https://open.spotify.com/album/4ja6Z1907VEhH6KqJUPxZ6) | 3:04 |
+| 44 | [I Can Feel It](https://open.spotify.com/track/7mfFf3S4PVwRwekLT6YiWe) | [Mat Frank](https://open.spotify.com/artist/40FuCqCj5Suu3gMsrVnlIQ) | [I Can Feel It](https://open.spotify.com/album/1vOAMDpExTt92TT00r2TWY) | 2:36 |
 
-Snapshot ID: `MTcwOCxkZGM1ODY1OWIwMmJkZjE1NjA3NDI0MzRkMmEwOGU1NWI1ZTNjMDYx`
+Snapshot ID: `MTcxMiw5NWU1ODdiMmU3OGIzMzg5MTc3OWYwYWJhNzBhZmRjMzc4MzM4OTIz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,831 likes - 140 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,823 likes - 140 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 41 | [Fairytale of New York](https://open.spotify.com/track/4fYUi0MSSzdX7Q696Fn81f) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Fairytale of New York](https://open.spotify.com/album/3m34lxhVHHZmCFVa9zsulA) | 3:59 |
 | 42 | [Lonely on Christmas](https://open.spotify.com/track/5PfYhLWG9tiLdcr4oPE9XH) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC), [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [Lonely on Christmas](https://open.spotify.com/album/3oG3oJqYCWBFeuBznwd4ft) | 3:09 |
 | 43 | [Winter Wonderland](https://open.spotify.com/track/6zC0LT2m43A8J23VN83TKv) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [Winter Wonderland](https://open.spotify.com/album/0luikuvuNw0YQcgkKgyFx5) | 3:00 |
-| 44 | [Holly, Carol, Candy & Joy](https://open.spotify.com/track/18TLOVCvfFtATfullogZ3o) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [SOCKS](https://open.spotify.com/album/4UGQkij93Qsa1S70YgHlRS) | 3:24 |
+| 44 | [Holly, Carol, Candy & Joy](https://open.spotify.com/track/1HVlD5mnTMgtNuwhzMmmPY) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [SOCKS](https://open.spotify.com/album/6GFdPihjWOAE7OsauYu5uC) | 3:24 |
 | 45 | [More Than Christmas](https://open.spotify.com/track/2AUHUlz3WsgArd1uZ4bHEj) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [More Than Christmas](https://open.spotify.com/album/4EUqxpsyCxWbhimLELMNJ6) | 3:33 |
 | 46 | [Andalucia](https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:32 |
 | 47 | [Xmas Time Is Here Again](https://open.spotify.com/track/3gOBpfbPS1HFRakgZBHICu) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [Does Xmas Fiasco Style](https://open.spotify.com/album/2Eu5r9MvxBqAmjdVXqMjVF) | 6:15 |
@@ -137,7 +137,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 127 | [Hear The Bells](https://open.spotify.com/track/3k5p67GV65hMAILu99WT0w) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Hear The Bells](https://open.spotify.com/album/4dbG2curXKnkFG8XYEj9eY) | 4:02 |
 | 128 | [Let It Snow](https://open.spotify.com/track/3A2vfzsiivUcoe4tMLV4Yi) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [The Christmas EP](https://open.spotify.com/album/7yjyuhHmTnwnqIMGYzWU1F) | 2:09 |
 | 129 | [What Child Is This? \(Greensleeves\)](https://open.spotify.com/track/46ZoqYCe0mIpFOkTi1Kxf6) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Holiday Soundtrack \- EP](https://open.spotify.com/album/3oXeuPO6xLXQvCWSw48aL2) | 2:54 |
-| 130 | [Falalalalove Ya](https://open.spotify.com/track/1lqznumZx7Y6vIgs5jLdhb) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [An Americana Christmas](https://open.spotify.com/album/4NY0IG8jp9b4e8Ni4rpDRc) | 3:25 |
+| 130 | [Falalalalove Ya](https://open.spotify.com/track/6X3i7K9jrgguwROjV4hYow) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [An Americana Christmas](https://open.spotify.com/album/7LtEjak2slZsNQxBe3lPNg) | 3:25 |
 | 131 | [The First Noel \- 2004 Remaster](https://open.spotify.com/track/0HoBChp8kED3vN81I5wA5l) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Light of the Stable \(Expanded & Remastered\)](https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz) | 2:41 |
 | 132 | [All Is Grace](https://open.spotify.com/track/7n8i5Srn6mjSZQhVHpUrJq) | [Gerard and the Watchmen](https://open.spotify.com/artist/1Zx6dcD3aCON2ch3IgVYNC) | [Wooden Castles](https://open.spotify.com/album/1ZfTOI23jmRq3CaJ8dtfhi) | 1:50 |
 | 133 | [Lumberjack Christmas / No One Can Save You From Christmases Past](https://open.spotify.com/track/2vEjiN6bOtscmP8MB19dWe) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Silver & Gold](https://open.spotify.com/album/44F2QKfMCpbLH8qvQLEVTw) | 3:22 |

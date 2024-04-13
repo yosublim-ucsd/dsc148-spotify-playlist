@@ -1,13 +1,49 @@
 {
-  "description": "The baddest and most influential women in music [Ex. <a href=\"https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m\">Beyonc\u00e9</a>] ",
-  "num_followers": 337977,
+  "description": "The baddest and most influential women in music [Ex. <a href=\"https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m\">Beyonc\u00e9</a>] Cover: Chl\u00f6e",
+  "num_followers": 337971,
   "original_name": "Influence \ud83d\udc85 Hot Girl Era 2024",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "MzY2MSw2YTk2ZTllZjBjOTE2MDc4OTVjZDEzNDRkNjhmODk4M2UyYjFlNGVm",
+  "snapshot_id": "MzY2OSwwZmJmMTJkNGQzODEzOWEzYmQyODcwMTFkYmE3OTQ4NzcyZWJkMjZh",
   "tracks": [
+    {
+      "added_at": "2024-04-12 13:41:38",
+      "album": {
+        "name": "Boy Bye",
+        "url": "https://open.spotify.com/album/5Z3LNuIi0IWLJCnIn4OkdG"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 205500,
+      "name": "Boy Bye",
+      "url": "https://open.spotify.com/track/4vZqE8iZ1wYFqlmeOB72nh"
+    },
+    {
+      "added_at": "2024-04-12 14:06:41",
+      "album": {
+        "name": "MERCEDES (feat. Oscar Maydon)",
+        "url": "https://open.spotify.com/album/4lHX02NbEG7B7f7LHfcAUg"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 168360,
+      "name": "MERCEDES (feat. Oscar Maydon)",
+      "url": "https://open.spotify.com/track/0pkiYzXyU58nKV74xsAuwW"
+    },
     {
       "added_at": "2024-03-29 04:06:28",
       "album": {
@@ -121,6 +157,22 @@
       "url": "https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL"
     },
     {
+      "added_at": "2024-04-12 14:07:18",
+      "album": {
+        "name": "Mean It",
+        "url": "https://open.spotify.com/album/7wYjfl9torFVBrC0mBj2Df"
+      },
+      "artists": [
+        {
+          "name": "Maiya The Don",
+          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
+        }
+      ],
+      "duration_ms": 127067,
+      "name": "Mean It",
+      "url": "https://open.spotify.com/track/6kUox66bFBm4wtJKTMqJOy"
+    },
+    {
       "added_at": "2024-03-22 14:22:43",
       "album": {
         "name": "Las Mujeres Ya No Lloran",
@@ -139,6 +191,42 @@
       "duration_ms": 181666,
       "name": "Punter\u00eda",
       "url": "https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc"
+    },
+    {
+      "added_at": "2024-04-12 14:07:25",
+      "album": {
+        "name": "Malandra",
+        "url": "https://open.spotify.com/album/0FS4LOkSdeNxCClujSoinh"
+      },
+      "artists": [
+        {
+          "name": "Barbara Doza",
+          "url": "https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0"
+        },
+        {
+          "name": "ALOISIO",
+          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
+        }
+      ],
+      "duration_ms": 169173,
+      "name": "Normale (feat. ALOISIO)",
+      "url": "https://open.spotify.com/track/1yW6etYs3ZRVxRE3aYp8rd"
+    },
+    {
+      "added_at": "2024-04-12 14:06:50",
+      "album": {
+        "name": "Drop By When You Drop Dead",
+        "url": "https://open.spotify.com/album/2BfdNvE24Y7JV3yWQLvDA5"
+      },
+      "artists": [
+        {
+          "name": "Bu Cuaron",
+          "url": "https://open.spotify.com/artist/436VIztZC1jpD8Pzo5rvUj"
+        }
+      ],
+      "duration_ms": 165193,
+      "name": "Sweet Face",
+      "url": "https://open.spotify.com/track/4pxPWlC8K2hh5M6rihqpZX"
     },
     {
       "added_at": "2024-03-22 14:21:58",

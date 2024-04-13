@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-1,102 songs - 2 day 9 hr 54 min
+1,104 songs - 2 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [Ganxsta Zolee Tehet Mindenről](https://open.spotify.com/track/3slZDC1KYm6oV6KMr2BuXw) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E) | [III\. Krúbi](https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq) | 5:04 | 2023-11-18 | 2023-12-11 |
 | [Ganxsta Zolee Tehet Mindenről](https://open.spotify.com/track/7uVfJBixz1VViRCizlpr8L) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E) | [Ganxsta Zolee Tehet Mindenről](https://open.spotify.com/album/0SrCxMpHSTvng01kKn0JHm) | 5:04 | 2023-11-04 | 2023-11-19 |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-13 |
+| [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-04-12 |  |
 | [Gengetek ellen](https://open.spotify.com/track/3mfSO4e6l0mlsjcNpqrktC) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Gengetek ellen](https://open.spotify.com/album/1sNJvYsvXA0QAkfb1DfrHY) | 2:49 | 2024-01-06 | 2024-02-04 |
 | [Gengetek ellen](https://open.spotify.com/track/4Q6pUe0KTMlqRoxJpXCytk) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Vagy Mindent Vagy Semmit](https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH) | 2:49 | 2024-02-03 |  |
 | [Gettó csirke](https://open.spotify.com/track/1PLekMr5mC9sf0n37TWv5G) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Gettó csirke](https://open.spotify.com/album/5uijWBrQElsbRaG2kOJxM4) | 2:16 | 2022-07-26 | 2023-07-27 |
@@ -541,7 +542,7 @@
 | [Legnagyobb Rapper / Lamborghini Álmok](https://open.spotify.com/track/6S1K0f5Pn3a2b4u4HS7z27) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [Idegen](https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv) | 4:08 | 2023-02-03 | 2023-03-03 |
 | [Lej](https://open.spotify.com/track/3sUOONjFxjepoSXvKYrz5E) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Lil Frakk](https://open.spotify.com/artist/0CJxR2iBZb64SRwApcj2Ev) | [Fotofóbia](https://open.spotify.com/album/3lKnPe0akux4j2uthibT7i) | 2:48 | 2021-03-27\* | 2023-09-27 |
 | [Lemonade \(feat\. Gunna, Don Toliver & NAV\)](https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [B4 The Storm](https://open.spotify.com/album/2vGU0DOcfsDee0euvhl1iZ) | 3:15 | 2021-03-27\* | 2021-07-16 |
-| [Les Duele](https://open.spotify.com/track/0JC2yPGYZsO9zR9Bss3Hi8) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Les Duele](https://open.spotify.com/album/0Qtxd7EBtXTeMmVB1J4NUV) | 3:19 | 2024-04-09 |  |
+| [Les Duele](https://open.spotify.com/track/0JC2yPGYZsO9zR9Bss3Hi8) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Les Duele](https://open.spotify.com/album/0Qtxd7EBtXTeMmVB1J4NUV) | 3:19 | 2024-04-09 | 2024-04-13 |
 | [Leszarom](https://open.spotify.com/track/1MKDxkCJRBcixRn4XRfFXP) | [ALEE](https://open.spotify.com/artist/0HtJHszzuucFjA33hHBJrT) | [Leszarom](https://open.spotify.com/album/3g7XaPk4wlm011e95ukH7w) | 2:34 | 2022-04-02 | 2022-04-08 |
 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 | 2022-12-17 | 2023-02-04 |
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 | 2021-11-30 | 2023-12-30 |
@@ -831,7 +832,7 @@
 | [Sajnálom](https://open.spotify.com/track/2reQMkt56XBVbYl91tX5C8) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Idegen](https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv) | 2:32 | 2023-02-04 | 2023-02-12 |
 | [Sajnálom](https://open.spotify.com/track/5FPk6JYK0tYzEWtqYgUvrA) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Idegen, Vol\. 1.](https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk) | 2:32 | 2022-06-07 | 2023-02-05 |
 | [Salsa](https://open.spotify.com/track/2Pamnme5Gt63lWm2O5mhFI) | [ALEE](https://open.spotify.com/artist/0HtJHszzuucFjA33hHBJrT) | [Salsa](https://open.spotify.com/album/5LK37WntoowGRf97jDheDb) | 2:10 | 2021-12-10 | 2021-12-17 |
-| [SANDELA](https://open.spotify.com/track/28VVWdNsM6l05eOiJfth5X) | [HENN](https://open.spotify.com/artist/7MiVTMPyOXp6jr9H3mFHBb) | [SANDELA](https://open.spotify.com/album/1cTrT1grHhUdGnZOMYg1TR) | 2:57 | 2024-03-15 |  |
+| [SANDELA](https://open.spotify.com/track/28VVWdNsM6l05eOiJfth5X) | [HENN](https://open.spotify.com/artist/7MiVTMPyOXp6jr9H3mFHBb) | [SANDELA](https://open.spotify.com/album/1cTrT1grHhUdGnZOMYg1TR) | 2:57 | 2024-03-15 | 2024-04-13 |
 | [Santa Baby](https://open.spotify.com/track/2SBr3MK1sdMs8IxdRcN6qz) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas](https://open.spotify.com/album/0XRlr1kD7uPfLb0RxQKt6W) | 3:21 | 2021-12-24 | 2021-12-27 |
 | [Santa Baby \(with Henri René & His Orchestra\)](https://open.spotify.com/track/1foCxQtxBweJtZmdxhEHVO) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC), [Henri René and His Orchestra](https://open.spotify.com/artist/0oK8UXKZbQezeRhE0KeBAV) | [Heavenly Eartha](https://open.spotify.com/album/6gOVmmV26wBBgxUtbF8YZd) | 3:26 | 2023-12-25 | 2023-12-27 |
 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/5Ber68jZ7ytegr2UISEdb7) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 2:51 | 2021-12-07 | 2022-12-27 |
@@ -958,6 +959,7 @@
 | [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-10 | 2022-05-13 |
 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 | 2022-10-09 | 2022-10-23 |
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2021-11-07 | 2023-01-03 |
+| [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc) | 3:05 | 2024-04-12 |  |
 | [Theme song](https://open.spotify.com/track/0x1QaeA03bvi0NYutEKxWt) | [Mirror Glimpse](https://open.spotify.com/artist/6ugNgaIlOKz7Sy8wlEQDif) | [Legendás Ribancok Nyomában](https://open.spotify.com/album/0OM7ZtnoaSSI5vBIgVqwLT) | 1:52 | 2021-03-29 | 2021-03-30 |
 | [This Christmas](https://open.spotify.com/track/7MSYSOobsombc1mbDWFxtD) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Donny Hathaway](https://open.spotify.com/album/4yzozr59813IAXnxhWUl7i) | 3:51 | 2023-12-25 | 2023-12-27 |
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-04-23 | 2022-05-07 |

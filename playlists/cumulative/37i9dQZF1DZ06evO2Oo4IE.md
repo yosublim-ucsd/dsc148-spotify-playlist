@@ -2,7 +2,7 @@
 
 ### [This Is Janis Joplin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Oo4IE)
 
-> This is Janis Joplin\. The essential tracks, all in one playlist.
+> This is Janis Joplin\. Todos os maiores hits em uma só playlist.
 
 61 songs - 3 hr 37 min
 
@@ -35,7 +35,7 @@
 | [Hesitation Blues](https://open.spotify.com/track/58k1qXar0SYC8yb6nHAxsX) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF) | 3:57 | 2023-11-10 |  |
 | [I Know You Rider](https://open.spotify.com/track/6GDpRUjZ4v6pQ4jK121ePG) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Know You Rider](https://open.spotify.com/album/2hOmBtJar9W2AQnENrBcLx) | 3:13 | 2023-07-22 |  |
 | [I Need a Man to Love](https://open.spotify.com/track/5Z27tZEeC8WBiQvoDpx1Sw) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 4:53 | 2023-07-22 |  |
-| [Instrumental \- Live 1969](https://open.spotify.com/track/6lTVCKo2uvXxzH8GLXnda3) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [One From The Heart \(Live 1969\)](https://open.spotify.com/album/6xJfgr3GTYls4N3ZDzQepN) | 5:09 | 2023-07-22 |  |
+| [Instrumental \- Live 1969](https://open.spotify.com/track/6lTVCKo2uvXxzH8GLXnda3) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [One From The Heart \(Live 1969\)](https://open.spotify.com/album/6xJfgr3GTYls4N3ZDzQepN) | 5:09 | 2023-07-22 | 2024-04-13 |
 | [Kansas City Blues](https://open.spotify.com/track/492UHTIK1lBpdLMS2sXFDa) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/3bwBg7pwlW2NXhg7Sucdz9) | 3:22 | 2023-07-22 | 2023-11-11 |
 | [Kozmic Blues](https://open.spotify.com/track/7eYYxblNEZKKeTT0HBQbXO) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Got Dem Ol' Kozmic Blues Again Mama!](https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A) | 4:21 | 2023-07-22 |  |
 | [Little Girl Blue](https://open.spotify.com/track/6tv6EVWMV7AIWi8PhZ0uvO) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Got Dem Ol' Kozmic Blues Again Mama!](https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A) | 3:48 | 2023-07-22 |  |
